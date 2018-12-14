@@ -2,7 +2,7 @@
 LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
-| - | - | - | :-: |
+| :-: | - | - | :-: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Golang](solution/two-sum) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Golang](solution/add-two-numbers) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Golang](solution/longest-substring-without-repeating-characters) | Medium |
