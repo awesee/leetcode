@@ -1,4 +1,5 @@
-# LeetCode
+# [LeetCode](https://openset.github.io/leetcode)
+
 LeetCode Problems' Solutions
 
 [![Build Status](https://travis-ci.org/openset/leetcode.svg?branch=master)](https://travis-ci.org/openset/leetcode)
