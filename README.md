@@ -1,6 +1,12 @@
 # LeetCode
 LeetCode Problems' Solutions
 
+[![Build Status](https://travis-ci.org/openset/leetcode.svg?branch=master)](https://travis-ci.org/openset/leetcode)
+[![Go Report Card](https://goreportcard.com/badge/github.com/openset/leetcode)](https://goreportcard.com/report/github.com/openset/leetcode)
+[![GitHub contributors](https://img.shields.io/github/contributors/openset/leetcode.svg)](https://github.com/openset/leetcode/graphs/contributors)
+[![license](https://img.shields.io/github/license/openset/leetcode.svg)](https://github.com/openset/leetcode/blob/master/LICENSE)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/openset/leetcode.svg?colorB=green)](https://github.com/openset/leetcode/archive/master.zip)
+
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Golang](solution/two-sum) | Easy |
