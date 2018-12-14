@@ -52,7 +52,7 @@ LeetCode Problems' Solutions
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [Golang](solution/permutations-ii) | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [Golang](solution/rotate-image) | Medium |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Golang](solution/group-anagrams) | Medium |
-| Pow(x | [n)](https://leetcode.com/problems/n)) | [Golang](solution/n)) | Medium |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Golang](solution/powx-n) | Medium |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens) | [Golang](solution/n-queens) | Hard |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [Golang](solution/n-queens-ii) | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Golang](solution/maximum-subarray) | Easy |
