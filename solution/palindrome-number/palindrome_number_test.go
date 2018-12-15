@@ -4,9 +4,14 @@ import "testing"
 
 func TestIsPalindrome(t *testing.T) {
 	tests := map[int]bool{
-		121:  true,
-		-121: false,
-		10:   false,
+		0:      true,
+		121:    true,
+		12321:  true,
+		123321: true,
+		-121:   false,
+		10:     false,
+		100:    false,
+		12345:  false,
 	}
 
 	for input, expected := range tests {
