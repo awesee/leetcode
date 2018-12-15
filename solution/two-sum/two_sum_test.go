@@ -5,38 +5,38 @@ import (
 )
 
 type caseType struct {
-	Nums     []int
-	Target   int
-	Expected []int
+	nums     []int
+	target   int
+	expected []int
 }
 
 func TestTwoSum(t *testing.T) {
 	tests := [...]caseType{
 		{
-			Nums:     []int{2, 7, 11, 15},
-			Target:   9,
-			Expected: []int{0, 1},
+			nums:     []int{2, 7, 11, 15},
+			target:   9,
+			expected: []int{0, 1},
 		},
 		{
-			Nums:     []int{2, 7, 11, 15},
-			Target:   10,
-			Expected: nil,
+			nums:     []int{2, 7, 11, 15},
+			target:   10,
+			expected: nil,
 		},
 		{
-			Nums:     []int{1, 2, 3, 4},
-			Target:   5,
-			Expected: []int{1, 2},
+			nums:     []int{1, 2, 3, 4},
+			target:   5,
+			expected: []int{1, 2},
 		},
 	}
 
 	for _, test := range tests {
-		output := twoSum(test.Nums, test.Target)
-		if len(output) != len(test.Expected) {
-			t.Fatalf("Input: %v, Output: %v, Expected: %v", test.Nums, output, test.Expected)
+		output := twoSum(test.nums, test.target)
+		if len(output) != len(test.expected) {
+			t.Fatalf("input: %v, output: %v, expected: %v", test.nums, output, test.expected)
 		}
-		for k, v := range test.Expected {
+		for k, v := range test.expected {
 			if output[k] != v {
-				t.Fatalf("Input: %v, Output: %v, Expected: %v", test.Nums, output, test.Expected)
+				t.Fatalf("input: %v, output: %v, expected: %v", test.nums, output, test.expected)
 			}
 		}
 	}

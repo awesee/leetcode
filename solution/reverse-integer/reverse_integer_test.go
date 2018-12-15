@@ -17,7 +17,7 @@ func TestReverse(t *testing.T) {
 	for input, expected := range tests {
 		output := reverse(input)
 		if output != expected {
-			t.Fatalf("Input: %v, Output: %v, Expected: %v", input, output, expected)
+			t.Fatalf("input: %v, output: %v, expected: %v", input, output, expected)
 		}
 	}
 }

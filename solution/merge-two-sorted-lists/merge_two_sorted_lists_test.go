@@ -5,45 +5,45 @@ import (
 )
 
 type caseType struct {
-	L1       []int
-	L2       []int
-	Expected []int
+	l1       []int
+	l2       []int
+	expected []int
 }
 
 func TestMergeTwoLists(t *testing.T) {
 	tests := [...]caseType{
 		{
-			L1:       []int{1, 2, 4},
-			L2:       []int{1, 3, 4},
-			Expected: []int{1, 1, 2, 3, 4, 4},
+			l1:       []int{1, 2, 4},
+			l2:       []int{1, 3, 4},
+			expected: []int{1, 1, 2, 3, 4, 4},
 		},
 		{
-			L1:       nil,
-			L2:       nil,
-			Expected: nil,
+			l1:       nil,
+			l2:       nil,
+			expected: nil,
 		},
 		{
-			L1:       nil,
-			L2:       []int{1, 2, 3},
-			Expected: []int{1, 2, 3},
+			l1:       nil,
+			l2:       []int{1, 2, 3},
+			expected: []int{1, 2, 3},
 		},
 		{
-			L1:       []int{1, 2, 3},
-			L2:       []int{1, 2, 3},
-			Expected: []int{1, 1, 2, 2, 3, 3},
+			l1:       []int{1, 2, 3},
+			l2:       []int{1, 2, 3},
+			expected: []int{1, 1, 2, 2, 3, 3},
 		},
 	}
 
 	for _, test := range tests {
-		l1 := s2l(test.L1)
-		l2 := s2l(test.L2)
+		l1 := s2l(test.l1)
+		l2 := s2l(test.l2)
 		output := l2s(mergeTwoLists(l1, l2))
-		if len(output) != len(test.Expected) {
-			t.Fatalf("Input: %v %v, Output: %v, Expected: %v", test.L1, test.L2, output, test.Expected)
+		if len(output) != len(test.expected) {
+			t.Fatalf("input: %v %v, output: %v, expected: %v", test.l1, test.l2, output, test.expected)
 		}
-		for k, v := range test.Expected {
+		for k, v := range test.expected {
 			if output[k] != v {
-				t.Fatalf("Input: %v %v, Output: %v, Expected: %v", test.L1, test.L2, output, test.Expected)
+				t.Fatalf("input: %v %v, output: %v, expected: %v", test.l1, test.l2, output, test.expected)
 			}
 		}
 	}
