@@ -1,9 +1,10 @@
 package string_to_integer_atoi
 
 import (
+	"math"
+	"strconv"
 	"strings"
 	"unicode"
-	"strconv"
 )
 
 func myAtoi(str string) int {
@@ -20,10 +21,10 @@ func myAtoi(str string) int {
 		str = str[0:i]
 	}
 	r, _ := strconv.Atoi(prefix + str)
-	if r < -1<<31 {
-		r = -1 << 31
-	} else if r > 1<<31-1 {
-		r = 1<<31 - 1
+	if r < math.MinInt32 {
+		r = math.MinInt32
+	} else if r > math.MaxInt32 {
+		r = math.MaxInt32
 	}
 	return r
 }
