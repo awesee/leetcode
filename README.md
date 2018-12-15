@@ -17,7 +17,7 @@ LeetCode Problems' Solutions
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Go](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-substring) | Medium |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [Go](https://github.com/openset/leetcode/tree/master/solution/zigzag-conversion) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Go](https://github.com/openset/leetcode/tree/master/solution/reverse-integer) | Easy |
-| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-(atoi)) | [Go](https://github.com/openset/leetcode/tree/master/solution/string-to-integer-(atoi)) | Medium |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [Go](https://github.com/openset/leetcode/tree/master/solution/string-to-integer-atoi) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Go](https://github.com/openset/leetcode/tree/master/solution/palindrome-number) | Easy |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Go](https://github.com/openset/leetcode/tree/master/solution/regular-expression-matching) | Hard |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Go](https://github.com/openset/leetcode/tree/master/solution/container-with-most-water) | Medium |
@@ -78,7 +78,7 @@ LeetCode Problems' Solutions
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Go](https://github.com/openset/leetcode/tree/master/solution/plus-one) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Go](https://github.com/openset/leetcode/tree/master/solution/add-binary) | Easy |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification) | [Go](https://github.com/openset/leetcode/tree/master/solution/text-justification) | Hard |
-| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrt(x)) | [Go](https://github.com/openset/leetcode/tree/master/solution/sqrt(x)) | Easy |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Go](https://github.com/openset/leetcode/tree/master/solution/sqrtx) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Go](https://github.com/openset/leetcode/tree/master/solution/climbing-stairs) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path) | [Go](https://github.com/openset/leetcode/tree/master/solution/simplify-path) | Medium |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance) | [Go](https://github.com/openset/leetcode/tree/master/solution/edit-distance) | Hard |
@@ -127,8 +127,8 @@ LeetCode Problems' Solutions
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) | [Go](https://github.com/openset/leetcode/tree/master/solution/distinct-subsequences) | Hard |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [Go](https://github.com/openset/leetcode/tree/master/solution/populating-next-right-pointers-in-each-node) | Medium |
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | [Go](https://github.com/openset/leetcode/tree/master/solution/populating-next-right-pointers-in-each-node-ii) | Medium |
-| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascal's-triangle) | [Go](https://github.com/openset/leetcode/tree/master/solution/pascal's-triangle) | Easy |
-| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascal's-triangle-ii) | [Go](https://github.com/openset/leetcode/tree/master/solution/pascal's-triangle-ii) | Easy |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Go](https://github.com/openset/leetcode/tree/master/solution/pascals-triangle) | Easy |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [Go](https://github.com/openset/leetcode/tree/master/solution/pascals-triangle-ii) | Easy |
 | 120 | [Triangle](https://leetcode.com/problems/triangle) | [Go](https://github.com/openset/leetcode/tree/master/solution/triangle) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Go](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [Go](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-ii) | Easy |
@@ -167,7 +167,7 @@ LeetCode Problems' Solutions
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack) | [Go](https://github.com/openset/leetcode/tree/master/solution/min-stack) | Easy |
 | 156 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down) | [Go](https://github.com/openset/leetcode/tree/master/solution/binary-tree-upside-down) | Medium |
 | 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4) | [Go](https://github.com/openset/leetcode/tree/master/solution/read-n-characters-given-read4) | Easy |
-| 158 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii---call-multiple-times) | [Go](https://github.com/openset/leetcode/tree/master/solution/read-n-characters-given-read4-ii---call-multiple-times) | Hard |
+| 158 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times) | [Go](https://github.com/openset/leetcode/tree/master/solution/read-n-characters-given-read4-ii-call-multiple-times) | Hard |
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) | [Go](https://github.com/openset/leetcode/tree/master/solution/longest-substring-with-at-most-two-distinct-characters) | Hard |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Go](https://github.com/openset/leetcode/tree/master/solution/intersection-of-two-linked-lists) | Easy |
 | 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance) | [Go](https://github.com/openset/leetcode/tree/master/solution/one-edit-distance) | Medium |
@@ -176,10 +176,10 @@ LeetCode Problems' Solutions
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap) | [Go](https://github.com/openset/leetcode/tree/master/solution/maximum-gap) | Hard |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) | [Go](https://github.com/openset/leetcode/tree/master/solution/compare-version-numbers) | Medium |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | [Go](https://github.com/openset/leetcode/tree/master/solution/fraction-to-recurring-decimal) | Medium |
-| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii---input-array-is-sorted) | [Go](https://github.com/openset/leetcode/tree/master/solution/two-sum-ii---input-array-is-sorted) | Easy |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Go](https://github.com/openset/leetcode/tree/master/solution/two-sum-ii-input-array-is-sorted) | Easy |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [Go](https://github.com/openset/leetcode/tree/master/solution/excel-sheet-column-title) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Go](https://github.com/openset/leetcode/tree/master/solution/majority-element) | Easy |
-| 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii---data-structure-design) | [Go](https://github.com/openset/leetcode/tree/master/solution/two-sum-iii---data-structure-design) | Easy |
+| 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) | [Go](https://github.com/openset/leetcode/tree/master/solution/two-sum-iii-data-structure-design) | Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [Go](https://github.com/openset/leetcode/tree/master/solution/excel-sheet-column-number) | Easy |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Go](https://github.com/openset/leetcode/tree/master/solution/factorial-trailing-zeroes) | Easy |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Go](https://github.com/openset/leetcode/tree/master/solution/binary-search-tree-iterator) | Medium |
@@ -217,10 +217,10 @@ LeetCode Problems' Solutions
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | [Go](https://github.com/openset/leetcode/tree/master/solution/isomorphic-strings) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Go](https://github.com/openset/leetcode/tree/master/solution/reverse-linked-list) | Easy |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [Go](https://github.com/openset/leetcode/tree/master/solution/course-schedule) | Medium |
-| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-(prefix-tree)) | [Go](https://github.com/openset/leetcode/tree/master/solution/implement-trie-(prefix-tree)) | Medium |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [Go](https://github.com/openset/leetcode/tree/master/solution/implement-trie-prefix-tree) | Medium |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [Go](https://github.com/openset/leetcode/tree/master/solution/minimum-size-subarray-sum) | Medium |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | [Go](https://github.com/openset/leetcode/tree/master/solution/course-schedule-ii) | Medium |
-| 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word---data-structure-design) | [Go](https://github.com/openset/leetcode/tree/master/solution/add-and-search-word---data-structure-design) | Medium |
+| 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design) | [Go](https://github.com/openset/leetcode/tree/master/solution/add-and-search-word-data-structure-design) | Medium |
 | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [Go](https://github.com/openset/leetcode/tree/master/solution/word-search-ii) | Hard |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii) | [Go](https://github.com/openset/leetcode/tree/master/solution/house-robber-ii) | Medium |
 | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) | [Go](https://github.com/openset/leetcode/tree/master/solution/shortest-palindrome) | Hard |
@@ -312,12 +312,12 @@ LeetCode Problems' Solutions
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [Go](https://github.com/openset/leetcode/tree/master/solution/longest-increasing-subsequence) | Medium |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | [Go](https://github.com/openset/leetcode/tree/master/solution/remove-invalid-parentheses) | Hard |
 | 302 | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels) | [Go](https://github.com/openset/leetcode/tree/master/solution/smallest-rectangle-enclosing-black-pixels) | Hard |
-| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query---immutable) | [Go](https://github.com/openset/leetcode/tree/master/solution/range-sum-query---immutable) | Easy |
-| 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d---immutable) | [Go](https://github.com/openset/leetcode/tree/master/solution/range-sum-query-2d---immutable) | Medium |
+| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | [Go](https://github.com/openset/leetcode/tree/master/solution/range-sum-query-immutable) | Easy |
+| 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable) | [Go](https://github.com/openset/leetcode/tree/master/solution/range-sum-query-2d-immutablee) | Medium |
 | 305 | [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii) | [Go](https://github.com/openset/leetcode/tree/master/solution/number-of-islands-ii) | Hard |
 | 306 | [Additive Number](https://leetcode.com/problems/additive-number) | [Go](https://github.com/openset/leetcode/tree/master/solution/additive-number) | Medium |
-| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query---mutable) | [Go](https://github.com/openset/leetcode/tree/master/solution/range-sum-query---mutable) | Medium |
-| 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d---mutable) | [Go](https://github.com/openset/leetcode/tree/master/solution/range-sum-query-2d---mutable) | Hard |
+| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable) | [Go](https://github.com/openset/leetcode/tree/master/solution/range-sum-query-mutable) | Medium |
+| 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable) | [Go](https://github.com/openset/leetcode/tree/master/solution/range-sum-query-2d-mutable) | Hard |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | [Go](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-with-cooldown) | Medium |
 | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) | [Go](https://github.com/openset/leetcode/tree/master/solution/minimum-height-trees) | Medium |
 | 311 | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication) | [Go](https://github.com/openset/leetcode/tree/master/solution/sparse-matrix-multiplication) | Medium |
@@ -389,8 +389,8 @@ LeetCode Problems' Solutions
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) | [Go](https://github.com/openset/leetcode/tree/master/solution/combination-sum-iv) | Medium |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [Go](https://github.com/openset/leetcode/tree/master/solution/kth-smallest-element-in-a-sorted-matrix) | Medium |
 | 379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory) | [Go](https://github.com/openset/leetcode/tree/master/solution/design-phone-directory) | Medium |
-| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o(1)) | [Go](https://github.com/openset/leetcode/tree/master/solution/insert-delete-getrandom-o(1)) | Medium |
-| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o(1)---duplicates-allowed) | [Go](https://github.com/openset/leetcode/tree/master/solution/insert-delete-getrandom-o(1)---duplicates-allowed) | Hard |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | [Go](https://github.com/openset/leetcode/tree/master/solution/insert-delete-getrandom-o1) | Medium |
+| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) | [Go](https://github.com/openset/leetcode/tree/master/solution/insert-delete-getrandom-o1-duplicates-allowed) | Hard |
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node) | [Go](https://github.com/openset/leetcode/tree/master/solution/linked-list-random-node) | Medium |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Go](https://github.com/openset/leetcode/tree/master/solution/ransom-note) | Easy |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) | [Go](https://github.com/openset/leetcode/tree/master/solution/shuffle-an-array) | Medium |
@@ -455,7 +455,7 @@ LeetCode Problems' Solutions
 | 443 | [String Compression](https://leetcode.com/problems/string-compression) | [Go](https://github.com/openset/leetcode/tree/master/solution/string-compression) | Easy |
 | 444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction) | [Go](https://github.com/openset/leetcode/tree/master/solution/sequence-reconstruction) | Medium |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [Go](https://github.com/openset/leetcode/tree/master/solution/add-two-numbers-ii) | Medium |
-| 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii---subsequence) | [Go](https://github.com/openset/leetcode/tree/master/solution/arithmetic-slices-ii---subsequence) | Hard |
+| 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence) | [Go](https://github.com/openset/leetcode/tree/master/solution/arithmetic-slices-ii-subsequence) | Hard |
 | 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | [Go](https://github.com/openset/leetcode/tree/master/solution/number-of-boomerangs) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [Go](https://github.com/openset/leetcode/tree/master/solution/find-all-numbers-disappeared-in-an-array) | Easy |
 | 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) | [Go](https://github.com/openset/leetcode/tree/master/solution/serialize-and-deserialize-bst) | Medium |
@@ -605,7 +605,7 @@ LeetCode Problems' Solutions
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | [Go](https://github.com/openset/leetcode/tree/master/solution/minimum-index-sum-of-two-lists) | Easy |
 | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones) | [Go](https://github.com/openset/leetcode/tree/master/solution/non-negative-integers-without-consecutive-ones) | Hard |
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium) | [Go](https://github.com/openset/leetcode/tree/master/solution/human-traffic-of-stadium) | Hard |
-| 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii:-who-has-the-most-friends) | [Go](https://github.com/openset/leetcode/tree/master/solution/friend-requests-ii:-who-has-the-most-friends) | Medium |
+| 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends) | [Go](https://github.com/openset/leetcode/tree/master/solution/friend-requests-ii-who-has-the-most-friends) | Medium |
 | 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats) | [Go](https://github.com/openset/leetcode/tree/master/solution/consecutive-available-seats) | Easy |
 | 604 | [Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator) | [Go](https://github.com/openset/leetcode/tree/master/solution/design-compressed-string-iterator) | Easy |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [Go](https://github.com/openset/leetcode/tree/master/solution/can-place-flowers) | Easy |
@@ -656,7 +656,7 @@ LeetCode Problems' Solutions
 | 650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) | [Go](https://github.com/openset/leetcode/tree/master/solution/2-keys-keyboard) | Medium |
 | 651 | [4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard) | [Go](https://github.com/openset/leetcode/tree/master/solution/4-keys-keyboard) | Medium |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) | [Go](https://github.com/openset/leetcode/tree/master/solution/find-duplicate-subtrees) | Medium |
-| 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv---input-is-a-bst) | [Go](https://github.com/openset/leetcode/tree/master/solution/two-sum-iv---input-is-a-bst) | Easy |
+| 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | [Go](https://github.com/openset/leetcode/tree/master/solution/two-sum-iv-input-is-a-bst) | Easy |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) | [Go](https://github.com/openset/leetcode/tree/master/solution/maximum-binary-tree) | Medium |
 | 655 | [Print Binary Tree](https://leetcode.com/problems/print-binary-tree) | [Go](https://github.com/openset/leetcode/tree/master/solution/print-binary-tree) | Medium |
 | 656 | [Coin Path](https://leetcode.com/problems/coin-path) | [Go](https://github.com/openset/leetcode/tree/master/solution/coin-path) | Hard |
@@ -788,7 +788,7 @@ LeetCode Problems' Solutions
 | 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard) | [Go](https://github.com/openset/leetcode/tree/master/solution/transform-to-chessboard) | Hard |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | [Go](https://github.com/openset/leetcode/tree/master/solution/minimum-distance-between-bst-nodes) | Easy |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation) | [Go](https://github.com/openset/leetcode/tree/master/solution/letter-case-permutation) | Easy |
-| 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite?) | [Go](https://github.com/openset/leetcode/tree/master/solution/is-graph-bipartite?) | Medium |
+| 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [Go](https://github.com/openset/leetcode/tree/master/solution/is-graph-bipartite) | Medium |
 | 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction) | [Go](https://github.com/openset/leetcode/tree/master/solution/k-th-smallest-prime-fraction) | Hard |
 | 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) | [Go](https://github.com/openset/leetcode/tree/master/solution/cheapest-flights-within-k-stops) | Medium |
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits) | [Go](https://github.com/openset/leetcode/tree/master/solution/rotated-digits) | Easy |
