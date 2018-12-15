@@ -1,15 +1,15 @@
 package reverse_integer
 
-func reverse(x int) int {
+import "math"
 
+func reverse(x int) int {
 	r := 0
 	for x != 0 {
 		r = r*10 + x%10
-		if r > 1<<31-1 || r < 1-1<<31 {
+		if r > math.MaxInt32 || r < math.MinInt32 {
 			return 0
 		}
 		x = x / 10
 	}
-
 	return r
 }
