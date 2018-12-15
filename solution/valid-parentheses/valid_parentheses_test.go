@@ -9,6 +9,8 @@ func TestIsValid(t *testing.T) {
 		"{[]}":   true,
 		"(]":     false,
 		"([)]":   false,
+		"([{)]":  false,
+		"([})]":  false,
 	}
 
 	for input, expected := range tests {
