@@ -1,8 +1,8 @@
 package string_to_integer_atoi
 
 import (
-	"testing"
 	"math"
+	"testing"
 )
 
 func TestMyAtoi(t *testing.T) {
@@ -24,10 +24,7 @@ func TestMyAtoi(t *testing.T) {
 	for input, expected := range tests {
 		output := myAtoi(input)
 		if output != expected {
-			t.Fatalf(
-				"Input: %v, Output: %v, Expected: %v",
-				input, output, expected,
-			)
+			t.Fatalf("Input: %v, Output: %v, Expected: %v", input, output, expected)
 		}
 	}
 }
