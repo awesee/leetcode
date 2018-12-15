@@ -16,7 +16,7 @@ func TestIsValid(t *testing.T) {
 	for input, expected := range tests {
 		output := isValid(input)
 		if output != expected {
-			t.Fatalf("Input: %v, Output: %v, Expected: %v", input, output, expected)
+			t.Fatalf("input: %v, output: %v, expected: %v", input, output, expected)
 		}
 	}
 }
