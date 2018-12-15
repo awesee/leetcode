@@ -8,7 +8,7 @@ type caseType struct {
 }
 
 func TestLongestCommonPrefix(t *testing.T) {
-	tests := []caseType{
+	tests := [...]caseType{
 		{
 			Input:    []string{"flower", "flow", "flight"},
 			Expected: "fl",
