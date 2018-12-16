@@ -1,20 +1,21 @@
 package valid_parentheses
 
 func isValid(s string) bool {
-	m := map[rune]rune{
+	m := map[byte]byte{
 		'(': ')',
 		'[': ']',
 		'{': '}',
 	}
-	stack := make([]rune, len(s))
+	l := len(s)
+	stack := make([]byte, l)
 	top := 0
-	for _, c := range s {
-		switch c {
+	for i := 0; i < l; i++ {
+		switch s[i] {
 		case '(', '[', '{':
-			stack[top] = m[c]
+			stack[top] = m[s[i]]
 			top++
 		case ')', ']', '}':
-			if top > 0 && stack[top-1] == c {
+			if top > 0 && stack[top-1] == s[i] {
 				top--
 			} else {
 				return false

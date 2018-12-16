@@ -29,14 +29,14 @@ func TestTwoSum(t *testing.T) {
 		},
 	}
 
-	for _, test := range tests {
-		output := twoSum(test.nums, test.target)
-		if len(output) != len(test.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", test.nums, output, test.expected)
+	for _, tc := range tests {
+		output := twoSum(tc.nums, tc.target)
+		if len(output) != len(tc.expected) {
+			t.Fatalf("input: %v, output: %v, expected: %v", tc.nums, output, tc.expected)
 		}
-		for k, v := range test.expected {
+		for k, v := range tc.expected {
 			if output[k] != v {
-				t.Fatalf("input: %v, output: %v, expected: %v", test.nums, output, test.expected)
+				t.Fatalf("input: %v, output: %v, expected: %v", tc.nums, output, tc.expected)
 			}
 		}
 	}

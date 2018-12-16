@@ -23,10 +23,10 @@ func TestLongestCommonPrefix(t *testing.T) {
 		},
 	}
 
-	for _, test := range tests {
-		output := longestCommonPrefix(test.input)
-		if output != test.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", test.input, output, test.expected)
+	for _, tc := range tests {
+		output := longestCommonPrefix(tc.input)
+		if output != tc.expected {
+			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
 		}
 	}
 }
