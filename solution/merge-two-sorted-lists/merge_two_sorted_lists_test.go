@@ -34,16 +34,16 @@ func TestMergeTwoLists(t *testing.T) {
 		},
 	}
 
-	for _, test := range tests {
-		l1 := s2l(test.l1)
-		l2 := s2l(test.l2)
+	for _, tc := range tests {
+		l1 := s2l(tc.l1)
+		l2 := s2l(tc.l2)
 		output := l2s(mergeTwoLists(l1, l2))
-		if len(output) != len(test.expected) {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", test.l1, test.l2, output, test.expected)
+		if len(output) != len(tc.expected) {
+			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.l1, tc.l2, output, tc.expected)
 		}
-		for k, v := range test.expected {
+		for k, v := range tc.expected {
 			if output[k] != v {
-				t.Fatalf("input: %v %v, output: %v, expected: %v", test.l1, test.l2, output, test.expected)
+				t.Fatalf("input: %v %v, output: %v, expected: %v", tc.l1, tc.l2, output, tc.expected)
 			}
 		}
 	}
