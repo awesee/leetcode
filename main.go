@@ -4,23 +4,24 @@ import (
 	"flag"
 	"fmt"
 	"log"
-	"os"
+
+	"github.com/openset/leetcode/internal/base"
+	"github.com/openset/leetcode/internal/version"
 )
 
-func main() {
-	log.SetFlags(0)
-	log.SetPrefix("leetcode: ")
-
-	flag.Usage = usage
-	flag.Parse()
-
-	args := flag.Args()
-	if len(args) < 1 {
-		flag.Usage()
+func init() {
+	base.Commands = []*base.Command{
+		version.CmdVersion,
 	}
 }
 
-func usage() {
-	fmt.Fprintln(os.Stderr, "usage: ")
-	flag.PrintDefaults()
+func main() {
+	log.SetFlags(0)
+	log.SetPrefix(fmt.Sprintf("%s: ", base.CmdName))
+
+	flag.Usage = base.Usage
+	flag.Parse()
+	if flag.NArg() < 1 {
+		flag.Usage()
+	}
 }
