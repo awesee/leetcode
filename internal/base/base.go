@@ -28,7 +28,7 @@ func (c *Command) Name() string {
 func (c *Command) Usage() {
 	fmt.Printf("usage: %s %s\n", CmdName, c.UsageLine)
 	fmt.Printf("Run '%s help %s' for details.\n", CmdName, c.Name())
-	os.Exit(0)
+	Exit()
 }
 
 func Usage() {
@@ -42,4 +42,9 @@ func Usage() {
 	fmt.Println()
 	fmt.Printf(`Use "%s help <command>" for more information about a command.`, CmdName)
 	fmt.Println()
+	Exit()
+}
+
+func Exit() {
+	os.Exit(0)
 }
