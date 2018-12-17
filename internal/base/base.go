@@ -20,7 +20,7 @@ type Command struct {
 func (c *Command) Name() string {
 	name := c.UsageLine
 	if i := strings.Index(name, " "); i > 0 {
-		name = name[0 : i+1]
+		name = name[0:i]
 	}
 	return name
 }
