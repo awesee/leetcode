@@ -37,7 +37,7 @@ func Usage() {
 	fmt.Printf("\t%s <command> [arguments]\n", CmdName)
 	fmt.Println("The commands are:")
 	for _, cmd := range Commands {
-		fmt.Printf("\t%s \t%s\n", cmd.Name(), cmd.Short)
+		fmt.Printf("\t%-11s \t%s\n", cmd.Name(), cmd.Short)
 	}
 	fmt.Println()
 	fmt.Printf(`Use "%s help <command>" for more information about a command.`, CmdName)
