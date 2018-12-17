@@ -24,4 +24,14 @@ func main() {
 	if flag.NArg() < 1 {
 		flag.Usage()
 	}
+	args := flag.Args()
+	cmdName := args[0]
+	for _, cmd := range base.Commands {
+		if cmd.Name() == cmdName {
+			cmd.Run(cmd, args[1:])
+			base.Exit()
+		}
+	}
+	fmt.Printf("%s %s: unknown command\n", base.CmdName, cmdName)
+	fmt.Printf("Run '%s help' for usage.\n", base.CmdName)
 }
