@@ -1,2 +1,2 @@
-## 860 Lemonade Change
+## 860. Lemonade Change
 

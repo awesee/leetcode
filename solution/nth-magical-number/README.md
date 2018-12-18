@@ -1,2 +1,2 @@
-## 878 Nth Magical Number
+## 878. Nth Magical Number
 

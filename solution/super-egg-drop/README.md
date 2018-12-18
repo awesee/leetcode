@@ -1,2 +1,2 @@
-## 887 Super Egg Drop
+## 887. Super Egg Drop
 

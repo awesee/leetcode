@@ -1,2 +1,2 @@
-## 829 Consecutive Numbers Sum
+## 829. Consecutive Numbers Sum
 

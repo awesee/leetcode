@@ -1,2 +1,2 @@
-## 227 Basic Calculator II
+## 227. Basic Calculator II
 

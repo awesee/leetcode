@@ -1,2 +1,2 @@
-## 527 Word Abbreviation
+## 527. Word Abbreviation
 

@@ -1,2 +1,2 @@
-## 453 Minimum Moves to Equal Array Elements
+## 453. Minimum Moves to Equal Array Elements
 

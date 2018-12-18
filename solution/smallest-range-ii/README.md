@@ -1,2 +1,2 @@
-## 910 Smallest Range II
+## 910. Smallest Range II
 

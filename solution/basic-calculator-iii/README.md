@@ -1,2 +1,2 @@
-## 772 Basic Calculator III
+## 772. Basic Calculator III
 

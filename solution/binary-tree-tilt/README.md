@@ -1,2 +1,2 @@
-## 563 Binary Tree Tilt
+## 563. Binary Tree Tilt
 

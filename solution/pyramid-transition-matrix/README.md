@@ -1,2 +1,2 @@
-## 756 Pyramid Transition Matrix
+## 756. Pyramid Transition Matrix
 

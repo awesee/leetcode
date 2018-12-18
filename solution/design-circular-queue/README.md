@@ -1,2 +1,2 @@
-## 622 Design Circular Queue
+## 622. Design Circular Queue
 

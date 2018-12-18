@@ -1,2 +1,2 @@
-## 628 Maximum Product of Three Numbers
+## 628. Maximum Product of Three Numbers
 

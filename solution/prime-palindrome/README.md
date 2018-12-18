@@ -1,2 +1,2 @@
-## 866 Prime Palindrome
+## 866. Prime Palindrome
 

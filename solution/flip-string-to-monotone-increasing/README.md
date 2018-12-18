@@ -1,2 +1,2 @@
-## 926 Flip String to Monotone Increasing
+## 926. Flip String to Monotone Increasing
 

@@ -1,2 +1,2 @@
-## 343 Integer Break
+## 343. Integer Break
 

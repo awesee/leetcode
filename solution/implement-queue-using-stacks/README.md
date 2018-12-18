@@ -1,2 +1,2 @@
-## 232 Implement Queue using Stacks
+## 232. Implement Queue using Stacks
 

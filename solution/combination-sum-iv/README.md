@@ -1,2 +1,2 @@
-## 377 Combination Sum IV
+## 377. Combination Sum IV
 

@@ -1,2 +1,2 @@
-## 752 Open the Lock
+## 752. Open the Lock
 

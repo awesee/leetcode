@@ -1,2 +1,2 @@
-## 531 Lonely Pixel I
+## 531. Lonely Pixel I
 

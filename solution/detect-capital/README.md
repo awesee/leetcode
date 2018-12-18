@@ -1,2 +1,2 @@
-## 520 Detect Capital
+## 520. Detect Capital
 

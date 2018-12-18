@@ -1,2 +1,2 @@
-## 549 Binary Tree Longest Consecutive Sequence II
+## 549. Binary Tree Longest Consecutive Sequence II
 

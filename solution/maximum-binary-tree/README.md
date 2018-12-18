@@ -1,2 +1,2 @@
-## 654 Maximum Binary Tree
+## 654. Maximum Binary Tree
 

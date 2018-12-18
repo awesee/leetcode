@@ -1,2 +1,2 @@
-## 96 Unique Binary Search Trees
+## 96. Unique Binary Search Trees
 

@@ -1,2 +1,2 @@
-## 267 Palindrome Permutation II
+## 267. Palindrome Permutation II
 

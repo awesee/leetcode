@@ -1,2 +1,2 @@
-## 568 Maximum Vacation Days
+## 568. Maximum Vacation Days
 

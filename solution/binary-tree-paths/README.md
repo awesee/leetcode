@@ -1,2 +1,2 @@
-## 257 Binary Tree Paths
+## 257. Binary Tree Paths
 

@@ -1,2 +1,2 @@
-## 546 Remove Boxes
+## 546. Remove Boxes
 

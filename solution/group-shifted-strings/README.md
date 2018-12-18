@@ -1,2 +1,2 @@
-## 249 Group Shifted Strings
+## 249. Group Shifted Strings
 

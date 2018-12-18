@@ -1,2 +1,2 @@
-## 789 Escape The Ghosts
+## 789. Escape The Ghosts
 

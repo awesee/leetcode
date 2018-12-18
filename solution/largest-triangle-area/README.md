@@ -1,2 +1,2 @@
-## 812 Largest Triangle Area
+## 812. Largest Triangle Area
 

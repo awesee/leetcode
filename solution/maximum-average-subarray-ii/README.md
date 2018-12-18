@@ -1,2 +1,2 @@
-## 644 Maximum Average Subarray II
+## 644. Maximum Average Subarray II
 

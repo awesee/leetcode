@@ -1,2 +1,2 @@
-## 570 Managers with at Least 5 Direct Reports
+## 570. Managers with at Least 5 Direct Reports
 

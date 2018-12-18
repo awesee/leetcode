@@ -1,2 +1,2 @@
-## 360 Sort Transformed Array
+## 360. Sort Transformed Array
 

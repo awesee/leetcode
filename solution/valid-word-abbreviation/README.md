@@ -1,2 +1,2 @@
-## 408 Valid Word Abbreviation
+## 408. Valid Word Abbreviation
 

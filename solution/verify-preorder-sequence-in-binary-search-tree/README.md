@@ -1,2 +1,2 @@
-## 255 Verify Preorder Sequence in Binary Search Tree
+## 255. Verify Preorder Sequence in Binary Search Tree
 

@@ -1,2 +1,2 @@
-## 250 Count Univalue Subtrees
+## 250. Count Univalue Subtrees
 

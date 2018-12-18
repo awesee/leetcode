@@ -1,2 +1,2 @@
-## 127 Word Ladder
+## 127. Word Ladder
 

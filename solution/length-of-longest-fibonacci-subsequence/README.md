@@ -1,2 +1,2 @@
-## 873 Length of Longest Fibonacci Subsequence
+## 873. Length of Longest Fibonacci Subsequence
 

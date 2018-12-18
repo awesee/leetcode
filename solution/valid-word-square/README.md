@@ -1,2 +1,2 @@
-## 422 Valid Word Square
+## 422. Valid Word Square
 

@@ -1,2 +1,2 @@
-## 72 Edit Distance
+## 72. Edit Distance
 

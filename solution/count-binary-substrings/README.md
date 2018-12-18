@@ -1,2 +1,2 @@
-## 696 Count Binary Substrings
+## 696. Count Binary Substrings
 

@@ -1,2 +1,2 @@
-## 797 All Paths From Source to Target
+## 797. All Paths From Source to Target
 

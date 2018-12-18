@@ -1,2 +1,2 @@
-## 540 Single Element in a Sorted Array
+## 540. Single Element in a Sorted Array
 

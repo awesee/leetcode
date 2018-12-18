@@ -1,2 +1,2 @@
-## 223 Rectangle Area
+## 223. Rectangle Area
 

@@ -1,2 +1,2 @@
-## 656 Coin Path
+## 656. Coin Path
 

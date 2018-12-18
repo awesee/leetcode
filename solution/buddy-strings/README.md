@@ -1,2 +1,2 @@
-## 859 Buddy Strings
+## 859. Buddy Strings
 

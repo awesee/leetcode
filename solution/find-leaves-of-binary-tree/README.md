@@ -1,2 +1,2 @@
-## 366 Find Leaves of Binary Tree
+## 366. Find Leaves of Binary Tree
 

@@ -1,2 +1,2 @@
-## 923 3Sum With Multiplicity
+## 923. 3Sum With Multiplicity
 

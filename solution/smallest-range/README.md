@@ -1,2 +1,2 @@
-## 632 Smallest Range
+## 632. Smallest Range
 

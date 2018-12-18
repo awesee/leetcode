@@ -1,2 +1,2 @@
-## 177 Nth Highest Salary
+## 177. Nth Highest Salary
 

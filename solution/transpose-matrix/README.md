@@ -1,2 +1,2 @@
-## 867 Transpose Matrix
+## 867. Transpose Matrix
 

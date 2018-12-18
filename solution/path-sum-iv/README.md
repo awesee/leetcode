@@ -1,2 +1,2 @@
-## 666 Path Sum IV
+## 666. Path Sum IV
 

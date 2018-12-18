@@ -1,2 +1,2 @@
-## 864 Shortest Path to Get All Keys
+## 864. Shortest Path to Get All Keys
 

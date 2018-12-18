@@ -1,2 +1,2 @@
-## 291 Word Pattern II
+## 291. Word Pattern II
 

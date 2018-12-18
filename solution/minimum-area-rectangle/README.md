@@ -1,2 +1,2 @@
-## 939 Minimum Area Rectangle
+## 939. Minimum Area Rectangle
 

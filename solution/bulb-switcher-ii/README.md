@@ -1,2 +1,2 @@
-## 672 Bulb Switcher II
+## 672. Bulb Switcher II
 

@@ -1,2 +1,2 @@
-## 708 Insert into a Cyclic Sorted List
+## 708. Insert into a Cyclic Sorted List
 

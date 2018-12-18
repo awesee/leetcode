@@ -1,2 +1,2 @@
-## 951 Flip Equivalent Binary Trees
+## 951. Flip Equivalent Binary Trees
 

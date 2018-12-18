@@ -1,2 +1,2 @@
-## 313 Super Ugly Number
+## 313. Super Ugly Number
 

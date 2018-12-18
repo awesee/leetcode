@@ -1,2 +1,2 @@
-## 176 Second Highest Salary
+## 176. Second Highest Salary
 

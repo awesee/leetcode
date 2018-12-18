@@ -1,2 +1,2 @@
-## 30 Substring with Concatenation of All Words
+## 30. Substring with Concatenation of All Words
 

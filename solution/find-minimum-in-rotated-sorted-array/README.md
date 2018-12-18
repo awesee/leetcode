@@ -1,2 +1,2 @@
-## 153 Find Minimum in Rotated Sorted Array
+## 153. Find Minimum in Rotated Sorted Array
 

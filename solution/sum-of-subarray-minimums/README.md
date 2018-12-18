@@ -1,2 +1,2 @@
-## 907 Sum of Subarray Minimums
+## 907. Sum of Subarray Minimums
 

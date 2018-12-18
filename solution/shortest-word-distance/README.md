@@ -1,2 +1,2 @@
-## 243 Shortest Word Distance
+## 243. Shortest Word Distance
 

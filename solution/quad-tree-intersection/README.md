@@ -1,2 +1,2 @@
-## 558 Quad Tree Intersection
+## 558. Quad Tree Intersection
 

@@ -1,2 +1,2 @@
-## 334 Increasing Triplet Subsequence
+## 334. Increasing Triplet Subsequence
 

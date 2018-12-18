@@ -1,2 +1,2 @@
-## 614 Second Degree Follower
+## 614. Second Degree Follower
 

@@ -1,2 +1,2 @@
-## 750 Number Of Corner Rectangles
+## 750. Number Of Corner Rectangles
 

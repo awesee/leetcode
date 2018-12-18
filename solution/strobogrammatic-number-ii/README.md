@@ -1,2 +1,2 @@
-## 247 Strobogrammatic Number II
+## 247. Strobogrammatic Number II
 

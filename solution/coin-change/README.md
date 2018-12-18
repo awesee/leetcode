@@ -1,2 +1,2 @@
-## 322 Coin Change
+## 322. Coin Change
 

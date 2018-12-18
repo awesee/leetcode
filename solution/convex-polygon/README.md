@@ -1,2 +1,2 @@
-## 469 Convex Polygon
+## 469. Convex Polygon
 

@@ -1,2 +1,2 @@
-## 398 Random Pick Index
+## 398. Random Pick Index
 

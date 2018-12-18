@@ -1,2 +1,2 @@
-## 394 Decode String
+## 394. Decode String
 

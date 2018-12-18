@@ -1,2 +1,2 @@
-## 181 Employees Earning More Than Their Managers
+## 181. Employees Earning More Than Their Managers
 

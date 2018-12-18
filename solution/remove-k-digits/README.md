@@ -1,2 +1,2 @@
-## 402 Remove K Digits
+## 402. Remove K Digits
 

@@ -1,2 +1,2 @@
-## 899 Orderly Queue
+## 899. Orderly Queue
 

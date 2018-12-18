@@ -1,2 +1,2 @@
-## 494 Target Sum
+## 494. Target Sum
 

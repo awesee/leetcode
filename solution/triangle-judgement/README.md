@@ -1,2 +1,2 @@
-## 610 Triangle Judgement
+## 610. Triangle Judgement
 

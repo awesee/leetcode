@@ -1,2 +1,2 @@
-## 224 Basic Calculator
+## 224. Basic Calculator
 

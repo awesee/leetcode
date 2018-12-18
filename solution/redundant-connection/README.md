@@ -1,2 +1,2 @@
-## 684 Redundant Connection
+## 684. Redundant Connection
 

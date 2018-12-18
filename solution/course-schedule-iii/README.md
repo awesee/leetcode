@@ -1,2 +1,2 @@
-## 630 Course Schedule III
+## 630. Course Schedule III
 

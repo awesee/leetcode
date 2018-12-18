@@ -1,2 +1,2 @@
-## 683 K Empty Slots
+## 683. K Empty Slots
 

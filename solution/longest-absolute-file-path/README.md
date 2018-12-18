@@ -1,2 +1,2 @@
-## 388 Longest Absolute File Path
+## 388. Longest Absolute File Path
 

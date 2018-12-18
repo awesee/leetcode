@@ -1,2 +1,2 @@
-## 361 Bomb Enemy
+## 361. Bomb Enemy
 

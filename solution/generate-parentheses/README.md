@@ -1,2 +1,2 @@
-## 22 Generate Parentheses
+## 22. Generate Parentheses
 

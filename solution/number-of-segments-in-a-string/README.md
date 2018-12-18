@@ -1,2 +1,2 @@
-## 434 Number of Segments in a String
+## 434. Number of Segments in a String
 

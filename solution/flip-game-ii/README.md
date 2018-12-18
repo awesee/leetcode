@@ -1,2 +1,2 @@
-## 294 Flip Game II
+## 294. Flip Game II
 

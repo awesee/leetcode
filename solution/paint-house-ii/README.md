@@ -1,2 +1,2 @@
-## 265 Paint House II
+## 265. Paint House II
 

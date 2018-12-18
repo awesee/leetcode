@@ -1,2 +1,2 @@
-## 884 Uncommon Words from Two Sentences
+## 884. Uncommon Words from Two Sentences
 

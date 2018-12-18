@@ -1,2 +1,2 @@
-## 259 3Sum Smaller
+## 259. 3Sum Smaller
 

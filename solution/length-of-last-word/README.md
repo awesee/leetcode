@@ -1,2 +1,2 @@
-## 58 Length of Last Word
+## 58. Length of Last Word
 

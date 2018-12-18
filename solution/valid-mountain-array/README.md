@@ -1,2 +1,2 @@
-## 941 Valid Mountain Array
+## 941. Valid Mountain Array
 

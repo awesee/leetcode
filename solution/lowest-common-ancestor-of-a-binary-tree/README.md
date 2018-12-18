@@ -1,2 +1,2 @@
-## 236 Lowest Common Ancestor of a Binary Tree
+## 236. Lowest Common Ancestor of a Binary Tree
 

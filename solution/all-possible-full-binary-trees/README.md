@@ -1,2 +1,2 @@
-## 894 All Possible Full Binary Trees
+## 894. All Possible Full Binary Trees
 

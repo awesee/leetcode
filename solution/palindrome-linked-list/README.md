@@ -1,2 +1,2 @@
-## 234 Palindrome Linked List
+## 234. Palindrome Linked List
 

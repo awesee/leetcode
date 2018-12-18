@@ -1,2 +1,2 @@
-## 299 Bulls and Cows
+## 299. Bulls and Cows
 

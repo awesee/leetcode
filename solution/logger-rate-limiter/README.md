@@ -1,2 +1,2 @@
-## 359 Logger Rate Limiter
+## 359. Logger Rate Limiter
 

@@ -1,2 +1,2 @@
-## 629 K Inverse Pairs Array
+## 629. K Inverse Pairs Array
 

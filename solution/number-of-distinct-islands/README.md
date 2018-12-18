@@ -1,2 +1,2 @@
-## 694 Number of Distinct Islands
+## 694. Number of Distinct Islands
 

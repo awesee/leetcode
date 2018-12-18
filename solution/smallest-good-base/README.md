@@ -1,2 +1,2 @@
-## 483 Smallest Good Base
+## 483. Smallest Good Base
 

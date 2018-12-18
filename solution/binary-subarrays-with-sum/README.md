@@ -1,2 +1,2 @@
-## 930 Binary Subarrays With Sum
+## 930. Binary Subarrays With Sum
 

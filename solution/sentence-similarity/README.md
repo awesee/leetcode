@@ -1,2 +1,2 @@
-## 734 Sentence Similarity
+## 734. Sentence Similarity
 

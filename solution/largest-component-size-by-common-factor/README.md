@@ -1,2 +1,2 @@
-## 952 Largest Component Size by Common Factor
+## 952. Largest Component Size by Common Factor
 

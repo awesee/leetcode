@@ -1,2 +1,2 @@
-## 843 Guess the Word
+## 843. Guess the Word
 

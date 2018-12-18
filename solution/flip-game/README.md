@@ -1,2 +1,2 @@
-## 293 Flip Game
+## 293. Flip Game
 

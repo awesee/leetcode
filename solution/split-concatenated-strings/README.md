@@ -1,2 +1,2 @@
-## 555 Split Concatenated Strings
+## 555. Split Concatenated Strings
 

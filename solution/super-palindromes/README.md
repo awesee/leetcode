@@ -1,2 +1,2 @@
-## 906 Super Palindromes
+## 906. Super Palindromes
 

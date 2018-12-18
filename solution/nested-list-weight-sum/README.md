@@ -1,2 +1,2 @@
-## 339 Nested List Weight Sum
+## 339. Nested List Weight Sum
 

@@ -1,2 +1,2 @@
-## 280 Wiggle Sort
+## 280. Wiggle Sort
 

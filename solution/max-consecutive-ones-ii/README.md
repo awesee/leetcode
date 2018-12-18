@@ -1,2 +1,2 @@
-## 487 Max Consecutive Ones II
+## 487. Max Consecutive Ones II
 

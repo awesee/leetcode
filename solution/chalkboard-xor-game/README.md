@@ -1,2 +1,2 @@
-## 810 Chalkboard XOR Game
+## 810. Chalkboard XOR Game
 

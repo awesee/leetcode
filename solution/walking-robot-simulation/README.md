@@ -1,2 +1,2 @@
-## 874 Walking Robot Simulation
+## 874. Walking Robot Simulation
 

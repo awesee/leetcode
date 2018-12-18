@@ -1,2 +1,2 @@
-## 436 Find Right Interval
+## 436. Find Right Interval
 

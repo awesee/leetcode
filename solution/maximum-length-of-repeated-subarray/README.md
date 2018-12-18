@@ -1,2 +1,2 @@
-## 718 Maximum Length of Repeated Subarray
+## 718. Maximum Length of Repeated Subarray
 

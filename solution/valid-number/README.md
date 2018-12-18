@@ -1,2 +1,2 @@
-## 65 Valid Number
+## 65. Valid Number
 

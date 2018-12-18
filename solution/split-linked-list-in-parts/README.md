@@ -1,2 +1,2 @@
-## 725 Split Linked List in Parts
+## 725. Split Linked List in Parts
 

@@ -1,2 +1,2 @@
-## 477 Total Hamming Distance
+## 477. Total Hamming Distance
 

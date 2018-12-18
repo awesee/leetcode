@@ -1,2 +1,2 @@
-## 845 Longest Mountain in Array
+## 845. Longest Mountain in Array
 

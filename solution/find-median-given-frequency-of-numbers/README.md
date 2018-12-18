@@ -1,2 +1,2 @@
-## 571 Find Median Given Frequency of Numbers
+## 571. Find Median Given Frequency of Numbers
 

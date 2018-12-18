@@ -1,2 +1,2 @@
-## 834 Sum of Distances in Tree
+## 834. Sum of Distances in Tree
 

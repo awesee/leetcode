@@ -1,2 +1,2 @@
-## 277 Find the Celebrity
+## 277. Find the Celebrity
 

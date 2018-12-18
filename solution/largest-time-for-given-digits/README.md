@@ -1,2 +1,2 @@
-## 949 Largest Time for Given Digits
+## 949. Largest Time for Given Digits
 

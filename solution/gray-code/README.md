@@ -1,2 +1,2 @@
-## 89 Gray Code
+## 89. Gray Code
 

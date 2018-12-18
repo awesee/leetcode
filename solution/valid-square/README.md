@@ -1,2 +1,2 @@
-## 593 Valid Square
+## 593. Valid Square
 

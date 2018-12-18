@@ -1,2 +1,2 @@
-## 263 Ugly Number
+## 263. Ugly Number
 

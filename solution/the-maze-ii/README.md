@@ -1,2 +1,2 @@
-## 505 The Maze II
+## 505. The Maze II
 

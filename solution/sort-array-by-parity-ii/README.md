@@ -1,2 +1,2 @@
-## 922 Sort Array By Parity II
+## 922. Sort Array By Parity II
 

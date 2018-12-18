@@ -1,2 +1,2 @@
-## 960 Delete Columns to Make Sorted III
+## 960. Delete Columns to Make Sorted III
 
