@@ -1,2 +1,2 @@
-## 216 Combination Sum III
+## 216. Combination Sum III
 

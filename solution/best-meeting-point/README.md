@@ -1,2 +1,2 @@
-## 296 Best Meeting Point
+## 296. Best Meeting Point
 

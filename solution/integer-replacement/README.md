@@ -1,2 +1,2 @@
-## 397 Integer Replacement
+## 397. Integer Replacement
 

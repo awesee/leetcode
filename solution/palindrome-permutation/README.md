@@ -1,2 +1,2 @@
-## 266 Palindrome Permutation
+## 266. Palindrome Permutation
 

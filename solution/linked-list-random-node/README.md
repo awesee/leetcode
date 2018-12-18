@@ -1,2 +1,2 @@
-## 382 Linked List Random Node
+## 382. Linked List Random Node
 

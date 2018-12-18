@@ -1,2 +1,2 @@
-## 905 Sort Array By Parity
+## 905. Sort Array By Parity
 

@@ -1,2 +1,2 @@
-## 350 Intersection of Two Arrays II
+## 350. Intersection of Two Arrays II
 

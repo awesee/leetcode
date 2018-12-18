@@ -1,2 +1,2 @@
-## 490 The Maze
+## 490. The Maze
 

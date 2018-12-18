@@ -1,2 +1,2 @@
-## 686 Repeated String Match
+## 686. Repeated String Match
 

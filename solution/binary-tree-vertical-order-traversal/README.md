@@ -1,2 +1,2 @@
-## 314 Binary Tree Vertical Order Traversal
+## 314. Binary Tree Vertical Order Traversal
 

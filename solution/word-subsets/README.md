@@ -1,2 +1,2 @@
-## 916 Word Subsets
+## 916. Word Subsets
 

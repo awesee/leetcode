@@ -1,2 +1,2 @@
-## 410 Split Array Largest Sum
+## 410. Split Array Largest Sum
 

@@ -1,2 +1,2 @@
-## 228 Summary Ranges
+## 228. Summary Ranges
 

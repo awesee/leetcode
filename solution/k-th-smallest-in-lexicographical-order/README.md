@@ -1,2 +1,2 @@
-## 440 K-th Smallest in Lexicographical Order
+## 440. K-th Smallest in Lexicographical Order
 

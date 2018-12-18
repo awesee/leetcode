@@ -1,2 +1,2 @@
-## 285 Inorder Successor in BST
+## 285. Inorder Successor in BST
 

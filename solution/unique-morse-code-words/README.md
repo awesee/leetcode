@@ -1,2 +1,2 @@
-## 804 Unique Morse Code Words
+## 804. Unique Morse Code Words
 

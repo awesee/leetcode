@@ -1,2 +1,2 @@
-## 61 Rotate List
+## 61. Rotate List
 

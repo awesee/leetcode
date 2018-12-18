@@ -1,2 +1,2 @@
-## 688 Knight Probability in Chessboard
+## 688. Knight Probability in Chessboard
 

@@ -1,2 +1,2 @@
-## 893 Groups of Special-Equivalent Strings
+## 893. Groups of Special-Equivalent Strings
 

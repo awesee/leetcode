@@ -1,2 +1,2 @@
-## 737 Sentence Similarity II
+## 737. Sentence Similarity II
 

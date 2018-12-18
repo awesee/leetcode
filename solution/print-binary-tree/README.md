@@ -1,2 +1,2 @@
-## 655 Print Binary Tree
+## 655. Print Binary Tree
 

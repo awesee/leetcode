@@ -1,2 +1,2 @@
-## 828 Unique Letter String
+## 828. Unique Letter String
 

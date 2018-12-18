@@ -1,2 +1,2 @@
-## 742 Closest Leaf in a Binary Tree
+## 742. Closest Leaf in a Binary Tree
 

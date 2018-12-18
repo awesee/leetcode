@@ -1,2 +1,2 @@
-## 776 Split BST
+## 776. Split BST
 

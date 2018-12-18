@@ -1,2 +1,2 @@
-## 653 Two Sum IV - Input is a BST
+## 653. Two Sum IV - Input is a BST
 

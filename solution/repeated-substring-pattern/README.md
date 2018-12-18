@@ -1,2 +1,2 @@
-## 459 Repeated Substring Pattern
+## 459. Repeated Substring Pattern
 

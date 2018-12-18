@@ -1,2 +1,2 @@
-## 353 Design Snake Game
+## 353. Design Snake Game
 

@@ -1,2 +1,2 @@
-## 260 Single Number III
+## 260. Single Number III
 

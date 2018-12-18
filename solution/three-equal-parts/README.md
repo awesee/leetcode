@@ -1,2 +1,2 @@
-## 927 Three Equal Parts
+## 927. Three Equal Parts
 

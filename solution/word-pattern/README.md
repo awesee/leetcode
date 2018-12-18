@@ -1,2 +1,2 @@
-## 290 Word Pattern
+## 290. Word Pattern
 

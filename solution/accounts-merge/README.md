@@ -1,2 +1,2 @@
-## 721 Accounts Merge
+## 721. Accounts Merge
 

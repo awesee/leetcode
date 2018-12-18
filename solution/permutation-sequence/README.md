@@ -1,2 +1,2 @@
-## 60 Permutation Sequence
+## 60. Permutation Sequence
 

@@ -1,2 +1,2 @@
-## 481 Magical String
+## 481. Magical String
 

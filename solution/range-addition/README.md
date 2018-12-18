@@ -1,2 +1,2 @@
-## 370 Range Addition
+## 370. Range Addition
 

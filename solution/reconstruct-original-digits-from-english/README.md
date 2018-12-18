@@ -1,2 +1,2 @@
-## 423 Reconstruct Original Digits from English
+## 423. Reconstruct Original Digits from English
 

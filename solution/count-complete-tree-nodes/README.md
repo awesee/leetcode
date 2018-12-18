@@ -1,2 +1,2 @@
-## 222 Count Complete Tree Nodes
+## 222. Count Complete Tree Nodes
 

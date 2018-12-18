@@ -1,2 +1,2 @@
-## 516 Longest Palindromic Subsequence
+## 516. Longest Palindromic Subsequence
 

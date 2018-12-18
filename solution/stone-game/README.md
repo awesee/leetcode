@@ -1,2 +1,2 @@
-## 877 Stone Game
+## 877. Stone Game
 

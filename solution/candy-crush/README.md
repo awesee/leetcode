@@ -1,2 +1,2 @@
-## 723 Candy Crush
+## 723. Candy Crush
 

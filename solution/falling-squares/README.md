@@ -1,2 +1,2 @@
-## 699 Falling Squares
+## 699. Falling Squares
 

@@ -1,2 +1,2 @@
-## 943 Find the Shortest Superstring
+## 943. Find the Shortest Superstring
 

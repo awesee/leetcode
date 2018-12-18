@@ -1,2 +1,2 @@
-## 369 Plus One Linked List
+## 369. Plus One Linked List
 

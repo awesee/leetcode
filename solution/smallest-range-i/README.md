@@ -1,2 +1,2 @@
-## 908 Smallest Range I
+## 908. Smallest Range I
 

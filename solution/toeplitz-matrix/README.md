@@ -1,2 +1,2 @@
-## 766 Toeplitz Matrix
+## 766. Toeplitz Matrix
 

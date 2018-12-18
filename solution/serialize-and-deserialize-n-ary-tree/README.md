@@ -1,2 +1,2 @@
-## 428 Serialize and Deserialize N-ary Tree
+## 428. Serialize and Deserialize N-ary Tree
 

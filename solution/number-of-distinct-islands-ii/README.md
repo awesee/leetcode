@@ -1,2 +1,2 @@
-## 711 Number of Distinct Islands II
+## 711. Number of Distinct Islands II
 

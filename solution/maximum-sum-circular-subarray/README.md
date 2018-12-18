@@ -1,2 +1,2 @@
-## 918 Maximum Sum Circular Subarray
+## 918. Maximum Sum Circular Subarray
 

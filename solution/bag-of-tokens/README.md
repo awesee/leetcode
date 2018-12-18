@@ -1,2 +1,2 @@
-## 948 Bag of Tokens
+## 948. Bag of Tokens
 

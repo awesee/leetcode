@@ -1,2 +1,2 @@
-## 386 Lexicographical Numbers
+## 386. Lexicographical Numbers
 

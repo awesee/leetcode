@@ -1,2 +1,2 @@
-## 284 Peeking Iterator
+## 284. Peeking Iterator
 

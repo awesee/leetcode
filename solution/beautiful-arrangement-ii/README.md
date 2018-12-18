@@ -1,2 +1,2 @@
-## 667 Beautiful Arrangement II
+## 667. Beautiful Arrangement II
 

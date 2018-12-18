@@ -1,2 +1,2 @@
-## 508 Most Frequent Subtree Sum
+## 508. Most Frequent Subtree Sum
 

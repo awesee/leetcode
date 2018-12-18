@@ -1,2 +1,2 @@
-## 492 Construct the Rectangle
+## 492. Construct the Rectangle
 

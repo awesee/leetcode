@@ -1,2 +1,2 @@
-## 891 Sum of Subsequence Widths
+## 891. Sum of Subsequence Widths
 

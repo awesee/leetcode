@@ -1,2 +1,2 @@
-## 717 1-bit and 2-bit Characters
+## 717. 1-bit and 2-bit Characters
 

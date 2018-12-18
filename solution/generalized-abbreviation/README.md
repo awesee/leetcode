@@ -1,2 +1,2 @@
-## 320 Generalized Abbreviation
+## 320. Generalized Abbreviation
 

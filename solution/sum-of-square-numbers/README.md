@@ -1,2 +1,2 @@
-## 633 Sum of Square Numbers
+## 633. Sum of Square Numbers
 

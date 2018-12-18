@@ -1,2 +1,2 @@
-## 521 Longest Uncommon Subsequence I
+## 521. Longest Uncommon Subsequence I
 

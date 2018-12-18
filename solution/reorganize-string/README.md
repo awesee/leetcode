@@ -1,2 +1,2 @@
-## 767 Reorganize String
+## 767. Reorganize String
 

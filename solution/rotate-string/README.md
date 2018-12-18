@@ -1,2 +1,2 @@
-## 796 Rotate String
+## 796. Rotate String
 

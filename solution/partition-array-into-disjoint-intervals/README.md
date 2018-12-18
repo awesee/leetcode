@@ -1,2 +1,2 @@
-## 915 Partition Array into Disjoint Intervals
+## 915. Partition Array into Disjoint Intervals
 

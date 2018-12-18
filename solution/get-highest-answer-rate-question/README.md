@@ -1,2 +1,2 @@
-## 578 Get Highest Answer Rate Question
+## 578. Get Highest Answer Rate Question
 

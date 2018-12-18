@@ -1,2 +1,2 @@
-## 329 Longest Increasing Path in a Matrix
+## 329. Longest Increasing Path in a Matrix
 

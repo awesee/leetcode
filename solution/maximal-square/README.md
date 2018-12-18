@@ -1,2 +1,2 @@
-## 221 Maximal Square
+## 221. Maximal Square
 

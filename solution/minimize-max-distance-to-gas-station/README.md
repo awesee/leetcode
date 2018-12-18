@@ -1,2 +1,2 @@
-## 774 Minimize Max Distance to Gas Station
+## 774. Minimize Max Distance to Gas Station
 

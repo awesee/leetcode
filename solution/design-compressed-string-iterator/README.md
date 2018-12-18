@@ -1,2 +1,2 @@
-## 604 Design Compressed String Iterator
+## 604. Design Compressed String Iterator
 

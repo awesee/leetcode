@@ -1,2 +1,2 @@
-## 613 Shortest Distance in a Line
+## 613. Shortest Distance in a Line
 

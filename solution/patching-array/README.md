@@ -1,2 +1,2 @@
-## 330 Patching Array
+## 330. Patching Array
 

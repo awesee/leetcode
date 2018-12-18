@@ -1,2 +1,2 @@
-## 659 Split Array into Consecutive Subsequences
+## 659. Split Array into Consecutive Subsequences
 

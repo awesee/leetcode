@@ -1,2 +1,2 @@
-## 476 Number Complement
+## 476. Number Complement
 

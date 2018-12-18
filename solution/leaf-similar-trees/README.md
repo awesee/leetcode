@@ -1,2 +1,2 @@
-## 872 Leaf-Similar Trees
+## 872. Leaf-Similar Trees
 

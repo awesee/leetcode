@@ -1,2 +1,2 @@
-## 85 Maximal Rectangle
+## 85. Maximal Rectangle
 

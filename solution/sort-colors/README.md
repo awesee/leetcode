@@ -1,2 +1,2 @@
-## 75 Sort Colors
+## 75. Sort Colors
 

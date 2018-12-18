@@ -1,2 +1,2 @@
-## 254 Factor Combinations
+## 254. Factor Combinations
 

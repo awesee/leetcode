@@ -1,2 +1,2 @@
-## 348 Design Tic-Tac-Toe
+## 348. Design Tic-Tac-Toe
 

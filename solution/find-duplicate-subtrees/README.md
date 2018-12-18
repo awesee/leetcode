@@ -1,2 +1,2 @@
-## 652 Find Duplicate Subtrees
+## 652. Find Duplicate Subtrees
 

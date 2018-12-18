@@ -1,2 +1,2 @@
-## 576 Out of Boundary Paths
+## 576. Out of Boundary Paths
 

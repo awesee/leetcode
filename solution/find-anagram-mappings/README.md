@@ -1,2 +1,2 @@
-## 760 Find Anagram Mappings
+## 760. Find Anagram Mappings
 

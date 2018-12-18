@@ -1,2 +1,2 @@
-## 959 Regions Cut By Slashes
+## 959. Regions Cut By Slashes
 

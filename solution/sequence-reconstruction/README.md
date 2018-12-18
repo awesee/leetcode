@@ -1,2 +1,2 @@
-## 444 Sequence Reconstruction
+## 444. Sequence Reconstruction
 

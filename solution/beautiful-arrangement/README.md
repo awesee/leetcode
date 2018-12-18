@@ -1,2 +1,2 @@
-## 526 Beautiful Arrangement
+## 526. Beautiful Arrangement
 

@@ -1,2 +1,2 @@
-## 197 Rising Temperature
+## 197. Rising Temperature
 

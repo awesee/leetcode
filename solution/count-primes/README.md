@@ -1,2 +1,2 @@
-## 204 Count Primes
+## 204. Count Primes
 

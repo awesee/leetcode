@@ -1,2 +1,2 @@
-## 920 Number of Music Playlists
+## 920. Number of Music Playlists
 

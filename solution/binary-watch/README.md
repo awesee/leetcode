@@ -1,2 +1,2 @@
-## 401 Binary Watch
+## 401. Binary Watch
 

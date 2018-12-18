@@ -1,2 +1,2 @@
-## 838 Push Dominoes
+## 838. Push Dominoes
 

@@ -1,2 +1,2 @@
-## 186 Reverse Words in a String II
+## 186. Reverse Words in a String II
 

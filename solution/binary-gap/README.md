@@ -1,2 +1,2 @@
-## 868 Binary Gap
+## 868. Binary Gap
 

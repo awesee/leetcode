@@ -1,2 +1,2 @@
-## 682 Baseball Game
+## 682. Baseball Game
 

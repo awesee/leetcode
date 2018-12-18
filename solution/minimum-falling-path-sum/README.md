@@ -1,2 +1,2 @@
-## 931 Minimum Falling Path Sum
+## 931. Minimum Falling Path Sum
 

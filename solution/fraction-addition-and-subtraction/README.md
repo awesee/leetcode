@@ -1,2 +1,2 @@
-## 592 Fraction Addition and Subtraction
+## 592. Fraction Addition and Subtraction
 

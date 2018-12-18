@@ -1,2 +1,2 @@
-## 276 Paint Fence
+## 276. Paint Fence
 

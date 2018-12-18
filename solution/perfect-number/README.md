@@ -1,2 +1,2 @@
-## 507 Perfect Number
+## 507. Perfect Number
 

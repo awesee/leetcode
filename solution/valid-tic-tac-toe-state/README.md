@@ -1,2 +1,2 @@
-## 794 Valid Tic-Tac-Toe State
+## 794. Valid Tic-Tac-Toe State
 

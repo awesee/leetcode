@@ -1,2 +1,2 @@
-## 882 Reachable Nodes In Subdivided Graph
+## 882. Reachable Nodes In Subdivided Graph
 

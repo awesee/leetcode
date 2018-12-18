@@ -1,2 +1,2 @@
-## 161 One Edit Distance
+## 161. One Edit Distance
 

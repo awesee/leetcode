@@ -1,2 +1,2 @@
-## 305 Number of Islands II
+## 305. Number of Islands II
 

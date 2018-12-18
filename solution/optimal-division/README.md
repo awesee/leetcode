@@ -1,2 +1,2 @@
-## 553 Optimal Division
+## 553. Optimal Division
 

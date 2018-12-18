@@ -1,2 +1,2 @@
-## 173 Binary Search Tree Iterator
+## 173. Binary Search Tree Iterator
 

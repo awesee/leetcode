@@ -1,2 +1,2 @@
-## 932 Beautiful Array
+## 932. Beautiful Array
 

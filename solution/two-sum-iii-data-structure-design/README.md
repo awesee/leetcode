@@ -1,2 +1,2 @@
-## 170 Two Sum III - Data structure design
+## 170. Two Sum III - Data structure design
 

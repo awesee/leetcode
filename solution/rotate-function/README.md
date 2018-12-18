@@ -1,2 +1,2 @@
-## 396 Rotate Function
+## 396. Rotate Function
 

@@ -1,2 +1,2 @@
-## 115 Distinct Subsequences
+## 115. Distinct Subsequences
 

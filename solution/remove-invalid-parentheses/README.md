@@ -1,2 +1,2 @@
-## 301 Remove Invalid Parentheses
+## 301. Remove Invalid Parentheses
 

@@ -1,2 +1,2 @@
-## 582 Kill Process
+## 582. Kill Process
 

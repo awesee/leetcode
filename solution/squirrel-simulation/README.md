@@ -1,2 +1,2 @@
-## 573 Squirrel Simulation
+## 573. Squirrel Simulation
 

@@ -1,2 +1,2 @@
-## 37 Sudoku Solver
+## 37. Sudoku Solver
 

@@ -1,2 +1,2 @@
-## 788 Rotated Digits
+## 788. Rotated Digits
 

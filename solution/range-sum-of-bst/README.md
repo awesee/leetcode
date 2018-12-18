@@ -1,2 +1,2 @@
-## 938 Range Sum of BST
+## 938. Range Sum of BST
 

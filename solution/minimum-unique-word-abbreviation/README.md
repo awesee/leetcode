@@ -1,2 +1,2 @@
-## 411 Minimum Unique Word Abbreviation
+## 411. Minimum Unique Word Abbreviation
 

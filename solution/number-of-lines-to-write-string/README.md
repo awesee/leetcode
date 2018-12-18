@@ -1,2 +1,2 @@
-## 806 Number of Lines To Write String
+## 806. Number of Lines To Write String
 

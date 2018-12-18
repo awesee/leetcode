@@ -1,2 +1,2 @@
-## 442 Find All Duplicates in an Array
+## 442. Find All Duplicates in an Array
 

@@ -1,2 +1,2 @@
-## 364 Nested List Weight Sum II
+## 364. Nested List Weight Sum II
 

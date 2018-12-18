@@ -1,2 +1,2 @@
-## 719 Find K-th Smallest Pair Distance
+## 719. Find K-th Smallest Pair Distance
 

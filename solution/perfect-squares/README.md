@@ -1,2 +1,2 @@
-## 279 Perfect Squares
+## 279. Perfect Squares
 

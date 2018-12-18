@@ -1,2 +1,2 @@
-## 702 Search in a Sorted Array of Unknown Size
+## 702. Search in a Sorted Array of Unknown Size
 

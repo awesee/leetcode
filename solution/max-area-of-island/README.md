@@ -1,2 +1,2 @@
-## 695 Max Area of Island
+## 695. Max Area of Island
 

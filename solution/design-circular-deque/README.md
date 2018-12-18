@@ -1,2 +1,2 @@
-## 641 Design Circular Deque
+## 641. Design Circular Deque
 

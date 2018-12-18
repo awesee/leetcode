@@ -1,2 +1,2 @@
-## 145 Binary Tree Postorder Traversal
+## 145. Binary Tree Postorder Traversal
 

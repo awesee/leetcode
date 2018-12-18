@@ -1,2 +1,2 @@
-## 310 Minimum Height Trees
+## 310. Minimum Height Trees
 

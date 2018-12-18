@@ -1,2 +1,2 @@
-## 248 Strobogrammatic Number III
+## 248. Strobogrammatic Number III
 

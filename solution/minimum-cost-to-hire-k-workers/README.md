@@ -1,2 +1,2 @@
-## 857 Minimum Cost to Hire K Workers
+## 857. Minimum Cost to Hire K Workers
 

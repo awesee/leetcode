@@ -1,2 +1,2 @@
-## 478 Generate Random Point in a Circle
+## 478. Generate Random Point in a Circle
 

@@ -1,2 +1,2 @@
-## 486 Predict the Winner
+## 486. Predict the Winner
 

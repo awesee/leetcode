@@ -1,2 +1,2 @@
-## 251 Flatten 2D Vector
+## 251. Flatten 2D Vector
 

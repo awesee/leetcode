@@ -1,2 +1,2 @@
-## 625 Minimum Factorization
+## 625. Minimum Factorization
 

@@ -1,2 +1,2 @@
-## 880 Decoded String at Index
+## 880. Decoded String at Index
 

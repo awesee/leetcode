@@ -1,2 +1,2 @@
-## 229 Majority Element II
+## 229. Majority Element II
 

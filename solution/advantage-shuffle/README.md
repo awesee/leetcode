@@ -1,2 +1,2 @@
-## 870 Advantage Shuffle
+## 870. Advantage Shuffle
 

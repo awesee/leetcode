@@ -1,2 +1,2 @@
-## 482 License Key Formatting
+## 482. License Key Formatting
 

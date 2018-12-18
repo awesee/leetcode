@@ -1,2 +1,2 @@
-## 754 Reach a Number
+## 754. Reach a Number
 

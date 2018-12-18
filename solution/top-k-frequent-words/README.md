@@ -1,2 +1,2 @@
-## 692 Top K Frequent Words
+## 692. Top K Frequent Words
 

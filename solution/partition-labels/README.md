@@ -1,2 +1,2 @@
-## 763 Partition Labels
+## 763. Partition Labels
 

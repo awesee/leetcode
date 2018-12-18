@@ -1,2 +1,2 @@
-## 759 Employee Free Time
+## 759. Employee Free Time
 

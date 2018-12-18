@@ -1,2 +1,2 @@
-## 758 Bold Words in String
+## 758. Bold Words in String
 

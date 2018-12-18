@@ -1,2 +1,2 @@
-## 427 Construct Quad Tree
+## 427. Construct Quad Tree
 

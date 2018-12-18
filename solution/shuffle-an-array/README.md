@@ -1,2 +1,2 @@
-## 384 Shuffle an Array
+## 384. Shuffle an Array
 

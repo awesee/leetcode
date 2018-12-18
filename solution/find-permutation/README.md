@@ -1,2 +1,2 @@
-## 484 Find Permutation
+## 484. Find Permutation
 

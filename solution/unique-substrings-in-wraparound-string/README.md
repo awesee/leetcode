@@ -1,2 +1,2 @@
-## 467 Unique Substrings in Wraparound String
+## 467. Unique Substrings in Wraparound String
 

@@ -1,2 +1,2 @@
-## 529 Minesweeper
+## 529. Minesweeper
 

@@ -1,2 +1,2 @@
-## 919 Complete Binary Tree Inserter
+## 919. Complete Binary Tree Inserter
 

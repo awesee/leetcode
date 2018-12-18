@@ -1,2 +1,2 @@
-## 940 Distinct Subsequences II
+## 940. Distinct Subsequences II
 

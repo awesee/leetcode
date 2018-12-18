@@ -1,2 +1,2 @@
-## 954 Array of Doubled Pairs
+## 954. Array of Doubled Pairs
 

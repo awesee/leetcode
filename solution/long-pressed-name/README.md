@@ -1,2 +1,2 @@
-## 925 Long Pressed Name
+## 925. Long Pressed Name
 

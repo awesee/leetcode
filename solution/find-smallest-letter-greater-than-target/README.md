@@ -1,2 +1,2 @@
-## 744 Find Smallest Letter Greater Than Target
+## 744. Find Smallest Letter Greater Than Target
 

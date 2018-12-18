@@ -1,2 +1,2 @@
-## 871 Minimum Number of Refueling Stops
+## 871. Minimum Number of Refueling Stops
 

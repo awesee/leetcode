@@ -1,2 +1,2 @@
-## 898 Bitwise ORs of Subarrays
+## 898. Bitwise ORs of Subarrays
 

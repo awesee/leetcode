@@ -1,2 +1,2 @@
-## 670 Maximum Swap
+## 670. Maximum Swap
 

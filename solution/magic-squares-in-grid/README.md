@@ -1,2 +1,2 @@
-## 840 Magic Squares In Grid
+## 840. Magic Squares In Grid
 

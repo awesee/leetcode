@@ -1,2 +1,2 @@
-## 598 Range Addition II
+## 598. Range Addition II
 

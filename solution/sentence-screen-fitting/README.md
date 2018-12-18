@@ -1,2 +1,2 @@
-## 418 Sentence Screen Fitting
+## 418. Sentence Screen Fitting
 

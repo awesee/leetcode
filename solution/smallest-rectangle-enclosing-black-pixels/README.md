@@ -1,2 +1,2 @@
-## 302 Smallest Rectangle Enclosing Black Pixels
+## 302. Smallest Rectangle Enclosing Black Pixels
 

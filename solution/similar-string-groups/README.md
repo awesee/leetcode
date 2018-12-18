@@ -1,2 +1,2 @@
-## 839 Similar String Groups
+## 839. Similar String Groups
 

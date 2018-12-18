@@ -1,2 +1,2 @@
-## 420 Strong Password Checker
+## 420. Strong Password Checker
 

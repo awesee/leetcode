@@ -1,2 +1,2 @@
-## 681 Next Closest Time
+## 681. Next Closest Time
 

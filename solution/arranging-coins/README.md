@@ -1,2 +1,2 @@
-## 441 Arranging Coins
+## 441. Arranging Coins
 

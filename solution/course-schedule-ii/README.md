@@ -1,2 +1,2 @@
-## 210 Course Schedule II
+## 210. Course Schedule II
 

@@ -1,2 +1,2 @@
-## 934 Shortest Bridge
+## 934. Shortest Bridge
 

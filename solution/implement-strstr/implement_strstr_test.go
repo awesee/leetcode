@@ -8,7 +8,7 @@ type caseType struct {
 	expected int
 }
 
-func TestTwoSum(t *testing.T) {
+func TestStrStr(t *testing.T) {
 	tests := [...]caseType{
 		{
 			haystack: "hello",

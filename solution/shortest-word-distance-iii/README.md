@@ -1,2 +1,2 @@
-## 245 Shortest Word Distance III
+## 245. Shortest Word Distance III
 

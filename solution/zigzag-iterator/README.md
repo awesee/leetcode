@@ -1,2 +1,2 @@
-## 281 Zigzag Iterator
+## 281. Zigzag Iterator
 
