@@ -1,0 +1,2 @@
+package longest_univalue_path
+

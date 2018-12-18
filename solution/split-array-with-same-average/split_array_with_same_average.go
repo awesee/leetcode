@@ -1,0 +1,2 @@
+package split_array_with_same_average
+

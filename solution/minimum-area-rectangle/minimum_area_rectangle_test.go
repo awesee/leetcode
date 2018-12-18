@@ -1,0 +1,2 @@
+package minimum_area_rectangle
+
