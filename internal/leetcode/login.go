@@ -7,7 +7,8 @@ import (
 )
 
 func AccountsLogin(user string, pwd string) (*http.Response, error) {
-	resp, _ := http.Head(AccountsLoginUrl)
+	resp, err := http.Head(AccountsLoginUrl)
+	checkErr(err)
 	cookies := resp.Cookies()
 	saveCookies(cookies)
 	csrftoken := getCsrfToken(cookies)
@@ -17,9 +18,7 @@ func AccountsLogin(user string, pwd string) (*http.Response, error) {
 		"csrfmiddlewaretoken": {csrftoken},
 	}
 	req, err := http.NewRequest("POST", AccountsLoginUrl, strings.NewReader(data.Encode()))
-	if err != nil {
-		return nil, err
-	}
+	checkErr(err)
 	req.Header.Set("Content-Type", "application/x-www-form-urlencoded")
 	req.Header.Set("Referer", AccountsLoginUrl)
 	for _, cookie := range cookies {

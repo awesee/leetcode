@@ -30,13 +30,15 @@ func getPath(f string) string {
 	if err == nil && u.HomeDir != "" {
 		dir = path.Join(u.HomeDir, ".leetcode")
 	}
-	os.MkdirAll(dir, 0755)
+	err = os.MkdirAll(dir, 0755)
+	checkErr(err)
 	return path.Join(dir, f)
 }
 
 func saveCookies(cookies []*http.Cookie) {
-	data, _ := json.Marshal(cookies)
-	err := ioutil.WriteFile(getPath(cookiesFile), data, 0755)
+	data, err := json.Marshal(cookies)
+	checkErr(err)
+	err = ioutil.WriteFile(getPath(cookiesFile), data, 0755)
 	checkErr(err)
 }
 
