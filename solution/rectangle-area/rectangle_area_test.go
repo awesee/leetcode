@@ -1,0 +1,2 @@
+package rectangle_area
+

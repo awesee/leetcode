@@ -1,0 +1,2 @@
+package maximal_square
+

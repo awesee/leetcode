@@ -1,0 +1,2 @@
+package random_point_in_non_overlapping_rectangles
+

@@ -1,0 +1,2 @@
+package consecutive_available_seats
+

@@ -1,0 +1,2 @@
+package majority_element
+

@@ -1,0 +1,2 @@
+package encode_string_with_shortest_length
+
