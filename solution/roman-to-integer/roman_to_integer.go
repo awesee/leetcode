@@ -15,7 +15,7 @@ func romanToInt(s string) int {
 	p := 0
 	l := len(s)
 	for i := 0; i < l; i++ {
-		k := s[i:i+1]
+		k := s[i : i+1]
 		if v, ok := m[k]; ok {
 			if v > p {
 				r -= p * 2
