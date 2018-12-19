@@ -20,7 +20,7 @@ func runHelp(cmd *base.Command, args []string) {
 	cmdName := args[0]
 	for _, cmd := range base.Commands {
 		if cmd.Name() == cmdName {
-			cmd.Usage()
+			cmd.UsageHelp()
 		}
 	}
 	fmt.Printf("%s help %s: unknown help topic.\n", base.CmdName, cmdName)

@@ -31,6 +31,12 @@ func (c *Command) Usage() {
 	Exit()
 }
 
+func (c *Command) UsageHelp() {
+	fmt.Printf("usage: %s %s\n", CmdName, c.UsageLine)
+	fmt.Println(c.Long)
+	Exit()
+}
+
 func Usage() {
 	fmt.Printf("%s is a tool for managing leetcode source code.\n\n", CmdName)
 	fmt.Println("Usage:")
