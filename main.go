@@ -7,11 +7,13 @@ import (
 
 	"github.com/openset/leetcode/internal/base"
 	"github.com/openset/leetcode/internal/help"
+	"github.com/openset/leetcode/internal/readme"
 	"github.com/openset/leetcode/internal/version"
 )
 
 func init() {
 	base.Commands = []*base.Command{
+		readme.CmdReadme,
 		version.CmdVersion,
 		help.CmdHelp,
 	}
