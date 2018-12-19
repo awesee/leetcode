@@ -61,7 +61,7 @@ func (d difficultyType) LevelName() string {
 	return m[d.Level]
 }
 
-func ProblemsAll() ProblemsAllType {
+func ProblemsAll() (pa ProblemsAllType) {
 	resp, err := http.Get(ApiProblemsAllUrl)
 	checkErr(err)
 	defer resp.Body.Close()
@@ -72,8 +72,7 @@ func ProblemsAll() ProblemsAllType {
 	checkErr(err)
 	err = ioutil.WriteFile(getPath(problemsAllFile), dst.Bytes(), 0755)
 	checkErr(err)
-	r := ProblemsAllType{}
-	err = json.Unmarshal(body, &r)
+	err = json.Unmarshal(body, &pa)
 	checkErr(err)
-	return r
+	return
 }
