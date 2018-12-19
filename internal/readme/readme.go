@@ -35,10 +35,14 @@ func writeProblems(wb *bytes.Buffer) {
 	for _, problem := range problems.StatStatusPairs {
 		id := problem.Stat.FrontendQuestionId
 		title := strings.TrimSpace(problem.Stat.QuestionTitle)
+		needPaid := ""
+		if problem.PaidOnly {
+			needPaid += " 🔒"
+		}
 		slug := problem.Stat.QuestionTitleSlug
 		levelName := problem.Difficulty.LevelName()
-		format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s) | [Go](https://github.com/openset/leetcode/tree/master/solution/%s) | %s |\n"
-		problemsSet[id] = fmt.Sprintf(format, id, id, title, slug, slug, levelName)
+		format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s)%s | [Go](https://github.com/openset/leetcode/tree/master/solution/%s) | %s |\n"
+		problemsSet[id] = fmt.Sprintf(format, id, id, title, slug, needPaid, slug, levelName)
 		if id > maxId {
 			maxId = id
 		}
