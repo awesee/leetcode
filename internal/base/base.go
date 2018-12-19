@@ -45,6 +45,12 @@ func Usage() {
 	Exit()
 }
 
+func CheckErr(err error) {
+	if err != nil {
+		panic(err)
+	}
+}
+
 func Exit() {
 	os.Exit(0)
 }
