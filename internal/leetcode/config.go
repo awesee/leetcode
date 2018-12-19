@@ -9,6 +9,8 @@ const (
 	SubmissionsLatestUrl = "https://leetcode.com/submissions/latest/"
 )
 
-const cookiesFile = "cookies"
+const cookiesFile = "cookies.json"
 
 const credentialsFile = "credentials"
+
+const problemsAllFile = "problems_all.json"
