@@ -21,9 +21,9 @@ func runReadme(cmd *base.Command, args []string) {
 	if len(args) != 0 {
 		cmd.Usage()
 	}
-	wb := bytes.NewBuffer(nil)
+	var wb bytes.Buffer
 	wb.WriteString(defaultStr)
-	writeProblems(wb)
+	writeProblems(&wb)
 	err := ioutil.WriteFile("README.md", wb.Bytes(), 0644)
 	base.CheckErr(err)
 }
@@ -37,8 +37,8 @@ func writeProblems(wb *bytes.Buffer) {
 		title := strings.TrimSpace(problem.Stat.QuestionTitle)
 		slug := problem.Stat.QuestionTitleSlug
 		levelName := problem.Difficulty.LevelName()
-		format := "| %d | [%s](https://leetcode.com/problems/%s) | [Go](https://github.com/openset/leetcode/tree/master/solution/%s) | %s |\n"
-		problemsSet[id] = fmt.Sprintf(format, id, title, slug, slug, levelName)
+		format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s) | [Go](https://github.com/openset/leetcode/tree/master/solution/%s) | %s |\n"
+		problemsSet[id] = fmt.Sprintf(format, id, id, title, slug, slug, levelName)
 		if id > maxId {
 			maxId = id
 		}
