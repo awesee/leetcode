@@ -1,39 +1,53 @@
 ## 20. Valid Parentheses
 
-Given a string containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+<p>Given a string containing just the characters <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, <code>&#39;{&#39;</code>, <code>&#39;}&#39;</code>, <code>&#39;[&#39;</code> and <code>&#39;]&#39;</code>, determine if the input string is valid.</p>
 
-An input string is valid if:
-  1. Open brackets must be closed by the same type of brackets.
-  1. Open brackets must be closed in the correct order.
-  
-Note that an empty string is also considered valid.
+<p>An input string is valid if:</p>
 
-**Example 1:**
-```text
-Input: "()"
-Output: true
-```
+<ol>
+	<li>Open brackets must be closed by the same type of brackets.</li>
+	<li>Open brackets must be closed in the correct order.</li>
+</ol>
 
-**Example 2:**
-```text
-Input: "()[]{}"
-Output: true
-```
+<p>Note that an empty string is&nbsp;also considered valid.</p>
 
-**Example 3:**
-```text
-Input: "(]"
-Output: false
-```
+<p><strong>Example 1:</strong></p>
 
-**Example 4:**
-```text
-Input: "([)]"
-Output: false
-```
+<pre>
+<strong>Input:</strong> &quot;()&quot;
+<strong>Output:</strong> true
+</pre>
 
-**Example 5:**
-```text
-Input: "{[]}"
-Output: true
-```
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> &quot;()[]{}&quot;
+<strong>Output:</strong> true
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> &quot;(]&quot;
+<strong>Output:</strong> false
+</pre>
+
+<p><strong>Example 4:</strong></p>
+
+<pre>
+<strong>Input:</strong> &quot;([)]&quot;
+<strong>Output:</strong> false
+</pre>
+
+<p><strong>Example 5:</strong></p>
+
+<pre>
+<strong>Input:</strong> &quot;{[]}&quot;
+<strong>Output:</strong> true
+</pre>
+
+
+### Similar Questions
+  1. [Generate Parentheses](https://github.com/openset/leetcode/tree/master/solution/generate-parentheses)(Medium)
+  1. [Longest Valid Parentheses](https://github.com/openset/leetcode/tree/master/solution/longest-valid-parentheses)(Hard)
+  1. [Remove Invalid Parentheses](https://github.com/openset/leetcode/tree/master/solution/remove-invalid-parentheses)(Hard)

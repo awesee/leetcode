@@ -1,2 +1,33 @@
 ## 287. Find the Duplicate Number
 
+<p>Given an array <i>nums</i> containing <i>n</i> + 1 integers where each integer is between 1 and <i>n</i> (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one.</p>
+
+<p><b>Example 1:</b></p>
+
+<pre>
+<b>Input:</b> <code>[1,3,4,2,2]</code>
+<b>Output:</b> 2
+</pre>
+
+<p><b>Example 2:</b></p>
+
+<pre>
+<b>Input:</b> [3,1,3,4,2]
+<b>Output:</b> 3</pre>
+
+<p><b>Note:</b></p>
+
+<ol>
+	<li>You <b>must not</b> modify the array (assume the array is read only).</li>
+	<li>You must use only constant, <i>O</i>(1) extra space.</li>
+	<li>Your runtime complexity should be less than <em>O</em>(<em>n</em><sup>2</sup>).</li>
+	<li>There is only one duplicate number in the array, but it could be repeated more than once.</li>
+</ol>
+
+
+### Similar Questions
+  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/solution/first-missing-positive)(Hard)
+  1. [Single Number](https://github.com/openset/leetcode/tree/master/solution/single-number)(Easy)
+  1. [Linked List Cycle II](https://github.com/openset/leetcode/tree/master/solution/linked-list-cycle-ii)(Medium)
+  1. [Missing Number](https://github.com/openset/leetcode/tree/master/solution/missing-number)(Easy)
+  1. [Set Mismatch](https://github.com/openset/leetcode/tree/master/solution/set-mismatch)(Easy)

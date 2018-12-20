@@ -1,2 +1,11 @@
 ## 457. Circular Array Loop
 
+<p>You are given an array of positive and negative integers. If a number n at an index is positive, then move forward n steps. Conversely, if it&#39;s negative (-n), move backward n steps. Assume the first element of the array is forward next to the last element, and the last element is backward next to the first element. Determine if there is a loop in this array. A loop starts and ends at a particular index with more than 1 element along the loop. The loop must be &quot;forward&quot; or &quot;backward&#39;.</p>
+
+<p><b>Example 1:</b> Given the array [2, -1, 1, 2, 2], there is a loop, from index 0 -&gt; 2 -&gt; 3 -&gt; 0.</p>
+
+<p><b>Example 2:</b> Given the array [-1, 2], there is no loop.</p>
+
+<p><b>Note:</b> The given array is guaranteed to contain no element &quot;0&quot;.</p>
+
+<p>Can you do it in <b>O(n)</b> time complexity and <b>O(1)</b> space complexity?</p>
