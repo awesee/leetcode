@@ -64,14 +64,18 @@ func getFilePath(f string) string {
 	return f
 }
 
-func saveCookies(cookies []*http.Cookie) {
-	data, err := json.Marshal(cookies)
+func filePutContents(filename string, v interface{}) {
+	data, err := json.Marshal(v)
 	checkErr(err)
 	dst := bytes.Buffer{}
 	err = json.Indent(&dst, data, "", "\t")
 	checkErr(err)
-	err = ioutil.WriteFile(getCachePath(cookiesFile), dst.Bytes(), 0644)
+	err = ioutil.WriteFile(getCachePath(filename), dst.Bytes(), 0644)
 	checkErr(err)
+}
+
+func saveCookies(cookies []*http.Cookie) {
+	filePutContents(cookiesFile, cookies)
 }
 
 func getCookies() (cookies []*http.Cookie) {
@@ -82,14 +86,8 @@ func getCookies() (cookies []*http.Cookie) {
 	return
 }
 
-func saveCredential(v url.Values) {
-	data, err := json.Marshal(v)
-	checkErr(err)
-	dst := bytes.Buffer{}
-	err = json.Indent(&dst, data, "", "\t")
-	checkErr(err)
-	err = ioutil.WriteFile(getCachePath(credentialsFile), dst.Bytes(), 0644)
-	checkErr(err)
+func saveCredential(data url.Values) {
+	filePutContents(credentialsFile, data)
 }
 
 func getCredential() (data url.Values) {
