@@ -9,11 +9,13 @@ Usage:
 	leetcode <command> [arguments]
 The commands are:
 	readme      	build README.md file
-	helper      	build helper file
+	page        	build index.md file
 	question    	build problem description file
+	open        	open a problem solution in browser
+	description 	build all problems description file
 	test        	run go test
 	update      	update self
-	description 	build all problems description file
+	helper      	build helper file
 	version     	print leetcode version
 	help        	show command usage
 
