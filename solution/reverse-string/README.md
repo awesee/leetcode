@@ -1,4 +1,4 @@
-## 344. Reverse String
+## 344. Reverse String (Easy)
 
 <p>Write a function that takes a string as input and returns the string reversed.</p>
 
@@ -22,5 +22,5 @@
 
 
 ### Similar Questions
-  1. [Reverse Vowels of a String](https://github.com/openset/leetcode/tree/master/solution/reverse-vowels-of-a-string)(Easy)
-  1. [Reverse String II](https://github.com/openset/leetcode/tree/master/solution/reverse-string-ii)(Easy)
+  1. [Reverse Vowels of a String](https://github.com/openset/leetcode/tree/master/solution/reverse-vowels-of-a-string) (Easy)
+  1. [Reverse String II](https://github.com/openset/leetcode/tree/master/solution/reverse-string-ii) (Easy)

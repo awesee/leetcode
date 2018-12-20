@@ -1,4 +1,4 @@
-## 233. Number of Digit One
+## 233. Number of Digit One (Hard)
 
 <p>Given an integer n, count the total number of digit 1 appearing in all non-negative integers less than or equal to n.</p>
 
@@ -12,4 +12,4 @@
 
 
 ### Similar Questions
-  1. [Factorial Trailing Zeroes](https://github.com/openset/leetcode/tree/master/solution/factorial-trailing-zeroes)(Easy)
+  1. [Factorial Trailing Zeroes](https://github.com/openset/leetcode/tree/master/solution/factorial-trailing-zeroes) (Easy)

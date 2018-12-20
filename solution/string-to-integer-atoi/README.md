@@ -1,4 +1,4 @@
-## 8. String to Integer (atoi)
+## 8. String to Integer (atoi) (Medium)
 
 <p>Implement <code><span>atoi</span></code> which&nbsp;converts a string to an integer.</p>
 
@@ -59,5 +59,5 @@
 
 
 ### Similar Questions
-  1. [Reverse Integer](https://github.com/openset/leetcode/tree/master/solution/reverse-integer)(Easy)
-  1. [Valid Number](https://github.com/openset/leetcode/tree/master/solution/valid-number)(Hard)
+  1. [Reverse Integer](https://github.com/openset/leetcode/tree/master/solution/reverse-integer) (Easy)
+  1. [Valid Number](https://github.com/openset/leetcode/tree/master/solution/valid-number) (Hard)

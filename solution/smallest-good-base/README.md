@@ -1,4 +1,4 @@
-## 483. Smallest Good Base
+## 483. Smallest Good Base (Hard)
 
 <p>For an integer n, we call k>=2 a <i><b>good base</b></i> of n, if all digits of n base k are 1.</p>
 <p>Now given a string representing n, you should return the smallest good base of n in string format. <br/></p>

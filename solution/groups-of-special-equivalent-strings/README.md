@@ -1,4 +1,4 @@
-## 893. Groups of Special-Equivalent Strings
+## 893. Groups of Special-Equivalent Strings (Easy)
 
 <p>You are given an array <code>A</code> of strings.</p>
 

@@ -1,4 +1,4 @@
-## 145. Binary Tree Postorder Traversal
+## 145. Binary Tree Postorder Traversal (Hard)
 
 <p>Given a binary tree, return the <em>postorder</em> traversal of its nodes&#39; values.</p>
 
@@ -19,5 +19,5 @@
 
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal)(Medium)
-  1. [N-ary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-postorder-traversal)(Easy)
+  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal) (Medium)
+  1. [N-ary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-postorder-traversal) (Easy)

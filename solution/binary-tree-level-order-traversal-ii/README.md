@@ -1,4 +1,4 @@
-## 107. Binary Tree Level Order Traversal II
+## 107. Binary Tree Level Order Traversal II (Easy)
 
 <p>Given a binary tree, return the <i>bottom-up level order</i> traversal of its nodes' values. (ie, from left to right, level by level from leaf to root).</p>
 
@@ -25,5 +25,5 @@ return its bottom-up level order traversal as:<br />
 </p>
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-level-order-traversal)(Medium)
-  1. [Average of Levels in Binary Tree](https://github.com/openset/leetcode/tree/master/solution/average-of-levels-in-binary-tree)(Easy)
+  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-level-order-traversal) (Medium)
+  1. [Average of Levels in Binary Tree](https://github.com/openset/leetcode/tree/master/solution/average-of-levels-in-binary-tree) (Easy)

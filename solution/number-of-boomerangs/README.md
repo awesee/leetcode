@@ -1,4 +1,4 @@
-## 447. Number of Boomerangs
+## 447. Number of Boomerangs (Easy)
 
 <p>Given <i>n</i> points in the plane that are all pairwise distinct, a "boomerang" is a tuple of points <code>(i, j, k)</code> such that the distance between <code>i</code> and <code>j</code> equals the distance between <code>i</code> and <code>k</code> (<b>the order of the tuple matters</b>).</p>
 
@@ -18,4 +18,4 @@ The two boomerangs are <b>[[1,0],[0,0],[2,0]]</b> and <b>[[1,0],[2,0],[0,0]]</b>
 </p>
 
 ### Similar Questions
-  1. [Line Reflection](https://github.com/openset/leetcode/tree/master/solution/line-reflection)(Medium)
+  1. [Line Reflection](https://github.com/openset/leetcode/tree/master/solution/line-reflection) (Medium)

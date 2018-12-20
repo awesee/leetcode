@@ -1,4 +1,4 @@
-## 749. Contain Virus
+## 749. Contain Virus (Hard)
 
 <p>
 A virus is spreading rapidly, and your task is to quarantine the infected area by installing walls.

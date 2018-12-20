@@ -1,4 +1,4 @@
-## 843. Guess the Word
+## 843. Guess the Word (Hard)
 
 <p>This problem is an&nbsp;<strong><em>interactive problem</em></strong>&nbsp;new to the LeetCode platform.</p>
 

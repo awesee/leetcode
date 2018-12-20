@@ -1,4 +1,4 @@
-## 241. Different Ways to Add Parentheses
+## 241. Different Ways to Add Parentheses (Medium)
 
 <p>Given a string of numbers and operators, return all possible results from computing all the different possible ways to group numbers and operators. The valid operators are <code>+</code>, <code>-</code> and <code>*</code>.</p>
 
@@ -25,6 +25,6 @@
 </strong></pre>
 
 ### Similar Questions
-  1. [Unique Binary Search Trees II](https://github.com/openset/leetcode/tree/master/solution/unique-binary-search-trees-ii)(Medium)
-  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/solution/basic-calculator)(Hard)
-  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/solution/expression-add-operators)(Hard)
+  1. [Unique Binary Search Trees II](https://github.com/openset/leetcode/tree/master/solution/unique-binary-search-trees-ii) (Medium)
+  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/solution/basic-calculator) (Hard)
+  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/solution/expression-add-operators) (Hard)

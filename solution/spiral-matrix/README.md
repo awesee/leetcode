@@ -1,4 +1,4 @@
-## 54. Spiral Matrix
+## 54. Spiral Matrix (Medium)
 
 <p>Given a matrix of <em>m</em> x <em>n</em> elements (<em>m</em> rows, <em>n</em> columns), return all elements of the matrix in spiral order.</p>
 
@@ -26,4 +26,4 @@
 </pre>
 
 ### Similar Questions
-  1. [Spiral Matrix II](https://github.com/openset/leetcode/tree/master/solution/spiral-matrix-ii)(Medium)
+  1. [Spiral Matrix II](https://github.com/openset/leetcode/tree/master/solution/spiral-matrix-ii) (Medium)

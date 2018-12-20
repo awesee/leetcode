@@ -1,4 +1,4 @@
-## 164. Maximum Gap
+## 164. Maximum Gap (Hard)
 
 <p>Given an unsorted array, find the maximum difference between the successive elements in its sorted form.</p>
 

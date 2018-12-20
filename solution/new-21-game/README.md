@@ -1,4 +1,4 @@
-## 837. New 21 Game
+## 837. New 21 Game (Medium)
 
 <p>Alice plays the following game, loosely based on the card game &quot;21&quot;.</p>
 

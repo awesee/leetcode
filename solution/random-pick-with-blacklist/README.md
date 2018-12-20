@@ -1,4 +1,4 @@
-## 710. Random Pick with Blacklist
+## 710. Random Pick with Blacklist (Hard)
 
 <p>Given a blacklist&nbsp;<code>B</code> containing unique integers&nbsp;from <code>[0, N)</code>, write a function to return a uniform random integer from <code>[0, N)</code> which is <strong>NOT</strong>&nbsp;in <code>B</code>.</p>
 
@@ -54,5 +54,5 @@
 
 
 ### Similar Questions
-  1. [Random Pick Index](https://github.com/openset/leetcode/tree/master/solution/random-pick-index)(Medium)
-  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/solution/random-pick-with-weight)(Medium)
+  1. [Random Pick Index](https://github.com/openset/leetcode/tree/master/solution/random-pick-index) (Medium)
+  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/solution/random-pick-with-weight) (Medium)

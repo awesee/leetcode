@@ -1,4 +1,4 @@
-## 7. Reverse Integer
+## 7. Reverse Integer (Easy)
 
 <p>Given a 32-bit signed integer, reverse digits of an integer.</p>
 
@@ -28,5 +28,5 @@ Assume we are dealing with an environment which could only store integers within
 
 
 ### Similar Questions
-  1. [String to Integer (atoi)](https://github.com/openset/leetcode/tree/master/solution/string-to-integer-atoi)(Medium)
-  1. [Reverse Bits](https://github.com/openset/leetcode/tree/master/solution/reverse-bits)(Easy)
+  1. [String to Integer (atoi)](https://github.com/openset/leetcode/tree/master/solution/string-to-integer-atoi) (Medium)
+  1. [Reverse Bits](https://github.com/openset/leetcode/tree/master/solution/reverse-bits) (Easy)

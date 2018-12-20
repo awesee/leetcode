@@ -1,4 +1,4 @@
-## 74. Search a 2D Matrix
+## 74. Search a 2D Matrix (Medium)
 
 <p>Write an efficient algorithm that searches for a value in an <em>m</em> x <em>n</em> matrix. This matrix has the following properties:</p>
 
@@ -34,4 +34,4 @@ target = 13
 
 
 ### Similar Questions
-  1. [Search a 2D Matrix II](https://github.com/openset/leetcode/tree/master/solution/search-a-2d-matrix-ii)(Medium)
+  1. [Search a 2D Matrix II](https://github.com/openset/leetcode/tree/master/solution/search-a-2d-matrix-ii) (Medium)

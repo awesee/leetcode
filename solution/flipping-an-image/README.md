@@ -1,4 +1,4 @@
-## 832. Flipping an Image
+## 832. Flipping an Image (Easy)
 
 <p>Given a binary matrix <code>A</code>, we want to flip the image horizontally, then invert it, and return the resulting image.</p>
 

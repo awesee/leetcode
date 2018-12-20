@@ -1,4 +1,4 @@
-## 315. Count of Smaller Numbers After Self
+## 315. Count of Smaller Numbers After Self (Hard)
 
 <p>You are given an integer array <i>nums</i> and you have to return a new <i>counts</i> array. The <i>counts</i> array has the property where <code>counts[i]</code> is the number of smaller elements to the right of <code>nums[i]</code>.</p>
 
@@ -16,6 +16,6 @@ To the right of 1 there is <b>0</b> smaller element.
 
 
 ### Similar Questions
-  1. [Count of Range Sum](https://github.com/openset/leetcode/tree/master/solution/count-of-range-sum)(Hard)
-  1. [Queue Reconstruction by Height](https://github.com/openset/leetcode/tree/master/solution/queue-reconstruction-by-height)(Medium)
-  1. [Reverse Pairs](https://github.com/openset/leetcode/tree/master/solution/reverse-pairs)(Hard)
+  1. [Count of Range Sum](https://github.com/openset/leetcode/tree/master/solution/count-of-range-sum) (Hard)
+  1. [Queue Reconstruction by Height](https://github.com/openset/leetcode/tree/master/solution/queue-reconstruction-by-height) (Medium)
+  1. [Reverse Pairs](https://github.com/openset/leetcode/tree/master/solution/reverse-pairs) (Hard)

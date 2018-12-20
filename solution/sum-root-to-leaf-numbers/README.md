@@ -1,4 +1,4 @@
-## 129. Sum Root to Leaf Numbers
+## 129. Sum Root to Leaf Numbers (Medium)
 
 <p>Given a binary tree containing digits from <code>0-9</code> only, each root-to-leaf path could represent a number.</p>
 
@@ -39,5 +39,5 @@ Therefore, sum = 495 + 491 + 40 = <code>1026</code>.</pre>
 
 
 ### Similar Questions
-  1. [Path Sum](https://github.com/openset/leetcode/tree/master/solution/path-sum)(Easy)
-  1. [Binary Tree Maximum Path Sum](https://github.com/openset/leetcode/tree/master/solution/binary-tree-maximum-path-sum)(Hard)
+  1. [Path Sum](https://github.com/openset/leetcode/tree/master/solution/path-sum) (Easy)
+  1. [Binary Tree Maximum Path Sum](https://github.com/openset/leetcode/tree/master/solution/binary-tree-maximum-path-sum) (Hard)

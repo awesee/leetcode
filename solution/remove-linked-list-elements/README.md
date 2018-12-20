@@ -1,4 +1,4 @@
-## 203. Remove Linked List Elements
+## 203. Remove Linked List Elements (Easy)
 
 <p>Remove all elements from a linked list of integers that have value <b><i>val</i></b>.</p>
 
@@ -11,5 +11,5 @@
 
 
 ### Similar Questions
-  1. [Remove Element](https://github.com/openset/leetcode/tree/master/solution/remove-element)(Easy)
-  1. [Delete Node in a Linked List](https://github.com/openset/leetcode/tree/master/solution/delete-node-in-a-linked-list)(Easy)
+  1. [Remove Element](https://github.com/openset/leetcode/tree/master/solution/remove-element) (Easy)
+  1. [Delete Node in a Linked List](https://github.com/openset/leetcode/tree/master/solution/delete-node-in-a-linked-list) (Easy)

@@ -1,4 +1,4 @@
-## 814. Binary Tree Pruning
+## 814. Binary Tree Pruning (Medium)
 
 <p>We are given the head node <code>root</code>&nbsp;of a binary tree, where additionally every node&#39;s value is either a 0 or a 1.</p>
 

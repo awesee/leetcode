@@ -1,4 +1,4 @@
-## 768. Max Chunks To Make Sorted II
+## 768. Max Chunks To Make Sorted II (Hard)
 
 <p><em>This question is the same as &quot;Max Chunks to Make Sorted&quot; except the integers of the given array are not necessarily distinct, the input array could be up to length <code>2000</code>, and the elements could be up to <code>10**8</code>.</em></p>
 
@@ -39,4 +39,4 @@ However, splitting into [2, 1], [3], [4], [4] is the highest number of chunks po
 
 
 ### Similar Questions
-  1. [Max Chunks To Make Sorted](https://github.com/openset/leetcode/tree/master/solution/max-chunks-to-make-sorted)(Medium)
+  1. [Max Chunks To Make Sorted](https://github.com/openset/leetcode/tree/master/solution/max-chunks-to-make-sorted) (Medium)

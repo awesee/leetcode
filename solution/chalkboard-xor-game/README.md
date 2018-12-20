@@ -1,4 +1,4 @@
-## 810. Chalkboard XOR Game
+## 810. Chalkboard XOR Game (Hard)
 
 <p>We are given non-negative integers nums[i] which are written on a chalkboard.&nbsp; Alice and Bob take turns erasing exactly one number from the chalkboard, with Alice starting first.&nbsp; If erasing a number causes&nbsp;the bitwise XOR of all the elements of the chalkboard to become&nbsp;0, then that player loses.&nbsp; (Also, we&#39;ll say the bitwise XOR of one element is that element itself, and the bitwise XOR of no elements is 0.)</p>
 

@@ -1,4 +1,4 @@
-## 377. Combination Sum IV
+## 377. Combination Sum IV (Medium)
 
 <p> Given an integer array with all positive numbers and no duplicates, find the number of possible combinations that add up to a positive integer target.</p>
 
@@ -30,4 +30,4 @@ What limitation we need to add to the question to allow negative numbers? </p>
 <p><b>Credits:</b><br />Special thanks to <a href="https://leetcode.com/pbrother/">@pbrother</a> for adding this problem and creating all test cases.</p>
 
 ### Similar Questions
-  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/solution/combination-sum)(Medium)
+  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/solution/combination-sum) (Medium)

@@ -1,4 +1,4 @@
-## 845. Longest Mountain in Array
+## 845. Longest Mountain in Array (Medium)
 
 <p>Let&#39;s call any (contiguous) subarray B (of A)&nbsp;a <em>mountain</em> if the following properties hold:</p>
 

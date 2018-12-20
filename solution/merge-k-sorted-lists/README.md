@@ -1,4 +1,4 @@
-## 23. Merge k Sorted Lists
+## 23. Merge k Sorted Lists (Hard)
 
 <p>Merge <em>k</em> sorted linked lists and return it as one sorted list. Analyze and describe its complexity.</p>
 
@@ -16,5 +16,5 @@
 
 
 ### Similar Questions
-  1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/solution/merge-two-sorted-lists)(Easy)
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/solution/ugly-number-ii)(Medium)
+  1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/solution/merge-two-sorted-lists) (Easy)
+  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/solution/ugly-number-ii) (Medium)

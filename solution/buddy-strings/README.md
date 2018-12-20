@@ -1,4 +1,4 @@
-## 859. Buddy Strings
+## 859. Buddy Strings (Easy)
 
 <p>Given two strings <code>A</code> and <code>B</code>&nbsp;of lowercase letters, return <code>true</code> if and only if we&nbsp;can swap two letters in <code>A</code> so that the result equals <code>B</code>.</p>
 

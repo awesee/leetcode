@@ -1,4 +1,4 @@
-## 779. K-th Symbol in Grammar
+## 779. K-th Symbol in Grammar (Medium)
 
 <p>On the first row, we write a <code>0</code>. Now in every subsequent row, we look at the previous row and replace each occurrence of <code>0</code> with <code>01</code>, and each occurrence of <code>1</code> with <code>10</code>.</p>
 

@@ -1,4 +1,4 @@
-## 827. Making A Large Island
+## 827. Making A Large Island (Hard)
 
 <p>In a 2D grid of <code>0</code>s and <code>1</code>s, we change at most one <code>0</code> to a <code>1</code>.</p>
 

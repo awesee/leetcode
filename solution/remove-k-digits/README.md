@@ -1,4 +1,4 @@
-## 402. Remove K Digits
+## 402. Remove K Digits (Medium)
 
 <p>Given a non-negative integer <i>num</i> represented as a string, remove <i>k</i> digits from the number so that the new number is the smallest possible.
 </p>
@@ -36,5 +36,5 @@ Explanation: Remove all the digits from the number and it is left with nothing w
 </p>
 
 ### Similar Questions
-  1. [Create Maximum Number](https://github.com/openset/leetcode/tree/master/solution/create-maximum-number)(Hard)
-  1. [Monotone Increasing Digits](https://github.com/openset/leetcode/tree/master/solution/monotone-increasing-digits)(Medium)
+  1. [Create Maximum Number](https://github.com/openset/leetcode/tree/master/solution/create-maximum-number) (Hard)
+  1. [Monotone Increasing Digits](https://github.com/openset/leetcode/tree/master/solution/monotone-increasing-digits) (Medium)

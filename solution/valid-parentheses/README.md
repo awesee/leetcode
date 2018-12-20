@@ -1,4 +1,4 @@
-## 20. Valid Parentheses
+## 20. Valid Parentheses (Easy)
 
 <p>Given a string containing just the characters <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, <code>&#39;{&#39;</code>, <code>&#39;}&#39;</code>, <code>&#39;[&#39;</code> and <code>&#39;]&#39;</code>, determine if the input string is valid.</p>
 
@@ -48,6 +48,6 @@
 
 
 ### Similar Questions
-  1. [Generate Parentheses](https://github.com/openset/leetcode/tree/master/solution/generate-parentheses)(Medium)
-  1. [Longest Valid Parentheses](https://github.com/openset/leetcode/tree/master/solution/longest-valid-parentheses)(Hard)
-  1. [Remove Invalid Parentheses](https://github.com/openset/leetcode/tree/master/solution/remove-invalid-parentheses)(Hard)
+  1. [Generate Parentheses](https://github.com/openset/leetcode/tree/master/solution/generate-parentheses) (Medium)
+  1. [Longest Valid Parentheses](https://github.com/openset/leetcode/tree/master/solution/longest-valid-parentheses) (Hard)
+  1. [Remove Invalid Parentheses](https://github.com/openset/leetcode/tree/master/solution/remove-invalid-parentheses) (Hard)

@@ -1,4 +1,4 @@
-## 401. Binary Watch
+## 401. Binary Watch (Easy)
 
 <p>A binary watch has 4 LEDs on the top which represent the <b>hours</b> (<b>0-11</b>), and the 6 LEDs on the bottom represent the <b>minutes</b> (<b>0-59</b>).</p>
 <p>Each LED represents a zero or one, with the least significant bit on the right.</p>
@@ -20,5 +20,5 @@
 </p>
 
 ### Similar Questions
-  1. [Letter Combinations of a Phone Number](https://github.com/openset/leetcode/tree/master/solution/letter-combinations-of-a-phone-number)(Medium)
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/solution/number-of-1-bits)(Easy)
+  1. [Letter Combinations of a Phone Number](https://github.com/openset/leetcode/tree/master/solution/letter-combinations-of-a-phone-number) (Medium)
+  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/solution/number-of-1-bits) (Easy)

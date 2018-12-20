@@ -1,4 +1,4 @@
-## 133. Clone Graph
+## 133. Clone Graph (Medium)
 
 <p>Given the head of a&nbsp;graph, return a deep copy (clone) of the graph. Each node in the graph contains a <code>label</code>&nbsp;(<code>int</code>) and a list (<code>List[UndirectedGraphNode]</code>) of its <code>neighbors</code>. There is an edge between the given node and each of the nodes in its neighbors.</p>
 
@@ -38,4 +38,4 @@ We use <code>#</code> as a separator for each node, and <code>,</code> as a sepa
 
 
 ### Similar Questions
-  1. [Copy List with Random Pointer](https://github.com/openset/leetcode/tree/master/solution/copy-list-with-random-pointer)(Medium)
+  1. [Copy List with Random Pointer](https://github.com/openset/leetcode/tree/master/solution/copy-list-with-random-pointer) (Medium)

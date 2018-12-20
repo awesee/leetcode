@@ -1,4 +1,4 @@
-## 81. Search in Rotated Sorted Array II
+## 81. Search in Rotated Sorted Array II (Medium)
 
 <p>Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.</p>
 
@@ -28,4 +28,4 @@
 
 
 ### Similar Questions
-  1. [Search in Rotated Sorted Array](https://github.com/openset/leetcode/tree/master/solution/search-in-rotated-sorted-array)(Medium)
+  1. [Search in Rotated Sorted Array](https://github.com/openset/leetcode/tree/master/solution/search-in-rotated-sorted-array) (Medium)

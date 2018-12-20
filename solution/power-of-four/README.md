@@ -1,4 +1,4 @@
-## 342. Power of Four
+## 342. Power of Four (Easy)
 
 <p>Given an integer (signed 32 bits), write a function to check whether it is a power of 4.</p>
 
@@ -20,5 +20,5 @@
 <p><b>Follow up</b>: Could you solve it without loops/recursion?</p>
 
 ### Similar Questions
-  1. [Power of Two](https://github.com/openset/leetcode/tree/master/solution/power-of-two)(Easy)
-  1. [Power of Three](https://github.com/openset/leetcode/tree/master/solution/power-of-three)(Easy)
+  1. [Power of Two](https://github.com/openset/leetcode/tree/master/solution/power-of-two) (Easy)
+  1. [Power of Three](https://github.com/openset/leetcode/tree/master/solution/power-of-three) (Easy)

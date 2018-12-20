@@ -1,4 +1,4 @@
-## 414. Third Maximum Number
+## 414. Third Maximum Number (Easy)
 
 <p>Given a <b>non-empty</b> array of integers, return the <b>third</b> maximum number in this array. If it does not exist, return the maximum number. The time complexity must be in O(n).</p>
 
@@ -34,4 +34,4 @@ Both numbers with value 2 are both considered as second maximum.
 </p>
 
 ### Similar Questions
-  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/solution/kth-largest-element-in-an-array)(Medium)
+  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/solution/kth-largest-element-in-an-array) (Medium)

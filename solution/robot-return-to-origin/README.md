@@ -1,4 +1,4 @@
-## 657. Robot Return to Origin
+## 657. Robot Return to Origin (Easy)
 
 <p>There is a robot starting at position (0, 0), the origin, on a 2D plane. Given a sequence of its moves, judge if this robot <strong>ends up at (0, 0)</strong> after it completes its moves.</p>
 
@@ -26,4 +26,4 @@
 
 
 ### Similar Questions
-  1. [Friend Circles](https://github.com/openset/leetcode/tree/master/solution/friend-circles)(Medium)
+  1. [Friend Circles](https://github.com/openset/leetcode/tree/master/solution/friend-circles) (Medium)

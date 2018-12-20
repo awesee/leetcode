@@ -1,4 +1,4 @@
-## 228. Summary Ranges
+## 228. Summary Ranges (Medium)
 
 <p>Given a sorted integer array without duplicates, return the summary of its ranges.</p>
 
@@ -20,5 +20,5 @@
 
 
 ### Similar Questions
-  1. [Missing Ranges](https://github.com/openset/leetcode/tree/master/solution/missing-ranges)(Medium)
-  1. [Data Stream as Disjoint Intervals](https://github.com/openset/leetcode/tree/master/solution/data-stream-as-disjoint-intervals)(Hard)
+  1. [Missing Ranges](https://github.com/openset/leetcode/tree/master/solution/missing-ranges) (Medium)
+  1. [Data Stream as Disjoint Intervals](https://github.com/openset/leetcode/tree/master/solution/data-stream-as-disjoint-intervals) (Hard)

@@ -1,4 +1,4 @@
-## 367. Valid Perfect Square
+## 367. Valid Perfect Square (Easy)
 
 <p>Given a positive integer <i>num</i>, write a function which returns True if <i>num</i> is a perfect square else False.</p>
 
@@ -23,5 +23,5 @@
 </div>
 
 ### Similar Questions
-  1. [Sqrt(x)](https://github.com/openset/leetcode/tree/master/solution/sqrtx)(Easy)
-  1. [Sum of Square Numbers](https://github.com/openset/leetcode/tree/master/solution/sum-of-square-numbers)(Easy)
+  1. [Sqrt(x)](https://github.com/openset/leetcode/tree/master/solution/sqrtx) (Easy)
+  1. [Sum of Square Numbers](https://github.com/openset/leetcode/tree/master/solution/sum-of-square-numbers) (Easy)

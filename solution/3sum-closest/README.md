@@ -1,4 +1,4 @@
-## 16. 3Sum Closest
+## 16. 3Sum Closest (Medium)
 
 <p>Given an array <code>nums</code> of <em>n</em> integers and an integer <code>target</code>, find three integers in <code>nums</code>&nbsp;such that the sum is closest to&nbsp;<code>target</code>. Return the sum of the three integers. You may assume that each input would have exactly one solution.</p>
 
@@ -12,5 +12,5 @@ The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
 
 
 ### Similar Questions
-  1. [3Sum](https://github.com/openset/leetcode/tree/master/solution/3sum)(Medium)
-  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/solution/3sum-smaller)(Medium)
+  1. [3Sum](https://github.com/openset/leetcode/tree/master/solution/3sum) (Medium)
+  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/solution/3sum-smaller) (Medium)

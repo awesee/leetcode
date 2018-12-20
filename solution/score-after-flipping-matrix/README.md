@@ -1,4 +1,4 @@
-## 861. Score After Flipping Matrix
+## 861. Score After Flipping Matrix (Medium)
 
 <p>We have a two dimensional matrix&nbsp;<code>A</code> where each value is <code>0</code> or <code>1</code>.</p>
 

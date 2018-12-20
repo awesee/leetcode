@@ -1,4 +1,4 @@
-## 126. Word Ladder II
+## 126. Word Ladder II (Hard)
 
 <p>Given two words (<em>beginWord</em> and <em>endWord</em>), and a dictionary&#39;s word list, find all shortest transformation sequence(s) from <em>beginWord</em> to <em>endWord</em>, such that:</p>
 
@@ -50,4 +50,4 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
 
 
 ### Similar Questions
-  1. [Word Ladder](https://github.com/openset/leetcode/tree/master/solution/word-ladder)(Medium)
+  1. [Word Ladder](https://github.com/openset/leetcode/tree/master/solution/word-ladder) (Medium)

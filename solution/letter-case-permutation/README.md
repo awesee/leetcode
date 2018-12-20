@@ -1,4 +1,4 @@
-## 784. Letter Case Permutation
+## 784. Letter Case Permutation (Easy)
 
 <p>Given a string S, we can transform every letter individually&nbsp;to be lowercase or uppercase to create another string.&nbsp; Return a list of all possible strings we could create.</p>
 
@@ -23,4 +23,4 @@
 
 
 ### Similar Questions
-  1. [Subsets](https://github.com/openset/leetcode/tree/master/solution/subsets)(Medium)
+  1. [Subsets](https://github.com/openset/leetcode/tree/master/solution/subsets) (Medium)

@@ -1,4 +1,4 @@
-## 653. Two Sum IV - Input is a BST
+## 653. Two Sum IV - Input is a BST (Easy)
 
 <p>Given a Binary Search Tree and a target number, return true if there exist two elements in the BST such that their sum is equal to the given target.</p>
 
@@ -36,6 +36,6 @@ Target = 28
 
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/solution/two-sum)(Easy)
-  1. [Two Sum II - Input array is sorted](https://github.com/openset/leetcode/tree/master/solution/two-sum-ii-input-array-is-sorted)(Easy)
-  1. [Two Sum III - Data structure design](https://github.com/openset/leetcode/tree/master/solution/two-sum-iii-data-structure-design)(Easy)
+  1. [Two Sum](https://github.com/openset/leetcode/tree/master/solution/two-sum) (Easy)
+  1. [Two Sum II - Input array is sorted](https://github.com/openset/leetcode/tree/master/solution/two-sum-ii-input-array-is-sorted) (Easy)
+  1. [Two Sum III - Data structure design](https://github.com/openset/leetcode/tree/master/solution/two-sum-iii-data-structure-design) (Easy)

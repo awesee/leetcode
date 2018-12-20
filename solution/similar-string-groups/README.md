@@ -1,4 +1,4 @@
-## 839. Similar String Groups
+## 839. Similar String Groups (Hard)
 
 <p>Two strings <code>X</code>&nbsp;and <code>Y</code>&nbsp;are similar if we can swap two letters (in different positions) of <code>X</code>, so that&nbsp;it equals <code>Y</code>.</p>
 

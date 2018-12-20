@@ -1,4 +1,4 @@
-## 204. Count Primes
+## 204. Count Primes (Easy)
 
 <p>Count the number of prime numbers less than a non-negative number, <b><i>n</i></b>.</p>
 
@@ -11,6 +11,6 @@
 </pre>
 
 ### Similar Questions
-  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/solution/ugly-number)(Easy)
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/solution/ugly-number-ii)(Medium)
-  1. [Perfect Squares](https://github.com/openset/leetcode/tree/master/solution/perfect-squares)(Medium)
+  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/solution/ugly-number) (Easy)
+  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/solution/ugly-number-ii) (Medium)
+  1. [Perfect Squares](https://github.com/openset/leetcode/tree/master/solution/perfect-squares) (Medium)

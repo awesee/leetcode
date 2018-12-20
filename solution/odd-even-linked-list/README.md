@@ -1,4 +1,4 @@
-## 328. Odd Even Linked List
+## 328. Odd Even Linked List (Medium)
 
 <p>Given a singly linked list, group all odd nodes together followed by the even nodes. Please note here we are talking about the node number and not the value in the nodes.</p>
 
@@ -27,4 +27,4 @@
 
 
 ### Similar Questions
-  1. [Split Linked List in Parts](https://github.com/openset/leetcode/tree/master/solution/split-linked-list-in-parts)(Medium)
+  1. [Split Linked List in Parts](https://github.com/openset/leetcode/tree/master/solution/split-linked-list-in-parts) (Medium)

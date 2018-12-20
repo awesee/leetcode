@@ -1,4 +1,4 @@
-## 343. Integer Break
+## 343. Integer Break (Medium)
 
 <p>Given a positive integer <i>n</i>, break it into the sum of <b>at least</b> two positive integers and maximize the product of those integers. Return the maximum product you can get.</p>
 

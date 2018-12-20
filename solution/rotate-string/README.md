@@ -1,4 +1,4 @@
-## 796. Rotate String
+## 796. Rotate String (Easy)
 
 <p>We are given two strings, <code>A</code> and <code>B</code>.</p>
 

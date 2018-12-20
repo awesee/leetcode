@@ -1,4 +1,4 @@
-## 472. Concatenated Words
+## 472. Concatenated Words (Hard)
 
 Given a list of words (<b>without duplicates</b>), please write a program that returns all concatenated words in the given list of words.
 <p>A concatenated word is defined as a string that is comprised entirely of at least two shorter words in the given array.</p>
@@ -23,4 +23,4 @@ Given a list of words (<b>without duplicates</b>), please write a program that r
 </p>
 
 ### Similar Questions
-  1. [Word Break II](https://github.com/openset/leetcode/tree/master/solution/word-break-ii)(Hard)
+  1. [Word Break II](https://github.com/openset/leetcode/tree/master/solution/word-break-ii) (Hard)

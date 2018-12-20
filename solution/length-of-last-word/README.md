@@ -1,4 +1,4 @@
-## 58. Length of Last Word
+## 58. Length of Last Word (Easy)
 
 <p>Given a string <i>s</i> consists of upper/lower-case alphabets and empty space characters <code>' '</code>, return the length of last word in the string.</p>
 

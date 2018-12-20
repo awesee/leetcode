@@ -1,4 +1,4 @@
-## 623. Add One Row to Tree
+## 623. Add One Row to Tree (Medium)
 
 <p>Given the root of a binary tree, then value <code>v</code> and depth <code>d</code>, you need to add a row of nodes with value <code>v</code> at the given depth <code>d</code>. The root node is at depth 1. </p>
 

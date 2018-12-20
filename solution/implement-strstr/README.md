@@ -1,4 +1,4 @@
-## 28. Implement strStr()
+## 28. Implement strStr() (Easy)
 
 <p>Implement <a href="http://www.cplusplus.com/reference/cstring/strstr/" target="_blank">strStr()</a>.</p>
 
@@ -26,5 +26,5 @@
 
 
 ### Similar Questions
-  1. [Shortest Palindrome](https://github.com/openset/leetcode/tree/master/solution/shortest-palindrome)(Hard)
-  1. [Repeated Substring Pattern](https://github.com/openset/leetcode/tree/master/solution/repeated-substring-pattern)(Easy)
+  1. [Shortest Palindrome](https://github.com/openset/leetcode/tree/master/solution/shortest-palindrome) (Hard)
+  1. [Repeated Substring Pattern](https://github.com/openset/leetcode/tree/master/solution/repeated-substring-pattern) (Easy)

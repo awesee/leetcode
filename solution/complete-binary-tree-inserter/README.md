@@ -1,4 +1,4 @@
-## 919. Complete Binary Tree Inserter
+## 919. Complete Binary Tree Inserter (Medium)
 
 <p>A <em>complete</em> binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes are as far left as possible.</p>
 

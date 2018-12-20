@@ -1,4 +1,4 @@
-## 794. Valid Tic-Tac-Toe State
+## 794. Valid Tic-Tac-Toe State (Medium)
 
 <p>A Tic-Tac-Toe board is given as a string array <code>board</code>. Return True if and only if it is possible to reach this board position during the course of a valid tic-tac-toe game.</p>
 
@@ -44,4 +44,4 @@
 
 
 ### Similar Questions
-  1. [Design Tic-Tac-Toe](https://github.com/openset/leetcode/tree/master/solution/design-tic-tac-toe)(Medium)
+  1. [Design Tic-Tac-Toe](https://github.com/openset/leetcode/tree/master/solution/design-tic-tac-toe) (Medium)

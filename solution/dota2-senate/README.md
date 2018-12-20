@@ -1,4 +1,4 @@
-## 649. Dota2 Senate
+## 649. Dota2 Senate (Medium)
 
 <p>
 In the world of Dota2, there are two parties: the <code>Radiant</code> and the <code>Dire</code>.
@@ -49,4 +49,4 @@ The first senator comes from Radiant and he can just ban the next senator's righ
 </p>
 
 ### Similar Questions
-  1. [Teemo Attacking](https://github.com/openset/leetcode/tree/master/solution/teemo-attacking)(Medium)
+  1. [Teemo Attacking](https://github.com/openset/leetcode/tree/master/solution/teemo-attacking) (Medium)

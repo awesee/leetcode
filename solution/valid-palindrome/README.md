@@ -1,4 +1,4 @@
-## 125. Valid Palindrome
+## 125. Valid Palindrome (Easy)
 
 <p>Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.</p>
 
@@ -20,5 +20,5 @@
 
 
 ### Similar Questions
-  1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/solution/palindrome-linked-list)(Easy)
-  1. [Valid Palindrome II](https://github.com/openset/leetcode/tree/master/solution/valid-palindrome-ii)(Easy)
+  1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/solution/palindrome-linked-list) (Easy)
+  1. [Valid Palindrome II](https://github.com/openset/leetcode/tree/master/solution/valid-palindrome-ii) (Easy)

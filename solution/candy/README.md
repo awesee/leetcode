@@ -1,4 +1,4 @@
-## 135. Candy
+## 135. Candy (Hard)
 
 <p>There are <em>N</em> children standing in a line. Each child is assigned a rating value.</p>
 

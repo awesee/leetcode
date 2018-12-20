@@ -1,4 +1,4 @@
-## 709. To Lower Case
+## 709. To Lower Case (Easy)
 
 <p>Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.</p>
 

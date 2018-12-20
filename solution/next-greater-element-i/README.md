@@ -1,4 +1,4 @@
-## 496. Next Greater Element I
+## 496. Next Greater Element I (Easy)
 
 <p>
 You are given two arrays <b>(without duplicates)</b> <code>nums1</code> and <code>nums2</code> where <code>nums1</code>’s elements are subset of <code>nums2</code>. Find all the next greater numbers for <code>nums1</code>'s elements in the corresponding places of <code>nums2</code>. 
@@ -38,6 +38,6 @@ The Next Greater Number of a number <b>x</b> in <code>nums1</code> is the first 
 </p>
 
 ### Similar Questions
-  1. [Next Greater Element II](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-ii)(Medium)
-  1. [Next Greater Element III](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-iii)(Medium)
-  1. [Daily Temperatures](https://github.com/openset/leetcode/tree/master/solution/daily-temperatures)(Medium)
+  1. [Next Greater Element II](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-ii) (Medium)
+  1. [Next Greater Element III](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-iii) (Medium)
+  1. [Daily Temperatures](https://github.com/openset/leetcode/tree/master/solution/daily-temperatures) (Medium)

@@ -1,4 +1,4 @@
-## 718. Maximum Length of Repeated Subarray
+## 718. Maximum Length of Repeated Subarray (Medium)
 
 <p>Given two integer arrays <code>A</code> and <code>B</code>, return the maximum length of an subarray that appears in both arrays.</p>
 
@@ -21,4 +21,4 @@ The repeated subarray with maximum length is [3, 2, 1].
 </p>
 
 ### Similar Questions
-  1. [Minimum Size Subarray Sum](https://github.com/openset/leetcode/tree/master/solution/minimum-size-subarray-sum)(Medium)
+  1. [Minimum Size Subarray Sum](https://github.com/openset/leetcode/tree/master/solution/minimum-size-subarray-sum) (Medium)

@@ -1,4 +1,4 @@
-## 665. Non-decreasing Array
+## 665. Non-decreasing Array (Easy)
 
 <p>
 Given an array with <code>n</code> integers, your task is to check if it could become non-decreasing by modifying <b>at most</b> <code>1</code> element.

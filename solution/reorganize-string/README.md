@@ -1,4 +1,4 @@
-## 767. Reorganize String
+## 767. Reorganize String (Medium)
 
 <p>Given a string <code>S</code>, check if the letters can be rearranged so that two characters that are adjacent to each other are not the same.</p>
 
@@ -28,5 +28,5 @@
 
 
 ### Similar Questions
-  1. [Rearrange String k Distance Apart](https://github.com/openset/leetcode/tree/master/solution/rearrange-string-k-distance-apart)(Hard)
-  1. [Task Scheduler](https://github.com/openset/leetcode/tree/master/solution/task-scheduler)(Medium)
+  1. [Rearrange String k Distance Apart](https://github.com/openset/leetcode/tree/master/solution/rearrange-string-k-distance-apart) (Hard)
+  1. [Task Scheduler](https://github.com/openset/leetcode/tree/master/solution/task-scheduler) (Medium)

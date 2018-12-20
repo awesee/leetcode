@@ -1,4 +1,4 @@
-## 598. Range Addition II
+## 598. Range Addition II (Easy)
 
 <p>Given an m * n matrix <b>M</b> initialized with all <b>0</b>'s and several update operations.</p>
 <p>Operations are represented by a 2D array, and each operation is represented by an array with two <b>positive</b> integers <b>a</b> and <b>b</b>, which means <b>M[i][j]</b> should be <b>added by one</b> for all <b>0 <= i < a</b> and <b>0 <= j < b</b>. </p>
@@ -39,4 +39,4 @@ So the maximum integer in M is 2, and there are four of it in M. So return 4.
 </p>
 
 ### Similar Questions
-  1. [Range Addition](https://github.com/openset/leetcode/tree/master/solution/range-addition)(Medium)
+  1. [Range Addition](https://github.com/openset/leetcode/tree/master/solution/range-addition) (Medium)

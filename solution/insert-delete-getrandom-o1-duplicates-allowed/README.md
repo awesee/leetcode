@@ -1,4 +1,4 @@
-## 381. Insert Delete GetRandom O(1) - Duplicates allowed
+## 381. Insert Delete GetRandom O(1) - Duplicates allowed (Hard)
 
 <p>Design a data structure that supports all following operations in <i>average</i> <b>O(1)</b> time.</p>
 <b>Note: Duplicate elements are allowed.</b>
@@ -36,4 +36,4 @@ collection.getRandom();
 </p>
 
 ### Similar Questions
-  1. [Insert Delete GetRandom O(1)](https://github.com/openset/leetcode/tree/master/solution/insert-delete-getrandom-o1)(Medium)
+  1. [Insert Delete GetRandom O(1)](https://github.com/openset/leetcode/tree/master/solution/insert-delete-getrandom-o1) (Medium)

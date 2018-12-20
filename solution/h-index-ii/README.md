@@ -1,4 +1,4 @@
-## 275. H-Index II
+## 275. H-Index II (Medium)
 
 <p>Given an array of citations <strong>sorted&nbsp;in ascending order </strong>(each citation is a non-negative integer) of a researcher, write a function to compute the researcher&#39;s h-index.</p>
 
@@ -27,4 +27,4 @@
 
 
 ### Similar Questions
-  1. [H-Index](https://github.com/openset/leetcode/tree/master/solution/h-index)(Medium)
+  1. [H-Index](https://github.com/openset/leetcode/tree/master/solution/h-index) (Medium)

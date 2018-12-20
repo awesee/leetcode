@@ -1,4 +1,4 @@
-## 699. Falling Squares
+## 699. Falling Squares (Hard)
 
 <p>On an infinite number line (x-axis), we drop given squares in the order they are given.</p>
 <p>The <code>i</code>-th square dropped (<code>positions[i] = (left, side_length)</code>) is a square with the left-most point being <code>positions[i][0]</code> and sidelength <code>positions[i][1]</code>.</p>
@@ -62,4 +62,4 @@ Thus, we return an answer of <code>[2, 5, 5]</code>.
 </p>
 
 ### Similar Questions
-  1. [The Skyline Problem](https://github.com/openset/leetcode/tree/master/solution/the-skyline-problem)(Hard)
+  1. [The Skyline Problem](https://github.com/openset/leetcode/tree/master/solution/the-skyline-problem) (Hard)

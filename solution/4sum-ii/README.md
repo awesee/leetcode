@@ -1,4 +1,4 @@
-## 454. 4Sum II
+## 454. 4Sum II (Medium)
 
 <p>Given four lists A, B, C, D of integer values, compute how many tuples <code>(i, j, k, l)</code> there are such that <code>A[i] + B[j] + C[k] + D[l]</code> is zero.</p>
 
@@ -23,4 +23,4 @@ The two tuples are:
 </p>
 
 ### Similar Questions
-  1. [4Sum](https://github.com/openset/leetcode/tree/master/solution/4sum)(Medium)
+  1. [4Sum](https://github.com/openset/leetcode/tree/master/solution/4sum) (Medium)

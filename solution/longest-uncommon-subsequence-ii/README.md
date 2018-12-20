@@ -1,4 +1,4 @@
-## 522. Longest Uncommon Subsequence II
+## 522. Longest Uncommon Subsequence II (Medium)
 
 <p>
 Given a list of strings, you need to find the longest uncommon subsequence among them. The longest uncommon subsequence is defined as the longest subsequence of one of these strings and this subsequence should not be <b>any</b> subsequence of the other strings.
@@ -27,4 +27,4 @@ The input will be a list of strings, and the output needs to be the length of th
 </p>
 
 ### Similar Questions
-  1. [Longest Uncommon Subsequence I ](https://github.com/openset/leetcode/tree/master/solution/longest-uncommon-subsequence-i)(Easy)
+  1. [Longest Uncommon Subsequence I ](https://github.com/openset/leetcode/tree/master/solution/longest-uncommon-subsequence-i) (Easy)

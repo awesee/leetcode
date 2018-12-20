@@ -1,4 +1,4 @@
-## 676. Implement Magic Dictionary
+## 676. Implement Magic Dictionary (Medium)
 
 <p>
 Implement a magic directory with <code>buildDict</code>, and <code>search</code> methods.
@@ -31,5 +31,5 @@ Input: search("leetcoded"), Output: False
 </p>
 
 ### Similar Questions
-  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/solution/implement-trie-prefix-tree)(Medium)
-  1. [Longest Word in Dictionary](https://github.com/openset/leetcode/tree/master/solution/longest-word-in-dictionary)(Easy)
+  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/solution/implement-trie-prefix-tree) (Medium)
+  1. [Longest Word in Dictionary](https://github.com/openset/leetcode/tree/master/solution/longest-word-in-dictionary) (Easy)

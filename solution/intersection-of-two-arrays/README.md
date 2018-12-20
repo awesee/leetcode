@@ -1,4 +1,4 @@
-## 349. Intersection of Two Arrays
+## 349. Intersection of Two Arrays (Easy)
 
 <p>Given two arrays, write a function to compute their intersection.</p>
 
@@ -28,4 +28,4 @@
 
 
 ### Similar Questions
-  1. [Intersection of Two Arrays II](https://github.com/openset/leetcode/tree/master/solution/intersection-of-two-arrays-ii)(Easy)
+  1. [Intersection of Two Arrays II](https://github.com/openset/leetcode/tree/master/solution/intersection-of-two-arrays-ii) (Easy)

@@ -1,4 +1,4 @@
-## 3. Longest Substring Without Repeating Characters
+## 3. Longest Substring Without Repeating Characters (Medium)
 
 <p>Given a string, find the length of the <b>longest substring</b> without repeating characters.</p>
 
@@ -35,4 +35,4 @@
 
 
 ### Similar Questions
-  1. [Longest Substring with At Most Two Distinct Characters](https://github.com/openset/leetcode/tree/master/solution/longest-substring-with-at-most-two-distinct-characters)(Hard)
+  1. [Longest Substring with At Most Two Distinct Characters](https://github.com/openset/leetcode/tree/master/solution/longest-substring-with-at-most-two-distinct-characters) (Hard)

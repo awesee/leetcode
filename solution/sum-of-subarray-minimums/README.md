@@ -1,4 +1,4 @@
-## 907. Sum of Subarray Minimums
+## 907. Sum of Subarray Minimums (Medium)
 
 <p>Given an array of integers <code>A</code>, find the sum of <code>min(B)</code>, where <code>B</code> ranges over&nbsp;every (contiguous) subarray of <code>A</code>.</p>
 

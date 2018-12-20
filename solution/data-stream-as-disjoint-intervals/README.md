@@ -1,4 +1,4 @@
-## 352. Data Stream as Disjoint Intervals
+## 352. Data Stream as Disjoint Intervals (Hard)
 
 <p>Given a data stream input of non-negative integers a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>, ..., summarize the numbers seen so far as a list of disjoint intervals.</p>
 
@@ -16,6 +16,6 @@
 What if there are lots of merges and the number of disjoint intervals are small compared to the data stream&#39;s size?</p>
 
 ### Similar Questions
-  1. [Summary Ranges](https://github.com/openset/leetcode/tree/master/solution/summary-ranges)(Medium)
-  1. [Find Right Interval](https://github.com/openset/leetcode/tree/master/solution/find-right-interval)(Medium)
-  1. [Range Module](https://github.com/openset/leetcode/tree/master/solution/range-module)(Hard)
+  1. [Summary Ranges](https://github.com/openset/leetcode/tree/master/solution/summary-ranges) (Medium)
+  1. [Find Right Interval](https://github.com/openset/leetcode/tree/master/solution/find-right-interval) (Medium)
+  1. [Range Module](https://github.com/openset/leetcode/tree/master/solution/range-module) (Hard)

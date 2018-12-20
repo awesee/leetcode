@@ -1,4 +1,4 @@
-## 75. Sort Colors
+## 75. Sort Colors (Medium)
 
 <p>Given an array with <em>n</em> objects colored red, white or blue, sort them <strong><a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank">in-place</a>&nbsp;</strong>so that objects of the same color are adjacent, with the colors in the order red, white and blue.</p>
 
@@ -22,6 +22,6 @@
 
 
 ### Similar Questions
-  1. [Sort List](https://github.com/openset/leetcode/tree/master/solution/sort-list)(Medium)
-  1. [Wiggle Sort](https://github.com/openset/leetcode/tree/master/solution/wiggle-sort)(Medium)
-  1. [Wiggle Sort II](https://github.com/openset/leetcode/tree/master/solution/wiggle-sort-ii)(Medium)
+  1. [Sort List](https://github.com/openset/leetcode/tree/master/solution/sort-list) (Medium)
+  1. [Wiggle Sort](https://github.com/openset/leetcode/tree/master/solution/wiggle-sort) (Medium)
+  1. [Wiggle Sort II](https://github.com/openset/leetcode/tree/master/solution/wiggle-sort-ii) (Medium)

@@ -1,4 +1,4 @@
-## 507. Perfect Number
+## 507. Perfect Number (Easy)
 
 <p>We define the Perfect Number is a <b>positive</b> integer that is equal to the sum of all its <b>positive</b> divisors except itself. 
 </p>
@@ -18,4 +18,4 @@ The input number <b>n</b> will not exceed 100,000,000. (1e8)
 </p>
 
 ### Similar Questions
-  1. [Self Dividing Numbers](https://github.com/openset/leetcode/tree/master/solution/self-dividing-numbers)(Easy)
+  1. [Self Dividing Numbers](https://github.com/openset/leetcode/tree/master/solution/self-dividing-numbers) (Easy)

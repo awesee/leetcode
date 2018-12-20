@@ -1,4 +1,4 @@
-## 42. Trapping Rain Water
+## 42. Trapping Rain Water (Hard)
 
 <p>Given <em>n</em> non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.</p>
 
@@ -13,7 +13,7 @@
 
 
 ### Similar Questions
-  1. [Container With Most Water](https://github.com/openset/leetcode/tree/master/solution/container-with-most-water)(Medium)
-  1. [Product of Array Except Self](https://github.com/openset/leetcode/tree/master/solution/product-of-array-except-self)(Medium)
-  1. [Trapping Rain Water II](https://github.com/openset/leetcode/tree/master/solution/trapping-rain-water-ii)(Hard)
-  1. [Pour Water](https://github.com/openset/leetcode/tree/master/solution/pour-water)(Medium)
+  1. [Container With Most Water](https://github.com/openset/leetcode/tree/master/solution/container-with-most-water) (Medium)
+  1. [Product of Array Except Self](https://github.com/openset/leetcode/tree/master/solution/product-of-array-except-self) (Medium)
+  1. [Trapping Rain Water II](https://github.com/openset/leetcode/tree/master/solution/trapping-rain-water-ii) (Hard)
+  1. [Pour Water](https://github.com/openset/leetcode/tree/master/solution/pour-water) (Medium)

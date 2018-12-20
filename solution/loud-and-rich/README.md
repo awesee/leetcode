@@ -1,4 +1,4 @@
-## 851. Loud and Rich
+## 851. Loud and Rich (Medium)
 
 <p>In a group of N people (labelled <code>0, 1, 2, ..., N-1</code>), each person has different amounts of money, and different levels of quietness.</p>
 

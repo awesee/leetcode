@@ -1,4 +1,4 @@
-## 633. Sum of Square Numbers
+## 633. Sum of Square Numbers (Easy)
 
 <p>
 Given a non-negative integer <code>c</code>, your task is to decide whether there're two integers <code>a</code> and <code>b</code> such that a<sup>2</sup> + b<sup>2</sup> = c.
@@ -22,4 +22,4 @@ Given a non-negative integer <code>c</code>, your task is to decide whether ther
 
 
 ### Similar Questions
-  1. [Valid Perfect Square](https://github.com/openset/leetcode/tree/master/solution/valid-perfect-square)(Easy)
+  1. [Valid Perfect Square](https://github.com/openset/leetcode/tree/master/solution/valid-perfect-square) (Easy)

@@ -1,4 +1,4 @@
-## 162. Find Peak Element
+## 162. Find Peak Element (Medium)
 
 <p>A peak element is an element that is greater than its neighbors.</p>
 
@@ -30,4 +30,4 @@
 
 
 ### Similar Questions
-  1. [Peak Index in a Mountain Array](https://github.com/openset/leetcode/tree/master/solution/peak-index-in-a-mountain-array)(Easy)
+  1. [Peak Index in a Mountain Array](https://github.com/openset/leetcode/tree/master/solution/peak-index-in-a-mountain-array) (Easy)

@@ -1,4 +1,4 @@
-## 842. Split Array into Fibonacci Sequence
+## 842. Split Array into Fibonacci Sequence (Medium)
 
 <p>Given a string <code>S</code>&nbsp;of digits, such as <code>S = &quot;123456579&quot;</code>, we can split it into a <em>Fibonacci-like sequence</em>&nbsp;<code>[123, 456, 579].</code></p>
 
@@ -61,4 +61,4 @@
 
 
 ### Similar Questions
-  1. [Additive Number](https://github.com/openset/leetcode/tree/master/solution/additive-number)(Medium)
+  1. [Additive Number](https://github.com/openset/leetcode/tree/master/solution/additive-number) (Medium)

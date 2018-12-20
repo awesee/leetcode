@@ -1,4 +1,4 @@
-## 182. Duplicate Emails
+## 182. Duplicate Emails (Easy)
 
 <p>Write a SQL query to find all duplicate emails in a table named <code>Person</code>.</p>
 

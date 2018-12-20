@@ -1,4 +1,4 @@
-## 192. Word Frequency
+## 192. Word Frequency (Medium)
 
 <p>Write a bash script to calculate the frequency of each word in a text file <code>words.txt</code>.</p>
 
@@ -37,4 +37,4 @@ day 1
 
 
 ### Similar Questions
-  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/solution/top-k-frequent-elements)(Medium)
+  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/solution/top-k-frequent-elements) (Medium)

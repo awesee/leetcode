@@ -1,4 +1,4 @@
-## 838. Push Dominoes
+## 838. Push Dominoes (Medium)
 
 <p>There are<font face="monospace">&nbsp;<code>N</code></font> dominoes in a line, and we place each domino vertically upright.</p>
 

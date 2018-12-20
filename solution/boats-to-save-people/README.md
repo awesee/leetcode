@@ -1,4 +1,4 @@
-## 881. Boats to Save People
+## 881. Boats to Save People (Medium)
 
 <p>The <code>i</code>-th person has weight <code>people[i]</code>, and each boat can carry a maximum weight of <code>limit</code>.</p>
 

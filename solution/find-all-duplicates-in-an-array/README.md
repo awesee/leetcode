@@ -1,4 +1,4 @@
-## 442. Find All Duplicates in an Array
+## 442. Find All Duplicates in an Array (Medium)
 
 <p>Given an array of integers, 1 &le; a[i] &le; <i>n</i> (<i>n</i> = size of array), some elements appear <b>twice</b> and others appear <b>once</b>.</p>
 
@@ -16,4 +16,4 @@
 </pre>
 
 ### Similar Questions
-  1. [Find All Numbers Disappeared in an Array](https://github.com/openset/leetcode/tree/master/solution/find-all-numbers-disappeared-in-an-array)(Easy)
+  1. [Find All Numbers Disappeared in an Array](https://github.com/openset/leetcode/tree/master/solution/find-all-numbers-disappeared-in-an-array) (Easy)

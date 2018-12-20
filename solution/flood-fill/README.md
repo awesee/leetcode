@@ -1,4 +1,4 @@
-## 733. Flood Fill
+## 733. Flood Fill (Easy)
 
 <p>
 An <code>image</code> is represented by a 2-D array of integers, each integer representing the pixel value of the image (from 0 to 65535).
@@ -30,4 +30,4 @@ to the starting pixel.
 </p>
 
 ### Similar Questions
-  1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/solution/island-perimeter)(Easy)
+  1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/solution/island-perimeter) (Easy)

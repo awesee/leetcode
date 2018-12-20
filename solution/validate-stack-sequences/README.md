@@ -1,4 +1,4 @@
-## 946. Validate Stack Sequences
+## 946. Validate Stack Sequences (Medium)
 
 <p>Given two sequences <code>pushed</code> and <code>popped</code>&nbsp;<strong>with distinct values</strong>,&nbsp;return <code>true</code> if and only if this could have been the result of a sequence of push and pop operations on an initially empty stack.</p>
 

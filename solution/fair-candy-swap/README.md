@@ -1,4 +1,4 @@
-## 888. Fair Candy Swap
+## 888. Fair Candy Swap (Easy)
 
 <p>Alice and Bob have candy bars of different sizes: <code>A[i]</code> is the size of the <code>i</code>-th bar of candy that Alice has, and <code>B[j]</code> is the size of the <code>j</code>-th bar of candy that Bob has.</p>
 

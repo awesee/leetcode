@@ -1,4 +1,4 @@
-## 97. Interleaving String
+## 97. Interleaving String (Hard)
 
 <p>Given <em>s1</em>, <em>s2</em>, <em>s3</em>, find whether <em>s3</em> is formed by the interleaving of <em>s1</em> and <em>s2</em>.</p>
 

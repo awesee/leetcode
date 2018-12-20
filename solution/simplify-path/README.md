@@ -1,4 +1,4 @@
-## 71. Simplify Path
+## 71. Simplify Path (Medium)
 
 <p>Given an absolute path for a file (Unix-style), simplify it.&nbsp;</p>
 

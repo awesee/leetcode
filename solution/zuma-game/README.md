@@ -1,4 +1,4 @@
-## 488. Zuma Game
+## 488. Zuma Game (Hard)
 
 <p>Think about Zuma Game. You have a row of balls on the table, colored red(R), yellow(Y), blue(B), green(G), and white(W). You also have several balls in your hand.</p>
 <p>

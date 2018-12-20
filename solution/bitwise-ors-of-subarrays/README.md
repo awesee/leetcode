@@ -1,4 +1,4 @@
-## 898. Bitwise ORs of Subarrays
+## 898. Bitwise ORs of Subarrays (Medium)
 
 <p>We have an array <code>A</code> of non-negative integers.</p>
 

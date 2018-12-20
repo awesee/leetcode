@@ -1,4 +1,4 @@
-## 208. Implement Trie (Prefix Tree)
+## 208. Implement Trie (Prefix Tree) (Medium)
 
 <p>Implement a trie with <code>insert</code>, <code>search</code>, and <code>startsWith</code> methods.</p>
 
@@ -24,7 +24,7 @@ trie.search(&quot;app&quot;);     // returns true
 
 
 ### Similar Questions
-  1. [Add and Search Word - Data structure design](https://github.com/openset/leetcode/tree/master/solution/add-and-search-word-data-structure-design)(Medium)
-  1. [Design Search Autocomplete System](https://github.com/openset/leetcode/tree/master/solution/design-search-autocomplete-system)(Hard)
-  1. [Replace Words](https://github.com/openset/leetcode/tree/master/solution/replace-words)(Medium)
-  1. [Implement Magic Dictionary](https://github.com/openset/leetcode/tree/master/solution/implement-magic-dictionary)(Medium)
+  1. [Add and Search Word - Data structure design](https://github.com/openset/leetcode/tree/master/solution/add-and-search-word-data-structure-design) (Medium)
+  1. [Design Search Autocomplete System](https://github.com/openset/leetcode/tree/master/solution/design-search-autocomplete-system) (Hard)
+  1. [Replace Words](https://github.com/openset/leetcode/tree/master/solution/replace-words) (Medium)
+  1. [Implement Magic Dictionary](https://github.com/openset/leetcode/tree/master/solution/implement-magic-dictionary) (Medium)

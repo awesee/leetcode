@@ -1,4 +1,4 @@
-## 931. Minimum Falling Path Sum
+## 931. Minimum Falling Path Sum (Medium)
 
 <p>Given a <strong>square</strong> array of integers <code>A</code>, we want the <strong>minimum</strong> sum of a <em>falling path</em> through <code>A</code>.</p>
 

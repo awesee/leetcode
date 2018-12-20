@@ -1,4 +1,4 @@
-## 123. Best Time to Buy and Sell Stock III
+## 123. Best Time to Buy and Sell Stock III (Hard)
 
 <p>Say you have an array for which the <em>i</em><sup>th</sup> element is the price of a given stock on day <em>i</em>.</p>
 
@@ -33,7 +33,7 @@
 
 
 ### Similar Questions
-  1. [Best Time to Buy and Sell Stock](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock)(Easy)
-  1. [Best Time to Buy and Sell Stock II](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-ii)(Easy)
-  1. [Best Time to Buy and Sell Stock IV](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-iv)(Hard)
-  1. [Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/openset/leetcode/tree/master/solution/maximum-sum-of-3-non-overlapping-subarrays)(Hard)
+  1. [Best Time to Buy and Sell Stock](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock) (Easy)
+  1. [Best Time to Buy and Sell Stock II](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-ii) (Easy)
+  1. [Best Time to Buy and Sell Stock IV](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-iv) (Hard)
+  1. [Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/openset/leetcode/tree/master/solution/maximum-sum-of-3-non-overlapping-subarrays) (Hard)

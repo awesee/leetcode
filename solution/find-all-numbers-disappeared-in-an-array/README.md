@@ -1,4 +1,4 @@
-## 448. Find All Numbers Disappeared in an Array
+## 448. Find All Numbers Disappeared in an Array (Easy)
 
 <p>Given an array of integers where 1 &le; a[i] &le; <i>n</i> (<i>n</i> = size of array), some elements appear twice and others appear once.</p>
 
@@ -17,5 +17,5 @@
 </p>
 
 ### Similar Questions
-  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/solution/first-missing-positive)(Hard)
-  1. [Find All Duplicates in an Array](https://github.com/openset/leetcode/tree/master/solution/find-all-duplicates-in-an-array)(Medium)
+  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/solution/first-missing-positive) (Hard)
+  1. [Find All Duplicates in an Array](https://github.com/openset/leetcode/tree/master/solution/find-all-duplicates-in-an-array) (Medium)

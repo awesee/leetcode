@@ -1,4 +1,4 @@
-## 382. Linked List Random Node
+## 382. Linked List Random Node (Medium)
 
 <p>Given a singly linked list, return a random node's value from the linked list. Each node must have the <b>same probability</b> of being chosen.</p>
 
@@ -20,4 +20,4 @@ solution.getRandom();
 </p>
 
 ### Similar Questions
-  1. [Random Pick Index](https://github.com/openset/leetcode/tree/master/solution/random-pick-index)(Medium)
+  1. [Random Pick Index](https://github.com/openset/leetcode/tree/master/solution/random-pick-index) (Medium)

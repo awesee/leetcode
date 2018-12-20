@@ -1,4 +1,4 @@
-## 713. Subarray Product Less Than K
+## 713. Subarray Product Less Than K (Medium)
 
 <p>Your are given an array of positive integers <code>nums</code>.</p>
 <p>Count and print the number of (contiguous) subarrays where the product of all the elements in the subarray is less than <code>k</code>.</p>
@@ -19,6 +19,6 @@ Note that [10, 5, 2] is not included as the product of 100 is not strictly less 
 </p>
 
 ### Similar Questions
-  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-product-subarray)(Medium)
-  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/solution/maximum-size-subarray-sum-equals-k)(Medium)
-  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/solution/subarray-sum-equals-k)(Medium)
+  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-product-subarray) (Medium)
+  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/solution/maximum-size-subarray-sum-equals-k) (Medium)
+  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/solution/subarray-sum-equals-k) (Medium)

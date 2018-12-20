@@ -1,4 +1,4 @@
-## 601. Human Traffic of Stadium
+## 601. Human Traffic of Stadium (Hard)
 
 <p>X city built a new stadium, each day many people visit it and the stats are saved as these columns: <b>id</b>, <b>date</b>, <b>people</b>
 </p><p>

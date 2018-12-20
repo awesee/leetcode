@@ -1,4 +1,4 @@
-## 65. Valid Number
+## 65. Valid Number (Hard)
 
 <p>Validate if a given string can be interpreted as&nbsp;a decimal number.</p>
 
@@ -34,4 +34,4 @@ The signature of the <code>C++</code> function had been updated. If you still se
 
 
 ### Similar Questions
-  1. [String to Integer (atoi)](https://github.com/openset/leetcode/tree/master/solution/string-to-integer-atoi)(Medium)
+  1. [String to Integer (atoi)](https://github.com/openset/leetcode/tree/master/solution/string-to-integer-atoi) (Medium)

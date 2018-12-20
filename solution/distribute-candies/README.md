@@ -1,4 +1,4 @@
-## 575. Distribute Candies
+## 575. Distribute Candies (Easy)
 
 Given an integer array with <b>even</b> length, where different numbers in this array represent different <b>kinds</b> of candies. Each number means one candy of the corresponding kind. You need to distribute these candies <b>equally</b> in number to brother and sister. Return the maximum number of <b>kinds</b> of candies the sister could gain. 
 

@@ -1,4 +1,4 @@
-## 773. Sliding Puzzle
+## 773. Sliding Puzzle (Hard)
 
 <p>On a 2x3 <code>board</code>, there are 5 tiles represented by the integers 1 through 5, and an empty square represented by 0.</p>
 

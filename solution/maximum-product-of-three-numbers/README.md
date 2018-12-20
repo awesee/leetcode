@@ -1,4 +1,4 @@
-## 628. Maximum Product of Three Numbers
+## 628. Maximum Product of Three Numbers (Easy)
 
 <p>Given an integer array, find three numbers whose product is maximum and output the maximum product.</p>
 
@@ -24,4 +24,4 @@
 </p>
 
 ### Similar Questions
-  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-product-subarray)(Medium)
+  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-product-subarray) (Medium)

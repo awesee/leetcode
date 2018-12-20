@@ -1,4 +1,4 @@
-## 553. Optimal Division
+## 553. Optimal Division (Medium)
 
 <p>Given a list of <b>positive integers</b>, the adjacent integers will perform the float division. For example, [2,3,4] -> 2 / 3 / 4.</p>
 

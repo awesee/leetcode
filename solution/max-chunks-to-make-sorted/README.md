@@ -1,4 +1,4 @@
-## 769. Max Chunks To Make Sorted
+## 769. Max Chunks To Make Sorted (Medium)
 
 <p>Given an array <code>arr</code> that is a permutation of <code>[0, 1, ..., arr.length - 1]</code>, we split the array into some number of &quot;chunks&quot; (partitions), and individually sort each chunk.&nbsp; After concatenating them,&nbsp;the result equals the sorted array.</p>
 
@@ -35,4 +35,4 @@ However, splitting into [1, 0], [2], [3], [4] is the highest number of chunks po
 
 
 ### Similar Questions
-  1. [Max Chunks To Make Sorted II](https://github.com/openset/leetcode/tree/master/solution/max-chunks-to-make-sorted-ii)(Hard)
+  1. [Max Chunks To Make Sorted II](https://github.com/openset/leetcode/tree/master/solution/max-chunks-to-make-sorted-ii) (Hard)

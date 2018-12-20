@@ -1,4 +1,4 @@
-## 268. Missing Number
+## 268. Missing Number (Easy)
 
 <p>Given an array containing <i>n</i> distinct numbers taken from <code>0, 1, 2, ..., n</code>, find the one that is missing from the array.</p>
 
@@ -20,7 +20,7 @@
 Your algorithm should run in linear runtime complexity. Could you implement it using only constant extra space complexity?</p>
 
 ### Similar Questions
-  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/solution/first-missing-positive)(Hard)
-  1. [Single Number](https://github.com/openset/leetcode/tree/master/solution/single-number)(Easy)
-  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/solution/find-the-duplicate-number)(Medium)
-  1. [Couples Holding Hands](https://github.com/openset/leetcode/tree/master/solution/couples-holding-hands)(Hard)
+  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/solution/first-missing-positive) (Hard)
+  1. [Single Number](https://github.com/openset/leetcode/tree/master/solution/single-number) (Easy)
+  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/solution/find-the-duplicate-number) (Medium)
+  1. [Couples Holding Hands](https://github.com/openset/leetcode/tree/master/solution/couples-holding-hands) (Hard)

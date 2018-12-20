@@ -1,4 +1,4 @@
-## 206. Reverse Linked List
+## 206. Reverse Linked List (Easy)
 
 <p>Reverse a singly linked list.</p>
 
@@ -15,6 +15,6 @@
 
 
 ### Similar Questions
-  1. [Reverse Linked List II](https://github.com/openset/leetcode/tree/master/solution/reverse-linked-list-ii)(Medium)
-  1. [Binary Tree Upside Down](https://github.com/openset/leetcode/tree/master/solution/binary-tree-upside-down)(Medium)
-  1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/solution/palindrome-linked-list)(Easy)
+  1. [Reverse Linked List II](https://github.com/openset/leetcode/tree/master/solution/reverse-linked-list-ii) (Medium)
+  1. [Binary Tree Upside Down](https://github.com/openset/leetcode/tree/master/solution/binary-tree-upside-down) (Medium)
+  1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/solution/palindrome-linked-list) (Easy)

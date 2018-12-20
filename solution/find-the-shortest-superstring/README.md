@@ -1,4 +1,4 @@
-## 943. Find the Shortest Superstring
+## 943. Find the Shortest Superstring (Hard)
 
 <p>Given an array A of strings, find any&nbsp;smallest string that contains each string in <code>A</code> as a&nbsp;substring.</p>
 

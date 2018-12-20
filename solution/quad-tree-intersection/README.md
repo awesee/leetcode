@@ -1,4 +1,4 @@
-## 558. Quad Tree Intersection
+## 558. Quad Tree Intersection (Easy)
 
 <p>A quadtree is a tree data in which each internal node has exactly four children: <code>topLeft</code>, <code>topRight</code>, <code>bottomLeft</code> and <code>bottomRight</code>. Quad trees are often used to partition a two-dimensional space by recursively subdividing it into four quadrants or regions.</p>
 

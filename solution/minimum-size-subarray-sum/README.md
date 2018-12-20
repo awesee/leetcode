@@ -1,4 +1,4 @@
-## 209. Minimum Size Subarray Sum
+## 209. Minimum Size Subarray Sum (Medium)
 
 <p>Given an array of <strong>n</strong> positive integers and a positive integer <strong>s</strong>, find the minimal length of a <b>contiguous</b> subarray of which the sum &ge; <strong>s</strong>. If there isn&#39;t one, return 0 instead.</p>
 
@@ -15,6 +15,6 @@
 
 
 ### Similar Questions
-  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring)(Hard)
-  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/solution/maximum-size-subarray-sum-equals-k)(Medium)
-  1. [Maximum Length of Repeated Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-length-of-repeated-subarray)(Medium)
+  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring) (Hard)
+  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/solution/maximum-size-subarray-sum-equals-k) (Medium)
+  1. [Maximum Length of Repeated Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-length-of-repeated-subarray) (Medium)

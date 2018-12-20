@@ -1,4 +1,4 @@
-## 223. Rectangle Area
+## 223. Rectangle Area (Medium)
 
 <p>Find the total area covered by two <strong>rectilinear</strong> rectangles in a <strong>2D</strong> plane.</p>
 
@@ -18,4 +18,4 @@
 
 
 ### Similar Questions
-  1. [Rectangle Overlap](https://github.com/openset/leetcode/tree/master/solution/rectangle-overlap)(Easy)
+  1. [Rectangle Overlap](https://github.com/openset/leetcode/tree/master/solution/rectangle-overlap) (Easy)

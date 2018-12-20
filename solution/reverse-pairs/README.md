@@ -1,4 +1,4 @@
-## 493. Reverse Pairs
+## 493. Reverse Pairs (Hard)
 
 <p>Given an array <code>nums</code>, we call <code>(i, j)</code> an <b><i>important reverse pair</i></b> if <code>i &lt; j</code> and <code>nums[i] &gt; 2*nums[j]</code>.</p>
 
@@ -24,5 +24,5 @@
 </p>
 
 ### Similar Questions
-  1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/solution/count-of-smaller-numbers-after-self)(Hard)
-  1. [Count of Range Sum](https://github.com/openset/leetcode/tree/master/solution/count-of-range-sum)(Hard)
+  1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/solution/count-of-smaller-numbers-after-self) (Hard)
+  1. [Count of Range Sum](https://github.com/openset/leetcode/tree/master/solution/count-of-range-sum) (Hard)

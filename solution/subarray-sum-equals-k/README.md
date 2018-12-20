@@ -1,4 +1,4 @@
-## 560. Subarray Sum Equals K
+## 560. Subarray Sum Equals K (Medium)
 
 <p>Given an array of integers and an integer <b>k</b>, you need to find the total number of continuous subarrays whose sum equals to <b>k</b>.</p>
 
@@ -18,7 +18,7 @@
 
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/solution/two-sum)(Easy)
-  1. [Continuous Subarray Sum](https://github.com/openset/leetcode/tree/master/solution/continuous-subarray-sum)(Medium)
-  1. [Subarray Product Less Than K](https://github.com/openset/leetcode/tree/master/solution/subarray-product-less-than-k)(Medium)
-  1. [Find Pivot Index](https://github.com/openset/leetcode/tree/master/solution/find-pivot-index)(Easy)
+  1. [Two Sum](https://github.com/openset/leetcode/tree/master/solution/two-sum) (Easy)
+  1. [Continuous Subarray Sum](https://github.com/openset/leetcode/tree/master/solution/continuous-subarray-sum) (Medium)
+  1. [Subarray Product Less Than K](https://github.com/openset/leetcode/tree/master/solution/subarray-product-less-than-k) (Medium)
+  1. [Find Pivot Index](https://github.com/openset/leetcode/tree/master/solution/find-pivot-index) (Easy)

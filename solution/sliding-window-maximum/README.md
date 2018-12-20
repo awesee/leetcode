@@ -1,4 +1,4 @@
-## 239. Sliding Window Maximum
+## 239. Sliding Window Maximum (Hard)
 
 <p>Given an array <em>nums</em>, there is a sliding window of size <em>k</em> which is moving from the very left of the array to the very right. You can only see the <em>k</em> numbers in the window. Each time the sliding window moves right by one position. Return the max sliding window.</p>
 
@@ -27,7 +27,7 @@ Could you solve it in linear time?</p>
 
 
 ### Similar Questions
-  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring)(Hard)
-  1. [Min Stack](https://github.com/openset/leetcode/tree/master/solution/min-stack)(Easy)
-  1. [Longest Substring with At Most Two Distinct Characters](https://github.com/openset/leetcode/tree/master/solution/longest-substring-with-at-most-two-distinct-characters)(Hard)
-  1. [Paint House II](https://github.com/openset/leetcode/tree/master/solution/paint-house-ii)(Hard)
+  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring) (Hard)
+  1. [Min Stack](https://github.com/openset/leetcode/tree/master/solution/min-stack) (Easy)
+  1. [Longest Substring with At Most Two Distinct Characters](https://github.com/openset/leetcode/tree/master/solution/longest-substring-with-at-most-two-distinct-characters) (Hard)
+  1. [Paint House II](https://github.com/openset/leetcode/tree/master/solution/paint-house-ii) (Hard)

@@ -1,4 +1,4 @@
-## 216. Combination Sum III
+## 216. Combination Sum III (Medium)
 
 <div>
 <p>Find all possible combinations of <i><b>k</b></i> numbers that add up to a number <i><b>n</b></i>, given that only numbers from 1 to 9 can be used and each combination should be a unique set of numbers.</p>
@@ -26,4 +26,4 @@
 </div>
 
 ### Similar Questions
-  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/solution/combination-sum)(Medium)
+  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/solution/combination-sum) (Medium)

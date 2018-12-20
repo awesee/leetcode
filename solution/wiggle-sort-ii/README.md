@@ -1,4 +1,4 @@
-## 324. Wiggle Sort II
+## 324. Wiggle Sort II (Medium)
 
 <p>Given an unsorted array <code>nums</code>, reorder it such that <code>nums[0] &lt; nums[1] &gt; nums[2] &lt; nums[3]...</code>.</p>
 
@@ -21,6 +21,6 @@ You may assume all input has valid answer.</p>
 Can you do it in O(n) time and/or in-place with O(1) extra space?</p>
 
 ### Similar Questions
-  1. [Sort Colors](https://github.com/openset/leetcode/tree/master/solution/sort-colors)(Medium)
-  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/solution/kth-largest-element-in-an-array)(Medium)
-  1. [Wiggle Sort](https://github.com/openset/leetcode/tree/master/solution/wiggle-sort)(Medium)
+  1. [Sort Colors](https://github.com/openset/leetcode/tree/master/solution/sort-colors) (Medium)
+  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/solution/kth-largest-element-in-an-array) (Medium)
+  1. [Wiggle Sort](https://github.com/openset/leetcode/tree/master/solution/wiggle-sort) (Medium)

@@ -1,4 +1,4 @@
-## 396. Rotate Function
+## 396. Rotate Function (Medium)
 
 <p>
 Given an array of integers <code>A</code> and let <i>n</i> to be its length.

@@ -1,4 +1,4 @@
-## 450. Delete Node in a BST
+## 450. Delete Node in a BST (Medium)
 
 <p>Given a root node reference of a BST and a key, delete the node with the given key in the BST. Return the root node reference (possibly updated) of the BST.</p>
 
@@ -43,4 +43,4 @@ Another valid answer is [5,2,6,null,4,null,7].
 </p>
 
 ### Similar Questions
-  1. [Split BST](https://github.com/openset/leetcode/tree/master/solution/split-bst)(Medium)
+  1. [Split BST](https://github.com/openset/leetcode/tree/master/solution/split-bst) (Medium)

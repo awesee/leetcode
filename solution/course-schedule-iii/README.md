@@ -1,4 +1,4 @@
-## 630. Course Schedule III
+## 630. Course Schedule III (Hard)
 
 <p>
 There are <code>n</code> different online courses numbered from <code>1</code> to <code>n</code>. Each course has some duration(course length)  <code>t</code> and closed on <code>d<sub>th</sub></code> day. A course should be taken <b>continuously</b> for <code>t</code> days and must be finished before or on the <code>d<sub>th</sub></code> day. You will start at the <code>1<sub>st</sub></code> day.
@@ -31,5 +31,5 @@ The 4th course cannot be taken now, since you will finish it on the 3300th day, 
 </p>
 
 ### Similar Questions
-  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/solution/course-schedule)(Medium)
-  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/solution/course-schedule-ii)(Medium)
+  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/solution/course-schedule) (Medium)
+  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/solution/course-schedule-ii) (Medium)

@@ -1,4 +1,4 @@
-## 357. Count Numbers with Unique Digits
+## 357. Count Numbers with Unique Digits (Medium)
 
 <p>Given a <b>non-negative</b> integer n, count all numbers with unique digits, x, where 0 &le; x &lt; 10<sup>n</sup>.</p>
 

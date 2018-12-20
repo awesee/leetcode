@@ -1,4 +1,4 @@
-## 66. Plus One
+## 66. Plus One (Easy)
 
 <p>Given a <strong>non-empty</strong> array of digits&nbsp;representing a non-negative integer, plus one to the integer.</p>
 
@@ -24,6 +24,6 @@
 
 
 ### Similar Questions
-  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/solution/multiply-strings)(Medium)
-  1. [Add Binary](https://github.com/openset/leetcode/tree/master/solution/add-binary)(Easy)
-  1. [Plus One Linked List](https://github.com/openset/leetcode/tree/master/solution/plus-one-linked-list)(Medium)
+  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/solution/multiply-strings) (Medium)
+  1. [Add Binary](https://github.com/openset/leetcode/tree/master/solution/add-binary) (Easy)
+  1. [Plus One Linked List](https://github.com/openset/leetcode/tree/master/solution/plus-one-linked-list) (Medium)

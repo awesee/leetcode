@@ -1,4 +1,4 @@
-## 757. Set Intersection Size At Least Two
+## 757. Set Intersection Size At Least Two (Hard)
 
 <p>
 An integer interval <code>[a, b]</code> (for integers <code>a < b</code>) is a set of all consecutive integers from <code>a</code> to <code>b</code>, including <code>a</code> and <code>b</code>.

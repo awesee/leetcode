@@ -1,4 +1,4 @@
-## 40. Combination Sum II
+## 40. Combination Sum II (Medium)
 
 <p>Given a collection of candidate numbers (<code>candidates</code>) and a target number (<code>target</code>), find all unique combinations in <code>candidates</code>&nbsp;where the candidate numbers sums to <code>target</code>.</p>
 
@@ -37,4 +37,4 @@
 
 
 ### Similar Questions
-  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/solution/combination-sum)(Medium)
+  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/solution/combination-sum) (Medium)

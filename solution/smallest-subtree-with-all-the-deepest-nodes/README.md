@@ -1,4 +1,4 @@
-## 865. Smallest Subtree with all the Deepest Nodes
+## 865. Smallest Subtree with all the Deepest Nodes (Medium)
 
 <p>Given a binary tree rooted at <code>root</code>, the <em>depth</em> of each node is the shortest distance to the root.</p>
 

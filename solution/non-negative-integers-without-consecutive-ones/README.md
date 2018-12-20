@@ -1,4 +1,4 @@
-## 600. Non-negative Integers without Consecutive Ones
+## 600. Non-negative Integers without Consecutive Ones (Hard)
 
 <p>Given a positive integer n, find the number of <b>non-negative</b> integers less than or equal to n, whose binary representations do NOT contain <b>consecutive ones</b>.</p>
 
@@ -24,6 +24,6 @@ Among them, only integer 3 disobeys the rule (two consecutive ones) and the othe
 
 
 ### Similar Questions
-  1. [House Robber](https://github.com/openset/leetcode/tree/master/solution/house-robber)(Easy)
-  1. [House Robber II](https://github.com/openset/leetcode/tree/master/solution/house-robber-ii)(Medium)
-  1. [Ones and Zeroes](https://github.com/openset/leetcode/tree/master/solution/ones-and-zeroes)(Medium)
+  1. [House Robber](https://github.com/openset/leetcode/tree/master/solution/house-robber) (Easy)
+  1. [House Robber II](https://github.com/openset/leetcode/tree/master/solution/house-robber-ii) (Medium)
+  1. [Ones and Zeroes](https://github.com/openset/leetcode/tree/master/solution/ones-and-zeroes) (Medium)

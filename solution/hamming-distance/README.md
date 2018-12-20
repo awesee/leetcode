@@ -1,4 +1,4 @@
-## 461. Hamming Distance
+## 461. Hamming Distance (Easy)
 
 <p>The <a href="https://en.wikipedia.org/wiki/Hamming_distance" target="_blank">Hamming distance</a> between two integers is the number of positions at which the corresponding bits are different.</p>
 
@@ -24,5 +24,5 @@ The above arrows point to positions where the corresponding bits are different.
 </p>
 
 ### Similar Questions
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/solution/number-of-1-bits)(Easy)
-  1. [Total Hamming Distance](https://github.com/openset/leetcode/tree/master/solution/total-hamming-distance)(Medium)
+  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/solution/number-of-1-bits) (Easy)
+  1. [Total Hamming Distance](https://github.com/openset/leetcode/tree/master/solution/total-hamming-distance) (Medium)

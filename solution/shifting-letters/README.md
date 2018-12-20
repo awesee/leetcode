@@ -1,4 +1,4 @@
-## 848. Shifting Letters
+## 848. Shifting Letters (Medium)
 
 <p>We have a string <code>S</code> of lowercase letters, and an integer array <code>shifts</code>.</p>
 

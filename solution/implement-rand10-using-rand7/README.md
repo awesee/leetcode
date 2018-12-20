@@ -1,4 +1,4 @@
-## 470. Implement Rand10() Using Rand7()
+## 470. Implement Rand10() Using Rand7() (Medium)
 
 <p>Given a function <code>rand7</code> which generates a uniform random integer in the range 1 to 7, write a function <code>rand10</code>&nbsp;which generates a uniform random integer in the range 1 to 10.</p>
 

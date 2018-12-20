@@ -1,4 +1,4 @@
-## 944. Delete Columns to Make Sorted
+## 944. Delete Columns to Make Sorted (Easy)
 
 <p>We are given an array&nbsp;<code>A</code> of <code>N</code> lowercase letter strings, all of the same length.</p>
 

@@ -1,4 +1,4 @@
-## 491. Increasing Subsequences
+## 491. Increasing Subsequences (Medium)
 
 <p>
 Given an integer array, your task is to find all the different possible increasing subsequences of the given array, and the length of an increasing subsequence should be at least 2 .
@@ -20,4 +20,4 @@ Given an integer array, your task is to find all the different possible increasi
 </p>
 
 ### Similar Questions
-  1. [Maximum Length of Pair Chain](https://github.com/openset/leetcode/tree/master/solution/maximum-length-of-pair-chain)(Medium)
+  1. [Maximum Length of Pair Chain](https://github.com/openset/leetcode/tree/master/solution/maximum-length-of-pair-chain) (Medium)

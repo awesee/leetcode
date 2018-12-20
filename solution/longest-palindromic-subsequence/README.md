@@ -1,4 +1,4 @@
-## 516. Longest Palindromic Subsequence
+## 516. Longest Palindromic Subsequence (Medium)
 
 <p>
 Given a string s, find the longest palindromic subsequence's length in s. You may assume that the maximum length of s is 1000.
@@ -29,6 +29,6 @@ One possible longest palindromic subsequence is "bb".
 </p>
 
 ### Similar Questions
-  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-substring)(Medium)
-  1. [Palindromic Substrings](https://github.com/openset/leetcode/tree/master/solution/palindromic-substrings)(Medium)
-  1. [Count Different Palindromic Subsequences](https://github.com/openset/leetcode/tree/master/solution/count-different-palindromic-subsequences)(Hard)
+  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-substring) (Medium)
+  1. [Palindromic Substrings](https://github.com/openset/leetcode/tree/master/solution/palindromic-substrings) (Medium)
+  1. [Count Different Palindromic Subsequences](https://github.com/openset/leetcode/tree/master/solution/count-different-palindromic-subsequences) (Hard)

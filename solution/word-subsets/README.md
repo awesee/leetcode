@@ -1,4 +1,4 @@
-## 916. Word Subsets
+## 916. Word Subsets (Medium)
 
 <p>We are given two arrays <code>A</code> and <code>B</code> of words.&nbsp; Each word is a string of lowercase letters.</p>
 

@@ -1,4 +1,4 @@
-## 787. Cheapest Flights Within K Stops
+## 787. Cheapest Flights Within K Stops (Medium)
 
 <p>There are <code>n</code> cities connected by&nbsp;<code>m</code> flights. Each fight starts from city&nbsp;<code>u </code>and arrives at&nbsp;<code>v</code> with a price <code>w</code>.</p>
 
@@ -41,4 +41,4 @@ The cheapest price from city <code>0</code> to city <code>2</code> with at most 
 
 
 ### Similar Questions
-  1. [Maximum Vacation Days](https://github.com/openset/leetcode/tree/master/solution/maximum-vacation-days)(Hard)
+  1. [Maximum Vacation Days](https://github.com/openset/leetcode/tree/master/solution/maximum-vacation-days) (Hard)

@@ -1,4 +1,4 @@
-## 715. Range Module
+## 715. Range Module (Hard)
 
 <p>A Range Module is a module that tracks ranges of numbers. Your task is to design and implement the following interfaces in an efficient manner.</p>
 
@@ -29,6 +29,6 @@
 </p>
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/solution/merge-intervals)(Medium)
-  1. [Insert Interval](https://github.com/openset/leetcode/tree/master/solution/insert-interval)(Hard)
-  1. [Data Stream as Disjoint Intervals](https://github.com/openset/leetcode/tree/master/solution/data-stream-as-disjoint-intervals)(Hard)
+  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/solution/merge-intervals) (Medium)
+  1. [Insert Interval](https://github.com/openset/leetcode/tree/master/solution/insert-interval) (Hard)
+  1. [Data Stream as Disjoint Intervals](https://github.com/openset/leetcode/tree/master/solution/data-stream-as-disjoint-intervals) (Hard)

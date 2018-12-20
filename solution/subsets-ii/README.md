@@ -1,4 +1,4 @@
-## 90. Subsets II
+## 90. Subsets II (Medium)
 
 <p>Given a collection of integers that might contain duplicates, <strong><em>nums</em></strong>, return all possible subsets (the power set).</p>
 
@@ -21,4 +21,4 @@
 
 
 ### Similar Questions
-  1. [Subsets](https://github.com/openset/leetcode/tree/master/solution/subsets)(Medium)
+  1. [Subsets](https://github.com/openset/leetcode/tree/master/solution/subsets) (Medium)

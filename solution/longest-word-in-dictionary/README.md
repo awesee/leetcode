@@ -1,4 +1,4 @@
-## 720. Longest Word in Dictionary
+## 720. Longest Word in Dictionary (Easy)
 
 <p>Given a list of strings <code>words</code> representing an English Dictionary, find the longest word in <code>words</code> that can be built one character at a time by other words in <code>words</code>.  If there is more than one possible answer, return the longest word with the smallest lexicographical order.</p>  If there is no answer, return the empty string.
 
@@ -29,5 +29,5 @@ Both "apply" and "apple" can be built from other words in the dictionary. Howeve
 </p>
 
 ### Similar Questions
-  1. [Longest Word in Dictionary through Deleting](https://github.com/openset/leetcode/tree/master/solution/longest-word-in-dictionary-through-deleting)(Medium)
-  1. [Implement Magic Dictionary](https://github.com/openset/leetcode/tree/master/solution/implement-magic-dictionary)(Medium)
+  1. [Longest Word in Dictionary through Deleting](https://github.com/openset/leetcode/tree/master/solution/longest-word-in-dictionary-through-deleting) (Medium)
+  1. [Implement Magic Dictionary](https://github.com/openset/leetcode/tree/master/solution/implement-magic-dictionary) (Medium)

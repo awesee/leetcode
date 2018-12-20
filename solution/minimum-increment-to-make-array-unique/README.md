@@ -1,4 +1,4 @@
-## 945. Minimum Increment to Make Array Unique
+## 945. Minimum Increment to Make Array Unique (Medium)
 
 <p>Given an array of integers A, a <em>move</em> consists of choosing any <code>A[i]</code>, and incrementing it by <code>1</code>.</p>
 

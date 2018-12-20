@@ -1,4 +1,4 @@
-## 857. Minimum Cost to Hire K Workers
+## 857. Minimum Cost to Hire K Workers (Hard)
 
 <p>There are <code>N</code> workers.&nbsp; The <code>i</code>-th worker has a <code>quality[i]</code> and a minimum wage expectation <code>wage[i]</code>.</p>
 

@@ -1,4 +1,4 @@
-## 854. K-Similar Strings
+## 854. K-Similar Strings (Hard)
 
 <p>Strings&nbsp;<code>A</code> and <code>B</code> are <code>K</code>-similar (for some non-negative integer <code>K</code>) if we can swap the positions of two letters in <code>A</code> exactly <code>K</code>&nbsp;times so that the resulting string equals <code>B</code>.</p>
 
@@ -46,4 +46,4 @@
 
 
 ### Similar Questions
-  1. [Couples Holding Hands](https://github.com/openset/leetcode/tree/master/solution/couples-holding-hands)(Hard)
+  1. [Couples Holding Hands](https://github.com/openset/leetcode/tree/master/solution/couples-holding-hands) (Hard)

@@ -1,4 +1,4 @@
-## 56. Merge Intervals
+## 56. Merge Intervals (Medium)
 
 <p>Given a collection of intervals, merge all overlapping intervals.</p>
 
@@ -19,11 +19,11 @@
 
 
 ### Similar Questions
-  1. [Insert Interval](https://github.com/openset/leetcode/tree/master/solution/insert-interval)(Hard)
-  1. [Meeting Rooms](https://github.com/openset/leetcode/tree/master/solution/meeting-rooms)(Easy)
-  1. [Meeting Rooms II](https://github.com/openset/leetcode/tree/master/solution/meeting-rooms-ii)(Medium)
-  1. [Teemo Attacking](https://github.com/openset/leetcode/tree/master/solution/teemo-attacking)(Medium)
-  1. [Add Bold Tag in String](https://github.com/openset/leetcode/tree/master/solution/add-bold-tag-in-string)(Medium)
-  1. [Range Module](https://github.com/openset/leetcode/tree/master/solution/range-module)(Hard)
-  1. [Employee Free Time](https://github.com/openset/leetcode/tree/master/solution/employee-free-time)(Hard)
-  1. [Partition Labels](https://github.com/openset/leetcode/tree/master/solution/partition-labels)(Medium)
+  1. [Insert Interval](https://github.com/openset/leetcode/tree/master/solution/insert-interval) (Hard)
+  1. [Meeting Rooms](https://github.com/openset/leetcode/tree/master/solution/meeting-rooms) (Easy)
+  1. [Meeting Rooms II](https://github.com/openset/leetcode/tree/master/solution/meeting-rooms-ii) (Medium)
+  1. [Teemo Attacking](https://github.com/openset/leetcode/tree/master/solution/teemo-attacking) (Medium)
+  1. [Add Bold Tag in String](https://github.com/openset/leetcode/tree/master/solution/add-bold-tag-in-string) (Medium)
+  1. [Range Module](https://github.com/openset/leetcode/tree/master/solution/range-module) (Hard)
+  1. [Employee Free Time](https://github.com/openset/leetcode/tree/master/solution/employee-free-time) (Hard)
+  1. [Partition Labels](https://github.com/openset/leetcode/tree/master/solution/partition-labels) (Medium)

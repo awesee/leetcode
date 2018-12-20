@@ -1,4 +1,4 @@
-## 313. Super Ugly Number
+## 313. Super Ugly Number (Medium)
 
 <p>Write a program to find the <code>n<sup>th</sup></code> super ugly number.</p>
 
@@ -23,4 +23,4 @@
 
 
 ### Similar Questions
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/solution/ugly-number-ii)(Medium)
+  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/solution/ugly-number-ii) (Medium)

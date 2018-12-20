@@ -1,4 +1,4 @@
-## 53. Maximum Subarray
+## 53. Maximum Subarray (Easy)
 
 <p>Given an integer array <code>nums</code>, find the contiguous subarray&nbsp;(containing at least one number) which has the largest sum and return its sum.</p>
 
@@ -16,6 +16,6 @@
 
 
 ### Similar Questions
-  1. [Best Time to Buy and Sell Stock](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock)(Easy)
-  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-product-subarray)(Medium)
-  1. [Degree of an Array](https://github.com/openset/leetcode/tree/master/solution/degree-of-an-array)(Easy)
+  1. [Best Time to Buy and Sell Stock](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock) (Easy)
+  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-product-subarray) (Medium)
+  1. [Degree of an Array](https://github.com/openset/leetcode/tree/master/solution/degree-of-an-array) (Easy)

@@ -1,4 +1,4 @@
-## 506. Relative Ranks
+## 506. Relative Ranks (Easy)
 
 <p>
 Given scores of <b>N</b> athletes, find their relative ranks and the people with the top three highest scores, who will be awarded medals: "Gold Medal", "Silver Medal" and "Bronze Medal".</p>

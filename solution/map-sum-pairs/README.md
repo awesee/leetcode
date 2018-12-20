@@ -1,4 +1,4 @@
-## 677. Map Sum Pairs
+## 677. Map Sum Pairs (Medium)
 
 <p>
 Implement a MapSum class with <code>insert</code>, and <code>sum</code> methods.

@@ -1,4 +1,4 @@
-## 263. Ugly Number
+## 263. Ugly Number (Easy)
 
 <p>Write a program to check whether a given number is an ugly number.</p>
 
@@ -35,6 +35,6 @@
 </ol>
 
 ### Similar Questions
-  1. [Happy Number](https://github.com/openset/leetcode/tree/master/solution/happy-number)(Easy)
-  1. [Count Primes](https://github.com/openset/leetcode/tree/master/solution/count-primes)(Easy)
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/solution/ugly-number-ii)(Medium)
+  1. [Happy Number](https://github.com/openset/leetcode/tree/master/solution/happy-number) (Easy)
+  1. [Count Primes](https://github.com/openset/leetcode/tree/master/solution/count-primes) (Easy)
+  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/solution/ugly-number-ii) (Medium)

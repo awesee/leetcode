@@ -1,4 +1,4 @@
-## 532. K-diff Pairs in an Array
+## 532. K-diff Pairs in an Array (Easy)
 
 <p>
 Given an array of integers and an integer <b>k</b>, you need to find the number of <b>unique</b> k-diff pairs in the array. Here a <b>k-diff</b> pair is defined as an integer pair (i, j), where <b>i</b> and <b>j</b> are both numbers in the array and their <a href = "https://en.wikipedia.org/wiki/Absolute_difference">absolute difference</a> is <b>k</b>.
@@ -38,4 +38,4 @@ Given an array of integers and an integer <b>k</b>, you need to find the number 
 </p>
 
 ### Similar Questions
-  1. [Minimum Absolute Difference in BST](https://github.com/openset/leetcode/tree/master/solution/minimum-absolute-difference-in-bst)(Easy)
+  1. [Minimum Absolute Difference in BST](https://github.com/openset/leetcode/tree/master/solution/minimum-absolute-difference-in-bst) (Easy)

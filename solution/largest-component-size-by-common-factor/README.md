@@ -1,4 +1,4 @@
-## 952. Largest Component Size by Common Factor
+## 952. Largest Component Size by Common Factor (Hard)
 
 <p>Given a non-empty&nbsp;array of unique positive integers <code>A</code>, consider the following graph:</p>
 

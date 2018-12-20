@@ -1,4 +1,4 @@
-## 301. Remove Invalid Parentheses
+## 301. Remove Invalid Parentheses (Hard)
 
 <p>Remove the minimum number of invalid parentheses in order to make the input string valid. Return all possible results.</p>
 
@@ -26,4 +26,4 @@
 </pre>
 
 ### Similar Questions
-  1. [Valid Parentheses](https://github.com/openset/leetcode/tree/master/solution/valid-parentheses)(Easy)
+  1. [Valid Parentheses](https://github.com/openset/leetcode/tree/master/solution/valid-parentheses) (Easy)

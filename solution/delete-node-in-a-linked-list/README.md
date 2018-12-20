@@ -1,4 +1,4 @@
-## 237. Delete Node in a Linked List
+## 237. Delete Node in a Linked List (Easy)
 
 <p>Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.</p>
 
@@ -37,4 +37,4 @@
 
 
 ### Similar Questions
-  1. [Remove Linked List Elements](https://github.com/openset/leetcode/tree/master/solution/remove-linked-list-elements)(Easy)
+  1. [Remove Linked List Elements](https://github.com/openset/leetcode/tree/master/solution/remove-linked-list-elements) (Easy)

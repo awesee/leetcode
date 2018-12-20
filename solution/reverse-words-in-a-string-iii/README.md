@@ -1,4 +1,4 @@
-## 557. Reverse Words in a String III
+## 557. Reverse Words in a String III (Easy)
 
 <p>Given a string, you need to reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.</p>
 
@@ -14,4 +14,4 @@ In the string, each word is separated by single space and there will not be any 
 </p>
 
 ### Similar Questions
-  1. [Reverse String II](https://github.com/openset/leetcode/tree/master/solution/reverse-string-ii)(Easy)
+  1. [Reverse String II](https://github.com/openset/leetcode/tree/master/solution/reverse-string-ii) (Easy)

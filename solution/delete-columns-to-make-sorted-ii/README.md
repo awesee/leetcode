@@ -1,4 +1,4 @@
-## 955. Delete Columns to Make Sorted II
+## 955. Delete Columns to Make Sorted II (Medium)
 
 <p>We are given an array&nbsp;<code>A</code> of <code>N</code> lowercase letter strings, all of the same length.</p>
 

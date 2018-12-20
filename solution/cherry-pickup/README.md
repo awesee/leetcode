@@ -1,4 +1,4 @@
-## 741. Cherry Pickup
+## 741. Cherry Pickup (Hard)
 
 <p>
 In a N x N <code>grid</code> representing a field of cherries, each cell is one of three possible integers.
@@ -37,5 +37,5 @@ The total number of cherries picked up is 5, and this is the maximum possible.
 </p>
 
 ### Similar Questions
-  1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/solution/minimum-path-sum)(Medium)
-  1. [Dungeon Game](https://github.com/openset/leetcode/tree/master/solution/dungeon-game)(Hard)
+  1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/solution/minimum-path-sum) (Medium)
+  1. [Dungeon Game](https://github.com/openset/leetcode/tree/master/solution/dungeon-game) (Hard)

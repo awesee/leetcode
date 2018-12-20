@@ -1,4 +1,4 @@
-## 917. Reverse Only Letters
+## 917. Reverse Only Letters (Easy)
 
 <p>Given a string <code>S</code>, return the &quot;reversed&quot; string where all characters that are not a letter&nbsp;stay in the same place, and all letters reverse their positions.</p>
 

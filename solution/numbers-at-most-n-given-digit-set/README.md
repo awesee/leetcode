@@ -1,4 +1,4 @@
-## 902. Numbers At Most N Given Digit Set
+## 902. Numbers At Most N Given Digit Set (Hard)
 
 <p>We have a <strong>sorted</strong> set of digits <code>D</code>, a non-empty subset of <code>{&#39;1&#39;,&#39;2&#39;,&#39;3&#39;,&#39;4&#39;,&#39;5&#39;,&#39;6&#39;,&#39;7&#39;,&#39;8&#39;,&#39;9&#39;}</code>.&nbsp; (Note that <code>&#39;0&#39;</code> is not included.)</p>
 

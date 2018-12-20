@@ -1,4 +1,4 @@
-## 134. Gas Station
+## 134. Gas Station (Medium)
 
 <p>There are <em>N</em> gas stations along a circular route, where the amount of gas at station <em>i</em> is <code>gas[i]</code>.</p>
 

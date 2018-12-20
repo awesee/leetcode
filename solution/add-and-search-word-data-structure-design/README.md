@@ -1,4 +1,4 @@
-## 211. Add and Search Word - Data structure design
+## 211. Add and Search Word - Data structure design (Medium)
 
 <p>Design a data structure that supports the following two operations:</p>
 
@@ -26,5 +26,5 @@ You may assume that all words are consist of lowercase letters <code>a-z</code>.
 
 
 ### Similar Questions
-  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/solution/implement-trie-prefix-tree)(Medium)
-  1. [Prefix and Suffix Search](https://github.com/openset/leetcode/tree/master/solution/prefix-and-suffix-search)(Hard)
+  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/solution/implement-trie-prefix-tree) (Medium)
+  1. [Prefix and Suffix Search](https://github.com/openset/leetcode/tree/master/solution/prefix-and-suffix-search) (Hard)

@@ -1,4 +1,4 @@
-## 853. Car Fleet
+## 853. Car Fleet (Medium)
 
 <p><code>N</code> cars are going to the same destination along a one lane road.&nbsp; The destination is <code>target</code>&nbsp;miles away.</p>
 

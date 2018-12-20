@@ -1,4 +1,4 @@
-## 70. Climbing Stairs
+## 70. Climbing Stairs (Easy)
 
 <p>You are climbing a stair case. It takes <em>n</em> steps to reach to the top.</p>
 
@@ -29,4 +29,4 @@
 
 
 ### Similar Questions
-  1. [Min Cost Climbing Stairs](https://github.com/openset/leetcode/tree/master/solution/min-cost-climbing-stairs)(Easy)
+  1. [Min Cost Climbing Stairs](https://github.com/openset/leetcode/tree/master/solution/min-cost-climbing-stairs) (Easy)

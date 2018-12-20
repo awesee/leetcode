@@ -1,4 +1,4 @@
-## 59. Spiral Matrix II
+## 59. Spiral Matrix II (Medium)
 
 <p>Given a positive integer <em>n</em>, generate a square matrix filled with elements from 1 to <em>n</em><sup>2</sup> in spiral order.</p>
 
@@ -16,4 +16,4 @@
 
 
 ### Similar Questions
-  1. [Spiral Matrix](https://github.com/openset/leetcode/tree/master/solution/spiral-matrix)(Medium)
+  1. [Spiral Matrix](https://github.com/openset/leetcode/tree/master/solution/spiral-matrix) (Medium)

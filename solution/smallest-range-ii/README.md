@@ -1,4 +1,4 @@
-## 910. Smallest Range II
+## 910. Smallest Range II (Medium)
 
 <p>Given an array <code>A</code> of integers, for each integer <code>A[i]</code> we need to choose <strong>either&nbsp;<code>x = -K</code>&nbsp;or <code>x = K</code></strong>, and add <code>x</code> to <code>A[i] <strong>(only once)</strong></code>.</p>
 

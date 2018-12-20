@@ -1,4 +1,4 @@
-## 394. Decode String
+## 394. Decode String (Medium)
 
 <p>
 Given an encoded string, return it's decoded string.
@@ -21,5 +21,5 @@ s = "2[abc]3[cd]ef", return "abcabccdcdcdef".
 </p>
 
 ### Similar Questions
-  1. [Encode String with Shortest Length](https://github.com/openset/leetcode/tree/master/solution/encode-string-with-shortest-length)(Hard)
-  1. [Number of Atoms](https://github.com/openset/leetcode/tree/master/solution/number-of-atoms)(Hard)
+  1. [Encode String with Shortest Length](https://github.com/openset/leetcode/tree/master/solution/encode-string-with-shortest-length) (Hard)
+  1. [Number of Atoms](https://github.com/openset/leetcode/tree/master/solution/number-of-atoms) (Hard)

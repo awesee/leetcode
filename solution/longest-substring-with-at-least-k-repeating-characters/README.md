@@ -1,4 +1,4 @@
-## 395. Longest Substring with At Least K Repeating Characters
+## 395. Longest Substring with At Least K Repeating Characters (Medium)
 
 <p>
 Find the length of the longest substring <b><i>T</i></b> of a given string (consists of lowercase letters only) such that every character in <b><i>T</i></b> appears no less than <i>k</i> times.

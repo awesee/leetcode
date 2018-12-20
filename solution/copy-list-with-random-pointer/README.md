@@ -1,4 +1,4 @@
-## 138. Copy List with Random Pointer
+## 138. Copy List with Random Pointer (Medium)
 
 <p>
 A linked list is given such that each node contains an additional random pointer which could point to any node in the list or null.
@@ -9,4 +9,4 @@ Return a deep copy of the list.
 </p>
 
 ### Similar Questions
-  1. [Clone Graph](https://github.com/openset/leetcode/tree/master/solution/clone-graph)(Medium)
+  1. [Clone Graph](https://github.com/openset/leetcode/tree/master/solution/clone-graph) (Medium)

@@ -1,4 +1,4 @@
-## 957. Prison Cells After N Days
+## 957. Prison Cells After N Days (Medium)
 
 <p>There are 8 prison cells in a row, and each cell is either occupied or vacant.</p>
 

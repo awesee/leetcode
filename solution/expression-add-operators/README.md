@@ -1,4 +1,4 @@
-## 282. Expression Add Operators
+## 282. Expression Add Operators (Hard)
 
 <p>Given a string that contains only digits <code>0-9</code> and a target value, return all possibilities to add <b>binary</b> operators (not unary) <code>+</code>, <code>-</code>, or <code>*</code> between the digits so they evaluate to the target value.</p>
 
@@ -36,8 +36,8 @@
 </pre>
 
 ### Similar Questions
-  1. [Evaluate Reverse Polish Notation](https://github.com/openset/leetcode/tree/master/solution/evaluate-reverse-polish-notation)(Medium)
-  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/solution/basic-calculator)(Hard)
-  1. [Basic Calculator II](https://github.com/openset/leetcode/tree/master/solution/basic-calculator-ii)(Medium)
-  1. [Different Ways to Add Parentheses](https://github.com/openset/leetcode/tree/master/solution/different-ways-to-add-parentheses)(Medium)
-  1. [Target Sum](https://github.com/openset/leetcode/tree/master/solution/target-sum)(Medium)
+  1. [Evaluate Reverse Polish Notation](https://github.com/openset/leetcode/tree/master/solution/evaluate-reverse-polish-notation) (Medium)
+  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/solution/basic-calculator) (Hard)
+  1. [Basic Calculator II](https://github.com/openset/leetcode/tree/master/solution/basic-calculator-ii) (Medium)
+  1. [Different Ways to Add Parentheses](https://github.com/openset/leetcode/tree/master/solution/different-ways-to-add-parentheses) (Medium)
+  1. [Target Sum](https://github.com/openset/leetcode/tree/master/solution/target-sum) (Medium)

@@ -1,4 +1,4 @@
-## 823. Binary Trees With Factors
+## 823. Binary Trees With Factors (Medium)
 
 <p>Given an array of unique integers, each integer is strictly greater than 1.</p>
 

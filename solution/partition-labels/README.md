@@ -1,4 +1,4 @@
-## 763. Partition Labels
+## 763. Partition Labels (Medium)
 
 <p>
 A string <code>S</code> of lowercase letters is given.  We want to partition this string into as many parts as possible so that each letter appears in at most one part, and return a list of integers representing the size of these parts.
@@ -21,4 +21,4 @@ A partition like "ababcbacadefegde", "hijhklij" is incorrect, because it splits 
 </ol></p>
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/solution/merge-intervals)(Medium)
+  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/solution/merge-intervals) (Medium)

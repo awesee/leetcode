@@ -1,4 +1,4 @@
-## 341. Flatten Nested List Iterator
+## 341. Flatten Nested List Iterator (Medium)
 
 <p>Given a nested list of integers, implement an iterator to flatten it.</p>
 
@@ -27,7 +27,7 @@
 
 
 ### Similar Questions
-  1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/solution/flatten-2d-vector)(Medium)
-  1. [Zigzag Iterator](https://github.com/openset/leetcode/tree/master/solution/zigzag-iterator)(Medium)
-  1. [Mini Parser](https://github.com/openset/leetcode/tree/master/solution/mini-parser)(Medium)
-  1. [Array Nesting](https://github.com/openset/leetcode/tree/master/solution/array-nesting)(Medium)
+  1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/solution/flatten-2d-vector) (Medium)
+  1. [Zigzag Iterator](https://github.com/openset/leetcode/tree/master/solution/zigzag-iterator) (Medium)
+  1. [Mini Parser](https://github.com/openset/leetcode/tree/master/solution/mini-parser) (Medium)
+  1. [Array Nesting](https://github.com/openset/leetcode/tree/master/solution/array-nesting) (Medium)

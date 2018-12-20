@@ -1,4 +1,4 @@
-## 701. Insert into a Binary Search Tree
+## 701. Insert into a Binary Search Tree (Medium)
 
 <p>Given the root node of a binary search tree (BST) and a value to be inserted into the tree,&nbsp;insert the value into the BST. Return the root node of the BST after the insertion. It is guaranteed that the new value does not exist in the original BST.</p>
 
@@ -40,4 +40,4 @@ And the value to insert: 5
 
 
 ### Similar Questions
-  1. [Search in a Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/search-in-a-binary-search-tree)(Easy)
+  1. [Search in a Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/search-in-a-binary-search-tree) (Easy)

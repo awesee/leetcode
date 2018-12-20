@@ -1,4 +1,4 @@
-## 567. Permutation in String
+## 567. Permutation in String (Medium)
 
 Given two strings <b>s1</b> and <b>s2</b>, write a function to return true if <b>s2</b> contains the permutation of <b>s1</b>. In other words, one of the first string's permutations is the <b>substring</b> of the second string.
 
@@ -25,5 +25,5 @@ Given two strings <b>s1</b> and <b>s2</b>, write a function to return true if <b
 </p>
 
 ### Similar Questions
-  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring)(Hard)
-  1. [Find All Anagrams in a String](https://github.com/openset/leetcode/tree/master/solution/find-all-anagrams-in-a-string)(Easy)
+  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring) (Hard)
+  1. [Find All Anagrams in a String](https://github.com/openset/leetcode/tree/master/solution/find-all-anagrams-in-a-string) (Easy)

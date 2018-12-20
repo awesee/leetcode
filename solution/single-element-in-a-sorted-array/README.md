@@ -1,4 +1,4 @@
-## 540. Single Element in a Sorted Array
+## 540. Single Element in a Sorted Array (Medium)
 
 <p>
 Given a sorted array consisting of only integers where every element appears twice except for one element which appears once. Find this single element that appears only once. 

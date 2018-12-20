@@ -1,4 +1,4 @@
-## 595. Big Countries
+## 595. Big Countries (Easy)
 
 <p>There is a table <code>World</code> </p>
 <pre>

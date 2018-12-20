@@ -1,4 +1,4 @@
-## 142. Linked List Cycle II
+## 142. Linked List Cycle II (Medium)
 
 <p>Given a linked list, return the node where the cycle begins. If there is no cycle, return <code>null</code>.</p>
 
@@ -45,5 +45,5 @@ Can you solve it without using extra space?</p>
 
 
 ### Similar Questions
-  1. [Linked List Cycle](https://github.com/openset/leetcode/tree/master/solution/linked-list-cycle)(Easy)
-  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/solution/find-the-duplicate-number)(Medium)
+  1. [Linked List Cycle](https://github.com/openset/leetcode/tree/master/solution/linked-list-cycle) (Easy)
+  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/solution/find-the-duplicate-number) (Medium)

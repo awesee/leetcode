@@ -1,4 +1,4 @@
-## 906. Super Palindromes
+## 906. Super Palindromes (Hard)
 
 <p>Let&#39;s say a positive integer is a&nbsp;<em>superpalindrome</em>&nbsp;if it is a palindrome, and it is also the square of a palindrome.</p>
 

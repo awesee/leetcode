@@ -1,4 +1,4 @@
-## 764. Largest Plus Sign
+## 764. Largest Plus Sign (Medium)
 
 <p>
 In a 2D <code>grid</code> from (0, 0) to (N-1, N-1), every cell contains a <code>1</code>, except those cells in the given list <code>mines</code> which are <code>0</code>.  What is the largest axis-aligned plus sign of <code>1</code>s contained in the grid?  Return the order of the plus sign.  If there is none, return 0.
@@ -63,4 +63,4 @@ There is no plus sign, so return 0.
 </ol></p>
 
 ### Similar Questions
-  1. [Maximal Square](https://github.com/openset/leetcode/tree/master/solution/maximal-square)(Medium)
+  1. [Maximal Square](https://github.com/openset/leetcode/tree/master/solution/maximal-square) (Medium)

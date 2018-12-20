@@ -1,4 +1,4 @@
-## 91. Decode Ways
+## 91. Decode Ways (Medium)
 
 <p>A message containing letters from <code>A-Z</code> is being encoded to numbers using the following mapping:</p>
 
@@ -28,4 +28,4 @@
 
 
 ### Similar Questions
-  1. [Decode Ways II](https://github.com/openset/leetcode/tree/master/solution/decode-ways-ii)(Hard)
+  1. [Decode Ways II](https://github.com/openset/leetcode/tree/master/solution/decode-ways-ii) (Hard)

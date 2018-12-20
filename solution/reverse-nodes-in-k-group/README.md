@@ -1,4 +1,4 @@
-## 25. Reverse Nodes in k-Group
+## 25. Reverse Nodes in k-Group (Hard)
 
 <p>Given a linked list, reverse the nodes of a linked list <em>k</em> at a time and return its modified list.</p>
 
@@ -24,4 +24,4 @@
 
 
 ### Similar Questions
-  1. [Swap Nodes in Pairs](https://github.com/openset/leetcode/tree/master/solution/swap-nodes-in-pairs)(Medium)
+  1. [Swap Nodes in Pairs](https://github.com/openset/leetcode/tree/master/solution/swap-nodes-in-pairs) (Medium)

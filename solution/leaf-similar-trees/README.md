@@ -1,4 +1,4 @@
-## 872. Leaf-Similar Trees
+## 872. Leaf-Similar Trees (Easy)
 
 <p>Consider all the leaves of a binary tree.&nbsp; From&nbsp;left to right order, the values of those&nbsp;leaves form a <em>leaf value sequence.</em></p>
 

@@ -1,4 +1,4 @@
-## 680. Valid Palindrome II
+## 680. Valid Palindrome II (Easy)
 
 <p>
 Given a non-empty string <code>s</code>, you may delete <b>at most</b> one character.  Judge whether you can make it a palindrome.
@@ -27,4 +27,4 @@ The maximum length of the string is 50000.</li>
 </p>
 
 ### Similar Questions
-  1. [Valid Palindrome](https://github.com/openset/leetcode/tree/master/solution/valid-palindrome)(Easy)
+  1. [Valid Palindrome](https://github.com/openset/leetcode/tree/master/solution/valid-palindrome) (Easy)

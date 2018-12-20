@@ -1,4 +1,4 @@
-## 682. Baseball Game
+## 682. Baseball Game (Easy)
 
 <p>
 You're now a baseball game point recorder.

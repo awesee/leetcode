@@ -1,4 +1,4 @@
-## 520. Detect Capital
+## 520. Detect Capital (Easy)
 
 <p>
 Given a word, you need to judge whether the usage of capitals in it is right or not.

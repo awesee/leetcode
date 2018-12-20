@@ -1,4 +1,4 @@
-## 729. My Calendar I
+## 729. My Calendar I (Medium)
 
 <p>
 Implement a <code>MyCalendar</code> class to store your events. A new event can be added if adding the event will not cause a double booking.
@@ -32,5 +32,5 @@ The third event can be booked, as the first event takes every time less than 20,
 </p>
 
 ### Similar Questions
-  1. [My Calendar II](https://github.com/openset/leetcode/tree/master/solution/my-calendar-ii)(Medium)
-  1. [My Calendar III](https://github.com/openset/leetcode/tree/master/solution/my-calendar-iii)(Hard)
+  1. [My Calendar II](https://github.com/openset/leetcode/tree/master/solution/my-calendar-ii) (Medium)
+  1. [My Calendar III](https://github.com/openset/leetcode/tree/master/solution/my-calendar-iii) (Hard)

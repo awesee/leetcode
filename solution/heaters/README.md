@@ -1,4 +1,4 @@
-## 475. Heaters
+## 475. Heaters (Easy)
 
 <p>Winter is coming! Your first job during the contest is to design a standard heater with fixed warm radius to warm all the houses.</p>
 

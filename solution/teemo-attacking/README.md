@@ -1,4 +1,4 @@
-## 495. Teemo Attacking
+## 495. Teemo Attacking (Medium)
 
 <p>
 In LOL world, there is a hero called Teemo and his attacking can make his enemy Ashe be in poisoned condition. Now, given the Teemo's attacking <b>ascending</b> time series towards Ashe and the poisoning time duration per Teemo's attacking, you need to output the total time that Ashe is in poisoned condition.
@@ -32,6 +32,6 @@ In LOL world, there is a hero called Teemo and his attacking can make his enemy 
 </p>
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/solution/merge-intervals)(Medium)
-  1. [Can Place Flowers](https://github.com/openset/leetcode/tree/master/solution/can-place-flowers)(Easy)
-  1. [Dota2 Senate](https://github.com/openset/leetcode/tree/master/solution/dota2-senate)(Medium)
+  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/solution/merge-intervals) (Medium)
+  1. [Can Place Flowers](https://github.com/openset/leetcode/tree/master/solution/can-place-flowers) (Easy)
+  1. [Dota2 Senate](https://github.com/openset/leetcode/tree/master/solution/dota2-senate) (Medium)

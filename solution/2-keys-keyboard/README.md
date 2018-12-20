@@ -1,4 +1,4 @@
-## 650. 2 Keys Keyboard
+## 650. 2 Keys Keyboard (Medium)
 
 <p>
 Initially on a notepad only one character 'A' is present. You can perform two operations on this notepad for each step: 
@@ -32,4 +32,4 @@ In step 3, we use <b>Paste</b> operation to get 'AAA'.
 </p>
 
 ### Similar Questions
-  1. [4 Keys Keyboard](https://github.com/openset/leetcode/tree/master/solution/4-keys-keyboard)(Medium)
+  1. [4 Keys Keyboard](https://github.com/openset/leetcode/tree/master/solution/4-keys-keyboard) (Medium)

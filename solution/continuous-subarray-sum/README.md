@@ -1,4 +1,4 @@
-## 523. Continuous Subarray Sum
+## 523. Continuous Subarray Sum (Medium)
 
 <p>
 Given a list of <b>non-negative</b> numbers and a target <b>integer</b> k, write a function to check if the array has a continuous subarray of size at least 2 that sums up to the multiple of <b>k</b>, that is, sums up to n*k where n is also an <b>integer</b>.
@@ -30,4 +30,4 @@ Given a list of <b>non-negative</b> numbers and a target <b>integer</b> k, write
 </p>
 
 ### Similar Questions
-  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/solution/subarray-sum-equals-k)(Medium)
+  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/solution/subarray-sum-equals-k) (Medium)

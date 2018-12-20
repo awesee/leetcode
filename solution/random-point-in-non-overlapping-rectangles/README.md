@@ -1,4 +1,4 @@
-## 497. Random Point in Non-overlapping Rectangles
+## 497. Random Point in Non-overlapping Rectangles (Medium)
 
 <p>Given a list of <strong>non-overlapping</strong>&nbsp;axis-aligned rectangles <code>rects</code>, write a function <code>pick</code> which randomly and uniformily picks an <strong>integer point</strong> in the space&nbsp;covered by the rectangles.</p>
 
@@ -49,5 +49,5 @@
 
 
 ### Similar Questions
-  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/solution/random-pick-with-weight)(Medium)
-  1. [Generate Random Point in a Circle](https://github.com/openset/leetcode/tree/master/solution/generate-random-point-in-a-circle)(Medium)
+  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/solution/random-pick-with-weight) (Medium)
+  1. [Generate Random Point in a Circle](https://github.com/openset/leetcode/tree/master/solution/generate-random-point-in-a-circle) (Medium)

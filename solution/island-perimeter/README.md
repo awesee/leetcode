@@ -1,4 +1,4 @@
-## 463. Island Perimeter
+## 463. Island Perimeter (Easy)
 
 <p>You are given a map in form of a two-dimensional integer grid where 1 represents land and 0 represents water.</p>
 
@@ -26,5 +26,5 @@
 
 
 ### Similar Questions
-  1. [Max Area of Island](https://github.com/openset/leetcode/tree/master/solution/max-area-of-island)(Medium)
-  1. [Flood Fill](https://github.com/openset/leetcode/tree/master/solution/flood-fill)(Easy)
+  1. [Max Area of Island](https://github.com/openset/leetcode/tree/master/solution/max-area-of-island) (Medium)
+  1. [Flood Fill](https://github.com/openset/leetcode/tree/master/solution/flood-fill) (Easy)

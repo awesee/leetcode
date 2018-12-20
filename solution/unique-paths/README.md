@@ -1,4 +1,4 @@
-## 62. Unique Paths
+## 62. Unique Paths (Medium)
 
 <p>A robot is located at the top-left corner of a <em>m</em> x <em>n</em> grid (marked &#39;Start&#39; in the diagram below).</p>
 
@@ -31,6 +31,6 @@ From the top-left corner, there are a total of 3 ways to reach the bottom-right 
 
 
 ### Similar Questions
-  1. [Unique Paths II](https://github.com/openset/leetcode/tree/master/solution/unique-paths-ii)(Medium)
-  1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/solution/minimum-path-sum)(Medium)
-  1. [Dungeon Game](https://github.com/openset/leetcode/tree/master/solution/dungeon-game)(Hard)
+  1. [Unique Paths II](https://github.com/openset/leetcode/tree/master/solution/unique-paths-ii) (Medium)
+  1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/solution/minimum-path-sum) (Medium)
+  1. [Dungeon Game](https://github.com/openset/leetcode/tree/master/solution/dungeon-game) (Hard)

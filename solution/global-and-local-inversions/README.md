@@ -1,4 +1,4 @@
-## 775. Global and Local Inversions
+## 775. Global and Local Inversions (Medium)
 
 <p>We have some permutation <code>A</code> of <code>[0, 1, ..., N - 1]</code>, where <code>N</code> is the length of <code>A</code>.</p>
 

@@ -1,4 +1,4 @@
-## 83. Remove Duplicates from Sorted List
+## 83. Remove Duplicates from Sorted List (Easy)
 
 <p>Given a sorted linked list, delete all duplicates such that each element appear only <em>once</em>.</p>
 
@@ -18,4 +18,4 @@
 
 
 ### Similar Questions
-  1. [Remove Duplicates from Sorted List II](https://github.com/openset/leetcode/tree/master/solution/remove-duplicates-from-sorted-list-ii)(Medium)
+  1. [Remove Duplicates from Sorted List II](https://github.com/openset/leetcode/tree/master/solution/remove-duplicates-from-sorted-list-ii) (Medium)

@@ -1,4 +1,4 @@
-## 632. Smallest Range
+## 632. Smallest Range (Hard)
 
 <p>You have <code>k</code> lists of sorted integers in ascending order. Find the <b>smallest</b> range that includes at least one number from each of the <code>k</code> lists. </p>
 
@@ -27,4 +27,4 @@ List 3: [5, 18, 22, 30], 22 is in range [20,24].
 </p>
 
 ### Similar Questions
-  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring)(Hard)
+  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring) (Hard)

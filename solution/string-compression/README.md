@@ -1,4 +1,4 @@
-## 443. String Compression
+## 443. String Compression (Easy)
 
 <p>Given an array of characters, compress it <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><b>in-place</b></a>.</p>
 
@@ -68,6 +68,6 @@ Notice each digit has it&#39;s own entry in the array.
 
 
 ### Similar Questions
-  1. [Count and Say](https://github.com/openset/leetcode/tree/master/solution/count-and-say)(Easy)
-  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/solution/encode-and-decode-strings)(Medium)
-  1. [Design Compressed String Iterator](https://github.com/openset/leetcode/tree/master/solution/design-compressed-string-iterator)(Easy)
+  1. [Count and Say](https://github.com/openset/leetcode/tree/master/solution/count-and-say) (Easy)
+  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/solution/encode-and-decode-strings) (Medium)
+  1. [Design Compressed String Iterator](https://github.com/openset/leetcode/tree/master/solution/design-compressed-string-iterator) (Easy)

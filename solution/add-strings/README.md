@@ -1,4 +1,4 @@
-## 415. Add Strings
+## 415. Add Strings (Easy)
 
 <p>Given two non-negative integers <code>num1</code> and <code>num2</code> represented as string, return the sum of <code>num1</code> and <code>num2</code>.</p>
 
@@ -12,5 +12,5 @@
 </p>
 
 ### Similar Questions
-  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/solution/add-two-numbers)(Medium)
-  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/solution/multiply-strings)(Medium)
+  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/solution/add-two-numbers) (Medium)
+  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/solution/multiply-strings) (Medium)

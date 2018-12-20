@@ -1,4 +1,4 @@
-## 63. Unique Paths II
+## 63. Unique Paths II (Medium)
 
 <p>A robot is located at the top-left corner of a <em>m</em> x <em>n</em> grid (marked &#39;Start&#39; in the diagram below).</p>
 
@@ -31,4 +31,4 @@ There are two ways to reach the bottom-right corner:
 
 
 ### Similar Questions
-  1. [Unique Paths](https://github.com/openset/leetcode/tree/master/solution/unique-paths)(Medium)
+  1. [Unique Paths](https://github.com/openset/leetcode/tree/master/solution/unique-paths) (Medium)

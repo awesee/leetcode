@@ -1,4 +1,4 @@
-## 641. Design Circular Deque
+## 641. Design Circular Deque (Medium)
 
 <p>Design your implementation of the circular double-ended queue (deque).</p>
 
@@ -45,4 +45,4 @@ circularDeque.getFront();			// return 4
 
 
 ### Similar Questions
-  1. [Design Circular Queue](https://github.com/openset/leetcode/tree/master/solution/design-circular-queue)(Medium)
+  1. [Design Circular Queue](https://github.com/openset/leetcode/tree/master/solution/design-circular-queue) (Medium)

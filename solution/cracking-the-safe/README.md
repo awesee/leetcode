@@ -1,4 +1,4 @@
-## 753. Cracking the Safe
+## 753. Cracking the Safe (Hard)
 
 <p>
 There is a box protected by a password.  The password is <code>n</code> digits, where each letter can be one of the first <code>k</code> digits <code>0, 1, ..., k-1</code>.

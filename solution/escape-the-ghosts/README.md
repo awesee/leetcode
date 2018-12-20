@@ -1,4 +1,4 @@
-## 789. Escape The Ghosts
+## 789. Escape The Ghosts (Medium)
 
 <p>You are playing a simplified Pacman game. You&nbsp;start at the point <code>(0, 0)</code>, and your destination is<code> (target[0], target[1])</code>. There are several ghosts on the map, the i-th ghost starts at<code> (ghosts[i][0], ghosts[i][1])</code>.</p>
 

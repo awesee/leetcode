@@ -1,4 +1,4 @@
-## 671. Second Minimum Node In a Binary Tree
+## 671. Second Minimum Node In a Binary Tree (Easy)
 
 <p>
 Given a non-empty special binary tree consisting of nodes with the non-negative value, where each node in this tree has exactly <code>two</code> or <code>zero</code> sub-node. If the node has two sub-nodes, then this node's value is the smaller value among its two sub-nodes. 
@@ -39,4 +39,4 @@ If no such second minimum value exists, output -1 instead.
 </p>
 
 ### Similar Questions
-  1. [Kth Smallest Element in a BST](https://github.com/openset/leetcode/tree/master/solution/kth-smallest-element-in-a-bst)(Medium)
+  1. [Kth Smallest Element in a BST](https://github.com/openset/leetcode/tree/master/solution/kth-smallest-element-in-a-bst) (Medium)

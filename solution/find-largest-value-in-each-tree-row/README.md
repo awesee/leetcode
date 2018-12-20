@@ -1,4 +1,4 @@
-## 515. Find Largest Value in Each Tree Row
+## 515. Find Largest Value in Each Tree Row (Medium)
 
 <p>You need to find the largest value in each row of a binary tree.</p>
 

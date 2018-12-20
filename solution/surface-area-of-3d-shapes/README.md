@@ -1,4 +1,4 @@
-## 892. Surface Area of 3D Shapes
+## 892. Surface Area of 3D Shapes (Easy)
 
 <p>On a&nbsp;<code>N&nbsp;*&nbsp;N</code>&nbsp;grid, we place some&nbsp;<code>1 * 1 * 1&nbsp;</code>cubes.</p>
 

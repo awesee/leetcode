@@ -1,4 +1,4 @@
-## 735. Asteroid Collision
+## 735. Asteroid Collision (Medium)
 
 <p>
 We are given an array <code>asteroids</code> of integers representing asteroids in a row.
@@ -55,4 +55,4 @@ Asteroids moving the same direction never meet, so no asteroids will meet each o
 </p>
 
 ### Similar Questions
-  1. [Can Place Flowers](https://github.com/openset/leetcode/tree/master/solution/can-place-flowers)(Easy)
+  1. [Can Place Flowers](https://github.com/openset/leetcode/tree/master/solution/can-place-flowers) (Easy)

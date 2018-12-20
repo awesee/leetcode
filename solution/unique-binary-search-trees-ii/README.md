@@ -1,4 +1,4 @@
-## 95. Unique Binary Search Trees II
+## 95. Unique Binary Search Trees II (Medium)
 
 <p>Given an integer <em>n</em>, generate all structurally unique <strong>BST&#39;s</strong> (binary search trees) that store values 1 ...&nbsp;<em>n</em>.</p>
 
@@ -26,5 +26,5 @@ The above output corresponds to the 5 unique BST&#39;s shown below:
 
 
 ### Similar Questions
-  1. [Unique Binary Search Trees](https://github.com/openset/leetcode/tree/master/solution/unique-binary-search-trees)(Medium)
-  1. [Different Ways to Add Parentheses](https://github.com/openset/leetcode/tree/master/solution/different-ways-to-add-parentheses)(Medium)
+  1. [Unique Binary Search Trees](https://github.com/openset/leetcode/tree/master/solution/unique-binary-search-trees) (Medium)
+  1. [Different Ways to Add Parentheses](https://github.com/openset/leetcode/tree/master/solution/different-ways-to-add-parentheses) (Medium)

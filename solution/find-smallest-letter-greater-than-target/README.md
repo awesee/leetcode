@@ -1,4 +1,4 @@
-## 744. Find Smallest Letter Greater Than Target
+## 744. Find Smallest Letter Greater Than Target (Easy)
 
 <p>
 Given a list of sorted characters <code>letters</code> containing only lowercase letters, and given a target letter <code>target</code>, find the smallest element in the list that is larger than the given target.

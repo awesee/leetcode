@@ -1,4 +1,4 @@
-## 626. Exchange Seats
+## 626. Exchange Seats (Medium)
 
 <p>Mary is a teacher in a middle school and she has a table <code>seat</code> storing students' names and their corresponding seat ids.</p>
 The column <b>id</b> is continuous increment.</p>

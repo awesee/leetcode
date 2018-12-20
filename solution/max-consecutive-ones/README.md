@@ -1,4 +1,4 @@
-## 485. Max Consecutive Ones
+## 485. Max Consecutive Ones (Easy)
 
 <p>Given a binary array, find the maximum number of consecutive 1s in this array.</p>
 
@@ -19,4 +19,4 @@
 </p>
 
 ### Similar Questions
-  1. [Max Consecutive Ones II](https://github.com/openset/leetcode/tree/master/solution/max-consecutive-ones-ii)(Medium)
+  1. [Max Consecutive Ones II](https://github.com/openset/leetcode/tree/master/solution/max-consecutive-ones-ii) (Medium)

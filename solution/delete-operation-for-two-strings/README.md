@@ -1,4 +1,4 @@
-## 583. Delete Operation for Two Strings
+## 583. Delete Operation for Two Strings (Medium)
 
 <p>
 Given two words <i>word1</i> and <i>word2</i>, find the minimum number of steps required to make <i>word1</i> and <i>word2</i> the same, where in each step you can delete one character in either string.
@@ -20,5 +20,5 @@ Given two words <i>word1</i> and <i>word2</i>, find the minimum number of steps 
 </p>
 
 ### Similar Questions
-  1. [Edit Distance](https://github.com/openset/leetcode/tree/master/solution/edit-distance)(Hard)
-  1. [Minimum ASCII Delete Sum for Two Strings](https://github.com/openset/leetcode/tree/master/solution/minimum-ascii-delete-sum-for-two-strings)(Medium)
+  1. [Edit Distance](https://github.com/openset/leetcode/tree/master/solution/edit-distance) (Hard)
+  1. [Minimum ASCII Delete Sum for Two Strings](https://github.com/openset/leetcode/tree/master/solution/minimum-ascii-delete-sum-for-two-strings) (Medium)

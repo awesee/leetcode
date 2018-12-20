@@ -1,4 +1,4 @@
-## 389. Find the Difference
+## 389. Find the Difference (Easy)
 
 <p>
 Given two strings <b><i>s</i></b> and <b><i>t</i></b> which consist of only lowercase letters.</p>
@@ -21,4 +21,4 @@ Explanation:
 </pre>
 
 ### Similar Questions
-  1. [Single Number](https://github.com/openset/leetcode/tree/master/solution/single-number)(Easy)
+  1. [Single Number](https://github.com/openset/leetcode/tree/master/solution/single-number) (Easy)

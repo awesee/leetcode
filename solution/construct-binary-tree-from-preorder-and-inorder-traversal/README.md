@@ -1,4 +1,4 @@
-## 105. Construct Binary Tree from Preorder and Inorder Traversal
+## 105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)
 
 <p>Given preorder and inorder traversal of a tree, construct the binary tree.</p>
 
@@ -22,4 +22,4 @@ inorder = [9,3,15,20,7]</pre>
 
 
 ### Similar Questions
-  1. [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/openset/leetcode/tree/master/solution/construct-binary-tree-from-inorder-and-postorder-traversal)(Medium)
+  1. [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/openset/leetcode/tree/master/solution/construct-binary-tree-from-inorder-and-postorder-traversal) (Medium)

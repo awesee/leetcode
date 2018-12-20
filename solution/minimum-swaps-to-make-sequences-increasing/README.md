@@ -1,4 +1,4 @@
-## 801. Minimum Swaps To Make Sequences Increasing
+## 801. Minimum Swaps To Make Sequences Increasing (Medium)
 
 <p>We have two integer sequences <code>A</code> and <code>B</code> of the same non-zero length.</p>
 

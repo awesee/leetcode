@@ -1,4 +1,4 @@
-## 225. Implement Stack using Queues
+## 225. Implement Stack using Queues (Easy)
 
 <p>Implement the following operations of a stack using queues.</p>
 
@@ -30,4 +30,4 @@ stack.empty(); // returns false</pre>
 
 
 ### Similar Questions
-  1. [Implement Queue using Stacks](https://github.com/openset/leetcode/tree/master/solution/implement-queue-using-stacks)(Easy)
+  1. [Implement Queue using Stacks](https://github.com/openset/leetcode/tree/master/solution/implement-queue-using-stacks) (Easy)

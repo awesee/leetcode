@@ -1,4 +1,4 @@
-## 659. Split Array into Consecutive Subsequences
+## 659. Split Array into Consecutive Subsequences (Medium)
 
 <p>You are given an integer array sorted in ascending order (may contain duplicates), you need to split them into several subsequences, where each subsequences consist of at least 3 consecutive integers. Return whether you can make such a split.</p>
 
@@ -38,4 +38,4 @@ You can split them into two consecutive subsequences :
 </p>
 
 ### Similar Questions
-  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/solution/top-k-frequent-elements)(Medium)
+  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/solution/top-k-frequent-elements) (Medium)

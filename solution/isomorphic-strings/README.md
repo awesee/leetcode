@@ -1,4 +1,4 @@
-## 205. Isomorphic Strings
+## 205. Isomorphic Strings (Easy)
 
 <p>Given two strings <b><i>s</i></b> and <b><i>t</i></b>, determine if they are isomorphic.</p>
 
@@ -30,4 +30,4 @@ You may assume both <b><i>s&nbsp;</i></b>and <b><i>t&nbsp;</i></b>have the same 
 
 
 ### Similar Questions
-  1. [Word Pattern](https://github.com/openset/leetcode/tree/master/solution/word-pattern)(Easy)
+  1. [Word Pattern](https://github.com/openset/leetcode/tree/master/solution/word-pattern) (Easy)

@@ -1,4 +1,4 @@
-## 860. Lemonade Change
+## 860. Lemonade Change (Easy)
 
 <p>At a lemonade stand, each lemonade costs <code>$5</code>.&nbsp;</p>
 

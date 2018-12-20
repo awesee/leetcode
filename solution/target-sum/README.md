@@ -1,4 +1,4 @@
-## 494. Target Sum
+## 494. Target Sum (Medium)
 
 <p>
 You are given a list of non-negative integers, a1, a2, ..., an, and a target, S. Now you have 2 symbols <code>+</code> and <code>-</code>. For each integer, you should choose one from <code>+</code> and <code>-</code> as its new symbol.
@@ -32,4 +32,4 @@ There are 5 ways to assign symbols to make the sum of nums be target 3.
 </p>
 
 ### Similar Questions
-  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/solution/expression-add-operators)(Hard)
+  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/solution/expression-add-operators) (Hard)

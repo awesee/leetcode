@@ -1,4 +1,4 @@
-## 380. Insert Delete GetRandom O(1)
+## 380. Insert Delete GetRandom O(1) (Medium)
 
 <p>Design a data structure that supports all following operations in <i>average</i> <b>O(1)</b> time.</p>
 
@@ -39,4 +39,4 @@ randomSet.getRandom();
 </p>
 
 ### Similar Questions
-  1. [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/openset/leetcode/tree/master/solution/insert-delete-getrandom-o1-duplicates-allowed)(Hard)
+  1. [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/openset/leetcode/tree/master/solution/insert-delete-getrandom-o1-duplicates-allowed) (Hard)

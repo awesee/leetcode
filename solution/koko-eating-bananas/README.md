@@ -1,4 +1,4 @@
-## 875. Koko Eating Bananas
+## 875. Koko Eating Bananas (Medium)
 
 <p>Koko loves to eat bananas.&nbsp; There are <code>N</code>&nbsp;piles of bananas, the <code>i</code>-th&nbsp;pile has <code>piles[i]</code> bananas.&nbsp; The guards have gone and will come back in <code>H</code> hours.</p>
 
@@ -52,4 +52,4 @@
 
 
 ### Similar Questions
-  1. [Minimize Max Distance to Gas Station](https://github.com/openset/leetcode/tree/master/solution/minimize-max-distance-to-gas-station)(Hard)
+  1. [Minimize Max Distance to Gas Station](https://github.com/openset/leetcode/tree/master/solution/minimize-max-distance-to-gas-station) (Hard)

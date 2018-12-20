@@ -1,4 +1,4 @@
-## 365. Water and Jug Problem
+## 365. Water and Jug Problem (Medium)
 
 <p>You are given two jugs with capacities <i>x</i> and <i>y</i> litres. There is an infinite amount of water supply available. You need to determine whether it is possible to measure exactly <i>z</i> litres using these two jugs.</p>
 

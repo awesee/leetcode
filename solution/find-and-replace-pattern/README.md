@@ -1,4 +1,4 @@
-## 890. Find and Replace Pattern
+## 890. Find and Replace Pattern (Medium)
 
 <p>You have a list of&nbsp;<code>words</code> and a <code>pattern</code>, and you want to know which words in <code>words</code> matches the pattern.</p>
 

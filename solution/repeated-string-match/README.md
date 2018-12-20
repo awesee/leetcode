@@ -1,4 +1,4 @@
-## 686. Repeated String Match
+## 686. Repeated String Match (Easy)
 
 <p>Given two strings A and B, find the minimum number of times A has to be repeated such that B is a substring of it. If no such solution, return -1.</p>
 
@@ -11,4 +11,4 @@ The length of <code>A</code> and <code>B</code> will be between 1 and 10000.</p>
 
 
 ### Similar Questions
-  1. [Repeated Substring Pattern](https://github.com/openset/leetcode/tree/master/solution/repeated-substring-pattern)(Easy)
+  1. [Repeated Substring Pattern](https://github.com/openset/leetcode/tree/master/solution/repeated-substring-pattern) (Easy)

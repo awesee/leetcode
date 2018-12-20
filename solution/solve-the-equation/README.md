@@ -1,4 +1,4 @@
-## 640. Solve the Equation
+## 640. Solve the Equation (Medium)
 
 <p>
 Solve a given equation and return the value of <code>x</code> in the form of string "x=#value". The equation contains only '+', '-' operation, the variable <code>x</code> and its coefficient.
@@ -50,4 +50,4 @@ If there is exactly one solution for the equation, we ensure that the value of <
 </p>
 
 ### Similar Questions
-  1. [Fraction Addition and Subtraction](https://github.com/openset/leetcode/tree/master/solution/fraction-addition-and-subtraction)(Medium)
+  1. [Fraction Addition and Subtraction](https://github.com/openset/leetcode/tree/master/solution/fraction-addition-and-subtraction) (Medium)

@@ -1,4 +1,4 @@
-## 922. Sort Array By Parity II
+## 922. Sort Array By Parity II (Easy)
 
 <p>Given an array <code>A</code>&nbsp;of non-negative integers, half of the integers in A are odd, and half of the integers are even.</p>
 

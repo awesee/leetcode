@@ -1,4 +1,4 @@
-## 44. Wildcard Matching
+## 44. Wildcard Matching (Hard)
 
 <p>Given an input string (<code>s</code>) and a pattern (<code>p</code>), implement wildcard pattern matching with support for <code>&#39;?&#39;</code> and <code>&#39;*&#39;</code>.</p>
 
@@ -67,4 +67,4 @@ p = &quot;a*c?b&quot;
 
 
 ### Similar Questions
-  1. [Regular Expression Matching](https://github.com/openset/leetcode/tree/master/solution/regular-expression-matching)(Hard)
+  1. [Regular Expression Matching](https://github.com/openset/leetcode/tree/master/solution/regular-expression-matching) (Hard)

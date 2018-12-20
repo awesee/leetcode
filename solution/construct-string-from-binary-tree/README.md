@@ -1,4 +1,4 @@
-## 606. Construct String from Binary Tree
+## 606. Construct String from Binary Tree (Easy)
 
 <p>You need to construct a string consists of parenthesis and integers from a binary tree with the preorder traversing way.</p>
 
@@ -33,5 +33,5 @@
 </p>
 
 ### Similar Questions
-  1. [Construct Binary Tree from String](https://github.com/openset/leetcode/tree/master/solution/construct-binary-tree-from-string)(Medium)
-  1. [Find Duplicate Subtrees](https://github.com/openset/leetcode/tree/master/solution/find-duplicate-subtrees)(Medium)
+  1. [Construct Binary Tree from String](https://github.com/openset/leetcode/tree/master/solution/construct-binary-tree-from-string) (Medium)
+  1. [Find Duplicate Subtrees](https://github.com/openset/leetcode/tree/master/solution/find-duplicate-subtrees) (Medium)

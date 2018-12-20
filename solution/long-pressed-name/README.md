@@ -1,4 +1,4 @@
-## 925. Long Pressed Name
+## 925. Long Pressed Name (Easy)
 
 <p>Your friend is typing his <code>name</code>&nbsp;into a keyboard.&nbsp; Sometimes, when typing a character <code>c</code>, the key might get <em>long pressed</em>, and the character will be typed 1 or more times.</p>
 

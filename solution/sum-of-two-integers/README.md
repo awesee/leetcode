@@ -1,4 +1,4 @@
-## 371. Sum of Two Integers
+## 371. Sum of Two Integers (Easy)
 
 <p>Calculate the sum of two integers <i>a</i> and <i>b</i>, but you are <b>not allowed</b> to use the operator <code>+</code> and <code>-</code>.</p>
 
@@ -21,4 +21,4 @@
 </div>
 
 ### Similar Questions
-  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/solution/add-two-numbers)(Medium)
+  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/solution/add-two-numbers) (Medium)

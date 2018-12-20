@@ -1,4 +1,4 @@
-## 214. Shortest Palindrome
+## 214. Shortest Palindrome (Hard)
 
 <p>Given a string <em><b>s</b></em>, you are allowed to convert it to a palindrome by adding characters in front of it. Find and return the shortest palindrome you can find by performing this transformation.</p>
 
@@ -16,6 +16,6 @@
 <strong>Output:</strong> <code>&quot;dcbabcd&quot;</code></pre>
 
 ### Similar Questions
-  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-substring)(Medium)
-  1. [Implement strStr()](https://github.com/openset/leetcode/tree/master/solution/implement-strstr)(Easy)
-  1. [Palindrome Pairs](https://github.com/openset/leetcode/tree/master/solution/palindrome-pairs)(Hard)
+  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-substring) (Medium)
+  1. [Implement strStr()](https://github.com/openset/leetcode/tree/master/solution/implement-strstr) (Easy)
+  1. [Palindrome Pairs](https://github.com/openset/leetcode/tree/master/solution/palindrome-pairs) (Hard)

@@ -1,4 +1,4 @@
-## 542. 01 Matrix
+## 542. 01 Matrix (Medium)
 
 <p>
 Given a matrix consists of 0 and 1, find the distance of the nearest 0 for each cell.

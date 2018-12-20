@@ -1,4 +1,4 @@
-## 181. Employees Earning More Than Their Managers
+## 181. Employees Earning More Than Their Managers (Easy)
 
 <p>The <code>Employee</code> table holds all employees including their managers. Every employee has an Id, and there is also a column for the manager Id.</p>
 

@@ -1,4 +1,4 @@
-## 745. Prefix and Suffix Search
+## 745. Prefix and Suffix Search (Hard)
 
 <p>
 Given many <code>words</code>, <code>words[i]</code> has weight <code>i</code>.
@@ -26,4 +26,4 @@ WordFilter.f("b", "") // returns -1
 </p>
 
 ### Similar Questions
-  1. [Add and Search Word - Data structure design](https://github.com/openset/leetcode/tree/master/solution/add-and-search-word-data-structure-design)(Medium)
+  1. [Add and Search Word - Data structure design](https://github.com/openset/leetcode/tree/master/solution/add-and-search-word-data-structure-design) (Medium)

@@ -1,4 +1,4 @@
-## 692. Top K Frequent Words
+## 692. Top K Frequent Words (Medium)
 
 <p>Given a non-empty list of words, return the <i>k</i> most frequent elements.</p>
 <p>Your answer should be sorted by frequency from highest to lowest. If two words have the same frequency, then the word with the lower alphabetical order comes first.</p>
@@ -35,4 +35,4 @@
 </p>
 
 ### Similar Questions
-  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/solution/top-k-frequent-elements)(Medium)
+  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/solution/top-k-frequent-elements) (Medium)

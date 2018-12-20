@@ -1,4 +1,4 @@
-## 849. Maximize Distance to Closest Person
+## 849. Maximize Distance to Closest Person (Easy)
 
 <p>In a row of <code>seats</code>, <code>1</code> represents a person sitting in that seat, and <code>0</code> represents that the seat is empty.&nbsp;</p>
 
@@ -41,4 +41,4 @@ This is the maximum distance possible, so the answer is 3.
 
 
 ### Similar Questions
-  1. [Exam Room](https://github.com/openset/leetcode/tree/master/solution/exam-room)(Medium)
+  1. [Exam Room](https://github.com/openset/leetcode/tree/master/solution/exam-room) (Medium)

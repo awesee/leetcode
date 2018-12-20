@@ -1,4 +1,4 @@
-## 303. Range Sum Query - Immutable
+## 303. Range Sum Query - Immutable (Easy)
 
 <p>Given an integer array <i>nums</i>, find the sum of the elements between indices <i>i</i> and <i>j</i> (<i>i</i> &le; <i>j</i>), inclusive.</p>
 
@@ -20,6 +20,6 @@ sumRange(0, 5) -> -3
 </p>
 
 ### Similar Questions
-  1. [Range Sum Query 2D - Immutable](https://github.com/openset/leetcode/tree/master/solution/range-sum-query-2d-immutable)(Medium)
-  1. [Range Sum Query - Mutable](https://github.com/openset/leetcode/tree/master/solution/range-sum-query-mutable)(Medium)
-  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/solution/maximum-size-subarray-sum-equals-k)(Medium)
+  1. [Range Sum Query 2D - Immutable](https://github.com/openset/leetcode/tree/master/solution/range-sum-query-2d-immutable) (Medium)
+  1. [Range Sum Query - Mutable](https://github.com/openset/leetcode/tree/master/solution/range-sum-query-mutable) (Medium)
+  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/solution/maximum-size-subarray-sum-equals-k) (Medium)

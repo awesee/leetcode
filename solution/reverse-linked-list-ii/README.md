@@ -1,4 +1,4 @@
-## 92. Reverse Linked List II
+## 92. Reverse Linked List II (Medium)
 
 <p>Reverse a linked list from position <em>m</em> to <em>n</em>. Do it in one-pass.</p>
 
@@ -13,4 +13,4 @@
 
 
 ### Similar Questions
-  1. [Reverse Linked List](https://github.com/openset/leetcode/tree/master/solution/reverse-linked-list)(Easy)
+  1. [Reverse Linked List](https://github.com/openset/leetcode/tree/master/solution/reverse-linked-list) (Easy)

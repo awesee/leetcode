@@ -1,4 +1,4 @@
-## 738. Monotone Increasing Digits
+## 738. Monotone Increasing Digits (Medium)
 
 <p>
 Given a non-negative integer <code>N</code>, find the largest number that is less than or equal to <code>N</code> with monotone increasing digits.
@@ -32,4 +32,4 @@ Given a non-negative integer <code>N</code>, find the largest number that is les
 </p>
 
 ### Similar Questions
-  1. [Remove K Digits](https://github.com/openset/leetcode/tree/master/solution/remove-k-digits)(Medium)
+  1. [Remove K Digits](https://github.com/openset/leetcode/tree/master/solution/remove-k-digits) (Medium)

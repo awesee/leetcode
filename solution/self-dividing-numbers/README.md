@@ -1,4 +1,4 @@
-## 728. Self Dividing Numbers
+## 728. Self Dividing Numbers (Easy)
 
 <p>
 A <i>self-dividing number</i> is a number that is divisible by every digit it contains.
@@ -22,4 +22,4 @@ left = 1, right = 22
 </p>
 
 ### Similar Questions
-  1. [Perfect Number](https://github.com/openset/leetcode/tree/master/solution/perfect-number)(Easy)
+  1. [Perfect Number](https://github.com/openset/leetcode/tree/master/solution/perfect-number) (Easy)

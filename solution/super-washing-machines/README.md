@@ -1,4 +1,4 @@
-## 517. Super Washing Machines
+## 517. Super Washing Machines (Hard)
 
 <p>You have <b>n</b> super washing machines on a line. Initially, each washing machine has some dresses or is empty. 
 </p>

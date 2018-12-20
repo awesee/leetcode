@@ -1,4 +1,4 @@
-## 722. Remove Comments
+## 722. Remove Comments (Medium)
 
 <p>Given a C++ program, remove comments from it. The program <code>source</code> is an array where <code>source[i]</code> is the <code>i</code>-th line of the source code.  This represents the result of splitting the original source code string by the newline character <code>\n</code>.</p>
 
@@ -71,5 +71,5 @@ source = ["a/*comment", "line", "more_comment*/b"]
 </p>
 
 ### Similar Questions
-  1. [Mini Parser](https://github.com/openset/leetcode/tree/master/solution/mini-parser)(Medium)
-  1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/solution/ternary-expression-parser)(Medium)
+  1. [Mini Parser](https://github.com/openset/leetcode/tree/master/solution/mini-parser) (Medium)
+  1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/solution/ternary-expression-parser) (Medium)

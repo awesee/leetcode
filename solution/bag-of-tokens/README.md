@@ -1,4 +1,4 @@
-## 948. Bag of Tokens
+## 948. Bag of Tokens (Medium)
 
 <p>You have an initial power <code>P</code>, an initial score of <code>0</code> points, and a bag of tokens.</p>
 

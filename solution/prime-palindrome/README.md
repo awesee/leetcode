@@ -1,4 +1,4 @@
-## 866. Prime Palindrome
+## 866. Prime Palindrome (Medium)
 
 <p>Find the smallest prime palindrome greater than or equal to <code>N</code>.</p>
 

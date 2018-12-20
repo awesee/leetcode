@@ -1,4 +1,4 @@
-## 306. Additive Number
+## 306. Additive Number (Medium)
 
 <p>Additive number is a string whose digits can form additive sequence.</p>
 
@@ -29,4 +29,4 @@
 How would you handle overflow for very large input integers?</p>
 
 ### Similar Questions
-  1. [Split Array into Fibonacci Sequence](https://github.com/openset/leetcode/tree/master/solution/split-array-into-fibonacci-sequence)(Medium)
+  1. [Split Array into Fibonacci Sequence](https://github.com/openset/leetcode/tree/master/solution/split-array-into-fibonacci-sequence) (Medium)

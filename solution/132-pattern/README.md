@@ -1,4 +1,4 @@
-## 456. 132 Pattern
+## 456. 132 Pattern (Medium)
 
 <p>
 Given a sequence of n integers a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>, a 132 pattern is a subsequence a<sub><b>i</b></sub>, a<sub><b>j</b></sub>, a<sub><b>k</b></sub> such

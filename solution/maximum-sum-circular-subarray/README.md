@@ -1,4 +1,4 @@
-## 918. Maximum Sum Circular Subarray
+## 918. Maximum Sum Circular Subarray (Medium)
 
 <p>Given a <strong>circular&nbsp;array</strong>&nbsp;<strong>C</strong> of integers represented by&nbsp;<code>A</code>, find the maximum possible sum of a non-empty subarray of <strong>C</strong>.</p>
 

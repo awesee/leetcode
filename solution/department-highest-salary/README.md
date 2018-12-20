@@ -1,4 +1,4 @@
-## 184. Department Highest Salary
+## 184. Department Highest Salary (Medium)
 
 <p>The <code>Employee</code> table holds all employees. Every employee has an Id, a salary, and there is also a column for the department Id.</p>
 

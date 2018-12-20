@@ -1,4 +1,4 @@
-## 460. LFU Cache
+## 460. LFU Cache (Hard)
 
 <p>Design and implement a data structure for <a href="https://en.wikipedia.org/wiki/Least_frequently_used" target="_blank">Least Frequently Used (LFU)</a> cache. It should support the following operations: <code>get</code> and <code>put</code>.
 </p>
@@ -29,5 +29,5 @@ cache.get(4);       // returns 4
 </p>
 
 ### Similar Questions
-  1. [LRU Cache](https://github.com/openset/leetcode/tree/master/solution/lru-cache)(Hard)
-  1. [Design In-Memory File System](https://github.com/openset/leetcode/tree/master/solution/design-in-memory-file-system)(Hard)
+  1. [LRU Cache](https://github.com/openset/leetcode/tree/master/solution/lru-cache) (Hard)
+  1. [Design In-Memory File System](https://github.com/openset/leetcode/tree/master/solution/design-in-memory-file-system) (Hard)

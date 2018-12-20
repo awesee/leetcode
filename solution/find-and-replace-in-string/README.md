@@ -1,4 +1,4 @@
-## 833. Find And Replace in String
+## 833. Find And Replace in String (Medium)
 
 <p>To some string <code>S</code>, we will perform some&nbsp;replacement&nbsp;operations that replace groups of letters with new ones (not necessarily the same size).</p>
 

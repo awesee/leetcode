@@ -1,4 +1,4 @@
-## 130. Surrounded Regions
+## 130. Surrounded Regions (Medium)
 
 <p>Given a 2D board containing <code>&#39;X&#39;</code> and <code>&#39;O&#39;</code> (<strong>the letter O</strong>), capture all regions surrounded by <code>&#39;X&#39;</code>.</p>
 
@@ -28,5 +28,5 @@ X O X X
 
 
 ### Similar Questions
-  1. [Number of Islands](https://github.com/openset/leetcode/tree/master/solution/number-of-islands)(Medium)
-  1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/solution/walls-and-gates)(Medium)
+  1. [Number of Islands](https://github.com/openset/leetcode/tree/master/solution/number-of-islands) (Medium)
+  1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/solution/walls-and-gates) (Medium)

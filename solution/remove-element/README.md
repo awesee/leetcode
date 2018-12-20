@@ -1,4 +1,4 @@
-## 27. Remove Element
+## 27. Remove Element (Easy)
 
 <p>Given an array <em>nums</em> and a value <em>val</em>, remove all instances of that value <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> and return the new length.</p>
 
@@ -47,6 +47,6 @@ for (int i = 0; i &lt; len; i++) {
 
 
 ### Similar Questions
-  1. [Remove Duplicates from Sorted Array](https://github.com/openset/leetcode/tree/master/solution/remove-duplicates-from-sorted-array)(Easy)
-  1. [Remove Linked List Elements](https://github.com/openset/leetcode/tree/master/solution/remove-linked-list-elements)(Easy)
-  1. [Move Zeroes](https://github.com/openset/leetcode/tree/master/solution/move-zeroes)(Easy)
+  1. [Remove Duplicates from Sorted Array](https://github.com/openset/leetcode/tree/master/solution/remove-duplicates-from-sorted-array) (Easy)
+  1. [Remove Linked List Elements](https://github.com/openset/leetcode/tree/master/solution/remove-linked-list-elements) (Easy)
+  1. [Move Zeroes](https://github.com/openset/leetcode/tree/master/solution/move-zeroes) (Easy)

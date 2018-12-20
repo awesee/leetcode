@@ -1,4 +1,4 @@
-## 131. Palindrome Partitioning
+## 131. Palindrome Partitioning (Medium)
 
 <p>Given a string <em>s</em>, partition <em>s</em> such that every substring of the partition is a palindrome.</p>
 
@@ -17,4 +17,4 @@
 
 
 ### Similar Questions
-  1. [Palindrome Partitioning II](https://github.com/openset/leetcode/tree/master/solution/palindrome-partitioning-ii)(Hard)
+  1. [Palindrome Partitioning II](https://github.com/openset/leetcode/tree/master/solution/palindrome-partitioning-ii) (Hard)

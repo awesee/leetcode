@@ -1,4 +1,4 @@
-## 423. Reconstruct Original Digits from English
+## 423. Reconstruct Original Digits from English (Medium)
 
 <p>Given a <b>non-empty</b> string containing an out-of-order English representation of digits <code>0-9</code>, output the digits in ascending order.</p>
 

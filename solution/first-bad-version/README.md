@@ -1,4 +1,4 @@
-## 278. First Bad Version
+## 278. First Bad Version (Easy)
 
 <p>You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.</p>
 
@@ -19,6 +19,6 @@ Then 4 is the first bad version.&nbsp;</code>
 </pre>
 
 ### Similar Questions
-  1. [Find First and Last Position of Element in Sorted Array](https://github.com/openset/leetcode/tree/master/solution/find-first-and-last-position-of-element-in-sorted-array)(Medium)
-  1. [Search Insert Position](https://github.com/openset/leetcode/tree/master/solution/search-insert-position)(Easy)
-  1. [Guess Number Higher or Lower](https://github.com/openset/leetcode/tree/master/solution/guess-number-higher-or-lower)(Easy)
+  1. [Find First and Last Position of Element in Sorted Array](https://github.com/openset/leetcode/tree/master/solution/find-first-and-last-position-of-element-in-sorted-array) (Medium)
+  1. [Search Insert Position](https://github.com/openset/leetcode/tree/master/solution/search-insert-position) (Easy)
+  1. [Guess Number Higher or Lower](https://github.com/openset/leetcode/tree/master/solution/guess-number-higher-or-lower) (Easy)

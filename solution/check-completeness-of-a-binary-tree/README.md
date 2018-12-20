@@ -1,4 +1,4 @@
-## 958. Check Completeness of a Binary Tree
+## 958. Check Completeness of a Binary Tree (Medium)
 
 <p>Given a binary tree, determine if it is a <em>complete binary tree</em>.</p>
 

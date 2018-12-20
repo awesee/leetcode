@@ -1,4 +1,4 @@
-## 464. Can I Win
+## 464. Can I Win (Medium)
 
 <p>In the "100 game," two players take turns adding, to a running total, any integer from 1..10. The player who first causes the running total to reach or exceed 100 wins. </p>
 
@@ -30,6 +30,6 @@ Same with other integers chosen by the first player, the second player will alwa
 </p>
 
 ### Similar Questions
-  1. [Flip Game II](https://github.com/openset/leetcode/tree/master/solution/flip-game-ii)(Medium)
-  1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/solution/guess-number-higher-or-lower-ii)(Medium)
-  1. [Predict the Winner](https://github.com/openset/leetcode/tree/master/solution/predict-the-winner)(Medium)
+  1. [Flip Game II](https://github.com/openset/leetcode/tree/master/solution/flip-game-ii) (Medium)
+  1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/solution/guess-number-higher-or-lower-ii) (Medium)
+  1. [Predict the Winner](https://github.com/openset/leetcode/tree/master/solution/predict-the-winner) (Medium)

@@ -1,4 +1,4 @@
-## 467. Unique Substrings in Wraparound String
+## 467. Unique Substrings in Wraparound String (Medium)
 
 <p>Consider the string <code>s</code> to be the infinite wraparound string of "abcdefghijklmnopqrstuvwxyz", so <code>s</code> will look like this: "...zabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcd....".</p>
 

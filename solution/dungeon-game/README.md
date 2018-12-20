@@ -1,4 +1,4 @@
-## 174. Dungeon Game
+## 174. Dungeon Game (Hard)
 
 <style type="text/css">table.dungeon, .dungeon th, .dungeon td {
   border:3px solid black;
@@ -55,6 +55,6 @@
 
 
 ### Similar Questions
-  1. [Unique Paths](https://github.com/openset/leetcode/tree/master/solution/unique-paths)(Medium)
-  1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/solution/minimum-path-sum)(Medium)
-  1. [Cherry Pickup](https://github.com/openset/leetcode/tree/master/solution/cherry-pickup)(Hard)
+  1. [Unique Paths](https://github.com/openset/leetcode/tree/master/solution/unique-paths) (Medium)
+  1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/solution/minimum-path-sum) (Medium)
+  1. [Cherry Pickup](https://github.com/openset/leetcode/tree/master/solution/cherry-pickup) (Hard)

@@ -1,4 +1,4 @@
-## 4. Median of Two Sorted Arrays
+## 4. Median of Two Sorted Arrays (Hard)
 
 <p>There are two sorted arrays <b>nums1</b> and <b>nums2</b> of size m and n respectively.</p>
 

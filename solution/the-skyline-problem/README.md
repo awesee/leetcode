@@ -1,4 +1,4 @@
-## 218. The Skyline Problem
+## 218. The Skyline Problem (Hard)
 
 <p>A city&#39;s skyline is the outer contour of the silhouette formed by all the buildings in that city when viewed from a distance. Now suppose you are <b>given the locations and height of all the buildings</b> as shown on a cityscape photo (Figure A), write a program to <b>output the skyline</b> formed by these buildings collectively (Figure B).</p>
 <a href="/static/images/problemset/skyline1.jpg" target="_blank"><img alt="Buildings" src="https://assets.leetcode.com/uploads/2018/10/22/skyline1.png" style="max-width: 45%; border-width: 0px; border-style: solid;" /> </a> <a href="/static/images/problemset/skyline2.jpg" target="_blank"> <img alt="Skyline Contour" src="https://assets.leetcode.com/uploads/2018/10/22/skyline2.png" style="max-width: 45%; border-width: 0px; border-style: solid;" /> </a>
@@ -22,4 +22,4 @@
 
 
 ### Similar Questions
-  1. [Falling Squares](https://github.com/openset/leetcode/tree/master/solution/falling-squares)(Hard)
+  1. [Falling Squares](https://github.com/openset/leetcode/tree/master/solution/falling-squares) (Hard)

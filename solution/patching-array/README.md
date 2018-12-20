@@ -1,4 +1,4 @@
-## 330. Patching Array
+## 330. Patching Array (Hard)
 
 <p>Given a sorted positive integer array <i>nums</i> and an integer <i>n</i>, add/patch elements to the array such that any number in range <code>[1, n]</code> inclusive can be formed by the sum of some elements in the array. Return the minimum number of patches required.</p>
 

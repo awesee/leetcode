@@ -1,4 +1,4 @@
-## 86. Partition List
+## 86. Partition List (Medium)
 
 <p>Given a linked list and a value <em>x</em>, partition it such that all nodes less than <em>x</em> come before nodes greater than or equal to <em>x</em>.</p>
 

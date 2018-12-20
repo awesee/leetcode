@@ -1,4 +1,4 @@
-## 429. N-ary Tree Level Order Traversal
+## 429. N-ary Tree Level Order Traversal (Easy)
 
 <p>Given an n-ary tree, return the level order traversal of its nodes&#39; values. (ie, from left to right, level by level).</p>
 
@@ -31,6 +31,6 @@
 
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-level-order-traversal)(Medium)
-  1. [N-ary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-preorder-traversal)(Easy)
-  1. [N-ary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-postorder-traversal)(Easy)
+  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-level-order-traversal) (Medium)
+  1. [N-ary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-preorder-traversal) (Easy)
+  1. [N-ary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-postorder-traversal) (Easy)

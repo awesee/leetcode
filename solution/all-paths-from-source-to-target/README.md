@@ -1,4 +1,4 @@
-## 797. All Paths From Source to Target
+## 797. All Paths From Source to Target (Medium)
 
 <p>Given a directed, acyclic graph of <code>N</code> nodes.&nbsp; Find all possible paths from node <code>0</code> to node <code>N-1</code>, and return them in any order.</p>
 

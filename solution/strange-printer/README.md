@@ -1,4 +1,4 @@
-## 664. Strange Printer
+## 664. Strange Printer (Hard)
 
 <p>
 There is a strange printer with the following two special requirements:
@@ -33,4 +33,4 @@ Given a string consists of lower English letters only, your job is to count the 
 <p><b>Hint</b>: Length of the given string will not exceed 100.</p>
 
 ### Similar Questions
-  1. [Remove Boxes](https://github.com/openset/leetcode/tree/master/solution/remove-boxes)(Hard)
+  1. [Remove Boxes](https://github.com/openset/leetcode/tree/master/solution/remove-boxes) (Hard)

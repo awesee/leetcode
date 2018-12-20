@@ -1,4 +1,4 @@
-## 914. X of a Kind in a Deck of Cards
+## 914. X of a Kind in a Deck of Cards (Easy)
 
 <p>In a deck of cards, each card has an integer written on it.</p>
 

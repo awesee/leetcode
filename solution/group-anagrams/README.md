@@ -1,4 +1,4 @@
-## 49. Group Anagrams
+## 49. Group Anagrams (Medium)
 
 <p>Given an array of strings, group anagrams together.</p>
 
@@ -22,5 +22,5 @@
 
 
 ### Similar Questions
-  1. [Valid Anagram](https://github.com/openset/leetcode/tree/master/solution/valid-anagram)(Easy)
-  1. [Group Shifted Strings](https://github.com/openset/leetcode/tree/master/solution/group-shifted-strings)(Medium)
+  1. [Valid Anagram](https://github.com/openset/leetcode/tree/master/solution/valid-anagram) (Easy)
+  1. [Group Shifted Strings](https://github.com/openset/leetcode/tree/master/solution/group-shifted-strings) (Medium)

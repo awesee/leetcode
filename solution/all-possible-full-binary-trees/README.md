@@ -1,4 +1,4 @@
-## 894. All Possible Full Binary Trees
+## 894. All Possible Full Binary Trees (Medium)
 
 <p>A <em>full binary tree</em>&nbsp;is a binary tree where each node has exactly 0 or 2&nbsp;children.</p>
 

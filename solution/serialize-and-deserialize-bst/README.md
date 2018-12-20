@@ -1,4 +1,4 @@
-## 449. Serialize and Deserialize BST
+## 449. Serialize and Deserialize BST (Medium)
 
 <p>Serialization is the process of converting a data structure or object into a sequence of bits so that it can be stored in a file or memory buffer, or transmitted across a network connection link to be reconstructed later in the same or another computer environment. </p>
 
@@ -13,6 +13,6 @@
 </p>
 
 ### Similar Questions
-  1. [Serialize and Deserialize Binary Tree](https://github.com/openset/leetcode/tree/master/solution/serialize-and-deserialize-binary-tree)(Hard)
-  1. [Find Duplicate Subtrees](https://github.com/openset/leetcode/tree/master/solution/find-duplicate-subtrees)(Medium)
-  1. [Serialize and Deserialize N-ary Tree](https://github.com/openset/leetcode/tree/master/solution/serialize-and-deserialize-n-ary-tree)(Hard)
+  1. [Serialize and Deserialize Binary Tree](https://github.com/openset/leetcode/tree/master/solution/serialize-and-deserialize-binary-tree) (Hard)
+  1. [Find Duplicate Subtrees](https://github.com/openset/leetcode/tree/master/solution/find-duplicate-subtrees) (Medium)
+  1. [Serialize and Deserialize N-ary Tree](https://github.com/openset/leetcode/tree/master/solution/serialize-and-deserialize-n-ary-tree) (Hard)

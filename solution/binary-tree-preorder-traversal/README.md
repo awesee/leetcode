@@ -1,4 +1,4 @@
-## 144. Binary Tree Preorder Traversal
+## 144. Binary Tree Preorder Traversal (Medium)
 
 <p>Given a binary tree, return the <em>preorder</em> traversal of its nodes&#39; values.</p>
 
@@ -19,6 +19,6 @@
 
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal)(Medium)
-  1. [Verify Preorder Sequence in Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/verify-preorder-sequence-in-binary-search-tree)(Medium)
-  1. [N-ary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-preorder-traversal)(Easy)
+  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal) (Medium)
+  1. [Verify Preorder Sequence in Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/verify-preorder-sequence-in-binary-search-tree) (Medium)
+  1. [N-ary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-preorder-traversal) (Easy)

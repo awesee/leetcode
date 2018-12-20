@@ -1,4 +1,4 @@
-## 188. Best Time to Buy and Sell Stock IV
+## 188. Best Time to Buy and Sell Stock IV (Hard)
 
 <p>Say you have an array for which the <i>i</i><sup>th</sup> element is the price of a given stock on day <i>i</i>.</p>
 
@@ -25,6 +25,6 @@ You may not engage in multiple transactions at the same time (ie, you must sell 
 </pre>
 
 ### Similar Questions
-  1. [Best Time to Buy and Sell Stock](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock)(Easy)
-  1. [Best Time to Buy and Sell Stock II](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-ii)(Easy)
-  1. [Best Time to Buy and Sell Stock III](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-iii)(Hard)
+  1. [Best Time to Buy and Sell Stock](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock) (Easy)
+  1. [Best Time to Buy and Sell Stock II](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-ii) (Easy)
+  1. [Best Time to Buy and Sell Stock III](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-iii) (Hard)

@@ -1,4 +1,4 @@
-## 705. Design HashSet
+## 705. Design HashSet (Easy)
 
 <p>Design a HashSet&nbsp;without using any built-in hash table libraries.</p>
 
@@ -36,4 +36,4 @@ hashSet.contains(2); &nbsp;&nbsp;&nbsp;// returns false (already removed)
 
 
 ### Similar Questions
-  1. [Design HashMap](https://github.com/openset/leetcode/tree/master/solution/design-hashmap)(Easy)
+  1. [Design HashMap](https://github.com/openset/leetcode/tree/master/solution/design-hashmap) (Easy)

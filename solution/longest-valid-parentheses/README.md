@@ -1,4 +1,4 @@
-## 32. Longest Valid Parentheses
+## 32. Longest Valid Parentheses (Hard)
 
 <p>Given a string containing just the characters <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>, find the length of the longest valid (well-formed) parentheses substring.</p>
 
@@ -20,4 +20,4 @@
 
 
 ### Similar Questions
-  1. [Valid Parentheses](https://github.com/openset/leetcode/tree/master/solution/valid-parentheses)(Easy)
+  1. [Valid Parentheses](https://github.com/openset/leetcode/tree/master/solution/valid-parentheses) (Easy)

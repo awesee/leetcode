@@ -1,4 +1,4 @@
-## 152. Maximum Product Subarray
+## 152. Maximum Product Subarray (Medium)
 
 <p>Given an integer array&nbsp;<code>nums</code>, find the contiguous subarray within an array (containing at least one number) which has the largest product.</p>
 
@@ -19,8 +19,8 @@
 
 
 ### Similar Questions
-  1. [Maximum Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-subarray)(Easy)
-  1. [House Robber](https://github.com/openset/leetcode/tree/master/solution/house-robber)(Easy)
-  1. [Product of Array Except Self](https://github.com/openset/leetcode/tree/master/solution/product-of-array-except-self)(Medium)
-  1. [Maximum Product of Three Numbers](https://github.com/openset/leetcode/tree/master/solution/maximum-product-of-three-numbers)(Easy)
-  1. [Subarray Product Less Than K](https://github.com/openset/leetcode/tree/master/solution/subarray-product-less-than-k)(Medium)
+  1. [Maximum Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-subarray) (Easy)
+  1. [House Robber](https://github.com/openset/leetcode/tree/master/solution/house-robber) (Easy)
+  1. [Product of Array Except Self](https://github.com/openset/leetcode/tree/master/solution/product-of-array-except-self) (Medium)
+  1. [Maximum Product of Three Numbers](https://github.com/openset/leetcode/tree/master/solution/maximum-product-of-three-numbers) (Easy)
+  1. [Subarray Product Less Than K](https://github.com/openset/leetcode/tree/master/solution/subarray-product-less-than-k) (Medium)

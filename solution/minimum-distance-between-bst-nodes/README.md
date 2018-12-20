@@ -1,4 +1,4 @@
-## 783. Minimum Distance Between BST Nodes
+## 783. Minimum Distance Between BST Nodes (Easy)
 
 <p>Given a Binary Search Tree (BST) with the root node <code>root</code>, return&nbsp;the minimum difference between the values of any two different nodes in the tree.</p>
 
@@ -30,4 +30,4 @@ while the minimum difference in this tree is 1, it occurs between node 1 and nod
 
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal)(Medium)
+  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal) (Medium)

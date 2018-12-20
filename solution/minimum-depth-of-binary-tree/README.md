@@ -1,4 +1,4 @@
-## 111. Minimum Depth of Binary Tree
+## 111. Minimum Depth of Binary Tree (Easy)
 
 <p>Given a binary tree, find its minimum depth.</p>
 
@@ -21,5 +21,5 @@
 
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-level-order-traversal)(Medium)
-  1. [Maximum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/solution/maximum-depth-of-binary-tree)(Easy)
+  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-level-order-traversal) (Medium)
+  1. [Maximum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/solution/maximum-depth-of-binary-tree) (Easy)

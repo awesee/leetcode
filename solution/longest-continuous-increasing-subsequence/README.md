@@ -1,4 +1,4 @@
-## 674. Longest Continuous Increasing Subsequence
+## 674. Longest Continuous Increasing Subsequence (Easy)
 
 <p>
 Given an unsorted array of integers, find the length of longest <code>continuous</code> increasing subsequence (subarray).
@@ -26,5 +26,5 @@ Length of the array will not exceed 10,000.
 </p>
 
 ### Similar Questions
-  1. [Number of Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/solution/number-of-longest-increasing-subsequence)(Medium)
-  1. [Minimum Window Subsequence](https://github.com/openset/leetcode/tree/master/solution/minimum-window-subsequence)(Hard)
+  1. [Number of Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/solution/number-of-longest-increasing-subsequence) (Medium)
+  1. [Minimum Window Subsequence](https://github.com/openset/leetcode/tree/master/solution/minimum-window-subsequence) (Hard)

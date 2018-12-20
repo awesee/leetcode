@@ -1,4 +1,4 @@
-## 257. Binary Tree Paths
+## 257. Binary Tree Paths (Easy)
 
 <p>Given a binary tree, return all root-to-leaf paths.</p>
 
@@ -21,4 +21,4 @@
 </pre>
 
 ### Similar Questions
-  1. [Path Sum II](https://github.com/openset/leetcode/tree/master/solution/path-sum-ii)(Medium)
+  1. [Path Sum II](https://github.com/openset/leetcode/tree/master/solution/path-sum-ii) (Medium)

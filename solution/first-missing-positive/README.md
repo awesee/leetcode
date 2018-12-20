@@ -1,4 +1,4 @@
-## 41. First Missing Positive
+## 41. First Missing Positive (Hard)
 
 <p>Given an unsorted integer array, find the smallest missing&nbsp;positive integer.</p>
 
@@ -29,7 +29,7 @@ Output: 1
 
 
 ### Similar Questions
-  1. [Missing Number](https://github.com/openset/leetcode/tree/master/solution/missing-number)(Easy)
-  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/solution/find-the-duplicate-number)(Medium)
-  1. [Find All Numbers Disappeared in an Array](https://github.com/openset/leetcode/tree/master/solution/find-all-numbers-disappeared-in-an-array)(Easy)
-  1. [Couples Holding Hands](https://github.com/openset/leetcode/tree/master/solution/couples-holding-hands)(Hard)
+  1. [Missing Number](https://github.com/openset/leetcode/tree/master/solution/missing-number) (Easy)
+  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/solution/find-the-duplicate-number) (Medium)
+  1. [Find All Numbers Disappeared in an Array](https://github.com/openset/leetcode/tree/master/solution/find-all-numbers-disappeared-in-an-array) (Easy)
+  1. [Couples Holding Hands](https://github.com/openset/leetcode/tree/master/solution/couples-holding-hands) (Hard)

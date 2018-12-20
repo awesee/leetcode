@@ -1,4 +1,4 @@
-## 197. Rising Temperature
+## 197. Rising Temperature (Easy)
 
 <p>Given a <code>Weather</code> table, write a SQL query to find all dates&#39; Ids with higher temperature compared to its previous (yesterday&#39;s) dates.</p>
 

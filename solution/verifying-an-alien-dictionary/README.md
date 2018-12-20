@@ -1,4 +1,4 @@
-## 953. Verifying an Alien Dictionary
+## 953. Verifying an Alien Dictionary (Easy)
 
 <p>In an alien language, surprisingly they also use english lowercase letters, but possibly&nbsp;in a different <code>order</code>. The&nbsp;<code>order</code> of the alphabet&nbsp;is some permutation&nbsp;of lowercase letters.</p>
 

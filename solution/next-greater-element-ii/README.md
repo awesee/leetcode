@@ -1,4 +1,4 @@
-## 503. Next Greater Element II
+## 503. Next Greater Element II (Medium)
 
 <p>
 Given a circular array (the next element of the last element is the first element of the array), print the Next Greater Number for every element. The Next Greater Number of a number x is the first greater number to its traversing-order next in the array, which means you could search circularly to find its next greater number. If it doesn't exist, output -1 for this number.
@@ -17,5 +17,5 @@ The length of given array won't exceed 10000.
 </p>
 
 ### Similar Questions
-  1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-i)(Easy)
-  1. [Next Greater Element III](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-iii)(Medium)
+  1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-i) (Easy)
+  1. [Next Greater Element III](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-iii) (Medium)

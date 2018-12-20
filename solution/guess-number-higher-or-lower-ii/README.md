@@ -1,4 +1,4 @@
-## 375. Guess Number Higher or Lower II
+## 375. Guess Number Higher or Lower II (Medium)
 
 <p>We are playing the Guess Game. The game is as follows:</p>
 
@@ -25,7 +25,7 @@ You end up paying $5 + $7 + $9 = $21.
 <p>Given a particular <strong>n &ge; 1</strong>, find out how much money you need to have to guarantee a <b>win</b>.</p>
 
 ### Similar Questions
-  1. [Flip Game II](https://github.com/openset/leetcode/tree/master/solution/flip-game-ii)(Medium)
-  1. [Guess Number Higher or Lower](https://github.com/openset/leetcode/tree/master/solution/guess-number-higher-or-lower)(Easy)
-  1. [Can I Win](https://github.com/openset/leetcode/tree/master/solution/can-i-win)(Medium)
-  1. [Find K Closest Elements](https://github.com/openset/leetcode/tree/master/solution/find-k-closest-elements)(Medium)
+  1. [Flip Game II](https://github.com/openset/leetcode/tree/master/solution/flip-game-ii) (Medium)
+  1. [Guess Number Higher or Lower](https://github.com/openset/leetcode/tree/master/solution/guess-number-higher-or-lower) (Easy)
+  1. [Can I Win](https://github.com/openset/leetcode/tree/master/solution/can-i-win) (Medium)
+  1. [Find K Closest Elements](https://github.com/openset/leetcode/tree/master/solution/find-k-closest-elements) (Medium)

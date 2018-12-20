@@ -1,4 +1,4 @@
-## 36. Valid Sudoku
+## 36. Valid Sudoku (Medium)
 
 <p>Determine if a&nbsp;9x9 Sudoku board&nbsp;is valid.&nbsp;Only the filled cells need to be validated&nbsp;<strong>according to the following rules</strong>:</p>
 
@@ -62,4 +62,4 @@
 
 
 ### Similar Questions
-  1. [Sudoku Solver](https://github.com/openset/leetcode/tree/master/solution/sudoku-solver)(Hard)
+  1. [Sudoku Solver](https://github.com/openset/leetcode/tree/master/solution/sudoku-solver) (Hard)

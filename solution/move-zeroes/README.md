@@ -1,4 +1,4 @@
-## 283. Move Zeroes
+## 283. Move Zeroes (Easy)
 
 <p>Given an array <code>nums</code>, write a function to move all <code>0</code>&#39;s to the end of it while maintaining the relative order of the non-zero elements.</p>
 
@@ -16,4 +16,4 @@
 </ol>
 
 ### Similar Questions
-  1. [Remove Element](https://github.com/openset/leetcode/tree/master/solution/remove-element)(Easy)
+  1. [Remove Element](https://github.com/openset/leetcode/tree/master/solution/remove-element) (Easy)

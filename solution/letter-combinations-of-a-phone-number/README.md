@@ -1,4 +1,4 @@
-## 17. Letter Combinations of a Phone Number
+## 17. Letter Combinations of a Phone Number (Medium)
 
 <p>Given a string containing digits from <code>2-9</code> inclusive, return all possible letter combinations that the number could represent.</p>
 
@@ -19,6 +19,6 @@
 
 
 ### Similar Questions
-  1. [Generate Parentheses](https://github.com/openset/leetcode/tree/master/solution/generate-parentheses)(Medium)
-  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/solution/combination-sum)(Medium)
-  1. [Binary Watch](https://github.com/openset/leetcode/tree/master/solution/binary-watch)(Easy)
+  1. [Generate Parentheses](https://github.com/openset/leetcode/tree/master/solution/generate-parentheses) (Medium)
+  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/solution/combination-sum) (Medium)
+  1. [Binary Watch](https://github.com/openset/leetcode/tree/master/solution/binary-watch) (Easy)

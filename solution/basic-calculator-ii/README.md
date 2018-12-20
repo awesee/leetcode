@@ -1,4 +1,4 @@
-## 227. Basic Calculator II
+## 227. Basic Calculator II (Medium)
 
 <p>Implement a basic calculator to evaluate a simple expression string.</p>
 
@@ -32,6 +32,6 @@
 </ul>
 
 ### Similar Questions
-  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/solution/basic-calculator)(Hard)
-  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/solution/expression-add-operators)(Hard)
-  1. [Basic Calculator III](https://github.com/openset/leetcode/tree/master/solution/basic-calculator-iii)(Hard)
+  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/solution/basic-calculator) (Hard)
+  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/solution/expression-add-operators) (Hard)
+  1. [Basic Calculator III](https://github.com/openset/leetcode/tree/master/solution/basic-calculator-iii) (Hard)

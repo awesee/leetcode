@@ -1,4 +1,4 @@
-## 274. H-Index
+## 274. H-Index (Medium)
 
 <p>Given an array of citations (each citation is a non-negative integer) of a researcher, write a function to compute the researcher&#39;s h-index.</p>
 
@@ -18,4 +18,4 @@
 
 
 ### Similar Questions
-  1. [H-Index II](https://github.com/openset/leetcode/tree/master/solution/h-index-ii)(Medium)
+  1. [H-Index II](https://github.com/openset/leetcode/tree/master/solution/h-index-ii) (Medium)

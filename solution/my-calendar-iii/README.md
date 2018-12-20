@@ -1,4 +1,4 @@
-## 732. My Calendar III
+## 732. My Calendar III (Hard)
 
 <p>Implement a <code>MyCalendarThree</code> class to store your events. A new event can <b>always</b> be added.</p>
 
@@ -40,5 +40,5 @@ eg. [10, 20), [10, 40), and [5, 15) are still triple booked.
 
 
 ### Similar Questions
-  1. [My Calendar I](https://github.com/openset/leetcode/tree/master/solution/my-calendar-i)(Medium)
-  1. [My Calendar II](https://github.com/openset/leetcode/tree/master/solution/my-calendar-ii)(Medium)
+  1. [My Calendar I](https://github.com/openset/leetcode/tree/master/solution/my-calendar-i) (Medium)
+  1. [My Calendar II](https://github.com/openset/leetcode/tree/master/solution/my-calendar-ii) (Medium)

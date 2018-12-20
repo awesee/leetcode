@@ -1,4 +1,4 @@
-## 433. Minimum Genetic Mutation
+## 433. Minimum Genetic Mutation (Medium)
 
 <p>A gene string can be represented by an 8-character long string, with choices from <code>&quot;A&quot;</code>, <code>&quot;C&quot;</code>, <code>&quot;G&quot;</code>, <code>&quot;T&quot;</code>.</p>
 
@@ -58,4 +58,4 @@ return: 3
 
 
 ### Similar Questions
-  1. [Word Ladder](https://github.com/openset/leetcode/tree/master/solution/word-ladder)(Medium)
+  1. [Word Ladder](https://github.com/openset/leetcode/tree/master/solution/word-ladder) (Medium)

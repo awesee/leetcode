@@ -1,4 +1,4 @@
-## 921. Minimum Add to Make Parentheses Valid
+## 921. Minimum Add to Make Parentheses Valid (Medium)
 
 <p>Given a string&nbsp;<code>S</code> of <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code> parentheses, we add the minimum number of parentheses ( <code>&#39;(&#39;</code> or <code>&#39;)&#39;</code>, and in any positions ) so that the resulting parentheses string is valid.</p>
 

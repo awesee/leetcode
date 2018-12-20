@@ -1,4 +1,4 @@
-## 739. Daily Temperatures
+## 739. Daily Temperatures (Medium)
 
 <p>
 Given a list of daily temperatures <code>T</code>, return a list such that, for each day in the input, tells you how many days you would have to wait until a warmer temperature.  If there is no future day for which this is possible, put <code>0</code> instead.
@@ -12,4 +12,4 @@ Each temperature will be an integer in the range <code>[30, 100]</code>.
 </p>
 
 ### Similar Questions
-  1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-i)(Easy)
+  1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-i) (Easy)

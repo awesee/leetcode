@@ -1,4 +1,4 @@
-## 110. Balanced Binary Tree
+## 110. Balanced Binary Tree (Easy)
 
 <p>Given a binary tree, determine if it is height-balanced.</p>
 
@@ -39,4 +39,4 @@
 
 
 ### Similar Questions
-  1. [Maximum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/solution/maximum-depth-of-binary-tree)(Easy)
+  1. [Maximum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/solution/maximum-depth-of-binary-tree) (Easy)

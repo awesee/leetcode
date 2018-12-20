@@ -1,4 +1,4 @@
-## 670. Maximum Swap
+## 670. Maximum Swap (Medium)
 
 <p>
 Given a non-negative integer, you could swap two digits <b>at most</b> once to get the maximum valued number. Return the maximum valued number you could get.
@@ -28,4 +28,4 @@ Given a non-negative integer, you could swap two digits <b>at most</b> once to g
 </p>
 
 ### Similar Questions
-  1. [Create Maximum Number](https://github.com/openset/leetcode/tree/master/solution/create-maximum-number)(Hard)
+  1. [Create Maximum Number](https://github.com/openset/leetcode/tree/master/solution/create-maximum-number) (Hard)
