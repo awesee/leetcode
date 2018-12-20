@@ -10,6 +10,41 @@ LeetCode Problems' Solutions
 [![license](https://img.shields.io/github/license/openset/leetcode.svg)](https://github.com/openset/leetcode/blob/master/LICENSE)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/openset/leetcode.svg?colorB=green)](https://github.com/openset/leetcode/archive/master.zip)
 
+<table><thead>
+<tr>
+<th align="center"><a href="#1">[1-50]</a></th>
+<th align="center"><a href="#51">[51-100]</a></th>
+<th align="center"><a href="#101">[101-150]</a></th>
+<th align="center"><a href="#151">[151-200]</a></th>
+<th align="center"><a href="#201">[201-250]</a></th>
+<th align="center"><a href="#251">[251-300]</a></th>
+</tr>
+<tr>
+<th align="center"><a href="#301">[301-350]</a></th>
+<th align="center"><a href="#351">[351-400]</a></th>
+<th align="center"><a href="#401">[401-450]</a></th>
+<th align="center"><a href="#451">[451-500]</a></th>
+<th align="center"><a href="#501">[501-550]</a></th>
+<th align="center"><a href="#551">[551-600]</a></th>
+</tr>
+<tr>
+<th align="center"><a href="#601">[601-650]</a></th>
+<th align="center"><a href="#651">[651-700]</a></th>
+<th align="center"><a href="#701">[701-750]</a></th>
+<th align="center"><a href="#751">[751-800]</a></th>
+<th align="center"><a href="#801">[801-850]</a></th>
+<th align="center"><a href="#851">[851-900]</a></th>
+</tr>
+<tr>
+<th align="center"><a href="#901">[901-950]</a></th>
+<th align="center"><a href="#951">[951-1000]</a></th>
+<th align="center"><a href="#1001">[1001-1050]</a></th>
+<th align="center"><a href="#1051">[1051-1100]</a></th>
+<th align="center"><a href="#1101">[1101-1150]</a></th>
+<th align="center"><a href="#1151">[1151-1200]</a></th>
+</tr>
+</thead></table>
+
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
 | <span id="1">1</span> | [Two Sum](https://leetcode.com/problems/two-sum) | [Go](https://github.com/openset/leetcode/tree/master/solution/two-sum) | Easy |

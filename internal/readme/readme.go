@@ -21,14 +21,14 @@ func runReadme(cmd *base.Command, args []string) {
 	if len(args) != 0 {
 		cmd.Usage()
 	}
-	var wb bytes.Buffer
-	wb.WriteString(defaultStr)
-	writeProblems(&wb)
-	err := ioutil.WriteFile("README.md", wb.Bytes(), 0644)
+	var bf bytes.Buffer
+	bf.WriteString(defaultStr)
+	writeProblems(&bf)
+	err := ioutil.WriteFile("README.md", bf.Bytes(), 0644)
 	base.CheckErr(err)
 }
 
-func writeProblems(wb *bytes.Buffer) {
+func writeProblems(bf *bytes.Buffer) {
 	problems := leetcode.ProblemsAll()
 	problemsSet := make(map[int]string)
 	maxId := 0
@@ -47,9 +47,24 @@ func writeProblems(wb *bytes.Buffer) {
 			maxId = id
 		}
 	}
+
+	step, long := 50, 300
+	bf.WriteString("<table><thead>\n")
+	for i := 0; i < maxId; i += long {
+		bf.WriteString("<tr>\n")
+		for j := 0; j < long/step; j++ {
+			bf.WriteString(fmt.Sprintf("<th align=\"center\"><a href=\"#%d\">[%d-%d]</a></th>\n", 1+i+j*step, 1+i+j*step, i+j*step+step))
+		}
+		bf.WriteString("</tr>\n")
+	}
+	bf.WriteString("</thead></table>\n")
+
+	bf.WriteString("\n")
+	bf.WriteString("| # | Title | Solution | Difficulty |\n")
+	bf.WriteString("| :-: | - | - | :-: |\n")
 	for i := 0; i <= maxId; i++ {
 		if row, ok := problemsSet[i]; ok {
-			wb.WriteString(row)
+			bf.WriteString(row)
 		}
 	}
 }
@@ -66,6 +81,4 @@ LeetCode Problems' Solutions
 [![license](https://img.shields.io/github/license/openset/leetcode.svg)](https://github.com/openset/leetcode/blob/master/LICENSE)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/openset/leetcode.svg?colorB=green)](https://github.com/openset/leetcode/archive/master.zip)
 
-| # | Title | Solution | Difficulty |
-| :-: | - | - | :-: |
 `
