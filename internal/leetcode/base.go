@@ -4,7 +4,6 @@ import (
 	"bytes"
 	"encoding/json"
 	"errors"
-	"fmt"
 	"io/ioutil"
 	"net/http"
 	"net/http/cookiejar"
@@ -21,7 +20,6 @@ func init() {
 	checkErr(err)
 	http.DefaultClient.CheckRedirect = func(req *http.Request, via []*http.Request) error {
 		req.Header.Set("Referer", req.URL.String())
-		fmt.Println(req.URL.String())
 		if len(via) >= 3 {
 			return errors.New("stopped after 3 redirects")
 		}
