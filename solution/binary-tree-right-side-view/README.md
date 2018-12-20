@@ -1,4 +1,4 @@
-## 199. Binary Tree Right Side View
+## 199. Binary Tree Right Side View (Medium)
 
 <p>Given a binary tree, imagine yourself standing on the <em>right</em> side of it, return the values of the nodes you can see ordered from top to bottom.</p>
 
@@ -17,5 +17,5 @@
 </pre>
 
 ### Similar Questions
-  1. [Populating Next Right Pointers in Each Node](https://github.com/openset/leetcode/tree/master/solution/populating-next-right-pointers-in-each-node)(Medium)
-  1. [Boundary of Binary Tree](https://github.com/openset/leetcode/tree/master/solution/boundary-of-binary-tree)(Medium)
+  1. [Populating Next Right Pointers in Each Node](https://github.com/openset/leetcode/tree/master/solution/populating-next-right-pointers-in-each-node) (Medium)
+  1. [Boundary of Binary Tree](https://github.com/openset/leetcode/tree/master/solution/boundary-of-binary-tree) (Medium)

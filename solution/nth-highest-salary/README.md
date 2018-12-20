@@ -1,4 +1,4 @@
-## 177. Nth Highest Salary
+## 177. Nth Highest Salary (Medium)
 
 <p>Write a SQL query to get the <em>n</em><sup>th</sup> highest salary from the <code>Employee</code> table.</p>
 

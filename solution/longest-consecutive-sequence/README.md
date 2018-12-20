@@ -1,4 +1,4 @@
-## 128. Longest Consecutive Sequence
+## 128. Longest Consecutive Sequence (Hard)
 
 <p>Given an unsorted array of integers, find the length of the longest consecutive elements sequence.</p>
 
@@ -14,4 +14,4 @@
 
 
 ### Similar Questions
-  1. [Binary Tree Longest Consecutive Sequence](https://github.com/openset/leetcode/tree/master/solution/binary-tree-longest-consecutive-sequence)(Medium)
+  1. [Binary Tree Longest Consecutive Sequence](https://github.com/openset/leetcode/tree/master/solution/binary-tree-longest-consecutive-sequence) (Medium)

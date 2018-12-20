@@ -1,4 +1,4 @@
-## 61. Rotate List
+## 61. Rotate List (Medium)
 
 <p>Given a linked&nbsp;list, rotate the list to the right by <em>k</em> places, where <em>k</em> is non-negative.</p>
 
@@ -25,5 +25,5 @@ rotate 4 steps to the right:&nbsp;<code>2-&gt;0-&gt;1-&gt;NULL</code></pre>
 
 
 ### Similar Questions
-  1. [Rotate Array](https://github.com/openset/leetcode/tree/master/solution/rotate-array)(Easy)
-  1. [Split Linked List in Parts](https://github.com/openset/leetcode/tree/master/solution/split-linked-list-in-parts)(Medium)
+  1. [Rotate Array](https://github.com/openset/leetcode/tree/master/solution/rotate-array) (Easy)
+  1. [Split Linked List in Parts](https://github.com/openset/leetcode/tree/master/solution/split-linked-list-in-parts) (Medium)

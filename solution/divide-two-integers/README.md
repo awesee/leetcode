@@ -1,4 +1,4 @@
-## 29. Divide Two Integers
+## 29. Divide Two Integers (Medium)
 
 <p>Given two integers <code>dividend</code> and <code>divisor</code>, divide two integers without using multiplication, division and mod operator.</p>
 

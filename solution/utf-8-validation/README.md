@@ -1,4 +1,4 @@
-## 393. UTF-8 Validation
+## 393. UTF-8 Validation (Medium)
 
 <p>A character in UTF8 can be from <b>1 to 4 bytes</b> long, subjected to the following rules:</p>
 <ol>

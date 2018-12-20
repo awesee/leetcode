@@ -1,4 +1,4 @@
-## 193. Valid Phone Numbers
+## 193. Valid Phone Numbers (Easy)
 
 <p>Given a text file <code>file.txt</code> that contains list of phone numbers (one per line), write a one liner bash script to print all valid phone numbers.</p>
 

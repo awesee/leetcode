@@ -1,4 +1,4 @@
-## 12. Integer to Roman
+## 12. Integer to Roman (Medium)
 
 <p>Roman numerals are represented by seven different symbols:&nbsp;<code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.</p>
 
@@ -59,5 +59,5 @@ M             1000</pre>
 
 
 ### Similar Questions
-  1. [Roman to Integer](https://github.com/openset/leetcode/tree/master/solution/roman-to-integer)(Easy)
-  1. [Integer to English Words](https://github.com/openset/leetcode/tree/master/solution/integer-to-english-words)(Hard)
+  1. [Roman to Integer](https://github.com/openset/leetcode/tree/master/solution/roman-to-integer) (Easy)
+  1. [Integer to English Words](https://github.com/openset/leetcode/tree/master/solution/integer-to-english-words) (Hard)

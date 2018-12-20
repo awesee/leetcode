@@ -1,4 +1,4 @@
-## 345. Reverse Vowels of a String
+## 345. Reverse Vowels of a String (Easy)
 
 <p>Write a function that takes a string as input and reverse only the vowels of a string.</p>
 
@@ -24,4 +24,4 @@ The vowels does not include the letter &quot;y&quot;.</p>
 
 
 ### Similar Questions
-  1. [Reverse String](https://github.com/openset/leetcode/tree/master/solution/reverse-string)(Easy)
+  1. [Reverse String](https://github.com/openset/leetcode/tree/master/solution/reverse-string) (Easy)

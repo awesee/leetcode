@@ -1,4 +1,4 @@
-## 147. Insertion Sort List
+## 147. Insertion Sort List (Medium)
 
 <p>Sort a linked list using insertion sort.</p>
 
@@ -38,5 +38,5 @@ With each iteration one element (red) is removed from the input data and inserte
 
 
 ### Similar Questions
-  1. [Sort List](https://github.com/openset/leetcode/tree/master/solution/sort-list)(Medium)
-  1. [Insert into a Cyclic Sorted List](https://github.com/openset/leetcode/tree/master/solution/insert-into-a-cyclic-sorted-list)(Medium)
+  1. [Sort List](https://github.com/openset/leetcode/tree/master/solution/sort-list) (Medium)
+  1. [Insert into a Cyclic Sorted List](https://github.com/openset/leetcode/tree/master/solution/insert-into-a-cyclic-sorted-list) (Medium)

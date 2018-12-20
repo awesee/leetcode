@@ -1,4 +1,4 @@
-## 238. Product of Array Except Self
+## 238. Product of Array Except Self (Medium)
 
 <p>Given an array <code>nums</code> of <em>n</em> integers where <em>n</em> &gt; 1, &nbsp;return an array <code>output</code> such that <code>output[i]</code> is equal to the product of all the elements of <code>nums</code> except <code>nums[i]</code>.</p>
 
@@ -16,6 +16,6 @@ Could you solve it with constant space complexity? (The output array <strong>doe
 
 
 ### Similar Questions
-  1. [Trapping Rain Water](https://github.com/openset/leetcode/tree/master/solution/trapping-rain-water)(Hard)
-  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-product-subarray)(Medium)
-  1. [Paint House II](https://github.com/openset/leetcode/tree/master/solution/paint-house-ii)(Hard)
+  1. [Trapping Rain Water](https://github.com/openset/leetcode/tree/master/solution/trapping-rain-water) (Hard)
+  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-product-subarray) (Medium)
+  1. [Paint House II](https://github.com/openset/leetcode/tree/master/solution/paint-house-ii) (Hard)

@@ -1,4 +1,4 @@
-## 202. Happy Number
+## 202. Happy Number (Easy)
 
 <p>Write an algorithm to determine if a number is &quot;happy&quot;.</p>
 
@@ -17,6 +17,6 @@
 </pre>
 
 ### Similar Questions
-  1. [Linked List Cycle](https://github.com/openset/leetcode/tree/master/solution/linked-list-cycle)(Easy)
-  1. [Add Digits](https://github.com/openset/leetcode/tree/master/solution/add-digits)(Easy)
-  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/solution/ugly-number)(Easy)
+  1. [Linked List Cycle](https://github.com/openset/leetcode/tree/master/solution/linked-list-cycle) (Easy)
+  1. [Add Digits](https://github.com/openset/leetcode/tree/master/solution/add-digits) (Easy)
+  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/solution/ugly-number) (Easy)

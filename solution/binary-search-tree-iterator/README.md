@@ -1,4 +1,4 @@
-## 173. Binary Search Tree Iterator
+## 173. Binary Search Tree Iterator (Medium)
 
 <p>Implement an iterator over a binary search tree (BST). Your iterator will be initialized with the root node of a BST.</p>
 
@@ -9,8 +9,8 @@
 <p><b>Credits:</b><br />Special thanks to <a href="https://oj.leetcode.com/discuss/user/ts">@ts</a> for adding this problem and creating all test cases.</p>
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal)(Medium)
-  1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/solution/flatten-2d-vector)(Medium)
-  1. [Zigzag Iterator](https://github.com/openset/leetcode/tree/master/solution/zigzag-iterator)(Medium)
-  1. [Peeking Iterator](https://github.com/openset/leetcode/tree/master/solution/peeking-iterator)(Medium)
-  1. [Inorder Successor in BST](https://github.com/openset/leetcode/tree/master/solution/inorder-successor-in-bst)(Medium)
+  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal) (Medium)
+  1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/solution/flatten-2d-vector) (Medium)
+  1. [Zigzag Iterator](https://github.com/openset/leetcode/tree/master/solution/zigzag-iterator) (Medium)
+  1. [Peeking Iterator](https://github.com/openset/leetcode/tree/master/solution/peeking-iterator) (Medium)
+  1. [Inorder Successor in BST](https://github.com/openset/leetcode/tree/master/solution/inorder-successor-in-bst) (Medium)

@@ -1,4 +1,4 @@
-## 407. Trapping Rain Water II
+## 407. Trapping Rain Water II (Hard)
 
 <p>Given an <code>m x n</code> matrix of positive integers representing the height of each unit cell in a 2D elevation map, compute the volume of water it is able to trap after raining.</p>
 
@@ -35,4 +35,4 @@ Return 4.
 
 
 ### Similar Questions
-  1. [Trapping Rain Water](https://github.com/openset/leetcode/tree/master/solution/trapping-rain-water)(Hard)
+  1. [Trapping Rain Water](https://github.com/openset/leetcode/tree/master/solution/trapping-rain-water) (Hard)

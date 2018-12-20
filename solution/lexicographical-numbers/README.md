@@ -1,4 +1,4 @@
-## 386. Lexicographical Numbers
+## 386. Lexicographical Numbers (Medium)
 
 <p>
 Given an integer <i>n</i>, return 1 - <i>n</i> in lexicographical order.

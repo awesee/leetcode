@@ -1,4 +1,4 @@
-## 137. Single Number II
+## 137. Single Number II (Medium)
 
 <p>Given a <strong>non-empty</strong>&nbsp;array of integers, every element appears <em>three</em> times except for one, which appears exactly once. Find that single one.</p>
 
@@ -21,5 +21,5 @@
 
 
 ### Similar Questions
-  1. [Single Number](https://github.com/openset/leetcode/tree/master/solution/single-number)(Easy)
-  1. [Single Number III](https://github.com/openset/leetcode/tree/master/solution/single-number-iii)(Medium)
+  1. [Single Number](https://github.com/openset/leetcode/tree/master/solution/single-number) (Easy)
+  1. [Single Number III](https://github.com/openset/leetcode/tree/master/solution/single-number-iii) (Medium)

@@ -1,4 +1,4 @@
-## 397. Integer Replacement
+## 397. Integer Replacement (Medium)
 
 <p>
 Given a positive integer <i>n</i> and you can do operations as follow:

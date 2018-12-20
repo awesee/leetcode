@@ -1,4 +1,4 @@
-## 194. Transpose File
+## 194. Transpose File (Medium)
 
 <p>Given a text file <code>file.txt</code>, transpose its content.</p>
 

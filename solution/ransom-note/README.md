@@ -1,4 +1,4 @@
-## 383. Ransom Note
+## 383. Ransom Note (Easy)
 
 <p>
 Given an arbitrary ransom note string and another string containing letters from all the magazines, write a function that will return true if the ransom 
@@ -20,4 +20,4 @@ canConstruct("aa", "aab") -> true
 
 
 ### Similar Questions
-  1. [Stickers to Spell Word](https://github.com/openset/leetcode/tree/master/solution/stickers-to-spell-word)(Hard)
+  1. [Stickers to Spell Word](https://github.com/openset/leetcode/tree/master/solution/stickers-to-spell-word) (Hard)

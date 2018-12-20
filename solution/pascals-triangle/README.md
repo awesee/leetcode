@@ -1,4 +1,4 @@
-## 118. Pascal's Triangle
+## 118. Pascal's Triangle (Easy)
 
 <p>Given a non-negative integer&nbsp;<em>numRows</em>, generate the first <em>numRows</em> of Pascal&#39;s triangle.</p>
 
@@ -21,4 +21,4 @@
 
 
 ### Similar Questions
-  1. [Pascal's Triangle II](https://github.com/openset/leetcode/tree/master/solution/pascals-triangle-ii)(Easy)
+  1. [Pascal's Triangle II](https://github.com/openset/leetcode/tree/master/solution/pascals-triangle-ii) (Easy)

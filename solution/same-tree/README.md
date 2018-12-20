@@ -1,4 +1,4 @@
-## 100. Same Tree
+## 100. Same Tree (Easy)
 
 <p>Given two binary trees, write a function to check if they are the same or not.</p>
 

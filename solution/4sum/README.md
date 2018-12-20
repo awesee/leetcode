@@ -1,4 +1,4 @@
-## 18. 4Sum
+## 18. 4Sum (Medium)
 
 <p>Given an array <code>nums</code> of <em>n</em> integers and an integer <code>target</code>, are there elements <em>a</em>, <em>b</em>, <em>c</em>, and <em>d</em> in <code>nums</code> such that <em>a</em> + <em>b</em> + <em>c</em> + <em>d</em> = <code>target</code>? Find all unique quadruplets in the array which gives the sum of <code>target</code>.</p>
 
@@ -21,6 +21,6 @@ A solution set is:
 
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/solution/two-sum)(Easy)
-  1. [3Sum](https://github.com/openset/leetcode/tree/master/solution/3sum)(Medium)
-  1. [4Sum II](https://github.com/openset/leetcode/tree/master/solution/4sum-ii)(Medium)
+  1. [Two Sum](https://github.com/openset/leetcode/tree/master/solution/two-sum) (Easy)
+  1. [3Sum](https://github.com/openset/leetcode/tree/master/solution/3sum) (Medium)
+  1. [4Sum II](https://github.com/openset/leetcode/tree/master/solution/4sum-ii) (Medium)

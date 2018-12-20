@@ -1,4 +1,4 @@
-## 198. House Robber
+## 198. House Robber (Easy)
 
 <p>You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security system connected and <b>it will automatically contact the police if two adjacent houses were broken into on the same night</b>.</p>
 
@@ -23,11 +23,11 @@
 
 
 ### Similar Questions
-  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-product-subarray)(Medium)
-  1. [House Robber II](https://github.com/openset/leetcode/tree/master/solution/house-robber-ii)(Medium)
-  1. [Paint House](https://github.com/openset/leetcode/tree/master/solution/paint-house)(Easy)
-  1. [Paint Fence](https://github.com/openset/leetcode/tree/master/solution/paint-fence)(Easy)
-  1. [House Robber III](https://github.com/openset/leetcode/tree/master/solution/house-robber-iii)(Medium)
-  1. [Non-negative Integers without Consecutive Ones](https://github.com/openset/leetcode/tree/master/solution/non-negative-integers-without-consecutive-ones)(Hard)
-  1. [Coin Path](https://github.com/openset/leetcode/tree/master/solution/coin-path)(Hard)
-  1. [Delete and Earn](https://github.com/openset/leetcode/tree/master/solution/delete-and-earn)(Medium)
+  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-product-subarray) (Medium)
+  1. [House Robber II](https://github.com/openset/leetcode/tree/master/solution/house-robber-ii) (Medium)
+  1. [Paint House](https://github.com/openset/leetcode/tree/master/solution/paint-house) (Easy)
+  1. [Paint Fence](https://github.com/openset/leetcode/tree/master/solution/paint-fence) (Easy)
+  1. [House Robber III](https://github.com/openset/leetcode/tree/master/solution/house-robber-iii) (Medium)
+  1. [Non-negative Integers without Consecutive Ones](https://github.com/openset/leetcode/tree/master/solution/non-negative-integers-without-consecutive-ones) (Hard)
+  1. [Coin Path](https://github.com/openset/leetcode/tree/master/solution/coin-path) (Hard)
+  1. [Delete and Earn](https://github.com/openset/leetcode/tree/master/solution/delete-and-earn) (Medium)

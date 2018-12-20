@@ -1,4 +1,4 @@
-## 38. Count and Say
+## 38. Count and Say (Easy)
 
 <p>The count-and-say sequence is the sequence of integers with the first five terms as following:</p>
 
@@ -35,5 +35,5 @@
 
 
 ### Similar Questions
-  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/solution/encode-and-decode-strings)(Medium)
-  1. [String Compression](https://github.com/openset/leetcode/tree/master/solution/string-compression)(Easy)
+  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/solution/encode-and-decode-strings) (Medium)
+  1. [String Compression](https://github.com/openset/leetcode/tree/master/solution/string-compression) (Easy)

@@ -1,4 +1,4 @@
-## 175. Combine Two Tables
+## 175. Combine Two Tables (Easy)
 
 <p>Table: <code>Person</code></p>
 
@@ -37,4 +37,4 @@ FirstName, LastName, City, State
 
 
 ### Similar Questions
-  1. [Employee Bonus](https://github.com/openset/leetcode/tree/master/solution/employee-bonus)(Easy)
+  1. [Employee Bonus](https://github.com/openset/leetcode/tree/master/solution/employee-bonus) (Easy)

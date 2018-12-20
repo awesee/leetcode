@@ -1,4 +1,4 @@
-## 89. Gray Code
+## 89. Gray Code (Medium)
 
 <p>The gray code is a binary numeral system where two successive values differ in only one bit.</p>
 
@@ -36,4 +36,4 @@ For example, [0,2,3,1] is also a valid gray code sequence.
 
 
 ### Similar Questions
-  1. [1-bit and 2-bit Characters](https://github.com/openset/leetcode/tree/master/solution/1-bit-and-2-bit-characters)(Easy)
+  1. [1-bit and 2-bit Characters](https://github.com/openset/leetcode/tree/master/solution/1-bit-and-2-bit-characters) (Easy)

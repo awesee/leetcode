@@ -1,4 +1,4 @@
-## 347. Top K Frequent Elements
+## 347. Top K Frequent Elements (Medium)
 
 <p>Given a non-empty array of integers, return the <b><i>k</i></b> most frequent elements.</p>
 
@@ -26,8 +26,8 @@
 
 
 ### Similar Questions
-  1. [Word Frequency](https://github.com/openset/leetcode/tree/master/solution/word-frequency)(Medium)
-  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/solution/kth-largest-element-in-an-array)(Medium)
-  1. [Sort Characters By Frequency](https://github.com/openset/leetcode/tree/master/solution/sort-characters-by-frequency)(Medium)
-  1. [Split Array into Consecutive Subsequences](https://github.com/openset/leetcode/tree/master/solution/split-array-into-consecutive-subsequences)(Medium)
-  1. [Top K Frequent Words](https://github.com/openset/leetcode/tree/master/solution/top-k-frequent-words)(Medium)
+  1. [Word Frequency](https://github.com/openset/leetcode/tree/master/solution/word-frequency) (Medium)
+  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/solution/kth-largest-element-in-an-array) (Medium)
+  1. [Sort Characters By Frequency](https://github.com/openset/leetcode/tree/master/solution/sort-characters-by-frequency) (Medium)
+  1. [Split Array into Consecutive Subsequences](https://github.com/openset/leetcode/tree/master/solution/split-array-into-consecutive-subsequences) (Medium)
+  1. [Top K Frequent Words](https://github.com/openset/leetcode/tree/master/solution/top-k-frequent-words) (Medium)

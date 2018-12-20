@@ -1,4 +1,4 @@
-## 31. Next Permutation
+## 31. Next Permutation (Medium)
 
 <p>Implement <strong>next permutation</strong>, which rearranges numbers into the lexicographically next greater permutation of numbers.</p>
 
@@ -14,7 +14,7 @@
 
 
 ### Similar Questions
-  1. [Permutations](https://github.com/openset/leetcode/tree/master/solution/permutations)(Medium)
-  1. [Permutations II](https://github.com/openset/leetcode/tree/master/solution/permutations-ii)(Medium)
-  1. [Permutation Sequence](https://github.com/openset/leetcode/tree/master/solution/permutation-sequence)(Medium)
-  1. [Palindrome Permutation II](https://github.com/openset/leetcode/tree/master/solution/palindrome-permutation-ii)(Medium)
+  1. [Permutations](https://github.com/openset/leetcode/tree/master/solution/permutations) (Medium)
+  1. [Permutations II](https://github.com/openset/leetcode/tree/master/solution/permutations-ii) (Medium)
+  1. [Permutation Sequence](https://github.com/openset/leetcode/tree/master/solution/permutation-sequence) (Medium)
+  1. [Palindrome Permutation II](https://github.com/openset/leetcode/tree/master/solution/palindrome-permutation-ii) (Medium)

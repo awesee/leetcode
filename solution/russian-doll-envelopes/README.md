@@ -1,4 +1,4 @@
-## 354. Russian Doll Envelopes
+## 354. Russian Doll Envelopes (Hard)
 
 <p>You have a number of envelopes with widths and heights given as a pair of integers <code>(w, h)</code>. One envelope can fit into another if and only if both the width and height of one envelope is greater than the width and height of the other envelope.</p>
 
@@ -19,4 +19,4 @@ Rotation is not allowed.</p>
 
 
 ### Similar Questions
-  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-increasing-subsequence)(Medium)
+  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-increasing-subsequence) (Medium)

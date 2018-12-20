@@ -1,4 +1,4 @@
-## 404. Sum of Left Leaves
+## 404. Sum of Left Leaves (Easy)
 
 <p>Find the sum of all left leaves in a given binary tree.</p>
 

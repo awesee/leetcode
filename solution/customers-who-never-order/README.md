@@ -1,4 +1,4 @@
-## 183. Customers Who Never Order
+## 183. Customers Who Never Order (Easy)
 
 <p>Suppose that a website contains two tables, the <code>Customers</code> table and the <code>Orders</code> table. Write a SQL query to find all customers who never order anything.</p>
 

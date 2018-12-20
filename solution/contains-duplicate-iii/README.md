@@ -1,4 +1,4 @@
-## 220. Contains Duplicate III
+## 220. Contains Duplicate III (Medium)
 
 <p>Given an array of integers, find out whether there are two distinct indices <i>i</i> and <i>j</i> in the array such that the <b>absolute</b> difference between <b>nums[i]</b> and <b>nums[j]</b> is at most <i>t</i> and the <b>absolute</b> difference between <i>i</i> and <i>j</i> is at most <i>k</i>.</p>
 
@@ -31,5 +31,5 @@
 
 
 ### Similar Questions
-  1. [Contains Duplicate](https://github.com/openset/leetcode/tree/master/solution/contains-duplicate)(Easy)
-  1. [Contains Duplicate II](https://github.com/openset/leetcode/tree/master/solution/contains-duplicate-ii)(Easy)
+  1. [Contains Duplicate](https://github.com/openset/leetcode/tree/master/solution/contains-duplicate) (Easy)
+  1. [Contains Duplicate II](https://github.com/openset/leetcode/tree/master/solution/contains-duplicate-ii) (Easy)

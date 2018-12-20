@@ -1,4 +1,4 @@
-## 327. Count of Range Sum
+## 327. Count of Range Sum (Hard)
 
 <p>Given an integer array <code>nums</code>, return the number of range sums that lie in <code>[lower, upper]</code> inclusive.<br />
 Range sum <code>S(i, j)</code> is defined as the sum of the elements in <code>nums</code> between indices <code>i</code> and <code>j</code> (<code>i</code> &le; <code>j</code>), inclusive.</p>
@@ -15,5 +15,5 @@ A naive algorithm of <i>O</i>(<i>n</i><sup>2</sup>) is trivial. You MUST do bett
 </pre>
 
 ### Similar Questions
-  1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/solution/count-of-smaller-numbers-after-self)(Hard)
-  1. [Reverse Pairs](https://github.com/openset/leetcode/tree/master/solution/reverse-pairs)(Hard)
+  1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/solution/count-of-smaller-numbers-after-self) (Hard)
+  1. [Reverse Pairs](https://github.com/openset/leetcode/tree/master/solution/reverse-pairs) (Hard)

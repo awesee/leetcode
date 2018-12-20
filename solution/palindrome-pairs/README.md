@@ -1,4 +1,4 @@
-## 336. Palindrome Pairs
+## 336. Palindrome Pairs (Hard)
 
 <p>Given a list of <b>unique</b> words, find all pairs of <b><i>distinct</i></b> indices <code>(i, j)</code> in the given list, so that the concatenation of the two words, i.e. <code>words[i] + words[j]</code> is a palindrome.</p>
 
@@ -23,5 +23,5 @@
 </div>
 
 ### Similar Questions
-  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-substring)(Medium)
-  1. [Shortest Palindrome](https://github.com/openset/leetcode/tree/master/solution/shortest-palindrome)(Hard)
+  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-substring) (Medium)
+  1. [Shortest Palindrome](https://github.com/openset/leetcode/tree/master/solution/shortest-palindrome) (Hard)

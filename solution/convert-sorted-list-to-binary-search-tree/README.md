@@ -1,4 +1,4 @@
-## 109. Convert Sorted List to Binary Search Tree
+## 109. Convert Sorted List to Binary Search Tree (Medium)
 
 <p>Given a singly linked list where elements are sorted in ascending order, convert it to a height balanced BST.</p>
 
@@ -20,4 +20,4 @@ One possible answer is: [0,-3,9,-10,null,5], which represents the following heig
 
 
 ### Similar Questions
-  1. [Convert Sorted Array to Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/convert-sorted-array-to-binary-search-tree)(Easy)
+  1. [Convert Sorted Array to Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/convert-sorted-array-to-binary-search-tree) (Easy)

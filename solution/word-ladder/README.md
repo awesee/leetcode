@@ -1,4 +1,4 @@
-## 127. Word Ladder
+## 127. Word Ladder (Medium)
 
 <p>Given two words (<em>beginWord</em> and <em>endWord</em>), and a dictionary&#39;s word list, find the length of shortest transformation sequence from <em>beginWord</em> to <em>endWord</em>, such that:</p>
 
@@ -49,5 +49,5 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
 
 
 ### Similar Questions
-  1. [Word Ladder II](https://github.com/openset/leetcode/tree/master/solution/word-ladder-ii)(Hard)
-  1. [Minimum Genetic Mutation](https://github.com/openset/leetcode/tree/master/solution/minimum-genetic-mutation)(Medium)
+  1. [Word Ladder II](https://github.com/openset/leetcode/tree/master/solution/word-ladder-ii) (Hard)
+  1. [Minimum Genetic Mutation](https://github.com/openset/leetcode/tree/master/solution/minimum-genetic-mutation) (Medium)

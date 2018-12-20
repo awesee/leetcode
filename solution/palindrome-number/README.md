@@ -1,4 +1,4 @@
-## 9. Palindrome Number
+## 9. Palindrome Number (Easy)
 
 <p>Determine whether an integer is a palindrome. An integer&nbsp;is&nbsp;a&nbsp;palindrome when it&nbsp;reads the same backward as forward.</p>
 
@@ -31,4 +31,4 @@
 
 
 ### Similar Questions
-  1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/solution/palindrome-linked-list)(Easy)
+  1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/solution/palindrome-linked-list) (Easy)

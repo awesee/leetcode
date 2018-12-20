@@ -1,4 +1,4 @@
-## 229. Majority Element II
+## 229. Majority Element II (Medium)
 
 <p>Given an integer array of size <i>n</i>, find all elements that appear more than <code>&lfloor; n/3 &rfloor;</code> times.</p>
 
@@ -18,4 +18,4 @@
 
 
 ### Similar Questions
-  1. [Majority Element](https://github.com/openset/leetcode/tree/master/solution/majority-element)(Easy)
+  1. [Majority Element](https://github.com/openset/leetcode/tree/master/solution/majority-element) (Easy)

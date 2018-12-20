@@ -1,4 +1,4 @@
-## 210. Course Schedule II
+## 210. Course Schedule II (Medium)
 
 <p>There are a total of <em>n</em> courses you have to take, labeled from <code>0</code> to <code>n-1</code>.</p>
 
@@ -34,8 +34,8 @@
 
 
 ### Similar Questions
-  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/solution/course-schedule)(Medium)
-  1. [Alien Dictionary](https://github.com/openset/leetcode/tree/master/solution/alien-dictionary)(Hard)
-  1. [Minimum Height Trees](https://github.com/openset/leetcode/tree/master/solution/minimum-height-trees)(Medium)
-  1. [Sequence Reconstruction](https://github.com/openset/leetcode/tree/master/solution/sequence-reconstruction)(Medium)
-  1. [Course Schedule III](https://github.com/openset/leetcode/tree/master/solution/course-schedule-iii)(Hard)
+  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/solution/course-schedule) (Medium)
+  1. [Alien Dictionary](https://github.com/openset/leetcode/tree/master/solution/alien-dictionary) (Hard)
+  1. [Minimum Height Trees](https://github.com/openset/leetcode/tree/master/solution/minimum-height-trees) (Medium)
+  1. [Sequence Reconstruction](https://github.com/openset/leetcode/tree/master/solution/sequence-reconstruction) (Medium)
+  1. [Course Schedule III](https://github.com/openset/leetcode/tree/master/solution/course-schedule-iii) (Hard)

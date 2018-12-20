@@ -1,4 +1,4 @@
-## 180. Consecutive Numbers
+## 180. Consecutive Numbers (Medium)
 
 <p>Write a SQL query to find all numbers that appear at least three times consecutively.</p>
 

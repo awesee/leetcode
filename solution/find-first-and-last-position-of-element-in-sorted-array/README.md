@@ -1,4 +1,4 @@
-## 34. Find First and Last Position of Element in Sorted Array
+## 34. Find First and Last Position of Element in Sorted Array (Medium)
 
 <p>Given an array of integers <code>nums</code> sorted in ascending order, find the starting and ending position of a given <code>target</code> value.</p>
 
@@ -20,4 +20,4 @@
 
 
 ### Similar Questions
-  1. [First Bad Version](https://github.com/openset/leetcode/tree/master/solution/first-bad-version)(Easy)
+  1. [First Bad Version](https://github.com/openset/leetcode/tree/master/solution/first-bad-version) (Easy)

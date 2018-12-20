@@ -1,4 +1,4 @@
-## 231. Power of Two
+## 231. Power of Two (Easy)
 
 <p>Given an integer, write a function to determine if it is a power of two.</p>
 
@@ -25,6 +25,6 @@
 
 
 ### Similar Questions
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/solution/number-of-1-bits)(Easy)
-  1. [Power of Three](https://github.com/openset/leetcode/tree/master/solution/power-of-three)(Easy)
-  1. [Power of Four](https://github.com/openset/leetcode/tree/master/solution/power-of-four)(Easy)
+  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/solution/number-of-1-bits) (Easy)
+  1. [Power of Three](https://github.com/openset/leetcode/tree/master/solution/power-of-three) (Easy)
+  1. [Power of Four](https://github.com/openset/leetcode/tree/master/solution/power-of-four) (Easy)

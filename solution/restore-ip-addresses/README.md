@@ -1,4 +1,4 @@
-## 93. Restore IP Addresses
+## 93. Restore IP Addresses (Medium)
 
 <p>Given a string containing only digits, restore it by returning all possible valid IP address combinations.</p>
 
@@ -11,4 +11,4 @@
 
 
 ### Similar Questions
-  1. [IP to CIDR](https://github.com/openset/leetcode/tree/master/solution/ip-to-cidr)(Easy)
+  1. [IP to CIDR](https://github.com/openset/leetcode/tree/master/solution/ip-to-cidr) (Easy)

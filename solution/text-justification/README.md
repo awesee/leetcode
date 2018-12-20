@@ -1,4 +1,4 @@
-## 68. Text Justification
+## 68. Text Justification (Hard)
 
 <p>Given an array of words and a width&nbsp;<em>maxWidth</em>, format the text such that each line has exactly <em>maxWidth</em> characters and is fully (left and right) justified.</p>
 

@@ -1,4 +1,4 @@
-## 300. Longest Increasing Subsequence
+## 300. Longest Increasing Subsequence (Medium)
 
 <p>Given an unsorted array of integers, find the length of longest increasing subsequence.</p>
 
@@ -20,8 +20,8 @@
 
 
 ### Similar Questions
-  1. [Increasing Triplet Subsequence](https://github.com/openset/leetcode/tree/master/solution/increasing-triplet-subsequence)(Medium)
-  1. [Russian Doll Envelopes](https://github.com/openset/leetcode/tree/master/solution/russian-doll-envelopes)(Hard)
-  1. [Maximum Length of Pair Chain](https://github.com/openset/leetcode/tree/master/solution/maximum-length-of-pair-chain)(Medium)
-  1. [Number of Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/solution/number-of-longest-increasing-subsequence)(Medium)
-  1. [Minimum ASCII Delete Sum for Two Strings](https://github.com/openset/leetcode/tree/master/solution/minimum-ascii-delete-sum-for-two-strings)(Medium)
+  1. [Increasing Triplet Subsequence](https://github.com/openset/leetcode/tree/master/solution/increasing-triplet-subsequence) (Medium)
+  1. [Russian Doll Envelopes](https://github.com/openset/leetcode/tree/master/solution/russian-doll-envelopes) (Hard)
+  1. [Maximum Length of Pair Chain](https://github.com/openset/leetcode/tree/master/solution/maximum-length-of-pair-chain) (Medium)
+  1. [Number of Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/solution/number-of-longest-increasing-subsequence) (Medium)
+  1. [Minimum ASCII Delete Sum for Two Strings](https://github.com/openset/leetcode/tree/master/solution/minimum-ascii-delete-sum-for-two-strings) (Medium)

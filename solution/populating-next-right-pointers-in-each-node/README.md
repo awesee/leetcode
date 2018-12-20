@@ -1,4 +1,4 @@
-## 116. Populating Next Right Pointers in Each Node
+## 116. Populating Next Right Pointers in Each Node (Medium)
 
 <p>Given a binary tree</p>
 
@@ -46,5 +46,5 @@ struct TreeLinkNode {
 
 
 ### Similar Questions
-  1. [Populating Next Right Pointers in Each Node II](https://github.com/openset/leetcode/tree/master/solution/populating-next-right-pointers-in-each-node-ii)(Medium)
-  1. [Binary Tree Right Side View](https://github.com/openset/leetcode/tree/master/solution/binary-tree-right-side-view)(Medium)
+  1. [Populating Next Right Pointers in Each Node II](https://github.com/openset/leetcode/tree/master/solution/populating-next-right-pointers-in-each-node-ii) (Medium)
+  1. [Binary Tree Right Side View](https://github.com/openset/leetcode/tree/master/solution/binary-tree-right-side-view) (Medium)

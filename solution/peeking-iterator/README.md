@@ -1,4 +1,4 @@
-## 284. Peeking Iterator
+## 284. Peeking Iterator (Medium)
 
 <p>Given an Iterator class interface with methods: <code>next()</code> and <code>hasNext()</code>, design and implement a PeekingIterator that support the <code>peek()</code> operation -- it essentially peek() at the element that will be returned by the next call to next().</p>
 
@@ -17,6 +17,6 @@ Calling <strong><code>hasNext()</code></strong> after that should return <strong
 
 
 ### Similar Questions
-  1. [Binary Search Tree Iterator](https://github.com/openset/leetcode/tree/master/solution/binary-search-tree-iterator)(Medium)
-  1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/solution/flatten-2d-vector)(Medium)
-  1. [Zigzag Iterator](https://github.com/openset/leetcode/tree/master/solution/zigzag-iterator)(Medium)
+  1. [Binary Search Tree Iterator](https://github.com/openset/leetcode/tree/master/solution/binary-search-tree-iterator) (Medium)
+  1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/solution/flatten-2d-vector) (Medium)
+  1. [Zigzag Iterator](https://github.com/openset/leetcode/tree/master/solution/zigzag-iterator) (Medium)

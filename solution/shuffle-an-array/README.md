@@ -1,4 +1,4 @@
-## 384. Shuffle an Array
+## 384. Shuffle an Array (Medium)
 
 <p>Shuffle a set of numbers without duplicates.
 </p>

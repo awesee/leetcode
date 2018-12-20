@@ -1,4 +1,4 @@
-## 47. Permutations II
+## 47. Permutations II (Medium)
 
 <p>Given a collection of numbers that might contain duplicates, return all possible unique permutations.</p>
 
@@ -16,6 +16,6 @@
 
 
 ### Similar Questions
-  1. [Next Permutation](https://github.com/openset/leetcode/tree/master/solution/next-permutation)(Medium)
-  1. [Permutations](https://github.com/openset/leetcode/tree/master/solution/permutations)(Medium)
-  1. [Palindrome Permutation II](https://github.com/openset/leetcode/tree/master/solution/palindrome-permutation-ii)(Medium)
+  1. [Next Permutation](https://github.com/openset/leetcode/tree/master/solution/next-permutation) (Medium)
+  1. [Permutations](https://github.com/openset/leetcode/tree/master/solution/permutations) (Medium)
+  1. [Palindrome Permutation II](https://github.com/openset/leetcode/tree/master/solution/palindrome-permutation-ii) (Medium)

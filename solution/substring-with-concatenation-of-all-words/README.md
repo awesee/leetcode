@@ -1,4 +1,4 @@
-## 30. Substring with Concatenation of All Words
+## 30. Substring with Concatenation of All Words (Hard)
 
 <p>You are given a string, <strong>s</strong>, and a list of words, <strong>words</strong>, that are all of the same length. Find all starting indices of substring(s) in <strong>s</strong> that is a concatenation of each word in <strong>words</strong> exactly once and without any intervening characters.</p>
 
@@ -24,4 +24,4 @@ The output order does not matter, returning [9,0] is fine too.
 
 
 ### Similar Questions
-  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring)(Hard)
+  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring) (Hard)

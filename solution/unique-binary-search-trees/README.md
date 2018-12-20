@@ -1,4 +1,4 @@
-## 96. Unique Binary Search Trees
+## 96. Unique Binary Search Trees (Medium)
 
 <p>Given <em>n</em>, how many structurally unique <strong>BST&#39;s</strong> (binary search trees) that store values 1 ...&nbsp;<em>n</em>?</p>
 
@@ -19,4 +19,4 @@
 
 
 ### Similar Questions
-  1. [Unique Binary Search Trees II](https://github.com/openset/leetcode/tree/master/solution/unique-binary-search-trees-ii)(Medium)
+  1. [Unique Binary Search Trees II](https://github.com/openset/leetcode/tree/master/solution/unique-binary-search-trees-ii) (Medium)

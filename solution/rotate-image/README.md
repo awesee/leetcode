@@ -1,4 +1,4 @@
-## 48. Rotate Image
+## 48. Rotate Image (Medium)
 
 <p>You are given an <em>n</em> x <em>n</em> 2D matrix representing an image.</p>
 

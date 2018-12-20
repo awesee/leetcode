@@ -1,4 +1,4 @@
-## 46. Permutations
+## 46. Permutations (Medium)
 
 <p>Given a collection of <strong>distinct</strong> integers, return all possible permutations.</p>
 
@@ -19,7 +19,7 @@
 
 
 ### Similar Questions
-  1. [Next Permutation](https://github.com/openset/leetcode/tree/master/solution/next-permutation)(Medium)
-  1. [Permutations II](https://github.com/openset/leetcode/tree/master/solution/permutations-ii)(Medium)
-  1. [Permutation Sequence](https://github.com/openset/leetcode/tree/master/solution/permutation-sequence)(Medium)
-  1. [Combinations](https://github.com/openset/leetcode/tree/master/solution/combinations)(Medium)
+  1. [Next Permutation](https://github.com/openset/leetcode/tree/master/solution/next-permutation) (Medium)
+  1. [Permutations II](https://github.com/openset/leetcode/tree/master/solution/permutations-ii) (Medium)
+  1. [Permutation Sequence](https://github.com/openset/leetcode/tree/master/solution/permutation-sequence) (Medium)
+  1. [Combinations](https://github.com/openset/leetcode/tree/master/solution/combinations) (Medium)

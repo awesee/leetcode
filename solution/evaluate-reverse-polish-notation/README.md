@@ -1,4 +1,4 @@
-## 150. Evaluate Reverse Polish Notation
+## 150. Evaluate Reverse Polish Notation (Medium)
 
 <p>Evaluate the value of an arithmetic expression in <a href="http://en.wikipedia.org/wiki/Reverse_Polish_notation" target="_blank">Reverse Polish Notation</a>.</p>
 
@@ -44,5 +44,5 @@
 
 
 ### Similar Questions
-  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/solution/basic-calculator)(Hard)
-  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/solution/expression-add-operators)(Hard)
+  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/solution/basic-calculator) (Hard)
+  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/solution/expression-add-operators) (Hard)

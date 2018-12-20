@@ -1,4 +1,4 @@
-## 334. Increasing Triplet Subsequence
+## 334. Increasing Triplet Subsequence (Medium)
 
 <p>Given an unsorted array return whether an increasing subsequence of length 3 exists or not in the array.</p>
 
@@ -28,4 +28,4 @@ such that <i>arr[i]</i> &lt; <i>arr[j]</i> &lt; <i>arr[k]</i> given 0 &le; <i>i<
 </div>
 
 ### Similar Questions
-  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-increasing-subsequence)(Medium)
+  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-increasing-subsequence) (Medium)

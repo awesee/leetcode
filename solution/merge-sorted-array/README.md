@@ -1,4 +1,4 @@
-## 88. Merge Sorted Array
+## 88. Merge Sorted Array (Easy)
 
 <p>Given two sorted integer arrays <em>nums1</em> and <em>nums2</em>, merge <em>nums2</em> into <em>nums1</em> as one sorted array.</p>
 
@@ -21,4 +21,4 @@ nums2 = [2,5,6],       n = 3
 
 
 ### Similar Questions
-  1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/solution/merge-two-sorted-lists)(Easy)
+  1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/solution/merge-two-sorted-lists) (Easy)

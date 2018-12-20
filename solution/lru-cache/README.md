@@ -1,4 +1,4 @@
-## 146. LRU Cache
+## 146. LRU Cache (Hard)
 
 <p>
 Design and implement a data structure for <a href="https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU" target="_blank">Least Recently Used (LRU) cache</a>. It should support the following operations: <code>get</code> and <code>put</code>.
@@ -29,6 +29,6 @@ cache.get(4);       // returns 4
 </p>
 
 ### Similar Questions
-  1. [LFU Cache](https://github.com/openset/leetcode/tree/master/solution/lfu-cache)(Hard)
-  1. [Design In-Memory File System](https://github.com/openset/leetcode/tree/master/solution/design-in-memory-file-system)(Hard)
-  1. [Design Compressed String Iterator](https://github.com/openset/leetcode/tree/master/solution/design-compressed-string-iterator)(Easy)
+  1. [LFU Cache](https://github.com/openset/leetcode/tree/master/solution/lfu-cache) (Hard)
+  1. [Design In-Memory File System](https://github.com/openset/leetcode/tree/master/solution/design-in-memory-file-system) (Hard)
+  1. [Design Compressed String Iterator](https://github.com/openset/leetcode/tree/master/solution/design-compressed-string-iterator) (Easy)

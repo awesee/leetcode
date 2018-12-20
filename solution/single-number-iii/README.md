@@ -1,4 +1,4 @@
-## 260. Single Number III
+## 260. Single Number III (Medium)
 
 <p>Given an array of numbers <code>nums</code>, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once.</p>
 
@@ -16,5 +16,5 @@
 </ol>
 
 ### Similar Questions
-  1. [Single Number](https://github.com/openset/leetcode/tree/master/solution/single-number)(Easy)
-  1. [Single Number II](https://github.com/openset/leetcode/tree/master/solution/single-number-ii)(Medium)
+  1. [Single Number](https://github.com/openset/leetcode/tree/master/solution/single-number) (Easy)
+  1. [Single Number II](https://github.com/openset/leetcode/tree/master/solution/single-number-ii) (Medium)

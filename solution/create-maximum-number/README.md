@@ -1,4 +1,4 @@
-## 321. Create Maximum Number
+## 321. Create Maximum Number (Hard)
 
 <p>Given two arrays of length <code>m</code> and <code>n</code> with digits <code>0-9</code> representing two numbers. Create the maximum number of length <code>k &lt;= m + n</code> from digits of the two. The relative order of the digits from the same array must be preserved. Return an array of the <code>k</code> digits.</p>
 
@@ -36,5 +36,5 @@ k = <code>3</code>
 </pre>
 
 ### Similar Questions
-  1. [Remove K Digits](https://github.com/openset/leetcode/tree/master/solution/remove-k-digits)(Medium)
-  1. [Maximum Swap](https://github.com/openset/leetcode/tree/master/solution/maximum-swap)(Medium)
+  1. [Remove K Digits](https://github.com/openset/leetcode/tree/master/solution/remove-k-digits) (Medium)
+  1. [Maximum Swap](https://github.com/openset/leetcode/tree/master/solution/maximum-swap) (Medium)

@@ -1,4 +1,4 @@
-## 151. Reverse Words in a String
+## 151. Reverse Words in a String (Medium)
 
 <p>Given an input string, reverse the string word by word.</p>
 
@@ -21,4 +21,4 @@
 
 
 ### Similar Questions
-  1. [Reverse Words in a String II](https://github.com/openset/leetcode/tree/master/solution/reverse-words-in-a-string-ii)(Medium)
+  1. [Reverse Words in a String II](https://github.com/openset/leetcode/tree/master/solution/reverse-words-in-a-string-ii) (Medium)

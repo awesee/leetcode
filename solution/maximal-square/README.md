@@ -1,4 +1,4 @@
-## 221. Maximal Square
+## 221. Maximal Square (Medium)
 
 <p>Given a 2D binary matrix filled with 0&#39;s and 1&#39;s, find the largest square containing only 1&#39;s and return its area.</p>
 
@@ -16,5 +16,5 @@
 </pre>
 
 ### Similar Questions
-  1. [Maximal Rectangle](https://github.com/openset/leetcode/tree/master/solution/maximal-rectangle)(Hard)
-  1. [Largest Plus Sign](https://github.com/openset/leetcode/tree/master/solution/largest-plus-sign)(Medium)
+  1. [Maximal Rectangle](https://github.com/openset/leetcode/tree/master/solution/maximal-rectangle) (Hard)
+  1. [Largest Plus Sign](https://github.com/openset/leetcode/tree/master/solution/largest-plus-sign) (Medium)

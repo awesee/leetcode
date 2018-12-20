@@ -1,4 +1,4 @@
-## 279. Perfect Squares
+## 279. Perfect Squares (Medium)
 
 <p>Given a positive integer <i>n</i>, find the least number of perfect square numbers (for example, <code>1, 4, 9, 16, ...</code>) which sum to <i>n</i>.</p>
 
@@ -17,5 +17,5 @@
 <strong>Explanation: </strong><code>13 = 4 + 9.</code></pre>
 
 ### Similar Questions
-  1. [Count Primes](https://github.com/openset/leetcode/tree/master/solution/count-primes)(Easy)
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/solution/ugly-number-ii)(Medium)
+  1. [Count Primes](https://github.com/openset/leetcode/tree/master/solution/count-primes) (Easy)
+  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/solution/ugly-number-ii) (Medium)

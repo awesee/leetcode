@@ -1,4 +1,4 @@
-## 169. Majority Element
+## 169. Majority Element (Easy)
 
 <p>Given an array of size <i>n</i>, find the majority element. The majority element is the element that appears <b>more than</b> <code>&lfloor; n/2 &rfloor;</code> times.</p>
 
@@ -19,4 +19,4 @@
 
 
 ### Similar Questions
-  1. [Majority Element II](https://github.com/openset/leetcode/tree/master/solution/majority-element-ii)(Medium)
+  1. [Majority Element II](https://github.com/openset/leetcode/tree/master/solution/majority-element-ii) (Medium)

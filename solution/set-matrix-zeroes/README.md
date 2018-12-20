@@ -1,4 +1,4 @@
-## 73. Set Matrix Zeroes
+## 73. Set Matrix Zeroes (Medium)
 
 <p>Given a <em>m</em> x <em>n</em> matrix, if an element is 0, set its entire row and column to 0. Do it <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a>.</p>
 
@@ -46,4 +46,4 @@
 
 
 ### Similar Questions
-  1. [Game of Life](https://github.com/openset/leetcode/tree/master/solution/game-of-life)(Medium)
+  1. [Game of Life](https://github.com/openset/leetcode/tree/master/solution/game-of-life) (Medium)

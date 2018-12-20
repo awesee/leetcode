@@ -1,4 +1,4 @@
-## 79. Word Search
+## 79. Word Search (Medium)
 
 <p>Given a 2D board and a word, find if the word exists in the grid.</p>
 
@@ -21,4 +21,4 @@ Given word = &quot;<strong>ABCB</strong>&quot;, return <strong>false</strong>.
 
 
 ### Similar Questions
-  1. [Word Search II](https://github.com/openset/leetcode/tree/master/solution/word-search-ii)(Hard)
+  1. [Word Search II](https://github.com/openset/leetcode/tree/master/solution/word-search-ii) (Hard)

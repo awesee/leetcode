@@ -1,4 +1,4 @@
-## 207. Course Schedule
+## 207. Course Schedule (Medium)
 
 <p>There are a total of <i>n</i> courses you have to take, labeled from <code>0</code> to <code>n-1</code>.</p>
 
@@ -33,7 +33,7 @@
 
 
 ### Similar Questions
-  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/solution/course-schedule-ii)(Medium)
-  1. [Graph Valid Tree](https://github.com/openset/leetcode/tree/master/solution/graph-valid-tree)(Medium)
-  1. [Minimum Height Trees](https://github.com/openset/leetcode/tree/master/solution/minimum-height-trees)(Medium)
-  1. [Course Schedule III](https://github.com/openset/leetcode/tree/master/solution/course-schedule-iii)(Hard)
+  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/solution/course-schedule-ii) (Medium)
+  1. [Graph Valid Tree](https://github.com/openset/leetcode/tree/master/solution/graph-valid-tree) (Medium)
+  1. [Minimum Height Trees](https://github.com/openset/leetcode/tree/master/solution/minimum-height-trees) (Medium)
+  1. [Course Schedule III](https://github.com/openset/leetcode/tree/master/solution/course-schedule-iii) (Hard)

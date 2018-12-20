@@ -1,4 +1,4 @@
-## 405. Convert a Number to Hexadecimal
+## 405. Convert a Number to Hexadecimal (Easy)
 
 <p>
 Given an integer, write an algorithm to convert it to hexadecimal. For negative integer, <a href="https://en.wikipedia.org/wiki/Two%27s_complement" target="_blank">two’s complement</a> method is used.

@@ -1,4 +1,4 @@
-## 185. Department Top Three Salaries
+## 185. Department Top Three Salaries (Hard)
 
 <p>The <code>Employee</code> table holds all employees. Every employee has an Id, and there is also a column for the department Id.</p>
 

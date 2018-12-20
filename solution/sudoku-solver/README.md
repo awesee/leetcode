@@ -1,4 +1,4 @@
-## 37. Sudoku Solver
+## 37. Sudoku Solver (Hard)
 
 <p>Write a program to solve a Sudoku puzzle by filling the empty cells.</p>
 
@@ -28,4 +28,4 @@
 
 
 ### Similar Questions
-  1. [Valid Sudoku](https://github.com/openset/leetcode/tree/master/solution/valid-sudoku)(Medium)
+  1. [Valid Sudoku](https://github.com/openset/leetcode/tree/master/solution/valid-sudoku) (Medium)

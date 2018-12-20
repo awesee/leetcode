@@ -1,4 +1,4 @@
-## 141. Linked List Cycle
+## 141. Linked List Cycle (Easy)
 
 <p>Given a linked list, determine if it has a cycle in it.</p>
 
@@ -50,5 +50,5 @@
 
 
 ### Similar Questions
-  1. [Linked List Cycle II](https://github.com/openset/leetcode/tree/master/solution/linked-list-cycle-ii)(Medium)
-  1. [Happy Number](https://github.com/openset/leetcode/tree/master/solution/happy-number)(Easy)
+  1. [Linked List Cycle II](https://github.com/openset/leetcode/tree/master/solution/linked-list-cycle-ii) (Medium)
+  1. [Happy Number](https://github.com/openset/leetcode/tree/master/solution/happy-number) (Easy)

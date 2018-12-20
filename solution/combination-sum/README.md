@@ -1,4 +1,4 @@
-## 39. Combination Sum
+## 39. Combination Sum (Medium)
 
 <p>Given a <strong>set</strong> of candidate numbers (<code>candidates</code>) <strong>(without duplicates)</strong> and a target number (<code>target</code>), find all unique combinations in <code>candidates</code>&nbsp;where the candidate numbers sums to <code>target</code>.</p>
 
@@ -36,9 +36,9 @@
 
 
 ### Similar Questions
-  1. [Letter Combinations of a Phone Number](https://github.com/openset/leetcode/tree/master/solution/letter-combinations-of-a-phone-number)(Medium)
-  1. [Combination Sum II](https://github.com/openset/leetcode/tree/master/solution/combination-sum-ii)(Medium)
-  1. [Combinations](https://github.com/openset/leetcode/tree/master/solution/combinations)(Medium)
-  1. [Combination Sum III](https://github.com/openset/leetcode/tree/master/solution/combination-sum-iii)(Medium)
-  1. [Factor Combinations](https://github.com/openset/leetcode/tree/master/solution/factor-combinations)(Medium)
-  1. [Combination Sum IV](https://github.com/openset/leetcode/tree/master/solution/combination-sum-iv)(Medium)
+  1. [Letter Combinations of a Phone Number](https://github.com/openset/leetcode/tree/master/solution/letter-combinations-of-a-phone-number) (Medium)
+  1. [Combination Sum II](https://github.com/openset/leetcode/tree/master/solution/combination-sum-ii) (Medium)
+  1. [Combinations](https://github.com/openset/leetcode/tree/master/solution/combinations) (Medium)
+  1. [Combination Sum III](https://github.com/openset/leetcode/tree/master/solution/combination-sum-iii) (Medium)
+  1. [Factor Combinations](https://github.com/openset/leetcode/tree/master/solution/factor-combinations) (Medium)
+  1. [Combination Sum IV](https://github.com/openset/leetcode/tree/master/solution/combination-sum-iv) (Medium)

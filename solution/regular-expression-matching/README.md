@@ -1,4 +1,4 @@
-## 10. Regular Expression Matching
+## 10. Regular Expression Matching (Hard)
 
 <p>Given an input string (<code>s</code>) and a pattern (<code>p</code>), implement regular expression matching with support for <code>&#39;.&#39;</code> and <code>&#39;*&#39;</code>.</p>
 
@@ -67,4 +67,4 @@ p = &quot;mis*is*p*.&quot;
 
 
 ### Similar Questions
-  1. [Wildcard Matching](https://github.com/openset/leetcode/tree/master/solution/wildcard-matching)(Hard)
+  1. [Wildcard Matching](https://github.com/openset/leetcode/tree/master/solution/wildcard-matching) (Hard)

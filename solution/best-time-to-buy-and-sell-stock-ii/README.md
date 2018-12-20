@@ -1,4 +1,4 @@
-## 122. Best Time to Buy and Sell Stock II
+## 122. Best Time to Buy and Sell Stock II (Easy)
 
 <p>Say you have an array for which the <em>i</em><sup>th</sup> element is the price of a given stock on day <em>i</em>.</p>
 
@@ -34,8 +34,8 @@
 
 
 ### Similar Questions
-  1. [Best Time to Buy and Sell Stock](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock)(Easy)
-  1. [Best Time to Buy and Sell Stock III](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-iii)(Hard)
-  1. [Best Time to Buy and Sell Stock IV](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-iv)(Hard)
-  1. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-with-cooldown)(Medium)
-  1. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-with-transaction-fee)(Medium)
+  1. [Best Time to Buy and Sell Stock](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock) (Easy)
+  1. [Best Time to Buy and Sell Stock III](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-iii) (Hard)
+  1. [Best Time to Buy and Sell Stock IV](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-iv) (Hard)
+  1. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-with-cooldown) (Medium)
+  1. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-with-transaction-fee) (Medium)

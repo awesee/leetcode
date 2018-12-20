@@ -1,4 +1,4 @@
-## 388. Longest Absolute File Path
+## 388. Longest Absolute File Path (Medium)
 
 <p>Suppose we abstract our file system by a string in the following manner:</p>
 

@@ -1,4 +1,4 @@
-## 43. Multiply Strings
+## 43. Multiply Strings (Medium)
 
 <p>Given two non-negative integers <code>num1</code> and <code>num2</code> represented as strings, return the product of <code>num1</code> and <code>num2</code>, also represented as a string.</p>
 
@@ -26,7 +26,7 @@
 
 
 ### Similar Questions
-  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/solution/add-two-numbers)(Medium)
-  1. [Plus One](https://github.com/openset/leetcode/tree/master/solution/plus-one)(Easy)
-  1. [Add Binary](https://github.com/openset/leetcode/tree/master/solution/add-binary)(Easy)
-  1. [Add Strings](https://github.com/openset/leetcode/tree/master/solution/add-strings)(Easy)
+  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/solution/add-two-numbers) (Medium)
+  1. [Plus One](https://github.com/openset/leetcode/tree/master/solution/plus-one) (Easy)
+  1. [Add Binary](https://github.com/openset/leetcode/tree/master/solution/add-binary) (Easy)
+  1. [Add Strings](https://github.com/openset/leetcode/tree/master/solution/add-strings) (Easy)

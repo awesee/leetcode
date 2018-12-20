@@ -1,4 +1,4 @@
-## 57. Insert Interval
+## 57. Insert Interval (Hard)
 
 <p>Given a set of <em>non-overlapping</em> intervals, insert a new interval into the intervals (merge if necessary).</p>
 
@@ -20,5 +20,5 @@
 
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/solution/merge-intervals)(Medium)
-  1. [Range Module](https://github.com/openset/leetcode/tree/master/solution/range-module)(Hard)
+  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/solution/merge-intervals) (Medium)
+  1. [Range Module](https://github.com/openset/leetcode/tree/master/solution/range-module) (Hard)

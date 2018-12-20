@@ -1,4 +1,4 @@
-## 406. Queue Reconstruction by Height
+## 406. Queue Reconstruction by Height (Medium)
 
 <p>Suppose you have a random list of people standing in a queue. Each person is described by a pair of integers <code>(h, k)</code>, where <code>h</code> is the height of the person and <code>k</code> is the number of people in front of this person who have a height greater than or equal to <code>h</code>. Write an algorithm to reconstruct the queue.
 </p>
@@ -20,4 +20,4 @@ Output:
 </p>
 
 ### Similar Questions
-  1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/solution/count-of-smaller-numbers-after-self)(Hard)
+  1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/solution/count-of-smaller-numbers-after-self) (Hard)

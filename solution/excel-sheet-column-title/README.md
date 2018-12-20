@@ -1,4 +1,4 @@
-## 168. Excel Sheet Column Title
+## 168. Excel Sheet Column Title (Easy)
 
 <p>Given a positive integer, return its corresponding column title as appear in an Excel sheet.</p>
 
@@ -37,4 +37,4 @@
 </pre>
 
 ### Similar Questions
-  1. [Excel Sheet Column Number](https://github.com/openset/leetcode/tree/master/solution/excel-sheet-column-number)(Easy)
+  1. [Excel Sheet Column Number](https://github.com/openset/leetcode/tree/master/solution/excel-sheet-column-number) (Easy)

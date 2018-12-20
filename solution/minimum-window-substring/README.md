@@ -1,4 +1,4 @@
-## 76. Minimum Window Substring
+## 76. Minimum Window Substring (Hard)
 
 <p>Given a string S and a string T, find the minimum window in S which will contain all the characters in T in complexity O(n).</p>
 
@@ -18,9 +18,9 @@
 
 
 ### Similar Questions
-  1. [Substring with Concatenation of All Words](https://github.com/openset/leetcode/tree/master/solution/substring-with-concatenation-of-all-words)(Hard)
-  1. [Minimum Size Subarray Sum](https://github.com/openset/leetcode/tree/master/solution/minimum-size-subarray-sum)(Medium)
-  1. [Sliding Window Maximum](https://github.com/openset/leetcode/tree/master/solution/sliding-window-maximum)(Hard)
-  1. [Permutation in String](https://github.com/openset/leetcode/tree/master/solution/permutation-in-string)(Medium)
-  1. [Smallest Range](https://github.com/openset/leetcode/tree/master/solution/smallest-range)(Hard)
-  1. [Minimum Window Subsequence](https://github.com/openset/leetcode/tree/master/solution/minimum-window-subsequence)(Hard)
+  1. [Substring with Concatenation of All Words](https://github.com/openset/leetcode/tree/master/solution/substring-with-concatenation-of-all-words) (Hard)
+  1. [Minimum Size Subarray Sum](https://github.com/openset/leetcode/tree/master/solution/minimum-size-subarray-sum) (Medium)
+  1. [Sliding Window Maximum](https://github.com/openset/leetcode/tree/master/solution/sliding-window-maximum) (Hard)
+  1. [Permutation in String](https://github.com/openset/leetcode/tree/master/solution/permutation-in-string) (Medium)
+  1. [Smallest Range](https://github.com/openset/leetcode/tree/master/solution/smallest-range) (Hard)
+  1. [Minimum Window Subsequence](https://github.com/openset/leetcode/tree/master/solution/minimum-window-subsequence) (Hard)

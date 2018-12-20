@@ -1,4 +1,4 @@
-## 15. 3Sum
+## 15. 3Sum (Medium)
 
 <p>Given an array <code>nums</code> of <em>n</em> integers, are there elements <em>a</em>, <em>b</em>, <em>c</em> in <code>nums</code> such that <em>a</em> + <em>b</em> + <em>c</em> = 0? Find all unique triplets in the array which gives the sum of zero.</p>
 
@@ -20,7 +20,7 @@ A solution set is:
 
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/solution/two-sum)(Easy)
-  1. [3Sum Closest](https://github.com/openset/leetcode/tree/master/solution/3sum-closest)(Medium)
-  1. [4Sum](https://github.com/openset/leetcode/tree/master/solution/4sum)(Medium)
-  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/solution/3sum-smaller)(Medium)
+  1. [Two Sum](https://github.com/openset/leetcode/tree/master/solution/two-sum) (Easy)
+  1. [3Sum Closest](https://github.com/openset/leetcode/tree/master/solution/3sum-closest) (Medium)
+  1. [4Sum](https://github.com/openset/leetcode/tree/master/solution/4sum) (Medium)
+  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/solution/3sum-smaller) (Medium)

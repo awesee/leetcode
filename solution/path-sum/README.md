@@ -1,4 +1,4 @@
-## 112. Path Sum
+## 112. Path Sum (Easy)
 
 <p>Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.</p>
 
@@ -22,8 +22,8 @@
 
 
 ### Similar Questions
-  1. [Path Sum II](https://github.com/openset/leetcode/tree/master/solution/path-sum-ii)(Medium)
-  1. [Binary Tree Maximum Path Sum](https://github.com/openset/leetcode/tree/master/solution/binary-tree-maximum-path-sum)(Hard)
-  1. [Sum Root to Leaf Numbers](https://github.com/openset/leetcode/tree/master/solution/sum-root-to-leaf-numbers)(Medium)
-  1. [Path Sum III](https://github.com/openset/leetcode/tree/master/solution/path-sum-iii)(Easy)
-  1. [Path Sum IV](https://github.com/openset/leetcode/tree/master/solution/path-sum-iv)(Medium)
+  1. [Path Sum II](https://github.com/openset/leetcode/tree/master/solution/path-sum-ii) (Medium)
+  1. [Binary Tree Maximum Path Sum](https://github.com/openset/leetcode/tree/master/solution/binary-tree-maximum-path-sum) (Hard)
+  1. [Sum Root to Leaf Numbers](https://github.com/openset/leetcode/tree/master/solution/sum-root-to-leaf-numbers) (Medium)
+  1. [Path Sum III](https://github.com/openset/leetcode/tree/master/solution/path-sum-iii) (Easy)
+  1. [Path Sum IV](https://github.com/openset/leetcode/tree/master/solution/path-sum-iv) (Medium)

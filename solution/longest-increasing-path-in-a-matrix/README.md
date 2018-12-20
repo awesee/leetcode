@@ -1,4 +1,4 @@
-## 329. Longest Increasing Path in a Matrix
+## 329. Longest Increasing Path in a Matrix (Hard)
 
 <p>Given an integer matrix, find the length of the longest increasing path.</p>
 

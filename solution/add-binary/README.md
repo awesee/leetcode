@@ -1,4 +1,4 @@
-## 67. Add Binary
+## 67. Add Binary (Easy)
 
 <p>Given two binary strings, return their sum (also a binary string).</p>
 
@@ -18,6 +18,6 @@
 
 
 ### Similar Questions
-  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/solution/add-two-numbers)(Medium)
-  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/solution/multiply-strings)(Medium)
-  1. [Plus One](https://github.com/openset/leetcode/tree/master/solution/plus-one)(Easy)
+  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/solution/add-two-numbers) (Medium)
+  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/solution/multiply-strings) (Medium)
+  1. [Plus One](https://github.com/openset/leetcode/tree/master/solution/plus-one) (Easy)

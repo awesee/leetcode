@@ -1,4 +1,4 @@
-## 200. Number of Islands
+## 200. Number of Islands (Medium)
 
 <p>Given a 2d grid map of <code>&#39;1&#39;</code>s (land) and <code>&#39;0&#39;</code>s (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.</p>
 
@@ -27,9 +27,9 @@
 </pre>
 
 ### Similar Questions
-  1. [Surrounded Regions](https://github.com/openset/leetcode/tree/master/solution/surrounded-regions)(Medium)
-  1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/solution/walls-and-gates)(Medium)
-  1. [Number of Islands II](https://github.com/openset/leetcode/tree/master/solution/number-of-islands-ii)(Hard)
-  1. [Number of Connected Components in an Undirected Graph](https://github.com/openset/leetcode/tree/master/solution/number-of-connected-components-in-an-undirected-graph)(Medium)
-  1. [Number of Distinct Islands](https://github.com/openset/leetcode/tree/master/solution/number-of-distinct-islands)(Medium)
-  1. [Max Area of Island](https://github.com/openset/leetcode/tree/master/solution/max-area-of-island)(Medium)
+  1. [Surrounded Regions](https://github.com/openset/leetcode/tree/master/solution/surrounded-regions) (Medium)
+  1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/solution/walls-and-gates) (Medium)
+  1. [Number of Islands II](https://github.com/openset/leetcode/tree/master/solution/number-of-islands-ii) (Hard)
+  1. [Number of Connected Components in an Undirected Graph](https://github.com/openset/leetcode/tree/master/solution/number-of-connected-components-in-an-undirected-graph) (Medium)
+  1. [Number of Distinct Islands](https://github.com/openset/leetcode/tree/master/solution/number-of-distinct-islands) (Medium)
+  1. [Max Area of Island](https://github.com/openset/leetcode/tree/master/solution/max-area-of-island) (Medium)

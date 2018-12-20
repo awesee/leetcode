@@ -1,4 +1,4 @@
-## 77. Combinations
+## 77. Combinations (Medium)
 
 <p>Given two integers <em>n</em> and <em>k</em>, return all possible combinations of <em>k</em> numbers out of 1 ... <em>n</em>.</p>
 
@@ -19,5 +19,5 @@
 
 
 ### Similar Questions
-  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/solution/combination-sum)(Medium)
-  1. [Permutations](https://github.com/openset/leetcode/tree/master/solution/permutations)(Medium)
+  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/solution/combination-sum) (Medium)
+  1. [Permutations](https://github.com/openset/leetcode/tree/master/solution/permutations) (Medium)

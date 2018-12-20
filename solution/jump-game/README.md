@@ -1,4 +1,4 @@
-## 55. Jump Game
+## 55. Jump Game (Medium)
 
 <p>Given an array of non-negative integers, you are initially positioned at the first index of the array.</p>
 
@@ -25,4 +25,4 @@
 
 
 ### Similar Questions
-  1. [Jump Game II](https://github.com/openset/leetcode/tree/master/solution/jump-game-ii)(Hard)
+  1. [Jump Game II](https://github.com/openset/leetcode/tree/master/solution/jump-game-ii) (Hard)

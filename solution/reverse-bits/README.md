@@ -1,4 +1,4 @@
-## 190. Reverse Bits
+## 190. Reverse Bits (Easy)
 
 <p>Reverse bits of a given 32 bits unsigned integer.</p>
 
@@ -36,5 +36,5 @@
 
 
 ### Similar Questions
-  1. [Reverse Integer](https://github.com/openset/leetcode/tree/master/solution/reverse-integer)(Easy)
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/solution/number-of-1-bits)(Easy)
+  1. [Reverse Integer](https://github.com/openset/leetcode/tree/master/solution/reverse-integer) (Easy)
+  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/solution/number-of-1-bits) (Easy)

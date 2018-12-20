@@ -1,4 +1,4 @@
-## 242. Valid Anagram
+## 242. Valid Anagram (Easy)
 
 <p>Given two strings <em>s</em> and <em>t&nbsp;</em>, write a function to determine if <em>t</em> is an anagram of <em>s</em>.</p>
 
@@ -24,6 +24,6 @@ What if the inputs contain unicode characters? How would you adapt your solution
 
 
 ### Similar Questions
-  1. [Group Anagrams](https://github.com/openset/leetcode/tree/master/solution/group-anagrams)(Medium)
-  1. [Palindrome Permutation](https://github.com/openset/leetcode/tree/master/solution/palindrome-permutation)(Easy)
-  1. [Find All Anagrams in a String](https://github.com/openset/leetcode/tree/master/solution/find-all-anagrams-in-a-string)(Easy)
+  1. [Group Anagrams](https://github.com/openset/leetcode/tree/master/solution/group-anagrams) (Medium)
+  1. [Palindrome Permutation](https://github.com/openset/leetcode/tree/master/solution/palindrome-permutation) (Easy)
+  1. [Find All Anagrams in a String](https://github.com/openset/leetcode/tree/master/solution/find-all-anagrams-in-a-string) (Easy)

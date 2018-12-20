@@ -1,4 +1,4 @@
-## 149. Max Points on a Line
+## 149. Max Points on a Line (Hard)
 
 <p>Given <em>n</em> points on a 2D plane, find the maximum number of points that lie on the same straight line.</p>
 
@@ -35,4 +35,4 @@
 
 
 ### Similar Questions
-  1. [Line Reflection](https://github.com/openset/leetcode/tree/master/solution/line-reflection)(Medium)
+  1. [Line Reflection](https://github.com/openset/leetcode/tree/master/solution/line-reflection) (Medium)

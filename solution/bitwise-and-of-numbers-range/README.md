@@ -1,4 +1,4 @@
-## 201. Bitwise AND of Numbers Range
+## 201. Bitwise AND of Numbers Range (Medium)
 
 <p>Given a range [m, n] where 0 &lt;= m &lt;= n &lt;= 2147483647, return the bitwise AND of all numbers in this range, inclusive.</p>
 

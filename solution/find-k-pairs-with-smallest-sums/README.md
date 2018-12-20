@@ -1,4 +1,4 @@
-## 373. Find K Pairs with Smallest Sums
+## 373. Find K Pairs with Smallest Sums (Medium)
 
 <p>You are given two integer arrays <b>nums1</b> and <b>nums2</b> sorted in ascending order and an integer <b>k</b>.</p>
 
@@ -31,5 +31,5 @@
 </pre>
 
 ### Similar Questions
-  1. [Kth Smallest Element in a Sorted Matrix](https://github.com/openset/leetcode/tree/master/solution/kth-smallest-element-in-a-sorted-matrix)(Medium)
-  1. [Find K-th Smallest Pair Distance](https://github.com/openset/leetcode/tree/master/solution/find-k-th-smallest-pair-distance)(Hard)
+  1. [Kth Smallest Element in a Sorted Matrix](https://github.com/openset/leetcode/tree/master/solution/kth-smallest-element-in-a-sorted-matrix) (Medium)
+  1. [Find K-th Smallest Pair Distance](https://github.com/openset/leetcode/tree/master/solution/find-k-th-smallest-pair-distance) (Hard)

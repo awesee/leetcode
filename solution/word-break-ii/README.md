@@ -1,4 +1,4 @@
-## 140. Word Break II
+## 140. Word Break II (Hard)
 
 <p>Given a <strong>non-empty</strong> string <em>s</em> and a dictionary <em>wordDict</em> containing a list of <strong>non-empty</strong> words, add spaces in <em>s</em> to construct a sentence where each word is a valid dictionary word.&nbsp;Return all such possible sentences.</p>
 
@@ -48,5 +48,5 @@ wordDict = [&quot;cats&quot;, &quot;dog&quot;, &quot;sand&quot;, &quot;and&quot;
 
 
 ### Similar Questions
-  1. [Word Break](https://github.com/openset/leetcode/tree/master/solution/word-break)(Medium)
-  1. [Concatenated Words](https://github.com/openset/leetcode/tree/master/solution/concatenated-words)(Hard)
+  1. [Word Break](https://github.com/openset/leetcode/tree/master/solution/word-break) (Medium)
+  1. [Concatenated Words](https://github.com/openset/leetcode/tree/master/solution/concatenated-words) (Hard)

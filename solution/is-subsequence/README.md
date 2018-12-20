@@ -1,4 +1,4 @@
-## 392. Is Subsequence
+## 392. Is Subsequence (Medium)
 
 <p>
 Given a string <b>s</b> and a string <b>t</b>, check if <b>s</b> is subsequence of <b>t</b>.
@@ -32,4 +32,4 @@ If there are lots of incoming S, say S1, S2, ... , Sk where k >= 1B, and you wan
 <p><b>Credits:</b><br />Special thanks to <a href="https://leetcode.com/pbrother/">@pbrother</a> for adding this problem and creating all test cases.</p>
 
 ### Similar Questions
-  1. [Number of Matching Subsequences](https://github.com/openset/leetcode/tree/master/solution/number-of-matching-subsequences)(Medium)
+  1. [Number of Matching Subsequences](https://github.com/openset/leetcode/tree/master/solution/number-of-matching-subsequences) (Medium)

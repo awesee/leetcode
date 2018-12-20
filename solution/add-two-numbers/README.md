@@ -1,4 +1,4 @@
-## 2. Add Two Numbers
+## 2. Add Two Numbers (Medium)
 
 <p>You are given two <b>non-empty</b> linked lists representing two non-negative integers. The digits are stored in <b>reverse order</b> and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.</p>
 
@@ -14,8 +14,8 @@
 
 
 ### Similar Questions
-  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/solution/multiply-strings)(Medium)
-  1. [Add Binary](https://github.com/openset/leetcode/tree/master/solution/add-binary)(Easy)
-  1. [Sum of Two Integers](https://github.com/openset/leetcode/tree/master/solution/sum-of-two-integers)(Easy)
-  1. [Add Strings](https://github.com/openset/leetcode/tree/master/solution/add-strings)(Easy)
-  1. [Add Two Numbers II](https://github.com/openset/leetcode/tree/master/solution/add-two-numbers-ii)(Medium)
+  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/solution/multiply-strings) (Medium)
+  1. [Add Binary](https://github.com/openset/leetcode/tree/master/solution/add-binary) (Easy)
+  1. [Sum of Two Integers](https://github.com/openset/leetcode/tree/master/solution/sum-of-two-integers) (Easy)
+  1. [Add Strings](https://github.com/openset/leetcode/tree/master/solution/add-strings) (Easy)
+  1. [Add Two Numbers II](https://github.com/openset/leetcode/tree/master/solution/add-two-numbers-ii) (Medium)

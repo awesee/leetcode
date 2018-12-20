@@ -1,4 +1,4 @@
-## 35. Search Insert Position
+## 35. Search Insert Position (Easy)
 
 <p>Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.</p>
 
@@ -34,4 +34,4 @@
 
 
 ### Similar Questions
-  1. [First Bad Version](https://github.com/openset/leetcode/tree/master/solution/first-bad-version)(Easy)
+  1. [First Bad Version](https://github.com/openset/leetcode/tree/master/solution/first-bad-version) (Easy)

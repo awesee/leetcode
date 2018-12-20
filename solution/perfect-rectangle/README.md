@@ -1,4 +1,4 @@
-## 391. Perfect Rectangle
+## 391. Perfect Rectangle (Hard)
 
 <p>Given N axis-aligned rectangles where N &gt; 0, determine if they all together form an exact cover of a rectangular region.</p>
 

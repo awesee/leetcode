@@ -1,4 +1,4 @@
-## 80. Remove Duplicates from Sorted Array II
+## 80. Remove Duplicates from Sorted Array II (Medium)
 
 <p>Given a sorted array <em>nums</em>, remove the duplicates <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> such that duplicates appeared at most&nbsp;<em>twice</em> and return the new length.</p>
 
@@ -44,4 +44,4 @@ for (int i = 0; i &lt; len; i++) {
 
 
 ### Similar Questions
-  1. [Remove Duplicates from Sorted Array](https://github.com/openset/leetcode/tree/master/solution/remove-duplicates-from-sorted-array)(Easy)
+  1. [Remove Duplicates from Sorted Array](https://github.com/openset/leetcode/tree/master/solution/remove-duplicates-from-sorted-array) (Easy)

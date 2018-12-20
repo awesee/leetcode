@@ -1,4 +1,4 @@
-## 176. Second Highest Salary
+## 176. Second Highest Salary (Easy)
 
 <p>Write a SQL query to get the second highest salary from the <code>Employee</code> table.</p>
 

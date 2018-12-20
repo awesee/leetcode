@@ -1,4 +1,4 @@
-## 160. Intersection of Two Linked Lists
+## 160. Intersection of Two Linked Lists (Easy)
 
 <p>Write a program to find the node at which the intersection of two singly linked lists begins.</p>
 
@@ -53,4 +53,4 @@
 
 
 ### Similar Questions
-  1. [Minimum Index Sum of Two Lists](https://github.com/openset/leetcode/tree/master/solution/minimum-index-sum-of-two-lists)(Easy)
+  1. [Minimum Index Sum of Two Lists](https://github.com/openset/leetcode/tree/master/solution/minimum-index-sum-of-two-lists) (Easy)

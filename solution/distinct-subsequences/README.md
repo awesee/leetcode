@@ -1,4 +1,4 @@
-## 115. Distinct Subsequences
+## 115. Distinct Subsequences (Hard)
 
 <p>Given a string <strong>S</strong> and a string <strong>T</strong>, count the number of distinct subsequences of <strong>S</strong> which equals <strong>T</strong>.</p>
 

@@ -1,4 +1,4 @@
-## 398. Random Pick Index
+## 398. Random Pick Index (Medium)
 
 <p>Given an array of integers with possible duplicates, randomly output the index of a given target number. You can assume that the given target number must exist in the array.</p>
 
@@ -20,6 +20,6 @@ solution.pick(1);
 
 
 ### Similar Questions
-  1. [Linked List Random Node](https://github.com/openset/leetcode/tree/master/solution/linked-list-random-node)(Medium)
-  1. [Random Pick with Blacklist](https://github.com/openset/leetcode/tree/master/solution/random-pick-with-blacklist)(Hard)
-  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/solution/random-pick-with-weight)(Medium)
+  1. [Linked List Random Node](https://github.com/openset/leetcode/tree/master/solution/linked-list-random-node) (Medium)
+  1. [Random Pick with Blacklist](https://github.com/openset/leetcode/tree/master/solution/random-pick-with-blacklist) (Hard)
+  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/solution/random-pick-with-weight) (Medium)

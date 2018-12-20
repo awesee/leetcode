@@ -1,4 +1,4 @@
-## 113. Path Sum II
+## 113. Path Sum II (Medium)
 
 <p>Given a binary tree and a sum, find all root-to-leaf paths where each path&#39;s sum equals the given sum.</p>
 
@@ -29,7 +29,7 @@
 
 
 ### Similar Questions
-  1. [Path Sum](https://github.com/openset/leetcode/tree/master/solution/path-sum)(Easy)
-  1. [Binary Tree Paths](https://github.com/openset/leetcode/tree/master/solution/binary-tree-paths)(Easy)
-  1. [Path Sum III](https://github.com/openset/leetcode/tree/master/solution/path-sum-iii)(Easy)
-  1. [Path Sum IV](https://github.com/openset/leetcode/tree/master/solution/path-sum-iv)(Medium)
+  1. [Path Sum](https://github.com/openset/leetcode/tree/master/solution/path-sum) (Easy)
+  1. [Binary Tree Paths](https://github.com/openset/leetcode/tree/master/solution/binary-tree-paths) (Easy)
+  1. [Path Sum III](https://github.com/openset/leetcode/tree/master/solution/path-sum-iii) (Easy)
+  1. [Path Sum IV](https://github.com/openset/leetcode/tree/master/solution/path-sum-iv) (Medium)

@@ -1,4 +1,4 @@
-## 98. Validate Binary Search Tree
+## 98. Validate Binary Search Tree (Medium)
 
 <p>Given a binary tree, determine if it is a valid binary search tree (BST).</p>
 
@@ -35,5 +35,5 @@
 
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal)(Medium)
-  1. [Find Mode in Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/find-mode-in-binary-search-tree)(Easy)
+  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal) (Medium)
+  1. [Find Mode in Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/find-mode-in-binary-search-tree) (Easy)

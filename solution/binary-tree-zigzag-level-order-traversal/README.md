@@ -1,4 +1,4 @@
-## 103. Binary Tree Zigzag Level Order Traversal
+## 103. Binary Tree Zigzag Level Order Traversal (Medium)
 
 <p>Given a binary tree, return the <i>zigzag level order</i> traversal of its nodes' values. (ie, from left to right, then right to left for the next level and alternate between).</p>
 
@@ -25,4 +25,4 @@ return its zigzag level order traversal as:<br />
 </p>
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-level-order-traversal)(Medium)
+  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-level-order-traversal) (Medium)

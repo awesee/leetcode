@@ -1,4 +1,4 @@
-## 326. Power of Three
+## 326. Power of Three (Easy)
 
 <p>Given an integer, write a function to determine if it is a power of three.</p>
 
@@ -31,5 +31,5 @@
 Could you do it without using any loop / recursion?</p>
 
 ### Similar Questions
-  1. [Power of Two](https://github.com/openset/leetcode/tree/master/solution/power-of-two)(Easy)
-  1. [Power of Four](https://github.com/openset/leetcode/tree/master/solution/power-of-four)(Easy)
+  1. [Power of Two](https://github.com/openset/leetcode/tree/master/solution/power-of-two) (Easy)
+  1. [Power of Four](https://github.com/openset/leetcode/tree/master/solution/power-of-four) (Easy)
