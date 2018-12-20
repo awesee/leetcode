@@ -82,7 +82,10 @@ func (question questionType) SaveContent() {
 
 func (question questionType) getDescContent() []byte {
 	wb := bytes.Buffer{}
-	wb.WriteString(fmt.Sprintf("## %s. %s\n\n", question.QuestionFrontendId, question.Title))
+	if question.Difficulty != "" {
+		question.Difficulty = fmt.Sprintf(" (%s)", question.Difficulty)
+	}
+	wb.WriteString(fmt.Sprintf("## %s. %s%s\n\n", question.QuestionFrontendId, question.Title, question.Difficulty))
 	wb.WriteString(question.Content)
 	wb.Write(question.getSimilarQuestion())
 	return wb.Bytes()

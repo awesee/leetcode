@@ -1,4 +1,4 @@
-## 808. Soup Servings
+## 808. Soup Servings (Medium)
 
 <p>There are two types of soup: type A and type B. Initially we have <code>N</code> ml of each type of soup. There are four kinds of operations:</p>
 

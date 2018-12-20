@@ -1,4 +1,4 @@
-## 792. Number of Matching Subsequences
+## 792. Number of Matching Subsequences (Medium)
 
 <p>Given string <code>S</code> and a&nbsp;dictionary of words <code>words</code>, find the number of <code>words[i]</code> that is a subsequence of <code>S</code>.</p>
 
@@ -22,4 +22,4 @@ words = [&quot;a&quot;, &quot;bb&quot;, &quot;acd&quot;, &quot;ace&quot;]
 
 
 ### Similar Questions
-  1. [Is Subsequence](https://github.com/openset/leetcode/tree/master/solution/is-subsequence)(Medium)
+  1. [Is Subsequence](https://github.com/openset/leetcode/tree/master/solution/is-subsequence) (Medium)

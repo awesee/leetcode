@@ -1,4 +1,4 @@
-## 437. Path Sum III
+## 437. Path Sum III (Easy)
 
 <p>You are given a binary tree in which each node contains an integer value.</p>
 
@@ -30,7 +30,7 @@ Return 3. The paths that sum to 8 are:
 </p>
 
 ### Similar Questions
-  1. [Path Sum](https://github.com/openset/leetcode/tree/master/solution/path-sum)(Easy)
-  1. [Path Sum II](https://github.com/openset/leetcode/tree/master/solution/path-sum-ii)(Medium)
-  1. [Path Sum IV](https://github.com/openset/leetcode/tree/master/solution/path-sum-iv)(Medium)
-  1. [Longest Univalue Path](https://github.com/openset/leetcode/tree/master/solution/longest-univalue-path)(Easy)
+  1. [Path Sum](https://github.com/openset/leetcode/tree/master/solution/path-sum) (Easy)
+  1. [Path Sum II](https://github.com/openset/leetcode/tree/master/solution/path-sum-ii) (Medium)
+  1. [Path Sum IV](https://github.com/openset/leetcode/tree/master/solution/path-sum-iv) (Medium)
+  1. [Longest Univalue Path](https://github.com/openset/leetcode/tree/master/solution/longest-univalue-path) (Easy)

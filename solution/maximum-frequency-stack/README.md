@@ -1,4 +1,4 @@
-## 895. Maximum Frequency Stack
+## 895. Maximum Frequency Stack (Hard)
 
 <p>Implement <code>FreqStack</code>, a class which simulates the operation of a stack-like data structure.</p>
 

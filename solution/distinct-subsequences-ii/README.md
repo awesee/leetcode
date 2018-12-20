@@ -1,4 +1,4 @@
-## 940. Distinct Subsequences II
+## 940. Distinct Subsequences II (Hard)
 
 <p>Given a string <code>S</code>, count the number of distinct, non-empty subsequences of <code>S</code> .</p>
 

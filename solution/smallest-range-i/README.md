@@ -1,4 +1,4 @@
-## 908. Smallest Range I
+## 908. Smallest Range I (Easy)
 
 <p>Given an array <code>A</code> of integers, for each integer <code>A[i]</code> we may choose any <code>x</code> with <code>-K &lt;= x &lt;= K</code>, and add <code>x</code> to <code>A[i]</code>.</p>
 

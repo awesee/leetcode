@@ -1,4 +1,4 @@
-## 678. Valid Parenthesis String
+## 678. Valid Parenthesis String (Medium)
 
 <p>
 Given a string containing only three types of characters: '(', ')' and '*', write a function to check whether this string is valid. We define the validity of a string by these rules:
@@ -39,4 +39,4 @@ Given a string containing only three types of characters: '(', ')' and '*', writ
 </p>
 
 ### Similar Questions
-  1. [Special Binary String](https://github.com/openset/leetcode/tree/master/solution/special-binary-string)(Hard)
+  1. [Special Binary String](https://github.com/openset/leetcode/tree/master/solution/special-binary-string) (Hard)

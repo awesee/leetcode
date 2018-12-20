@@ -1,4 +1,4 @@
-## 691. Stickers to Spell Word
+## 691. Stickers to Spell Word (Hard)
 
 <p>
 We are given N different types of stickers.  Each sticker has a lowercase English word on it.
@@ -47,4 +47,4 @@ We can't form the target "basicbasic" from cutting letters from the given sticke
 </p>
 
 ### Similar Questions
-  1. [Ransom Note](https://github.com/openset/leetcode/tree/master/solution/ransom-note)(Easy)
+  1. [Ransom Note](https://github.com/openset/leetcode/tree/master/solution/ransom-note) (Easy)

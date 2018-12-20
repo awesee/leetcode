@@ -1,4 +1,4 @@
-## 868. Binary Gap
+## 868. Binary Gap (Easy)
 
 <p>Given a positive&nbsp;integer <code>N</code>, find and return the longest distance between two consecutive 1&#39;s in the binary representation of <code>N</code>.</p>
 

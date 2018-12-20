@@ -1,4 +1,4 @@
-## 927. Three Equal Parts
+## 927. Three Equal Parts (Hard)
 
 <p>Given an array <code>A</code> of <code>0</code>s and <code>1</code>s, divide the array into 3 non-empty parts such that all of these parts represent the same binary value.</p>
 

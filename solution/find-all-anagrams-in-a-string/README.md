@@ -1,4 +1,4 @@
-## 438. Find All Anagrams in a String
+## 438. Find All Anagrams in a String (Easy)
 
 <p>Given a string <b>s</b> and a <b>non-empty</b> string <b>p</b>, find all the start indices of <b>p</b>'s anagrams in <b>s</b>.</p>
 
@@ -36,5 +36,5 @@ The substring with start index = 2 is "ab", which is an anagram of "ab".
 </p>
 
 ### Similar Questions
-  1. [Valid Anagram](https://github.com/openset/leetcode/tree/master/solution/valid-anagram)(Easy)
-  1. [Permutation in String](https://github.com/openset/leetcode/tree/master/solution/permutation-in-string)(Medium)
+  1. [Valid Anagram](https://github.com/openset/leetcode/tree/master/solution/valid-anagram) (Easy)
+  1. [Permutation in String](https://github.com/openset/leetcode/tree/master/solution/permutation-in-string) (Medium)

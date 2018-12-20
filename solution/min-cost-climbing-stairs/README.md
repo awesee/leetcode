@@ -1,4 +1,4 @@
-## 746. Min Cost Climbing Stairs
+## 746. Min Cost Climbing Stairs (Easy)
 
 <p>
 On a staircase, the <code>i</code>-th step has some non-negative cost <code>cost[i]</code> assigned (0 indexed).
@@ -30,4 +30,4 @@ Once you pay the cost, you can either climb one or two steps. You need to find m
 </p>
 
 ### Similar Questions
-  1. [Climbing Stairs](https://github.com/openset/leetcode/tree/master/solution/climbing-stairs)(Easy)
+  1. [Climbing Stairs](https://github.com/openset/leetcode/tree/master/solution/climbing-stairs) (Easy)

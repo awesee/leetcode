@@ -1,4 +1,4 @@
-## 824. Goat Latin
+## 824. Goat Latin (Easy)
 
 <p>A sentence <code>S</code> is given, composed of words separated by spaces. Each word consists of lowercase and uppercase letters only.</p>
 

@@ -1,4 +1,4 @@
-## 878. Nth Magical Number
+## 878. Nth Magical Number (Hard)
 
 <p>A positive integer&nbsp;is <em>magical</em>&nbsp;if it is divisible by either <font face="monospace">A</font>&nbsp;or <font face="monospace">B</font>.</p>
 

@@ -1,4 +1,4 @@
-## 719. Find K-th Smallest Pair Distance
+## 719. Find K-th Smallest Pair Distance (Hard)
 
 <p>Given an integer array, return the k-th smallest <b>distance</b> among all the pairs. The distance of a pair (A, B) is defined as the absolute difference between A and B. </p>
 
@@ -26,8 +26,8 @@ Then the 1st smallest distance pair is (1,1), and its distance is 0.
 </p>
 
 ### Similar Questions
-  1. [Find K Pairs with Smallest Sums](https://github.com/openset/leetcode/tree/master/solution/find-k-pairs-with-smallest-sums)(Medium)
-  1. [Kth Smallest Element in a Sorted Matrix](https://github.com/openset/leetcode/tree/master/solution/kth-smallest-element-in-a-sorted-matrix)(Medium)
-  1. [Find K Closest Elements](https://github.com/openset/leetcode/tree/master/solution/find-k-closest-elements)(Medium)
-  1. [Kth Smallest Number in Multiplication Table](https://github.com/openset/leetcode/tree/master/solution/kth-smallest-number-in-multiplication-table)(Hard)
-  1. [K-th Smallest Prime Fraction](https://github.com/openset/leetcode/tree/master/solution/k-th-smallest-prime-fraction)(Hard)
+  1. [Find K Pairs with Smallest Sums](https://github.com/openset/leetcode/tree/master/solution/find-k-pairs-with-smallest-sums) (Medium)
+  1. [Kth Smallest Element in a Sorted Matrix](https://github.com/openset/leetcode/tree/master/solution/kth-smallest-element-in-a-sorted-matrix) (Medium)
+  1. [Find K Closest Elements](https://github.com/openset/leetcode/tree/master/solution/find-k-closest-elements) (Medium)
+  1. [Kth Smallest Number in Multiplication Table](https://github.com/openset/leetcode/tree/master/solution/kth-smallest-number-in-multiplication-table) (Hard)
+  1. [K-th Smallest Prime Fraction](https://github.com/openset/leetcode/tree/master/solution/k-th-smallest-prime-fraction) (Hard)

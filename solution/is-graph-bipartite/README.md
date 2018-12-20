@@ -1,4 +1,4 @@
-## 785. Is Graph Bipartite?
+## 785. Is Graph Bipartite? (Medium)
 
 <p>Given an undirected&nbsp;<code>graph</code>, return <code>true</code> if and only if it is bipartite.</p>
 

@@ -1,4 +1,4 @@
-## 818. Race Car
+## 818. Race Car (Hard)
 
 <p>Your car starts at position 0 and speed +1 on an infinite number line.&nbsp; (Your car can go into negative positions.)</p>
 

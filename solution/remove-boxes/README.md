@@ -1,4 +1,4 @@
-## 546. Remove Boxes
+## 546. Remove Boxes (Hard)
 
 <p>Given several boxes with different colors represented by different positive numbers. <br />
 You may experience several rounds to remove boxes until there is no box left. Each time you can choose some continuous boxes with the same color (composed of k boxes, k >= 1), remove them and get <code>k*k</code> points.<br />
@@ -30,4 +30,4 @@ The number of boxes <code>n</code> would not exceed 100.
 
 
 ### Similar Questions
-  1. [Strange Printer](https://github.com/openset/leetcode/tree/master/solution/strange-printer)(Hard)
+  1. [Strange Printer](https://github.com/openset/leetcode/tree/master/solution/strange-printer) (Hard)

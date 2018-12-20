@@ -1,4 +1,4 @@
-## 420. Strong Password Checker
+## 420. Strong Password Checker (Hard)
 
 <p>A password is considered strong if below conditions are all met:</p>
 

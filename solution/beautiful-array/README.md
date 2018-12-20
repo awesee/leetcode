@@ -1,4 +1,4 @@
-## 932. Beautiful Array
+## 932. Beautiful Array (Medium)
 
 <p>For some fixed <code>N</code>, an array <code>A</code> is <em>beautiful</em> if it is a permutation of the integers <code>1, 2, ..., N</code>, such that:</p>
 

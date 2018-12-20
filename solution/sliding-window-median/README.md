@@ -1,4 +1,4 @@
-## 480. Sliding Window Median
+## 480. Sliding Window Median (Hard)
 
 <p>Median is the middle value in an ordered integer list. If the size of the list is even, there is no middle value. So the median is the mean of the two middle value.</p>
 Examples: <br />
@@ -27,4 +27,4 @@ Window position                Median
 You may assume <code>k</code> is always valid, ie: <code>k</code> is always smaller than input array's size for non-empty array.</p>
 
 ### Similar Questions
-  1. [Find Median from Data Stream](https://github.com/openset/leetcode/tree/master/solution/find-median-from-data-stream)(Hard)
+  1. [Find Median from Data Stream](https://github.com/openset/leetcode/tree/master/solution/find-median-from-data-stream) (Hard)

@@ -1,4 +1,4 @@
-## 645. Set Mismatch
+## 645. Set Mismatch (Easy)
 
 <p>
 The set <code>S</code> originally contains numbers from 1 to <code>n</code>. But unfortunately, due to the data error, one of the numbers in the set got duplicated to <b>another</b> number in the set, which results in repetition of one number and loss of another number. 
@@ -24,4 +24,4 @@ Given an array <code>nums</code> representing the data status of this set after 
 </p>
 
 ### Similar Questions
-  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/solution/find-the-duplicate-number)(Medium)
+  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/solution/find-the-duplicate-number) (Medium)

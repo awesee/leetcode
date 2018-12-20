@@ -1,4 +1,4 @@
-## 643. Maximum Average Subarray I
+## 643. Maximum Average Subarray I (Easy)
 
 <p>
 Given an array consisting of <code>n</code> integers, find the contiguous subarray of given length <code>k</code> that has the maximum average value. And you need to output the maximum average value.
@@ -20,4 +20,4 @@ Given an array consisting of <code>n</code> integers, find the contiguous subarr
 </p>
 
 ### Similar Questions
-  1. [Maximum Average Subarray II](https://github.com/openset/leetcode/tree/master/solution/maximum-average-subarray-ii)(Hard)
+  1. [Maximum Average Subarray II](https://github.com/openset/leetcode/tree/master/solution/maximum-average-subarray-ii) (Hard)

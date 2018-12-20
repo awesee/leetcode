@@ -1,4 +1,4 @@
-## 915. Partition Array into Disjoint Intervals
+## 915. Partition Array into Disjoint Intervals (Medium)
 
 <p>Given an array <code>A</code>, partition it&nbsp;into two (contiguous) subarrays&nbsp;<code>left</code>&nbsp;and <code>right</code>&nbsp;so that:</p>
 

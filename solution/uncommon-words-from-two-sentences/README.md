@@ -1,4 +1,4 @@
-## 884. Uncommon Words from Two Sentences
+## 884. Uncommon Words from Two Sentences (Easy)
 
 <p>We are given two sentences <code>A</code> and <code>B</code>.&nbsp; (A <em>sentence</em>&nbsp;is a string of space separated words.&nbsp; Each <em>word</em> consists only of lowercase letters.)</p>
 

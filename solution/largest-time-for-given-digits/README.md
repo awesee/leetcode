@@ -1,4 +1,4 @@
-## 949. Largest Time for Given Digits
+## 949. Largest Time for Given Digits (Easy)
 
 <p>Given an array of 4 digits, return the largest 24 hour time that can be made.</p>
 

@@ -1,4 +1,4 @@
-## 886. Possible Bipartition
+## 886. Possible Bipartition (Medium)
 
 <p>Given a set of <code>N</code>&nbsp;people (numbered <code>1, 2, ..., N</code>), we would like to split everyone into two groups of <strong>any</strong> size.</p>
 

@@ -1,4 +1,4 @@
-## 700. Search in a Binary Search Tree
+## 700. Search in a Binary Search Tree (Easy)
 
 <p>Given the root node of a binary search tree (BST) and a value. You need to find the node in the BST that the node&#39;s value equals the given value. Return the subtree rooted with that node. If such node doesn&#39;t exist, you should return NULL.</p>
 
@@ -29,5 +29,5 @@ And the value to search: 2
 
 
 ### Similar Questions
-  1. [Closest Binary Search Tree Value](https://github.com/openset/leetcode/tree/master/solution/closest-binary-search-tree-value)(Easy)
-  1. [Insert into a Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/insert-into-a-binary-search-tree)(Medium)
+  1. [Closest Binary Search Tree Value](https://github.com/openset/leetcode/tree/master/solution/closest-binary-search-tree-value) (Easy)
+  1. [Insert into a Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/insert-into-a-binary-search-tree) (Medium)

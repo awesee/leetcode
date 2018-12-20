@@ -1,4 +1,4 @@
-## 803. Bricks Falling When Hit
+## 803. Bricks Falling When Hit (Hard)
 
 <p>We have a grid of 1s and 0s; the 1s in a cell represent bricks.&nbsp; A brick will not drop if and only if it is directly connected to the top of the grid, or at least one of its (4-way) adjacent bricks will not drop.</p>
 

@@ -1,4 +1,4 @@
-## 684. Redundant Connection
+## 684. Redundant Connection (Medium)
 
 <p>
 In this problem, a tree is an <b>undirected</b> graph that is connected and has no cycles.
@@ -41,5 +41,5 @@ We have overhauled the problem description + test cases and specified clearly th
 </p>
 
 ### Similar Questions
-  1. [Redundant Connection II](https://github.com/openset/leetcode/tree/master/solution/redundant-connection-ii)(Hard)
-  1. [Accounts Merge](https://github.com/openset/leetcode/tree/master/solution/accounts-merge)(Medium)
+  1. [Redundant Connection II](https://github.com/openset/leetcode/tree/master/solution/redundant-connection-ii) (Hard)
+  1. [Accounts Merge](https://github.com/openset/leetcode/tree/master/solution/accounts-merge) (Medium)

@@ -1,4 +1,4 @@
-## 761. Special Binary String
+## 761. Special Binary String (Hard)
 
 <p>
 <i>Special</i> binary strings are binary strings with the following two properties:
@@ -27,4 +27,4 @@ This is the lexicographically largest string possible after some number of swaps
 </ol></p>
 
 ### Similar Questions
-  1. [Valid Parenthesis String](https://github.com/openset/leetcode/tree/master/solution/valid-parenthesis-string)(Medium)
+  1. [Valid Parenthesis String](https://github.com/openset/leetcode/tree/master/solution/valid-parenthesis-string) (Medium)

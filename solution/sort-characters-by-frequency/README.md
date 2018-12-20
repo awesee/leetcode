@@ -1,4 +1,4 @@
-## 451. Sort Characters By Frequency
+## 451. Sort Characters By Frequency (Medium)
 
 <p>Given a string, sort it in decreasing order based on the frequency of characters.</p>
 
@@ -45,5 +45,5 @@ Note that 'A' and 'a' are treated as two different characters.
 </p>
 
 ### Similar Questions
-  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/solution/top-k-frequent-elements)(Medium)
-  1. [First Unique Character in a String](https://github.com/openset/leetcode/tree/master/solution/first-unique-character-in-a-string)(Easy)
+  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/solution/top-k-frequent-elements) (Medium)
+  1. [First Unique Character in a String](https://github.com/openset/leetcode/tree/master/solution/first-unique-character-in-a-string) (Easy)

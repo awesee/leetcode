@@ -1,4 +1,4 @@
-## 563. Binary Tree Tilt
+## 563. Binary Tree Tilt (Easy)
 
 <p>Given a binary tree, return the tilt of the <b>whole tree</b>.</p>
 

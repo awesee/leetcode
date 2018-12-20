@@ -1,4 +1,4 @@
-## 954. Array of Doubled Pairs
+## 954. Array of Doubled Pairs (Medium)
 
 <p>Given an array of integers <code>A</code>&nbsp;with even length, return <code>true</code> if and only if it is possible to reorder it such that <code>A[2 * i + 1] = 2 * A[2 * i]</code> for every <code>0 &lt;=&nbsp;i &lt; len(A) / 2</code>.</p>
 

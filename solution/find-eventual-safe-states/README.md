@@ -1,4 +1,4 @@
-## 802. Find Eventual Safe States
+## 802. Find Eventual Safe States (Medium)
 
 <p>In a directed graph, we start at some node and every turn, walk along a directed edge of the graph.&nbsp; If we reach a node that is terminal (that is, it has no outgoing directed edges), we stop.</p>
 

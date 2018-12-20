@@ -1,4 +1,4 @@
-## 855. Exam Room
+## 855. Exam Room (Medium)
 
 <p>In an exam room, there are <code>N</code> seats in a single row, numbered <code>0, 1, 2, ..., N-1</code>.</p>
 
@@ -35,4 +35,4 @@ seat() -&gt; 5, the student sits at the last seat number 5.</span>
 
 
 ### Similar Questions
-  1. [Maximize Distance to Closest Person](https://github.com/openset/leetcode/tree/master/solution/maximize-distance-to-closest-person)(Easy)
+  1. [Maximize Distance to Closest Person](https://github.com/openset/leetcode/tree/master/solution/maximize-distance-to-closest-person) (Easy)

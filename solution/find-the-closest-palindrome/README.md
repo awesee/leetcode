@@ -1,4 +1,4 @@
-## 564. Find the Closest Palindrome
+## 564. Find the Closest Palindrome (Hard)
 
 <p>Given an integer n, find the closest integer (not including itself), which is a palindrome. </p>
 

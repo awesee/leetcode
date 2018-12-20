@@ -1,4 +1,4 @@
-## 852. Peak Index in a Mountain Array
+## 852. Peak Index in a Mountain Array (Easy)
 
 <p>Let&#39;s call an array <code>A</code> a <em>mountain</em>&nbsp;if the following properties hold:</p>
 
@@ -34,4 +34,4 @@
 
 
 ### Similar Questions
-  1. [Find Peak Element](https://github.com/openset/leetcode/tree/master/solution/find-peak-element)(Medium)
+  1. [Find Peak Element](https://github.com/openset/leetcode/tree/master/solution/find-peak-element) (Medium)

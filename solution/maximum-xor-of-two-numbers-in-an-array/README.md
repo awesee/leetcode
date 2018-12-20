@@ -1,4 +1,4 @@
-## 421. Maximum XOR of Two Numbers in an Array
+## 421. Maximum XOR of Two Numbers in an Array (Medium)
 
 <p>Given a <b>non-empty</b> array of numbers, a<sub>0</sub>, a<sub>1</sub>, a<sub>2</sub>, … , a<sub>n-1</sub>, where 0 &le; a<sub>i</sub> < 2<sup>31</sup>.</p>
 

@@ -1,4 +1,4 @@
-## 882. Reachable Nodes In Subdivided Graph
+## 882. Reachable Nodes In Subdivided Graph (Hard)
 
 <p>Starting with an&nbsp;<strong>undirected</strong> graph (the &quot;original graph&quot;) with nodes from <code>0</code> to <code>N-1</code>, subdivisions are made to some of the edges.</p>
 

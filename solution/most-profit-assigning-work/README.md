@@ -1,4 +1,4 @@
-## 826. Most Profit Assigning Work
+## 826. Most Profit Assigning Work (Medium)
 
 <p>We have jobs: <code>difficulty[i]</code>&nbsp;is the difficulty of the&nbsp;<code>i</code>th job, and&nbsp;<code>profit[i]</code>&nbsp;is the profit of the&nbsp;<code>i</code>th job.&nbsp;</p>
 

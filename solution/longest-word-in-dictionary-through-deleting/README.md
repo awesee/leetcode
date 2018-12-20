@@ -1,4 +1,4 @@
-## 524. Longest Word in Dictionary through Deleting
+## 524. Longest Word in Dictionary through Deleting (Medium)
 
 <p>
 Given a string and a string dictionary, find the longest string in the dictionary that can be formed by deleting some characters of the given string. If there are more than one possible results, return the longest word with the smallest lexicographical order. If there is no possible result, return the empty string.
@@ -33,4 +33,4 @@ s = "abpcplea", d = ["a","b","c"]
 </p>
 
 ### Similar Questions
-  1. [Longest Word in Dictionary](https://github.com/openset/leetcode/tree/master/solution/longest-word-in-dictionary)(Easy)
+  1. [Longest Word in Dictionary](https://github.com/openset/leetcode/tree/master/solution/longest-word-in-dictionary) (Easy)

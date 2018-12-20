@@ -1,4 +1,4 @@
-## 695. Max Area of Island
+## 695. Max Area of Island (Medium)
 
 <p>Given a non-empty 2D array <code>grid</code> of 0&#39;s and 1&#39;s, an <b>island</b> is a group of <code>1</code>&#39;s (representing land) connected 4-directionally (horizontal or vertical.) You may assume all four edges of the grid are surrounded by water.</p>
 
@@ -28,5 +28,5 @@ Given the above grid, return <code>0</code>.
 
 
 ### Similar Questions
-  1. [Number of Islands](https://github.com/openset/leetcode/tree/master/solution/number-of-islands)(Medium)
-  1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/solution/island-perimeter)(Easy)
+  1. [Number of Islands](https://github.com/openset/leetcode/tree/master/solution/number-of-islands) (Medium)
+  1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/solution/island-perimeter) (Easy)

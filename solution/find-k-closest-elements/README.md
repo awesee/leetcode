@@ -1,4 +1,4 @@
-## 658. Find K Closest Elements
+## 658. Find K Closest Elements (Medium)
 
 <p>
 Given a sorted array, two integers <code>k</code> and <code>x</code>, find the <code>k</code> closest elements to <code>x</code> in the array.  The result should also be sorted in ascending order.
@@ -36,6 +36,6 @@ The <i>arr</i> parameter had been changed to an <b>array of integers</b> (instea
 </p>
 
 ### Similar Questions
-  1. [Guess Number Higher or Lower](https://github.com/openset/leetcode/tree/master/solution/guess-number-higher-or-lower)(Easy)
-  1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/solution/guess-number-higher-or-lower-ii)(Medium)
-  1. [Find K-th Smallest Pair Distance](https://github.com/openset/leetcode/tree/master/solution/find-k-th-smallest-pair-distance)(Hard)
+  1. [Guess Number Higher or Lower](https://github.com/openset/leetcode/tree/master/solution/guess-number-higher-or-lower) (Easy)
+  1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/solution/guess-number-higher-or-lower-ii) (Medium)
+  1. [Find K-th Smallest Pair Distance](https://github.com/openset/leetcode/tree/master/solution/find-k-th-smallest-pair-distance) (Hard)

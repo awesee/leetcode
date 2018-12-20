@@ -1,4 +1,4 @@
-## 513. Find Bottom Left Tree Value
+## 513. Find Bottom Left Tree Value (Medium)
 
 <p>
 Given a binary tree, find the leftmost value in the last row of the tree. 

@@ -1,4 +1,4 @@
-## 500. Keyboard Row
+## 500. Keyboard Row (Easy)
 
 <p>Given a List of words, return the words that can be typed using letters of <b>alphabet</b> on only one row&#39;s of American keyboard like the image below.</p>
 

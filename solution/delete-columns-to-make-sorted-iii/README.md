@@ -1,4 +1,4 @@
-## 960. Delete Columns to Make Sorted III
+## 960. Delete Columns to Make Sorted III (Hard)
 
 <p>We are given an array&nbsp;<code>A</code> of <code>N</code> lowercase letter strings, all of the same length.</p>
 

@@ -1,4 +1,4 @@
-## 933. Number of Recent Calls
+## 933. Number of Recent Calls (Easy)
 
 <p>Write a class <code>RecentCounter</code> to count recent requests.</p>
 

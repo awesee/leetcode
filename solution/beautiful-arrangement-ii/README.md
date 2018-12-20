@@ -1,4 +1,4 @@
-## 667. Beautiful Arrangement II
+## 667. Beautiful Arrangement II (Medium)
 
 <p>
 Given two integers <code>n</code> and <code>k</code>, you need to construct a list which contains <code>n</code> different positive integers ranging from <code>1</code> to <code>n</code> and obeys the following requirement: <br/>
@@ -33,4 +33,4 @@ If there are multiple answers, print any of them.
 </p>
 
 ### Similar Questions
-  1. [Beautiful Arrangement](https://github.com/openset/leetcode/tree/master/solution/beautiful-arrangement)(Medium)
+  1. [Beautiful Arrangement](https://github.com/openset/leetcode/tree/master/solution/beautiful-arrangement) (Medium)

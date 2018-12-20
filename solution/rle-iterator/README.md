@@ -1,4 +1,4 @@
-## 900. RLE Iterator
+## 900. RLE Iterator (Medium)
 
 <p>Write an iterator that iterates through a run-length encoded sequence.</p>
 

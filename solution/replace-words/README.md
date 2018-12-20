@@ -1,4 +1,4 @@
-## 648. Replace Words
+## 648. Replace Words (Medium)
 
 <p>
 In English, we have a concept called <code>root</code>, which can be followed by some other words to form another longer word - let's call this word <code>successor</code>. For example, the root <code>an</code>, followed by <code>other</code>, which can form another word <code>another</code>.
@@ -34,4 +34,4 @@ sentence = "the cattle was rattled by the battery"
 </p>
 
 ### Similar Questions
-  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/solution/implement-trie-prefix-tree)(Medium)
+  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/solution/implement-trie-prefix-tree) (Medium)

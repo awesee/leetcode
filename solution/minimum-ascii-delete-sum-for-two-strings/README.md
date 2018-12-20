@@ -1,4 +1,4 @@
-## 712. Minimum ASCII Delete Sum for Two Strings
+## 712. Minimum ASCII Delete Sum for Two Strings (Medium)
 
 <p>Given two strings <code>s1, s2</code>, find the lowest ASCII sum of deleted characters to make two strings equal.</p>
 
@@ -29,6 +29,6 @@ If instead we turned both strings into "lee" or "eet", we would get answers of 4
 </p>
 
 ### Similar Questions
-  1. [Edit Distance](https://github.com/openset/leetcode/tree/master/solution/edit-distance)(Hard)
-  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-increasing-subsequence)(Medium)
-  1. [Delete Operation for Two Strings](https://github.com/openset/leetcode/tree/master/solution/delete-operation-for-two-strings)(Medium)
+  1. [Edit Distance](https://github.com/openset/leetcode/tree/master/solution/edit-distance) (Hard)
+  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-increasing-subsequence) (Medium)
+  1. [Delete Operation for Two Strings](https://github.com/openset/leetcode/tree/master/solution/delete-operation-for-two-strings) (Medium)

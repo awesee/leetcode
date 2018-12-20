@@ -1,4 +1,4 @@
-## 937. Reorder Log Files
+## 937. Reorder Log Files (Easy)
 
 <p>You have an array of <code>logs</code>.&nbsp; Each log is a space delimited string of words.</p>
 

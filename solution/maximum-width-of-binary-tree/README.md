@@ -1,4 +1,4 @@
-## 662. Maximum Width of Binary Tree
+## 662. Maximum Width of Binary Tree (Medium)
 
 <p>Given a binary tree, write a function to get the maximum width of the given tree. The width of a tree is the maximum width among all levels. The binary tree has the same structure as a <b>full binary tree</b>, but some nodes are null. </p>
 

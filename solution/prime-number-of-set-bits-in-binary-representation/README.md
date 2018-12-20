@@ -1,4 +1,4 @@
-## 762. Prime Number of Set Bits in Binary Representation
+## 762. Prime Number of Set Bits in Binary Representation (Easy)
 
 <p>
 Given two integers <code>L</code> and <code>R</code>, find the count of numbers in the range <code>[L, R]</code> (inclusive) having a prime number of set bits in their binary representation.
@@ -34,4 +34,4 @@ Given two integers <code>L</code> and <code>R</code>, find the count of numbers 
 </ol></p>
 
 ### Similar Questions
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/solution/number-of-1-bits)(Easy)
+  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/solution/number-of-1-bits) (Easy)

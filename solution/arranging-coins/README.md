@@ -1,4 +1,4 @@
-## 441. Arranging Coins
+## 441. Arranging Coins (Easy)
 
 <p>You have a total of <i>n</i> coins that you want to form in a staircase shape, where every <i>k</i>-th row must have exactly <i>k</i> coins.</p>
  

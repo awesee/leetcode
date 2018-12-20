@@ -1,4 +1,4 @@
-## 416. Partition Equal Subset Sum
+## 416. Partition Equal Subset Sum (Medium)
 
 <p>Given a <b>non-empty</b> array containing <b>only positive integers</b>, find if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal.
 </p>
@@ -31,4 +31,4 @@ Explanation: The array cannot be partitioned into equal sum subsets.
 </p>
 
 ### Similar Questions
-  1. [Partition to K Equal Sum Subsets](https://github.com/openset/leetcode/tree/master/solution/partition-to-k-equal-sum-subsets)(Medium)
+  1. [Partition to K Equal Sum Subsets](https://github.com/openset/leetcode/tree/master/solution/partition-to-k-equal-sum-subsets) (Medium)

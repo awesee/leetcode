@@ -1,4 +1,4 @@
-## 911. Online Election
+## 911. Online Election (Medium)
 
 <p>In an election, the <code>i</code>-th&nbsp;vote was cast for <code>persons[i]</code> at time <code>times[i]</code>.</p>
 

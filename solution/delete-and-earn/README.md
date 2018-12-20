@@ -1,4 +1,4 @@
-## 740. Delete and Earn
+## 740. Delete and Earn (Medium)
 
 <p>
 Given an array <code>nums</code> of integers, you can perform operations on the array.
@@ -35,4 +35,4 @@ Then, delete 3 again to earn 3 points, and 3 again to earn 3 points.
 </p>
 
 ### Similar Questions
-  1. [House Robber](https://github.com/openset/leetcode/tree/master/solution/house-robber)(Easy)
+  1. [House Robber](https://github.com/openset/leetcode/tree/master/solution/house-robber) (Easy)

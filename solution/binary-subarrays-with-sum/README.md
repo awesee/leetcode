@@ -1,4 +1,4 @@
-## 930. Binary Subarrays With Sum
+## 930. Binary Subarrays With Sum (Medium)
 
 <p>In an array <code>A</code> of <code>0</code>s and <code>1</code>s, how many <strong>non-empty</strong> subarrays have sum <code>S</code>?</p>
 

@@ -1,4 +1,4 @@
-## 479. Largest Palindrome Product
+## 479. Largest Palindrome Product (Easy)
 
 <p>Find the largest palindrome made from the product of two n-digit numbers.</p>
 <p> Since the result could be very large, you should return the largest palindrome mod 1337.</p>

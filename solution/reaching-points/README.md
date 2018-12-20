@@ -1,4 +1,4 @@
-## 780. Reaching Points
+## 780. Reaching Points (Hard)
 
 <p>A move consists of taking a point <code>(x, y)</code> and transforming it to either <code>(x, x+y)</code> or <code>(x+y, y)</code>.</p>
 

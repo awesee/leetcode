@@ -1,4 +1,4 @@
-## 593. Valid Square
+## 593. Valid Square (Medium)
 
 <p>Given the coordinates of four points in 2D space, return whether the four points could construct a square.</p>
 

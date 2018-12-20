@@ -1,4 +1,4 @@
-## 537. Complex Number Multiplication
+## 537. Complex Number Multiplication (Medium)
 
 <p>
 Given two strings representing two <a href = "https://en.wikipedia.org/wiki/Complex_number">complex numbers</a>.</p>

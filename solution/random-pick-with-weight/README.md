@@ -1,4 +1,4 @@
-## 528. Random Pick with Weight
+## 528. Random Pick with Weight (Medium)
 
 <p>Given an array <code>w</code> of positive integers, where <code>w[i]</code> describes the weight of index <code>i</code>,&nbsp;write a function <code>pickIndex</code>&nbsp;which randomly&nbsp;picks an index&nbsp;in proportion&nbsp;to its weight.</p>
 
@@ -35,6 +35,6 @@
 
 
 ### Similar Questions
-  1. [Random Pick Index](https://github.com/openset/leetcode/tree/master/solution/random-pick-index)(Medium)
-  1. [Random Pick with Blacklist](https://github.com/openset/leetcode/tree/master/solution/random-pick-with-blacklist)(Hard)
-  1. [Random Point in Non-overlapping Rectangles](https://github.com/openset/leetcode/tree/master/solution/random-point-in-non-overlapping-rectangles)(Medium)
+  1. [Random Pick Index](https://github.com/openset/leetcode/tree/master/solution/random-pick-index) (Medium)
+  1. [Random Pick with Blacklist](https://github.com/openset/leetcode/tree/master/solution/random-pick-with-blacklist) (Hard)
+  1. [Random Point in Non-overlapping Rectangles](https://github.com/openset/leetcode/tree/master/solution/random-point-in-non-overlapping-rectangles) (Medium)

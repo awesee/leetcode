@@ -1,4 +1,4 @@
-## 778. Swim in Rising Water
+## 778. Swim in Rising Water (Hard)
 
 <p>On an N x N <code>grid</code>, each square <code>grid[i][j]</code> represents the elevation at that point <code>(i,j)</code>.</p>
 

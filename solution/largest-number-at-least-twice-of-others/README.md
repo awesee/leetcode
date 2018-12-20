@@ -1,4 +1,4 @@
-## 747. Largest Number At Least Twice of Others
+## 747. Largest Number At Least Twice of Others (Easy)
 
 <p>In a given integer array <code>nums</code>, there is always exactly one largest element.</p>
 

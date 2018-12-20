@@ -1,4 +1,4 @@
-## 605. Can Place Flowers
+## 605. Can Place Flowers (Easy)
 
 <p>Suppose you have a long flowerbed in which some of the plots are planted and some are not. However, flowers cannot be planted in adjacent plots - they would compete for water and both would die.</p>
 
@@ -27,5 +27,5 @@
 </p>
 
 ### Similar Questions
-  1. [Teemo Attacking](https://github.com/openset/leetcode/tree/master/solution/teemo-attacking)(Medium)
-  1. [Asteroid Collision](https://github.com/openset/leetcode/tree/master/solution/asteroid-collision)(Medium)
+  1. [Teemo Attacking](https://github.com/openset/leetcode/tree/master/solution/teemo-attacking) (Medium)
+  1. [Asteroid Collision](https://github.com/openset/leetcode/tree/master/solution/asteroid-collision) (Medium)

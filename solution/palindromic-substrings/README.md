@@ -1,4 +1,4 @@
-## 647. Palindromic Substrings
+## 647. Palindromic Substrings (Medium)
 
 <p>
 Given a string, your task is to count how many palindromic substrings in this string.
@@ -31,6 +31,6 @@ The substrings with different start indexes or end indexes are counted as differ
 </p>
 
 ### Similar Questions
-  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-substring)(Medium)
-  1. [Longest Palindromic Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-subsequence)(Medium)
-  1. [Palindromic Substrings](https://github.com/openset/leetcode/tree/master/solution/palindromic-substrings)(Medium)
+  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-substring) (Medium)
+  1. [Longest Palindromic Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-subsequence) (Medium)
+  1. [Palindromic Substrings](https://github.com/openset/leetcode/tree/master/solution/palindromic-substrings) (Medium)

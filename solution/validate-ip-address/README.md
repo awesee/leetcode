@@ -1,4 +1,4 @@
-## 468. Validate IP Address
+## 468. Validate IP Address (Medium)
 
 <p>
 Write a function to check whether an input string is a valid IPv4 address or IPv6 address or neither.
@@ -62,4 +62,4 @@ You may assume there is no extra space or special characters in the input string
 </p>
 
 ### Similar Questions
-  1. [IP to CIDR](https://github.com/openset/leetcode/tree/master/solution/ip-to-cidr)(Easy)
+  1. [IP to CIDR](https://github.com/openset/leetcode/tree/master/solution/ip-to-cidr) (Easy)

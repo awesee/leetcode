@@ -1,4 +1,4 @@
-## 724. Find Pivot Index
+## 724. Find Pivot Index (Easy)
 
 <p>Given an array of integers <code>nums</code>, write a method that returns the "pivot" index of this array.
 </p><p>
@@ -34,4 +34,4 @@ There is no index that satisfies the conditions in the problem statement.
 </p>
 
 ### Similar Questions
-  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/solution/subarray-sum-equals-k)(Medium)
+  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/solution/subarray-sum-equals-k) (Medium)

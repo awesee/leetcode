@@ -1,4 +1,4 @@
-## 725. Split Linked List in Parts
+## 725. Split Linked List in Parts (Medium)
 
 <p>Given a (singly) linked list with head node <code>root</code>, write a function to split the linked list into <code>k</code> consecutive linked list "parts".
 </p><p>
@@ -47,5 +47,5 @@ The input has been split into consecutive parts with size difference at most 1, 
 </p>
 
 ### Similar Questions
-  1. [Rotate List](https://github.com/openset/leetcode/tree/master/solution/rotate-list)(Medium)
-  1. [Odd Even Linked List](https://github.com/openset/leetcode/tree/master/solution/odd-even-linked-list)(Medium)
+  1. [Rotate List](https://github.com/openset/leetcode/tree/master/solution/rotate-list) (Medium)
+  1. [Odd Even Linked List](https://github.com/openset/leetcode/tree/master/solution/odd-even-linked-list) (Medium)

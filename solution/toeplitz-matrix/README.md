@@ -1,4 +1,4 @@
-## 766. Toeplitz Matrix
+## 766. Toeplitz Matrix (Easy)
 
 <p>A matrix is <em>Toeplitz</em> if every diagonal from top-left to bottom-right has the same element.</p>
 
@@ -53,4 +53,4 @@ The diagonal &quot;[1, 2]&quot; has different elements.
 
 
 ### Similar Questions
-  1. [Valid Word Square](https://github.com/openset/leetcode/tree/master/solution/valid-word-square)(Easy)
+  1. [Valid Word Square](https://github.com/openset/leetcode/tree/master/solution/valid-word-square) (Easy)

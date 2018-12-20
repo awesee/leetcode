@@ -1,4 +1,4 @@
-## 876. Middle of the Linked List
+## 876. Middle of the Linked List (Easy)
 
 <p>Given a non-empty, singly&nbsp;linked list with head node <code>head</code>, return&nbsp;a&nbsp;middle node of linked list.</p>
 

@@ -1,4 +1,4 @@
-## 871. Minimum Number of Refueling Stops
+## 871. Minimum Number of Refueling Stops (Hard)
 
 <p>A car travels from a starting position to a destination which is <code>target</code> miles east of the starting position.</p>
 

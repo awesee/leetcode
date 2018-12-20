@@ -1,4 +1,4 @@
-## 909. Snakes and Ladders
+## 909. Snakes and Ladders (Medium)
 
 <p>On an N x N <code>board</code>, the numbers from <code>1</code> to <code>N*N</code> are written&nbsp;<em>boustrophedonically</em>&nbsp;<strong>starting from the bottom&nbsp;left of the board</strong>, and alternating direction each row.&nbsp; For example, for a 6 x 6 board, the numbers are written as follows:</p>
 

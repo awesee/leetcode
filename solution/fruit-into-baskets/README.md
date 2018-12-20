@@ -1,4 +1,4 @@
-## 904. Fruit Into Baskets
+## 904. Fruit Into Baskets (Medium)
 
 <p>In a row of trees, the <code>i</code>-th tree&nbsp;produces&nbsp;fruit with type&nbsp;<code>tree[i]</code>.</p>
 

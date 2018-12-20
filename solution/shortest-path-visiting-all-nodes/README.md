@@ -1,4 +1,4 @@
-## 847. Shortest Path Visiting All Nodes
+## 847. Shortest Path Visiting All Nodes (Hard)
 
 <p>An undirected, connected graph of N nodes (labeled&nbsp;<code>0, 1, 2, ..., N-1</code>) is given as <code>graph</code>.</p>
 

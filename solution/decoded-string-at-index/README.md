@@ -1,4 +1,4 @@
-## 880. Decoded String at Index
+## 880. Decoded String at Index (Medium)
 
 <p>An encoded string <code>S</code> is given.&nbsp; To find and write the <em>decoded</em> string to a tape, the encoded string is read <strong>one character at a time</strong>&nbsp;and the following steps are taken:</p>
 

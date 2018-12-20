@@ -1,4 +1,4 @@
-## 920. Number of Music Playlists
+## 920. Number of Music Playlists (Hard)
 
 <p>Your music player contains <code>N</code>&nbsp;different songs and she wants to listen to <code>L</code><strong> </strong>(not necessarily different) songs during your trip. &nbsp;You&nbsp;create&nbsp;a playlist so&nbsp;that:</p>
 

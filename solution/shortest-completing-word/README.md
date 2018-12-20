@@ -1,4 +1,4 @@
-## 748. Shortest Completing Word
+## 748. Shortest Completing Word (Easy)
 
 <p>
 Find the minimum length word from a given dictionary <code>words</code>, which has all the letters from the string <code>licensePlate</code>.  Such a word is said to <i>complete</i> the given string <code>licensePlate</code>

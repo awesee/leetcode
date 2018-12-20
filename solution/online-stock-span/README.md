@@ -1,4 +1,4 @@
-## 901. Online Stock Span
+## 901. Online Stock Span (Medium)
 
 <p>Write a class <code>StockSpanner</code> which collects daily price quotes for some stock, and returns the <em>span</em>&nbsp;of that stock&#39;s price for the current day.</p>
 

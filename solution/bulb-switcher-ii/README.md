@@ -1,4 +1,4 @@
-## 672. Bulb Switcher II
+## 672. Bulb Switcher II (Medium)
 
 <p>
 There is a room with <code>n</code> lights which are turned on initially and 4 buttons on the wall. After performing exactly <code>m</code> unknown operations towards buttons, you need to return how many different kinds of status of the <code>n</code> lights could be.
@@ -48,4 +48,4 @@ Suppose <code>n</code> lights are labeled as number [1, 2, 3 ..., n], function o
 
 
 ### Similar Questions
-  1. [Bulb Switcher](https://github.com/openset/leetcode/tree/master/solution/bulb-switcher)(Medium)
+  1. [Bulb Switcher](https://github.com/openset/leetcode/tree/master/solution/bulb-switcher) (Medium)

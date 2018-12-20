@@ -1,4 +1,4 @@
-## 941. Valid Mountain Array
+## 941. Valid Mountain Array (Easy)
 
 <p>Given an array <code>A</code> of integers, return <code>true</code> if and only if it is a <em>valid mountain array</em>.</p>
 

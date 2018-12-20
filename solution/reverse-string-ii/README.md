@@ -1,4 +1,4 @@
-## 541. Reverse String II
+## 541. Reverse String II (Easy)
 
 </p>
 Given a string and an integer k, you need to reverse the first k characters for every 2k characters counting from the start of the string. If there are less than k characters left, reverse all of them. If there are less than 2k but greater than or equal to k characters, then reverse the first k characters and left the other as original.
@@ -18,5 +18,5 @@ Given a string and an integer k, you need to reverse the first k characters for 
 </ol>
 
 ### Similar Questions
-  1. [Reverse String](https://github.com/openset/leetcode/tree/master/solution/reverse-string)(Easy)
-  1. [Reverse Words in a String III](https://github.com/openset/leetcode/tree/master/solution/reverse-words-in-a-string-iii)(Easy)
+  1. [Reverse String](https://github.com/openset/leetcode/tree/master/solution/reverse-string) (Easy)
+  1. [Reverse Words in a String III](https://github.com/openset/leetcode/tree/master/solution/reverse-words-in-a-string-iii) (Easy)

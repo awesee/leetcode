@@ -1,4 +1,4 @@
-## 835. Image Overlap
+## 835. Image Overlap (Medium)
 
 <p>Two images <code>A</code> and <code>B</code> are given, represented as&nbsp;binary, square matrices of the same size.&nbsp; (A binary matrix has only 0s and 1s as values.)</p>
 

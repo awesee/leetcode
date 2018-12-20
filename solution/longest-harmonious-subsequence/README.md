@@ -1,4 +1,4 @@
-## 594. Longest Harmonious Subsequence
+## 594. Longest Harmonious Subsequence (Easy)
 
 <p>We define a harmonious array is an array where the difference between its maximum value and its minimum value is <b>exactly</b> 1.</p>
 

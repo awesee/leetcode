@@ -1,4 +1,4 @@
-## 481. Magical String
+## 481. Magical String (Medium)
 
 <p>
 A magical string <b>S</b> consists of only '1' and '2' and obeys the following rules:

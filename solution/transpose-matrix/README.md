@@ -1,4 +1,4 @@
-## 867. Transpose Matrix
+## 867. Transpose Matrix (Easy)
 
 <p>Given a&nbsp;matrix <code>A</code>, return the transpose of <code>A</code>.</p>
 

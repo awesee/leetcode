@@ -1,4 +1,4 @@
-## 805. Split Array With Same Average
+## 805. Split Array With Same Average (Hard)
 
 <p>In a given integer array A, we must move every element of A to either list B or list C. (B and C initially start empty.)</p>
 

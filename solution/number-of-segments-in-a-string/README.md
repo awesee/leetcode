@@ -1,4 +1,4 @@
-## 434. Number of Segments in a String
+## 434. Number of Segments in a String (Easy)
 
 <p>Count the number of segments in a string, where a segment is defined to be a contiguous sequence of non-space characters.</p>
 

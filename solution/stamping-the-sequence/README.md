@@ -1,4 +1,4 @@
-## 936. Stamping The Sequence
+## 936. Stamping The Sequence (Hard)
 
 <p>You want to form a <code>target</code>&nbsp;string of <strong>lowercase letters</strong>.</p>
 

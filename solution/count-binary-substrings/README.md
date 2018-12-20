@@ -1,4 +1,4 @@
-## 696. Count Binary Substrings
+## 696. Count Binary Substrings (Easy)
 
 <p>Give a string <code>s</code>, count the number of non-empty (contiguous) substrings that have the same number of 0's and 1's, and all the 0's and all the 1's in these substrings are grouped consecutively. 
 </p>
@@ -28,4 +28,4 @@
 </p>
 
 ### Similar Questions
-  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/solution/encode-and-decode-strings)(Medium)
+  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/solution/encode-and-decode-strings) (Medium)

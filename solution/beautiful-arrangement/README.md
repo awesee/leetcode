@@ -1,4 +1,4 @@
-## 526. Beautiful Arrangement
+## 526. Beautiful Arrangement (Medium)
 
 <p>
 Suppose you have <b>N</b> integers from 1 to N. We define a beautiful arrangement as an array that is constructed by these <b>N</b> numbers successfully if one of the following is true for the i<sub>th</sub> position (1 <= i <= N) in this array:
@@ -33,4 +33,4 @@ Now given N, how many beautiful arrangements can you construct?
 </p>
 
 ### Similar Questions
-  1. [Beautiful Arrangement II](https://github.com/openset/leetcode/tree/master/solution/beautiful-arrangement-ii)(Medium)
+  1. [Beautiful Arrangement II](https://github.com/openset/leetcode/tree/master/solution/beautiful-arrangement-ii) (Medium)

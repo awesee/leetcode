@@ -1,4 +1,4 @@
-## 959. Regions Cut By Slashes
+## 959. Regions Cut By Slashes (Medium)
 
 <p>In a N x N&nbsp;<code>grid</code> composed of 1 x 1 squares, each 1 x 1 square consists of a <code>/</code>, <code>\</code>, or blank space.&nbsp; These characters divide the square into contiguous regions.</p>
 

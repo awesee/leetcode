@@ -1,4 +1,4 @@
-## 591. Tag Validator
+## 591. Tag Validator (Hard)
 
 <p>Given a string representing a code snippet, you need to implement a tag validator to parse the code and return whether it is valid. A code snippet is valid if all the following rules hold:<p>
 <ol>
@@ -68,4 +68,4 @@ The reason why cdata is NOT <b>"&lt;![CDATA[&lt;div>]>]]>]]>"</b> is because of 
 </p>
 
 ### Similar Questions
-  1. [Add Bold Tag in String](https://github.com/openset/leetcode/tree/master/solution/add-bold-tag-in-string)(Medium)
+  1. [Add Bold Tag in String](https://github.com/openset/leetcode/tree/master/solution/add-bold-tag-in-string) (Medium)

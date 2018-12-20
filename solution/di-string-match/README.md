@@ -1,4 +1,4 @@
-## 942. DI String Match
+## 942. DI String Match (Easy)
 
 <p>Given a string <code>S</code> that <strong>only</strong> contains &quot;I&quot; (increase) or &quot;D&quot; (decrease), let <code>N = S.length</code>.</p>
 

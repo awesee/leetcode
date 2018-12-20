@@ -1,4 +1,4 @@
-## 831. Masking Personal Information
+## 831. Masking Personal Information (Medium)
 
 <p>We are given a&nbsp;personal information string <code>S</code>, which may represent&nbsp;either <strong>an email address</strong> or <strong>a phone number.</strong></p>
 

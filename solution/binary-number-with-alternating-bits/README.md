@@ -1,4 +1,4 @@
-## 693. Binary Number with Alternating Bits
+## 693. Binary Number with Alternating Bits (Easy)
 
 <p>Given a positive integer, check whether it has alternating bits: namely, if two adjacent bits will always have different values.</p>
 
@@ -39,4 +39,4 @@ The binary representation of 10 is: 1010.
 </p>
 
 ### Similar Questions
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/solution/number-of-1-bits)(Easy)
+  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/solution/number-of-1-bits) (Easy)

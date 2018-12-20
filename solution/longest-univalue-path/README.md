@@ -1,4 +1,4 @@
-## 687. Longest Univalue Path
+## 687. Longest Univalue Path (Easy)
 
 <p>Given a binary tree, find the length of the longest path where each node in the path has the same value. This path may or may not pass through the root.</p>
 
@@ -55,6 +55,6 @@ The given binary tree has not more than 10000 nodes.  The height of the tree is 
 </p>
 
 ### Similar Questions
-  1. [Binary Tree Maximum Path Sum](https://github.com/openset/leetcode/tree/master/solution/binary-tree-maximum-path-sum)(Hard)
-  1. [Count Univalue Subtrees](https://github.com/openset/leetcode/tree/master/solution/count-univalue-subtrees)(Medium)
-  1. [Path Sum III](https://github.com/openset/leetcode/tree/master/solution/path-sum-iii)(Easy)
+  1. [Binary Tree Maximum Path Sum](https://github.com/openset/leetcode/tree/master/solution/binary-tree-maximum-path-sum) (Hard)
+  1. [Count Univalue Subtrees](https://github.com/openset/leetcode/tree/master/solution/count-univalue-subtrees) (Medium)
+  1. [Path Sum III](https://github.com/openset/leetcode/tree/master/solution/path-sum-iii) (Easy)

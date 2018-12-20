@@ -1,4 +1,4 @@
-## 412. Fizz Buzz
+## 412. Fizz Buzz (Easy)
 
 <p>Write a program that outputs the string representation of numbers from 1 to <i>n</i>.</p>
 

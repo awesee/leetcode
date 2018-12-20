@@ -1,4 +1,4 @@
-## 611. Valid Triangle Number
+## 611. Valid Triangle Number (Medium)
 
 Given an array consists of non-negative integers,  your task is to count the number of triplets chosen from the array that can make triangles if we take them as side lengths of a triangle.
 
@@ -23,4 +23,4 @@ Valid combinations are:
 
 
 ### Similar Questions
-  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/solution/3sum-smaller)(Medium)
+  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/solution/3sum-smaller) (Medium)

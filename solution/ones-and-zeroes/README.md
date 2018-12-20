@@ -1,4 +1,4 @@
-## 474. Ones and Zeroes
+## 474. Ones and Zeroes (Medium)
 
 <p>In the computer world, use restricted resource you have to generate maximum benefit is what we always want to pursue.</p>
 <p>For now, suppose you are a dominator of <b>m</b> <code>0s</code> and <b>n</b> <code>1s</code> respectively. On the other hand, there is an array with strings consisting of only <code>0s</code> and <code>1s</code>.</p>
@@ -34,4 +34,4 @@ Now your task is to find the maximum number of strings that you can form with gi
 </p>
 
 ### Similar Questions
-  1. [Non-negative Integers without Consecutive Ones](https://github.com/openset/leetcode/tree/master/solution/non-negative-integers-without-consecutive-ones)(Hard)
+  1. [Non-negative Integers without Consecutive Ones](https://github.com/openset/leetcode/tree/master/solution/non-negative-integers-without-consecutive-ones) (Hard)

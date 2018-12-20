@@ -1,4 +1,4 @@
-## 883. Projection Area of 3D Shapes
+## 883. Projection Area of 3D Shapes (Easy)
 
 <p>On a&nbsp;<code>N&nbsp;*&nbsp;N</code> grid, we place some&nbsp;<code>1 * 1 * 1&nbsp;</code>cubes that are axis-aligned with the x, y, and z axes.</p>
 

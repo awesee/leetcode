@@ -1,4 +1,4 @@
-## 856. Score of Parentheses
+## 856. Score of Parentheses (Medium)
 
 <p>Given a balanced parentheses string <code>S</code>, compute the score of the string based on the following rule:</p>
 

@@ -1,4 +1,4 @@
-## 950. Reveal Cards In Increasing Order
+## 950. Reveal Cards In Increasing Order (Medium)
 
 <p>In a deck of cards, every card has a unique integer.&nbsp; You can order the deck in&nbsp;any order you want.</p>
 

@@ -1,4 +1,4 @@
-## 951. Flip Equivalent Binary Trees
+## 951. Flip Equivalent Binary Trees (Medium)
 
 <p>For a binary tree T, we can define a flip operation as follows: choose any node, and swap the left and right child subtrees.</p>
 

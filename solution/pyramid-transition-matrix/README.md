@@ -1,4 +1,4 @@
-## 756. Pyramid Transition Matrix
+## 756. Pyramid Transition Matrix (Medium)
 
 <p>
 We are stacking blocks to form a pyramid.  Each block has a color which is a one letter string, like `'Z'`.

@@ -1,4 +1,4 @@
-## 879. Profitable Schemes
+## 879. Profitable Schemes (Hard)
 
 <p>There are G people in a gang, and a list of various crimes they could commit.</p>
 

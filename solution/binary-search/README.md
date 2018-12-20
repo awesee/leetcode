@@ -1,4 +1,4 @@
-## 704. Binary Search
+## 704. Binary Search (Easy)
 
 <p>Given a <strong>sorted</strong> (in ascending order) integer array <code>nums</code> of <code>n</code> elements and a <code>target</code> value, write a function to search <code>target</code> in <code>nums</code>. If <code>target</code> exists, then return its index, otherwise return <code>-1</code>.</p>
 
@@ -32,4 +32,4 @@
 
 
 ### Similar Questions
-  1. [Search in a Sorted Array of Unknown Size](https://github.com/openset/leetcode/tree/master/solution/search-in-a-sorted-array-of-unknown-size)(Medium)
+  1. [Search in a Sorted Array of Unknown Size](https://github.com/openset/leetcode/tree/master/solution/search-in-a-sorted-array-of-unknown-size) (Medium)

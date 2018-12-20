@@ -1,4 +1,4 @@
-## 721. Accounts Merge
+## 721. Accounts Merge (Medium)
 
 <p>Given a list <code>accounts</code>, each element <code>accounts[i]</code> is a list of strings, where the first element <code>accounts[i][0]</code> is a <i>name</i>, and the rest of the elements are <i>emails</i> representing emails of the account.</p>
 
@@ -26,6 +26,6 @@ We could return these lists in any order, for example the answer [['Mary', 'mary
 </p>
 
 ### Similar Questions
-  1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/solution/redundant-connection)(Medium)
-  1. [Sentence Similarity](https://github.com/openset/leetcode/tree/master/solution/sentence-similarity)(Easy)
-  1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/solution/sentence-similarity-ii)(Medium)
+  1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/solution/redundant-connection) (Medium)
+  1. [Sentence Similarity](https://github.com/openset/leetcode/tree/master/solution/sentence-similarity) (Easy)
+  1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/solution/sentence-similarity-ii) (Medium)

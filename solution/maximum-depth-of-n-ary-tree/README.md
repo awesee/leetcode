@@ -1,4 +1,4 @@
-## 559. Maximum Depth of N-ary Tree
+## 559. Maximum Depth of N-ary Tree (Easy)
 
 <p>Given a n-ary tree, find its maximum depth.</p>
 
@@ -24,4 +24,4 @@
 
 
 ### Similar Questions
-  1. [Maximum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/solution/maximum-depth-of-binary-tree)(Easy)
+  1. [Maximum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/solution/maximum-depth-of-binary-tree) (Easy)

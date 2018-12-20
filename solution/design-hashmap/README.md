@@ -1,4 +1,4 @@
-## 706. Design HashMap
+## 706. Design HashMap (Easy)
 
 <p>Design a HashMap&nbsp;without using any built-in hash table libraries.</p>
 
@@ -36,4 +36,4 @@ hashMap.get(2); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// returns -1 (not foun
 
 
 ### Similar Questions
-  1. [Design HashSet](https://github.com/openset/leetcode/tree/master/solution/design-hashset)(Easy)
+  1. [Design HashSet](https://github.com/openset/leetcode/tree/master/solution/design-hashset) (Easy)

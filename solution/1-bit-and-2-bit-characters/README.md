@@ -1,4 +1,4 @@
-## 717. 1-bit and 2-bit Characters
+## 717. 1-bit and 2-bit Characters (Easy)
 
 <p>We have two special characters. The first character can be represented by one bit <code>0</code>. The second character can be represented by two bits (<code>10</code> or <code>11</code>).  </p>
 
@@ -30,4 +30,4 @@ The only way to decode it is two-bit character and two-bit character. So the las
 </p>
 
 ### Similar Questions
-  1. [Gray Code](https://github.com/openset/leetcode/tree/master/solution/gray-code)(Medium)
+  1. [Gray Code](https://github.com/openset/leetcode/tree/master/solution/gray-code) (Medium)

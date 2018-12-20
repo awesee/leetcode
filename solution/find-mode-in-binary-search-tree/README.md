@@ -1,4 +1,4 @@
-## 501. Find Mode in Binary Search Tree
+## 501. Find Mode in Binary Search Tree (Easy)
 
 <p>Given a binary search tree (BST) with duplicates, find all the <a href="https://en.wikipedia.org/wiki/Mode_(statistics)" target="_blank">mode(s)</a> (the most frequently occurred element) in the given BST.</p>
 
@@ -33,4 +33,4 @@ Given BST <code>[1,null,2,2]</code>,</p>
 
 
 ### Similar Questions
-  1. [Validate Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/validate-binary-search-tree)(Medium)
+  1. [Validate Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/validate-binary-search-tree) (Medium)

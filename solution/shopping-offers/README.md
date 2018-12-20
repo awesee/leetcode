@@ -1,4 +1,4 @@
-## 638. Shopping Offers
+## 638. Shopping Offers (Medium)
 
 <p>
 In LeetCode Store, there are some kinds of items to sell. Each item has a price.

@@ -1,4 +1,4 @@
-## 413. Arithmetic Slices
+## 413. Arithmetic Slices (Medium)
 
 <p>A sequence of number is called arithmetic if it consists of at least three elements and if the difference between any two consecutive elements is the same.</p>
 
@@ -26,4 +26,4 @@ return: 3, for 3 arithmetic slices in A: [1, 2, 3], [2, 3, 4] and [1, 2, 3, 4] i
 </pre>
 
 ### Similar Questions
-  1. [Arithmetic Slices II - Subsequence](https://github.com/openset/leetcode/tree/master/solution/arithmetic-slices-ii-subsequence)(Hard)
+  1. [Arithmetic Slices II - Subsequence](https://github.com/openset/leetcode/tree/master/solution/arithmetic-slices-ii-subsequence) (Hard)

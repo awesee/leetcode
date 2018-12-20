@@ -1,4 +1,4 @@
-## 685. Redundant Connection II
+## 685. Redundant Connection II (Hard)
 
 <p>
 In this problem, a rooted tree is a <b>directed</b> graph such that, there is exactly one node (the root) for which all other nodes are descendants of this node, plus every node has exactly one parent, except for the root node which has no parents.
@@ -36,4 +36,4 @@ v   v
 </p>
 
 ### Similar Questions
-  1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/solution/redundant-connection)(Medium)
+  1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/solution/redundant-connection) (Medium)

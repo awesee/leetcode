@@ -1,4 +1,4 @@
-## 551. Student Attendance Record I
+## 551. Student Attendance Record I (Easy)
 
 You are given a string representing an attendance record for a student. The record only contains the following three characters:
 
@@ -33,4 +33,4 @@ A student could be rewarded if his attendance record doesn't contain <b>more tha
 
 
 ### Similar Questions
-  1. [Student Attendance Record II](https://github.com/openset/leetcode/tree/master/solution/student-attendance-record-ii)(Hard)
+  1. [Student Attendance Record II](https://github.com/openset/leetcode/tree/master/solution/student-attendance-record-ii) (Hard)

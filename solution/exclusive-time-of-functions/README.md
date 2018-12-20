@@ -1,4 +1,4 @@
-## 636. Exclusive Time of Functions
+## 636. Exclusive Time of Functions (Medium)
 
 <p>Given the running logs of <b>n</b> functions that are executed in a nonpreemptive single threaded CPU, find the exclusive time of these functions. </p>
 

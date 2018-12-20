@@ -1,4 +1,4 @@
-## 726. Number of Atoms
+## 726. Number of Atoms (Hard)
 
 <p>Given a chemical <code>formula</code> (given as a string), return the count of each atom.
 </p><p>
@@ -49,6 +49,6 @@ The count of elements are {'K': 4, 'N': 2, 'O': 14, 'S': 4}.
 </p>
 
 ### Similar Questions
-  1. [Decode String](https://github.com/openset/leetcode/tree/master/solution/decode-string)(Medium)
-  1. [Encode String with Shortest Length](https://github.com/openset/leetcode/tree/master/solution/encode-string-with-shortest-length)(Hard)
-  1. [Parse Lisp Expression](https://github.com/openset/leetcode/tree/master/solution/parse-lisp-expression)(Hard)
+  1. [Decode String](https://github.com/openset/leetcode/tree/master/solution/decode-string) (Medium)
+  1. [Encode String with Shortest Length](https://github.com/openset/leetcode/tree/master/solution/encode-string-with-shortest-length) (Hard)
+  1. [Parse Lisp Expression](https://github.com/openset/leetcode/tree/master/solution/parse-lisp-expression) (Hard)

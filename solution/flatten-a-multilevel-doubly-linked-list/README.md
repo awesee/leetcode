@@ -1,4 +1,4 @@
-## 430. Flatten a Multilevel Doubly Linked List
+## 430. Flatten a Multilevel Doubly Linked List (Medium)
 
 <p>You are given a doubly linked list which in addition to the next and previous pointers, it could have a child pointer, which may or may not point to a separate doubly linked list. These child lists may have one or more children of their own, and so on, to produce a multilevel data structure, as shown in the example below.</p>
 
@@ -38,4 +38,4 @@
 
 
 ### Similar Questions
-  1. [Flatten Binary Tree to Linked List](https://github.com/openset/leetcode/tree/master/solution/flatten-binary-tree-to-linked-list)(Medium)
+  1. [Flatten Binary Tree to Linked List](https://github.com/openset/leetcode/tree/master/solution/flatten-binary-tree-to-linked-list) (Medium)

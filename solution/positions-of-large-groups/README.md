@@ -1,4 +1,4 @@
-## 830. Positions of Large Groups
+## 830. Positions of Large Groups (Easy)
 
 <p>In a string&nbsp;<code>S</code>&nbsp;of lowercase letters, these letters form consecutive groups of the same character.</p>
 

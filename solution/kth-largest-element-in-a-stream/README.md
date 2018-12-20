@@ -1,4 +1,4 @@
-## 703. Kth Largest Element in a Stream
+## 703. Kth Largest Element in a Stream (Easy)
 
 <p>Design a class to find&nbsp;the <strong>k</strong>th largest element in a stream. Note that it is the kth largest element in the sorted order, not the kth distinct element.</p>
 
@@ -22,4 +22,4 @@ You may assume that&nbsp;<code>nums</code>&#39; length&nbsp;&ge;&nbsp;<code>k-1<
 
 
 ### Similar Questions
-  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/solution/kth-largest-element-in-an-array)(Medium)
+  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/solution/kth-largest-element-in-an-array) (Medium)

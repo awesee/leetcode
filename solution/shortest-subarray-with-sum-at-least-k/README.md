@@ -1,4 +1,4 @@
-## 862. Shortest Subarray with Sum at Least K
+## 862. Shortest Subarray with Sum at Least K (Hard)
 
 <p>Return the <strong>length</strong> of the shortest, non-empty, contiguous&nbsp;subarray of <code>A</code> with sum at least <code>K</code>.</p>
 

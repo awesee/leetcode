@@ -1,4 +1,4 @@
-## 754. Reach a Number
+## 754. Reach a Number (Easy)
 
 <p>
 You are standing at position <code>0</code> on an infinite number line.  There is a goal at position <code>target</code>.

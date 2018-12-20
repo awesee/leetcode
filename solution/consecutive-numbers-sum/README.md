@@ -1,4 +1,4 @@
-## 829. Consecutive Numbers Sum
+## 829. Consecutive Numbers Sum (Hard)
 
 <p>Given a positive integer&nbsp;<code>N</code>, how many ways can we write it as a sum of&nbsp;consecutive positive integers?</p>
 

@@ -1,4 +1,4 @@
-## 589. N-ary Tree Preorder Traversal
+## 589. N-ary Tree Preorder Traversal (Easy)
 
 <p>Given an n-ary tree, return the <i>preorder</i> traversal of its nodes&#39; values.</p>
 
@@ -20,6 +20,6 @@
 
 
 ### Similar Questions
-  1. [Binary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-preorder-traversal)(Medium)
-  1. [N-ary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-level-order-traversal)(Easy)
-  1. [N-ary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-postorder-traversal)(Easy)
+  1. [Binary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-preorder-traversal) (Medium)
+  1. [N-ary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-level-order-traversal) (Easy)
+  1. [N-ary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-postorder-traversal) (Easy)

@@ -1,4 +1,4 @@
-## 730. Count Different Palindromic Subsequences
+## 730. Count Different Palindromic Subsequences (Hard)
 
 <p>
 Given a string S, find the number of different non-empty palindromic subsequences in S, and <b>return that number modulo <code>10^9 + 7</code>.</b>
@@ -37,4 +37,4 @@ There are 3104860382 different non-empty palindromic subsequences, which is 1048
 </p>
 
 ### Similar Questions
-  1. [Longest Palindromic Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-subsequence)(Medium)
+  1. [Longest Palindromic Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-subsequence) (Medium)

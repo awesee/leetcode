@@ -1,4 +1,4 @@
-## 795. Number of Subarrays with Bounded Maximum
+## 795. Number of Subarrays with Bounded Maximum (Medium)
 
 <p>We are given an array <code>A</code> of positive integers, and two positive integers <code>L</code> and <code>R</code> (<code>L &lt;= R</code>).</p>
 

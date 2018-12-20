@@ -1,4 +1,4 @@
-## 791. Custom Sort String
+## 791. Custom Sort String (Medium)
 
 <p><code>S</code> and <code>T</code> are strings composed of lowercase letters. In <code>S</code>, no letter occurs more than once.</p>
 

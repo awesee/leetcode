@@ -1,4 +1,4 @@
-## 743. Network Delay Time
+## 743. Network Delay Time (Easy)
 
 <p>
 There are <code>N</code> network nodes, labelled <code>1</code> to <code>N</code>.

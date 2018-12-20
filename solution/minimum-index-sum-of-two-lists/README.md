@@ -1,4 +1,4 @@
-## 599. Minimum Index Sum of Two Lists
+## 599. Minimum Index Sum of Two Lists (Easy)
 
 <p>
 Suppose Andy and Doris want to choose a restaurant for dinner, and they both have a list of favorite restaurants represented by strings. 
@@ -39,4 +39,4 @@ You need to help them find out their <b>common interest</b> with the <b>least li
 </p>
 
 ### Similar Questions
-  1. [Intersection of Two Linked Lists](https://github.com/openset/leetcode/tree/master/solution/intersection-of-two-linked-lists)(Easy)
+  1. [Intersection of Two Linked Lists](https://github.com/openset/leetcode/tree/master/solution/intersection-of-two-linked-lists) (Easy)

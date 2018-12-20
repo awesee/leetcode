@@ -1,4 +1,4 @@
-## 547. Friend Circles
+## 547. Friend Circles (Medium)
 
 <p>
 There are <b>N</b> students in a class. Some of them are friends, while some are not. Their friendship is transitive in nature. For example, if A is a <b>direct</b> friend of B, and B is a <b>direct</b> friend of C, then A is an <b>indirect</b> friend of C. And we defined a friend circle is a group of students who are direct or indirect friends.
@@ -40,7 +40,7 @@ Given a <b>N*N</b> matrix <b>M</b> representing the friend relationship between 
 </p>
 
 ### Similar Questions
-  1. [Number of Connected Components in an Undirected Graph](https://github.com/openset/leetcode/tree/master/solution/number-of-connected-components-in-an-undirected-graph)(Medium)
-  1. [Robot Return to Origin](https://github.com/openset/leetcode/tree/master/solution/robot-return-to-origin)(Easy)
-  1. [Sentence Similarity](https://github.com/openset/leetcode/tree/master/solution/sentence-similarity)(Easy)
-  1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/solution/sentence-similarity-ii)(Medium)
+  1. [Number of Connected Components in an Undirected Graph](https://github.com/openset/leetcode/tree/master/solution/number-of-connected-components-in-an-undirected-graph) (Medium)
+  1. [Robot Return to Origin](https://github.com/openset/leetcode/tree/master/solution/robot-return-to-origin) (Easy)
+  1. [Sentence Similarity](https://github.com/openset/leetcode/tree/master/solution/sentence-similarity) (Easy)
+  1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/solution/sentence-similarity-ii) (Medium)

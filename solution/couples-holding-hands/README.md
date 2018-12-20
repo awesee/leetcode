@@ -1,4 +1,4 @@
-## 765. Couples Holding Hands
+## 765. Couples Holding Hands (Hard)
 
 <p>
 N couples sit in 2N seats arranged in a row and want to hold hands.  We want to know the minimum number of swaps so that every couple is sitting side by side.  A <i>swap</i> consists of choosing <b>any</b> two people, then they stand up and switch seats. 
@@ -27,6 +27,6 @@ The couples' initial seating is given by <code>row[i]</code> being the value of 
 </ol>
 
 ### Similar Questions
-  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/solution/first-missing-positive)(Hard)
-  1. [Missing Number](https://github.com/openset/leetcode/tree/master/solution/missing-number)(Easy)
-  1. [K-Similar Strings](https://github.com/openset/leetcode/tree/master/solution/k-similar-strings)(Hard)
+  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/solution/first-missing-positive) (Hard)
+  1. [Missing Number](https://github.com/openset/leetcode/tree/master/solution/missing-number) (Easy)
+  1. [K-Similar Strings](https://github.com/openset/leetcode/tree/master/solution/k-similar-strings) (Hard)

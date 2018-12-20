@@ -1,4 +1,4 @@
-## 903. Valid Permutations for DI Sequence
+## 903. Valid Permutations for DI Sequence (Hard)
 
 <p>We are given <code>S</code>, a length <code>n</code> string of characters from the set <code>{&#39;D&#39;, &#39;I&#39;}</code>. (These letters stand for &quot;decreasing&quot; and &quot;increasing&quot;.)</p>
 

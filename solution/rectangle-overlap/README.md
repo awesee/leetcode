@@ -1,4 +1,4 @@
-## 836. Rectangle Overlap
+## 836. Rectangle Overlap (Easy)
 
 <p>A rectangle is&nbsp;represented as a&nbsp;list <code>[x1, y1, x2, y2]</code>, where&nbsp;<code>(x1, y1)</code>&nbsp;are the coordinates of its bottom-left corner, and <code>(x2,&nbsp;y2)</code>&nbsp;are the coordinates of its top-right corner.</p>
 
@@ -29,4 +29,4 @@
 
 
 ### Similar Questions
-  1. [Rectangle Area](https://github.com/openset/leetcode/tree/master/solution/rectangle-area)(Medium)
+  1. [Rectangle Area](https://github.com/openset/leetcode/tree/master/solution/rectangle-area) (Medium)

@@ -1,4 +1,4 @@
-## 435. Non-overlapping Intervals
+## 435. Non-overlapping Intervals (Medium)
 
 <p>
 Given a collection of intervals, find the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.
@@ -42,4 +42,4 @@ Given a collection of intervals, find the minimum number of intervals you need t
 </p>
 
 ### Similar Questions
-  1. [Minimum Number of Arrows to Burst Balloons](https://github.com/openset/leetcode/tree/master/solution/minimum-number-of-arrows-to-burst-balloons)(Medium)
+  1. [Minimum Number of Arrows to Burst Balloons](https://github.com/openset/leetcode/tree/master/solution/minimum-number-of-arrows-to-burst-balloons) (Medium)

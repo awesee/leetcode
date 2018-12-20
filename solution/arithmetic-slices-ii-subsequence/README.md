@@ -1,4 +1,4 @@
-## 446. Arithmetic Slices II - Subsequence
+## 446. Arithmetic Slices II - Subsequence (Hard)
 
 <p>A sequence of numbers is called arithmetic if it consists of at least three elements and if the difference between any two consecutive elements is the same.</p>
 
@@ -38,4 +38,4 @@ All arithmetic subsequence slices are:
 </p>
 
 ### Similar Questions
-  1. [Arithmetic Slices](https://github.com/openset/leetcode/tree/master/solution/arithmetic-slices)(Medium)
+  1. [Arithmetic Slices](https://github.com/openset/leetcode/tree/master/solution/arithmetic-slices) (Medium)
