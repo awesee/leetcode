@@ -8,6 +8,7 @@ import (
 	"github.com/openset/leetcode/internal/base"
 	"github.com/openset/leetcode/internal/description"
 	"github.com/openset/leetcode/internal/help"
+	"github.com/openset/leetcode/internal/helper"
 	"github.com/openset/leetcode/internal/question"
 	"github.com/openset/leetcode/internal/readme"
 	"github.com/openset/leetcode/internal/test"
@@ -19,9 +20,10 @@ func init() {
 	base.Commands = []*base.Command{
 		readme.CmdReadme,
 		question.CmdQuestion,
+		description.CmdDescription,
 		test.CmdTest,
 		update.CmdUpdate,
-		description.CmdDescription,
+		helper.CmdHelper,
 		version.CmdVersion,
 		help.CmdHelp,
 	}

@@ -2,7 +2,9 @@ package base
 
 import (
 	"fmt"
+	"io/ioutil"
 	"os"
+	"path"
 	"strings"
 )
 
@@ -49,6 +51,21 @@ func Usage() {
 	fmt.Printf(`Use "%s help <command>" for more information about a command.`, CmdName)
 	fmt.Println()
 	Exit()
+}
+
+func FilePutContents(filename string, data []byte) {
+	filename = getFilePath(filename)
+	err := ioutil.WriteFile(filename, data, 0644)
+	CheckErr(err)
+}
+
+func getFilePath(filename string) string {
+	if dir := path.Dir(filename); dir != "" {
+		if err := os.MkdirAll(dir, 0755); err != nil {
+			CheckErr(err)
+		}
+	}
+	return filename
 }
 
 func CheckErr(err error) {
