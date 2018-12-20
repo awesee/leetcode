@@ -1,10 +1,14 @@
 package leetcode
 
 import (
+	"bytes"
+	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"net/http"
+	"path"
 	"strings"
-	"encoding/json"
+	"unicode"
 )
 
 func QuestionData(titleSlug string) (qd QuestionDataType) {
@@ -62,9 +66,68 @@ type codeSnippetsType struct {
 	Code     string `json:"code"`
 }
 
-type SimilarQuestionType struct {
+type similarQuestionType struct {
 	Title           string `json:"title"`
 	TitleSlug       string `json:"titleSlug"`
 	Difficulty      string `json:"difficulty"`
 	TranslatedTitle string `json:"translatedTitle"`
+}
+
+func (question questionType) SaveContent() {
+	fmt.Println(question.QuestionFrontendId, "\t", question.Title, " saving...")
+	if question.Content != "" {
+		filePutContents(question.getFilePath("README.md"), question.getDescContent())
+	}
+}
+
+func (question questionType) getDescContent() []byte {
+	wb := bytes.Buffer{}
+	wb.WriteString(fmt.Sprintf("## %s. %s\n\n", question.QuestionFrontendId, question.Title))
+	wb.WriteString(question.Content)
+	wb.Write(question.getSimilarQuestion())
+	return wb.Bytes()
+}
+
+func (question questionType) getSimilarQuestion() []byte {
+	var sq []similarQuestionType
+	if question.SimilarQuestions != "" {
+		json.Unmarshal([]byte(question.SimilarQuestions), &sq)
+	}
+	var bf bytes.Buffer
+	if len(sq) > 0 {
+		bf.WriteString("\n\n### Similar Questions\n")
+	}
+	format := "  1. [%s](https://github.com/openset/leetcode/tree/master/solution/%s)(%s)\n"
+	for _, q := range sq {
+		bf.WriteString(fmt.Sprintf(format, q.Title, q.TitleSlug, q.Difficulty))
+	}
+	return bf.Bytes()
+}
+
+func (question questionType) getFilePath(filename string) string {
+	return path.Join("solution", question.TitleSlug, filename)
+}
+
+func (question questionType) TitleSnake() string {
+	return strings.Replace(question.TitleSlug, "-", "_", -1)
+}
+
+func (question questionType) PackageName() string {
+	snake := question.TitleSnake()
+	if snake != "" && unicode.IsNumber(rune(snake[0])) {
+		snake = "p_" + snake
+	}
+	return snake
+}
+
+func (question questionType) SaveCodeSnippet() {
+	for _, code := range question.CodeSnippets {
+		if code.LangSlug == "golang" {
+			file := question.getFilePath(question.TitleSnake() + ".go")
+			bf := bytes.Buffer{}
+			bf.WriteString(fmt.Sprintf("package %s\n\n", question.PackageName()))
+			bf.WriteString(code.Code)
+			filePutContents(file, bf.Bytes())
+		}
+	}
 }
