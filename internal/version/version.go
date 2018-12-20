@@ -7,7 +7,7 @@ import (
 	"github.com/openset/leetcode/internal/base"
 )
 
-const version = "0.1.0"
+const version = "1.0.0"
 
 var CmdVersion = &base.Command{
 	Run:       runVersion,
@@ -20,6 +20,5 @@ func runVersion(cmd *base.Command, args []string) {
 	if len(args) != 0 {
 		cmd.Usage()
 	}
-
 	fmt.Printf("%s version %s %s/%s\n", base.CmdName, version, runtime.GOOS, runtime.GOARCH)
 }
