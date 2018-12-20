@@ -51,31 +51,34 @@ func getCachePath(f string) string {
 	if err == nil && u.HomeDir != "" {
 		dir = path.Join(u.HomeDir, ".leetcode")
 	}
-	filename := getFilePath(path.Join(dir, f))
+	return path.Join(dir, f)
+}
+
+func getFilePath(filename string) string {
+	if dir := path.Dir(filename); dir != "" {
+		if err := os.MkdirAll(dir, 0755); err != nil {
+			checkErr(err)
+		}
+	}
 	return filename
 }
 
-func getFilePath(f string) string {
-	dir := path.Dir(f)
-	if dir != "" {
-		err := os.MkdirAll(dir, 0755)
-		checkErr(err)
-	}
-	return f
+func filePutContents(filename string, data []byte) {
+	filename = getFilePath(filename)
+	err = ioutil.WriteFile(filename, data, 0644)
+	checkErr(err)
 }
 
-func filePutContents(filename string, v interface{}) {
+func jsonEncode(v interface{}) []byte {
 	data, err := json.Marshal(v)
 	checkErr(err)
 	dst := bytes.Buffer{}
 	err = json.Indent(&dst, data, "", "\t")
 	checkErr(err)
-	err = ioutil.WriteFile(getCachePath(filename), dst.Bytes(), 0644)
-	checkErr(err)
+	return dst.Bytes()
 }
-
 func saveCookies(cookies []*http.Cookie) {
-	filePutContents(cookiesFile, cookies)
+	filePutContents(getCachePath(cookiesFile), jsonEncode(cookies))
 }
 
 func getCookies() (cookies []*http.Cookie) {
@@ -87,7 +90,7 @@ func getCookies() (cookies []*http.Cookie) {
 }
 
 func saveCredential(data url.Values) {
-	filePutContents(credentialsFile, data)
+	filePutContents(getCachePath(credentialsFile), jsonEncode(data))
 }
 
 func getCredential() (data url.Values) {
