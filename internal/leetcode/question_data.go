@@ -97,8 +97,11 @@ func (question questionType) getSimilarQuestion() []byte {
 	if len(sq) > 0 {
 		bf.WriteString("\n\n### Similar Questions\n")
 	}
-	format := "  1. [%s](https://github.com/openset/leetcode/tree/master/solution/%s)(%s)\n"
+	format := "  1. [%s](https://github.com/openset/leetcode/tree/master/solution/%s)%s\n"
 	for _, q := range sq {
+		if q.Difficulty != "" {
+			q.Difficulty = fmt.Sprintf(" (%s)", q.Difficulty)
+		}
 		bf.WriteString(fmt.Sprintf(format, q.Title, q.TitleSlug, q.Difficulty))
 	}
 	return bf.Bytes()
