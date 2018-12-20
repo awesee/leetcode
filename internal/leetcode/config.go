@@ -11,6 +11,6 @@ const (
 
 const cookiesFile = "cookies.json"
 
-const credentialsFile = "credentials"
+const credentialsFile = "credentials.json"
 
 const problemsAllFile = "problems_all.json"

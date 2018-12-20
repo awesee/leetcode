@@ -1,36 +1,41 @@
 package leetcode
 
 import (
+	"fmt"
 	"net/http"
 	"net/url"
-	"strings"
 )
 
 func AccountsLogin(username, password string) (*http.Response, error) {
 	resp, err := http.Head(AccountsLoginUrl)
 	checkErr(err)
 	defer resp.Body.Close()
-	cookies := resp.Cookies()
-	saveCookies(cookies)
-	csrftoken := getCsrfToken(cookies)
+	saveCookies(resp.Cookies())
+	csrftoken := getCsrfToken(resp.Cookies())
 	data := url.Values{
 		"login":               {username},
 		"password":            {password},
 		"csrfmiddlewaretoken": {csrftoken},
 	}
-	req, err := http.NewRequest("POST", AccountsLoginUrl, strings.NewReader(data.Encode()))
-	checkErr(err)
-	req.Header.Set("Content-Type", "application/x-www-form-urlencoded")
-	req.Header.Set("Referer", AccountsLoginUrl)
-	for _, cookie := range cookies {
-		req.AddCookie(cookie)
-	}
-	resp, err = http.DefaultClient.Do(req)
+	http.PostForm(AccountsLoginUrl, data)
 	checkErr(err)
 	defer resp.Body.Close()
 	saveCookies(resp.Cookies())
 	if resp.StatusCode == 200 {
 		saveCredential(data)
+	} else {
+		fmt.Println("login error: ", resp.Status)
 	}
 	return resp, err
+}
+
+func AutoLogin() (*http.Response, error) {
+	data := getCredential()
+	if data.Get("login") == "" {
+		fmt.Println("can't get username")
+	}
+	if data.Get("password") == "" {
+		fmt.Println("can't get password")
+	}
+	return AccountsLogin(data.Get("login"), data.Get("password"))
 }

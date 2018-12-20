@@ -70,8 +70,7 @@ func ProblemsAll() (pa ProblemsAllType) {
 	dst := bytes.Buffer{}
 	err = json.Indent(&dst, body, "", "\t")
 	checkErr(err)
-	err = ioutil.WriteFile(getPath(problemsAllFile), dst.Bytes(), 0755)
-	checkErr(err)
+	filePutContents(getCachePath(problemsAllFile), dst.Bytes())
 	err = json.Unmarshal(body, &pa)
 	checkErr(err)
 	return
