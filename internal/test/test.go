@@ -18,11 +18,9 @@ func runTest(cmd *base.Command, args []string) {
 	if len(args) != 0 {
 		cmd.Usage()
 	}
-	err := exec.Command("go", "get", "-u", "github.com/openset/leetcode").Run()
-	base.CheckErr(err)
-	c := exec.Command("make", "test")
+	c := exec.Command("go", "test", "./...")
 	c.Stdout = os.Stdout
 	c.Stderr = os.Stderr
-	err = c.Run()
+	err := c.Run()
 	base.CheckErr(err)
 }

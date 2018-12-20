@@ -27,6 +27,7 @@ func runQuestion(cmd *base.Command, args []string) {
 			question := leetcode.QuestionData(titleSlug).Data.Question
 			question.SaveContent()
 			question.SaveCodeSnippet()
+			break
 		}
 	}
 }
