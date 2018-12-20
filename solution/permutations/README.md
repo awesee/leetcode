@@ -1,2 +1,25 @@
 ## 46. Permutations
 
+<p>Given a collection of <strong>distinct</strong> integers, return all possible permutations.</p>
+
+<p><strong>Example:</strong></p>
+
+<pre>
+<strong>Input:</strong> [1,2,3]
+<strong>Output:</strong>
+[
+  [1,2,3],
+  [1,3,2],
+  [2,1,3],
+  [2,3,1],
+  [3,1,2],
+  [3,2,1]
+]
+</pre>
+
+
+### Similar Questions
+  1. [Next Permutation](https://github.com/openset/leetcode/tree/master/solution/next-permutation)(Medium)
+  1. [Permutations II](https://github.com/openset/leetcode/tree/master/solution/permutations-ii)(Medium)
+  1. [Permutation Sequence](https://github.com/openset/leetcode/tree/master/solution/permutation-sequence)(Medium)
+  1. [Combinations](https://github.com/openset/leetcode/tree/master/solution/combinations)(Medium)

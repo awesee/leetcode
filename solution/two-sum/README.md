@@ -1,14 +1,25 @@
 ## 1. Two Sum
 
-Given an array of integers, return `indices` of the two numbers such that they add up to a specific target.
+<p>Given an array of integers, return <strong>indices</strong> of the two numbers such that they add up to a specific target.</p>
 
-You may assume that each input would have `exactly` one solution, and you may not use the same element twice.
+<p>You may assume that each input would have <strong><em>exactly</em></strong> one solution, and you may not use the <em>same</em> element twice.</p>
 
-**Example:**
+<p><strong>Example:</strong></p>
 
-```text
+<pre>
 Given nums = [2, 7, 11, 15], target = 9,
 
-Because nums[0] + nums[1] = 2 + 7 = 9,
-return [0, 1].
-```
+Because nums[<strong>0</strong>] + nums[<strong>1</strong>] = 2 + 7 = 9,
+return [<strong>0</strong>, <strong>1</strong>].
+</pre>
+
+<p>&nbsp;</p>
+
+
+### Similar Questions
+  1. [3Sum](https://github.com/openset/leetcode/tree/master/solution/3sum)(Medium)
+  1. [4Sum](https://github.com/openset/leetcode/tree/master/solution/4sum)(Medium)
+  1. [Two Sum II - Input array is sorted](https://github.com/openset/leetcode/tree/master/solution/two-sum-ii-input-array-is-sorted)(Easy)
+  1. [Two Sum III - Data structure design](https://github.com/openset/leetcode/tree/master/solution/two-sum-iii-data-structure-design)(Easy)
+  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/solution/subarray-sum-equals-k)(Medium)
+  1. [Two Sum IV - Input is a BST](https://github.com/openset/leetcode/tree/master/solution/two-sum-iv-input-is-a-bst)(Easy)

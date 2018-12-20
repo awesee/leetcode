@@ -1,2 +1,39 @@
 ## 98. Validate Binary Search Tree
 
+<p>Given a binary tree, determine if it is a valid binary search tree (BST).</p>
+
+<p>Assume a BST is defined as follows:</p>
+
+<ul>
+	<li>The left subtree of a node contains only nodes with keys <strong>less than</strong> the node&#39;s key.</li>
+	<li>The right subtree of a node contains only nodes with keys <strong>greater than</strong> the node&#39;s key.</li>
+	<li>Both the left and right subtrees must also be binary search trees.</li>
+</ul>
+
+<p><strong>Example 1:</strong></p>
+
+<pre>
+<strong>Input:</strong>
+    2
+   / \
+  1   3
+<strong>Output:</strong> true
+</pre>
+
+<p><strong>Example 2:</strong></p>
+
+<pre>
+    5
+   / \
+  1   4
+&nbsp;    / \
+&nbsp;   3   6
+<strong>Output:</strong> false
+<strong>Explanation:</strong> The input is: [5,1,4,null,null,3,6]. The root node&#39;s value
+&nbsp;            is 5 but its right child&#39;s value is 4.
+</pre>
+
+
+### Similar Questions
+  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal)(Medium)
+  1. [Find Mode in Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/find-mode-in-binary-search-tree)(Easy)

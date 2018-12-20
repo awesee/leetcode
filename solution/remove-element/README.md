@@ -1,46 +1,52 @@
 ## 27. Remove Element
 
-Given an array nums and a value val, remove all instances of that value `in-place` and return the new length.
+<p>Given an array <em>nums</em> and a value <em>val</em>, remove all instances of that value <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> and return the new length.</p>
 
-Do not allocate extra space for another array, you must do this by `modifying the input array` `in-place` with O(1) extra memory.
+<p>Do not allocate extra space for another array, you must do this by <strong>modifying the input array <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank">in-place</a></strong> with O(1) extra memory.</p>
 
-The order of elements can be changed. It doesn't matter what you leave beyond the new length.
+<p>The order of elements can be changed. It doesn&#39;t matter what you leave beyond the new length.</p>
 
-**Example 1:**
-```text
-Given nums = [3,2,2,3], val = 3,
+<p><strong>Example 1:</strong></p>
 
-Your function should return length = 2, with the first two elements of nums being 2.
+<pre>
+Given <em>nums</em> = <strong>[3,2,2,3]</strong>, <em>val</em> = <strong>3</strong>,
 
-It doesn't matter what you leave beyond the returned length.
-```
+Your function should return length = <strong>2</strong>, with the first two elements of <em>nums</em> being <strong>2</strong>.
 
-**Example 2:**
-```text
-Given nums = [0,1,2,2,3,0,4,2], val = 2,
+It doesn&#39;t matter what you leave beyond the returned length.
+</pre>
 
-Your function should return length = 5, with the first five elements of nums containing 0, 1, 3, 0, and 4.
+<p><strong>Example 2:</strong></p>
+
+<pre>
+Given <em>nums</em> = <strong>[0,1,2,2,3,0,4,2]</strong>, <em>val</em> = <strong>2</strong>,
+
+Your function should return length = <strong><code>5</code></strong>, with the first five elements of <em><code>nums</code></em> containing&nbsp;<strong><code>0</code></strong>, <strong><code>1</code></strong>, <strong><code>3</code></strong>, <strong><code>0</code></strong>, and&nbsp;<strong>4</strong>.
 
 Note that the order of those five elements can be arbitrary.
 
-It doesn't matter what values are set beyond the returned length.
-```
+It doesn&#39;t matter what values are set beyond&nbsp;the returned length.</pre>
 
-**Clarification:**
+<p><strong>Clarification:</strong></p>
 
-Confused why the returned value is an integer but your answer is an array?
+<p>Confused why the returned value is an integer but your answer is an array?</p>
 
-Note that the input array is passed in by reference, which means modification to the input array will be known to the caller as well.
+<p>Note that the input array is passed in by <strong>reference</strong>, which means modification to the input array will be known to the caller as well.</p>
 
-Internally you can think of this:
+<p>Internally you can think of this:</p>
 
-```text
-// nums is passed in by reference. (i.e., without making a copy)
+<pre>
+// <strong>nums</strong> is passed in by reference. (i.e., without making a copy)
 int len = removeElement(nums, val);
 
-// any modification to nums in your function would be known by the caller.
-// using the length returned by your function, it prints the first len elements.
-for (int i = 0; i < len; i++) {
-    print(nums[i]);
-}
-```
+// any modification to <strong>nums</strong> in your function would be known by the caller.
+// using the length returned by your function, it prints the first <strong>len</strong> elements.
+for (int i = 0; i &lt; len; i++) {
+&nbsp; &nbsp; print(nums[i]);
+}</pre>
+
+
+### Similar Questions
+  1. [Remove Duplicates from Sorted Array](https://github.com/openset/leetcode/tree/master/solution/remove-duplicates-from-sorted-array)(Easy)
+  1. [Remove Linked List Elements](https://github.com/openset/leetcode/tree/master/solution/remove-linked-list-elements)(Easy)
+  1. [Move Zeroes](https://github.com/openset/leetcode/tree/master/solution/move-zeroes)(Easy)
