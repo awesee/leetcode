@@ -25,15 +25,15 @@ func runReadme(cmd *base.Command, args []string) {
 	if len(args) > 1 {
 		cmd.Usage()
 	}
-	var bf bytes.Buffer
-	bf.WriteString(fmt.Sprintf(format, buildCmd, strings.Repeat(" ", 15-len(buildCmd))))
-	bf.WriteString(base.AuthInfo)
-	bf.WriteString(defaultStr)
-	writeProblems(&bf)
-	base.FilePutContents(fileName, bf.Bytes())
+	var buf bytes.Buffer
+	buf.WriteString(fmt.Sprintf(format, buildCmd, strings.Repeat(" ", 15-len(buildCmd))))
+	buf.WriteString(base.AuthInfo)
+	buf.WriteString(defaultStr)
+	writeProblems(&buf)
+	base.FilePutContents(fileName, buf.Bytes())
 }
 
-func writeProblems(bf *bytes.Buffer) {
+func writeProblems(buf *bytes.Buffer) {
 	problems := leetcode.ProblemsAll()
 	problemsSet := make(map[int]string)
 	maxId := 0
@@ -54,22 +54,22 @@ func writeProblems(bf *bytes.Buffer) {
 	}
 
 	step, long := 50, 300
-	bf.WriteString("<table><thead>\n")
+	buf.WriteString("<table><thead>\n")
 	for i := 0; i < maxId; i += long {
-		bf.WriteString("<tr>\n")
+		buf.WriteString("<tr>\n")
 		for j := 0; j < long/step; j++ {
-			bf.WriteString(fmt.Sprintf("<th align=\"center\"><a href=\"#%d\">[%d-%d]</a></th>\n", 1+i+j*step, 1+i+j*step, i+j*step+step))
+			buf.WriteString(fmt.Sprintf("<th align=\"center\"><a href=\"#%d\">[%d-%d]</a></th>\n", 1+i+j*step, 1+i+j*step, i+j*step+step))
 		}
-		bf.WriteString("</tr>\n")
+		buf.WriteString("</tr>\n")
 	}
-	bf.WriteString("</thead></table>\n")
+	buf.WriteString("</thead></table>\n")
 
-	bf.WriteString("\n")
-	bf.WriteString("| # | Title | Solution | Difficulty |\n")
-	bf.WriteString("| :-: | - | - | :-: |\n")
+	buf.WriteString("\n")
+	buf.WriteString("| # | Title | Solution | Difficulty |\n")
+	buf.WriteString("| :-: | - | - | :-: |\n")
 	for i := 0; i <= maxId; i++ {
 		if row, ok := problemsSet[i]; ok {
-			bf.WriteString(row)
+			buf.WriteString(row)
 		}
 	}
 }
