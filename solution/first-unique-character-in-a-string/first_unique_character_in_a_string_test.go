@@ -7,6 +7,7 @@ func TestFirstUniqChar(t *testing.T) {
 		"leetcode":     0,
 		"loveleetcode": 2,
 		"hello world":  0,
+		"aabbccddeeff": -1,
 	}
 
 	for input, expected := range tests {
