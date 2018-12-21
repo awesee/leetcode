@@ -52,7 +52,7 @@ func writeProblems(buf *bytes.Buffer) {
 			maxId = id
 		}
 	}
-
+	// table
 	step, long := 50, 300
 	buf.WriteString("<table><thead>\n")
 	for i := 0; i < maxId; i += long {
@@ -62,9 +62,8 @@ func writeProblems(buf *bytes.Buffer) {
 		}
 		buf.WriteString("</tr>\n")
 	}
-	buf.WriteString("</thead></table>\n")
-
-	buf.WriteString("\n")
+	buf.WriteString("</thead></table>\n\n")
+	// list
 	buf.WriteString("| # | Title | Solution | Difficulty |\n")
 	buf.WriteString("| :-: | - | - | :-: |\n")
 	for i := 0; i <= maxId; i++ {
