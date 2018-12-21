@@ -1,10 +1,6 @@
 package merge_two_sorted_lists
 
-// Definition for singly-linked list.
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
+import . "github.com/openset/leetcode/solution/000000"
 
 func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 	l := &ListNode{}
