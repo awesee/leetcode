@@ -2,6 +2,8 @@ package merge_two_sorted_lists
 
 import (
 	"testing"
+
+	. "github.com/openset/leetcode/solution/000000"
 )
 
 type caseType struct {
@@ -35,9 +37,9 @@ func TestMergeTwoLists(t *testing.T) {
 	}
 
 	for _, tc := range tests {
-		l1 := s2l(tc.l1)
-		l2 := s2l(tc.l2)
-		output := l2s(mergeTwoLists(l1, l2))
+		l1 := SliceInt2ListNode(tc.l1)
+		l2 := SliceInt2ListNode(tc.l2)
+		output := ListNode2SliceInt(mergeTwoLists(l1, l2))
 		if len(output) != len(tc.expected) {
 			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.l1, tc.l2, output, tc.expected)
 		}
@@ -47,24 +49,4 @@ func TestMergeTwoLists(t *testing.T) {
 			}
 		}
 	}
-}
-
-// convert []int to *ListNode
-func s2l(s []int) *ListNode {
-	l := &ListNode{}
-	t := l
-	for _, v := range s {
-		t.Next = &ListNode{Val: v}
-		t = t.Next
-	}
-	return l.Next
-}
-
-// convert *ListNode to []int
-func l2s(l *ListNode) (s []int) {
-	for l != nil {
-		s = append(s, l.Val)
-		l = l.Next
-	}
-	return
 }

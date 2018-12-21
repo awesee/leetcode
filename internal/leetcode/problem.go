@@ -67,10 +67,10 @@ func ProblemsAll() (pa ProblemsAllType) {
 	defer resp.Body.Close()
 	body, err := ioutil.ReadAll(resp.Body)
 	checkErr(err)
-	dst := bytes.Buffer{}
-	err = json.Indent(&dst, body, "", "\t")
+	var buf bytes.Buffer
+	err = json.Indent(&buf, body, "", "\t")
 	checkErr(err)
-	filePutContents(getCachePath(problemsAllFile), dst.Bytes())
+	filePutContents(getCachePath(problemsAllFile), buf.Bytes())
 	err = json.Unmarshal(body, &pa)
 	checkErr(err)
 	return

@@ -63,10 +63,10 @@ func filePutContents(filename string, data []byte) {
 func jsonEncode(v interface{}) []byte {
 	data, err := json.Marshal(v)
 	checkErr(err)
-	dst := bytes.Buffer{}
-	err = json.Indent(&dst, data, "", "\t")
+	var buf bytes.Buffer
+	err = json.Indent(&buf, data, "", "\t")
 	checkErr(err)
-	return dst.Bytes()
+	return buf.Bytes()
 }
 func saveCookies(cookies []*http.Cookie) {
 	filePutContents(getCachePath(cookiesFile), jsonEncode(cookies))
