@@ -11,9 +11,13 @@ import (
 	"os"
 	"os/user"
 	"path"
+
+	"github.com/openset/leetcode/internal/base"
 )
 
 var err error
+
+const authInfo = base.AuthInfo
 
 func init() {
 	http.DefaultClient.Jar, err = cookiejar.New(nil)
@@ -52,19 +56,8 @@ func getCachePath(f string) string {
 	return path.Join(dir, f)
 }
 
-func getFilePath(filename string) string {
-	if dir := path.Dir(filename); dir != "" {
-		if err := os.MkdirAll(dir, 0755); err != nil {
-			checkErr(err)
-		}
-	}
-	return filename
-}
-
 func filePutContents(filename string, data []byte) {
-	filename = getFilePath(filename)
-	err = ioutil.WriteFile(filename, data, 0644)
-	checkErr(err)
+	base.FilePutContents(filename, data)
 }
 
 func jsonEncode(v interface{}) []byte {

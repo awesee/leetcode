@@ -77,3 +77,11 @@ func CheckErr(err error) {
 func Exit() {
 	os.Exit(0)
 }
+
+const AuthInfo = `
+<!--+----------------------------------------------------------------------+-->
+<!--|@author    Openset <openset.wang@gmail.com>                           |-->
+<!--|@link      https://github.com/openset                                 |-->
+<!--|@home      https://github.com/openset/leetcode                        |-->
+<!--+----------------------------------------------------------------------+-->
+`
