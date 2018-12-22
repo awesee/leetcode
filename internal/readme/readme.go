@@ -46,8 +46,9 @@ func writeProblems(buf *bytes.Buffer) {
 		}
 		slug := problem.Stat.QuestionTitleSlug
 		levelName := problem.Difficulty.LevelName()
-		format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s)%s | [Go](https://github.com/openset/leetcode/tree/master/solution/%s) | %s |\n"
-		problemsSet[id] = fmt.Sprintf(format, id, id, title, slug, needPaid, slug, levelName)
+		lang := getLangById(id)
+		format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s)%s | [%s](https://github.com/openset/leetcode/tree/master/solution/%s) | %s |\n"
+		problemsSet[id] = fmt.Sprintf(format, id, id, title, slug, needPaid, lang, slug, levelName)
 		if id > maxId {
 			maxId = id
 		}
@@ -71,6 +72,17 @@ func writeProblems(buf *bytes.Buffer) {
 			buf.WriteString(row)
 		}
 	}
+}
+
+// getLangById handle the question that not support go
+func getLangById(id int) string {
+	langSet := map[int]string{
+		195: "Bash",
+	}
+	if lang, ok := langSet[id]; ok {
+		return lang
+	}
+	return "Go"
 }
 
 var buildCmd = "readme"
