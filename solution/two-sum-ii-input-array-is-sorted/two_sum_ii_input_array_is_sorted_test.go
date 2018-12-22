@@ -1,6 +1,9 @@
 package two_sum_ii_input_array_is_sorted
 
-import "testing"
+import (
+	"reflect"
+	"testing"
+)
 
 type caseType struct {
 	nums     []int
@@ -34,13 +37,8 @@ func TestTwoSum(t *testing.T) {
 
 	for _, tc := range tests {
 		output := twoSum(tc.nums, tc.target)
-		if len(output) != len(tc.expected) {
+		if !reflect.DeepEqual(output, tc.expected) {
 			t.Fatalf("input: %v, output: %v, expected: %v", tc.nums, output, tc.expected)
-		}
-		for k, v := range tc.expected {
-			if output[k] != v {
-				t.Fatalf("input: %v, output: %v, expected: %v", tc.nums, output, tc.expected)
-			}
 		}
 	}
 }

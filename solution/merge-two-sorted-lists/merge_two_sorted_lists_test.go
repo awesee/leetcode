@@ -1,6 +1,7 @@
 package merge_two_sorted_lists
 
 import (
+	"reflect"
 	"testing"
 
 	. "github.com/openset/leetcode/solution/000000"
@@ -40,13 +41,8 @@ func TestMergeTwoLists(t *testing.T) {
 		l1 := SliceInt2ListNode(tc.l1)
 		l2 := SliceInt2ListNode(tc.l2)
 		output := ListNode2SliceInt(mergeTwoLists(l1, l2))
-		if len(output) != len(tc.expected) {
+		if !reflect.DeepEqual(output, tc.expected) {
 			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.l1, tc.l2, output, tc.expected)
-		}
-		for k, v := range tc.expected {
-			if output[k] != v {
-				t.Fatalf("input: %v %v, output: %v, expected: %v", tc.l1, tc.l2, output, tc.expected)
-			}
 		}
 	}
 }

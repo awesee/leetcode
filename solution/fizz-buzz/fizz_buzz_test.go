@@ -1,6 +1,9 @@
 package fizz_buzz
 
-import "testing"
+import (
+	"reflect"
+	"testing"
+)
 
 type caseType struct {
 	input    int
@@ -58,13 +61,8 @@ func TestFizzBuzz(t *testing.T) {
 
 	for _, tc := range tests {
 		output := fizzBuzz(tc.input)
-		if len(output) != len(tc.expected) {
+		if !reflect.DeepEqual(output, tc.expected) {
 			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
-		}
-		for k, v := range tc.expected {
-			if output[k] != v {
-				t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
-			}
 		}
 	}
 }

@@ -1,6 +1,7 @@
 package remove_element
 
 import (
+	"reflect"
 	"testing"
 )
 
@@ -33,9 +34,9 @@ func TestRemoveElement(t *testing.T) {
 			expected: []int{1, 2, 2, 3, 3, 3},
 		},
 		{
-			input:    nil,
+			input:    []int{},
 			val:      1,
-			expected: nil,
+			expected: []int{},
 		},
 	}
 
@@ -44,13 +45,8 @@ func TestRemoveElement(t *testing.T) {
 		copy(nums, tc.input)
 		l := removeElement(nums, tc.val)
 		output := nums[:l]
-		if l != len(tc.expected) {
+		if !reflect.DeepEqual(output, tc.expected) {
 			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
-		}
-		for k, v := range tc.expected {
-			if output[k] != v {
-				t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
-			}
 		}
 	}
 }
