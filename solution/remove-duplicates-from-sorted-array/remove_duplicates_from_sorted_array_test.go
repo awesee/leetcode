@@ -1,6 +1,7 @@
 package remove_duplicates_from_sorted_array
 
 import (
+	"reflect"
 	"testing"
 )
 
@@ -28,8 +29,8 @@ func TestRemoveDuplicates(t *testing.T) {
 			expected: []int{1, 2, 3, 4},
 		},
 		{
-			input:    nil,
-			expected: nil,
+			input:    []int{},
+			expected: []int{},
 		},
 	}
 
@@ -38,13 +39,8 @@ func TestRemoveDuplicates(t *testing.T) {
 		copy(nums, tc.input)
 		l := removeDuplicates(nums)
 		output := nums[:l]
-		if l != len(tc.expected) {
+		if !reflect.DeepEqual(output, tc.expected) {
 			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
-		}
-		for k, v := range tc.expected {
-			if output[k] != v {
-				t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
-			}
 		}
 	}
 }
