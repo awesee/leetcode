@@ -26,6 +26,11 @@ func TestIsAnagram(t *testing.T) {
 			expected: false,
 		},
 		{
+			s:        "this is string",
+			t:        "this as string",
+			expected: false,
+		},
+		{
 			s:        "你好，世界",
 			t:        "世界，你好",
 			expected: true,
