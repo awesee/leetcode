@@ -246,7 +246,7 @@ LeetCode Problems' Solutions
 | <span id="192">192</span> | [Word Frequency](https://leetcode.com/problems/word-frequency) | [Go](https://github.com/openset/leetcode/tree/master/solution/word-frequency) | Medium |
 | <span id="193">193</span> | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Go](https://github.com/openset/leetcode/tree/master/solution/valid-phone-numbers) | Easy |
 | <span id="194">194</span> | [Transpose File](https://leetcode.com/problems/transpose-file) | [Go](https://github.com/openset/leetcode/tree/master/solution/transpose-file) | Medium |
-| <span id="195">195</span> | [Tenth Line](https://leetcode.com/problems/tenth-line) | [Go](https://github.com/openset/leetcode/tree/master/solution/tenth-line) | Easy |
+| <span id="195">195</span> | [Tenth Line](https://leetcode.com/problems/tenth-line) | [Bash](https://github.com/openset/leetcode/tree/master/solution/tenth-line) | Easy |
 | <span id="196">196</span> | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [Go](https://github.com/openset/leetcode/tree/master/solution/delete-duplicate-emails) | Easy |
 | <span id="197">197</span> | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | [Go](https://github.com/openset/leetcode/tree/master/solution/rising-temperature) | Easy |
 | <span id="198">198</span> | [House Robber](https://leetcode.com/problems/house-robber) | [Go](https://github.com/openset/leetcode/tree/master/solution/house-robber) | Easy |
