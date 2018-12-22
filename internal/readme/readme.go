@@ -46,9 +46,8 @@ func writeProblems(buf *bytes.Buffer) {
 		}
 		slug := problem.Stat.QuestionTitleSlug
 		levelName := problem.Difficulty.LevelName()
-		lang := getLangById(id)
 		format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s)%s | [%s](https://github.com/openset/leetcode/tree/master/solution/%s) | %s |\n"
-		problemsSet[id] = fmt.Sprintf(format, id, id, title, slug, needPaid, lang, slug, levelName)
+		problemsSet[id] = fmt.Sprintf(format, id, id, title, slug, needPaid, getLangById(id), slug, levelName)
 		if id > maxId {
 			maxId = id
 		}
