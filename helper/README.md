@@ -15,12 +15,13 @@ Usage:
 The commands are:
 	readme      	build README.md file
 	page        	build index.md file
+	helper      	build helper file
 	question    	build problem description file
 	open        	open a problem solution in browser
-	description 	build all problems description file
 	test        	run go test
+	description 	build all problems description file
 	update      	update self
-	helper      	build helper file
+	clean       	clean cache file
 	version     	print leetcode version
 	help        	show command usage
 
