@@ -1,0 +1,43 @@
+package client
+
+import (
+	"errors"
+	"io/ioutil"
+	"net/http"
+	"net/http/cookiejar"
+	"strings"
+
+	"github.com/openset/leetcode/internal/base"
+)
+
+var err error
+
+func init() {
+	http.DefaultClient.Jar, err = cookiejar.New(nil)
+	base.CheckErr(err)
+	http.DefaultClient.CheckRedirect = func(req *http.Request, via []*http.Request) error {
+		req.Header.Set("Referer", req.URL.String())
+		if len(via) >= 3 {
+			return errors.New("stopped after 3 redirects")
+		}
+		return nil
+	}
+}
+
+func Get(url string) []byte {
+	resp, err := http.Get(url)
+	base.CheckErr(err)
+	defer resp.Body.Close()
+	body, err := ioutil.ReadAll(resp.Body)
+	base.CheckErr(err)
+	return body
+}
+
+func PostJson(url, jsonStr string) []byte {
+	resp, err := http.Post(url, "application/json", strings.NewReader(jsonStr))
+	base.CheckErr(err)
+	defer resp.Body.Close()
+	body, err := ioutil.ReadAll(resp.Body)
+	base.CheckErr(err)
+	return body
+}
