@@ -1,2 +1,0 @@
-package closest_leaf_in_a_binary_tree
-

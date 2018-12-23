@@ -1,2 +1,0 @@
-package nim_game
-

@@ -1,2 +1,0 @@
-package sum_of_square_numbers
-

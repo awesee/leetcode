@@ -1,2 +1,0 @@
-package department_top_three_salaries
-

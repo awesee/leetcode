@@ -1,2 +1,0 @@
-package falling_squares
-

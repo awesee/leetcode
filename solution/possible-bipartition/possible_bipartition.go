@@ -1,2 +1,0 @@
-package possible_bipartition
-

@@ -1,2 +1,0 @@
-package odd_even_linked_list
-

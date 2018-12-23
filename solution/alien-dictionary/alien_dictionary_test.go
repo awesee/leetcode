@@ -1,2 +1,0 @@
-package alien_dictionary
-

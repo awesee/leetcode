@@ -1,2 +1,0 @@
-package additive_number
-

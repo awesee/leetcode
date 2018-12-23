@@ -1,2 +1,0 @@
-package asteroid_collision
-

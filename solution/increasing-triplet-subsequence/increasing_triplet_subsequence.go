@@ -1,2 +1,0 @@
-package increasing_triplet_subsequence
-

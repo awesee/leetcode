@@ -1,2 +1,0 @@
-package sliding_puzzle
-

@@ -1,2 +1,0 @@
-package groups_of_special_equivalent_strings
-

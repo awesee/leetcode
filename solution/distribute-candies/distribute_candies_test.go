@@ -1,2 +1,0 @@
-package distribute_candies
-

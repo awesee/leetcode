@@ -1,2 +1,0 @@
-package flip_game
-

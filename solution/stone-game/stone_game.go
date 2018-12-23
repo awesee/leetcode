@@ -1,2 +1,0 @@
-package stone_game
-

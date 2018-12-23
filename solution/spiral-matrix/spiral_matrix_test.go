@@ -1,2 +1,0 @@
-package spiral_matrix
-

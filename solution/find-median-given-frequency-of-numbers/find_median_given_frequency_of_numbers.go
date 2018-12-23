@@ -1,2 +1,0 @@
-package find_median_given_frequency_of_numbers
-

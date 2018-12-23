@@ -99,7 +99,7 @@ func (question questionType) getSimilarQuestion() []byte {
 	if len(sq) > 0 {
 		buf.WriteString("\n\n### Similar Questions\n")
 	}
-	format := "  1. [%s](https://github.com/openset/leetcode/tree/master/solution/%s)%s\n"
+	format := "  1. [%s](https://github.com/openset/leetcode/tree/master/problems/%s)%s\n"
 	for _, q := range sq {
 		if q.Difficulty != "" {
 			q.Difficulty = fmt.Sprintf(" (%s)", q.Difficulty)
@@ -110,7 +110,7 @@ func (question questionType) getSimilarQuestion() []byte {
 }
 
 func (question questionType) getFilePath(filename string) string {
-	return path.Join("solution", question.TitleSlug, filename)
+	return path.Join("problems", question.TitleSlug, filename)
 }
 
 func (question questionType) TitleSnake() string {

@@ -1,2 +1,0 @@
-package triangle_judgement
-

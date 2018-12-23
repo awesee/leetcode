@@ -1,2 +1,0 @@
-package construct_string_from_binary_tree
-

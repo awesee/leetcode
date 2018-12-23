@@ -1,2 +1,0 @@
-package freedom_trail
-

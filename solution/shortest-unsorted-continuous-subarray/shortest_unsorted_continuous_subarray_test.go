@@ -1,2 +1,0 @@
-package shortest_unsorted_continuous_subarray
-

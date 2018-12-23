@@ -1,2 +1,0 @@
-package similar_string_groups
-

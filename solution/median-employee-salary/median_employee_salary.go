@@ -1,2 +1,0 @@
-package median_employee_salary
-

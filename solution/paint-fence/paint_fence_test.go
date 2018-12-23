@@ -1,2 +1,0 @@
-package paint_fence
-

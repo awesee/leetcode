@@ -1,2 +1,0 @@
-package prime_palindrome
-

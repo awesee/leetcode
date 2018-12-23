@@ -1,2 +1,0 @@
-package equal_tree_partition
-

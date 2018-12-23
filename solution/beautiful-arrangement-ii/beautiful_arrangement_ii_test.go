@@ -1,2 +1,0 @@
-package beautiful_arrangement_ii
-

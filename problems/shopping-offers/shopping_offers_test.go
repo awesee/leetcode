@@ -1,0 +1,1 @@
+package shopping_offers

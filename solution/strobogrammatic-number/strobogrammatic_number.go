@@ -1,2 +1,0 @@
-package strobogrammatic_number
-

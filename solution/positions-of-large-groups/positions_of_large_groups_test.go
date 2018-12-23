@@ -1,2 +1,0 @@
-package positions_of_large_groups
-

@@ -1,2 +1,0 @@
-package daily_temperatures
-

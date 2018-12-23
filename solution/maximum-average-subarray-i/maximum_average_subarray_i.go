@@ -1,2 +1,0 @@
-package maximum_average_subarray_i
-

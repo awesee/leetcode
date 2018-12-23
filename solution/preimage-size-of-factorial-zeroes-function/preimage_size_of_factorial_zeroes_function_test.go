@@ -1,2 +1,0 @@
-package preimage_size_of_factorial_zeroes_function
-

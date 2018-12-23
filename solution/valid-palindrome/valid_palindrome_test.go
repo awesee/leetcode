@@ -1,2 +1,0 @@
-package valid_palindrome
-

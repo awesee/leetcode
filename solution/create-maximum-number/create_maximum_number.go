@@ -1,2 +1,0 @@
-package create_maximum_number
-

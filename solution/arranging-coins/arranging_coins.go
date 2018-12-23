@@ -1,2 +1,0 @@
-package arranging_coins
-

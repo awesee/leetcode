@@ -1,2 +1,0 @@
-package average_salary_departments_vs_company
-

@@ -1,2 +1,0 @@
-package shortest_distance_from_all_buildings
-

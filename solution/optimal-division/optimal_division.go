@@ -1,2 +1,0 @@
-package optimal_division
-

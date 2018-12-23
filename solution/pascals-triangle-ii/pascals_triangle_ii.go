@@ -1,2 +1,0 @@
-package pascals_triangle_ii
-

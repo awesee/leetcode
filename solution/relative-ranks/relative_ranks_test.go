@@ -1,2 +1,0 @@
-package relative_ranks
-

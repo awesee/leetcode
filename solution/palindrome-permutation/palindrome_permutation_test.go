@@ -1,2 +1,0 @@
-package palindrome_permutation
-

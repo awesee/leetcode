@@ -1,2 +1,0 @@
-package isomorphic_strings
-

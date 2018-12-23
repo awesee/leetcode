@@ -1,2 +1,0 @@
-package coin_path
-

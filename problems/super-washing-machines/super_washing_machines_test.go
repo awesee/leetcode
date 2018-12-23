@@ -1,0 +1,1 @@
+package super_washing_machines

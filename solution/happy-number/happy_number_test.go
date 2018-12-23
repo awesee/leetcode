@@ -1,2 +1,0 @@
-package happy_number
-

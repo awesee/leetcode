@@ -1,2 +1,0 @@
-package self_crossing
-

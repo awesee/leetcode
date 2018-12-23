@@ -1,2 +1,0 @@
-package strong_password_checker
-

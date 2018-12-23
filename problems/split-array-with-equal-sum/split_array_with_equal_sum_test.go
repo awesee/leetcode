@@ -1,0 +1,1 @@
+package split_array_with_equal_sum

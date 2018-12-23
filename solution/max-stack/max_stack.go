@@ -1,2 +1,0 @@
-package max_stack
-
