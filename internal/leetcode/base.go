@@ -3,32 +3,45 @@ package leetcode
 import (
 	"bytes"
 	"encoding/json"
-	"errors"
 	"io/ioutil"
 	"net/http"
-	"net/http/cookiejar"
 	"net/url"
 	"os"
 	"os/user"
 	"path"
+	"time"
 
 	"github.com/openset/leetcode/internal/base"
+	"github.com/openset/leetcode/internal/client"
 )
 
 var err error
 
 const authInfo = base.AuthInfo
 
-func init() {
-	http.DefaultClient.Jar, err = cookiejar.New(nil)
+func graphQLRequest(filename, jsonStr string, v interface{}) {
+	data := remember(filename, func() []byte {
+		return client.PostJson(graphqlUrl, jsonStr)
+	})
+	err = json.Unmarshal(data, &v)
 	checkErr(err)
-	http.DefaultClient.CheckRedirect = func(req *http.Request, via []*http.Request) error {
-		req.Header.Set("Referer", req.URL.String())
-		if len(via) >= 3 {
-			return errors.New("stopped after 3 redirects")
+	return
+}
+
+func remember(filename string, f func() []byte) []byte {
+	filename = getCachePath(filename)
+	if fi, err := os.Stat(filename); err == nil {
+		u := time.Now().AddDate(0, 0, -1)
+		if fi.ModTime().After(u) {
+			return fileGetContents(filename)
 		}
-		return nil
 	}
+	data := f()
+	var buf bytes.Buffer
+	err = json.Indent(&buf, data, "", "\t")
+	checkErr(err)
+	filePutContents(filename, buf.Bytes())
+	return data
 }
 
 func checkErr(err error) {
@@ -60,6 +73,12 @@ func filePutContents(filename string, data []byte) {
 	base.FilePutContents(filename, data)
 }
 
+func fileGetContents(filename string) []byte {
+	data, err := ioutil.ReadFile(filename)
+	checkErr(err)
+	return data
+}
+
 func jsonEncode(v interface{}) []byte {
 	data, err := json.Marshal(v)
 	checkErr(err)
@@ -68,15 +87,19 @@ func jsonEncode(v interface{}) []byte {
 	checkErr(err)
 	return buf.Bytes()
 }
+
+func jsonDecode(data []byte, v interface{}) {
+	err = json.Unmarshal(data, v)
+	checkErr(err)
+}
+
 func saveCookies(cookies []*http.Cookie) {
 	filePutContents(getCachePath(cookiesFile), jsonEncode(cookies))
 }
 
 func getCookies() (cookies []*http.Cookie) {
-	b, err := ioutil.ReadFile(getCachePath(cookiesFile))
-	checkErr(err)
-	err = json.Unmarshal(b, &cookies)
-	checkErr(err)
+	data := fileGetContents(getCachePath(cookiesFile))
+	jsonDecode(data, &cookies)
 	return
 }
 
@@ -85,9 +108,7 @@ func saveCredential(data url.Values) {
 }
 
 func getCredential() (data url.Values) {
-	b, err := ioutil.ReadFile(getCachePath(credentialsFile))
-	checkErr(err)
-	err = json.Unmarshal(b, &data)
-	checkErr(err)
+	body := fileGetContents(getCachePath(credentialsFile))
+	jsonDecode(body, &data)
 	return
 }

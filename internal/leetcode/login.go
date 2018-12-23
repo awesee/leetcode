@@ -7,7 +7,7 @@ import (
 )
 
 func AccountsLogin(username, password string) (*http.Response, error) {
-	resp, err := http.Head(AccountsLoginUrl)
+	resp, err := http.Head(accountsLoginUrl)
 	checkErr(err)
 	defer resp.Body.Close()
 	saveCookies(resp.Cookies())
@@ -17,7 +17,7 @@ func AccountsLogin(username, password string) (*http.Response, error) {
 		"password":            {password},
 		"csrfmiddlewaretoken": {csrftoken},
 	}
-	http.PostForm(AccountsLoginUrl, data)
+	http.PostForm(accountsLoginUrl, data)
 	checkErr(err)
 	defer resp.Body.Close()
 	saveCookies(resp.Cookies())
