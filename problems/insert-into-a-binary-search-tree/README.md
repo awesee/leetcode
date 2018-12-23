@@ -47,4 +47,4 @@ And the value to insert: 5
 
 
 ### Similar Questions
-  1. [Search in a Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/search-in-a-binary-search-tree) (Easy)
+  1. [Search in a Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/search-in-a-binary-search-tree) (Easy)

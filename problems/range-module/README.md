@@ -36,6 +36,6 @@
 </p>
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/solution/merge-intervals) (Medium)
-  1. [Insert Interval](https://github.com/openset/leetcode/tree/master/solution/insert-interval) (Hard)
-  1. [Data Stream as Disjoint Intervals](https://github.com/openset/leetcode/tree/master/solution/data-stream-as-disjoint-intervals) (Hard)
+  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
+  1. [Insert Interval](https://github.com/openset/leetcode/tree/master/problems/insert-interval) (Hard)
+  1. [Data Stream as Disjoint Intervals](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals) (Hard)

@@ -43,5 +43,5 @@ The substring with start index = 2 is "ab", which is an anagram of "ab".
 </p>
 
 ### Similar Questions
-  1. [Valid Anagram](https://github.com/openset/leetcode/tree/master/solution/valid-anagram) (Easy)
-  1. [Permutation in String](https://github.com/openset/leetcode/tree/master/solution/permutation-in-string) (Medium)
+  1. [Valid Anagram](https://github.com/openset/leetcode/tree/master/problems/valid-anagram) (Easy)
+  1. [Permutation in String](https://github.com/openset/leetcode/tree/master/problems/permutation-in-string) (Medium)

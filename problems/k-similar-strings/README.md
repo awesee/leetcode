@@ -53,4 +53,4 @@
 
 
 ### Similar Questions
-  1. [Couples Holding Hands](https://github.com/openset/leetcode/tree/master/solution/couples-holding-hands) (Hard)
+  1. [Couples Holding Hands](https://github.com/openset/leetcode/tree/master/problems/couples-holding-hands) (Hard)

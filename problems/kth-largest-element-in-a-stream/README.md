@@ -29,4 +29,4 @@ You may assume that&nbsp;<code>nums</code>&#39; length&nbsp;&ge;&nbsp;<code>k-1<
 
 
 ### Similar Questions
-  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/solution/kth-largest-element-in-an-array) (Medium)
+  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array) (Medium)

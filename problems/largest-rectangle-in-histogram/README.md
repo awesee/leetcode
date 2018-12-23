@@ -30,4 +30,4 @@
 
 
 ### Similar Questions
-  1. [Maximal Rectangle](https://github.com/openset/leetcode/tree/master/solution/maximal-rectangle) (Hard)
+  1. [Maximal Rectangle](https://github.com/openset/leetcode/tree/master/problems/maximal-rectangle) (Hard)

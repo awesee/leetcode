@@ -53,6 +53,6 @@
 
 
 ### Similar Questions
-  1. [Unique Paths](https://github.com/openset/leetcode/tree/master/solution/unique-paths) (Medium)
-  1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/solution/minimum-path-sum) (Medium)
-  1. [Cherry Pickup](https://github.com/openset/leetcode/tree/master/solution/cherry-pickup) (Hard)
+  1. [Unique Paths](https://github.com/openset/leetcode/tree/master/problems/unique-paths) (Medium)
+  1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-path-sum) (Medium)
+  1. [Cherry Pickup](https://github.com/openset/leetcode/tree/master/problems/cherry-pickup) (Hard)

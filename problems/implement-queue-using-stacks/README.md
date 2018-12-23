@@ -37,4 +37,4 @@ queue.empty(); // returns false</pre>
 
 
 ### Similar Questions
-  1. [Implement Stack using Queues](https://github.com/openset/leetcode/tree/master/solution/implement-stack-using-queues) (Easy)
+  1. [Implement Stack using Queues](https://github.com/openset/leetcode/tree/master/problems/implement-stack-using-queues) (Easy)

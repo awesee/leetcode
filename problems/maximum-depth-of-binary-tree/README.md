@@ -28,6 +28,6 @@
 
 
 ### Similar Questions
-  1. [Balanced Binary Tree](https://github.com/openset/leetcode/tree/master/solution/balanced-binary-tree) (Easy)
-  1. [Minimum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/solution/minimum-depth-of-binary-tree) (Easy)
-  1. [Maximum Depth of N-ary Tree](https://github.com/openset/leetcode/tree/master/solution/maximum-depth-of-n-ary-tree) (Easy)
+  1. [Balanced Binary Tree](https://github.com/openset/leetcode/tree/master/problems/balanced-binary-tree) (Easy)
+  1. [Minimum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/problems/minimum-depth-of-binary-tree) (Easy)
+  1. [Maximum Depth of N-ary Tree](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-n-ary-tree) (Easy)

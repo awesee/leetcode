@@ -33,5 +33,5 @@
 
 
 ### Similar Questions
-  1. [Max Area of Island](https://github.com/openset/leetcode/tree/master/solution/max-area-of-island) (Medium)
-  1. [Flood Fill](https://github.com/openset/leetcode/tree/master/solution/flood-fill) (Easy)
+  1. [Max Area of Island](https://github.com/openset/leetcode/tree/master/problems/max-area-of-island) (Medium)
+  1. [Flood Fill](https://github.com/openset/leetcode/tree/master/problems/flood-fill) (Easy)

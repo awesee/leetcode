@@ -27,5 +27,5 @@ Only two moves are needed (remember each move increments or decrements one eleme
 </p></p>
 
 ### Similar Questions
-  1. [Best Meeting Point](https://github.com/openset/leetcode/tree/master/solution/best-meeting-point) (Hard)
-  1. [Minimum Moves to Equal Array Elements](https://github.com/openset/leetcode/tree/master/solution/minimum-moves-to-equal-array-elements) (Easy)
+  1. [Best Meeting Point](https://github.com/openset/leetcode/tree/master/problems/best-meeting-point) (Hard)
+  1. [Minimum Moves to Equal Array Elements](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements) (Easy)

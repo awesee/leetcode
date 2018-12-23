@@ -35,5 +35,5 @@ X O X X
 
 
 ### Similar Questions
-  1. [Number of Islands](https://github.com/openset/leetcode/tree/master/solution/number-of-islands) (Medium)
-  1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/solution/walls-and-gates) (Medium)
+  1. [Number of Islands](https://github.com/openset/leetcode/tree/master/problems/number-of-islands) (Medium)
+  1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/problems/walls-and-gates) (Medium)

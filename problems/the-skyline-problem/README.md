@@ -29,4 +29,4 @@
 
 
 ### Similar Questions
-  1. [Falling Squares](https://github.com/openset/leetcode/tree/master/solution/falling-squares) (Hard)
+  1. [Falling Squares](https://github.com/openset/leetcode/tree/master/problems/falling-squares) (Hard)

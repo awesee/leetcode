@@ -54,5 +54,5 @@ The input has been split into consecutive parts with size difference at most 1, 
 </p>
 
 ### Similar Questions
-  1. [Rotate List](https://github.com/openset/leetcode/tree/master/solution/rotate-list) (Medium)
-  1. [Odd Even Linked List](https://github.com/openset/leetcode/tree/master/solution/odd-even-linked-list) (Medium)
+  1. [Rotate List](https://github.com/openset/leetcode/tree/master/problems/rotate-list) (Medium)
+  1. [Odd Even Linked List](https://github.com/openset/leetcode/tree/master/problems/odd-even-linked-list) (Medium)

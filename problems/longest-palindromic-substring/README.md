@@ -26,8 +26,8 @@
 
 
 ### Similar Questions
-  1. [Shortest Palindrome](https://github.com/openset/leetcode/tree/master/solution/shortest-palindrome) (Hard)
-  1. [Palindrome Permutation](https://github.com/openset/leetcode/tree/master/solution/palindrome-permutation) (Easy)
-  1. [Palindrome Pairs](https://github.com/openset/leetcode/tree/master/solution/palindrome-pairs) (Hard)
-  1. [Longest Palindromic Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-subsequence) (Medium)
-  1. [Palindromic Substrings](https://github.com/openset/leetcode/tree/master/solution/palindromic-substrings) (Medium)
+  1. [Shortest Palindrome](https://github.com/openset/leetcode/tree/master/problems/shortest-palindrome) (Hard)
+  1. [Palindrome Permutation](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation) (Easy)
+  1. [Palindrome Pairs](https://github.com/openset/leetcode/tree/master/problems/palindrome-pairs) (Hard)
+  1. [Longest Palindromic Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-subsequence) (Medium)
+  1. [Palindromic Substrings](https://github.com/openset/leetcode/tree/master/problems/palindromic-substrings) (Medium)

@@ -42,5 +42,5 @@
 
 
 ### Similar Questions
-  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/solution/encode-and-decode-strings) (Medium)
-  1. [String Compression](https://github.com/openset/leetcode/tree/master/solution/string-compression) (Easy)
+  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings) (Medium)
+  1. [String Compression](https://github.com/openset/leetcode/tree/master/problems/string-compression) (Easy)

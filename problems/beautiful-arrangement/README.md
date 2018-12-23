@@ -40,4 +40,4 @@ Now given N, how many beautiful arrangements can you construct?
 </p>
 
 ### Similar Questions
-  1. [Beautiful Arrangement II](https://github.com/openset/leetcode/tree/master/solution/beautiful-arrangement-ii) (Medium)
+  1. [Beautiful Arrangement II](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement-ii) (Medium)

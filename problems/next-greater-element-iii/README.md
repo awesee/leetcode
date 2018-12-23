@@ -29,5 +29,5 @@
 
 
 ### Similar Questions
-  1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-i) (Easy)
-  1. [Next Greater Element II](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-ii) (Medium)
+  1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-i) (Easy)
+  1. [Next Greater Element II](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-ii) (Medium)

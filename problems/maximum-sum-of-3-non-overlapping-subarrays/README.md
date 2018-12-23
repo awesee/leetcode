@@ -32,4 +32,4 @@ We could have also taken [2, 1], but an answer of [1, 3, 5] would be lexicograph
 </p>
 
 ### Similar Questions
-  1. [Best Time to Buy and Sell Stock III](https://github.com/openset/leetcode/tree/master/solution/best-time-to-buy-and-sell-stock-iii) (Hard)
+  1. [Best Time to Buy and Sell Stock III](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iii) (Hard)

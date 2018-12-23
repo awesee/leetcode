@@ -36,4 +36,4 @@
 
 
 ### Similar Questions
-  1. [Rectangle Area](https://github.com/openset/leetcode/tree/master/solution/rectangle-area) (Medium)
+  1. [Rectangle Area](https://github.com/openset/leetcode/tree/master/problems/rectangle-area) (Medium)

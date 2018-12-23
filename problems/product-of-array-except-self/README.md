@@ -23,6 +23,6 @@ Could you solve it with constant space complexity? (The output array <strong>doe
 
 
 ### Similar Questions
-  1. [Trapping Rain Water](https://github.com/openset/leetcode/tree/master/solution/trapping-rain-water) (Hard)
-  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-product-subarray) (Medium)
-  1. [Paint House II](https://github.com/openset/leetcode/tree/master/solution/paint-house-ii) (Hard)
+  1. [Trapping Rain Water](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water) (Hard)
+  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray) (Medium)
+  1. [Paint House II](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii) (Hard)

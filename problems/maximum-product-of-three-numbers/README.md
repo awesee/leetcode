@@ -31,4 +31,4 @@
 </p>
 
 ### Similar Questions
-  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-product-subarray) (Medium)
+  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray) (Medium)

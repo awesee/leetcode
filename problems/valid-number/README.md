@@ -41,4 +41,4 @@ The signature of the <code>C++</code> function had been updated. If you still se
 
 
 ### Similar Questions
-  1. [String to Integer (atoi)](https://github.com/openset/leetcode/tree/master/solution/string-to-integer-atoi) (Medium)
+  1. [String to Integer (atoi)](https://github.com/openset/leetcode/tree/master/problems/string-to-integer-atoi) (Medium)

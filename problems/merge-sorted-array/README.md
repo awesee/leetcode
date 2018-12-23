@@ -28,4 +28,4 @@ nums2 = [2,5,6],       n = 3
 
 
 ### Similar Questions
-  1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/solution/merge-two-sorted-lists) (Easy)
+  1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists) (Easy)

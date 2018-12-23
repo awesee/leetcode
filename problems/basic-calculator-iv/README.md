@@ -60,5 +60,5 @@ evalvars = [], evalints = []
 
 
 ### Similar Questions
-  1. [Parse Lisp Expression](https://github.com/openset/leetcode/tree/master/solution/parse-lisp-expression) (Hard)
-  1. [Basic Calculator III](https://github.com/openset/leetcode/tree/master/solution/basic-calculator-iii) (Hard)
+  1. [Parse Lisp Expression](https://github.com/openset/leetcode/tree/master/problems/parse-lisp-expression) (Hard)
+  1. [Basic Calculator III](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iii) (Hard)

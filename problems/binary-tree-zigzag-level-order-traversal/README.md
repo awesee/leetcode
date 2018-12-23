@@ -32,4 +32,4 @@ return its zigzag level order traversal as:<br />
 </p>
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-level-order-traversal) (Medium)
+  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal) (Medium)

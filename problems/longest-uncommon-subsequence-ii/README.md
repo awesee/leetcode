@@ -34,4 +34,4 @@ The input will be a list of strings, and the output needs to be the length of th
 </p>
 
 ### Similar Questions
-  1. [Longest Uncommon Subsequence I ](https://github.com/openset/leetcode/tree/master/solution/longest-uncommon-subsequence-i) (Easy)
+  1. [Longest Uncommon Subsequence I ](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-i) (Easy)

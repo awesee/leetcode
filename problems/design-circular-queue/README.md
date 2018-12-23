@@ -51,4 +51,4 @@ circularQueue.Rear(); &nbsp;// return 4
 
 
 ### Similar Questions
-  1. [Design Circular Deque](https://github.com/openset/leetcode/tree/master/solution/design-circular-deque) (Medium)
+  1. [Design Circular Deque](https://github.com/openset/leetcode/tree/master/problems/design-circular-deque) (Medium)

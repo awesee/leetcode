@@ -39,5 +39,5 @@
 You may assume <code>pattern</code> contains only lowercase letters, and <code>str</code> contains lowercase letters separated by a single space.</p>
 
 ### Similar Questions
-  1. [Isomorphic Strings](https://github.com/openset/leetcode/tree/master/solution/isomorphic-strings) (Easy)
-  1. [Word Pattern II](https://github.com/openset/leetcode/tree/master/solution/word-pattern-ii) (Hard)
+  1. [Isomorphic Strings](https://github.com/openset/leetcode/tree/master/problems/isomorphic-strings) (Easy)
+  1. [Word Pattern II](https://github.com/openset/leetcode/tree/master/problems/word-pattern-ii) (Hard)

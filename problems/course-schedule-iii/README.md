@@ -38,5 +38,5 @@ The 4th course cannot be taken now, since you will finish it on the 3300th day, 
 </p>
 
 ### Similar Questions
-  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/solution/course-schedule) (Medium)
-  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/solution/course-schedule-ii) (Medium)
+  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/problems/course-schedule) (Medium)
+  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii) (Medium)

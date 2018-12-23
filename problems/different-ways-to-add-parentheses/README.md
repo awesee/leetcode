@@ -32,6 +32,6 @@
 </strong></pre>
 
 ### Similar Questions
-  1. [Unique Binary Search Trees II](https://github.com/openset/leetcode/tree/master/solution/unique-binary-search-trees-ii) (Medium)
-  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/solution/basic-calculator) (Hard)
-  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/solution/expression-add-operators) (Hard)
+  1. [Unique Binary Search Trees II](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees-ii) (Medium)
+  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/problems/basic-calculator) (Hard)
+  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/problems/expression-add-operators) (Hard)

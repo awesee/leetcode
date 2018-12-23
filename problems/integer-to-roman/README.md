@@ -66,5 +66,5 @@ M             1000</pre>
 
 
 ### Similar Questions
-  1. [Roman to Integer](https://github.com/openset/leetcode/tree/master/solution/roman-to-integer) (Easy)
-  1. [Integer to English Words](https://github.com/openset/leetcode/tree/master/solution/integer-to-english-words) (Hard)
+  1. [Roman to Integer](https://github.com/openset/leetcode/tree/master/problems/roman-to-integer) (Easy)
+  1. [Integer to English Words](https://github.com/openset/leetcode/tree/master/problems/integer-to-english-words) (Hard)

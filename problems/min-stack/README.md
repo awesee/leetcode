@@ -39,5 +39,5 @@ minStack.getMin();   --> Returns -2.
 </p>
 
 ### Similar Questions
-  1. [Sliding Window Maximum](https://github.com/openset/leetcode/tree/master/solution/sliding-window-maximum) (Hard)
-  1. [Max Stack](https://github.com/openset/leetcode/tree/master/solution/max-stack) (Easy)
+  1. [Sliding Window Maximum](https://github.com/openset/leetcode/tree/master/problems/sliding-window-maximum) (Hard)
+  1. [Max Stack](https://github.com/openset/leetcode/tree/master/problems/max-stack) (Easy)

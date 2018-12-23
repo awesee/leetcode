@@ -66,5 +66,5 @@
 
 
 ### Similar Questions
-  1. [Reverse Integer](https://github.com/openset/leetcode/tree/master/solution/reverse-integer) (Easy)
-  1. [Valid Number](https://github.com/openset/leetcode/tree/master/solution/valid-number) (Hard)
+  1. [Reverse Integer](https://github.com/openset/leetcode/tree/master/problems/reverse-integer) (Easy)
+  1. [Valid Number](https://github.com/openset/leetcode/tree/master/problems/valid-number) (Hard)

@@ -68,4 +68,4 @@
 
 
 ### Similar Questions
-  1. [Additive Number](https://github.com/openset/leetcode/tree/master/solution/additive-number) (Medium)
+  1. [Additive Number](https://github.com/openset/leetcode/tree/master/problems/additive-number) (Medium)

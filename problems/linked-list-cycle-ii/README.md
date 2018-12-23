@@ -52,5 +52,5 @@ Can you solve it without using extra space?</p>
 
 
 ### Similar Questions
-  1. [Linked List Cycle](https://github.com/openset/leetcode/tree/master/solution/linked-list-cycle) (Easy)
-  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/solution/find-the-duplicate-number) (Medium)
+  1. [Linked List Cycle](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle) (Easy)
+  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number) (Medium)

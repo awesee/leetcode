@@ -52,5 +52,5 @@ The graph contains <code>n</code> nodes which are labeled from <code>0</code> to
 
 
 ### Similar Questions
-  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/solution/course-schedule) (Medium)
-  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/solution/course-schedule-ii) (Medium)
+  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/problems/course-schedule) (Medium)
+  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii) (Medium)

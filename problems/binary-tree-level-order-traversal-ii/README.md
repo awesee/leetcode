@@ -32,5 +32,5 @@ return its bottom-up level order traversal as:<br />
 </p>
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-level-order-traversal) (Medium)
-  1. [Average of Levels in Binary Tree](https://github.com/openset/leetcode/tree/master/solution/average-of-levels-in-binary-tree) (Easy)
+  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal) (Medium)
+  1. [Average of Levels in Binary Tree](https://github.com/openset/leetcode/tree/master/problems/average-of-levels-in-binary-tree) (Easy)

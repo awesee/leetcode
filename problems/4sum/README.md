@@ -28,6 +28,6 @@ A solution set is:
 
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/solution/two-sum) (Easy)
-  1. [3Sum](https://github.com/openset/leetcode/tree/master/solution/3sum) (Medium)
-  1. [4Sum II](https://github.com/openset/leetcode/tree/master/solution/4sum-ii) (Medium)
+  1. [Two Sum](https://github.com/openset/leetcode/tree/master/problems/two-sum) (Easy)
+  1. [3Sum](https://github.com/openset/leetcode/tree/master/problems/3sum) (Medium)
+  1. [4Sum II](https://github.com/openset/leetcode/tree/master/problems/4sum-ii) (Medium)

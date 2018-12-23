@@ -27,5 +27,5 @@
 
 
 ### Similar Questions
-  1. [Number of Digit One](https://github.com/openset/leetcode/tree/master/solution/number-of-digit-one) (Hard)
-  1. [Preimage Size of Factorial Zeroes Function](https://github.com/openset/leetcode/tree/master/solution/preimage-size-of-factorial-zeroes-function) (Hard)
+  1. [Number of Digit One](https://github.com/openset/leetcode/tree/master/problems/number-of-digit-one) (Hard)
+  1. [Preimage Size of Factorial Zeroes Function](https://github.com/openset/leetcode/tree/master/problems/preimage-size-of-factorial-zeroes-function) (Hard)

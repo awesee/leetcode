@@ -30,5 +30,5 @@
 </div>
 
 ### Similar Questions
-  1. [Sqrt(x)](https://github.com/openset/leetcode/tree/master/solution/sqrtx) (Easy)
-  1. [Sum of Square Numbers](https://github.com/openset/leetcode/tree/master/solution/sum-of-square-numbers) (Easy)
+  1. [Sqrt(x)](https://github.com/openset/leetcode/tree/master/problems/sqrtx) (Easy)
+  1. [Sum of Square Numbers](https://github.com/openset/leetcode/tree/master/problems/sum-of-square-numbers) (Easy)

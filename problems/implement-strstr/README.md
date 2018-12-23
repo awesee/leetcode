@@ -33,5 +33,5 @@
 
 
 ### Similar Questions
-  1. [Shortest Palindrome](https://github.com/openset/leetcode/tree/master/solution/shortest-palindrome) (Hard)
-  1. [Repeated Substring Pattern](https://github.com/openset/leetcode/tree/master/solution/repeated-substring-pattern) (Easy)
+  1. [Shortest Palindrome](https://github.com/openset/leetcode/tree/master/problems/shortest-palindrome) (Hard)
+  1. [Repeated Substring Pattern](https://github.com/openset/leetcode/tree/master/problems/repeated-substring-pattern) (Easy)

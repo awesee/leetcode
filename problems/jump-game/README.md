@@ -32,4 +32,4 @@
 
 
 ### Similar Questions
-  1. [Jump Game II](https://github.com/openset/leetcode/tree/master/solution/jump-game-ii) (Hard)
+  1. [Jump Game II](https://github.com/openset/leetcode/tree/master/problems/jump-game-ii) (Hard)

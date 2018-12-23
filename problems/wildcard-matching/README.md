@@ -74,4 +74,4 @@ p = &quot;a*c?b&quot;
 
 
 ### Similar Questions
-  1. [Regular Expression Matching](https://github.com/openset/leetcode/tree/master/solution/regular-expression-matching) (Hard)
+  1. [Regular Expression Matching](https://github.com/openset/leetcode/tree/master/problems/regular-expression-matching) (Hard)

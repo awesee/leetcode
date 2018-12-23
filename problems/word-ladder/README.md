@@ -56,5 +56,5 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
 
 
 ### Similar Questions
-  1. [Word Ladder II](https://github.com/openset/leetcode/tree/master/solution/word-ladder-ii) (Hard)
-  1. [Minimum Genetic Mutation](https://github.com/openset/leetcode/tree/master/solution/minimum-genetic-mutation) (Medium)
+  1. [Word Ladder II](https://github.com/openset/leetcode/tree/master/problems/word-ladder-ii) (Hard)
+  1. [Minimum Genetic Mutation](https://github.com/openset/leetcode/tree/master/problems/minimum-genetic-mutation) (Medium)

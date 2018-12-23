@@ -48,4 +48,4 @@ This is the maximum distance possible, so the answer is 3.
 
 
 ### Similar Questions
-  1. [Exam Room](https://github.com/openset/leetcode/tree/master/solution/exam-room) (Medium)
+  1. [Exam Room](https://github.com/openset/leetcode/tree/master/problems/exam-room) (Medium)

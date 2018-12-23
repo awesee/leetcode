@@ -30,5 +30,5 @@
 </div>
 
 ### Similar Questions
-  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-substring) (Medium)
-  1. [Shortest Palindrome](https://github.com/openset/leetcode/tree/master/solution/shortest-palindrome) (Hard)
+  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-substring) (Medium)
+  1. [Shortest Palindrome](https://github.com/openset/leetcode/tree/master/problems/shortest-palindrome) (Hard)

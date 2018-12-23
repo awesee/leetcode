@@ -30,9 +30,9 @@
 
 
 ### Similar Questions
-  1. [House Robber](https://github.com/openset/leetcode/tree/master/solution/house-robber) (Easy)
-  1. [Paint House](https://github.com/openset/leetcode/tree/master/solution/paint-house) (Easy)
-  1. [Paint Fence](https://github.com/openset/leetcode/tree/master/solution/paint-fence) (Easy)
-  1. [House Robber III](https://github.com/openset/leetcode/tree/master/solution/house-robber-iii) (Medium)
-  1. [Non-negative Integers without Consecutive Ones](https://github.com/openset/leetcode/tree/master/solution/non-negative-integers-without-consecutive-ones) (Hard)
-  1. [Coin Path](https://github.com/openset/leetcode/tree/master/solution/coin-path) (Hard)
+  1. [House Robber](https://github.com/openset/leetcode/tree/master/problems/house-robber) (Easy)
+  1. [Paint House](https://github.com/openset/leetcode/tree/master/problems/paint-house) (Easy)
+  1. [Paint Fence](https://github.com/openset/leetcode/tree/master/problems/paint-fence) (Easy)
+  1. [House Robber III](https://github.com/openset/leetcode/tree/master/problems/house-robber-iii) (Medium)
+  1. [Non-negative Integers without Consecutive Ones](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones) (Hard)
+  1. [Coin Path](https://github.com/openset/leetcode/tree/master/problems/coin-path) (Hard)

@@ -19,4 +19,4 @@ Each temperature will be an integer in the range <code>[30, 100]</code>.
 </p>
 
 ### Similar Questions
-  1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-i) (Easy)
+  1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-i) (Easy)

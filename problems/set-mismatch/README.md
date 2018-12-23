@@ -31,4 +31,4 @@ Given an array <code>nums</code> representing the data status of this set after 
 </p>
 
 ### Similar Questions
-  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/solution/find-the-duplicate-number) (Medium)
+  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number) (Medium)

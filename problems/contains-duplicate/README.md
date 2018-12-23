@@ -31,5 +31,5 @@
 
 
 ### Similar Questions
-  1. [Contains Duplicate II](https://github.com/openset/leetcode/tree/master/solution/contains-duplicate-ii) (Easy)
-  1. [Contains Duplicate III](https://github.com/openset/leetcode/tree/master/solution/contains-duplicate-iii) (Medium)
+  1. [Contains Duplicate II](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate-ii) (Easy)
+  1. [Contains Duplicate III](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate-iii) (Medium)

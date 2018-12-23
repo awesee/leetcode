@@ -44,4 +44,4 @@ FirstName, LastName, City, State
 
 
 ### Similar Questions
-  1. [Employee Bonus](https://github.com/openset/leetcode/tree/master/solution/employee-bonus) (Easy)
+  1. [Employee Bonus](https://github.com/openset/leetcode/tree/master/problems/employee-bonus) (Easy)

@@ -23,4 +23,4 @@
 </ol>
 
 ### Similar Questions
-  1. [Remove Element](https://github.com/openset/leetcode/tree/master/solution/remove-element) (Easy)
+  1. [Remove Element](https://github.com/openset/leetcode/tree/master/problems/remove-element) (Easy)

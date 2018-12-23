@@ -29,6 +29,6 @@
 
 
 ### Similar Questions
-  1. [Sort List](https://github.com/openset/leetcode/tree/master/solution/sort-list) (Medium)
-  1. [Wiggle Sort](https://github.com/openset/leetcode/tree/master/solution/wiggle-sort) (Medium)
-  1. [Wiggle Sort II](https://github.com/openset/leetcode/tree/master/solution/wiggle-sort-ii) (Medium)
+  1. [Sort List](https://github.com/openset/leetcode/tree/master/problems/sort-list) (Medium)
+  1. [Wiggle Sort](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort) (Medium)
+  1. [Wiggle Sort II](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort-ii) (Medium)

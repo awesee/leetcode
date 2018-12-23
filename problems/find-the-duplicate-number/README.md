@@ -33,8 +33,8 @@
 
 
 ### Similar Questions
-  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/solution/first-missing-positive) (Hard)
-  1. [Single Number](https://github.com/openset/leetcode/tree/master/solution/single-number) (Easy)
-  1. [Linked List Cycle II](https://github.com/openset/leetcode/tree/master/solution/linked-list-cycle-ii) (Medium)
-  1. [Missing Number](https://github.com/openset/leetcode/tree/master/solution/missing-number) (Easy)
-  1. [Set Mismatch](https://github.com/openset/leetcode/tree/master/solution/set-mismatch) (Easy)
+  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive) (Hard)
+  1. [Single Number](https://github.com/openset/leetcode/tree/master/problems/single-number) (Easy)
+  1. [Linked List Cycle II](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle-ii) (Medium)
+  1. [Missing Number](https://github.com/openset/leetcode/tree/master/problems/missing-number) (Easy)
+  1. [Set Mismatch](https://github.com/openset/leetcode/tree/master/problems/set-mismatch) (Easy)

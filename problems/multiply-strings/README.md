@@ -33,7 +33,7 @@
 
 
 ### Similar Questions
-  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/solution/add-two-numbers) (Medium)
-  1. [Plus One](https://github.com/openset/leetcode/tree/master/solution/plus-one) (Easy)
-  1. [Add Binary](https://github.com/openset/leetcode/tree/master/solution/add-binary) (Easy)
-  1. [Add Strings](https://github.com/openset/leetcode/tree/master/solution/add-strings) (Easy)
+  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers) (Medium)
+  1. [Plus One](https://github.com/openset/leetcode/tree/master/problems/plus-one) (Easy)
+  1. [Add Binary](https://github.com/openset/leetcode/tree/master/problems/add-binary) (Easy)
+  1. [Add Strings](https://github.com/openset/leetcode/tree/master/problems/add-strings) (Easy)

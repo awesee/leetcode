@@ -25,4 +25,4 @@
 
 
 ### Similar Questions
-  1. [Majority Element](https://github.com/openset/leetcode/tree/master/solution/majority-element) (Easy)
+  1. [Majority Element](https://github.com/openset/leetcode/tree/master/problems/majority-element) (Easy)

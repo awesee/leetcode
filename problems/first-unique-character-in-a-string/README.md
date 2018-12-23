@@ -25,4 +25,4 @@ return 2.
 </p>
 
 ### Similar Questions
-  1. [Sort Characters By Frequency](https://github.com/openset/leetcode/tree/master/solution/sort-characters-by-frequency) (Medium)
+  1. [Sort Characters By Frequency](https://github.com/openset/leetcode/tree/master/problems/sort-characters-by-frequency) (Medium)

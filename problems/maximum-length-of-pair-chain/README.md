@@ -35,5 +35,5 @@ Given a set of pairs, find the length longest chain which can be formed. You nee
 </p>
 
 ### Similar Questions
-  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-increasing-subsequence) (Medium)
-  1. [Increasing Subsequences](https://github.com/openset/leetcode/tree/master/solution/increasing-subsequences) (Medium)
+  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence) (Medium)
+  1. [Increasing Subsequences](https://github.com/openset/leetcode/tree/master/problems/increasing-subsequences) (Medium)

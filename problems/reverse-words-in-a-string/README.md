@@ -28,4 +28,4 @@
 
 
 ### Similar Questions
-  1. [Reverse Words in a String II](https://github.com/openset/leetcode/tree/master/solution/reverse-words-in-a-string-ii) (Medium)
+  1. [Reverse Words in a String II](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-ii) (Medium)

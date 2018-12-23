@@ -21,7 +21,7 @@
 
 
 ### Similar Questions
-  1. [Permutations](https://github.com/openset/leetcode/tree/master/solution/permutations) (Medium)
-  1. [Permutations II](https://github.com/openset/leetcode/tree/master/solution/permutations-ii) (Medium)
-  1. [Permutation Sequence](https://github.com/openset/leetcode/tree/master/solution/permutation-sequence) (Medium)
-  1. [Palindrome Permutation II](https://github.com/openset/leetcode/tree/master/solution/palindrome-permutation-ii) (Medium)
+  1. [Permutations](https://github.com/openset/leetcode/tree/master/problems/permutations) (Medium)
+  1. [Permutations II](https://github.com/openset/leetcode/tree/master/problems/permutations-ii) (Medium)
+  1. [Permutation Sequence](https://github.com/openset/leetcode/tree/master/problems/permutation-sequence) (Medium)
+  1. [Palindrome Permutation II](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation-ii) (Medium)

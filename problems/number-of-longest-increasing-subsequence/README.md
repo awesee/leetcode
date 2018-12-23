@@ -32,5 +32,5 @@ Length of the given array will be not exceed 2000 and the answer is guaranteed t
 </p>
 
 ### Similar Questions
-  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-increasing-subsequence) (Medium)
-  1. [Longest Continuous Increasing Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-continuous-increasing-subsequence) (Easy)
+  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence) (Medium)
+  1. [Longest Continuous Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-continuous-increasing-subsequence) (Easy)

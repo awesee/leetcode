@@ -25,4 +25,4 @@
 
 
 ### Similar Questions
-  1. [H-Index II](https://github.com/openset/leetcode/tree/master/solution/h-index-ii) (Medium)
+  1. [H-Index II](https://github.com/openset/leetcode/tree/master/problems/h-index-ii) (Medium)

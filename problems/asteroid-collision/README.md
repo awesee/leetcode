@@ -62,4 +62,4 @@ Asteroids moving the same direction never meet, so no asteroids will meet each o
 </p>
 
 ### Similar Questions
-  1. [Can Place Flowers](https://github.com/openset/leetcode/tree/master/solution/can-place-flowers) (Easy)
+  1. [Can Place Flowers](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers) (Easy)

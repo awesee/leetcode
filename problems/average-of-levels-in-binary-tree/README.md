@@ -30,5 +30,5 @@ The average value of nodes on level 0 is 3,  on level 1 is 14.5, and on level 2 
 </p>
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-level-order-traversal) (Medium)
-  1. [Binary Tree Level Order Traversal II](https://github.com/openset/leetcode/tree/master/solution/binary-tree-level-order-traversal-ii) (Easy)
+  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal) (Medium)
+  1. [Binary Tree Level Order Traversal II](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal-ii) (Easy)

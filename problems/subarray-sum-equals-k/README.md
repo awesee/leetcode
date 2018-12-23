@@ -25,7 +25,7 @@
 
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/solution/two-sum) (Easy)
-  1. [Continuous Subarray Sum](https://github.com/openset/leetcode/tree/master/solution/continuous-subarray-sum) (Medium)
-  1. [Subarray Product Less Than K](https://github.com/openset/leetcode/tree/master/solution/subarray-product-less-than-k) (Medium)
-  1. [Find Pivot Index](https://github.com/openset/leetcode/tree/master/solution/find-pivot-index) (Easy)
+  1. [Two Sum](https://github.com/openset/leetcode/tree/master/problems/two-sum) (Easy)
+  1. [Continuous Subarray Sum](https://github.com/openset/leetcode/tree/master/problems/continuous-subarray-sum) (Medium)
+  1. [Subarray Product Less Than K](https://github.com/openset/leetcode/tree/master/problems/subarray-product-less-than-k) (Medium)
+  1. [Find Pivot Index](https://github.com/openset/leetcode/tree/master/problems/find-pivot-index) (Easy)

@@ -33,4 +33,4 @@ WordFilter.f("b", "") // returns -1
 </p>
 
 ### Similar Questions
-  1. [Add and Search Word - Data structure design](https://github.com/openset/leetcode/tree/master/solution/add-and-search-word-data-structure-design) (Medium)
+  1. [Add and Search Word - Data structure design](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design) (Medium)

@@ -31,6 +31,6 @@
 
 
 ### Similar Questions
-  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/solution/multiply-strings) (Medium)
-  1. [Add Binary](https://github.com/openset/leetcode/tree/master/solution/add-binary) (Easy)
-  1. [Plus One Linked List](https://github.com/openset/leetcode/tree/master/solution/plus-one-linked-list) (Medium)
+  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/problems/multiply-strings) (Medium)
+  1. [Add Binary](https://github.com/openset/leetcode/tree/master/problems/add-binary) (Easy)
+  1. [Plus One Linked List](https://github.com/openset/leetcode/tree/master/problems/plus-one-linked-list) (Medium)

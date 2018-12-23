@@ -31,5 +31,5 @@ The above arrows point to positions where the corresponding bits are different.
 </p>
 
 ### Similar Questions
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/solution/number-of-1-bits) (Easy)
-  1. [Total Hamming Distance](https://github.com/openset/leetcode/tree/master/solution/total-hamming-distance) (Medium)
+  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)
+  1. [Total Hamming Distance](https://github.com/openset/leetcode/tree/master/problems/total-hamming-distance) (Medium)

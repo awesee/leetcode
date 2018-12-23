@@ -31,4 +31,4 @@ The output order does not matter, returning [9,0] is fine too.
 
 
 ### Similar Questions
-  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring) (Hard)
+  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) (Hard)

@@ -55,5 +55,5 @@ wordDict = [&quot;cats&quot;, &quot;dog&quot;, &quot;sand&quot;, &quot;and&quot;
 
 
 ### Similar Questions
-  1. [Word Break](https://github.com/openset/leetcode/tree/master/solution/word-break) (Medium)
-  1. [Concatenated Words](https://github.com/openset/leetcode/tree/master/solution/concatenated-words) (Hard)
+  1. [Word Break](https://github.com/openset/leetcode/tree/master/problems/word-break) (Medium)
+  1. [Concatenated Words](https://github.com/openset/leetcode/tree/master/problems/concatenated-words) (Hard)

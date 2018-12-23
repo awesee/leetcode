@@ -32,6 +32,6 @@
 
 
 ### Similar Questions
-  1. [First Bad Version](https://github.com/openset/leetcode/tree/master/solution/first-bad-version) (Easy)
-  1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/solution/guess-number-higher-or-lower-ii) (Medium)
-  1. [Find K Closest Elements](https://github.com/openset/leetcode/tree/master/solution/find-k-closest-elements) (Medium)
+  1. [First Bad Version](https://github.com/openset/leetcode/tree/master/problems/first-bad-version) (Easy)
+  1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii) (Medium)
+  1. [Find K Closest Elements](https://github.com/openset/leetcode/tree/master/problems/find-k-closest-elements) (Medium)

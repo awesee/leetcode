@@ -56,4 +56,4 @@ For [2,3], the interval [3,4] has minimum-"right" start point.
 </p>
 
 ### Similar Questions
-  1. [Data Stream as Disjoint Intervals](https://github.com/openset/leetcode/tree/master/solution/data-stream-as-disjoint-intervals) (Hard)
+  1. [Data Stream as Disjoint Intervals](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals) (Hard)

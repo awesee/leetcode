@@ -34,4 +34,4 @@
 
 
 ### Similar Questions
-  1. [N-Queens](https://github.com/openset/leetcode/tree/master/solution/n-queens) (Hard)
+  1. [N-Queens](https://github.com/openset/leetcode/tree/master/problems/n-queens) (Hard)

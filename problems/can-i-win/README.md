@@ -37,6 +37,6 @@ Same with other integers chosen by the first player, the second player will alwa
 </p>
 
 ### Similar Questions
-  1. [Flip Game II](https://github.com/openset/leetcode/tree/master/solution/flip-game-ii) (Medium)
-  1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/solution/guess-number-higher-or-lower-ii) (Medium)
-  1. [Predict the Winner](https://github.com/openset/leetcode/tree/master/solution/predict-the-winner) (Medium)
+  1. [Flip Game II](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii) (Medium)
+  1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii) (Medium)
+  1. [Predict the Winner](https://github.com/openset/leetcode/tree/master/problems/predict-the-winner) (Medium)

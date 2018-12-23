@@ -48,4 +48,4 @@
 
 
 ### Similar Questions
-  1. [Set Matrix Zeroes](https://github.com/openset/leetcode/tree/master/solution/set-matrix-zeroes) (Medium)
+  1. [Set Matrix Zeroes](https://github.com/openset/leetcode/tree/master/problems/set-matrix-zeroes) (Medium)

@@ -48,4 +48,4 @@
 </p>
 
 ### Similar Questions
-  1. [Solve the Equation](https://github.com/openset/leetcode/tree/master/solution/solve-the-equation) (Medium)
+  1. [Solve the Equation](https://github.com/openset/leetcode/tree/master/problems/solve-the-equation) (Medium)

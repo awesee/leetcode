@@ -45,5 +45,5 @@ the time [40, 50) will be single booked, and the time [50, 55) will be double bo
 </p>
 
 ### Similar Questions
-  1. [My Calendar I](https://github.com/openset/leetcode/tree/master/solution/my-calendar-i) (Medium)
-  1. [My Calendar III](https://github.com/openset/leetcode/tree/master/solution/my-calendar-iii) (Hard)
+  1. [My Calendar I](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i) (Medium)
+  1. [My Calendar III](https://github.com/openset/leetcode/tree/master/problems/my-calendar-iii) (Hard)

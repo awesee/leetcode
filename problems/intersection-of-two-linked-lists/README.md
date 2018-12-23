@@ -60,4 +60,4 @@
 
 
 ### Similar Questions
-  1. [Minimum Index Sum of Two Lists](https://github.com/openset/leetcode/tree/master/solution/minimum-index-sum-of-two-lists) (Easy)
+  1. [Minimum Index Sum of Two Lists](https://github.com/openset/leetcode/tree/master/problems/minimum-index-sum-of-two-lists) (Easy)

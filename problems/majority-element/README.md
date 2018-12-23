@@ -26,4 +26,4 @@
 
 
 ### Similar Questions
-  1. [Majority Element II](https://github.com/openset/leetcode/tree/master/solution/majority-element-ii) (Medium)
+  1. [Majority Element II](https://github.com/openset/leetcode/tree/master/problems/majority-element-ii) (Medium)

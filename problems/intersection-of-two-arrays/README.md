@@ -35,4 +35,4 @@
 
 
 ### Similar Questions
-  1. [Intersection of Two Arrays II](https://github.com/openset/leetcode/tree/master/solution/intersection-of-two-arrays-ii) (Easy)
+  1. [Intersection of Two Arrays II](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays-ii) (Easy)

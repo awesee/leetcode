@@ -37,4 +37,4 @@ The only way to decode it is two-bit character and two-bit character. So the las
 </p>
 
 ### Similar Questions
-  1. [Gray Code](https://github.com/openset/leetcode/tree/master/solution/gray-code) (Medium)
+  1. [Gray Code](https://github.com/openset/leetcode/tree/master/problems/gray-code) (Medium)

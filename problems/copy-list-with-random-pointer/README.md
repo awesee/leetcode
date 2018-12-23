@@ -16,4 +16,4 @@ Return a deep copy of the list.
 </p>
 
 ### Similar Questions
-  1. [Clone Graph](https://github.com/openset/leetcode/tree/master/solution/clone-graph) (Medium)
+  1. [Clone Graph](https://github.com/openset/leetcode/tree/master/problems/clone-graph) (Medium)

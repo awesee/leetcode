@@ -36,4 +36,4 @@
 
 
 ### Similar Questions
-  1. [Find Minimum in Rotated Sorted Array](https://github.com/openset/leetcode/tree/master/solution/find-minimum-in-rotated-sorted-array) (Medium)
+  1. [Find Minimum in Rotated Sorted Array](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array) (Medium)

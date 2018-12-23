@@ -29,4 +29,4 @@ One longest palindrome that can be built is "dccaccd", whose length is 7.
 </p>
 
 ### Similar Questions
-  1. [Palindrome Permutation](https://github.com/openset/leetcode/tree/master/solution/palindrome-permutation) (Easy)
+  1. [Palindrome Permutation](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation) (Easy)

@@ -24,6 +24,6 @@
 
 
 ### Similar Questions
-  1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/solution/merge-two-sorted-lists) (Easy)
-  1. [Sort Colors](https://github.com/openset/leetcode/tree/master/solution/sort-colors) (Medium)
-  1. [Insertion Sort List](https://github.com/openset/leetcode/tree/master/solution/insertion-sort-list) (Medium)
+  1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists) (Easy)
+  1. [Sort Colors](https://github.com/openset/leetcode/tree/master/problems/sort-colors) (Medium)
+  1. [Insertion Sort List](https://github.com/openset/leetcode/tree/master/problems/insertion-sort-list) (Medium)

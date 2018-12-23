@@ -44,5 +44,5 @@ The total number of cherries picked up is 5, and this is the maximum possible.
 </p>
 
 ### Similar Questions
-  1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/solution/minimum-path-sum) (Medium)
-  1. [Dungeon Game](https://github.com/openset/leetcode/tree/master/solution/dungeon-game) (Hard)
+  1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-path-sum) (Medium)
+  1. [Dungeon Game](https://github.com/openset/leetcode/tree/master/problems/dungeon-game) (Hard)

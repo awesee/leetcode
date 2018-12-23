@@ -70,4 +70,4 @@ There is no plus sign, so return 0.
 </ol></p>
 
 ### Similar Questions
-  1. [Maximal Square](https://github.com/openset/leetcode/tree/master/solution/maximal-square) (Medium)
+  1. [Maximal Square](https://github.com/openset/leetcode/tree/master/problems/maximal-square) (Medium)

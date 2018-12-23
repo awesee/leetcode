@@ -54,4 +54,4 @@ Also, since the answer may be very large, you should return the output mod 10<su
 </p>
 
 ### Similar Questions
-  1. [Decode Ways](https://github.com/openset/leetcode/tree/master/solution/decode-ways) (Medium)
+  1. [Decode Ways](https://github.com/openset/leetcode/tree/master/problems/decode-ways) (Medium)

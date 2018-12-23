@@ -42,4 +42,4 @@
 
 
 ### Similar Questions
-  1. [Line Reflection](https://github.com/openset/leetcode/tree/master/solution/line-reflection) (Medium)
+  1. [Line Reflection](https://github.com/openset/leetcode/tree/master/problems/line-reflection) (Medium)

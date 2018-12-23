@@ -46,4 +46,4 @@ You need to help them find out their <b>common interest</b> with the <b>least li
 </p>
 
 ### Similar Questions
-  1. [Intersection of Two Linked Lists](https://github.com/openset/leetcode/tree/master/solution/intersection-of-two-linked-lists) (Easy)
+  1. [Intersection of Two Linked Lists](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-linked-lists) (Easy)

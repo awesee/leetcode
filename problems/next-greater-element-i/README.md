@@ -45,6 +45,6 @@ The Next Greater Number of a number <b>x</b> in <code>nums1</code> is the first 
 </p>
 
 ### Similar Questions
-  1. [Next Greater Element II](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-ii) (Medium)
-  1. [Next Greater Element III](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-iii) (Medium)
-  1. [Daily Temperatures](https://github.com/openset/leetcode/tree/master/solution/daily-temperatures) (Medium)
+  1. [Next Greater Element II](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-ii) (Medium)
+  1. [Next Greater Element III](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-iii) (Medium)
+  1. [Daily Temperatures](https://github.com/openset/leetcode/tree/master/problems/daily-temperatures) (Medium)

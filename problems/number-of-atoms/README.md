@@ -56,6 +56,6 @@ The count of elements are {'K': 4, 'N': 2, 'O': 14, 'S': 4}.
 </p>
 
 ### Similar Questions
-  1. [Decode String](https://github.com/openset/leetcode/tree/master/solution/decode-string) (Medium)
-  1. [Encode String with Shortest Length](https://github.com/openset/leetcode/tree/master/solution/encode-string-with-shortest-length) (Hard)
-  1. [Parse Lisp Expression](https://github.com/openset/leetcode/tree/master/solution/parse-lisp-expression) (Hard)
+  1. [Decode String](https://github.com/openset/leetcode/tree/master/problems/decode-string) (Medium)
+  1. [Encode String with Shortest Length](https://github.com/openset/leetcode/tree/master/problems/encode-string-with-shortest-length) (Hard)
+  1. [Parse Lisp Expression](https://github.com/openset/leetcode/tree/master/problems/parse-lisp-expression) (Hard)

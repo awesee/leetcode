@@ -33,4 +33,4 @@ The minimum absolute difference is 1, which is the difference between 2 and 1 (o
 
 
 ### Similar Questions
-  1. [K-diff Pairs in an Array](https://github.com/openset/leetcode/tree/master/solution/k-diff-pairs-in-an-array) (Easy)
+  1. [K-diff Pairs in an Array](https://github.com/openset/leetcode/tree/master/problems/k-diff-pairs-in-an-array) (Easy)

@@ -43,8 +43,8 @@
 </pre>
 
 ### Similar Questions
-  1. [Evaluate Reverse Polish Notation](https://github.com/openset/leetcode/tree/master/solution/evaluate-reverse-polish-notation) (Medium)
-  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/solution/basic-calculator) (Hard)
-  1. [Basic Calculator II](https://github.com/openset/leetcode/tree/master/solution/basic-calculator-ii) (Medium)
-  1. [Different Ways to Add Parentheses](https://github.com/openset/leetcode/tree/master/solution/different-ways-to-add-parentheses) (Medium)
-  1. [Target Sum](https://github.com/openset/leetcode/tree/master/solution/target-sum) (Medium)
+  1. [Evaluate Reverse Polish Notation](https://github.com/openset/leetcode/tree/master/problems/evaluate-reverse-polish-notation) (Medium)
+  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/problems/basic-calculator) (Hard)
+  1. [Basic Calculator II](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-ii) (Medium)
+  1. [Different Ways to Add Parentheses](https://github.com/openset/leetcode/tree/master/problems/different-ways-to-add-parentheses) (Medium)
+  1. [Target Sum](https://github.com/openset/leetcode/tree/master/problems/target-sum) (Medium)

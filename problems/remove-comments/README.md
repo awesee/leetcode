@@ -78,5 +78,5 @@ source = ["a/*comment", "line", "more_comment*/b"]
 </p>
 
 ### Similar Questions
-  1. [Mini Parser](https://github.com/openset/leetcode/tree/master/solution/mini-parser) (Medium)
-  1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/solution/ternary-expression-parser) (Medium)
+  1. [Mini Parser](https://github.com/openset/leetcode/tree/master/problems/mini-parser) (Medium)
+  1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser) (Medium)

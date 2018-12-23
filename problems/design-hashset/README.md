@@ -43,4 +43,4 @@ hashSet.contains(2); &nbsp;&nbsp;&nbsp;// returns false (already removed)
 
 
 ### Similar Questions
-  1. [Design HashMap](https://github.com/openset/leetcode/tree/master/solution/design-hashmap) (Easy)
+  1. [Design HashMap](https://github.com/openset/leetcode/tree/master/problems/design-hashmap) (Easy)

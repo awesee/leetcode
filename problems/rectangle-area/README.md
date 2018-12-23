@@ -25,4 +25,4 @@
 
 
 ### Similar Questions
-  1. [Rectangle Overlap](https://github.com/openset/leetcode/tree/master/solution/rectangle-overlap) (Easy)
+  1. [Rectangle Overlap](https://github.com/openset/leetcode/tree/master/problems/rectangle-overlap) (Easy)

@@ -25,5 +25,5 @@ One way is to shoot one arrow for example at x = 6 (bursting the balloons [2,8] 
 </p>
 
 ### Similar Questions
-  1. [Meeting Rooms II](https://github.com/openset/leetcode/tree/master/solution/meeting-rooms-ii) (Medium)
-  1. [Non-overlapping Intervals](https://github.com/openset/leetcode/tree/master/solution/non-overlapping-intervals) (Medium)
+  1. [Meeting Rooms II](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms-ii) (Medium)
+  1. [Non-overlapping Intervals](https://github.com/openset/leetcode/tree/master/problems/non-overlapping-intervals) (Medium)

@@ -57,5 +57,5 @@
 
 
 ### Similar Questions
-  1. [Linked List Cycle II](https://github.com/openset/leetcode/tree/master/solution/linked-list-cycle-ii) (Medium)
-  1. [Happy Number](https://github.com/openset/leetcode/tree/master/solution/happy-number) (Easy)
+  1. [Linked List Cycle II](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle-ii) (Medium)
+  1. [Happy Number](https://github.com/openset/leetcode/tree/master/problems/happy-number) (Easy)

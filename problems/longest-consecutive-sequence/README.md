@@ -21,4 +21,4 @@
 
 
 ### Similar Questions
-  1. [Binary Tree Longest Consecutive Sequence](https://github.com/openset/leetcode/tree/master/solution/binary-tree-longest-consecutive-sequence) (Medium)
+  1. [Binary Tree Longest Consecutive Sequence](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence) (Medium)

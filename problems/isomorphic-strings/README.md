@@ -37,4 +37,4 @@ You may assume both <b><i>s&nbsp;</i></b>and <b><i>t&nbsp;</i></b>have the same 
 
 
 ### Similar Questions
-  1. [Word Pattern](https://github.com/openset/leetcode/tree/master/solution/word-pattern) (Easy)
+  1. [Word Pattern](https://github.com/openset/leetcode/tree/master/problems/word-pattern) (Easy)

@@ -44,4 +44,4 @@ There are 3104860382 different non-empty palindromic subsequences, which is 1048
 </p>
 
 ### Similar Questions
-  1. [Longest Palindromic Subsequence](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-subsequence) (Medium)
+  1. [Longest Palindromic Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-subsequence) (Medium)

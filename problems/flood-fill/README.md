@@ -37,4 +37,4 @@ to the starting pixel.
 </p>
 
 ### Similar Questions
-  1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/solution/island-perimeter) (Easy)
+  1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/problems/island-perimeter) (Easy)

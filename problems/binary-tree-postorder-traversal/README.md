@@ -26,5 +26,5 @@
 
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal) (Medium)
-  1. [N-ary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-postorder-traversal) (Easy)
+  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
+  1. [N-ary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-postorder-traversal) (Easy)

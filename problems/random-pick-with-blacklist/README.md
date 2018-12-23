@@ -61,5 +61,5 @@
 
 
 ### Similar Questions
-  1. [Random Pick Index](https://github.com/openset/leetcode/tree/master/solution/random-pick-index) (Medium)
-  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/solution/random-pick-with-weight) (Medium)
+  1. [Random Pick Index](https://github.com/openset/leetcode/tree/master/problems/random-pick-index) (Medium)
+  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-weight) (Medium)

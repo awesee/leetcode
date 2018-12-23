@@ -48,4 +48,4 @@ The cheapest price from city <code>0</code> to city <code>2</code> with at most 
 
 
 ### Similar Questions
-  1. [Maximum Vacation Days](https://github.com/openset/leetcode/tree/master/solution/maximum-vacation-days) (Hard)
+  1. [Maximum Vacation Days](https://github.com/openset/leetcode/tree/master/problems/maximum-vacation-days) (Hard)

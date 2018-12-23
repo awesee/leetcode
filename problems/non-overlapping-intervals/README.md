@@ -49,4 +49,4 @@ Given a collection of intervals, find the minimum number of intervals you need t
 </p>
 
 ### Similar Questions
-  1. [Minimum Number of Arrows to Burst Balloons](https://github.com/openset/leetcode/tree/master/solution/minimum-number-of-arrows-to-burst-balloons) (Medium)
+  1. [Minimum Number of Arrows to Burst Balloons](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-arrows-to-burst-balloons) (Medium)

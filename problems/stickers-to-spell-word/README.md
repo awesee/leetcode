@@ -54,4 +54,4 @@ We can't form the target "basicbasic" from cutting letters from the given sticke
 </p>
 
 ### Similar Questions
-  1. [Ransom Note](https://github.com/openset/leetcode/tree/master/solution/ransom-note) (Easy)
+  1. [Ransom Note](https://github.com/openset/leetcode/tree/master/problems/ransom-note) (Easy)

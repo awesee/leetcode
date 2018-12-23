@@ -27,4 +27,4 @@
 
 
 ### Similar Questions
-  1. [Pascal's Triangle](https://github.com/openset/leetcode/tree/master/solution/pascals-triangle) (Easy)
+  1. [Pascal's Triangle](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle) (Easy)

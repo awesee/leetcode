@@ -30,4 +30,4 @@ Valid combinations are:
 
 
 ### Similar Questions
-  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/solution/3sum-smaller) (Medium)
+  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller) (Medium)

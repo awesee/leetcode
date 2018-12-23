@@ -27,7 +27,7 @@ You may assume k is always valid, 1 &le; k &le; array&#39;s length.</p>
 
 
 ### Similar Questions
-  1. [Wiggle Sort II](https://github.com/openset/leetcode/tree/master/solution/wiggle-sort-ii) (Medium)
-  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/solution/top-k-frequent-elements) (Medium)
-  1. [Third Maximum Number](https://github.com/openset/leetcode/tree/master/solution/third-maximum-number) (Easy)
-  1. [Kth Largest Element in a Stream](https://github.com/openset/leetcode/tree/master/solution/kth-largest-element-in-a-stream) (Easy)
+  1. [Wiggle Sort II](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort-ii) (Medium)
+  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements) (Medium)
+  1. [Third Maximum Number](https://github.com/openset/leetcode/tree/master/problems/third-maximum-number) (Easy)
+  1. [Kth Largest Element in a Stream](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-a-stream) (Easy)

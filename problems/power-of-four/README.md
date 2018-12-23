@@ -27,5 +27,5 @@
 <p><b>Follow up</b>: Could you solve it without loops/recursion?</p>
 
 ### Similar Questions
-  1. [Power of Two](https://github.com/openset/leetcode/tree/master/solution/power-of-two) (Easy)
-  1. [Power of Three](https://github.com/openset/leetcode/tree/master/solution/power-of-three) (Easy)
+  1. [Power of Two](https://github.com/openset/leetcode/tree/master/problems/power-of-two) (Easy)
+  1. [Power of Three](https://github.com/openset/leetcode/tree/master/problems/power-of-three) (Easy)

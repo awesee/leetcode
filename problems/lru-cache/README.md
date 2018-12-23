@@ -36,6 +36,6 @@ cache.get(4);       // returns 4
 </p>
 
 ### Similar Questions
-  1. [LFU Cache](https://github.com/openset/leetcode/tree/master/solution/lfu-cache) (Hard)
-  1. [Design In-Memory File System](https://github.com/openset/leetcode/tree/master/solution/design-in-memory-file-system) (Hard)
-  1. [Design Compressed String Iterator](https://github.com/openset/leetcode/tree/master/solution/design-compressed-string-iterator) (Easy)
+  1. [LFU Cache](https://github.com/openset/leetcode/tree/master/problems/lfu-cache) (Hard)
+  1. [Design In-Memory File System](https://github.com/openset/leetcode/tree/master/problems/design-in-memory-file-system) (Hard)
+  1. [Design Compressed String Iterator](https://github.com/openset/leetcode/tree/master/problems/design-compressed-string-iterator) (Easy)

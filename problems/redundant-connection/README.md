@@ -48,5 +48,5 @@ We have overhauled the problem description + test cases and specified clearly th
 </p>
 
 ### Similar Questions
-  1. [Redundant Connection II](https://github.com/openset/leetcode/tree/master/solution/redundant-connection-ii) (Hard)
-  1. [Accounts Merge](https://github.com/openset/leetcode/tree/master/solution/accounts-merge) (Medium)
+  1. [Redundant Connection II](https://github.com/openset/leetcode/tree/master/problems/redundant-connection-ii) (Hard)
+  1. [Accounts Merge](https://github.com/openset/leetcode/tree/master/problems/accounts-merge) (Medium)

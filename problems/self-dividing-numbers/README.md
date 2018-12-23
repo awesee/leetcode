@@ -29,4 +29,4 @@ left = 1, right = 22
 </p>
 
 ### Similar Questions
-  1. [Perfect Number](https://github.com/openset/leetcode/tree/master/solution/perfect-number) (Easy)
+  1. [Perfect Number](https://github.com/openset/leetcode/tree/master/problems/perfect-number) (Easy)

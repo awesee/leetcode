@@ -36,5 +36,5 @@ And the value to search: 2
 
 
 ### Similar Questions
-  1. [Closest Binary Search Tree Value](https://github.com/openset/leetcode/tree/master/solution/closest-binary-search-tree-value) (Easy)
-  1. [Insert into a Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/insert-into-a-binary-search-tree) (Medium)
+  1. [Closest Binary Search Tree Value](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value) (Easy)
+  1. [Insert into a Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-binary-search-tree) (Medium)

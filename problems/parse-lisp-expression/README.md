@@ -71,6 +71,6 @@ of the final x in the add-expression.  That final x will equal 2.
 </p>
 
 ### Similar Questions
-  1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/solution/ternary-expression-parser) (Medium)
-  1. [Number of Atoms](https://github.com/openset/leetcode/tree/master/solution/number-of-atoms) (Hard)
-  1. [Basic Calculator IV](https://github.com/openset/leetcode/tree/master/solution/basic-calculator-iv) (Hard)
+  1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser) (Medium)
+  1. [Number of Atoms](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms) (Hard)
+  1. [Basic Calculator IV](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iv) (Hard)

@@ -37,4 +37,4 @@
 
 
 ### Similar Questions
-  1. [Flatten a Multilevel Doubly Linked List](https://github.com/openset/leetcode/tree/master/solution/flatten-a-multilevel-doubly-linked-list) (Medium)
+  1. [Flatten a Multilevel Doubly Linked List](https://github.com/openset/leetcode/tree/master/problems/flatten-a-multilevel-doubly-linked-list) (Medium)

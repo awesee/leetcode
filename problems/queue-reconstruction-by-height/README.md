@@ -27,4 +27,4 @@ Output:
 </p>
 
 ### Similar Questions
-  1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/solution/count-of-smaller-numbers-after-self) (Hard)
+  1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self) (Hard)

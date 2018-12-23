@@ -36,7 +36,7 @@
 
 
 ### Similar Questions
-  1. [Path Sum](https://github.com/openset/leetcode/tree/master/solution/path-sum) (Easy)
-  1. [Binary Tree Paths](https://github.com/openset/leetcode/tree/master/solution/binary-tree-paths) (Easy)
-  1. [Path Sum III](https://github.com/openset/leetcode/tree/master/solution/path-sum-iii) (Easy)
-  1. [Path Sum IV](https://github.com/openset/leetcode/tree/master/solution/path-sum-iv) (Medium)
+  1. [Path Sum](https://github.com/openset/leetcode/tree/master/problems/path-sum) (Easy)
+  1. [Binary Tree Paths](https://github.com/openset/leetcode/tree/master/problems/binary-tree-paths) (Easy)
+  1. [Path Sum III](https://github.com/openset/leetcode/tree/master/problems/path-sum-iii) (Easy)
+  1. [Path Sum IV](https://github.com/openset/leetcode/tree/master/problems/path-sum-iv) (Medium)

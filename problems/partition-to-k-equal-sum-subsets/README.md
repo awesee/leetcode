@@ -30,4 +30,4 @@
 
 
 ### Similar Questions
-  1. [Partition Equal Subset Sum](https://github.com/openset/leetcode/tree/master/solution/partition-equal-subset-sum) (Medium)
+  1. [Partition Equal Subset Sum](https://github.com/openset/leetcode/tree/master/problems/partition-equal-subset-sum) (Medium)

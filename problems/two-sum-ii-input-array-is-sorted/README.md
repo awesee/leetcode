@@ -27,5 +27,5 @@
 
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/solution/two-sum) (Easy)
-  1. [Two Sum IV - Input is a BST](https://github.com/openset/leetcode/tree/master/solution/two-sum-iv-input-is-a-bst) (Easy)
+  1. [Two Sum](https://github.com/openset/leetcode/tree/master/problems/two-sum) (Easy)
+  1. [Two Sum IV - Input is a BST](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst) (Easy)

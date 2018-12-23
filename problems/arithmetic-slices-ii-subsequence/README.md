@@ -45,4 +45,4 @@ All arithmetic subsequence slices are:
 </p>
 
 ### Similar Questions
-  1. [Arithmetic Slices](https://github.com/openset/leetcode/tree/master/solution/arithmetic-slices) (Medium)
+  1. [Arithmetic Slices](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices) (Medium)

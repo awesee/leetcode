@@ -32,5 +32,5 @@ Given two strings <b>s1</b> and <b>s2</b>, write a function to return true if <b
 </p>
 
 ### Similar Questions
-  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring) (Hard)
-  1. [Find All Anagrams in a String](https://github.com/openset/leetcode/tree/master/solution/find-all-anagrams-in-a-string) (Easy)
+  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) (Hard)
+  1. [Find All Anagrams in a String](https://github.com/openset/leetcode/tree/master/problems/find-all-anagrams-in-a-string) (Easy)

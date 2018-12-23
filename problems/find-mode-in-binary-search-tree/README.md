@@ -40,4 +40,4 @@ Given BST <code>[1,null,2,2]</code>,</p>
 
 
 ### Similar Questions
-  1. [Validate Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/validate-binary-search-tree) (Medium)
+  1. [Validate Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/validate-binary-search-tree) (Medium)

@@ -28,4 +28,4 @@
 </pre>
 
 ### Similar Questions
-  1. [Path Sum II](https://github.com/openset/leetcode/tree/master/solution/path-sum-ii) (Medium)
+  1. [Path Sum II](https://github.com/openset/leetcode/tree/master/problems/path-sum-ii) (Medium)

@@ -69,4 +69,4 @@
 
 
 ### Similar Questions
-  1. [Sudoku Solver](https://github.com/openset/leetcode/tree/master/solution/sudoku-solver) (Hard)
+  1. [Sudoku Solver](https://github.com/openset/leetcode/tree/master/problems/sudoku-solver) (Hard)

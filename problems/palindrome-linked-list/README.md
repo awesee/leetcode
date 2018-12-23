@@ -26,6 +26,6 @@ Could you do it in O(n) time and O(1) space?</p>
 
 
 ### Similar Questions
-  1. [Palindrome Number](https://github.com/openset/leetcode/tree/master/solution/palindrome-number) (Easy)
-  1. [Valid Palindrome](https://github.com/openset/leetcode/tree/master/solution/valid-palindrome) (Easy)
-  1. [Reverse Linked List](https://github.com/openset/leetcode/tree/master/solution/reverse-linked-list) (Easy)
+  1. [Palindrome Number](https://github.com/openset/leetcode/tree/master/problems/palindrome-number) (Easy)
+  1. [Valid Palindrome](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome) (Easy)
+  1. [Reverse Linked List](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list) (Easy)

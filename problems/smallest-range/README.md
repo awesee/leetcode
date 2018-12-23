@@ -34,4 +34,4 @@ List 3: [5, 18, 22, 30], 22 is in range [20,24].
 </p>
 
 ### Similar Questions
-  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring) (Hard)
+  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) (Hard)

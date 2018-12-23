@@ -33,6 +33,6 @@ The third fraction is 2/5.
 </ul>
 
 ### Similar Questions
-  1. [Kth Smallest Element in a Sorted Matrix](https://github.com/openset/leetcode/tree/master/solution/kth-smallest-element-in-a-sorted-matrix) (Medium)
-  1. [Kth Smallest Number in Multiplication Table](https://github.com/openset/leetcode/tree/master/solution/kth-smallest-number-in-multiplication-table) (Hard)
-  1. [Find K-th Smallest Pair Distance](https://github.com/openset/leetcode/tree/master/solution/find-k-th-smallest-pair-distance) (Hard)
+  1. [Kth Smallest Element in a Sorted Matrix](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
+  1. [Kth Smallest Number in Multiplication Table](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-number-in-multiplication-table) (Hard)
+  1. [Find K-th Smallest Pair Distance](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance) (Hard)

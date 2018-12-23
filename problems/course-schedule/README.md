@@ -40,7 +40,7 @@
 
 
 ### Similar Questions
-  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/solution/course-schedule-ii) (Medium)
-  1. [Graph Valid Tree](https://github.com/openset/leetcode/tree/master/solution/graph-valid-tree) (Medium)
-  1. [Minimum Height Trees](https://github.com/openset/leetcode/tree/master/solution/minimum-height-trees) (Medium)
-  1. [Course Schedule III](https://github.com/openset/leetcode/tree/master/solution/course-schedule-iii) (Hard)
+  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii) (Medium)
+  1. [Graph Valid Tree](https://github.com/openset/leetcode/tree/master/problems/graph-valid-tree) (Medium)
+  1. [Minimum Height Trees](https://github.com/openset/leetcode/tree/master/problems/minimum-height-trees) (Medium)
+  1. [Course Schedule III](https://github.com/openset/leetcode/tree/master/problems/course-schedule-iii) (Hard)

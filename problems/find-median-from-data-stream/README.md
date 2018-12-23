@@ -44,4 +44,4 @@ findMedian() -&gt; 2
 
 
 ### Similar Questions
-  1. [Sliding Window Median](https://github.com/openset/leetcode/tree/master/solution/sliding-window-median) (Hard)
+  1. [Sliding Window Median](https://github.com/openset/leetcode/tree/master/problems/sliding-window-median) (Hard)

@@ -47,7 +47,7 @@ Given a <b>N*N</b> matrix <b>M</b> representing the friend relationship between 
 </p>
 
 ### Similar Questions
-  1. [Number of Connected Components in an Undirected Graph](https://github.com/openset/leetcode/tree/master/solution/number-of-connected-components-in-an-undirected-graph) (Medium)
-  1. [Robot Return to Origin](https://github.com/openset/leetcode/tree/master/solution/robot-return-to-origin) (Easy)
-  1. [Sentence Similarity](https://github.com/openset/leetcode/tree/master/solution/sentence-similarity) (Easy)
-  1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/solution/sentence-similarity-ii) (Medium)
+  1. [Number of Connected Components in an Undirected Graph](https://github.com/openset/leetcode/tree/master/problems/number-of-connected-components-in-an-undirected-graph) (Medium)
+  1. [Robot Return to Origin](https://github.com/openset/leetcode/tree/master/problems/robot-return-to-origin) (Easy)
+  1. [Sentence Similarity](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity) (Easy)
+  1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity-ii) (Medium)

@@ -26,4 +26,4 @@
 
 
 ### Similar Questions
-  1. [Unique Binary Search Trees II](https://github.com/openset/leetcode/tree/master/solution/unique-binary-search-trees-ii) (Medium)
+  1. [Unique Binary Search Trees II](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees-ii) (Medium)

@@ -27,7 +27,7 @@ A solution set is:
 
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/solution/two-sum) (Easy)
-  1. [3Sum Closest](https://github.com/openset/leetcode/tree/master/solution/3sum-closest) (Medium)
-  1. [4Sum](https://github.com/openset/leetcode/tree/master/solution/4sum) (Medium)
-  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/solution/3sum-smaller) (Medium)
+  1. [Two Sum](https://github.com/openset/leetcode/tree/master/problems/two-sum) (Easy)
+  1. [3Sum Closest](https://github.com/openset/leetcode/tree/master/problems/3sum-closest) (Medium)
+  1. [4Sum](https://github.com/openset/leetcode/tree/master/problems/4sum) (Medium)
+  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller) (Medium)

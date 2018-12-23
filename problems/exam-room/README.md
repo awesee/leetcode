@@ -42,4 +42,4 @@ seat() -&gt; 5, the student sits at the last seat number 5.</span>
 
 
 ### Similar Questions
-  1. [Maximize Distance to Closest Person](https://github.com/openset/leetcode/tree/master/solution/maximize-distance-to-closest-person) (Easy)
+  1. [Maximize Distance to Closest Person](https://github.com/openset/leetcode/tree/master/problems/maximize-distance-to-closest-person) (Easy)

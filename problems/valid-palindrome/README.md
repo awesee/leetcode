@@ -27,5 +27,5 @@
 
 
 ### Similar Questions
-  1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/solution/palindrome-linked-list) (Easy)
-  1. [Valid Palindrome II](https://github.com/openset/leetcode/tree/master/solution/valid-palindrome-ii) (Easy)
+  1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/problems/palindrome-linked-list) (Easy)
+  1. [Valid Palindrome II](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-ii) (Easy)

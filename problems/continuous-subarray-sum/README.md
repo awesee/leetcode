@@ -37,4 +37,4 @@ Given a list of <b>non-negative</b> numbers and a target <b>integer</b> k, write
 </p>
 
 ### Similar Questions
-  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/solution/subarray-sum-equals-k) (Medium)
+  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)

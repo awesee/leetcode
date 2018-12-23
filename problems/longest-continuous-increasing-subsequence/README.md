@@ -33,5 +33,5 @@ Length of the array will not exceed 10,000.
 </p>
 
 ### Similar Questions
-  1. [Number of Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/solution/number-of-longest-increasing-subsequence) (Medium)
-  1. [Minimum Window Subsequence](https://github.com/openset/leetcode/tree/master/solution/minimum-window-subsequence) (Hard)
+  1. [Number of Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/number-of-longest-increasing-subsequence) (Medium)
+  1. [Minimum Window Subsequence](https://github.com/openset/leetcode/tree/master/problems/minimum-window-subsequence) (Hard)

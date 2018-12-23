@@ -51,4 +51,4 @@
 
 
 ### Similar Questions
-  1. [Design Tic-Tac-Toe](https://github.com/openset/leetcode/tree/master/solution/design-tic-tac-toe) (Medium)
+  1. [Design Tic-Tac-Toe](https://github.com/openset/leetcode/tree/master/problems/design-tic-tac-toe) (Medium)

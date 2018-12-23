@@ -38,5 +38,5 @@ Input: search("leetcoded"), Output: False
 </p>
 
 ### Similar Questions
-  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/solution/implement-trie-prefix-tree) (Medium)
-  1. [Longest Word in Dictionary](https://github.com/openset/leetcode/tree/master/solution/longest-word-in-dictionary) (Easy)
+  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree) (Medium)
+  1. [Longest Word in Dictionary](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary) (Easy)

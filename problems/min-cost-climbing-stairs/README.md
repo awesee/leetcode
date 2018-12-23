@@ -37,4 +37,4 @@ Once you pay the cost, you can either climb one or two steps. You need to find m
 </p>
 
 ### Similar Questions
-  1. [Climbing Stairs](https://github.com/openset/leetcode/tree/master/solution/climbing-stairs) (Easy)
+  1. [Climbing Stairs](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs) (Easy)

@@ -35,5 +35,5 @@ Given the above grid, return <code>0</code>.
 
 
 ### Similar Questions
-  1. [Number of Islands](https://github.com/openset/leetcode/tree/master/solution/number-of-islands) (Medium)
-  1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/solution/island-perimeter) (Easy)
+  1. [Number of Islands](https://github.com/openset/leetcode/tree/master/problems/number-of-islands) (Medium)
+  1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/problems/island-perimeter) (Easy)

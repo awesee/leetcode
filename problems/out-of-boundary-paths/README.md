@@ -41,4 +41,4 @@
 
 
 ### Similar Questions
-  1. [Knight Probability in Chessboard](https://github.com/openset/leetcode/tree/master/solution/knight-probability-in-chessboard) (Medium)
+  1. [Knight Probability in Chessboard](https://github.com/openset/leetcode/tree/master/problems/knight-probability-in-chessboard) (Medium)

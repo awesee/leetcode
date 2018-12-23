@@ -41,4 +41,4 @@ There is no index that satisfies the conditions in the problem statement.
 </p>
 
 ### Similar Questions
-  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/solution/subarray-sum-equals-k) (Medium)
+  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)

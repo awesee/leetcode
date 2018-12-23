@@ -41,5 +41,5 @@
 </pre>
 
 ### Similar Questions
-  1. [House Robber](https://github.com/openset/leetcode/tree/master/solution/house-robber) (Easy)
-  1. [House Robber II](https://github.com/openset/leetcode/tree/master/solution/house-robber-ii) (Medium)
+  1. [House Robber](https://github.com/openset/leetcode/tree/master/problems/house-robber) (Easy)
+  1. [House Robber II](https://github.com/openset/leetcode/tree/master/problems/house-robber-ii) (Medium)

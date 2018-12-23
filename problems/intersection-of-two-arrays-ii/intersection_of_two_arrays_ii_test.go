@@ -2,6 +2,8 @@ package intersection_of_two_arrays_ii
 
 import (
 	"testing"
+
+	"github.com/openset/leetcode/problems/000000"
 )
 
 type caseType struct {

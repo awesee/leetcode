@@ -36,4 +36,4 @@ You may assume the sum of values in any subtree is in the range of 32-bit signed
 </p>
 
 ### Similar Questions
-  1. [Subtree of Another Tree](https://github.com/openset/leetcode/tree/master/solution/subtree-of-another-tree) (Easy)
+  1. [Subtree of Another Tree](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree) (Easy)

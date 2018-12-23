@@ -34,7 +34,7 @@ Could you solve it in linear time?</p>
 
 
 ### Similar Questions
-  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring) (Hard)
-  1. [Min Stack](https://github.com/openset/leetcode/tree/master/solution/min-stack) (Easy)
-  1. [Longest Substring with At Most Two Distinct Characters](https://github.com/openset/leetcode/tree/master/solution/longest-substring-with-at-most-two-distinct-characters) (Hard)
-  1. [Paint House II](https://github.com/openset/leetcode/tree/master/solution/paint-house-ii) (Hard)
+  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) (Hard)
+  1. [Min Stack](https://github.com/openset/leetcode/tree/master/problems/min-stack) (Easy)
+  1. [Longest Substring with At Most Two Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-two-distinct-characters) (Hard)
+  1. [Paint House II](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii) (Hard)

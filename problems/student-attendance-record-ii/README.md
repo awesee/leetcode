@@ -41,4 +41,4 @@ The value of <b>n</b> won't exceed 100,000.
 
 
 ### Similar Questions
-  1. [Student Attendance Record I](https://github.com/openset/leetcode/tree/master/solution/student-attendance-record-i) (Easy)
+  1. [Student Attendance Record I](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-i) (Easy)

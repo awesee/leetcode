@@ -22,5 +22,5 @@ A naive algorithm of <i>O</i>(<i>n</i><sup>2</sup>) is trivial. You MUST do bett
 </pre>
 
 ### Similar Questions
-  1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/solution/count-of-smaller-numbers-after-self) (Hard)
-  1. [Reverse Pairs](https://github.com/openset/leetcode/tree/master/solution/reverse-pairs) (Hard)
+  1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self) (Hard)
+  1. [Reverse Pairs](https://github.com/openset/leetcode/tree/master/problems/reverse-pairs) (Hard)

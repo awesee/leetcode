@@ -75,6 +75,6 @@ Notice each digit has it&#39;s own entry in the array.
 
 
 ### Similar Questions
-  1. [Count and Say](https://github.com/openset/leetcode/tree/master/solution/count-and-say) (Easy)
-  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/solution/encode-and-decode-strings) (Medium)
-  1. [Design Compressed String Iterator](https://github.com/openset/leetcode/tree/master/solution/design-compressed-string-iterator) (Easy)
+  1. [Count and Say](https://github.com/openset/leetcode/tree/master/problems/count-and-say) (Easy)
+  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings) (Medium)
+  1. [Design Compressed String Iterator](https://github.com/openset/leetcode/tree/master/problems/design-compressed-string-iterator) (Easy)

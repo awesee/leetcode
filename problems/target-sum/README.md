@@ -39,4 +39,4 @@ There are 5 ways to assign symbols to make the sum of nums be target 3.
 </p>
 
 ### Similar Questions
-  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/solution/expression-add-operators) (Hard)
+  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/problems/expression-add-operators) (Hard)

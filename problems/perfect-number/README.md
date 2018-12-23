@@ -25,4 +25,4 @@ The input number <b>n</b> will not exceed 100,000,000. (1e8)
 </p>
 
 ### Similar Questions
-  1. [Self Dividing Numbers](https://github.com/openset/leetcode/tree/master/solution/self-dividing-numbers) (Easy)
+  1. [Self Dividing Numbers](https://github.com/openset/leetcode/tree/master/problems/self-dividing-numbers) (Easy)

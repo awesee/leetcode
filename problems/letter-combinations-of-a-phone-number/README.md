@@ -26,6 +26,6 @@
 
 
 ### Similar Questions
-  1. [Generate Parentheses](https://github.com/openset/leetcode/tree/master/solution/generate-parentheses) (Medium)
-  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/solution/combination-sum) (Medium)
-  1. [Binary Watch](https://github.com/openset/leetcode/tree/master/solution/binary-watch) (Easy)
+  1. [Generate Parentheses](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses) (Medium)
+  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/problems/combination-sum) (Medium)
+  1. [Binary Watch](https://github.com/openset/leetcode/tree/master/problems/binary-watch) (Easy)

@@ -21,8 +21,8 @@
 
 
 ### Similar Questions
-  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/solution/multiply-strings) (Medium)
-  1. [Add Binary](https://github.com/openset/leetcode/tree/master/solution/add-binary) (Easy)
-  1. [Sum of Two Integers](https://github.com/openset/leetcode/tree/master/solution/sum-of-two-integers) (Easy)
-  1. [Add Strings](https://github.com/openset/leetcode/tree/master/solution/add-strings) (Easy)
-  1. [Add Two Numbers II](https://github.com/openset/leetcode/tree/master/solution/add-two-numbers-ii) (Medium)
+  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/problems/multiply-strings) (Medium)
+  1. [Add Binary](https://github.com/openset/leetcode/tree/master/problems/add-binary) (Easy)
+  1. [Sum of Two Integers](https://github.com/openset/leetcode/tree/master/problems/sum-of-two-integers) (Easy)
+  1. [Add Strings](https://github.com/openset/leetcode/tree/master/problems/add-strings) (Easy)
+  1. [Add Two Numbers II](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers-ii) (Medium)

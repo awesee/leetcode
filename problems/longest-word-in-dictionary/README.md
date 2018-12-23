@@ -36,5 +36,5 @@ Both "apply" and "apple" can be built from other words in the dictionary. Howeve
 </p>
 
 ### Similar Questions
-  1. [Longest Word in Dictionary through Deleting](https://github.com/openset/leetcode/tree/master/solution/longest-word-in-dictionary-through-deleting) (Medium)
-  1. [Implement Magic Dictionary](https://github.com/openset/leetcode/tree/master/solution/implement-magic-dictionary) (Medium)
+  1. [Longest Word in Dictionary through Deleting](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary-through-deleting) (Medium)
+  1. [Implement Magic Dictionary](https://github.com/openset/leetcode/tree/master/problems/implement-magic-dictionary) (Medium)

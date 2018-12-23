@@ -28,5 +28,5 @@
 
 
 ### Similar Questions
-  1. [Single Number](https://github.com/openset/leetcode/tree/master/solution/single-number) (Easy)
-  1. [Single Number III](https://github.com/openset/leetcode/tree/master/solution/single-number-iii) (Medium)
+  1. [Single Number](https://github.com/openset/leetcode/tree/master/problems/single-number) (Easy)
+  1. [Single Number III](https://github.com/openset/leetcode/tree/master/problems/single-number-iii) (Medium)

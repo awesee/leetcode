@@ -33,5 +33,5 @@ You may assume that all words are consist of lowercase letters <code>a-z</code>.
 
 
 ### Similar Questions
-  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/solution/implement-trie-prefix-tree) (Medium)
-  1. [Prefix and Suffix Search](https://github.com/openset/leetcode/tree/master/solution/prefix-and-suffix-search) (Hard)
+  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree) (Medium)
+  1. [Prefix and Suffix Search](https://github.com/openset/leetcode/tree/master/problems/prefix-and-suffix-search) (Hard)

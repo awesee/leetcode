@@ -28,5 +28,5 @@
 
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-level-order-traversal) (Medium)
-  1. [Maximum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/solution/maximum-depth-of-binary-tree) (Easy)
+  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal) (Medium)
+  1. [Maximum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-binary-tree) (Easy)

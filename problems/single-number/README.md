@@ -29,8 +29,8 @@
 
 
 ### Similar Questions
-  1. [Single Number II](https://github.com/openset/leetcode/tree/master/solution/single-number-ii) (Medium)
-  1. [Single Number III](https://github.com/openset/leetcode/tree/master/solution/single-number-iii) (Medium)
-  1. [Missing Number](https://github.com/openset/leetcode/tree/master/solution/missing-number) (Easy)
-  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/solution/find-the-duplicate-number) (Medium)
-  1. [Find the Difference](https://github.com/openset/leetcode/tree/master/solution/find-the-difference) (Easy)
+  1. [Single Number II](https://github.com/openset/leetcode/tree/master/problems/single-number-ii) (Medium)
+  1. [Single Number III](https://github.com/openset/leetcode/tree/master/problems/single-number-iii) (Medium)
+  1. [Missing Number](https://github.com/openset/leetcode/tree/master/problems/missing-number) (Easy)
+  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number) (Medium)
+  1. [Find the Difference](https://github.com/openset/leetcode/tree/master/problems/find-the-difference) (Easy)

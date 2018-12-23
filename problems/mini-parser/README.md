@@ -43,6 +43,6 @@ Return a NestedInteger object containing a nested list with 2 elements:
 </p>
 
 ### Similar Questions
-  1. [Flatten Nested List Iterator](https://github.com/openset/leetcode/tree/master/solution/flatten-nested-list-iterator) (Medium)
-  1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/solution/ternary-expression-parser) (Medium)
-  1. [Remove Comments](https://github.com/openset/leetcode/tree/master/solution/remove-comments) (Medium)
+  1. [Flatten Nested List Iterator](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator) (Medium)
+  1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser) (Medium)
+  1. [Remove Comments](https://github.com/openset/leetcode/tree/master/problems/remove-comments) (Medium)

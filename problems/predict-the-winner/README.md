@@ -36,4 +36,4 @@
 </p>
 
 ### Similar Questions
-  1. [Can I Win](https://github.com/openset/leetcode/tree/master/solution/can-i-win) (Medium)
+  1. [Can I Win](https://github.com/openset/leetcode/tree/master/problems/can-i-win) (Medium)

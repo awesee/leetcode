@@ -30,4 +30,4 @@
 
 
 ### Similar Questions
-  1. [Subsets](https://github.com/openset/leetcode/tree/master/solution/subsets) (Medium)
+  1. [Subsets](https://github.com/openset/leetcode/tree/master/problems/subsets) (Medium)

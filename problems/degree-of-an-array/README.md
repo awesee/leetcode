@@ -36,4 +36,4 @@ The shortest length is 2. So return 2.
 </p>
 
 ### Similar Questions
-  1. [Maximum Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-subarray) (Easy)
+  1. [Maximum Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray) (Easy)

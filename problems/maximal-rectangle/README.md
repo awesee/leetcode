@@ -24,5 +24,5 @@
 
 
 ### Similar Questions
-  1. [Largest Rectangle in Histogram](https://github.com/openset/leetcode/tree/master/solution/largest-rectangle-in-histogram) (Hard)
-  1. [Maximal Square](https://github.com/openset/leetcode/tree/master/solution/maximal-square) (Medium)
+  1. [Largest Rectangle in Histogram](https://github.com/openset/leetcode/tree/master/problems/largest-rectangle-in-histogram) (Hard)
+  1. [Maximal Square](https://github.com/openset/leetcode/tree/master/problems/maximal-square) (Medium)

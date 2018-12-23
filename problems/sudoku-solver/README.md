@@ -35,4 +35,4 @@
 
 
 ### Similar Questions
-  1. [Valid Sudoku](https://github.com/openset/leetcode/tree/master/solution/valid-sudoku) (Medium)
+  1. [Valid Sudoku](https://github.com/openset/leetcode/tree/master/problems/valid-sudoku) (Medium)

@@ -41,4 +41,4 @@
 
 
 ### Similar Questions
-  1. [First Bad Version](https://github.com/openset/leetcode/tree/master/solution/first-bad-version) (Easy)
+  1. [First Bad Version](https://github.com/openset/leetcode/tree/master/problems/first-bad-version) (Easy)

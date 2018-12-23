@@ -23,6 +23,6 @@ To the right of 1 there is <b>0</b> smaller element.
 
 
 ### Similar Questions
-  1. [Count of Range Sum](https://github.com/openset/leetcode/tree/master/solution/count-of-range-sum) (Hard)
-  1. [Queue Reconstruction by Height](https://github.com/openset/leetcode/tree/master/solution/queue-reconstruction-by-height) (Medium)
-  1. [Reverse Pairs](https://github.com/openset/leetcode/tree/master/solution/reverse-pairs) (Hard)
+  1. [Count of Range Sum](https://github.com/openset/leetcode/tree/master/problems/count-of-range-sum) (Hard)
+  1. [Queue Reconstruction by Height](https://github.com/openset/leetcode/tree/master/problems/queue-reconstruction-by-height) (Medium)
+  1. [Reverse Pairs](https://github.com/openset/leetcode/tree/master/problems/reverse-pairs) (Hard)

@@ -38,4 +38,4 @@ Explanation: The array cannot be partitioned into equal sum subsets.
 </p>
 
 ### Similar Questions
-  1. [Partition to K Equal Sum Subsets](https://github.com/openset/leetcode/tree/master/solution/partition-to-k-equal-sum-subsets) (Medium)
+  1. [Partition to K Equal Sum Subsets](https://github.com/openset/leetcode/tree/master/problems/partition-to-k-equal-sum-subsets) (Medium)

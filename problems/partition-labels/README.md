@@ -28,4 +28,4 @@ A partition like "ababcbacadefegde", "hijhklij" is incorrect, because it splits 
 </ol></p>
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/solution/merge-intervals) (Medium)
+  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)

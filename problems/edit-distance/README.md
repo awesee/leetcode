@@ -43,6 +43,6 @@ exection -&gt; execution (insert &#39;u&#39;)
 
 
 ### Similar Questions
-  1. [One Edit Distance](https://github.com/openset/leetcode/tree/master/solution/one-edit-distance) (Medium)
-  1. [Delete Operation for Two Strings](https://github.com/openset/leetcode/tree/master/solution/delete-operation-for-two-strings) (Medium)
-  1. [Minimum ASCII Delete Sum for Two Strings](https://github.com/openset/leetcode/tree/master/solution/minimum-ascii-delete-sum-for-two-strings) (Medium)
+  1. [One Edit Distance](https://github.com/openset/leetcode/tree/master/problems/one-edit-distance) (Medium)
+  1. [Delete Operation for Two Strings](https://github.com/openset/leetcode/tree/master/problems/delete-operation-for-two-strings) (Medium)
+  1. [Minimum ASCII Delete Sum for Two Strings](https://github.com/openset/leetcode/tree/master/problems/minimum-ascii-delete-sum-for-two-strings) (Medium)

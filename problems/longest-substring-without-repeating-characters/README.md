@@ -42,4 +42,4 @@
 
 
 ### Similar Questions
-  1. [Longest Substring with At Most Two Distinct Characters](https://github.com/openset/leetcode/tree/master/solution/longest-substring-with-at-most-two-distinct-characters) (Hard)
+  1. [Longest Substring with At Most Two Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-two-distinct-characters) (Hard)

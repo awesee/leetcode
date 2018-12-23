@@ -33,6 +33,6 @@ We could return these lists in any order, for example the answer [['Mary', 'mary
 </p>
 
 ### Similar Questions
-  1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/solution/redundant-connection) (Medium)
-  1. [Sentence Similarity](https://github.com/openset/leetcode/tree/master/solution/sentence-similarity) (Easy)
-  1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/solution/sentence-similarity-ii) (Medium)
+  1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/problems/redundant-connection) (Medium)
+  1. [Sentence Similarity](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity) (Easy)
+  1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity-ii) (Medium)

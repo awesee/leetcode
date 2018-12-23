@@ -27,5 +27,5 @@
 
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/solution/merge-intervals) (Medium)
-  1. [Range Module](https://github.com/openset/leetcode/tree/master/solution/range-module) (Hard)
+  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
+  1. [Range Module](https://github.com/openset/leetcode/tree/master/problems/range-module) (Hard)

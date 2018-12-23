@@ -33,4 +33,4 @@
 </pre>
 
 ### Similar Questions
-  1. [Spiral Matrix II](https://github.com/openset/leetcode/tree/master/solution/spiral-matrix-ii) (Medium)
+  1. [Spiral Matrix II](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-ii) (Medium)

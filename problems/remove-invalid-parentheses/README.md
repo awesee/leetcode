@@ -33,4 +33,4 @@
 </pre>
 
 ### Similar Questions
-  1. [Valid Parentheses](https://github.com/openset/leetcode/tree/master/solution/valid-parentheses) (Easy)
+  1. [Valid Parentheses](https://github.com/openset/leetcode/tree/master/problems/valid-parentheses) (Easy)

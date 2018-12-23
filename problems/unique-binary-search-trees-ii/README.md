@@ -33,5 +33,5 @@ The above output corresponds to the 5 unique BST&#39;s shown below:
 
 
 ### Similar Questions
-  1. [Unique Binary Search Trees](https://github.com/openset/leetcode/tree/master/solution/unique-binary-search-trees) (Medium)
-  1. [Different Ways to Add Parentheses](https://github.com/openset/leetcode/tree/master/solution/different-ways-to-add-parentheses) (Medium)
+  1. [Unique Binary Search Trees](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees) (Medium)
+  1. [Different Ways to Add Parentheses](https://github.com/openset/leetcode/tree/master/problems/different-ways-to-add-parentheses) (Medium)

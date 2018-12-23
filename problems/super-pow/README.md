@@ -28,4 +28,4 @@
 </div>
 
 ### Similar Questions
-  1. [Pow(x, n)](https://github.com/openset/leetcode/tree/master/solution/powx-n) (Medium)
+  1. [Pow(x, n)](https://github.com/openset/leetcode/tree/master/problems/powx-n) (Medium)

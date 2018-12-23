@@ -31,7 +31,7 @@ as <code>&quot;[1,2,3,null,null,4,5]&quot;</code>
 
 
 ### Similar Questions
-  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/solution/encode-and-decode-strings) (Medium)
-  1. [Serialize and Deserialize BST](https://github.com/openset/leetcode/tree/master/solution/serialize-and-deserialize-bst) (Medium)
-  1. [Find Duplicate Subtrees](https://github.com/openset/leetcode/tree/master/solution/find-duplicate-subtrees) (Medium)
-  1. [Serialize and Deserialize N-ary Tree](https://github.com/openset/leetcode/tree/master/solution/serialize-and-deserialize-n-ary-tree) (Hard)
+  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings) (Medium)
+  1. [Serialize and Deserialize BST](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-bst) (Medium)
+  1. [Find Duplicate Subtrees](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-subtrees) (Medium)
+  1. [Serialize and Deserialize N-ary Tree](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-n-ary-tree) (Hard)

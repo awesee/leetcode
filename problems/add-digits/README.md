@@ -22,4 +22,4 @@
 Could you do it without any loop/recursion in O(1) runtime?</p>
 
 ### Similar Questions
-  1. [Happy Number](https://github.com/openset/leetcode/tree/master/solution/happy-number) (Easy)
+  1. [Happy Number](https://github.com/openset/leetcode/tree/master/problems/happy-number) (Easy)

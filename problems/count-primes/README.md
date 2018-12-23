@@ -18,6 +18,6 @@
 </pre>
 
 ### Similar Questions
-  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/solution/ugly-number) (Easy)
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/solution/ugly-number-ii) (Medium)
-  1. [Perfect Squares](https://github.com/openset/leetcode/tree/master/solution/perfect-squares) (Medium)
+  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/problems/ugly-number) (Easy)
+  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii) (Medium)
+  1. [Perfect Squares](https://github.com/openset/leetcode/tree/master/problems/perfect-squares) (Medium)

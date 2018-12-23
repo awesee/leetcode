@@ -37,4 +37,4 @@ while the minimum difference in this tree is 1, it occurs between node 1 and nod
 
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal) (Medium)
+  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)

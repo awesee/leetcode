@@ -26,6 +26,6 @@ Then 4 is the first bad version.&nbsp;</code>
 </pre>
 
 ### Similar Questions
-  1. [Find First and Last Position of Element in Sorted Array](https://github.com/openset/leetcode/tree/master/solution/find-first-and-last-position-of-element-in-sorted-array) (Medium)
-  1. [Search Insert Position](https://github.com/openset/leetcode/tree/master/solution/search-insert-position) (Easy)
-  1. [Guess Number Higher or Lower](https://github.com/openset/leetcode/tree/master/solution/guess-number-higher-or-lower) (Easy)
+  1. [Find First and Last Position of Element in Sorted Array](https://github.com/openset/leetcode/tree/master/problems/find-first-and-last-position-of-element-in-sorted-array) (Medium)
+  1. [Search Insert Position](https://github.com/openset/leetcode/tree/master/problems/search-insert-position) (Easy)
+  1. [Guess Number Higher or Lower](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower) (Easy)

@@ -34,5 +34,5 @@
 </p>
 
 ### Similar Questions
-  1. [Teemo Attacking](https://github.com/openset/leetcode/tree/master/solution/teemo-attacking) (Medium)
-  1. [Asteroid Collision](https://github.com/openset/leetcode/tree/master/solution/asteroid-collision) (Medium)
+  1. [Teemo Attacking](https://github.com/openset/leetcode/tree/master/problems/teemo-attacking) (Medium)
+  1. [Asteroid Collision](https://github.com/openset/leetcode/tree/master/problems/asteroid-collision) (Medium)

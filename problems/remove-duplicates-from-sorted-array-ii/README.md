@@ -51,4 +51,4 @@ for (int i = 0; i &lt; len; i++) {
 
 
 ### Similar Questions
-  1. [Remove Duplicates from Sorted Array](https://github.com/openset/leetcode/tree/master/solution/remove-duplicates-from-sorted-array) (Easy)
+  1. [Remove Duplicates from Sorted Array](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array) (Easy)

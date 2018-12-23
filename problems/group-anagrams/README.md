@@ -29,5 +29,5 @@
 
 
 ### Similar Questions
-  1. [Valid Anagram](https://github.com/openset/leetcode/tree/master/solution/valid-anagram) (Easy)
-  1. [Group Shifted Strings](https://github.com/openset/leetcode/tree/master/solution/group-shifted-strings) (Medium)
+  1. [Valid Anagram](https://github.com/openset/leetcode/tree/master/problems/valid-anagram) (Easy)
+  1. [Group Shifted Strings](https://github.com/openset/leetcode/tree/master/problems/group-shifted-strings) (Medium)

@@ -54,6 +54,6 @@ for (int i = 0; i &lt; len; i++) {
 
 
 ### Similar Questions
-  1. [Remove Duplicates from Sorted Array](https://github.com/openset/leetcode/tree/master/solution/remove-duplicates-from-sorted-array) (Easy)
-  1. [Remove Linked List Elements](https://github.com/openset/leetcode/tree/master/solution/remove-linked-list-elements) (Easy)
-  1. [Move Zeroes](https://github.com/openset/leetcode/tree/master/solution/move-zeroes) (Easy)
+  1. [Remove Duplicates from Sorted Array](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array) (Easy)
+  1. [Remove Linked List Elements](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements) (Easy)
+  1. [Move Zeroes](https://github.com/openset/leetcode/tree/master/problems/move-zeroes) (Easy)

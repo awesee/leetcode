@@ -44,4 +44,4 @@
 </pre>
 
 ### Similar Questions
-  1. [Excel Sheet Column Title](https://github.com/openset/leetcode/tree/master/solution/excel-sheet-column-title) (Easy)
+  1. [Excel Sheet Column Title](https://github.com/openset/leetcode/tree/master/problems/excel-sheet-column-title) (Easy)

@@ -27,4 +27,4 @@ canConstruct("aa", "aab") -> true
 
 
 ### Similar Questions
-  1. [Stickers to Spell Word](https://github.com/openset/leetcode/tree/master/solution/stickers-to-spell-word) (Hard)
+  1. [Stickers to Spell Word](https://github.com/openset/leetcode/tree/master/problems/stickers-to-spell-word) (Hard)

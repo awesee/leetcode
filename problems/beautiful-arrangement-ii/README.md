@@ -40,4 +40,4 @@ If there are multiple answers, print any of them.
 </p>
 
 ### Similar Questions
-  1. [Beautiful Arrangement](https://github.com/openset/leetcode/tree/master/solution/beautiful-arrangement) (Medium)
+  1. [Beautiful Arrangement](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement) (Medium)

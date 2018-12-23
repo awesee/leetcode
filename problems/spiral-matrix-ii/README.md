@@ -23,4 +23,4 @@
 
 
 ### Similar Questions
-  1. [Spiral Matrix](https://github.com/openset/leetcode/tree/master/solution/spiral-matrix) (Medium)
+  1. [Spiral Matrix](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix) (Medium)

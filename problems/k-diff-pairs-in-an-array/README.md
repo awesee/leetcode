@@ -45,4 +45,4 @@ Given an array of integers and an integer <b>k</b>, you need to find the number 
 </p>
 
 ### Similar Questions
-  1. [Minimum Absolute Difference in BST](https://github.com/openset/leetcode/tree/master/solution/minimum-absolute-difference-in-bst) (Easy)
+  1. [Minimum Absolute Difference in BST](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference-in-bst) (Easy)

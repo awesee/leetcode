@@ -34,4 +34,4 @@
 
 
 ### Similar Questions
-  1. [H-Index](https://github.com/openset/leetcode/tree/master/solution/h-index) (Medium)
+  1. [H-Index](https://github.com/openset/leetcode/tree/master/problems/h-index) (Medium)

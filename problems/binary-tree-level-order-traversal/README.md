@@ -32,9 +32,9 @@ return its level order traversal as:<br />
 </p>
 
 ### Similar Questions
-  1. [Binary Tree Zigzag Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-zigzag-level-order-traversal) (Medium)
-  1. [Binary Tree Level Order Traversal II](https://github.com/openset/leetcode/tree/master/solution/binary-tree-level-order-traversal-ii) (Easy)
-  1. [Minimum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/solution/minimum-depth-of-binary-tree) (Easy)
-  1. [Binary Tree Vertical Order Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-vertical-order-traversal) (Medium)
-  1. [Average of Levels in Binary Tree](https://github.com/openset/leetcode/tree/master/solution/average-of-levels-in-binary-tree) (Easy)
-  1. [N-ary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-level-order-traversal) (Easy)
+  1. [Binary Tree Zigzag Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-zigzag-level-order-traversal) (Medium)
+  1. [Binary Tree Level Order Traversal II](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal-ii) (Easy)
+  1. [Minimum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/problems/minimum-depth-of-binary-tree) (Easy)
+  1. [Binary Tree Vertical Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-vertical-order-traversal) (Medium)
+  1. [Average of Levels in Binary Tree](https://github.com/openset/leetcode/tree/master/problems/average-of-levels-in-binary-tree) (Easy)
+  1. [N-ary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-level-order-traversal) (Easy)

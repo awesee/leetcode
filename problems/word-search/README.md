@@ -28,4 +28,4 @@ Given word = &quot;<strong>ABCB</strong>&quot;, return <strong>false</strong>.
 
 
 ### Similar Questions
-  1. [Word Search II](https://github.com/openset/leetcode/tree/master/solution/word-search-ii) (Hard)
+  1. [Word Search II](https://github.com/openset/leetcode/tree/master/problems/word-search-ii) (Hard)

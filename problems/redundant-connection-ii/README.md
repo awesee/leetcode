@@ -43,4 +43,4 @@ v   v
 </p>
 
 ### Similar Questions
-  1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/solution/redundant-connection) (Medium)
+  1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/problems/redundant-connection) (Medium)

@@ -23,4 +23,4 @@
 </pre>
 
 ### Similar Questions
-  1. [Find All Numbers Disappeared in an Array](https://github.com/openset/leetcode/tree/master/solution/find-all-numbers-disappeared-in-an-array) (Easy)
+  1. [Find All Numbers Disappeared in an Array](https://github.com/openset/leetcode/tree/master/problems/find-all-numbers-disappeared-in-an-array) (Easy)

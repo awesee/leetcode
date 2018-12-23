@@ -43,5 +43,5 @@ k = <code>3</code>
 </pre>
 
 ### Similar Questions
-  1. [Remove K Digits](https://github.com/openset/leetcode/tree/master/solution/remove-k-digits) (Medium)
-  1. [Maximum Swap](https://github.com/openset/leetcode/tree/master/solution/maximum-swap) (Medium)
+  1. [Remove K Digits](https://github.com/openset/leetcode/tree/master/problems/remove-k-digits) (Medium)
+  1. [Maximum Swap](https://github.com/openset/leetcode/tree/master/problems/maximum-swap) (Medium)

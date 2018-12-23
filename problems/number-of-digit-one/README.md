@@ -19,4 +19,4 @@
 
 
 ### Similar Questions
-  1. [Factorial Trailing Zeroes](https://github.com/openset/leetcode/tree/master/solution/factorial-trailing-zeroes) (Easy)
+  1. [Factorial Trailing Zeroes](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes) (Easy)

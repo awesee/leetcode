@@ -31,5 +31,5 @@
 
 
 ### Similar Questions
-  1. [Pow(x, n)](https://github.com/openset/leetcode/tree/master/solution/powx-n) (Medium)
-  1. [Valid Perfect Square](https://github.com/openset/leetcode/tree/master/solution/valid-perfect-square) (Easy)
+  1. [Pow(x, n)](https://github.com/openset/leetcode/tree/master/problems/powx-n) (Medium)
+  1. [Valid Perfect Square](https://github.com/openset/leetcode/tree/master/problems/valid-perfect-square) (Easy)

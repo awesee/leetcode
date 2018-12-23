@@ -34,4 +34,4 @@ The maximum length of the string is 50000.</li>
 </p>
 
 ### Similar Questions
-  1. [Valid Palindrome](https://github.com/openset/leetcode/tree/master/solution/valid-palindrome) (Easy)
+  1. [Valid Palindrome](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome) (Easy)

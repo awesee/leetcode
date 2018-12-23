@@ -24,6 +24,6 @@
 </pre>
 
 ### Similar Questions
-  1. [Linked List Cycle](https://github.com/openset/leetcode/tree/master/solution/linked-list-cycle) (Easy)
-  1. [Add Digits](https://github.com/openset/leetcode/tree/master/solution/add-digits) (Easy)
-  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/solution/ugly-number) (Easy)
+  1. [Linked List Cycle](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle) (Easy)
+  1. [Add Digits](https://github.com/openset/leetcode/tree/master/problems/add-digits) (Easy)
+  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/problems/ugly-number) (Easy)

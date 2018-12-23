@@ -38,5 +38,5 @@ rotate 2 steps to the right: [3,99,-1,-100]
 </ul>
 
 ### Similar Questions
-  1. [Rotate List](https://github.com/openset/leetcode/tree/master/solution/rotate-list) (Medium)
-  1. [Reverse Words in a String II](https://github.com/openset/leetcode/tree/master/solution/reverse-words-in-a-string-ii) (Medium)
+  1. [Rotate List](https://github.com/openset/leetcode/tree/master/problems/rotate-list) (Medium)
+  1. [Reverse Words in a String II](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-ii) (Medium)

@@ -27,6 +27,6 @@ sumRange(0, 5) -> -3
 </p>
 
 ### Similar Questions
-  1. [Range Sum Query 2D - Immutable](https://github.com/openset/leetcode/tree/master/solution/range-sum-query-2d-immutable) (Medium)
-  1. [Range Sum Query - Mutable](https://github.com/openset/leetcode/tree/master/solution/range-sum-query-mutable) (Medium)
-  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/solution/maximum-size-subarray-sum-equals-k) (Medium)
+  1. [Range Sum Query 2D - Immutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-immutable) (Medium)
+  1. [Range Sum Query - Mutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-mutable) (Medium)
+  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/problems/maximum-size-subarray-sum-equals-k) (Medium)

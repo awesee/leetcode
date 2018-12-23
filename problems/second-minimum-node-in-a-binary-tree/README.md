@@ -46,4 +46,4 @@ If no such second minimum value exists, output -1 instead.
 </p>
 
 ### Similar Questions
-  1. [Kth Smallest Element in a BST](https://github.com/openset/leetcode/tree/master/solution/kth-smallest-element-in-a-bst) (Medium)
+  1. [Kth Smallest Element in a BST](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-bst) (Medium)

@@ -21,4 +21,4 @@
 &nbsp;            removed by your friend.</pre>
 
 ### Similar Questions
-  1. [Flip Game II](https://github.com/openset/leetcode/tree/master/solution/flip-game-ii) (Medium)
+  1. [Flip Game II](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii) (Medium)

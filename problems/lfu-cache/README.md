@@ -36,5 +36,5 @@ cache.get(4);       // returns 4
 </p>
 
 ### Similar Questions
-  1. [LRU Cache](https://github.com/openset/leetcode/tree/master/solution/lru-cache) (Hard)
-  1. [Design In-Memory File System](https://github.com/openset/leetcode/tree/master/solution/design-in-memory-file-system) (Hard)
+  1. [LRU Cache](https://github.com/openset/leetcode/tree/master/problems/lru-cache) (Hard)
+  1. [Design In-Memory File System](https://github.com/openset/leetcode/tree/master/problems/design-in-memory-file-system) (Hard)

@@ -34,6 +34,6 @@ The couples' initial seating is given by <code>row[i]</code> being the value of 
 </ol>
 
 ### Similar Questions
-  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/solution/first-missing-positive) (Hard)
-  1. [Missing Number](https://github.com/openset/leetcode/tree/master/solution/missing-number) (Easy)
-  1. [K-Similar Strings](https://github.com/openset/leetcode/tree/master/solution/k-similar-strings) (Hard)
+  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive) (Hard)
+  1. [Missing Number](https://github.com/openset/leetcode/tree/master/problems/missing-number) (Easy)
+  1. [K-Similar Strings](https://github.com/openset/leetcode/tree/master/problems/k-similar-strings) (Hard)

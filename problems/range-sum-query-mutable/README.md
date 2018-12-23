@@ -30,5 +30,5 @@ sumRange(0, 2) -&gt; 8
 
 
 ### Similar Questions
-  1. [Range Sum Query - Immutable](https://github.com/openset/leetcode/tree/master/solution/range-sum-query-immutable) (Easy)
-  1. [Range Sum Query 2D - Mutable](https://github.com/openset/leetcode/tree/master/solution/range-sum-query-2d-mutable) (Hard)
+  1. [Range Sum Query - Immutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-immutable) (Easy)
+  1. [Range Sum Query 2D - Mutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-mutable) (Hard)

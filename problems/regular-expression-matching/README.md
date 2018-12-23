@@ -74,4 +74,4 @@ p = &quot;mis*is*p*.&quot;
 
 
 ### Similar Questions
-  1. [Wildcard Matching](https://github.com/openset/leetcode/tree/master/solution/wildcard-matching) (Hard)
+  1. [Wildcard Matching](https://github.com/openset/leetcode/tree/master/problems/wildcard-matching) (Hard)

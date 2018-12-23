@@ -31,4 +31,4 @@ The length of the given binary array will not exceed 50,000.
 </p>
 
 ### Similar Questions
-  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/solution/maximum-size-subarray-sum-equals-k) (Medium)
+  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/problems/maximum-size-subarray-sum-equals-k) (Medium)

@@ -52,4 +52,4 @@ circularDeque.getFront();			// return 4
 
 
 ### Similar Questions
-  1. [Design Circular Queue](https://github.com/openset/leetcode/tree/master/solution/design-circular-queue) (Medium)
+  1. [Design Circular Queue](https://github.com/openset/leetcode/tree/master/problems/design-circular-queue) (Medium)

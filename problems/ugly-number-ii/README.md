@@ -26,8 +26,8 @@
 </ol>
 
 ### Similar Questions
-  1. [Merge k Sorted Lists](https://github.com/openset/leetcode/tree/master/solution/merge-k-sorted-lists) (Hard)
-  1. [Count Primes](https://github.com/openset/leetcode/tree/master/solution/count-primes) (Easy)
-  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/solution/ugly-number) (Easy)
-  1. [Perfect Squares](https://github.com/openset/leetcode/tree/master/solution/perfect-squares) (Medium)
-  1. [Super Ugly Number](https://github.com/openset/leetcode/tree/master/solution/super-ugly-number) (Medium)
+  1. [Merge k Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-k-sorted-lists) (Hard)
+  1. [Count Primes](https://github.com/openset/leetcode/tree/master/problems/count-primes) (Easy)
+  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/problems/ugly-number) (Easy)
+  1. [Perfect Squares](https://github.com/openset/leetcode/tree/master/problems/perfect-squares) (Medium)
+  1. [Super Ugly Number](https://github.com/openset/leetcode/tree/master/problems/super-ugly-number) (Medium)

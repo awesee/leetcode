@@ -55,6 +55,6 @@
 
 
 ### Similar Questions
-  1. [Generate Parentheses](https://github.com/openset/leetcode/tree/master/solution/generate-parentheses) (Medium)
-  1. [Longest Valid Parentheses](https://github.com/openset/leetcode/tree/master/solution/longest-valid-parentheses) (Hard)
-  1. [Remove Invalid Parentheses](https://github.com/openset/leetcode/tree/master/solution/remove-invalid-parentheses) (Hard)
+  1. [Generate Parentheses](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses) (Medium)
+  1. [Longest Valid Parentheses](https://github.com/openset/leetcode/tree/master/problems/longest-valid-parentheses) (Hard)
+  1. [Remove Invalid Parentheses](https://github.com/openset/leetcode/tree/master/problems/remove-invalid-parentheses) (Hard)

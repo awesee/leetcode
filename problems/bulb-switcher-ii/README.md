@@ -55,4 +55,4 @@ Suppose <code>n</code> lights are labeled as number [1, 2, 3 ..., n], function o
 
 
 ### Similar Questions
-  1. [Bulb Switcher](https://github.com/openset/leetcode/tree/master/solution/bulb-switcher) (Medium)
+  1. [Bulb Switcher](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher) (Medium)

@@ -35,4 +35,4 @@
 
 
 ### Similar Questions
-  1. [N-Queens II](https://github.com/openset/leetcode/tree/master/solution/n-queens-ii) (Hard)
+  1. [N-Queens II](https://github.com/openset/leetcode/tree/master/problems/n-queens-ii) (Hard)

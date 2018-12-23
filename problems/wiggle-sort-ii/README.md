@@ -28,6 +28,6 @@ You may assume all input has valid answer.</p>
 Can you do it in O(n) time and/or in-place with O(1) extra space?</p>
 
 ### Similar Questions
-  1. [Sort Colors](https://github.com/openset/leetcode/tree/master/solution/sort-colors) (Medium)
-  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/solution/kth-largest-element-in-an-array) (Medium)
-  1. [Wiggle Sort](https://github.com/openset/leetcode/tree/master/solution/wiggle-sort) (Medium)
+  1. [Sort Colors](https://github.com/openset/leetcode/tree/master/problems/sort-colors) (Medium)
+  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array) (Medium)
+  1. [Wiggle Sort](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort) (Medium)

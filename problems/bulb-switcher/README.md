@@ -25,4 +25,4 @@ So you should return 1, because there is only one bulb is on.
 
 
 ### Similar Questions
-  1. [Bulb Switcher II](https://github.com/openset/leetcode/tree/master/solution/bulb-switcher-ii) (Medium)
+  1. [Bulb Switcher II](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher-ii) (Medium)

@@ -31,6 +31,6 @@ What if the inputs contain unicode characters? How would you adapt your solution
 
 
 ### Similar Questions
-  1. [Group Anagrams](https://github.com/openset/leetcode/tree/master/solution/group-anagrams) (Medium)
-  1. [Palindrome Permutation](https://github.com/openset/leetcode/tree/master/solution/palindrome-permutation) (Easy)
-  1. [Find All Anagrams in a String](https://github.com/openset/leetcode/tree/master/solution/find-all-anagrams-in-a-string) (Easy)
+  1. [Group Anagrams](https://github.com/openset/leetcode/tree/master/problems/group-anagrams) (Medium)
+  1. [Palindrome Permutation](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation) (Easy)
+  1. [Find All Anagrams in a String](https://github.com/openset/leetcode/tree/master/problems/find-all-anagrams-in-a-string) (Easy)

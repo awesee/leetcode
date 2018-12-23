@@ -42,5 +42,5 @@ What if the BST is modified (insert/delete operations) often and you need to fin
 
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal) (Medium)
-  1. [Second Minimum Node In a Binary Tree](https://github.com/openset/leetcode/tree/master/solution/second-minimum-node-in-a-binary-tree) (Easy)
+  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
+  1. [Second Minimum Node In a Binary Tree](https://github.com/openset/leetcode/tree/master/problems/second-minimum-node-in-a-binary-tree) (Easy)

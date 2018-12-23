@@ -30,4 +30,4 @@ The two tuples are:
 </p>
 
 ### Similar Questions
-  1. [4Sum](https://github.com/openset/leetcode/tree/master/solution/4sum) (Medium)
+  1. [4Sum](https://github.com/openset/leetcode/tree/master/problems/4sum) (Medium)

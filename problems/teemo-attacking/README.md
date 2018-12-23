@@ -39,6 +39,6 @@ In LOL world, there is a hero called Teemo and his attacking can make his enemy 
 </p>
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/solution/merge-intervals) (Medium)
-  1. [Can Place Flowers](https://github.com/openset/leetcode/tree/master/solution/can-place-flowers) (Easy)
-  1. [Dota2 Senate](https://github.com/openset/leetcode/tree/master/solution/dota2-senate) (Medium)
+  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
+  1. [Can Place Flowers](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers) (Easy)
+  1. [Dota2 Senate](https://github.com/openset/leetcode/tree/master/problems/dota2-senate) (Medium)

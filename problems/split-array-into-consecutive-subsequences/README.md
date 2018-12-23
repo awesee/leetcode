@@ -45,4 +45,4 @@ You can split them into two consecutive subsequences :
 </p>
 
 ### Similar Questions
-  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/solution/top-k-frequent-elements) (Medium)
+  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements) (Medium)

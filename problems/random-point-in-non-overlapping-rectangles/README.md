@@ -56,5 +56,5 @@
 
 
 ### Similar Questions
-  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/solution/random-pick-with-weight) (Medium)
-  1. [Generate Random Point in a Circle](https://github.com/openset/leetcode/tree/master/solution/generate-random-point-in-a-circle) (Medium)
+  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-weight) (Medium)
+  1. [Generate Random Point in a Circle](https://github.com/openset/leetcode/tree/master/problems/generate-random-point-in-a-circle) (Medium)

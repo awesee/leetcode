@@ -43,4 +43,4 @@ hashMap.get(2); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// returns -1 (not foun
 
 
 ### Similar Questions
-  1. [Design HashSet](https://github.com/openset/leetcode/tree/master/solution/design-hashset) (Easy)
+  1. [Design HashSet](https://github.com/openset/leetcode/tree/master/problems/design-hashset) (Easy)

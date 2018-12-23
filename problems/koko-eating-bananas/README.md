@@ -59,4 +59,4 @@
 
 
 ### Similar Questions
-  1. [Minimize Max Distance to Gas Station](https://github.com/openset/leetcode/tree/master/solution/minimize-max-distance-to-gas-station) (Hard)
+  1. [Minimize Max Distance to Gas Station](https://github.com/openset/leetcode/tree/master/problems/minimize-max-distance-to-gas-station) (Hard)

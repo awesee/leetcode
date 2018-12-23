@@ -27,4 +27,4 @@ Given an integer array, your task is to find all the different possible increasi
 </p>
 
 ### Similar Questions
-  1. [Maximum Length of Pair Chain](https://github.com/openset/leetcode/tree/master/solution/maximum-length-of-pair-chain) (Medium)
+  1. [Maximum Length of Pair Chain](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-pair-chain) (Medium)

@@ -38,8 +38,8 @@
 
 
 ### Similar Questions
-  1. [Evaluate Reverse Polish Notation](https://github.com/openset/leetcode/tree/master/solution/evaluate-reverse-polish-notation) (Medium)
-  1. [Basic Calculator II](https://github.com/openset/leetcode/tree/master/solution/basic-calculator-ii) (Medium)
-  1. [Different Ways to Add Parentheses](https://github.com/openset/leetcode/tree/master/solution/different-ways-to-add-parentheses) (Medium)
-  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/solution/expression-add-operators) (Hard)
-  1. [Basic Calculator III](https://github.com/openset/leetcode/tree/master/solution/basic-calculator-iii) (Hard)
+  1. [Evaluate Reverse Polish Notation](https://github.com/openset/leetcode/tree/master/problems/evaluate-reverse-polish-notation) (Medium)
+  1. [Basic Calculator II](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-ii) (Medium)
+  1. [Different Ways to Add Parentheses](https://github.com/openset/leetcode/tree/master/problems/different-ways-to-add-parentheses) (Medium)
+  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/problems/expression-add-operators) (Hard)
+  1. [Basic Calculator III](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iii) (Hard)

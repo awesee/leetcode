@@ -32,6 +32,6 @@ S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
 </p>
 
 ### Similar Questions
-  1. [Nested List Weight Sum](https://github.com/openset/leetcode/tree/master/solution/nested-list-weight-sum) (Easy)
-  1. [Flatten Nested List Iterator](https://github.com/openset/leetcode/tree/master/solution/flatten-nested-list-iterator) (Medium)
-  1. [Nested List Weight Sum II](https://github.com/openset/leetcode/tree/master/solution/nested-list-weight-sum-ii) (Medium)
+  1. [Nested List Weight Sum](https://github.com/openset/leetcode/tree/master/problems/nested-list-weight-sum) (Easy)
+  1. [Flatten Nested List Iterator](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator) (Medium)
+  1. [Nested List Weight Sum II](https://github.com/openset/leetcode/tree/master/problems/nested-list-weight-sum-ii) (Medium)

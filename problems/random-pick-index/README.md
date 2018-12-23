@@ -27,6 +27,6 @@ solution.pick(1);
 
 
 ### Similar Questions
-  1. [Linked List Random Node](https://github.com/openset/leetcode/tree/master/solution/linked-list-random-node) (Medium)
-  1. [Random Pick with Blacklist](https://github.com/openset/leetcode/tree/master/solution/random-pick-with-blacklist) (Hard)
-  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/solution/random-pick-with-weight) (Medium)
+  1. [Linked List Random Node](https://github.com/openset/leetcode/tree/master/problems/linked-list-random-node) (Medium)
+  1. [Random Pick with Blacklist](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-blacklist) (Hard)
+  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-weight) (Medium)

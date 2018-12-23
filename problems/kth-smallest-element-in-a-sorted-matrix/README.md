@@ -30,7 +30,7 @@ return 13.
 You may assume k is always valid, 1 &le; k &le; n<sup>2</sup>.</p>
 
 ### Similar Questions
-  1. [Find K Pairs with Smallest Sums](https://github.com/openset/leetcode/tree/master/solution/find-k-pairs-with-smallest-sums) (Medium)
-  1. [Kth Smallest Number in Multiplication Table](https://github.com/openset/leetcode/tree/master/solution/kth-smallest-number-in-multiplication-table) (Hard)
-  1. [Find K-th Smallest Pair Distance](https://github.com/openset/leetcode/tree/master/solution/find-k-th-smallest-pair-distance) (Hard)
-  1. [K-th Smallest Prime Fraction](https://github.com/openset/leetcode/tree/master/solution/k-th-smallest-prime-fraction) (Hard)
+  1. [Find K Pairs with Smallest Sums](https://github.com/openset/leetcode/tree/master/problems/find-k-pairs-with-smallest-sums) (Medium)
+  1. [Kth Smallest Number in Multiplication Table](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-number-in-multiplication-table) (Hard)
+  1. [Find K-th Smallest Pair Distance](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance) (Hard)
+  1. [K-th Smallest Prime Fraction](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-prime-fraction) (Hard)

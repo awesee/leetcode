@@ -24,6 +24,6 @@ Calling <strong><code>hasNext()</code></strong> after that should return <strong
 
 
 ### Similar Questions
-  1. [Binary Search Tree Iterator](https://github.com/openset/leetcode/tree/master/solution/binary-search-tree-iterator) (Medium)
-  1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/solution/flatten-2d-vector) (Medium)
-  1. [Zigzag Iterator](https://github.com/openset/leetcode/tree/master/solution/zigzag-iterator) (Medium)
+  1. [Binary Search Tree Iterator](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator) (Medium)
+  1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/problems/flatten-2d-vector) (Medium)
+  1. [Zigzag Iterator](https://github.com/openset/leetcode/tree/master/problems/zigzag-iterator) (Medium)

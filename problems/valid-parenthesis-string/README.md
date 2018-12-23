@@ -46,4 +46,4 @@ Given a string containing only three types of characters: '(', ')' and '*', writ
 </p>
 
 ### Similar Questions
-  1. [Special Binary String](https://github.com/openset/leetcode/tree/master/solution/special-binary-string) (Hard)
+  1. [Special Binary String](https://github.com/openset/leetcode/tree/master/problems/special-binary-string) (Hard)

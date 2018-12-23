@@ -27,4 +27,4 @@
 
 
 ### Similar Questions
-  1. [Jump Game](https://github.com/openset/leetcode/tree/master/solution/jump-game) (Medium)
+  1. [Jump Game](https://github.com/openset/leetcode/tree/master/problems/jump-game) (Medium)

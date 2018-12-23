@@ -69,4 +69,4 @@ Thus, we return an answer of <code>[2, 5, 5]</code>.
 </p>
 
 ### Similar Questions
-  1. [The Skyline Problem](https://github.com/openset/leetcode/tree/master/solution/the-skyline-problem) (Hard)
+  1. [The Skyline Problem](https://github.com/openset/leetcode/tree/master/problems/the-skyline-problem) (Hard)

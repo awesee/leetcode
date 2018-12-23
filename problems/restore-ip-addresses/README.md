@@ -18,4 +18,4 @@
 
 
 ### Similar Questions
-  1. [IP to CIDR](https://github.com/openset/leetcode/tree/master/solution/ip-to-cidr) (Easy)
+  1. [IP to CIDR](https://github.com/openset/leetcode/tree/master/problems/ip-to-cidr) (Easy)

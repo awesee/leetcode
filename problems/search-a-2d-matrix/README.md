@@ -41,4 +41,4 @@ target = 13
 
 
 ### Similar Questions
-  1. [Search a 2D Matrix II](https://github.com/openset/leetcode/tree/master/solution/search-a-2d-matrix-ii) (Medium)
+  1. [Search a 2D Matrix II](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix-ii) (Medium)

@@ -3,6 +3,8 @@ package merge_two_sorted_lists
 import (
 	"reflect"
 	"testing"
+
+	. "github.com/openset/leetcode/problems/000000"
 )
 
 type caseType struct {

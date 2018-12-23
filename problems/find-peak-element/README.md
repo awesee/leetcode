@@ -37,4 +37,4 @@
 
 
 ### Similar Questions
-  1. [Peak Index in a Mountain Array](https://github.com/openset/leetcode/tree/master/solution/peak-index-in-a-mountain-array) (Easy)
+  1. [Peak Index in a Mountain Array](https://github.com/openset/leetcode/tree/master/problems/peak-index-in-a-mountain-array) (Easy)

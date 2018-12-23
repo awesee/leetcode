@@ -60,4 +60,4 @@ The diagonal &quot;[1, 2]&quot; has different elements.
 
 
 ### Similar Questions
-  1. [Valid Word Square](https://github.com/openset/leetcode/tree/master/solution/valid-word-square) (Easy)
+  1. [Valid Word Square](https://github.com/openset/leetcode/tree/master/problems/valid-word-square) (Easy)

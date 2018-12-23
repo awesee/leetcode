@@ -43,4 +43,4 @@ collection.getRandom();
 </p>
 
 ### Similar Questions
-  1. [Insert Delete GetRandom O(1)](https://github.com/openset/leetcode/tree/master/solution/insert-delete-getrandom-o1) (Medium)
+  1. [Insert Delete GetRandom O(1)](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1) (Medium)

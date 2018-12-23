@@ -47,5 +47,5 @@ eg. [10, 20), [10, 40), and [5, 15) are still triple booked.
 
 
 ### Similar Questions
-  1. [My Calendar I](https://github.com/openset/leetcode/tree/master/solution/my-calendar-i) (Medium)
-  1. [My Calendar II](https://github.com/openset/leetcode/tree/master/solution/my-calendar-ii) (Medium)
+  1. [My Calendar I](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i) (Medium)
+  1. [My Calendar II](https://github.com/openset/leetcode/tree/master/problems/my-calendar-ii) (Medium)

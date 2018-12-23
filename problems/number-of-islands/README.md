@@ -34,9 +34,9 @@
 </pre>
 
 ### Similar Questions
-  1. [Surrounded Regions](https://github.com/openset/leetcode/tree/master/solution/surrounded-regions) (Medium)
-  1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/solution/walls-and-gates) (Medium)
-  1. [Number of Islands II](https://github.com/openset/leetcode/tree/master/solution/number-of-islands-ii) (Hard)
-  1. [Number of Connected Components in an Undirected Graph](https://github.com/openset/leetcode/tree/master/solution/number-of-connected-components-in-an-undirected-graph) (Medium)
-  1. [Number of Distinct Islands](https://github.com/openset/leetcode/tree/master/solution/number-of-distinct-islands) (Medium)
-  1. [Max Area of Island](https://github.com/openset/leetcode/tree/master/solution/max-area-of-island) (Medium)
+  1. [Surrounded Regions](https://github.com/openset/leetcode/tree/master/problems/surrounded-regions) (Medium)
+  1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/problems/walls-and-gates) (Medium)
+  1. [Number of Islands II](https://github.com/openset/leetcode/tree/master/problems/number-of-islands-ii) (Hard)
+  1. [Number of Connected Components in an Undirected Graph](https://github.com/openset/leetcode/tree/master/problems/number-of-connected-components-in-an-undirected-graph) (Medium)
+  1. [Number of Distinct Islands](https://github.com/openset/leetcode/tree/master/problems/number-of-distinct-islands) (Medium)
+  1. [Max Area of Island](https://github.com/openset/leetcode/tree/master/problems/max-area-of-island) (Medium)

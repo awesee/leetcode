@@ -41,4 +41,4 @@ sentence = "the cattle was rattled by the battery"
 </p>
 
 ### Similar Questions
-  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/solution/implement-trie-prefix-tree) (Medium)
+  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree) (Medium)

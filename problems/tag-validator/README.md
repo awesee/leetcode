@@ -75,4 +75,4 @@ The reason why cdata is NOT <b>"&lt;![CDATA[&lt;div>]>]]>]]>"</b> is because of 
 </p>
 
 ### Similar Questions
-  1. [Add Bold Tag in String](https://github.com/openset/leetcode/tree/master/solution/add-bold-tag-in-string) (Medium)
+  1. [Add Bold Tag in String](https://github.com/openset/leetcode/tree/master/problems/add-bold-tag-in-string) (Medium)

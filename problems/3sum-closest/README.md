@@ -19,5 +19,5 @@ The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
 
 
 ### Similar Questions
-  1. [3Sum](https://github.com/openset/leetcode/tree/master/solution/3sum) (Medium)
-  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/solution/3sum-smaller) (Medium)
+  1. [3Sum](https://github.com/openset/leetcode/tree/master/problems/3sum) (Medium)
+  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller) (Medium)

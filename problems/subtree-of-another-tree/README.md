@@ -52,5 +52,5 @@ Return <b>false</b>.
 </p>
 
 ### Similar Questions
-  1. [Count Univalue Subtrees](https://github.com/openset/leetcode/tree/master/solution/count-univalue-subtrees) (Medium)
-  1. [Most Frequent Subtree Sum](https://github.com/openset/leetcode/tree/master/solution/most-frequent-subtree-sum) (Medium)
+  1. [Count Univalue Subtrees](https://github.com/openset/leetcode/tree/master/problems/count-univalue-subtrees) (Medium)
+  1. [Most Frequent Subtree Sum](https://github.com/openset/leetcode/tree/master/problems/most-frequent-subtree-sum) (Medium)

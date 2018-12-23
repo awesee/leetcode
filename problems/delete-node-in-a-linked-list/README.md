@@ -44,4 +44,4 @@
 
 
 ### Similar Questions
-  1. [Remove Linked List Elements](https://github.com/openset/leetcode/tree/master/solution/remove-linked-list-elements) (Easy)
+  1. [Remove Linked List Elements](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements) (Easy)

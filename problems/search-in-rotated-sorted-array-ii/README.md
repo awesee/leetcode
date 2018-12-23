@@ -35,4 +35,4 @@
 
 
 ### Similar Questions
-  1. [Search in Rotated Sorted Array](https://github.com/openset/leetcode/tree/master/solution/search-in-rotated-sorted-array) (Medium)
+  1. [Search in Rotated Sorted Array](https://github.com/openset/leetcode/tree/master/problems/search-in-rotated-sorted-array) (Medium)

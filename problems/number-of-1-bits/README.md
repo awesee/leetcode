@@ -51,10 +51,10 @@
 
 
 ### Similar Questions
-  1. [Reverse Bits](https://github.com/openset/leetcode/tree/master/solution/reverse-bits) (Easy)
-  1. [Power of Two](https://github.com/openset/leetcode/tree/master/solution/power-of-two) (Easy)
-  1. [Counting Bits](https://github.com/openset/leetcode/tree/master/solution/counting-bits) (Medium)
-  1. [Binary Watch](https://github.com/openset/leetcode/tree/master/solution/binary-watch) (Easy)
-  1. [Hamming Distance](https://github.com/openset/leetcode/tree/master/solution/hamming-distance) (Easy)
-  1. [Binary Number with Alternating Bits](https://github.com/openset/leetcode/tree/master/solution/binary-number-with-alternating-bits) (Easy)
-  1. [Prime Number of Set Bits in Binary Representation](https://github.com/openset/leetcode/tree/master/solution/prime-number-of-set-bits-in-binary-representation) (Easy)
+  1. [Reverse Bits](https://github.com/openset/leetcode/tree/master/problems/reverse-bits) (Easy)
+  1. [Power of Two](https://github.com/openset/leetcode/tree/master/problems/power-of-two) (Easy)
+  1. [Counting Bits](https://github.com/openset/leetcode/tree/master/problems/counting-bits) (Medium)
+  1. [Binary Watch](https://github.com/openset/leetcode/tree/master/problems/binary-watch) (Easy)
+  1. [Hamming Distance](https://github.com/openset/leetcode/tree/master/problems/hamming-distance) (Easy)
+  1. [Binary Number with Alternating Bits](https://github.com/openset/leetcode/tree/master/problems/binary-number-with-alternating-bits) (Easy)
+  1. [Prime Number of Set Bits in Binary Representation](https://github.com/openset/leetcode/tree/master/problems/prime-number-of-set-bits-in-binary-representation) (Easy)

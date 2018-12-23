@@ -43,9 +43,9 @@
 
 
 ### Similar Questions
-  1. [Letter Combinations of a Phone Number](https://github.com/openset/leetcode/tree/master/solution/letter-combinations-of-a-phone-number) (Medium)
-  1. [Combination Sum II](https://github.com/openset/leetcode/tree/master/solution/combination-sum-ii) (Medium)
-  1. [Combinations](https://github.com/openset/leetcode/tree/master/solution/combinations) (Medium)
-  1. [Combination Sum III](https://github.com/openset/leetcode/tree/master/solution/combination-sum-iii) (Medium)
-  1. [Factor Combinations](https://github.com/openset/leetcode/tree/master/solution/factor-combinations) (Medium)
-  1. [Combination Sum IV](https://github.com/openset/leetcode/tree/master/solution/combination-sum-iv) (Medium)
+  1. [Letter Combinations of a Phone Number](https://github.com/openset/leetcode/tree/master/problems/letter-combinations-of-a-phone-number) (Medium)
+  1. [Combination Sum II](https://github.com/openset/leetcode/tree/master/problems/combination-sum-ii) (Medium)
+  1. [Combinations](https://github.com/openset/leetcode/tree/master/problems/combinations) (Medium)
+  1. [Combination Sum III](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iii) (Medium)
+  1. [Factor Combinations](https://github.com/openset/leetcode/tree/master/problems/factor-combinations) (Medium)
+  1. [Combination Sum IV](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iv) (Medium)

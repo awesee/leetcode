@@ -40,4 +40,4 @@ A student could be rewarded if his attendance record doesn't contain <b>more tha
 
 
 ### Similar Questions
-  1. [Student Attendance Record II](https://github.com/openset/leetcode/tree/master/solution/student-attendance-record-ii) (Hard)
+  1. [Student Attendance Record II](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-ii) (Hard)

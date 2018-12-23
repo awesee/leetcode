@@ -45,5 +45,5 @@
 
 
 ### Similar Questions
-  1. [Next Permutation](https://github.com/openset/leetcode/tree/master/solution/next-permutation) (Medium)
-  1. [Permutations](https://github.com/openset/leetcode/tree/master/solution/permutations) (Medium)
+  1. [Next Permutation](https://github.com/openset/leetcode/tree/master/problems/next-permutation) (Medium)
+  1. [Permutations](https://github.com/openset/leetcode/tree/master/problems/permutations) (Medium)

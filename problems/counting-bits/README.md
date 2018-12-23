@@ -31,4 +31,4 @@
 </ul>
 
 ### Similar Questions
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/solution/number-of-1-bits) (Easy)
+  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)

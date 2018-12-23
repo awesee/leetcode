@@ -39,4 +39,4 @@
 
 
 ### Similar Questions
-  1. [Search in a Sorted Array of Unknown Size](https://github.com/openset/leetcode/tree/master/solution/search-in-a-sorted-array-of-unknown-size) (Medium)
+  1. [Search in a Sorted Array of Unknown Size](https://github.com/openset/leetcode/tree/master/problems/search-in-a-sorted-array-of-unknown-size) (Medium)

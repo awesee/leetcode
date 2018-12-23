@@ -25,4 +25,4 @@
 
 
 ### Similar Questions
-  1. [Remove Duplicates from Sorted List](https://github.com/openset/leetcode/tree/master/solution/remove-duplicates-from-sorted-list) (Easy)
+  1. [Remove Duplicates from Sorted List](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list) (Easy)

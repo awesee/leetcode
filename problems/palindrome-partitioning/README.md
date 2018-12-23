@@ -24,4 +24,4 @@
 
 
 ### Similar Questions
-  1. [Palindrome Partitioning II](https://github.com/openset/leetcode/tree/master/solution/palindrome-partitioning-ii) (Hard)
+  1. [Palindrome Partitioning II](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-ii) (Hard)

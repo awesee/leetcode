@@ -45,4 +45,4 @@
 
 
 ### Similar Questions
-  1. [Random Point in Non-overlapping Rectangles](https://github.com/openset/leetcode/tree/master/solution/random-point-in-non-overlapping-rectangles) (Medium)
+  1. [Random Point in Non-overlapping Rectangles](https://github.com/openset/leetcode/tree/master/problems/random-point-in-non-overlapping-rectangles) (Medium)

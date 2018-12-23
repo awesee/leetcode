@@ -50,5 +50,5 @@ for (int i = 0; i &lt; len; i++) {
 
 
 ### Similar Questions
-  1. [Remove Element](https://github.com/openset/leetcode/tree/master/solution/remove-element) (Easy)
-  1. [Remove Duplicates from Sorted Array II](https://github.com/openset/leetcode/tree/master/solution/remove-duplicates-from-sorted-array-ii) (Medium)
+  1. [Remove Element](https://github.com/openset/leetcode/tree/master/problems/remove-element) (Easy)
+  1. [Remove Duplicates from Sorted Array II](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array-ii) (Medium)

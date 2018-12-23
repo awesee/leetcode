@@ -42,4 +42,4 @@ Return 4.
 
 
 ### Similar Questions
-  1. [Trapping Rain Water](https://github.com/openset/leetcode/tree/master/solution/trapping-rain-water) (Hard)
+  1. [Trapping Rain Water](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water) (Hard)

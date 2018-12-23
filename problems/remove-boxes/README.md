@@ -37,4 +37,4 @@ The number of boxes <code>n</code> would not exceed 100.
 
 
 ### Similar Questions
-  1. [Strange Printer](https://github.com/openset/leetcode/tree/master/solution/strange-printer) (Hard)
+  1. [Strange Printer](https://github.com/openset/leetcode/tree/master/problems/strange-printer) (Hard)

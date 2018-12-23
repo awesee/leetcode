@@ -24,9 +24,9 @@ return [<strong>0</strong>, <strong>1</strong>].
 
 
 ### Similar Questions
-  1. [3Sum](https://github.com/openset/leetcode/tree/master/solution/3sum) (Medium)
-  1. [4Sum](https://github.com/openset/leetcode/tree/master/solution/4sum) (Medium)
-  1. [Two Sum II - Input array is sorted](https://github.com/openset/leetcode/tree/master/solution/two-sum-ii-input-array-is-sorted) (Easy)
-  1. [Two Sum III - Data structure design](https://github.com/openset/leetcode/tree/master/solution/two-sum-iii-data-structure-design) (Easy)
-  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/solution/subarray-sum-equals-k) (Medium)
-  1. [Two Sum IV - Input is a BST](https://github.com/openset/leetcode/tree/master/solution/two-sum-iv-input-is-a-bst) (Easy)
+  1. [3Sum](https://github.com/openset/leetcode/tree/master/problems/3sum) (Medium)
+  1. [4Sum](https://github.com/openset/leetcode/tree/master/problems/4sum) (Medium)
+  1. [Two Sum II - Input array is sorted](https://github.com/openset/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted) (Easy)
+  1. [Two Sum III - Data structure design](https://github.com/openset/leetcode/tree/master/problems/two-sum-iii-data-structure-design) (Easy)
+  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)
+  1. [Two Sum IV - Input is a BST](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst) (Easy)

@@ -45,4 +45,4 @@ The total probability the knight stays on the board is 0.0625.
 
 
 ### Similar Questions
-  1. [Out of Boundary Paths](https://github.com/openset/leetcode/tree/master/solution/out-of-boundary-paths) (Medium)
+  1. [Out of Boundary Paths](https://github.com/openset/leetcode/tree/master/problems/out-of-boundary-paths) (Medium)

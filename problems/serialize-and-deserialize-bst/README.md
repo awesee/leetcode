@@ -20,6 +20,6 @@
 </p>
 
 ### Similar Questions
-  1. [Serialize and Deserialize Binary Tree](https://github.com/openset/leetcode/tree/master/solution/serialize-and-deserialize-binary-tree) (Hard)
-  1. [Find Duplicate Subtrees](https://github.com/openset/leetcode/tree/master/solution/find-duplicate-subtrees) (Medium)
-  1. [Serialize and Deserialize N-ary Tree](https://github.com/openset/leetcode/tree/master/solution/serialize-and-deserialize-n-ary-tree) (Hard)
+  1. [Serialize and Deserialize Binary Tree](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-binary-tree) (Hard)
+  1. [Find Duplicate Subtrees](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-subtrees) (Medium)
+  1. [Serialize and Deserialize N-ary Tree](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-n-ary-tree) (Hard)

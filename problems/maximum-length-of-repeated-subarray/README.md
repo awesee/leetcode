@@ -28,4 +28,4 @@ The repeated subarray with maximum length is [3, 2, 1].
 </p>
 
 ### Similar Questions
-  1. [Minimum Size Subarray Sum](https://github.com/openset/leetcode/tree/master/solution/minimum-size-subarray-sum) (Medium)
+  1. [Minimum Size Subarray Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-size-subarray-sum) (Medium)

@@ -57,4 +57,4 @@ If there is exactly one solution for the equation, we ensure that the value of <
 </p>
 
 ### Similar Questions
-  1. [Fraction Addition and Subtraction](https://github.com/openset/leetcode/tree/master/solution/fraction-addition-and-subtraction) (Medium)
+  1. [Fraction Addition and Subtraction](https://github.com/openset/leetcode/tree/master/problems/fraction-addition-and-subtraction) (Medium)

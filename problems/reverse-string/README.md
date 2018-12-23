@@ -29,5 +29,5 @@
 
 
 ### Similar Questions
-  1. [Reverse Vowels of a String](https://github.com/openset/leetcode/tree/master/solution/reverse-vowels-of-a-string) (Easy)
-  1. [Reverse String II](https://github.com/openset/leetcode/tree/master/solution/reverse-string-ii) (Easy)
+  1. [Reverse Vowels of a String](https://github.com/openset/leetcode/tree/master/problems/reverse-vowels-of-a-string) (Easy)
+  1. [Reverse String II](https://github.com/openset/leetcode/tree/master/problems/reverse-string-ii) (Easy)

@@ -28,4 +28,4 @@ In a complete binary tree every level, except possibly the last, is completely f
 
 
 ### Similar Questions
-  1. [Closest Binary Search Tree Value](https://github.com/openset/leetcode/tree/master/solution/closest-binary-search-tree-value) (Easy)
+  1. [Closest Binary Search Tree Value](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value) (Easy)

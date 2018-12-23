@@ -20,7 +20,7 @@
 
 
 ### Similar Questions
-  1. [Container With Most Water](https://github.com/openset/leetcode/tree/master/solution/container-with-most-water) (Medium)
-  1. [Product of Array Except Self](https://github.com/openset/leetcode/tree/master/solution/product-of-array-except-self) (Medium)
-  1. [Trapping Rain Water II](https://github.com/openset/leetcode/tree/master/solution/trapping-rain-water-ii) (Hard)
-  1. [Pour Water](https://github.com/openset/leetcode/tree/master/solution/pour-water) (Medium)
+  1. [Container With Most Water](https://github.com/openset/leetcode/tree/master/problems/container-with-most-water) (Medium)
+  1. [Product of Array Except Self](https://github.com/openset/leetcode/tree/master/problems/product-of-array-except-self) (Medium)
+  1. [Trapping Rain Water II](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water-ii) (Hard)
+  1. [Pour Water](https://github.com/openset/leetcode/tree/master/problems/pour-water) (Medium)

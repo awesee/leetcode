@@ -41,4 +41,4 @@ Now your task is to find the maximum number of strings that you can form with gi
 </p>
 
 ### Similar Questions
-  1. [Non-negative Integers without Consecutive Ones](https://github.com/openset/leetcode/tree/master/solution/non-negative-integers-without-consecutive-ones) (Hard)
+  1. [Non-negative Integers without Consecutive Ones](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones) (Hard)

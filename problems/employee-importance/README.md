@@ -30,4 +30,4 @@ Employee 1 has importance value 5, and he has two direct subordinates: employee 
 </p>
 
 ### Similar Questions
-  1. [Nested List Weight Sum](https://github.com/openset/leetcode/tree/master/solution/nested-list-weight-sum) (Easy)
+  1. [Nested List Weight Sum](https://github.com/openset/leetcode/tree/master/problems/nested-list-weight-sum) (Easy)

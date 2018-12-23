@@ -34,4 +34,4 @@
 
 
 ### Similar Questions
-  1. [Split Linked List in Parts](https://github.com/openset/leetcode/tree/master/solution/split-linked-list-in-parts) (Medium)
+  1. [Split Linked List in Parts](https://github.com/openset/leetcode/tree/master/problems/split-linked-list-in-parts) (Medium)

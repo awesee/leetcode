@@ -22,6 +22,6 @@
 
 
 ### Similar Questions
-  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/solution/minimum-window-substring) (Hard)
-  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/solution/maximum-size-subarray-sum-equals-k) (Medium)
-  1. [Maximum Length of Repeated Subarray](https://github.com/openset/leetcode/tree/master/solution/maximum-length-of-repeated-subarray) (Medium)
+  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) (Hard)
+  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/problems/maximum-size-subarray-sum-equals-k) (Medium)
+  1. [Maximum Length of Repeated Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-repeated-subarray) (Medium)

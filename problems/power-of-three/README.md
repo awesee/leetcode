@@ -38,5 +38,5 @@
 Could you do it without using any loop / recursion?</p>
 
 ### Similar Questions
-  1. [Power of Two](https://github.com/openset/leetcode/tree/master/solution/power-of-two) (Easy)
-  1. [Power of Four](https://github.com/openset/leetcode/tree/master/solution/power-of-four) (Easy)
+  1. [Power of Two](https://github.com/openset/leetcode/tree/master/problems/power-of-two) (Easy)
+  1. [Power of Four](https://github.com/openset/leetcode/tree/master/problems/power-of-four) (Easy)

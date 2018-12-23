@@ -26,6 +26,6 @@
 
 
 ### Similar Questions
-  1. [Unique Paths](https://github.com/openset/leetcode/tree/master/solution/unique-paths) (Medium)
-  1. [Dungeon Game](https://github.com/openset/leetcode/tree/master/solution/dungeon-game) (Hard)
-  1. [Cherry Pickup](https://github.com/openset/leetcode/tree/master/solution/cherry-pickup) (Hard)
+  1. [Unique Paths](https://github.com/openset/leetcode/tree/master/problems/unique-paths) (Medium)
+  1. [Dungeon Game](https://github.com/openset/leetcode/tree/master/problems/dungeon-game) (Hard)
+  1. [Cherry Pickup](https://github.com/openset/leetcode/tree/master/problems/cherry-pickup) (Hard)

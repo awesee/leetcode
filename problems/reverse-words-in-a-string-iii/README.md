@@ -21,4 +21,4 @@ In the string, each word is separated by single space and there will not be any 
 </p>
 
 ### Similar Questions
-  1. [Reverse String II](https://github.com/openset/leetcode/tree/master/solution/reverse-string-ii) (Easy)
+  1. [Reverse String II](https://github.com/openset/leetcode/tree/master/problems/reverse-string-ii) (Easy)

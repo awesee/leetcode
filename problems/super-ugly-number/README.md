@@ -30,4 +30,4 @@
 
 
 ### Similar Questions
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/solution/ugly-number-ii) (Medium)
+  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii) (Medium)

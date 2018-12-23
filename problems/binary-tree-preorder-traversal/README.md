@@ -26,6 +26,6 @@
 
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/solution/binary-tree-inorder-traversal) (Medium)
-  1. [Verify Preorder Sequence in Binary Search Tree](https://github.com/openset/leetcode/tree/master/solution/verify-preorder-sequence-in-binary-search-tree) (Medium)
-  1. [N-ary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/solution/n-ary-tree-preorder-traversal) (Easy)
+  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
+  1. [Verify Preorder Sequence in Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/verify-preorder-sequence-in-binary-search-tree) (Medium)
+  1. [N-ary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-preorder-traversal) (Easy)

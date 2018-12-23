@@ -24,5 +24,5 @@ The length of given array won't exceed 10000.
 </p>
 
 ### Similar Questions
-  1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-i) (Easy)
-  1. [Next Greater Element III](https://github.com/openset/leetcode/tree/master/solution/next-greater-element-iii) (Medium)
+  1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-i) (Easy)
+  1. [Next Greater Element III](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-iii) (Medium)

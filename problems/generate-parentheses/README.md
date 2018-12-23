@@ -25,5 +25,5 @@ For example, given <i>n</i> = 3, a solution set is:
 </pre>
 
 ### Similar Questions
-  1. [Letter Combinations of a Phone Number](https://github.com/openset/leetcode/tree/master/solution/letter-combinations-of-a-phone-number) (Medium)
-  1. [Valid Parentheses](https://github.com/openset/leetcode/tree/master/solution/valid-parentheses) (Easy)
+  1. [Letter Combinations of a Phone Number](https://github.com/openset/leetcode/tree/master/problems/letter-combinations-of-a-phone-number) (Medium)
+  1. [Valid Parentheses](https://github.com/openset/leetcode/tree/master/problems/valid-parentheses) (Easy)

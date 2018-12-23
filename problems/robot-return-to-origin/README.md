@@ -33,4 +33,4 @@
 
 
 ### Similar Questions
-  1. [Friend Circles](https://github.com/openset/leetcode/tree/master/solution/friend-circles) (Medium)
+  1. [Friend Circles](https://github.com/openset/leetcode/tree/master/problems/friend-circles) (Medium)

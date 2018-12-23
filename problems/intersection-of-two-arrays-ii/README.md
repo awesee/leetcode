@@ -41,4 +41,4 @@
 
 
 ### Similar Questions
-  1. [Intersection of Two Arrays](https://github.com/openset/leetcode/tree/master/solution/intersection-of-two-arrays) (Easy)
+  1. [Intersection of Two Arrays](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays) (Easy)

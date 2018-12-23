@@ -23,6 +23,6 @@
 <strong>Output:</strong> <code>&quot;dcbabcd&quot;</code></pre>
 
 ### Similar Questions
-  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/solution/longest-palindromic-substring) (Medium)
-  1. [Implement strStr()](https://github.com/openset/leetcode/tree/master/solution/implement-strstr) (Easy)
-  1. [Palindrome Pairs](https://github.com/openset/leetcode/tree/master/solution/palindrome-pairs) (Hard)
+  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-substring) (Medium)
+  1. [Implement strStr()](https://github.com/openset/leetcode/tree/master/problems/implement-strstr) (Easy)
+  1. [Palindrome Pairs](https://github.com/openset/leetcode/tree/master/problems/palindrome-pairs) (Hard)

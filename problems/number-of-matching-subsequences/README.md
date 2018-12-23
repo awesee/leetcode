@@ -29,4 +29,4 @@ words = [&quot;a&quot;, &quot;bb&quot;, &quot;acd&quot;, &quot;ace&quot;]
 
 
 ### Similar Questions
-  1. [Is Subsequence](https://github.com/openset/leetcode/tree/master/solution/is-subsequence) (Medium)
+  1. [Is Subsequence](https://github.com/openset/leetcode/tree/master/problems/is-subsequence) (Medium)

@@ -45,4 +45,4 @@
 
 
 ### Similar Questions
-  1. [Flatten Binary Tree to Linked List](https://github.com/openset/leetcode/tree/master/solution/flatten-binary-tree-to-linked-list) (Medium)
+  1. [Flatten Binary Tree to Linked List](https://github.com/openset/leetcode/tree/master/problems/flatten-binary-tree-to-linked-list) (Medium)

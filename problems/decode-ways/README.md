@@ -35,4 +35,4 @@
 
 
 ### Similar Questions
-  1. [Decode Ways II](https://github.com/openset/leetcode/tree/master/solution/decode-ways-ii) (Hard)
+  1. [Decode Ways II](https://github.com/openset/leetcode/tree/master/problems/decode-ways-ii) (Hard)

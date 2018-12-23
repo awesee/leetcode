@@ -41,8 +41,8 @@
 
 
 ### Similar Questions
-  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/solution/course-schedule) (Medium)
-  1. [Alien Dictionary](https://github.com/openset/leetcode/tree/master/solution/alien-dictionary) (Hard)
-  1. [Minimum Height Trees](https://github.com/openset/leetcode/tree/master/solution/minimum-height-trees) (Medium)
-  1. [Sequence Reconstruction](https://github.com/openset/leetcode/tree/master/solution/sequence-reconstruction) (Medium)
-  1. [Course Schedule III](https://github.com/openset/leetcode/tree/master/solution/course-schedule-iii) (Hard)
+  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/problems/course-schedule) (Medium)
+  1. [Alien Dictionary](https://github.com/openset/leetcode/tree/master/problems/alien-dictionary) (Hard)
+  1. [Minimum Height Trees](https://github.com/openset/leetcode/tree/master/problems/minimum-height-trees) (Medium)
+  1. [Sequence Reconstruction](https://github.com/openset/leetcode/tree/master/problems/sequence-reconstruction) (Medium)
+  1. [Course Schedule III](https://github.com/openset/leetcode/tree/master/problems/course-schedule-iii) (Hard)

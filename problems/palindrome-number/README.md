@@ -38,4 +38,4 @@
 
 
 ### Similar Questions
-  1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/solution/palindrome-linked-list) (Easy)
+  1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/problems/palindrome-linked-list) (Easy)

@@ -36,4 +36,4 @@ The input will be two strings, and the output needs to be the length of the long
 </p>
 
 ### Similar Questions
-  1. [Longest Uncommon Subsequence II](https://github.com/openset/leetcode/tree/master/solution/longest-uncommon-subsequence-ii) (Medium)
+  1. [Longest Uncommon Subsequence II](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-ii) (Medium)

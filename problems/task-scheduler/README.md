@@ -34,5 +34,5 @@
 
 
 ### Similar Questions
-  1. [Rearrange String k Distance Apart](https://github.com/openset/leetcode/tree/master/solution/rearrange-string-k-distance-apart) (Hard)
-  1. [Reorganize String](https://github.com/openset/leetcode/tree/master/solution/reorganize-string) (Medium)
+  1. [Rearrange String k Distance Apart](https://github.com/openset/leetcode/tree/master/problems/rearrange-string-k-distance-apart) (Hard)
+  1. [Reorganize String](https://github.com/openset/leetcode/tree/master/problems/reorganize-string) (Medium)

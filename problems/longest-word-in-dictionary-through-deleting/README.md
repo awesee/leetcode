@@ -40,4 +40,4 @@ s = "abpcplea", d = ["a","b","c"]
 </p>
 
 ### Similar Questions
-  1. [Longest Word in Dictionary](https://github.com/openset/leetcode/tree/master/solution/longest-word-in-dictionary) (Easy)
+  1. [Longest Word in Dictionary](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary) (Easy)

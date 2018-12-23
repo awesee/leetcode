@@ -39,5 +39,5 @@ The third event can be booked, as the first event takes every time less than 20,
 </p>
 
 ### Similar Questions
-  1. [My Calendar II](https://github.com/openset/leetcode/tree/master/solution/my-calendar-ii) (Medium)
-  1. [My Calendar III](https://github.com/openset/leetcode/tree/master/solution/my-calendar-iii) (Hard)
+  1. [My Calendar II](https://github.com/openset/leetcode/tree/master/problems/my-calendar-ii) (Medium)
+  1. [My Calendar III](https://github.com/openset/leetcode/tree/master/problems/my-calendar-iii) (Hard)

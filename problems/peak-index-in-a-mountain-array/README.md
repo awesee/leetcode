@@ -41,4 +41,4 @@
 
 
 ### Similar Questions
-  1. [Find Peak Element](https://github.com/openset/leetcode/tree/master/solution/find-peak-element) (Medium)
+  1. [Find Peak Element](https://github.com/openset/leetcode/tree/master/problems/find-peak-element) (Medium)

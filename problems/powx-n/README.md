@@ -40,5 +40,5 @@
 
 
 ### Similar Questions
-  1. [Sqrt(x)](https://github.com/openset/leetcode/tree/master/solution/sqrtx) (Easy)
-  1. [Super Pow](https://github.com/openset/leetcode/tree/master/solution/super-pow) (Medium)
+  1. [Sqrt(x)](https://github.com/openset/leetcode/tree/master/problems/sqrtx) (Easy)
+  1. [Super Pow](https://github.com/openset/leetcode/tree/master/problems/super-pow) (Medium)
