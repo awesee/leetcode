@@ -15,6 +15,7 @@ Usage:
 The commands are:
 	readme      	build README.md file
 	page        	build index.md file
+	tag         	build all tags file
 	helper      	build helper file
 	question    	build problem description file
 	open        	open a problem solution in browser

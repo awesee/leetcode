@@ -1,87 +1,87 @@
 [
   {
-    "title": "Array",
-    "titleSlug": "array",
-    "translatedTitle": "数组"
+    "name": "Array",
+    "slug": "array",
+    "translatedName": "数组"
   },
   {
-    "title": "Dynamic Programming",
-    "titleSlug": "dynamic-programming",
-    "translatedTitle": "动态规划"
+    "name": "Dynamic Programming",
+    "slug": "dynamic-programming",
+    "translatedName": "动态规划"
   },
   {
-    "title": "String",
-    "titleSlug": "string",
-    "translatedTitle": "字符串"
+    "name": "String",
+    "slug": "string",
+    "translatedName": "字符串"
   },
   {
-    "title": "Math",
-    "titleSlug": "math",
-    "translatedTitle": "数学"
+    "name": "Math",
+    "slug": "math",
+    "translatedName": "数学"
   },
   {
-    "title": "Tree",
-    "titleSlug": "tree",
-    "translatedTitle": "树"
+    "name": "Tree",
+    "slug": "tree",
+    "translatedName": "树"
   },
   {
-    "title": "Hash Table",
-    "titleSlug": "hash-table",
-    "translatedTitle": "哈希表"
+    "name": "Hash Table",
+    "slug": "hash-table",
+    "translatedName": "哈希表"
   },
   {
-    "title": "Depth-first Search",
-    "titleSlug": "depth-first-search",
-    "translatedTitle": "深度优先搜索"
+    "name": "Depth-first Search",
+    "slug": "depth-first-search",
+    "translatedName": "深度优先搜索"
   },
   {
-    "title": "Binary Search",
-    "titleSlug": "binary-search",
-    "translatedTitle": "二分查找"
+    "name": "Binary Search",
+    "slug": "binary-search",
+    "translatedName": "二分查找"
   },
   {
-    "title": "Two Pointers",
-    "titleSlug": "two-pointers",
-    "translatedTitle": "双指针"
+    "name": "Two Pointers",
+    "slug": "two-pointers",
+    "translatedName": "双指针"
   },
   {
-    "title": "Breadth-first Search",
-    "titleSlug": "breadth-first-search",
-    "translatedTitle": "广度优先搜索"
+    "name": "Breadth-first Search",
+    "slug": "breadth-first-search",
+    "translatedName": "广度优先搜索"
   },
   {
-    "title": "Greedy",
-    "titleSlug": "greedy",
-    "translatedTitle": "贪心算法"
+    "name": "Greedy",
+    "slug": "greedy",
+    "translatedName": "贪心算法"
   },
   {
-    "title": "Stack",
-    "titleSlug": "stack",
-    "translatedTitle": "栈"
+    "name": "Stack",
+    "slug": "stack",
+    "translatedName": "栈"
   },
   {
-    "title": "Backtracking",
-    "titleSlug": "backtracking",
-    "translatedTitle": "回溯算法"
+    "name": "Backtracking",
+    "slug": "backtracking",
+    "translatedName": "回溯算法"
   },
   {
-    "title": "Design",
-    "titleSlug": "design",
-    "translatedTitle": "设计"
+    "name": "Design",
+    "slug": "design",
+    "translatedName": "设计"
   },
   {
-    "title": "Linked List",
-    "titleSlug": "linked-list",
-    "translatedTitle": "链表"
+    "name": "Linked List",
+    "slug": "linked-list",
+    "translatedName": "链表"
   },
   {
-    "title": "Bit Manipulation",
-    "titleSlug": "bit-manipulation",
-    "translatedTitle": "位运算"
+    "name": "Bit Manipulation",
+    "slug": "bit-manipulation",
+    "translatedName": "位运算"
   },
   {
-    "title": "Heap",
-    "titleSlug": "heap",
-    "translatedTitle": "堆"
+    "name": "Heap",
+    "slug": "heap",
+    "translatedName": "堆"
   }
 ]
