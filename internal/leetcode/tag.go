@@ -13,6 +13,20 @@ func GetTags() (tags []tagType) {
 	return
 }
 
+func SaveTags(tags []tagType) {
+	ts := GetTags()
+	var flag = make(map[string]bool)
+	for _, tag := range ts {
+		flag[tag.Slug] = true
+	}
+	for _, tag := range tags {
+		if !flag[tag.Slug] {
+			ts = append(ts, tag)
+		}
+	}
+	filePutContents("tag/tags.json", jsonEncode(ts))
+}
+
 func GetTopicTag(slug string) (tt topicTagType) {
 	jsonStr := `{
 		"operationName": "getTopicTag",
@@ -65,6 +79,7 @@ func (question ttQuestionType) TagsStr() string {
 	for _, tag := range question.TopicTags {
 		buf.WriteString(fmt.Sprintf(format, tag.ShowName(), tag.Slug))
 	}
+	SaveTags(question.TopicTags)
 	return string(buf.Bytes())
 }
 
