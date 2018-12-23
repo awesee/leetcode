@@ -17,6 +17,8 @@ import (
 
 var err error
 
+var checkErr = base.CheckErr
+
 const authInfo = base.AuthInfo
 
 func graphQLRequest(filename, jsonStr string, v interface{}) {
@@ -44,12 +46,6 @@ func remember(filename string, f func() []byte) []byte {
 	return data
 }
 
-func checkErr(err error) {
-	if err != nil {
-		panic(err)
-	}
-}
-
 func getCsrfToken(cookies []*http.Cookie) string {
 	for _, cookie := range cookies {
 		if cookie.Name == "csrftoken" {
@@ -64,9 +60,15 @@ func getCachePath(f string) string {
 	checkErr(err)
 	u, err := user.Current()
 	if err == nil && u.HomeDir != "" {
-		dir = path.Join(u.HomeDir, ".leetcode")
+		dir = u.HomeDir
 	}
-	return path.Join(dir, f)
+	return path.Join(dir, ".leetcode", f)
+}
+
+func Clean() {
+	dir := getCachePath("")
+	err := os.RemoveAll(dir)
+	checkErr(err)
 }
 
 func filePutContents(filename string, data []byte) {

@@ -6,6 +6,7 @@ import (
 	"log"
 
 	"github.com/openset/leetcode/internal/base"
+	"github.com/openset/leetcode/internal/clean"
 	"github.com/openset/leetcode/internal/description"
 	"github.com/openset/leetcode/internal/help"
 	"github.com/openset/leetcode/internal/helper"
@@ -22,12 +23,13 @@ func init() {
 	base.Commands = []*base.Command{
 		readme.CmdReadme,
 		page.CmdPage,
+		helper.CmdHelper,
 		question.CmdQuestion,
 		open.CmdOpen,
-		description.CmdDescription,
 		test.CmdTest,
+		description.CmdDescription,
 		update.CmdUpdate,
-		helper.CmdHelper,
+		clean.CmdClean,
 		version.CmdVersion,
 		help.CmdHelp,
 	}
