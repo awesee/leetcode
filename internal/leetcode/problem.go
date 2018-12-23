@@ -1,12 +1,18 @@
 package leetcode
 
 import (
-	"bytes"
-	"encoding/json"
-	"io/ioutil"
-	"net/http"
 	"strings"
+
+	"github.com/openset/leetcode/internal/client"
 )
+
+func ProblemsAll() (pa ProblemsAllType) {
+	data := remember(problemsAllFile, func() []byte {
+		return client.Get(apiProblemsAllUrl)
+	})
+	jsonDecode(data, &pa)
+	return
+}
 
 type ProblemsAllType struct {
 	UserName        string                `json:"user_name"`
@@ -59,19 +65,4 @@ func (d difficultyType) LevelName() string {
 		3: "Hard",
 	}
 	return m[d.Level]
-}
-
-func ProblemsAll() (pa ProblemsAllType) {
-	resp, err := http.Get(ApiProblemsAllUrl)
-	checkErr(err)
-	defer resp.Body.Close()
-	body, err := ioutil.ReadAll(resp.Body)
-	checkErr(err)
-	var buf bytes.Buffer
-	err = json.Indent(&buf, body, "", "\t")
-	checkErr(err)
-	filePutContents(getCachePath(problemsAllFile), buf.Bytes())
-	err = json.Unmarshal(body, &pa)
-	checkErr(err)
-	return
 }
