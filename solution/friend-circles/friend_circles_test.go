@@ -1,2 +1,0 @@
-package friend_circles
-

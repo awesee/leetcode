@@ -1,2 +1,0 @@
-package largest_palindrome_product
-

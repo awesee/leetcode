@@ -1,2 +1,0 @@
-package binary_subarrays_with_sum
-

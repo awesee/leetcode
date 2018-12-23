@@ -1,2 +1,0 @@
-package convex_polygon
-

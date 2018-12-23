@@ -1,0 +1,1 @@
+package partition_array_into_disjoint_intervals

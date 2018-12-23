@@ -1,2 +1,0 @@
-package divide_two_integers
-

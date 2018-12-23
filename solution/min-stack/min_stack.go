@@ -1,2 +1,0 @@
-package min_stack
-

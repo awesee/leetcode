@@ -1,2 +1,0 @@
-package monotonic_array
-

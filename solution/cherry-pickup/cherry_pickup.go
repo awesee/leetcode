@@ -1,2 +1,0 @@
-package cherry_pickup
-

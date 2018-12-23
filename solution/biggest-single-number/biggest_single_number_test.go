@@ -1,2 +1,0 @@
-package biggest_single_number
-

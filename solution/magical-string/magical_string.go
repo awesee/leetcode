@@ -1,2 +1,0 @@
-package magical_string
-

@@ -1,2 +1,0 @@
-package verifying_an_alien_dictionary
-

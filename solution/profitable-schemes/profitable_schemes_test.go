@@ -1,2 +1,0 @@
-package profitable_schemes
-

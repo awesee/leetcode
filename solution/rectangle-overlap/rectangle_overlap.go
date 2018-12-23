@@ -1,2 +1,0 @@
-package rectangle_overlap
-

@@ -1,2 +1,0 @@
-package strange_printer
-

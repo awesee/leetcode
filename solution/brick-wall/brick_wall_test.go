@@ -1,2 +1,0 @@
-package brick_wall
-

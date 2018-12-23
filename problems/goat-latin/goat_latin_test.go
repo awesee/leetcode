@@ -1,0 +1,1 @@
+package goat_latin

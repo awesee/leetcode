@@ -1,2 +1,0 @@
-package mini_parser
-

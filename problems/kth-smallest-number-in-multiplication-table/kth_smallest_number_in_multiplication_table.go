@@ -1,0 +1,1 @@
+package kth_smallest_number_in_multiplication_table

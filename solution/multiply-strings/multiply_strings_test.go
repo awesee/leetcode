@@ -1,2 +1,0 @@
-package multiply_strings
-

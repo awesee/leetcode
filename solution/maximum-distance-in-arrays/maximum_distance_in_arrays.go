@@ -1,2 +1,0 @@
-package maximum_distance_in_arrays
-

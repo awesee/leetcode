@@ -1,2 +1,0 @@
-package find_cumulative_salary_of_an_employee
-

@@ -1,2 +1,0 @@
-package generalized_abbreviation
-

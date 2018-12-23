@@ -1,2 +1,0 @@
-package merge_intervals
-

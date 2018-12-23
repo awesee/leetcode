@@ -1,2 +1,0 @@
-package super_palindromes
-

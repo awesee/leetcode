@@ -1,2 +1,0 @@
-package length_of_longest_fibonacci_subsequence
-

@@ -1,2 +1,0 @@
-package unique_letter_string
-

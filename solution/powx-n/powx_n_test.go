@@ -1,2 +1,0 @@
-package powx_n
-

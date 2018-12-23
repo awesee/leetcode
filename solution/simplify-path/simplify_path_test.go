@@ -1,2 +1,0 @@
-package simplify_path
-

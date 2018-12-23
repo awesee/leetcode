@@ -1,2 +1,0 @@
-package smallest_subtree_with_all_the_deepest_nodes
-

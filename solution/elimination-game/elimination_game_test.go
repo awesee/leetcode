@@ -1,2 +1,0 @@
-package elimination_game
-

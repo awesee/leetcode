@@ -1,2 +1,0 @@
-package ransom_note
-

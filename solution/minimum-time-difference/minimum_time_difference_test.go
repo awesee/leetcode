@@ -1,2 +1,0 @@
-package minimum_time_difference
-

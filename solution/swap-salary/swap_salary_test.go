@@ -1,2 +1,0 @@
-package swap_salary
-

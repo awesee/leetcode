@@ -1,2 +1,0 @@
-package gray_code
-

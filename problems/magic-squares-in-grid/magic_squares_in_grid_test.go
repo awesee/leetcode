@@ -1,0 +1,1 @@
+package magic_squares_in_grid

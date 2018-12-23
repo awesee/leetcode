@@ -1,2 +1,0 @@
-package number_of_distinct_islands
-

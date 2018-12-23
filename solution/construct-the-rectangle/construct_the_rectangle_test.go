@@ -1,2 +1,0 @@
-package construct_the_rectangle
-

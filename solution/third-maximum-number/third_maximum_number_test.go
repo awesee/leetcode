@@ -1,2 +1,0 @@
-package third_maximum_number
-

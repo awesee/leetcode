@@ -1,2 +1,0 @@
-package poor_pigs
-

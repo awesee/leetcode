@@ -1,2 +1,0 @@
-package online_election
-

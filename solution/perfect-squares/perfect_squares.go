@@ -1,2 +1,0 @@
-package perfect_squares
-

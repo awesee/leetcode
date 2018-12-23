@@ -1,2 +1,0 @@
-package word_search
-

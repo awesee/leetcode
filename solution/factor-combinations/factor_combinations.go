@@ -1,2 +1,0 @@
-package factor_combinations
-

@@ -1,2 +1,0 @@
-package palindromic_substrings
-

@@ -1,2 +1,0 @@
-package bomb_enemy
-

@@ -1,2 +1,0 @@
-package continuous_subarray_sum
-

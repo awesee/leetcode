@@ -1,2 +1,0 @@
-package toeplitz_matrix
-
