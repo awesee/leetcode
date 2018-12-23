@@ -1,87 +1,172 @@
 [
-  {
-    "title": "Array",
-    "titleSlug": "array",
-    "translatedTitle": "数组"
-  },
-  {
-    "title": "Dynamic Programming",
-    "titleSlug": "dynamic-programming",
-    "translatedTitle": "动态规划"
-  },
-  {
-    "title": "String",
-    "titleSlug": "string",
-    "translatedTitle": "字符串"
-  },
-  {
-    "title": "Math",
-    "titleSlug": "math",
-    "translatedTitle": "数学"
-  },
-  {
-    "title": "Tree",
-    "titleSlug": "tree",
-    "translatedTitle": "树"
-  },
-  {
-    "title": "Hash Table",
-    "titleSlug": "hash-table",
-    "translatedTitle": "哈希表"
-  },
-  {
-    "title": "Depth-first Search",
-    "titleSlug": "depth-first-search",
-    "translatedTitle": "深度优先搜索"
-  },
-  {
-    "title": "Binary Search",
-    "titleSlug": "binary-search",
-    "translatedTitle": "二分查找"
-  },
-  {
-    "title": "Two Pointers",
-    "titleSlug": "two-pointers",
-    "translatedTitle": "双指针"
-  },
-  {
-    "title": "Breadth-first Search",
-    "titleSlug": "breadth-first-search",
-    "translatedTitle": "广度优先搜索"
-  },
-  {
-    "title": "Greedy",
-    "titleSlug": "greedy",
-    "translatedTitle": "贪心算法"
-  },
-  {
-    "title": "Stack",
-    "titleSlug": "stack",
-    "translatedTitle": "栈"
-  },
-  {
-    "title": "Backtracking",
-    "titleSlug": "backtracking",
-    "translatedTitle": "回溯算法"
-  },
-  {
-    "title": "Design",
-    "titleSlug": "design",
-    "translatedTitle": "设计"
-  },
-  {
-    "title": "Linked List",
-    "titleSlug": "linked-list",
-    "translatedTitle": "链表"
-  },
-  {
-    "title": "Bit Manipulation",
-    "titleSlug": "bit-manipulation",
-    "translatedTitle": "位运算"
-  },
-  {
-    "title": "Heap",
-    "titleSlug": "heap",
-    "translatedTitle": "堆"
-  }
+	{
+		"Name": "Array",
+		"Slug": "array",
+		"TranslatedName": "数组"
+	},
+	{
+		"Name": "Dynamic Programming",
+		"Slug": "dynamic-programming",
+		"TranslatedName": "动态规划"
+	},
+	{
+		"Name": "String",
+		"Slug": "string",
+		"TranslatedName": "字符串"
+	},
+	{
+		"Name": "Math",
+		"Slug": "math",
+		"TranslatedName": "数学"
+	},
+	{
+		"Name": "Tree",
+		"Slug": "tree",
+		"TranslatedName": "树"
+	},
+	{
+		"Name": "Hash Table",
+		"Slug": "hash-table",
+		"TranslatedName": "哈希表"
+	},
+	{
+		"Name": "Depth-first Search",
+		"Slug": "depth-first-search",
+		"TranslatedName": "深度优先搜索"
+	},
+	{
+		"Name": "Binary Search",
+		"Slug": "binary-search",
+		"TranslatedName": "二分查找"
+	},
+	{
+		"Name": "Two Pointers",
+		"Slug": "two-pointers",
+		"TranslatedName": "双指针"
+	},
+	{
+		"Name": "Breadth-first Search",
+		"Slug": "breadth-first-search",
+		"TranslatedName": "广度优先搜索"
+	},
+	{
+		"Name": "Greedy",
+		"Slug": "greedy",
+		"TranslatedName": "贪心算法"
+	},
+	{
+		"Name": "Stack",
+		"Slug": "stack",
+		"TranslatedName": "栈"
+	},
+	{
+		"Name": "Backtracking",
+		"Slug": "backtracking",
+		"TranslatedName": "回溯算法"
+	},
+	{
+		"Name": "Design",
+		"Slug": "design",
+		"TranslatedName": "设计"
+	},
+	{
+		"Name": "Linked List",
+		"Slug": "linked-list",
+		"TranslatedName": "链表"
+	},
+	{
+		"Name": "Bit Manipulation",
+		"Slug": "bit-manipulation",
+		"TranslatedName": "位运算"
+	},
+	{
+		"Name": "Heap",
+		"Slug": "heap",
+		"TranslatedName": "堆"
+	},
+	{
+		"Name": "Divide and Conquer",
+		"Slug": "divide-and-conquer",
+		"TranslatedName": "分治算法"
+	},
+	{
+		"Name": "Sort",
+		"Slug": "sort",
+		"TranslatedName": "排序"
+	},
+	{
+		"Name": "Union Find",
+		"Slug": "union-find",
+		"TranslatedName": "并查集"
+	},
+	{
+		"Name": "Queue",
+		"Slug": "queue",
+		"TranslatedName": "队列"
+	},
+	{
+		"Name": "Binary Search Tree",
+		"Slug": "binary-search-tree",
+		"TranslatedName": "二叉搜索树"
+	},
+	{
+		"Name": "Segment Tree",
+		"Slug": "segment-tree",
+		"TranslatedName": "线段树"
+	},
+	{
+		"Name": "Minimax",
+		"Slug": "minimax",
+		"TranslatedName": "极小化极大"
+	},
+	{
+		"Name": "Trie",
+		"Slug": "trie",
+		"TranslatedName": "字典树"
+	},
+	{
+		"Name": "Recursion",
+		"Slug": "recursion",
+		"TranslatedName": "递归"
+	},
+	{
+		"Name": "Brainteaser",
+		"Slug": "brainteaser",
+		"TranslatedName": "脑筋急转弯"
+	},
+	{
+		"Name": "Random",
+		"Slug": "random",
+		"TranslatedName": ""
+	},
+	{
+		"Name": "Rejection Sampling",
+		"Slug": "rejection-sampling",
+		"TranslatedName": ""
+	},
+	{
+		"Name": "Geometry",
+		"Slug": "geometry",
+		"TranslatedName": "几何"
+	},
+	{
+		"Name": "Graph",
+		"Slug": "graph",
+		"TranslatedName": "图"
+	},
+	{
+		"Name": "Topological Sort",
+		"Slug": "topological-sort",
+		"TranslatedName": "拓扑排序"
+	},
+	{
+		"Name": "Memoization",
+		"Slug": "memoization",
+		"TranslatedName": "记忆化"
+	},
+	{
+		"Name": "Binary Indexed Tree",
+		"Slug": "binary-indexed-tree",
+		"TranslatedName": "树状数组"
+	}
 ]

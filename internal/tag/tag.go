@@ -11,7 +11,7 @@ import (
 var CmdTag = &base.Command{
 	Run:       runTag,
 	UsageLine: "tag",
-	Short:     "build all tags readme file",
+	Short:     "build all tags file",
 	Long:      "build all tags README.md file.",
 }
 
@@ -27,7 +27,8 @@ func runTag(cmd *base.Command, args []string) {
 	tags := leetcode.GetTags()
 	format := "| %d | [%s](https://github.com/openset/leetcode/tree/master/tag/%s) | [%s](https://github.com/openset/leetcode/tree/master/tag/%s) |\n"
 	for i, tag := range tags {
-		buf.WriteString(fmt.Sprintf(format, i+1, tag.Title, tag.TitleSlug, tag.TranslatedTitle, tag.TitleSlug))
+		buf.WriteString(fmt.Sprintf(format, i+1, tag.Name, tag.Slug, tag.TranslatedName, tag.Slug))
+		tag.SaveContents()
 	}
 	base.FilePutContents("tag/README.md", buf.Bytes())
 }

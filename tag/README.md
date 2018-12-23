@@ -26,3 +26,20 @@
 | 15 | [Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list) | [链表](https://github.com/openset/leetcode/tree/master/tag/linked-list) |
 | 16 | [Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation) | [位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation) |
 | 17 | [Heap](https://github.com/openset/leetcode/tree/master/tag/heap) | [堆](https://github.com/openset/leetcode/tree/master/tag/heap) |
+| 18 | [Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer) | [分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer) |
+| 19 | [Sort](https://github.com/openset/leetcode/tree/master/tag/sort) | [排序](https://github.com/openset/leetcode/tree/master/tag/sort) |
+| 20 | [Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find) | [并查集](https://github.com/openset/leetcode/tree/master/tag/union-find) |
+| 21 | [Queue](https://github.com/openset/leetcode/tree/master/tag/queue) | [队列](https://github.com/openset/leetcode/tree/master/tag/queue) |
+| 22 | [Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree) | [二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree) |
+| 23 | [Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree) | [线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree) |
+| 24 | [Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax) | [极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax) |
+| 25 | [Trie](https://github.com/openset/leetcode/tree/master/tag/trie) | [字典树](https://github.com/openset/leetcode/tree/master/tag/trie) |
+| 26 | [Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion) | [递归](https://github.com/openset/leetcode/tree/master/tag/recursion) |
+| 27 | [Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser) | [脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser) |
+| 28 | [Random](https://github.com/openset/leetcode/tree/master/tag/random) | [](https://github.com/openset/leetcode/tree/master/tag/random) |
+| 29 | [Rejection Sampling](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling) | [](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling) |
+| 30 | [Geometry](https://github.com/openset/leetcode/tree/master/tag/geometry) | [几何](https://github.com/openset/leetcode/tree/master/tag/geometry) |
+| 31 | [Graph](https://github.com/openset/leetcode/tree/master/tag/graph) | [图](https://github.com/openset/leetcode/tree/master/tag/graph) |
+| 32 | [Topological Sort](https://github.com/openset/leetcode/tree/master/tag/topological-sort) | [拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort) |
+| 33 | [Memoization](https://github.com/openset/leetcode/tree/master/tag/memoization) | [记忆化](https://github.com/openset/leetcode/tree/master/tag/memoization) |
+| 34 | [Binary Indexed Tree](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree) | [树状数组](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree) |
