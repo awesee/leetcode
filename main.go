@@ -14,6 +14,7 @@ import (
 	"github.com/openset/leetcode/internal/page"
 	"github.com/openset/leetcode/internal/question"
 	"github.com/openset/leetcode/internal/readme"
+	"github.com/openset/leetcode/internal/tag"
 	"github.com/openset/leetcode/internal/test"
 	"github.com/openset/leetcode/internal/update"
 	"github.com/openset/leetcode/internal/version"
@@ -23,6 +24,7 @@ func init() {
 	base.Commands = []*base.Command{
 		readme.CmdReadme,
 		page.CmdPage,
+		tag.CmdTag,
 		helper.CmdHelper,
 		question.CmdQuestion,
 		open.CmdOpen,
