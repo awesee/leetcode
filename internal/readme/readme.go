@@ -66,7 +66,7 @@ func writeProblems(buf *bytes.Buffer) {
 	// list
 	buf.WriteString("| # | Title | Solution | Difficulty |\n")
 	buf.WriteString("| :-: | - | - | :-: |\n")
-	for i := 0; i <= maxId; i++ {
+	for i := maxId; i > 0; i-- {
 		if row, ok := problemsSet[i]; ok {
 			buf.WriteString(row)
 		}
