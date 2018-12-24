@@ -25,6 +25,9 @@
 <p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p>
 
 
+### Related Topics
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 
+
 ### Similar Questions
   1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
   1. [Verify Preorder Sequence in Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/verify-preorder-sequence-in-binary-search-tree) (Medium)

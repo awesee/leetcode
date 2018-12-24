@@ -24,6 +24,9 @@ Given a string and an integer k, you need to reverse the first k characters for 
 <li> Length of the given string and k will in the range [1, 10000]</li>
 </ol>
 
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Reverse String](https://github.com/openset/leetcode/tree/master/problems/reverse-string) (Easy)
   1. [Reverse Words in a String III](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-iii) (Easy)

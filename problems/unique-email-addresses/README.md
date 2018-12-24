@@ -42,3 +42,6 @@
 	<li>Each <code>emails[i]</code> contains exactly one <code>&#39;@&#39;</code> character.</li>
 </ul>
 </div>
+
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 

@@ -22,3 +22,6 @@
 <b>Input:</b> <code>&quot;cbacdcbc&quot;</code>
 <b>Output:</b> <code>&quot;acdb&quot;</code>
 </pre>
+
+### Related Topics
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 

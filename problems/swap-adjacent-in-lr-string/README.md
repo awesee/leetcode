@@ -29,3 +29,9 @@ XRLXXRRLX
 	<li><code>1 &lt;= len(start) = len(end) &lt;= 10000</code>.</li>
 	<li>Both start and end will only consist of characters in <code>{&#39;L&#39;, &#39;R&#39;, &#39;X&#39;}</code>.</li>
 </ol>
+
+
+### Related Topics
+[[Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)] 
+### Hints
+  1. Think of the L and R's as people on a horizontal line, where X is a space.  The people can't cross each other, and also you can't go from XRX to RXX.

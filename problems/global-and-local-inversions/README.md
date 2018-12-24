@@ -38,3 +38,9 @@
 	<li><code>A</code> will have length in range <code>[1, 5000]</code>.</li>
 	<li>The time limit for this problem has been reduced.</li>
 </ul>
+
+
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+### Hints
+  1. Where can the 0 be placed in an ideal permutation?  What about the 1?

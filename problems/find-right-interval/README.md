@@ -55,5 +55,8 @@ For [2,3], the interval [3,4] has minimum-"right" start point.
 </pre>
 </p>
 
+### Related Topics
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+
 ### Similar Questions
   1. [Data Stream as Disjoint Intervals](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals) (Hard)

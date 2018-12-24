@@ -24,5 +24,13 @@
 <strong>Output:</strong> [1,2]</pre>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Majority Element](https://github.com/openset/leetcode/tree/master/problems/majority-element) (Easy)
+
+### Hints
+  1. How many majority elements could it possibly have?
+<br/>
+Do you have a better hint? <a href="mailto:admin@leetcode.com?subject=Hints for Majority Element II" target="_blank">Suggest it</a>!

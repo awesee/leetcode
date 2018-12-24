@@ -44,5 +44,8 @@ You can split them into two consecutive subsequences :
 </ol>
 </p>
 
+### Related Topics
+[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 
+
 ### Similar Questions
   1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements) (Medium)

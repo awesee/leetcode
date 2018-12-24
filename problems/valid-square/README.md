@@ -25,3 +25,6 @@
 <li>Input points have no order.</li>
 </ol>
 </p>
+
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 

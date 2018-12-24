@@ -52,6 +52,9 @@
 </ul>
 
 
+### Related Topics
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Unique Paths](https://github.com/openset/leetcode/tree/master/problems/unique-paths) (Medium)
   1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-path-sum) (Medium)

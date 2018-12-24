@@ -61,3 +61,6 @@ Note that A[0] &gt; A[1] - the array A isn&#39;t necessarily in lexicographic or
 	<li><code>1 &lt;= A.length &lt;= 100</code></li>
 	<li><code>1 &lt;= A[i].length &lt;= 100</code></li>
 </ol>
+
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 

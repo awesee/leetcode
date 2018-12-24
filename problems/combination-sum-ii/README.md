@@ -43,5 +43,8 @@
 </pre>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+
 ### Similar Questions
   1. [Combination Sum](https://github.com/openset/leetcode/tree/master/problems/combination-sum) (Medium)

@@ -70,7 +70,21 @@ of the final x in the add-expression.  That final x will equal 2.
 <li>The answer and all intermediate calculations of that answer are guaranteed to fit in a 32-bit integer.</li>
 </p>
 
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser) (Medium)
   1. [Number of Atoms](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms) (Hard)
   1. [Basic Calculator IV](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iv) (Hard)
+
+### Hints
+  1. * If the expression starts with a digit or '-', it's an integer: return it.
+
+* If the expression starts with a letter, it's a variable.  Recall it by checking the current scope in reverse order.
+
+* Otherwise, group the tokens (variables or expressions) within this expression by counting the "balance" `bal` of the occurrences of `'('` minus the number of occurrences of `')'`.  When the balance is zero, we have ended a token.  For example, `(add 1 (add 2 3))` should have tokens `'1'` and `'(add 2 3)'`.
+
+* For add and mult expressions, evaluate each token and return the addition or multiplication of them.
+
+* For let expressions, evaluate each expression sequentially and assign it to the variable in the current scope, then return the evaluation of the final expression.

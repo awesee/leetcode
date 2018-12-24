@@ -32,6 +32,9 @@
 </ul>
 
 
+### Related Topics
+[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+
 ### Similar Questions
   1. [Word Frequency](https://github.com/openset/leetcode/tree/master/problems/word-frequency) (Medium)
   1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array) (Medium)

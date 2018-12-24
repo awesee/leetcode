@@ -46,6 +46,12 @@ eg. [10, 20), [10, 40), and [5, 15) are still triple booked.
 <p>&nbsp;</p>
 
 
+### Related Topics
+[[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)] [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)] 
+
 ### Similar Questions
   1. [My Calendar I](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i) (Medium)
   1. [My Calendar II](https://github.com/openset/leetcode/tree/master/problems/my-calendar-ii) (Medium)
+
+### Hints
+  1. Treat each interval [start, end) as two events "start" and "end", and process them in sorted order.

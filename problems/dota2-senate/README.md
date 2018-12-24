@@ -55,5 +55,8 @@ The first senator comes from Radiant and he can just ban the next senator's righ
 </ol>
 </p>
 
+### Related Topics
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 
+
 ### Similar Questions
   1. [Teemo Attacking](https://github.com/openset/leetcode/tree/master/problems/teemo-attacking) (Medium)

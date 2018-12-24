@@ -26,6 +26,9 @@
 <strong>Explanation:</strong> The sum of 2 and 7 is 9. Therefore index1 = 1, index2 = 2.</pre>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+
 ### Similar Questions
   1. [Two Sum](https://github.com/openset/leetcode/tree/master/problems/two-sum) (Easy)
   1. [Two Sum IV - Input is a BST](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst) (Easy)

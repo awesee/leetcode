@@ -29,5 +29,8 @@ Given a list of words (<b>without duplicates</b>), please write a program that r
 </ol>
 </p>
 
+### Related Topics
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Word Break II](https://github.com/openset/leetcode/tree/master/problems/word-break-ii) (Hard)

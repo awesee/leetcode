@@ -47,5 +47,8 @@ The cheapest price from city <code>0</code> to city <code>2</code> with at most 
 </ul>
 
 
+### Related Topics
+[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Maximum Vacation Days](https://github.com/openset/leetcode/tree/master/problems/maximum-vacation-days) (Hard)

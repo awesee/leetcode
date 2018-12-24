@@ -28,5 +28,11 @@ left = 1, right = 22
 <li>The boundaries of each input argument are <code>1 <= left <= right <= 10000</code>.</li>
 </p>
 
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+
 ### Similar Questions
   1. [Perfect Number](https://github.com/openset/leetcode/tree/master/problems/perfect-number) (Easy)
+
+### Hints
+  1. For each number in the range, check whether it is self dividing by converting that number to a character array (or string in Python), then checking that each digit is nonzero and divides the original number.

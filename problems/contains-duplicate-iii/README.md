@@ -37,6 +37,13 @@
 </div>
 
 
+### Related Topics
+[[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)] 
+
 ### Similar Questions
   1. [Contains Duplicate](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate) (Easy)
   1. [Contains Duplicate II](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate-ii) (Easy)
+
+### Hints
+  1. Time complexity O(n logk)  - This will give an indication that sorting is involved for k elements.
+  1. Use already existing state to evaluate next state  -  Like, a set of k sorted numbers are only needed to be tracked. When we are processing the next number in array, then we can utilize the existing sorted state and it is not necessary to sort next overlapping set of k numbers again.

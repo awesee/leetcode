@@ -27,5 +27,8 @@
 <p><strong>Follow up:&nbsp;</strong>For C programmers, try to solve it <em>in-place</em> in <em>O</em>(1) space.</p>
 
 
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Reverse Words in a String II](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-ii) (Medium)

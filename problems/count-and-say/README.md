@@ -41,6 +41,25 @@
 <b>Output:</b> &quot;1211&quot;</pre>
 
 
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings) (Medium)
   1. [String Compression](https://github.com/openset/leetcode/tree/master/problems/string-compression) (Easy)
+
+### Hints
+  1. The following are the terms from n=1 to n=10 of the count-and-say sequence:
+<pre>
+ 1.     1
+ 2.     11
+ 3.     21
+ 4.     1211
+ 5.     111221 
+ 6.     312211
+ 7.     13112221
+ 8.     1113213211
+ 9.     31131211131221
+10.     13211311123113112211
+</pre>
+  1. To generate the <i>n</i><sup>th</sup> term, just <i>count and say</i> the <i>n</i>-1<sup>th</sup> term.

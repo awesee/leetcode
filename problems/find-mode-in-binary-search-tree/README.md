@@ -39,5 +39,8 @@ Given BST <code>[1,null,2,2]</code>,</p>
 <p><b>Follow up:</b> Could you do that without using any extra space? (Assume that the implicit stack space incurred due to recursion does not count).</p>
 
 
+### Related Topics
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 
+
 ### Similar Questions
   1. [Validate Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/validate-binary-search-tree) (Medium)

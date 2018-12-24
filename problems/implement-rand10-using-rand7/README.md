@@ -60,3 +60,7 @@
 </div>
 </div>
 </div>
+
+
+### Related Topics
+[[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)] [[Rejection Sampling](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling/README.md)] 

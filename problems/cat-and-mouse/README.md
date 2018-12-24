@@ -56,3 +56,7 @@
 	<li>It is guaranteed that <code>graph[2]</code> contains a non-zero element.&nbsp;</li>
 </ol>
 </div>
+
+
+### Related Topics
+[[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] 

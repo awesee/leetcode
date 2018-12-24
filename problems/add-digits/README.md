@@ -21,5 +21,14 @@
 <p><b>Follow up:</b><br />
 Could you do it without any loop/recursion in O(1) runtime?</p>
 
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+
 ### Similar Questions
   1. [Happy Number](https://github.com/openset/leetcode/tree/master/problems/happy-number) (Easy)
+
+### Hints
+  1. A naive implementation of the above process is trivial. Could you come up with other methods?
+  1. What are all the possible results?
+  1. How do they occur, periodically or randomly?
+  1. You may find this <a href="https://en.wikipedia.org/wiki/Digital_root" target="_blank">Wikipedia article</a> useful.

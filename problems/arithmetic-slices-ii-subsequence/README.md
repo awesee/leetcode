@@ -44,5 +44,8 @@ All arithmetic subsequence slices are:
 </pre>
 </p>
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Arithmetic Slices](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices) (Medium)

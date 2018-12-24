@@ -49,3 +49,7 @@ Output:
 <li>The cells are adjacent in only four directions: up, down, left and right.</li>
 </ol>
 </p>
+
+
+### Related Topics
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] 

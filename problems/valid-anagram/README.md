@@ -30,6 +30,9 @@ You may assume the string contains only lowercase alphabets.</p>
 What if the inputs contain unicode characters? How would you adapt your solution to such case?</p>
 
 
+### Related Topics
+[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+
 ### Similar Questions
   1. [Group Anagrams](https://github.com/openset/leetcode/tree/master/problems/group-anagrams) (Medium)
   1. [Palindrome Permutation](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation) (Easy)

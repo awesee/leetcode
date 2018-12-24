@@ -26,6 +26,9 @@ solution.pick(1);
 </pre>
 
 
+### Related Topics
+[[Reservoir Sampling](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)] 
+
 ### Similar Questions
   1. [Linked List Random Node](https://github.com/openset/leetcode/tree/master/problems/linked-list-random-node) (Medium)
   1. [Random Pick with Blacklist](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-blacklist) (Hard)

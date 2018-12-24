@@ -41,3 +41,6 @@ Find the minimal balls you have to insert to remove all the balls on the table. 
 <li>Both input strings will be non-empty and only contain characters 'R','Y','B','G','W'.</li>
 </ol>
 </p>
+
+### Related Topics
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] 

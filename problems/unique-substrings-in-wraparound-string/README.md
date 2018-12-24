@@ -37,3 +37,8 @@
 <b>Explanation:</b> There are six substrings "z", "a", "b", "za", "ab", "zab" of string "zab" in the string s.
 </pre>
 </p>
+
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+### Hints
+  1. One possible solution might be to consider allocating an array size of 26 for each character in the alphabet. (Credits to @r2ysxu)

@@ -26,5 +26,8 @@ One possible answer is: [0,-3,9,-10,null,5], which represents the following heig
 </pre>
 
 
+### Related Topics
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] 
+
 ### Similar Questions
   1. [Convert Sorted List to Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/convert-sorted-list-to-binary-search-tree) (Medium)

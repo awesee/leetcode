@@ -26,5 +26,8 @@
 <p>Could you optimize your algorithm to use only <em>O</em>(<em>k</em>) extra space?</p>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Pascal's Triangle](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle) (Easy)

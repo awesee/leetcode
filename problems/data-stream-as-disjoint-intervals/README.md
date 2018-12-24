@@ -22,6 +22,9 @@
 <p><b>Follow up:</b><br />
 What if there are lots of merges and the number of disjoint intervals are small compared to the data stream&#39;s size?</p>
 
+### Related Topics
+[[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)] 
+
 ### Similar Questions
   1. [Summary Ranges](https://github.com/openset/leetcode/tree/master/problems/summary-ranges) (Medium)
   1. [Find Right Interval](https://github.com/openset/leetcode/tree/master/problems/find-right-interval) (Medium)

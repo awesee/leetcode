@@ -19,6 +19,9 @@
 <b>Note:</b> Do not use class member/global/static variables to store states. Your serialize and deserialize algorithms should be stateless.
 </p>
 
+### Related Topics
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 
+
 ### Similar Questions
   1. [Serialize and Deserialize Binary Tree](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-binary-tree) (Hard)
   1. [Find Duplicate Subtrees](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-subtrees) (Medium)

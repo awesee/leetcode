@@ -32,3 +32,7 @@
 <strong>Explanation: </strong>Another possible reconstruction is <code>[&quot;JFK&quot;,&quot;SFO&quot;,&quot;ATL&quot;,&quot;JFK&quot;,&quot;ATL&quot;,&quot;SFO&quot;]</code>.
 &nbsp;            But it is larger in lexical order.
 </pre>
+
+
+### Related Topics
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] 

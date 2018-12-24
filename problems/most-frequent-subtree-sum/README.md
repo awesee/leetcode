@@ -35,5 +35,8 @@ return [2], since 2 happens twice, however -5 only occur once.
 You may assume the sum of values in any subtree is in the range of 32-bit signed integer.
 </p>
 
+### Related Topics
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+
 ### Similar Questions
   1. [Subtree of Another Tree](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree) (Easy)

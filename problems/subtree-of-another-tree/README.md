@@ -51,6 +51,16 @@ Given tree t:
 Return <b>false</b>.
 </p>
 
+### Related Topics
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 
+
 ### Similar Questions
   1. [Count Univalue Subtrees](https://github.com/openset/leetcode/tree/master/problems/count-univalue-subtrees) (Medium)
   1. [Most Frequent Subtree Sum](https://github.com/openset/leetcode/tree/master/problems/most-frequent-subtree-sum) (Medium)
+
+### Hints
+  1. Which approach is better here- recursive or iterative?
+  1. If recursive approach is better, can you write recursive function with its parameters?
+  1. Two trees <b>s</b> and <b>t</b> are said to be identical if their root values are same and their left and right subtrees are identical. Can you write this in form of recursive formulae?
+  1. Recursive formulae can be: 
+isIdentical(s,t)= s.val==t.val AND isIdentical(s.left,t.left) AND isIdentical(s.right,t.right)

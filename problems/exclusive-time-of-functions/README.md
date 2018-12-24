@@ -42,3 +42,6 @@ So function 0 totally execute 2 + 1 = 3 units of time, and function 1 totally ex
 <li>1 <= n <= 100</li>
 </ol>
 </p>
+
+### Related Topics
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] 

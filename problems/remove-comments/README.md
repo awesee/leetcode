@@ -77,6 +77,22 @@ source = ["a/*comment", "line", "more_comment*/b"]
 <li>There are no single-quote, double-quote, or control characters in the source code.</li>
 </p>
 
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Mini Parser](https://github.com/openset/leetcode/tree/master/problems/mini-parser) (Medium)
   1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser) (Medium)
+
+### Hints
+  1. Carefully parse each line according to the following rules:
+
+* If we start a block comment and we aren't in a block, then we will skip over the next two characters and change our state to be in a block.
+
+* If we end a block comment and we are in a block, then we will skip over the next two characters and change our state to be *not* in a block.
+
+* If we start a line comment and we aren't in a block, then we will ignore the rest of the line.
+
+* If we aren't in a block comment (and it wasn't the start of a comment), we will record the character we are at.
+
+* At the end of each line, if we aren't in a block, we will record the line.

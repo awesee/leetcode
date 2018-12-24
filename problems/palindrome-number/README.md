@@ -37,5 +37,11 @@
 <p>Coud you solve&nbsp;it without converting the integer to a string?</p>
 
 
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+
 ### Similar Questions
   1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/problems/palindrome-linked-list) (Easy)
+
+### Hints
+  1. Beware of overflow when you reverse the integer.

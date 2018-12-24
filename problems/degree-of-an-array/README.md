@@ -35,5 +35,11 @@ The shortest length is 2. So return 2.
 <li><code>nums[i]</code> will be an integer between 0 and 49,999.</li>
 </p>
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Maximum Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray) (Easy)
+
+### Hints
+  1. Say 5 is the only element that occurs the most number of times - for example, nums = [1, 5, 2, 3, 5, 4, 5, 6].  What is the answer?

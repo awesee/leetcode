@@ -69,3 +69,14 @@ Notice that walls are only built on the shared boundary of two different cells.
 <li>Throughout the described process, there is always a contiguous viral region that will infect <b>strictly more</b> uncontaminated squares in the next round.</li>
 </ol>
 </p>
+
+### Related Topics
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] 
+### Hints
+  1. The implementation is long - we want to perfrom the following steps:
+
+* Find all viral regions (connected components), additionally for each region keeping track of the frontier (neighboring uncontaminated cells), and the perimeter of the region.
+
+* Disinfect the most viral region, adding it's perimeter to the answer.
+
+* Spread the virus in the remaining regions outward by 1 square.

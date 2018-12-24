@@ -29,5 +29,8 @@ The two tuples are:
 </pre>
 </p>
 
+### Related Topics
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+
 ### Similar Questions
   1. [4Sum](https://github.com/openset/leetcode/tree/master/problems/4sum) (Medium)

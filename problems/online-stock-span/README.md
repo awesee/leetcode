@@ -46,3 +46,7 @@ Note that (for example) S.next(75) returned 4, because the last 4 prices
 	<li>The total&nbsp;time limit for this problem has been reduced by 75% for&nbsp;C++, and 50% for all other languages.</li>
 </ol>
 </div>
+
+
+### Related Topics
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] 

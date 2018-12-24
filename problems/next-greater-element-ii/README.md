@@ -23,6 +23,9 @@ Given a circular array (the next element of the last element is the first elemen
 The length of given array won't exceed 10000.
 </p>
 
+### Related Topics
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] 
+
 ### Similar Questions
   1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-i) (Easy)
   1. [Next Greater Element III](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-iii) (Medium)

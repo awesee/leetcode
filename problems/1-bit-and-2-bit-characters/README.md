@@ -36,5 +36,11 @@ The only way to decode it is two-bit character and two-bit character. So the las
 <li><code>bits[i]</code> is always <code>0</code> or <code>1</code>.</li>
 </p>
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Gray Code](https://github.com/openset/leetcode/tree/master/problems/gray-code) (Medium)
+
+### Hints
+  1. Keep track of where the next character starts.  At the end, you want to know if you started on the last bit.

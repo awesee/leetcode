@@ -29,6 +29,9 @@
 </div>
 </div>
 
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+
 ### Similar Questions
   1. [Sqrt(x)](https://github.com/openset/leetcode/tree/master/problems/sqrtx) (Easy)
   1. [Sum of Square Numbers](https://github.com/openset/leetcode/tree/master/problems/sum-of-square-numbers) (Easy)

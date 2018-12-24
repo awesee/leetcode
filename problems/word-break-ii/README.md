@@ -54,6 +54,9 @@ wordDict = [&quot;cats&quot;, &quot;dog&quot;, &quot;sand&quot;, &quot;and&quot;
 </strong>[]</pre>
 
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+
 ### Similar Questions
   1. [Word Break](https://github.com/openset/leetcode/tree/master/problems/word-break) (Medium)
   1. [Concatenated Words](https://github.com/openset/leetcode/tree/master/problems/concatenated-words) (Hard)

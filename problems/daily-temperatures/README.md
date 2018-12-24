@@ -18,5 +18,11 @@ The length of <code>temperatures</code> will be in the range <code>[1, 30000]</c
 Each temperature will be an integer in the range <code>[30, 100]</code>.
 </p>
 
+### Related Topics
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+
 ### Similar Questions
   1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-i) (Easy)
+
+### Hints
+  1. If the temperature is say, 70 today, then in the future a warmer temperature must be either 71, 72, 73, ..., 99, or 100.  We could remember when all of them occur next.

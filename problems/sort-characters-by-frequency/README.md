@@ -51,6 +51,9 @@ Note that 'A' and 'a' are treated as two different characters.
 </pre>
 </p>
 
+### Related Topics
+[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+
 ### Similar Questions
   1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements) (Medium)
   1. [First Unique Character in a String](https://github.com/openset/leetcode/tree/master/problems/first-unique-character-in-a-string) (Easy)

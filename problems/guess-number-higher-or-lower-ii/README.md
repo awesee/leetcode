@@ -31,8 +31,18 @@ You end up paying $5 + $7 + $9 = $21.
 
 <p>Given a particular <strong>n &ge; 1</strong>, find out how much money you need to have to guarantee a <b>win</b>.</p>
 
+### Related Topics
+[[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Flip Game II](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii) (Medium)
   1. [Guess Number Higher or Lower](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower) (Easy)
   1. [Can I Win](https://github.com/openset/leetcode/tree/master/problems/can-i-win) (Medium)
   1. [Find K Closest Elements](https://github.com/openset/leetcode/tree/master/problems/find-k-closest-elements) (Medium)
+
+### Hints
+  1. The best strategy to play the game is to minimize the maximum loss you could possibly face. Another strategy is to minimize the expected loss. Here, we are interested in the <b>first</b> scenario.
+  1. Take a small example (n = 3). What do you end up paying in the worst case?
+  1. Check out <a href="https://en.wikipedia.org/wiki/Minimax">this article</a> if you're still stuck.
+  1. The purely recursive implementation of minimax would be worthless for even a small n. You MUST use dynamic programming.
+  1. As a follow-up, how would you modify your code to solve the problem of minimizing the expected loss, instead of the worst-case loss?

@@ -46,6 +46,9 @@ Given a <b>N*N</b> matrix <b>M</b> representing the friend relationship between 
 </ol>
 </p>
 
+### Related Topics
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] 
+
 ### Similar Questions
   1. [Number of Connected Components in an Undirected Graph](https://github.com/openset/leetcode/tree/master/problems/number-of-connected-components-in-an-undirected-graph) (Medium)
   1. [Robot Return to Origin](https://github.com/openset/leetcode/tree/master/problems/robot-return-to-origin) (Easy)

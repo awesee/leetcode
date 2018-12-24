@@ -50,3 +50,6 @@
 	<li><code>1 &lt;= stamp.length &lt;= target.length &lt;= 1000</code></li>
 	<li><code>stamp</code> and <code>target</code> only contain lowercase letters.</li>
 </ol>
+
+### Related Topics
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 

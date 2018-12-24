@@ -26,6 +26,9 @@ Given two words <i>word1</i> and <i>word2</i>, find the minimum number of steps 
 </ol>
 </p>
 
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Edit Distance](https://github.com/openset/leetcode/tree/master/problems/edit-distance) (Hard)
   1. [Minimum ASCII Delete Sum for Two Strings](https://github.com/openset/leetcode/tree/master/problems/minimum-ascii-delete-sum-for-two-strings) (Medium)

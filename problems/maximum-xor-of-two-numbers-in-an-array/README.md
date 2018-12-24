@@ -22,3 +22,6 @@
 <b>Explanation:</b> The maximum result is <b>5</b> ^ <b>25</b> = 28.
 </pre>
 </p>
+
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] 

@@ -32,6 +32,12 @@ search(&quot;b..&quot;) -&gt; true
 You may assume that all words are consist of lowercase letters <code>a-z</code>.</p>
 
 
+### Related Topics
+[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+
 ### Similar Questions
   1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree) (Medium)
   1. [Prefix and Suffix Search](https://github.com/openset/leetcode/tree/master/problems/prefix-and-suffix-search) (Hard)
+
+### Hints
+  1. You should be familiar with how a Trie works. If not, please work on this problem: <a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Implement Trie (Prefix Tree)</a> first.

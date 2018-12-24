@@ -20,6 +20,9 @@
 <code>1,1,5</code> &rarr; <code>1,5,1</code></p>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Permutations](https://github.com/openset/leetcode/tree/master/problems/permutations) (Medium)
   1. [Permutations II](https://github.com/openset/leetcode/tree/master/problems/permutations-ii) (Medium)

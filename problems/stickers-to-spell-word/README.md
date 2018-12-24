@@ -53,5 +53,17 @@ We can't form the target "basicbasic" from cutting letters from the given sticke
 <li>The time limit may be more challenging than usual.  It is expected that a 50 sticker test case can be solved within 35ms on average.</li>
 </p>
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+
 ### Similar Questions
   1. [Ransom Note](https://github.com/openset/leetcode/tree/master/problems/ransom-note) (Easy)
+
+### Hints
+  1. We want to perform an exhaustive search, but we need to speed it up based on the input data being random.  
+
+For all stickers, we can ignore any letters that are not in the target word.  
+
+When our candidate answer won't be smaller than an answer we have already found, we can stop searching this path.  
+
+When a sticker dominates another, we shouldn't include the dominated sticker in our sticker collection.  [Here, we say a sticker `A` dominates `B` if `A.count(letter) >= B.count(letter)` for all letters.]

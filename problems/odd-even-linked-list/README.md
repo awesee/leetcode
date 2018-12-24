@@ -33,5 +33,8 @@
 </ul>
 
 
+### Related Topics
+[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] 
+
 ### Similar Questions
   1. [Split Linked List in Parts](https://github.com/openset/leetcode/tree/master/problems/split-linked-list-in-parts) (Medium)

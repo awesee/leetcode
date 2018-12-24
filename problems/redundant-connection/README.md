@@ -47,6 +47,9 @@ Return an edge that can be removed so that the resulting graph is a tree of N no
 We have overhauled the problem description + test cases and specified clearly the graph is an <b><i>undirected</i></b> graph. For the <b><i>directed</i></b> graph follow up please see <b><a href="https://leetcode.com/problems/redundant-connection-ii/description/">Redundant Connection II</a></b>). We apologize for any inconvenience caused.
 </p>
 
+### Related Topics
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] 
+
 ### Similar Questions
   1. [Redundant Connection II](https://github.com/openset/leetcode/tree/master/problems/redundant-connection-ii) (Hard)
   1. [Accounts Merge](https://github.com/openset/leetcode/tree/master/problems/accounts-merge) (Medium)

@@ -31,3 +31,6 @@
 <b>Explanation:</b> The binary representation of 1 is 1 (no leading zero bits), and its complement is 0. So you need to output 0.
 </pre>
 </p>
+
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] 

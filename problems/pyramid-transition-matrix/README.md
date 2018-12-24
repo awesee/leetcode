@@ -50,3 +50,6 @@ Note that there could be allowed triples (A, B, C) and (A, B, D) with C != D.
 <li>Letters in all strings will be chosen from the set <code>{'A', 'B', 'C', 'D', 'E', 'F', 'G'}</code>.</li>
 </ol>
 </p>
+
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] 

@@ -26,6 +26,13 @@
 </ul>
 </p>
 
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+
 ### Similar Questions
   1. [Letter Combinations of a Phone Number](https://github.com/openset/leetcode/tree/master/problems/letter-combinations-of-a-phone-number) (Medium)
   1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)
+
+### Hints
+  1. Simplify by seeking for solutions that involve comparing bit counts.
+  1. Consider calculating all possible times for comparison purposes.

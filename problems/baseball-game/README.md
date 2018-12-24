@@ -62,3 +62,6 @@ Round 7: You could get 9 + 5 = 14 points. The sum is 27.
 <li>The size of the input list will be between 1 and 1000.</li>
 <li>Every integer represented in the list will be between -30000 and 30000.</li>
 </p>
+
+### Related Topics
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] 

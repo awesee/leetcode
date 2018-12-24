@@ -32,3 +32,6 @@ Input: "fviefuro"
 Output: "45"
 </pre>
 </p>
+
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 

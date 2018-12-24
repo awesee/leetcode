@@ -55,3 +55,6 @@ It's impossible to make all the three washing machines have the same number of d
 <li>The range of dresses number in a super washing machine is [0, 1e5].</li>
 </ol>
 </p>
+
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 

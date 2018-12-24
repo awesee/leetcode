@@ -24,3 +24,11 @@
 <li>If there is a tie, return the smaller one as answer.</li>
 </ol>
 </p>
+
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+### Hints
+  1. Will brute force work for this problem? Think of something else.
+  1. Take some examples like 1234, 999,1000, etc and check their closest palindromes. How many different cases are possible?
+  1. Do we have to consider only left half or right half of the string or both?
+  1. Try to find the closest palindrome of these numbers- 12932, 99800, 12120. Did you observe something?

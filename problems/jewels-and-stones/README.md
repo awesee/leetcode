@@ -31,3 +31,9 @@
 	<li><code>S</code> and <code>J</code> will consist of letters and have length at most 50.</li>
 	<li>The characters in <code>J</code> are distinct.</li>
 </ul>
+
+
+### Related Topics
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+### Hints
+  1. For each stone, check if it is a jewel.

@@ -42,6 +42,9 @@
 <p>If this function is called many times, how would you optimize it?</p>
 
 
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] 
+
 ### Similar Questions
   1. [Reverse Integer](https://github.com/openset/leetcode/tree/master/problems/reverse-integer) (Easy)
   1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)

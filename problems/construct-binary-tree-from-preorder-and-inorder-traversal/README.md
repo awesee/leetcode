@@ -28,5 +28,8 @@ inorder = [9,3,15,20,7]</pre>
    15   7</pre>
 
 
+### Related Topics
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-inorder-and-postorder-traversal) (Medium)

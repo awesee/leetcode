@@ -23,5 +23,8 @@ What if you cannot modify the input lists? In other words, reversing the lists i
 </pre>
 </p>
 
+### Related Topics
+[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] 
+
 ### Similar Questions
   1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers) (Medium)

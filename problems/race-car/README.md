@@ -46,3 +46,7 @@ Your position goes from 0-&gt;1-&gt;3-&gt;7-&gt;7-&gt;6.
 <ul>
 	<li><code>1 &lt;= target &lt;= 10000</code>.</li>
 </ul>
+
+
+### Related Topics
+[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 

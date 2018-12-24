@@ -32,6 +32,9 @@
 </pre>
 
 
+### Related Topics
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+
 ### Similar Questions
   1. [Max Area of Island](https://github.com/openset/leetcode/tree/master/problems/max-area-of-island) (Medium)
   1. [Flood Fill](https://github.com/openset/leetcode/tree/master/problems/flood-fill) (Easy)

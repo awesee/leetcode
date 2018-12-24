@@ -38,5 +38,11 @@ In step 3, we use <b>Paste</b> operation to get 'AAA'.
 </ol>
 </p>
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [4 Keys Keyboard](https://github.com/openset/leetcode/tree/master/problems/4-keys-keyboard) (Medium)
+
+### Hints
+  1. How many characters may be there in the clipboard at the last step if n = 3? n = 7? n = 10? n = 24?

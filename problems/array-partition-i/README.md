@@ -26,3 +26,11 @@ Given an array of <b>2n</b> integers, your task is to group these integers into 
 <li>All the integers in the array will be in the range of [-10000, 10000].</li>
 </ol>
 </p>
+
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+### Hints
+  1. Obviously, brute force won't help here. Think of something else, take some example like 1,2,3,4.
+  1. How will you make pairs to get the result? There must be some pattern.
+  1. Did you observe that- Minimum element gets add into the result in sacrifice of maximum element.
+  1. Still won't able to find pairs? Sort the array and try to find the pattern.

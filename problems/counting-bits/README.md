@@ -30,5 +30,13 @@
 	<li>Can you do it like a boss? Do it without using any builtin function like <b>__builtin_popcount</b> in c++ or in any other language.</li>
 </ul>
 
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)
+
+### Hints
+  1. You should make use of what you have produced already.
+  1. Divide the numbers in ranges like [2-3], [4-7], [8-15] and so on. And try to generate new range from previous.
+  1. Or does the odd/even status of the number help you in calculating the number of 1s?

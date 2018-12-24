@@ -33,5 +33,16 @@ This is the lexicographically largest string possible after some number of swaps
 <li><code>S</code> is guaranteed to be a <i>special</i> binary string as defined above.</li>
 </ol></p>
 
+### Related Topics
+[[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Valid Parenthesis String](https://github.com/openset/leetcode/tree/master/problems/valid-parenthesis-string) (Medium)
+
+### Hints
+  1. Draw a line from (x, y) to (x+1, y+1) if we see a "1", else to (x+1, y-1).
+A special substring is just a line that starts and ends at the same y-coordinate, and that is the lowest y-coordinate reached.
+Call a mountain a special substring with no special prefixes - ie. only at the beginning and end is the lowest y-coordinate reached.
+If F is the answer function, and S has mountain decomposition M1,M2,M3,...,Mk,  then the answer is:
+reverse_sorted(F(M1), F(M2), ..., F(Mk)).
+However, you'll also need to deal with the case that S is a mountain, such as 11011000 -> 11100100.

@@ -27,6 +27,9 @@ s = "2[abc]3[cd]ef", return "abcabccdcdcdef".
 </pre>
 </p>
 
+### Related Topics
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] 
+
 ### Similar Questions
   1. [Encode String with Shortest Length](https://github.com/openset/leetcode/tree/master/problems/encode-string-with-shortest-length) (Hard)
   1. [Number of Atoms](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms) (Hard)

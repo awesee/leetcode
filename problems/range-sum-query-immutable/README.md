@@ -26,6 +26,9 @@ sumRange(0, 5) -> -3
 </ol>
 </p>
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Range Sum Query 2D - Immutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-immutable) (Medium)
   1. [Range Sum Query - Mutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-mutable) (Medium)

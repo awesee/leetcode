@@ -23,6 +23,9 @@
 </pre>
 </p>
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive) (Hard)
   1. [Find All Duplicates in an Array](https://github.com/openset/leetcode/tree/master/problems/find-all-duplicates-in-an-array) (Medium)

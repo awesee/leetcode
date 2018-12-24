@@ -18,5 +18,11 @@
 </pre>
 
 
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+
 ### Similar Questions
   1. [Factorial Trailing Zeroes](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes) (Easy)
+
+### Hints
+  1. Beware of overflow.

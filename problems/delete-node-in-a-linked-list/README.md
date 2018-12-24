@@ -43,5 +43,8 @@
 </ul>
 
 
+### Related Topics
+[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] 
+
 ### Similar Questions
   1. [Remove Linked List Elements](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements) (Easy)

@@ -33,3 +33,7 @@
 	<li><code>1 &lt;= A.length = A[0].length = B.length = B[0].length &lt;= 30</code></li>
 	<li><code>0 &lt;=&nbsp;A[i][j], B[i][j] &lt;= 1</code></li>
 </ol>
+
+
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 

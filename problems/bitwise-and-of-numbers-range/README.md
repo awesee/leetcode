@@ -21,3 +21,6 @@
 <pre>
 <strong>Input:</strong> [0,1]
 <strong>Output:</strong> 0</pre>
+
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] 

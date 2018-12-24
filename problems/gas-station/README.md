@@ -57,3 +57,7 @@ Travel to station 1. Your tank = 3 - 3 + 3 = 3
 You cannot travel back to station 2, as it requires 4 unit of gas but you only have 3.
 Therefore, you can&#39;t travel around the circuit once no matter where you start.
 </pre>
+
+
+### Related Topics
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 

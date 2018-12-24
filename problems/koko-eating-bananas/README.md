@@ -58,5 +58,8 @@
 </div>
 
 
+### Related Topics
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+
 ### Similar Questions
   1. [Minimize Max Distance to Gas Station](https://github.com/openset/leetcode/tree/master/problems/minimize-max-distance-to-gas-station) (Hard)

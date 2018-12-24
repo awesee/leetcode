@@ -35,6 +35,9 @@ And the value to search: 2
 <p>Note that an empty tree is represented by <code>NULL</code>, therefore you would see the expected output (serialized tree format) as&nbsp;<code>[]</code>, not <code>null</code>.</p>
 
 
+### Related Topics
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 
+
 ### Similar Questions
   1. [Closest Binary Search Tree Value](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value) (Easy)
   1. [Insert into a Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-binary-search-tree) (Medium)

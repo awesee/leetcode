@@ -59,5 +59,8 @@
 </ul>
 
 
+### Related Topics
+[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] 
+
 ### Similar Questions
   1. [Minimum Index Sum of Two Lists](https://github.com/openset/leetcode/tree/master/problems/minimum-index-sum-of-two-lists) (Easy)

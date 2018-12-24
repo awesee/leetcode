@@ -35,3 +35,11 @@ The sister has two different kinds of candies, the brother has only one kind of 
 <li>The number in given array is in range [-100,000, 100,000].</li>
 <ol>
 </p>
+
+### Related Topics
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+### Hints
+  1. To maximize the number of kinds of candies, we should try to distribute candies such that sister will gain all kinds.
+  1. What is the upper limit of the number of kinds of candies sister will gain? Remember candies are to distributed equally.
+  1. Which data structure is the most suitable for finding the number of kinds of candies?
+  1. Will hashset solves the problem? Inserting all candies kind in the hashset and then checking its size with upper limit.

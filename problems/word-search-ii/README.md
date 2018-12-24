@@ -29,5 +29,12 @@
 <p><b>Note:</b><br />
 You may assume that all inputs are consist of lowercase letters <code>a-z</code>.</p>
 
+### Related Topics
+[[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+
 ### Similar Questions
   1. [Word Search](https://github.com/openset/leetcode/tree/master/problems/word-search) (Medium)
+
+### Hints
+  1. You would need to optimize your backtracking to pass the larger test. Could you stop backtracking earlier?
+  1. If the current candidate does not exist in all words&#39; prefix, you could stop backtracking immediately. What kind of data structure could answer such query efficiently? Does a hash table work? Why or why not? How about a Trie? If you would like to learn how to implement a basic trie, please work on this problem: <a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Implement Trie (Prefix Tree)</a> first.

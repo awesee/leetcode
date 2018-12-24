@@ -29,3 +29,7 @@
 	<li>You may use one character in the keyboard more than once.</li>
 	<li>You may assume the input string will only contain letters of alphabet.</li>
 </ol>
+
+
+### Related Topics
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 

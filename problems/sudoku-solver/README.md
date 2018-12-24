@@ -34,5 +34,8 @@
 </ul>
 
 
+### Related Topics
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+
 ### Similar Questions
   1. [Valid Sudoku](https://github.com/openset/leetcode/tree/master/problems/valid-sudoku) (Medium)

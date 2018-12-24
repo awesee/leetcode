@@ -61,5 +61,11 @@ Asteroids moving the same direction never meet, so no asteroids will meet each o
 <li>Each asteroid will be a non-zero integer in the range <code>[-1000, 1000].</code>.</li>
 </p>
 
+### Related Topics
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] 
+
 ### Similar Questions
   1. [Can Place Flowers](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers) (Easy)
+
+### Hints
+  1. Say a row of asteroids is stable.  What happens when a new asteroid is added on the right?

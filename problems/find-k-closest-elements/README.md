@@ -42,6 +42,9 @@ If there is a tie,  the smaller elements are always preferred.
 The <i>arr</i> parameter had been changed to an <b>array of integers</b> (instead of a list of integers). <b><i>Please reload the code definition to get the latest changes</i></b>.
 </p>
 
+### Related Topics
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+
 ### Similar Questions
   1. [Guess Number Higher or Lower](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower) (Easy)
   1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii) (Medium)

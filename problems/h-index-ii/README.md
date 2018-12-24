@@ -33,5 +33,11 @@
 </ul>
 
 
+### Related Topics
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+
 ### Similar Questions
   1. [H-Index](https://github.com/openset/leetcode/tree/master/problems/h-index) (Medium)
+
+### Hints
+  1. Expected runtime complexity is in <i>O</i>(log <i>n</i>) and the input is sorted.

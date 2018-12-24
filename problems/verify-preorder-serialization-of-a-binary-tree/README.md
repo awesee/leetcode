@@ -45,3 +45,6 @@
 <pre>
 <strong>Input: </strong><code>&quot;9,#,#,1&quot;</code>
 <strong>Output: </strong><code>false</code></pre>
+
+### Related Topics
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] 

@@ -26,3 +26,5 @@ solution.reset();
 solution.shuffle();
 </pre>
 </p>
+### Hints
+  1. The solution expects that we always use the original array to shuffle() else some of the test cases fail. (Credits; @snehasingh31)

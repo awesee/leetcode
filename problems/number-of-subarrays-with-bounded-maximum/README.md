@@ -27,3 +27,7 @@ R = 3
 	<li>L, R&nbsp; and <code>A[i]</code> will be an integer in the range <code>[0, 10^9]</code>.</li>
 	<li>The length of <code>A</code> will be in the range of <code>[1, 50000]</code>.</li>
 </ul>
+
+
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 

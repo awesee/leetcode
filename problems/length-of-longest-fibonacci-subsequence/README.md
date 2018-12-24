@@ -51,3 +51,7 @@ The longest subsequence that is fibonacci-like:
 	<li><code>1 &lt;= A[0] &lt; A[1] &lt; ... &lt; A[A.length - 1] &lt;= 10^9</code></li>
 	<li><em>(The time limit has been reduced by 50% for submissions in Java, C, and C++.)</em></li>
 </ul>
+
+
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 

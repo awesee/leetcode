@@ -22,6 +22,9 @@
 </pre>
 
 
+### Related Topics
+[[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+
 ### Similar Questions
   1. [Next Permutation](https://github.com/openset/leetcode/tree/master/problems/next-permutation) (Medium)
   1. [Permutations](https://github.com/openset/leetcode/tree/master/problems/permutations) (Medium)

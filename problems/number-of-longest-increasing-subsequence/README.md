@@ -31,6 +31,9 @@ Given an unsorted array of integers, find the number of longest increasing subse
 Length of the given array will be not exceed 2000 and the answer is guaranteed to be fit in 32-bit signed int.
 </p>
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence) (Medium)
   1. [Longest Continuous Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-continuous-increasing-subsequence) (Easy)

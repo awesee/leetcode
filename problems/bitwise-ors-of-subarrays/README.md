@@ -58,3 +58,7 @@ The possible results are 1, 2, 3, 4, 6, and 7.
 	<li><code>1 &lt;= A.length &lt;= 50000</code></li>
 	<li><code>0 &lt;= A[i] &lt;= 10^9</code></li>
 </ol>
+
+
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 

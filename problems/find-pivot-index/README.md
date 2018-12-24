@@ -40,5 +40,12 @@ There is no index that satisfies the conditions in the problem statement.
 <li>Each element <code>nums[i]</code> will be an integer in the range <code>[-1000, 1000]</code>.</li>
 </p>
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)
+
+### Hints
+  1. We can precompute prefix sums P[i] = nums[0] + nums[1] + ... + nums[i-1].
+Then for each index, the left sum is P[i], and the right sum is P[P.length - 1] - P[i] - nums[i].

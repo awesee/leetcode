@@ -24,5 +24,13 @@
 <p><strong>Note:&nbsp;</strong>If there are several possible values for <em>h</em>, the maximum one is taken as the h-index.</p>
 
 
+### Related Topics
+[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+
 ### Similar Questions
   1. [H-Index II](https://github.com/openset/leetcode/tree/master/problems/h-index-ii) (Medium)
+
+### Hints
+  1. An easy approach is to sort the array first.
+  1. What are the possible values of h-index?
+  1. A faster approach is to use extra space.

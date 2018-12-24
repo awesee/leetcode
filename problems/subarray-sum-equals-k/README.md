@@ -24,8 +24,19 @@
 </p>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+
 ### Similar Questions
   1. [Two Sum](https://github.com/openset/leetcode/tree/master/problems/two-sum) (Easy)
   1. [Continuous Subarray Sum](https://github.com/openset/leetcode/tree/master/problems/continuous-subarray-sum) (Medium)
   1. [Subarray Product Less Than K](https://github.com/openset/leetcode/tree/master/problems/subarray-product-less-than-k) (Medium)
   1. [Find Pivot Index](https://github.com/openset/leetcode/tree/master/problems/find-pivot-index) (Easy)
+
+### Hints
+  1. Will Brute force work here? Try to optimize it.
+  1. Can we optimize it by using some extra space?
+  1. What about storing sum frequencies in a hash table? Will it be useful?
+  1. sum(i,j)=sum(0,j)-sum(0,i), where sum(i,j) represents the sum of all the elements from index i to j-1.
+
+Can we use this property to optimize it.

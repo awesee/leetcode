@@ -41,5 +41,8 @@
 </pre>
 
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Word Break II](https://github.com/openset/leetcode/tree/master/problems/word-break-ii) (Hard)

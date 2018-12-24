@@ -40,3 +40,6 @@ This continues for 3 more queries at time 15, 24, and 8.
 	<li><code>TopVotedCandidate.q(int t)</code> is always called with <code>t &gt;= times[0]</code>.</li>
 </ol>
 </div>
+
+### Related Topics
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 

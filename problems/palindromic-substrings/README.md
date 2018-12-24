@@ -37,7 +37,16 @@ The substrings with different start indexes or end indexes are counted as differ
 </ol>
 </p>
 
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-substring) (Medium)
   1. [Longest Palindromic Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-subsequence) (Medium)
   1. [Palindromic Substrings](https://github.com/openset/leetcode/tree/master/problems/palindromic-substrings) (Medium)
+
+### Hints
+  1. How can we reuse a previously computed palindrome to compute a larger palindrome?
+  1. If “aba” is a palindrome, is “xabax” and palindrome? Similarly is “xabay” a palindrome?
+  1. Complexity based hint:</br>
+If we use brute-force and check whether for every start and end position a substring is a palindrome we have O(n^2) start - end pairs and O(n) palindromic checks. Can we reduce the time for palindromic checks to O(1) by reusing some previous computation?

@@ -36,3 +36,6 @@ You need to return a string representing their multiplication. Note i<sup>2</sup
 <li>The input strings will be given in the form of <b>a+bi</b>, where the integer <b>a</b> and <b>b</b> will both belong to the range of [-100, 100]. And <b>the output should be also in this form</b>.</li>
 </ol>
 </p>
+
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 

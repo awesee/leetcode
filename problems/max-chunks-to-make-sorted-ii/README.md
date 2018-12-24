@@ -45,5 +45,11 @@ However, splitting into [2, 1], [3], [4], [4] is the highest number of chunks po
 <p>&nbsp;</p>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Max Chunks To Make Sorted](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted) (Medium)
+
+### Hints
+  1. Each k for which some permutation of arr[:k] is equal to sorted(arr)[:k] is where we should cut each chunk.
