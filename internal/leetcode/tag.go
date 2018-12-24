@@ -75,7 +75,7 @@ type ttQuestionType struct {
 
 func (question ttQuestionType) TagsStr() string {
 	var buf bytes.Buffer
-	format := "[[%s](https://github.com/openset/leetcode/tree/master/tag/%s)] "
+	format := "[[%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md)] "
 	for _, tag := range question.TopicTags {
 		buf.WriteString(fmt.Sprintf(format, tag.ShowName(), tag.Slug))
 	}
