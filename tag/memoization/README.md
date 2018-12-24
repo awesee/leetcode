@@ -9,4 +9,4 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 329 | [矩阵中的最长递增路径](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-path-in-a-matrix) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search)] [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort)] [[记忆化](https://github.com/openset/leetcode/tree/master/tag/memoization)]  | Hard |
+| 329 | [矩阵中的最长递增路径](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-path-in-a-matrix) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[拓扑排序](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)] [[记忆化](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]  | Hard |
