@@ -59,6 +59,22 @@ evalvars = [], evalints = []
 </ol>
 
 
+### Related Topics
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Parse Lisp Expression](https://github.com/openset/leetcode/tree/master/problems/parse-lisp-expression) (Hard)
   1. [Basic Calculator III](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iii) (Hard)
+
+### Hints
+  1. One way is with a Polynomial class.  For example,
+
+* `Poly:add(this, that)` returns the result of `this + that`.
+* `Poly:sub(this, that)` returns the result of `this - that`.
+* `Poly:mul(this, that)` returns the result of `this * that`.
+* `Poly:evaluate(this, evalmap)` returns the polynomial after replacing all free variables with constants as specified by `evalmap`.
+* `Poly:toList(this)` returns the polynomial in the correct output format.
+
+* `Solution::combine(left, right, symbol)` returns the result of applying the binary operator represented by `symbol` to `left` and `right`.
+* `Solution::make(expr)` makes a new `Poly` represented by either the constant or free variable specified by `expr`.
+* `Solution::parse(expr)` parses an expression into a new `Poly`.

@@ -34,6 +34,12 @@
 <p>&nbsp;</p>
 
 
+### Related Topics
+[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Rearrange String k Distance Apart](https://github.com/openset/leetcode/tree/master/problems/rearrange-string-k-distance-apart) (Hard)
   1. [Task Scheduler](https://github.com/openset/leetcode/tree/master/problems/task-scheduler) (Medium)
+
+### Hints
+  1. Alternate placing the most common letters.

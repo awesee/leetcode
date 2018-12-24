@@ -30,3 +30,12 @@
 <strong>Input:</strong> numerator = 2, denominator = 3
 <strong>Output: </strong>&quot;0.(6)&quot;
 </pre>
+
+
+### Related Topics
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+### Hints
+  1. No scary math, just apply elementary math knowledge. Still remember how to perform a <i>long division</i>?
+  1. Try a long division on 4/9, the repeating part is obvious. Now try 4/333. Do you see a pattern?
+  1. Notice that once the remainder starts repeating, so does the divided result.
+  1. Be wary of edge cases! List out as many test cases as you can think of and test your code thoroughly.

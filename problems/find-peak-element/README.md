@@ -36,5 +36,8 @@
 <p>Your solution should be in logarithmic complexity.</p>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+
 ### Similar Questions
   1. [Peak Index in a Mountain Array](https://github.com/openset/leetcode/tree/master/problems/peak-index-in-a-mountain-array) (Easy)

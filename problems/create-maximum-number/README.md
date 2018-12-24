@@ -42,6 +42,9 @@ k = <code>3</code>
 <code>[9, 8, 9]</code>
 </pre>
 
+### Related Topics
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Remove K Digits](https://github.com/openset/leetcode/tree/master/problems/remove-k-digits) (Medium)
   1. [Maximum Swap](https://github.com/openset/leetcode/tree/master/problems/maximum-swap) (Medium)

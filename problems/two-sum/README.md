@@ -23,6 +23,9 @@ return [<strong>0</strong>, <strong>1</strong>].
 <p>&nbsp;</p>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+
 ### Similar Questions
   1. [3Sum](https://github.com/openset/leetcode/tree/master/problems/3sum) (Medium)
   1. [4Sum](https://github.com/openset/leetcode/tree/master/problems/4sum) (Medium)

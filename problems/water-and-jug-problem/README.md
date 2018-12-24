@@ -32,3 +32,6 @@ Output: True
 Input: x = 2, y = 6, z = 5
 Output: False
 </pre>
+
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 

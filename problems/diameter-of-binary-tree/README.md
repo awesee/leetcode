@@ -29,3 +29,6 @@ Return <b>3</b>, which is the length of the path [4,2,1,3] or [5,2,1,3].
 <p><b>Note:</b>
 The length of path between two nodes is represented by the number of edges between them.
 </p>
+
+### Related Topics
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 

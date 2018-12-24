@@ -25,3 +25,7 @@
 	<li>Another corner case is the path might contain multiple slashes <code>&#39;/&#39;</code> together, such as <code>&quot;/home//foo/&quot;</code>.<br />
 	In this case, you should ignore redundant slashes and return <code>&quot;/home/foo&quot;</code>.</li>
 </ul>
+
+
+### Related Topics
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 

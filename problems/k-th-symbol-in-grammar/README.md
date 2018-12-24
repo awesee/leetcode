@@ -38,3 +38,9 @@ row 4: 01101001
 	<li><code>N</code> will be an integer in the range <code>[1, 30]</code>.</li>
 	<li><code>K</code> will be an integer in the range <code>[1, 2^(N-1)]</code>.</li>
 </ol>
+
+
+### Related Topics
+[[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] 
+### Hints
+  1. Try to represent the current (N, K) in terms of some (N-1, prevK).  What is prevK ?

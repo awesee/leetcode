@@ -33,5 +33,8 @@ The maximum length of the string is 50000.</li>
 </ol>
 </p>
 
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Valid Palindrome](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome) (Easy)

@@ -22,5 +22,8 @@
 </pre>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Spiral Matrix](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix) (Medium)

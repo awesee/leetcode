@@ -42,5 +42,8 @@ v   v
 <li>Every integer represented in the 2D-array will be between 1 and N, where N is the size of the input array.</li>
 </p>
 
+### Related Topics
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] 
+
 ### Similar Questions
   1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/problems/redundant-connection) (Medium)

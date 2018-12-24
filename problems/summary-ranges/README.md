@@ -26,6 +26,9 @@
 </pre>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Missing Ranges](https://github.com/openset/leetcode/tree/master/problems/missing-ranges) (Medium)
   1. [Data Stream as Disjoint Intervals](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals) (Hard)

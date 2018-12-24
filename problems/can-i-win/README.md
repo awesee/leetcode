@@ -36,6 +36,9 @@ Same with other integers chosen by the first player, the second player will alwa
 </pre>
 </p>
 
+### Related Topics
+[[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Flip Game II](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii) (Medium)
   1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii) (Medium)

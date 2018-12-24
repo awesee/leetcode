@@ -44,3 +44,6 @@ It can be shown with 5 or less moves that it is impossible for the array to have
 <div>
 <div>&nbsp;</div>
 </div>
+
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 

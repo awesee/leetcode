@@ -40,3 +40,7 @@
 <p><strong>Explanation of Input Syntax:</strong></p>
 
 <p>The input is two lists:&nbsp;the subroutines called&nbsp;and their&nbsp;arguments. <code>Solution</code>&#39;s constructor&nbsp;has two arguments, <code>n_rows</code> and <code>n_cols</code>.&nbsp;<code>flip</code>&nbsp;and <code>reset</code> have&nbsp;no&nbsp;arguments.&nbsp;Arguments&nbsp;are&nbsp;always wrapped with a list, even if there aren&#39;t any.</p>
+
+
+### Related Topics
+[[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)] 

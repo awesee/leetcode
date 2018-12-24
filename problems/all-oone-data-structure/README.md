@@ -21,3 +21,6 @@
 <p>
 Challenge: Perform all these in O(1) time complexity.
 </p>
+
+### Related Topics
+[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] 

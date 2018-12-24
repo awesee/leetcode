@@ -37,6 +37,9 @@
 <strong>Explanation: </strong></span>All possible pairs are returned from the sequence: [1,3],[2,3]
 </pre>
 
+### Related Topics
+[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] 
+
 ### Similar Questions
   1. [Kth Smallest Element in a Sorted Matrix](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
   1. [Find K-th Smallest Pair Distance](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance) (Hard)

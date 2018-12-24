@@ -24,5 +24,8 @@ Only three moves are needed (remember each move increments two elements):
 </pre>
 </p>
 
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+
 ### Similar Questions
   1. [Minimum Moves to Equal Array Elements II](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements-ii) (Medium)

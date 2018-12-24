@@ -27,5 +27,11 @@ A partition like "ababcbacadefegde", "hijhklij" is incorrect, because it splits 
 <li><code>S</code> will consist of lowercase letters (<code>'a'</code> to <code>'z'</code>) only.</li>
 </ol></p>
 
+### Related Topics
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] 
+
 ### Similar Questions
   1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
+
+### Hints
+  1. Try to greedily choose the smallest partition that includes the first letter.  If you have something like "abaccbdeffed", then you might need to add b.  You can use an map like "last['b'] = 5" to help you expand the width of your partition.

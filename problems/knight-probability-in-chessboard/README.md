@@ -44,5 +44,8 @@ The total probability the knight stays on the board is 0.0625.
 </ul>
 
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Out of Boundary Paths](https://github.com/openset/leetcode/tree/master/problems/out-of-boundary-paths) (Medium)

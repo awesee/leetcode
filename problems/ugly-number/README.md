@@ -41,6 +41,9 @@
 	<li>Input is within the 32-bit signed integer range:&nbsp;[&minus;2<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>&minus; 1].</li>
 </ol>
 
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+
 ### Similar Questions
   1. [Happy Number](https://github.com/openset/leetcode/tree/master/problems/happy-number) (Easy)
   1. [Count Primes](https://github.com/openset/leetcode/tree/master/problems/count-primes) (Easy)

@@ -34,3 +34,6 @@ Other cases:
 <li>There is only one optimal division for each test case.</li>
 </ol>
 </p>
+
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 

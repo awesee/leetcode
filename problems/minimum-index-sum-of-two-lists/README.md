@@ -45,5 +45,8 @@ You need to help them find out their <b>common interest</b> with the <b>least li
 </ol>
 </p>
 
+### Related Topics
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+
 ### Similar Questions
   1. [Intersection of Two Linked Lists](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-linked-lists) (Easy)

@@ -23,7 +23,16 @@ Calling <strong><code>hasNext()</code></strong> after that should return <strong
 <p><b>Follow up</b>: How would you extend your design to be generic and work with all types, not just integer?</p>
 
 
+### Related Topics
+[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] 
+
 ### Similar Questions
   1. [Binary Search Tree Iterator](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator) (Medium)
   1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/problems/flatten-2d-vector) (Medium)
   1. [Zigzag Iterator](https://github.com/openset/leetcode/tree/master/problems/zigzag-iterator) (Medium)
+
+### Hints
+  1. Think of "looking ahead". You want to cache the next element.
+  1. Is one variable sufficient? Why or why not?
+  1. Test your design with call order of <code>peek()</code> before <code>next()</code> vs <code>next()</code> before <code>peek()</code>.
+  1. For a clean implementation, check out <a href="https://github.com/google/guava/blob/703ef758b8621cfbab16814f01ddcc5324bdea33/guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/Iterators.java#L1125" target="_blank">Google's guava library source code</a>.

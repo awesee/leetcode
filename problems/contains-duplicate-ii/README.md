@@ -37,6 +37,9 @@
 </div>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+
 ### Similar Questions
   1. [Contains Duplicate](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate) (Easy)
   1. [Contains Duplicate III](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate-iii) (Medium)

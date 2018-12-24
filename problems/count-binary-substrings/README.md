@@ -34,5 +34,11 @@
 <li><code>s</code> will only consist of "0" or "1" characters.</li>
 </p>
 
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings) (Medium)
+
+### Hints
+  1. How many valid binary substrings exist in "000111", and how many in "11100"?  What about "00011100"?

@@ -33,7 +33,13 @@ The couples' initial seating is given by <code>row[i]</code> being the value of 
 <li> <code>row</code> is guaranteed to be a permutation of <code>0...len(row)-1</code>.</li>
 </ol>
 
+### Related Topics
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] 
+
 ### Similar Questions
   1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive) (Hard)
   1. [Missing Number](https://github.com/openset/leetcode/tree/master/problems/missing-number) (Easy)
   1. [K-Similar Strings](https://github.com/openset/leetcode/tree/master/problems/k-similar-strings) (Hard)
+
+### Hints
+  1. Say there are N two-seat couches.  For each couple, draw an edge from the couch of one partner to the couch of the other partner.

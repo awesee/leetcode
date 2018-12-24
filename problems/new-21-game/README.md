@@ -44,3 +44,7 @@ In 6 out of W = 10 possibilities, she is at or below N = 6 points.
 	<li>Answers will be accepted as correct if they are within <code>10^-5</code> of the correct answer.</li>
 	<li>The judging time limit has been reduced for this question.</li>
 </ol>
+
+
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 

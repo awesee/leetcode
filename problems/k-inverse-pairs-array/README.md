@@ -42,3 +42,6 @@ The array [1,3,2] and [2,1,3] have exactly 1 inverse pair.
 <li>The integer <code>n</code> is in the range [1, 1000] and <code>k</code> is in the range [0, 1000].</li>
 </ol>
 </p>
+
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 

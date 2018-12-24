@@ -48,3 +48,6 @@
 <li> What is the time complexity of your modified solution? What is the most time-consuming part and memory consuming part of it? How to optimize?</li>
 <li> How to make sure the duplicated files you find are not false positive?</li>
 </ol>
+
+### Related Topics
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 

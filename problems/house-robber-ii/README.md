@@ -29,6 +29,9 @@
 &nbsp;            Total amount you can rob = 1 + 3 = 4.</pre>
 
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [House Robber](https://github.com/openset/leetcode/tree/master/problems/house-robber) (Easy)
   1. [Paint House](https://github.com/openset/leetcode/tree/master/problems/paint-house) (Easy)
@@ -36,3 +39,6 @@
   1. [House Robber III](https://github.com/openset/leetcode/tree/master/problems/house-robber-iii) (Medium)
   1. [Non-negative Integers without Consecutive Ones](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones) (Hard)
   1. [Coin Path](https://github.com/openset/leetcode/tree/master/problems/coin-path) (Hard)
+
+### Hints
+  1. Since House[1] and House[n] are adjacent, they cannot be robbed together. Therefore, the problem becomes to rob either House[1]-House[n-1] or House[2]-House[n], depending on which choice offers more money. Now the problem has degenerated to the <a href ="https://leetcode.com/problems/house-robber/description/">House Robber</a>, which is already been solved.

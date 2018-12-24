@@ -39,6 +39,9 @@
 </pre>
 </p>
 
+### Related Topics
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Construct Binary Tree from String](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-string) (Medium)
   1. [Find Duplicate Subtrees](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-subtrees) (Medium)

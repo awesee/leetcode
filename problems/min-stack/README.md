@@ -38,6 +38,12 @@ minStack.getMin();   --> Returns -2.
 </pre>
 </p>
 
+### Related Topics
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] 
+
 ### Similar Questions
   1. [Sliding Window Maximum](https://github.com/openset/leetcode/tree/master/problems/sliding-window-maximum) (Hard)
   1. [Max Stack](https://github.com/openset/leetcode/tree/master/problems/max-stack) (Easy)
+
+### Hints
+  1. Consider each node in the stack having a minimum value. (Credits to @aakarshmadhavan)

@@ -39,5 +39,8 @@ If there are multiple answers, print any of them.
 </ol>
 </p>
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Beautiful Arrangement](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement) (Medium)

@@ -32,6 +32,9 @@ Even though [1,3,5,7] is also an increasing subsequence, it's not a continuous o
 Length of the array will not exceed 10,000.
 </p>
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Number of Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/number-of-longest-increasing-subsequence) (Medium)
   1. [Minimum Window Subsequence](https://github.com/openset/leetcode/tree/master/problems/minimum-window-subsequence) (Hard)

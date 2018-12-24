@@ -41,3 +41,7 @@ In total, there is only one magic square inside the given grid.
 	<li><code>1 &lt;= grid[0].length&nbsp;&lt;= 10</code></li>
 	<li><code>0 &lt;= grid[i][j] &lt;= 15</code></li>
 </ol>
+
+
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 

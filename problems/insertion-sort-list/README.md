@@ -44,6 +44,9 @@ With each iteration one element (red) is removed from the input data and inserte
 </pre>
 
 
+### Related Topics
+[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] 
+
 ### Similar Questions
   1. [Sort List](https://github.com/openset/leetcode/tree/master/problems/sort-list) (Medium)
   1. [Insert into a Cyclic Sorted List](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-cyclic-sorted-list) (Medium)

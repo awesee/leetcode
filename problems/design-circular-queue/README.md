@@ -50,5 +50,8 @@ circularQueue.Rear(); &nbsp;// return 4
 </ul>
 
 
+### Related Topics
+[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)] 
+
 ### Similar Questions
   1. [Design Circular Deque](https://github.com/openset/leetcode/tree/master/problems/design-circular-deque) (Medium)

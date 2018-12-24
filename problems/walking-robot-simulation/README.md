@@ -54,3 +54,7 @@
 	<li><code>-30000 &lt;= obstacle[i][1] &lt;= 30000</code></li>
 	<li>The answer is guaranteed to be less than <code>2 ^ 31</code>.</li>
 </ol>
+
+
+### Related Topics
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 

@@ -31,6 +31,9 @@
 (((2*3)-4)*5) = 10<strong>
 </strong></pre>
 
+### Related Topics
+[[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] 
+
 ### Similar Questions
   1. [Unique Binary Search Trees II](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees-ii) (Medium)
   1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/problems/basic-calculator) (Hard)

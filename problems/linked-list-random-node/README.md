@@ -26,5 +26,8 @@ solution.getRandom();
 </pre>
 </p>
 
+### Related Topics
+[[Reservoir Sampling](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)] 
+
 ### Similar Questions
   1. [Random Pick Index](https://github.com/openset/leetcode/tree/master/problems/random-pick-index) (Medium)

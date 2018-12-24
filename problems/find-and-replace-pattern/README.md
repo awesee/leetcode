@@ -38,3 +38,7 @@ since a and b map to the same letter.</pre>
 	<li><code>1 &lt;= pattern.length = words[i].length&nbsp;&lt;= 20</code></li>
 </ul>
 </div>
+
+
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 

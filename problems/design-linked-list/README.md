@@ -38,3 +38,7 @@ linkedList.get(1);&nbsp;&nbsp;&nbsp;         // returns 3
 	<li>The number of operations will be in the range of&nbsp;<code>[1, 1000]</code>.</li>
 	<li>Please do not use the built-in LinkedList library.</li>
 </ul>
+
+
+### Related Topics
+[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] 

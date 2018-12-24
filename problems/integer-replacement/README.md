@@ -51,3 +51,6 @@ or
 7 -> 6 -> 3 -> 2 -> 1
 </pre>
 </p>
+
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 

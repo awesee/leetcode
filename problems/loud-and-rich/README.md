@@ -51,3 +51,7 @@ The other answers can be filled out with similar reasoning.
 	<li><code>richer[i]</code>&#39;s are all different.</li>
 	<li>The&nbsp;observations in <code>richer</code> are all logically consistent.</li>
 </ol>
+
+
+### Related Topics
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] 

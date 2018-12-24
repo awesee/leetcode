@@ -30,6 +30,9 @@
 </ol>
 </p>
 
+### Related Topics
+[[Binary Indexed Tree](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)] [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)] [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)] [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] 
+
 ### Similar Questions
   1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self) (Hard)
   1. [Count of Range Sum](https://github.com/openset/leetcode/tree/master/problems/count-of-range-sum) (Hard)

@@ -30,6 +30,9 @@ Among them, only integer 3 disobeys the rule (two consecutive ones) and the othe
 </p>
 
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [House Robber](https://github.com/openset/leetcode/tree/master/problems/house-robber) (Easy)
   1. [House Robber II](https://github.com/openset/leetcode/tree/master/problems/house-robber-ii) (Medium)

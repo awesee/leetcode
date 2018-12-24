@@ -41,6 +41,15 @@ You may assume k is always valid, 1 &le; k &le; BST&#39;s total elements.</p>
 What if the BST is modified (insert/delete operations) often and you need to find the kth smallest frequently? How would you optimize the kthSmallest routine?</p>
 
 
+### Related Topics
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+
 ### Similar Questions
   1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
   1. [Second Minimum Node In a Binary Tree](https://github.com/openset/leetcode/tree/master/problems/second-minimum-node-in-a-binary-tree) (Easy)
+
+### Hints
+  1. Try to utilize the property of a BST.
+  1. Try in-order traversal. (Credits to @chan13)
+  1. What if you could modify the BST node's structure?
+  1. The optimal runtime complexity is O(height of BST).

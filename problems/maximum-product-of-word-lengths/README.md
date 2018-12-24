@@ -30,3 +30,6 @@
 <b>Output: </b><code>0 
 <strong>Explanation: </strong></code>No such pair of words.
 </pre>
+
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] 

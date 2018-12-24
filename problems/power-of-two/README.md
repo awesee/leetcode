@@ -31,6 +31,9 @@
 <strong>Output:</strong> false</pre>
 
 
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+
 ### Similar Questions
   1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)
   1. [Power of Three](https://github.com/openset/leetcode/tree/master/problems/power-of-three) (Easy)

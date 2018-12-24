@@ -52,3 +52,7 @@
 	<li><code>1 &lt;= rods[i] &lt;= 1000</code></li>
 	<li><code>The sum of rods is at most 5000.</code></li>
 </ol>
+
+
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 

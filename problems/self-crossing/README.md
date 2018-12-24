@@ -52,3 +52,6 @@
 <strong>Output:</strong> true 
 <strong>Explanation:</strong>&nbsp;self crossing
 </pre>
+
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 

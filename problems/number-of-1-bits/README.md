@@ -50,6 +50,9 @@
 <p>If this function is called many times, how would you optimize it?</p>
 
 
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] 
+
 ### Similar Questions
   1. [Reverse Bits](https://github.com/openset/leetcode/tree/master/problems/reverse-bits) (Easy)
   1. [Power of Two](https://github.com/openset/leetcode/tree/master/problems/power-of-two) (Easy)

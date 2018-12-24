@@ -17,6 +17,9 @@
 </pre>
 
 
+### Related Topics
+[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] 
+
 ### Similar Questions
   1. [Remove Element](https://github.com/openset/leetcode/tree/master/problems/remove-element) (Easy)
   1. [Delete Node in a Linked List](https://github.com/openset/leetcode/tree/master/problems/delete-node-in-a-linked-list) (Easy)

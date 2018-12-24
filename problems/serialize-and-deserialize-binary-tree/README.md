@@ -30,6 +30,9 @@ as <code>&quot;[1,2,3,null,null,4,5]&quot;</code>
 <p><strong>Note:&nbsp;</strong>Do not use class member/global/static variables to store states. Your serialize and deserialize algorithms should be stateless.</p>
 
 
+### Related Topics
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] 
+
 ### Similar Questions
   1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings) (Medium)
   1. [Serialize and Deserialize BST](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-bst) (Medium)

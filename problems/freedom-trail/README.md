@@ -42,3 +42,7 @@ So the final output is 4.
 	<li>There are only lowercase letters in both strings and might be some duplcate characters in both strings.</li>
 	<li>It&#39;s guaranteed that string <b>key</b> could always be spelled by rotating the string <b>ring</b>.</li>
 </ol>
+
+
+### Related Topics
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 

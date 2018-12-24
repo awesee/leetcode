@@ -22,5 +22,8 @@ Given <code>1-&gt;2-&gt;3-&gt;4</code>, you should return the list as <code>2-&g
 </ul>
 
 
+### Related Topics
+[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] 
+
 ### Similar Questions
   1. [Reverse Nodes in k-Group](https://github.com/openset/leetcode/tree/master/problems/reverse-nodes-in-k-group) (Hard)

@@ -33,6 +33,9 @@
 <strong>Output: </strong>3
 </pre>
 
+### Related Topics
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] 
+
 ### Similar Questions
   1. [Surrounded Regions](https://github.com/openset/leetcode/tree/master/problems/surrounded-regions) (Medium)
   1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/problems/walls-and-gates) (Medium)

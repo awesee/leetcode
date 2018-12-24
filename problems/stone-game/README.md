@@ -40,3 +40,7 @@ This demonstrated that taking the first 5 was a winning move for Alex, so we ret
 	<li><code>1 &lt;= piles[i] &lt;= 500</code></li>
 	<li><code>sum(piles)</code> is odd.</li>
 </ol>
+
+
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 

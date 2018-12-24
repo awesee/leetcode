@@ -31,5 +31,8 @@ HammingDistance(4, 14) + HammingDistance(4, 2) + HammingDistance(14, 2) = 2 + 2 
 </ol>
 </p>
 
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] 
+
 ### Similar Questions
   1. [Hamming Distance](https://github.com/openset/leetcode/tree/master/problems/hamming-distance) (Easy)

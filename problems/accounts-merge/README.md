@@ -32,7 +32,13 @@ We could return these lists in any order, for example the answer [['Mary', 'mary
 <li>The length of <code>accounts[i][j]</code> will be in the range <code>[1, 30]</code>.</li>
 </p>
 
+### Related Topics
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] 
+
 ### Similar Questions
   1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/problems/redundant-connection) (Medium)
   1. [Sentence Similarity](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity) (Easy)
   1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity-ii) (Medium)
+
+### Hints
+  1. For every pair of emails in the same account, draw an edge between those emails.  The problem is about enumerating the connected components of this graph.

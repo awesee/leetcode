@@ -40,5 +40,11 @@ Given two integers <code>L</code> and <code>R</code>, find the count of numbers 
 <li><code>R - L</code> will be at most 10000.</li>
 </ol></p>
 
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] 
+
 ### Similar Questions
   1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)
+
+### Hints
+  1. Write a helper function to count the number of set bits in a number, then check whether the number of set bits is 2, 3, 5, 7, 11, 13, 17 or 19.

@@ -29,3 +29,7 @@ The five points are show in the figure below. The red triangle is the largest.
 </ul>
 
 <p>&nbsp;</p>
+
+
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 

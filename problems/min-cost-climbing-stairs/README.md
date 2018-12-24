@@ -36,5 +36,11 @@ Once you pay the cost, you can either climb one or two steps. You need to find m
 </ol>
 </p>
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Climbing Stairs](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs) (Easy)
+
+### Hints
+  1. Say f[i] is the final cost to climb to the top from step i.  Then f[i] = cost[i] + min(f[i+1], f[i+2]).

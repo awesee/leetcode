@@ -44,3 +44,7 @@ We will visit &quot;google.mail.com&quot; 900 times, &quot;yahoo.com&quot; 50 ti
 	<li>The input count&nbsp;in any count-paired domain will not exceed <code>10000</code>.</li>
 	<li>The answer output can be returned in any order.</li>
 </ul>
+
+
+### Related Topics
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 

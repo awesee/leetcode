@@ -36,5 +36,11 @@ to the starting pixel.
 <li>The value of each color in <code>image[i][j]</code> and <code>newColor</code> will be an integer in <code>[0, 65535]</code>.</li>
 </p>
 
+### Related Topics
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] 
+
 ### Similar Questions
   1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/problems/island-perimeter) (Easy)
+
+### Hints
+  1. Write a recursive function that paints the pixel if it's the correct color, then recurses on neighboring pixels.

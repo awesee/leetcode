@@ -37,6 +37,9 @@ rotate 2 steps to the right: [3,99,-1,-100]
 	<li>Could you do it in-place with O(1) extra space?</li>
 </ul>
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Rotate List](https://github.com/openset/leetcode/tree/master/problems/rotate-list) (Medium)
   1. [Reverse Words in a String II](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-ii) (Medium)

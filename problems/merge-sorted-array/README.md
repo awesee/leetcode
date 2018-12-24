@@ -27,5 +27,11 @@ nums2 = [2,5,6],       n = 3
 </pre>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] 
+
 ### Similar Questions
   1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists) (Easy)
+
+### Hints
+  1. What if you fill the longer array from the end instead of start ?

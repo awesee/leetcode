@@ -23,3 +23,7 @@
 </pre>
 
 <p><strong>Note:</strong> The result may be very large, so you need to return a string instead of an integer.</p>
+
+
+### Related Topics
+[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] 

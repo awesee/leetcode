@@ -20,5 +20,11 @@
 &nbsp;            No matter 1, 2, or 3 stones you remove, the last stone will always be 
 &nbsp;            removed by your friend.</pre>
 
+### Related Topics
+[[Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)] 
+
 ### Similar Questions
   1. [Flip Game II](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii) (Medium)
+
+### Hints
+  1. If there are 5 stones in the heap, could you figure out a way to remove the stones such that you will always be the winner?

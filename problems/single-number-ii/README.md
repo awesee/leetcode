@@ -27,6 +27,9 @@
 <strong>Output:</strong> 99</pre>
 
 
+### Related Topics
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] 
+
 ### Similar Questions
   1. [Single Number](https://github.com/openset/leetcode/tree/master/problems/single-number) (Easy)
   1. [Single Number III](https://github.com/openset/leetcode/tree/master/problems/single-number-iii) (Medium)

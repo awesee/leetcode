@@ -53,3 +53,9 @@ After move 5: [[1,2,3],[4,5,0]]
 	<li><code>board</code> will be a 2 x 3 array as described above.</li>
 	<li><code>board[i][j]</code> will be a permutation of <code>[0, 1, 2, 3, 4, 5]</code>.</li>
 </ul>
+
+
+### Related Topics
+[[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] 
+### Hints
+  1. Perform a breadth-first-search, where the nodes are the puzzle boards and edges are if two puzzle boards can be transformed into one another with one move.

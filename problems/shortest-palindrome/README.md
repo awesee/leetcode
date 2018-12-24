@@ -22,6 +22,9 @@
 <strong>Input: </strong><code>&quot;abcd&quot;</code>
 <strong>Output:</strong> <code>&quot;dcbabcd&quot;</code></pre>
 
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-substring) (Medium)
   1. [Implement strStr()](https://github.com/openset/leetcode/tree/master/problems/implement-strstr) (Easy)

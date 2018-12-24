@@ -53,7 +53,15 @@ for (int i = 0; i &lt; len; i++) {
 }</pre>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] 
+
 ### Similar Questions
   1. [Remove Duplicates from Sorted Array](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array) (Easy)
   1. [Remove Linked List Elements](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements) (Easy)
   1. [Move Zeroes](https://github.com/openset/leetcode/tree/master/problems/move-zeroes) (Easy)
+
+### Hints
+  1. Try two pointers.
+  1. Did you use the property of "the order of elements can be changed"?
+  1. What happens when the elements to remove are rare?

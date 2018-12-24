@@ -40,5 +40,8 @@ The value of <b>n</b> won't exceed 100,000.
 
 
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Student Attendance Record I](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-i) (Easy)

@@ -70,3 +70,7 @@
 	<li>All points are distinct.</li>
 	<li>Answers within <code>10^-5</code> of the actual value will be accepted as correct.</li>
 </ol>
+
+
+### Related Topics
+[[Geometry](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 

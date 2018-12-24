@@ -32,3 +32,7 @@ Here is a diagram of the above graph.
 	<li>The number of edges in the graph will not exceed <code>32000</code>.</li>
 	<li>Each <code>graph[i]</code> will be a sorted list of different integers, chosen within the range <code>[0, graph.length - 1]</code>.</li>
 </ul>
+
+
+### Related Topics
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] 

@@ -36,5 +36,8 @@ What limitation we need to add to the question to allow negative numbers? </p>
 
 <p><b>Credits:</b><br />Special thanks to <a href="https://leetcode.com/pbrother/">@pbrother</a> for adding this problem and creating all test cases.</p>
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Combination Sum](https://github.com/openset/leetcode/tree/master/problems/combination-sum) (Medium)

@@ -32,5 +32,8 @@
 <strong>Output:</strong> [1,2,3,4,8,12,11,10,9,5,6,7]
 </pre>
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Spiral Matrix II](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-ii) (Medium)

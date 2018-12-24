@@ -26,5 +26,8 @@ Given an integer array, your task is to find all the different possible increasi
 </ol>
 </p>
 
+### Related Topics
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] 
+
 ### Similar Questions
   1. [Maximum Length of Pair Chain](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-pair-chain) (Medium)

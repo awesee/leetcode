@@ -33,5 +33,8 @@
 <p>Given&nbsp;target&nbsp;=&nbsp;<code>20</code>, return&nbsp;<code>false</code>.</p>
 
 
+### Related Topics
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] 
+
 ### Similar Questions
   1. [Search a 2D Matrix](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix) (Medium)

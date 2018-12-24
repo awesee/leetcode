@@ -51,6 +51,12 @@ The graph contains <code>n</code> nodes which are labeled from <code>0</code> to
 </ul>
 
 
+### Related Topics
+[[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] 
+
 ### Similar Questions
   1. [Course Schedule](https://github.com/openset/leetcode/tree/master/problems/course-schedule) (Medium)
   1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii) (Medium)
+
+### Hints
+  1. How many MHTs can a graph have at most?

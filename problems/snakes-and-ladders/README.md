@@ -59,3 +59,6 @@ It can be shown that you need at least 4 moves to reach the N*N-th square, so th
 	<li>The board&nbsp;square with number <code>1</code> has no snake or ladder.</li>
 	<li>The board square with number <code>N*N</code> has no snake or ladder.</li>
 </ol>
+
+### Related Topics
+[[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] 

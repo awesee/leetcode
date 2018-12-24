@@ -59,5 +59,11 @@ The diagonal &quot;[1, 2]&quot; has different elements.
 </ol>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Valid Word Square](https://github.com/openset/leetcode/tree/master/problems/valid-word-square) (Easy)
+
+### Hints
+  1. Check whether each value is equal to the value of it's top-left neighbor.

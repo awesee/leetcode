@@ -68,5 +68,8 @@
 </ul>
 
 
+### Related Topics
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+
 ### Similar Questions
   1. [Sudoku Solver](https://github.com/openset/leetcode/tree/master/problems/sudoku-solver) (Hard)

@@ -35,6 +35,12 @@ Both "apply" and "apple" can be built from other words in the dictionary. Howeve
 <li>The length of <code>words[i]</code> will be in the range <code>[1, 30]</code>.</li>
 </p>
 
+### Related Topics
+[[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+
 ### Similar Questions
   1. [Longest Word in Dictionary through Deleting](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary-through-deleting) (Medium)
   1. [Implement Magic Dictionary](https://github.com/openset/leetcode/tree/master/problems/implement-magic-dictionary) (Medium)
+
+### Hints
+  1. For every word in the input list, we can check whether all prefixes of that word are in the input list by using a Set.

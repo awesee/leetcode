@@ -50,5 +50,8 @@
 </ul>
 
 
+### Related Topics
+[[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+
 ### Similar Questions
   1. [Design Tic-Tac-Toe](https://github.com/openset/leetcode/tree/master/problems/design-tic-tac-toe) (Medium)

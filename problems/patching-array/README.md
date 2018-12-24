@@ -34,3 +34,6 @@ So we only need <code>1</code> patch.</pre>
 <strong>Input: </strong><i>nums</i> = <code>[1,2,2]</code>, <i>n</i> = <code>5</code>
 <strong>Output:</strong> 0
 </pre>
+
+### Related Topics
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 

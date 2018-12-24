@@ -38,6 +38,9 @@ sumRegion(1, 2, 2, 4) -> 12
 </ol>
 </p>
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Range Sum Query - Immutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-immutable) (Easy)
   1. [Range Sum Query 2D - Mutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-mutable) (Hard)

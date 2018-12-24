@@ -37,5 +37,13 @@
 </pre>
 
 
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Integer to Roman](https://github.com/openset/leetcode/tree/master/problems/integer-to-roman) (Medium)
+
+### Hints
+  1. Did you see a pattern in dividing the number into chunk of words? For example, 123 and 123000.
+  1. Group the number by thousands (3 digits). You can write a helper function that takes a number less than 1000 and convert just that chunk to words.
+  1. There are many edge cases. What are some good test cases? Does your code work with input such as 0? Or 1000010? (middle chunk is zero and should not be printed out)

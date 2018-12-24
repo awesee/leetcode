@@ -39,5 +39,8 @@ A student could be rewarded if his attendance record doesn't contain <b>more tha
 
 
 
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Student Attendance Record II](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-ii) (Hard)

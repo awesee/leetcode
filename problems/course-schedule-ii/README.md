@@ -40,9 +40,17 @@
 </ol>
 
 
+### Related Topics
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[Topological Sort](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)] 
+
 ### Similar Questions
   1. [Course Schedule](https://github.com/openset/leetcode/tree/master/problems/course-schedule) (Medium)
   1. [Alien Dictionary](https://github.com/openset/leetcode/tree/master/problems/alien-dictionary) (Hard)
   1. [Minimum Height Trees](https://github.com/openset/leetcode/tree/master/problems/minimum-height-trees) (Medium)
   1. [Sequence Reconstruction](https://github.com/openset/leetcode/tree/master/problems/sequence-reconstruction) (Medium)
   1. [Course Schedule III](https://github.com/openset/leetcode/tree/master/problems/course-schedule-iii) (Hard)
+
+### Hints
+  1. This problem is equivalent to finding the topological order in a directed graph. If a cycle exists, no topological ordering exists and therefore it will be impossible to take all courses.
+  1. <a href="https://class.coursera.org/algo-003/lecture/52" target="_blank">Topological Sort via DFS</a> - A great video tutorial (21 minutes) on Coursera explaining the basic concepts of Topological Sort.
+  1. Topological sort could also be done via <a href="http://en.wikipedia.org/wiki/Topological_sorting#Algorithms" target="_blank">BFS</a>.

@@ -37,6 +37,17 @@ The 4th course cannot be taken now, since you will finish it on the 3300th day, 
 </ol>
 </p>
 
+### Related Topics
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 
+
 ### Similar Questions
   1. [Course Schedule](https://github.com/openset/leetcode/tree/master/problems/course-schedule) (Medium)
   1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii) (Medium)
+
+### Hints
+  1. During iteration, say I want to add the current course, currentTotalTime being total time of all courses taken till now, but adding the current course might exceed my deadline or it doesn’t.</br></br>
+
+1. If it doesn’t, then I have added one new course. Increment the currentTotalTime with duration of current course.
+  1. 2. If it exceeds deadline, I can swap current course with current courses that has biggest duration.</br>
+* No harm done and I might have just reduced the currentTotalTime, right? </br>
+* What preprocessing do I need to do on my course processing order so that this swap is always legal?

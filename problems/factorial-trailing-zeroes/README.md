@@ -26,6 +26,9 @@
 <p><b>Note: </b>Your solution should be in logarithmic time complexity.</p>
 
 
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+
 ### Similar Questions
   1. [Number of Digit One](https://github.com/openset/leetcode/tree/master/problems/number-of-digit-one) (Hard)
   1. [Preimage Size of Factorial Zeroes Function](https://github.com/openset/leetcode/tree/master/problems/preimage-size-of-factorial-zeroes-function) (Hard)

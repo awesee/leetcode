@@ -39,3 +39,6 @@ On the third move we step from -1 to 2.
 <p><b>Note:</b><br>
 <li><code>target</code> will be a non-zero integer in the range <code>[-10^9, 10^9]</code>.</li>
 </p>
+
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 

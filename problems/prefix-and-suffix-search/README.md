@@ -32,5 +32,11 @@ WordFilter.f("b", "") // returns -1
 </ol>
 </p>
 
+### Related Topics
+[[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] 
+
 ### Similar Questions
   1. [Add and Search Word - Data structure design](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design) (Medium)
+
+### Hints
+  1. For a word like "test", consider "#test", "t#test", "st#test", "est#test", "test#test".  Then if we have a query like prefix = "te", suffix = "t", we can find it by searching for something we've inserted starting with "t#te".

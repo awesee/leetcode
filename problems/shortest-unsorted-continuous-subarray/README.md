@@ -25,3 +25,6 @@
 <li>The input array may contain duplicates, so ascending order here means <b><=</b>. </li>
 </ol>
 </p>
+
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 

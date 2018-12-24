@@ -53,6 +53,12 @@ The input has been split into consecutive parts with size difference at most 1, 
 <li><code>k</code> will be an integer in the range <code>[1, 50]</code>.</li>
 </p>
 
+### Related Topics
+[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] 
+
 ### Similar Questions
   1. [Rotate List](https://github.com/openset/leetcode/tree/master/problems/rotate-list) (Medium)
   1. [Odd Even Linked List](https://github.com/openset/leetcode/tree/master/problems/odd-even-linked-list) (Medium)
+
+### Hints
+  1. If there are N nodes in the list, and k parts, then every part has N/k elements, except the first N%k parts have an extra one.

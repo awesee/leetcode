@@ -30,6 +30,13 @@
 </pre>
 
 
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+
 ### Similar Questions
   1. [Pow(x, n)](https://github.com/openset/leetcode/tree/master/problems/powx-n) (Medium)
   1. [Valid Perfect Square](https://github.com/openset/leetcode/tree/master/problems/valid-perfect-square) (Easy)
+
+### Hints
+  1. Try exploring all integers. (Credits: @annujoshi)
+  1. Use the sorted property of integers to reduced the search space. (Credits: @annujoshi)

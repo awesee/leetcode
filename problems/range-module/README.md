@@ -35,7 +35,13 @@
 <li>The total number of calls to <code>removeRange</code> in a single test case is at most <code>1000</code>.</li>
 </p>
 
+### Related Topics
+[[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)] [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)] [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
   1. [Insert Interval](https://github.com/openset/leetcode/tree/master/problems/insert-interval) (Hard)
   1. [Data Stream as Disjoint Intervals](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals) (Hard)
+
+### Hints
+  1. Maintain a sorted set of disjoint intervals.  addRange and removeRange can be performed with time complexity linear to the size of this set; queryRange can be performed with time complexity logarithmic to the size of this set.

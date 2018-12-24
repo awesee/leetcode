@@ -48,5 +48,8 @@ Given a collection of intervals, find the minimum number of intervals you need t
 </pre>
 </p>
 
+### Related Topics
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 
+
 ### Similar Questions
   1. [Minimum Number of Arrows to Burst Balloons](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-arrows-to-burst-balloons) (Medium)

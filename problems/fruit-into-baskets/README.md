@@ -73,3 +73,7 @@ If we started at the first tree, we would only collect [0, 1].</span>
 	<li><code>1 &lt;= tree.length &lt;= 40000</code></li>
 	<li><code>0 &lt;= tree[i] &lt; tree.length</code></li>
 </ol>
+
+
+### Related Topics
+[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] 

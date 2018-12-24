@@ -43,6 +43,9 @@ The total number of cherries picked up is 5, and this is the maximum possible.
 <li>It is guaranteed that grid[0][0] and grid[N-1][N-1] are not -1.<li>
 </p>
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-path-sum) (Medium)
   1. [Dungeon Game](https://github.com/openset/leetcode/tree/master/problems/dungeon-game) (Hard)

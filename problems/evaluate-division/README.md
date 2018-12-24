@@ -26,3 +26,8 @@ queries = [ ["a", "c"], ["b", "a"], ["a", "e"], ["a", "a"], ["x", "x"] ]. </pre>
 <p>
 The input is always valid. You may assume that evaluating the queries will result in no division by zero and there is no contradiction.
 </p>
+
+### Related Topics
+[[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] 
+### Hints
+  1. Do you recognize this as a graph problem?

@@ -38,3 +38,6 @@ The possible falling paths are:
 	<li><code>1 &lt;= A.length == A[0].length &lt;= 100</code></li>
 	<li><code>-100 &lt;= A[i][j] &lt;= 100</code></li>
 </ol>
+
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 

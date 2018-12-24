@@ -37,6 +37,9 @@ From the top-left corner, there are a total of 3 ways to reach the bottom-right 
 <strong>Output:</strong> 28</pre>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Unique Paths II](https://github.com/openset/leetcode/tree/master/problems/unique-paths-ii) (Medium)
   1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-path-sum) (Medium)

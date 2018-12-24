@@ -31,6 +31,17 @@ Given two strings <b>s1</b> and <b>s2</b>, write a function to return true if <b
 </ol>
 </p>
 
+### Related Topics
+[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] 
+
 ### Similar Questions
   1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) (Hard)
   1. [Find All Anagrams in a String](https://github.com/openset/leetcode/tree/master/problems/find-all-anagrams-in-a-string) (Easy)
+
+### Hints
+  1. Obviously, brute force will result in TLE. Think of something else.
+  1. How will you check whether one string is a permutation of another string?
+  1. One way is to sort the string and then compare. But, Is there a better way?
+  1. If one string is a permutation of another string then they must one common metric. What is that?
+  1. Both strings must have same character frequencies, if  one is permutation of another. Which data structure should be used to store frequencies?
+  1. What about hash table?  An array of size 26?

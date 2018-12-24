@@ -52,5 +52,16 @@
 </ul>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Game of Life](https://github.com/openset/leetcode/tree/master/problems/game-of-life) (Medium)
+
+### Hints
+  1. If any cell of the matrix has a zero we can record its row and column number using additional memory.
+But if you don't want to use extra memory then you can manipulate the array instead. i.e. simulating exactly what the question says.
+  1. Setting cell values to zero on the fly while iterating might lead to discrepancies. What if you use some other integer value as your marker?
+There is still a better approach for this problem with 0(1) space.
+  1. We could have used 2 sets to keep a record of rows/columns which need to be set to zero. But for an O(1) space solution, you can use one of the rows and and one of the columns to keep track of this information.
+  1. We can use the first cell of every row and column as a flag. This flag would determine whether a row or column has been set to zero.

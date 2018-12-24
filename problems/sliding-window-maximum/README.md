@@ -33,8 +33,16 @@ You may assume <em>k</em> is always valid, 1 &le; k &le; input array&#39;s size 
 Could you solve it in linear time?</p>
 
 
+### Related Topics
+[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] 
+
 ### Similar Questions
   1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) (Hard)
   1. [Min Stack](https://github.com/openset/leetcode/tree/master/problems/min-stack) (Easy)
   1. [Longest Substring with At Most Two Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-two-distinct-characters) (Hard)
   1. [Paint House II](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii) (Hard)
+
+### Hints
+  1. How about using a data structure such as deque (double-ended queue)?
+  1. The queue size need not be the same as the window’s size.
+  1. Remove redundant elements and the queue should store only elements that need to be considered.

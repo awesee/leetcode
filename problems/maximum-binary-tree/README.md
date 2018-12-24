@@ -40,3 +40,6 @@ Construct the maximum tree by the given array and output the root node of this t
 <li>The size of the given array will be in the range [1,1000].</li>
 </ol>
 </p>
+
+### Related Topics
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 

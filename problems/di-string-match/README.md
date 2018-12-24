@@ -50,3 +50,6 @@
 	<li><code>1 &lt;= S.length &lt;= 10000</code></li>
 	<li><code>S</code> only contains characters <code>&quot;I&quot;</code> or <code>&quot;D&quot;</code>.</li>
 </ol>
+
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 

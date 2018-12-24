@@ -35,6 +35,9 @@
 </pre>
 
 
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+
 ### Similar Questions
   1. [Implement strStr()](https://github.com/openset/leetcode/tree/master/problems/implement-strstr) (Easy)
   1. [Repeated String Match](https://github.com/openset/leetcode/tree/master/problems/repeated-string-match) (Easy)

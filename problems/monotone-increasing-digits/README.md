@@ -38,5 +38,11 @@ Given a non-negative integer <code>N</code>, find the largest number that is les
 <code>N</code> is an integer in the range <code>[0, 10^9]</code>.
 </p>
 
+### Related Topics
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 
+
 ### Similar Questions
   1. [Remove K Digits](https://github.com/openset/leetcode/tree/master/problems/remove-k-digits) (Medium)
+
+### Hints
+  1. Build the answer digit by digit, adding the largest possible one that would make the number still less than or equal to N.

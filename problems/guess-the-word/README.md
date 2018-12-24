@@ -35,3 +35,7 @@ We made 5 calls to&nbsp;master.guess and one of them was the secret, so we pass 
 </pre>
 
 <p><strong>Note:</strong>&nbsp; Any solutions that attempt to circumvent the judge&nbsp;will result in disqualification.</p>
+
+
+### Related Topics
+[[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] 

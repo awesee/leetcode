@@ -35,3 +35,7 @@ After shifting the first 3 letters of S by 9, we have &quot;rpl&quot;, the answe
 	<li><code>1 &lt;= S.length = shifts.length &lt;= 20000</code></li>
 	<li><code>0 &lt;= shifts[i] &lt;= 10 ^ 9</code></li>
 </ol>
+
+
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 

@@ -38,3 +38,6 @@ An example of a minimum sized set is {1, 2, 3, 4, 5}.
 <li><code>intervals[i]</code> will have length <code>2</code>, representing some integer interval.</li>
 <li><code>intervals[i][j]</code> will be an integer in <code>[0, 10^8]</code>.</li>
 </ol></p>
+
+### Related Topics
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 

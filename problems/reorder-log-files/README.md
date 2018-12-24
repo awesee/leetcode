@@ -42,3 +42,6 @@
 	<li><code>logs[i]</code> is guaranteed to have an identifier, and a word after the identifier.</li>
 </ol>
 </div>
+
+### Related Topics
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 

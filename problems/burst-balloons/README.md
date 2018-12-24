@@ -26,3 +26,6 @@
 <strong>Explanation: </strong></code>nums = [3,1,5,8] --&gt; [3,5,8] --&gt;   [3,8]   --&gt;  [8]  --&gt; []
 &nbsp;            coins =  3*1*5      +  3*5*8    +  1*3*8      + 1*8*1   = 167
 </pre>
+
+### Related Topics
+[[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 

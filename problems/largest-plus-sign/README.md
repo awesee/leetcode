@@ -69,5 +69,11 @@ There is no plus sign, so return 0.
 <li><i>(Additionally, programs submitted in C, C++, or C# will be judged with a slightly smaller time limit.)</i></li>
 </ol></p>
 
+### Related Topics
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+
 ### Similar Questions
   1. [Maximal Square](https://github.com/openset/leetcode/tree/master/problems/maximal-square) (Medium)
+
+### Hints
+  1. For each direction such as "left", find left[r][c] = the number of 1s you will see before a zero starting at r, c and walking left.  You can find this in N^2 time with a dp.  The largest plus sign at r, c is just the minimum of left[r][c], up[r][c] etc.

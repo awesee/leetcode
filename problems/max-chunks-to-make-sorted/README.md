@@ -41,5 +41,11 @@ However, splitting into [1, 0], [2], [3], [4] is the highest number of chunks po
 <p>&nbsp;</p>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Max Chunks To Make Sorted II](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted-ii) (Hard)
+
+### Hints
+  1. The first chunk can be found as the smallest k for which A[:k+1] == [0, 1, 2, ...k]; then we repeat this process.

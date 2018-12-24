@@ -26,6 +26,9 @@
 <strong>Explanation:</strong> Because the new interval <code>[4,8]</code> overlaps with <code>[3,5],[6,7],[8,10]</code>.</pre>
 
 
+### Related Topics
+[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
   1. [Range Module](https://github.com/openset/leetcode/tree/master/problems/range-module) (Hard)

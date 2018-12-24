@@ -47,5 +47,8 @@ This is the maximum distance possible, so the answer is 3.
 </div>
 
 
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+
 ### Similar Questions
   1. [Exam Room](https://github.com/openset/leetcode/tree/master/problems/exam-room) (Medium)

@@ -43,5 +43,8 @@
 <strong>Output:</strong> 701
 </pre>
 
+### Related Topics
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+
 ### Similar Questions
   1. [Excel Sheet Column Title](https://github.com/openset/leetcode/tree/master/problems/excel-sheet-column-title) (Easy)

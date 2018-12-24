@@ -40,3 +40,6 @@ To sum up, pick a list of at most <b>k</b> distinct projects from given projects
 <li>The answer is guaranteed to fit in a 32-bit signed integer.</li>
 </ol>
 </p>
+
+### Related Topics
+[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 

@@ -52,3 +52,7 @@ rotate the input matrix <strong>in-place</strong> such that it becomes:
   [16, 7,10,11]
 ]
 </pre>
+
+
+### Related Topics
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 

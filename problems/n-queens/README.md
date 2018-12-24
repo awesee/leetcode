@@ -34,5 +34,8 @@
 </pre>
 
 
+### Related Topics
+[[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+
 ### Similar Questions
   1. [N-Queens II](https://github.com/openset/leetcode/tree/master/problems/n-queens-ii) (Hard)
