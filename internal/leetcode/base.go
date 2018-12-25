@@ -33,7 +33,7 @@ func graphQLRequest(filename, jsonStr string, v interface{}) {
 func remember(filename string, f func() []byte) []byte {
 	filename = getCachePath(filename)
 	if fi, err := os.Stat(filename); err == nil {
-		u := time.Now().AddDate(0, 0, -1)
+		u := time.Now().AddDate(0, 0, -3)
 		if fi.ModTime().After(u) {
 			return fileGetContents(filename)
 		}
