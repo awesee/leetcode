@@ -2,6 +2,13 @@ package merge_two_sorted_lists
 
 import . "github.com/openset/leetcode/problems/000000"
 
+/**
+ * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
+ */
 func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 	l := &ListNode{}
 	t := l
