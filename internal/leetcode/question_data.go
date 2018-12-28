@@ -184,20 +184,22 @@ const testTpl = `package {{packageName}}
 import "testing"
 
 type caseType struct {
-	input    interface{}
-	expected interface{}
+	input    int
+	expected int
 }
 
 func Test{{funcName}}(t *testing.T) {
 	tests := [...]caseType{
 		{
-			input:    nil,
-			expected: nil,
+			input:    0,
+			expected: 0,
 		},
 	}
 	for _, tc := range tests {
 		output := 0
-		t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+		if output != tc.expected {
+			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+		}
 	}
 }
 `
