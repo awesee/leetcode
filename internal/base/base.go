@@ -34,7 +34,7 @@ func (c *Command) Usage() {
 }
 
 func (c *Command) UsageHelp() {
-	fmt.Printf("usage: %s %s\n", CmdName, c.UsageLine)
+	fmt.Printf("usage: %s %s\n\n", CmdName, c.UsageLine)
 	fmt.Println(c.Long)
 	Exit()
 }
@@ -47,8 +47,7 @@ func Usage() {
 	for _, cmd := range Commands {
 		fmt.Printf("\t%-11s \t%s\n", cmd.Name(), cmd.Short)
 	}
-	fmt.Println()
-	fmt.Printf(`Use "%s help <command>" for more information about a command.`, CmdName)
+	fmt.Printf("\nUse \"%s help <command>\" for more information about a command.", CmdName)
 	fmt.Println()
 	Exit()
 }
