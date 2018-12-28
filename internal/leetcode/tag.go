@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"fmt"
 	"path"
+	"strconv"
 	"strings"
 )
 
@@ -92,11 +93,23 @@ func (tag tagType) SaveContents() {
 	buf.WriteString("| # | 题名 | 标签 | 难度 |\n")
 	buf.WriteString("| :-: | - | - | :-: |\n")
 	format := "| %s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s) | %s | %s |\n"
+	maxId := 0
+	rows := make(map[int]string)
 	for _, question := range questions {
+		id, err := strconv.Atoi(question.QuestionFrontendId)
+		checkErr(err)
 		if question.TranslatedTitle == "" {
 			question.TranslatedTitle = question.Title
 		}
-		buf.WriteString(fmt.Sprintf(format, question.QuestionFrontendId, question.TranslatedTitle, question.TitleSlug, question.TagsStr(), question.Difficulty))
+		rows[id] = fmt.Sprintf(format, question.QuestionFrontendId, question.TranslatedTitle, question.TitleSlug, question.TagsStr(), question.Difficulty)
+		if id > maxId {
+			maxId = id
+		}
+	}
+	for i := maxId; i > 0; i-- {
+		if row, ok := rows[i]; ok {
+			buf.WriteString(row)
+		}
 	}
 	filename := path.Join("tag", tag.Slug, "README.md")
 	filePutContents(filename, buf.Bytes())
