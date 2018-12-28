@@ -51,7 +51,7 @@ func main() {
 	for _, cmd := range base.Commands {
 		if cmd.Name() == cmdName {
 			cmd.Run(cmd, args[1:])
-			base.Exit()
+			return
 		}
 	}
 	fmt.Printf("%s %s: unknown command\n", base.CmdName, cmdName)
