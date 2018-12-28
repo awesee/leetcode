@@ -85,8 +85,7 @@ func (question questionType) getDescContent() []byte {
 	buf.WriteString(authInfo)
 	buf.WriteString(fmt.Sprintf("\n## %s. %s%s\n\n", question.QuestionFrontendId, question.Title, question.Difficulty))
 	// remove style
-	reg, err := regexp.Compile(`<style[\S\s]+?</style>`)
-	checkErr(err)
+	reg := regexp.MustCompile(`<style[\S\s]+?</style>`)
 	buf.WriteString(reg.ReplaceAllString(question.Content, ""))
 	buf.Write(question.getTopicTags())
 	buf.Write(question.getSimilarQuestion())
@@ -162,6 +161,43 @@ func (question questionType) SaveCodeSnippet() {
 			buf.WriteString(fmt.Sprintf("package %s\n\n", question.PackageName()))
 			buf.WriteString(code.Code)
 			filePutContents(file, buf.Bytes())
+			buf.Reset()
+			// match function name
+			reg := regexp.MustCompile(`func ([\w]+?)\(`)
+			matches := reg.FindStringSubmatch(code.Code)
+			funcName := "Func"
+			if len(matches) >= 2 {
+				funcName = matches[1]
+			}
+			fileTest := question.getFilePath(question.TitleSnake() + "_test.go")
+			buf.WriteString(strings.NewReplacer(
+				"{{packageName}}", question.PackageName(),
+				"{{funcName}}", strings.Title(funcName),
+			).Replace(testTpl))
+			filePutContents(fileTest, buf.Bytes())
 		}
 	}
 }
+
+const testTpl = `package {{packageName}}
+
+import "testing"
+
+type caseType struct {
+	input    interface{}
+	expected interface{}
+}
+
+func Test{{funcName}}(t *testing.T) {
+	tests := [...]caseType{
+		{
+			input:    nil,
+			expected: nil,
+		},
+	}
+	for _, tc := range tests {
+		output := 0
+		t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	}
+}
+`
