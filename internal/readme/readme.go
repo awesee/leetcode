@@ -76,7 +76,8 @@ func writeProblems(buf *bytes.Buffer) {
 // getLangBySlug handle the question that not support go
 func getLangBySlug(slug string) string {
 	langSet := map[string]string{
-		"tenth-line": "Bash",
+		"tenth-line":    "Bash",
+		"big-countries": "MySQL",
 	}
 	if lang, ok := langSet[slug]; ok {
 		return lang
