@@ -160,6 +160,7 @@ func (question questionType) SaveCodeSnippet() {
 			var buf bytes.Buffer
 			buf.WriteString(fmt.Sprintf("package %s\n\n", question.PackageName()))
 			buf.WriteString(code.Code)
+			buf.WriteString("\n")
 			filePutContents(file, buf.Bytes())
 			buf.Reset()
 			// match function name
