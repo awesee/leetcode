@@ -15,7 +15,7 @@ func myAtoi(str string) int {
 		str = str[1:]
 	}
 	i := strings.IndexFunc(str, func(r rune) bool {
-		return !unicode.IsNumber(r)
+		return !unicode.IsDigit(r)
 	})
 	if i > -1 {
 		str = str[0:i]
