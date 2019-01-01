@@ -16,6 +16,11 @@ func TestBuddyStrings(t *testing.T) {
 			expected: true,
 		},
 		{
+			a:        "aa",
+			b:        "aa",
+			expected: true,
+		},
+		{
 			a:        "ab",
 			b:        "ab",
 			expected: false,
@@ -28,6 +33,16 @@ func TestBuddyStrings(t *testing.T) {
 		{
 			a:        "",
 			b:        "aa",
+			expected: false,
+		},
+		{
+			a:        "hello",
+			b:        "h0lle",
+			expected: false,
+		},
+		{
+			a:        "hello",
+			b:        "hanna",
 			expected: false,
 		},
 	}
