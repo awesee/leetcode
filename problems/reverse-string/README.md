@@ -29,7 +29,8 @@
 
 
 ### Related Topics
-[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Reverse Vowels of a String](https://github.com/openset/leetcode/tree/master/problems/reverse-vowels-of-a-string) (Easy)

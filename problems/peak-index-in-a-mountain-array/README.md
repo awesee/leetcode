@@ -41,7 +41,7 @@
 
 
 ### Related Topics
-[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
   1. [Find Peak Element](https://github.com/openset/leetcode/tree/master/problems/find-peak-element) (Medium)

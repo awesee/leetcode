@@ -31,7 +31,8 @@
 </p>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Similar Questions
   1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray) (Medium)

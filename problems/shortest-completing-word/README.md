@@ -46,6 +46,7 @@ We return the one that occurred first.
 </p>
 
 ### Related Topics
-[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+
 ### Hints
   1. Count only the letters (possibly converted to lowercase) of each word.  If a word is shorter and the count of each letter is at least the count of that letter in the licensePlate, it is the best answer we've seen yet.

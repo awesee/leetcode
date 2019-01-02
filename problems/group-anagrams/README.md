@@ -29,7 +29,8 @@
 
 
 ### Related Topics
-[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Valid Anagram](https://github.com/openset/leetcode/tree/master/problems/valid-anagram) (Easy)

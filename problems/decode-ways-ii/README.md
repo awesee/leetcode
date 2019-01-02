@@ -54,7 +54,7 @@ Also, since the answer may be very large, you should return the output mod 10<su
 </p>
 
 ### Related Topics
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Decode Ways](https://github.com/openset/leetcode/tree/master/problems/decode-ways) (Medium)

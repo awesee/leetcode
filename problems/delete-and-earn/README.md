@@ -42,7 +42,7 @@ Then, delete 3 again to earn 3 points, and 3 again to earn 3 points.
 </p>
 
 ### Related Topics
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [House Robber](https://github.com/openset/leetcode/tree/master/problems/house-robber) (Easy)

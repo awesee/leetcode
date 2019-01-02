@@ -64,4 +64,4 @@ Round 7: You could get 9 + 5 = 14 points. The sum is 27.
 </p>
 
 ### Related Topics
-[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] 
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

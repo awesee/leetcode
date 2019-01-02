@@ -41,6 +41,8 @@
 
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+
 ### Hints
   1. Where can the 0 be placed in an ideal permutation?  What about the 1?

@@ -42,7 +42,9 @@
 
 
 ### Related Topics
-[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Longest Substring with At Most Two Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-two-distinct-characters) (Hard)

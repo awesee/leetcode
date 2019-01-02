@@ -40,4 +40,4 @@
 </div>
 
 ### Related Topics
-[[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)] 
+[[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]

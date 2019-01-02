@@ -21,7 +21,10 @@
 </div>
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+[[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+
 ### Hints
   1. A direct way is to use the backtracking approach.
   1. Backtracking should contains three states which are (the current number, number of steps to get that number and a bitmask which represent which number is marked as visited so far in the current number). Start with state (0,0,0) and count all valid number till we reach number of steps equals to 10<sup>n</sup>.

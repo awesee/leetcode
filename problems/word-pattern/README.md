@@ -39,7 +39,7 @@
 You may assume <code>pattern</code> contains only lowercase letters, and <code>str</code> contains lowercase letters separated by a single space.</p>
 
 ### Related Topics
-[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Isomorphic Strings](https://github.com/openset/leetcode/tree/master/problems/isomorphic-strings) (Easy)

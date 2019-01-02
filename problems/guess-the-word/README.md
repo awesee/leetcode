@@ -38,4 +38,4 @@ We made 5 calls to&nbsp;master.guess and one of them was the secret, so we pass 
 
 
 ### Related Topics
-[[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] 
+[[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]

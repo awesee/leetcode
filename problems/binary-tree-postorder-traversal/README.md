@@ -26,7 +26,8 @@
 
 
 ### Related Topics
-[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
   1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)

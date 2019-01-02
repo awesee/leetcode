@@ -30,4 +30,4 @@ Input: sum("ap"), Output: 5
 
 
 ### Related Topics
-[[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] 
+[[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]

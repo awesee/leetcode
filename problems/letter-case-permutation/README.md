@@ -30,7 +30,8 @@
 
 
 ### Related Topics
-[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+[[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
   1. [Subsets](https://github.com/openset/leetcode/tree/master/problems/subsets) (Medium)

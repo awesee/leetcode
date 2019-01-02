@@ -7,7 +7,7 @@
 
 ## 621. Task Scheduler (Medium)
 
-<p>Given a char array representing tasks CPU need to do. It contains capital letters A to Z where different letters represent different tasks.Tasks could be done without original order. Each task could be done in one interval. For each interval, CPU could finish one task or just be idle.</p>
+<p>Given a char array representing tasks CPU need to do. It contains capital letters A to Z where different letters represent different tasks. Tasks could be done without original order. Each task could be done in one interval. For each interval, CPU could finish one task or just be idle.</p>
 
 <p>However, there is a non-negative cooling interval <b>n</b> that means between two <b>same tasks</b>, there must be at least n intervals that CPU are doing different tasks or just be idle.</p>
 
@@ -34,7 +34,9 @@
 
 
 ### Related Topics
-[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)] [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+[[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Similar Questions
   1. [Rearrange String k Distance Apart](https://github.com/openset/leetcode/tree/master/problems/rearrange-string-k-distance-apart) (Hard)

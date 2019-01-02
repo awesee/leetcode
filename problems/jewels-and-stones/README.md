@@ -34,6 +34,7 @@
 
 
 ### Related Topics
-[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+
 ### Hints
   1. For each stone, check if it is a jewel.

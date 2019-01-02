@@ -28,7 +28,8 @@
 
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] 
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
   1. [Balanced Binary Tree](https://github.com/openset/leetcode/tree/master/problems/balanced-binary-tree) (Easy)

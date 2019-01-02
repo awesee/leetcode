@@ -36,7 +36,8 @@ Tilt of binary tree : 0 + 0 + 1 = 1
 </p>
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+
 ### Hints
   1. Don't think too much, this is an easy problem. Take some small tree as an example.
   1. Can a parent node use the values of its child nodes? How will you implement it?

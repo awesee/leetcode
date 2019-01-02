@@ -41,7 +41,8 @@
 
 
 ### Related Topics
-[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Knight Probability in Chessboard](https://github.com/openset/leetcode/tree/master/problems/knight-probability-in-chessboard) (Medium)

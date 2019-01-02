@@ -27,7 +27,8 @@
 </p>
 
 ### Related Topics
-[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+[[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
   1. [Letter Combinations of a Phone Number](https://github.com/openset/leetcode/tree/master/problems/letter-combinations-of-a-phone-number) (Medium)

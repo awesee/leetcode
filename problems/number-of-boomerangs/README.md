@@ -25,7 +25,7 @@ The two boomerangs are <b>[[1,0],[0,0],[2,0]]</b> and <b>[[1,0],[2,0],[0,0]]</b>
 </p>
 
 ### Related Topics
-[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Line Reflection](https://github.com/openset/leetcode/tree/master/problems/line-reflection) (Medium)

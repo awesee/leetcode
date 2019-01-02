@@ -27,7 +27,7 @@ Output:
 </p>
 
 ### Related Topics
-[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
 
 ### Similar Questions
   1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self) (Hard)

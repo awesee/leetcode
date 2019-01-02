@@ -32,7 +32,8 @@ You end up paying $5 + $7 + $9 = $21.
 <p>Given a particular <strong>n &ge; 1</strong>, find out how much money you need to have to guarantee a <b>win</b>.</p>
 
 ### Related Topics
-[[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Flip Game II](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii) (Medium)

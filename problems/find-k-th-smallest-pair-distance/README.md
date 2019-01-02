@@ -33,7 +33,9 @@ Then the 1st smallest distance pair is (1,1), and its distance is 0.
 </p>
 
 ### Related Topics
-[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
   1. [Find K Pairs with Smallest Sums](https://github.com/openset/leetcode/tree/master/problems/find-k-pairs-with-smallest-sums) (Medium)

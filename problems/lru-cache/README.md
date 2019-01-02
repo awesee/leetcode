@@ -36,7 +36,7 @@ cache.get(4);       // returns 4
 </p>
 
 ### Related Topics
-[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] 
+[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
 
 ### Similar Questions
   1. [LFU Cache](https://github.com/openset/leetcode/tree/master/problems/lfu-cache) (Hard)

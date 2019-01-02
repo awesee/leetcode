@@ -35,7 +35,8 @@ Given a non-negative integer, you could swap two digits <b>at most</b> once to g
 </p>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Similar Questions
   1. [Create Maximum Number](https://github.com/openset/leetcode/tree/master/problems/create-maximum-number) (Hard)

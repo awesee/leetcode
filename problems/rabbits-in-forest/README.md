@@ -38,4 +38,5 @@ The smallest possible number of rabbits in the forest is therefore 5: 3 that ans
 
 
 ### Related Topics
-[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

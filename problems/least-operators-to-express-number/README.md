@@ -18,7 +18,7 @@
 	<li>It&#39;s not allowed to use the unary negation&nbsp;operator (<code>-</code>).&nbsp; For example, &quot;<code>x&nbsp;- x</code>&quot;&nbsp;is a valid expression as it only uses subtraction, but &quot;<code>-x +&nbsp;x</code>&quot; is not because it uses negation.</li>
 </ol>
 
-<p>We would like to write an expression with the least number of operators such that the expression equals the given <code>target</code>.&nbsp; Return the least number of expressions used.</p>
+<p>We would like to write an expression with the least number of operators such that the expression equals the given <code>target</code>.&nbsp; Return the least number of operators used.</p>
 
 <p>&nbsp;</p>
 
@@ -68,4 +68,5 @@
 
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

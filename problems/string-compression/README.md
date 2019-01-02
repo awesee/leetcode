@@ -75,7 +75,7 @@ Notice each digit has it&#39;s own entry in the array.
 
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Count and Say](https://github.com/openset/leetcode/tree/master/problems/count-and-say) (Easy)

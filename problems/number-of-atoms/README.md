@@ -56,7 +56,9 @@ The count of elements are {'K': 4, 'N': 2, 'O': 14, 'S': 4}.
 </p>
 
 ### Related Topics
-[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+[[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Decode String](https://github.com/openset/leetcode/tree/master/problems/decode-string) (Medium)

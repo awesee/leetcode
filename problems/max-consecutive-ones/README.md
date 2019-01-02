@@ -26,7 +26,7 @@
 </p>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Similar Questions
   1. [Max Consecutive Ones II](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-ii) (Medium)

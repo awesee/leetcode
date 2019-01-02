@@ -28,7 +28,8 @@ nums2 = [2,5,6],       n = 3
 
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
   1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists) (Easy)

@@ -54,7 +54,8 @@ We can't form the target "basicbasic" from cutting letters from the given sticke
 </p>
 
 ### Related Topics
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+[[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
   1. [Ransom Note](https://github.com/openset/leetcode/tree/master/problems/ransom-note) (Easy)

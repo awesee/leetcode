@@ -56,7 +56,7 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
 
 
 ### Related Topics
-[[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] 
+[[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ### Similar Questions
   1. [Word Ladder II](https://github.com/openset/leetcode/tree/master/problems/word-ladder-ii) (Hard)

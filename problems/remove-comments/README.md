@@ -78,7 +78,7 @@ source = ["a/*comment", "line", "more_comment*/b"]
 </p>
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Mini Parser](https://github.com/openset/leetcode/tree/master/problems/mini-parser) (Medium)

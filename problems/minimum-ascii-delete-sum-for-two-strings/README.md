@@ -36,7 +36,7 @@ If instead we turned both strings into "lee" or "eet", we would get answers of 4
 </p>
 
 ### Related Topics
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Edit Distance](https://github.com/openset/leetcode/tree/master/problems/edit-distance) (Hard)

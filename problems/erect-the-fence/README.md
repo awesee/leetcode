@@ -44,4 +44,4 @@ Even you only have trees in a line, you need to use rope to enclose them.
 
 
 ### Related Topics
-[[Geometry](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)] 
+[[Geometry](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]

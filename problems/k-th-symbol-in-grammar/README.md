@@ -41,6 +41,7 @@ row 4: 01101001
 
 
 ### Related Topics
-[[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] 
+[[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+
 ### Hints
   1. Try to represent the current (N, K) in terms of some (N-1, prevK).  What is prevK ?

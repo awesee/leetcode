@@ -37,4 +37,4 @@ One series of moves that transforms the starting point to the target is:
 
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

@@ -34,4 +34,4 @@ For the point (1,1): floor(8/9) = floor(0.88888889) = 0
 </p>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

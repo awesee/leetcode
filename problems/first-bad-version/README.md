@@ -26,7 +26,7 @@ Then 4 is the first bad version.&nbsp;</code>
 </pre>
 
 ### Related Topics
-[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
   1. [Find First and Last Position of Element in Sorted Array](https://github.com/openset/leetcode/tree/master/problems/find-first-and-last-position-of-element-in-sorted-array) (Medium)

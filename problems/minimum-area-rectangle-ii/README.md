@@ -73,4 +73,5 @@
 
 
 ### Related Topics
-[[Geometry](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+[[Geometry](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

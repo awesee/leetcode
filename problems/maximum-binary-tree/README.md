@@ -42,4 +42,4 @@ Construct the maximum tree by the given array and output the root node of this t
 </p>
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

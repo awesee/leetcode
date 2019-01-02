@@ -31,7 +31,8 @@ The vowels does not include the letter &quot;y&quot;.</p>
 
 
 ### Related Topics
-[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Reverse String](https://github.com/openset/leetcode/tree/master/problems/reverse-string) (Easy)

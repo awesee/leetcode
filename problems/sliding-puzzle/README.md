@@ -56,6 +56,7 @@ After move 5: [[1,2,3],[4,5,0]]
 
 
 ### Related Topics
-[[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] 
+[[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+
 ### Hints
   1. Perform a breadth-first-search, where the nodes are the puzzle boards and edges are if two puzzle boards can be transformed into one another with one move.

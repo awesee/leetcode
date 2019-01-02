@@ -17,7 +17,7 @@
 </p>
 
 ### Related Topics
-[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] 
+[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
   1. [Merge k Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-k-sorted-lists) (Hard)

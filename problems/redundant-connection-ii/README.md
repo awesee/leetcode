@@ -43,7 +43,10 @@ v   v
 </p>
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] 
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+[[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+[[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ### Similar Questions
   1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/problems/redundant-connection) (Medium)

@@ -26,7 +26,8 @@
 
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+[[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
   1. [Generate Parentheses](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses) (Medium)

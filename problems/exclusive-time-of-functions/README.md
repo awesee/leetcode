@@ -44,4 +44,4 @@ So function 0 totally execute 2 + 1 = 3 units of time, and function 1 totally ex
 </p>
 
 ### Related Topics
-[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] 
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

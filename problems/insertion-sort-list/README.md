@@ -45,7 +45,8 @@ With each iteration one element (red) is removed from the input data and inserte
 
 
 ### Related Topics
-[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] 
+[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
   1. [Sort List](https://github.com/openset/leetcode/tree/master/problems/sort-list) (Medium)

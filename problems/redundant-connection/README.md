@@ -48,7 +48,9 @@ We have overhauled the problem description + test cases and specified clearly th
 </p>
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] 
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+[[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+[[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ### Similar Questions
   1. [Redundant Connection II](https://github.com/openset/leetcode/tree/master/problems/redundant-connection-ii) (Hard)

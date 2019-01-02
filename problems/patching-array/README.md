@@ -36,4 +36,4 @@ So we only need <code>1</code> patch.</pre>
 </pre>
 
 ### Related Topics
-[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

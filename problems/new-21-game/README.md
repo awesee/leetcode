@@ -47,4 +47,4 @@ In 6 out of W = 10 possibilities, she is at or below N = 6 points.
 
 
 ### Related Topics
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

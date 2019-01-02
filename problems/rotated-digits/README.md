@@ -30,4 +30,4 @@ Note that 1 and 10 are not good numbers, since they remain unchanged after rotat
 
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

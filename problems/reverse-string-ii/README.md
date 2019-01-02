@@ -25,7 +25,7 @@ Given a string and an integer k, you need to reverse the first k characters for 
 </ol>
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Reverse String](https://github.com/openset/leetcode/tree/master/problems/reverse-string) (Easy)

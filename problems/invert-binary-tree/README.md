@@ -36,4 +36,4 @@ This problem was inspired by <a href="https://twitter.com/mxcl/status/6086820162
 
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

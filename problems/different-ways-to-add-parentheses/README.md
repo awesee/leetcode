@@ -32,7 +32,7 @@
 </strong></pre>
 
 ### Related Topics
-[[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] 
+[[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
   1. [Unique Binary Search Trees II](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees-ii) (Medium)

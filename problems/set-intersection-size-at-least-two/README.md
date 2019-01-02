@@ -40,4 +40,4 @@ An example of a minimum sized set is {1, 2, 3, 4, 5}.
 </ol></p>
 
 ### Related Topics
-[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

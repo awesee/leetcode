@@ -36,7 +36,8 @@ You may assume the sum of values in any subtree is in the range of 32-bit signed
 </p>
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Subtree of Another Tree](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree) (Easy)

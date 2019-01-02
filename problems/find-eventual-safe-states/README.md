@@ -35,4 +35,5 @@ Here is a diagram of the above graph.
 
 
 ### Related Topics
-[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] 
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+[[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]

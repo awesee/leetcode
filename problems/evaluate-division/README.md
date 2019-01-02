@@ -28,6 +28,8 @@ The input is always valid. You may assume that evaluating the queries will resul
 </p>
 
 ### Related Topics
-[[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] 
+[[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+[[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+
 ### Hints
   1. Do you recognize this as a graph problem?

@@ -50,4 +50,4 @@ but the second term did not exist.  Since the last term exhausted does not exist
 
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

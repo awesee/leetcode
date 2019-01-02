@@ -74,7 +74,9 @@ p = &quot;mis*is*p*.&quot;
 
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+[[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
   1. [Wildcard Matching](https://github.com/openset/leetcode/tree/master/problems/wildcard-matching) (Hard)

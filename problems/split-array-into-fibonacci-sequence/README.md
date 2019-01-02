@@ -68,7 +68,9 @@
 
 
 ### Related Topics
-[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)] 
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+[[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
   1. [Additive Number](https://github.com/openset/leetcode/tree/master/problems/additive-number) (Medium)

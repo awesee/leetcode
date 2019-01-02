@@ -63,6 +63,5 @@ return: 3
 
 <p>&nbsp;</p>
 
-
 ### Similar Questions
   1. [Word Ladder](https://github.com/openset/leetcode/tree/master/problems/word-ladder) (Medium)

@@ -38,7 +38,7 @@ rotate 2 steps to the right: [3,99,-1,-100]
 </ul>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Similar Questions
   1. [Rotate List](https://github.com/openset/leetcode/tree/master/problems/rotate-list) (Medium)
