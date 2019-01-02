@@ -53,6 +53,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="968">968</span> | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras) | [Go](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras) | Hard |
+| <span id="967">967</span> | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences) | [Go](https://github.com/openset/leetcode/tree/master/problems/numbers-with-same-consecutive-differences) | Medium |
+| <span id="966">966</span> | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker) | [Go](https://github.com/openset/leetcode/tree/master/problems/vowel-spellchecker) | Medium |
+| <span id="965">965</span> | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | [Go](https://github.com/openset/leetcode/tree/master/problems/univalued-binary-tree) | Easy |
 | <span id="964">964</span> | [Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number) | [Go](https://github.com/openset/leetcode/tree/master/problems/least-operators-to-express-number) | Hard |
 | <span id="963">963</span> | [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii) | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle-ii) | Medium |
 | <span id="962">962</span> | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp) | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-width-ramp) | Medium |
@@ -421,7 +425,7 @@ LeetCode Problems' Solutions
 | <span id="598">598</span> | [Range Addition II](https://leetcode.com/problems/range-addition-ii) | [Go](https://github.com/openset/leetcode/tree/master/problems/range-addition-ii) | Easy |
 | <span id="597">597</span> | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/friend-requests-i-overall-acceptance-rate) | Easy |
 | <span id="596">596</span> | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | [Go](https://github.com/openset/leetcode/tree/master/problems/classes-more-than-5-students) | Easy |
-| <span id="595">595</span> | [Big Countries](https://leetcode.com/problems/big-countries) | [Go](https://github.com/openset/leetcode/tree/master/problems/big-countries) | Easy |
+| <span id="595">595</span> | [Big Countries](https://leetcode.com/problems/big-countries) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/big-countries) | Easy |
 | <span id="594">594</span> | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-harmonious-subsequence) | Easy |
 | <span id="593">593</span> | [Valid Square](https://leetcode.com/problems/valid-square) | [Go](https://github.com/openset/leetcode/tree/master/problems/valid-square) | Medium |
 | <span id="592">592</span> | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction) | [Go](https://github.com/openset/leetcode/tree/master/problems/fraction-addition-and-subtraction) | Medium |
