@@ -99,7 +99,7 @@ func (question questionType) getTopicTags() []byte {
 	if len(tags) > 0 {
 		buf.WriteString("\n\n### Related Topics\n")
 	}
-	format := "[[%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md)] "
+	format := "[[%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md)]\n"
 	for _, tag := range tags {
 		buf.WriteString(fmt.Sprintf(format, tag.Name, tag.Slug))
 	}
@@ -113,7 +113,7 @@ func (question questionType) getSimilarQuestion() []byte {
 	}
 	var buf bytes.Buffer
 	if len(sq) > 0 {
-		buf.WriteString("\n\n### Similar Questions\n")
+		buf.WriteString("\n### Similar Questions\n")
 	}
 	format := "  1. [%s](https://github.com/openset/leetcode/tree/master/problems/%s)%s\n"
 	for _, q := range sq {
