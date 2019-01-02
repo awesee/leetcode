@@ -9,8 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 375 | [猜数字大小 II](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii) | [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 464 | [我能赢吗](https://github.com/openset/leetcode/tree/master/problems/can-i-win) | [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 486 | [预测赢家](https://github.com/openset/leetcode/tree/master/problems/predict-the-winner) | [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 843 | [猜猜这个单词](https://github.com/openset/leetcode/tree/master/problems/guess-the-word) | [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]  | Hard |
 | 913 | [猫和老鼠](https://github.com/openset/leetcode/tree/master/problems/cat-and-mouse) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]  | Hard |
+| 843 | [猜猜这个单词](https://github.com/openset/leetcode/tree/master/problems/guess-the-word) | [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]  | Hard |
+| 486 | [预测赢家](https://github.com/openset/leetcode/tree/master/problems/predict-the-winner) | [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
+| 464 | [我能赢吗](https://github.com/openset/leetcode/tree/master/problems/can-i-win) | [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
+| 375 | [猜数字大小 II](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii) | [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
