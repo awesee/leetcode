@@ -22,7 +22,7 @@ var checkErr = base.CheckErr
 const authInfo = base.AuthInfo
 
 func graphQLRequest(filename, jsonStr string, v interface{}) {
-	data := remember(filename, func() []byte {
+	data := remember(filename, 30, func() []byte {
 		return client.PostJson(graphqlUrl, jsonStr)
 	})
 	err = json.Unmarshal(data, &v)
@@ -30,10 +30,10 @@ func graphQLRequest(filename, jsonStr string, v interface{}) {
 	return
 }
 
-func remember(filename string, f func() []byte) []byte {
+func remember(filename string, days int, f func() []byte) []byte {
 	filename = getCachePath(filename)
 	if fi, err := os.Stat(filename); err == nil {
-		u := time.Now().AddDate(0, 0, -3)
+		u := time.Now().AddDate(0, 0, -days)
 		if fi.ModTime().After(u) {
 			return fileGetContents(filename)
 		}
