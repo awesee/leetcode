@@ -47,7 +47,7 @@ And the value to insert: 5
 
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
   1. [Search in a Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/search-in-a-binary-search-tree) (Easy)

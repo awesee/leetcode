@@ -37,7 +37,8 @@ Given a list of <b>non-negative</b> numbers and a target <b>integer</b> k, write
 </p>
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)

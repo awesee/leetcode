@@ -44,7 +44,8 @@ findMedian() -&gt; 2
 
 
 ### Related Topics
-[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] 
+[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
 
 ### Similar Questions
   1. [Sliding Window Median](https://github.com/openset/leetcode/tree/master/problems/sliding-window-median) (Hard)

@@ -37,7 +37,8 @@ Same with other integers chosen by the first player, the second player will alwa
 </p>
 
 ### Related Topics
-[[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Flip Game II](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii) (Medium)

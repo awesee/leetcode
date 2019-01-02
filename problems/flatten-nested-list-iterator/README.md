@@ -34,7 +34,8 @@
 
 
 ### Related Topics
-[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] 
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
 
 ### Similar Questions
   1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/problems/flatten-2d-vector) (Medium)

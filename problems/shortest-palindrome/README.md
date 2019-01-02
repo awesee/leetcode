@@ -23,7 +23,7 @@
 <strong>Output:</strong> <code>&quot;dcbabcd&quot;</code></pre>
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-substring) (Medium)

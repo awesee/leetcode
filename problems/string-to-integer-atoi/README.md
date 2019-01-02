@@ -66,7 +66,8 @@
 
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Reverse Integer](https://github.com/openset/leetcode/tree/master/problems/reverse-integer) (Easy)

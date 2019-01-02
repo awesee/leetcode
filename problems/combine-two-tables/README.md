@@ -42,6 +42,5 @@ AddressId is the primary key column for this table.
 FirstName, LastName, City, State
 </pre>
 
-
 ### Similar Questions
   1. [Employee Bonus](https://github.com/openset/leetcode/tree/master/problems/employee-bonus) (Easy)

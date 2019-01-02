@@ -45,4 +45,6 @@ So the final output is 4.
 
 
 ### Related Topics
-[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+[[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

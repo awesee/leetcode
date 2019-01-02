@@ -40,7 +40,8 @@ s = "abpcplea", d = ["a","b","c"]
 </p>
 
 ### Related Topics
-[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] 
+[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
   1. [Longest Word in Dictionary](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary) (Easy)

@@ -45,7 +45,8 @@
 
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
 ### Hints
   1. Scan through the array to find the unique largest element `m`, keeping track of it's index `maxIndex`.
 

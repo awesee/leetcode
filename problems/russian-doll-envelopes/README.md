@@ -26,7 +26,8 @@ Rotation is not allowed.</p>
 
 
 ### Related Topics
-[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence) (Medium)

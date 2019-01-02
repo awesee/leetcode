@@ -27,7 +27,8 @@
 
 
 ### Related Topics
-[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Similar Questions
   1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)

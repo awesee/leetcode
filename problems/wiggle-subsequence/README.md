@@ -42,4 +42,5 @@ Can you do it in O(<i>n</i>) time?</p>
 
 
 ### Related Topics
-[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

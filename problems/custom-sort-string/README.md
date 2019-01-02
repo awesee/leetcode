@@ -36,4 +36,4 @@ Since &quot;d&quot; does not appear in S, it can be at any position in T. &quot;
 
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

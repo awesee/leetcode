@@ -34,7 +34,9 @@ The couples' initial seating is given by <code>row[i]</code> being the value of 
 </ol>
 
 ### Related Topics
-[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] 
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+[[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+[[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ### Similar Questions
   1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive) (Hard)

@@ -52,4 +52,4 @@ Given a binary search tree and the lowest and highest boundaries as <code>L</cod
 </p>
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

@@ -26,7 +26,9 @@
 </ol>
 
 ### Related Topics
-[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Merge k Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-k-sorted-lists) (Hard)

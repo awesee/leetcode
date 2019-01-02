@@ -38,7 +38,8 @@
 
 
 ### Related Topics
-[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Similar Questions
   1. [Evaluate Reverse Polish Notation](https://github.com/openset/leetcode/tree/master/problems/evaluate-reverse-polish-notation) (Medium)

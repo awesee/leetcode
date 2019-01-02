@@ -63,4 +63,4 @@ Note that A[0] &gt; A[1] - the array A isn&#39;t necessarily in lexicographic or
 </ol>
 
 ### Related Topics
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

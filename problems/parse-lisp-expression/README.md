@@ -71,7 +71,7 @@ of the final x in the add-expression.  That final x will equal 2.
 </p>
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser) (Medium)

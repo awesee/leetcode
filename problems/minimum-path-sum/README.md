@@ -26,7 +26,8 @@
 
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Unique Paths](https://github.com/openset/leetcode/tree/master/problems/unique-paths) (Medium)

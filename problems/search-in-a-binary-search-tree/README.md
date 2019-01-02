@@ -36,7 +36,7 @@ And the value to search: 2
 
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
   1. [Closest Binary Search Tree Value](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value) (Easy)

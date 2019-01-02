@@ -41,7 +41,10 @@
 
 
 ### Related Topics
-[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
   1. [Intersection of Two Arrays](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays) (Easy)

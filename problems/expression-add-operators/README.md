@@ -43,7 +43,7 @@
 </pre>
 
 ### Related Topics
-[[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] 
+[[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
   1. [Evaluate Reverse Polish Notation](https://github.com/openset/leetcode/tree/master/problems/evaluate-reverse-polish-notation) (Medium)

@@ -39,7 +39,7 @@ In step 3, we use <b>Paste</b> operation to get 'AAA'.
 </p>
 
 ### Related Topics
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [4 Keys Keyboard](https://github.com/openset/leetcode/tree/master/problems/4-keys-keyboard) (Medium)

@@ -34,7 +34,9 @@ List 3: [5, 18, 22, 30], 22 is in range [20,24].
 </p>
 
 ### Related Topics
-[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) (Hard)

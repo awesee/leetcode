@@ -34,4 +34,4 @@ For instance, <code>2.5</code> is not &quot;two and a half&quot; or &quot;half w
 
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

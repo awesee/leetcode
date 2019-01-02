@@ -31,7 +31,8 @@ as <code>&quot;[1,2,3,null,null,4,5]&quot;</code>
 
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] 
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
 
 ### Similar Questions
   1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings) (Medium)

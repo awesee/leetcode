@@ -25,7 +25,9 @@
 
 
 ### Related Topics
-[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Validate Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/validate-binary-search-tree) (Medium)

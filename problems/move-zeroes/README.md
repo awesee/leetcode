@@ -23,7 +23,8 @@
 </ol>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
   1. [Remove Element](https://github.com/openset/leetcode/tree/master/problems/remove-element) (Easy)

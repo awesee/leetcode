@@ -44,4 +44,5 @@
 
 
 ### Related Topics
-[[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

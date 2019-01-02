@@ -43,7 +43,7 @@ Target = 28
 
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] 
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
   1. [Two Sum](https://github.com/openset/leetcode/tree/master/problems/two-sum) (Easy)

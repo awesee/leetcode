@@ -37,7 +37,8 @@ Once you pay the cost, you can either climb one or two steps. You need to find m
 </p>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Climbing Stairs](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs) (Easy)

@@ -33,7 +33,9 @@
 
 
 ### Related Topics
-[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+
 ### Hints
   1. No scary math, just apply elementary math knowledge. Still remember how to perform a <i>long division</i>?
   1. Try a long division on 4/9, the repeating part is obvious. Now try 4/333. Do you see a pattern?

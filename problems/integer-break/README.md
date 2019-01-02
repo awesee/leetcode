@@ -30,7 +30,9 @@
 </div>
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
 ### Hints
   1. There is a simple O(n) solution to this problem.
   1. You may check the breaking results of <i>n</i> ranging from 7 to 10 to discover the regularities.

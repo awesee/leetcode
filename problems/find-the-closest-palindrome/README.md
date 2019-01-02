@@ -26,7 +26,8 @@
 </p>
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+
 ### Hints
   1. Will brute force work for this problem? Think of something else.
   1. Take some examples like 1234, 999,1000, etc and check their closest palindromes. How many different cases are possible?

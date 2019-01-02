@@ -55,7 +55,8 @@
 
 
 ### Related Topics
-[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Generate Parentheses](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses) (Medium)

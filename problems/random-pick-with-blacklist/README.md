@@ -61,7 +61,10 @@
 
 
 ### Related Topics
-[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)] 
+[[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+[[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
 
 ### Similar Questions
   1. [Random Pick Index](https://github.com/openset/leetcode/tree/master/problems/random-pick-index) (Medium)

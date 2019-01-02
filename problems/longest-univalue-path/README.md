@@ -62,7 +62,8 @@ The given binary tree has not more than 10000 nodes.  The height of the tree is 
 </p>
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] 
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+[[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
 
 ### Similar Questions
   1. [Binary Tree Maximum Path Sum](https://github.com/openset/leetcode/tree/master/problems/binary-tree-maximum-path-sum) (Hard)

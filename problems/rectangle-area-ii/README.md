@@ -40,4 +40,4 @@
 
 
 ### Related Topics
-[[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)] 
+[[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]

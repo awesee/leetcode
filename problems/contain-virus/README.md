@@ -71,7 +71,8 @@ Notice that walls are only built on the shared boundary of two different cells.
 </p>
 
 ### Related Topics
-[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] 
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+
 ### Hints
   1. The implementation is long - we want to perfrom the following steps:
 

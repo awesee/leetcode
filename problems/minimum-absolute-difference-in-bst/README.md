@@ -33,7 +33,7 @@ The minimum absolute difference is 1, which is the difference between 2 and 1 (o
 
 
 ### Related Topics
-[[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)] 
+[[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
 
 ### Similar Questions
   1. [K-diff Pairs in an Array](https://github.com/openset/leetcode/tree/master/problems/k-diff-pairs-in-an-array) (Easy)

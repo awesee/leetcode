@@ -43,4 +43,4 @@
 
 
 ### Related Topics
-[[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)] 
+[[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]

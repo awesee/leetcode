@@ -23,7 +23,10 @@ To the right of 1 there is <b>0</b> smaller element.
 
 
 ### Related Topics
-[[Binary Indexed Tree](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)] [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)] [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)] [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] 
+[[Binary Indexed Tree](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
+[[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+[[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+[[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
   1. [Count of Range Sum](https://github.com/openset/leetcode/tree/master/problems/count-of-range-sum) (Hard)

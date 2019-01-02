@@ -27,7 +27,7 @@ Only two moves are needed (remember each move increments or decrements one eleme
 </p></p>
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Similar Questions
   1. [Best Meeting Point](https://github.com/openset/leetcode/tree/master/problems/best-meeting-point) (Hard)

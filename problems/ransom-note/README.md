@@ -27,7 +27,7 @@ canConstruct("aa", "aab") -> true
 
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Stickers to Spell Word](https://github.com/openset/leetcode/tree/master/problems/stickers-to-spell-word) (Hard)

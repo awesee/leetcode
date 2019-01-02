@@ -33,7 +33,8 @@ We could return these lists in any order, for example the answer [['Mary', 'mary
 </p>
 
 ### Related Topics
-[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] 
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+[[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
 
 ### Similar Questions
   1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/problems/redundant-connection) (Medium)

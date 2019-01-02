@@ -27,7 +27,9 @@
 Your algorithm should run in linear runtime complexity. Could you implement it using only constant extra space complexity?</p>
 
 ### Related Topics
-[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] 
+[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Similar Questions
   1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive) (Hard)

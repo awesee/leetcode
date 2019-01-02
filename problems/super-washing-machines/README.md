@@ -57,4 +57,5 @@ It's impossible to make all the three washing machines have the same number of d
 </p>
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

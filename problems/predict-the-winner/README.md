@@ -36,7 +36,8 @@
 </p>
 
 ### Related Topics
-[[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Can I Win](https://github.com/openset/leetcode/tree/master/problems/can-i-win) (Medium)

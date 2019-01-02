@@ -46,7 +46,9 @@ randomSet.getRandom();
 </p>
 
 ### Related Topics
-[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] 
+[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Insert Delete GetRandom O(1) - Duplicates allowed](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1-duplicates-allowed) (Hard)

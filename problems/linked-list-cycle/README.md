@@ -57,7 +57,8 @@
 
 
 ### Related Topics
-[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] 
+[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
   1. [Linked List Cycle II](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle-ii) (Medium)

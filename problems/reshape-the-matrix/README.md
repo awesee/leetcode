@@ -55,7 +55,8 @@ r = 2, c = 4
 </p>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
 ### Hints
   1. Do you know how 2d matrix is stored in 1d memory? Try to map 2-dimensions into one.
   1. M[i][j]=M[n*i+j] , where n is the number of cols. 

@@ -35,7 +35,8 @@
 
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Decode Ways II](https://github.com/openset/leetcode/tree/master/problems/decode-ways-ii) (Hard)

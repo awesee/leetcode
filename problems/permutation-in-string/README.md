@@ -32,7 +32,7 @@ Given two strings <b>s1</b> and <b>s2</b>, write a function to return true if <b
 </p>
 
 ### Related Topics
-[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] 
+[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
   1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) (Hard)

@@ -28,7 +28,7 @@
 
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Similar Questions
   1. [Pascal's Triangle II](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle-ii) (Easy)

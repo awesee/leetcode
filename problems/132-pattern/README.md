@@ -44,4 +44,4 @@ that <b>i</b> < <b>j</b> < <b>k</b> and a<sub><b>i</b></sub> < a<sub><b>k</b></s
 </p>
 
 ### Related Topics
-[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] 
+[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

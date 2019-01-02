@@ -28,7 +28,10 @@ The repeated subarray with maximum length is [3, 2, 1].
 </p>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Minimum Size Subarray Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-size-subarray-sum) (Medium)

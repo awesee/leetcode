@@ -38,7 +38,7 @@ The 4th course cannot be taken now, since you will finish it on the 3300th day, 
 </p>
 
 ### Related Topics
-[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] 
+[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
 
 ### Similar Questions
   1. [Course Schedule](https://github.com/openset/leetcode/tree/master/problems/course-schedule) (Medium)

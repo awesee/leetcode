@@ -52,7 +52,8 @@ struct TreeLinkNode {
 
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] 
+[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
   1. [Populating Next Right Pointers in Each Node](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node) (Medium)

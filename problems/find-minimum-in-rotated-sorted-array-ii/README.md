@@ -36,7 +36,8 @@
 
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
   1. [Find Minimum in Rotated Sorted Array](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array) (Medium)

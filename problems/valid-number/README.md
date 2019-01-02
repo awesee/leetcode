@@ -41,7 +41,8 @@ The signature of the <code>C++</code> function had been updated. If you still se
 
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] 
+[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [String to Integer (atoi)](https://github.com/openset/leetcode/tree/master/problems/string-to-integer-atoi) (Medium)

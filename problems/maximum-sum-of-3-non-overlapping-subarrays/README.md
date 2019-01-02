@@ -32,7 +32,8 @@ We could have also taken [2, 1], but an answer of [1, 3, 5] would be lexicograph
 </p>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] 
+[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Best Time to Buy and Sell Stock III](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iii) (Hard)
