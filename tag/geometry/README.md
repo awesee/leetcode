@@ -9,6 +9,6 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 587 | [安装栅栏](https://github.com/openset/leetcode/tree/master/problems/erect-the-fence) | [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]  | Hard |
-| 892 | [三维形体的表面积](https://github.com/openset/leetcode/tree/master/problems/surface-area-of-3d-shapes) | [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 963 | [最小面积矩形 II](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle-ii) | [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
+| 892 | [三维形体的表面积](https://github.com/openset/leetcode/tree/master/problems/surface-area-of-3d-shapes) | [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
+| 587 | [安装栅栏](https://github.com/openset/leetcode/tree/master/problems/erect-the-fence) | [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]  | Hard |
