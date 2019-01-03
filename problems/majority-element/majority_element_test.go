@@ -18,6 +18,10 @@ func TestMajorityElement(t *testing.T) {
 			expected: 2,
 		},
 		{
+			input:    []int{2, 2, 2, 2, 1, 1, 1},
+			expected: 2,
+		},
+		{
 			input:    []int{1},
 			expected: 1,
 		},
