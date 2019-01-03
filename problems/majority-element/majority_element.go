@@ -1,9 +1,11 @@
 package majority_element
 
 func majorityElement(nums []int) int {
-	count, ans := 1, nums[0]
-	for _, n := range nums[1:] {
-		if n != ans {
+	ans, count := 0, 0
+	for _, n := range nums {
+		if n == ans {
+			count++
+		} else {
 			count--
 		}
 		if count <= 0 {
