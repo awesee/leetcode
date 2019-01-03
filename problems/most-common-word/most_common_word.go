@@ -8,7 +8,7 @@ import (
 func mostCommonWord(paragraph string, banned []string) string {
 	words := make([]string, 0)
 	paragraph = strings.ToLower(paragraph)
-	reg := regexp.MustCompile(`[A-Za-z]+`)
+	reg := regexp.MustCompile(`[a-z]+`)
 	for _, word := range reg.FindAllString(paragraph, -1) {
 		words = append(words, word)
 	}
