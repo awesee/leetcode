@@ -1,25 +1,24 @@
 package most_common_word
 
-import "strings"
+import (
+	"regexp"
+	"strings"
+)
 
 func mostCommonWord(paragraph string, banned []string) string {
-	word, words := "", make([]string, 0)
-	paragraph = strings.ToLower(paragraph) + " "
-	for _, char := range paragraph {
-		if (char >= 'A' && char <= 'Z') || (char >= 'a' && char <= 'z') {
-			word += string(char)
-		} else if word != "" {
-			words = append(words, word)
-			word = ""
-		}
+	words := make([]string, 0)
+	paragraph = strings.ToLower(paragraph)
+	reg := regexp.MustCompile(`[A-Za-z]+`)
+	for _, word := range reg.FindAllString(paragraph, -1) {
+		words = append(words, word)
 	}
-	m := make(map[string]bool)
+	mb := make(map[string]bool)
 	for _, ban := range banned {
-		m[ban] = true
+		mb[ban] = true
 	}
 	ans, max, count := "", 0, make(map[string]int)
-	for _, word = range words {
-		if !m[word] {
+	for _, word := range words {
+		if !mb[word] {
 			count[word]++
 			if count[word] > max {
 				max = count[word]
