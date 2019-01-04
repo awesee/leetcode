@@ -9,7 +9,7 @@ func reverse(x int) int {
 		if r > math.MaxInt32 || r < math.MinInt32 {
 			return 0
 		}
-		x = x / 10
+		x /= 10
 	}
 	return r
 }
