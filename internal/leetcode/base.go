@@ -19,7 +19,10 @@ var err error
 
 var checkErr = base.CheckErr
 
-const authInfo = base.AuthInfo
+var (
+	authInfo = base.AuthInfo
+	LockStr  = " 🔒"
+)
 
 func graphQLRequest(filename, jsonStr string, v interface{}) {
 	data := remember(filename, 30, func() []byte {

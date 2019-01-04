@@ -45,7 +45,7 @@ type questionType struct {
 	Content            string             `json:"content"`
 	TranslatedTitle    string             `json:"translatedTitle"`
 	TranslatedContent  string             `json:"translatedContent"`
-	IsPaidOnly         bool               `json:"isPaidOnly"`
+	IsPaidOnly         paidType           `json:"isPaidOnly"`
 	Difficulty         string             `json:"difficulty"`
 	Likes              int                `json:"likes"`
 	Dislikes           int                `json:"dislikes"`

@@ -69,7 +69,7 @@ type ttQuestionType struct {
 	TitleSlug          string    `json:"titleSlug"`
 	TranslatedTitle    string    `json:"translatedTitle"`
 	TranslatedContent  string    `json:"translatedContent"`
-	IsPaidOnly         bool      `json:"isPaidOnly"`
+	IsPaidOnly         paidType  `json:"isPaidOnly"`
 	Difficulty         string    `json:"difficulty"`
 	TopicTags          []tagType `json:"topicTags"`
 }
@@ -92,7 +92,7 @@ func (tag tagType) SaveContents() {
 	buf.WriteString(fmt.Sprintf("\n## %s\n\n", tag.ShowName()))
 	buf.WriteString("| # | 题名 | 标签 | 难度 |\n")
 	buf.WriteString("| :-: | - | - | :-: |\n")
-	format := "| %s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s) | %s | %s |\n"
+	format := "| %s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s)%s | %s | %s |\n"
 	maxId := 0
 	rows := make(map[int]string)
 	for _, question := range questions {
@@ -101,7 +101,7 @@ func (tag tagType) SaveContents() {
 		if question.TranslatedTitle == "" {
 			question.TranslatedTitle = question.Title
 		}
-		rows[id] = fmt.Sprintf(format, question.QuestionFrontendId, question.TranslatedTitle, question.TitleSlug, question.TagsStr(), question.Difficulty)
+		rows[id] = fmt.Sprintf(format, question.QuestionFrontendId, question.TranslatedTitle, question.TitleSlug, question.IsPaidOnly.Str(), question.TagsStr(), question.Difficulty)
 		if id > maxId {
 			maxId = id
 		}
