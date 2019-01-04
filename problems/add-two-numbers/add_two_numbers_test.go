@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/openset/leetcode/problems/000000"
+	. "github.com/openset/leetcode/problems/000000"
 )
 
 type caseType struct {
@@ -31,11 +31,10 @@ func TestAddTwoNumbers(t *testing.T) {
 			expected: []int{0, 0, 0, 1},
 		},
 	}
-
 	for _, tc := range tests {
-		l1 := base.SliceInt2ListNode(tc.l1)
-		l2 := base.SliceInt2ListNode(tc.l2)
-		output := base.ListNode2SliceInt(addTwoNumbers(l1, l2))
+		l1 := SliceInt2ListNode(tc.l1)
+		l2 := SliceInt2ListNode(tc.l2)
+		output := ListNode2SliceInt(addTwoNumbers(l1, l2))
 		if !reflect.DeepEqual(output, tc.expected) {
 			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.l1, tc.l2, output, tc.expected)
 		}
