@@ -8,12 +8,11 @@ func validPalindrome(s string) bool {
 			start++
 			end--
 		} else {
-			if times == 0 {
-				times++
+			times++
+			if times == 1 {
 				i, j = start, end
 				start++
-			} else if times == 1 {
-				times++
+			} else if times == 2 {
 				start, end = i, j-1
 			} else {
 				return false
