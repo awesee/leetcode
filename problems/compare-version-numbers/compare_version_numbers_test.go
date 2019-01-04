@@ -21,6 +21,16 @@ func TestCompareVersion(t *testing.T) {
 			expected: 0,
 		},
 		{
+			v1:       "1.01",
+			v2:       "1.001",
+			expected: 0,
+		},
+		{
+			v1:       "1.0",
+			v2:       "1.0.0",
+			expected: 0,
+		},
+		{
 			v1:       "0.1",
 			v2:       "1.1",
 			expected: -1,
