@@ -1,27 +1,19 @@
 package rotated_digits
 
 func rotatedDigits(N int) int {
-	count, mask25, mask69 := 0, 2|5, 6|9
-flag:
+	count := 0
 	for i := 2; i <= N; i++ {
-		x, r, base := i, 0, 1
+		x, ok := i, 0
 		for x != 0 {
-			m := x % 10
-			switch m {
-			case 2, 5:
-				m ^= mask25
-			case 6, 9:
-				m ^= mask69
+			switch x % 10 {
+			case 2, 5, 6, 9:
+				ok = 1
 			case 3, 4, 7:
-				continue flag
+				ok, x = 0, 0
 			}
-			r += m * base
-			base *= 10
 			x /= 10
 		}
-		if i != r {
-			count++
-		}
+		count += ok
 	}
 	return count
 }

@@ -14,6 +14,10 @@ func TestRotatedDigits(t *testing.T) {
 			expected: 4,
 		},
 		{
+			input:    23,
+			expected: 11,
+		},
+		{
 			input:    100,
 			expected: 40,
 		},
