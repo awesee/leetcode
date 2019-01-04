@@ -31,7 +31,7 @@ type statStatusPairsType struct {
 	Stat       statType       `json:"stat"`
 	Status     string         `json:"status"`
 	Difficulty difficultyType `json:"difficulty"`
-	PaidOnly   bool           `json:"paid_only"`
+	PaidOnly   paidType       `json:"paid_only"`
 	IsFavor    bool           `json:"is_favor"`
 	Frequency  int            `json:"frequency"`
 	Progress   int            `json:"progress"`
@@ -52,6 +52,15 @@ type statType struct {
 
 type difficultyType struct {
 	Level int `json:"level"`
+}
+
+type paidType bool
+
+func (p paidType) Str() string {
+	if p {
+		return LockStr
+	}
+	return ""
 }
 
 func (s statType) QuestionTitleSnake() string {
