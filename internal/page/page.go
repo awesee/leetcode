@@ -1,9 +1,8 @@
 package page
 
 import (
-	"os/exec"
-
 	"github.com/openset/leetcode/internal/base"
+	"github.com/openset/leetcode/internal/readme"
 )
 
 var CmdPage = &base.Command{
@@ -17,6 +16,5 @@ func runPage(cmd *base.Command, args []string) {
 	if len(args) != 0 {
 		cmd.Usage()
 	}
-	err := exec.Command(base.CmdName, "readme", "page").Run()
-	base.CheckErr(err)
+	readme.CmdReadme.Run(readme.CmdReadme, []string{"page"})
 }
