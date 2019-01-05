@@ -3,6 +3,7 @@ package tag
 import (
 	"bytes"
 	"fmt"
+	"reflect"
 
 	"github.com/openset/leetcode/internal/base"
 	"github.com/openset/leetcode/internal/leetcode"
@@ -25,15 +26,20 @@ func runTag(cmd *base.Command, args []string) {
 	buf.WriteString("\n## 话题分类\n\n")
 	buf.WriteString("| # | Title | 标题 | | # | Title | 标题 |\n")
 	buf.WriteString("| :-: | - | :-: | - | :-: | - | :-: |\n")
-	tags := leetcode.GetTags()
 	format := "| %d | [%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md) | [%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md) | "
-	for i, tag := range tags {
-		fmt.Println(i+1, "\t", tag.Name, "saving...")
-		buf.WriteString(fmt.Sprintf(format, i+1, tag.Name, tag.Slug, tag.TranslatedName, tag.Slug))
-		if i&1 == 1 {
-			buf.WriteString("\n")
+	for times := 0; times < 2; times++ {
+		tags := leetcode.GetTags()
+		for i, tag := range tags {
+			fmt.Println(i+1, "\t", tag.Name, "saving...")
+			buf.WriteString(fmt.Sprintf(format, i+1, tag.Name, tag.Slug, tag.TranslatedName, tag.Slug))
+			if i&1 == 1 {
+				buf.WriteString("\n")
+			}
+			tag.SaveContents()
 		}
-		tag.SaveContents()
+		if reflect.DeepEqual(tags, leetcode.GetTags()) {
+			break
+		}
 	}
 	base.FilePutContents("tag/README.md", buf.Bytes())
 }

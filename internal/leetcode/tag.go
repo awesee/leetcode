@@ -11,21 +11,29 @@ import (
 func GetTags() (tags []tagType) {
 	data := fileGetContents("tag/tags.json")
 	jsonDecode(data, &tags)
+	tags = tagsUnique(tags)
 	return
 }
 
 func SaveTags(tags []tagType) {
-	ts := GetTags()
-	var flag = make(map[string]bool)
-	for _, tag := range ts {
-		flag[tag.Slug] = true
-	}
+	ts := tagsUnique(append(GetTags(), tags...))
+	filePutContents("tag/tags.json", jsonEncode(ts))
+}
+
+func tagsUnique(tags []tagType) []tagType {
+	rs, top := make([]tagType, 0, len(tags)), 1
+	var flag = make(map[string]int)
 	for _, tag := range tags {
-		if !flag[tag.Slug] {
-			ts = append(ts, tag)
+		i := flag[tag.Slug]
+		if i == 0 {
+			rs = append(rs, tag)
+			flag[tag.Slug] = top
+			top++
+		} else {
+			rs[i-1] = tag
 		}
 	}
-	filePutContents("tag/tags.json", jsonEncode(ts))
+	return rs
 }
 
 func GetTopicTag(slug string) (tt topicTagType) {
