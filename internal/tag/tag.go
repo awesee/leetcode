@@ -28,6 +28,7 @@ func runTag(cmd *base.Command, args []string) {
 	tags := leetcode.GetTags()
 	format := "| %d | [%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md) | [%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md) | "
 	for i, tag := range tags {
+		fmt.Println(i+1, "\t", tag.Name, "saving...")
 		buf.WriteString(fmt.Sprintf(format, i+1, tag.Name, tag.Slug, tag.TranslatedName, tag.Slug))
 		if i&1 == 1 {
 			buf.WriteString("\n")

@@ -70,7 +70,7 @@ type similarQuestionType struct {
 }
 
 func (question questionType) SaveContent() {
-	fmt.Println(question.QuestionFrontendId, "\t", question.Title, " saving...")
+	fmt.Println(question.QuestionFrontendId, "\t", question.Title, "saving...")
 	if question.Content != "" {
 		filePutContents(question.getFilePath("README.md"), question.getDescContent())
 	}
