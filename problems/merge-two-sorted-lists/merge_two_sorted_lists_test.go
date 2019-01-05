@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/openset/leetcode/problems/000000"
+	. "github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -36,7 +36,6 @@ func TestMergeTwoLists(t *testing.T) {
 			expected: []int{1, 1, 2, 2, 3, 3},
 		},
 	}
-
 	for _, tc := range tests {
 		l1 := SliceInt2ListNode(tc.l1)
 		l2 := SliceInt2ListNode(tc.l2)

@@ -1,6 +1,6 @@
 package merge_two_sorted_lists
 
-import . "github.com/openset/leetcode/problems/000000"
+import . "github.com/openset/leetcode/internal/kit"
 
 /**
  * Definition for singly-linked list.
