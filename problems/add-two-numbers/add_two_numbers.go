@@ -1,6 +1,6 @@
 package add_two_numbers
 
-import . "github.com/openset/leetcode/problems/000000"
+import . "github.com/openset/leetcode/internal/kit"
 
 /**
  * Definition for singly-linked list.

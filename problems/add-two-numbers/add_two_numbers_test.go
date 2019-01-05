@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/openset/leetcode/problems/000000"
+	. "github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {

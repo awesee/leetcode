@@ -3,7 +3,7 @@ package intersection_of_two_arrays_ii
 import (
 	"testing"
 
-	"github.com/openset/leetcode/problems/000000"
+	. "github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -30,10 +30,9 @@ func TestIntersect(t *testing.T) {
 			expected: []int{3, 3, 5, 5, 5, 7},
 		},
 	}
-
 	for _, tc := range tests {
 		output := intersect(tc.nums1, tc.nums2)
-		if !base.IsEqualSliceInt(output, tc.expected) {
+		if !IsEqualSliceInt(output, tc.expected) {
 			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.nums1, tc.nums2, output, tc.expected)
 		}
 	}
