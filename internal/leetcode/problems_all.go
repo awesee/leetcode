@@ -6,15 +6,15 @@ import (
 	"github.com/openset/leetcode/internal/client"
 )
 
-func ProblemsAll() (pa ProblemsAllType) {
+func ProblemsAll() (ps problemsType) {
 	data := remember(problemsAllFile, 3, func() []byte {
 		return client.Get(apiProblemsAllUrl)
 	})
-	jsonDecode(data, &pa)
+	jsonDecode(data, &ps)
 	return
 }
 
-type ProblemsAllType struct {
+type problemsType struct {
 	UserName        string                `json:"user_name"`
 	NumSolved       int                   `json:"num_solved"`
 	NumTotal        int                   `json:"num_total"`
