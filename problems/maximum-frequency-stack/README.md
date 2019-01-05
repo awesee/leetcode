@@ -14,7 +14,7 @@
 <ul>
 	<li><code>push(int x)</code>, which pushes an integer <code>x</code> onto the stack.</li>
 	<li><code>pop()</code>, which <strong>removes</strong> and returns the most frequent element in the stack.
-	<ul>
+<ul>
 		<li>If there is a tie for most frequent element, the element closest to the top of the stack is removed and returned.</li>
 	</ul>
 	</li>
