@@ -92,7 +92,9 @@ func (question questionType) getDescContent() []byte {
 	buf.WriteString(fmt.Sprintf("\n## %s. %s%s\n\n", question.QuestionFrontendId, question.Title, question.Difficulty.Str()))
 	// remove style
 	reg := regexp.MustCompile(`<style[\S\s]+?</style>`)
-	buf.WriteString(reg.ReplaceAllString(question.Content, ""))
+	content := reg.ReplaceAllString(question.Content, "")
+	content = strings.Replace(content, "	<ul>", "<ul>", -1)
+	buf.WriteString(content)
 	buf.Write(question.getTopicTags())
 	buf.Write(question.getSimilarQuestion())
 	buf.Write(question.getHints())
