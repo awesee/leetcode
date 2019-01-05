@@ -15,12 +15,9 @@ import (
 	"github.com/openset/leetcode/internal/client"
 )
 
-var err error
-
-var checkErr = base.CheckErr
-
 var (
 	authInfo = base.AuthInfo
+	checkErr = base.CheckErr
 	LockStr  = " 🔒"
 )
 
@@ -28,7 +25,7 @@ func graphQLRequest(filename, jsonStr string, v interface{}) {
 	data := remember(filename, 30, func() []byte {
 		return client.PostJson(graphqlUrl, jsonStr)
 	})
-	err = json.Unmarshal(data, &v)
+	err := json.Unmarshal(data, &v)
 	checkErr(err)
 	return
 }
@@ -43,7 +40,7 @@ func remember(filename string, days int, f func() []byte) []byte {
 	}
 	data := f()
 	var buf bytes.Buffer
-	err = json.Indent(&buf, data, "", "\t")
+	err := json.Indent(&buf, data, "", "\t")
 	checkErr(err)
 	filePutContents(filename, buf.Bytes())
 	return data
@@ -94,7 +91,7 @@ func jsonEncode(v interface{}) []byte {
 }
 
 func jsonDecode(data []byte, v interface{}) {
-	err = json.Unmarshal(data, v)
+	err := json.Unmarshal(data, v)
 	checkErr(err)
 }
 
