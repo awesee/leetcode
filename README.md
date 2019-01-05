@@ -18,36 +18,36 @@ LeetCode Problems' Solutions
 
 <table><thead>
 <tr>
-<th align="center"><a href="#1">[1-50]</a></th>
-<th align="center"><a href="#51">[51-100]</a></th>
-<th align="center"><a href="#101">[101-150]</a></th>
-<th align="center"><a href="#151">[151-200]</a></th>
-<th align="center"><a href="#201">[201-250]</a></th>
-<th align="center"><a href="#251">[251-300]</a></th>
+	<th align="center"><a href="#1">[1-50]</a></th>
+	<th align="center"><a href="#51">[51-100]</a></th>
+	<th align="center"><a href="#101">[101-150]</a></th>
+	<th align="center"><a href="#151">[151-200]</a></th>
+	<th align="center"><a href="#201">[201-250]</a></th>
+	<th align="center"><a href="#251">[251-300]</a></th>
 </tr>
 <tr>
-<th align="center"><a href="#301">[301-350]</a></th>
-<th align="center"><a href="#351">[351-400]</a></th>
-<th align="center"><a href="#401">[401-450]</a></th>
-<th align="center"><a href="#451">[451-500]</a></th>
-<th align="center"><a href="#501">[501-550]</a></th>
-<th align="center"><a href="#551">[551-600]</a></th>
+	<th align="center"><a href="#301">[301-350]</a></th>
+	<th align="center"><a href="#351">[351-400]</a></th>
+	<th align="center"><a href="#401">[401-450]</a></th>
+	<th align="center"><a href="#451">[451-500]</a></th>
+	<th align="center"><a href="#501">[501-550]</a></th>
+	<th align="center"><a href="#551">[551-600]</a></th>
 </tr>
 <tr>
-<th align="center"><a href="#601">[601-650]</a></th>
-<th align="center"><a href="#651">[651-700]</a></th>
-<th align="center"><a href="#701">[701-750]</a></th>
-<th align="center"><a href="#751">[751-800]</a></th>
-<th align="center"><a href="#801">[801-850]</a></th>
-<th align="center"><a href="#851">[851-900]</a></th>
+	<th align="center"><a href="#601">[601-650]</a></th>
+	<th align="center"><a href="#651">[651-700]</a></th>
+	<th align="center"><a href="#701">[701-750]</a></th>
+	<th align="center"><a href="#751">[751-800]</a></th>
+	<th align="center"><a href="#801">[801-850]</a></th>
+	<th align="center"><a href="#851">[851-900]</a></th>
 </tr>
 <tr>
-<th align="center"><a href="#901">[901-950]</a></th>
-<th align="center"><a href="#951">[951-1000]</a></th>
-<th align="center"><a href="#1001">[1001-1050]</a></th>
-<th align="center"><a href="#1051">[1051-1100]</a></th>
-<th align="center"><a href="#1101">[1101-1150]</a></th>
-<th align="center"><a href="#1151">[1151-1200]</a></th>
+	<th align="center"><a href="#901">[901-950]</a></th>
+	<th align="center"><a href="#951">[951-1000]</a></th>
+	<th align="center"><a href="#1001">[1001-1050]</a></th>
+	<th align="center"><a href="#1051">[1051-1100]</a></th>
+	<th align="center"><a href="#1101">[1101-1150]</a></th>
+	<th align="center"><a href="#1151">[1151-1200]</a></th>
 </tr>
 </thead></table>
 
@@ -393,14 +393,14 @@ LeetCode Problems' Solutions
 | <span id="630">630</span> | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii) | [Go](https://github.com/openset/leetcode/tree/master/problems/course-schedule-iii) | Hard |
 | <span id="629">629</span> | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array) | [Go](https://github.com/openset/leetcode/tree/master/problems/k-inverse-pairs-array) | Hard |
 | <span id="628">628</span> | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-three-numbers) | Easy |
-| <span id="627">627</span> | [Swap Salary](https://leetcode.com/problems/swap-salary) | [Go](https://github.com/openset/leetcode/tree/master/problems/swap-salary) | Easy |
-| <span id="626">626</span> | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | [Go](https://github.com/openset/leetcode/tree/master/problems/exchange-seats) | Medium |
+| <span id="627">627</span> | [Swap Salary](https://leetcode.com/problems/swap-salary) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/swap-salary) | Easy |
+| <span id="626">626</span> | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/exchange-seats) | Medium |
 | <span id="625">625</span> | [Minimum Factorization](https://leetcode.com/problems/minimum-factorization) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-factorization) | Medium |
 | <span id="624">624</span> | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-distance-in-arrays) | Easy |
 | <span id="623">623</span> | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree) | [Go](https://github.com/openset/leetcode/tree/master/problems/add-one-row-to-tree) | Medium |
 | <span id="622">622</span> | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | [Go](https://github.com/openset/leetcode/tree/master/problems/design-circular-queue) | Medium |
 | <span id="621">621</span> | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | [Go](https://github.com/openset/leetcode/tree/master/problems/task-scheduler) | Medium |
-| <span id="620">620</span> | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [Go](https://github.com/openset/leetcode/tree/master/problems/not-boring-movies) | Easy |
+| <span id="620">620</span> | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/not-boring-movies) | Easy |
 | <span id="619">619</span> | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/biggest-single-number) | Easy |
 | <span id="618">618</span> | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/students-report-by-geography) | Hard |
 | <span id="617">617</span> | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Go](https://github.com/openset/leetcode/tree/master/problems/merge-two-binary-trees) | Easy |
@@ -419,12 +419,12 @@ LeetCode Problems' Solutions
 | <span id="604">604</span> | [Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/design-compressed-string-iterator) | Easy |
 | <span id="603">603</span> | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/consecutive-available-seats) | Easy |
 | <span id="602">602</span> | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/friend-requests-ii-who-has-the-most-friends) | Medium |
-| <span id="601">601</span> | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium) | [Go](https://github.com/openset/leetcode/tree/master/problems/human-traffic-of-stadium) | Hard |
+| <span id="601">601</span> | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/human-traffic-of-stadium) | Hard |
 | <span id="600">600</span> | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones) | [Go](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones) | Hard |
 | <span id="599">599</span> | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-index-sum-of-two-lists) | Easy |
 | <span id="598">598</span> | [Range Addition II](https://leetcode.com/problems/range-addition-ii) | [Go](https://github.com/openset/leetcode/tree/master/problems/range-addition-ii) | Easy |
 | <span id="597">597</span> | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/friend-requests-i-overall-acceptance-rate) | Easy |
-| <span id="596">596</span> | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | [Go](https://github.com/openset/leetcode/tree/master/problems/classes-more-than-5-students) | Easy |
+| <span id="596">596</span> | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/classes-more-than-5-students) | Easy |
 | <span id="595">595</span> | [Big Countries](https://leetcode.com/problems/big-countries) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/big-countries) | Easy |
 | <span id="594">594</span> | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-harmonious-subsequence) | Easy |
 | <span id="593">593</span> | [Valid Square](https://leetcode.com/problems/valid-square) | [Go](https://github.com/openset/leetcode/tree/master/problems/valid-square) | Medium |
@@ -752,7 +752,7 @@ LeetCode Problems' Solutions
 | <span id="265">265</span> | [Paint House II](https://leetcode.com/problems/paint-house-ii) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii) | Hard |
 | <span id="264">264</span> | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii) | [Go](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii) | Medium |
 | <span id="263">263</span> | [Ugly Number](https://leetcode.com/problems/ugly-number) | [Go](https://github.com/openset/leetcode/tree/master/problems/ugly-number) | Easy |
-| <span id="262">262</span> | [Trips and Users](https://leetcode.com/problems/trips-and-users) | [Go](https://github.com/openset/leetcode/tree/master/problems/trips-and-users) | Hard |
+| <span id="262">262</span> | [Trips and Users](https://leetcode.com/problems/trips-and-users) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/trips-and-users) | Hard |
 | <span id="261">261</span> | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/graph-valid-tree) | Medium |
 | <span id="260">260</span> | [Single Number III](https://leetcode.com/problems/single-number-iii) | [Go](https://github.com/openset/leetcode/tree/master/problems/single-number-iii) | Medium |
 | <span id="259">259</span> | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller) | Medium |
@@ -817,29 +817,29 @@ LeetCode Problems' Solutions
 | <span id="200">200</span> | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Go](https://github.com/openset/leetcode/tree/master/problems/number-of-islands) | Medium |
 | <span id="199">199</span> | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [Go](https://github.com/openset/leetcode/tree/master/problems/binary-tree-right-side-view) | Medium |
 | <span id="198">198</span> | [House Robber](https://leetcode.com/problems/house-robber) | [Go](https://github.com/openset/leetcode/tree/master/problems/house-robber) | Easy |
-| <span id="197">197</span> | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | [Go](https://github.com/openset/leetcode/tree/master/problems/rising-temperature) | Easy |
-| <span id="196">196</span> | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [Go](https://github.com/openset/leetcode/tree/master/problems/delete-duplicate-emails) | Easy |
+| <span id="197">197</span> | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/rising-temperature) | Easy |
+| <span id="196">196</span> | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/delete-duplicate-emails) | Easy |
 | <span id="195">195</span> | [Tenth Line](https://leetcode.com/problems/tenth-line) | [Bash](https://github.com/openset/leetcode/tree/master/problems/tenth-line) | Easy |
-| <span id="194">194</span> | [Transpose File](https://leetcode.com/problems/transpose-file) | [Go](https://github.com/openset/leetcode/tree/master/problems/transpose-file) | Medium |
-| <span id="193">193</span> | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Go](https://github.com/openset/leetcode/tree/master/problems/valid-phone-numbers) | Easy |
-| <span id="192">192</span> | [Word Frequency](https://leetcode.com/problems/word-frequency) | [Go](https://github.com/openset/leetcode/tree/master/problems/word-frequency) | Medium |
+| <span id="194">194</span> | [Transpose File](https://leetcode.com/problems/transpose-file) | [Bash](https://github.com/openset/leetcode/tree/master/problems/transpose-file) | Medium |
+| <span id="193">193</span> | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Bash](https://github.com/openset/leetcode/tree/master/problems/valid-phone-numbers) | Easy |
+| <span id="192">192</span> | [Word Frequency](https://leetcode.com/problems/word-frequency) | [Bash](https://github.com/openset/leetcode/tree/master/problems/word-frequency) | Medium |
 | <span id="191">191</span> | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Go](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) | Easy |
 | <span id="190">190</span> | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [Go](https://github.com/openset/leetcode/tree/master/problems/reverse-bits) | Easy |
 | <span id="189">189</span> | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Go](https://github.com/openset/leetcode/tree/master/problems/rotate-array) | Easy |
 | <span id="188">188</span> | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [Go](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iv) | Hard |
 | <span id="187">187</span> | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | [Go](https://github.com/openset/leetcode/tree/master/problems/repeated-dna-sequences) | Medium |
 | <span id="186">186</span> | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-ii) | Medium |
-| <span id="185">185</span> | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [Go](https://github.com/openset/leetcode/tree/master/problems/department-top-three-salaries) | Hard |
-| <span id="184">184</span> | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | [Go](https://github.com/openset/leetcode/tree/master/problems/department-highest-salary) | Medium |
-| <span id="183">183</span> | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | [Go](https://github.com/openset/leetcode/tree/master/problems/customers-who-never-order) | Easy |
-| <span id="182">182</span> | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [Go](https://github.com/openset/leetcode/tree/master/problems/duplicate-emails) | Easy |
-| <span id="181">181</span> | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [Go](https://github.com/openset/leetcode/tree/master/problems/employees-earning-more-than-their-managers) | Easy |
-| <span id="180">180</span> | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | [Go](https://github.com/openset/leetcode/tree/master/problems/consecutive-numbers) | Medium |
+| <span id="185">185</span> | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/department-top-three-salaries) | Hard |
+| <span id="184">184</span> | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/department-highest-salary) | Medium |
+| <span id="183">183</span> | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/customers-who-never-order) | Easy |
+| <span id="182">182</span> | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/duplicate-emails) | Easy |
+| <span id="181">181</span> | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/employees-earning-more-than-their-managers) | Easy |
+| <span id="180">180</span> | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/consecutive-numbers) | Medium |
 | <span id="179">179</span> | [Largest Number](https://leetcode.com/problems/largest-number) | [Go](https://github.com/openset/leetcode/tree/master/problems/largest-number) | Medium |
-| <span id="178">178</span> | [Rank Scores](https://leetcode.com/problems/rank-scores) | [Go](https://github.com/openset/leetcode/tree/master/problems/rank-scores) | Medium |
-| <span id="177">177</span> | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | [Go](https://github.com/openset/leetcode/tree/master/problems/nth-highest-salary) | Medium |
-| <span id="176">176</span> | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | [Go](https://github.com/openset/leetcode/tree/master/problems/second-highest-salary) | Easy |
-| <span id="175">175</span> | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [Go](https://github.com/openset/leetcode/tree/master/problems/combine-two-tables) | Easy |
+| <span id="178">178</span> | [Rank Scores](https://leetcode.com/problems/rank-scores) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/rank-scores) | Medium |
+| <span id="177">177</span> | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/nth-highest-salary) | Medium |
+| <span id="176">176</span> | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/second-highest-salary) | Easy |
+| <span id="175">175</span> | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/combine-two-tables) | Easy |
 | <span id="174">174</span> | [Dungeon Game](https://leetcode.com/problems/dungeon-game) | [Go](https://github.com/openset/leetcode/tree/master/problems/dungeon-game) | Hard |
 | <span id="173">173</span> | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Go](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator) | Medium |
 | <span id="172">172</span> | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Go](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes) | Easy |

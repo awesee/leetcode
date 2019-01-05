@@ -69,12 +69,23 @@ func writeProblems(buf *bytes.Buffer) {
 	}
 }
 
+var langSet = make(map[string]string)
+
+func init() {
+	problems := leetcode.ProblemsDatabase()
+	for _, problem := range problems.StatStatusPairs {
+		slug := problem.Stat.QuestionTitleSlug
+		langSet[slug] = "MySQL"
+	}
+	problems = leetcode.ProblemsShell()
+	for _, problem := range problems.StatStatusPairs {
+		slug := problem.Stat.QuestionTitleSlug
+		langSet[slug] = "Bash"
+	}
+}
+
 // getLangBySlug handle the question that not support go
 func getLangBySlug(slug string) string {
-	langSet := map[string]string{
-		"tenth-line":    "Bash",
-		"big-countries": "MySQL",
-	}
 	if lang, ok := langSet[slug]; ok {
 		return lang
 	}
