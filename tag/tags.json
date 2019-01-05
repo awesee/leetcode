@@ -168,5 +168,15 @@
 		"Name": "Binary Indexed Tree",
 		"Slug": "binary-indexed-tree",
 		"TranslatedName": "树状数组"
+	},
+	{
+		"Name": "Map",
+		"Slug": "map",
+		"TranslatedName": ""
+	},
+	{
+		"Name": "Reservoir Sampling",
+		"Slug": "reservoir-sampling",
+		"TranslatedName": "蓄水池抽样"
 	}
 ]
