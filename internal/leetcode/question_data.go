@@ -170,7 +170,7 @@ func (question questionType) SaveCodeSnippet() {
 			filePutContents(file, buf.Bytes())
 			buf.Reset()
 			// match function name
-			reg := regexp.MustCompile(`func ([\w]+?)\(`)
+			reg := regexp.MustCompile(`func (\w+?)\(`)
 			matches := reg.FindStringSubmatch(code.Code)
 			funcName := "Func"
 			if len(matches) >= 2 {
