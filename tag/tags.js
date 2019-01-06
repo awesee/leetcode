@@ -1,10 +1,9 @@
 tags = new Array();
 document.querySelectorAll('#all-topic-tags>a').forEach(function (e) {
-    /tag\/(\S+?)\//.test(e.href);
     tags.push({
-        "Name": e.title,
-        "Slug": RegExp.$1,
-        "TranslatedName": e.innerText.replace(/\s/g, '')
+        "Name": e.title || e.firstElementChild.innerText.trim(),
+        "Slug": /tag\/(\S+?)\//.exec(e.href)[1],
+        "TranslatedName": e.innerText.trim().replace(/\n/g, '')
     });
 });
 newWindow = window.open('', 'frame_name');
