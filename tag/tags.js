@@ -1,6 +1,12 @@
 tags = new Array();
-$("#all-topic-tags>a").each(function () {
-    /tag\/(\S+?)\//.test(this.href);
-    tags.push({"Slug": RegExp.$1});
+document.querySelectorAll('#all-topic-tags>a').forEach(function (e) {
+    /tag\/(\S+?)\//.test(e.href);
+    tags.push({
+        "Name": e.title,
+        "Slug": RegExp.$1,
+        "TranslatedName": e.innerText.replace(/\s/g, '')
+    });
 });
-document.write(JSON.stringify(tags));
+newWindow = window.open('', 'frame_name');
+newWindow.document.write(JSON.stringify(tags));
+newWindow.document.close();
