@@ -17,8 +17,7 @@
 
 <ul>
 	<li>You choose a destination square <code>S</code> with number&nbsp;<code>x+1</code>, <code>x+2</code>, <code>x+3</code>, <code>x+4</code>, <code>x+5</code>, or <code>x+6</code>, provided this&nbsp;number is&nbsp;<code>&lt;=&nbsp;N*N</code>.
-
-<ul>
+	<ul>
 		<li>(This choice simulates the result of a standard 6-sided die roll: ie., there are always at most 6 destinations.)</li>
 	</ul>
 	</li>
