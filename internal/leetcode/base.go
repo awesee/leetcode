@@ -16,11 +16,12 @@ import (
 )
 
 var (
-	authInfo       = base.AuthInfo
-	checkErr       = base.CheckErr
-	LockStr        = " 🔒"
-	langSet        = make(map[string]string)
-	translationSet = make(map[int]string)
+	authInfo        = base.AuthInfo
+	checkErr        = base.CheckErr
+	filePutContents = base.FilePutContents
+	LockStr         = " 🔒"
+	langSet         = make(map[string]string)
+	translationSet  = make(map[int]string)
 )
 
 func graphQLRequest(filename string, days int, jsonStr string, v interface{}) {
@@ -40,12 +41,7 @@ func remember(filename string, days int, f func() []byte) []byte {
 			return fileGetContents(filename)
 		}
 	}
-	data := f()
-	var buf bytes.Buffer
-	err := json.Indent(&buf, data, "", "\t")
-	checkErr(err)
-	filePutContents(filename, buf.Bytes())
-	return data
+	return filePutContents(filename, f())
 }
 
 func getCsrfToken(cookies []*http.Cookie) string {
@@ -71,10 +67,6 @@ func Clean() {
 	dir := getCachePath("")
 	err := os.RemoveAll(dir)
 	checkErr(err)
-}
-
-func filePutContents(filename string, data []byte) {
-	base.FilePutContents(filename, data)
 }
 
 func fileGetContents(filename string) []byte {

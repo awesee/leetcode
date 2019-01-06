@@ -4,8 +4,11 @@ import (
 	"bytes"
 	"fmt"
 	"path"
+	"regexp"
 	"strconv"
 	"strings"
+
+	"github.com/openset/leetcode/internal/client"
 )
 
 func GetTags() (tags []tagType) {
@@ -30,7 +33,12 @@ func tagsUnique(tags []tagType) []tagType {
 			flag[tag.Slug] = top
 			top++
 		} else {
-			rs[i-1] = tag
+			if tag.Name != "" {
+				rs[i-1].Name = tag.Name
+			}
+			if tag.TranslatedName != "" {
+				rs[i-1].TranslatedName = tag.TranslatedName
+			}
 		}
 	}
 	return rs
@@ -128,4 +136,18 @@ func (tag tagType) ShowName() string {
 		return tag.TranslatedName
 	}
 	return tag.Name
+}
+
+func init() {
+	html := remember(problemsetAllFile, 7, func() []byte {
+		return client.Get(problemsetAllUrl)
+	})
+	var tags []tagType
+	reg := regexp.MustCompile(`href="/tag/(\S+?)/"`)
+	for _, matches := range reg.FindAllStringSubmatch(string(html), -1) {
+		if len(matches) >= 2 {
+			tags = append(tags, tagType{Slug: matches[1]})
+		}
+	}
+	SaveTags(tags)
 }
