@@ -7,4 +7,6 @@ document.querySelectorAll('#all-topic-tags>a').forEach(function (e) {
         "TranslatedName": e.innerText.replace(/\s/g, '')
     });
 });
-document.write(JSON.stringify(tags));
+newWindow = window.open('', 'frame_name');
+newWindow.document.write(JSON.stringify(tags));
+newWindow.document.close();
