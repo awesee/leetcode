@@ -39,11 +39,12 @@ func writeProblems(buf *bytes.Buffer) {
 	maxId := 0
 	for _, problem := range problems.StatStatusPairs {
 		id := problem.Stat.FrontendQuestionId
+		stat := problem.Stat
 		title := strings.TrimSpace(problem.Stat.QuestionTitle)
 		slug := problem.Stat.QuestionTitleSlug
 		levelName := problem.Difficulty.LevelName()
-		format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s)%s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s) | %s |\n"
-		problemsSet[id] = fmt.Sprintf(format, id, id, title, slug, problem.PaidOnly.Str(), getLangBySlug(slug), slug, levelName)
+		format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s \"%s\")%s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s) | %s |\n"
+		problemsSet[id] = fmt.Sprintf(format, id, id, title, slug, stat.TranslationTitle(), problem.PaidOnly.Str(), stat.Lang(), slug, levelName)
 		if id > maxId {
 			maxId = id
 		}
@@ -67,29 +68,6 @@ func writeProblems(buf *bytes.Buffer) {
 			buf.WriteString(row)
 		}
 	}
-}
-
-var langSet = make(map[string]string)
-
-func init() {
-	problems := leetcode.ProblemsDatabase()
-	for _, problem := range problems.StatStatusPairs {
-		slug := problem.Stat.QuestionTitleSlug
-		langSet[slug] = "MySQL"
-	}
-	problems = leetcode.ProblemsShell()
-	for _, problem := range problems.StatStatusPairs {
-		slug := problem.Stat.QuestionTitleSlug
-		langSet[slug] = "Bash"
-	}
-}
-
-// getLangBySlug handle the question that not support go
-func getLangBySlug(slug string) string {
-	if lang, ok := langSet[slug]; ok {
-		return lang
-	}
-	return "Go"
 }
 
 var (

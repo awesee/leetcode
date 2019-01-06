@@ -9,3 +9,11 @@ func ProblemsShell() (ps problemsType) {
 	jsonDecode(data, &ps)
 	return
 }
+
+func init() {
+	problems := ProblemsShell()
+	for _, problem := range problems.StatStatusPairs {
+		slug := problem.Stat.QuestionTitleSlug
+		langSet[slug] = "Bash"
+	}
+}

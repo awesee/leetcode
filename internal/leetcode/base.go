@@ -16,9 +16,11 @@ import (
 )
 
 var (
-	authInfo = base.AuthInfo
-	checkErr = base.CheckErr
-	LockStr  = " 🔒"
+	authInfo       = base.AuthInfo
+	checkErr       = base.CheckErr
+	LockStr        = " 🔒"
+	langSet        = make(map[string]string)
+	translationSet = make(map[int]string)
 )
 
 func graphQLRequest(filename, jsonStr string, v interface{}) {

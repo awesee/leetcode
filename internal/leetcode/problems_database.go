@@ -9,3 +9,11 @@ func ProblemsDatabase() (ps problemsType) {
 	jsonDecode(data, &ps)
 	return
 }
+
+func init() {
+	problems := ProblemsDatabase()
+	for _, problem := range problems.StatStatusPairs {
+		slug := problem.Stat.QuestionTitleSlug
+		langSet[slug] = "MySQL"
+	}
+}
