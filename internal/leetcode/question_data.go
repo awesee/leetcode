@@ -94,7 +94,7 @@ func (question questionType) getDescContent() []byte {
 	// remove style
 	reg := regexp.MustCompile(`<style[\S\s]+?</style>`)
 	content = reg.ReplaceAllString(content, "")
-	content = strings.Replace(content, "\n\n\t<ul>", "\n\t<ul>", -1)
+	content = strings.Replace(content, "\n\n\t", "\n\t", -1)
 	buf.WriteString(content)
 	buf.Write(question.getTopicTags())
 	buf.Write(question.getSimilarQuestion())
