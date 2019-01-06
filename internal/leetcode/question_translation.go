@@ -8,7 +8,7 @@ func GetQuestionTranslation() (qt questionTranslationType) {
 	    "variables": {},
 	    "query": "query getQuestionTranslation($lang: String) {\n  translations: allAppliedQuestionTranslations(lang: $lang) {\n    title\n    question {\n      questionId\n      __typename\n    }\n    __typename\n  }\n}\n"
 	}`
-	graphQLRequest(questionTranslationFile, jsonStr, &qt)
+	graphQLRequest(questionTranslationFile, 3, jsonStr, &qt)
 	return
 }
 
