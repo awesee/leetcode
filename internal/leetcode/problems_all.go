@@ -68,10 +68,7 @@ func (s statType) QuestionTitleSnake() string {
 }
 
 func (s statType) TranslationTitle() string {
-	if title, ok := translationSet[s.QuestionId]; ok {
-		return title
-	}
-	return ""
+	return translationSet[s.QuestionId]
 }
 
 func (s statType) Lang() string {
