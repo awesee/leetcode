@@ -52,10 +52,11 @@ func Usage() {
 	Exit()
 }
 
-func FilePutContents(filename string, data []byte) {
+func FilePutContents(filename string, data []byte) []byte {
 	filename = getFilePath(filename)
 	err := ioutil.WriteFile(filename, data, 0644)
 	CheckErr(err)
+	return data
 }
 
 func getFilePath(filename string) string {
