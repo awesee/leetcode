@@ -85,9 +85,9 @@
 		"TranslatedName": "堆"
 	},
 	{
-		"Name": "Divide and Conquer",
-		"Slug": "divide-and-conquer",
-		"TranslatedName": "分治算法"
+		"Name": "Graph",
+		"Slug": "graph",
+		"TranslatedName": "图"
 	},
 	{
 		"Name": "Sort",
@@ -100,24 +100,14 @@
 		"TranslatedName": "并查集"
 	},
 	{
-		"Name": "Queue",
-		"Slug": "queue",
-		"TranslatedName": "队列"
+		"Name": "Divide and Conquer",
+		"Slug": "divide-and-conquer",
+		"TranslatedName": "分治算法"
 	},
 	{
 		"Name": "Binary Search Tree",
 		"Slug": "binary-search-tree",
 		"TranslatedName": "二叉搜索树"
-	},
-	{
-		"Name": "Segment Tree",
-		"Slug": "segment-tree",
-		"TranslatedName": "线段树"
-	},
-	{
-		"Name": "Minimax",
-		"Slug": "minimax",
-		"TranslatedName": "极小化极大"
 	},
 	{
 		"Name": "Trie",
@@ -130,13 +120,48 @@
 		"TranslatedName": "递归"
 	},
 	{
+		"Name": "Queue",
+		"Slug": "queue",
+		"TranslatedName": "队列"
+	},
+	{
+		"Name": "Segment Tree",
+		"Slug": "segment-tree",
+		"TranslatedName": "线段树"
+	},
+	{
+		"Name": "Random",
+		"Slug": "random",
+		"TranslatedName": ""
+	},
+	{
+		"Name": "Binary Indexed Tree",
+		"Slug": "binary-indexed-tree",
+		"TranslatedName": "树状数组"
+	},
+	{
+		"Name": "Minimax",
+		"Slug": "minimax",
+		"TranslatedName": "极小化极大"
+	},
+	{
+		"Name": "Topological Sort",
+		"Slug": "topological-sort",
+		"TranslatedName": "拓扑排序"
+	},
+	{
 		"Name": "Brainteaser",
 		"Slug": "brainteaser",
 		"TranslatedName": "脑筋急转弯"
 	},
 	{
-		"Name": "Random",
-		"Slug": "random",
+		"Name": "Geometry",
+		"Slug": "geometry",
+		"TranslatedName": "几何"
+	},
+	{
+		"Name": "Map",
+		"Slug": "map",
 		"TranslatedName": ""
 	},
 	{
@@ -145,38 +170,13 @@
 		"TranslatedName": ""
 	},
 	{
-		"Name": "Geometry",
-		"Slug": "geometry",
-		"TranslatedName": "几何"
-	},
-	{
-		"Name": "Graph",
-		"Slug": "graph",
-		"TranslatedName": "图"
-	},
-	{
-		"Name": "Topological Sort",
-		"Slug": "topological-sort",
-		"TranslatedName": "拓扑排序"
+		"Name": "Reservoir Sampling",
+		"Slug": "reservoir-sampling",
+		"TranslatedName": "蓄水池抽样"
 	},
 	{
 		"Name": "Memoization",
 		"Slug": "memoization",
 		"TranslatedName": "记忆化"
-	},
-	{
-		"Name": "Binary Indexed Tree",
-		"Slug": "binary-indexed-tree",
-		"TranslatedName": "树状数组"
-	},
-	{
-		"Name": "Map",
-		"Slug": "map",
-		"TranslatedName": ""
-	},
-	{
-		"Name": "Reservoir Sampling",
-		"Slug": "reservoir-sampling",
-		"TranslatedName": "蓄水池抽样"
 	}
 ]
