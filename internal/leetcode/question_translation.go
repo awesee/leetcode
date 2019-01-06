@@ -1,5 +1,7 @@
 package leetcode
 
+import "strconv"
+
 func GetQuestionTranslation() (qt questionTranslationType) {
 	jsonStr := `{
 	    "operationName": "getQuestionTranslation",
@@ -28,4 +30,14 @@ type translationsType struct {
 type questionIdType struct {
 	QuestionId string `json:"questionId"`
 	TypeName   string `json:"__typename"`
+}
+
+func init() {
+	translation := GetQuestionTranslation()
+	for _, item := range translation.Data.Translations {
+		questionId := item.Question.QuestionId
+		if id, err := strconv.Atoi(questionId); err == nil {
+			translationSet[id] = item.Title
+		}
+	}
 }

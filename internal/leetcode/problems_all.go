@@ -67,6 +67,17 @@ func (s statType) QuestionTitleSnake() string {
 	return strings.Replace(s.QuestionTitleSlug, "-", "_", -1)
 }
 
+func (s statType) TranslationTitle() string {
+	return translationSet[s.QuestionId]
+}
+
+func (s statType) Lang() string {
+	if lang, ok := langSet[s.QuestionTitleSlug]; ok {
+		return lang
+	}
+	return "Go"
+}
+
 func (d difficultyType) LevelName() string {
 	m := map[int]string{
 		1: "Easy",
