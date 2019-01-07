@@ -2,7 +2,6 @@ package leetcode
 
 import (
 	"bytes"
-	"encoding/json"
 	"fmt"
 	"path"
 	"regexp"
@@ -117,9 +116,7 @@ func (question questionType) getTopicTags() []byte {
 
 func (question questionType) getSimilarQuestion() []byte {
 	var sq []similarQuestionType
-	if question.SimilarQuestions != "" {
-		json.Unmarshal([]byte(question.SimilarQuestions), &sq)
-	}
+	jsonDecode([]byte(question.SimilarQuestions), &sq)
 	var buf bytes.Buffer
 	if len(sq) > 0 {
 		buf.WriteString("\n### Similar Questions\n")

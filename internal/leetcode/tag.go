@@ -18,9 +18,13 @@ func GetTags() (tags []tagType) {
 	return
 }
 
-func SaveTags(tags []tagType) {
-	ts := tagsUnique(append(GetTags(), tags...))
-	filePutContents("tag/tags.json", jsonEncode(ts))
+func saveTags(tags []tagType, isBase bool) {
+	if isBase {
+		tags = append(tags, GetTags()...)
+	} else {
+		tags = append(GetTags(), tags...)
+	}
+	filePutContents("tag/tags.json", jsonEncode(tagsUnique(tags)))
 }
 
 func tagsUnique(tags []tagType) []tagType {
@@ -96,7 +100,7 @@ func (question ttQuestionType) TagsStr() string {
 	for _, tag := range question.TopicTags {
 		buf.WriteString(fmt.Sprintf(format, tag.ShowName(), tag.Slug))
 	}
-	SaveTags(question.TopicTags)
+	saveTags(question.TopicTags, false)
 	return string(buf.Bytes())
 }
 
@@ -149,5 +153,5 @@ func init() {
 			tags = append(tags, tagType{Slug: matches[1]})
 		}
 	}
-	SaveTags(tags)
+	saveTags(tags, true)
 }
