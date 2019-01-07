@@ -49,5 +49,5 @@
 
 
 ### Related Topics
-[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

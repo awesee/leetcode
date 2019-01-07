@@ -39,4 +39,4 @@ So the maximum value of F(0), F(1), F(2), F(3) is F(3) = 26.
 </p>
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

@@ -48,7 +48,7 @@
 </p>
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Similar Questions
   1. [Solve the Equation](https://github.com/openset/leetcode/tree/master/problems/solve-the-equation) (Medium)

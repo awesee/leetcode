@@ -53,4 +53,4 @@ If <code><em>version1</em> &gt; <em>version2</em></code> return <code>1;</code>&
 </ol>
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

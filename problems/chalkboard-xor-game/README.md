@@ -35,4 +35,4 @@ If Alice erases 2 first, now nums becomes [1, 1]. The bitwise XOR of all the ele
 
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

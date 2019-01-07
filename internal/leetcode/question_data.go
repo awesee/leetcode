@@ -107,7 +107,7 @@ func (question questionType) getTopicTags() []byte {
 	if len(tags) > 0 {
 		buf.WriteString("\n\n### Related Topics\n")
 	}
-	format := "[[%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md)]\n"
+	format := "  [[%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md)]\n"
 	for _, tag := range tags {
 		buf.WriteString(fmt.Sprintf(format, tag.Name, tag.Slug))
 	}

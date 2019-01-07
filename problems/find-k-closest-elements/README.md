@@ -43,7 +43,7 @@ The <i>arr</i> parameter had been changed to an <b>array of integers</b> (instea
 </p>
 
 ### Related Topics
-[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
   1. [Guess Number Higher or Lower](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower) (Easy)

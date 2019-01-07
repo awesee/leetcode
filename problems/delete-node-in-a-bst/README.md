@@ -50,7 +50,7 @@ Another valid answer is [5,2,6,null,4,null,7].
 </p>
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
   1. [Split BST](https://github.com/openset/leetcode/tree/master/problems/split-bst) (Medium)

@@ -59,4 +59,4 @@ Since all the cards revealed are in increasing order, the answer is correct.
 
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

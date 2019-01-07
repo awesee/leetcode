@@ -33,7 +33,7 @@ Length of the array will not exceed 10,000.
 </p>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Similar Questions
   1. [Number of Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/number-of-longest-increasing-subsequence) (Medium)

@@ -38,4 +38,4 @@ After shifting the first 3 letters of S by 9, we have &quot;rpl&quot;, the answe
 
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

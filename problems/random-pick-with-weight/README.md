@@ -42,8 +42,8 @@
 
 
 ### Related Topics
-[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-[[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
 
 ### Similar Questions
   1. [Random Pick Index](https://github.com/openset/leetcode/tree/master/problems/random-pick-index) (Medium)

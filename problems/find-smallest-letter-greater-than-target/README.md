@@ -56,7 +56,7 @@ target = "k"
 </p>
 
 ### Related Topics
-[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### Hints
   1. Try to find whether each of 26 next letters are in the given string array.

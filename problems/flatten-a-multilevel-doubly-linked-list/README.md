@@ -45,8 +45,8 @@
 
 
 ### Related Topics
-[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
   1. [Flatten Binary Tree to Linked List](https://github.com/openset/leetcode/tree/master/problems/flatten-binary-tree-to-linked-list) (Medium)

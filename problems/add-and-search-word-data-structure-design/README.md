@@ -33,9 +33,9 @@ You may assume that all words are consist of lowercase letters <code>a-z</code>.
 
 
 ### Related Topics
-[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-[[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-[[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
   1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree) (Medium)

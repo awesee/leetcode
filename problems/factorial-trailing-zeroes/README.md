@@ -27,7 +27,7 @@
 
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Similar Questions
   1. [Number of Digit One](https://github.com/openset/leetcode/tree/master/problems/number-of-digit-one) (Hard)

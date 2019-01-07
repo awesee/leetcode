@@ -44,4 +44,4 @@ When we erase the brick at (1, 0), the brick at (1, 1) has already disappeared d
 
 
 ### Related Topics
-[[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]

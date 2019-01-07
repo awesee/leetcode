@@ -37,7 +37,7 @@ Return 3. The paths that sum to 8 are:
 </p>
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
   1. [Path Sum](https://github.com/openset/leetcode/tree/master/problems/path-sum) (Easy)

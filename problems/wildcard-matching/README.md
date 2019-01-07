@@ -74,10 +74,10 @@ p = &quot;a*c?b&quot;
 
 
 ### Related Topics
-[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-[[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
   1. [Regular Expression Matching](https://github.com/openset/leetcode/tree/master/problems/regular-expression-matching) (Hard)

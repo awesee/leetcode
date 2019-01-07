@@ -25,7 +25,7 @@
 
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Similar Questions
   1. [Majority Element](https://github.com/openset/leetcode/tree/master/problems/majority-element) (Easy)

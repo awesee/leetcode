@@ -53,7 +53,7 @@ But the second continuation byte does not start with 10, so it is invalid.
 </p>
 
 ### Related Topics
-[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 
 ### Hints
   1. All you have to do is follow the rules. For a given integer, obtain its binary representation in the string form and work with the rules given in the problem.

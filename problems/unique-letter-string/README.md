@@ -46,4 +46,4 @@ Sum of lengths of all substring is 1 + 1 + 1 + 2 + 2 + 3 = 10</pre>
 
 
 ### Related Topics
-[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

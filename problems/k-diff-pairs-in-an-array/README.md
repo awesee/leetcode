@@ -45,8 +45,8 @@ Given an array of integers and an integer <b>k</b>, you need to find the number 
 </p>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### Similar Questions
   1. [Minimum Absolute Difference in BST](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference-in-bst) (Easy)

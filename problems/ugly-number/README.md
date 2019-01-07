@@ -42,7 +42,7 @@
 </ol>
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Similar Questions
   1. [Happy Number](https://github.com/openset/leetcode/tree/master/problems/happy-number) (Easy)

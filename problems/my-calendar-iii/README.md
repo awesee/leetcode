@@ -47,8 +47,8 @@ eg. [10, 20), [10, 40), and [5, 15) are still triple booked.
 
 
 ### Related Topics
-[[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-[[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
 
 ### Similar Questions
   1. [My Calendar I](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i) (Medium)

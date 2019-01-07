@@ -25,7 +25,7 @@
 
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Similar Questions
   1. [Rectangle Overlap](https://github.com/openset/leetcode/tree/master/problems/rectangle-overlap) (Easy)

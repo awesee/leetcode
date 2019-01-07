@@ -30,8 +30,8 @@ sumRange(0, 2) -&gt; 8
 
 
 ### Related Topics
-[[Binary Indexed Tree](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
-[[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[Binary Indexed Tree](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
+  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
 
 ### Similar Questions
   1. [Range Sum Query - Immutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-immutable) (Easy)

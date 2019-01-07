@@ -50,4 +50,4 @@ and two 2s from [2,2,2,2] in 6 ways.
 </ol>
 
 ### Related Topics
-[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

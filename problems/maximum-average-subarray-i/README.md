@@ -27,7 +27,7 @@ Given an array consisting of <code>n</code> integers, find the contiguous subarr
 </p>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Similar Questions
   1. [Maximum Average Subarray II](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-ii) (Hard)

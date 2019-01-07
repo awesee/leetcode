@@ -38,7 +38,7 @@ Explanation: The array cannot be partitioned into equal sum subsets.
 </p>
 
 ### Related Topics
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Partition to K Equal Sum Subsets](https://github.com/openset/leetcode/tree/master/problems/partition-to-k-equal-sum-subsets) (Medium)

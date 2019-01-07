@@ -41,5 +41,5 @@ linkedList.get(1);&nbsp;&nbsp;&nbsp;         // returns 3
 
 
 ### Related Topics
-[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]

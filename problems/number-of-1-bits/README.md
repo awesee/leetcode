@@ -51,7 +51,7 @@
 
 
 ### Related Topics
-[[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 
 ### Similar Questions
   1. [Reverse Bits](https://github.com/openset/leetcode/tree/master/problems/reverse-bits) (Easy)

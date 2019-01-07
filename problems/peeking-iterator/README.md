@@ -24,7 +24,7 @@ Calling <strong><code>hasNext()</code></strong> after that should return <strong
 
 
 ### Related Topics
-[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
 
 ### Similar Questions
   1. [Binary Search Tree Iterator](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator) (Medium)

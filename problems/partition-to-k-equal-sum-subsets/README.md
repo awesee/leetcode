@@ -30,8 +30,8 @@
 
 
 ### Related Topics
-[[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Partition Equal Subset Sum](https://github.com/openset/leetcode/tree/master/problems/partition-equal-subset-sum) (Medium)

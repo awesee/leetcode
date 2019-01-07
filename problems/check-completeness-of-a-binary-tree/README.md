@@ -45,4 +45,4 @@ In a complete binary tree every level, except possibly the last, is completely f
 </ol>
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

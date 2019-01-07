@@ -60,4 +60,4 @@ It can be shown that you need at least 4 moves to reach the N*N-th square, so th
 </ol>
 
 ### Related Topics
-[[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]

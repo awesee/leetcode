@@ -39,7 +39,7 @@
 
 
 ### Related Topics
-[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
   1. [Search in a Sorted Array of Unknown Size](https://github.com/openset/leetcode/tree/master/problems/search-in-a-sorted-array-of-unknown-size) (Medium)

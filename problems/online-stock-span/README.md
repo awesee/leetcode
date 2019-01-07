@@ -49,4 +49,4 @@ Note that (for example) S.next(75) returned 4, because the last 4 prices
 
 
 ### Related Topics
-[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

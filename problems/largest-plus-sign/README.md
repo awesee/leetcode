@@ -70,7 +70,7 @@ There is no plus sign, so return 0.
 </ol></p>
 
 ### Related Topics
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Maximal Square](https://github.com/openset/leetcode/tree/master/problems/maximal-square) (Medium)

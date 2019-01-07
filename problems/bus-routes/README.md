@@ -32,4 +32,4 @@ The best strategy is take the first bus to the bus stop 7, then take the second 
 
 
 ### Related Topics
-[[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]

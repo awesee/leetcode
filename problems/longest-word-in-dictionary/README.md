@@ -36,8 +36,8 @@ Both "apply" and "apple" can be built from other words in the dictionary. Howeve
 </p>
 
 ### Related Topics
-[[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Longest Word in Dictionary through Deleting](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary-through-deleting) (Medium)

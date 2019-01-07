@@ -24,7 +24,7 @@ What if there are lots of merges and the number of disjoint intervals are small 
 
 
 ### Related Topics
-[[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
 
 ### Similar Questions
   1. [Summary Ranges](https://github.com/openset/leetcode/tree/master/problems/summary-ranges) (Medium)
