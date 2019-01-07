@@ -25,19 +25,21 @@ func init() {
 }
 
 func Get(url string) []byte {
-	resp, err := http.Get(url)
-	base.CheckErr(err)
-	defer resp.Body.Close()
-	body, err := ioutil.ReadAll(resp.Body)
-	base.CheckErr(err)
-	return body
+	if resp, err := http.Get(url); err == nil {
+		defer resp.Body.Close()
+		body, err := ioutil.ReadAll(resp.Body)
+		base.CheckErr(err)
+		return body
+	}
+	return nil
 }
 
 func PostJson(url, jsonStr string) []byte {
-	resp, err := http.Post(url, "application/json", strings.NewReader(jsonStr))
-	base.CheckErr(err)
-	defer resp.Body.Close()
-	body, err := ioutil.ReadAll(resp.Body)
-	base.CheckErr(err)
-	return body
+	if resp, err := http.Post(url, "application/json", strings.NewReader(jsonStr)); err == nil {
+		defer resp.Body.Close()
+		body, err := ioutil.ReadAll(resp.Body)
+		base.CheckErr(err)
+		return body
+	}
+	return nil
 }
