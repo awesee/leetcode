@@ -28,6 +28,7 @@ func runTag(cmd *base.Command, args []string) {
 	buf.WriteString("| :-: | - | :-: | - | :-: | - | :-: |\n")
 	format := "| %d | [%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md) | [%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md) | "
 	n := buf.Len()
+	leetcode.InitTags()
 	for times := 0; times < 2; times++ {
 		buf.Truncate(n)
 		tags := leetcode.GetTags()

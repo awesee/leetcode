@@ -11,6 +11,20 @@ import (
 	"github.com/openset/leetcode/internal/client"
 )
 
+func InitTags() {
+	html := remember(problemsetAllFile, 7, func() []byte {
+		return client.Get(problemsetAllUrl)
+	})
+	var tags []tagType
+	reg := regexp.MustCompile(`href="/tag/(\S+?)/"`)
+	for _, matches := range reg.FindAllStringSubmatch(string(html), -1) {
+		if len(matches) >= 2 {
+			tags = append(tags, tagType{Slug: matches[1]})
+		}
+	}
+	saveTags(tags, true)
+}
+
 func GetTags() (tags []tagType) {
 	cts := fileGetContents("tag/tags.json")
 	jsonDecode(cts, &tags)
@@ -140,18 +154,4 @@ func (tag tagType) ShowName() string {
 		return tag.TranslatedName
 	}
 	return tag.Name
-}
-
-func init() {
-	html := remember(problemsetAllFile, 7, func() []byte {
-		return client.Get(problemsetAllUrl)
-	})
-	var tags []tagType
-	reg := regexp.MustCompile(`href="/tag/(\S+?)/"`)
-	for _, matches := range reg.FindAllStringSubmatch(string(html), -1) {
-		if len(matches) >= 2 {
-			tags = append(tags, tagType{Slug: matches[1]})
-		}
-	}
-	saveTags(tags, true)
 }
