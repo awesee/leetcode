@@ -25,6 +25,6 @@
 </ol>
 
 ### Related Topics
-[[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
-[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

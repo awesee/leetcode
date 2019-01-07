@@ -33,7 +33,7 @@
 </pre>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Similar Questions
   1. [Spiral Matrix II](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-ii) (Medium)

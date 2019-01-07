@@ -34,8 +34,8 @@ This is the lexicographically largest string possible after some number of swaps
 </ol></p>
 
 ### Related Topics
-[[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Valid Parenthesis String](https://github.com/openset/leetcode/tree/master/problems/valid-parenthesis-string) (Medium)

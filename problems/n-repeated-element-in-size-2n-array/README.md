@@ -55,4 +55,4 @@
 
 
 ### Related Topics
-[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

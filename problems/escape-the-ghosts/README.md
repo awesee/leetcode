@@ -54,4 +54,4 @@ The ghost can reach the target at the same time as you.
 
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

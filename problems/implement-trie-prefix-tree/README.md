@@ -31,8 +31,8 @@ trie.search(&quot;app&quot;);     // returns true
 
 
 ### Related Topics
-[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-[[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
 
 ### Similar Questions
   1. [Add and Search Word - Data structure design](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design) (Medium)

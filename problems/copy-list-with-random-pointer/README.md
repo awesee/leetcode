@@ -16,8 +16,8 @@ Return a deep copy of the list.
 </p>
 
 ### Related Topics
-[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
   1. [Clone Graph](https://github.com/openset/leetcode/tree/master/problems/clone-graph) (Medium)

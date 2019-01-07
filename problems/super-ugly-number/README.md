@@ -30,8 +30,8 @@
 
 
 ### Related Topics
-[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Similar Questions
   1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii) (Medium)

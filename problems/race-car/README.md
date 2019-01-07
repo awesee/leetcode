@@ -49,5 +49,5 @@ Your position goes from 0-&gt;1-&gt;3-&gt;7-&gt;7-&gt;6.
 
 
 ### Related Topics
-[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

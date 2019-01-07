@@ -25,4 +25,4 @@ Given 1-&gt;2-&gt;3-&gt;4-&gt;5, reorder it to 1-&gt;5-&gt;2-&gt;4-&gt;3.
 
 
 ### Related Topics
-[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]

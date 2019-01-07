@@ -69,7 +69,7 @@ You may assume there is no extra space or special characters in the input string
 </p>
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [IP to CIDR](https://github.com/openset/leetcode/tree/master/problems/ip-to-cidr) (Easy)

@@ -38,7 +38,7 @@
 </pre>
 
 ### Related Topics
-[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
 
 ### Similar Questions
   1. [Kth Smallest Element in a Sorted Matrix](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)

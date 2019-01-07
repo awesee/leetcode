@@ -35,7 +35,7 @@ Assume we are dealing with an environment which could only store integers within
 
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Similar Questions
   1. [String to Integer (atoi)](https://github.com/openset/leetcode/tree/master/problems/string-to-integer-atoi) (Medium)

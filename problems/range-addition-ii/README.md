@@ -46,7 +46,7 @@ So the maximum integer in M is 2, and there are four of it in M. So return 4.
 </p>
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Similar Questions
   1. [Range Addition](https://github.com/openset/leetcode/tree/master/problems/range-addition) (Medium)

@@ -36,4 +36,4 @@ That partition would lead to a score of 5 + 2 + 6 = 13, which is worse.
 
 
 ### Related Topics
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

@@ -75,8 +75,8 @@ The reason why cdata is NOT <b>"&lt;![CDATA[&lt;div>]>]]>]]>"</b> is because of 
 </p>
 
 ### Related Topics
-[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Add Bold Tag in String](https://github.com/openset/leetcode/tree/master/problems/add-bold-tag-in-string) (Medium)

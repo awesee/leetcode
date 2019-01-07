@@ -32,4 +32,4 @@ The five points are show in the figure below. The red triangle is the largest.
 
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

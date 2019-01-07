@@ -39,9 +39,9 @@ If there are lots of incoming S, say S1, S2, ... , Sk where k >= 1B, and you wan
 <p><b>Credits:</b><br />Special thanks to <a href="https://leetcode.com/pbrother/">@pbrother</a> for adding this problem and creating all test cases.</p>
 
 ### Related Topics
-[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Number of Matching Subsequences](https://github.com/openset/leetcode/tree/master/problems/number-of-matching-subsequences) (Medium)

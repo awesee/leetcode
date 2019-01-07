@@ -33,7 +33,7 @@ WordFilter.f("b", "") // returns -1
 </p>
 
 ### Related Topics
-[[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
 
 ### Similar Questions
   1. [Add and Search Word - Data structure design](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design) (Medium)

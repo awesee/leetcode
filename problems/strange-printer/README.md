@@ -40,8 +40,8 @@ Given a string consists of lower English letters only, your job is to count the 
 <p><b>Hint</b>: Length of the given string will not exceed 100.</p>
 
 ### Related Topics
-[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-[[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Remove Boxes](https://github.com/openset/leetcode/tree/master/problems/remove-boxes) (Hard)

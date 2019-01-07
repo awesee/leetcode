@@ -26,7 +26,7 @@
 
 
 ### Related Topics
-[[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
   1. [Binary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-postorder-traversal) (Hard)

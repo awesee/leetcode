@@ -50,5 +50,5 @@ In the second move, we move the 3rd character (&quot;c&quot;) to the end, obtain
 
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

@@ -25,7 +25,7 @@
 
 
 ### Related Topics
-[[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
   1. [Remove Duplicates from Sorted List II](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list-ii) (Medium)

@@ -45,9 +45,9 @@
 
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-[[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
-[[Rejection Sampling](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
+  [[Rejection Sampling](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling/README.md)]
 
 ### Similar Questions
   1. [Random Point in Non-overlapping Rectangles](https://github.com/openset/leetcode/tree/master/problems/random-point-in-non-overlapping-rectangles) (Medium)

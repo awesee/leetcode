@@ -34,7 +34,7 @@ The input will be a list of strings, and the output needs to be the length of th
 </p>
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Longest Uncommon Subsequence I ](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-i) (Easy)

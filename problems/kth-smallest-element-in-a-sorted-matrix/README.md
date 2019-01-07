@@ -30,8 +30,8 @@ return 13.
 You may assume k is always valid, 1 &le; k &le; n<sup>2</sup>.</p>
 
 ### Related Topics
-[[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
   1. [Find K Pairs with Smallest Sums](https://github.com/openset/leetcode/tree/master/problems/find-k-pairs-with-smallest-sums) (Medium)

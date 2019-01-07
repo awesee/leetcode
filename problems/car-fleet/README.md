@@ -49,4 +49,4 @@ Note that no other cars meet these fleets before the destination, so the answer 
 
 
 ### Related Topics
-[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

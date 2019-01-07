@@ -30,8 +30,8 @@
 You may assume that all inputs are consist of lowercase letters <code>a-z</code>.</p>
 
 ### Related Topics
-[[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-[[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions
   1. [Word Search](https://github.com/openset/leetcode/tree/master/problems/word-search) (Medium)

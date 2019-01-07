@@ -38,5 +38,5 @@ You need to return a string representing their multiplication. Note i<sup>2</sup
 </p>
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

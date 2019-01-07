@@ -60,4 +60,4 @@ Therefore, you can&#39;t travel around the circuit once no matter where you star
 
 
 ### Related Topics
-[[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

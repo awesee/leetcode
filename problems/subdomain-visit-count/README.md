@@ -47,4 +47,4 @@ We will visit &quot;google.mail.com&quot; 900 times, &quot;yahoo.com&quot; 50 ti
 
 
 ### Related Topics
-[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

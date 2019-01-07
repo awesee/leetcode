@@ -36,7 +36,7 @@ The shortest length is 2. So return 2.
 </p>
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Similar Questions
   1. [Maximum Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray) (Easy)

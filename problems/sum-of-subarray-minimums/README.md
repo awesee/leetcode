@@ -36,5 +36,5 @@ Minimums are 3, 1, 2, 4, 1, 1, 2, 1, 1, 1.&nbsp; Sum is 17.</pre>
 
 
 ### Related Topics
-[[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

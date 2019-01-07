@@ -43,8 +43,8 @@ hashSet.contains(2); &nbsp;&nbsp;&nbsp;// returns false (already removed)
 
 
 ### Related Topics
-[[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-[[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Design HashMap](https://github.com/openset/leetcode/tree/master/problems/design-hashmap) (Easy)

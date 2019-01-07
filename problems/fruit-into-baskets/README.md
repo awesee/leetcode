@@ -76,4 +76,4 @@ If we started at the first tree, we would only collect [0, 1].</span>
 
 
 ### Related Topics
-[[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

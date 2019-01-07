@@ -46,7 +46,7 @@ Given a string containing only three types of characters: '(', ')' and '*', writ
 </p>
 
 ### Related Topics
-[[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Similar Questions
   1. [Special Binary String](https://github.com/openset/leetcode/tree/master/problems/special-binary-string) (Hard)

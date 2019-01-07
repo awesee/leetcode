@@ -29,7 +29,7 @@ Given a non-negative integer <code>c</code>, your task is to decide whether ther
 
 
 ### Related Topics
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Similar Questions
   1. [Valid Perfect Square](https://github.com/openset/leetcode/tree/master/problems/valid-perfect-square) (Easy)

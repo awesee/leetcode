@@ -33,6 +33,6 @@ The median is (2 + 3)/2 = 2.5
 
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-[[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]

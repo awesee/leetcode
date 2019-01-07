@@ -53,7 +53,7 @@
 
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Similar Questions
   1. [Game of Life](https://github.com/openset/leetcode/tree/master/problems/game-of-life) (Medium)

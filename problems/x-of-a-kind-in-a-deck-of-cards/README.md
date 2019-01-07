@@ -86,5 +86,5 @@
 
 
 ### Related Topics
-[[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-[[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

@@ -115,6 +115,6 @@ The 2x2 grid is as follows:
 </div>
 
 ### Related Topics
-[[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-[[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-[[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]

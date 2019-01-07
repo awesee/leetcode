@@ -38,7 +38,7 @@
 
 
 ### Related Topics
-[[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
 
 ### Similar Questions
   1. [Contains Duplicate](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate) (Easy)

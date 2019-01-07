@@ -31,7 +31,7 @@
 
 
 ### Related Topics
-[[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
   1. [Factorial Trailing Zeroes](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes) (Easy)
