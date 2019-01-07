@@ -53,6 +53,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="972">972</span> | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers "相等的有理数") | [Go](https://github.com/openset/leetcode/tree/master/problems/equal-rational-numbers) | Hard |
+| <span id="971">971</span> | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal "翻转二叉树以匹配先序遍历") | [Go](https://github.com/openset/leetcode/tree/master/problems/flip-binary-tree-to-match-preorder-traversal) | Medium |
+| <span id="970">970</span> | [Powerful Integers](https://leetcode.com/problems/powerful-integers "强整数") | [Go](https://github.com/openset/leetcode/tree/master/problems/powerful-integers) | Easy |
+| <span id="969">969</span> | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting "煎饼排序") | [Go](https://github.com/openset/leetcode/tree/master/problems/pancake-sorting) | Medium |
 | <span id="968">968</span> | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras "监控二叉树") | [Go](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras) | Hard |
 | <span id="967">967</span> | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences "连续差相同的数字") | [Go](https://github.com/openset/leetcode/tree/master/problems/numbers-with-same-consecutive-differences) | Medium |
 | <span id="966">966</span> | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker "元音拼写检查器") | [Go](https://github.com/openset/leetcode/tree/master/problems/vowel-spellchecker) | Medium |
