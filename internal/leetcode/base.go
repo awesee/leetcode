@@ -70,9 +70,10 @@ func Clean() {
 }
 
 func fileGetContents(filename string) []byte {
-	data, err := ioutil.ReadFile(filename)
-	checkErr(err)
-	return data
+	if cts, err := ioutil.ReadFile(filename); err == nil {
+		return cts
+	}
+	return nil
 }
 
 func jsonEncode(v interface{}) []byte {
@@ -85,8 +86,10 @@ func jsonEncode(v interface{}) []byte {
 }
 
 func jsonDecode(data []byte, v interface{}) {
-	err := json.Unmarshal(data, v)
-	checkErr(err)
+	if len(data) > 0 {
+		err := json.Unmarshal(data, v)
+		checkErr(err)
+	}
 }
 
 func saveCookies(cookies []*http.Cookie) {
@@ -94,8 +97,8 @@ func saveCookies(cookies []*http.Cookie) {
 }
 
 func getCookies() (cookies []*http.Cookie) {
-	data := fileGetContents(getCachePath(cookiesFile))
-	jsonDecode(data, &cookies)
+	cts := fileGetContents(getCachePath(cookiesFile))
+	jsonDecode(cts, &cookies)
 	return
 }
 
@@ -104,7 +107,7 @@ func saveCredential(data url.Values) {
 }
 
 func getCredential() (data url.Values) {
-	body := fileGetContents(getCachePath(credentialsFile))
-	jsonDecode(body, &data)
+	cts := fileGetContents(getCachePath(credentialsFile))
+	jsonDecode(cts, &data)
 	return
 }

@@ -12,8 +12,8 @@ import (
 )
 
 func GetTags() (tags []tagType) {
-	data := fileGetContents("tag/tags.json")
-	jsonDecode(data, &tags)
+	cts := fileGetContents("tag/tags.json")
+	jsonDecode(cts, &tags)
 	tags = tagsUnique(tags)
 	return
 }
