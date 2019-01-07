@@ -1,6 +1,7 @@
 package leetcode
 
 import (
+	"fmt"
 	"strings"
 
 	"github.com/openset/leetcode/internal/client"
@@ -68,7 +69,11 @@ func (s statType) QuestionTitleSnake() string {
 }
 
 func (s statType) TranslationTitle() string {
-	return translationSet[s.QuestionId]
+	title := translationSet[s.QuestionId]
+	if title != "" {
+		title = fmt.Sprintf(` "%s"`, title)
+	}
+	return title
 }
 
 func (s statType) Lang() string {
