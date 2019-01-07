@@ -15,11 +15,11 @@ func TestTree2str(t *testing.T) {
 	tests := [...]caseType{
 		{
 			input:    []int{1, 2, 3, 4},
-			expected: "",
+			expected: "1(2(4))(3)",
 		},
 		{
 			input:    []int{1, 2, 3, NULL, 4},
-			expected: "",
+			expected: "1(2()(4))(3)",
 		},
 	}
 	for _, tc := range tests {

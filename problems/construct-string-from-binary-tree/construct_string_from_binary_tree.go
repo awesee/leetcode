@@ -1,6 +1,10 @@
 package construct_string_from_binary_tree
 
-import . "github.com/openset/leetcode/internal/kit"
+import (
+	"strconv"
+
+	. "github.com/openset/leetcode/internal/kit"
+)
 
 /**
  * Definition for a binary tree node.
@@ -11,5 +15,17 @@ import . "github.com/openset/leetcode/internal/kit"
  * }
  */
 func tree2str(t *TreeNode) string {
-	return ""
+	ans := ""
+	if t != nil {
+		ans += strconv.Itoa(t.Val)
+		if t.Left != nil {
+			ans += "(" + tree2str(t.Left) + ")"
+		} else if t.Right != nil {
+			ans += "()"
+		}
+		if t.Right != nil {
+			ans += "(" + tree2str(t.Right) + ")"
+		}
+	}
+	return ans
 }
