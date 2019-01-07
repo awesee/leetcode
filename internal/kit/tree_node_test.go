@@ -19,7 +19,7 @@ func TestTreeNode(t *testing.T) {
 			expected: []int{1, 2, 3, NULL, 5},
 		},
 		{
-			input:    []int{1, 2, 3, NULL, 5, NULL, NULL},
+			input:    []int{1, 2, 3, NULL, 5, NULL, NULL, NULL},
 			expected: []int{1, 2, 3, NULL, 5},
 		},
 		{
