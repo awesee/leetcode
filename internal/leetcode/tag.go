@@ -11,18 +11,18 @@ import (
 	"github.com/openset/leetcode/internal/client"
 )
 
-func InitTags() {
+var initTags []tagType
+
+func init() {
 	html := remember(problemsetAllFile, 7, func() []byte {
 		return client.Get(problemsetAllUrl)
 	})
-	var tags []tagType
 	reg := regexp.MustCompile(`href="/tag/(\S+?)/"`)
 	for _, matches := range reg.FindAllStringSubmatch(string(html), -1) {
 		if len(matches) >= 2 {
-			tags = append(tags, tagType{Slug: matches[1]})
+			initTags = append(initTags, tagType{Slug: matches[1]})
 		}
 	}
-	saveTags(tags, true)
 }
 
 func GetTags() (tags []tagType) {
@@ -32,17 +32,14 @@ func GetTags() (tags []tagType) {
 	return
 }
 
-func saveTags(tags []tagType, isBase bool) {
-	if isBase {
-		tags = append(tags, GetTags()...)
-	} else {
-		tags = append(GetTags(), tags...)
-	}
+func saveTags(tags []tagType) {
+	tags = append(GetTags(), tags...)
 	filePutContents("tag/tags.json", jsonEncode(tagsUnique(tags)))
 }
 
 func tagsUnique(tags []tagType) []tagType {
 	rs, top := make([]tagType, 0, len(tags)), 1
+	tags = append(initTags, tags...)
 	var flag = make(map[string]int)
 	for _, tag := range tags {
 		i := flag[tag.Slug]
@@ -114,7 +111,7 @@ func (question ttQuestionType) TagsStr() string {
 	for _, tag := range question.TopicTags {
 		buf.WriteString(fmt.Sprintf(format, tag.ShowName(), tag.Slug))
 	}
-	saveTags(question.TopicTags, false)
+	saveTags(question.TopicTags)
 	return string(buf.Bytes())
 }
 
