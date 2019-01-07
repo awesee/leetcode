@@ -53,9 +53,11 @@ func Usage() {
 }
 
 func FilePutContents(filename string, data []byte) []byte {
-	filename = getFilePath(filename)
-	err := ioutil.WriteFile(filename, data, 0644)
-	CheckErr(err)
+	if len(data) > 0 {
+		filename = getFilePath(filename)
+		err := ioutil.WriteFile(filename, data, 0644)
+		CheckErr(err)
+	}
 	return data
 }
 
