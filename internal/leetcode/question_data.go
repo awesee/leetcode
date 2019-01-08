@@ -157,33 +157,63 @@ func (question questionType) PackageName() string {
 }
 
 func (question questionType) SaveCodeSnippet() {
+	langSupport := [...]struct {
+		slug   string
+		handle func(questionType, codeSnippetsType)
+	}{
+		{"golang", handleCodeGolang},
+		{"python3", handleCodePython},
+		{"python", handleCodePython},
+		{"bash", handleCodeBash},
+		{"mysql", handleCodeSQL},
+		{"mssql", handleCodeSQL},
+		{"oraclesql", handleCodeSQL},
+	}
+	codeSet := make(map[string]codeSnippetsType)
 	for _, code := range question.CodeSnippets {
-		if code.LangSlug == "golang" {
-			filePath := question.getFilePath(question.TitleSnake() + ".go")
-			var buf bytes.Buffer
-			buf.WriteString(fmt.Sprintf("package %s\n\n", question.PackageName()))
-			buf.WriteString(code.Code)
-			buf.WriteString("\n")
-			filePutContents(filePath, buf.Bytes())
-			buf.Reset()
-			// match function name
-			reg := regexp.MustCompile(`func (\w+?)\(`)
-			matches := reg.FindStringSubmatch(code.Code)
-			funcName := "Func"
-			if len(matches) >= 2 {
-				funcName = matches[1]
-			}
-			fileTest := question.getFilePath(question.TitleSnake() + "_test.go")
-			buf.WriteString(strings.NewReplacer(
-				"{{packageName}}", question.PackageName(),
-				"{{funcName}}", strings.Title(funcName),
-			).Replace(testTpl))
-			filePutContents(fileTest, buf.Bytes())
-		} else if len(question.CodeSnippets) == 1 {
-			filePath := question.getFilePath(question.TitleSnake() + "." + code.LangSlug)
-			filePutContents(filePath, []byte(code.Code))
+		codeSet[code.LangSlug] = code
+	}
+	for _, lang := range langSupport {
+		if code, ok := codeSet[lang.slug]; ok {
+			lang.handle(question, code)
+			break
 		}
 	}
+}
+
+func (question questionType) saveCodeContent(content, ext string) {
+	filePath := question.getFilePath(question.TitleSnake() + ext)
+	filePutContents(filePath, []byte(content))
+}
+
+func handleCodeGolang(question questionType, code codeSnippetsType) {
+	content := fmt.Sprintf("package %s\n\n", question.PackageName())
+	content += code.Code + "\n"
+	question.saveCodeContent(content, ".go")
+	// match function name
+	reg := regexp.MustCompile(`func (\w+?)\(`)
+	matches := reg.FindStringSubmatch(code.Code)
+	funcName := "Func"
+	if len(matches) >= 2 {
+		funcName = matches[1]
+	}
+	content = strings.NewReplacer(
+		"{{packageName}}", question.PackageName(),
+		"{{funcName}}", strings.Title(funcName),
+	).Replace(testTpl)
+	question.saveCodeContent(content, "_test.go")
+}
+
+func handleCodeBash(question questionType, code codeSnippetsType) {
+	question.saveCodeContent("#!/usr/bin/env bash\n\n"+code.Code, ".bash")
+}
+
+func handleCodePython(question questionType, code codeSnippetsType) {
+	question.saveCodeContent("#!/usr/bin/env python\n\n"+code.Code, ".py")
+}
+
+func handleCodeSQL(question questionType, code codeSnippetsType) {
+	question.saveCodeContent(code.Code, ".sql")
 }
 
 const testTpl = `package {{packageName}}
