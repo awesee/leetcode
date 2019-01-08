@@ -26,6 +26,10 @@ func TestCountSegments(t *testing.T) {
 			expected: 1,
 		},
 		{
+			input:    " abc  def  ",
+			expected: 2,
+		},
+		{
 			input:    "love live! mu'sic forever",
 			expected: 4,
 		},
