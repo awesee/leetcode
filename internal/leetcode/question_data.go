@@ -159,12 +159,12 @@ func (question questionType) PackageName() string {
 func (question questionType) SaveCodeSnippet() {
 	for _, code := range question.CodeSnippets {
 		if code.LangSlug == "golang" {
-			file := question.getFilePath(question.TitleSnake() + ".go")
+			filePath := question.getFilePath(question.TitleSnake() + ".go")
 			var buf bytes.Buffer
 			buf.WriteString(fmt.Sprintf("package %s\n\n", question.PackageName()))
 			buf.WriteString(code.Code)
 			buf.WriteString("\n")
-			filePutContents(file, buf.Bytes())
+			filePutContents(filePath, buf.Bytes())
 			buf.Reset()
 			// match function name
 			reg := regexp.MustCompile(`func (\w+?)\(`)
@@ -179,6 +179,9 @@ func (question questionType) SaveCodeSnippet() {
 				"{{funcName}}", strings.Title(funcName),
 			).Replace(testTpl))
 			filePutContents(fileTest, buf.Bytes())
+		} else if len(question.CodeSnippets) == 1 {
+			filePath := question.getFilePath(question.TitleSnake() + "." + code.LangSlug)
+			filePutContents(filePath, []byte(code.Code))
 		}
 	}
 }
