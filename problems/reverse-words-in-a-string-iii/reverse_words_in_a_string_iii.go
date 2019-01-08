@@ -1,15 +1,15 @@
 package reverse_words_in_a_string_iii
 
 func reverseWords(s string) string {
-	ws, pre, l := []byte(s+" "), 0, len(s)
-	for cur, c := range ws {
+	ss, pre, l := []byte(s+" "), 0, len(s)
+	for cur, c := range ss {
 		if c == ' ' {
-			word := ws[pre:cur]
-			for i, j := 0, len(word)-1; i < j; i, j = i+1, j-1 {
-				word[i], word[j] = word[j], word[i]
+			ws := ss[pre:cur]
+			for i, j := 0, len(ws)-1; i < j; i, j = i+1, j-1 {
+				ws[i], ws[j] = ws[j], ws[i]
 			}
 			pre = cur + 1
 		}
 	}
-	return string(ws[:l])
+	return string(ss[:l])
 }
