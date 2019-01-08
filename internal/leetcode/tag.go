@@ -26,7 +26,7 @@ func init() {
 }
 
 func GetTags() (tags []tagType) {
-	cts := fileGetContents("tag/tags.json")
+	cts := fileGetContents(tagsFile)
 	jsonDecode(cts, &tags)
 	tags = tagsUnique(tags)
 	return
@@ -34,7 +34,7 @@ func GetTags() (tags []tagType) {
 
 func saveTags(tags []tagType) {
 	tags = append(GetTags(), tags...)
-	filePutContents("tag/tags.json", jsonEncode(tagsUnique(tags)))
+	filePutContents(tagsFile, jsonEncode(tagsUnique(tags)))
 }
 
 func tagsUnique(tags []tagType) []tagType {

@@ -21,4 +21,5 @@ const (
 	problemsDatabaseFile    = "problems_database.json"
 	problemsShellFile       = "problems_shell.json"
 	questionTranslationFile = "question_translation.json"
+	tagsFile                = "tag/tags.json"
 )
