@@ -135,6 +135,7 @@ func (question questionType) getHints() []byte {
 		buf.WriteString("\n### Hints\n")
 	}
 	for _, hint := range hints {
+		hint = strings.Replace(hint, "\r", "", -1)
 		buf.WriteString(fmt.Sprintf("  1. %s\n", hint))
 	}
 	return buf.Bytes()
