@@ -1,13 +1,13 @@
 package monotonic_array
 
 func isMonotonic(A []int) bool {
-	t, f := 0, 0
+	increasing, decreasing := true, true
 	for i, v := range A[1:] {
 		if v > A[i] {
-			t++
+			decreasing = false
 		} else if v < A[i] {
-			f++
+			increasing = false
 		}
 	}
-	return t == 0 || f == 0
+	return increasing || decreasing
 }
