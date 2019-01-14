@@ -53,6 +53,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="976">976</span> | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle "三角形的最大周长") | [Go](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle) | Easy |
+| <span id="975">975</span> | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump "奇偶跳") | [Go](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump) | Hard |
+| <span id="974">974</span> | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k "和可被 K 整除的子数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/subarray-sums-divisible-by-k) | Medium |
+| <span id="973">973</span> | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin "最接近原点的 K 个点") | [Go](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) | Easy |
 | <span id="972">972</span> | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers "相等的有理数") | [Go](https://github.com/openset/leetcode/tree/master/problems/equal-rational-numbers) | Hard |
 | <span id="971">971</span> | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal "翻转二叉树以匹配先序遍历") | [Go](https://github.com/openset/leetcode/tree/master/problems/flip-binary-tree-to-match-preorder-traversal) | Medium |
 | <span id="970">970</span> | [Powerful Integers](https://leetcode.com/problems/powerful-integers "强整数") | [Go](https://github.com/openset/leetcode/tree/master/problems/powerful-integers) | Easy |
@@ -989,7 +993,7 @@ LeetCode Problems' Solutions
 | <span id="33">33</span> | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array "搜索旋转排序数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/search-in-rotated-sorted-array) | Medium |
 | <span id="32">32</span> | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses "最长有效括号") | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-valid-parentheses) | Hard |
 | <span id="31">31</span> | [Next Permutation](https://leetcode.com/problems/next-permutation "下一个排列") | [Go](https://github.com/openset/leetcode/tree/master/problems/next-permutation) | Medium |
-| <span id="30">30</span> | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words "与所有单词相关联的字串") | [Go](https://github.com/openset/leetcode/tree/master/problems/substring-with-concatenation-of-all-words) | Hard |
+| <span id="30">30</span> | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words "串联所有单词的子串") | [Go](https://github.com/openset/leetcode/tree/master/problems/substring-with-concatenation-of-all-words) | Hard |
 | <span id="29">29</span> | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers "两数相除") | [Go](https://github.com/openset/leetcode/tree/master/problems/divide-two-integers) | Medium |
 | <span id="28">28</span> | [Implement strStr()](https://leetcode.com/problems/implement-strstr "实现strStr()") | [Go](https://github.com/openset/leetcode/tree/master/problems/implement-strstr) | Easy |
 | <span id="27">27</span> | [Remove Element](https://leetcode.com/problems/remove-element "移除元素") | [Go](https://github.com/openset/leetcode/tree/master/problems/remove-element) | Easy |
