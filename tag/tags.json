@@ -10,14 +10,14 @@
 		"TranslatedName": "动态规划"
 	},
 	{
-		"Name": "String",
-		"Slug": "string",
-		"TranslatedName": "字符串"
-	},
-	{
 		"Name": "Math",
 		"Slug": "math",
 		"TranslatedName": "数学"
+	},
+	{
+		"Name": "String",
+		"Slug": "string",
+		"TranslatedName": "字符串"
 	},
 	{
 		"Name": "Tree",
@@ -85,14 +85,14 @@
 		"TranslatedName": "堆"
 	},
 	{
-		"Name": "Graph",
-		"Slug": "graph",
-		"TranslatedName": "图"
-	},
-	{
 		"Name": "Sort",
 		"Slug": "sort",
 		"TranslatedName": "排序"
+	},
+	{
+		"Name": "Graph",
+		"Slug": "graph",
+		"TranslatedName": "图"
 	},
 	{
 		"Name": "Union Find",

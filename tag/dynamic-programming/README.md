@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 975 | [奇偶跳](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 968 | [监控二叉树](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 967 | [连续差相同的数字](https://github.com/openset/leetcode/tree/master/problems/numbers-with-same-consecutive-differences) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 964 | [表示数字的最少运算符](https://github.com/openset/leetcode/tree/master/problems/least-operators-to-express-number) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
