@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 973 | [最接近原点的 K 个点](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Easy |
+| 969 | [煎饼排序](https://github.com/openset/leetcode/tree/master/problems/pancake-sorting) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 922 | [按奇偶排序数组 II](https://github.com/openset/leetcode/tree/master/problems/sort-array-by-parity-ii) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 767 | [重构字符串](https://github.com/openset/leetcode/tree/master/problems/reorganize-string) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 710 | [黑名单中的随机数](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-blacklist) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]  | Hard |

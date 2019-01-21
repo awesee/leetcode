@@ -9,6 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 976 | [三角形的最大周长](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
+| 974 | [和可被 K 整除的子数组](https://github.com/openset/leetcode/tree/master/problems/subarray-sums-divisible-by-k) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
+| 969 | [煎饼排序](https://github.com/openset/leetcode/tree/master/problems/pancake-sorting) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 962 | [最大宽度坡](https://github.com/openset/leetcode/tree/master/problems/maximum-width-ramp) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 954 | [二倍数对数组](https://github.com/openset/leetcode/tree/master/problems/array-of-doubled-pairs) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 950 | [按递增顺序显示卡牌](https://github.com/openset/leetcode/tree/master/problems/reveal-cards-in-increasing-order) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
@@ -80,6 +83,7 @@
 | 533 | [Lonely Pixel II](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-ii) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 532 | [数组中的K-diff数对](https://github.com/openset/leetcode/tree/master/problems/k-diff-pairs-in-an-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |
 | 531 | [Lonely Pixel I](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-i) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
+| 509 | [斐波那契数](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 495 | [提莫攻击](https://github.com/openset/leetcode/tree/master/problems/teemo-attacking) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 485 | [最大连续1的个数](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 448 | [找到所有数组中消失的数字](https://github.com/openset/leetcode/tree/master/problems/find-all-numbers-disappeared-in-an-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |

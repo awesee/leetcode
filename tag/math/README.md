@@ -9,6 +9,10 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 976 | [三角形的最大周长](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
+| 973 | [最接近原点的 K 个点](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Easy |
+| 972 | [相等的有理数](https://github.com/openset/leetcode/tree/master/problems/equal-rational-numbers) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
+| 970 | [强整数](https://github.com/openset/leetcode/tree/master/problems/powerful-integers) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 964 | [表示数字的最少运算符](https://github.com/openset/leetcode/tree/master/problems/least-operators-to-express-number) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 963 | [最小面积矩形 II](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle-ii) | [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 952 | [按公因数计算最大组件大小](https://github.com/openset/leetcode/tree/master/problems/largest-component-size-by-common-factor) | [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |

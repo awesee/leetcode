@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 971 | [翻转二叉树以匹配先序遍历](https://github.com/openset/leetcode/tree/master/problems/flip-binary-tree-to-match-preorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
 | 968 | [监控二叉树](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 965 | [单值二叉树](https://github.com/openset/leetcode/tree/master/problems/univalued-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
 | 958 | [二叉树的完全性检验](https://github.com/openset/leetcode/tree/master/problems/check-completeness-of-a-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
