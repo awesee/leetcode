@@ -53,6 +53,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="980">980</span> | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii "不同路径 III") | [Go](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii) | Hard |
+| <span id="979">979</span> | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree "在二叉树中分配硬币") | [Go](https://github.com/openset/leetcode/tree/master/problems/distribute-coins-in-binary-tree) | Medium |
+| <span id="978">978</span> | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray "最长湍流子数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray) | Medium |
+| <span id="977">977</span> | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array "有序数组的平方") | [Go](https://github.com/openset/leetcode/tree/master/problems/squares-of-a-sorted-array) | Easy |
 | <span id="976">976</span> | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle "三角形的最大周长") | [Go](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle) | Easy |
 | <span id="975">975</span> | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump "奇偶跳") | [Go](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump) | Hard |
 | <span id="974">974</span> | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k "和可被 K 整除的子数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/subarray-sums-divisible-by-k) | Medium |
@@ -544,7 +548,7 @@ LeetCode Problems' Solutions
 | <span id="482">482</span> | [License Key Formatting](https://leetcode.com/problems/license-key-formatting "密钥格式化") | [Go](https://github.com/openset/leetcode/tree/master/problems/license-key-formatting) | Easy |
 | <span id="481">481</span> | [Magical String](https://leetcode.com/problems/magical-string "神奇字符串") | [Go](https://github.com/openset/leetcode/tree/master/problems/magical-string) | Medium |
 | <span id="480">480</span> | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median "滑动窗口中位数") | [Go](https://github.com/openset/leetcode/tree/master/problems/sliding-window-median) | Hard |
-| <span id="479">479</span> | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product "最大回文数乘积") | [Go](https://github.com/openset/leetcode/tree/master/problems/largest-palindrome-product) | Easy |
+| <span id="479">479</span> | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product "最大回文数乘积") | [Go](https://github.com/openset/leetcode/tree/master/problems/largest-palindrome-product) | Hard |
 | <span id="478">478</span> | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle "在圆内随机生成点") | [Go](https://github.com/openset/leetcode/tree/master/problems/generate-random-point-in-a-circle) | Medium |
 | <span id="477">477</span> | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance "汉明距离总和") | [Go](https://github.com/openset/leetcode/tree/master/problems/total-hamming-distance) | Medium |
 | <span id="476">476</span> | [Number Complement](https://leetcode.com/problems/number-complement "数字的补数") | [Go](https://github.com/openset/leetcode/tree/master/problems/number-complement) | Easy |
