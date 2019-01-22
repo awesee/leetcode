@@ -1,18 +1,32 @@
 package reverse_string
 
-import "testing"
+import (
+	"reflect"
+	"testing"
+)
+
+type caseType struct {
+	input    []byte
+	expected []byte
+}
 
 func TestReverseString(t *testing.T) {
-	tests := map[string]string{
-		"hello, world":                   "dlrow ,olleh",
-		"你好，世界":                          "界世，好你",
-		"A man, a plan, a canal: Panama": "amanaP :lanac a ,nalp a ,nam A",
+	tests := [...]caseType{
+		{
+			input:    []byte{'h', 'e', 'l', 'l', 'o'},
+			expected: []byte{'o', 'l', 'l', 'e', 'h'},
+		},
+		{
+			input:    []byte{'H', 'a', 'n', 'n', 'a', 'h'},
+			expected: []byte{'h', 'a', 'n', 'n', 'a', 'H'},
+		},
 	}
-
-	for input, expected := range tests {
-		output := reverseString(input)
-		if output != expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", input, output, expected)
+	for _, tc := range tests {
+		output := make([]byte, len(tc.input))
+		copy(output, tc.input)
+		reverseString(output)
+		if !reflect.DeepEqual(output, tc.expected) {
+			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
 		}
 	}
 }
