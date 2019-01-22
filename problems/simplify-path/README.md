@@ -7,24 +7,58 @@
 
 ## 71. Simplify Path (Medium)
 
-<p>Given an absolute path for a file (Unix-style), simplify it.&nbsp;</p>
+<p>Given an <strong>absolute path</strong> for a file (Unix-style), simplify it. Or in other words, convert it to the <strong>canonical path</strong>.</p>
 
-<p>For example,<br />
-<strong>path</strong> = <code>&quot;/home/&quot;</code>, =&gt; <code>&quot;/home&quot;</code><br />
-<strong>path</strong> = <code>&quot;/a/./b/../../c/&quot;</code>, =&gt; <code>&quot;/c&quot;</code><br />
-<strong>path</strong> = <code>&quot;/a/../../b/../c//.//&quot;</code>, =&gt; <code>&quot;/c&quot;</code><br />
-<strong>path</strong> = <code>&quot;/a//b////c/d//././/..&quot;</code>, =&gt; <code>&quot;/a/b/c&quot;</code></p>
+<p>In a UNIX-style file system, a period <code>.</code>&nbsp;refers to the current directory. Furthermore, a double period <code>..</code>&nbsp;moves the directory up a level. For more information, see:&nbsp;<a href="https://www.linuxnix.com/abslute-path-vs-relative-path-in-linuxunix/" target="_blank">Absolute path&nbsp;vs&nbsp;relative&nbsp;path&nbsp;in&nbsp;Linux/Unix</a></p>
 
-<p>In a UNIX-style file system, a period (&#39;.&#39;) refers to the current directory, so it can be ignored in a simplified path. Additionally, a double period (&quot;..&quot;) moves up a directory, so it cancels out whatever the last directory was. For more information, look here:&nbsp;<a href="https://en.wikipedia.org/wiki/Path_(computing)#Unix_style">https://en.wikipedia.org/wiki/Path_(computing)#Unix_style</a></p>
+<p>Note that the returned canonical path must always begin&nbsp;with a slash <code>/</code>, and there must be only a single slash <code>/</code>&nbsp;between two directory names.&nbsp;The last directory name (if it exists) <b>must not</b>&nbsp;end with a trailing <code>/</code>. Also, the canonical path must be the <strong>shortest</strong> string&nbsp;representing the absolute path.</p>
 
-<p><strong>Corner Cases:</strong></p>
+<p>&nbsp;</p>
 
-<ul>
-	<li>Did you consider the case where <strong>path</strong> = <code>&quot;/../&quot;</code>?<br />
-	In this case, you should return <code>&quot;/&quot;</code>.</li>
-	<li>Another corner case is the path might contain multiple slashes <code>&#39;/&#39;</code> together, such as <code>&quot;/home//foo/&quot;</code>.<br />
-	In this case, you should ignore redundant slashes and return <code>&quot;/home/foo&quot;</code>.</li>
-</ul>
+<p><strong>Example 1:</strong></p>
+
+<pre>
+<strong>Input: &quot;</strong><span id="example-input-1-1">/home/&quot;</span>
+<strong>Output: &quot;</strong><span id="example-output-1">/home&quot;
+<strong>Explanation:</strong> Note that there is no trailing slash after the last directory name.</span>
+</pre>
+
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input: &quot;</strong><span id="example-input-1-1">/../&quot;</span>
+<strong>Output: &quot;</strong><span id="example-output-1">/&quot;</span>
+<strong>Explanation:</strong> Going one level up from the root directory is a no-op, as the root level is the highest level you can go.
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input: &quot;</strong><span id="example-input-1-1">/home//foo/&quot;</span>
+<strong>Output: &quot;</strong><span id="example-output-1">/home/foo&quot;</span>
+<strong>Explanation: </strong>In the canonical path, multiple consecutive slashes are replaced by a single one.
+</pre>
+
+<p><strong>Example 4:</strong></p>
+
+<pre>
+<strong>Input: &quot;</strong><span id="example-input-1-1">/a/./b/../../c/&quot;</span>
+<strong>Output: &quot;</strong><span id="example-output-1">/c&quot;</span>
+</pre>
+
+<p><strong>Example 5:</strong></p>
+
+<pre>
+<strong>Input: &quot;</strong><span id="example-input-1-1">/a/../../b/../c//.//&quot;</span>
+<strong>Output: &quot;</strong><span id="example-output-1">/c&quot;</span>
+</pre>
+
+<p><strong>Example 6:</strong></p>
+
+<pre>
+<strong>Input: &quot;</strong><span id="example-input-1-1">/a//b////c/d//././/..&quot;</span>
+<strong>Output: &quot;</strong><span id="example-output-1">/a/b/c&quot;</span>
+</pre>
 
 
 ### Related Topics

@@ -40,6 +40,7 @@
 
 ### Similar Questions
   1. [Min Cost Climbing Stairs](https://github.com/openset/leetcode/tree/master/problems/min-cost-climbing-stairs) (Easy)
+  1. [Fibonacci Number](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number) (Easy)
 
 ### Hints
   1. To reach nth step, what could have been your previous steps? (Think about the step sizes)

@@ -74,3 +74,4 @@
 
 ### Similar Questions
   1. [Additive Number](https://github.com/openset/leetcode/tree/master/problems/additive-number) (Medium)
+  1. [Fibonacci Number](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number) (Easy)

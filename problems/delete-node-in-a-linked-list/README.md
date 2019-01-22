@@ -11,7 +11,9 @@
 
 <p>Given linked list --&nbsp;head =&nbsp;[4,5,1,9], which looks like following:</p>
 
-<p><img alt="" src="https://assets.leetcode.com/uploads/2018/12/28/237_example.png" style="margin-top: 5px; margin-bottom: 5px; width: 395px; height: 65px;" /></p>
+<p><img alt="" src="https://assets.leetcode.com/uploads/2018/12/28/237_example.png" style="margin-top: 5px; margin-bottom: 5px; width: 300px; height: 49px;" /></p>
+
+<p>&nbsp;</p>
 
 <p><strong>Example 1:</strong></p>
 
@@ -28,6 +30,8 @@
 <strong>Output:</strong> [4,5,9]
 <strong>Explanation: </strong>You are given the third node with value 1, the linked list should become 4 -&gt; 5 -&gt; 9 after calling your function.
 </pre>
+
+<p>&nbsp;</p>
 
 <p><strong>Note:</strong></p>
 
