@@ -56,3 +56,6 @@ The longest subsequence that is fibonacci-like:
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### Similar Questions
+  1. [Fibonacci Number](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number) (Easy)
