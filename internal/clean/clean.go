@@ -8,8 +8,8 @@ import (
 var CmdClean = &base.Command{
 	Run:       runClean,
 	UsageLine: "clean",
-	Short:     "clean cache file",
-	Long:      "clean leetcode cache file.",
+	Short:     "remove cached files",
+	Long:      "remove leetcode cached files.",
 }
 
 func runClean(cmd *base.Command, args []string) {
