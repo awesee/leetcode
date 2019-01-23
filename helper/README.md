@@ -22,7 +22,7 @@ The commands are:
 	test        	run go test
 	description 	build all problems description file
 	update      	update self
-	clean       	clean cache file
+	clean       	remove cached files
 	version     	print leetcode version
 	help        	show command usage
 
