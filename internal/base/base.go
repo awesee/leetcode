@@ -28,7 +28,7 @@ func (c *Command) Name() string {
 }
 
 func (c *Command) Usage() {
-	fmt.Printf("usage: %s %s\n", CmdName, c.UsageLine)
+	fmt.Printf("usage: %s %s\n\n", CmdName, c.UsageLine)
 	fmt.Printf("Run '%s help %s' for details.\n", CmdName, c.Name())
 	Exit()
 }
