@@ -15,6 +15,7 @@ LeetCode Problems' Solutions
 [![GitHub contributors](https://img.shields.io/github/contributors/openset/leetcode.svg)](https://github.com/openset/leetcode/graphs/contributors)
 [![license](https://img.shields.io/github/license/openset/leetcode.svg)](https://github.com/openset/leetcode/blob/master/LICENSE)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/openset/leetcode.svg?colorB=green)](https://github.com/openset/leetcode/archive/master.zip)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fopenset%2Fleetcode.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fopenset%2Fleetcode?ref=badge_shield)
 
 <table><thead>
 <tr>
@@ -1027,3 +1028,7 @@ LeetCode Problems' Solutions
 | <span id="3">3</span> | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters "无重复字符的最长子串") | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-substring-without-repeating-characters) | Medium |
 | <span id="2">2</span> | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers "两数相加") | [Go](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers) | Medium |
 | <span id="1">1</span> | [Two Sum](https://leetcode.com/problems/two-sum "两数之和") | [Go](https://github.com/openset/leetcode/tree/master/problems/two-sum) | Easy |
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fopenset%2Fleetcode.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fopenset%2Fleetcode?ref=badge_large)
