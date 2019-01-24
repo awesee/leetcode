@@ -21,6 +21,10 @@ func TestMaximumProduct(t *testing.T) {
 			input:    []int{-2, -1, 0, 2, 3},
 			expected: 6,
 		},
+		{
+			input:    []int{-1, -2, -3, 5, 4, 3, 2, 1},
+			expected: 60,
+		},
 	}
 	for _, tc := range tests {
 		output := maximumProduct(tc.input)
