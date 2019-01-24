@@ -9,7 +9,7 @@ import (
 
 var CmdQuestion = &base.Command{
 	Run:       runQuestion,
-	UsageLine: "question (QuestionId)",
+	UsageLine: "question <QuestionId>",
 	Short:     "build problem solution file",
 	Long:      "build problem's description,solution file.",
 }
