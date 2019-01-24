@@ -190,18 +190,22 @@ func handleCodeGolang(question questionType, code codeSnippetsType) {
 	content := fmt.Sprintf("package %s\n\n", question.PackageName())
 	content += code.Code + "\n"
 	question.saveCodeContent(content, ".go")
-	// match function name
-	reg := regexp.MustCompile(`func (\w+?)\(`)
-	matches := reg.FindStringSubmatch(code.Code)
-	funcName := "Func"
-	if len(matches) >= 2 {
-		funcName = matches[1]
+	testExt := "_test.go"
+	contents := fileGetContents(question.getFilePath(question.TitleSnake() + testExt))
+	if bytes.Count(contents, []byte("\n")) <= 2 {
+		// match function name
+		reg := regexp.MustCompile(`func (\w+?)\(`)
+		matches := reg.FindStringSubmatch(code.Code)
+		funcName := "Func"
+		if len(matches) >= 2 {
+			funcName = matches[1]
+		}
+		content = strings.NewReplacer(
+			"{{packageName}}", question.PackageName(),
+			"{{funcName}}", strings.Title(funcName),
+		).Replace(testTpl)
+		question.saveCodeContent(content, testExt)
 	}
-	content = strings.NewReplacer(
-		"{{packageName}}", question.PackageName(),
-		"{{funcName}}", strings.Title(funcName),
-	).Replace(testTpl)
-	question.saveCodeContent(content, "_test.go")
 }
 
 func handleCodeBash(question questionType, code codeSnippetsType) {
