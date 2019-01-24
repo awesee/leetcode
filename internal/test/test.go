@@ -20,21 +20,23 @@ func runTest(cmd *base.Command, args []string) {
 	if len(args) > 1 {
 		cmd.Usage()
 	}
-	target := "./..."
-	if len(args) == 1 {
-		if questionId, err := strconv.Atoi(args[0]); err == nil {
-			problems := leetcode.ProblemsAll()
-			for _, problem := range problems.StatStatusPairs {
-				if problem.Stat.FrontendQuestionId == questionId {
-					target = "./problems/" + problem.Stat.QuestionTitleSlug
-					break
+	if _, err := os.Stat("problems"); err == nil {
+		target := "./..."
+		if len(args) == 1 {
+			if questionId, err := strconv.Atoi(args[0]); err == nil {
+				problems := leetcode.ProblemsAll()
+				for _, problem := range problems.StatStatusPairs {
+					if problem.Stat.FrontendQuestionId == questionId {
+						target = "./problems/" + problem.Stat.QuestionTitleSlug
+						break
+					}
 				}
 			}
 		}
+		c := exec.Command("go", "test", target)
+		c.Stdout = os.Stdout
+		c.Stderr = os.Stderr
+		err := c.Run()
+		base.CheckErr(err)
 	}
-	c := exec.Command("go", "test", target)
-	c.Stdout = os.Stdout
-	c.Stderr = os.Stderr
-	err := c.Run()
-	base.CheckErr(err)
 }
