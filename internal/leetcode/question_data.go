@@ -3,6 +3,7 @@ package leetcode
 import (
 	"bytes"
 	"fmt"
+	"os"
 	"path"
 	"regexp"
 	"strings"
@@ -181,9 +182,12 @@ func (question questionType) SaveCodeSnippet() {
 	}
 }
 
-func (question questionType) saveCodeContent(content, ext string) {
+func (question questionType) saveCodeContent(content, ext string, permX ...bool) {
 	filePath := question.getFilePath(question.TitleSnake() + ext)
 	filePutContents(filePath, []byte(content))
+	if len(permX) > 0 && permX[0] == true {
+		os.Chmod(filePath, 0755)
+	}
 }
 
 func handleCodeGolang(question questionType, code codeSnippetsType) {
@@ -209,11 +213,11 @@ func handleCodeGolang(question questionType, code codeSnippetsType) {
 }
 
 func handleCodeBash(question questionType, code codeSnippetsType) {
-	question.saveCodeContent("#!/usr/bin/env bash\n\n"+code.Code, ".bash")
+	question.saveCodeContent("#!/usr/bin/env bash\n\n"+code.Code, ".bash", true)
 }
 
 func handleCodePython(question questionType, code codeSnippetsType) {
-	question.saveCodeContent("#!/usr/bin/env python\n\n"+code.Code, ".py")
+	question.saveCodeContent("#!/usr/bin/env python\n\n"+code.Code, ".py", true)
 }
 
 func handleCodeSQL(question questionType, code codeSnippetsType) {
