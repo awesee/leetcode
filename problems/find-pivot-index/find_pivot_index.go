@@ -6,12 +6,10 @@ func pivotIndex(nums []int) int {
 		right += v
 	}
 	for i, v := range nums {
-		right -= v
-		if left == right {
+		if right -= v; left == right {
 			return i
-		} else {
-			left += v
 		}
+		left += v
 	}
 	return -1
 }

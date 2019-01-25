@@ -29,6 +29,10 @@ func TestPivotIndex(t *testing.T) {
 			input:    []int{1, 2, 1},
 			expected: 1,
 		},
+		{
+			input:    []int{},
+			expected: -1,
+		},
 	}
 	for _, tc := range tests {
 		output := pivotIndex(tc.input)
