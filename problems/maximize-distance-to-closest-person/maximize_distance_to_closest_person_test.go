@@ -17,10 +17,25 @@ func TestMaxDistToClosest(t *testing.T) {
 			input:    []int{1, 0, 0, 0},
 			expected: 3,
 		},
-
 		{
 			input:    []int{0, 0, 0, 1},
 			expected: 3,
+		},
+		{
+			input:    []int{0, 0, 0, 0, 0, 1, 0},
+			expected: 5,
+		},
+		{
+			input:    []int{0, 1, 0, 0, 0, 1, 0},
+			expected: 2,
+		},
+		{
+			input:    []int{0, 1, 0, 0, 0, 0, 0},
+			expected: 5,
+		},
+		{
+			input:    []int{1, 0, 1},
+			expected: 1,
 		},
 	}
 	for _, tc := range tests {

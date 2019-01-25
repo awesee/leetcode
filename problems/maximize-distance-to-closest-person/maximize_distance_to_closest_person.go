@@ -1,28 +1,21 @@
 package maximize_distance_to_closest_person
 
 func maxDistToClosest(seats []int) int {
-	ans, prev, future, l := 0, -1, 0, len(seats)
+	ans, ec := 0, 0
 	for i, v := range seats {
-		if v == 1 {
-			prev = i
-		} else {
-			for future < l && seats[future] == 0 || future < i {
-				future++
+		if v == 0 {
+			ec++
+		} else if ec > 0 {
+			if i == ec { // 001
+				ans = ec
+			} else if (ec+1)/2 > ans { // 101
+				ans = (ec + 1) / 2
 			}
-			left, right := l, l
-			if prev != -1 {
-				left = i - prev
-			}
-			if future != l {
-				right = future - i
-			}
-			if right < left {
-				left = right
-			}
-			if left > ans {
-				ans = left
-			}
+			ec = 0
 		}
+	}
+	if ec > ans { // 100
+		ans = ec
 	}
 	return ans
 }
