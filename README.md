@@ -15,7 +15,7 @@ LeetCode Problems' Solutions
 [![GitHub contributors](https://img.shields.io/github/contributors/openset/leetcode.svg)](https://github.com/openset/leetcode/graphs/contributors)
 [![license](https://img.shields.io/github/license/openset/leetcode.svg)](https://github.com/openset/leetcode/blob/master/LICENSE)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fopenset%2Fleetcode.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fopenset%2Fleetcode?ref=badge_shield)
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/openset/leetcode.svg?colorB=green)](https://github.com/openset/leetcode/archive/master.zip)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/openset/leetcode.svg?colorB=green)](https://github.com/openset/leetcode/archive/master.zip) [![Join the chat at https://gitter.im/openset/leetcode](https://badges.gitter.im/openset/leetcode.svg)](https://gitter.im/openset/leetcode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <table><thead>
 <tr>
