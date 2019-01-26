@@ -10,7 +10,7 @@ import (
 
 var CmdOpen = &base.Command{
 	Run:       runOpen,
-	UsageLine: "open (QuestionFrontendId)",
+	UsageLine: "open <QuestionId>",
 	Short:     "open a problem solution in browser",
 	Long:      "open a problem solution in browser.",
 }
