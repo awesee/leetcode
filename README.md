@@ -15,7 +15,7 @@ LeetCode Problems' Solutions
 [![GitHub contributors](https://img.shields.io/github/contributors/openset/leetcode.svg)](https://github.com/openset/leetcode/graphs/contributors)
 [![license](https://img.shields.io/github/license/openset/leetcode.svg)](https://github.com/openset/leetcode/blob/master/LICENSE)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fopenset%2Fleetcode.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fopenset%2Fleetcode?ref=badge_shield)
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/openset/leetcode.svg?colorB=green)](https://github.com/openset/leetcode/archive/master.zip) [![Join the chat at https://gitter.im/openset/leetcode](https://badges.gitter.im/openset/leetcode.svg)](https://gitter.im/openset/leetcode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat](https://badges.gitter.im/openset/leetcode.svg)](https://gitter.im/openset/leetcode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <table><thead>
 <tr>
@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="984">984</span> | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb "不含 AAA 或 BBB 的字符串") | [Go](https://github.com/openset/leetcode/tree/master/problems/string-without-aaa-or-bbb) | Easy |
+| <span id="983">983</span> | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets "最低票价") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-for-tickets) | Medium |
+| <span id="982">982</span> | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero "按位与为零的三元组") | [Go](https://github.com/openset/leetcode/tree/master/problems/triples-with-bitwise-and-equal-to-zero) | Hard |
+| <span id="981">981</span> | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store "基于时间的键值存储") | [Go](https://github.com/openset/leetcode/tree/master/problems/time-based-key-value-store) | Medium |
 | <span id="980">980</span> | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii "不同路径 III") | [Go](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii) | Hard |
 | <span id="979">979</span> | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree "在二叉树中分配硬币") | [Go](https://github.com/openset/leetcode/tree/master/problems/distribute-coins-in-binary-tree) | Medium |
 | <span id="978">978</span> | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray "最长湍流子数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray) | Medium |
