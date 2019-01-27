@@ -10,6 +10,18 @@ type caseType struct {
 func TestThirdMax(t *testing.T) {
 	tests := [...]caseType{
 		{
+			input:    []int{1, 2, 2, 5, 3, 5},
+			expected: 2,
+		},
+		{
+			input:    []int{1, 2, 2},
+			expected: 2,
+		},
+		{
+			input:    []int{1, 1, 2},
+			expected: 2,
+		},
+		{
 			input:    []int{3, 2, 1},
 			expected: 1,
 		},
