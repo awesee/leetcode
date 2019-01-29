@@ -19,6 +19,10 @@ func runDescription(cmd *base.Command, args []string) {
 	problems := leetcode.ProblemsAll()
 	for _, problem := range problems.StatStatusPairs {
 		titleSlug := problem.Stat.QuestionTitleSlug
-		leetcode.QuestionData(titleSlug).Data.Question.SaveContent()
+		question := leetcode.QuestionData(titleSlug).Data.Question
+		if question.Content == "" && problem.PaidOnly == true && problem.Stat.QuestionArticleLive {
+			question.Content = leetcode.GetDescription(problem.Stat.QuestionArticleSlug)
+		}
+		question.SaveContent()
 	}
 }

@@ -24,6 +24,9 @@ func runQuestion(cmd *base.Command, args []string) {
 			if problem.Stat.FrontendQuestionId == questionId {
 				titleSlug := problem.Stat.QuestionTitleSlug
 				question := leetcode.QuestionData(titleSlug).Data.Question
+				if question.Content == "" && problem.PaidOnly == true && problem.Stat.QuestionArticleLive {
+					question.Content = leetcode.GetDescription(problem.Stat.QuestionArticleSlug)
+				}
 				question.SaveContent()
 				question.SaveCodeSnippet()
 				break
