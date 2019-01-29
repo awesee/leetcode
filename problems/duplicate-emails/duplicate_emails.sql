@@ -1,10 +1,10 @@
 # Write your MySQL query statement below
 
 SELECT
-	Email
+  Email
 FROM
-	Person
+  Person
 GROUP BY
-	Email
+  Email
 HAVING
-	count( 1 ) > 1;
+  count(1) > 1;
