@@ -1,4 +1,4 @@
-## 619. Biggest Single Number
+## 619. Biggest Single Number (Easy)
 
 <p>
 Table <code>number</code> contains many numbers in column <b>num</b> including duplicated ones.<br>
