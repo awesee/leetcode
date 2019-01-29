@@ -10,7 +10,7 @@ import (
 
 func GetDescription(articleSlug string) string {
 	fmt.Println("\tquestion article", "saving...")
-	filename := "question_article_" + articleSlug + ".html"
+	filename := fmt.Sprintf(questionArticleFile, articleSlug)
 	html := remember(filename, 30, func() []byte {
 		return client.Get(fmt.Sprintf(questionArticleUrl, articleSlug))
 	})
