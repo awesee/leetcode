@@ -7,6 +7,7 @@ const (
 	apiProblemsDatabaseUrl   = "https://leetcode.com/api/problems/database/"
 	apiProblemsShellUrl      = "https://leetcode.com/api/problems/shell/"
 	problemsetAllUrl         = "https://leetcode.com/problemset/all/"
+	questionArticleUrl       = "https://leetcode.com/articles/%s/"
 	graphqlUrl               = "https://leetcode-cn.com/graphql"
 	apiProgressAllUrl        = "https://leetcode.com/api/progress/all/"
 	submissionsLatestUrl     = "https://leetcode.com/submissions/latest/"

@@ -80,9 +80,7 @@ func (d difficultyStrType) Str() (s string) {
 
 func (question questionType) SaveContent() {
 	fmt.Println(question.QuestionFrontendId, "\t"+question.Title, "saving...")
-	if question.Content != "" {
-		filePutContents(question.getFilePath("README.md"), question.getDescContent())
-	}
+	filePutContents(question.getFilePath("README.md"), question.getDescContent())
 }
 
 func (question questionType) getDescContent() []byte {
