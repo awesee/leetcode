@@ -92,7 +92,8 @@ func (question questionType) getDescContent() []byte {
 	reg := regexp.MustCompile(`<style[\S\s]+?</style>`)
 	content = reg.ReplaceAllString(content, "")
 	content = strings.Replace(content, "\n\n\t", "\n\t", -1)
-	buf.WriteString(content)
+	content = strings.TrimSpace(content)
+	buf.WriteString(content + "\n")
 	buf.Write(question.getTopicTags())
 	buf.Write(question.getSimilarQuestion())
 	buf.Write(question.getHints())
@@ -103,7 +104,7 @@ func (question questionType) getTopicTags() []byte {
 	tags := question.TopicTags
 	var buf bytes.Buffer
 	if len(tags) > 0 {
-		buf.WriteString("\n\n### Related Topics\n")
+		buf.WriteString("\n### Related Topics\n")
 	}
 	format := "  [[%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md)]\n"
 	for _, tag := range tags {
