@@ -40,8 +40,6 @@ Target = 28
 </pre>
 </p>
 
-
-
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 

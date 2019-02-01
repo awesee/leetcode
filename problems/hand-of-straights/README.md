@@ -42,6 +42,5 @@
 	<li><code>1 &lt;= W &lt;= hand.length</code></li>
 </ol>
 
-
 ### Related Topics
   [[Map](https://github.com/openset/leetcode/tree/master/tag/map/README.md)]

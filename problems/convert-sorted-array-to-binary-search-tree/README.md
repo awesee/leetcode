@@ -25,7 +25,6 @@ One possible answer is: [0,-3,9,-10,null,5], which represents the following heig
  -10  5
 </pre>
 
-
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

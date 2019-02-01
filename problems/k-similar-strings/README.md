@@ -51,7 +51,6 @@
 	<li><code>A</code> and <code>B</code> contain only lowercase letters from the set <code>{&#39;a&#39;, &#39;b&#39;, &#39;c&#39;, &#39;d&#39;, &#39;e&#39;, &#39;f&#39;}</code></li>
 </ol>
 
-
 ### Related Topics
   [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]

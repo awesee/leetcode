@@ -45,7 +45,6 @@ And the value to insert: 5
           4
 </pre>
 
-
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 

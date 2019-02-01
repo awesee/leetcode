@@ -41,7 +41,6 @@ For example, [0,2,3,1] is also a valid gray code sequence.
 &nbsp;            Therefore, for <em>n</em> = 0 the gray code sequence is [0].</code>
 </pre>
 
-
 ### Related Topics
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 

@@ -31,7 +31,6 @@
 <strong>Output: </strong>&quot;0.(6)&quot;
 </pre>
 
-
 ### Related Topics
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

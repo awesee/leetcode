@@ -54,7 +54,6 @@
 <div>&nbsp;</div>
 </div>
 
-
 ### Related Topics
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
   [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]

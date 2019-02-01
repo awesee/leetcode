@@ -20,7 +20,6 @@
 
 <p>A linked list can be reversed either iteratively or recursively. Could you implement both?</p>
 
-
 ### Related Topics
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 

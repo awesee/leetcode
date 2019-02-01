@@ -34,7 +34,6 @@
 <b>Explanation:</b> It&#39;s the substring &quot;abc&quot; four times. (And the substring &quot;abcabc&quot; twice.)
 </pre>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 

@@ -34,6 +34,5 @@
 	<li><code>0 &lt;=&nbsp;A[i][j], B[i][j] &lt;= 1</code></li>
 </ol>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

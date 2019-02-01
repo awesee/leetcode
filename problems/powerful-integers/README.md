@@ -51,6 +51,5 @@
 	<li><code>0 &lt;= bound&nbsp;&lt;= 10^6</code></li>
 </ul>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

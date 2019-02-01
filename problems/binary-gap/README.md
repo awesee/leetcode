@@ -85,6 +85,5 @@ There aren&#39;t any consecutive pairs of 1&#39;s in the binary representation o
 </div>
 </div>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

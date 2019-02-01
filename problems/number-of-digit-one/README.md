@@ -17,7 +17,6 @@
 <strong>Explanation: </strong>Digit 1 occurred in the following numbers: 1, 10, 11, 12, 13.
 </pre>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 

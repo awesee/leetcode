@@ -37,9 +37,6 @@ Only "AA" won't be regarded as rewardable owing to more than one absent times.
 The value of <b>n</b> won't exceed 100,000.
 </p>
 
-
-
-
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 

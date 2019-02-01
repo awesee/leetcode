@@ -47,6 +47,5 @@
 	<li><code>0 &lt;= A[i] &lt; 2048</code></li>
 </ol>
 
-
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

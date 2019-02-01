@@ -36,9 +36,6 @@ A student could be rewarded if his attendance record doesn't contain <b>more tha
 </pre>
 </p>
 
-
-
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 

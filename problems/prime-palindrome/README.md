@@ -54,6 +54,5 @@
 	<li>The answer is guaranteed to exist and be less than <code>2 * 10^8</code>.</li>
 </ul>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

@@ -27,7 +27,6 @@ Given a non-negative integer <code>c</code>, your task is to decide whether ther
 </pre>
 </p>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 

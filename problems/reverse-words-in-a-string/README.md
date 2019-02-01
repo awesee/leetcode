@@ -26,7 +26,6 @@
 
 <p><strong>Follow up:&nbsp;</strong>For C programmers, try to solve it <em>in-place</em> in <em>O</em>(1) space.</p>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 

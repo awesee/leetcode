@@ -64,6 +64,5 @@ The decoded string is &quot;a&quot; repeated 8301530446056247680 times.  The 1st
 </div>
 </div>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

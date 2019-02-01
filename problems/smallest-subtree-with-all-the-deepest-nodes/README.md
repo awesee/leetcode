@@ -42,6 +42,5 @@ Both the input and output have TreeNode type.
 	<li>The values of each node are unique.</li>
 </ul>
 
-
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

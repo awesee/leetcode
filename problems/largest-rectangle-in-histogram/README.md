@@ -28,7 +28,6 @@
 <strong>Output:</strong> 10
 </pre>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

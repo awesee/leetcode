@@ -35,7 +35,6 @@ while the minimum difference in this tree is 1, it occurs between node 1 and nod
 	<li>The BST is always valid, each node&#39;s value is an integer, and each node&#39;s value is different.</li>
 </ol>
 
-
 ### Related Topics
   [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
 

@@ -33,7 +33,6 @@
 	<li>The given board size is always <code>9x9</code>.</li>
 </ul>
 
-
 ### Related Topics
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]

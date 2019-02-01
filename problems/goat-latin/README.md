@@ -51,6 +51,5 @@
 	<li><code>1 &lt;= S.length &lt;= 150</code>.</li>
 </ul>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

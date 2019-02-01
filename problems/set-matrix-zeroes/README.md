@@ -51,7 +51,6 @@
 	<li>Could you devise a constant space solution?</li>
 </ul>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 

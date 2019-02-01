@@ -49,7 +49,6 @@ We only want the closest K = 1 points from the origin, so the answer is just [[-
 </div>
 </div>
 
-
 ### Related Topics
   [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

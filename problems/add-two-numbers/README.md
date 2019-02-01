@@ -19,7 +19,6 @@
 <b>Explanation:</b> 342 + 465 = 807.
 </pre>
 
-
 ### Related Topics
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

@@ -52,7 +52,6 @@ for (int i = 0; i &lt; len; i++) {
 &nbsp; &nbsp; print(nums[i]);
 }</pre>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

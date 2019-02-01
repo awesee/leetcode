@@ -66,6 +66,5 @@
 	<li><code>1 &lt;= &lt;RepeatingPart&gt;.length &lt;= 4</code></li>
 </ol>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

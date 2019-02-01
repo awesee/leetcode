@@ -36,7 +36,6 @@
 	<li><b>Do not</b> use the <code>eval</code> built-in library function.</li>
 </ul>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

@@ -30,7 +30,6 @@
 &nbsp;            jump length is 0, which makes it impossible to reach the last index.
 </pre>
 
-
 ### Related Topics
   [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

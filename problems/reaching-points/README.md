@@ -35,6 +35,5 @@ One series of moves that transforms the starting point to the target is:
 	<li><code>sx, sy, tx, ty</code> will all be integers in the range <code>[1, 10^9]</code>.</li>
 </ul>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

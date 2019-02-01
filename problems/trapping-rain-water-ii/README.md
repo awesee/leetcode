@@ -40,7 +40,6 @@ Return 4.
 
 <p>After the rain, water is trapped between the blocks. The total volume of water trapped is 4.</p>
 
-
 ### Related Topics
   [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]

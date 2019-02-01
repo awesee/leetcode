@@ -41,7 +41,6 @@
 </div>
 </div>
 
-
 ### Related Topics
   [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

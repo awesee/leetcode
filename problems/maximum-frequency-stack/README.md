@@ -61,7 +61,6 @@ The stack becomes [5,7].
 <p>&nbsp;</p>
 </div>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

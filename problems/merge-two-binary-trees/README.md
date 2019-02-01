@@ -34,6 +34,5 @@ Merged tree:
 
 <p><b>Note:</b> The merging process must start from the root nodes of both trees.</p>
 
-
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

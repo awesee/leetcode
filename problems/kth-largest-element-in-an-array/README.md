@@ -25,7 +25,6 @@
 <p><strong>Note: </strong><br />
 You may assume k is always valid, 1 &le; k &le; array&#39;s length.</p>
 
-
 ### Related Topics
   [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]

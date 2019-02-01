@@ -26,6 +26,5 @@
 <p><b>Note</b>:<br />
 You may assume that you have an infinite number of each kind of coin.</p>
 
-
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

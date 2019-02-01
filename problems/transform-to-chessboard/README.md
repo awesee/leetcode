@@ -49,7 +49,6 @@ No matter what sequence of moves you make, you cannot end with a valid chessboar
 	<li><code>board[i][j]</code> will be only <code>0</code>s or <code>1</code>s.</li>
 </ul>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

@@ -24,7 +24,6 @@
 <p><b>Follow up:</b><br />
 Could you do it in O(n) time and O(1) space?</p>
 
-
 ### Related Topics
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

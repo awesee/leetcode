@@ -32,7 +32,6 @@ You may assume <em>k</em> is always valid, 1 &le; k &le; input array&#39;s size 
 <p><strong>Follow up:</strong><br />
 Could you solve it in linear time?</p>
 
-
 ### Related Topics
   [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
 

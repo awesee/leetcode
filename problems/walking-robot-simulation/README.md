@@ -55,6 +55,5 @@
 	<li>The answer is guaranteed to be less than <code>2 ^ 31</code>.</li>
 </ol>
 
-
 ### Related Topics
   [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

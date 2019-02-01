@@ -39,6 +39,5 @@ since a and b map to the same letter.</pre>
 </ul>
 </div>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

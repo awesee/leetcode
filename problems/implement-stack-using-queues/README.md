@@ -35,7 +35,6 @@ stack.empty(); // returns false</pre>
 	<li>You may assume that all operations are valid (for example, no pop or top operations will be called on an empty stack).</li>
 </ul>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]

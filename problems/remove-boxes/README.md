@@ -35,7 +35,6 @@ Explanation:
 The number of boxes <code>n</code> would not exceed 100.
 </p>
 
-
 ### Related Topics
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

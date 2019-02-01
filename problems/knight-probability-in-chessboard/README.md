@@ -43,7 +43,6 @@ The total probability the knight stays on the board is 0.0625.
 	<li>The knight always initially starts on the board.</li>
 </ul>
 
-
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 

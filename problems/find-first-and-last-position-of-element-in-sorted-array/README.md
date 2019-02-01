@@ -25,7 +25,6 @@
 <strong>Input:</strong> nums = [<code>5,7,7,8,8,10]</code>, target = 6
 <strong>Output:</strong> [-1,-1]</pre>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

@@ -22,7 +22,6 @@ Calling <strong><code>hasNext()</code></strong> after that should return <strong
 
 <p><b>Follow up</b>: How would you extend your design to be generic and work with all types, not just integer?</p>
 
-
 ### Related Topics
   [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
 

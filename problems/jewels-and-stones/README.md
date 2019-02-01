@@ -32,7 +32,6 @@
 	<li>The characters in <code>J</code> are distinct.</li>
 </ul>
 
-
 ### Related Topics
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 

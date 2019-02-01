@@ -35,6 +35,5 @@
              The third child gets 1 candy because it satisfies the above two conditions.
 </pre>
 
-
 ### Related Topics
   [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

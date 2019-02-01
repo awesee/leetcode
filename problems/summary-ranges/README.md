@@ -25,7 +25,6 @@
 <strong>Explanation: </strong>2,3,4 form a continuous range;&nbsp;8,9 form a continuous range.
 </pre>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 

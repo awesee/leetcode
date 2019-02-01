@@ -41,7 +41,6 @@ hashSet.contains(2); &nbsp;&nbsp;&nbsp;// returns false (already removed)
 	<li>Please do not use the built-in HashSet library.</li>
 </ul>
 
-
 ### Related Topics
   [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

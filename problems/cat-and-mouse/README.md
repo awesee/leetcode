@@ -57,7 +57,6 @@
 </ol>
 </div>
 
-
 ### Related Topics
   [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]

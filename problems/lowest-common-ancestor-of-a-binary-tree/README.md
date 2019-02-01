@@ -40,7 +40,6 @@
 <li>p and q are different and both values will&nbsp;exist in the binary tree.</li>
 </ul>
 
-
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 

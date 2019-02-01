@@ -28,6 +28,5 @@ Input: sum("ap"), Output: 5
 </pre>
 </p>
 
-
 ### Related Topics
   [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]

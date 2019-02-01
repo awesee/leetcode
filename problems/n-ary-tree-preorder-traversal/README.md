@@ -25,7 +25,6 @@
 
 <p>Recursive solution is trivial, could you do it iteratively?</p>
 
-
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 

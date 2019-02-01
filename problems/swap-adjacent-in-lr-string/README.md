@@ -30,7 +30,6 @@ XRLXXRRLX
 	<li>Both start and end will only consist of characters in <code>{&#39;L&#39;, &#39;R&#39;, &#39;X&#39;}</code>.</li>
 </ol>
 
-
 ### Related Topics
   [[Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
 

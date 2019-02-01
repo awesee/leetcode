@@ -25,7 +25,6 @@
 <strong>Explanation:</strong> The longest valid parentheses substring is <code>&quot;()()&quot;</code>
 </pre>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

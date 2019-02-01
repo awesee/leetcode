@@ -35,7 +35,6 @@ queue.empty(); // returns false</pre>
 	<li>You may assume that all operations are valid (for example, no pop or peek operations will be called on an empty queue).</li>
 </ul>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]

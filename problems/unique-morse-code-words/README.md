@@ -40,6 +40,5 @@ There are 2 different transformations, &quot;--...-.&quot; and &quot;--...--.&qu
 	<li><code>words[i]</code> will only consist of lowercase letters.</li>
 </ul>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

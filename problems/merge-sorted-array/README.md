@@ -26,7 +26,6 @@ nums2 = [2,5,6],       n = 3
 <strong>Output:</strong>&nbsp;[1,2,2,3,5,6]
 </pre>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

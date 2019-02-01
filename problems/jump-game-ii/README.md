@@ -25,7 +25,6 @@
 
 <p>You can assume that you can always reach the last index.</p>
 
-
 ### Related Topics
   [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

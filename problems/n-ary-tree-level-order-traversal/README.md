@@ -36,7 +36,6 @@
 	<li>The total number of nodes is at most <code>5000</code>.</li>
 </ol>
 
-
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]

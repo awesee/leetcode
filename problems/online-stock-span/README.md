@@ -47,6 +47,5 @@ Note that (for example) S.next(75) returned 4, because the last 4 prices
 </ol>
 </div>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

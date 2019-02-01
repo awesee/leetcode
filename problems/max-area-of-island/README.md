@@ -33,7 +33,6 @@ Given the above grid, return <code>0</code>.
 
 <p><b>Note:</b> The length of each dimension in the given <code>grid</code> does not exceed 50.</p>
 
-
 ### Related Topics
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

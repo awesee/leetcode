@@ -36,7 +36,6 @@ From the top-left corner, there are a total of 3 ways to reach the bottom-right 
 <strong>Input:</strong> m = 7, n = 3
 <strong>Output:</strong> 28</pre>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

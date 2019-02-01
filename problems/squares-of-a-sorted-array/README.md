@@ -39,7 +39,6 @@
 </div>
 </div>
 
-
 ### Related Topics
   [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

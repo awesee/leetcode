@@ -60,6 +60,5 @@ If we chose D = {}, then a column [&quot;b&quot;,&quot;a&quot;,&quot;h&quot;] wo
 </div>
 </div>
 
-
 ### Related Topics
   [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]

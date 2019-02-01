@@ -32,7 +32,6 @@
 </div>
 </div>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]

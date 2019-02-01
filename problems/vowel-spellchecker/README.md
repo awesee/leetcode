@@ -59,7 +59,6 @@
 	<li>All strings in <code>wordlist</code> and <code>queries</code> consist only of <strong>english</strong>&nbsp;letters.</li>
 </ul>
 
-
 ### Related Topics
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

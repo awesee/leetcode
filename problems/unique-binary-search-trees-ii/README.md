@@ -31,7 +31,6 @@ The above output corresponds to the 5 unique BST&#39;s shown below:
    2     1         2                 3
 </pre>
 
-
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

@@ -50,7 +50,6 @@
 <p><b>Follow up</b>:<br />
 Can you solve it without using extra space?</p>
 
-
 ### Related Topics
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

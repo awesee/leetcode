@@ -43,4 +43,4 @@ For the sample data above, the output is:
 <p>
 <b>Note:</b><br/>
 Each day only have one row record, and the dates are increasing with id increasing.
-</p> 
+</p>

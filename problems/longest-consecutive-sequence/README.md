@@ -19,7 +19,6 @@
 <strong>Explanation:</strong> The longest consecutive elements sequence is <code>[1, 2, 3, 4]</code>. Therefore its length is 4.
 </pre>
 
-
 ### Related Topics
   [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

@@ -43,7 +43,6 @@ We use <code>#</code> as a separator for each node, and <code>,</code> as a sepa
 <p><strong>Note</strong>: The information about the tree serialization is only meant so that you can understand error output if you get a wrong answer. You don&#39;t need to understand the serialization to solve the problem.</p>
 </div>
 
-
 ### Related Topics
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]

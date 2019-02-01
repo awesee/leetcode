@@ -28,7 +28,6 @@
 	<li>The n<sup>th</sup> super ugly number is guaranteed to fit in a 32-bit signed integer.</li>
 </ul>
 
-
 ### Related Topics
   [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

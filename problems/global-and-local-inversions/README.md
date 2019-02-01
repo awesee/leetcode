@@ -39,7 +39,6 @@
 	<li>The time limit for this problem has been reduced.</li>
 </ul>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

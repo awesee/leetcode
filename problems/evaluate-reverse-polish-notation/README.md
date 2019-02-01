@@ -49,7 +49,6 @@
 = 22
 </pre>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
 

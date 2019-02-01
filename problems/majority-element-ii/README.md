@@ -23,7 +23,6 @@
 <strong>Input:</strong> [1,1,1,3,3,2,2,2]
 <strong>Output:</strong> [1,2]</pre>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 

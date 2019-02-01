@@ -30,7 +30,6 @@
 </pre>
 </div>
 
-
 ### Related Topics
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
