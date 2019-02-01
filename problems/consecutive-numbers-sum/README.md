@@ -32,6 +32,5 @@
 
 <p><strong>Note:</strong>&nbsp;<code>1 &lt;= N &lt;= 10 ^ 9</code>.</p>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

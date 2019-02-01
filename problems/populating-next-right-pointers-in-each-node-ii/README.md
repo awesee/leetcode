@@ -50,7 +50,6 @@ struct TreeLinkNode {
 4-&gt; 5 -&gt; 7 -&gt; NULL
 </pre>
 
-
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

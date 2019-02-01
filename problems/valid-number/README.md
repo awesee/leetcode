@@ -39,7 +39,6 @@
 <p><strong>Update (2015-02-10):</strong><br />
 The signature of the <code>C++</code> function had been updated. If you still see your function signature accepts a <code>const char *</code> argument, please click the reload button to reset your code definition.</p>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

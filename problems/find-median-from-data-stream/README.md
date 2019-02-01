@@ -42,7 +42,6 @@ findMedian() -&gt; 2
 	<li>If 99% of all integer numbers from the stream are between 0 and 100, how would you optimize it?</li>
 </ol>
 
-
 ### Related Topics
   [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]

@@ -34,6 +34,5 @@ That partition would lead to a score of 5 + 2 + 6 = 13, which is worse.
 	<li>Answers within <code>10^-6</code> of the correct answer will be accepted as correct.</li>
 </ul>
 
-
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

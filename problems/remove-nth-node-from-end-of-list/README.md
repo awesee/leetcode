@@ -25,7 +25,6 @@ After removing the second node from the end, the linked list becomes <strong>1-&
 
 <p>Could you do this in one pass?</p>
 
-
 ### Related Topics
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

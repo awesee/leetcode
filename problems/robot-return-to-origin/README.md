@@ -31,7 +31,6 @@
 <strong>Explanation</strong>: The robot moves left twice. It ends up two &quot;moves&quot; to the left of the origin. We return false because it is not at the origin at the end of its moves.
 </pre>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 

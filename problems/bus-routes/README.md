@@ -30,6 +30,5 @@ The best strategy is take the first bus to the bus stop 7, then take the second 
 	<li><code>0 &lt;= routes[i][j] &lt; 10 ^ 6</code>.</li>
 </ul>
 
-
 ### Related Topics
   [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]

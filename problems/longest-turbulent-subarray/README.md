@@ -57,6 +57,5 @@
 	<li><code>0 &lt;= A[i] &lt;= 10^9</code></li>
 </ol>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

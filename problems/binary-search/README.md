@@ -37,7 +37,6 @@
 	<li>The value of each element in <code>nums</code> will be in the range <code>[-9999, 9999]</code>.</li>
 </ol>
 
-
 ### Related Topics
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 

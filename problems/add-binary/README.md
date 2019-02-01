@@ -23,7 +23,6 @@
 <strong>Input:</strong> a = &quot;1010&quot;, b = &quot;1011&quot;
 <strong>Output:</strong> &quot;10101&quot;</pre>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

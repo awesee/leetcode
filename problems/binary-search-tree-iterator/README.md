@@ -42,7 +42,6 @@ iterator.hasNext(); // return false
 	<li>You may assume that&nbsp;<code>next()</code>&nbsp;call&nbsp;will always be valid, that is, there will be at least a next smallest number in the BST when <code>next()</code> is called.</li>
 </ul>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

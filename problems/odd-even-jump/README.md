@@ -82,7 +82,6 @@ We can reach the end from starting indexes 1, 2, and 4.
 	<li><code>0 &lt;= A[i] &lt; 100000</code></li>
 </ol>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

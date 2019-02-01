@@ -42,7 +42,6 @@
 	<li><code>0 &lt;= graph[i].length &lt;&nbsp;graph.length</code></li>
 </ol>
 
-
 ### Related Topics
   [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

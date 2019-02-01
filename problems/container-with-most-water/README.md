@@ -25,7 +25,6 @@
 <strong>Input:</strong> [1,8,6,2,5,4,8,3,7]
 <strong>Output:</strong> 49</pre>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

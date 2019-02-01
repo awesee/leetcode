@@ -39,7 +39,6 @@
 	<li>A&nbsp;is a mountain, as defined above.</li>
 </ol>
 
-
 ### Related Topics
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 

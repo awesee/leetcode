@@ -54,7 +54,6 @@ After move 5: [[1,2,3],[4,5,0]]
 	<li><code>board[i][j]</code> will be a permutation of <code>[0, 1, 2, 3, 4, 5]</code>.</li>
 </ul>
 
-
 ### Related Topics
   [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 

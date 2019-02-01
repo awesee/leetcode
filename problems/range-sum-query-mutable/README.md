@@ -28,7 +28,6 @@ sumRange(0, 2) -&gt; 8
 	<li>You may assume the number of calls to <i>update</i> and <i>sumRange</i> function is distributed evenly.</li>
 </ol>
 
-
 ### Related Topics
   [[Binary Indexed Tree](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
   [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]

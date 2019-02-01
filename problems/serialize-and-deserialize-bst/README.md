@@ -15,7 +15,6 @@
 
 <p><b>Note:</b> Do not use class member/global/static variables to store states. Your serialize and deserialize algorithms should be stateless.</p>
 
-
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 

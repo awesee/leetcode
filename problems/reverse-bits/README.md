@@ -41,7 +41,6 @@
 
 <p>If this function is called many times, how would you optimize it?</p>
 
-
 ### Related Topics
   [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 

@@ -73,7 +73,6 @@ Notice each digit has it&#39;s own entry in the array.
 	<li><code>1 &lt;= len(chars) &lt;= 1000</code>.</li>
 </ol>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 

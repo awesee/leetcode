@@ -40,7 +40,6 @@
 
 <p>The input is two lists:&nbsp;the subroutines called&nbsp;and their&nbsp;arguments.&nbsp;<code>Solution</code>&#39;s&nbsp;constructor has one argument, the&nbsp;array <code>w</code>. <code>pickIndex</code> has no arguments.&nbsp;Arguments&nbsp;are&nbsp;always wrapped with a list, even if there aren&#39;t any.</p>
 
-
 ### Related Topics
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
   [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]

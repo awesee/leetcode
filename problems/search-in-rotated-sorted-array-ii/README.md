@@ -33,7 +33,6 @@
 	<li>Would this affect the run-time complexity? How and why?</li>
 </ul>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

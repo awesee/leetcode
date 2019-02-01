@@ -28,7 +28,6 @@
 &nbsp;            Total amount you can rob = 2 + 9 + 1 = 12.
 </pre>
 
-
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 

@@ -29,7 +29,6 @@
 <strong>Input: </strong>[1,1,1,3,3,4,3,2,4,2]
 <strong>Output:</strong> true</pre>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

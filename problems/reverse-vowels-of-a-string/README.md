@@ -29,7 +29,6 @@ The vowels does not include the letter &quot;y&quot;.</p>
 
 <p>&nbsp;</p>
 
-
 ### Related Topics
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

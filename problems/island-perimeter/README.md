@@ -31,7 +31,6 @@
 <img src="https://assets.leetcode.com/uploads/2018/10/12/island.png" style="width: 221px; height: 213px;" />
 </pre>
 
-
 ### Related Topics
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 

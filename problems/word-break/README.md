@@ -40,7 +40,6 @@
 <strong>Output:</strong> false
 </pre>
 
-
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 

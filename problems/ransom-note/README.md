@@ -25,7 +25,6 @@ canConstruct("aa", "ab") -> false
 canConstruct("aa", "aab") -> true
 </pre>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 

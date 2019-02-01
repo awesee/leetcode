@@ -40,7 +40,6 @@ However, splitting into [1, 0], [2], [3], [4] is the highest number of chunks po
 
 <p>&nbsp;</p>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 

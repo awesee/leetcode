@@ -33,7 +33,6 @@ Here is a diagram of the above graph.
 	<li>Each <code>graph[i]</code> will be a sorted list of different integers, chosen within the range <code>[0, graph.length - 1]</code>.</li>
 </ul>
 
-
 ### Related Topics
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]

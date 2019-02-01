@@ -64,7 +64,6 @@ M             1000</pre>
 <strong>Output:</strong> &quot;MCMXCIV&quot;
 <strong>Explanation:</strong> M = 1000, CM = 900, XC = 90 and IV = 4.</pre>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

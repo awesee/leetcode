@@ -16,7 +16,6 @@
 <strong>Output:</strong> <code>[&quot;255.255.11.135&quot;, &quot;255.255.111.35&quot;]
 </code></pre>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]

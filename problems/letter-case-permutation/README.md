@@ -28,7 +28,6 @@
 	<li><code>S</code> will consist only of letters or digits.</li>
 </ul>
 
-
 ### Related Topics
   [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]

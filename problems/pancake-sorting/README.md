@@ -47,7 +47,6 @@ Note that other answers, such as [3, 3], would also be accepted.
 	<li><code>A[i]</code> is a permutation of <code>[1, 2, ..., A.length]</code></li>
 </ol>
 
-
 ### Related Topics
   [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

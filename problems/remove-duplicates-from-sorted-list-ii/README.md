@@ -23,7 +23,6 @@
 <strong>Output:</strong> 2-&gt;3
 </pre>
 
-
 ### Related Topics
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 

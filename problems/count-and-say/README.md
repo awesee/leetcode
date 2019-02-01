@@ -40,7 +40,6 @@
 <b>Input:</b> 4
 <b>Output:</b> &quot;1211&quot;</pre>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 

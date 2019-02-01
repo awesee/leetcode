@@ -26,7 +26,6 @@ Given word = &quot;<strong>SEE</strong>&quot;, return <strong>true</strong>.
 Given word = &quot;<strong>ABCB</strong>&quot;, return <strong>false</strong>.
 </pre>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]

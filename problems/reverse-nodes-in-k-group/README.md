@@ -29,7 +29,6 @@
 	<li>You may not alter the values in the list&#39;s nodes, only nodes itself may be changed.</li>
 </ul>
 
-
 ### Related Topics
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 

@@ -33,5 +33,6 @@ such that <i>arr[i]</i> &lt; <i>arr[j]</i> &lt; <i>arr[k]</i> given 0 &le; <i>i<
 </pre>
 </div>
 </div>
+
 ### Similar Questions
   1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence) (Medium)

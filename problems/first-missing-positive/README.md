@@ -34,7 +34,6 @@ Output: 1
 
 <p>Your algorithm should run in <em>O</em>(<em>n</em>) time and uses constant extra space.</p>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 

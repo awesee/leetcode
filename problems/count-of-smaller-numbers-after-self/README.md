@@ -21,7 +21,6 @@ To the right of 6 there is <b>1</b> smaller element (1).
 To the right of 1 there is <b>0</b> smaller element.
 </pre>
 
-
 ### Related Topics
   [[Binary Indexed Tree](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
   [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]

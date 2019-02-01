@@ -26,7 +26,6 @@
 <strong>Input:</strong> [0,1,0,1,0,1,99]
 <strong>Output:</strong> 99</pre>
 
-
 ### Related Topics
   [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 

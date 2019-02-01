@@ -31,7 +31,6 @@
 	<li>You <strong>must not use any built-in BigInteger library</strong> or <strong>convert the inputs to integer</strong> directly.</li>
 </ol>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

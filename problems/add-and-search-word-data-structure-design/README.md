@@ -31,7 +31,6 @@ search(&quot;b..&quot;) -&gt; true
 <p><b>Note:</b><br />
 You may assume that all words are consist of lowercase letters <code>a-z</code>.</p>
 
-
 ### Related Topics
   [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]

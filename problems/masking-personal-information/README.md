@@ -84,6 +84,5 @@
 	<li>Phone numbers have length at least 10.</li>
 </ol>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

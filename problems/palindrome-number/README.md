@@ -36,7 +36,6 @@
 
 <p>Coud you solve&nbsp;it without converting the integer to a string?</p>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 

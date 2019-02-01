@@ -55,6 +55,5 @@
 	<li><code>1 &lt;= ages[i] &lt;= 120</code>.</li>
 </ul>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

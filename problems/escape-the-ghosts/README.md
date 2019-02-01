@@ -52,6 +52,5 @@ The ghost can reach the target at the same time as you.
 	<li>The number of ghosts will not exceed <code>100</code>.</li>
 </ul>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

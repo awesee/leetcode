@@ -46,7 +46,6 @@ The cheapest price from city <code>0</code> to city <code>2</code> with at most 
 	<li>There&nbsp;will&nbsp;not&nbsp;be&nbsp;any&nbsp;duplicated&nbsp;flights or&nbsp;self&nbsp;cycles.</li>
 </ul>
 
-
 ### Related Topics
   [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]

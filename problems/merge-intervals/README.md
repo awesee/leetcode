@@ -24,7 +24,6 @@
 <strong>Output:</strong> [[1,5]]
 <strong>Explanation:</strong> Intervals [1,4] and [4,5] are considered overlapping.</pre>
 
-
 ### Related Topics
   [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

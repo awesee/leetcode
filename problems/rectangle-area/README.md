@@ -23,7 +23,6 @@
 
 <p>Assume that the total area is never beyond the maximum possible value of <strong>int</strong>.</p>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 

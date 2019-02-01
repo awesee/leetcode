@@ -27,7 +27,6 @@ words = [&quot;a&quot;, &quot;bb&quot;, &quot;acd&quot;, &quot;ace&quot;]
 	<li>The length of <code>words[i]</code> will be in the range of <code>[1, 50]</code>.</li>
 </ul>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 

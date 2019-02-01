@@ -18,7 +18,6 @@
 <strong>Input:</strong> [0,1,0,2,1,0,1,3,2,1,2,1]
 <strong>Output:</strong> 6</pre>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

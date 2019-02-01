@@ -29,7 +29,6 @@ trie.search(&quot;app&quot;);     // returns true
 	<li>All inputs are guaranteed to be non-empty strings.</li>
 </ul>
 
-
 ### Related Topics
   [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]

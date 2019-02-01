@@ -58,7 +58,6 @@
 	<li>Your code should preferably run in O(n) time and use only O(1) memory.</li>
 </ul>
 
-
 ### Related Topics
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 

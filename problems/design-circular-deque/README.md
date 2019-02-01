@@ -50,7 +50,6 @@ circularDeque.getFront();			// return 4
 	<li>Please do not use the built-in Deque library.</li>
 </ul>
 
-
 ### Related Topics
   [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
   [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]

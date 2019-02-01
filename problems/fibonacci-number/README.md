@@ -48,7 +48,6 @@ F(N) = F(N - 1) + F(N - 2), for N &gt; 1.
 
 <p>0 &le; <code>N</code> &le; 30.</p>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 

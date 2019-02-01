@@ -35,7 +35,6 @@ S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
 	<li>Each element of A is an integer within the range [0, N-1].</li>
 </ol>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 

@@ -55,7 +55,6 @@
 
 <p>Can you solve it using <em>O(1)</em> (i.e. constant) memory?</p>
 
-
 ### Related Topics
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

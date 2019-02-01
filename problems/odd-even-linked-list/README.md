@@ -32,7 +32,6 @@
 	<li>The first node is considered odd, the second node even and so on ...</li>
 </ul>
 
-
 ### Related Topics
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 

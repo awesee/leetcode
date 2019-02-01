@@ -62,6 +62,5 @@ In total you spent $17 and covered all the days of your travel.
 	<li><code>1 &lt;= costs[i] &lt;= 1000</code></li>
 </ol>
 
-
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

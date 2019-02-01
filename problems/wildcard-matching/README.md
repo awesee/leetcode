@@ -72,7 +72,6 @@ p = &quot;a*c?b&quot;
 <strong>Output:</strong> false
 </pre>
 
-
 ### Related Topics
   [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

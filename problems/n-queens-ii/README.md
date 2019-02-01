@@ -32,7 +32,6 @@
 ]
 </pre>
 
-
 ### Related Topics
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 

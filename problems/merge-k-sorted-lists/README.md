@@ -21,7 +21,6 @@
 <strong>Output:</strong> 1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
 </pre>
 
-
 ### Related Topics
   [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]

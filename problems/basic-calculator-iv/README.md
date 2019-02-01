@@ -58,7 +58,6 @@ evalvars = [], evalints = []
 	<li><code>evalvars, evalints</code> will have equal lengths in range <code>[0, 100]</code>.</li>
 </ol>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

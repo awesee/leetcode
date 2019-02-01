@@ -29,7 +29,6 @@
 <strong>Explanation:</strong> The array represents the integer 4321.
 </pre>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

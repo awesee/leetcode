@@ -43,7 +43,6 @@
 <pre>
 <img src="https://assets.leetcode.com/uploads/2018/10/12/multilevellinkedlistflattened.png" style="width: 1100px;" /></pre>
 
-
 ### Related Topics
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]

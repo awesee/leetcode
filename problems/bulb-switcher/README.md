@@ -23,7 +23,6 @@ After third round, the three bulbs are <b>[on, off, off]</b>.
 So you should return 1, because there is only one bulb is on.
 </pre>
 
-
 ### Related Topics
   [[Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

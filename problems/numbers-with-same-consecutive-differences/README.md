@@ -40,6 +40,5 @@
 	<li><code>0 &lt;= K &lt;= 9</code></li>
 </ol>
 
-
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

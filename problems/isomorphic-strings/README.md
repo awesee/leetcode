@@ -35,7 +35,6 @@
 <p><b>Note:</b><br />
 You may assume both <b><i>s&nbsp;</i></b>and <b><i>t&nbsp;</i></b>have the same length.</p>
 
-
 ### Related Topics
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 

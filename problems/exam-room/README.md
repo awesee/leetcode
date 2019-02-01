@@ -40,7 +40,6 @@ seat() -&gt; 5, the student sits at the last seat number 5.</span>
 	<li>Calls to <code>ExamRoom.leave(p)</code> are guaranteed to have a student currently sitting in seat number <code>p</code>.</li>
 </ol>
 
-
 ### Related Topics
   [[Map](https://github.com/openset/leetcode/tree/master/tag/map/README.md)]
 

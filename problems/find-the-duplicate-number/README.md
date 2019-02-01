@@ -31,7 +31,6 @@
 	<li>There is only one duplicate number in the array, but it could be repeated more than once.</li>
 </ol>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

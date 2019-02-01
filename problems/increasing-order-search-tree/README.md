@@ -48,7 +48,6 @@
 	<li>Each node will have a unique integer value from 0 to 1000.</li>
 </ol>
 
-
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

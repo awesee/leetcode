@@ -29,7 +29,6 @@
 	<li><code>K</code> will be an integer in the range <code>[0, 10^9]</code>.</li>
 </ul>
 
-
 ### Related Topics
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 

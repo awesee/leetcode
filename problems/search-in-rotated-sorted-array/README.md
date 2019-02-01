@@ -30,7 +30,6 @@
 <strong>Input:</strong> nums = [<code>4,5,6,7,0,1,2]</code>, target = 3
 <strong>Output:</strong> -1</pre>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

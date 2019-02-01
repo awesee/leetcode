@@ -43,7 +43,6 @@
 <strong>Output:</strong> &quot;2314&quot;
 </pre>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]

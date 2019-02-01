@@ -38,6 +38,5 @@
 	<li>The total area covered by all rectangles will never exceed&nbsp;<code>2^63 - 1</code>&nbsp;and thus will fit in a 64-bit signed integer.</li>
 </ul>
 
-
 ### Related Topics
   [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]

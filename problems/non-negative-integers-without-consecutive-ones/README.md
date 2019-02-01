@@ -29,7 +29,6 @@ Among them, only integer 3 disobeys the rule (two consecutive ones) and the othe
 1 <= n <= 10<sup>9</sup>
 </p>
 
-
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 

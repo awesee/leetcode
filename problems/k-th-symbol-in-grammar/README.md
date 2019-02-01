@@ -39,7 +39,6 @@ row 4: 01101001
 	<li><code>K</code> will be an integer in the range <code>[1, 2^(N-1)]</code>.</li>
 </ol>
 
-
 ### Related Topics
   [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
 

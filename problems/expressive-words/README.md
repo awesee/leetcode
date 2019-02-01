@@ -35,6 +35,5 @@ We can&#39;t extend &quot;helo&quot; to get &quot;heeellooo&quot; because the gr
 
 <p>&nbsp;</p>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

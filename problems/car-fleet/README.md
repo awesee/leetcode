@@ -47,6 +47,5 @@ Note that no other cars meet these fleets before the destination, so the answer 
 	<li>All initial positions are different.</li>
 </ol>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]

@@ -31,7 +31,6 @@
 	<li>Your algorithm&#39;s time complexity <b>must be</b> better than O(<i>n</i> log <i>n</i>), where <i>n</i> is the array&#39;s size.</li>
 </ul>
 
-
 ### Related Topics
   [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

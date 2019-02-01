@@ -39,7 +39,6 @@
 	<li>What if elements of <i>nums2</i> are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?</li>
 </ul>
 
-
 ### Related Topics
   [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

@@ -64,7 +64,6 @@ Note that the starting and ending square can be anywhere in the grid.
 	<li><code>1 &lt;= grid.length * grid[0].length &lt;= 20</code></li>
 </ol>
 
-
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]

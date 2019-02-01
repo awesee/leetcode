@@ -60,6 +60,5 @@ The nodes that are reachable in the final graph after M = 6 moves are indicated 
 <div>&nbsp;</div>
 </div>
 
-
 ### Related Topics
   [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

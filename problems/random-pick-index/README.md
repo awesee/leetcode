@@ -25,7 +25,6 @@ solution.pick(3);
 solution.pick(1);
 </pre>
 
-
 ### Related Topics
   [[Reservoir Sampling](https://github.com/openset/leetcode/tree/master/tag/reservoir-sampling/README.md)]
 

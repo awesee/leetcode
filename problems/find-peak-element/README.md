@@ -35,7 +35,6 @@
 
 <p>Your solution should be in logarithmic complexity.</p>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

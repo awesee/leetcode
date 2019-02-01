@@ -34,7 +34,6 @@
 	<li>All coordinates in rectangles will be between&nbsp;<code>-10^9 </code>and<code> 10^9</code>.</li>
 </ol>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 

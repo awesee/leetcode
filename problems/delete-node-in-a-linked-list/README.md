@@ -42,7 +42,6 @@
 	<li>Do not return anything from your function.</li>
 </ul>
 
-
 ### Related Topics
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 

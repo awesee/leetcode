@@ -32,5 +32,6 @@ Window position                Median
 
 <p><b>Note: </b><br>
 You may assume <code>k</code> is always valid, ie: <code>k</code> is always smaller than input array's size for non-empty array.</p>
+
 ### Similar Questions
   1. [Find Median from Data Stream](https://github.com/openset/leetcode/tree/master/problems/find-median-from-data-stream) (Hard)

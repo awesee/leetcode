@@ -64,7 +64,6 @@
 <strong>Explanation:</strong> The number &quot;-91283472332&quot; is out of the range of a 32-bit signed integer.
 &nbsp;            Thefore INT_MIN (&minus;2<sup>31</sup>) is returned.</pre>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

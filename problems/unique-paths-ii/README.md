@@ -36,7 +36,6 @@ There are two ways to reach the bottom-right corner:
 2. Down -&gt; Down -&gt; Right -&gt; Right
 </pre>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

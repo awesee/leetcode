@@ -42,6 +42,5 @@ and that &quot;hit&quot; isn&#39;t the answer even though it occurs more because
 	<li>Words only consist of letters, never apostrophes or other punctuation symbols.</li>
 </ul>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

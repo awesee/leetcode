@@ -32,7 +32,6 @@
 	<li>Could you solve it in logarithmic time complexity?</li>
 </ul>
 
-
 ### Related Topics
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 

@@ -30,6 +30,5 @@
 	<li>You may assume the input string will only contain letters of alphabet.</li>
 </ol>
 
-
 ### Related Topics
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

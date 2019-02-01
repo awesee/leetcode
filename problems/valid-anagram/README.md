@@ -29,7 +29,6 @@ You may assume the string contains only lowercase alphabets.</p>
 <p><strong>Follow up:</strong><br />
 What if the inputs contain unicode characters? How would you adapt your solution to such case?</p>
 
-
 ### Related Topics
   [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]

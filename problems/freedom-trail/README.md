@@ -43,7 +43,6 @@ So the final output is 4.
 	<li>It&#39;s guaranteed that string <b>key</b> could always be spelled by rotating the string <b>ring</b>.</li>
 </ol>
 
-
 ### Related Topics
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]

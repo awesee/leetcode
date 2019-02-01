@@ -33,7 +33,6 @@
 <strong>Explanation:</strong> There exist two distinct solutions to the 4-queens puzzle as shown above.
 </pre>
 
-
 ### Related Topics
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 

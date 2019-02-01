@@ -25,7 +25,6 @@
 
 <p><b>Note: </b>Your solution should be in logarithmic time complexity.</p>
 
-
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 

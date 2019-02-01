@@ -32,7 +32,6 @@
 	<li>The integer n is in the range [0, 100].</li>
 </ol>
 
-
 ### Related Topics
   [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]

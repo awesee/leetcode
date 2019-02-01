@@ -24,7 +24,6 @@
 
 <p>Although the above answer is in lexicographical order, your answer could be in any order you want.</p>
 
-
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]

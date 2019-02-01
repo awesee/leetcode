@@ -32,6 +32,5 @@
 </ol>
 </div>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

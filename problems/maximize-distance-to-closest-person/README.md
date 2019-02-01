@@ -46,7 +46,6 @@ This is the maximum distance possible, so the answer is 3.
 </div>
 </div>
 
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 

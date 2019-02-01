@@ -23,7 +23,6 @@
 
 <p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p>
 
-
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

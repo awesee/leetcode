@@ -29,7 +29,6 @@ The output order does not matter, returning [9,0] is fine too.
 <strong>Output:</strong> <code>[]</code>
 </pre>
 
-
 ### Related Topics
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]

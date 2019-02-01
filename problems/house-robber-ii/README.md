@@ -28,7 +28,6 @@
 <strong>Explanation:</strong> Rob house 1 (money = 1) and then rob house 3 (money = 3).
 &nbsp;            Total amount you can rob = 1 + 3 = 4.</pre>
 
-
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 

@@ -49,7 +49,6 @@
 	<li>Each <code>board[i][j]</code> is a character in the set <code>{&quot; &quot;, &quot;X&quot;, &quot;O&quot;}</code>.</li>
 </ul>
 
-
 ### Related Topics
   [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

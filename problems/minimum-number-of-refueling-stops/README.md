@@ -66,7 +66,6 @@ We made 2 refueling stops along the way, so we return 2.
 </div>
 </div>
 
-
 ### Related Topics
   [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
