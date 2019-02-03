@@ -4,13 +4,14 @@ import (
 	"bytes"
 	"fmt"
 	"regexp"
+	"strings"
 
 	"github.com/openset/leetcode/internal/client"
 )
 
 func GetDescription(articleSlug string) string {
 	fmt.Println("\tquestion article", "saving...")
-	filename := fmt.Sprintf(questionArticleFile, articleSlug)
+	filename := fmt.Sprintf(questionArticleFile, strings.Replace(articleSlug, "-", "_", -1))
 	html := remember(filename, 30, func() []byte {
 		return client.Get(fmt.Sprintf(questionArticleUrl, articleSlug))
 	})
