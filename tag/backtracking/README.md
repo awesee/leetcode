@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 980 | [不同路径 III](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
 | 842 | [将数组拆分成斐波那契序列](https://github.com/openset/leetcode/tree/master/problems/split-array-into-fibonacci-sequence) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
 | 784 | [字母大小写全排列](https://github.com/openset/leetcode/tree/master/problems/letter-case-permutation) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Easy |
 | 691 | [贴纸拼词](https://github.com/openset/leetcode/tree/master/problems/stickers-to-spell-word) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
