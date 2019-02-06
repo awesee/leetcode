@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 984 | [不含 AAA 或 BBB 的字符串](https://github.com/openset/leetcode/tree/master/problems/string-without-aaa-or-bbb) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
 | 955 | [删列造序 II](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted-ii) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
 | 948 | [令牌放置](https://github.com/openset/leetcode/tree/master/problems/bag-of-tokens) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
 | 944 | [删列造序](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
