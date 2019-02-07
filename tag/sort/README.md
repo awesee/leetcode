@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 977 | [有序数组的平方](https://github.com/openset/leetcode/tree/master/problems/squares-of-a-sorted-array) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |
 | 973 | [最接近原点的 K 个点](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Easy |
 | 969 | [煎饼排序](https://github.com/openset/leetcode/tree/master/problems/pancake-sorting) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 922 | [按奇偶排序数组 II](https://github.com/openset/leetcode/tree/master/problems/sort-array-by-parity-ii) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
