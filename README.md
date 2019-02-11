@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="992">992</span> | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers "K 个不同整数的子数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/subarrays-with-k-different-integers) | Hard |
+| <span id="991">991</span> | [Broken Calculator](https://leetcode.com/problems/broken-calculator "坏了的计算器") | [Go](https://github.com/openset/leetcode/tree/master/problems/broken-calculator) | Medium |
+| <span id="990">990</span> | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations "等式方程的可满足性") | [Go](https://github.com/openset/leetcode/tree/master/problems/satisfiability-of-equality-equations) | Medium |
+| <span id="989">989</span> | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer "数组形式的整数加法") | [Go](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer) | Easy |
 | <span id="988">988</span> | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf "从叶结点开始的最小字符串") | [Go](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf) | Medium |
 | <span id="987">987</span> | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree "二叉树的垂序遍历") | [Go](https://github.com/openset/leetcode/tree/master/problems/vertical-order-traversal-of-a-binary-tree) | Medium |
 | <span id="986">986</span> | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections "区间列表的交集") | [Go](https://github.com/openset/leetcode/tree/master/problems/interval-list-intersections) | Medium |
