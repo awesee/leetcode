@@ -39,7 +39,19 @@ Tilt of binary tree : 0 + 0 + 1 = 1
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### Hints
-  1. Don't think too much, this is an easy problem. Take some small tree as an example.
-  1. Can a parent node use the values of its child nodes? How will you implement it?
-  1. May be recursion and tree traversal can help you in implementing.
-  1. What about postorder traversal, using values of left and right childs?
+<details>
+<summary>Hint 1</summary>
+Don't think too much, this is an easy problem. Take some small tree as an example.
+</details>
+<details>
+<summary>Hint 2</summary>
+Can a parent node use the values of its child nodes? How will you implement it?
+</details>
+<details>
+<summary>Hint 3</summary>
+May be recursion and tree traversal can help you in implementing.
+</details>
+<details>
+<summary>Hint 4</summary>
+What about postorder traversal, using values of left and right childs?
+</details>

@@ -13,4 +13,7 @@
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### Hints
-  1. Convert the tree to a general graph, and do a breadth-first search.  Alternatively, find the closest leaf for every node on the path from root to target.
+<details>
+<summary>Hint 1</summary>
+Convert the tree to a general graph, and do a breadth-first search.  Alternatively, find the closest leaf for every node on the path from root to target.
+</details>

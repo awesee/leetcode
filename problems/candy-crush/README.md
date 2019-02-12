@@ -14,4 +14,7 @@
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### Hints
-  1. Carefully perform the "crush" and "gravity" steps.  In the crush step, flag each candy that should be removed, then go through and crush each flagged candy.  In the gravity step, collect the candy in each column and then rewrite the column appropriately.  Do these steps repeatedly until there's no work left to do.
+<details>
+<summary>Hint 1</summary>
+Carefully perform the "crush" and "gravity" steps.  In the crush step, flag each candy that should be removed, then go through and crush each flagged candy.  In the gravity step, collect the candy in each column and then rewrite the column appropriately.  Do these steps repeatedly until there's no work left to do.
+</details>

@@ -23,12 +23,24 @@ Return a deep copy of the list.
   1. [Clone Graph](https://github.com/openset/leetcode/tree/master/problems/clone-graph) (Medium)
 
 ### Hints
-  1. Just iterate the linked list and create copies of the nodes on the go. Since a node can be referenced from multiple nodes due to the random pointers, make sure you are not making multiple copies of the same node.
-  1. You may want to use extra space to keep <b>old node ---> new node</b> mapping to prevent creating multiples copies of same node.
-  1. We can avoid using extra space for old node ---> new node mapping, by tweaking the original linked list. Simply interweave the nodes of the old and copied list. 
+<details>
+<summary>Hint 1</summary>
+Just iterate the linked list and create copies of the nodes on the go. Since a node can be referenced from multiple nodes due to the random pointers, make sure you are not making multiple copies of the same node.
+</details>
+<details>
+<summary>Hint 2</summary>
+You may want to use extra space to keep <b>old node ---> new node</b> mapping to prevent creating multiples copies of same node.
+</details>
+<details>
+<summary>Hint 3</summary>
+We can avoid using extra space for old node ---> new node mapping, by tweaking the original linked list. Simply interweave the nodes of the old and copied list. 
 For e.g.
 <pre>
 Old List: A --> B --> C --> D
 InterWeaved List: A --> A' --> B --> B' --> C --> C' --> D --> D'
 </pre>
-  1. The interweaving is done using <b>next</b> pointers and we can make use of interweaved structure to get the correct reference nodes for <b>random</b> pointers.
+</details>
+<details>
+<summary>Hint 4</summary>
+The interweaving is done using <b>next</b> pointers and we can make use of interweaved structure to get the correct reference nodes for <b>random</b> pointers.
+</details>

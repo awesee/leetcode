@@ -44,5 +44,11 @@
   1. [Contains Duplicate II](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate-ii) (Easy)
 
 ### Hints
-  1. Time complexity O(n logk)  - This will give an indication that sorting is involved for k elements.
-  1. Use already existing state to evaluate next state  -  Like, a set of k sorted numbers are only needed to be tracked. When we are processing the next number in array, then we can utilize the existing sorted state and it is not necessary to sort next overlapping set of k numbers again.
+<details>
+<summary>Hint 1</summary>
+Time complexity O(n logk)  - This will give an indication that sorting is involved for k elements.
+</details>
+<details>
+<summary>Hint 2</summary>
+Use already existing state to evaluate next state  -  Like, a set of k sorted numbers are only needed to be tracked. When we are processing the next number in array, then we can utilize the existing sorted state and it is not necessary to sort next overlapping set of k numbers again.
+</details>

@@ -42,4 +42,7 @@
   1. [Fibonacci Number](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number) (Easy)
 
 ### Hints
-  1. To reach nth step, what could have been your previous steps? (Think about the step sizes)
+<details>
+<summary>Hint 1</summary>
+To reach nth step, what could have been your previous steps? (Think about the step sizes)
+</details>
