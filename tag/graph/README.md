@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 990 | [等式方程的可满足性](https://github.com/openset/leetcode/tree/master/problems/satisfiability-of-equality-equations) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 959 | [由斜杠划分区域](https://github.com/openset/leetcode/tree/master/problems/regions-cut-by-slashes) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 928 | [尽量减少恶意软件的传播 II](https://github.com/openset/leetcode/tree/master/problems/minimize-malware-spread-ii) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Hard |
 | 854 | [相似度为 K 的字符串](https://github.com/openset/leetcode/tree/master/problems/k-similar-strings) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Hard |
