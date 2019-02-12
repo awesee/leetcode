@@ -43,4 +43,7 @@ The only way to decode it is two-bit character and two-bit character. So the las
   1. [Gray Code](https://github.com/openset/leetcode/tree/master/problems/gray-code) (Medium)
 
 ### Hints
-  1. Keep track of where the next character starts.  At the end, you want to know if you started on the last bit.
+<details>
+<summary>Hint 1</summary>
+Keep track of where the next character starts.  At the end, you want to know if you started on the last bit.
+</details>

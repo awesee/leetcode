@@ -42,4 +42,7 @@ We could return these lists in any order, for example the answer [['Mary', 'mary
   1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity-ii) (Medium)
 
 ### Hints
-  1. For every pair of emails in the same account, draw an edge between those emails.  The problem is about enumerating the connected components of this graph.
+<details>
+<summary>Hint 1</summary>
+For every pair of emails in the same account, draw an edge between those emails.  The problem is about enumerating the connected components of this graph.
+</details>

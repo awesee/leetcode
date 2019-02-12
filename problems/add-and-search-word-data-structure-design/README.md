@@ -41,4 +41,7 @@ You may assume that all words are consist of lowercase letters <code>a-z</code>.
   1. [Prefix and Suffix Search](https://github.com/openset/leetcode/tree/master/problems/prefix-and-suffix-search) (Hard)
 
 ### Hints
-  1. You should be familiar with how a Trie works. If not, please work on this problem: <a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Implement Trie (Prefix Tree)</a> first.
+<details>
+<summary>Hint 1</summary>
+You should be familiar with how a Trie works. If not, please work on this problem: <a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Implement Trie (Prefix Tree)</a> first.
+</details>
