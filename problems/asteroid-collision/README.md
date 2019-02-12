@@ -68,4 +68,7 @@ Asteroids moving the same direction never meet, so no asteroids will meet each o
   1. [Can Place Flowers](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers) (Easy)
 
 ### Hints
-  1. Say a row of asteroids is stable.  What happens when a new asteroid is added on the right?
+<details>
+<summary>Hint 1</summary>
+Say a row of asteroids is stable.  What happens when a new asteroid is added on the right?
+</details>

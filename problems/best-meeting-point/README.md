@@ -18,4 +18,7 @@
   1. [Minimum Moves to Equal Array Elements II](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements-ii) (Medium)
 
 ### Hints
-  1. Try to solve it in one dimension first. How can this solution apply to the two dimension case?
+<details>
+<summary>Hint 1</summary>
+Try to solve it in one dimension first. How can this solution apply to the two dimension case?
+</details>

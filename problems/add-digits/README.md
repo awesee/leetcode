@@ -28,7 +28,19 @@ Could you do it without any loop/recursion in O(1) runtime?</p>
   1. [Happy Number](https://github.com/openset/leetcode/tree/master/problems/happy-number) (Easy)
 
 ### Hints
-  1. A naive implementation of the above process is trivial. Could you come up with other methods?
-  1. What are all the possible results?
-  1. How do they occur, periodically or randomly?
-  1. You may find this <a href="https://en.wikipedia.org/wiki/Digital_root" target="_blank">Wikipedia article</a> useful.
+<details>
+<summary>Hint 1</summary>
+A naive implementation of the above process is trivial. Could you come up with other methods?
+</details>
+<details>
+<summary>Hint 2</summary>
+What are all the possible results?
+</details>
+<details>
+<summary>Hint 3</summary>
+How do they occur, periodically or randomly?
+</details>
+<details>
+<summary>Hint 4</summary>
+You may find this <a href="https://en.wikipedia.org/wiki/Digital_root" target="_blank">Wikipedia article</a> useful.
+</details>

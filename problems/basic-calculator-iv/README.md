@@ -68,7 +68,9 @@ evalvars = [], evalints = []
   1. [Basic Calculator III](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iii) (Hard)
 
 ### Hints
-  1. One way is with a Polynomial class.  For example,
+<details>
+<summary>Hint 1</summary>
+One way is with a Polynomial class.  For example,
 
 * `Poly:add(this, that)` returns the result of `this + that`.
 * `Poly:sub(this, that)` returns the result of `this - that`.
@@ -79,3 +81,4 @@ evalvars = [], evalints = []
 * `Solution::combine(left, right, symbol)` returns the result of applying the binary operator represented by `symbol` to `left` and `right`.
 * `Solution::make(expr)` makes a new `Poly` represented by either the constant or free variable specified by `expr`.
 * `Solution::parse(expr)` parses an expression into a new `Poly`.
+</details>

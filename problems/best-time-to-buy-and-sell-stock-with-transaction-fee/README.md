@@ -35,4 +35,7 @@
   1. [Best Time to Buy and Sell Stock II](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-ii) (Easy)
 
 ### Hints
-  1. Consider the first K stock prices.  At the end, the only legal states are that you don't own a share of stock, or that you do.  Calculate the most profit you could have under each of these two cases.
+<details>
+<summary>Hint 1</summary>
+Consider the first K stock prices.  At the end, the only legal states are that you don't own a share of stock, or that you do.  Calculate the most profit you could have under each of these two cases.
+</details>
