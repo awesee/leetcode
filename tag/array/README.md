@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 989 | [数组形式的整数加法](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
+| 985 | [查询后的偶数和](https://github.com/openset/leetcode/tree/master/problems/sum-of-even-numbers-after-queries) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 978 | [最长湍流子数组](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 977 | [有序数组的平方](https://github.com/openset/leetcode/tree/master/problems/squares-of-a-sorted-array) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |
 | 976 | [三角形的最大周长](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |

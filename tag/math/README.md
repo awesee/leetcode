@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 991 | [坏了的计算器](https://github.com/openset/leetcode/tree/master/problems/broken-calculator) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 976 | [三角形的最大周长](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 973 | [最接近原点的 K 个点](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Easy |
 | 972 | [相等的有理数](https://github.com/openset/leetcode/tree/master/problems/equal-rational-numbers) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
