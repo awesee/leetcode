@@ -18,10 +18,22 @@
   1. [Closest Binary Search Tree Value](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value) (Easy)
 
 ### Hints
-  1. Consider implement these two helper functions:
+<details>
+<summary>Hint 1</summary>
+Consider implement these two helper functions:
 <ol type="i"><li><code>getPredecessor(N)</code>, which returns the next smaller node to N.</li>
 <li><code>getSuccessor(N)</code>, which returns the next larger node to N.</li>
 </ol>
-  1. Try to assume that each node has a parent pointer, it makes the problem much easier.
-  1. Without parent pointer we just need to keep track of the path from the root to the current node using a stack.
-  1. You would need two stacks to track the path in finding predecessor and successor node separately.
+</details>
+<details>
+<summary>Hint 2</summary>
+Try to assume that each node has a parent pointer, it makes the problem much easier.
+</details>
+<details>
+<summary>Hint 3</summary>
+Without parent pointer we just need to keep track of the path from the root to the current node using a stack.
+</details>
+<details>
+<summary>Hint 4</summary>
+You would need two stacks to track the path in finding predecessor and successor node separately.
+</details>

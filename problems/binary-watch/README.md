@@ -35,5 +35,11 @@
   1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)
 
 ### Hints
-  1. Simplify by seeking for solutions that involve comparing bit counts.
-  1. Consider calculating all possible times for comparison purposes.
+<details>
+<summary>Hint 1</summary>
+Simplify by seeking for solutions that involve comparing bit counts.
+</details>
+<details>
+<summary>Hint 2</summary>
+Consider calculating all possible times for comparison purposes.
+</details>
