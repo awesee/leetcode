@@ -37,8 +37,13 @@
   1. [Minimum Window Subsequence](https://github.com/openset/leetcode/tree/master/problems/minimum-window-subsequence) (Hard)
 
 ### Hints
-  1. Use two pointers to create a window of letters in <b>S</b>, which would have all the characters from <b>T</b>.
-  1. Since you have to find the minimum window in <b>S</b> which has all the characters from <b>T</b>, you need to expand and contract the window using the two pointers and keep checking the window for all the characters. This approach is also called Sliding Window Approach.
+<details>
+<summary>Hint 1</summary>
+Use two pointers to create a window of letters in <b>S</b>, which would have all the characters from <b>T</b>.
+</details>
+<details>
+<summary>Hint 2</summary>
+Since you have to find the minimum window in <b>S</b> which has all the characters from <b>T</b>, you need to expand and contract the window using the two pointers and keep checking the window for all the characters. This approach is also called Sliding Window Approach.
 
 <br><br>
 <pre>
@@ -47,3 +52,4 @@ L ------------------------ R , Suppose this is the window that contains all char
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp L----------------- R , this is the contracted window. We found a smaller window that still contains all the characters in <b>T</b>
 
 When the window is no longer valid, start expanding again using the right pointer. </pre>
+</details>
