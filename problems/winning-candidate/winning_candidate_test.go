@@ -1,1 +1,0 @@
-package winning_candidate
