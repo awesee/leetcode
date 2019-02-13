@@ -33,6 +33,12 @@ Output:
   1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self) (Hard)
 
 ### Hints
-  1. What can you say about the position of the shortest person? </br>
+<details>
+<summary>Hint 1</summary>
+What can you say about the position of the shortest person? </br>
 If the position of the shortest person is <i>i</i>, how many people would be in front of the shortest person?
-  1. Once you fix the position of the shortest person, what can you say about the position of the second shortest person?
+</details>
+<details>
+<summary>Hint 2</summary>
+Once you fix the position of the shortest person, what can you say about the position of the second shortest person?
+</details>

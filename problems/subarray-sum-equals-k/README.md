@@ -34,9 +34,21 @@
   1. [Find Pivot Index](https://github.com/openset/leetcode/tree/master/problems/find-pivot-index) (Easy)
 
 ### Hints
-  1. Will Brute force work here? Try to optimize it.
-  1. Can we optimize it by using some extra space?
-  1. What about storing sum frequencies in a hash table? Will it be useful?
-  1. sum(i,j)=sum(0,j)-sum(0,i), where sum(i,j) represents the sum of all the elements from index i to j-1.
+<details>
+<summary>Hint 1</summary>
+Will Brute force work here? Try to optimize it.
+</details>
+<details>
+<summary>Hint 2</summary>
+Can we optimize it by using some extra space?
+</details>
+<details>
+<summary>Hint 3</summary>
+What about storing sum frequencies in a hash table? Will it be useful?
+</details>
+<details>
+<summary>Hint 4</summary>
+sum(i,j)=sum(0,j)-sum(0,i), where sum(i,j) represents the sum of all the elements from index i to j-1.
 
 Can we use this property to optimize it.
+</details>

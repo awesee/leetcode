@@ -56,14 +56,28 @@ But the second continuation byte does not start with 10, so it is invalid.
   [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 
 ### Hints
-  1. All you have to do is follow the rules. For a given integer, obtain its binary representation in the string form and work with the rules given in the problem.
-  1. An integer can either represent the start of a UTF-8 character, or a part of an existing UTF-8 character. There are two separate rules for these two scenarios in the problem.
-  1. If an integer is a part of an existing UTF-8 character, simply check the 2 most significant bits of in the binary representation string. They should be <b>10</b>. If the integer represents the start of a UTF-8 character, then the first few bits would be <b>1</b> followed by a <b>0</b>. The number of initial bits (most significant) bits determines the length of the UTF-8 character. 
+<details>
+<summary>Hint 1</summary>
+All you have to do is follow the rules. For a given integer, obtain its binary representation in the string form and work with the rules given in the problem.
+</details>
+<details>
+<summary>Hint 2</summary>
+An integer can either represent the start of a UTF-8 character, or a part of an existing UTF-8 character. There are two separate rules for these two scenarios in the problem.
+</details>
+<details>
+<summary>Hint 3</summary>
+If an integer is a part of an existing UTF-8 character, simply check the 2 most significant bits of in the binary representation string. They should be <b>10</b>. If the integer represents the start of a UTF-8 character, then the first few bits would be <b>1</b> followed by a <b>0</b>. The number of initial bits (most significant) bits determines the length of the UTF-8 character. 
 
 <br><br>
 <b>Note:</b> The array can contain multiple valid UTF-8 characters.
-  1. String manipulation will work fine here. But, it is too slow. Can we instead use <b>bit manipulation</b> to do the validations instead of string manipulations?
-  1. We can use bit masking to check how many initial bits are set for a given number. <b>We only need to work with the 8 least significant bits as mentioned in the problem.</b>
+</details>
+<details>
+<summary>Hint 4</summary>
+String manipulation will work fine here. But, it is too slow. Can we instead use <b>bit manipulation</b> to do the validations instead of string manipulations?
+</details>
+<details>
+<summary>Hint 5</summary>
+We can use bit masking to check how many initial bits are set for a given number. <b>We only need to work with the 8 least significant bits as mentioned in the problem.</b>
 
 <pre>
 mask = 1 << 7
@@ -73,7 +87,10 @@ while mask & num:
 </pre>
 
 Can you use bit-masking to perform the second validation as well i.e. checking if the most significant bit is 1 and the second most significant bit a 0?
-  1. To check if the most significant bit is a 1 and the second most significant bit is a 0, we can make use of the following two masks.
+</details>
+<details>
+<summary>Hint 6</summary>
+To check if the most significant bit is a 1 and the second most significant bit is a 0, we can make use of the following two masks.
 
 <pre>
 mask1 = 1 << 7
@@ -82,3 +99,4 @@ mask2 = 1 << 6
 if not (num & mask1 and not (num & mask2)):
     return False
 </pre>
+</details>

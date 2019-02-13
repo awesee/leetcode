@@ -44,7 +44,9 @@ There are two ways to reach the bottom-right corner:
   1. [Unique Paths](https://github.com/openset/leetcode/tree/master/problems/unique-paths) (Medium)
 
 ### Hints
-  1. The robot can only move either down or right. Hence any cell in the first row can only be reached from the cell left to it. However, if any cell has an obstacle, you don't let that cell contribute to any path. So, for the first row, the number of ways will simply be 
+<details>
+<summary>Hint 1</summary>
+The robot can only move either down or right. Hence any cell in the first row can only be reached from the cell left to it. However, if any cell has an obstacle, you don't let that cell contribute to any path. So, for the first row, the number of ways will simply be 
 
 <pre>
 if obstacleGrid[i][j] is not an obstacle
@@ -54,8 +56,14 @@ else
 </pre>
 
 You can do a similar processing for finding out the number of ways of reaching the cells in the first column.
-  1. For any other cell, we can find out the number of ways of reaching it, by making use of the number of ways of reaching the cell directly above it and the cell to the left of it in the grid. This is because these are the only two directions from which the robot can come to the current cell.
-  1. Since we are making use of pre-computed values along the iteration, this becomes a dynamic programming problem.
+</details>
+<details>
+<summary>Hint 2</summary>
+For any other cell, we can find out the number of ways of reaching it, by making use of the number of ways of reaching the cell directly above it and the cell to the left of it in the grid. This is because these are the only two directions from which the robot can come to the current cell.
+</details>
+<details>
+<summary>Hint 3</summary>
+Since we are making use of pre-computed values along the iteration, this becomes a dynamic programming problem.
 
 <pre>
 if obstacleGrid[i][j] is not an obstacle
@@ -65,3 +73,4 @@ else
 </pre>
 
 </pre>
+</details>

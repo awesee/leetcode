@@ -63,7 +63,9 @@
   1. [Remove Invalid Parentheses](https://github.com/openset/leetcode/tree/master/problems/remove-invalid-parentheses) (Hard)
 
 ### Hints
-  1. An interesting property about a valid parenthesis expression is that a sub-expression of a valid expression should also be a valid expression. (Not every sub-expression) e.g.
+<details>
+<summary>Hint 1</summary>
+An interesting property about a valid parenthesis expression is that a sub-expression of a valid expression should also be a valid expression. (Not every sub-expression) e.g.
 
 <pre>
 { { } [ ] [ [ [ ] ] ] } is VALID expression
@@ -72,7 +74,10 @@
 </pre>
 
 Can we exploit this recursive structure somehow?
-  1. What if whenever we encounter a matching pair of parenthesis in the expression, we simply remove it from the expression? This would keep on shortening the expression. e.g.
+</details>
+<details>
+<summary>Hint 2</summary>
+What if whenever we encounter a matching pair of parenthesis in the expression, we simply remove it from the expression? This would keep on shortening the expression. e.g.
 
 <pre>
 { { ( { } ) } }
@@ -89,4 +94,8 @@ Can we exploit this recursive structure somehow?
 
 VALID EXPRESSION!
 </pre>
-  1. The <b>stack</b> data structure can come in handy here in representing this recursive structure of the problem. We can't really process this from the inside out because we don't have an idea about the overall structure. But, the stack can help us process this recursively i.e. from outside to inwards.
+</details>
+<details>
+<summary>Hint 3</summary>
+The <b>stack</b> data structure can come in handy here in representing this recursive structure of the problem. We can't really process this from the inside out because we don't have an idea about the overall structure. But, the stack can help us process this recursively i.e. from outside to inwards.
+</details>
