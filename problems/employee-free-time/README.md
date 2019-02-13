@@ -17,6 +17,9 @@
   1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
 
 ### Hints
-  1. Take all the intervals and do an "events" (or "line sweep") approach - an event of (x, OPEN) increases the number of active intervals, while (x, CLOSE) decreases it.
+<details>
+<summary>Hint 1</summary>
+Take all the intervals and do an "events" (or "line sweep") approach - an event of (x, OPEN) increases the number of active intervals, while (x, CLOSE) decreases it.
 
 Processing in sorted order from left to right, if the number of active intervals is zero, then you crossed a region of common free time.
+</details>

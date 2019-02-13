@@ -85,7 +85,9 @@ source = ["a/*comment", "line", "more_comment*/b"]
   1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser) (Medium)
 
 ### Hints
-  1. Carefully parse each line according to the following rules:
+<details>
+<summary>Hint 1</summary>
+Carefully parse each line according to the following rules:
 
 * If we start a block comment and we aren't in a block, then we will skip over the next two characters and change our state to be in a block.
 
@@ -96,3 +98,4 @@ source = ["a/*comment", "line", "more_comment*/b"]
 * If we aren't in a block comment (and it wasn't the start of a comment), we will record the character we are at.
 
 * At the end of each line, if we aren't in a block, we will record the line.
+</details>

@@ -79,7 +79,9 @@ of the final x in the add-expression.  That final x will equal 2.
   1. [Basic Calculator IV](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iv) (Hard)
 
 ### Hints
-  1. * If the expression starts with a digit or '-', it's an integer: return it.
+<details>
+<summary>Hint 1</summary>
+* If the expression starts with a digit or '-', it's an integer: return it.
 
 * If the expression starts with a letter, it's a variable.  Recall it by checking the current scope in reverse order.
 
@@ -88,3 +90,4 @@ of the final x in the add-expression.  That final x will equal 2.
 * For add and mult expressions, evaluate each token and return the addition or multiplication of them.
 
 * For let expressions, evaluate each expression sequentially and assign it to the variable in the current scope, then return the evaluation of the final expression.
+</details>
