@@ -48,4 +48,7 @@ Then, delete 3 again to earn 3 points, and 3 again to earn 3 points.
   1. [House Robber](https://github.com/openset/leetcode/tree/master/problems/house-robber) (Easy)
 
 ### Hints
-  1. If you take a number, you might as well take them all.  Keep track of what the value is of the subset of the input with maximum M when you either take or don't take M.
+<details>
+<summary>Hint 1</summary>
+If you take a number, you might as well take them all.  Keep track of what the value is of the subset of the input with maximum M when you either take or don't take M.
+</details>

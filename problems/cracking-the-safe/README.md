@@ -46,6 +46,9 @@ Please return any string of minimum length that is guaranteed to open the box af
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Hints
-  1. We can think of this problem as the problem of finding an Euler path (a path visiting every edge exactly once) on the following graph: there are $$k^{n-1}$$ nodes with each node having $$k$$ edges.  It turns out this graph always has an Eulerian circuit (path starting where it ends.)
+<details>
+<summary>Hint 1</summary>
+We can think of this problem as the problem of finding an Euler path (a path visiting every edge exactly once) on the following graph: there are $$k^{n-1}$$ nodes with each node having $$k$$ edges.  It turns out this graph always has an Eulerian circuit (path starting where it ends.)
 
 We should visit each node in "post-order" so as to not get stuck in the graph prematurely.
+</details>

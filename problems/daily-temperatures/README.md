@@ -26,4 +26,7 @@ Each temperature will be an integer in the range <code>[30, 100]</code>.
   1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-i) (Easy)
 
 ### Hints
-  1. If the temperature is say, 70 today, then in the future a warmer temperature must be either 71, 72, 73, ..., 99, or 100.  We could remember when all of them occur next.
+<details>
+<summary>Hint 1</summary>
+If the temperature is say, 70 today, then in the future a warmer temperature must be either 71, 72, 73, ..., 99, or 100.  We could remember when all of them occur next.
+</details>

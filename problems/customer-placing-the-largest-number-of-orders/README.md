@@ -50,4 +50,7 @@ The customer with number '3' has two orders, which is greater than either custom
 <p><i><b>Follow up:</b> What if more than one customer have the largest number of orders, can you find all the customer_number in this case?</i></p>
 
 ### Hints
-  1. MySQL uses a different expression to get the first records other than MSSQL's TOP expression.
+<details>
+<summary>Hint 1</summary>
+MySQL uses a different expression to get the first records other than MSSQL's TOP expression.
+</details>
