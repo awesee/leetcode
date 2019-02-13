@@ -48,7 +48,9 @@
   1. [String Compression](https://github.com/openset/leetcode/tree/master/problems/string-compression) (Easy)
 
 ### Hints
-  1. The following are the terms from n=1 to n=10 of the count-and-say sequence:
+<details>
+<summary>Hint 1</summary>
+The following are the terms from n=1 to n=10 of the count-and-say sequence:
 <pre>
  1.     1
  2.     11
@@ -61,4 +63,8 @@
  9.     31131211131221
 10.     13211311123113112211
 </pre>
-  1. To generate the <i>n</i><sup>th</sup> term, just <i>count and say</i> the <i>n</i>-1<sup>th</sup> term.
+</details>
+<details>
+<summary>Hint 2</summary>
+To generate the <i>n</i><sup>th</sup> term, just <i>count and say</i> the <i>n</i>-1<sup>th</sup> term.
+</details>

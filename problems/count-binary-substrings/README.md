@@ -41,4 +41,7 @@
   1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings) (Medium)
 
 ### Hints
-  1. How many valid binary substrings exist in "000111", and how many in "11100"?  What about "00011100"?
+<details>
+<summary>Hint 1</summary>
+How many valid binary substrings exist in "000111", and how many in "11100"?  What about "00011100"?
+</details>

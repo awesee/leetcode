@@ -38,6 +38,15 @@
   1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)
 
 ### Hints
-  1. You should make use of what you have produced already.
-  1. Divide the numbers in ranges like [2-3], [4-7], [8-15] and so on. And try to generate new range from previous.
-  1. Or does the odd/even status of the number help you in calculating the number of 1s?
+<details>
+<summary>Hint 1</summary>
+You should make use of what you have produced already.
+</details>
+<details>
+<summary>Hint 2</summary>
+Divide the numbers in ranges like [2-3], [4-7], [8-15] and so on. And try to generate new range from previous.
+</details>
+<details>
+<summary>Hint 3</summary>
+Or does the odd/even status of the number help you in calculating the number of 1s?
+</details>
