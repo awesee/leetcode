@@ -42,4 +42,7 @@ The shortest length is 2. So return 2.
   1. [Maximum Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray) (Easy)
 
 ### Hints
-  1. Say 5 is the only element that occurs the most number of times - for example, nums = [1, 5, 2, 3, 5, 4, 5, 6].  What is the answer?
+<details>
+<summary>Hint 1</summary>
+Say 5 is the only element that occurs the most number of times - for example, nums = [1, 5, 2, 3, 5, 4, 5, 6].  What is the answer?
+</details>

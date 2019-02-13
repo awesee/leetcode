@@ -16,5 +16,11 @@
   1. [Valid Tic-Tac-Toe State](https://github.com/openset/leetcode/tree/master/problems/valid-tic-tac-toe-state) (Medium)
 
 ### Hints
-  1. Could you trade extra space such that <code>move()</code> operation can be done in O(1)?
-  1. You need two arrays: int rows[n], int cols[n], plus two variables: diagonal, anti_diagonal.
+<details>
+<summary>Hint 1</summary>
+Could you trade extra space such that <code>move()</code> operation can be done in O(1)?
+</details>
+<details>
+<summary>Hint 2</summary>
+You need two arrays: int rows[n], int cols[n], plus two variables: diagonal, anti_diagonal.
+</details>

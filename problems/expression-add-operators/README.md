@@ -53,13 +53,28 @@
   1. [Target Sum](https://github.com/openset/leetcode/tree/master/problems/target-sum) (Medium)
 
 ### Hints
-  1. Note that a number can contain multiple digits.
-  1. Since the question asks us to find <b>all</b> of the valid expressions, we need a way to iterate over all of them. (<b>Hint:</b> Recursion!)
-  1. We can keep track of the expression string and evaluate it at the very end. But that would take a lot of time. Can we keep track of the expression's value as well so as to avoid the evaluation at the very end of recursion?
-  1. Think carefully about the multiply operator. It has a higher precedence than the addition and subtraction operators. 
+<details>
+<summary>Hint 1</summary>
+Note that a number can contain multiple digits.
+</details>
+<details>
+<summary>Hint 2</summary>
+Since the question asks us to find <b>all</b> of the valid expressions, we need a way to iterate over all of them. (<b>Hint:</b> Recursion!)
+</details>
+<details>
+<summary>Hint 3</summary>
+We can keep track of the expression string and evaluate it at the very end. But that would take a lot of time. Can we keep track of the expression's value as well so as to avoid the evaluation at the very end of recursion?
+</details>
+<details>
+<summary>Hint 4</summary>
+Think carefully about the multiply operator. It has a higher precedence than the addition and subtraction operators. 
 
 <br> 1 + 2 = 3  <br>
 1 + 2 - 4 --> 3 - 4 --> -1 <br>
 1 + 2 - 4 * 12 --> -1 * 12 --> -12 (WRONG!) <br>
 1 + 2 - 4 * 12 --> -1 - (-4) + (-4 * 12) --> 3 + (-48) --> -45 (CORRECT!)
-  1. We simply need to keep track of the last operand in our expression and reverse it's effect on the expression's value while considering the multiply operator.
+</details>
+<details>
+<summary>Hint 5</summary>
+We simply need to keep track of the last operand in our expression and reverse it's effect on the expression's value while considering the multiply operator.
+</details>
