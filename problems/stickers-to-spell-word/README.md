@@ -61,10 +61,13 @@ We can't form the target "basicbasic" from cutting letters from the given sticke
   1. [Ransom Note](https://github.com/openset/leetcode/tree/master/problems/ransom-note) (Easy)
 
 ### Hints
-  1. We want to perform an exhaustive search, but we need to speed it up based on the input data being random.  
+<details>
+<summary>Hint 1</summary>
+We want to perform an exhaustive search, but we need to speed it up based on the input data being random.  
 
 For all stickers, we can ignore any letters that are not in the target word.  
 
 When our candidate answer won't be smaller than an answer we have already found, we can stop searching this path.  
 
 When a sticker dominates another, we shouldn't include the dominated sticker in our sticker collection.  [Here, we say a sticker `A` dominates `B` if `A.count(letter) >= B.count(letter)` for all letters.]
+</details>

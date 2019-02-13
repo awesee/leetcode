@@ -66,6 +66,9 @@ The count of elements are {'K': 4, 'N': 2, 'O': 14, 'S': 4}.
   1. [Parse Lisp Expression](https://github.com/openset/leetcode/tree/master/problems/parse-lisp-expression) (Hard)
 
 ### Hints
-  1. To parse formula[i:], when we see a `'('`, we will parse recursively whatever is inside the brackets (up to the correct closing ending bracket) and add it to our count, multiplying by the following multiplicity if there is one.
+<details>
+<summary>Hint 1</summary>
+To parse formula[i:], when we see a `'('`, we will parse recursively whatever is inside the brackets (up to the correct closing ending bracket) and add it to our count, multiplying by the following multiplicity if there is one.
 
 Otherwise, we should see an uppercase character: we will parse the rest of the letters to get the name, and add that (plus the multiplicity if there is one.)
+</details>
