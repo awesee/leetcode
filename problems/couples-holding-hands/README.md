@@ -44,4 +44,7 @@ The couples' initial seating is given by <code>row[i]</code> being the value of 
   1. [K-Similar Strings](https://github.com/openset/leetcode/tree/master/problems/k-similar-strings) (Hard)
 
 ### Hints
-  1. Say there are N two-seat couches.  For each couple, draw an edge from the couch of one partner to the couch of the other partner.
+<details>
+<summary>Hint 1</summary>
+Say there are N two-seat couches.  For each couple, draw an edge from the couch of one partner to the couch of the other partner.
+</details>

@@ -27,9 +27,17 @@
   1. [Perfect Squares](https://github.com/openset/leetcode/tree/master/problems/perfect-squares) (Medium)
 
 ### Hints
-  1. <p>Let's start with a <i>isPrime</i> function. To determine if a number is prime, we need to check if it is not divisible by any number less than <i>n</i>. The runtime complexity of <i>isPrime</i> function would be O(<i>n</i>) and hence counting the total prime numbers up to <i>n</i> would be O(<i>n</i><sup>2</sup>). Could we do better?</p>
-  1. <p>As we know the number must not be divisible by any number > <i>n</i> / 2, we can immediately cut the total iterations half by dividing only up to <i>n</i> / 2. Could we still do better?</p>
-  1. <p>Let's write down all of 12's factors:</p>
+<details>
+<summary>Hint 1</summary>
+<p>Let's start with a <i>isPrime</i> function. To determine if a number is prime, we need to check if it is not divisible by any number less than <i>n</i>. The runtime complexity of <i>isPrime</i> function would be O(<i>n</i>) and hence counting the total prime numbers up to <i>n</i> would be O(<i>n</i><sup>2</sup>). Could we do better?</p>
+</details>
+<details>
+<summary>Hint 2</summary>
+<p>As we know the number must not be divisible by any number > <i>n</i> / 2, we can immediately cut the total iterations half by dividing only up to <i>n</i> / 2. Could we still do better?</p>
+</details>
+<details>
+<summary>Hint 3</summary>
+<p>Let's write down all of 12's factors:</p>
 <pre>
 2 × 6 = 12
 3 × 4 = 12
@@ -60,7 +68,10 @@ private boolean isPrime(int num) {
    return true;
 }
 </pre>
-  1. <p>The <a href="http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes" target="_blank">Sieve of Eratosthenes</a> is one of the most efficient ways to find all prime numbers up to <i>n</i>. But don't let that name scare you, I promise that the concept is surprisingly simple.</p>
+</details>
+<details>
+<summary>Hint 4</summary>
+<p>The <a href="http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes" target="_blank">Sieve of Eratosthenes</a> is one of the most efficient ways to find all prime numbers up to <i>n</i>. But don't let that name scare you, I promise that the concept is surprisingly simple.</p>
 
 <p>
 <img src="/static/images/solutions/Sieve_of_Eratosthenes_animation.gif" /><br />
@@ -68,10 +79,22 @@ private boolean isPrime(int num) {
 </p>
 
 <p>We start off with a table of <i>n</i> numbers. Let's look at the first number, 2. We know all multiples of 2 must not be primes, so we mark them off as non-primes. Then we look at the next number, 3. Similarly, all multiples of 3 such as 3 × 2 = 6, 3 × 3 = 9, ... must not be primes, so we mark them off as well. Now we look at the next number, 4, which was already marked off. What does this tell you? Should you mark off all multiples of 4 as well?</p>
-  1. <p>4 is not a prime because it is divisible by 2, which means all multiples of 4 must also be divisible by 2 and were already marked off. So we can skip 4 immediately and go to the next number, 5. Now, all multiples of 5 such as 5 × 2 = 10, 5 × 3 = 15, 5 × 4 = 20, 5 × 5 = 25, ... can be marked off. There is a slight optimization here, we do not need to start from 5 × 2 = 10. Where should we start marking off?</p>
-  1. <p>In fact, we can mark off multiples of 5 starting at 5 × 5 = 25, because 5 × 2 = 10 was already marked off by multiple of 2, similarly 5 × 3 = 15 was already marked off by multiple of 3. Therefore, if the current number is <i>p</i>, we can always mark off multiples of <i>p</i> starting at <i>p</i><sup>2</sup>, then in increments of <i>p</i>: <i>p</i><sup>2</sup> + <i>p</i>, <i>p</i><sup>2</sup> + 2<i>p</i>, ... Now what should be the terminating loop condition?</p>
-  1. <p>It is easy to say that the terminating loop condition is <i>p</i> < <i>n</i>, which is certainly correct but not efficient. Do you still remember <i>Hint #3</i>?</p>
-  1. <p>Yes, the terminating loop condition can be <i>p</i> < &radic;<i>n</i>, as all non-primes &ge; &radic;<i>n</i> must have already been marked off. When the loop terminates, all the numbers in the table that are non-marked are prime.</p>
+</details>
+<details>
+<summary>Hint 5</summary>
+<p>4 is not a prime because it is divisible by 2, which means all multiples of 4 must also be divisible by 2 and were already marked off. So we can skip 4 immediately and go to the next number, 5. Now, all multiples of 5 such as 5 × 2 = 10, 5 × 3 = 15, 5 × 4 = 20, 5 × 5 = 25, ... can be marked off. There is a slight optimization here, we do not need to start from 5 × 2 = 10. Where should we start marking off?</p>
+</details>
+<details>
+<summary>Hint 6</summary>
+<p>In fact, we can mark off multiples of 5 starting at 5 × 5 = 25, because 5 × 2 = 10 was already marked off by multiple of 2, similarly 5 × 3 = 15 was already marked off by multiple of 3. Therefore, if the current number is <i>p</i>, we can always mark off multiples of <i>p</i> starting at <i>p</i><sup>2</sup>, then in increments of <i>p</i>: <i>p</i><sup>2</sup> + <i>p</i>, <i>p</i><sup>2</sup> + 2<i>p</i>, ... Now what should be the terminating loop condition?</p>
+</details>
+<details>
+<summary>Hint 7</summary>
+<p>It is easy to say that the terminating loop condition is <i>p</i> < <i>n</i>, which is certainly correct but not efficient. Do you still remember <i>Hint #3</i>?</p>
+</details>
+<details>
+<summary>Hint 8</summary>
+<p>Yes, the terminating loop condition can be <i>p</i> < &radic;<i>n</i>, as all non-primes &ge; &radic;<i>n</i> must have already been marked off. When the loop terminates, all the numbers in the table that are non-marked are prime.</p>
 
 <p>The Sieve of Eratosthenes uses an extra O(<i>n</i>) memory and its runtime complexity is O(<i>n</i> log log <i>n</i>). For the more mathematically inclined readers, you can read more about its algorithm complexity on <a href="http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#Algorithm_complexity" target="_blank">Wikipedia</a>.</p>
 
@@ -96,3 +119,4 @@ public int countPrimes(int n) {
    return count;
 }
 </pre>
+</details>
