@@ -77,10 +77,7 @@ func (s statType) TranslationTitle() string {
 }
 
 func (s statType) Lang() string {
-	if lang, ok := langSet[s.QuestionTitleSlug]; ok {
-		return lang
-	}
-	return "Go"
+	return getLang(s.QuestionTitleSlug)
 }
 
 func (d difficultyType) LevelName() string {

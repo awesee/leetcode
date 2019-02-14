@@ -20,7 +20,6 @@ var (
 	checkErr        = base.CheckErr
 	filePutContents = base.FilePutContents
 	LockStr         = " 🔒"
-	langSet         = make(map[string]string)
 	translationSet  = make(map[int]string)
 )
 

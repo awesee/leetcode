@@ -13,7 +13,6 @@ func ProblemsShell() (ps problemsType) {
 func init() {
 	problems := ProblemsShell()
 	for _, problem := range problems.StatStatusPairs {
-		slug := problem.Stat.QuestionTitleSlug
-		langSet[slug] = "Bash"
+		saveAsBash(problem.Stat.QuestionTitleSlug)
 	}
 }
