@@ -46,6 +46,15 @@ The highest answer rate meaning is: answer number's ratio in show number in the 
 </p>
 
 ### Hints
-  1. Try to find all question ids by group
-  1. Try to find each group answer number and show number.
-  1. Rank all the rates (answer/(answer+show)) and return the max one
+<details>
+<summary>Hint 1</summary>
+Try to find all question ids by group
+</details>
+<details>
+<summary>Hint 2</summary>
+Try to find each group answer number and show number.
+</details>
+<details>
+<summary>Hint 3</summary>
+Rank all the rates (answer/(answer+show)) and return the max one
+</details>
