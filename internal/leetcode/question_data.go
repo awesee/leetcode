@@ -159,6 +159,9 @@ func (question questionType) PackageName() string {
 }
 
 func (question questionType) SaveCodeSnippet() {
+	if isLangMySQL(question.TitleSlug) {
+		filePutContents(question.getFilePath(question.TitleSnake()+".sql"), []byte("# Write your MySQL query statement below\n"))
+	}
 	langSupport := [...]struct {
 		slug   string
 		handle func(questionType, codeSnippetsType)

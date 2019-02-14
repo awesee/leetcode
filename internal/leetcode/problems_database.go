@@ -13,7 +13,6 @@ func ProblemsDatabase() (ps problemsType) {
 func init() {
 	problems := ProblemsDatabase()
 	for _, problem := range problems.StatStatusPairs {
-		slug := problem.Stat.QuestionTitleSlug
-		langSet[slug] = "MySQL"
+		saveAsMySQL(problem.Stat.QuestionTitleSlug)
 	}
 }
