@@ -12,11 +12,11 @@ import (
 
 func QuestionData(titleSlug string) (qd questionDataType) {
 	jsonStr := `{
-  		"operationName": "questionData",
-  		"variables": {
-    		"titleSlug": "` + titleSlug + `"
-  		},
-  		"query": "query questionData($titleSlug: String!) {\n  question(titleSlug: $titleSlug) {\n    questionId\n    questionFrontendId\n    boundTopicId\n    title\n    titleSlug\n    content\n    translatedTitle\n    translatedContent\n    isPaidOnly\n    difficulty\n    likes\n    dislikes\n    isLiked\n    similarQuestions\n    contributors {\n      username\n      profileUrl\n      avatarUrl\n      __typename\n    }\n    langToValidPlayground\n    topicTags {\n      name\n      slug\n      translatedName\n      __typename\n    }\n    companyTagStats\n    codeSnippets {\n      lang\n      langSlug\n      code\n      __typename\n    }\n    stats\n    hints\n    solution {\n      id\n      canSeeDetail\n      __typename\n    }\n    status\n    sampleTestCase\n    metaData\n    judgerAvailable\n    judgeType\n    mysqlSchemas\n    enableRunCode\n    enableTestMode\n    envInfo\n    __typename\n  }\n}\n"
+		"operationName": "questionData",
+		"variables": {
+			"titleSlug": "` + titleSlug + `"
+		},
+		"query": "query questionData($titleSlug: String!) {\n  question(titleSlug: $titleSlug) {\n    questionId\n    questionFrontendId\n    boundTopicId\n    title\n    titleSlug\n    content\n    translatedTitle\n    translatedContent\n    isPaidOnly\n    difficulty\n    likes\n    dislikes\n    isLiked\n    similarQuestions\n    contributors {\n      username\n      profileUrl\n      avatarUrl\n      __typename\n    }\n    langToValidPlayground\n    topicTags {\n      name\n      slug\n      translatedName\n      __typename\n    }\n    companyTagStats\n    codeSnippets {\n      lang\n      langSlug\n      code\n      __typename\n    }\n    stats\n    hints\n    solution {\n      id\n      canSeeDetail\n      __typename\n    }\n    status\n    sampleTestCase\n    metaData\n    judgerAvailable\n    judgeType\n    mysqlSchemas\n    enableRunCode\n    enableTestMode\n    envInfo\n    __typename\n  }\n}\n"
 	}`
 	filename := "question_data_" + strings.Replace(titleSlug, "-", "_", -1) + ".json"
 	graphQLRequest(filename, 30, jsonStr, &qd)
@@ -54,6 +54,7 @@ type questionType struct {
 	TopicTags          []tagType          `json:"topicTags"`
 	CodeSnippets       []codeSnippetsType `json:"codeSnippets"`
 	Hints              []string           `json:"hints"`
+	MysqlSchemas       []string           `json:"mysqlSchemas"`
 }
 
 type codeSnippetsType struct {
@@ -221,6 +222,11 @@ func handleCodePython(question questionType, code codeSnippetsType) {
 
 func handleCodeSQL(question questionType, code codeSnippetsType) {
 	question.saveCodeContent(code.Code, ".sql")
+	var buf bytes.Buffer
+	for _, s := range question.MysqlSchemas {
+		buf.WriteString(s + ";\n")
+	}
+	filePutContents(question.getFilePath("mysql_schemas.sql"), buf.Bytes())
 }
 
 const testTpl = `package {{packageName}}
