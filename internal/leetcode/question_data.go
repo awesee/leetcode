@@ -82,6 +82,7 @@ func (d difficultyStrType) Str() (s string) {
 func (question questionType) SaveContent() {
 	fmt.Println(question.QuestionFrontendId, "\t"+question.Title, "saving...")
 	filePutContents(question.getFilePath("README.md"), question.getDescContent())
+	question.saveMysqlSchemas()
 }
 
 func (question questionType) getDescContent() []byte {
@@ -190,6 +191,14 @@ func (question questionType) saveCodeContent(content, ext string, permX ...bool)
 	}
 }
 
+func (question questionType) saveMysqlSchemas() {
+	var buf bytes.Buffer
+	for _, s := range question.MysqlSchemas {
+		buf.WriteString(s + ";\n")
+	}
+	filePutContents(question.getFilePath("mysql_schemas.sql"), buf.Bytes())
+}
+
 func handleCodeGolang(question questionType, code codeSnippetsType) {
 	content := fmt.Sprintf("package %s\n\n", question.PackageName())
 	content += code.Code + "\n"
@@ -222,11 +231,7 @@ func handleCodePython(question questionType, code codeSnippetsType) {
 
 func handleCodeSQL(question questionType, code codeSnippetsType) {
 	question.saveCodeContent(code.Code, ".sql")
-	var buf bytes.Buffer
-	for _, s := range question.MysqlSchemas {
-		buf.WriteString(s + ";\n")
-	}
-	filePutContents(question.getFilePath("mysql_schemas.sql"), buf.Bytes())
+	question.saveMysqlSchemas()
 }
 
 const testTpl = `package {{packageName}}
