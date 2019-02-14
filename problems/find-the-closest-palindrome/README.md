@@ -29,7 +29,19 @@
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Hints
-  1. Will brute force work for this problem? Think of something else.
-  1. Take some examples like 1234, 999,1000, etc and check their closest palindromes. How many different cases are possible?
-  1. Do we have to consider only left half or right half of the string or both?
-  1. Try to find the closest palindrome of these numbers- 12932, 99800, 12120. Did you observe something?
+<details>
+<summary>Hint 1</summary>
+Will brute force work for this problem? Think of something else.
+</details>
+<details>
+<summary>Hint 2</summary>
+Take some examples like 1234, 999,1000, etc and check their closest palindromes. How many different cases are possible?
+</details>
+<details>
+<summary>Hint 3</summary>
+Do we have to consider only left half or right half of the string or both?
+</details>
+<details>
+<summary>Hint 4</summary>
+Try to find the closest palindrome of these numbers- 12932, 99800, 12120. Did you observe something?
+</details>

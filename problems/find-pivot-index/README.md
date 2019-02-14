@@ -47,5 +47,8 @@ There is no index that satisfies the conditions in the problem statement.
   1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)
 
 ### Hints
-  1. We can precompute prefix sums P[i] = nums[0] + nums[1] + ... + nums[i-1].
+<details>
+<summary>Hint 1</summary>
+We can precompute prefix sums P[i] = nums[0] + nums[1] + ... + nums[i-1].
 Then for each index, the left sum is P[i], and the right sum is P[P.length - 1] - P[i] - nums[i].
+</details>

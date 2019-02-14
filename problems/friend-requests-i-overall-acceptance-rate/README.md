@@ -53,5 +53,11 @@ For the sample data above, your query should return the following result.</p>
 <li>How about the cumulative accept rate for every day?</li>
 
 ### Hints
-  1. Still remember how to count the number of rows in a table?
-  1. What is the keyword to filter the duplicated records in a table?
+<details>
+<summary>Hint 1</summary>
+Still remember how to count the number of rows in a table?
+</details>
+<details>
+<summary>Hint 2</summary>
+What is the keyword to filter the duplicated records in a table?
+</details>
