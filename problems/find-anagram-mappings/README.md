@@ -13,4 +13,7 @@
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### Hints
-  1. Create a hashmap so that D[x] = i  whenever B[i] = x.  Then, the answer is [D[x] for x in A].
+<details>
+<summary>Hint 1</summary>
+Create a hashmap so that D[x] = i  whenever B[i] = x.  Then, the answer is [D[x] for x in A].
+</details>

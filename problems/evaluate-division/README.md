@@ -32,4 +32,7 @@ The input is always valid. You may assume that evaluating the queries will resul
   [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ### Hints
-  1. Do you recognize this as a graph problem?
+<details>
+<summary>Hint 1</summary>
+Do you recognize this as a graph problem?
+</details>

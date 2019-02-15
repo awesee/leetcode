@@ -37,4 +37,7 @@
 </pre>
 
 ### Hints
-  1. Be careful of the NULL value
+<details>
+<summary>Hint 1</summary>
+Be careful of the NULL value
+</details>

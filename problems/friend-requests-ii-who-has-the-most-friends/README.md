@@ -37,4 +37,7 @@ The person with id '3' is a friend of people '1', '2' and '4', so he has 3 frien
 <b>Follow-up:</b></br> In the real world, multiple people could have the same most number of friends, can you find all these people in this case?
 
 ### Hints
-  1. Being friends is bidirectional. If you accept someone's adding friend request, both you and the other person will have one more friend.
+<details>
+<summary>Hint 1</summary>
+Being friends is bidirectional. If you accept someone's adding friend request, both you and the other person will have one more friend.
+</details>

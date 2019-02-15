@@ -43,4 +43,7 @@ to the starting pixel.
   1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/problems/island-perimeter) (Easy)
 
 ### Hints
-  1. Write a recursive function that paints the pixel if it's the correct color, then recurses on neighboring pixels.
+<details>
+<summary>Hint 1</summary>
+Write a recursive function that paints the pixel if it's the correct color, then recurses on neighboring pixels.
+</details>

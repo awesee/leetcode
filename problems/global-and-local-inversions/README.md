@@ -44,4 +44,7 @@
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Hints
-  1. Where can the 0 be placed in an ideal permutation?  What about the 1?
+<details>
+<summary>Hint 1</summary>
+Where can the 0 be placed in an ideal permutation?  What about the 1?
+</details>
