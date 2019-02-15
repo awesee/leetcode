@@ -18,8 +18,7 @@ func SliceInt2TreeNode(s []int) *TreeNode {
 		return nil
 	}
 	tree := &TreeNode{Val: s[0]}
-	queue := make([]*TreeNode, 0)
-	node := tree
+	node, queue := tree, make([]*TreeNode, 0)
 	for i := 1; i < l; i++ {
 		if s[i] != NULL {
 			node.Left = &TreeNode{Val: s[i]}
@@ -43,8 +42,7 @@ func SliceInt2TreeNode(s []int) *TreeNode {
 // convert *TreeNode to []int
 func TreeNode2SliceInt(t *TreeNode) (s []int) {
 	if t != nil {
-		queue := make([]*TreeNode, 1)
-		queue[0] = t
+		queue := []*TreeNode{t}
 		for len(queue) > 0 {
 			if queue[0] != nil {
 				s = append(s, queue[0].Val)
