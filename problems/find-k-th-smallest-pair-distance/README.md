@@ -45,4 +45,7 @@ Then the 1st smallest distance pair is (1,1), and its distance is 0.
   1. [K-th Smallest Prime Fraction](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-prime-fraction) (Hard)
 
 ### Hints
-  1. Binary search for the answer.  How can you check how many pairs have distance <= X?
+<details>
+<summary>Hint 1</summary>
+Binary search for the answer.  How can you check how many pairs have distance <= X?
+</details>

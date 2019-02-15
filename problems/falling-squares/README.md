@@ -76,4 +76,7 @@ Thus, we return an answer of <code>[2, 5, 5]</code>.
   1. [The Skyline Problem](https://github.com/openset/leetcode/tree/master/problems/the-skyline-problem) (Hard)
 
 ### Hints
-  1. If positions = [[10, 20], [20, 30]], this is the same as [[1, 2], [2, 3]].  Currently, the values of positions are very large.  Can you generalize this approach so as to make the values in positions manageable?
+<details>
+<summary>Hint 1</summary>
+If positions = [[10, 20], [20, 30]], this is the same as [[1, 2], [2, 3]].  Currently, the values of positions are very large.  Can you generalize this approach so as to make the values in positions manageable?
+</details>
