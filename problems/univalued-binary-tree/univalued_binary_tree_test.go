@@ -21,6 +21,10 @@ func TestIsUnivalTree(t *testing.T) {
 			input:    []int{2, 2, 2, 5, 2},
 			expected: false,
 		},
+		{
+			input:    []int{3, 3, 3, 3, 5},
+			expected: false,
+		},
 	}
 	for _, tc := range tests {
 		output := isUnivalTree(SliceInt2TreeNode(tc.input))
