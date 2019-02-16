@@ -5,7 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/two-sum "Two Sum") 　　　　　　　　　　　　　　　　　　　　　　　　 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-substring-without-repeating-characters "Longest Substring Without Repeating Characters")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/two-sum "Two Sum")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-substring-without-repeating-characters "Longest Substring Without Repeating Characters")
 
 ## 2. Add Two Numbers (Medium)
 
