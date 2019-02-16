@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## 1. Two Sum (Easy)
+## 1. Two Sum (Easy) <span style="float: right;">< Previous [Next >](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers "Add Two Numbers")</span>
 
 <p>Given an array of integers, return <strong>indices</strong> of the two numbers such that they add up to a specific target.</p>
 
