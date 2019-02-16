@@ -6,6 +6,7 @@ import (
 	"os"
 	"path"
 	"regexp"
+	"strconv"
 	"strings"
 	"unicode"
 )
@@ -88,6 +89,7 @@ func (question questionType) SaveContent() {
 func (question questionType) getDescContent() []byte {
 	var buf bytes.Buffer
 	buf.WriteString(authInfo("description"))
+	buf.WriteString(question.getNavigation())
 	buf.WriteString(fmt.Sprintf("\n## %s. %s%s\n\n", question.QuestionFrontendId, question.Title, question.Difficulty.Str()))
 	content := strings.Replace(question.Content, "\r", "", -1)
 	// remove style
@@ -100,6 +102,26 @@ func (question questionType) getDescContent() []byte {
 	buf.Write(question.getSimilarQuestion())
 	buf.Write(question.getHints())
 	return buf.Bytes()
+}
+
+func (question questionType) getNavigation() string {
+	nav, pre, next := "\n### %s %s\n", "< Previous", "Next >"
+	problems := ProblemsAll().StatStatusPairs
+	if questionId, err := strconv.Atoi(question.QuestionId); err == nil {
+		format := `[%s](https://github.com/openset/leetcode/tree/master/problems/%s "%s")`
+		for i, problem := range problems {
+			if problem.Stat.QuestionId == questionId {
+				if i < len(problems)-1 {
+					pre = fmt.Sprintf(format, pre, problems[i+1].Stat.QuestionTitleSlug, problems[i+1].Stat.QuestionTitle)
+				}
+				if i > 0 {
+					next = fmt.Sprintf(format, next, problems[i-1].Stat.QuestionTitleSlug, problems[i-1].Stat.QuestionTitle)
+				}
+				break
+			}
+		}
+	}
+	return fmt.Sprintf(nav, pre, next)
 }
 
 func (question questionType) getTopicTags() []byte {
