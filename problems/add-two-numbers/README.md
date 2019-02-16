@@ -7,7 +7,7 @@
 
 ### [< Previous](https://github.com/openset/leetcode/tree/master/problems/two-sum "Two Sum") [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-substring-without-repeating-characters "Longest Substring Without Repeating Characters")
 
-## 2. Add Two Numbers (Medium) 
+## 2. Add Two Numbers (Medium)
 
 <p>You are given two <b>non-empty</b> linked lists representing two non-negative integers. The digits are stored in <b>reverse order</b> and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.</p>
 
