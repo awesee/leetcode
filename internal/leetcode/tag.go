@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"path"
 	"regexp"
+	"sort"
 	"strconv"
 	"strings"
 
@@ -117,29 +118,22 @@ func (question ttQuestionType) TagsStr() string {
 
 func (tag tagType) SaveContents() {
 	questions := GetTopicTag(tag.Slug).Data.TopicTag.Questions
+	sort.Slice(questions, func(i, j int) bool {
+		m, _ := strconv.Atoi(questions[i].QuestionFrontendId)
+		n, _ := strconv.Atoi(questions[j].QuestionFrontendId)
+		return m > n
+	})
 	var buf bytes.Buffer
 	buf.WriteString(authInfo("tag"))
 	buf.WriteString(fmt.Sprintf("\n## %s\n\n", tag.ShowName()))
 	buf.WriteString("| # | 题名 | 标签 | 难度 |\n")
 	buf.WriteString("| :-: | - | - | :-: |\n")
 	format := "| %s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s)%s | %s | %s |\n"
-	maxId := 0
-	rows := make(map[int]string)
 	for _, question := range questions {
-		id, err := strconv.Atoi(question.QuestionFrontendId)
-		checkErr(err)
 		if question.TranslatedTitle == "" {
 			question.TranslatedTitle = question.Title
 		}
-		rows[id] = fmt.Sprintf(format, question.QuestionFrontendId, question.TranslatedTitle, question.TitleSlug, question.IsPaidOnly.Str(), question.TagsStr(), question.Difficulty)
-		if id > maxId {
-			maxId = id
-		}
-	}
-	for i := maxId; i > 0; i-- {
-		if row, ok := rows[i]; ok {
-			buf.WriteString(row)
-		}
+		buf.WriteString(fmt.Sprintf(format, question.QuestionFrontendId, question.TranslatedTitle, question.TitleSlug, question.IsPaidOnly.Str(), question.TagsStr(), question.Difficulty))
 	}
 	filename := path.Join("tag", tag.Slug, "README.md")
 	filePutContents(filename, buf.Bytes())
