@@ -5,7 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## 1. Two Sum (Easy) <span style="float: right;">< Previous [Next >](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers "Add Two Numbers")</span>
+<div style="float: right;">< Previous <a href="https://leetcode.com/problems/add-two-numbers" title="Add Two Numbers">Next ></a></div>
+
+## 1. Two Sum (Easy)
 
 <p>Given an array of integers, return <strong>indices</strong> of the two numbers such that they add up to a specific target.</p>
 
