@@ -33,38 +33,31 @@ func runReadme(cmd *base.Command, args []string) {
 }
 
 func writeProblems(buf *bytes.Buffer) {
-	problems := leetcode.ProblemsAll()
-	problemsSet := make(map[int]string)
-	maxId := 0
-	for _, problem := range problems.StatStatusPairs {
-		id := problem.Stat.FrontendQuestionId
-		stat := problem.Stat
-		title := strings.TrimSpace(problem.Stat.QuestionTitle)
-		slug := problem.Stat.QuestionTitleSlug
-		levelName := problem.Difficulty.LevelName()
-		format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s%s)%s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s) | %s |\n"
-		problemsSet[id] = fmt.Sprintf(format, id, id, title, slug, stat.TranslationTitle(), problem.PaidOnly.Str(), stat.Lang(), slug, levelName)
-		if id > maxId {
-			maxId = id
+	problems := leetcode.ProblemsAll().StatStatusPairs
+	if len(problems) > 0 {
+		maxId := problems[0].Stat.FrontendQuestionId
+		// table
+		step, long := 50, 300
+		buf.WriteString("<table><thead>\n")
+		for i := 0; i < maxId; i += long {
+			buf.WriteString("<tr>\n")
+			for j := 0; j < long/step; j++ {
+				buf.WriteString(fmt.Sprintf("\t<th align=\"center\"><a href=\"#%d\">[%d-%d]</a></th>\n", 1+i+j*step, 1+i+j*step, i+j*step+step))
+			}
+			buf.WriteString("</tr>\n")
 		}
-	}
-	// table
-	step, long := 50, 300
-	buf.WriteString("<table><thead>\n")
-	for i := 0; i < maxId; i += long {
-		buf.WriteString("<tr>\n")
-		for j := 0; j < long/step; j++ {
-			buf.WriteString(fmt.Sprintf("\t<th align=\"center\"><a href=\"#%d\">[%d-%d]</a></th>\n", 1+i+j*step, 1+i+j*step, i+j*step+step))
-		}
-		buf.WriteString("</tr>\n")
-	}
-	buf.WriteString("</thead></table>\n\n")
-	// list
-	buf.WriteString("| # | Title | Solution | Difficulty |\n")
-	buf.WriteString("| :-: | - | - | :-: |\n")
-	for i := maxId; i > 0; i-- {
-		if row, ok := problemsSet[i]; ok {
-			buf.WriteString(row)
+		buf.WriteString("</thead></table>\n\n")
+		// list
+		buf.WriteString("| # | Title | Solution | Difficulty |\n")
+		buf.WriteString("| :-: | - | - | :-: |\n")
+		for _, problem := range problems {
+			id := problem.Stat.FrontendQuestionId
+			stat := problem.Stat
+			title := strings.TrimSpace(problem.Stat.QuestionTitle)
+			titleSlug := stat.QuestionTitleSlug
+			levelName := problem.Difficulty.LevelName()
+			format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s%s)%s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s) | %s |\n"
+			buf.WriteString(fmt.Sprintf(format, id, id, title, titleSlug, stat.TranslationTitle(), problem.PaidOnly.Str(), stat.Lang(), titleSlug, levelName))
 		}
 	}
 }

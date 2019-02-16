@@ -2,6 +2,7 @@ package leetcode
 
 import (
 	"fmt"
+	"sort"
 	"strings"
 
 	"github.com/openset/leetcode/internal/client"
@@ -12,6 +13,9 @@ func ProblemsAll() (ps problemsType) {
 		return client.Get(apiProblemsAllUrl)
 	})
 	jsonDecode(data, &ps)
+	sort.Slice(ps.StatStatusPairs, func(i, j int) bool {
+		return ps.StatStatusPairs[i].Stat.FrontendQuestionId > ps.StatStatusPairs[j].Stat.FrontendQuestionId
+	})
 	return
 }
 
