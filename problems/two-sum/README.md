@@ -5,9 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-< Previous
-　　　　　　　　　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers "Add Two Numbers")
+< Previous 　　　　　　　　　　　　　　　　　　　　　　　　 [Next >](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers "Add Two Numbers")
 
 ## 1. Two Sum (Easy)
 

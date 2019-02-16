@@ -105,7 +105,7 @@ func (question questionType) getDescContent() []byte {
 }
 
 func (question questionType) getNavigation() string {
-	nav, pre, next := "\n%s\n%s\n%s\n", "< Previous", "Next >"
+	nav, pre, next := "\n%s %s %s\n", "< Previous", "Next >"
 	problems := ProblemsAll().StatStatusPairs
 	if questionId, err := strconv.Atoi(question.QuestionId); err == nil {
 		format := `[%s](https://github.com/openset/leetcode/tree/master/problems/%s "%s")`
