@@ -33,9 +33,13 @@ func graphQLRequest(filename string, days int, jsonStr string, v interface{}) {
 func remember(filename string, days int, f func() []byte) []byte {
 	filename = getCachePath(filename)
 	if fi, err := os.Stat(filename); err == nil {
-		u := time.Now().AddDate(0, 0, -days)
-		if fi.ModTime().After(u) {
+		t := fi.ModTime().AddDate(0, 0, days)
+		if time.Now().Before(t) {
 			return fileGetContents(filename)
+		} else if cts := f(); len(cts) == 0 {
+			return fileGetContents(filename)
+		} else {
+			return filePutContents(filename, cts)
 		}
 	}
 	return filePutContents(filename, f())
