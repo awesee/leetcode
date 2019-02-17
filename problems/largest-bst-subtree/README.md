@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/reconstruct-itinerary "Reconstruct Itinerary")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/increasing-triplet-subsequence "Increasing Triplet Subsequence")
+
 ## 333. Largest BST Subtree (Medium)
 
 
@@ -13,4 +17,7 @@
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### Hints
-  1. You can recursively use algorithm similar to <a href="https://leetcode.com/problems/validate-binary-search-tree/">98. Validate Binary Search Tree</a> at each node of the tree, which will result in O(nlogn) time complexity.
+<details>
+<summary>Hint 1</summary>
+You can recursively use algorithm similar to <a href="https://leetcode.com/problems/validate-binary-search-tree/">98. Validate Binary Search Tree</a> at each node of the tree, which will result in O(nlogn) time complexity.
+</details>

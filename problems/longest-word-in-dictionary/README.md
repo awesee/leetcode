@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance "Find K-th Smallest Pair Distance")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/accounts-merge "Accounts Merge")
+
 ## 720. Longest Word in Dictionary (Easy)
 
 <p>Given a list of strings <code>words</code> representing an English Dictionary, find the longest word in <code>words</code> that can be built one character at a time by other words in <code>words</code>.  If there is more than one possible answer, return the longest word with the smallest lexicographical order.</p>  If there is no answer, return the empty string.
@@ -44,4 +48,7 @@ Both "apply" and "apple" can be built from other words in the dictionary. Howeve
   1. [Implement Magic Dictionary](https://github.com/openset/leetcode/tree/master/problems/implement-magic-dictionary) (Medium)
 
 ### Hints
-  1. For every word in the input list, we can check whether all prefixes of that word are in the input list by using a Set.
+<details>
+<summary>Hint 1</summary>
+For every word in the input list, we can check whether all prefixes of that word are in the input list by using a Set.
+</details>

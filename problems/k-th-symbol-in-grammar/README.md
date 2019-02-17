@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/swim-in-rising-water "Swim in Rising Water")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/reaching-points "Reaching Points")
+
 ## 779. K-th Symbol in Grammar (Medium)
 
 <p>On the first row, we write a <code>0</code>. Now in every subsequent row, we look at the previous row and replace each occurrence of <code>0</code> with <code>01</code>, and each occurrence of <code>1</code> with <code>10</code>.</p>
@@ -43,4 +47,7 @@ row 4: 01101001
   [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
 
 ### Hints
-  1. Try to represent the current (N, K) in terms of some (N-1, prevK).  What is prevK ?
+<details>
+<summary>Hint 1</summary>
+Try to represent the current (N, K) in terms of some (N-1, prevK).  What is prevK ?
+</details>

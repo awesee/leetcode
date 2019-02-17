@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/array-partition-i "Array Partition I")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-tilt "Binary Tree Tilt")
+
 ## 562. Longest Line of Consecutive One in Matrix (Medium)
 
 
@@ -13,7 +17,19 @@
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Hints
-  1. One solution is to count ones in each direction separately and find the longest line. Don't you think  it will take too much lines of code?
-  1. Is it possible to use some extra space to make the solution simple?
-  1. Can we use dynamic programming to make use of intermediate results?
-  1. Think of a 3D array which can be used to store the longest line obtained so far for each direction.
+<details>
+<summary>Hint 1</summary>
+One solution is to count ones in each direction separately and find the longest line. Don't you think  it will take too much lines of code?
+</details>
+<details>
+<summary>Hint 2</summary>
+Is it possible to use some extra space to make the solution simple?
+</details>
+<details>
+<summary>Hint 3</summary>
+Can we use dynamic programming to make use of intermediate results?
+</details>
+<details>
+<summary>Hint 4</summary>
+Think of a 3D array which can be used to store the longest line obtained so far for each direction.
+</details>

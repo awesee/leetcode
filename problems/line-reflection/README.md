@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-twitter "Design Twitter")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/count-numbers-with-unique-digits "Count Numbers with Unique Digits")
+
 ## 356. Line Reflection (Medium)
 
 
@@ -18,6 +22,15 @@
   1. [Number of Boomerangs](https://github.com/openset/leetcode/tree/master/problems/number-of-boomerangs) (Easy)
 
 ### Hints
-  1. Find the smallest and largest x-value for all points.
-  1. If there is a line then it should be at y = (minX + maxX) / 2.
-  1. For each point, make sure that it has a reflected point in the opposite side.
+<details>
+<summary>Hint 1</summary>
+Find the smallest and largest x-value for all points.
+</details>
+<details>
+<summary>Hint 2</summary>
+If there is a line then it should be at y = (minX + maxX) / 2.
+</details>
+<details>
+<summary>Hint 3</summary>
+For each point, make sure that it has a reflected point in the opposite side.
+</details>

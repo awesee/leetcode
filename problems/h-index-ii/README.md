@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/h-index "H-Index")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/paint-fence "Paint Fence")
+
 ## 275. H-Index II (Medium)
 
 <p>Given an array of citations <strong>sorted&nbsp;in ascending order </strong>(each citation is a non-negative integer) of a researcher, write a function to compute the researcher&#39;s h-index.</p>
@@ -39,4 +43,7 @@
   1. [H-Index](https://github.com/openset/leetcode/tree/master/problems/h-index) (Medium)
 
 ### Hints
-  1. Expected runtime complexity is in <i>O</i>(log <i>n</i>) and the input is sorted.
+<details>
+<summary>Hint 1</summary>
+Expected runtime complexity is in <i>O</i>(log <i>n</i>) and the input is sorted.
+</details>

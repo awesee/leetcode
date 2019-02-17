@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-cooldown "Best Time to Buy and Sell Stock with Cooldown")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/sparse-matrix-multiplication "Sparse Matrix Multiplication")
+
 ## 310. Minimum Height Trees (Medium)
 
 <p>For an undirected graph with tree characteristics, we can choose any node as the root. The result graph is then a rooted tree. Among all possible rooted trees, those with minimum height are called minimum height trees (MHTs). Given such a graph, write a function to find all the MHTs and return a list of their root labels.</p>
@@ -59,4 +63,7 @@ The graph contains <code>n</code> nodes which are labeled from <code>0</code> to
   1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii) (Medium)
 
 ### Hints
-  1. How many MHTs can a graph have at most?
+<details>
+<summary>Hint 1</summary>
+How many MHTs can a graph have at most?
+</details>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/1-bit-and-2-bit-characters "1-bit and 2-bit Characters")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance "Find K-th Smallest Pair Distance")
+
 ## 718. Maximum Length of Repeated Subarray (Medium)
 
 <p>Given two integer arrays <code>A</code> and <code>B</code>, return the maximum length of an subarray that appears in both arrays.</p>
@@ -37,4 +41,7 @@ The repeated subarray with maximum length is [3, 2, 1].
   1. [Minimum Size Subarray Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-size-subarray-sum) (Medium)
 
 ### Hints
-  1. Use dynamic programming.  dp[i][j] will be the answer for inputs A[i:], B[j:].
+<details>
+<summary>Hint 1</summary>
+Use dynamic programming.  dp[i][j] will be the answer for inputs A[i:], B[j:].
+</details>

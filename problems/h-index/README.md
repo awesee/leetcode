@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/integer-to-english-words "Integer to English Words")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/h-index-ii "H-Index II")
+
 ## 274. H-Index (Medium)
 
 <p>Given an array of citations (each citation is a non-negative integer) of a researcher, write a function to compute the researcher&#39;s h-index.</p>
@@ -31,6 +35,15 @@
   1. [H-Index II](https://github.com/openset/leetcode/tree/master/problems/h-index-ii) (Medium)
 
 ### Hints
-  1. An easy approach is to sort the array first.
-  1. What are the possible values of h-index?
-  1. A faster approach is to use extra space.
+<details>
+<summary>Hint 1</summary>
+An easy approach is to sort the array first.
+</details>
+<details>
+<summary>Hint 2</summary>
+What are the possible values of h-index?
+</details>
+<details>
+<summary>Hint 3</summary>
+A faster approach is to use extra space.
+</details>
