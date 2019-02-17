@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="996">996</span> | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays "正方形数组的数目") | [Go](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays) | Hard |
+| <span id="995">995</span> | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips "最小连续位的翻转次数") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips) | Hard |
+| <span id="994">994</span> | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges "腐烂的橘子") | [Go](https://github.com/openset/leetcode/tree/master/problems/rotting-oranges) | Easy |
+| <span id="993">993</span> | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree "二叉树的堂兄弟节点") | [Go](https://github.com/openset/leetcode/tree/master/problems/cousins-in-binary-tree) | Easy |
 | <span id="992">992</span> | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers "K 个不同整数的子数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/subarrays-with-k-different-integers) | Hard |
 | <span id="991">991</span> | [Broken Calculator](https://leetcode.com/problems/broken-calculator "坏了的计算器") | [Go](https://github.com/openset/leetcode/tree/master/problems/broken-calculator) | Medium |
 | <span id="990">990</span> | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations "等式方程的可满足性") | [Go](https://github.com/openset/leetcode/tree/master/problems/satisfiability-of-equality-equations) | Medium |
