@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-blacklist "Random Pick with Blacklist")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-ascii-delete-sum-for-two-strings "Minimum ASCII Delete Sum for Two Strings")
+
 ## 711. Number of Distinct Islands II (Hard)
 
 

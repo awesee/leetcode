@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-number-with-alternating-bits "Binary Number with Alternating Bits")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/max-area-of-island "Max Area of Island")
+
 ## 694. Number of Distinct Islands (Medium)
 
 

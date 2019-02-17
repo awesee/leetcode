@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/super-palindromes "Super Palindromes")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-range-i "Smallest Range I")
+
 ## 907. Sum of Subarray Minimums (Medium)
 
 <p>Given an array of integers <code>A</code>, find the sum of <code>min(B)</code>, where <code>B</code> ranges over&nbsp;every (contiguous) subarray of <code>A</code>.</p>

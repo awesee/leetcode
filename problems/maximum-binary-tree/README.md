@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst "Two Sum IV - Input is a BST")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/print-binary-tree "Print Binary Tree")
+
 ## 654. Maximum Binary Tree (Medium)
 
 <p>

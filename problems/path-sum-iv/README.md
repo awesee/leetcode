@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/non-decreasing-array "Non-decreasing Array")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement-ii "Beautiful Arrangement II")
+
 ## 666. Path Sum IV (Medium)
 
 <p>

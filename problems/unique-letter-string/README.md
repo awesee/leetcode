@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/making-a-large-island "Making A Large Island")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/consecutive-numbers-sum "Consecutive Numbers Sum")
+
 ## 828. Unique Letter String (Hard)
 
 <p>A character is unique in string <code>S</code> if it occurs exactly once in it.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-for-tickets "Minimum Cost For Tickets")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-even-numbers-after-queries "Sum of Even Numbers After Queries")
+
 ## 984. String Without AAA or BBB (Easy)
 
 <p>Given two integers <code>A</code> and <code>B</code>, return <strong>any</strong> string <code>S</code> such that:</p>

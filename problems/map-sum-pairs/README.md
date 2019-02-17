@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/implement-magic-dictionary "Implement Magic Dictionary")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-parenthesis-string "Valid Parenthesis String")
+
 ## 677. Map Sum Pairs (Medium)
 
 <p>

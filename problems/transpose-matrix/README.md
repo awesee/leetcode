@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/prime-palindrome "Prime Palindrome")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-gap "Binary Gap")
+
 ## 867. Transpose Matrix (Easy)
 
 <p>Given a&nbsp;matrix <code>A</code>, return the transpose of <code>A</code>.</p>

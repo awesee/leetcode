@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/trim-a-binary-search-tree "Trim a Binary Search Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/second-minimum-node-in-a-binary-tree "Second Minimum Node In a Binary Tree")
+
 ## 670. Maximum Swap (Medium)
 
 <p>

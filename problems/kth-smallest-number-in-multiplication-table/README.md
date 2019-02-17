@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement-ii "Beautiful Arrangement II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/trim-a-binary-search-tree "Trim a Binary Search Tree")
+
 ## 668. Kth Smallest Number in Multiplication Table (Hard)
 
 <p>
