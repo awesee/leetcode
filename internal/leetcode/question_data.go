@@ -21,6 +21,12 @@ func QuestionData(titleSlug string) (qd questionDataType) {
 	}`
 	filename := "question_data_" + strings.Replace(titleSlug, "-", "_", -1) + ".json"
 	graphQLRequest(filename, 30, jsonStr, &qd)
+	if qd.Data.Question.TitleSlug == "" {
+		os.Remove(getCachePath(filename))
+		for _, err := range qd.Errors {
+			fmt.Println(titleSlug, err.Message)
+		}
+	}
 	return
 }
 
@@ -81,9 +87,11 @@ func (d difficultyStrType) Str() (s string) {
 }
 
 func (question questionType) SaveContent() {
-	fmt.Println(question.QuestionFrontendId, "\t"+question.Title, "saving...")
-	filePutContents(question.getFilePath("README.md"), question.getDescContent())
-	question.saveMysqlSchemas()
+	if question.TitleSlug != "" {
+		fmt.Println(question.QuestionFrontendId, "\t"+question.Title, "saving...")
+		filePutContents(question.getFilePath("README.md"), question.getDescContent())
+		question.saveMysqlSchemas()
+	}
 }
 
 func (question questionType) getDescContent() []byte {
