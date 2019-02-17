@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle "Minimum Area Rectangle")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-mountain-array "Valid Mountain Array")
+
 ## 940. Distinct Subsequences II (Hard)
 
 <p>Given a string <code>S</code>, count the number of distinct, non-empty subsequences of <code>S</code> .</p>

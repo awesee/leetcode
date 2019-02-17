@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/get-highest-answer-rate-question "Get Highest Answer Rate Question")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/count-student-number-in-departments "Count Student Number in Departments")
+
 ## 579. Find Cumulative Salary of an Employee (Hard)
 
 <p>The <b>Employee</b> table holds the salary information in a year.</p>

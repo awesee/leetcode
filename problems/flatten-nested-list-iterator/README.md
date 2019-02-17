@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-k-distinct-characters "Longest Substring with At Most K Distinct Characters")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/power-of-four "Power of Four")
+
 ## 341. Flatten Nested List Iterator (Medium)
 
 <p>Given a nested list of integers, implement an iterator to flatten it.</p>

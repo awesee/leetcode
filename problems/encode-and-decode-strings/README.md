@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value "Closest Binary Search Tree Value")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value-ii "Closest Binary Search Tree Value II")
+
 ## 271. Encode and Decode Strings (Medium)
 
 

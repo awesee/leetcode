@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-operation-for-two-strings "Delete Operation for Two Strings")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/investments-in-2016 "Investments in 2016")
+
 ## 584. Find Customer Referee (Easy)
 
 <p>Given a table <code>customer</code> holding customers information and the referee.</p>

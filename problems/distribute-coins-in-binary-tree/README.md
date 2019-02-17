@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray "Longest Turbulent Subarray")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii "Unique Paths III")
+
 ## 979. Distribute Coins in Binary Tree (Medium)
 
 <p>Given the <code>root</code> of a binary tree with <code>N</code> nodes, each <code>node</code>&nbsp;in the tree has <code>node.val</code> coins, and there are <code>N</code> coins total.</p>

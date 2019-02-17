@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/network-delay-time "Network Delay Time")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/prefix-and-suffix-search "Prefix and Suffix Search")
+
 ## 744. Find Smallest Letter Greater Than Target (Easy)
 
 <p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/water-and-jug-problem "Water and Jug Problem")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-perfect-square "Valid Perfect Square")
+
 ## 366. Find Leaves of Binary Tree (Medium)
 
 
