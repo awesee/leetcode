@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iv "Basic Calculator IV")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iii "Basic Calculator III")
+
 ## 771. Jewels and Stones (Easy)
 
 <p>You&#39;re given strings <code>J</code> representing the types of stones that are jewels, and <code>S</code> representing the stones you have.&nbsp; Each character in <code>S</code> is a type of stone you have.&nbsp; You want to know how many of the stones you have are also jewels.</p>
@@ -36,4 +40,7 @@
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### Hints
-  1. For each stone, check if it is a jewel.
+<details>
+<summary>Hint 1</summary>
+For each stone, check if it is a jewel.
+</details>

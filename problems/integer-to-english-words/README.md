@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value-ii "Closest Binary Search Tree Value II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/h-index "H-Index")
+
 ## 273. Integer to English Words (Hard)
 
 <p>Convert a non-negative integer to its english words representation. Given input is guaranteed to be less than 2<sup>31</sup> - 1.</p>
@@ -44,6 +48,15 @@
   1. [Integer to Roman](https://github.com/openset/leetcode/tree/master/problems/integer-to-roman) (Medium)
 
 ### Hints
-  1. Did you see a pattern in dividing the number into chunk of words? For example, 123 and 123000.
-  1. Group the number by thousands (3 digits). You can write a helper function that takes a number less than 1000 and convert just that chunk to words.
-  1. There are many edge cases. What are some good test cases? Does your code work with input such as 0? Or 1000010? (middle chunk is zero and should not be printed out)
+<details>
+<summary>Hint 1</summary>
+Did you see a pattern in dividing the number into chunk of words? For example, 123 and 123000.
+</details>
+<details>
+<summary>Hint 2</summary>
+Group the number by thousands (3 digits). You can write a helper function that takes a number less than 1000 and convert just that chunk to words.
+</details>
+<details>
+<summary>Hint 3</summary>
+There are many edge cases. What are some good test cases? Does your code work with input such as 0? Or 1000010? (middle chunk is zero and should not be printed out)
+</details>

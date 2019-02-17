@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/scramble-string "Scramble String")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/gray-code "Gray Code")
+
 ## 88. Merge Sorted Array (Easy)
 
 <p>Given two sorted integer arrays <em>nums1</em> and <em>nums2</em>, merge <em>nums2</em> into <em>nums1</em> as one sorted array.</p>
@@ -34,4 +38,7 @@ nums2 = [2,5,6],       n = 3
   1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists) (Easy)
 
 ### Hints
-  1. What if you fill the longer array from the end instead of start ?
+<details>
+<summary>Hint 1</summary>
+What if you fill the longer array from the end instead of start ?
+</details>

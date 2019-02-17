@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-corner-rectangles "Number Of Corner Rectangles")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/open-the-lock "Open the Lock")
+
 ## 751. IP to CIDR (Easy)
 
 
@@ -17,4 +21,7 @@
   1. [Validate IP Address](https://github.com/openset/leetcode/tree/master/problems/validate-ip-address) (Medium)
 
 ### Hints
-  1. Convert the ip addresses to and from (long) integers.  You want to know what is the most addresses you can put in this block starting from the "start" ip, up to n.  It is the smallest between the lowest bit of start and the highest bit of n.  Then, repeat this process with a new start and n.
+<details>
+<summary>Hint 1</summary>
+Convert the ip addresses to and from (long) integers.  You want to know what is the most addresses you can put in this block starting from the "start" ip, up to n.  It is the smallest between the lowest bit of start and the highest bit of n.  Then, repeat this process with a new start and n.
+</details>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array-ii "Find Minimum in Rotated Sorted Array II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-upside-down "Binary Tree Upside Down")
+
 ## 155. Min Stack (Easy)
 
 <p>
@@ -47,4 +51,7 @@ minStack.getMin();   --> Returns -2.
   1. [Max Stack](https://github.com/openset/leetcode/tree/master/problems/max-stack) (Easy)
 
 ### Hints
-  1. Consider each node in the stack having a minimum value. (Credits to @aakarshmadhavan)
+<details>
+<summary>Hint 1</summary>
+Consider each node in the stack having a minimum value. (Credits to @aakarshmadhavan)
+</details>

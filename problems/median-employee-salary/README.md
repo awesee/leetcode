@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-vacation-days "Maximum Vacation Days")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/managers-with-at-least-5-direct-reports "Managers with at Least 5 Direct Reports")
+
 ## 569. Median Employee Salary (Hard)
 
 <p>
@@ -52,6 +56,15 @@ The <code>Employee</code> table holds all employees. The employee table has thre
   1. [Find Median Given Frequency of Numbers](https://github.com/openset/leetcode/tree/master/problems/find-median-given-frequency-of-numbers) (Hard)
 
 ### Hints
-  1. Still remember how to select the sum which group by one column?
-  1. Try to think about how to get the median from a sorted list.
-  1. How to get the median one item for odd number list while how to get the median two items for even number list, try to unify them.
+<details>
+<summary>Hint 1</summary>
+Still remember how to select the sum which group by one column?
+</details>
+<details>
+<summary>Hint 2</summary>
+Try to think about how to get the median from a sorted list.
+</details>
+<details>
+<summary>Hint 3</summary>
+How to get the median one item for odd number list while how to get the median two items for even number list, try to unify them.
+</details>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/median-employee-salary "Median Employee Salary")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-median-given-frequency-of-numbers "Find Median Given Frequency of Numbers")
+
 ## 570. Managers with at Least 5 Direct Reports (Medium)
 
 <p>The <code>Employee</code> table holds all employees including their managers. Every employee has an Id, and there is also a column for the manager Id.</p>
@@ -37,7 +41,19 @@
 No one would report to himself.</p>
 
 ### Hints
-  1. Try to get all the mangerIDs that have count bigger than 5
-  1. Use the last hint's result as a table and do join with origin table at id equals to managerId
-  1. This is a very good example to show the performance of SQL code. Try to work out other solutions and you may be surprised by running time difference.
-  1. If your solution uses 'IN' function and runs more than 5 seconds, try to optimize it by using 'JOIN' instead.
+<details>
+<summary>Hint 1</summary>
+Try to get all the mangerIDs that have count bigger than 5
+</details>
+<details>
+<summary>Hint 2</summary>
+Use the last hint's result as a table and do join with origin table at id equals to managerId
+</details>
+<details>
+<summary>Hint 3</summary>
+This is a very good example to show the performance of SQL code. Try to work out other solutions and you may be surprised by running time difference.
+</details>
+<details>
+<summary>Hint 4</summary>
+If your solution uses 'IN' function and runs more than 5 seconds, try to optimize it by using 'JOIN' instead.
+</details>

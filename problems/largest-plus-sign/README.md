@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/partition-labels "Partition Labels")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/couples-holding-hands "Couples Holding Hands")
+
 ## 764. Largest Plus Sign (Medium)
 
 <p>
@@ -76,4 +80,7 @@ There is no plus sign, so return 0.
   1. [Maximal Square](https://github.com/openset/leetcode/tree/master/problems/maximal-square) (Medium)
 
 ### Hints
-  1. For each direction such as "left", find left[r][c] = the number of 1s you will see before a zero starting at r, c and walking left.  You can find this in N^2 time with a dp.  The largest plus sign at r, c is just the minimum of left[r][c], up[r][c] etc.
+<details>
+<summary>Hint 1</summary>
+For each direction such as "left", find left[r][c] = the number of 1s you will see before a zero starting at r, c and walking left.  You can find this in N^2 time with a dp.  The largest plus sign at r, c is just the minimum of left[r][c], up[r][c] etc.
+</details>

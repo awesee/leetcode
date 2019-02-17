@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/majority-element-ii "Majority Element II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/power-of-two "Power of Two")
+
 ## 230. Kth Smallest Element in a BST (Medium)
 
 <p>Given a binary search tree, write a function <code>kthSmallest</code> to find the <b>k</b>th smallest element in it.</p>
@@ -49,7 +53,19 @@ What if the BST is modified (insert/delete operations) often and you need to fin
   1. [Second Minimum Node In a Binary Tree](https://github.com/openset/leetcode/tree/master/problems/second-minimum-node-in-a-binary-tree) (Easy)
 
 ### Hints
-  1. Try to utilize the property of a BST.
-  1. Try in-order traversal. (Credits to @chan13)
-  1. What if you could modify the BST node's structure?
-  1. The optimal runtime complexity is O(height of BST).
+<details>
+<summary>Hint 1</summary>
+Try to utilize the property of a BST.
+</details>
+<details>
+<summary>Hint 2</summary>
+Try in-order traversal. (Credits to @chan13)
+</details>
+<details>
+<summary>Hint 3</summary>
+What if you could modify the BST node's structure?
+</details>
+<details>
+<summary>Hint 4</summary>
+The optimal runtime complexity is O(height of BST).
+</details>
