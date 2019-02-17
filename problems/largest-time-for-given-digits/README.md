@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/bag-of-tokens "Bag of Tokens")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/reveal-cards-in-increasing-order "Reveal Cards In Increasing Order")
+
 ## 949. Largest Time for Given Digits (Easy)
 
 <p>Given an array of 4 digits, return the largest 24 hour time that can be made.</p>
