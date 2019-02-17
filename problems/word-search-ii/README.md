@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design "Add and Search Word - Data structure design")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/house-robber-ii "House Robber II")
+
 ## 212. Word Search II (Hard)
 
 <p>Given a 2D board and a list of words from the dictionary, find all words in the board.</p>
@@ -37,5 +41,11 @@ You may assume that all inputs are consist of lowercase letters <code>a-z</code>
   1. [Word Search](https://github.com/openset/leetcode/tree/master/problems/word-search) (Medium)
 
 ### Hints
-  1. You would need to optimize your backtracking to pass the larger test. Could you stop backtracking earlier?
-  1. If the current candidate does not exist in all words&#39; prefix, you could stop backtracking immediately. What kind of data structure could answer such query efficiently? Does a hash table work? Why or why not? How about a Trie? If you would like to learn how to implement a basic trie, please work on this problem: <a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Implement Trie (Prefix Tree)</a> first.
+<details>
+<summary>Hint 1</summary>
+You would need to optimize your backtracking to pass the larger test. Could you stop backtracking earlier?
+</details>
+<details>
+<summary>Hint 2</summary>
+If the current candidate does not exist in all words&#39; prefix, you could stop backtracking immediately. What kind of data structure could answer such query efficiently? Does a hash table work? Why or why not? How about a Trie? If you would like to learn how to implement a basic trie, please work on this problem: <a href="https://leetcode.com/problems/implement-trie-prefix-tree/">Implement Trie (Prefix Tree)</a> first.
+</details>
