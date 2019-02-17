@@ -3,7 +3,6 @@ package leetcode
 import (
 	"fmt"
 	"sort"
-	"strings"
 
 	"github.com/openset/leetcode/internal/client"
 )
@@ -69,7 +68,7 @@ func (p paidType) Str() string {
 }
 
 func (s statType) QuestionTitleSnake() string {
-	return strings.Replace(s.QuestionTitleSlug, "-", "_", -1)
+	return slugToSnake(s.QuestionTitleSlug)
 }
 
 func (s statType) TranslationTitle() string {
