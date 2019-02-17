@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/all-possible-full-binary-trees "All Possible Full Binary Trees")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/monotonic-array "Monotonic Array")
+
 ## 895. Maximum Frequency Stack (Hard)
 
 <p>Implement <code>FreqStack</code>, a class which simulates the operation of a stack-like data structure.</p>

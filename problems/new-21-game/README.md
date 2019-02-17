@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/rectangle-overlap "Rectangle Overlap")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/push-dominoes "Push Dominoes")
+
 ## 837. New 21 Game (Medium)
 
 <p>Alice plays the following game, loosely based on the card game &quot;21&quot;.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-subtree-with-all-the-deepest-nodes "Smallest Subtree with all the Deepest Nodes")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/transpose-matrix "Transpose Matrix")
+
 ## 866. Prime Palindrome (Medium)
 
 <p>Find the smallest prime palindrome greater than or equal to <code>N</code>.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-frequency-stack "Maximum Frequency Stack")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/increasing-order-search-tree "Increasing Order Search Tree")
+
 ## 896. Monotonic Array (Easy)
 
 <p>An array is <em>monotonic</em> if it is either monotone increasing or monotone decreasing.</p>
