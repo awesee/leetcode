@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/validate-binary-search-tree "Validate Binary Search Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/same-tree "Same Tree")
+
 ## 99. Recover Binary Search Tree (Hard)
 
 <p>Two elements of a binary search tree (BST) are swapped by mistake.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list-ii "Remove Duplicates from Sorted List II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-rectangle-in-histogram "Largest Rectangle in Histogram")
+
 ## 83. Remove Duplicates from Sorted List (Easy)
 
 <p>Given a sorted linked list, delete all duplicates such that each element appear only <em>once</em>.</p>

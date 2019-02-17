@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists "Merge Two Sorted Lists")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/merge-k-sorted-lists "Merge k Sorted Lists")
+
 ## 22. Generate Parentheses (Medium)
 
 <p>

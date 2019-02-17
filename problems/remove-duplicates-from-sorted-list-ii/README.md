@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/search-in-rotated-sorted-array-ii "Search in Rotated Sorted Array II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list "Remove Duplicates from Sorted List")
+
 ## 82. Remove Duplicates from Sorted List II (Medium)
 
 <p>Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only <em>distinct</em> numbers from the original list.</p>

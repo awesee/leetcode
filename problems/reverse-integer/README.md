@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/zigzag-conversion "ZigZag Conversion")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/string-to-integer-atoi "String to Integer (atoi)")
+
 ## 7. Reverse Integer (Easy)
 
 <p>Given a 32-bit signed integer, reverse digits of an integer.</p>

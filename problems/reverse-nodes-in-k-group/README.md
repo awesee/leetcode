@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/swap-nodes-in-pairs "Swap Nodes in Pairs")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array "Remove Duplicates from Sorted Array")
+
 ## 25. Reverse Nodes in k-Group (Hard)
 
 <p>Given a linked list, reverse the nodes of a linked list <em>k</em> at a time and return its modified list.</p>

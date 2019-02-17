@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/one-edit-distance "One Edit Distance")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/missing-ranges "Missing Ranges")
+
 ## 162. Find Peak Element (Medium)
 
 <p>A peak element is an element that is greater than its neighbors.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array-ii "Remove Duplicates from Sorted Array II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list-ii "Remove Duplicates from Sorted List II")
+
 ## 81. Search in Rotated Sorted Array II (Medium)
 
 <p>Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.</p>

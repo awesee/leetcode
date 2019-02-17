@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/jump-game-ii "Jump Game II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/permutations-ii "Permutations II")
+
 ## 46. Permutations (Medium)
 
 <p>Given a collection of <strong>distinct</strong> integers, return all possible permutations.</p>
