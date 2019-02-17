@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary-through-deleting "Longest Word in Dictionary through Deleting")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement "Beautiful Arrangement")
+
 ## 525. Contiguous Array (Medium)
 
 <p>Given a binary array, find the maximum length of a contiguous subarray with equal number of 0 and 1. </p>

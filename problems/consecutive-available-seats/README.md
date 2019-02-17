@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/friend-requests-ii-who-has-the-most-friends "Friend Requests II: Who Has the Most Friends")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/design-compressed-string-iterator "Design Compressed String Iterator")
+
 ## 603. Consecutive Available Seats (Easy)
 
 Several friends at a cinema ticket office would like to reserve consecutive available seats.</br>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/online-election "Online Election")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/x-of-a-kind-in-a-deck-of-cards "X of a Kind in a Deck of Cards")
+
 ## 913. Cat and Mouse (Hard)
 
 <p>A game on an <strong>undirected</strong> graph is played by two players, Mouse and Cat, who alternate turns.</p>

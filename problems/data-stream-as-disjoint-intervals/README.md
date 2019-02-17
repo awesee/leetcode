@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/android-unlock-patterns "Android Unlock Patterns")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/design-snake-game "Design Snake Game")
+
 ## 352. Data Stream as Disjoint Intervals (Hard)
 
 <p>Given a data stream input of non-negative integers a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>, ..., summarize the numbers seen so far as a list of disjoint intervals.</p>

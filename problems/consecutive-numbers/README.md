@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-number "Largest Number")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/employees-earning-more-than-their-managers "Employees Earning More Than Their Managers")
+
 ## 180. Consecutive Numbers (Medium)
 
 <p>Write a SQL query to find all numbers that appear at least three times consecutively.</p>

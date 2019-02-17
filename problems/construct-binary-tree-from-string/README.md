@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-tinyurl "Encode and Decode TinyURL")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/complex-number-multiplication "Complex Number Multiplication")
+
 ## 536. Construct Binary Tree from String (Medium)
 
 

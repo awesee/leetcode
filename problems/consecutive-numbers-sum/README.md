@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-letter-string "Unique Letter String")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/positions-of-large-groups "Positions of Large Groups")
+
 ## 829. Consecutive Numbers Sum (Hard)
 
 <p>Given a positive integer&nbsp;<code>N</code>, how many ways can we write it as a sum of&nbsp;consecutive positive integers?</p>

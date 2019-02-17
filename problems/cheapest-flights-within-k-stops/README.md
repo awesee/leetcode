@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-prime-fraction "K-th Smallest Prime Fraction")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/rotated-digits "Rotated Digits")
+
 ## 787. Cheapest Flights Within K Stops (Medium)
 
 <p>There are <code>n</code> cities connected by&nbsp;<code>m</code> flights. Each fight starts from city&nbsp;<code>u </code>and arrives at&nbsp;<code>v</code> with a price <code>w</code>.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-continuous-increasing-subsequence "Longest Continuous Increasing Subsequence")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/implement-magic-dictionary "Implement Magic Dictionary")
+
 ## 675. Cut Off Trees for Golf Event (Hard)
 
 <p>

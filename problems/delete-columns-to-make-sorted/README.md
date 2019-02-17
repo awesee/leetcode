@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-the-shortest-superstring "Find the Shortest Superstring")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-increment-to-make-array-unique "Minimum Increment to Make Array Unique")
+
 ## 944. Delete Columns to Make Sorted (Easy)
 
 <p>We are given an array&nbsp;<code>A</code> of <code>N</code> lowercase letter strings, all of the same length.</p>

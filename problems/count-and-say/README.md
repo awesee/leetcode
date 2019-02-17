@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/sudoku-solver "Sudoku Solver")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/combination-sum "Combination Sum")
+
 ## 38. Count and Say (Easy)
 
 <p>The count-and-say sequence is the sequence of integers with the first five terms as following:</p>

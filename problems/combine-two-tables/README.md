@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/dungeon-game "Dungeon Game")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/second-highest-salary "Second Highest Salary")
+
 ## 175. Combine Two Tables (Easy)
 
 <p>Table: <code>Person</code></p>

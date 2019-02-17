@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/consecutive-available-seats "Consecutive Available Seats")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers "Can Place Flowers")
+
 ## 604. Design Compressed String Iterator (Easy)
 
 <p>

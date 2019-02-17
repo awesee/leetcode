@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/fair-candy-swap "Fair Candy Swap")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-and-replace-pattern "Find and Replace Pattern")
+
 ## 889. Construct Binary Tree from Preorder and Postorder Traversal (Medium)
 
 <p>Return any binary tree that matches the given preorder and postorder traversals.</p>
