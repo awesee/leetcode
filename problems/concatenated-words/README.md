@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/encode-string-with-shortest-length "Encode String with Shortest Length")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/matchsticks-to-square "Matchsticks to Square")
+
 ## 472. Concatenated Words (Hard)
 
 Given a list of words (<b>without duplicates</b>), please write a program that returns all concatenated words in the given list of words.

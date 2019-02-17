@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-to-a-character "Shortest Distance to a Character")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-trees-with-factors "Binary Trees With Factors")
+
 ## 822. Card Flipping Game (Medium)
 
 <p>On a table are <code>N</code> cards, with a positive integer printed on the front and back of each card (possibly different).</p>

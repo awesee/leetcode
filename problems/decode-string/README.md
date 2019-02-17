@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/utf-8-validation "UTF-8 Validation")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-least-k-repeating-characters "Longest Substring with At Least K Repeating Characters")
+
 ## 394. Decode String (Medium)
 
 <p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/daily-temperatures "Daily Temperatures")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/cherry-pickup "Cherry Pickup")
+
 ## 740. Delete and Earn (Medium)
 
 <p>

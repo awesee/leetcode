@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/peak-index-in-a-mountain-array "Peak Index in a Mountain Array")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/k-similar-strings "K-Similar Strings")
+
 ## 853. Car Fleet (Medium)
 
 <p><code>N</code> cars are going to the same destination along a one lane road.&nbsp; The destination is <code>target</code>&nbsp;miles away.</p>

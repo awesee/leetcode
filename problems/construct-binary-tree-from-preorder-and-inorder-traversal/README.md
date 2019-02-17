@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-binary-tree "Maximum Depth of Binary Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-inorder-and-postorder-traversal "Construct Binary Tree from Inorder and Postorder Traversal")
+
 ## 105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)
 
 <p>Given preorder and inorder traversal of a tree, construct the binary tree.</p>

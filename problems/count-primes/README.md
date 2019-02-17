@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements "Remove Linked List Elements")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/isomorphic-strings "Isomorphic Strings")
+
 ## 204. Count Primes (Easy)
 
 <p>Count the number of prime numbers less than a non-negative number, <b><i>n</i></b>.</p>

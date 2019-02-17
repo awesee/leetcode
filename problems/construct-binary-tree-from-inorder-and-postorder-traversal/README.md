@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-inorder-traversal "Construct Binary Tree from Preorder and Inorder Traversal")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal-ii "Binary Tree Level Order Traversal II")
+
 ## 106. Construct Binary Tree from Inorder and Postorder Traversal (Medium)
 
 <p>Given inorder and postorder traversal of a tree, construct the binary tree.</p>

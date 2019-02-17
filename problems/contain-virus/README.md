@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-completing-word "Shortest Completing Word")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-corner-rectangles "Number Of Corner Rectangles")
+
 ## 749. Contain Virus (Hard)
 
 <p>

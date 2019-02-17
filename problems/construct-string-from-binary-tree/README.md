@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers "Can Place Flowers")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/sales-person "Sales Person")
+
 ## 606. Construct String from Binary Tree (Easy)
 
 <p>You need to construct a string consists of parenthesis and integers from a binary tree with the preorder traversing way.</p>

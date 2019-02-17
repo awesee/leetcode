@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/plus-one "Plus One")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/text-justification "Text Justification")
+
 ## 67. Add Binary (Easy)
 
 <p>Given two binary strings, return their sum (also a binary string).</p>

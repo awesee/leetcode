@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-inverse-pairs-array "K Inverse Pairs Array")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/design-excel-sum-formula "Design Excel Sum Formula")
+
 ## 630. Course Schedule III (Hard)
 
 <p>

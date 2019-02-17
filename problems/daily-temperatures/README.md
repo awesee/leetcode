@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/monotone-increasing-digits "Monotone Increasing Digits")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/delete-and-earn "Delete and Earn")
+
 ## 739. Daily Temperatures (Medium)
 
 <p>

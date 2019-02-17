@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-cumulative-salary-of-an-employee "Find Cumulative Salary of an Employee")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-unsorted-continuous-subarray "Shortest Unsorted Continuous Subarray")
+
 ## 580. Count Student Number in Departments (Medium)
 
 <p>A university uses 2 data tables, <b><i>student</b></i> and <b><i>department</b></i>, to store data about its students and the departments associated with each major. </p>
