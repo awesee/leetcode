@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/equal-tree-partition "Equal Tree Partition")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/non-decreasing-array "Non-decreasing Array")
+
 ## 664. Strange Printer (Hard)
 
 <p>

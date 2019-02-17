@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher-ii "Bulb Switcher II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-continuous-increasing-subsequence "Longest Continuous Increasing Subsequence")
+
 ## 673. Number of Longest Increasing Subsequence (Medium)
 
 <p>

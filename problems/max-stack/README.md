@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/range-module "Range Module")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/1-bit-and-2-bit-characters "1-bit and 2-bit Characters")
+
 ## 716. Max Stack (Easy)
 
 <p>Design a max stack that supports push, pop, top, peekMax and popMax.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/univalued-binary-tree "Univalued Binary Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/numbers-with-same-consecutive-differences "Numbers With Same Consecutive Differences")
+
 ## 966. Vowel Spellchecker (Medium)
 
 <p>Given a&nbsp;<code>wordlist</code>, we want to implement a spellchecker that converts a query word into a correct word.</p>

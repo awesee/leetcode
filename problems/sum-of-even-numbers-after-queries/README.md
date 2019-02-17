@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/string-without-aaa-or-bbb "String Without AAA or BBB")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/interval-list-intersections "Interval List Intersections")
+
 ## 985. Sum of Even Numbers After Queries (Easy)
 
 <p>We have an array <code>A</code> of integers, and an array <code>queries</code>&nbsp;of queries.</p>

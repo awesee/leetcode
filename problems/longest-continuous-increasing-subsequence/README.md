@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-longest-increasing-subsequence "Number of Longest Increasing Subsequence")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/cut-off-trees-for-golf-event "Cut Off Trees for Golf Event")
+
 ## 674. Longest Continuous Increasing Subsequence (Easy)
 
 <p>

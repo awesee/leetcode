@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/split-array-into-consecutive-subsequences "Split Array into Consecutive Subsequences")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/image-smoother "Image Smoother")
+
 ## 660. Remove 9 (Hard)
 
 <p>Start from integer 1, remove any integer that contains 9 such as 9, 19, 29... </p>

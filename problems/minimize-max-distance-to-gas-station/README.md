@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/sliding-puzzle "Sliding Puzzle")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/global-and-local-inversions "Global and Local Inversions")
+
 ## 774. Minimize Max Distance to Gas Station (Hard)
 
 

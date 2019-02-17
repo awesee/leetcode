@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/pour-water "Pour Water")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/set-intersection-size-at-least-two "Set Intersection Size At Least Two")
+
 ## 756. Pyramid Transition Matrix (Medium)
 
 <p>

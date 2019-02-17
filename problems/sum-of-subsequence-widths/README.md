@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-and-replace-pattern "Find and Replace Pattern")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/surface-area-of-3d-shapes "Surface Area of 3D Shapes")
+
 ## 891. Sum of Subsequence Widths (Hard)
 
 <p>Given an array of integers <code>A</code>, consider all non-empty subsequences of <code>A</code>.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/custom-sort-string "Custom Sort String")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/preimage-size-of-factorial-zeroes-function "Preimage Size of Factorial Zeroes Function")
+
 ## 792. Number of Matching Subsequences (Medium)
 
 <p>Given string <code>S</code> and a&nbsp;dictionary of words <code>words</code>, find the number of <code>words[i]</code> that is a subsequence of <code>S</code>.</p>

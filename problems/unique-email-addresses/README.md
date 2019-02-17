@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimize-malware-spread-ii "Minimize Malware Spread II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-subarrays-with-sum "Binary Subarrays With Sum")
+
 ## 929. Unique Email Addresses (Easy)
 
 <p>Every email consists of a local name and a domain name, separated by the @ sign.</p>

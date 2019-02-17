@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/cat-and-mouse "Cat and Mouse")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-disjoint-intervals "Partition Array into Disjoint Intervals")
+
 ## 914. X of a Kind in a Deck of Cards (Easy)
 
 <p>In a deck of cards, each card has an integer written on it.</p>

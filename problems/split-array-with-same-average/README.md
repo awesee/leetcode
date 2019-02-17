@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-morse-code-words "Unique Morse Code Words")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-lines-to-write-string "Number of Lines To Write String")
+
 ## 805. Split Array With Same Average (Hard)
 
 <p>In a given integer array A, we must move every element of A to either list B or list C. (B and C initially start empty.)</p>

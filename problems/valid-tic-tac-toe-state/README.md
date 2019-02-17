@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/preimage-size-of-factorial-zeroes-function "Preimage Size of Factorial Zeroes Function")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-subarrays-with-bounded-maximum "Number of Subarrays with Bounded Maximum")
+
 ## 794. Valid Tic-Tac-Toe State (Medium)
 
 <p>A Tic-Tac-Toe board is given as a string array <code>board</code>. Return True if and only if it is possible to reach this board position during the course of a valid tic-tac-toe game.</p>

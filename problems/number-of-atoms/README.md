@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/split-linked-list-in-parts "Split Linked List in Parts")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-window-subsequence "Minimum Window Subsequence")
+
 ## 726. Number of Atoms (Hard)
 
 <p>Given a chemical <code>formula</code> (given as a string), return the count of each atom.
