@@ -9,6 +9,7 @@ import (
 	"os"
 	"os/user"
 	"path"
+	"strings"
 	"time"
 
 	"github.com/openset/leetcode/internal/base"
@@ -111,4 +112,8 @@ func getCredential() (data url.Values) {
 	cts := fileGetContents(getCachePath(credentialsFile))
 	jsonDecode(cts, &data)
 	return
+}
+
+func slugToSnake(slug string) string {
+	return strings.Replace(slug, "-", "_", -1)
 }
