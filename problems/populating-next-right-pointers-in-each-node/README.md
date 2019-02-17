@@ -5,15 +5,20 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/distinct-subsequences "Distinct Subsequences")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node-ii "Populating Next Right Pointers in Each Node II")
+
 ## 116. Populating Next Right Pointers in Each Node (Medium)
 
-<p>Given a binary tree</p>
+<p>You are given a <strong>perfect binary tree</strong>&nbsp;where&nbsp;all leaves are on the same level, and every parent has two children. The binary tree has the following definition:</p>
 
 <pre>
-struct TreeLinkNode {
-  TreeLinkNode *left;
-  TreeLinkNode *right;
-  TreeLinkNode *next;
+struct Node {
+  int val;
+  Node *left;
+  Node *right;
+  Node *next;
 }
 </pre>
 
@@ -21,35 +26,29 @@ struct TreeLinkNode {
 
 <p>Initially, all next pointers are set to <code>NULL</code>.</p>
 
+<p>&nbsp;</p>
+
+<p><strong>Example:</strong></p>
+
+<p><img alt="" src="https://assets.leetcode.com/uploads/2019/02/14/116_sample.png" style="width: 640px; height: 218px;" /></p>
+
+<pre>
+<strong>Input: </strong><span>{&quot;$id&quot;:&quot;1&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;2&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;3&quot;,&quot;left&quot;:null,&quot;next&quot;:null,&quot;right&quot;:null,&quot;val&quot;:4},&quot;next&quot;:null,&quot;right&quot;:{&quot;$id&quot;:&quot;4&quot;,&quot;left&quot;:null,&quot;next&quot;:null,&quot;right&quot;:null,&quot;val&quot;:5},&quot;val&quot;:2},&quot;next&quot;:null,&quot;right&quot;:{&quot;$id&quot;:&quot;5&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;6&quot;,&quot;left&quot;:null,&quot;next&quot;:null,&quot;right&quot;:null,&quot;val&quot;:6},&quot;next&quot;:null,&quot;right&quot;:{&quot;$id&quot;:&quot;7&quot;,&quot;left&quot;:null,&quot;next&quot;:null,&quot;right&quot;:null,&quot;val&quot;:7},&quot;val&quot;:3},&quot;val&quot;:1}</span>
+
+<strong>Output: </strong><span>{&quot;$id&quot;:&quot;1&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;2&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;3&quot;,&quot;left&quot;:null,&quot;next&quot;:{&quot;$id&quot;:&quot;4&quot;,&quot;left&quot;:null,&quot;next&quot;:{&quot;$id&quot;:&quot;5&quot;,&quot;left&quot;:null,&quot;next&quot;:{&quot;$id&quot;:&quot;6&quot;,&quot;left&quot;:null,&quot;next&quot;:null,&quot;right&quot;:null,&quot;val&quot;:7},&quot;right&quot;:null,&quot;val&quot;:6},&quot;right&quot;:null,&quot;val&quot;:5},&quot;right&quot;:null,&quot;val&quot;:4},&quot;next&quot;:{&quot;$id&quot;:&quot;7&quot;,&quot;left&quot;:{&quot;$ref&quot;:&quot;5&quot;},&quot;next&quot;:null,&quot;right&quot;:{&quot;$ref&quot;:&quot;6&quot;},&quot;val&quot;:3},&quot;right&quot;:{&quot;$ref&quot;:&quot;4&quot;},&quot;val&quot;:2},&quot;next&quot;:null,&quot;right&quot;:{&quot;$ref&quot;:&quot;7&quot;},&quot;val&quot;:1}</span>
+
+<strong>Explanation: </strong>Given the above perfect binary tree (Figure A), your function should populate each next pointer to point to its next right node, just like in Figure B.
+</pre>
+
+<p>&nbsp;</p>
+
 <p><strong>Note:</strong></p>
 
 <ul>
 	<li>You may only use constant extra space.</li>
 	<li>Recursive approach is fine, implicit stack space does not count as extra space for this problem.</li>
-	<li>You may assume that it is a perfect binary tree (ie, all leaves are at the same level, and every parent has two children).</li>
+	<li>You may assume that it is a perfect binary tree (i.e., all leaves are on the same level, and every parent has two children).</li>
 </ul>
-
-<p><strong>Example:</strong></p>
-
-<p>Given the following perfect binary tree,</p>
-
-<pre>
-     1
-   /  \
-  2    3
- / \  / \
-4  5  6  7
-</pre>
-
-<p>After calling your function, the tree should look like:</p>
-
-<pre>
-     1 -&gt; NULL
-   /  \
-  2 -&gt; 3 -&gt; NULL
- / \  / \
-4-&gt;5-&gt;6-&gt;7 -&gt; NULL
-</pre>
 
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
