@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-3-non-overlapping-subarrays "Maximum Sum of 3 Non-Overlapping Subarrays")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/stickers-to-spell-word "Stickers to Spell Word")
+
 ## 690. Employee Importance (Easy)
 
 <p>You are given a data structure of employee information, which includes the employee's <b>unique id</b>, his <b>importance value</b> and his <b>direct</b> subordinates' id. </p>

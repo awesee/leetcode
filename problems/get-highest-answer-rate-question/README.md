@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/employee-bonus "Employee Bonus")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-cumulative-salary-of-an-employee "Find Cumulative Salary of an Employee")
+
 ## 578. Get Highest Answer Rate Question (Medium)
 
 <p>

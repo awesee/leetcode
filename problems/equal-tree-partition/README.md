@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-width-of-binary-tree "Maximum Width of Binary Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/strange-printer "Strange Printer")
+
 ## 663. Equal Tree Partition (Medium)
 
 <p>

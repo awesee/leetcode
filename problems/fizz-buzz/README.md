@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-unique-word-abbreviation "Minimum Unique Word Abbreviation")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices "Arithmetic Slices")
+
 ## 412. Fizz Buzz (Easy)
 
 <p>Write a program that outputs the string representation of numbers from 1 to <i>n</i>.</p>

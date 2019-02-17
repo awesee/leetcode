@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/candy-crush "Candy Crush")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/split-linked-list-in-parts "Split Linked List in Parts")
+
 ## 724. Find Pivot Index (Easy)
 
 <p>Given an array of integers <code>nums</code>, write a method that returns the "pivot" index of this array.

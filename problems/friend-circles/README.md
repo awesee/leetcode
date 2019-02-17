@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-boxes "Remove Boxes")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/split-array-with-equal-sum "Split Array with Equal Sum")
+
 ## 547. Friend Circles (Medium)
 
 <p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/partition-to-k-equal-sum-subsets "Partition to K Equal Sum Subsets")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/search-in-a-binary-search-tree "Search in a Binary Search Tree")
+
 ## 699. Falling Squares (Hard)
 
 <p>On an infinite number line (x-axis), we drop given squares in the order they are given.</p>

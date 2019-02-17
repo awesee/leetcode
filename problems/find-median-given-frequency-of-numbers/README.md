@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/managers-with-at-least-5-direct-reports "Managers with at Least 5 Direct Reports")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree "Subtree of Another Tree")
+
 ## 571. Find Median Given Frequency of Numbers (Hard)
 
 

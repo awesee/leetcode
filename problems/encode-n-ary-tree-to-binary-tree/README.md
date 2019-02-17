@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/flatten-a-multilevel-doubly-linked-list "Flatten a Multilevel Doubly Linked List")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/all-oone-data-structure "All O`one Data Structure")
+
 ## 431. Encode N-ary Tree to Binary Tree (Hard)
 
 

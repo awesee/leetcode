@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals "Data Stream as Disjoint Intervals")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/russian-doll-envelopes "Russian Doll Envelopes")
+
 ## 353. Design Snake Game (Medium)
 
 

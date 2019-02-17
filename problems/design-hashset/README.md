@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-search "Binary Search")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/design-hashmap "Design HashMap")
+
 ## 705. Design HashSet (Easy)
 
 <p>Design a HashSet&nbsp;without using any built-in hash table libraries.</p>

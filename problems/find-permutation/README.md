@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-good-base "Smallest Good Base")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones "Max Consecutive Ones")
+
 ## 484. Find Permutation (Medium)
 
 <p>

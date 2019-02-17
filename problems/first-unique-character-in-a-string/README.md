@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/lexicographical-numbers "Lexicographical Numbers")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-absolute-file-path "Longest Absolute File Path")
+
 ## 387. First Unique Character in a String (Easy)
 
 <p>

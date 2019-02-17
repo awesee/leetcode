@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-postorder-traversal "Construct Binary Tree from Preorder and Postorder Traversal")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-subsequence-widths "Sum of Subsequence Widths")
+
 ## 890. Find and Replace Pattern (Medium)
 
 <p>You have a list of&nbsp;<code>words</code> and a <code>pattern</code>, and you want to know which words in <code>words</code> matches the pattern.</p>

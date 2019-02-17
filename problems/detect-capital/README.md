@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/random-flip-matrix "Random Flip Matrix")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-i "Longest Uncommon Subsequence I ")
+
 ## 520. Detect Capital (Easy)
 
 <p>

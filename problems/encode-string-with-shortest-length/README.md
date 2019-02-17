@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/implement-rand10-using-rand7 "Implement Rand10() Using Rand7()")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/concatenated-words "Concatenated Words")
+
 ## 471. Encode String with Shortest Length (Hard)
 
 
