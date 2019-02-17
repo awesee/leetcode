@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-binary-tree "Serialize and Deserialize Binary Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/bulls-and-cows "Bulls and Cows")
+
 ## 298. Binary Tree Longest Consecutive Sequence (Medium)
 
 

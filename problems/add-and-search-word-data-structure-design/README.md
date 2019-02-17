@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii "Course Schedule II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/word-search-ii "Word Search II")
+
 ## 211. Add and Search Word - Data structure design (Medium)
 
 <p>Design a data structure that supports the following two operations:</p>

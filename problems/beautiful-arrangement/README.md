@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/contiguous-array "Contiguous Array")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/word-abbreviation "Word Abbreviation")
+
 ## 526. Beautiful Arrangement (Medium)
 
 <p>

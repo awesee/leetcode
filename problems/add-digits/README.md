@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-paths "Binary Tree Paths")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller "3Sum Smaller")
+
 ## 258. Add Digits (Easy)
 
 <p>Given a non-negative integer <code>num</code>, repeatedly add all its digits until the result has only one digit.</p>

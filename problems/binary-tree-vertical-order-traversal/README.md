@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/super-ugly-number "Super Ugly Number")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self "Count of Smaller Numbers After Self")
+
 ## 314. Binary Tree Vertical Order Traversal (Medium)
 
 

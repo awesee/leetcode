@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/most-stones-removed-with-same-row-or-column "Most Stones Removed with Same Row or Column")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-time-for-given-digits "Largest Time for Given Digits")
+
 ## 948. Bag of Tokens (Medium)
 
 <p>You have an initial power <code>P</code>, an initial score of <code>0</code> points, and a bag of tokens.</p>

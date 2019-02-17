@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/students-report-by-geography "Students Report By Geography")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/not-boring-movies "Not Boring Movies")
+
 ## 619. Biggest Single Number (Easy)
 
 <p>

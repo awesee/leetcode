@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/path-sum-iv "Path Sum IV")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-number-in-multiplication-table "Kth Smallest Number in Multiplication Table")
+
 ## 667. Beautiful Arrangement II (Medium)
 
 <p>

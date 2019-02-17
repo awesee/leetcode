@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/average-salary-departments-vs-company "Average Salary: Departments VS Company")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/merge-two-binary-trees "Merge Two Binary Trees")
+
 ## 616. Add Bold Tag in String (Medium)
 
 

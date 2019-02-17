@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/numbers-with-same-consecutive-differences "Numbers With Same Consecutive Differences")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/pancake-sorting "Pancake Sorting")
+
 ## 968. Binary Tree Cameras (Hard)
 
 <p>Given a binary tree, we install cameras on the nodes of the tree.&nbsp;</p>
