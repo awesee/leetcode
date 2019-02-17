@@ -11,7 +11,10 @@ import (
 	"github.com/openset/leetcode/internal/client"
 )
 
-var initTags []tagType
+var (
+	initTags []tagType
+	tagsFile = path.Join("tag", "tags.json")
+)
 
 func init() {
 	html := remember(problemsetAllFile, 7, func() []byte {
@@ -124,7 +127,7 @@ func (tag tagType) SaveContents() {
 	})
 	var buf bytes.Buffer
 	buf.WriteString(authInfo("tag"))
-	buf.WriteString(fmt.Sprintf("\n## %s\n\n", tag.ShowName()))
+	buf.WriteString(fmt.Sprintf("\n## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > %s\n\n", tag.ShowName()))
 	buf.WriteString("| # | 题名 | 标签 | 难度 |\n")
 	buf.WriteString("| :-: | - | - | :-: |\n")
 	format := "| %s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s)%s | %s | %s |\n"
