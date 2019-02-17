@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node-ii "Populating Next Right Pointers in Each Node II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle-ii "Pascal's Triangle II")
+
 ## 118. Pascal's Triangle (Easy)
 
 <p>Given a non-negative integer&nbsp;<em>numRows</em>, generate the first <em>numRows</em> of Pascal&#39;s triangle.</p>

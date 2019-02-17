@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-pivot-index "Find Pivot Index")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms "Number of Atoms")
+
 ## 725. Split Linked List in Parts (Medium)
 
 <p>Given a (singly) linked list with head node <code>root</code>, write a function to split the linked list into <code>k</code> consecutive linked list "parts".
@@ -61,4 +65,7 @@ The input has been split into consecutive parts with size difference at most 1, 
   1. [Odd Even Linked List](https://github.com/openset/leetcode/tree/master/problems/odd-even-linked-list) (Medium)
 
 ### Hints
-  1. If there are N nodes in the list, and k parts, then every part has N/k elements, except the first N%k parts have an extra one.
+<details>
+<summary>Hint 1</summary>
+If there are N nodes in the list, and k parts, then every part has N/k elements, except the first N%k parts have an extra one.
+</details>

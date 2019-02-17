@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/majority-element "Majority Element")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/excel-sheet-column-number "Excel Sheet Column Number")
+
 ## 170. Two Sum III - Data structure design (Easy)
 
 

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-sudoku "Valid Sudoku")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/count-and-say "Count and Say")
+
 ## 37. Sudoku Solver (Hard)
 
 <p>Write a program to solve a Sudoku puzzle by filling the empty cells.</p>

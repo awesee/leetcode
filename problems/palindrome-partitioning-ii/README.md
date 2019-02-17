@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning "Palindrome Partitioning")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/clone-graph "Clone Graph")
+
 ## 132. Palindrome Partitioning II (Hard)
 
 <p>Given a string <em>s</em>, partition <em>s</em> such that every substring of the partition is a palindrome.</p>

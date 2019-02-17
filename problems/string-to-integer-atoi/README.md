@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-integer "Reverse Integer")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-number "Palindrome Number")
+
 ## 8. String to Integer (atoi) (Medium)
 
 <p>Implement <code><span>atoi</span></code> which&nbsp;converts a string to an integer.</p>

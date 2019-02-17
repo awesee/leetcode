@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/two-sum-iii-data-structure-design "Two Sum III - Data structure design")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes "Factorial Trailing Zeroes")
+
 ## 171. Excel Sheet Column Number (Easy)
 
 <p>Given a column title as appear in an Excel sheet, return its corresponding column number.</p>

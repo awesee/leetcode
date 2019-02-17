@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/permutations "Permutations")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/rotate-image "Rotate Image")
+
 ## 47. Permutations II (Medium)
 
 <p>Given a collection of numbers that might contain duplicates, return all possible unique permutations.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/subsets "Subsets")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array-ii "Remove Duplicates from Sorted Array II")
+
 ## 79. Word Search (Medium)
 
 <p>Given a 2D board and a word, find if the word exists in the grid.</p>

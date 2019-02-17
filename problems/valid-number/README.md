@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-path-sum "Minimum Path Sum")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/plus-one "Plus One")
+
 ## 65. Valid Number (Hard)
 
 <p>Validate if a given string can be interpreted as&nbsp;a decimal number.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/combine-two-tables "Combine Two Tables")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/nth-highest-salary "Nth Highest Salary")
+
 ## 176. Second Highest Salary (Easy)
 
 <p>Write a SQL query to get the second highest salary from the <code>Employee</code> table.</p>

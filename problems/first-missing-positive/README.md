@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/combination-sum-ii "Combination Sum II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water "Trapping Rain Water")
+
 ## 41. First Missing Positive (Hard)
 
 <p>Given an unsorted integer array, find the smallest missing&nbsp;positive integer.</p>
