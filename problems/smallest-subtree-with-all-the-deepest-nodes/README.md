@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-path-to-get-all-keys "Shortest Path to Get All Keys")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/prime-palindrome "Prime Palindrome")
+
 ## 865. Smallest Subtree with all the Deepest Nodes (Medium)
 
 <p>Given a binary tree rooted at <code>root</code>, the <em>depth</em> of each node is the shortest distance to the root.</p>

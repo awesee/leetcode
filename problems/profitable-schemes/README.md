@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/nth-magical-number "Nth Magical Number")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/decoded-string-at-index "Decoded String at Index")
+
 ## 879. Profitable Schemes (Hard)
 
 <p>There are G people in a gang, and a list of various crimes they could commit.</p>

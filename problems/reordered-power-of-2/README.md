@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-gap "Binary Gap")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/advantage-shuffle "Advantage Shuffle")
+
 ## 869. Reordered Power of 2 (Medium)
 
 <p>Starting with a positive integer <code>N</code>, we reorder the digits in any order (including the original order) such that the leading digit is not zero.</p>

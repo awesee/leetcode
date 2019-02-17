@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/exam-room "Exam Room")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-hire-k-workers "Minimum Cost to Hire K Workers")
+
 ## 856. Score of Parentheses (Medium)
 
 <p>Given a balanced parentheses string <code>S</code>, compute the score of the string based on the following rule:</p>

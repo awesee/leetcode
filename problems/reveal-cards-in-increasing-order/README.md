@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-time-for-given-digits "Largest Time for Given Digits")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/flip-equivalent-binary-trees "Flip Equivalent Binary Trees")
+
 ## 950. Reveal Cards In Increasing Order (Medium)
 
 <p>In a deck of cards, every card has a unique integer.&nbsp; You can order the deck in&nbsp;any order you want.</p>

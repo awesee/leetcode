@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/subarray-sums-divisible-by-k "Subarray Sums Divisible by K")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle "Largest Perimeter Triangle")
+
 ## 975. Odd Even Jump (Hard)
 
 <p>You are given an integer array <code>A</code>.&nbsp; From&nbsp;some starting index, you can make a series of jumps.&nbsp; The (1st, 3rd, 5th, ...)&nbsp;jumps in the series are called <em>odd numbered jumps</em>, and the (2nd, 4th, 6th, ...) jumps in the series are called <em>even numbered jumps</em>.</p>

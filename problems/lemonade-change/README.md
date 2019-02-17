@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/buddy-strings "Buddy Strings")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/score-after-flipping-matrix "Score After Flipping Matrix")
+
 ## 860. Lemonade Change (Easy)
 
 <p>At a lemonade stand, each lemonade costs <code>$5</code>.&nbsp;</p>

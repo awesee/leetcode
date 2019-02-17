@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-bridge "Shortest Bridge")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/stamping-the-sequence "Stamping The Sequence")
+
 ## 935. Knight Dialer (Medium)
 
 <p>A chess knight can move as indicated in the chess diagram below:</p>

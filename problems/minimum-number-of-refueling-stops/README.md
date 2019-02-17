@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/advantage-shuffle "Advantage Shuffle")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/leaf-similar-trees "Leaf-Similar Trees")
+
 ## 871. Minimum Number of Refueling Stops (Hard)
 
 <p>A car travels from a starting position to a destination which is <code>target</code> miles east of the starting position.</p>

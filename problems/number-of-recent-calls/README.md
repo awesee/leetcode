@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/beautiful-array "Beautiful Array")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-bridge "Shortest Bridge")
+
 ## 933. Number of Recent Calls (Easy)
 
 <p>Write a class <code>RecentCounter</code> to count recent requests.</p>

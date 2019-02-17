@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/walking-robot-simulation "Walking Robot Simulation")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/middle-of-the-linked-list "Middle of the Linked List")
+
 ## 875. Koko Eating Bananas (Medium)
 
 <p>Koko loves to eat bananas.&nbsp; There are <code>N</code>&nbsp;piles of bananas, the <code>i</code>-th&nbsp;pile has <code>piles[i]</code> bananas.&nbsp; The guards have gone and will come back in <code>H</code> hours.</p>

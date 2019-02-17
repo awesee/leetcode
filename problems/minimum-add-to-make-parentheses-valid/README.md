@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-music-playlists "Number of Music Playlists")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/sort-array-by-parity-ii "Sort Array By Parity II")
+
 ## 921. Minimum Add to Make Parentheses Valid (Medium)
 
 <p>Given a string&nbsp;<code>S</code> of <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code> parentheses, we add the minimum number of parentheses ( <code>&#39;(&#39;</code> or <code>&#39;)&#39;</code>, and in any positions ) so that the resulting parentheses string is valid.</p>

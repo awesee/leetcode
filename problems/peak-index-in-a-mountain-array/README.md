@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/loud-and-rich "Loud and Rich")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/car-fleet "Car Fleet")
+
 ## 852. Peak Index in a Mountain Array (Easy)
 
 <p>Let&#39;s call an array <code>A</code> a <em>mountain</em>&nbsp;if the following properties hold:</p>

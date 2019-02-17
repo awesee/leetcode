@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/all-nodes-distance-k-in-binary-tree "All Nodes Distance K in Binary Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-subtree-with-all-the-deepest-nodes "Smallest Subtree with all the Deepest Nodes")
+
 ## 864. Shortest Path to Get All Keys (Hard)
 
 <p>We are given a 2-dimensional&nbsp;<code>grid</code>.&nbsp;<code>&quot;.&quot;</code> is an empty cell, <code>&quot;#&quot;</code> is&nbsp;a wall, <code>&quot;@&quot;</code> is the starting point, (<code>&quot;a&quot;</code>, <code>&quot;b&quot;</code>, ...) are keys, and (<code>&quot;A&quot;</code>,&nbsp;<code>&quot;B&quot;</code>, ...) are locks.</p>

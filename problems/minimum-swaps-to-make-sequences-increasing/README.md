@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/similar-rgb-color "Similar RGB Color")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-eventual-safe-states "Find Eventual Safe States")
+
 ## 801. Minimum Swaps To Make Sequences Increasing (Medium)
 
 <p>We have two integer sequences <code>A</code> and <code>B</code> of the same non-zero length.</p>

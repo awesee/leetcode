@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/shifting-letters "Shifting Letters")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/rectangle-area-ii "Rectangle Area II")
+
 ## 849. Maximize Distance to Closest Person (Easy)
 
 <p>In a row of <code>seats</code>, <code>1</code> represents a person sitting in that seat, and <code>0</code> represents that the seat is empty.&nbsp;</p>

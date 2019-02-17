@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-hire-k-workers "Minimum Cost to Hire K Workers")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/buddy-strings "Buddy Strings")
+
 ## 858. Mirror Reflection (Medium)
 
 <p>There is&nbsp;a special square room with mirrors on each of the four&nbsp;walls.&nbsp; Except for the southwest&nbsp;corner, there are receptors on each of the remaining corners, numbered <code>0</code>, <code>1</code>, and <code>2</code>.</p>

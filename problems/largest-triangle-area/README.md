@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/subdomain-visit-count "Subdomain Visit Count")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-sum-of-averages "Largest Sum of Averages")
+
 ## 812. Largest Triangle Area (Easy)
 
 <p>You have a list of points in the plane. Return the area of the largest triangle that can be formed by any 3 of the points.</p>
