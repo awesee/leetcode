@@ -5,21 +5,23 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/merge-k-sorted-lists "Merge k Sorted Lists")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-nodes-in-k-group "Reverse Nodes in k-Group")
+
 ## 24. Swap Nodes in Pairs (Medium)
 
 <p>Given a&nbsp;linked list, swap every two adjacent nodes and return its head.</p>
 
+<p>You may <strong>not</strong> modify the values in the list&#39;s nodes, only nodes itself may be changed.</p>
+
+<p>&nbsp;</p>
+
 <p><strong>Example:</strong></p>
 
 <pre>
-Given <code>1-&gt;2-&gt;3-&gt;4</code>, you should return the list as <code>2-&gt;1-&gt;4-&gt;3</code>.</pre>
-
-<p><strong>Note:</strong></p>
-
-<ul>
-	<li>Your algorithm should use only constant extra space.</li>
-	<li>You may <strong>not</strong> modify the values in the list&#39;s nodes, only nodes itself may be changed.</li>
-</ul>
+Given <code>1-&gt;2-&gt;3-&gt;4</code>, you should return the list as <code>2-&gt;1-&gt;4-&gt;3</code>.
+</pre>
 
 ### Related Topics
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]

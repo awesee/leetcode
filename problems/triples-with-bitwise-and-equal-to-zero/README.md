@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/time-based-key-value-store "Time Based Key-Value Store")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-for-tickets "Minimum Cost For Tickets")
+
 ## 982. Triples with Bitwise AND Equal To Zero (Hard)
 
 <p>Given an array of integers <code>A</code>, find the number of&nbsp;triples of indices (i, j, k)&nbsp;such that:</p>
@@ -44,7 +48,7 @@
 
 <ol>
 	<li><code><font face="monospace">1 &lt;= A.length &lt;= 1000</font></code></li>
-	<li><code>0 &lt;= A[i] &lt; 2048</code></li>
+	<li><code>0 &lt;= A[i] &lt; 2^16</code></li>
 </ol>
 
 ### Related Topics

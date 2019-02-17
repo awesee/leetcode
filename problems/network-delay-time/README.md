@@ -5,24 +5,28 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## 743. Network Delay Time (Easy)
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/closest-leaf-in-a-binary-tree "Closest Leaf in a Binary Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-smallest-letter-greater-than-target "Find Smallest Letter Greater Than Target")
 
-<p>
-There are <code>N</code> network nodes, labelled <code>1</code> to <code>N</code>.
-</p><p>
-Given <code>times</code>, a list of travel times as <b>directed</b> edges <code>times[i] = (u, v, w)</code>, where <code>u</code> is the source node, <code>v</code> is the target node, and <code>w</code> is the time it takes for a signal to travel from source to target.
-</p><p>
-Now, we send a signal from a certain node <code>K</code>.  How long will it take for all nodes to receive the signal?  If it is impossible, return <code>-1</code>.
-</p>
+## 743. Network Delay Time (Medium)
 
-<p><b>Note:</b><br>
+<p>There are <code>N</code> network nodes, labelled <code>1</code> to <code>N</code>.</p>
+
+<p>Given <code>times</code>, a list of travel times as <b>directed</b> edges <code>times[i] = (u, v, w)</code>, where <code>u</code> is the source node, <code>v</code> is the target node, and <code>w</code> is the time it takes for a signal to travel from source to target.</p>
+
+<p>Now, we send a signal from a certain node <code>K</code>. How long will it take for all nodes to receive the signal? If it is impossible, return <code>-1</code>.</p>
+
+<p><b>Note:</b></p>
+
 <ol>
-<li><code>N</code> will be in the range <code>[1, 100]</code>.</li>
-<li><code>K</code> will be in the range <code>[1, N]</code>.</li>
-<li>The length of <code>times</code> will be in the range <code>[1, 6000]</code>.</li>
-<li>All edges <code>times[i] = (u, v, w)</code> will have <code>1 <= u, v <= N</code> and <code>1 <= w <= 100</code>.</li>
+	<li><code>N</code> will be in the range <code>[1, 100]</code>.</li>
+	<li><code>K</code> will be in the range <code>[1, N]</code>.</li>
+	<li>The length of <code>times</code> will be in the range <code>[1, 6000]</code>.</li>
+	<li>All edges <code>times[i] = (u, v, w)</code> will have <code>1 &lt;= u, v &lt;= N</code> and <code>0 &lt;= w &lt;= 100</code>.</li>
 </ol>
-</p>
+
+<p>&nbsp;</p>
 
 ### Related Topics
   [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
@@ -31,4 +35,7 @@ Now, we send a signal from a certain node <code>K</code>.  How long will it take
   [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
 
 ### Hints
-  1. We visit each node at some time, and if that time is better than the fastest time we've reached this node, we travel along outgoing edges in sorted order.  Alternatively, we could use Dijkstra's algorithm.
+<details>
+<summary>Hint 1</summary>
+We visit each node at some time, and if that time is better than the fastest time we've reached this node, we travel along outgoing edges in sorted order.  Alternatively, we could use Dijkstra's algorithm.
+</details>

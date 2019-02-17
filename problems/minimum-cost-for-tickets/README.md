@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/triples-with-bitwise-and-equal-to-zero "Triples with Bitwise AND Equal To Zero")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/string-without-aaa-or-bbb "String Without AAA or BBB")
+
 ## 983. Minimum Cost For Tickets (Medium)
 
 <p>In a country popular for train travel, you&nbsp;have planned some train travelling one year in advance.&nbsp; The days of the year that you will travel is given as an array <code>days</code>.&nbsp; Each day is an integer from <code>1</code> to <code>365</code>.</p>
@@ -17,7 +21,7 @@
 	<li>a 30-day pass is sold for <code>costs[2]</code> dollars.</li>
 </ul>
 
-<p>The passes allow that many days of unlimited travel.&nbsp; For example, if we get a 7-day pass on day 2, then we can travel for 7 days: day 2, 3, 4, 5, 6, 7, and 8.</p>
+<p>The passes allow that many days of consecutive travel.&nbsp; For example, if we get a 7-day pass on day 2, then we can travel for 7 days: day 2, 3, 4, 5, 6, 7, and 8.</p>
 
 <p>Return the minimum number of dollars you need to travel every day in the given list of <code>days</code>.</p>
 
