@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-harmonious-subsequence "Longest Harmonious Subsequence")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/classes-more-than-5-students "Classes More Than 5 Students")
+
 ## 595. Big Countries (Easy)
 
 <p>There is a table <code>World</code> </p>

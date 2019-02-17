@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/gas-station "Gas Station")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/single-number "Single Number")
+
 ## 135. Candy (Hard)
 
 <p>There are <em>N</em> children standing in a line. Each child is assigned a rating value.</p>

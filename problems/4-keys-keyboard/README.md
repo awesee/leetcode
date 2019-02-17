@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/2-keys-keyboard "2 Keys Keyboard")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-subtrees "Find Duplicate Subtrees")
+
 ## 651. 4 Keys Keyboard (Medium)
 
 <p>Imagine you have a special keyboard with the following keys: </p>

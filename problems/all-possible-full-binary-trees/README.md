@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/groups-of-special-equivalent-strings "Groups of Special-Equivalent Strings")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-frequency-stack "Maximum Frequency Stack")
+
 ## 894. All Possible Full Binary Trees (Medium)
 
 <p>A <em>full binary tree</em>&nbsp;is a binary tree where each node has exactly 0 or 2&nbsp;children.</p>

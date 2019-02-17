@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-sum-of-averages "Largest Sum of Averages")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/bus-routes "Bus Routes")
+
 ## 814. Binary Tree Pruning (Medium)
 
 <p>We are given the head node <code>root</code>&nbsp;of a binary tree, where additionally every node&#39;s value is either a 0 or a 1.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted "Max Chunks To Make Sorted")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/jewels-and-stones "Jewels and Stones")
+
 ## 770. Basic Calculator IV (Hard)
 
 <p>Given an <code>expression</code>&nbsp;such as <code>expression = &quot;e + 8 - a + 5&quot;</code> and an evaluation map such as <code>{&quot;e&quot;: 1}</code> (given in terms of <code>evalvars = [&quot;e&quot;]</code> and <code>evalints = [1]</code>), return a list of tokens representing the simplified expression, such as <code>[&quot;-1*a&quot;,&quot;14&quot;]</code></p>

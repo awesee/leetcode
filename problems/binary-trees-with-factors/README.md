@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/card-flipping-game "Card Flipping Game")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/goat-latin "Goat Latin")
+
 ## 823. Binary Trees With Factors (Medium)
 
 <p>Given an array of unique integers, each integer is strictly greater than 1.</p>

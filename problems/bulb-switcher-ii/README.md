@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/second-minimum-node-in-a-binary-tree "Second Minimum Node In a Binary Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-longest-increasing-subsequence "Number of Longest Increasing Subsequence")
+
 ## 672. Bulb Switcher II (Medium)
 
 <p>

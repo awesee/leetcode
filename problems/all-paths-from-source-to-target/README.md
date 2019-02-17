@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/rotate-string "Rotate String")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-rotation-with-highest-score "Smallest Rotation with Highest Score")
+
 ## 797. All Paths From Source to Target (Medium)
 
 <p>Given a directed, acyclic graph of <code>N</code> nodes.&nbsp; Find all possible paths from node <code>0</code> to node <code>N-1</code>, and return them in any order.</p>

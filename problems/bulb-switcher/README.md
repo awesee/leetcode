@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-word-lengths "Maximum Product of Word Lengths")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/generalized-abbreviation "Generalized Abbreviation")
+
 ## 319. Bulb Switcher (Medium)
 
 <p>There are <i>n</i> bulbs that are initially off. You first turn on all the bulbs. Then, you turn off every second bulb. On the third round, you toggle every third bulb (turning on if it&#39;s off or turning off if it&#39;s on). For the <i>i</i>-th round, you toggle every <i>i</i> bulb. For the <i>n</i>-th round, you only toggle the last bulb. Find how many bulbs are on after <i>n</i> rounds.</p>

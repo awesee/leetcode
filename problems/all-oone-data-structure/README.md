@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/encode-n-ary-tree-to-binary-tree "Encode N-ary Tree to Binary Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-genetic-mutation "Minimum Genetic Mutation")
+
 ## 432. All O`one Data Structure (Hard)
 
 <p>Implement a data structure supporting the following operations:</p>

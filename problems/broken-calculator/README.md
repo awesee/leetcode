@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/satisfiability-of-equality-equations "Satisfiability of Equality Equations")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/subarrays-with-k-different-integers "Subarrays with K Different Integers")
+
 ## 991. Broken Calculator (Medium)
 
 <p>On a broken calculator that has a number showing on its display, we can perform two operations:</p>

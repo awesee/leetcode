@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/missing-number "Missing Number")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value "Closest Binary Search Tree Value")
+
 ## 269. Alien Dictionary (Hard)
 
 

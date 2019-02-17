@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/dota2-senate "Dota2 Senate")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/4-keys-keyboard "4 Keys Keyboard")
+
 ## 650. 2 Keys Keyboard (Medium)
 
 <p>

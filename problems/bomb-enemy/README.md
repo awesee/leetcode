@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/sort-transformed-array "Sort Transformed Array")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/design-hit-counter "Design Hit Counter")
+
 ## 361. Bomb Enemy (Medium)
 
 

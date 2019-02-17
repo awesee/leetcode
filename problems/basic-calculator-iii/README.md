@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/jewels-and-stones "Jewels and Stones")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/sliding-puzzle "Sliding Puzzle")
+
 ## 772. Basic Calculator III (Hard)
 
 

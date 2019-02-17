@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes "Factorial Trailing Zeroes")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/dungeon-game "Dungeon Game")
+
 ## 173. Binary Search Tree Iterator (Medium)
 
 <p>Implement an iterator over a binary search tree (BST). Your iterator will be initialized with the root node of a BST.</p>

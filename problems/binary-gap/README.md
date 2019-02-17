@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/transpose-matrix "Transpose Matrix")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/reordered-power-of-2 "Reordered Power of 2")
+
 ## 868. Binary Gap (Easy)
 
 <p>Given a positive&nbsp;integer <code>N</code>, find and return the longest distance between two consecutive 1&#39;s in the binary representation of <code>N</code>.</p>

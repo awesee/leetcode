@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-words "Top K Frequent Words")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-distinct-islands "Number of Distinct Islands")
+
 ## 693. Binary Number with Alternating Bits (Easy)
 
 <p>Given a positive integer, check whether it has alternating bits: namely, if two adjacent bits will always have different values.</p>
