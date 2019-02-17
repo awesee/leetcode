@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/reshape-the-matrix "Reshape the Matrix")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-vacation-days "Maximum Vacation Days")
+
 ## 567. Permutation in String (Medium)
 
 Given two strings <b>s1</b> and <b>s2</b>, write a function to return true if <b>s2</b> contains the permutation of <b>s1</b>. In other words, one of the first string's permutations is the <b>substring</b> of the second string.
@@ -39,9 +43,27 @@ Given two strings <b>s1</b> and <b>s2</b>, write a function to return true if <b
   1. [Find All Anagrams in a String](https://github.com/openset/leetcode/tree/master/problems/find-all-anagrams-in-a-string) (Easy)
 
 ### Hints
-  1. Obviously, brute force will result in TLE. Think of something else.
-  1. How will you check whether one string is a permutation of another string?
-  1. One way is to sort the string and then compare. But, Is there a better way?
-  1. If one string is a permutation of another string then they must one common metric. What is that?
-  1. Both strings must have same character frequencies, if  one is permutation of another. Which data structure should be used to store frequencies?
-  1. What about hash table?  An array of size 26?
+<details>
+<summary>Hint 1</summary>
+Obviously, brute force will result in TLE. Think of something else.
+</details>
+<details>
+<summary>Hint 2</summary>
+How will you check whether one string is a permutation of another string?
+</details>
+<details>
+<summary>Hint 3</summary>
+One way is to sort the string and then compare. But, Is there a better way?
+</details>
+<details>
+<summary>Hint 4</summary>
+If one string is a permutation of another string then they must one common metric. What is that?
+</details>
+<details>
+<summary>Hint 5</summary>
+Both strings must have same character frequencies, if  one is permutation of another. Which data structure should be used to store frequencies?
+</details>
+<details>
+<summary>Hint 6</summary>
+What about hash table?  An array of size 26?
+</details>

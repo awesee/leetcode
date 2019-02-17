@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array "Remove Duplicates from Sorted Array")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/implement-strstr "Implement strStr()")
+
 ## 27. Remove Element (Easy)
 
 <p>Given an array <em>nums</em> and a value <em>val</em>, remove all instances of that value <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> and return the new length.</p>
@@ -62,6 +66,15 @@ for (int i = 0; i &lt; len; i++) {
   1. [Move Zeroes](https://github.com/openset/leetcode/tree/master/problems/move-zeroes) (Easy)
 
 ### Hints
-  1. Try two pointers.
-  1. Did you use the property of "the order of elements can be changed"?
-  1. What happens when the elements to remove are rare?
+<details>
+<summary>Hint 1</summary>
+Try two pointers.
+</details>
+<details>
+<summary>Hint 2</summary>
+Did you use the property of "the order of elements can be changed"?
+</details>
+<details>
+<summary>Hint 3</summary>
+What happens when the elements to remove are rare?
+</details>

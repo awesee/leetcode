@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-smallest-letter-greater-than-target "Find Smallest Letter Greater Than Target")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/min-cost-climbing-stairs "Min Cost Climbing Stairs")
+
 ## 745. Prefix and Suffix Search (Hard)
 
 <p>
@@ -39,4 +43,7 @@ WordFilter.f("b", "") // returns -1
   1. [Add and Search Word - Data structure design](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design) (Medium)
 
 ### Hints
-  1. For a word like "test", consider "#test", "t#test", "st#test", "est#test", "test#test".  Then if we have a query like prefix = "te", suffix = "t", we can find it by searching for something we've inserted starting with "t#te".
+<details>
+<summary>Hint 1</summary>
+For a word like "test", consider "#test", "t#test", "st#test", "est#test", "test#test".  Then if we have a query like prefix = "te", suffix = "t", we can find it by searching for something we've inserted starting with "t#te".
+</details>

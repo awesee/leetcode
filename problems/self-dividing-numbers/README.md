@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-window-subsequence "Minimum Window Subsequence")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i "My Calendar I")
+
 ## 728. Self Dividing Numbers (Easy)
 
 <p>
@@ -35,4 +39,7 @@ left = 1, right = 22
   1. [Perfect Number](https://github.com/openset/leetcode/tree/master/problems/perfect-number) (Easy)
 
 ### Hints
-  1. For each number in the range, check whether it is self dividing by converting that number to a character array (or string in Python), then checking that each digit is nonzero and divides the original number.
+<details>
+<summary>Hint 1</summary>
+For each number in the range, check whether it is self dividing by converting that number to a character array (or string in Python), then checking that each digit is nonzero and divides the original number.
+</details>

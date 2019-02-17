@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/4sum "4Sum")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-parentheses "Valid Parentheses")
+
 ## 19. Remove Nth Node From End of List (Medium)
 
 <p>Given a linked list, remove the <em>n</em>-th node from the end of list and return its head.</p>
@@ -30,4 +34,7 @@ After removing the second node from the end, the linked list becomes <strong>1-&
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
 ### Hints
-  1. Maintain two pointers and update one with a delay of n steps.
+<details>
+<summary>Hint 1</summary>
+Maintain two pointers and update one with a delay of n steps.
+</details>

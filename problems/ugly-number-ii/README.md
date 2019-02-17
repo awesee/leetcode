@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/ugly-number "Ugly Number")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii "Paint House II")
+
 ## 264. Ugly Number II (Medium)
 
 <p>Write a program to find the <code>n</code>-th ugly number.</p>
@@ -38,7 +42,19 @@
   1. [Super Ugly Number](https://github.com/openset/leetcode/tree/master/problems/super-ugly-number) (Medium)
 
 ### Hints
-  1. The naive approach is to call <code>isUgly</code> for every number until you reach the n<sup>th</sup> one. Most numbers are <i>not</i> ugly. Try to focus your effort on generating only the ugly ones.
-  1. An ugly number must be multiplied by either 2, 3, or 5 from a smaller ugly number.
-  1. The key is how to maintain the order of the ugly numbers. Try a similar approach of merging from three sorted lists: L<sub>1</sub>, L<sub>2</sub>, and L<sub>3</sub>.
-  1. Assume you have U<sub>k</sub>, the k<sup>th</sup> ugly number. Then U<sub>k+1</sub> must be Min(L<sub>1</sub> * 2, L<sub>2</sub> * 3, L<sub>3</sub> * 5).
+<details>
+<summary>Hint 1</summary>
+The naive approach is to call <code>isUgly</code> for every number until you reach the n<sup>th</sup> one. Most numbers are <i>not</i> ugly. Try to focus your effort on generating only the ugly ones.
+</details>
+<details>
+<summary>Hint 2</summary>
+An ugly number must be multiplied by either 2, 3, or 5 from a smaller ugly number.
+</details>
+<details>
+<summary>Hint 3</summary>
+The key is how to maintain the order of the ugly numbers. Try a similar approach of merging from three sorted lists: L<sub>1</sub>, L<sub>2</sub>, and L<sub>3</sub>.
+</details>
+<details>
+<summary>Hint 4</summary>
+Assume you have U<sub>k</sub>, the k<sup>th</sup> ugly number. Then U<sub>k+1</sub> must be Min(L<sub>1</sub> * 2, L<sub>2</sub> * 3, L<sub>3</sub> * 5).
+</details>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/toeplitz-matrix "Toeplitz Matrix")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted-ii "Max Chunks To Make Sorted II")
+
 ## 767. Reorganize String (Medium)
 
 <p>Given a string <code>S</code>, check if the letters can be rearranged so that two characters that are adjacent to each other are not the same.</p>
@@ -44,4 +48,7 @@
   1. [Task Scheduler](https://github.com/openset/leetcode/tree/master/problems/task-scheduler) (Medium)
 
 ### Hints
-  1. Alternate placing the most common letters.
+<details>
+<summary>Hint 1</summary>
+Alternate placing the most common letters.
+</details>
