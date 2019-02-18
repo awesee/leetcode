@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits "Number of 1 Bits")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-phone-numbers "Valid Phone Numbers")
+
 ## 192. Word Frequency (Medium)
 
 <p>Write a bash script to calculate the frequency of each word in a text file <code>words.txt</code>.</p>
