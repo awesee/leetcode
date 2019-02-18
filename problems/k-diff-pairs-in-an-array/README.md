@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-i "Lonely Pixel I")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-ii "Lonely Pixel II")
+
 ## 532. K-diff Pairs in an Array (Easy)
 
 <p>

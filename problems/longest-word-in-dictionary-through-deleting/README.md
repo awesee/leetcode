@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/continuous-subarray-sum "Continuous Subarray Sum")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/contiguous-array "Contiguous Array")
+
 ## 524. Longest Word in Dictionary through Deleting (Medium)
 
 <p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/balanced-binary-tree "Balanced Binary Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/path-sum "Path Sum")
+
 ## 111. Minimum Depth of Binary Tree (Easy)
 
 <p>Given a binary tree, find its minimum depth.</p>

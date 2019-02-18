@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/convert-bst-to-greater-tree "Convert BST to Greater Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/single-element-in-a-sorted-array "Single Element in a Sorted Array")
+
 ## 539. Minimum Time Difference (Medium)
 
 Given a list of 24-hour clock time points in "Hour:Minutes" format, find the minimum <b>minutes</b> difference between any two time points in the list. 

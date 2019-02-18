@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-k-pairs-with-smallest-sums "Find K Pairs with Smallest Sums")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii "Guess Number Higher or Lower II")
+
 ## 374. Guess Number Higher or Lower (Easy)
 
 <p>We are playing the Guess Game. The game is as follows:</p>

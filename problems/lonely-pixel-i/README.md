@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference-in-bst "Minimum Absolute Difference in BST")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/k-diff-pairs-in-an-array "K-diff Pairs in an Array")
+
 ## 531. Lonely Pixel I (Medium)
 
 

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/detect-capital "Detect Capital")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-ii "Longest Uncommon Subsequence II")
+
 ## 521. Longest Uncommon Subsequence I  (Easy)
 
 <p>

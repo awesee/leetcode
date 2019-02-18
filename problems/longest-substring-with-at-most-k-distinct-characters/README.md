@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/nested-list-weight-sum "Nested List Weight Sum")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator "Flatten Nested List Iterator")
+
 ## 340. Longest Substring with At Most K Distinct Characters (Hard)
 
 

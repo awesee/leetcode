@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/course-schedule "Course Schedule")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-size-subarray-sum "Minimum Size Subarray Sum")
+
 ## 208. Implement Trie (Prefix Tree) (Medium)
 
 <p>Implement a trie with <code>insert</code>, <code>search</code>, and <code>startsWith</code> methods.</p>

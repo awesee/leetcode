@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-two-distinct-characters "Longest Substring with At Most Two Distinct Characters")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/one-edit-distance "One Edit Distance")
+
 ## 160. Intersection of Two Linked Lists (Easy)
 
 <p>Write a program to find the node at which the intersection of two singly linked lists begins.</p>

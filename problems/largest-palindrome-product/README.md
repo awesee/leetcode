@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/generate-random-point-in-a-circle "Generate Random Point in a Circle")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/sliding-window-median "Sliding Window Median")
+
 ## 479. Largest Palindrome Product (Hard)
 
 <p>Find the largest palindrome made from the product of two n-digit numbers.</p>

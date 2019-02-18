@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/odd-even-linked-list "Odd Even Linked List")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/patching-array "Patching Array")
+
 ## 329. Longest Increasing Path in a Matrix (Hard)
 
 <p>Given an integer matrix, find the length of the longest increasing path.</p>
