@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## Rejection Sampling
+## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > Rejection Sampling
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |

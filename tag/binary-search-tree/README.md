@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## 二叉搜索树
+## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 二叉搜索树
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |

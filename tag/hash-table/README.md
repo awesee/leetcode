@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## 哈希表
+## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 哈希表
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |

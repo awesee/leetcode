@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## 蓄水池抽样
+## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 蓄水池抽样
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |

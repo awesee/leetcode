@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## Random
+## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > Random
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |

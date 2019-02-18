@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## 分治算法
+## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 分治算法
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
