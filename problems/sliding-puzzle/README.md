@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iii "Basic Calculator III")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/minimize-max-distance-to-gas-station "Minimize Max Distance to Gas Station")
+
 ## 773. Sliding Puzzle (Hard)
 
 <p>On a 2x3 <code>board</code>, there are 5 tiles represented by the integers 1 through 5, and an empty square represented by 0.</p>
@@ -58,4 +62,7 @@ After move 5: [[1,2,3],[4,5,0]]
   [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ### Hints
-  1. Perform a breadth-first-search, where the nodes are the puzzle boards and edges are if two puzzle boards can be transformed into one another with one move.
+<details>
+<summary>Hint 1</summary>
+Perform a breadth-first-search, where the nodes are the puzzle boards and edges are if two puzzle boards can be transformed into one another with one move.
+</details>

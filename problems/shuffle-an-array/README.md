@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/ransom-note "Ransom Note")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/mini-parser "Mini Parser")
+
 ## 384. Shuffle an Array (Medium)
 
 <p>Shuffle a set of numbers without duplicates.
@@ -28,4 +32,7 @@ solution.shuffle();
 </p>
 
 ### Hints
-  1. The solution expects that we always use the original array to shuffle() else some of the test cases fail. (Credits; @snehasingh31)
+<details>
+<summary>Hint 1</summary>
+The solution expects that we always use the original array to shuffle() else some of the test cases fail. (Credits; @snehasingh31)
+</details>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/my-calendar-ii "My Calendar II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/flood-fill "Flood Fill")
+
 ## 732. My Calendar III (Hard)
 
 <p>Implement a <code>MyCalendarThree</code> class to store your events. A new event can <b>always</b> be added.</p>
@@ -54,4 +58,7 @@ eg. [10, 20), [10, 40), and [5, 15) are still triple booked.
   1. [My Calendar II](https://github.com/openset/leetcode/tree/master/problems/my-calendar-ii) (Medium)
 
 ### Hints
-  1. Treat each interval [start, end) as two events "start" and "end", and process them in sorted order.
+<details>
+<summary>Hint 1</summary>
+Treat each interval [start, end) as two events "start" and "end", and process them in sorted order.
+</details>

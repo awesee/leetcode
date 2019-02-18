@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/swap-adjacent-in-lr-string "Swap Adjacent in LR String")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/k-th-symbol-in-grammar "K-th Symbol in Grammar")
+
 ## 778. Swim in Rising Water (Hard)
 
 <p>On an N x N <code>grid</code>, each square <code>grid[i][j]</code> represents the elevation at that point <code>(i,j)</code>.</p>
@@ -56,4 +60,7 @@ We need to wait until time 16 so that (0, 0) and (4, 4) are connected.
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### Hints
-  1. Use either Dijkstra's, or binary search for the best time T for which you can reach the end if you only step on squares at most T.
+<details>
+<summary>Hint 1</summary>
+Use either Dijkstra's, or binary search for the best time T for which you can reach the end if you only step on squares at most T.
+</details>

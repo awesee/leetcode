@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/implement-queue-using-stacks "Implement Queue using Stacks")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-linked-list "Palindrome Linked List")
+
 ## 233. Number of Digit One (Hard)
 
 <p>Given an integer n, count the total number of digit 1 appearing in all non-negative integers less than or equal to n.</p>
@@ -24,4 +28,7 @@
   1. [Factorial Trailing Zeroes](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes) (Easy)
 
 ### Hints
-  1. Beware of overflow.
+<details>
+<summary>Hint 1</summary>
+Beware of overflow.
+</details>

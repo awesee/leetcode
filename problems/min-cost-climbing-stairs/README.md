@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/prefix-and-suffix-search "Prefix and Suffix Search")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-number-at-least-twice-of-others "Largest Number At Least Twice of Others")
+
 ## 746. Min Cost Climbing Stairs (Easy)
 
 <p>
@@ -44,4 +48,7 @@ Once you pay the cost, you can either climb one or two steps. You need to find m
   1. [Climbing Stairs](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs) (Easy)
 
 ### Hints
-  1. Say f[i] is the final cost to climb to the top from step i.  Then f[i] = cost[i] + min(f[i+1], f[i+2]).
+<details>
+<summary>Hint 1</summary>
+Say f[i] is the final cost to climb to the top from step i.  Then f[i] = cost[i] + min(f[i+1], f[i+2]).
+</details>

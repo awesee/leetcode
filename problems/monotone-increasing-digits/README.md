@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity-ii "Sentence Similarity II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/daily-temperatures "Daily Temperatures")
+
 ## 738. Monotone Increasing Digits (Medium)
 
 <p>
@@ -45,4 +49,7 @@ Given a non-negative integer <code>N</code>, find the largest number that is les
   1. [Remove K Digits](https://github.com/openset/leetcode/tree/master/problems/remove-k-digits) (Medium)
 
 ### Hints
-  1. Build the answer digit by digit, adding the largest possible one that would make the number still less than or equal to N.
+<details>
+<summary>Hint 1</summary>
+Build the answer digit by digit, adding the largest possible one that would make the number still less than or equal to N.
+</details>

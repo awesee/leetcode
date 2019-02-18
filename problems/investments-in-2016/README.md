@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-customer-referee "Find Customer Referee")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/customer-placing-the-largest-number-of-orders "Customer Placing the Largest Number of Orders")
+
 ## 585. Investments in 2016 (Medium)
 
 <p>Write a query to print the sum of all total investment values in 2016 (<b>TIV_2016</b>), to a scale of 2 decimal places, for all policy holders who meet the following criteria:</p>
@@ -60,4 +64,7 @@ And its location is the same with the third record, which makes the third record
 So, the result is the sum of <b>TIV_2016</b> of the first and last record, which is 45.</pre>
 
 ### Hints
-  1. Make the (LAT, LON) a pair to represent the location information
+<details>
+<summary>Hint 1</summary>
+Make the (LAT, LON) a pair to represent the location information
+</details>

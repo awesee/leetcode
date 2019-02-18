@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/text-justification "Text Justification")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs "Climbing Stairs")
+
 ## 69. Sqrt(x) (Easy)
 
 <p>Implement <code>int sqrt(int x)</code>.</p>
@@ -38,5 +42,11 @@
   1. [Valid Perfect Square](https://github.com/openset/leetcode/tree/master/problems/valid-perfect-square) (Easy)
 
 ### Hints
-  1. Try exploring all integers. (Credits: @annujoshi)
-  1. Use the sorted property of integers to reduced the search space. (Credits: @annujoshi)
+<details>
+<summary>Hint 1</summary>
+Try exploring all integers. (Credits: @annujoshi)
+</details>
+<details>
+<summary>Hint 2</summary>
+Use the sorted property of integers to reduced the search space. (Credits: @annujoshi)
+</details>

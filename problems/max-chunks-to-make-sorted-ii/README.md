@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/reorganize-string "Reorganize String")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted "Max Chunks To Make Sorted")
+
 ## 768. Max Chunks To Make Sorted II (Hard)
 
 <p><em>This question is the same as &quot;Max Chunks to Make Sorted&quot; except the integers of the given array are not necessarily distinct, the input array could be up to length <code>2000</code>, and the elements could be up to <code>10**8</code>.</em></p>
@@ -51,4 +55,7 @@ However, splitting into [2, 1], [3], [4], [4] is the highest number of chunks po
   1. [Max Chunks To Make Sorted](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted) (Medium)
 
 ### Hints
-  1. Each k for which some permutation of arr[:k] is equal to sorted(arr)[:k] is where we should cut each chunk.
+<details>
+<summary>Hint 1</summary>
+Each k for which some permutation of arr[:k] is equal to sorted(arr)[:k] is where we should cut each chunk.
+</details>

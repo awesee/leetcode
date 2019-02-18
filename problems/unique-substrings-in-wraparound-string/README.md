@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-the-repetitions "Count The Repetitions")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/validate-ip-address "Validate IP Address")
+
 ## 467. Unique Substrings in Wraparound String (Medium)
 
 <p>Consider the string <code>s</code> to be the infinite wraparound string of "abcdefghijklmnopqrstuvwxyz", so <code>s</code> will look like this: "...zabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcd....".</p>
@@ -42,4 +46,7 @@
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
-  1. One possible solution might be to consider allocating an array size of 26 for each character in the alphabet. (Credits to @r2ysxu)
+<details>
+<summary>Hint 1</summary>
+One possible solution might be to consider allocating an array size of 26 for each character in the alphabet. (Credits to @r2ysxu)
+</details>

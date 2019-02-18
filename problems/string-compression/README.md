@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-all-duplicates-in-an-array "Find All Duplicates in an Array")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/sequence-reconstruction "Sequence Reconstruction")
+
 ## 443. String Compression (Easy)
 
 <p>Given an array of characters, compress it <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><b>in-place</b></a>.</p>
@@ -82,4 +86,7 @@ Notice each digit has it&#39;s own entry in the array.
   1. [Design Compressed String Iterator](https://github.com/openset/leetcode/tree/master/problems/design-compressed-string-iterator) (Easy)
 
 ### Hints
-  1. How do you know if you are at the end of a consecutive group of characters?
+<details>
+<summary>Hint 1</summary>
+How do you know if you are at the end of a consecutive group of characters?
+</details>

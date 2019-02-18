@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii "Paint House II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation-ii "Palindrome Permutation II")
+
 ## 266. Palindrome Permutation (Easy)
 
 <p>Given a string, determine if a permutation of the string could form a palindrome.</p>
@@ -34,6 +38,15 @@
   1. [Longest Palindrome](https://github.com/openset/leetcode/tree/master/problems/longest-palindrome) (Easy)
 
 ### Hints
-  1. Consider the palindromes of odd vs even length. What difference do you notice?
-  1. Count the frequency of each character.
-  1. If each character occurs even number of times, then it must be a palindrome. How about character which occurs odd number of times?
+<details>
+<summary>Hint 1</summary>
+Consider the palindromes of odd vs even length. What difference do you notice?
+</details>
+<details>
+<summary>Hint 2</summary>
+Count the frequency of each character.
+</details>
+<details>
+<summary>Hint 3</summary>
+If each character occurs even number of times, then it must be a palindrome. How about character which occurs odd number of times?
+</details>

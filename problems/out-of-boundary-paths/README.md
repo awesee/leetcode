@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/distribute-candies "Distribute Candies")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/employee-bonus "Employee Bonus")
+
 ## 576. Out of Boundary Paths (Medium)
 
 <p>There is an <b>m</b> by <b>n</b> grid with a ball. Given the start coordinate <b>(i,j)</b> of the ball, you can move the ball to <b>adjacent</b> cell or cross the grid boundary in four directions (up, down, left, right). However, you can <b>at most</b> move <b>N</b> times. Find out the number of paths to move the ball out of grid boundary. The answer may be very large, return it after mod 10<sup>9</sup> + 7.</p>
@@ -47,6 +51,15 @@
   1. [Knight Probability in Chessboard](https://github.com/openset/leetcode/tree/master/problems/knight-probability-in-chessboard) (Medium)
 
 ### Hints
-  1. WIll traversing every path is fesaible? There are many possible paths for a small matrix. Try to optimize it.
-  1. Can we use some space to store the number of paths and updating them after every move?
-  1. One obvious thing: ball will go out of boundary only by crossing it. Also, there is only one possible way ball can go out of boundary from boundary cell except corner cells. From corner cell ball can go out in two different ways. Can you use this thing to solve the problem?
+<details>
+<summary>Hint 1</summary>
+WIll traversing every path is fesaible? There are many possible paths for a small matrix. Try to optimize it.
+</details>
+<details>
+<summary>Hint 2</summary>
+Can we use some space to store the number of paths and updating them after every move?
+</details>
+<details>
+<summary>Hint 3</summary>
+One obvious thing: ball will go out of boundary only by crossing it. Also, there is only one possible way ball can go out of boundary from boundary cell except corner cells. From corner cell ball can go out in two different ways. Can you use this thing to solve the problem?
+</details>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/product-of-array-except-self "Product of Array Except Self")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix-ii "Search a 2D Matrix II")
+
 ## 239. Sliding Window Maximum (Hard)
 
 <p>Given an array <em>nums</em>, there is a sliding window of size <em>k</em> which is moving from the very left of the array to the very right. You can only see the <em>k</em> numbers in the window. Each time the sliding window moves right by one position. Return the max sliding window.</p>
@@ -42,6 +46,15 @@ Could you solve it in linear time?</p>
   1. [Paint House II](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii) (Hard)
 
 ### Hints
-  1. How about using a data structure such as deque (double-ended queue)?
-  1. The queue size need not be the same as the window’s size.
-  1. Remove redundant elements and the queue should store only elements that need to be considered.
+<details>
+<summary>Hint 1</summary>
+How about using a data structure such as deque (double-ended queue)?
+</details>
+<details>
+<summary>Hint 2</summary>
+The queue size need not be the same as the window’s size.
+</details>
+<details>
+<summary>Hint 3</summary>
+Remove redundant elements and the queue should store only elements that need to be considered.
+</details>

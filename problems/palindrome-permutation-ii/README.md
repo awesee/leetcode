@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation "Palindrome Permutation")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/missing-number "Missing Number")
+
 ## 267. Palindrome Permutation II (Medium)
 
 <p>Given a string <code>s</code>, return all the palindromic permutations (without duplicates) of it. Return an empty list if no palindromic permutation could be form.</p>
@@ -28,5 +32,11 @@
   1. [Palindrome Permutation](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation) (Easy)
 
 ### Hints
-  1. If a palindromic permutation exists, we just need to generate the first half of the string.
-  1. To generate all distinct permutations of a (half of) string, use a similar approach from: <a href="/problems/permutations-ii">Permutations II</a> or <a href="/problems/next-permutation">Next Permutation</a>.
+<details>
+<summary>Hint 1</summary>
+If a palindromic permutation exists, we just need to generate the first half of the string.
+</details>
+<details>
+<summary>Hint 2</summary>
+To generate all distinct permutations of a (half of) string, use a similar approach from: <a href="/problems/permutations-ii">Permutations II</a> or <a href="/problems/next-permutation">Next Permutation</a>.
+</details>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/self-dividing-numbers "Self Dividing Numbers")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/count-different-palindromic-subsequences "Count Different Palindromic Subsequences")
+
 ## 729. My Calendar I (Medium)
 
 <p>
@@ -46,4 +50,7 @@ The third event can be booked, as the first event takes every time less than 20,
   1. [My Calendar III](https://github.com/openset/leetcode/tree/master/problems/my-calendar-iii) (Hard)
 
 ### Hints
-  1. Store the events as a sorted list of intervals.  If none of the events conflict, then the new event can be added.
+<details>
+<summary>Hint 1</summary>
+Store the events as a sorted list of intervals.  If none of the events conflict, then the new event can be added.
+</details>
