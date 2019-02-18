@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-phone-directory "Design Phone Directory")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1-duplicates-allowed "Insert Delete GetRandom O(1) - Duplicates allowed")
+
 ## 380. Insert Delete GetRandom O(1) (Medium)
 
 <p>Design a data structure that supports all following operations in <i>average</i> <b>O(1)</b> time.</p>

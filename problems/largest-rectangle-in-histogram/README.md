@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list "Remove Duplicates from Sorted List")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/maximal-rectangle "Maximal Rectangle")
+
 ## 84. Largest Rectangle in Histogram (Hard)
 
 <p>Given <em>n</em> non-negative integers representing the histogram&#39;s bar height where the width of each bar is 1, find the area of largest rectangle in the histogram.</p>

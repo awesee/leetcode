@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/first-unique-character-in-a-string "First Unique Character in a String")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-difference "Find the Difference")
+
 ## 388. Longest Absolute File Path (Medium)
 
 <p>Suppose we abstract our file system by a string in the following manner:</p>

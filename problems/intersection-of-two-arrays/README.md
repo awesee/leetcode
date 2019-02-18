@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-tic-tac-toe "Design Tic-Tac-Toe")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays-ii "Intersection of Two Arrays II")
+
 ## 349. Intersection of Two Arrays (Easy)
 
 <p>Given two arrays, write a function to compute their intersection.</p>

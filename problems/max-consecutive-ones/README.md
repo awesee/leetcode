@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-permutation "Find Permutation")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/predict-the-winner "Predict the Winner")
+
 ## 485. Max Consecutive Ones (Easy)
 
 <p>Given a binary array, find the maximum number of consecutive 1s in this array.</p>

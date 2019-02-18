@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-search-autocomplete-system "Design Search Autocomplete System")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-ii "Maximum Average Subarray II")
+
 ## 643. Maximum Average Subarray I (Easy)
 
 <p>

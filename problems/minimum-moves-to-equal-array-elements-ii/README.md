@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/hamming-distance "Hamming Distance")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/island-perimeter "Island Perimeter")
+
 ## 462. Minimum Moves to Equal Array Elements II (Medium)
 
 <p><p>Given a <b>non-empty</b> integer array, find the minimum number of moves required to make all array elements equal, where a move is incrementing a selected element by 1 or decrementing a selected element by 1.</p>

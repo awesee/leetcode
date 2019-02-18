@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower "Guess Number Higher or Lower")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/wiggle-subsequence "Wiggle Subsequence")
+
 ## 375. Guess Number Higher or Lower II (Medium)
 
 <p>We are playing the Guess Game. The game is as follows:</p>

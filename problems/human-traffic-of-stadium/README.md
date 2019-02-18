@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones "Non-negative Integers without Consecutive Ones")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/friend-requests-ii-who-has-the-most-friends "Friend Requests II: Who Has the Most Friends")
+
 ## 601. Human Traffic of Stadium (Hard)
 
 <p>X city built a new stadium, each day many people visit it and the stats are saved as these columns: <b>id</b>, <b>date</b>, <b>people</b>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/cut-off-trees-for-golf-event "Cut Off Trees for Golf Event")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/map-sum-pairs "Map Sum Pairs")
+
 ## 676. Implement Magic Dictionary (Medium)
 
 <p>

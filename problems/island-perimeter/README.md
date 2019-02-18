@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements-ii "Minimum Moves to Equal Array Elements II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/can-i-win "Can I Win")
+
 ## 463. Island Perimeter (Easy)
 
 <p>You are given a map in form of a two-dimensional integer grid where 1 represents land and 0 represents water.</p>

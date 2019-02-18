@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1 "Insert Delete GetRandom O(1)")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/linked-list-random-node "Linked List Random Node")
+
 ## 381. Insert Delete GetRandom O(1) - Duplicates allowed (Hard)
 
 <p>Design a data structure that supports all following operations in <i>average</i> <b>O(1)</b> time.</p>

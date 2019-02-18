@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/mini-parser "Mini Parser")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/first-unique-character-in-a-string "First Unique Character in a String")
+
 ## 386. Lexicographical Numbers (Medium)
 
 <p>Given an integer <i>n</i>, return 1 - <i>n</i> in lexicographical order.</p>

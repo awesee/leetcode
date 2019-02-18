@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/read-n-characters-given-read4-ii-call-multiple-times "Read N Characters Given Read4 II - Call multiple times")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-linked-lists "Intersection of Two Linked Lists")
+
 ## 159. Longest Substring with At Most Two Distinct Characters (Hard)
 
 <p>Given a string <strong><em>s</em></strong> , find the length of the longest substring&nbsp;<strong><em>t&nbsp;&nbsp;</em></strong>that contains <strong>at most </strong>2 distinct characters.</p>

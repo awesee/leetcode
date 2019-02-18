@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/set-mismatch "Set Mismatch")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/palindromic-substrings "Palindromic Substrings")
+
 ## 646. Maximum Length of Pair Chain (Medium)
 
 <p>

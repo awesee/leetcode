@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/power-of-two "Power of Two")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-digit-one "Number of Digit One")
+
 ## 232. Implement Queue using Stacks (Easy)
 
 <p>Implement the following operations of a queue using stacks.</p>

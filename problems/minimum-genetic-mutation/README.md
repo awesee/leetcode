@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/all-oone-data-structure "All O`one Data Structure")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-segments-in-a-string "Number of Segments in a String")
+
 ## 433. Minimum Genetic Mutation (Medium)
 
 <p>A gene string can be represented by an 8-character long string, with choices from <code>&quot;A&quot;</code>, <code>&quot;C&quot;</code>, <code>&quot;G&quot;</code>, <code>&quot;T&quot;</code>.</p>

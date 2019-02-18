@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays "Intersection of Two Arrays")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/android-unlock-patterns "Android Unlock Patterns")
+
 ## 350. Intersection of Two Arrays II (Easy)
 
 <p>Given two arrays, write a function to compute their intersection.</p>
