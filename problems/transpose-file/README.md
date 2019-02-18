@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-phone-numbers "Valid Phone Numbers")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/tenth-line "Tenth Line")
+
 ## 194. Transpose File (Medium)
 
 <p>Given a text file <code>file.txt</code>, transpose its content.</p>
