@@ -42,7 +42,7 @@ func writeProblems(buf *bytes.Buffer) {
 		for i := 0; i < maxId; i += long {
 			buf.WriteString("<tr>\n")
 			for j := 0; j < long/step; j++ {
-				buf.WriteString(fmt.Sprintf("\t<th align=\"center\"><a href=\"#%d\">[%d-%d]</a></th>\n", 1+i+j*step, 1+i+j*step, i+j*step+step))
+				buf.WriteString(fmt.Sprintf("\t<th align=\"center\"><a href=\"#%d\">[%d-%d]</a></th>\n", i+j*step+step, 1+i+j*step, i+j*step+step))
 			}
 			buf.WriteString("</tr>\n")
 		}
