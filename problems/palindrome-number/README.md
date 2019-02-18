@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/string-to-integer-atoi "String to Integer (atoi)")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/regular-expression-matching "Regular Expression Matching")
+
 ## 9. Palindrome Number (Easy)
 
 <p>Determine whether an integer is a palindrome. An integer&nbsp;is&nbsp;a&nbsp;palindrome when it&nbsp;reads the same backward as forward.</p>
@@ -43,4 +47,7 @@
   1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/problems/palindrome-linked-list) (Easy)
 
 ### Hints
-  1. Beware of overflow when you reverse the integer.
+<details>
+<summary>Hint 1</summary>
+Beware of overflow when you reverse the integer.
+</details>

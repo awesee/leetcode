@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-anagram-mappings "Find Anagram Mappings")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/prime-number-of-set-bits-in-binary-representation "Prime Number of Set Bits in Binary Representation")
+
 ## 761. Special Binary String (Hard)
 
 <p>
@@ -41,9 +45,12 @@ This is the lexicographically largest string possible after some number of swaps
   1. [Valid Parenthesis String](https://github.com/openset/leetcode/tree/master/problems/valid-parenthesis-string) (Medium)
 
 ### Hints
-  1. Draw a line from (x, y) to (x+1, y+1) if we see a "1", else to (x+1, y-1).
+<details>
+<summary>Hint 1</summary>
+Draw a line from (x, y) to (x+1, y+1) if we see a "1", else to (x+1, y-1).
 A special substring is just a line that starts and ends at the same y-coordinate, and that is the lowest y-coordinate reached.
 Call a mountain a special substring with no special prefixes - ie. only at the beginning and end is the lowest y-coordinate reached.
 If F is the answer function, and S has mountain decomposition M1,M2,M3,...,Mk,  then the answer is:
 reverse_sorted(F(M1), F(M2), ..., F(Mk)).
 However, you'll also need to deal with the case that S is a mountain, such as 11011000 -> 11100100.
+</details>

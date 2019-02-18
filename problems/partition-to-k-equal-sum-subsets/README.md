@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/degree-of-an-array "Degree of an Array")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/falling-squares "Falling Squares")
+
 ## 698. Partition to K Equal Sum Subsets (Medium)
 
 <p>Given an array of integers <code>nums</code> and a positive integer <code>k</code>, find whether it&#39;s possible to divide this array into <code>k</code> non-empty subsets whose sums are all equal.</p>
@@ -36,4 +40,7 @@
   1. [Partition Equal Subset Sum](https://github.com/openset/leetcode/tree/master/problems/partition-equal-subset-sum) (Medium)
 
 ### Hints
-  1. We can figure out what target each subset must sum to.  Then, let's recursively search, where at each call to our function, we choose which of k subsets the next value will join.
+<details>
+<summary>Hint 1</summary>
+We can figure out what target each subset must sum to.  Then, let's recursively search, where at each call to our function, we choose which of k subsets the next value will join.
+</details>

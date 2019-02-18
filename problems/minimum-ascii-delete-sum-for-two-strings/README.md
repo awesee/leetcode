@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-distinct-islands-ii "Number of Distinct Islands II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/subarray-product-less-than-k "Subarray Product Less Than K")
+
 ## 712. Minimum ASCII Delete Sum for Two Strings (Medium)
 
 <p>Given two strings <code>s1, s2</code>, find the lowest ASCII sum of deleted characters to make two strings equal.</p>
@@ -44,4 +48,7 @@ If instead we turned both strings into "lee" or "eet", we would get answers of 4
   1. [Delete Operation for Two Strings](https://github.com/openset/leetcode/tree/master/problems/delete-operation-for-two-strings) (Medium)
 
 ### Hints
-  1. Let dp(i, j) be the answer for inputs s1[i:] and s2[j:].
+<details>
+<summary>Hint 1</summary>
+Let dp(i, j) be the answer for inputs s1[i:] and s2[j:].
+</details>

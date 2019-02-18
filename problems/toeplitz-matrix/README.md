@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/couples-holding-hands "Couples Holding Hands")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/reorganize-string "Reorganize String")
+
 ## 766. Toeplitz Matrix (Easy)
 
 <p>A matrix is <em>Toeplitz</em> if every diagonal from top-left to bottom-right has the same element.</p>
@@ -65,4 +69,7 @@ The diagonal &quot;[1, 2]&quot; has different elements.
   1. [Valid Word Square](https://github.com/openset/leetcode/tree/master/problems/valid-word-square) (Easy)
 
 ### Hints
-  1. Check whether each value is equal to the value of it's top-left neighbor.
+<details>
+<summary>Hint 1</summary>
+Check whether each value is equal to the value of it's top-left neighbor.
+</details>

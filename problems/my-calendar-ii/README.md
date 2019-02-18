@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-different-palindromic-subsequences "Count Different Palindromic Subsequences")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/my-calendar-iii "My Calendar III")
+
 ## 731. My Calendar II (Medium)
 
 <p>
@@ -53,4 +57,7 @@ the time [40, 50) will be single booked, and the time [50, 55) will be double bo
   1. [My Calendar III](https://github.com/openset/leetcode/tree/master/problems/my-calendar-iii) (Hard)
 
 ### Hints
-  1. Store two sorted lists of intervals: one list will be all times that are at least single booked, and another list will be all times that are definitely double booked.  If none of the double bookings conflict, then the booking will succeed, and you should update your single and double bookings accordingly.
+<details>
+<summary>Hint 1</summary>
+Store two sorted lists of intervals: one list will be all times that are at least single booked, and another list will be all times that are definitely double booked.  If none of the double bookings conflict, then the booking will succeed, and you should update your single and double bookings accordingly.
+</details>

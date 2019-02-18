@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-ascii-delete-sum-for-two-strings "Minimum ASCII Delete Sum for Two Strings")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-transaction-fee "Best Time to Buy and Sell Stock with Transaction Fee")
+
 ## 713. Subarray Product Less Than K (Medium)
 
 <p>Your are given an array of positive integers <code>nums</code>.</p>
@@ -35,4 +39,7 @@ Note that [10, 5, 2] is not included as the product of 100 is not strictly less 
   1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)
 
 ### Hints
-  1. For each j, let opt(j) be the smallest i so that nums[i] * nums[i+1] * ... * nums[j] is less than k.  opt is an increasing function.
+<details>
+<summary>Hint 1</summary>
+For each j, let opt(j) be the smallest i so that nums[i] * nums[i+1] * ... * nums[j] is less than k.  opt is an increasing function.
+</details>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-pattern-ii "Word Pattern II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/flip-game "Flip Game")
+
 ## 292. Nim Game (Easy)
 
 <p>You are playing the following Nim Game with your friend: There is a heap of stones on the table, each time one of you take turns to remove 1 to 3 stones. The one who removes the last stone will be the winner. You will take the first turn to remove the stones.</p>
@@ -27,4 +31,7 @@
   1. [Flip Game II](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii) (Medium)
 
 ### Hints
-  1. If there are 5 stones in the heap, could you figure out a way to remove the stones such that you will always be the winner?
+<details>
+<summary>Hint 1</summary>
+If there are 5 stones in the heap, could you figure out a way to remove the stones such that you will always be the winner?
+</details>
