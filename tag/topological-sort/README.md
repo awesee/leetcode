@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## 拓扑排序
+## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 拓扑排序
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |

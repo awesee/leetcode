@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## 广度优先搜索
+## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 广度优先搜索
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |

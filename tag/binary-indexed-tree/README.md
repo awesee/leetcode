@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## 树状数组
+## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 树状数组
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
