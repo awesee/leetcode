@@ -19,43 +19,43 @@ LeetCode Problems' Solutions
 
 <table><thead>
 <tr>
-	<th align="center"><a href="#1">[1-50]</a></th>
-	<th align="center"><a href="#51">[51-100]</a></th>
-	<th align="center"><a href="#101">[101-150]</a></th>
-	<th align="center"><a href="#151">[151-200]</a></th>
-	<th align="center"><a href="#201">[201-250]</a></th>
-	<th align="center"><a href="#251">[251-300]</a></th>
+	<th align="center"><a href="#50">[1-50]</a></th>
+	<th align="center"><a href="#100">[51-100]</a></th>
+	<th align="center"><a href="#150">[101-150]</a></th>
+	<th align="center"><a href="#200">[151-200]</a></th>
+	<th align="center"><a href="#250">[201-250]</a></th>
+	<th align="center"><a href="#300">[251-300]</a></th>
 </tr>
 <tr>
-	<th align="center"><a href="#301">[301-350]</a></th>
-	<th align="center"><a href="#351">[351-400]</a></th>
-	<th align="center"><a href="#401">[401-450]</a></th>
-	<th align="center"><a href="#451">[451-500]</a></th>
-	<th align="center"><a href="#501">[501-550]</a></th>
-	<th align="center"><a href="#551">[551-600]</a></th>
+	<th align="center"><a href="#350">[301-350]</a></th>
+	<th align="center"><a href="#400">[351-400]</a></th>
+	<th align="center"><a href="#450">[401-450]</a></th>
+	<th align="center"><a href="#500">[451-500]</a></th>
+	<th align="center"><a href="#550">[501-550]</a></th>
+	<th align="center"><a href="#600">[551-600]</a></th>
 </tr>
 <tr>
-	<th align="center"><a href="#601">[601-650]</a></th>
-	<th align="center"><a href="#651">[651-700]</a></th>
-	<th align="center"><a href="#701">[701-750]</a></th>
-	<th align="center"><a href="#751">[751-800]</a></th>
-	<th align="center"><a href="#801">[801-850]</a></th>
-	<th align="center"><a href="#851">[851-900]</a></th>
+	<th align="center"><a href="#650">[601-650]</a></th>
+	<th align="center"><a href="#700">[651-700]</a></th>
+	<th align="center"><a href="#750">[701-750]</a></th>
+	<th align="center"><a href="#800">[751-800]</a></th>
+	<th align="center"><a href="#850">[801-850]</a></th>
+	<th align="center"><a href="#900">[851-900]</a></th>
 </tr>
 <tr>
-	<th align="center"><a href="#901">[901-950]</a></th>
-	<th align="center"><a href="#951">[951-1000]</a></th>
-	<th align="center"><a href="#1001">[1001-1050]</a></th>
-	<th align="center"><a href="#1051">[1051-1100]</a></th>
-	<th align="center"><a href="#1101">[1101-1150]</a></th>
-	<th align="center"><a href="#1151">[1151-1200]</a></th>
+	<th align="center"><a href="#950">[901-950]</a></th>
+	<th align="center"><a href="#1000">[951-1000]</a></th>
+	<th align="center"><a href="#1050">[1001-1050]</a></th>
+	<th align="center"><a href="#1100">[1051-1100]</a></th>
+	<th align="center"><a href="#1150">[1101-1150]</a></th>
+	<th align="center"><a href="#1200">[1151-1200]</a></th>
 </tr>
 </thead></table>
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
 | <span id="996">996</span> | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays "正方形数组的数目") | [Go](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays) | Hard |
-| <span id="995">995</span> | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips "最小连续位的翻转次数") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips) | Hard |
+| <span id="995">995</span> | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips "K 连续位的最小翻转次数") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips) | Hard |
 | <span id="994">994</span> | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges "腐烂的橘子") | [Go](https://github.com/openset/leetcode/tree/master/problems/rotting-oranges) | Easy |
 | <span id="993">993</span> | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree "二叉树的堂兄弟节点") | [Go](https://github.com/openset/leetcode/tree/master/problems/cousins-in-binary-tree) | Easy |
 | <span id="992">992</span> | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers "K 个不同整数的子数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/subarrays-with-k-different-integers) | Hard |
