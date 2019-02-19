@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-ladder "Word Ladder")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/sum-root-to-leaf-numbers "Sum Root to Leaf Numbers")
+
 ## 128. Longest Consecutive Sequence (Hard)
 
 <p>Given an unsorted array of integers, find the length of the longest consecutive elements sequence.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-ii "Maximum Average Subarray II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-pair-chain "Maximum Length of Pair Chain")
+
 ## 645. Set Mismatch (Easy)
 
 <p>

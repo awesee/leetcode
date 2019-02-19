@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/moving-average-from-data-stream "Moving Average from Data Stream")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/design-tic-tac-toe "Design Tic-Tac-Toe")
+
 ## 347. Top K Frequent Elements (Medium)
 
 <p>Given a non-empty array of integers, return the <b><i>k</i></b> most frequent elements.</p>

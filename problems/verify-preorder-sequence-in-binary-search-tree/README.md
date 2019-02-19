@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/factor-combinations "Factor Combinations")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/paint-house "Paint House")
+
 ## 255. Verify Preorder Sequence in Binary Search Tree (Medium)
 
 

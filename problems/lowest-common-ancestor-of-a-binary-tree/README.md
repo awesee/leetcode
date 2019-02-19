@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-search-tree "Lowest Common Ancestor of a Binary Search Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/delete-node-in-a-linked-list "Delete Node in a Linked List")
+
 ## 236. Lowest Common Ancestor of a Binary Tree (Medium)
 
 <p>Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.</p>

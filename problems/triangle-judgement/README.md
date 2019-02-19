@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-file-in-system "Find Duplicate File in System")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-triangle-number "Valid Triangle Number")
+
 ## 610. Triangle Judgement (Easy)
 
 A pupil Tim gets homework to identify whether three line segments could possibly form a triangle.</p> However, this assignment is very heavy because there are hundreds of records to calculate.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence-ii "Binary Tree Longest Consecutive Sequence II")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-ii "Student Attendance Record II")
+
 ## 551. Student Attendance Record I (Easy)
 
 You are given a string representing an attendance record for a student. The record only contains the following three characters:

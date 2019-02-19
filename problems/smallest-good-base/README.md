@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/license-key-formatting "License Key Formatting")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-permutation "Find Permutation")
+
 ## 483. Smallest Good Base (Hard)
 
 <p>For an integer n, we call k>=2 a <i><b>good base</b></i> of n, if all digits of n base k are 1.</p>

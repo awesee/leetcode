@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/bulls-and-cows "Bulls and Cows")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-invalid-parentheses "Remove Invalid Parentheses")
+
 ## 300. Longest Increasing Subsequence (Medium)
 
 <p>Given an unsorted array of integers, find the length of longest increasing subsequence.</p>

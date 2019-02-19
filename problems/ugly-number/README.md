@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/trips-and-users "Trips and Users")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii "Ugly Number II")
+
 ## 263. Ugly Number (Easy)
 
 <p>Write a program to check whether a given number is an ugly number.</p>

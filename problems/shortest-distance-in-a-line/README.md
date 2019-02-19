@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-in-a-plane "Shortest Distance in a Plane")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/second-degree-follower "Second Degree Follower")
+
 ## 613. Shortest Distance in a Line (Easy)
 
 Table <code>point</code> holds the x coordinate of some points on x-axis in a plane, which are all integers.</p>
