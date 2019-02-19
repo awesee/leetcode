@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/teemo-attacking "Teemo Attacking")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/random-point-in-non-overlapping-rectangles "Random Point in Non-overlapping Rectangles")
+
 ## 496. Next Greater Element I (Easy)
 
 <p>

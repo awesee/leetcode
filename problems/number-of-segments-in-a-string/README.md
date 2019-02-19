@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-genetic-mutation "Minimum Genetic Mutation")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/non-overlapping-intervals "Non-overlapping Intervals")
+
 ## 434. Number of Segments in a String (Easy)
 
 <p>Count the number of segments in a string, where a segment is defined to be a contiguous sequence of non-space characters.</p>

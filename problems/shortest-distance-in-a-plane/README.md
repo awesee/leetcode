@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-triangle-number "Valid Triangle Number")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-in-a-line "Shortest Distance in a Line")
+
 ## 612. Shortest Distance in a Plane (Medium)
 
 Table <code>point_2d</code> holds the coordinates (x,y) of some unique points (more than two) in a plane.</p>

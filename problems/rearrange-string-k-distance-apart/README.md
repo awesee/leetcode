@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-numbers-with-unique-digits "Count Numbers with Unique Digits")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/logger-rate-limiter "Logger Rate Limiter")
+
 ## 358. Rearrange String k Distance Apart (Hard)
 
 

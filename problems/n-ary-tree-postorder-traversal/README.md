@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-preorder-traversal "N-ary Tree Preorder Traversal")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/tag-validator "Tag Validator")
+
 ## 590. N-ary Tree Postorder Traversal (Easy)
 
 <p>Given an n-ary tree, return the <i>postorder</i> traversal of its nodes&#39; values.</p>

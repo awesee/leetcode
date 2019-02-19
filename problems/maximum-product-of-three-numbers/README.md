@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/swap-salary "Swap Salary")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/k-inverse-pairs-array "K Inverse Pairs Array")
+
 ## 628. Maximum Product of Three Numbers (Easy)
 
 <p>Given an integer array, find three numbers whose product is maximum and output the maximum product.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-i "Longest Uncommon Subsequence I ")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/continuous-subarray-sum "Continuous Subarray Sum")
+
 ## 522. Longest Uncommon Subsequence II (Medium)
 
 <p>

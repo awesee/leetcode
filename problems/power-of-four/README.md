@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator "Flatten Nested List Iterator")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/integer-break "Integer Break")
+
 ## 342. Power of Four (Easy)
 
 <p>Given an integer (signed 32 bits), write a function to check whether it is a power of 4.</p>

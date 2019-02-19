@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/boundary-of-binary-tree "Boundary of Binary Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/friend-circles "Friend Circles")
+
 ## 546. Remove Boxes (Hard)
 
 <p>Given several boxes with different colors represented by different positive numbers. <br />
