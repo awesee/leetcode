@@ -15,8 +15,6 @@ func hasCycle(head *ListNode) bool {
 			if p2 = p2.Next.Next; p1 == p2 {
 				return true
 			}
-		} else {
-			return false
 		}
 	}
 	return false
