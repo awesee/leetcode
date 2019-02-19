@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst "Inorder Successor in BST")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number "Find the Duplicate Number")
+
 ## 286. Walls and Gates (Medium)
 
 

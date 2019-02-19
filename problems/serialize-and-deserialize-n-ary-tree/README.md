@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/construct-quad-tree "Construct Quad Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-level-order-traversal "N-ary Tree Level Order Traversal")
+
 ## 428. Serialize and Deserialize N-ary Tree (Hard)
 
 

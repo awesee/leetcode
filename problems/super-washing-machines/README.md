@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-subsequence "Longest Palindromic Subsequence")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/coin-change-2 "Coin Change 2")
+
 ## 517. Super Washing Machines (Hard)
 
 <p>You have <b>n</b> super washing machines on a line. Initially, each washing machine has some dresses or is empty. 

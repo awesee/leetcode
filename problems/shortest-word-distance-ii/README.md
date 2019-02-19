@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance "Shortest Word Distance")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-iii "Shortest Word Distance III")
+
 ## 244. Shortest Word Distance II (Medium)
 
 <p>Design a class which receives a list of words in the constructor, and implements a method that takes two words <em>word1</em> and <em>word2</em> and return the shortest distance between these two words in the list. Your method will be called <em>repeatedly</em> many times with different parameters.&nbsp;</p>

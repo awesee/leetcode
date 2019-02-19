@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-median-given-frequency-of-numbers "Find Median Given Frequency of Numbers")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/squirrel-simulation "Squirrel Simulation")
+
 ## 572. Subtree of Another Tree (Easy)
 
 <p>

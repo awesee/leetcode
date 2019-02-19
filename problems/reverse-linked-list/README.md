@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/isomorphic-strings "Isomorphic Strings")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/course-schedule "Course Schedule")
+
 ## 206. Reverse Linked List (Easy)
 
 <p>Reverse a singly linked list.</p>

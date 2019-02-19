@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-repeating-character-replacement "Longest Repeating Character Replacement")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/convert-binary-search-tree-to-sorted-doubly-linked-list "Convert Binary Search Tree to Sorted Doubly Linked List")
+
 ## 425. Word Squares (Hard)
 
 

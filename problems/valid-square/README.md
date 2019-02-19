@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/fraction-addition-and-subtraction "Fraction Addition and Subtraction")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-harmonious-subsequence "Longest Harmonious Subsequence")
+
 ## 593. Valid Square (Medium)
 
 <p>Given the coordinates of four points in 2D space, return whether the four points could construct a square.</p>

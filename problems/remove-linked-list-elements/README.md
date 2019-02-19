@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/happy-number "Happy Number")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/count-primes "Count Primes")
+
 ## 203. Remove Linked List Elements (Easy)
 
 <p>Remove all elements from a linked list of integers that have value <b><i>val</i></b>.</p>

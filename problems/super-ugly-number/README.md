@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/burst-balloons "Burst Balloons")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-vertical-order-traversal "Binary Tree Vertical Order Traversal")
+
 ## 313. Super Ugly Number (Medium)
 
 <p>Write a program to find the <code>n<sup>th</sup></code> super ugly number.</p>

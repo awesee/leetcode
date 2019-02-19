@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence "Longest Increasing Subsequence")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-rectangle-enclosing-black-pixels "Smallest Rectangle Enclosing Black Pixels")
+
 ## 301. Remove Invalid Parentheses (Hard)
 
 <p>Remove the minimum number of invalid parentheses in order to make the input string valid. Return all possible results.</p>
