@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/linked-list-random-node "Linked List Random Node")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/shuffle-an-array "Shuffle an Array")
+
 ## 383. Ransom Note (Easy)
 
 <p>

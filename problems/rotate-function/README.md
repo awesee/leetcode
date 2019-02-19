@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-least-k-repeating-characters "Longest Substring with At Least K Repeating Characters")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/integer-replacement "Integer Replacement")
+
 ## 396. Rotate Function (Medium)
 
 <p>

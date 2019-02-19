@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/perfect-number "Perfect Number")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number "Fibonacci Number")
+
 ## 508. Most Frequent Subtree Sum (Medium)
 
 <p>

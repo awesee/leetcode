@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices-ii-subsequence "Arithmetic Slices II - Subsequence")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-all-numbers-disappeared-in-an-array "Find All Numbers Disappeared in an Array")
+
 ## 447. Number of Boomerangs (Easy)
 
 <p>Given <i>n</i> points in the plane that are all pairwise distinct, a "boomerang" is a tuple of points <code>(i, j, k)</code> such that the distance between <code>i</code> and <code>j</code> equals the distance between <code>i</code> and <code>k</code> (<b>the order of the tuple matters</b>).</p>

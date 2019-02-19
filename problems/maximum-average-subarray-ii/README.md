@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-i "Maximum Average Subarray I")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/set-mismatch "Set Mismatch")
+
 ## 644. Maximum Average Subarray II (Hard)
 
 

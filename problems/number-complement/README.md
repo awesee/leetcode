@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/heaters "Heaters")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/total-hamming-distance "Total Hamming Distance")
+
 ## 476. Number Complement (Easy)
 
 <p>Given a positive integer, output its complement number. The complement strategy is to flip the bits of its binary representation.</p>

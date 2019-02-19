@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/exchange-seats "Exchange Seats")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-three-numbers "Maximum Product of Three Numbers")
+
 ## 627. Swap Salary (Easy)
 
 Given a table <code>salary</code>, such as the one below, that has m=male and  f=female values. Swap all f and m values (i.e., change all f values to m and vice versa) with a single update query and no intermediate temp table.</p>

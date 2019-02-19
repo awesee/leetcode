@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-in-memory-file-system "Design In-Memory File System")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-postorder-traversal "N-ary Tree Postorder Traversal")
+
 ## 589. N-ary Tree Preorder Traversal (Easy)
 
 <p>Given an n-ary tree, return the <i>preorder</i> traversal of its nodes&#39; values.</p>

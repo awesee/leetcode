@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/diameter-of-binary-tree "Diameter of Binary Tree")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/boundary-of-binary-tree "Boundary of Binary Tree")
+
 ## 544. Output Contest Matches (Medium)
 
 <p>

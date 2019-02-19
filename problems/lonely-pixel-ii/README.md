@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-diff-pairs-in-an-array "K-diff Pairs in an Array")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-tinyurl "Encode and Decode TinyURL")
+
 ## 533. Lonely Pixel II (Medium)
 
 

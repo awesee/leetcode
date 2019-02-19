@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/shuffle-an-array "Shuffle an Array")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/lexicographical-numbers "Lexicographical Numbers")
+
 ## 385. Mini Parser (Medium)
 
 <p>Given a nested list of integers represented as a string, implement a parser to deserialize it.</p>

@@ -5,6 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-bst "Kth Smallest Element in a BST")
+　　　　　　　　　　　　　　　　
+[Next >](https://github.com/openset/leetcode/tree/master/problems/implement-queue-using-stacks "Implement Queue using Stacks")
+
 ## 231. Power of Two (Easy)
 
 <p>Given an integer, write a function to determine if it is a power of two.</p>
