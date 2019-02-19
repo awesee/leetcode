@@ -25,6 +25,11 @@ func TestHasCycle(t *testing.T) {
 			expected: true,
 		},
 		{
+			input:    []int{1, 2, 3, 4, 5},
+			pos:      -1,
+			expected: false,
+		},
+		{
 			input:    []int{1},
 			pos:      -1,
 			expected: false,

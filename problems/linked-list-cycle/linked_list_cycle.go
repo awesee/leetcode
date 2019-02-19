@@ -10,8 +10,8 @@ import . "github.com/openset/leetcode/internal/kit"
  * }
  */
 func hasCycle(head *ListNode) bool {
-	for p1, p2 := head, head; p1 != nil; p1 = p1.Next {
-		if p2 != nil && p2.Next != nil {
+	for p1, p2 := head, head; p1 != nil && p2 != nil; p1 = p1.Next {
+		if p2.Next != nil {
 			if p2 = p2.Next.Next; p1 == p2 {
 				return true
 			}
