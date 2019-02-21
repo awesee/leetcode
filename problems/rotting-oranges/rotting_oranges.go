@@ -1,39 +1,36 @@
 package rotting_oranges
 
 func orangesRotting(grid [][]int) int {
-	r, c := len(grid), len(grid[0])
-	hasFresh, isRotten, rottens := false, false, make([]int, 0)
+	r, c, minutes := len(grid), len(grid[0]), 0
+	freshCount, rottens := 0, make([]int, 0)
 	for i := 0; i < r; i++ {
 		for j := 0; j < c; j++ {
-			if !hasFresh && grid[i][j] == 1 {
-				hasFresh = true
+			if grid[i][j] == 1 {
+				freshCount++
 			} else if grid[i][j] == 2 {
 				rottens = append(rottens, i*c+j)
 			}
 		}
 	}
-	for _, p := range rottens {
-		i, j := p/c, p%c
-		for k := 0; k < 4; k++ {
-			nr, nc := i+k-1, j+k-2
-			if k == 0 {
-				nc += 2
-			} else if k == 3 {
-				nr -= 2
-			}
-			if 0 <= nr && nr < r && 0 <= nc && nc < c && grid[nr][nc] == 1 {
-				grid[nr][nc], isRotten = 2, true
+	for len(rottens) > 0 && freshCount > 0 {
+		l := len(rottens)
+		for _, p := range rottens {
+			for k := 0; k < 4; k++ {
+				i, j := p/c+k-2, p%c+k-1
+				if k == 0 {
+					i += 2
+				} else if k == 3 {
+					j -= 2
+				}
+				if 0 <= i && i < r && 0 <= j && j < c && grid[i][j] == 1 {
+					grid[i][j], freshCount, rottens = 2, freshCount-1, append(rottens, i*c+j)
+				}
 			}
 		}
+		minutes, rottens = minutes+1, rottens[l:]
 	}
-	if !hasFresh {
-		return 0
-	} else if !isRotten {
+	if freshCount > 0 {
 		return -1
 	}
-	ans := orangesRotting(grid)
-	if ans == -1 {
-		return -1
-	}
-	return ans + 1
+	return minutes
 }
