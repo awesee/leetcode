@@ -12,8 +12,7 @@ func orangesRotting(grid [][]int) int {
 			}
 		}
 	}
-	for len(rottens) > 0 && freshCount > 0 {
-		l := len(rottens)
+	for l := len(rottens); l > 0 && freshCount > 0; l = len(rottens) {
 		for _, p := range rottens {
 			for k := 0; k < 4; k++ {
 				i, j := p/c+k-2, p%c+k-1
