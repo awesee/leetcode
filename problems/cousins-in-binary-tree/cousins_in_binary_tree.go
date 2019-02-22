@@ -13,7 +13,7 @@ import . "github.com/openset/leetcode/internal/kit"
 func isCousins(root *TreeNode, x int, y int) bool {
 	xp, yp, xd, yd, depth := 0, 0, 0, 0, 0
 	queue := []*TreeNode{root}
-	for l := len(queue); l > 0; l = len(queue) {
+	for l := len(queue); l > 0 && xd == 0 && yd == 0; l = len(queue) {
 		for _, node := range queue {
 			if node.Left != nil {
 				if node.Left.Val == x {
