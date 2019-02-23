@@ -30,6 +30,11 @@ func TestSmallestRangeI(t *testing.T) {
 			k:        1,
 			expected: 6,
 		},
+		{
+			input:    []int{18, 16, 12, 7, 9, 3, 5},
+			k:        6,
+			expected: 3,
+		},
 	}
 	for _, tc := range tests {
 		output := smallestRangeI(tc.input, tc.k)
