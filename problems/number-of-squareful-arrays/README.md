@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips "Minimum Number of K Consecutive Bit Flips")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-town-judge "Find the Town Judge")
 
 ## 996. Number of Squareful Arrays (Hard)
 
