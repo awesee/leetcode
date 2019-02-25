@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1001">1001</span> | [Grid Illumination](https://leetcode.com/problems/grid-illumination "网格照明") | [Go](https://github.com/openset/leetcode/tree/master/problems/grid-illumination) | Hard |
+| <span id="999">999</span> | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook "车的可用捕获量") | [Go](https://github.com/openset/leetcode/tree/master/problems/available-captures-for-rook) | Easy |
+| <span id="998">998</span> | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii "最大二叉树 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii) | Medium |
+| <span id="997">997</span> | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge "找到小镇的法官") | [Go](https://github.com/openset/leetcode/tree/master/problems/find-the-town-judge) | Easy |
 | <span id="996">996</span> | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays "正方形数组的数目") | [Go](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays) | Hard |
 | <span id="995">995</span> | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips "K 连续位的最小翻转次数") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips) | Hard |
 | <span id="994">994</span> | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges "腐烂的橘子") | [Go](https://github.com/openset/leetcode/tree/master/problems/rotting-oranges) | Easy |
