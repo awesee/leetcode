@@ -32,8 +32,13 @@ func TestMergeTwoLists(t *testing.T) {
 		},
 		{
 			l1:       []int{1, 2, 3},
-			l2:       []int{1, 2, 3},
-			expected: []int{1, 1, 2, 2, 3, 3},
+			l2:       nil,
+			expected: []int{1, 2, 3},
+		},
+		{
+			l1:       []int{1, 2, 3, 8, 16},
+			l2:       []int{1, 2, 3, 10, 12, 24},
+			expected: []int{1, 1, 2, 2, 3, 3, 8, 10, 12, 16, 24},
 		},
 	}
 	for _, tc := range tests {
