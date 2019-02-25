@@ -25,11 +25,26 @@ func TestDeleteNode(t *testing.T) {
 			node:     1,
 			expected: []int{4, 5, 9},
 		},
+		{
+			input:    []int{4, 5, 1, 9},
+			node:     4,
+			expected: []int{5, 1, 9},
+		},
+		{
+			input:    []int{4, 5, 1, 9},
+			node:     9,
+			expected: []int{4, 5, 1, 9},
+		},
+		{
+			input:    []int{4, 5, 1, 9},
+			node:     2,
+			expected: []int{4, 5, 1, 9},
+		},
 	}
 	for _, tc := range tests {
 		head := SliceInt2ListNode(tc.input)
 		node := head
-		for node.Val != tc.node {
+		for node != nil && node.Val != tc.node {
 			node = node.Next
 		}
 		deleteNode(node)
