@@ -7,7 +7,6 @@ import (
 	"net/http"
 	"net/url"
 	"os"
-	"os/user"
 	"path"
 	"strings"
 	"time"
@@ -56,11 +55,10 @@ func getCsrfToken(cookies []*http.Cookie) string {
 }
 
 func getCachePath(f string) string {
-	dir, err := os.UserCacheDir()
-	checkErr(err)
-	u, err := user.Current()
-	if err == nil && u.HomeDir != "" {
-		dir = u.HomeDir
+	dir, err := os.UserHomeDir()
+	if err != nil {
+		dir, err = os.UserCacheDir()
+		checkErr(err)
 	}
 	return path.Join(dir, ".leetcode", f)
 }
