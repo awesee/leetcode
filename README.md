@@ -591,7 +591,7 @@ LeetCode Problems' Solutions
 | <span id="461">461</span> | [Hamming Distance](https://leetcode.com/problems/hamming-distance "汉明距离") | [Go](https://github.com/openset/leetcode/tree/master/problems/hamming-distance) | Easy |
 | <span id="460">460</span> | [LFU Cache](https://leetcode.com/problems/lfu-cache "LFU缓存") | [Go](https://github.com/openset/leetcode/tree/master/problems/lfu-cache) | Hard |
 | <span id="459">459</span> | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern "重复的子字符串") | [Go](https://github.com/openset/leetcode/tree/master/problems/repeated-substring-pattern) | Easy |
-| <span id="458">458</span> | [Poor Pigs](https://leetcode.com/problems/poor-pigs "可怜的小猪") | [Go](https://github.com/openset/leetcode/tree/master/problems/poor-pigs) | Easy |
+| <span id="458">458</span> | [Poor Pigs](https://leetcode.com/problems/poor-pigs "可怜的小猪") | [Go](https://github.com/openset/leetcode/tree/master/problems/poor-pigs) | Hard |
 | <span id="457">457</span> | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop "环形数组循环") | [Go](https://github.com/openset/leetcode/tree/master/problems/circular-array-loop) | Medium |
 | <span id="456">456</span> | [132 Pattern](https://leetcode.com/problems/132-pattern "132模式") | [Go](https://github.com/openset/leetcode/tree/master/problems/132-pattern) | Medium |
 | <span id="455">455</span> | [Assign Cookies](https://leetcode.com/problems/assign-cookies "分发饼干") | [Go](https://github.com/openset/leetcode/tree/master/problems/assign-cookies) | Easy |
