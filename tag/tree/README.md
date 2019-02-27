@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 998 | [最大二叉树 II](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 993 | [二叉树的堂兄弟节点](https://github.com/openset/leetcode/tree/master/problems/cousins-in-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
 | 988 | [从叶结点开始的最小字符串](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 987 | [二叉树的垂序遍历](https://github.com/openset/leetcode/tree/master/problems/vertical-order-traversal-of-a-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
@@ -59,6 +60,7 @@
 | 536 | [Construct Binary Tree from String](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-string) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 515 | [在每个树行中找最大值](https://github.com/openset/leetcode/tree/master/problems/find-largest-value-in-each-tree-row) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
 | 513 | [找树左下角的值](https://github.com/openset/leetcode/tree/master/problems/find-bottom-left-tree-value) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
+| 510 | [Inorder Successor in BST II](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst-ii) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 508 | [出现次数最多的子树元素和](https://github.com/openset/leetcode/tree/master/problems/most-frequent-subtree-sum) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 501 | [二叉搜索树中的众数](https://github.com/openset/leetcode/tree/master/problems/find-mode-in-binary-search-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
 | 450 | [删除二叉搜索树中的节点](https://github.com/openset/leetcode/tree/master/problems/delete-node-in-a-bst) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |

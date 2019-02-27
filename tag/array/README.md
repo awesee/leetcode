@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 999 | [车的可用捕获量](https://github.com/openset/leetcode/tree/master/problems/available-captures-for-rook) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 995 | [K 连续位的最小翻转次数](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Hard |
 | 989 | [数组形式的整数加法](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 985 | [查询后的偶数和](https://github.com/openset/leetcode/tree/master/problems/sum-of-even-numbers-after-queries) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
