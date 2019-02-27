@@ -4,6 +4,6 @@ SELECT MAX(num) AS num
 FROM
   (SELECT num
    FROM
-     number
+     `my_numbers`
    GROUP BY num
    HAVING COUNT(num) = 1) AS t;
