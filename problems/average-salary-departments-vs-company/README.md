@@ -11,9 +11,10 @@
 
 ## 615. Average Salary: Departments VS Company (Hard)
 
-Given two tables as below, write a query to display the comparison result (higher/lower/same) of the average salary of employees in a department to the company's average salary.</p>
-
+Given two tables as below, write a query to display the comparison result (higher/lower/same) of the average salary of employees in a department to the company&#39;s average salary.
+<p>&nbsp;</p>
 Table: <code>salary</code>
+
 <pre>
 | id | employee_id | amount | pay_date   |
 |----|-------------|--------|------------|
@@ -23,18 +24,26 @@ Table: <code>salary</code>
 | 4  | 1           | 7000   | 2017-02-28 |
 | 5  | 2           | 6000   | 2017-02-28 |
 | 6  | 3           | 8000   | 2017-02-28 |
-</pre></p>
+</pre>
 
-The <b>employee_id</b> column refers to the <b>employee_id</b> in the following table <code>employee</code>.</p>
+<p>&nbsp;</p>
+The <b>employee_id</b> column refers to the <b>employee_id</b> in the following table <code>employee</code>.
+
+<p>&nbsp;</p>
+
 <pre>
 | employee_id | department_id |
 |-------------|---------------|
 | 1           | 1             |
 | 2           | 2             |
 | 3           | 2             |
-</pre></p>
+</pre>
 
-So for the sample data above, the result is:</p>
+<p>&nbsp;</p>
+So for the sample data above, the result is:
+
+<p>&nbsp;</p>
+
 <pre>
 | pay_month | department_id | comparison  |
 |-----------|---------------|-------------|
@@ -42,10 +51,21 @@ So for the sample data above, the result is:</p>
 | 2017-03   | 2             | lower       |
 | 2017-02   | 1             | same        |
 | 2017-02   | 2             | same        |
-</pre></p>
+</pre>
 
-<b>Explanation</b></p>
-In March, the company's average salary is (9000+6000+10000)/3 = 8333.33...</p>
-The average salary for department '1' is 9000, which is the salary of <b>employee_id</b> '1' since there is only one employee in this department. So the comparison result is 'higher' since 9000 > 8333.33 obviously.</p>
-The average salary of department '2' is (6000 + 10000)/2 = 8000, which is the average of <b>employee_id</b> '2' and '3'. So the comparison result is 'lower' since 8000 < 8333.33.</p>
-With he same formula for the average salary comparison in February, the result is 'same' since both the department '1' and '2' have the same average salary with the company, which is 7000.</p>
+<p>&nbsp;</p>
+<b>Explanation</b>
+
+<p>&nbsp;</p>
+In March, the company&#39;s average salary is (9000+6000+10000)/3 = 8333.33...
+
+<p>&nbsp;</p>
+The average salary for department &#39;1&#39; is 9000, which is the salary of <b>employee_id</b> &#39;1&#39; since there is only one employee in this department. So the comparison result is &#39;higher&#39; since 9000 &gt; 8333.33 obviously.
+
+<p>&nbsp;</p>
+The average salary of department &#39;2&#39; is (6000 + 10000)/2 = 8000, which is the average of <b>employee_id</b> &#39;2&#39; and &#39;3&#39;. So the comparison result is &#39;lower&#39; since 8000 &lt; 8333.33.
+
+<p>&nbsp;</p>
+With he same formula for the average salary comparison in February, the result is &#39;same&#39; since both the department &#39;1&#39; and &#39;2&#39; have the same average salary with the company, which is 7000.
+
+<p>&nbsp;</p>

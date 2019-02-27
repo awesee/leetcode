@@ -11,14 +11,12 @@
 
 ## 596. Classes More Than 5 Students (Easy)
 
-<p>
-There is a table <code>courses</code> with columns: <b>student</b> and <b>class</b>
-</p><p>
-Please list out all classes which have more than or equal to 5 students.
-</p>
-<p>
-For example, the table:
-</p>
+<p>There is a table <code>courses</code> with columns: <b>student</b> and <b>class</b></p>
+
+<p>Please list out all classes which have more than or equal to 5 students.</p>
+
+<p>For example, the table:</p>
+
 <pre>
 +---------+------------+
 | student | class      |
@@ -34,8 +32,9 @@ For example, the table:
 | I       | Math       |
 +---------+------------+
 </pre>
-<p>
-Should output:
+
+<p>Should output:</p>
+
 <pre>
 +---------+
 | class   |
@@ -43,8 +42,8 @@ Should output:
 | Math    |
 +---------+
 </pre>
-</p>
-<p>
-<b>Note:</b><br>
-The students should not be counted duplicate in each course.
-</p>
+
+<p>&nbsp;</p>
+
+<p><b>Note:</b><br />
+The students should not be counted duplicate in each course.</p>
