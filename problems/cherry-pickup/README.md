@@ -11,22 +11,35 @@
 
 ## 741. Cherry Pickup (Hard)
 
-<p>
-In a N x N <code>grid</code> representing a field of cherries, each cell is one of three possible integers.
-</p><p>
-<li>0 means the cell is empty, so you can pass through;</li>
-<li>1 means the cell contains a cherry, that you can pick up and pass through;</li>
-<li>-1 means the cell contains a thorn that blocks your way.</li>
-</p><p>
-Your task is to collect maximum number of cherries possible by following the rules below:
-</p><p>
-<li>Starting at the position (0, 0) and reaching (N-1, N-1) by moving right or down through valid path cells (cells with value 0 or 1);</li>
-<li>After reaching (N-1, N-1), returning to (0, 0) by moving left or up through valid path cells;</li>
-<li>When passing through a path cell containing a cherry, you pick it up and the cell becomes an empty cell (0);</li>
-<li>If there is no valid path between (0, 0) and (N-1, N-1), then no cherries can be collected.</li>
-</p><p>
+<p>In a N x N <code>grid</code> representing a field of cherries, each cell is one of three possible integers.</p>
 
-<p><b>Example 1:</b><br />
+<p>&nbsp;</p>
+
+<ul>
+	<li>0 means the cell is empty, so you can pass through;</li>
+	<li>1 means the cell contains a cherry, that you can pick up and pass through;</li>
+	<li>-1 means the cell contains a thorn that blocks your way.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>Your task is to collect maximum number of cherries possible by following the rules below:</p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>Starting at the position (0, 0) and reaching (N-1, N-1) by moving right or down through valid path cells (cells with value 0 or 1);</li>
+	<li>After reaching (N-1, N-1), returning to (0, 0) by moving left or up through valid path cells;</li>
+	<li>When passing through a path cell containing a cherry, you pick it up and the cell becomes an empty cell (0);</li>
+	<li>If there is no valid path between (0, 0) and (N-1, N-1), then no cherries can be collected.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><b>Example 1:</b></p>
+
 <pre>
 <b>Input:</b> grid =
 [[0, 1, -1],
@@ -39,13 +52,19 @@ The player started at (0, 0) and went down, down, right right to reach (2, 2).
 Then, the player went left, up, up, left to return home, picking up one more cherry.
 The total number of cherries picked up is 5, and this is the maximum possible.
 </pre>
-</p>
 
-<p><b>Note:</b>
-<li><code>grid</code> is an <code>N</code> by <code>N</code> 2D array, with <code>1 <= N <= 50</code>.</li>
-<li>Each <code>grid[i][j]</code> is an integer in the set <code>{-1, 0, 1}</code>.</li>
-<li>It is guaranteed that grid[0][0] and grid[N-1][N-1] are not -1.<li>
-</p>
+<p>&nbsp;</p>
+
+<p><b>Note:</b></p>
+
+<ul>
+	<li><code>grid</code> is an <code>N</code> by <code>N</code> 2D array, with <code>1 &lt;= N &lt;= 50</code>.</li>
+	<li>Each <code>grid[i][j]</code> is an integer in the set <code>{-1, 0, 1}</code>.</li>
+	<li>It is guaranteed that grid[0][0] and grid[N-1][N-1] are not -1.</li>
+	<li>
+	<p>&nbsp;</p>
+	</li>
+</ul>
 
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]

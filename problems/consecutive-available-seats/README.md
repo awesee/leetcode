@@ -11,9 +11,8 @@
 
 ## 603. Consecutive Available Seats (Easy)
 
-Several friends at a cinema ticket office would like to reserve consecutive available seats.</br>
+Several friends at a cinema ticket office would like to reserve consecutive available seats.<br />
 Can you help to query all the consecutive available seats order by the seat_id using the following <code>cinema</code> table?
-
 <pre>
 | seat_id | free |
 |---------|------|
@@ -22,9 +21,13 @@ Can you help to query all the consecutive available seats order by the seat_id u
 | 3       | 1    |
 | 4       | 1    |
 | 5       | 1    |
-</pre></p>
+</pre>
 
-Your query should return the following result for the sample case above.</p>
+<p>&nbsp;</p>
+Your query should return the following result for the sample case above.
+
+<p>&nbsp;</p>
+
 <pre>
 | seat_id |
 |---------|
@@ -32,8 +35,9 @@ Your query should return the following result for the sample case above.</p>
 | 4       |
 | 5       |
 </pre>
-
 <b>Note</b>:
-<li>The seat_id is an auto increment int, and free is bool ('1' means free, and '0' means occupied.).</li>
-<li>Consecutive available seats are more than 2(inclusive) seats consecutively available.</li>
-</p>
+
+<ul>
+	<li>The seat_id is an auto increment int, and free is bool (&#39;1&#39; means free, and &#39;0&#39; means occupied.).</li>
+	<li>Consecutive available seats are more than 2(inclusive) seats consecutively available.</li>
+</ul>

@@ -11,7 +11,8 @@
 
 ## 595. Big Countries (Easy)
 
-<p>There is a table <code>World</code> </p>
+<p>There is a table <code>World</code></p>
+
 <pre>
 +-----------------+------------+------------+--------------+---------------+
 | name            | continent  | area       | population   | gdp           |
@@ -23,13 +24,13 @@
 | Angola          | Africa     | 1246700    | 20609294     | 100990000     |
 +-----------------+------------+------------+--------------+---------------+
 </pre>
-<p>
-A country is big if it has an area of bigger than 3 million square km or a population of more than 25 million.
-</p><p>
-Write a SQL solution to output big countries' name, population and area.
-</p>
-<p>
-For example, according to the above table, we should output:
+
+<p>A country is big if it has an area of bigger than 3 million square km or a population of more than 25 million.</p>
+
+<p>Write a SQL solution to output big countries&#39; name, population and area.</p>
+
+<p>For example, according to the above table, we should output:</p>
+
 <pre>
 +--------------+-------------+--------------+
 | name         | population  | area         |
@@ -38,4 +39,5 @@ For example, according to the above table, we should output:
 | Algeria      | 37100000    | 2381741      |
 +--------------+-------------+--------------+
 </pre>
-</p>
+
+<p>&nbsp;</p>
