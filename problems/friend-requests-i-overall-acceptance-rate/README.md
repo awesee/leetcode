@@ -11,9 +11,10 @@
 
 ## 597. Friend Requests I: Overall Acceptance Rate (Easy)
 
-In social network like Facebook or Twitter, people send friend requests and accept others’ requests as well. Now given two tables as below:</p>
-
+In social network like Facebook or Twitter, people send friend requests and accept others&rsquo; requests as well. Now given two tables as below:
+<p>&nbsp;</p>
 Table: <code>friend_request</code>
+
 <pre>
 | sender_id | send_to_id |request_date|
 |-----------|------------|------------|
@@ -22,9 +23,11 @@ Table: <code>friend_request</code>
 | 1         | 4          | 2016_06-01 |
 | 2         | 3          | 2016_06-02 |
 | 3         | 4          | 2016-06-09 |
-</pre></p>
+</pre>
 
+<p>&nbsp;</p>
 Table: <code>request_accepted</code>
+
 <pre>
 | requester_id | accepter_id |accept_date |
 |--------------|-------------|------------|
@@ -33,28 +36,41 @@ Table: <code>request_accepted</code>
 | 2            | 3           | 2016-06-08 |
 | 3            | 4           | 2016-06-09 |
 | 3            | 4           | 2016-06-10 |
-</pre></p>
+</pre>
 
-Write a query to find the overall acceptance rate of requests rounded to 2 decimals, which is the number of acceptance divide the number of requests.</p>
+<p>&nbsp;</p>
+Write a query to find the overall acceptance rate of requests rounded to 2 decimals, which is the number of acceptance divide the number of requests.
 
-For the sample data above, your query should return the following result.</p>
+<p>&nbsp;</p>
+For the sample data above, your query should return the following result.
+
+<p>&nbsp;</p>
+
 <pre>
 |accept_rate|
 |-----------|
 |       0.80|
-</pre></p>
+</pre>
 
+<p>&nbsp;</p>
 <b>Note:</b>
-<li>The accepted requests are not necessarily from the table <code>friend_request</code>. In this case, you just need to simply count the total accepted requests (no matter whether they are in the original requests), and divide it by the number of requests to get the acceptance rate.</li>
-<li>It is possible that a sender sends multiple requests to the same receiver, and a request could be accepted more than once. In this case, the ‘duplicated’ requests or acceptances are only counted once.</li>
-<li>If there is no requests at all, you should return 0.00 as the accept_rate. </li>
-</p>
 
-<b>Explanation:</b> There are 4 unique accepted requests, and there are 5 requests in total. So the rate is 0.80.</p>
+<ul>
+	<li>The accepted requests are not necessarily from the table <code>friend_request</code>. In this case, you just need to simply count the total accepted requests (no matter whether they are in the original requests), and divide it by the number of requests to get the acceptance rate.</li>
+	<li>It is possible that a sender sends multiple requests to the same receiver, and a request could be accepted more than once. In this case, the &lsquo;duplicated&rsquo; requests or acceptances are only counted once.</li>
+	<li>If there is no requests at all, you should return 0.00 as the accept_rate.</li>
+</ul>
 
-<b>Follow-up:</b></br>
-<li>Can you write a query to return the accept rate but for every month?</li>
-<li>How about the cumulative accept rate for every day?</li>
+<p>&nbsp;</p>
+<b>Explanation:</b> There are 4 unique accepted requests, and there are 5 requests in total. So the rate is 0.80.
+
+<p>&nbsp;</p>
+<b>Follow-up:</b>
+
+<ul>
+	<li>Can you write a query to return the accept rate but for every month?</li>
+	<li>How about the cumulative accept rate for every day?</li>
+</ul>
 
 ### Hints
 <details>

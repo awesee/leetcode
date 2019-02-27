@@ -40,8 +40,8 @@
 <p><strong>Note:</strong></p>
 
 <ul>
-<li>All of the nodes&#39; values will be unique.</li>
-<li>p and q are different and both values will&nbsp;exist in the binary tree.</li>
+	<li>All of the nodes&#39; values will be unique.</li>
+	<li>p and q are different and both values will&nbsp;exist in the binary tree.</li>
 </ul>
 
 ### Related Topics

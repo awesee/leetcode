@@ -26,9 +26,10 @@
 +------+------+-----------+
 </pre>
 
-<p>Write a query to return the list of customers <b>NOT</b> referred by the person with id '2'.</p>
+<p>Write a query to return the list of customers <b>NOT</b> referred by the person with id &#39;2&#39;.</p>
 
 <p>For the sample data above, the result is:</p>
+
 <pre>
 +------+
 | name |

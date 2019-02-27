@@ -19,3 +19,4 @@
 ### Similar Questions
   1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
   1. [Binary Search Tree Iterator](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator) (Medium)
+  1. [Inorder Successor in BST II](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst-ii) (Medium)

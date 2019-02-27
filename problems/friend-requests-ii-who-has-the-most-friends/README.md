@@ -11,9 +11,12 @@
 
 ## 602. Friend Requests II: Who Has the Most Friends (Medium)
 
-In social network like Facebook or Twitter, people send friend requests and accept others' requests as well.</p>
+In social network like Facebook or Twitter, people send friend requests and accept others&#39; requests as well.
+<p>&nbsp;</p>
 Table <code>request_accepted</code> holds the data of friend acceptance, while <b>requester_id</b> and <b>accepter_id</b> both are the id of a person.
-</p>
+
+<p>&nbsp;</p>
+
 <pre>
 | requester_id | accepter_id | accept_date|
 |--------------|-------------|------------|
@@ -22,23 +25,25 @@ Table <code>request_accepted</code> holds the data of friend acceptance, while <
 | 2            | 3           | 2016-06-08 |
 | 3            | 4           | 2016-06-09 |
 </pre>
- 
 Write a query to find the the people who has most friends and the most friends number. For the sample data above, the result is:
+
 <pre>
 | id | num |
 |----|-----|
 | 3  | 3   |
 </pre>
- 
 <b>Note:</b>
-<li>It is guaranteed there is only 1 people having the most friends.</li>
-<li>The friend request could only been accepted once, which mean there is no multiple records with the same <b>requester_id</b> and <b>accepter_id</b> value.
-</p>
- 
-<b>Explanation:</b></br>
-The person with id '3' is a friend of people '1', '2' and '4', so he has 3 friends in total, which is the most number than any others.</p>
- 
-<b>Follow-up:</b></br> In the real world, multiple people could have the same most number of friends, can you find all these people in this case?
+
+<ul>
+	<li>It is guaranteed there is only 1 people having the most friends.</li>
+	<li>The friend request could only been accepted once, which mean there is no multiple records with the same <b>requester_id</b> and <b>accepter_id</b> value.
+	<p>&nbsp;</p>
+	<b>Explanation:</b><br />
+	The person with id &#39;3&#39; is a friend of people &#39;1&#39;, &#39;2&#39; and &#39;4&#39;, so he has 3 friends in total, which is the most number than any others.
+	<p>&nbsp;</p>
+	<b>Follow-up:</b><br />
+	In the real world, multiple people could have the same most number of friends, can you find all these people in this case?</li>
+</ul>
 
 ### Hints
 <details>
