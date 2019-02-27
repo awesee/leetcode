@@ -17,7 +17,7 @@ var (
 )
 
 func init() {
-	html := remember(problemsetAllFile, 7, func() []byte {
+	html := remember(problemsetAllFile, 3, func() []byte {
 		return client.Get(problemsetAllUrl)
 	})
 	reg := regexp.MustCompile(`href="/tag/(\S+?)/"`)
@@ -71,7 +71,7 @@ func GetTopicTag(slug string) (tt topicTagType) {
 		"query": "query getTopicTag($slug: String!) {\n  topicTag(slug: $slug) {\n    name\n    translatedName\n    questions {\n      status\n      questionId\n      questionFrontendId\n      title\n      titleSlug\n      translatedTitle\n      stats\n      difficulty\n      isPaidOnly\n      topicTags {\n        name\n        translatedName\n        slug\n        __typename\n      }\n      companyTags {\n        name\n        translatedName\n        slug\n        __typename\n      }\n      __typename\n    }\n    frequencies\n    __typename\n  }\n  favoritesLists {\n    publicFavorites {\n      ...favoriteFields\n      __typename\n    }\n    privateFavorites {\n      ...favoriteFields\n      __typename\n    }\n    __typename\n  }\n}\n\nfragment favoriteFields on FavoriteNode {\n  idHash\n  id\n  name\n  isPublicFavorite\n  viewCount\n  creator\n  isWatched\n  questions {\n    questionId\n    title\n    titleSlug\n    __typename\n  }\n  __typename\n}\n"
 	}`
 	filename := fmt.Sprintf(topicTagFile, slugToSnake(slug))
-	graphQLRequest(filename, 3, jsonStr, &tt)
+	graphQLRequest(filename, 2, jsonStr, &tt)
 	return
 }
 

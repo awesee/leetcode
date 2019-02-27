@@ -11,7 +11,7 @@ import (
 func GetDescription(articleSlug string) string {
 	fmt.Println("\tquestion article", "saving...")
 	filename := fmt.Sprintf(questionArticleFile, slugToSnake(articleSlug))
-	html := remember(filename, 30, func() []byte {
+	html := remember(filename, 6, func() []byte {
 		return client.Get(fmt.Sprintf(questionArticleUrl, articleSlug))
 	})
 	reg := regexp.MustCompile(`<div class="block-markdown question">([\S\s]+?)</div>`)

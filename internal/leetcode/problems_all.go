@@ -8,7 +8,7 @@ import (
 )
 
 func ProblemsAll() (ps problemsType) {
-	data := remember(problemsAllFile, 3, func() []byte {
+	data := remember(problemsAllFile, 2, func() []byte {
 		return client.Get(apiProblemsAllUrl)
 	})
 	jsonDecode(data, &ps)
