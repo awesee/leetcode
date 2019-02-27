@@ -11,13 +11,13 @@
 
 ## 620. Not Boring Movies (Easy)
 
-X city opened a new cinema, many people would like to go to this cinema.
-The cinema also gives out a poster indicating the movies’ ratings and descriptions. <p/>
- 
-Please write a SQL query to output movies with an odd numbered ID and a description that is not 'boring'. Order the result by rating.
-<p/>
-<p>
-For example, table <code>cinema</code>:
+X city opened a new cinema, many people would like to go to this cinema. The cinema also gives out a poster indicating the movies&rsquo; ratings and descriptions.
+<p>Please write a SQL query to output movies with an odd numbered ID and a description that is not &#39;boring&#39;. Order the result by rating.</p>
+
+<p>&nbsp;</p>
+
+<p>For example, table <code>cinema</code>:</p>
+
 <pre>
 +---------+-----------+--------------+-----------+
 |   id    | movie     |  description |  rating   |
@@ -30,6 +30,7 @@ For example, table <code>cinema</code>:
 +---------+-----------+--------------+-----------+
 </pre>
 For the example above, the output should be:
+
 <pre>
 +---------+-----------+--------------+-----------+
 |   id    | movie     |  description |  rating   |
@@ -38,4 +39,5 @@ For the example above, the output should be:
 |   1     | War       |   great 3D   |   8.9     |
 +---------+-----------+--------------+-----------+
 </pre>
-</p>
+
+<p>&nbsp;</p>

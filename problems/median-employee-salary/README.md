@@ -11,8 +11,7 @@
 
 ## 569. Median Employee Salary (Hard)
 
-<p>
-The <code>Employee</code> table holds all employees. The employee table has three columns: Employee Id, Company Name, and Salary.</p>
+<p>The <code>Employee</code> table holds all employees. The employee table has three columns: Employee Id, Company Name, and Salary.</p>
 
 <pre>
 +-----+------------+--------+

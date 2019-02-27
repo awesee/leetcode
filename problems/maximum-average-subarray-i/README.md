@@ -11,24 +11,26 @@
 
 ## 643. Maximum Average Subarray I (Easy)
 
-<p>
-Given an array consisting of <code>n</code> integers, find the contiguous subarray of given length <code>k</code> that has the maximum average value. And you need to output the maximum average value.
-</p>
+<p>Given an array consisting of <code>n</code> integers, find the contiguous subarray of given length <code>k</code> that has the maximum average value. And you need to output the maximum average value.</p>
 
-<p><b>Example 1:</b><br />
+<p><b>Example 1:</b></p>
+
 <pre>
 <b>Input:</b> [1,12,-5,-6,50,3], k = 4
 <b>Output:</b> 12.75
 <b>Explanation:</b> Maximum average is (12-5-6+50)/4 = 51/4 = 12.75
 </pre>
-</p>
 
-<p><b>Note:</b><br>
+<p>&nbsp;</p>
+
+<p><b>Note:</b></p>
+
 <ol>
-<li>1 <= <code>k</code> <= <code>n</code> <= 30,000.</li>
-<li>Elements of the given array will be in the range [-10,000, 10,000].</li>
+	<li>1 &lt;= <code>k</code> &lt;= <code>n</code> &lt;= 30,000.</li>
+	<li>Elements of the given array will be in the range [-10,000, 10,000].</li>
 </ol>
-</p>
+
+<p>&nbsp;</p>
 
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]

@@ -26,8 +26,7 @@
 +------+----------+-----------+----------+
 </pre>
 
-<p>Given the <code>Employee</code> table, write a SQL query that finds out managers with at least 5 direct report. For the above table, your SQL query should return:
-</p>
+<p>Given the <code>Employee</code> table, write a SQL query that finds out managers with at least 5 direct report. For the above table, your SQL query should return:</p>
 
 <pre>
 +-------+
