@@ -30,6 +30,7 @@
 </pre>
 
 <p><b>Sample Input</b></p>
+
 <pre>
 | order_number | customer_number | order_date | required_date | shipped_date | status | comment |
 |--------------|-----------------|------------|---------------|--------------|--------|---------|
@@ -40,6 +41,7 @@
 </pre>
 
 <p><b>Sample Output</b></p>
+
 <pre>
 | customer_number |
 |-----------------|
@@ -47,8 +49,10 @@
 </pre>
 
 <p><b>Explanation</b></p>
+
 <pre>
-The customer with number '3' has two orders, which is greater than either customer '1' or '2' because each of them  only has one order. </br>So the result is customer_number '3'.
+The customer with number &#39;3&#39; has two orders, which is greater than either customer &#39;1&#39; or &#39;2&#39; because each of them  only has one order. 
+So the result is customer_number &#39;3&#39;.
 </pre>
 
 <p><i><b>Follow up:</b> What if more than one customer have the largest number of orders, can you find all the customer_number in this case?</i></p>
