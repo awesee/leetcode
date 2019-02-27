@@ -11,12 +11,9 @@
 
 ## 577. Employee Bonus (Easy)
 
-<p>
-Select all employee's name and bonus whose bonus is < 1000.
-</p>
-<p>
-Table:<code>Employee </code>
-</p>
+<p>Select all employee&#39;s name and bonus whose bonus is &lt; 1000.</p>
+
+<p>Table:<code>Employee </code></p>
 
 <pre>
 +-------+--------+-----------+--------+
@@ -30,8 +27,8 @@ Table:<code>Employee </code>
 empId is the primary key column for this table.
 </pre>
 
-<p>
-Table: <code>Bonus</code></p>
+<p>Table: <code>Bonus</code></p>
+
 <pre>
 +-------+-------+
 | empId | bonus |
@@ -41,9 +38,9 @@ Table: <code>Bonus</code></p>
 +-------+-------+
 empId is the primary key column for this table.
 </pre>
-<p>
-Example ouput: 
-</p>
+
+<p>Example ouput:</p>
+
 <pre>
 +-------+-------+
 | name  | bonus |
