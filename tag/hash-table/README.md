@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1001 | [网格照明](https://github.com/openset/leetcode/tree/master/problems/grid-illumination) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |
 | 987 | [二叉树的垂序遍历](https://github.com/openset/leetcode/tree/master/problems/vertical-order-traversal-of-a-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 981 | [基于时间的键值存储](https://github.com/openset/leetcode/tree/master/problems/time-based-key-value-store) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
 | 966 | [元音拼写检查器](https://github.com/openset/leetcode/tree/master/problems/vowel-spellchecker) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |

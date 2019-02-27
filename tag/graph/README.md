@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 997 | [找到小镇的法官](https://github.com/openset/leetcode/tree/master/problems/find-the-town-judge) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Easy |
 | 996 | [正方形数组的数目](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
 | 990 | [等式方程的可满足性](https://github.com/openset/leetcode/tree/master/problems/satisfiability-of-equality-equations) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 959 | [由斜杠划分区域](https://github.com/openset/leetcode/tree/master/problems/regions-cut-by-slashes) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
