@@ -47,7 +47,6 @@ struct Node {
 <ul>
 	<li>You may only use constant extra space.</li>
 	<li>Recursive approach is fine, implicit stack space does not count as extra space for this problem.</li>
-	<li>You may assume that it is a perfect binary tree (i.e., all leaves are on the same level, and every parent has two children).</li>
 </ul>
 
 ### Related Topics
