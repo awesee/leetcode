@@ -15,46 +15,42 @@
 
 <p>Write a one-pass algorithm with <code>O(1)</code> extra space to determine, if your path crosses itself, or not.</p>
 
+<p>&nbsp;</p>
+
 <p><b>Example 1:</b></p>
 
 <pre>
-<strong>Input: </strong><code>[2,1,1,2]</code>
+<strong>┌───┐
+│ &nbsp; │
+└───┼──&gt;
+&nbsp; &nbsp; │
 
-?????
-?   ?
-???????&gt;
-    ?
-
-<strong>Input: </strong>true 
-<strong>Explanation:</strong>&nbsp;self crossing
+Input: </strong><code>[2,1,1,2]</code>
+<strong>Output: </strong>true
 </pre>
 
 <p><b>Example 2:</b></p>
 
 <pre>
-<strong>Input:</strong> <code>[1,2,3,4]</code>
+<strong>┌──────┐
+│ &nbsp; &nbsp; &nbsp;│
+│
+│
+└────────────&gt;
 
-????????
-?      ?
-?
-?
-?????????????&gt;
-
+Input:</strong> <code>[1,2,3,4]</code>
 <strong>Output: </strong>false 
-<strong>Explanation: </strong>not self crossing
 </pre>
 
 <p><b>Example 3:</b></p>
 
 <pre>
-<strong>Input:</strong> <code>[1,1,1,1]</code>
+<strong>┌───┐
+│ &nbsp; │
+└───┼&gt;
 
-?????
-?   ?
-?????&gt;
-
+Input:</strong> <code>[1,1,1,1]</code>
 <strong>Output:</strong> true 
-<strong>Explanation:</strong>&nbsp;self crossing
 </pre>
 
 ### Related Topics
