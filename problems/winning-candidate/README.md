@@ -12,6 +12,7 @@
 ## 574. Winning Candidate (Medium)
 
 <p>Table: <code>Candidate</code></p>
+
 <pre>
 +-----+---------+
 | id  | Name    |
@@ -23,7 +24,9 @@
 | 5   | E       |
 +-----+---------+  
 </pre>
+
 <p>Table: <code>Vote</code></p>
+
 <pre>
 +-----+--------------+
 | id  | CandidateId  |
@@ -48,7 +51,10 @@ CandidateId is the id appeared in Candidate table.
 +------+
 </pre>
 
-<p><b>Notes:</b><br />
+<p><b>Notes:</b></p>
+
 <ol>
-<li>You may assume <b>there is no tie</b>, in other words there will be <b>at most one</b> winning candidate.</li>
-</ol></p>
+	<li>You may assume <b>there is no tie</b>, in other words there will be <b>at most one</b> winning candidate.</li>
+</ol>
+
+<p>&nbsp;</p>
