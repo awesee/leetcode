@@ -12,15 +12,15 @@
 ## 607. Sales Person (Easy)
 
 <p><b>Description</b></p>
-<p>
-Given three tables: <code>salesperson</code>, <code>company</code>, <code>orders</code>.</br>
-Output all the <b>names</b> in the table <code>salesperson</code>, who didn’t have sales to company 'RED'.
-<p>
-<b>Example</b><br />
-<b>Input</b>
-<p>
-Table: <code>salesperson</code>
-</p>
+
+<p>Given three tables: <code>salesperson</code>, <code>company</code>, <code>orders</code>.<br />
+Output all the <b>names</b> in the table <code>salesperson</code>, who didn&rsquo;t have sales to company &#39;RED&#39;.</p>
+
+<p><b>Example</b><br />
+<b>Input</b></p>
+
+<p>Table: <code>salesperson</code></p>
+
 <pre>
 +----------+------+--------+-----------------+-----------+
 | sales_id | name | salary | commission_rate | hire_date |
@@ -32,10 +32,10 @@ Table: <code>salesperson</code>
 |   5      | Alex | 50000  |     10          | 2/3/2007  |
 +----------+------+--------+-----------------+-----------+
 </pre>
-The table <code>salesperson</code> holds the salesperson information. Every salesperson has a <b>sales_id</b> and a <b>name</b>.</br>
-<p>
-Table: <code>company</code>
-</p>
+The table <code>salesperson</code> holds the salesperson information. Every salesperson has a <b>sales_id</b> and a <b>name</b>.
+
+<p>Table: <code>company</code></p>
+
 <pre>
 +---------+--------+------------+
 | com_id  |  name  |    city    |
@@ -46,25 +46,24 @@ Table: <code>company</code>
 |   4     | GREEN  |   Austin   |
 +---------+--------+------------+
 </pre>
-The table <code>company</code> holds the company information. Every company has a <b>com_id</b> and a <b>name</b>.</br>
-<p>
-Table: <code>orders</code>
-</p>
+The table <code>company</code> holds the company information. Every company has a <b>com_id</b> and a <b>name</b>.
+
+<p>Table: <code>orders</code></p>
+
 <pre>
-+----------+----------+---------+----------+--------+
-| order_id |  date    | com_id  | sales_id | amount |
-+----------+----------+---------+----------+--------+
-| 1        | 1/1/2014 |    3    |    4     | 100000 |
-| 2        | 2/1/2014 |    4    |    5     | 5000   |
-| 3        | 3/1/2014 |    1    |    1     | 50000  |
-| 4        | 4/1/2014 |    1    |    4     | 25000  |
++----------+------------+---------+----------+--------+
+| order_id | order_date | com_id  | sales_id | amount |
++----------+------------+---------+----------+--------+
+| 1        |   1/1/2014 |    3    |    4     | 100000 |
+| 2        |   2/1/2014 |    4    |    5     | 5000   |
+| 3        |   3/1/2014 |    1    |    1     | 50000  |
+| 4        |   4/1/2014 |    1    |    4     | 25000  |
 +----------+----------+---------+----------+--------+
 </pre>
-The table <code>orders</code> holds the sales record information, salesperson and customer  company are represented by <b>sales_id</b> and <b>com_id</b>.</br>
+The table <code>orders</code> holds the sales record information, salesperson and customer company are represented by <b>sales_id</b> and <b>com_id</b>.
 
-<p>
-<b>output</b> 
-</p>
+<p><b>output</b></p>
+
 <pre>
 +------+
 | name | 
@@ -74,11 +73,11 @@ The table <code>orders</code> holds the sales record information, salesperson an
 | Alex |
 +------+
 </pre>
-<p>
-<b>Explanation</b>
-<p>
-According to order '3' and '4' in table <code>orders</code>, it is easy to tell only salesperson 'John' and 'Alex' have sales to company 'RED',</br>so we need to output all the other <b>names</b> in table <code>salesperson</code>.
-</p>
+
+<p><b>Explanation</b></p>
+
+<p>According to order &#39;3&#39; and &#39;4&#39; in table <code>orders</code>, it is easy to tell only salesperson &#39;John&#39; and &#39;Alex&#39; have sales to company &#39;RED&#39;,<br />
+so we need to output all the other <b>names</b> in table <code>salesperson</code>.</p>
 
 ### Hints
 <details>
