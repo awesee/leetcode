@@ -11,41 +11,35 @@
 
 ## 133. Clone Graph (Medium)
 
-<p>Given the head of a&nbsp;graph, return a deep copy (clone) of the graph. Each node in the graph contains a <code>label</code>&nbsp;(<code>int</code>) and a list (<code>List[UndirectedGraphNode]</code>) of its <code>neighbors</code>. There is an edge between the given node and each of the nodes in its neighbors.</p>
-
-<div><br />
-<b>OJ&#39;s undirected graph serialization (so you can understand error output):</b>
-
-<p>Nodes are labeled uniquely.</p>
-We use <code>#</code> as a separator for each node, and <code>,</code> as a separator for node label and each neighbor of the node.
+<p>Given&nbsp;a reference of a node in a&nbsp;<strong><a href="https://en.wikipedia.org/wiki/Connectivity_(graph_theory)#Connected_graph" target="_blank">connected</a></strong>&nbsp;undirected graph, return a <a href="https://en.wikipedia.org/wiki/Object_copying#Deep_copy" target="_blank"><strong>deep copy</strong></a> (clone) of the graph. Each node in the graph contains a val (<code>int</code>) and a list (<code>List[Node]</code>) of its neighbors.</p>
 
 <p>&nbsp;</p>
 
-<p>As an example, consider the serialized graph <code><font color="red">{<font color="black">0</font>,1,2#</font><font color="blue"><font color="black">1</font>,2#</font><font color="green"><font color="black">2</font>,2}</font></code>.</p>
+<p><strong>Example:</strong></p>
 
-<p>The graph has a total of three nodes, and therefore contains three parts as separated by <code>#</code>.</p>
-
-<ol>
-	<li>First node is labeled as <code><font color="black">0</font></code>. Connect node <code><font color="black">0</font></code> to both nodes <code><font color="red">1</font></code> and <code><font color="red">2</font></code>.</li>
-	<li>Second node is labeled as <code><font color="black">1</font></code>. Connect node <code><font color="black">1</font></code> to node <code><font color="blue">2</font></code>.</li>
-	<li>Third node is labeled as <code><font color="black">2</font></code>. Connect node <code><font color="black">2</font></code> to node <code><font color="green">2</font></code> (itself), thus forming a self-cycle.</li>
-</ol>
-
-<p>&nbsp;</p>
-
-<p>Visually, the graph looks like the following:</p>
+<p><img alt="" src="https://assets.leetcode.com/uploads/2019/02/19/113_sample.png" style="width: 200px; height: 149px;" /></p>
 
 <pre>
-       1
-      / \
-     /   \
-    0 --- 2
-         / \
-         \_/
+<strong>Input:
+</strong>{&quot;$id&quot;:&quot;1&quot;,&quot;neighbors&quot;:[{&quot;$id&quot;:&quot;2&quot;,&quot;neighbors&quot;:[{&quot;$ref&quot;:&quot;1&quot;},{&quot;$id&quot;:&quot;3&quot;,&quot;neighbors&quot;:[{&quot;$ref&quot;:&quot;2&quot;},{&quot;$id&quot;:&quot;4&quot;,&quot;neighbors&quot;:[{&quot;$ref&quot;:&quot;3&quot;},{&quot;$ref&quot;:&quot;1&quot;}],&quot;val&quot;:4}],&quot;val&quot;:3}],&quot;val&quot;:2},{&quot;$ref&quot;:&quot;4&quot;}],&quot;val&quot;:1}
+
+<strong>Explanation:</strong>
+Node 1&#39;s value is 1, and it has two neighbors: Node 2 and 4.
+Node 2&#39;s value is 2, and it has two neighbors: Node 1 and 3.
+Node 3&#39;s value is 3, and it has two neighbors: Node 2 and 4.
+Node 4&#39;s value is 4, and it has two neighbors: Node 1 and 3.
 </pre>
 
-<p><strong>Note</strong>: The information about the tree serialization is only meant so that you can understand error output if you get a wrong answer. You don&#39;t need to understand the serialization to solve the problem.</p>
-</div>
+<p>&nbsp;</p>
+
+<p><strong>Note:</strong></p>
+
+<ol>
+	<li>The number of nodes will be between 1 and 100.</li>
+	<li>The undirected&nbsp;graph is a <a href="https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)#Simple_graph" target="_blank">simple graph</a>,&nbsp;which means no repeated edges and no self-loops in the graph.</li>
+	<li>Since the graph is undirected, if node <em>p</em>&nbsp;has node <em>q</em>&nbsp;as&nbsp;neighbor, then node <em>q</em>&nbsp;must have node <em>p</em>&nbsp;as neighbor too.</li>
+	<li>You must return the <strong>copy of the given node</strong> as a reference to the cloned graph.</li>
+</ol>
 
 ### Related Topics
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
