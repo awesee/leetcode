@@ -145,9 +145,13 @@ func (question questionType) getTopicTags() []byte {
 	return buf.Bytes()
 }
 
-func (question questionType) getSimilarQuestion() []byte {
-	var sq []similarQuestionType
+func (question questionType) GetSimilarQuestion() (sq []similarQuestionType) {
 	jsonDecode([]byte(question.SimilarQuestions), &sq)
+	return
+}
+
+func (question questionType) getSimilarQuestion() []byte {
+	sq := question.GetSimilarQuestion()
 	var buf bytes.Buffer
 	if len(sq) > 0 {
 		buf.WriteString("\n### Similar Questions\n")
