@@ -23,8 +23,5 @@ func getIntersectionNode(headA, headB *ListNode) *ListNode {
 			pB = pB.Next
 		}
 	}
-	if pA == pB {
-		return pA
-	}
-	return nil
+	return pA
 }
