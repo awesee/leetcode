@@ -37,10 +37,10 @@ func runPost(cmd *base.Command, args []string) {
 			questionId, _ := strconv.Atoi(question.QuestionFrontendId)
 			t := time.Date(2016, 1, 1, 21, 30, 0, 0, time.Local)
 			t = t.AddDate(0, 0, questionId)
-			var tagSlugs []string
+			var tags []string
 			var tagsBuf bytes.Buffer
 			for _, tag := range question.TopicTags {
-				tagSlugs = append(tagSlugs, tag.Slug)
+				tags = append(tags, tag.Name)
 				if tag.TranslatedName != "" {
 					tag.Name = tag.TranslatedName
 				}
@@ -49,7 +49,7 @@ func runPost(cmd *base.Command, args []string) {
 			buf.WriteString(fmt.Sprintf(frontMatter,
 				question.TranslatedTitle,
 				t.Format("2006-01-02 15:04:05"),
-				strings.Join(tagSlugs, ", "),
+				strings.Join(tags, ", "),
 				question.TitleSlug,
 			))
 			buf.WriteString(fmt.Sprintf("\n## %s. %s%s\n\n", question.QuestionFrontendId, question.TranslatedTitle, question.Difficulty.Str()))
@@ -80,6 +80,19 @@ func runPost(cmd *base.Command, args []string) {
 			base.FilePutContents(path.Join("post", filename), buf.Bytes())
 		}
 	}
+	postTags()
+}
+
+func postTags() {
+	for _, tag := range leetcode.GetTags() {
+		title := tag.TranslatedName
+		if title == "" {
+			title = tag.Name
+		}
+		filename := fmt.Sprintf("tag-%s.md", tag.Slug)
+		data := []byte(fmt.Sprintf(tagTmpl, title, tag.Slug, tag.Name))
+		base.FilePutContents(path.Join("page", filename), data)
+	}
 }
 
 const frontMatter = `---
@@ -89,5 +102,13 @@ date:       %s +0800
 categories: [leetcode]
 tags:       [%s]
 permalink:  /%s/
+---
+`
+
+const tagTmpl = `---
+title: "%s"
+layout: tag
+permalink: /tags/%s/
+taxonomy: %s
 ---
 `
