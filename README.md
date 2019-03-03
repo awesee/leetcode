@@ -54,7 +54,11 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1004">1004</span> | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii "最大连续1的个数 III") | [Go](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii) | Medium |
+| <span id="1003">1003</span> | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions "检查替换后的词是否有效") | [Go](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions) | Medium |
+| <span id="1002">1002</span> | [Find Common Characters](https://leetcode.com/problems/find-common-characters "查找常用字符") | [Go](https://github.com/openset/leetcode/tree/master/problems/find-common-characters) | Easy |
 | <span id="1001">1001</span> | [Grid Illumination](https://leetcode.com/problems/grid-illumination "网格照明") | [Go](https://github.com/openset/leetcode/tree/master/problems/grid-illumination) | Hard |
+| <span id="1000">1000</span> | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones "合并石头的最低成本") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-merge-stones) | Hard |
 | <span id="999">999</span> | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook "车的可用捕获量") | [Go](https://github.com/openset/leetcode/tree/master/problems/available-captures-for-rook) | Easy |
 | <span id="998">998</span> | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii "最大二叉树 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii) | Medium |
 | <span id="997">997</span> | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge "找到小镇的法官") | [Go](https://github.com/openset/leetcode/tree/master/problems/find-the-town-judge) | Easy |
