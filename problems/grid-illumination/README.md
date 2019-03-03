@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/available-captures-for-rook "Available Captures for Rook")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-merge-stones "Minimum Cost to Merge Stones")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-common-characters "Find Common Characters")
 
 ## 1001. Grid Illumination (Hard)
 

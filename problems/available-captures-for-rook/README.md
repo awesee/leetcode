@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii "Maximum Binary Tree II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/grid-illumination "Grid Illumination")
+[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-merge-stones "Minimum Cost to Merge Stones")
 
 ## 999. Available Captures for Rook (Easy)
 
