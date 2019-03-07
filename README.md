@@ -6,7 +6,7 @@
 <!--+----------------------------------------------------------------------+-->
 
 # [LeetCode](https://openset.github.io/leetcode)
-LeetCode Problems' Solutions
+LeetCode Problem Solutions
 [[话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md)]
 
 [![Build Status](https://travis-ci.org/openset/leetcode.svg?branch=master)](https://travis-ci.org/openset/leetcode)
