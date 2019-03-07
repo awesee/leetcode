@@ -85,14 +85,14 @@
 		"TranslatedName": "堆"
 	},
 	{
-		"Name": "Sort",
-		"Slug": "sort",
-		"TranslatedName": "排序"
-	},
-	{
 		"Name": "Graph",
 		"Slug": "graph",
 		"TranslatedName": "图"
+	},
+	{
+		"Name": "Sort",
+		"Slug": "sort",
+		"TranslatedName": "排序"
 	},
 	{
 		"Name": "Union Find",
@@ -178,5 +178,10 @@
 		"Name": "Memoization",
 		"Slug": "memoization",
 		"TranslatedName": "记忆化"
+	},
+	{
+		"Name": "Sliding Window",
+		"Slug": "sliding-window",
+		"TranslatedName": ""
 	}
 ]
