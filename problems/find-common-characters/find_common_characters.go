@@ -15,6 +15,7 @@ func commonChars(A []string) []string {
 					m[j][i]--
 				} else {
 					c = -1
+					break
 				}
 			}
 			if c >= 0 {
