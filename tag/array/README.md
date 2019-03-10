@@ -9,8 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1002 | [查找常用字符](https://github.com/openset/leetcode/tree/master/problems/find-common-characters) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
 | 999 | [车的可用捕获量](https://github.com/openset/leetcode/tree/master/problems/available-captures-for-rook) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 995 | [K 连续位的最小翻转次数](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Hard |
 | 989 | [数组形式的整数加法](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 985 | [查询后的偶数和](https://github.com/openset/leetcode/tree/master/problems/sum-of-even-numbers-after-queries) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 978 | [最长湍流子数组](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
