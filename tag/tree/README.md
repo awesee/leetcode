@@ -10,8 +10,8 @@
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 998 | [最大二叉树 II](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 993 | [二叉树的堂兄弟节点](https://github.com/openset/leetcode/tree/master/problems/cousins-in-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 988 | [从叶结点开始的最小字符串](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
+| 993 | [二叉树的堂兄弟节点](https://github.com/openset/leetcode/tree/master/problems/cousins-in-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Easy |
+| 988 | [从叶结点开始的最小字符串](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
 | 987 | [二叉树的垂序遍历](https://github.com/openset/leetcode/tree/master/problems/vertical-order-traversal-of-a-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 979 | [在二叉树中分配硬币](https://github.com/openset/leetcode/tree/master/problems/distribute-coins-in-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
 | 971 | [翻转二叉树以匹配先序遍历](https://github.com/openset/leetcode/tree/master/problems/flip-binary-tree-to-match-preorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |

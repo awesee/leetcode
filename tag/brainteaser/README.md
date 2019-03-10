@@ -11,4 +11,4 @@
 | :-: | - | - | :-: |
 | 777 | [在LR字符串中交换相邻字符](https://github.com/openset/leetcode/tree/master/problems/swap-adjacent-in-lr-string) | [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]  | Medium |
 | 319 | [灯泡开关](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher) | [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
-| 292 | [Nim游戏](https://github.com/openset/leetcode/tree/master/problems/nim-game) | [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]  | Easy |
+| 292 | [Nim游戏](https://github.com/openset/leetcode/tree/master/problems/nim-game) | [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)] [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]  | Easy |

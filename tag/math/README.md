@@ -10,7 +10,7 @@
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 996 | [正方形数组的数目](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
-| 991 | [坏了的计算器](https://github.com/openset/leetcode/tree/master/problems/broken-calculator) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
+| 991 | [坏了的计算器](https://github.com/openset/leetcode/tree/master/problems/broken-calculator) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 976 | [三角形的最大周长](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 973 | [最接近原点的 K 个点](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Easy |
 | 972 | [相等的有理数](https://github.com/openset/leetcode/tree/master/problems/equal-rational-numbers) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
@@ -33,7 +33,7 @@
 | 885 | [螺旋矩阵 III](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-iii) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 883 | [三维形体投影面积](https://github.com/openset/leetcode/tree/master/problems/projection-area-of-3d-shapes) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 878 | [第 N 个神奇数字](https://github.com/openset/leetcode/tree/master/problems/nth-magical-number) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
-| 877 | [石子游戏](https://github.com/openset/leetcode/tree/master/problems/stone-game) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
+| 877 | [石子游戏](https://github.com/openset/leetcode/tree/master/problems/stone-game) | [[极小化极大](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 869 | [重新排序得到 2 的幂](https://github.com/openset/leetcode/tree/master/problems/reordered-power-of-2) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 868 | [二进制间距](https://github.com/openset/leetcode/tree/master/problems/binary-gap) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 866 | [回文素数](https://github.com/openset/leetcode/tree/master/problems/prime-palindrome) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
@@ -81,7 +81,6 @@
 | 453 | [最小移动次数使数组元素相等](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 441 | [排列硬币](https://github.com/openset/leetcode/tree/master/problems/arranging-coins) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Easy |
 | 423 | [从英文中重建数字](https://github.com/openset/leetcode/tree/master/problems/reconstruct-original-digits-from-english) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
-| 415 | [字符串相加](https://github.com/openset/leetcode/tree/master/problems/add-strings) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 413 | [等差数列划分](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 400 | [第N个数字](https://github.com/openset/leetcode/tree/master/problems/nth-digit) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 397 | [整数替换](https://github.com/openset/leetcode/tree/master/problems/integer-replacement) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
