@@ -48,6 +48,9 @@
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### Similar Questions
   1. [Longest Substring with At Most Two Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-two-distinct-characters) (Hard)
+  1. [Longest Substring with At Most K Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [Subarrays with K Different Integers](https://github.com/openset/leetcode/tree/master/problems/subarrays-with-k-different-integers) (Hard)

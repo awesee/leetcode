@@ -46,3 +46,6 @@
   [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+
+### Similar Questions
+  1. [Permutations II](https://github.com/openset/leetcode/tree/master/problems/permutations-ii) (Medium)

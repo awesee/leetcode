@@ -35,9 +35,9 @@
 
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
 
 ### Similar Questions
   1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/problems/multiply-strings) (Medium)
   1. [Add Binary](https://github.com/openset/leetcode/tree/master/problems/add-binary) (Easy)
   1. [Plus One Linked List](https://github.com/openset/leetcode/tree/master/problems/plus-one-linked-list) (Medium)
+  1. [Add to Array-Form of Integer](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer) (Easy)

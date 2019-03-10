@@ -34,3 +34,4 @@
 
 ### Similar Questions
   1. [Max Consecutive Ones II](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-ii) (Medium)
+  1. [Max Consecutive Ones III](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii) (Medium)

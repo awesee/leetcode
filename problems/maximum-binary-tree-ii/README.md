@@ -73,3 +73,6 @@
 
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+
+### Similar Questions
+  1. [Maximum Binary Tree](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree) (Medium)

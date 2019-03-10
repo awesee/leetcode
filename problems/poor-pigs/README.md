@@ -33,3 +33,17 @@
 
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+What if you only have one shot? Eg. 4 buckets, 15 mins to die, and 15 mins to test.
+</details>
+<details>
+<summary>Hint 2</summary>
+How many states can we generate with x pigs and T tests?
+</details>
+<details>
+<summary>Hint 3</summary>
+Find minimum <code>x</code> such that <code>(T+1)^x >= N</code>
+</details>
