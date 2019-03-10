@@ -15,3 +15,6 @@
 
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
+### Similar Questions
+  1. [Find the Town Judge](https://github.com/openset/leetcode/tree/master/problems/find-the-town-judge) (Easy)

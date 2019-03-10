@@ -66,4 +66,8 @@
 </ol>
 
 ### Related Topics
+  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+
+### Similar Questions
+  1. [2 Keys Keyboard](https://github.com/openset/leetcode/tree/master/problems/2-keys-keyboard) (Medium)

@@ -58,3 +58,6 @@ Before performing the second query we have only the lamp [4,4] on.  Now the quer
 
 ### Related Topics
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+
+### Similar Questions
+  1. [N-Queens](https://github.com/openset/leetcode/tree/master/problems/n-queens) (Hard)

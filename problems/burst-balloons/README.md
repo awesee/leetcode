@@ -34,3 +34,6 @@
 ### Related Topics
   [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### Similar Questions
+  1. [Minimum Cost to Merge Stones](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-merge-stones) (Hard)

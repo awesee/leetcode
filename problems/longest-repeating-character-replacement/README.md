@@ -46,5 +46,10 @@ The substring "BBBB" has the longest repeating letters, which is 4.
 </pre>
 </p>
 
+### Related Topics
+  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+
 ### Similar Questions
   1. [Longest Substring with At Most K Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [Max Consecutive Ones III](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii) (Medium)

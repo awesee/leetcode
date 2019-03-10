@@ -33,3 +33,4 @@
   1. [Sum of Two Integers](https://github.com/openset/leetcode/tree/master/problems/sum-of-two-integers) (Easy)
   1. [Add Strings](https://github.com/openset/leetcode/tree/master/problems/add-strings) (Easy)
   1. [Add Two Numbers II](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers-ii) (Medium)
+  1. [Add to Array-Form of Integer](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer) (Easy)
