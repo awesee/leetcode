@@ -47,3 +47,6 @@ Construct the maximum tree by the given array and output the root node of this t
 
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+
+### Similar Questions
+  1. [Maximum Binary Tree II](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii) (Medium)

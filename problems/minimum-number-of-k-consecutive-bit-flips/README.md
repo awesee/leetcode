@@ -58,4 +58,8 @@ Flip A[5],A[6],A[7]:&nbsp;A becomes [1,1,1,1,1,1,1,1]
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+
+### Similar Questions
+  1. [Bulb Switcher](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher) (Medium)

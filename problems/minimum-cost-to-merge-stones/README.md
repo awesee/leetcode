@@ -70,3 +70,6 @@ The total cost was 25, and this is the minimum possible.
 
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### Similar Questions
+  1. [Burst Balloons](https://github.com/openset/leetcode/tree/master/problems/burst-balloons) (Hard)

@@ -32,3 +32,4 @@
   1. [Next Permutation](https://github.com/openset/leetcode/tree/master/problems/next-permutation) (Medium)
   1. [Permutations](https://github.com/openset/leetcode/tree/master/problems/permutations) (Medium)
   1. [Palindrome Permutation II](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation-ii) (Medium)
+  1. [Number of Squareful Arrays](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays) (Hard)

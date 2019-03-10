@@ -26,6 +26,7 @@
 
 ### Related Topics
   [[Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
+  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
 
 ### Similar Questions
   1. [Flip Game II](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii) (Medium)

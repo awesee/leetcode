@@ -52,3 +52,10 @@ Bolded numbers were flipped from 0 to 1.  The longest subarray is underlined.
 
 ### Related Topics
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+
+### Similar Questions
+  1. [Longest Substring with At Most K Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [Longest Repeating Character Replacement](https://github.com/openset/leetcode/tree/master/problems/longest-repeating-character-replacement) (Medium)
+  1. [Max Consecutive Ones](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones) (Easy)
+  1. [Max Consecutive Ones II](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-ii) (Medium)
