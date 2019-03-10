@@ -47,3 +47,7 @@
 
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+
+### Similar Questions
+  1. [Intersection of Two Arrays II](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays-ii) (Easy)

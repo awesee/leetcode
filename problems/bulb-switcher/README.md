@@ -33,3 +33,4 @@ So you should return 1, because there is only one bulb is on.
 
 ### Similar Questions
   1. [Bulb Switcher II](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher-ii) (Medium)
+  1. [Minimum Number of K Consecutive Bit Flips](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips) (Hard)

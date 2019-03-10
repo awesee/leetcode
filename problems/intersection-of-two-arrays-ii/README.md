@@ -51,3 +51,4 @@
 
 ### Similar Questions
   1. [Intersection of Two Arrays](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays) (Easy)
+  1. [Find Common Characters](https://github.com/openset/leetcode/tree/master/problems/find-common-characters) (Easy)

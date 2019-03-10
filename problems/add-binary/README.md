@@ -35,3 +35,4 @@
   1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers) (Medium)
   1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/problems/multiply-strings) (Medium)
   1. [Plus One](https://github.com/openset/leetcode/tree/master/problems/plus-one) (Easy)
+  1. [Add to Array-Form of Integer](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer) (Easy)

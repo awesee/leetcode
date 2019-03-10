@@ -83,3 +83,6 @@
 
 ### Related Topics
   [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+
+### Similar Questions
+  1. [Find the Celebrity](https://github.com/openset/leetcode/tree/master/problems/find-the-celebrity) (Medium)

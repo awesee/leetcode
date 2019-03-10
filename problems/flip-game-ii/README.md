@@ -14,6 +14,7 @@
 
 
 ### Related Topics
+  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
 
 ### Similar Questions

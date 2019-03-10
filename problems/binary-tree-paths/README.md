@@ -37,3 +37,4 @@
 
 ### Similar Questions
   1. [Path Sum II](https://github.com/openset/leetcode/tree/master/problems/path-sum-ii) (Medium)
+  1. [Smallest String Starting From Leaf](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf) (Medium)

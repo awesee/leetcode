@@ -49,6 +49,7 @@ In step 3, we use <b>Paste</b> operation to get &#39;AAA&#39;.
 
 ### Similar Questions
   1. [4 Keys Keyboard](https://github.com/openset/leetcode/tree/master/problems/4-keys-keyboard) (Medium)
+  1. [Broken Calculator](https://github.com/openset/leetcode/tree/master/problems/broken-calculator) (Medium)
 
 ### Hints
 <details>

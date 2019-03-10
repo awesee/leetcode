@@ -79,3 +79,7 @@ Then we can insert &quot;abc&quot; before the last letter, resulting in &quot;ab
 
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+
+### Similar Questions
+  1. [Valid Parentheses](https://github.com/openset/leetcode/tree/master/problems/valid-parentheses) (Easy)
