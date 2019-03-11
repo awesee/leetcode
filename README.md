@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1008">1008</span> | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal "先序遍历构造二叉树") | [Go](https://github.com/openset/leetcode/tree/master/problems/construct-binary-search-tree-from-preorder-traversal) | Medium |
+| <span id="1007">1007</span> | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row "行相等的最少多米诺旋转") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-domino-rotations-for-equal-row) | Medium |
+| <span id="1006">1006</span> | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial "笨阶乘") | [Go](https://github.com/openset/leetcode/tree/master/problems/clumsy-factorial) | Medium |
+| <span id="1005">1005</span> | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations "K 次取反后最大化的数组和") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximize-sum-of-array-after-k-negations) | Easy |
 | <span id="1004">1004</span> | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii "最大连续1的个数 III") | [Go](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii) | Medium |
 | <span id="1003">1003</span> | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions "检查替换后的词是否有效") | [Go](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions) | Medium |
 | <span id="1002">1002</span> | [Find Common Characters](https://leetcode.com/problems/find-common-characters "查找常用字符") | [Go](https://github.com/openset/leetcode/tree/master/problems/find-common-characters) | Easy |
@@ -74,7 +78,7 @@ LeetCode Problems' Solutions
 | <span id="987">987</span> | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree "二叉树的垂序遍历") | [Go](https://github.com/openset/leetcode/tree/master/problems/vertical-order-traversal-of-a-binary-tree) | Medium |
 | <span id="986">986</span> | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections "区间列表的交集") | [Go](https://github.com/openset/leetcode/tree/master/problems/interval-list-intersections) | Medium |
 | <span id="985">985</span> | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries "查询后的偶数和") | [Go](https://github.com/openset/leetcode/tree/master/problems/sum-of-even-numbers-after-queries) | Easy |
-| <span id="984">984</span> | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb "不含 AAA 或 BBB 的字符串") | [Go](https://github.com/openset/leetcode/tree/master/problems/string-without-aaa-or-bbb) | Easy |
+| <span id="984">984</span> | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb "不含 AAA 或 BBB 的字符串") | [Go](https://github.com/openset/leetcode/tree/master/problems/string-without-aaa-or-bbb) | Medium |
 | <span id="983">983</span> | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets "最低票价") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-for-tickets) | Medium |
 | <span id="982">982</span> | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero "按位与为零的三元组") | [Go](https://github.com/openset/leetcode/tree/master/problems/triples-with-bitwise-and-equal-to-zero) | Hard |
 | <span id="981">981</span> | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store "基于时间的键值存储") | [Go](https://github.com/openset/leetcode/tree/master/problems/time-based-key-value-store) | Medium |
@@ -85,7 +89,7 @@ LeetCode Problems' Solutions
 | <span id="976">976</span> | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle "三角形的最大周长") | [Go](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle) | Easy |
 | <span id="975">975</span> | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump "奇偶跳") | [Go](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump) | Hard |
 | <span id="974">974</span> | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k "和可被 K 整除的子数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/subarray-sums-divisible-by-k) | Medium |
-| <span id="973">973</span> | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin "最接近原点的 K 个点") | [Go](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) | Easy |
+| <span id="973">973</span> | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin "最接近原点的 K 个点") | [Go](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) | Medium |
 | <span id="972">972</span> | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers "相等的有理数") | [Go](https://github.com/openset/leetcode/tree/master/problems/equal-rational-numbers) | Hard |
 | <span id="971">971</span> | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal "翻转二叉树以匹配先序遍历") | [Go](https://github.com/openset/leetcode/tree/master/problems/flip-binary-tree-to-match-preorder-traversal) | Medium |
 | <span id="970">970</span> | [Powerful Integers](https://leetcode.com/problems/powerful-integers "强整数") | [Go](https://github.com/openset/leetcode/tree/master/problems/powerful-integers) | Easy |
