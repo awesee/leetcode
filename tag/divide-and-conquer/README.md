@@ -9,7 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 973 | [最接近原点的 K 个点](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Easy |
+| 973 | [最接近原点的 K 个点](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Medium |
 | 932 | [漂亮数组](https://github.com/openset/leetcode/tree/master/problems/beautiful-array) | [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Medium |
 | 903 | [DI 序列的有效排列](https://github.com/openset/leetcode/tree/master/problems/valid-permutations-for-di-sequence) | [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 514 | [自由之路](https://github.com/openset/leetcode/tree/master/problems/freedom-trail) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |

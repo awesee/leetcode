@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1008 | [先序遍历构造二叉树](https://github.com/openset/leetcode/tree/master/problems/construct-binary-search-tree-from-preorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 998 | [最大二叉树 II](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 993 | [二叉树的堂兄弟节点](https://github.com/openset/leetcode/tree/master/problems/cousins-in-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Easy |
 | 988 | [从叶结点开始的最小字符串](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |

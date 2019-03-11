@@ -45,14 +45,14 @@
 		"TranslatedName": "双指针"
 	},
 	{
-		"Name": "Breadth-first Search",
-		"Slug": "breadth-first-search",
-		"TranslatedName": "广度优先搜索"
-	},
-	{
 		"Name": "Greedy",
 		"Slug": "greedy",
 		"TranslatedName": "贪心算法"
+	},
+	{
+		"Name": "Breadth-first Search",
+		"Slug": "breadth-first-search",
+		"TranslatedName": "广度优先搜索"
 	},
 	{
 		"Name": "Stack",
@@ -115,14 +115,14 @@
 		"TranslatedName": "字典树"
 	},
 	{
-		"Name": "Recursion",
-		"Slug": "recursion",
-		"TranslatedName": "递归"
-	},
-	{
 		"Name": "Sliding Window",
 		"Slug": "sliding-window",
 		"TranslatedName": ""
+	},
+	{
+		"Name": "Recursion",
+		"Slug": "recursion",
+		"TranslatedName": "递归"
 	},
 	{
 		"Name": "Queue",
