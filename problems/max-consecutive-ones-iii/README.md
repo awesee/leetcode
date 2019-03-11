@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions "Check If Word Is Valid After Substitutions")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/maximize-sum-of-array-after-k-negations "Maximize Sum Of Array After K Negations")
 
 ## 1004. Max Consecutive Ones III (Medium)
 
