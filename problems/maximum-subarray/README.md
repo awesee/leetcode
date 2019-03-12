@@ -34,3 +34,4 @@
   1. [Best Time to Buy and Sell Stock](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) (Easy)
   1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray) (Medium)
   1. [Degree of an Array](https://github.com/openset/leetcode/tree/master/problems/degree-of-an-array) (Easy)
+  1. [Longest Turbulent Subarray](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray) (Medium)
