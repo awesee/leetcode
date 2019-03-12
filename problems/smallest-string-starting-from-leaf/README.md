@@ -61,14 +61,17 @@
 <p><strong>Note:</strong></p>
 
 <ol>
-	<li>The number of nodes in the given tree will be between <code>1</code> and <code>1000</code>.</li>
+	<li>The number of nodes in the given tree will be between <code>1</code> and <code>8500</code>.</li>
 	<li>Each node in the tree will have a value between <code>0</code> and <code>25</code>.</li>
 </ol>
-
-<p>&nbsp;</p>
 </div>
 </div>
 </div>
 
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+
+### Similar Questions
+  1. [Sum Root to Leaf Numbers](https://github.com/openset/leetcode/tree/master/problems/sum-root-to-leaf-numbers) (Medium)
+  1. [Binary Tree Paths](https://github.com/openset/leetcode/tree/master/problems/binary-tree-paths) (Easy)

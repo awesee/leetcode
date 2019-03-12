@@ -11,7 +11,7 @@
 
 ## 970. Powerful Integers (Easy)
 
-<p>Given two non-negative integers <code>x</code> and <code>y</code>, an integer is <em>powerful</em>&nbsp;if it is equal to <code>x^i + y^j</code>&nbsp;for&nbsp;some integers <code>i &gt;= 0</code> and <code>j &gt;= 0</code>.</p>
+<p>Given two positive integers <code>x</code> and <code>y</code>, an integer is <em>powerful</em>&nbsp;if it is equal to <code>x^i + y^j</code>&nbsp;for&nbsp;some integers <code>i &gt;= 0</code> and <code>j &gt;= 0</code>.</p>
 
 <p>Return a list of all <em>powerful</em> integers that have value less than or equal to <code>bound</code>.</p>
 
@@ -56,4 +56,5 @@
 </ul>
 
 ### Related Topics
+  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

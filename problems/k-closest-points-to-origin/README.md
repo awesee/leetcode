@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/subarray-sums-divisible-by-k "Subarray Sums Divisible by K")
 
-## 973. K Closest Points to Origin (Easy)
+## 973. K Closest Points to Origin (Medium)
 
 <p>We have a list of <code>points</code>&nbsp;on the plane.&nbsp; Find the <code>K</code> closest points to the origin <code>(0, 0)</code>.</p>
 
@@ -54,6 +54,11 @@ We only want the closest K = 1 points from the origin, so the answer is just [[-
 </div>
 
 ### Related Topics
+  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+
+### Similar Questions
+  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array) (Medium)
+  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements) (Medium)
+  1. [Top K Frequent Words](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-words) (Medium)

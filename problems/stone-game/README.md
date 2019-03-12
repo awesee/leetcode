@@ -46,5 +46,6 @@ This demonstrated that taking the first 5 was a winning move for Alex, so we ret
 </ol>
 
 ### Related Topics
+  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
