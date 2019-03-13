@@ -11,11 +11,13 @@
 
 ## 627. Swap Salary (Easy)
 
-Given a table <code>salary</code>, such as the one below, that has m=male and f=female values. Swap all f and m values (i.e., change all f values to m and vice versa) with a single update query and no intermediate temp table.
-<p>&nbsp;</p>
-For example:
+<p>Given a table <code>salary</code>, such as the one below, that has m=male and f=female values. Swap all f and m values (i.e., change all f values to m and vice versa) with a <strong>single update statement</strong> and no intermediate temp table.</p>
+
+<p>Note that you must write a single update statement, <strong>DO NOT</strong> write any select statement for this problem.</p>
 
 <p>&nbsp;</p>
+
+<p><strong>Example:</strong></p>
 
 <pre>
 | id | name | sex | salary |
@@ -25,7 +27,7 @@ For example:
 | 3  | C    | m   | 5500   |
 | 4  | D    | f   | 500    |
 </pre>
-After running your query, the above salary table should have the following rows:
+After running your <strong>update</strong> statement, the above salary table should have the following rows:
 
 <pre>
 | id | name | sex | salary |

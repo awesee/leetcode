@@ -21,3 +21,4 @@
   1. [Number of Islands](https://github.com/openset/leetcode/tree/master/problems/number-of-islands) (Medium)
   1. [Shortest Distance from All Buildings](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-from-all-buildings) (Hard)
   1. [Robot Room Cleaner](https://github.com/openset/leetcode/tree/master/problems/robot-room-cleaner) (Hard)
+  1. [Rotting Oranges](https://github.com/openset/leetcode/tree/master/problems/rotting-oranges) (Easy)

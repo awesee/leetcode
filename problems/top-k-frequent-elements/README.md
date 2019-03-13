@@ -45,3 +45,4 @@
   1. [Sort Characters By Frequency](https://github.com/openset/leetcode/tree/master/problems/sort-characters-by-frequency) (Medium)
   1. [Split Array into Consecutive Subsequences](https://github.com/openset/leetcode/tree/master/problems/split-array-into-consecutive-subsequences) (Medium)
   1. [Top K Frequent Words](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-words) (Medium)
+  1. [K Closest Points to Origin](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) (Medium)
