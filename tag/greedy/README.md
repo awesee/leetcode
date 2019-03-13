@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1007 | [行相等的最少多米诺旋转](https://github.com/openset/leetcode/tree/master/problems/minimum-domino-rotations-for-equal-row) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
+| 1005 | [K 次取反后最大化的数组和](https://github.com/openset/leetcode/tree/master/problems/maximize-sum-of-array-after-k-negations) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
 | 995 | [K 连续位的最小翻转次数](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Hard |
 | 991 | [坏了的计算器](https://github.com/openset/leetcode/tree/master/problems/broken-calculator) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 984 | [不含 AAA 或 BBB 的字符串](https://github.com/openset/leetcode/tree/master/problems/string-without-aaa-or-bbb) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
