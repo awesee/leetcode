@@ -55,3 +55,4 @@ Therefore, sum = 495 + 491 + 40 = <code>1026</code>.</pre>
 ### Similar Questions
   1. [Path Sum](https://github.com/openset/leetcode/tree/master/problems/path-sum) (Easy)
   1. [Binary Tree Maximum Path Sum](https://github.com/openset/leetcode/tree/master/problems/binary-tree-maximum-path-sum) (Hard)
+  1. [Smallest String Starting From Leaf](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf) (Medium)

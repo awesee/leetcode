@@ -65,6 +65,7 @@
   1. [Generate Parentheses](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses) (Medium)
   1. [Longest Valid Parentheses](https://github.com/openset/leetcode/tree/master/problems/longest-valid-parentheses) (Hard)
   1. [Remove Invalid Parentheses](https://github.com/openset/leetcode/tree/master/problems/remove-invalid-parentheses) (Hard)
+  1. [Check If Word Is Valid After Substitutions](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions) (Medium)
 
 ### Hints
 <details>
