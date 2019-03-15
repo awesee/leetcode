@@ -34,7 +34,7 @@ func remember(filename string, days int, f func() []byte) []byte {
 	filename = getCachePath(filename)
 	if fi, err := os.Stat(filename); err == nil {
 		t := fi.ModTime().AddDate(0, 0, days)
-		if time.Now().Before(t) {
+		if time.Now().Add(time.Duration(t.Unix()%86400) * time.Second).Before(t) {
 			return fileGetContents(filename)
 		} else if cts := f(); len(cts) == 0 {
 			return fileGetContents(filename)
