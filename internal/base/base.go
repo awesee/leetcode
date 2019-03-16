@@ -57,7 +57,7 @@ func Usage() {
 
 func FilePutContents(filename string, data []byte) []byte {
 	ext := filepath.Ext(filename)
-	if strings.EqualFold(ext, "json") {
+	if strings.EqualFold(ext, ".json") {
 		data = JsonIndent(data)
 	}
 	if len(data) > 0 {
