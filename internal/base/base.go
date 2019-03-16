@@ -1,10 +1,13 @@
 package base
 
 import (
+	"bytes"
+	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"os"
 	"path"
+	"path/filepath"
 	"strings"
 )
 
@@ -53,12 +56,26 @@ func Usage() {
 }
 
 func FilePutContents(filename string, data []byte) []byte {
+	ext := filepath.Ext(filename)
+	if strings.EqualFold(ext, ".json") {
+		data = JsonIndent(data)
+	}
 	if len(data) > 0 {
 		filename = getFilePath(filename)
 		err := ioutil.WriteFile(filename, data, 0644)
 		CheckErr(err)
 	}
 	return data
+}
+
+func JsonIndent(src []byte) []byte {
+	if len(src) == 0 || src[0] != '{' {
+		return nil
+	}
+	var buf bytes.Buffer
+	err := json.Indent(&buf, src, "", "\t")
+	CheckErr(err)
+	return buf.Bytes()
 }
 
 func getFilePath(filename string) string {

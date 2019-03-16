@@ -1,7 +1,6 @@
 package leetcode
 
 import (
-	"bytes"
 	"encoding/json"
 	"io/ioutil"
 	"net/http"
@@ -19,6 +18,7 @@ var (
 	authInfo        = base.AuthInfo
 	checkErr        = base.CheckErr
 	filePutContents = base.FilePutContents
+	jsonIndent      = base.JsonIndent
 	LockStr         = " 🔒"
 	translationSet  = make(map[int]string)
 )
@@ -79,10 +79,7 @@ func fileGetContents(filename string) []byte {
 func jsonEncode(v interface{}) []byte {
 	data, err := json.Marshal(v)
 	checkErr(err)
-	var buf bytes.Buffer
-	err = json.Indent(&buf, data, "", "\t")
-	checkErr(err)
-	return buf.Bytes()
+	return jsonIndent(data)
 }
 
 func jsonDecode(data []byte, v interface{}) {
