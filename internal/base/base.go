@@ -69,7 +69,7 @@ func FilePutContents(filename string, data []byte) []byte {
 }
 
 func JsonIndent(src []byte) []byte {
-	if len(src) == 0 || src[0] != '{' {
+	if !json.Valid(src) {
 		return nil
 	}
 	var buf bytes.Buffer
