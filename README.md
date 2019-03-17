@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1015">1015</span> | [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits "至少有 1 位重复的数字") | [Go](https://github.com/openset/leetcode/tree/master/problems/numbers-with-repeated-digits) | Hard |
+| <span id="1014">1014</span> | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days "在 D 天内送达包裹的能力") | [Go](https://github.com/openset/leetcode/tree/master/problems/capacity-to-ship-packages-within-d-days) | Medium |
+| <span id="1013">1013</span> | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60 "总持续时间可被 60 整除的歌曲") | [Go](https://github.com/openset/leetcode/tree/master/problems/pairs-of-songs-with-total-durations-divisible-by-60) | Easy |
+| <span id="1012">1012</span> | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer "十进制整数的补码") | [Go](https://github.com/openset/leetcode/tree/master/problems/complement-of-base-10-integer) | Easy |
 | <span id="1008">1008</span> | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal "先序遍历构造二叉树") | [Go](https://github.com/openset/leetcode/tree/master/problems/construct-binary-search-tree-from-preorder-traversal) | Medium |
 | <span id="1007">1007</span> | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row "行相等的最少多米诺旋转") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-domino-rotations-for-equal-row) | Medium |
 | <span id="1006">1006</span> | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial "笨阶乘") | [Go](https://github.com/openset/leetcode/tree/master/problems/clumsy-factorial) | Medium |

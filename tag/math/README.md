@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1015 | [至少有 1 位重复的数字](https://github.com/openset/leetcode/tree/master/problems/numbers-with-repeated-digits) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1006 | [笨阶乘](https://github.com/openset/leetcode/tree/master/problems/clumsy-factorial) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 996 | [正方形数组的数目](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
 | 991 | [坏了的计算器](https://github.com/openset/leetcode/tree/master/problems/broken-calculator) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |

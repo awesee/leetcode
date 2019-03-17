@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1015 | [至少有 1 位重复的数字](https://github.com/openset/leetcode/tree/master/problems/numbers-with-repeated-digits) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1000 | [合并石头的最低成本](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-merge-stones) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 983 | [最低票价](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-for-tickets) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 982 | [按位与为零的三元组](https://github.com/openset/leetcode/tree/master/problems/triples-with-bitwise-and-equal-to-zero) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
