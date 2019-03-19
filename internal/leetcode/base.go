@@ -110,5 +110,5 @@ func getCredential() (data url.Values) {
 }
 
 func slugToSnake(slug string) string {
-	return strings.Replace(slug, "-", "_", -1)
+	return strings.ReplaceAll(slug, "-", "_")
 }

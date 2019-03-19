@@ -53,11 +53,11 @@ func runPost(cmd *base.Command, args []string) {
 				question.TitleSlug,
 			))
 			buf.WriteString(fmt.Sprintf("\n## %s. %s%s\n\n", question.QuestionFrontendId, question.TranslatedTitle, question.Difficulty.Str()))
-			content := strings.Replace(question.TranslatedContent, "\r", "", -1)
+			content := strings.ReplaceAll(question.TranslatedContent, "\r", "")
 			// remove style
 			reg := regexp.MustCompile(`<style[\S\s]+?</style>`)
 			content = reg.ReplaceAllString(content, "")
-			content = strings.Replace(content, "\n\n\t", "\n\t", -1)
+			content = strings.ReplaceAll(content, "\n\n\t", "\n\t")
 			content = strings.TrimSpace(content)
 			buf.WriteString(content + "\n")
 			if len(question.TopicTags) > 0 {
