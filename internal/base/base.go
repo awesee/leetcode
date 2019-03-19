@@ -89,12 +89,13 @@ func getFilePath(filename string) string {
 
 func CheckErr(err error) {
 	if err != nil {
-		panic(err)
+		fmt.Println(err.Error())
+		Exit()
 	}
 }
 
 func Exit() {
-	os.Exit(0)
+	os.Exit(1)
 }
 
 func AuthInfo(cmd string) string {
