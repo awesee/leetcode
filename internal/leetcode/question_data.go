@@ -99,11 +99,11 @@ func (question questionType) getDescContent() []byte {
 	buf.WriteString(authInfo("description"))
 	buf.WriteString(question.getNavigation())
 	buf.WriteString(fmt.Sprintf("\n## %s. %s%s\n\n", question.QuestionFrontendId, question.Title, question.Difficulty.Str()))
-	content := strings.Replace(question.Content, "\r", "", -1)
+	content := strings.ReplaceAll(question.Content, "\r", "")
 	// remove style
 	reg := regexp.MustCompile(`<style[\S\s]+?</style>`)
 	content = reg.ReplaceAllString(content, "")
-	content = strings.Replace(content, "\n\n\t", "\n\t", -1)
+	content = strings.ReplaceAll(content, "\n\n\t", "\n\t")
 	content = strings.TrimSpace(content)
 	buf.WriteString(content + "\n")
 	buf.Write(question.getTopicTags())
@@ -170,7 +170,7 @@ func (question questionType) getHints() []byte {
 		buf.WriteString("\n### Hints\n")
 	}
 	for i, hint := range hints {
-		hint = strings.Replace(hint, "\r", "", -1)
+		hint = strings.ReplaceAll(hint, "\r", "")
 		buf.WriteString(fmt.Sprintf("<details>\n<summary>Hint %d</summary>\n%s\n</details>\n", i+1, hint))
 	}
 	return buf.Bytes()

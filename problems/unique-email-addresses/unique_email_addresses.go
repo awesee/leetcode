@@ -11,7 +11,7 @@ func numUniqueEmails(emails []string) int {
 		if plusIndex == -1 {
 			plusIndex = atIndex
 		}
-		email = strings.Replace(email[0:plusIndex], ".", "", -1) + email[atIndex:]
+		email = strings.ReplaceAll(email[0:plusIndex], ".", "") + email[atIndex:]
 		if !m[email] {
 			m[email] = true
 			count++
