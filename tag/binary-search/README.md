@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1014 | [在 D 天内送达包裹的能力](https://github.com/openset/leetcode/tree/master/problems/capacity-to-ship-packages-within-d-days) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
 | 981 | [基于时间的键值存储](https://github.com/openset/leetcode/tree/master/problems/time-based-key-value-store) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
 | 927 | [三等分](https://github.com/openset/leetcode/tree/master/problems/three-equal-parts) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
 | 911 | [在线选举](https://github.com/openset/leetcode/tree/master/problems/online-election) | [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
