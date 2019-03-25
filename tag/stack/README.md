@@ -10,7 +10,7 @@
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1003 | [检查替换后的词是否有效](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 975 | [奇偶跳](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
+| 975 | [奇偶跳](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 946 | [验证栈序列](https://github.com/openset/leetcode/tree/master/problems/validate-stack-sequences) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
 | 921 | [使括号有效的最少添加](https://github.com/openset/leetcode/tree/master/problems/minimum-add-to-make-parentheses-valid) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
 | 907 | [子数组的最小值之和](https://github.com/openset/leetcode/tree/master/problems/sum-of-subarray-minimums) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
