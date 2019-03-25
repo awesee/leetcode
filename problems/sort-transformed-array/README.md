@@ -17,6 +17,9 @@
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
 
+### Similar Questions
+  1. [Squares of a Sorted Array](https://github.com/openset/leetcode/tree/master/problems/squares-of-a-sorted-array) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

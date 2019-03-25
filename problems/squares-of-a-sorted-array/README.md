@@ -44,6 +44,9 @@
 </div>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+
+### Similar Questions
+  1. [Merge Sorted Array](https://github.com/openset/leetcode/tree/master/problems/merge-sorted-array) (Easy)
+  1. [Sort Transformed Array](https://github.com/openset/leetcode/tree/master/problems/sort-transformed-array) (Medium)

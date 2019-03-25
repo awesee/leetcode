@@ -38,3 +38,6 @@ equals 1 + 1 + 2 + 2 + 2 = 8.  Hence, answer[0] = 8, and so on.
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+
+### Similar Questions
+  1. [Distribute Coins in Binary Tree](https://github.com/openset/leetcode/tree/master/problems/distribute-coins-in-binary-tree) (Medium)

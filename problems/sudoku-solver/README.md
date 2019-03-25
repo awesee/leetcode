@@ -43,3 +43,4 @@
 
 ### Similar Questions
   1. [Valid Sudoku](https://github.com/openset/leetcode/tree/master/problems/valid-sudoku) (Medium)
+  1. [Unique Paths III](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii) (Hard)

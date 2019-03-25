@@ -68,3 +68,6 @@ In total you spent $17 and covered all the days of your travel.
 
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### Similar Questions
+  1. [Coin Change](https://github.com/openset/leetcode/tree/master/problems/coin-change) (Medium)
