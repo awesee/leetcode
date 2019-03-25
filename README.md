@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1023">1023</span> | [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n "子串能表示从 1 到 N 数字的二进制串") | [Go](https://github.com/openset/leetcode/tree/master/problems/binary-string-with-substrings-representing-1-to-n) | Medium |
+| <span id="1022">1022</span> | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k "可被 K 整除的最小整数") | [Go](https://github.com/openset/leetcode/tree/master/problems/smallest-integer-divisible-by-k) | Medium |
+| <span id="1021">1021</span> | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair "最佳观光组合") | [Go](https://github.com/openset/leetcode/tree/master/problems/best-sightseeing-pair) | Medium |
+| <span id="1020">1020</span> | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum "将数组分成和相等的三个部分") | [Go](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-three-parts-with-equal-sum) | Easy |
 | <span id="1015">1015</span> | [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits "至少有 1 位重复的数字") | [Go](https://github.com/openset/leetcode/tree/master/problems/numbers-with-repeated-digits) | Hard |
 | <span id="1014">1014</span> | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days "在 D 天内送达包裹的能力") | [Go](https://github.com/openset/leetcode/tree/master/problems/capacity-to-ship-packages-within-d-days) | Medium |
 | <span id="1013">1013</span> | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60 "总持续时间可被 60 整除的歌曲") | [Go](https://github.com/openset/leetcode/tree/master/problems/pairs-of-songs-with-total-durations-divisible-by-60) | Easy |
