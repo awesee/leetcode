@@ -43,3 +43,8 @@
 
 ### Related Topics
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+
+### Similar Questions
+  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
+  1. [Merge Sorted Array](https://github.com/openset/leetcode/tree/master/problems/merge-sorted-array) (Easy)
+  1. [Employee Free Time](https://github.com/openset/leetcode/tree/master/problems/employee-free-time) (Hard)

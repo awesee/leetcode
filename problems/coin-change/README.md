@@ -32,3 +32,6 @@ You may assume that you have an infinite number of each kind of coin.</p>
 
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### Similar Questions
+  1. [Minimum Cost For Tickets](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-for-tickets) (Medium)

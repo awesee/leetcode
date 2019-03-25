@@ -36,6 +36,8 @@ nums2 = [2,5,6],       n = 3
 
 ### Similar Questions
   1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists) (Easy)
+  1. [Squares of a Sorted Array](https://github.com/openset/leetcode/tree/master/problems/squares-of-a-sorted-array) (Easy)
+  1. [Interval List Intersections](https://github.com/openset/leetcode/tree/master/problems/interval-list-intersections) (Medium)
 
 ### Hints
 <details>

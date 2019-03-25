@@ -15,7 +15,8 @@
 
 <p>To make problem a bit easier, all A, B, C, D have same length of N where 0 &le; N &le; 500. All integers are in the range of -2<sup>28</sup> to 2<sup>28</sup> - 1 and the result is guaranteed to be at most 2<sup>31</sup> - 1.</p>
 
-<p><b>Example:</b>
+<p><b>Example:</b></p>
+
 <pre>
 <b>Input:</b>
 A = [ 1, 2]
@@ -28,10 +29,11 @@ D = [ 0, 2]
 
 <b>Explanation:</b>
 The two tuples are:
-1. (0, 0, 0, 1) -> A[0] + B[0] + C[0] + D[1] = 1 + (-2) + (-1) + 2 = 0
-2. (1, 1, 0, 0) -> A[1] + B[1] + C[0] + D[0] = 2 + (-1) + (-1) + 0 = 0
+1. (0, 0, 0, 1) -&gt; A[0] + B[0] + C[0] + D[1] = 1 + (-2) + (-1) + 2 = 0
+2. (1, 1, 0, 0) -&gt; A[1] + B[1] + C[0] + D[0] = 2 + (-1) + (-1) + 0 = 0
 </pre>
-</p>
+
+<p>&nbsp;</p>
 
 ### Related Topics
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
