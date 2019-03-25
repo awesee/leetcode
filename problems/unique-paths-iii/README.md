@@ -69,5 +69,10 @@ Note that the starting and ending square can be anywhere in the grid.
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+
+### Similar Questions
+  1. [Sudoku Solver](https://github.com/openset/leetcode/tree/master/problems/sudoku-solver) (Hard)
+  1. [Unique Paths II](https://github.com/openset/leetcode/tree/master/problems/unique-paths-ii) (Medium)
+  1. [Word Search II](https://github.com/openset/leetcode/tree/master/problems/word-search-ii) (Hard)

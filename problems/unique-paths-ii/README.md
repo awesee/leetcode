@@ -46,6 +46,7 @@ There are two ways to reach the bottom-right corner:
 
 ### Similar Questions
   1. [Unique Paths](https://github.com/openset/leetcode/tree/master/problems/unique-paths) (Medium)
+  1. [Unique Paths III](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii) (Hard)
 
 ### Hints
 <details>

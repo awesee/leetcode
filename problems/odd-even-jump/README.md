@@ -88,4 +88,5 @@ We can reach the end from starting indexes 1, 2, and 4.
 
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
