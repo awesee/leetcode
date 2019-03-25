@@ -77,3 +77,7 @@
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+
+### Similar Questions
+  1. [Sum of Distances in Tree](https://github.com/openset/leetcode/tree/master/problems/sum-of-distances-in-tree) (Hard)
+  1. [Binary Tree Cameras](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras) (Hard)

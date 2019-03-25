@@ -19,6 +19,7 @@
 
 ### Similar Questions
   1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
+  1. [Interval List Intersections](https://github.com/openset/leetcode/tree/master/problems/interval-list-intersections) (Medium)
 
 ### Hints
 <details>
