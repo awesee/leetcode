@@ -39,6 +39,7 @@ You may assume that all inputs are consist of lowercase letters <code>a-z</code>
 
 ### Similar Questions
   1. [Word Search](https://github.com/openset/leetcode/tree/master/problems/word-search) (Medium)
+  1. [Unique Paths III](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii) (Hard)
 
 ### Hints
 <details>
