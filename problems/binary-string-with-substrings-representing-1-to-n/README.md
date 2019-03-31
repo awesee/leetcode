@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-integer-divisible-by-k "Smallest Integer Divisible by K")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/convert-to-base-2 "Convert to Base -2")
 
 ## 1023. Binary String With Substrings Representing 1 To N (Medium)
 
