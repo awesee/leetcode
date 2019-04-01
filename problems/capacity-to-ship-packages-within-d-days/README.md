@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/numbers-with-repeated-digits "Numbers With Repeated Digits")
 
-## 1014. Capacity To Ship Packages Within D Days (Medium)
+## 1011. Capacity To Ship Packages Within D Days (Medium)
 
 <p>A conveyor belt has packages that must be shipped from one port to another within <code>D</code> days.</p>
 

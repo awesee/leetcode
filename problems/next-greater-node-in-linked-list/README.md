@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-enclaves "Number of Enclaves")
 
-## 1030. Next Greater Node In Linked List (Medium)
+## 1019. Next Greater Node In Linked List (Medium)
 
 <p>We are given a linked list with&nbsp;<code>head</code>&nbsp;as the first node.&nbsp; Let&#39;s number the&nbsp;nodes in the list: <code>node_1, node_2, node_3, ...</code> etc.</p>
 
