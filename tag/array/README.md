@@ -9,8 +9,11 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1014 | [在 D 天内送达包裹的能力](https://github.com/openset/leetcode/tree/master/problems/capacity-to-ship-packages-within-d-days) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
-| 1013 | [总持续时间可被 60 整除的歌曲](https://github.com/openset/leetcode/tree/master/problems/pairs-of-songs-with-total-durations-divisible-by-60) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
+| 1018 | [可被 5 整除的二进制前缀](https://github.com/openset/leetcode/tree/master/problems/binary-prefix-divisible-by-5) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
+| 1014 | [最佳观光组合](https://github.com/openset/leetcode/tree/master/problems/best-sightseeing-pair) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
+| 1013 | [将数组分成和相等的三个部分](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-three-parts-with-equal-sum) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
+| 1011 | [在 D 天内送达包裹的能力](https://github.com/openset/leetcode/tree/master/problems/capacity-to-ship-packages-within-d-days) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
+| 1010 | [总持续时间可被 60 整除的歌曲](https://github.com/openset/leetcode/tree/master/problems/pairs-of-songs-with-total-durations-divisible-by-60) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1007 | [行相等的最少多米诺旋转](https://github.com/openset/leetcode/tree/master/problems/minimum-domino-rotations-for-equal-row) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 1002 | [查找常用字符](https://github.com/openset/leetcode/tree/master/problems/find-common-characters) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
 | 999 | [车的可用捕获量](https://github.com/openset/leetcode/tree/master/problems/available-captures-for-rook) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
