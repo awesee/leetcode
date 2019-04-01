@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/capacity-to-ship-packages-within-d-days "Capacity To Ship Packages Within D Days")
 
-## 1013. Pairs of Songs With Total Durations Divisible by 60 (Easy)
+## 1010. Pairs of Songs With Total Durations Divisible by 60 (Easy)
 
 <p>In a list of songs, the <code>i</code>-th&nbsp;song has a duration of&nbsp;<code>time[i]</code> seconds.&nbsp;</p>
 

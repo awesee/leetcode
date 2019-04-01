@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-integer-divisible-by-k "Smallest Integer Divisible by K")
 
-## 1021. Best Sightseeing Pair (Medium)
+## 1014. Best Sightseeing Pair (Medium)
 
 <p>Given an array <code>A</code> of positive integers, <code>A[i]</code> represents the value of the <code>i</code>-th sightseeing spot, and two&nbsp;sightseeing spots <code>i</code> and <code>j</code>&nbsp;have distance <code>j - i</code>&nbsp;between them.</p>
 

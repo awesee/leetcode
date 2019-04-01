@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/next-greater-node-in-linked-list "Next Greater Node In Linked List")
 
-## 1029. Binary Prefix Divisible By 5 (Easy)
+## 1018. Binary Prefix Divisible By 5 (Easy)
 
 <p>Given an array <code>A</code> of <code>0</code>s and <code>1</code>s, consider <code>N_i</code>: the i-th subarray from <code>A[0]</code> to <code>A[i]</code>&nbsp;interpreted&nbsp;as a binary number (from most-significant-bit to least-significant-bit.)</p>
 
