@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1016 | [子串能表示从 1 到 N 数字的二进制串](https://github.com/openset/leetcode/tree/master/problems/binary-string-with-substrings-representing-1-to-n) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 1003 | [检查替换后的词是否有效](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 966 | [元音拼写检查器](https://github.com/openset/leetcode/tree/master/problems/vowel-spellchecker) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 937 | [重新排列日志文件](https://github.com/openset/leetcode/tree/master/problems/reorder-log-files) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |

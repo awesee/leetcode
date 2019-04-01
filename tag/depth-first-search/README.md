@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1020 | [飞地的数量](https://github.com/openset/leetcode/tree/master/problems/number-of-enclaves) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
 | 988 | [从叶结点开始的最小字符串](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
 | 980 | [不同路径 III](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
 | 979 | [在二叉树中分配硬币](https://github.com/openset/leetcode/tree/master/problems/distribute-coins-in-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |

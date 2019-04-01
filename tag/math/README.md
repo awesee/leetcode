@@ -9,8 +9,10 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1015 | [至少有 1 位重复的数字](https://github.com/openset/leetcode/tree/master/problems/numbers-with-repeated-digits) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1012 | [十进制整数的反码](https://github.com/openset/leetcode/tree/master/problems/complement-of-base-10-integer) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
+| 1017 | [负二进制转换](https://github.com/openset/leetcode/tree/master/problems/convert-to-base-2) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
+| 1015 | [可被 K 整除的最小整数](https://github.com/openset/leetcode/tree/master/problems/smallest-integer-divisible-by-k) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
+| 1012 | [至少有 1 位重复的数字](https://github.com/openset/leetcode/tree/master/problems/numbers-with-repeated-digits) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
+| 1009 | [十进制整数的反码](https://github.com/openset/leetcode/tree/master/problems/complement-of-base-10-integer) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 1006 | [笨阶乘](https://github.com/openset/leetcode/tree/master/problems/clumsy-factorial) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 996 | [正方形数组的数目](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
 | 991 | [坏了的计算器](https://github.com/openset/leetcode/tree/master/problems/broken-calculator) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
