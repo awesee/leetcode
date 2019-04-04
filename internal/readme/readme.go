@@ -3,7 +3,7 @@ package readme
 import (
 	"bytes"
 	"fmt"
-	"strings"
+	"path"
 
 	"github.com/openset/leetcode/internal/base"
 	"github.com/openset/leetcode/internal/leetcode"
@@ -34,37 +34,59 @@ func runReadme(cmd *base.Command, args []string) {
 
 func writeProblems(buf *bytes.Buffer) {
 	problems := leetcode.ProblemsAll().StatStatusPairs
-	if len(problems) > 0 {
-		maxId := problems[0].Stat.FrontendQuestionId
-		// table
-		step, long := 50, 300
-		buf.WriteString("<table><thead>\n")
-		for i := 0; i < maxId; i += long {
-			buf.WriteString("<tr>\n")
-			for j := 0; j < long/step; j++ {
-				buf.WriteString(fmt.Sprintf("\t<th align=\"center\"><a href=\"#%d\">[%d-%d]</a></th>\n", i+j*step+step, 1+i+j*step, i+j*step+step))
-			}
-			buf.WriteString("</tr>\n")
-		}
-		buf.WriteString("</thead></table>\n\n")
+	count := len(problems)
+	if count > 0 {
+		maxId = problems[0].Stat.FrontendQuestionId
+		writeNav(buf)
 		// list
 		buf.WriteString("| # | Title | Solution | Difficulty |\n")
 		buf.WriteString("| :-: | - | - | :-: |\n")
-		for _, problem := range problems {
-			id := problem.Stat.FrontendQuestionId
-			stat := problem.Stat
-			title := strings.TrimSpace(problem.Stat.QuestionTitle)
-			titleSlug := stat.QuestionTitleSlug
-			levelName := problem.Difficulty.LevelName()
-			format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s%s)%s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s) | %s |\n"
-			buf.WriteString(fmt.Sprintf(format, id, id, title, titleSlug, stat.TranslationTitle(), problem.PaidOnly.Str(), stat.Lang(), titleSlug, levelName))
+		n := buf.Len()
+		for i := 1; i < maxId/pageSize; i++ {
+			for problems[count-1].Stat.FrontendQuestionId <= pageSize*i {
+				count--
+				problems[count].WriteRow(buf)
+			}
+			fileName := path.Join("readme", fmt.Sprintf("%d-%d.md", pageSize*(i-1)+1, pageSize*i))
+			base.FilePutContents(fileName, buf.Bytes())
+			buf.Truncate(n)
+		}
+		for _, problem := range problems[0:count] {
+			problem.WriteRow(buf)
 		}
 	}
+}
+
+func writeNav(buf *bytes.Buffer) {
+	// table
+	buf.WriteString("<table><thead>\n")
+	for i := 0; i < maxId; i += step * num {
+		buf.WriteString("<tr>\n")
+		for j := 0; j < num; j++ {
+			buf.WriteString(fmt.Sprintf("\t<th align=\"center\"><a href=\"%s\">[%d-%d]</a></th>\n", linkStr(i+j*step+step), 1+i+j*step, i+j*step+step))
+		}
+		buf.WriteString("</tr>\n")
+	}
+	buf.WriteString("</thead></table>\n\n")
+}
+
+func linkStr(num int) string {
+	link := "https://github.com/openset/leetcode/blob/master/"
+	if num > maxId-maxId%pageSize-pageSize {
+		link += fmt.Sprintf("README.md#%d", num)
+	} else {
+		link += fmt.Sprintf("readme/%d-%d.md#%d", (num-1)/pageSize*pageSize+1, ((num-1)/pageSize+1)*pageSize, num-step+1)
+	}
+	return link
 }
 
 var (
 	buildCmd = "readme"
 	fileName = "README.md"
+	maxId    = 0
+	pageSize = 500
+	step     = 50
+	num      = 6
 )
 
 var defaultStr = `

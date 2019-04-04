@@ -1,8 +1,10 @@
 package leetcode
 
 import (
+	"bytes"
 	"fmt"
 	"sort"
+	"strings"
 
 	"github.com/openset/leetcode/internal/client"
 )
@@ -59,6 +61,16 @@ type difficultyType struct {
 }
 
 type paidType bool
+
+func (problem statStatusPairsType) WriteRow(buf *bytes.Buffer) {
+	format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s%s)%s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s) | %s |\n"
+	id := problem.Stat.FrontendQuestionId
+	stat := problem.Stat
+	title := strings.TrimSpace(problem.Stat.QuestionTitle)
+	titleSlug := stat.QuestionTitleSlug
+	levelName := problem.Difficulty.LevelName()
+	buf.WriteString(fmt.Sprintf(format, id, id, title, titleSlug, stat.TranslationTitle(), problem.PaidOnly.Str(), stat.Lang(), titleSlug, levelName))
+}
 
 func (p paidType) Str() string {
 	if p {
