@@ -19,20 +19,20 @@ LeetCode Problems' Solutions
 
 <table><thead>
 <tr>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-500.md#1">[1-50]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-500.md#51">[51-100]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-500.md#101">[101-150]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-500.md#151">[151-200]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-500.md#201">[201-250]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-500.md#251">[251-300]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#1">[1-50]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#51">[51-100]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#101">[101-150]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#151">[151-200]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#201">[201-250]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#251">[251-300]</a></th>
 </tr>
 <tr>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-500.md#301">[301-350]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-500.md#351">[351-400]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-500.md#401">[401-450]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-500.md#451">[451-500]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#550">[501-550]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#600">[551-600]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/301-600.md#301">[301-350]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/301-600.md#351">[351-400]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/301-600.md#401">[401-450]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/301-600.md#451">[451-500]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/301-600.md#501">[501-550]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/301-600.md#551">[551-600]</a></th>
 </tr>
 <tr>
 	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#650">[601-650]</a></th>
@@ -473,99 +473,3 @@ LeetCode Problems' Solutions
 | <span id="603">603</span> | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/consecutive-available-seats) | Easy |
 | <span id="602">602</span> | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/friend-requests-ii-who-has-the-most-friends) | Medium |
 | <span id="601">601</span> | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium "体育馆的人流量") | [MySQL](https://github.com/openset/leetcode/tree/master/problems/human-traffic-of-stadium) | Hard |
-| <span id="600">600</span> | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones "不含连续1的非负整数") | [Go](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones) | Hard |
-| <span id="599">599</span> | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists "两个列表的最小索引总和") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-index-sum-of-two-lists) | Easy |
-| <span id="598">598</span> | [Range Addition II](https://leetcode.com/problems/range-addition-ii "范围求和 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/range-addition-ii) | Easy |
-| <span id="597">597</span> | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/friend-requests-i-overall-acceptance-rate) | Easy |
-| <span id="596">596</span> | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students "超过5名学生的课") | [MySQL](https://github.com/openset/leetcode/tree/master/problems/classes-more-than-5-students) | Easy |
-| <span id="595">595</span> | [Big Countries](https://leetcode.com/problems/big-countries "大的国家") | [MySQL](https://github.com/openset/leetcode/tree/master/problems/big-countries) | Easy |
-| <span id="594">594</span> | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence "最长和谐子序列") | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-harmonious-subsequence) | Easy |
-| <span id="593">593</span> | [Valid Square](https://leetcode.com/problems/valid-square "有效的正方形") | [Go](https://github.com/openset/leetcode/tree/master/problems/valid-square) | Medium |
-| <span id="592">592</span> | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction "分数加减运算") | [Go](https://github.com/openset/leetcode/tree/master/problems/fraction-addition-and-subtraction) | Medium |
-| <span id="591">591</span> | [Tag Validator](https://leetcode.com/problems/tag-validator "标签验证器") | [Go](https://github.com/openset/leetcode/tree/master/problems/tag-validator) | Hard |
-| <span id="590">590</span> | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal "N叉树的后序遍历") | [Go](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-postorder-traversal) | Easy |
-| <span id="589">589</span> | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal "N叉树的前序遍历") | [Go](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-preorder-traversal) | Easy |
-| <span id="588">588</span> | [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/design-in-memory-file-system) | Hard |
-| <span id="587">587</span> | [Erect the Fence](https://leetcode.com/problems/erect-the-fence "安装栅栏") | [Go](https://github.com/openset/leetcode/tree/master/problems/erect-the-fence) | Hard |
-| <span id="586">586</span> | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/customer-placing-the-largest-number-of-orders) | Easy |
-| <span id="585">585</span> | [Investments in 2016](https://leetcode.com/problems/investments-in-2016) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/investments-in-2016) | Medium |
-| <span id="584">584</span> | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/find-customer-referee) | Easy |
-| <span id="583">583</span> | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings "两个字符串的删除操作") | [Go](https://github.com/openset/leetcode/tree/master/problems/delete-operation-for-two-strings) | Medium |
-| <span id="582">582</span> | [Kill Process](https://leetcode.com/problems/kill-process) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/kill-process) | Medium |
-| <span id="581">581</span> | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray "最短无序连续子数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/shortest-unsorted-continuous-subarray) | Easy |
-| <span id="580">580</span> | [Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/count-student-number-in-departments) | Medium |
-| <span id="579">579</span> | [Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/find-cumulative-salary-of-an-employee) | Hard |
-| <span id="578">578</span> | [Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/get-highest-answer-rate-question) | Medium |
-| <span id="577">577</span> | [Employee Bonus](https://leetcode.com/problems/employee-bonus) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/employee-bonus) | Easy |
-| <span id="576">576</span> | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths "出界的路径数") | [Go](https://github.com/openset/leetcode/tree/master/problems/out-of-boundary-paths) | Medium |
-| <span id="575">575</span> | [Distribute Candies](https://leetcode.com/problems/distribute-candies "分糖果") | [Go](https://github.com/openset/leetcode/tree/master/problems/distribute-candies) | Easy |
-| <span id="574">574</span> | [Winning Candidate](https://leetcode.com/problems/winning-candidate) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/winning-candidate) | Medium |
-| <span id="573">573</span> | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/squirrel-simulation) | Medium |
-| <span id="572">572</span> | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree "另一个树的子树") | [Go](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree) | Easy |
-| <span id="571">571</span> | [Find Median Given Frequency of Numbers](https://leetcode.com/problems/find-median-given-frequency-of-numbers) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/find-median-given-frequency-of-numbers) | Hard |
-| <span id="570">570</span> | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/managers-with-at-least-5-direct-reports) | Medium |
-| <span id="569">569</span> | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/median-employee-salary) | Hard |
-| <span id="568">568</span> | [Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-vacation-days) | Hard |
-| <span id="567">567</span> | [Permutation in String](https://leetcode.com/problems/permutation-in-string "字符串的排列") | [Go](https://github.com/openset/leetcode/tree/master/problems/permutation-in-string) | Medium |
-| <span id="566">566</span> | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix "重塑矩阵") | [Go](https://github.com/openset/leetcode/tree/master/problems/reshape-the-matrix) | Easy |
-| <span id="565">565</span> | [Array Nesting](https://leetcode.com/problems/array-nesting "数组嵌套") | [Go](https://github.com/openset/leetcode/tree/master/problems/array-nesting) | Medium |
-| <span id="564">564</span> | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome "寻找最近的回文数") | [Go](https://github.com/openset/leetcode/tree/master/problems/find-the-closest-palindrome) | Hard |
-| <span id="563">563</span> | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt "二叉树的坡度") | [Go](https://github.com/openset/leetcode/tree/master/problems/binary-tree-tilt) | Easy |
-| <span id="562">562</span> | [Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-line-of-consecutive-one-in-matrix) | Medium |
-| <span id="561">561</span> | [Array Partition I](https://leetcode.com/problems/array-partition-i "数组拆分 I") | [Go](https://github.com/openset/leetcode/tree/master/problems/array-partition-i) | Easy |
-| <span id="560">560</span> | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k "和为K的子数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) | Medium |
-| <span id="559">559</span> | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree "N叉树的最大深度") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-n-ary-tree) | Easy |
-| <span id="558">558</span> | [Quad Tree Intersection](https://leetcode.com/problems/quad-tree-intersection "四叉树交集") | [Go](https://github.com/openset/leetcode/tree/master/problems/quad-tree-intersection) | Easy |
-| <span id="557">557</span> | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii "反转字符串中的单词 III") | [Go](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-iii) | Easy |
-| <span id="556">556</span> | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii "下一个更大元素 III") | [Go](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-iii) | Medium |
-| <span id="555">555</span> | [Split Concatenated Strings](https://leetcode.com/problems/split-concatenated-strings) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/split-concatenated-strings) | Medium |
-| <span id="554">554</span> | [Brick Wall](https://leetcode.com/problems/brick-wall "砖墙") | [Go](https://github.com/openset/leetcode/tree/master/problems/brick-wall) | Medium |
-| <span id="553">553</span> | [Optimal Division](https://leetcode.com/problems/optimal-division "最优除法") | [Go](https://github.com/openset/leetcode/tree/master/problems/optimal-division) | Medium |
-| <span id="552">552</span> | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii "学生出勤记录 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-ii) | Hard |
-| <span id="551">551</span> | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i "学生出勤记录 I") | [Go](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-i) | Easy |
-| <span id="549">549</span> | [Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence-ii) | Medium |
-| <span id="548">548</span> | [Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/split-array-with-equal-sum) | Medium |
-| <span id="547">547</span> | [Friend Circles](https://leetcode.com/problems/friend-circles "朋友圈") | [Go](https://github.com/openset/leetcode/tree/master/problems/friend-circles) | Medium |
-| <span id="546">546</span> | [Remove Boxes](https://leetcode.com/problems/remove-boxes "移除盒子") | [Go](https://github.com/openset/leetcode/tree/master/problems/remove-boxes) | Hard |
-| <span id="545">545</span> | [Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/boundary-of-binary-tree) | Medium |
-| <span id="544">544</span> | [Output Contest Matches](https://leetcode.com/problems/output-contest-matches) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/output-contest-matches) | Medium |
-| <span id="543">543</span> | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree "二叉树的直径") | [Go](https://github.com/openset/leetcode/tree/master/problems/diameter-of-binary-tree) | Easy |
-| <span id="542">542</span> | [01 Matrix](https://leetcode.com/problems/01-matrix "01 矩阵") | [Go](https://github.com/openset/leetcode/tree/master/problems/01-matrix) | Medium |
-| <span id="541">541</span> | [Reverse String II](https://leetcode.com/problems/reverse-string-ii "反转字符串 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/reverse-string-ii) | Easy |
-| <span id="540">540</span> | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array "有序数组中的单一元素") | [Go](https://github.com/openset/leetcode/tree/master/problems/single-element-in-a-sorted-array) | Medium |
-| <span id="539">539</span> | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference "最小时间差") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-time-difference) | Medium |
-| <span id="538">538</span> | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree "把二叉搜索树转换为累加树") | [Go](https://github.com/openset/leetcode/tree/master/problems/convert-bst-to-greater-tree) | Easy |
-| <span id="537">537</span> | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication "复数乘法") | [Go](https://github.com/openset/leetcode/tree/master/problems/complex-number-multiplication) | Medium |
-| <span id="536">536</span> | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-string) | Medium |
-| <span id="535">535</span> | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl "TinyURL 的加密与解密") | [Go](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-tinyurl) | Medium |
-| <span id="533">533</span> | [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-ii) | Medium |
-| <span id="532">532</span> | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array "数组中的K-diff数对") | [Go](https://github.com/openset/leetcode/tree/master/problems/k-diff-pairs-in-an-array) | Easy |
-| <span id="531">531</span> | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-i) | Medium |
-| <span id="530">530</span> | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst "二叉搜索树的最小绝对差") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference-in-bst) | Easy |
-| <span id="529">529</span> | [Minesweeper](https://leetcode.com/problems/minesweeper "扫雷游戏") | [Go](https://github.com/openset/leetcode/tree/master/problems/minesweeper) | Medium |
-| <span id="528">528</span> | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight "按权重随机选择") | [Go](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-weight) | Medium |
-| <span id="527">527</span> | [Word Abbreviation](https://leetcode.com/problems/word-abbreviation) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/word-abbreviation) | Hard |
-| <span id="526">526</span> | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement "优美的排列") | [Go](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement) | Medium |
-| <span id="525">525</span> | [Contiguous Array](https://leetcode.com/problems/contiguous-array "连续数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/contiguous-array) | Medium |
-| <span id="524">524</span> | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting "通过删除字母匹配到字典里最长单词") | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary-through-deleting) | Medium |
-| <span id="523">523</span> | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum "连续的子数组和") | [Go](https://github.com/openset/leetcode/tree/master/problems/continuous-subarray-sum) | Medium |
-| <span id="522">522</span> | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii "最长特殊序列 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-ii) | Medium |
-| <span id="521">521</span> | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i "最长特殊序列 Ⅰ") | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-i) | Easy |
-| <span id="520">520</span> | [Detect Capital](https://leetcode.com/problems/detect-capital "检测大写字母") | [Go](https://github.com/openset/leetcode/tree/master/problems/detect-capital) | Easy |
-| <span id="519">519</span> | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix "随机翻转矩阵") | [Go](https://github.com/openset/leetcode/tree/master/problems/random-flip-matrix) | Medium |
-| <span id="518">518</span> | [Coin Change 2](https://leetcode.com/problems/coin-change-2 "零钱兑换 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/coin-change-2) | Medium |
-| <span id="517">517</span> | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines "超级洗衣机") | [Go](https://github.com/openset/leetcode/tree/master/problems/super-washing-machines) | Hard |
-| <span id="516">516</span> | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence "最长回文子序列") | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-subsequence) | Medium |
-| <span id="515">515</span> | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row "在每个树行中找最大值") | [Go](https://github.com/openset/leetcode/tree/master/problems/find-largest-value-in-each-tree-row) | Medium |
-| <span id="514">514</span> | [Freedom Trail](https://leetcode.com/problems/freedom-trail "自由之路") | [Go](https://github.com/openset/leetcode/tree/master/problems/freedom-trail) | Hard |
-| <span id="513">513</span> | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value "找树左下角的值") | [Go](https://github.com/openset/leetcode/tree/master/problems/find-bottom-left-tree-value) | Medium |
-| <span id="510">510</span> | [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst-ii) | Medium |
-| <span id="509">509</span> | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number "斐波那契数") | [Go](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number) | Easy |
-| <span id="508">508</span> | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum "出现次数最多的子树元素和") | [Go](https://github.com/openset/leetcode/tree/master/problems/most-frequent-subtree-sum) | Medium |
-| <span id="507">507</span> | [Perfect Number](https://leetcode.com/problems/perfect-number "完美数") | [Go](https://github.com/openset/leetcode/tree/master/problems/perfect-number) | Easy |
-| <span id="506">506</span> | [Relative Ranks](https://leetcode.com/problems/relative-ranks "相对名次") | [Go](https://github.com/openset/leetcode/tree/master/problems/relative-ranks) | Easy |
-| <span id="505">505</span> | [The Maze II](https://leetcode.com/problems/the-maze-ii) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/the-maze-ii) | Medium |
-| <span id="504">504</span> | [Base 7](https://leetcode.com/problems/base-7 "七进制数") | [Go](https://github.com/openset/leetcode/tree/master/problems/base-7) | Easy |
-| <span id="503">503</span> | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii "下一个更大元素 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-ii) | Medium |
-| <span id="502">502</span> | [IPO](https://leetcode.com/problems/ipo "IPO") | [Go](https://github.com/openset/leetcode/tree/master/problems/ipo) | Hard |
-| <span id="501">501</span> | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree "二叉搜索树中的众数") | [Go](https://github.com/openset/leetcode/tree/master/problems/find-mode-in-binary-search-tree) | Easy |

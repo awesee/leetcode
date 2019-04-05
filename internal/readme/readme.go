@@ -84,7 +84,7 @@ var (
 	buildCmd = "readme"
 	fileName = "README.md"
 	maxId    = 0
-	pageSize = 500
+	pageSize = 300
 	step     = 50
 	num      = 6
 )
