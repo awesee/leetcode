@@ -20,6 +20,11 @@ func TestRotateString(t *testing.T) {
 			B:        "abced",
 			expected: false,
 		},
+		{
+			A:        "abcde",
+			B:        "abcdef",
+			expected: false,
+		},
 	}
 	for _, tc := range tests {
 		output := rotateString(tc.A, tc.B)
