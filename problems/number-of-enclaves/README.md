@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/next-greater-node-in-linked-list "Next Greater Node In Linked List")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-outermost-parentheses "Remove Outermost Parentheses")
 
 ## 1020. Number of Enclaves (Medium)
 
