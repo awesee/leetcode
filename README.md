@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1028">1028</span> | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal "从先序遍历还原二叉树") | [Go](https://github.com/openset/leetcode/tree/master/problems/recover-a-tree-from-preorder-traversal) | Hard |
+| <span id="1027">1027</span> | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence "最长等差数列") | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-sequence) | Medium |
+| <span id="1026">1026</span> | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor "节点与其祖先之间的最大差值") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-difference-between-node-and-ancestor) | Medium |
+| <span id="1025">1025</span> | [Divisor Game](https://leetcode.com/problems/divisor-game "除数博弈") | [Go](https://github.com/openset/leetcode/tree/master/problems/divisor-game) | Easy |
 | <span id="1024">1024</span> | [Video Stitching](https://leetcode.com/problems/video-stitching "视频拼接") | [Go](https://github.com/openset/leetcode/tree/master/problems/video-stitching) | Medium |
 | <span id="1023">1023</span> | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching "驼峰式匹配") | [Go](https://github.com/openset/leetcode/tree/master/problems/camelcase-matching) | Medium |
 | <span id="1022">1022</span> | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers "从根到叶的二进制数之和") | [Go](https://github.com/openset/leetcode/tree/master/problems/sum-of-root-to-leaf-binary-numbers) | Easy |
