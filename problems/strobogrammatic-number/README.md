@@ -20,3 +20,4 @@
 ### Similar Questions
   1. [Strobogrammatic Number II](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-ii) (Medium)
   1. [Strobogrammatic Number III](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-iii) (Hard)
+  1. [Confusing Number](https://github.com/openset/leetcode/tree/master/problems/confusing-number) (Easy)
