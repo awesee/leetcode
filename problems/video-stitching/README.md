@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/camelcase-matching "Camelcase Matching")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/divisor-game "Divisor Game")
 
 ## 5019. Video Stitching (Medium)
 
