@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/online-election "Online Election")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/sort-an-array "Sort an Array")
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/x-of-a-kind-in-a-deck-of-cards "X of a Kind in a Deck of Cards")
 

@@ -170,6 +170,7 @@ LeetCode Problems' Solutions
 | <span id="915">915</span> | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals "分割数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-disjoint-intervals) | Medium |
 | <span id="914">914</span> | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards "卡牌分组") | [Go](https://github.com/openset/leetcode/tree/master/problems/x-of-a-kind-in-a-deck-of-cards) | Easy |
 | <span id="913">913</span> | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse "猫和老鼠") | [Go](https://github.com/openset/leetcode/tree/master/problems/cat-and-mouse) | Hard |
+| <span id="912">912</span> | [Sort an Array](https://leetcode.com/problems/sort-an-array) | [Go](https://github.com/openset/leetcode/tree/master/problems/sort-an-array) | Medium |
 | <span id="911">911</span> | [Online Election](https://leetcode.com/problems/online-election "在线选举") | [Go](https://github.com/openset/leetcode/tree/master/problems/online-election) | Medium |
 | <span id="910">910</span> | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii "最小差值 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/smallest-range-ii) | Medium |
 | <span id="909">909</span> | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders "蛇梯棋") | [Go](https://github.com/openset/leetcode/tree/master/problems/snakes-and-ladders) | Medium |
