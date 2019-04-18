@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-range-ii "Smallest Range II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/cat-and-mouse "Cat and Mouse")
+[Next >](https://github.com/openset/leetcode/tree/master/problems/sort-an-array "Sort an Array")
 
 ## 911. Online Election (Medium)
 
