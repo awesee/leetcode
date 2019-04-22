@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-sequence "Longest Arithmetic Sequence")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/two-city-scheduling "Two City Scheduling")
 
 ## 5031. Recover a Tree From Preorder Traversal (Hard)
 
