@@ -9,6 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1028 | [从先序遍历还原二叉树](https://github.com/openset/leetcode/tree/master/problems/recover-a-tree-from-preorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Hard |
+| 1026 | [节点与其祖先之间的最大差值](https://github.com/openset/leetcode/tree/master/problems/maximum-difference-between-node-and-ancestor) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
+| 1022 | [从根到叶的二进制数之和](https://github.com/openset/leetcode/tree/master/problems/sum-of-root-to-leaf-binary-numbers) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
 | 1008 | [先序遍历构造二叉树](https://github.com/openset/leetcode/tree/master/problems/construct-binary-search-tree-from-preorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 998 | [最大二叉树 II](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 993 | [二叉树的堂兄弟节点](https://github.com/openset/leetcode/tree/master/problems/cousins-in-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Easy |
