@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1021 | [删除最外层的括号](https://github.com/openset/leetcode/tree/master/problems/remove-outermost-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Easy |
 | 1019 | [链表中的下一个更大节点](https://github.com/openset/leetcode/tree/master/problems/next-greater-node-in-linked-list) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
 | 1003 | [检查替换后的词是否有效](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 975 | [奇偶跳](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |

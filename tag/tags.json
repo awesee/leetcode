@@ -85,14 +85,14 @@
 		"TranslatedName": "堆"
 	},
 	{
-		"Name": "Graph",
-		"Slug": "graph",
-		"TranslatedName": "图"
-	},
-	{
 		"Name": "Sort",
 		"Slug": "sort",
 		"TranslatedName": "排序"
+	},
+	{
+		"Name": "Graph",
+		"Slug": "graph",
+		"TranslatedName": "图"
 	},
 	{
 		"Name": "Union Find",
@@ -105,14 +105,14 @@
 		"TranslatedName": "分治算法"
 	},
 	{
-		"Name": "Binary Search Tree",
-		"Slug": "binary-search-tree",
-		"TranslatedName": "二叉搜索树"
-	},
-	{
 		"Name": "Trie",
 		"Slug": "trie",
 		"TranslatedName": "字典树"
+	},
+	{
+		"Name": "Binary Search Tree",
+		"Slug": "binary-search-tree",
+		"TranslatedName": "二叉搜索树"
 	},
 	{
 		"Name": "Sliding Window",
