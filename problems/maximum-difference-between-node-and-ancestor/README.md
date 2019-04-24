@@ -9,9 +9,9 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-sequence "Longest Arithmetic Sequence")
 
-## 5030. Maximum Difference Between Node and Ancestor (Medium)
+## 1026. Maximum Difference Between Node and Ancestor (Medium)
 
-<p>Given the <code>root</code> of a binary tree, find the maximum value <code>V</code> for which there exists different nodes <code>A</code> and <code>B</code> where <code>V = |A.val - B.val|</code> and <code>A</code> is an ancestor of <code>B</code>.</p>
+<p>Given the <code>root</code> of a binary tree, find the maximum value <code>V</code> for which there exists <strong>different</strong> nodes <code>A</code> and <code>B</code> where <code>V = |A.val - B.val|</code>&nbsp;and <code>A</code> is an ancestor of <code>B</code>.</p>
 
 <p>(A node A is an ancestor of B if either: any child of A is equal to B, or any child of A is an ancestor of B.)</p>
 

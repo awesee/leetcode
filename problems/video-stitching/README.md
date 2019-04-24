@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/divisor-game "Divisor Game")
 
-## 5019. Video Stitching (Medium)
+## 1024. Video Stitching (Medium)
 
 <p>You are given a series of video clips from a sporting event that lasted <code>T</code> seconds.&nbsp;&nbsp;These video clips can be overlapping with each other and have varied lengths.</p>
 

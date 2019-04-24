@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-root-to-leaf-binary-numbers "Sum of Root To Leaf Binary Numbers")
 
-## 5016. Remove Outermost Parentheses (Easy)
+## 1021. Remove Outermost Parentheses (Easy)
 
 <p>A valid parentheses string is either empty <code>(&quot;&quot;)</code>, <code>&quot;(&quot; + A + &quot;)&quot;</code>, or <code>A + B</code>, where <code>A</code> and <code>B</code> are valid parentheses strings, and <code>+</code> represents string concatenation.&nbsp; For example, <code>&quot;&quot;</code>, <code>&quot;()&quot;</code>, <code>&quot;(())()&quot;</code>, and <code>&quot;(()(()))&quot;</code> are all valid parentheses strings.</p>
 
