@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/two-city-scheduling "Two City Scheduling")
 
-## 5031. Recover a Tree From Preorder Traversal (Hard)
+## 1028. Recover a Tree From Preorder Traversal (Hard)
 
 <p>We run a&nbsp;preorder&nbsp;depth first search on the <code>root</code> of a binary tree.</p>
 
@@ -59,7 +59,7 @@
 <p><strong>Note:</strong></p>
 
 <ul>
-	<li>The number of nodes in the original tree is between <code>1</code> and <code>1000</code>.<code>&nbsp;</code></li>
+	<li>The number of nodes in the original tree is between <code>1</code> and <code>1000</code>.</li>
 	<li>Each node will have a value between <code>1</code> and <code>10^9</code>.</li>
 </ul>
 </div>
