@@ -40,3 +40,9 @@
 
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+We only need to check substrings of length at most 20, because 10^6 has 20 bits.
+</details>

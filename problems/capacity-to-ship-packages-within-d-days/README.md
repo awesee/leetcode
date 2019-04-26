@@ -71,3 +71,9 @@ A ship capacity of 6 is the minimum to ship all the packages in 3 days like this
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Binary search on the answer.  We need a function possible(capacity) which returns true if and only if we can do the task in D days.
+</details>

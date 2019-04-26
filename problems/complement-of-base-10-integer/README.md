@@ -62,3 +62,9 @@
 
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+A binary number plus its complement will equal 111....111 in binary.  Also, N = 0 is a corner case.
+</details>
