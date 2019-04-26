@@ -55,3 +55,10 @@
 
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+If we have three parts with the same sum, what is the sum of each?
+If you can find the first part, can you find the second part?
+</details>
