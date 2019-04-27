@@ -148,7 +148,7 @@ LeetCode Problems' Solutions
 | <span id="941">941</span> | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array "有效的山脉数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/valid-mountain-array) | Easy |
 | <span id="940">940</span> | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii "不同的子序列 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/distinct-subsequences-ii) | Hard |
 | <span id="939">939</span> | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle "最小面积矩形") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle) | Medium |
-| <span id="938">938</span> | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst "二叉搜索树的范围和") | [Go](https://github.com/openset/leetcode/tree/master/problems/range-sum-of-bst) | Medium |
+| <span id="938">938</span> | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst "二叉搜索树的范围和") | [Go](https://github.com/openset/leetcode/tree/master/problems/range-sum-of-bst) | Easy |
 | <span id="937">937</span> | [Reorder Log Files](https://leetcode.com/problems/reorder-log-files "重新排列日志文件") | [Go](https://github.com/openset/leetcode/tree/master/problems/reorder-log-files) | Easy |
 | <span id="936">936</span> | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence "戳印序列") | [Go](https://github.com/openset/leetcode/tree/master/problems/stamping-the-sequence) | Hard |
 | <span id="935">935</span> | [Knight Dialer](https://leetcode.com/problems/knight-dialer "骑士拨号器") | [Go](https://github.com/openset/leetcode/tree/master/problems/knight-dialer) | Medium |
@@ -174,7 +174,7 @@ LeetCode Problems' Solutions
 | <span id="915">915</span> | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals "分割数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-disjoint-intervals) | Medium |
 | <span id="914">914</span> | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards "卡牌分组") | [Go](https://github.com/openset/leetcode/tree/master/problems/x-of-a-kind-in-a-deck-of-cards) | Easy |
 | <span id="913">913</span> | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse "猫和老鼠") | [Go](https://github.com/openset/leetcode/tree/master/problems/cat-and-mouse) | Hard |
-| <span id="912">912</span> | [Sort an Array](https://leetcode.com/problems/sort-an-array) | [Go](https://github.com/openset/leetcode/tree/master/problems/sort-an-array) | Medium |
+| <span id="912">912</span> | [Sort an Array](https://leetcode.com/problems/sort-an-array "排序数组") | [Go](https://github.com/openset/leetcode/tree/master/problems/sort-an-array) | Medium |
 | <span id="911">911</span> | [Online Election](https://leetcode.com/problems/online-election "在线选举") | [Go](https://github.com/openset/leetcode/tree/master/problems/online-election) | Medium |
 | <span id="910">910</span> | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii "最小差值 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/smallest-range-ii) | Medium |
 | <span id="909">909</span> | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders "蛇梯棋") | [Go](https://github.com/openset/leetcode/tree/master/problems/snakes-and-ladders) | Medium |
