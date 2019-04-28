@@ -44,6 +44,8 @@
 0 &nbsp;1 &nbsp;2 &nbsp;3 &nbsp;4 &nbsp;5 &nbsp;6
 </pre>
 
+<p><strong>NOTE:</strong>&nbsp;input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</p>
+
 ### Related Topics
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

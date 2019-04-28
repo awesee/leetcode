@@ -29,6 +29,8 @@
 <strong>Output:</strong> [[1,2],[3,10],[12,16]]
 <strong>Explanation:</strong> Because the new interval <code>[4,8]</code> overlaps with <code>[3,5],[6,7],[8,10]</code>.</pre>
 
+<p><strong>NOTE:</strong>&nbsp;input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</p>
+
 ### Related Topics
   [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
