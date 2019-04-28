@@ -39,6 +39,8 @@
 	<li><code>0 &lt;= B.length &lt; 1000</code></li>
 	<li><code>0 &lt;= A[i].start, A[i].end, B[i].start, B[i].end &lt; 10^9</code></li>
 </ol>
+
+<p><strong>NOTE:</strong>&nbsp;input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</p>
 </div>
 
 ### Related Topics
