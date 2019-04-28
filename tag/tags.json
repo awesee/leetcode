@@ -110,9 +110,9 @@
 		"TranslatedName": "字典树"
 	},
 	{
-		"Name": "Binary Search Tree",
-		"Slug": "binary-search-tree",
-		"TranslatedName": "二叉搜索树"
+		"Name": "Recursion",
+		"Slug": "recursion",
+		"TranslatedName": "递归"
 	},
 	{
 		"Name": "Sliding Window",
@@ -120,14 +120,9 @@
 		"TranslatedName": ""
 	},
 	{
-		"Name": "Recursion",
-		"Slug": "recursion",
-		"TranslatedName": "递归"
-	},
-	{
-		"Name": "Queue",
-		"Slug": "queue",
-		"TranslatedName": "队列"
+		"Name": "Ordered Map",
+		"Slug": "ordered-map",
+		"TranslatedName": ""
 	},
 	{
 		"Name": "Segment Tree",
@@ -135,19 +130,24 @@
 		"TranslatedName": "线段树"
 	},
 	{
+		"Name": "Queue",
+		"Slug": "queue",
+		"TranslatedName": "队列"
+	},
+	{
 		"Name": "Minimax",
 		"Slug": "minimax",
 		"TranslatedName": "极小化极大"
 	},
 	{
-		"Name": "Random",
-		"Slug": "random",
-		"TranslatedName": ""
-	},
-	{
 		"Name": "Binary Indexed Tree",
 		"Slug": "binary-indexed-tree",
 		"TranslatedName": "树状数组"
+	},
+	{
+		"Name": "Random",
+		"Slug": "random",
+		"TranslatedName": ""
 	},
 	{
 		"Name": "Topological Sort",
@@ -165,11 +165,6 @@
 		"TranslatedName": "几何"
 	},
 	{
-		"Name": "Map",
-		"Slug": "map",
-		"TranslatedName": ""
-	},
-	{
 		"Name": "Rejection Sampling",
 		"Slug": "rejection-sampling",
 		"TranslatedName": ""
@@ -183,5 +178,15 @@
 		"Name": "Memoization",
 		"Slug": "memoization",
 		"TranslatedName": "记忆化"
+	},
+	{
+		"Name": "Binary Search Tree",
+		"Slug": "binary-search-tree",
+		"TranslatedName": "二叉搜索树"
+	},
+	{
+		"Name": "Map",
+		"Slug": "map",
+		"TranslatedName": ""
 	}
 ]
