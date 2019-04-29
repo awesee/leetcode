@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-two-non-overlapping-subarrays "Maximum Sum of Two Non-Overlapping Subarrays")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive "Moving Stones Until Consecutive")
 
 ## 1032. Stream of Characters (Hard)
 

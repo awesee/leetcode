@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1036">1036</span> | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze "逃离大迷宫") | [Go](https://github.com/openset/leetcode/tree/master/problems/escape-a-large-maze) | Hard |
+| <span id="1035">1035</span> | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines "不相交的线") | [Go](https://github.com/openset/leetcode/tree/master/problems/uncrossed-lines) | Medium |
+| <span id="1034">1034</span> | [Coloring A Border](https://leetcode.com/problems/coloring-a-border "边框着色") | [Go](https://github.com/openset/leetcode/tree/master/problems/coloring-a-border) | Medium |
+| <span id="1033">1033</span> | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive "移动石子直到连续") | [Go](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive) | Easy |
 | <span id="1032">1032</span> | [Stream of Characters](https://leetcode.com/problems/stream-of-characters "字符流") | [Go](https://github.com/openset/leetcode/tree/master/problems/stream-of-characters) | Hard |
 | <span id="1031">1031</span> | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays "两个非重叠子数组的最大和") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-two-non-overlapping-subarrays) | Medium |
 | <span id="1030">1030</span> | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order "距离顺序排列矩阵单元格") | [Go](https://github.com/openset/leetcode/tree/master/problems/matrix-cells-in-distance-order) | Easy |
