@@ -38,7 +38,7 @@ and that &quot;hit&quot; isn&#39;t the answer even though it occurs more because
 
 <ul>
 	<li><code>1 &lt;= paragraph.length &lt;= 1000</code>.</li>
-	<li><code>1 &lt;= banned.length &lt;= 100</code>.</li>
+	<li><code>0 &lt;= banned.length &lt;= 100</code>.</li>
 	<li><code>1 &lt;= banned[i].length &lt;= 10</code>.</li>
 	<li>The answer is unique, and written in lowercase (even if its occurrences in <code>paragraph</code>&nbsp;may have&nbsp;uppercase symbols, and even if it is a proper noun.)</li>
 	<li><code>paragraph</code> only consists of letters, spaces, or the punctuation symbols <code>!?&#39;,;.</code></li>
