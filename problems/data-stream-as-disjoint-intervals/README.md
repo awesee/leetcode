@@ -29,7 +29,8 @@ What if there are lots of merges and the number of disjoint intervals are small 
 <p><strong>NOTE:</strong>&nbsp;input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</p>
 
 ### Related Topics
-  [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
 
 ### Similar Questions
   1. [Summary Ranges](https://github.com/openset/leetcode/tree/master/problems/summary-ranges) (Medium)

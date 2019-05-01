@@ -14,5 +14,4 @@
 
 
 ### Related Topics
-  [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]

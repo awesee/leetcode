@@ -14,7 +14,8 @@
 
 
 ### Related Topics
-  [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
 
 ### Similar Questions
   1. [Delete Node in a BST](https://github.com/openset/leetcode/tree/master/problems/delete-node-in-a-bst) (Medium)

@@ -50,8 +50,7 @@ the time [40, 50) will be single booked, and the time [50, 55) will be double bo
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
 
 ### Similar Questions
   1. [My Calendar I](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i) (Medium)
