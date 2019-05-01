@@ -74,7 +74,7 @@ Thus, we return an answer of <code>[2, 5, 5]</code>.
 
 ### Related Topics
   [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
 
 ### Similar Questions
   1. [The Skyline Problem](https://github.com/openset/leetcode/tree/master/problems/the-skyline-problem) (Hard)
