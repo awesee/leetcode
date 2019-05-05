@@ -9,3 +9,5 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 855 | [考场就座](https://github.com/openset/leetcode/tree/master/problems/exam-room) | [[Map](https://github.com/openset/leetcode/tree/master/tag/map/README.md)]  | Medium |
+| 846 | [一手顺子](https://github.com/openset/leetcode/tree/master/problems/hand-of-straights) | [[Map](https://github.com/openset/leetcode/tree/master/tag/map/README.md)]  | Medium |
