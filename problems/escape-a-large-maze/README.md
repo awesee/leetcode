@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 Next >
 
-## 5042. Escape a Large Maze (Hard)
+## 1036. Escape a Large Maze (Hard)
 
 <p>In a 1 million by 1 million grid, the coordinates of each grid square are <code>(x, y)</code> with <code>0 &lt;= x, y &lt; 10^6</code>.</p>
 
@@ -49,3 +49,16 @@ Because there are no blocked cells, it&#39;s possible to reach the target square
 	<li><code>0 &lt;= source[i][j], target[i][j] &lt; 10^6</code></li>
 	<li><code>source != target</code></li>
 </ol>
+
+### Related Topics
+  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+If we become stuck, there's either a loop around the source or around the target.
+</details>
+<details>
+<summary>Hint 2</summary>
+If there is a loop around say, the source, what is the maximum number of squares it can have?
+</details>

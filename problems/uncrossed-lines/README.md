@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/escape-a-large-maze "Escape a Large Maze")
 
-## 5041. Uncrossed Lines (Medium)
+## 1035. Uncrossed Lines (Medium)
 
 <p>We write the integers of <code>A</code> and <code>B</code>&nbsp;(in the order they are given) on two separate horizontal lines.</p>
 
@@ -52,5 +52,17 @@ We cannot draw 3 uncrossed lines, because the line from A[1]=4 to B[2]=4 will in
 <ol>
 	<li><code>1 &lt;= A.length &lt;= 500</code></li>
 	<li><code>1 &lt;= B.length &lt;= 500</code></li>
-	<li><font face="monospace">1 &lt;= A[i], B[i] &lt;= 2000</font></li>
+	<li><code><font face="monospace">1 &lt;= A[i], B[i] &lt;= 2000</font></code></li>
 </ol>
+
+### Related Topics
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
+### Similar Questions
+  1. [Edit Distance](https://github.com/openset/leetcode/tree/master/problems/edit-distance) (Hard)
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Think dynamic programming.  Given an oracle dp(i,j) that tells us how many lines A[i:], B[j:]  [the sequence A[i], A[i+1], ... and B[j], B[j+1], ...] are uncrossed, can we write this as a recursion?
+</details>

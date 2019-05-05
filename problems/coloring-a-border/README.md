@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/uncrossed-lines "Uncrossed Lines")
 
-## 5040. Coloring A Border (Medium)
+## 1034. Coloring A Border (Medium)
 
 <p>Given a 2-dimensional&nbsp;<code>grid</code> of integers, each value in the grid represents the color of the grid square at that location.</p>
 
@@ -57,3 +57,15 @@
 	<li><code>0 &lt;= c0 &lt; grid[0].length</code></li>
 	<li><code>1 &lt;= color &lt;= 1000</code></li>
 </ol>
+
+### Related Topics
+  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+
+### Similar Questions
+  1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/problems/island-perimeter) (Easy)
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Use a DFS to find every square in the component.  Then for each square, color it if it has a neighbor that is outside the grid or a different color.
+</details>
