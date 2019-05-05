@@ -183,15 +183,5 @@
 		"Name": "Memoization",
 		"Slug": "memoization",
 		"TranslatedName": "记忆化"
-	},
-	{
-		"Name": "Binary Search Tree",
-		"Slug": "binary-search-tree",
-		"TranslatedName": "二叉搜索树"
-	},
-	{
-		"Name": "Map",
-		"Slug": "map",
-		"TranslatedName": ""
 	}
 ]
