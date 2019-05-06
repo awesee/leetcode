@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/uncrossed-lines "Uncrossed Lines")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-boomerang "Valid Boomerang")
 
 ## 1036. Escape a Large Maze (Hard)
 
