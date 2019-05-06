@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1040">1040</span> | [Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii "移动石子直到连续 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive-ii) | Medium |
+| <span id="1039">1039</span> | [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon "多边形三角剖分的最低得分") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-score-triangulation-of-polygon) | Medium |
+| <span id="1038">1038</span> | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree "从二叉搜索树到更大和树") | [Go](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-to-greater-sum-tree) | Medium |
+| <span id="1037">1037</span> | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang "有效的回旋镖") | [Go](https://github.com/openset/leetcode/tree/master/problems/valid-boomerang) | Easy |
 | <span id="1036">1036</span> | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze "逃离大迷宫") | [Go](https://github.com/openset/leetcode/tree/master/problems/escape-a-large-maze) | Hard |
 | <span id="1035">1035</span> | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines "不相交的线") | [Go](https://github.com/openset/leetcode/tree/master/problems/uncrossed-lines) | Medium |
 | <span id="1034">1034</span> | [Coloring A Border](https://leetcode.com/problems/coloring-a-border "边框着色") | [Go](https://github.com/openset/leetcode/tree/master/problems/coloring-a-border) | Medium |
@@ -456,7 +460,7 @@ LeetCode Problems' Solutions
 | <span id="637">637</span> | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree "二叉树的层平均值") | [Go](https://github.com/openset/leetcode/tree/master/problems/average-of-levels-in-binary-tree) | Easy |
 | <span id="636">636</span> | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions "函数的独占时间") | [Go](https://github.com/openset/leetcode/tree/master/problems/exclusive-time-of-functions) | Medium |
 | <span id="635">635</span> | [Design Log Storage System](https://leetcode.com/problems/design-log-storage-system) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/design-log-storage-system) | Medium |
-| <span id="634">634</span> | [Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/find-the-derangement-of-an-array) | Medium |
+| <span id="634">634</span> | [Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array "寻找数组的错位排列") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/find-the-derangement-of-an-array) | Medium |
 | <span id="633">633</span> | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers "平方数之和") | [Go](https://github.com/openset/leetcode/tree/master/problems/sum-of-square-numbers) | Easy |
 | <span id="632">632</span> | [Smallest Range](https://leetcode.com/problems/smallest-range "最小区间") | [Go](https://github.com/openset/leetcode/tree/master/problems/smallest-range) | Hard |
 | <span id="631">631</span> | [Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/design-excel-sum-formula) | Hard |
