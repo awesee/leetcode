@@ -117,12 +117,12 @@
 	{
 		"Name": "Sliding Window",
 		"Slug": "sliding-window",
-		"TranslatedName": ""
+		"TranslatedName": "Sliding Window"
 	},
 	{
 		"Name": "Ordered Map",
 		"Slug": "ordered-map",
-		"TranslatedName": ""
+		"TranslatedName": "Ordered Map"
 	},
 	{
 		"Name": "Segment Tree",
@@ -147,7 +147,7 @@
 	{
 		"Name": "Random",
 		"Slug": "random",
-		"TranslatedName": ""
+		"TranslatedName": "Random"
 	},
 	{
 		"Name": "Topological Sort",
@@ -167,17 +167,22 @@
 	{
 		"Name": "Line Sweep",
 		"Slug": "line-sweep",
-		"TranslatedName": ""
+		"TranslatedName": "Line Sweep"
 	},
 	{
 		"Name": "Rejection Sampling",
 		"Slug": "rejection-sampling",
-		"TranslatedName": ""
+		"TranslatedName": "Rejection Sampling"
 	},
 	{
 		"Name": "Reservoir Sampling",
 		"Slug": "reservoir-sampling",
 		"TranslatedName": "蓄水池抽样"
+	},
+	{
+		"Name": "Binary Search Tree",
+		"Slug": "binary-search-tree",
+		"TranslatedName": "二叉搜索树"
 	},
 	{
 		"Name": "Memoization",

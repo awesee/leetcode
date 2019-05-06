@@ -53,6 +53,7 @@ func tagsUnique(tags []tagType) []tagType {
 		} else {
 			if tag.Name != "" {
 				rs[i-1].Name = tag.Name
+				rs[i-1].TranslatedName = tag.Name
 			}
 			if tag.TranslatedName != "" {
 				rs[i-1].TranslatedName = tag.TranslatedName
