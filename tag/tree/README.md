@@ -35,7 +35,7 @@
 | 814 | [二叉树剪枝](https://github.com/openset/leetcode/tree/master/problems/binary-tree-pruning) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 783 | [二叉搜索树结点最小距离](https://github.com/openset/leetcode/tree/master/problems/minimum-distance-between-bst-nodes) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Easy |
 | 776 | [Split BST](https://github.com/openset/leetcode/tree/master/problems/split-bst) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Medium |
-| 742 | [Closest Leaf in a Binary Tree](https://github.com/openset/leetcode/tree/master/problems/closest-leaf-in-a-binary-tree) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
+| 742 | [二叉树最近的叶节点](https://github.com/openset/leetcode/tree/master/problems/closest-leaf-in-a-binary-tree) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 701 | [二叉搜索树中的插入操作](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-binary-search-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 700 | [二叉搜索树中的搜索](https://github.com/openset/leetcode/tree/master/problems/search-in-a-binary-search-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
 | 687 | [最长同值路径](https://github.com/openset/leetcode/tree/master/problems/longest-univalue-path) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Easy |
@@ -44,7 +44,7 @@
 | 671 | [二叉树中第二小的节点](https://github.com/openset/leetcode/tree/master/problems/second-minimum-node-in-a-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
 | 669 | [修剪二叉搜索树](https://github.com/openset/leetcode/tree/master/problems/trim-a-binary-search-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
 | 666 | [Path Sum IV](https://github.com/openset/leetcode/tree/master/problems/path-sum-iv) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
-| 663 | [Equal Tree Partition](https://github.com/openset/leetcode/tree/master/problems/equal-tree-partition) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
+| 663 | [均匀树划分](https://github.com/openset/leetcode/tree/master/problems/equal-tree-partition) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 662 | [二叉树最大宽度](https://github.com/openset/leetcode/tree/master/problems/maximum-width-of-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 655 | [输出二叉树](https://github.com/openset/leetcode/tree/master/problems/print-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 654 | [最大二叉树](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |

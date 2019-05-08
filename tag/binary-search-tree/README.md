@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1038 | [从二叉搜索树到更大和树](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-to-greater-sum-tree) | [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]  | Medium |
 | 975 | [奇偶跳](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 938 | [二叉搜索树的范围和](https://github.com/openset/leetcode/tree/master/problems/range-sum-of-bst) | [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]  | Medium |
 | 783 | [二叉搜索树结点最小距离](https://github.com/openset/leetcode/tree/master/problems/minimum-distance-between-bst-nodes) | [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]  | Easy |

@@ -9,7 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 716 | [Max Stack](https://github.com/openset/leetcode/tree/master/problems/max-stack) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Easy |
+| 716 | [最大栈](https://github.com/openset/leetcode/tree/master/problems/max-stack) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Easy |
 | 707 | [设计链表](https://github.com/openset/leetcode/tree/master/problems/design-linked-list) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Easy |
 | 706 | [设计哈希映射](https://github.com/openset/leetcode/tree/master/problems/design-hashmap) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
 | 705 | [设计哈希集合](https://github.com/openset/leetcode/tree/master/problems/design-hashset) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
@@ -18,7 +18,7 @@
 | 635 | [Design Log Storage System](https://github.com/openset/leetcode/tree/master/problems/design-log-storage-system) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 631 | [Design Excel Sum Formula](https://github.com/openset/leetcode/tree/master/problems/design-excel-sum-formula) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Hard |
 | 622 | [设计循环队列](https://github.com/openset/leetcode/tree/master/problems/design-circular-queue) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[队列](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]  | Medium |
-| 604 | [Design Compressed String Iterator](https://github.com/openset/leetcode/tree/master/problems/design-compressed-string-iterator) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Easy |
+| 604 | [迭代压缩字符串](https://github.com/openset/leetcode/tree/master/problems/design-compressed-string-iterator) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Easy |
 | 588 | [设计内存文件系统](https://github.com/openset/leetcode/tree/master/problems/design-in-memory-file-system) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Hard |
 | 460 | [LFU缓存](https://github.com/openset/leetcode/tree/master/problems/lfu-cache) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Hard |
 | 432 | [全 O(1) 的数据结构](https://github.com/openset/leetcode/tree/master/problems/all-oone-data-structure) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Hard |

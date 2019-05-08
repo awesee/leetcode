@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1037 | [有效的回旋镖](https://github.com/openset/leetcode/tree/master/problems/valid-boomerang) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 1025 | [除数博弈](https://github.com/openset/leetcode/tree/master/problems/divisor-game) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
 | 1017 | [负二进制转换](https://github.com/openset/leetcode/tree/master/problems/convert-to-base-2) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 1015 | [可被 K 整除的最小整数](https://github.com/openset/leetcode/tree/master/problems/smallest-integer-divisible-by-k) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
@@ -60,8 +61,8 @@
 | 728 | [自除数](https://github.com/openset/leetcode/tree/master/problems/self-dividing-numbers) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 672 | [灯泡开关 Ⅱ](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher-ii) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 670 | [最大交换](https://github.com/openset/leetcode/tree/master/problems/maximum-swap) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
-| 660 | [Remove 9](https://github.com/openset/leetcode/tree/master/problems/remove-9) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
-| 651 | [4 Keys Keyboard](https://github.com/openset/leetcode/tree/master/problems/4-keys-keyboard) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
+| 660 | [移除 9](https://github.com/openset/leetcode/tree/master/problems/remove-9) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
+| 651 | [4键键盘](https://github.com/openset/leetcode/tree/master/problems/4-keys-keyboard) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 645 | [错误的集合](https://github.com/openset/leetcode/tree/master/problems/set-mismatch) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 640 | [求解方程](https://github.com/openset/leetcode/tree/master/problems/solve-the-equation) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 634 | [寻找数组的错位排列](https://github.com/openset/leetcode/tree/master/problems/find-the-derangement-of-an-array) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
@@ -112,7 +113,7 @@
 | 248 | [中心对称数 III](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-iii) 🔒 | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
 | 247 | [中心对称数 II](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-ii) 🔒 | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 246 | [中心对称数](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number) 🔒 | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
-| 233 | [数字1的个数](https://github.com/openset/leetcode/tree/master/problems/number-of-digit-one) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
+| 233 | [数字 1 的个数](https://github.com/openset/leetcode/tree/master/problems/number-of-digit-one) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
 | 231 | [2的幂](https://github.com/openset/leetcode/tree/master/problems/power-of-two) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 224 | [基本计算器](https://github.com/openset/leetcode/tree/master/problems/basic-calculator) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
 | 223 | [矩形面积](https://github.com/openset/leetcode/tree/master/problems/rectangle-area) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
