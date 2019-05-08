@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 Next >
 
-## 5049. Moving Stones Until Consecutive II (Medium)
+## 1040. Moving Stones Until Consecutive II (Medium)
 
 <p>On an <strong>infinite</strong> number line, the position of the i-th stone is given by&nbsp;<code>stones[i]</code>.&nbsp; Call a stone an <em>endpoint stone</em> if it has the smallest or largest position.</p>
 
@@ -68,3 +68,14 @@ Notice we cannot move 10 -&gt; 2 to finish the game, because that would be an il
 <div>&nbsp;</div>
 </div>
 </div>
+
+### Related Topics
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+For the minimum, how many cows are already in place?
+For the maximum, we have to lose either the gap A[1] - A[0] or A[N-1] - A[N-2]  (where N = A.length), but every other space can be occupied.
+</details>

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-score-triangulation-of-polygon "Minimum Score Triangulation of Polygon")
 
-## 5050. Binary Search Tree to Greater Sum Tree (Medium)
+## 1038. Binary Search Tree to Greater Sum Tree (Medium)
 
 <p>Given the root of a binary <strong>search</strong> tree with distinct values, modify it so that every <code>node</code>&nbsp;has a new value equal to the sum of the values of the original tree that are greater than or equal to <code>node.val</code>.</p>
 
@@ -49,3 +49,12 @@
 <div>&nbsp;</div>
 </div>
 </div>
+
+### Related Topics
+  [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+What traversal method organizes all nodes in sorted order?
+</details>
