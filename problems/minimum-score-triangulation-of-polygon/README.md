@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive-ii "Moving Stones Until Consecutive II")
 
-## 5047. Minimum Score Triangulation of Polygon (Medium)
+## 1039. Minimum Score Triangulation of Polygon (Medium)
 
 <p>Given <code>N</code>, consider a convex <code>N</code>-sided polygon with vertices labelled <code>A[0], A[i], ..., A[N-1]</code>&nbsp;in clockwise order.</p>
 
@@ -62,3 +62,12 @@
 </div>
 </div>
 </div>
+
+### Related Topics
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Without loss of generality, there is a triangle that uses adjacent vertices A[0] and A[N-1] (where N = A.length).  Depending on your choice K of it, this breaks down the triangulation into two subproblems A[1:K] and A[K+1:N-1].
+</details>

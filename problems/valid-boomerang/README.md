@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-to-greater-sum-tree "Binary Search Tree to Greater Sum Tree")
 
-## 5051. Valid Boomerang (Easy)
+## 1037. Valid Boomerang (Easy)
 
 <p>A <em>boomerang</em> is a set of 3 points that are all distinct and <strong>not</strong> in a straight line.</p>
 
@@ -45,3 +45,12 @@
 <div>
 <div>&nbsp;</div>
 </div>
+
+### Related Topics
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+3 points form a boomerang if and only if the triangle formed from them has non-zero area.
+</details>
