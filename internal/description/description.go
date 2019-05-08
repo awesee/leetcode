@@ -19,7 +19,7 @@ func runDescription(cmd *base.Command, args []string) {
 	problems := leetcode.ProblemsAll()
 	for _, problem := range problems.StatStatusPairs {
 		titleSlug := problem.Stat.QuestionTitleSlug
-		question := leetcode.QuestionData(titleSlug).Data.Question
+		question := leetcode.QuestionData(titleSlug, false).Data.Question
 		if question.Content == "" && problem.PaidOnly == true && problem.Stat.QuestionArticleLive {
 			question.Content = leetcode.GetDescription(problem.Stat.QuestionArticleSlug)
 		}
