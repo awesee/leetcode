@@ -47,7 +47,7 @@
 | 709 | [转换成小写字母](https://github.com/openset/leetcode/tree/master/problems/to-lower-case) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 696 | [计数二进制子串](https://github.com/openset/leetcode/tree/master/problems/count-binary-substrings) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 686 | [重复叠加字符串匹配](https://github.com/openset/leetcode/tree/master/problems/repeated-string-match) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
-| 681 | [Next Closest Time](https://github.com/openset/leetcode/tree/master/problems/next-closest-time) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
+| 681 | [最近时刻](https://github.com/openset/leetcode/tree/master/problems/next-closest-time) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 680 | [验证回文字符串 Ⅱ](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-ii) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 678 | [有效的括号字符串](https://github.com/openset/leetcode/tree/master/problems/valid-parenthesis-string) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 657 | [机器人能否返回原点](https://github.com/openset/leetcode/tree/master/problems/robot-return-to-origin) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |

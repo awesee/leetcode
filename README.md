@@ -411,9 +411,9 @@ LeetCode Problems' Solutions
 | <span id="686">686</span> | [Repeated String Match](https://leetcode.com/problems/repeated-string-match "重复叠加字符串匹配") | [Go](https://github.com/openset/leetcode/tree/master/problems/repeated-string-match) | Easy |
 | <span id="685">685</span> | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii "冗余连接 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/redundant-connection-ii) | Hard |
 | <span id="684">684</span> | [Redundant Connection](https://leetcode.com/problems/redundant-connection "冗余连接") | [Go](https://github.com/openset/leetcode/tree/master/problems/redundant-connection) | Medium |
-| <span id="683">683</span> | [K Empty Slots](https://leetcode.com/problems/k-empty-slots) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/k-empty-slots) | Hard |
+| <span id="683">683</span> | [K Empty Slots](https://leetcode.com/problems/k-empty-slots "K 个空花盆") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/k-empty-slots) | Hard |
 | <span id="682">682</span> | [Baseball Game](https://leetcode.com/problems/baseball-game "棒球比赛") | [Go](https://github.com/openset/leetcode/tree/master/problems/baseball-game) | Easy |
-| <span id="681">681</span> | [Next Closest Time](https://leetcode.com/problems/next-closest-time) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/next-closest-time) | Medium |
+| <span id="681">681</span> | [Next Closest Time](https://leetcode.com/problems/next-closest-time "最近时刻") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/next-closest-time) | Medium |
 | <span id="680">680</span> | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii "验证回文字符串 Ⅱ") | [Go](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-ii) | Easy |
 | <span id="679">679</span> | [24 Game](https://leetcode.com/problems/24-game "24 点游戏") | [Go](https://github.com/openset/leetcode/tree/master/problems/24-game) | Hard |
 | <span id="678">678</span> | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string "有效的括号字符串") | [Go](https://github.com/openset/leetcode/tree/master/problems/valid-parenthesis-string) | Medium |
@@ -428,7 +428,7 @@ LeetCode Problems' Solutions
 | <span id="669">669</span> | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree "修剪二叉搜索树") | [Go](https://github.com/openset/leetcode/tree/master/problems/trim-a-binary-search-tree) | Easy |
 | <span id="668">668</span> | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table "乘法表中第k小的数") | [Go](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-number-in-multiplication-table) | Hard |
 | <span id="667">667</span> | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii "优美的排列 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement-ii) | Medium |
-| <span id="666">666</span> | [Path Sum IV](https://leetcode.com/problems/path-sum-iv) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/path-sum-iv) | Medium |
+| <span id="666">666</span> | [Path Sum IV](https://leetcode.com/problems/path-sum-iv "路径和 IV") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/path-sum-iv) | Medium |
 | <span id="665">665</span> | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array "非递减数列") | [Go](https://github.com/openset/leetcode/tree/master/problems/non-decreasing-array) | Easy |
 | <span id="664">664</span> | [Strange Printer](https://leetcode.com/problems/strange-printer "奇怪的打印机") | [Go](https://github.com/openset/leetcode/tree/master/problems/strange-printer) | Hard |
 | <span id="663">663</span> | [Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition "均匀树划分") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/equal-tree-partition) | Medium |

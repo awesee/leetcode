@@ -43,7 +43,7 @@
 | 684 | [冗余连接](https://github.com/openset/leetcode/tree/master/problems/redundant-connection) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 671 | [二叉树中第二小的节点](https://github.com/openset/leetcode/tree/master/problems/second-minimum-node-in-a-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
 | 669 | [修剪二叉搜索树](https://github.com/openset/leetcode/tree/master/problems/trim-a-binary-search-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
-| 666 | [Path Sum IV](https://github.com/openset/leetcode/tree/master/problems/path-sum-iv) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
+| 666 | [路径和 IV](https://github.com/openset/leetcode/tree/master/problems/path-sum-iv) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 663 | [均匀树划分](https://github.com/openset/leetcode/tree/master/problems/equal-tree-partition) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 662 | [二叉树最大宽度](https://github.com/openset/leetcode/tree/master/problems/maximum-width-of-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 655 | [输出二叉树](https://github.com/openset/leetcode/tree/master/problems/print-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
