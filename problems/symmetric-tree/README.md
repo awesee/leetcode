@@ -13,8 +13,8 @@
 
 <p>Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).</p>
 
-<p>
-For example, this binary tree <code>[1,2,2,3,4,4,3]</code> is symmetric:
+<p>For example, this binary tree <code>[1,2,2,3,4,4,3]</code> is symmetric:</p>
+
 <pre>
     1
    / \
@@ -22,9 +22,11 @@ For example, this binary tree <code>[1,2,2,3,4,4,3]</code> is symmetric:
  / \ / \
 3  4 4  3
 </pre>
-</p>
-<p>
-But the following <code>[1,2,2,null,3,null,3]</code>  is not:<br />
+
+<p>&nbsp;</p>
+
+<p>But the following <code>[1,2,2,null,3,null,3]</code> is not:</p>
+
 <pre>
     1
    / \
@@ -32,12 +34,11 @@ But the following <code>[1,2,2,null,3,null,3]</code>  is not:<br />
    \   \
    3    3
 </pre>
-</p>
 
-<p>
-<b>Note:</b><br />
-Bonus points if you could solve it both recursively and iteratively.
-</p>
+<p>&nbsp;</p>
+
+<p><b>Note:</b><br />
+Bonus points if you could solve it both recursively and iteratively.</p>
 
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
