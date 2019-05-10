@@ -21,13 +21,16 @@
 	<li>Both the left and right subtrees must also be binary search trees.</li>
 </ul>
 
+<p>&nbsp;</p>
+
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong>
     2
    / \
   1   3
+
+<strong>Input:</strong>&nbsp;[2,1,3]
 <strong>Output:</strong> true
 </pre>
 
@@ -39,9 +42,10 @@
   1   4
 &nbsp;    / \
 &nbsp;   3   6
+
+<strong>Input:</strong> [5,1,4,null,null,3,6]
 <strong>Output:</strong> false
-<strong>Explanation:</strong> The input is: [5,1,4,null,null,3,6]. The root node&#39;s value
-&nbsp;            is 5 but its right child&#39;s value is 4.
+<strong>Explanation:</strong> The root node&#39;s value is 5 but its right child&#39;s value is 4.
 </pre>
 
 ### Related Topics

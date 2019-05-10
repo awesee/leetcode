@@ -89,3 +89,6 @@ Return false. Because two of the rectangles overlap with each other.
 </pre>
 
 <p>&nbsp;</p>
+
+### Related Topics
+  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]

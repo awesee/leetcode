@@ -44,3 +44,4 @@
 
 ### Related Topics
   [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
