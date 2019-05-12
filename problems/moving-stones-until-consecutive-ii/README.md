@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-score-triangulation-of-polygon "Minimum Score Triangulation of Polygon")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/robot-bounded-in-circle "Robot Bounded In Circle")
 
 ## 1040. Moving Stones Until Consecutive II (Medium)
 
