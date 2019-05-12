@@ -58,7 +58,7 @@
 | 769 | [最多能完成排序的块](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 768 | [最多能完成排序的块 II](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Hard |
 | 766 | [托普利茨矩阵](https://github.com/openset/leetcode/tree/master/problems/toeplitz-matrix) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
-| 755 | [Pour Water](https://github.com/openset/leetcode/tree/master/problems/pour-water) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
+| 755 | [倒水](https://github.com/openset/leetcode/tree/master/problems/pour-water) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 747 | [至少是其他数字两倍的最大数](https://github.com/openset/leetcode/tree/master/problems/largest-number-at-least-twice-of-others) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 746 | [使用最小花费爬楼梯](https://github.com/openset/leetcode/tree/master/problems/min-cost-climbing-stairs) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
 | 729 | [我的日程安排表 I](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
