@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1044 | [最长重复子串](https://github.com/openset/leetcode/tree/master/problems/longest-duplicate-substring) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
 | 1002 | [查找常用字符](https://github.com/openset/leetcode/tree/master/problems/find-common-characters) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
 | 1001 | [网格照明](https://github.com/openset/leetcode/tree/master/problems/grid-illumination) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |
 | 992 | [K 个不同整数的子数组](https://github.com/openset/leetcode/tree/master/problems/subarrays-with-k-different-integers) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Hard |
@@ -82,7 +83,7 @@
 | 311 | [稀疏矩阵的乘法](https://github.com/openset/leetcode/tree/master/problems/sparse-matrix-multiplication) 🔒 | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 299 | [猜数字游戏](https://github.com/openset/leetcode/tree/master/problems/bulls-and-cows) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 290 | [单词模式](https://github.com/openset/leetcode/tree/master/problems/word-pattern) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
-| 288 | [唯一的单词缩写](https://github.com/openset/leetcode/tree/master/problems/unique-word-abbreviation) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
+| 288 | [单词的唯一缩写](https://github.com/openset/leetcode/tree/master/problems/unique-word-abbreviation) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 274 | [H指数](https://github.com/openset/leetcode/tree/master/problems/h-index) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 266 | [回文排列](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation) 🔒 | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
 | 249 | [移位字符串分组](https://github.com/openset/leetcode/tree/master/problems/group-shifted-strings) 🔒 | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
