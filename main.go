@@ -54,6 +54,6 @@ func main() {
 			return
 		}
 	}
-	fmt.Printf("%s %s: unknown command\n", base.CmdName, cmdName)
+	fmt.Printf("%s %s: unknown command\n\n", base.CmdName, cmdName)
 	fmt.Printf("Run '%s help' for usage.\n", base.CmdName)
 }
