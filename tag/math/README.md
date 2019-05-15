@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1041 | [困于环中的机器人](https://github.com/openset/leetcode/tree/master/problems/robot-bounded-in-circle) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 1037 | [有效的回旋镖](https://github.com/openset/leetcode/tree/master/problems/valid-boomerang) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 1025 | [除数博弈](https://github.com/openset/leetcode/tree/master/problems/divisor-game) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
 | 1017 | [负二进制转换](https://github.com/openset/leetcode/tree/master/problems/convert-to-base-2) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |

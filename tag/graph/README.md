@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1043 | [分隔数组以得到最大和](https://github.com/openset/leetcode/tree/master/problems/partition-array-for-maximum-sum) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
+| 1042 | [不邻接植花](https://github.com/openset/leetcode/tree/master/problems/flower-planting-with-no-adjacent) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Easy |
 | 997 | [找到小镇的法官](https://github.com/openset/leetcode/tree/master/problems/find-the-town-judge) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Easy |
 | 996 | [正方形数组的数目](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
 | 990 | [等式方程的可满足性](https://github.com/openset/leetcode/tree/master/problems/satisfiability-of-equality-equations) | [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
