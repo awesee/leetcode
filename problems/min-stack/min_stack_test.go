@@ -10,7 +10,7 @@ type caseType struct {
 	expected []int
 }
 
-func TestConstructor(t *testing.T) {
+func TestMinStack(t *testing.T) {
 	tests := [...]caseType{
 		{
 			input:    []int{-2, 0, -3},
