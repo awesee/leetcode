@@ -28,33 +28,30 @@
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-1-1">&quot;GGLLGG&quot;</span>
-<strong>Output: </strong><span id="example-output-1">true</span>
+<strong>Input: </strong>&quot;GGLLGG&quot;
+<strong>Output: </strong>true
 <strong>Explanation: </strong>
 The robot moves from (0,0) to (0,2), turns 180 degrees, and then returns to (0,0).
 When repeating these instructions, the robot remains in the circle of radius 2 centered at the origin.
 </pre>
 
-<div>
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-2-1">&quot;GG&quot;</span>
-<strong>Output: </strong><span id="example-output-2">false</span>
+<strong>Input: </strong>&quot;GG&quot;
+<strong>Output: </strong>false
 <strong>Explanation: </strong>
-The robot moves north indefinetely.
+The robot moves north indefinitely.
 </pre>
 
-<div>
 <p><strong>Example 3:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-3-1">&quot;GL&quot;</span>
-<strong>Output: </strong><span id="example-output-3">true</span>
+<strong>Input: </strong>&quot;GL&quot;
+<strong>Output: </strong>true
 <strong>Explanation: </strong>
 The robot moves from (0, 0) -&gt; (0, 1) -&gt; (-1, 1) -&gt; (-1, 0) -&gt; (0, 0) -&gt; ...
 </pre>
-</div>
 
 <p>&nbsp;</p>
 
@@ -64,4 +61,16 @@ The robot moves from (0, 0) -&gt; (0, 1) -&gt; (-1, 1) -&gt; (-1, 0) -&gt; (0, 0
 	<li><code>1 &lt;= instructions.length &lt;= 100</code></li>
 	<li><code>instructions[i]</code> is in <code>{&#39;G&#39;, &#39;L&#39;, &#39;R&#39;}</code></li>
 </ol>
-</div>
+
+### Related Topics
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Calculate the final vector of how the robot travels after executing all instructions once - it consists of a change in position plus a change in direction.
+</details>
+<details>
+<summary>Hint 2</summary>
+The robot stays in the circle iff (looking at the final vector) it changes direction (ie. doesn't stay pointing north), or it moves 0.
+</details>

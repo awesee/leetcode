@@ -60,3 +60,12 @@
 </div>
 </div>
 </div>
+
+### Related Topics
+  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Since each garden is connected to at most 3 gardens, there's always an available color for each garden.  For example, if one garden is next to gardens with colors 1, 3, 4,  then color #2 is available.
+</details>
