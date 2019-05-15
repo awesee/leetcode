@@ -39,3 +39,17 @@ Next >
 	<li><code>2 &lt;= S.length &lt;= 10^5</code></li>
 	<li><code>S</code> consists of lowercase English letters.</li>
 </ol>
+
+### Related Topics
+  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Binary search for the length of the answer.  (If there's an answer of length 10, then there are answers of length 9, 8, 7, ...)
+</details>
+<details>
+<summary>Hint 2</summary>
+To check whether an answer of length K exists, we can use Rabin-Karp 's algorithm.
+</details>

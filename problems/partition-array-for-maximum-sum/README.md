@@ -32,3 +32,16 @@
 	<li><code>1 &lt;= K &lt;= A.length&nbsp;&lt;= 500</code></li>
 	<li><code>0 &lt;= A[i] &lt;= 10^6</code></li>
 </ol>
+
+### Related Topics
+  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Think dynamic programming:  dp[i] will be the answer for array A[0], ..., A[i-1].
+</details>
+<details>
+<summary>Hint 2</summary>
+For j = 1 .. k that keeps everything in bounds, dp[i] is the maximum of dp[i-j] + max(A[i-1], ..., A[i-j]) * j .
+</details>
