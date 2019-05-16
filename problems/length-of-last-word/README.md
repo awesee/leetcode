@@ -11,18 +11,20 @@
 
 ## 58. Length of Last Word (Easy)
 
-<p>Given a string <i>s</i> consists of upper/lower-case alphabets and empty space characters <code>' '</code>, return the length of last word in the string.</p>
+<p>Given a string <i>s</i> consists of upper/lower-case alphabets and empty space characters <code>&#39; &#39;</code>, return the length of last word in the string.</p>
 
 <p>If the last word does not exist, return 0.</p>
 
 <p><b>Note:</b> A word is defined as a character sequence consists of non-space characters only.</p>
 
-<p><b>Example:</b>
+<p><b>Example:</b></p>
+
 <pre>
-<b>Input:</b> "Hello World"
+<b>Input:</b> &quot;Hello World&quot;
 <b>Output:</b> 5
 </pre>
-</p>
+
+<p>&nbsp;</p>
 
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]

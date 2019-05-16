@@ -13,7 +13,14 @@
 
 <p>We write the integers of <code>A</code> and <code>B</code>&nbsp;(in the order they are given) on two separate horizontal lines.</p>
 
-<p>Now, we may draw a straight line connecting two numbers <code>A[i]</code> and <code>B[j]</code> as long as <code>A[i] == B[j]</code>, and the line we draw does not intersect any other connecting (non-horizontal) line.</p>
+<p>Now, we may draw <em>connecting lines</em>: a straight line connecting two numbers <code>A[i]</code> and <code>B[j]</code>&nbsp;such that:</p>
+
+<ul>
+	<li><code>A[i] == B[j]</code>;</li>
+	<li>The line we draw does not intersect any other connecting (non-horizontal) line.</li>
+</ul>
+
+<p>Note that a connecting lines cannot intersect even at the endpoints:&nbsp;each number can only belong to one connecting line.</p>
 
 <p>Return the maximum number of connecting lines we can draw in this way.</p>
 
