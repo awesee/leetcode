@@ -15,20 +15,24 @@
 
 <p>The coordinate (x,y) of a point is represented by an integer array with two integers.</p>
 
-<p><b>Example:</b><br />
+<p><b>Example:</b></p>
+
 <pre>
 <b>Input:</b> p1 = [0,0], p2 = [1,1], p3 = [1,0], p4 = [0,1]
 <b>Output:</b> True
 </pre>
-</p>
 
-<p> Note: 
+<p>&nbsp;</p>
+
+<p>Note:</p>
+
 <ol>
-<li>All the input integers are in the range [-10000, 10000].</li>
-<li>A valid square has four equal sides with positive length and four equal angles (90-degree angles).</li>
-<li>Input points have no order.</li>
+	<li>All the input integers are in the range [-10000, 10000].</li>
+	<li>A valid square has four equal sides with positive length and four equal angles (90-degree angles).</li>
+	<li>Input points have no order.</li>
 </ol>
-</p>
+
+<p>&nbsp;</p>
 
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
