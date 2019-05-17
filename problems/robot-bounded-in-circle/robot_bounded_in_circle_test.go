@@ -33,6 +33,10 @@ func TestIsRobotBounded(t *testing.T) {
 			input:    "GLRLLGLL",
 			expected: true,
 		},
+		{
+			input:    "GLGRGLGLGLGL",
+			expected: false,
+		},
 	}
 	for _, tc := range tests {
 		output := isRobotBounded(tc.input)

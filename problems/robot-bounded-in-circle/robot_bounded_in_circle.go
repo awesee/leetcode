@@ -1,20 +1,16 @@
 package robot_bounded_in_circle
 
 func isRobotBounded(instructions string) bool {
-	x, y, p := 0, 0, 0
+	x, y, dx, dy := 0, 0, 0, 1
 	for _, i := range instructions {
 		switch i {
 		case 'G':
-			if p == 1 || p == 3 {
-				x += 2 - p
-			} else {
-				y += 1 - p
-			}
+			x, y = x+dx, y+dy
 		case 'L':
-			p = (p + 3) % 4
+			dx, dy = -dy, dx
 		case 'R':
-			p = (p + 1) % 4
+			dx, dy = dy, -dx
 		}
 	}
-	return p != 0 || x == 0 && y == 0
+	return x == 0 && y == 0 || dx != 0 || dy != 1
 }
