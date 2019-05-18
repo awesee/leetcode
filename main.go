@@ -6,6 +6,7 @@ import (
 	"log"
 
 	"github.com/openset/leetcode/internal/base"
+	"github.com/openset/leetcode/internal/build"
 	"github.com/openset/leetcode/internal/clean"
 	"github.com/openset/leetcode/internal/description"
 	"github.com/openset/leetcode/internal/help"
@@ -32,6 +33,7 @@ func init() {
 		test.CmdTest,
 		description.CmdDescription,
 		update.CmdUpdate,
+		build.CmdBuild,
 		clean.CmdClean,
 		version.CmdVersion,
 		help.CmdHelp,
