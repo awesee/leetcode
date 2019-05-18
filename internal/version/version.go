@@ -22,3 +22,7 @@ func runVersion(cmd *base.Command, args []string) {
 	}
 	fmt.Printf("%s version %s %s/%s\n", base.CmdName, version, runtime.GOOS, runtime.GOARCH)
 }
+
+func String() string {
+	return version
+}
