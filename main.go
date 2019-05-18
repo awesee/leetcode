@@ -12,6 +12,7 @@ import (
 	"github.com/openset/leetcode/internal/helper"
 	"github.com/openset/leetcode/internal/open"
 	"github.com/openset/leetcode/internal/page"
+	"github.com/openset/leetcode/internal/post"
 	"github.com/openset/leetcode/internal/question"
 	"github.com/openset/leetcode/internal/readme"
 	"github.com/openset/leetcode/internal/tag"
@@ -34,6 +35,7 @@ func init() {
 		clean.CmdClean,
 		version.CmdVersion,
 		help.CmdHelp,
+		post.CmdPost,
 	}
 }
 
