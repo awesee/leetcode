@@ -99,7 +99,7 @@ const frontMatter = `---
 layout:     single
 title:      "%s"
 date:       %s +0800
-categories: [leetcode]
+categories: [Leetcode]
 tags:       [%s]
 permalink:  /%s/
 ---
