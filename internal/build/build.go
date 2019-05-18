@@ -6,6 +6,7 @@ import (
 	"io"
 	"os"
 	"os/exec"
+	"time"
 
 	"github.com/openset/leetcode/internal/base"
 	"github.com/openset/leetcode/internal/version"
@@ -46,7 +47,11 @@ func runBuild(cmd *base.Command, args []string) {
 			file, err := os.Create(fileName)
 			base.CheckErr(err)
 			zw := zip.NewWriter(file)
-			zf, err := zw.Create(binName())
+			zf, err := zw.CreateHeader(&zip.FileHeader{
+				Name:     binName(),
+				Method:   zip.Deflate,
+				Modified: time.Now(),
+			})
 			base.CheckErr(err)
 			err = exec.Command("go", "build", "-ldflags", "-s -w", "github.com/openset/leetcode").Run()
 			base.CheckErr(err)
