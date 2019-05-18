@@ -20,6 +20,7 @@ type Command struct {
 	UsageLine string
 	Short     string
 	Long      string
+	Hidden    bool
 }
 
 func (c *Command) Name() string {
@@ -48,7 +49,9 @@ func Usage() {
 	fmt.Printf("\t%s <command> [arguments]\n", CmdName)
 	fmt.Println("The commands are:")
 	for _, cmd := range Commands {
-		fmt.Printf("\t%-11s \t%s\n", cmd.Name(), cmd.Short)
+		if !cmd.Hidden {
+			fmt.Printf("\t%-11s \t%s\n", cmd.Name(), cmd.Short)
+		}
 	}
 	fmt.Printf("\nUse \"%s help <command>\" for more information about a command.", CmdName)
 	fmt.Println()
