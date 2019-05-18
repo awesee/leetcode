@@ -3,6 +3,7 @@ package post
 import (
 	"bytes"
 	"fmt"
+	"os"
 	"path"
 	"regexp"
 	"strconv"
@@ -18,6 +19,7 @@ var CmdPost = &base.Command{
 	UsageLine: "post",
 	Short:     "build post files",
 	Long:      "build all post files.",
+	Hidden:    true,
 }
 
 func runPost(cmd *base.Command, args []string) {
@@ -77,7 +79,11 @@ func runPost(cmd *base.Command, args []string) {
 			buf.WriteString("\n---\n")
 			buf.WriteString(fmt.Sprintf("\n## [答案](https://github.com/openset/leetcode/tree/master/problems/%s)\n", question.TitleSlug))
 			filename := fmt.Sprintf(formatFilename, t.Format("2006-01-02"), question.TitleSlug)
-			base.FilePutContents(path.Join("post", filename), buf.Bytes())
+			postType := "leetcode"
+			if inPosts[questionId] {
+				postType = "_posts"
+			}
+			base.FilePutContents(path.Join(basePath, postType, filename), buf.Bytes())
 		}
 	}
 	postTags()
@@ -91,7 +97,7 @@ func postTags() {
 		}
 		filename := fmt.Sprintf("tag-%s.md", tag.Slug)
 		data := []byte(fmt.Sprintf(tagTmpl, title, tag.Slug, tag.Name))
-		base.FilePutContents(path.Join("page", filename), data)
+		base.FilePutContents(path.Join(basePath, "_pages", filename), data)
 	}
 }
 
@@ -112,3 +118,37 @@ permalink: /tags/%s/
 taxonomy: %s
 ---
 `
+
+var homeDir, _ = os.UserHomeDir()
+
+var basePath = path.Join(homeDir, "openset", "openset")
+
+var inPosts = map[int]bool{
+	1:    true,
+	2:    true,
+	3:    true,
+	4:    true,
+	7:    true,
+	8:    true,
+	9:    true,
+	12:   true,
+	13:   true,
+	15:   true,
+	18:   true,
+	20:   true,
+	58:   true,
+	101:  true,
+	168:  true,
+	171:  true,
+	172:  true,
+	190:  true,
+	191:  true,
+	198:  true,
+	233:  true,
+	746:  true,
+	793:  true,
+	849:  true,
+	941:  true,
+	984:  true,
+	1000: true,
+}
