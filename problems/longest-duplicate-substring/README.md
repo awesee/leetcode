@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/partition-array-for-maximum-sum "Partition Array for Maximum Sum")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/customers-who-bought-all-products "Customers Who Bought All Products")
 
 ## 1044. Longest Duplicate Substring (Hard)
 
