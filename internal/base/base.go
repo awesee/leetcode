@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
+	"log"
 	"os"
 	"path"
 	"path/filepath"
@@ -53,8 +54,7 @@ func Usage() {
 			fmt.Printf("\t%-11s \t%s\n", cmd.Name(), cmd.Short)
 		}
 	}
-	fmt.Printf("\nUse \"%s help <command>\" for more information about a command.", CmdName)
-	fmt.Println()
+	fmt.Printf("\nUse \"%s help <command>\" for more information about a command.\n", CmdName)
 	Exit()
 }
 
@@ -92,13 +92,12 @@ func getFilePath(filename string) string {
 
 func CheckErr(err error) {
 	if err != nil {
-		fmt.Println(err.Error())
-		Exit()
+		log.Fatalln(err)
 	}
 }
 
 func Exit() {
-	os.Exit(1)
+	os.Exit(0)
 }
 
 func AuthInfo(cmd string) string {
