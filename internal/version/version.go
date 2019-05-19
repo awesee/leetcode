@@ -13,7 +13,7 @@ var CmdVersion = &base.Command{
 	Run:       runVersion,
 	UsageLine: "version",
 	Short:     fmt.Sprintf("print %s version", base.CmdName),
-	Long:      fmt.Sprintf("Version prints the %s version.", base.CmdName),
+	Long:      fmt.Sprintf("prints the %s version.", base.CmdName),
 }
 
 func runVersion(cmd *base.Command, args []string) {
