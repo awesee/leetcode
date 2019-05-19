@@ -1,6 +1,7 @@
 package update
 
 import (
+	"fmt"
 	"os"
 	"os/exec"
 
@@ -10,8 +11,8 @@ import (
 var CmdUpdate = &base.Command{
 	Run:       runUpdate,
 	UsageLine: "update",
-	Short:     "update self",
-	Long:      "automates testing the packages.",
+	Short:     "update or upgrade self",
+	Long:      fmt.Sprintf("fetch the newest version of %s.", base.CmdName),
 }
 
 func runUpdate(cmd *base.Command, args []string) {
