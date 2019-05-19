@@ -42,9 +42,7 @@ func init() {
 }
 
 func main() {
-	log.SetFlags(0)
-	log.SetPrefix(fmt.Sprintf("%s: ", base.CmdName))
-
+	log.SetFlags(log.LstdFlags)
 	flag.Usage = base.Usage
 	flag.Parse()
 	if flag.NArg() < 1 {
