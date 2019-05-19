@@ -3,7 +3,6 @@ package main
 import (
 	"flag"
 	"fmt"
-	"log"
 
 	"github.com/openset/leetcode/internal/base"
 	"github.com/openset/leetcode/internal/build"
@@ -42,7 +41,6 @@ func init() {
 }
 
 func main() {
-	log.SetFlags(log.LstdFlags)
 	flag.Usage = base.Usage
 	flag.Parse()
 	if flag.NArg() < 1 {
