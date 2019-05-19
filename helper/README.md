@@ -21,7 +21,7 @@ The commands are:
 	open        	open a problem solution in browser
 	test        	run go test
 	description 	build all problems description file
-	update      	update self
+	update      	update or upgrade self
 	clean       	remove cached files
 	version     	print leetcode version
 	help        	show command usage
