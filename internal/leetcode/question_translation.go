@@ -1,6 +1,10 @@
 package leetcode
 
-import "strconv"
+import (
+	"log"
+	"os"
+	"strconv"
+)
 
 func GetQuestionTranslation() (qt questionTranslationType) {
 	jsonStr := `{
@@ -9,6 +13,12 @@ func GetQuestionTranslation() (qt questionTranslationType) {
 		"query": "query getQuestionTranslation($lang: String) {\n  translations: allAppliedQuestionTranslations(lang: $lang) {\n    title\n    question {\n      questionId\n      __typename\n    }\n    __typename\n  }\n}\n"
 	}`
 	graphQLRequest(questionTranslationFile, 2, jsonStr, &qt)
+	if qt.Data.Translations == nil {
+		_ = os.Remove(getCachePath(questionTranslationFile))
+		for _, err := range qt.Errors {
+			log.Println(err.Message)
+		}
+	}
 	return
 }
 
