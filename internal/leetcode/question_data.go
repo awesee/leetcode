@@ -3,6 +3,7 @@ package leetcode
 import (
 	"bytes"
 	"fmt"
+	"log"
 	"os"
 	"path"
 	"regexp"
@@ -26,9 +27,9 @@ func QuestionData(titleSlug string, isForce bool) (qd questionDataType) {
 	filename := fmt.Sprintf(questionDataFile, slugToSnake(titleSlug))
 	graphQLRequest(filename, days, jsonStr, &qd)
 	if qd.Data.Question.TitleSlug == "" {
-		os.Remove(getCachePath(filename))
+		_ = os.Remove(getCachePath(filename))
 		for _, err := range qd.Errors {
-			fmt.Println(titleSlug, err.Message)
+			log.Println(titleSlug, err.Message)
 		}
 	}
 	return
