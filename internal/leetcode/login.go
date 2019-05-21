@@ -17,7 +17,7 @@ func AccountsLogin(username, password string) (*http.Response, error) {
 		"password":            {password},
 		"csrfmiddlewaretoken": {csrftoken},
 	}
-	http.PostForm(accountsLoginUrl, data)
+	resp, err = http.PostForm(accountsLoginUrl, data)
 	checkErr(err)
 	defer resp.Body.Close()
 	saveCookies(resp.Cookies())

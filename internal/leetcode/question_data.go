@@ -229,7 +229,7 @@ func (question questionType) saveCodeContent(content, ext string, permX ...bool)
 	filePath := question.getFilePath(question.TitleSnake() + ext)
 	filePutContents(filePath, []byte(content))
 	if len(permX) > 0 && permX[0] == true {
-		os.Chmod(filePath, 0755)
+		_ = os.Chmod(filePath, 0755)
 	}
 }
 
