@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1049 | [最后一块石头的重量 II](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight-ii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1039 | [多边形三角剖分的最低得分](https://github.com/openset/leetcode/tree/master/problems/minimum-score-triangulation-of-polygon) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1027 | [最长等差数列](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-sequence) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1025 | [除数博弈](https://github.com/openset/leetcode/tree/master/problems/divisor-game) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |
