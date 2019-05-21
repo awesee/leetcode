@@ -1,16 +1,18 @@
 package camelcase_matching
 
-import "regexp"
-
 func camelMatch(queries []string, pattern string) []bool {
-	ans, ptn := make([]bool, len(queries)), []rune("[a-z]*")
-	for _, r := range pattern {
-		ptn = append(ptn, r)
-		ptn = append(ptn, []rune("[a-z]*")...)
-	}
-	reg := regexp.MustCompile(string(ptn))
+	ans := make([]bool, len(queries))
 	for i, q := range queries {
-		ans[i] = reg.FindString(q) == q
+		ptn := []rune(pattern)
+		for _, r := range q {
+			if len(ptn) > 0 && ptn[0] == r {
+				ptn = ptn[1:]
+			} else if r >= 'A' && r <= 'Z' {
+				ptn = []rune{1}
+				break
+			}
+		}
+		ans[i] = len(ptn) == 0
 	}
 	return ans
 }
