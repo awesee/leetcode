@@ -54,6 +54,7 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1050">1050</span> | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy |
 | <span id="1049">1049</span> | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii "最后一块石头的重量 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight-ii) | Medium |
 | <span id="1048">1048</span> | [Longest String Chain](https://leetcode.com/problems/longest-string-chain "最长字符串链") | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-string-chain) | Medium |
 | <span id="1047">1047</span> | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string "删除字符串中的所有相邻重复项") | [Go](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string) | Easy |

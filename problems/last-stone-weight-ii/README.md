@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-string-chain "Longest String Chain")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/actors-and-directors-who-cooperated-at-least-three-times "Actors and Directors Who Cooperated At Least Three Times")
 
 ## 1049. Last Stone Weight II (Medium)
 
