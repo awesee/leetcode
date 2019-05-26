@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1046 | [最后一块石头的重量](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
 | 973 | [最接近原点的 K 个点](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Medium |
 | 882 | [细分图中的可到达结点](https://github.com/openset/leetcode/tree/master/problems/reachable-nodes-in-subdivided-graph) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]  | Hard |
 | 871 | [最低加油次数](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-refueling-stops) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
