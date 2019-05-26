@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1048 | [最长字符串链](https://github.com/openset/leetcode/tree/master/problems/longest-string-chain) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1044 | [最长重复子串](https://github.com/openset/leetcode/tree/master/problems/longest-duplicate-substring) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
 | 1002 | [查找常用字符](https://github.com/openset/leetcode/tree/master/problems/find-common-characters) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
 | 1001 | [网格照明](https://github.com/openset/leetcode/tree/master/problems/grid-illumination) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |

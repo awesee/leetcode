@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1047 | [删除字符串中的所有相邻重复项](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Easy |
 | 1021 | [删除最外层的括号](https://github.com/openset/leetcode/tree/master/problems/remove-outermost-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Easy |
 | 1019 | [链表中的下一个更大节点](https://github.com/openset/leetcode/tree/master/problems/next-greater-node-in-linked-list) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
 | 1003 | [检查替换后的词是否有效](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
