@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1054">1054</span> | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes "距离相等的条形码") | [Go](https://github.com/openset/leetcode/tree/master/problems/distant-barcodes) | Medium |
+| <span id="1053">1053</span> | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap "交换一次的先前排列") | [Go](https://github.com/openset/leetcode/tree/master/problems/previous-permutation-with-one-swap) | Medium |
+| <span id="1052">1052</span> | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner "爱生气的书店老板") | [Go](https://github.com/openset/leetcode/tree/master/problems/grumpy-bookstore-owner) | Medium |
+| <span id="1051">1051</span> | [Height Checker](https://leetcode.com/problems/height-checker "高度检查器") | [Go](https://github.com/openset/leetcode/tree/master/problems/height-checker) | Easy |
 | <span id="1050">1050</span> | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy |
 | <span id="1049">1049</span> | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii "最后一块石头的重量 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight-ii) | Medium |
 | <span id="1048">1048</span> | [Longest String Chain](https://leetcode.com/problems/longest-string-chain "最长字符串链") | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-string-chain) | Medium |

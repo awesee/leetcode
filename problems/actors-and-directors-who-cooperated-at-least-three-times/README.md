@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight-ii "Last Stone Weight II")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/height-checker "Height Checker")
 
 ## 1050. Actors and Directors Who Cooperated At Least Three Times (Easy)
 
