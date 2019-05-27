@@ -11,38 +11,38 @@
 
 ## 520. Detect Capital (Easy)
 
-<p>
-Given a word, you need to judge whether the usage of capitals in it is right or not.
-</p>
+<p>Given a word, you need to judge whether the usage of capitals in it is right or not.</p>
 
-<p>
-We define the usage of capitals in a word to be right when one of the following cases holds:
+<p>We define the usage of capitals in a word to be right when one of the following cases holds:</p>
+
 <ol>
-<li>All letters in this word are capitals, like "USA".</li>
-<li>All letters in this word are not capitals, like "leetcode".</li>
-<li>Only the first letter in this word is capital if it has more than one letter, like "Google".</li>
+	<li>All letters in this word are capitals, like &quot;USA&quot;.</li>
+	<li>All letters in this word are not capitals, like &quot;leetcode&quot;.</li>
+	<li>Only the first letter in this word is capital, like &quot;Google&quot;.</li>
 </ol>
-Otherwise, we define that this word doesn't use capitals in a right way.
-</p>
+Otherwise, we define that this word doesn&#39;t use capitals in a right way.
 
+<p>&nbsp;</p>
 
-<p><b>Example 1:</b><br />
+<p><b>Example 1:</b></p>
+
 <pre>
-<b>Input:</b> "USA"
+<b>Input:</b> &quot;USA&quot;
 <b>Output:</b> True
 </pre>
-</p>
 
-<p><b>Example 2:</b><br />
+<p>&nbsp;</p>
+
+<p><b>Example 2:</b></p>
+
 <pre>
-<b>Input:</b> "FlaG"
+<b>Input:</b> &quot;FlaG&quot;
 <b>Output:</b> False
 </pre>
-</p>
 
-<p><b>Note:</b>
-The input will be a non-empty word consisting of uppercase and lowercase latin letters.
-</p>
+<p>&nbsp;</p>
+
+<p><b>Note:</b> The input will be a non-empty word consisting of uppercase and lowercase latin letters.</p>
 
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
