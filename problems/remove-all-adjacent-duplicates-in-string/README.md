@@ -36,3 +36,12 @@ For example, in &quot;abbaca&quot; we could remove &quot;bb&quot; since the lett
 	<li><code>1 &lt;= S.length &lt;= 20000</code></li>
 	<li><code>S</code> consists only of English lowercase letters.</li>
 </ol>
+
+### Related Topics
+  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Use a stack to process everything greedily.
+</details>
