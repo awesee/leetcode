@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1053 | [交换一次的先前排列](https://github.com/openset/leetcode/tree/master/problems/previous-permutation-with-one-swap) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 1046 | [最后一块石头的重量](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
 | 1029 | [两地调度](https://github.com/openset/leetcode/tree/master/problems/two-city-scheduling) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
 | 1007 | [行相等的最少多米诺旋转](https://github.com/openset/leetcode/tree/master/problems/minimum-domino-rotations-for-equal-row) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |

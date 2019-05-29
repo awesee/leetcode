@@ -110,14 +110,14 @@
 		"TranslatedName": "字典树"
 	},
 	{
-		"Name": "Recursion",
-		"Slug": "recursion",
-		"TranslatedName": "递归"
-	},
-	{
 		"Name": "Sliding Window",
 		"Slug": "sliding-window",
 		"TranslatedName": "Sliding Window"
+	},
+	{
+		"Name": "Recursion",
+		"Slug": "recursion",
+		"TranslatedName": "递归"
 	},
 	{
 		"Name": "Ordered Map",

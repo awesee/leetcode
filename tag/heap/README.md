@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1054 | [距离相等的条形码](https://github.com/openset/leetcode/tree/master/problems/distant-barcodes) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]  | Medium |
 | 1046 | [最后一块石头的重量](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
 | 973 | [最接近原点的 K 个点](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Medium |
 | 882 | [细分图中的可到达结点](https://github.com/openset/leetcode/tree/master/problems/reachable-nodes-in-subdivided-graph) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]  | Hard |

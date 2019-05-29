@@ -9,6 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1053 | [交换一次的先前排列](https://github.com/openset/leetcode/tree/master/problems/previous-permutation-with-one-swap) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
+| 1052 | [爱生气的书店老板](https://github.com/openset/leetcode/tree/master/problems/grumpy-bookstore-owner) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
+| 1051 | [高度检查器](https://github.com/openset/leetcode/tree/master/problems/height-checker) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1040 | [移动石子直到连续 II](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
 | 1035 | [不相交的线](https://github.com/openset/leetcode/tree/master/problems/uncrossed-lines) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 1031 | [两个非重叠子数组的最大和](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-two-non-overlapping-subarrays) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |

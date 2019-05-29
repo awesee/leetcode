@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1052 | [爱生气的书店老板](https://github.com/openset/leetcode/tree/master/problems/grumpy-bookstore-owner) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
 | 1040 | [移动石子直到连续 II](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
 | 1004 | [最大连续1的个数 III](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii) | [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
 | 995 | [K 连续位的最小翻转次数](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Hard |
