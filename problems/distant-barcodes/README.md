@@ -44,3 +44,13 @@ Next >
 <div>
 <div>&nbsp;</div>
 </div>
+
+### Related Topics
+  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
+  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+We want to always choose the most common or second most common element to write next.  What data structure allows us to query this effectively?
+</details>

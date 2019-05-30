@@ -20,8 +20,7 @@
 <pre>
 <strong>Input: </strong>[3,2,1]
 <strong>Output: </strong>[3,1,2]
-<strong>Explanation: </strong>
-Swapping 2 and 1.
+<strong>Explanation: </strong>Swapping 2 and 1.
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -29,8 +28,7 @@ Swapping 2 and 1.
 <pre>
 <strong>Input: </strong>[1,1,5]
 <strong>Output: </strong>[1,1,5]
-<strong>Explanation: </strong>
-This is already the smallest permutation.
+<strong>Explanation: </strong>This is already the smallest permutation.
 </pre>
 
 <p><strong>Example 3:</strong></p>
@@ -38,15 +36,15 @@ This is already the smallest permutation.
 <pre>
 <strong>Input: </strong>[1,9,4,6,7]
 <strong>Output: </strong>[1,7,4,6,9]
-<strong>Explanation: </strong>
-Swapping 9 and 7.
+<strong>Explanation: </strong>Swapping 9 and 7.
 </pre>
 
 <p><strong>Example 4:</strong></p>
 
 <pre>
 <strong>Input: </strong>[3,1,1,3]
-<strong>Output: </strong>[1,1,3,3]
+<strong>Output: </strong>[1,3,1,3]
+<strong>Explanation: </strong>Swapping 1 and 3.
 </pre>
 
 <p>&nbsp;</p>
@@ -57,3 +55,13 @@ Swapping 9 and 7.
 	<li><code>1 &lt;= A.length &lt;= 10000</code></li>
 	<li><code>1 &lt;= A[i] &lt;= 10000</code></li>
 </ol>
+
+### Related Topics
+  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+You need to swap two values, one larger than the other.  Where is the larger one located?
+</details>
