@@ -34,3 +34,12 @@ Students with heights 4, 3 and the last 1 are not standing in the right position
 	<li><code>1 &lt;= heights.length &lt;= 100</code></li>
 	<li><code>1 &lt;= heights[i] &lt;= 100</code></li>
 </ol>
+
+### Related Topics
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Build the correct order of heights by sorting another array, then compare the two arrays.
+</details>
