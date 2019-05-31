@@ -52,10 +52,12 @@ Output: 1
 <summary>Hint 1</summary>
 Think about how you would solve the problem in non-constant space.  Can you apply that logic to the existing space?
 </details>
+
 <details>
 <summary>Hint 2</summary>
 We don't care about duplicates or non-positive integers
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Remember that O(2n) = O(n)

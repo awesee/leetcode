@@ -57,14 +57,17 @@ What if the BST is modified (insert/delete operations) often and you need to fin
 <summary>Hint 1</summary>
 Try to utilize the property of a BST.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Try in-order traversal. (Credits to @chan13)
 </details>
+
 <details>
 <summary>Hint 3</summary>
 What if you could modify the BST node's structure?
 </details>
+
 <details>
 <summary>Hint 4</summary>
 The optimal runtime complexity is O(height of BST).

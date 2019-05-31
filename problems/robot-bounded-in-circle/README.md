@@ -70,6 +70,7 @@ The robot moves from (0, 0) -&gt; (0, 1) -&gt; (-1, 1) -&gt; (-1, 0) -&gt; (0, 0
 <summary>Hint 1</summary>
 Calculate the final vector of how the robot travels after executing all instructions once - it consists of a change in position plus a change in direction.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 The robot stays in the circle iff (looking at the final vector) it changes direction (ie. doesn't stay pointing north), or it moves 0.

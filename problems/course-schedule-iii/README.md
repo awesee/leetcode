@@ -53,6 +53,7 @@ During iteration, say I want to add the current course, currentTotalTime being t
 
 1. If it doesn’t, then I have added one new course. Increment the currentTotalTime with duration of current course.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 2. If it exceeds deadline, I can swap current course with current courses that has biggest duration.</br>

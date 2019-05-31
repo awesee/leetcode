@@ -21,14 +21,17 @@
 <summary>Hint 1</summary>
 One solution is to count ones in each direction separately and find the longest line. Don't you think  it will take too much lines of code?
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Is it possible to use some extra space to make the solution simple?
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Can we use dynamic programming to make use of intermediate results?
 </details>
+
 <details>
 <summary>Hint 4</summary>
 Think of a 3D array which can be used to store the longest line obtained so far for each direction.

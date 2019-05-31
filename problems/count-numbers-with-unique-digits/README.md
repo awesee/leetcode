@@ -34,18 +34,22 @@
 <summary>Hint 1</summary>
 A direct way is to use the backtracking approach.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Backtracking should contains three states which are (the current number, number of steps to get that number and a bitmask which represent which number is marked as visited so far in the current number). Start with state (0,0,0) and count all valid number till we reach number of steps equals to 10<sup>n</sup>.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 This problem can also be solved using a dynamic programming approach and some knowledge of combinatorics.
 </details>
+
 <details>
 <summary>Hint 4</summary>
 Let f(k) = count of numbers with unique digits with length equals k.
 </details>
+
 <details>
 <summary>Hint 5</summary>
 f(1) = 10, ..., f(k) = 9 * 9 * 8 * ... (9 - k + 2) [The first factor is 9 because a number cannot start with 0].

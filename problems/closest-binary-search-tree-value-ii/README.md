@@ -29,14 +29,17 @@ Consider implement these two helper functions:
 <li><code>getSuccessor(N)</code>, which returns the next larger node to N.</li>
 </ol>
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Try to assume that each node has a parent pointer, it makes the problem much easier.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Without parent pointer we just need to keep track of the path from the root to the current node using a stack.
 </details>
+
 <details>
 <summary>Hint 4</summary>
 You would need two stacks to track the path in finding predecessor and successor node separately.

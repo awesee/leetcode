@@ -27,10 +27,12 @@
 <summary>Hint 1</summary>
 Try to compute a sum of a subsequence very fast, i.e in <i>O(1)</i> … Think of prefix sum array.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Given <i>S[i]</i> a partial sum that starts at position <i>0</i> and ends at <i>i</i>, what can <i>S[i - k]</i> tell you ?
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Use HashMap + prefix sum array.

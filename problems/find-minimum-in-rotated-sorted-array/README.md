@@ -46,11 +46,13 @@
 <summary>Hint 1</summary>
 Array was originally in ascending order. Now that the array is rotated, there would be a point in the array where there is a small deflection from the increasing sequence. eg. The array would be something like [4, 5, 6, 7, 0, 1, 2].
 </details>
+
 <details>
 <summary>Hint 2</summary>
 You can divide the search space into two and see which direction to go.
 Can you think of an algorithm which has O(logN) search complexity?
 </details>
+
 <details>
 <summary>Hint 3</summary>
 <ol>

@@ -41,6 +41,7 @@
 <summary>Hint 1</summary>
 Think dynamic programming:  dp[i] will be the answer for array A[0], ..., A[i-1].
 </details>
+
 <details>
 <summary>Hint 2</summary>
 For j = 1 .. k that keeps everything in bounds, dp[i] is the maximum of dp[i-j] + max(A[i-1], ..., A[i-j]) * j .

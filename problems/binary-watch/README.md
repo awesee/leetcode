@@ -43,6 +43,7 @@
 <summary>Hint 1</summary>
 Simplify by seeking for solutions that involve comparing bit counts.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Consider calculating all possible times for comparison purposes.

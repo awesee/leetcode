@@ -46,6 +46,7 @@
 <summary>Hint 1</summary>
 Use two pointers to create a window of letters in <b>S</b>, which would have all the characters from <b>T</b>.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Since you have to find the minimum window in <b>S</b> which has all the characters from <b>T</b>, you need to expand and contract the window using the two pointers and keep checking the window for all the characters. This approach is also called Sliding Window Approach.

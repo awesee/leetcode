@@ -172,10 +172,10 @@ func (question questionType) getHints() []byte {
 	hints := question.Hints
 	var buf bytes.Buffer
 	if len(hints) > 0 {
-		buf.WriteString("\n### Hints\n")
+		buf.WriteString("\n### Hints")
 	}
 	for i, hint := range hints {
-		buf.WriteString(fmt.Sprintf("<details>\n<summary>Hint %d</summary>\n%s\n</details>\n", i+1, filterContents(hint)))
+		buf.WriteString(fmt.Sprintf("\n<details>\n<summary>Hint %d</summary>\n%s\n</details>\n", i+1, filterContents(hint)))
 	}
 	return buf.Bytes()
 }

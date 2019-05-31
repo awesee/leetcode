@@ -43,18 +43,22 @@ Nuts : [[3,0], [2,5]]
 <summary>Hint 1</summary>
 Will Brute force solution works here? What will be its complexity?
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Brute force definitely won't work here. Think of some simple solution. Take some example and make some observations.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Will order of nuts traversed by squirrel is important or only first nut traversed by squirrel is important?
 </details>
+
 <details>
 <summary>Hint 4</summary>
 Are there some paths which squirrel have to cover in any case? If yes, what are they?
 </details>
+
 <details>
 <summary>Hint 5</summary>
 Did you notice only first nut traversed by squirrel matters? Obviously squirrel will choose first nut which will result in minimum distance.

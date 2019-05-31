@@ -66,16 +66,19 @@ r = 2, c = 4
 <summary>Hint 1</summary>
 Do you know how 2d matrix is stored in 1d memory? Try to map 2-dimensions into one.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 M[i][j]=M[n*i+j] , where n is the number of cols. 
 This is the one way of converting 2-d indices into one 1-d index.  
 Now, how will you convert 1-d index into 2-d indices?
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Try to use division and modulus to convert 1-d index into 2-d indices.
 </details>
+
 <details>
 <summary>Hint 4</summary>
 M[i] =>  M[n/i][n%i]   Will it result in right mapping? Take some example and check this formulae.

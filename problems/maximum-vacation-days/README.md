@@ -24,10 +24,12 @@
 <summary>Hint 1</summary>
 First try to understand the problem carefully and then take some example and solve it on a paper.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Can you interpret the given input as a graph? Which graph traversal technique is suitable here?
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Can we use some space to avoid redundant function calls?

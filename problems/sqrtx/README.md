@@ -46,6 +46,7 @@
 <summary>Hint 1</summary>
 Try exploring all integers. (Credits: @annujoshi)
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Use the sorted property of integers to reduced the search space. (Credits: @annujoshi)

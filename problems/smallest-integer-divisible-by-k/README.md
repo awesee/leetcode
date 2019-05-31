@@ -55,6 +55,7 @@
 11111 = 1111 * 10 + 1
 We only need to store remainders modulo K.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 If we never get a remainder of 0, why would that happen, and how would we know that?

@@ -53,6 +53,7 @@ we can combine 1 and 1 to get 0 so the array converts to [1] then that&#39;s the
 <summary>Hint 1</summary>
 Think of the final answer as a sum of weights with + or - sign symbols infront of each weight.  Actually, all sums with 1 of each sign symbol are possible.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Use dynamic programming: for every possible sum with N stones, those sums +x or -x is possible with N+1 stones, where x is the value of the newest stone.  (This overcounts sums that are all positive or all negative, but those don't matter.)

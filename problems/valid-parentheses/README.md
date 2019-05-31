@@ -80,6 +80,7 @@ An interesting property about a valid parenthesis expression is that a sub-expre
 
 Can we exploit this recursive structure somehow?
 </details>
+
 <details>
 <summary>Hint 2</summary>
 What if whenever we encounter a matching pair of parenthesis in the expression, we simply remove it from the expression? This would keep on shortening the expression. e.g.
@@ -100,6 +101,7 @@ What if whenever we encounter a matching pair of parenthesis in the expression, 
 VALID EXPRESSION!
 </pre>
 </details>
+
 <details>
 <summary>Hint 3</summary>
 The <b>stack</b> data structure can come in handy here in representing this recursive structure of the problem. We can't really process this from the inside out because we don't have an idea about the overall structure. But, the stack can help us process this recursively i.e. from outside to inwards.

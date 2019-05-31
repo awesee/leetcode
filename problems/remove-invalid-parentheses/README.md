@@ -48,6 +48,7 @@
 <summary>Hint 1</summary>
 Since we don't know which of the brackets can possibly be removed, we try out all the options!
 </details>
+
 <details>
 <summary>Hint 2</summary>
 We can use recursion to try out all possibilities for the given expression. For each of the brackets, we have 2 options:
@@ -57,18 +58,21 @@ We can use recursion to try out all possibilities for the given expression. For 
 <li> OR, we can discard the bracket and move on.
 </ol>
 </details>
+
 <details>
 <summary>Hint 3</summary>
 The one thing all these valid expressions have in common is that they will all be of the same length i.e. as compared to the original expression, all of these expressions will have the same number of characters removed. 
 
 Can we somehow find the number of misplaced parentheses and use it in our solution?
 </details>
+
 <details>
 <summary>Hint 4</summary>
 The one thing all these valid expressions have in common is that they will all be of the same length i.e. as compared to the original expression, all of these expressions will have the same number of characters removed. 
 
 Can we somehow find the number of misplaced parentheses and use it in our solution?
 </details>
+
 <details>
 <summary>Hint 5</summary>
 For every left parenthesis, we should have a corresponding right parenthesis. We can make use of two counters which keep track of misplaced left and right parenthesis and in one iteration we can find out these two values. 
@@ -88,6 +92,7 @@ i = 7, left = 2, right = 2
 
 We have 2 misplaced left and 2 misplaced right parentheses.
 </details>
+
 <details>
 <summary>Hint 6</summary>
 We found out that the exact number of left and right parenthesis that has to be removed to get a valid expression. So, e.g. in a 1000 parentheses string, if there are 2 misplaced left and 2 misplaced right parentheses, after we are done discarding 2 left and 2 right parentheses, we will have only one option per remaining character in the expression i.e. to consider them. We can't discard them.

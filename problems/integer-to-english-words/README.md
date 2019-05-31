@@ -52,10 +52,12 @@
 <summary>Hint 1</summary>
 Did you see a pattern in dividing the number into chunk of words? For example, 123 and 123000.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Group the number by thousands (3 digits). You can write a helper function that takes a number less than 1000 and convert just that chunk to words.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 There are many edge cases. What are some good test cases? Does your code work with input such as 0? Or 1000010? (middle chunk is zero and should not be printed out)

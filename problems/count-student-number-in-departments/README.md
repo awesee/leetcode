@@ -77,6 +77,7 @@
 <summary>Hint 1</summary>
 Still remember the difference between 'INNER JOIN' and 'OUTTER JOIN' in SQL?
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Do you know other expressions using the 'COUNT' function besides 'COUNT(*)'?

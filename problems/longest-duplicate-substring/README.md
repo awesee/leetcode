@@ -49,6 +49,7 @@
 <summary>Hint 1</summary>
 Binary search for the length of the answer.  (If there's an answer of length 10, then there are answers of length 9, 8, 7, ...)
 </details>
+
 <details>
 <summary>Hint 2</summary>
 To check whether an answer of length K exists, we can use Rabin-Karp 's algorithm.
