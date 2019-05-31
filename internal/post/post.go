@@ -138,6 +138,7 @@ var inPosts = map[int]bool{
 	20:   true,
 	58:   true,
 	101:  true,
+	139:  true,
 	168:  true,
 	171:  true,
 	172:  true,
