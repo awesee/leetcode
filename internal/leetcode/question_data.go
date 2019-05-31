@@ -104,13 +104,13 @@ func (question questionType) getDescContent() []byte {
 	buf.WriteString(authInfo("description"))
 	buf.WriteString(question.getNavigation())
 	buf.WriteString(fmt.Sprintf("\n## %s. %s%s\n\n", question.QuestionFrontendId, question.Title, question.Difficulty.Str()))
-	content := strings.ReplaceAll(question.Content, "\r", "")
+	cts := filterContents(question.Content)
 	// remove style
 	reg := regexp.MustCompile(`<style[\S\s]+?</style>`)
-	content = reg.ReplaceAllString(content, "")
-	content = strings.ReplaceAll(content, "\n\n\t", "\n\t")
-	content = strings.TrimSpace(content)
-	buf.WriteString(content + "\n")
+	cts = reg.ReplaceAllString(cts, "")
+	cts = strings.ReplaceAll(cts, "\n\n\t", "\n\t")
+	cts = strings.TrimSpace(cts) + "\n"
+	buf.WriteString(cts)
 	buf.Write(question.getTopicTags())
 	buf.Write(question.getSimilarQuestion())
 	buf.Write(question.getHints())
@@ -175,8 +175,7 @@ func (question questionType) getHints() []byte {
 		buf.WriteString("\n### Hints\n")
 	}
 	for i, hint := range hints {
-		hint = strings.ReplaceAll(hint, "\r", "")
-		buf.WriteString(fmt.Sprintf("<details>\n<summary>Hint %d</summary>\n%s\n</details>\n", i+1, hint))
+		buf.WriteString(fmt.Sprintf("<details>\n<summary>Hint %d</summary>\n%s\n</details>\n", i+1, filterContents(hint)))
 	}
 	return buf.Bytes()
 }
@@ -274,6 +273,12 @@ func handleCodePython(question questionType, code codeSnippetsType) {
 func handleCodeSQL(question questionType, code codeSnippetsType) {
 	question.saveCodeContent(code.Code, ".sql")
 	question.saveMysqlSchemas()
+}
+
+func filterContents(cts string) string {
+	cts = strings.ReplaceAll(cts, "\r", "")
+	cts = strings.ReplaceAll(cts, `src="/static`, `src="https://assets.leetcode.com/static_assets/public`)
+	return cts
 }
 
 const testTpl = `package {{packageName}}
