@@ -67,14 +67,17 @@ Return <b>false</b>.
 <summary>Hint 1</summary>
 Which approach is better here- recursive or iterative?
 </details>
+
 <details>
 <summary>Hint 2</summary>
 If recursive approach is better, can you write recursive function with its parameters?
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Two trees <b>s</b> and <b>t</b> are said to be identical if their root values are same and their left and right subtrees are identical. Can you write this in form of recursive formulae?
 </details>
+
 <details>
 <summary>Hint 4</summary>
 Recursive formulae can be: 

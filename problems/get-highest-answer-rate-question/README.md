@@ -47,10 +47,12 @@ question 285 has answer rate 1/1, while question 369 has 0/1 answer rate, so out
 <summary>Hint 1</summary>
 Try to find all question ids by group
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Try to find each group answer number and show number.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Rank all the rates (answer/(answer+show)) and return the max one

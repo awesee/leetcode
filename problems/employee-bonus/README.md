@@ -59,6 +59,7 @@ empId is the primary key column for this table.
 <summary>Hint 1</summary>
 If the EmpId in table Employee has no match in table Bonus, we consider that the corresponding bonus is null and null is smaller than 1000.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Inner join is the default join, we can solve the mismatching problem by using outer join.

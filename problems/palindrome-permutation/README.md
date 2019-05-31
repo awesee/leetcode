@@ -42,10 +42,12 @@
 <summary>Hint 1</summary>
 Consider the palindromes of odd vs even length. What difference do you notice?
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Count the frequency of each character.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 If each character occurs even number of times, then it must be a palindrome. How about character which occurs odd number of times?

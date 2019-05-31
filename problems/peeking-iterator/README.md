@@ -39,14 +39,17 @@ Calling <strong><code>hasNext()</code></strong> after that should return <strong
 <summary>Hint 1</summary>
 Think of "looking ahead". You want to cache the next element.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Is one variable sufficient? Why or why not?
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Test your design with call order of <code>peek()</code> before <code>next()</code> vs <code>next()</code> before <code>peek()</code>.
 </details>
+
 <details>
 <summary>Hint 4</summary>
 For a clean implementation, check out <a href="https://github.com/google/guava/blob/703ef758b8621cfbab16814f01ddcc5324bdea33/guava-gwt/src-super/com/google/common/collect/super/com/google/common/collect/Iterators.java#L1125" target="_blank">Google's guava library source code</a>.

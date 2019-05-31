@@ -70,10 +70,12 @@ for (int i = 0; i &lt; len; i++) {
 <summary>Hint 1</summary>
 Try two pointers.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Did you use the property of "the order of elements can be changed"?
 </details>
+
 <details>
 <summary>Hint 3</summary>
 What happens when the elements to remove are rare?

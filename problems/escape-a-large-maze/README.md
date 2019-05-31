@@ -58,6 +58,7 @@ Because there are no blocked cells, it&#39;s possible to reach the target square
 <summary>Hint 1</summary>
 If we become stuck, there's either a loop around the source or around the target.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 If there is a loop around say, the source, what is the maximum number of squares it can have?

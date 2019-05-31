@@ -27,26 +27,32 @@
 <summary>Hint 1</summary>
 How many variables do you need to keep track?
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Two variables is all you need. Try with <code>x</code> and <code>y</code>.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Beware of empty rows. It could be the first few rows.
 </details>
+
 <details>
 <summary>Hint 4</summary>
 To write correct code, think about the <a href="https://en.wikipedia.org/wiki/Invariant_(computer_science)" target="_blank">invariant</a> to maintain. What is it?
 </details>
+
 <details>
 <summary>Hint 5</summary>
 The invariant is <code>x</code> and <code>y</code> must always point to a valid point in the 2d vector. Should you maintain your invariant <i>ahead of time</i> or <i>right when you need it</i>?
 </details>
+
 <details>
 <summary>Hint 6</summary>
 Not sure? Think about how you would implement <code>hasNext()</code>. Which is more complex?
 </details>
+
 <details>
 <summary>Hint 7</summary>
 Common logic in two different places should be refactored into a common method.

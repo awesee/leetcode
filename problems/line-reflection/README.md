@@ -26,10 +26,12 @@
 <summary>Hint 1</summary>
 Find the smallest and largest x-value for all points.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 If there is a line then it should be at y = (minX + maxX) / 2.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 For each point, make sure that it has a reflected point in the opposite side.

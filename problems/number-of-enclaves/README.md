@@ -55,6 +55,7 @@ All 1s are either on the boundary or can reach the boundary.
 <summary>Hint 1</summary>
 Can you model this problem as a graph problem?  Create n * m + 1 nodes where n * m nodes represents each cell of the map and one extra node to represent the exterior of the map.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 In the map add edges between neighbors on land cells. And add edges between the exterior and land nodes which are in the boundary.

@@ -55,10 +55,12 @@
 <summary>Hint 1</summary>
 WIll traversing every path is fesaible? There are many possible paths for a small matrix. Try to optimize it.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Can we use some space to store the number of paths and updating them after every move?
 </details>
+
 <details>
 <summary>Hint 3</summary>
 One obvious thing: ball will go out of boundary only by crossing it. Also, there is only one possible way ball can go out of boundary from boundary cell except corner cells. From corner cell ball can go out in two different ways. Can you use this thing to solve the problem?

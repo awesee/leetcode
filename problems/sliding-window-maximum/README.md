@@ -51,10 +51,12 @@ Could you solve it in linear time?</p>
 <summary>Hint 1</summary>
 How about using a data structure such as deque (double-ended queue)?
 </details>
+
 <details>
 <summary>Hint 2</summary>
 The queue size need not be the same as the window’s size.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Remove redundant elements and the queue should store only elements that need to be considered.

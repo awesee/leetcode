@@ -44,14 +44,17 @@ No one would report to himself.</p>
 <summary>Hint 1</summary>
 Try to get all the mangerIDs that have count bigger than 5
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Use the last hint's result as a table and do join with origin table at id equals to managerId
 </details>
+
 <details>
 <summary>Hint 3</summary>
 This is a very good example to show the performance of SQL code. Try to work out other solutions and you may be surprised by running time difference.
 </details>
+
 <details>
 <summary>Hint 4</summary>
 If your solution uses 'IN' function and runs more than 5 seconds, try to optimize it by using 'JOIN' instead.

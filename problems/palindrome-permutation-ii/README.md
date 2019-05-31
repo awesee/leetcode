@@ -36,6 +36,7 @@
 <summary>Hint 1</summary>
 If a palindromic permutation exists, we just need to generate the first half of the string.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 To generate all distinct permutations of a (half of) string, use a similar approach from: <a href="/problems/permutations-ii">Permutations II</a> or <a href="/problems/next-permutation">Next Permutation</a>.

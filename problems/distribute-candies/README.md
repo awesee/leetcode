@@ -48,14 +48,17 @@ The sister has two different kinds of candies, the brother has only one kind of 
 <summary>Hint 1</summary>
 To maximize the number of kinds of candies, we should try to distribute candies such that sister will gain all kinds.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 What is the upper limit of the number of kinds of candies sister will gain? Remember candies are to distributed equally.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Which data structure is the most suitable for finding the number of kinds of candies?
 </details>
+
 <details>
 <summary>Hint 4</summary>
 Will hashset solves the problem? Inserting all candies kind in the hashset and then checking its size with upper limit.

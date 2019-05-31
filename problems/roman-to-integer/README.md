@@ -86,6 +86,7 @@ C - 100</br>
 D - 500</br>
 M - 1000</br>
 </details>
+
 <details>
 <summary>Hint 2</summary>
 <b>Rules:</b></br>

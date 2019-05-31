@@ -68,6 +68,7 @@ The following are the terms from n=1 to n=10 of the count-and-say sequence:
 10.     13211311123113112211
 </pre>
 </details>
+
 <details>
 <summary>Hint 2</summary>
 To generate the <i>n</i><sup>th</sup> term, just <i>count and say</i> the <i>n</i>-1<sup>th</sup> term.

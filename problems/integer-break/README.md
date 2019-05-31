@@ -42,6 +42,7 @@
 <summary>Hint 1</summary>
 There is a simple O(n) solution to this problem.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 You may check the breaking results of <i>n</i> ranging from 7 to 10 to discover the regularities.

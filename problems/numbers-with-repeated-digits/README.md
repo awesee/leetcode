@@ -61,6 +61,7 @@
 <summary>Hint 1</summary>
 How many numbers with no duplicate digits?  How many numbers with K digits and no duplicates?
 </details>
+
 <details>
 <summary>Hint 2</summary>
 How many numbers with same length as N?  How many numbers with same prefix as N?

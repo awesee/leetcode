@@ -76,6 +76,7 @@ Notice you can have extra video after the event ends.
 <summary>Hint 1</summary>
 What if we sort the intervals?  Considering the sorted intervals, how can we solve the problem with dynamic programming?
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Let's consider a DP(pos, limit) where pos represents the position of the current interval we are gonna take the decision and limit is the current covered area from [0 - limit]. This DP returns the minimum number of taken intervals or infinite if it's not possible to cover the [0 - T] section.

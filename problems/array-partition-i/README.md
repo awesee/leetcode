@@ -39,14 +39,17 @@ Given an array of <b>2n</b> integers, your task is to group these integers into 
 <summary>Hint 1</summary>
 Obviously, brute force won't help here. Think of something else, take some example like 1,2,3,4.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 How will you make pairs to get the result? There must be some pattern.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Did you observe that- Minimum element gets add into the result in sacrifice of maximum element.
 </details>
+
 <details>
 <summary>Hint 4</summary>
 Still won't able to find pairs? Sort the array and try to find the pattern.

@@ -59,10 +59,12 @@
 <summary>Hint 1</summary>
 This problem is equivalent to finding if a cycle exists in a directed graph. If a cycle exists, no topological ordering exists and therefore it will be impossible to take all courses.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 <a href="https://class.coursera.org/algo-003/lecture/52" target="_blank">Topological Sort via DFS</a> - A great video tutorial (21 minutes) on Coursera explaining the basic concepts of Topological Sort.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Topological sort could also be done via <a href="http://en.wikipedia.org/wiki/Topological_sorting#Algorithms" target="_blank">BFS</a>.

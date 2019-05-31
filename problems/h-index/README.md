@@ -39,10 +39,12 @@
 <summary>Hint 1</summary>
 An easy approach is to sort the array first.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 What are the possible values of h-index?
 </details>
+
 <details>
 <summary>Hint 3</summary>
 A faster approach is to use extra space.

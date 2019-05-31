@@ -24,14 +24,17 @@
 <summary>Hint 1</summary>
 Thinking of using advanced data structures? You are thinking it too complicated.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 For each update operation, do you really need to update all elements between i and j?
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Update only the first and end element is sufficient.
 </details>
+
 <details>
 <summary>Hint 4</summary>
 The optimal time complexity is O(<b><i>k</i></b> + <b><i>n</i></b>) and uses O(1) extra space.

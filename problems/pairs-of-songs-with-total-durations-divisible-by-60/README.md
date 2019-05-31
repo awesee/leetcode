@@ -55,6 +55,7 @@
 <summary>Hint 1</summary>
 We only need to consider each song length modulo 60.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 We can count the number of songs with (length % 60) equal to r, and store that in an array of size 60.

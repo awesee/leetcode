@@ -52,22 +52,27 @@
 <summary>Hint 1</summary>
 Obviously, brute force will result in TLE. Think of something else.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 How will you check whether one string is a permutation of another string?
 </details>
+
 <details>
 <summary>Hint 3</summary>
 One way is to sort the string and then compare. But, Is there a better way?
 </details>
+
 <details>
 <summary>Hint 4</summary>
 If one string is a permutation of another string then they must one common metric. What is that?
 </details>
+
 <details>
 <summary>Hint 5</summary>
 Both strings must have same character frequencies, if  one is permutation of another. Which data structure should be used to store frequencies?
 </details>
+
 <details>
 <summary>Hint 6</summary>
 What about hash table?  An array of size 26?

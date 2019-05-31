@@ -25,6 +25,7 @@
 <summary>Hint 1</summary>
 x^2 + x  will form a parabola.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Parameter A in:  A * x^2 + B * x + C dictates the shape of the parabola.</br>

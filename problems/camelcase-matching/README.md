@@ -66,10 +66,12 @@
 <summary>Hint 1</summary>
 Given a single pattern and word, how can we solve it?
 </details>
+
 <details>
 <summary>Hint 2</summary>
 One way to do it is using a DP (pos1, pos2) where pos1 is a pointer to the word and pos2 to the pattern and returns true if we can match the pattern with the given word.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 We have two scenarios: The first one is when `word[pos1] == pattern[pos2]`, then the transition will be just DP(pos1 + 1, pos2 + 1). The second scenario is when `word[pos1]` is lowercase then we can add this character to the pattern so that the transition is just DP(pos1 + 1, pos2)

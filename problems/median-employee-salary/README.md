@@ -59,10 +59,12 @@
 <summary>Hint 1</summary>
 Still remember how to select the sum which group by one column?
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Try to think about how to get the median from a sorted list.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 How to get the median one item for odd number list while how to get the median two items for even number list, try to unify them.

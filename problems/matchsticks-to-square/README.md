@@ -48,18 +48,22 @@
 <summary>Hint 1</summary>
 Treat the matchsticks as an array. Can we split the array into 4 equal halves?
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Every matchstick can belong to either of the 4 sides. We don't know which one. Maybe try out all options!
 </details>
+
 <details>
 <summary>Hint 3</summary>
 For every matchstick, we have to try out each of the 4 options i.e. which side it can belong to. We can make use of recursion for this.
 </details>
+
 <details>
 <summary>Hint 4</summary>
 We don't really need to keep track of which matchsticks belong to a particular side during recursion. We just need to keep track of the <b>length</b> of each of the 4 sides.
 </details>
+
 <details>
 <summary>Hint 5</summary>
 When all matchsticks have been used we simply need to see the length of all 4 sides. If they're equal, we have a square on our hands!

@@ -86,10 +86,12 @@ Employ &#39;3&#39; has two salary records except its most recent pay month &#39;
 Seem hard at first glance? Try to divide this problem into some sub-problems. 
 Think about how to calculate the cumulative sum of one employee, how to get the cumulative sum for many employees, and how to except the most recent month of the result.
 </details>
+
 <details>
 <summary>Hint 2</summary>
 Use the technique of self-join if you have only one table but to write a complex query.
 </details>
+
 <details>
 <summary>Hint 3</summary>
 Still remember how to use the function `sum` and `max`?
