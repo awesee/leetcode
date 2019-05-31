@@ -79,11 +79,14 @@ func runPost(cmd *base.Command, args []string) {
 			buf.WriteString("\n---\n")
 			buf.WriteString(fmt.Sprintf("\n## [答案](https://github.com/openset/leetcode/tree/master/problems/%s)\n", question.TitleSlug))
 			filename := fmt.Sprintf(formatFilename, t.Format("2006-01-02"), question.TitleSlug)
-			postType := "leetcode"
+			oldPath := path.Join(basePath, "leetcode", filename)
+			newPath := path.Join(basePath, "_posts", filename)
+			base.FilePutContents(oldPath, buf.Bytes())
 			if inPosts[questionId] {
-				postType = "_posts"
+				_ = os.Rename(oldPath, newPath)
+			} else {
+				_ = os.Remove(newPath)
 			}
-			base.FilePutContents(path.Join(basePath, postType, filename), buf.Bytes())
 		}
 	}
 	postTags()
