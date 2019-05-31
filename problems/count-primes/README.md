@@ -78,7 +78,7 @@ private boolean isPrime(int num) {
 <p>The <a href="http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes" target="_blank">Sieve of Eratosthenes</a> is one of the most efficient ways to find all prime numbers up to <i>n</i>. But don't let that name scare you, I promise that the concept is surprisingly simple.</p>
 
 <p>
-<img src="/static/images/solutions/Sieve_of_Eratosthenes_animation.gif" /><br />
+<img src="https://assets.leetcode.com/static_assets/public/images/solutions/Sieve_of_Eratosthenes_animation.gif" /><br />
 <small>Sieve of Eratosthenes: algorithm steps for primes below 121. "<a href="http://commons.wikimedia.org/wiki/File:Sieve_of_Eratosthenes_animation.gif" target="_blank">Sieve of Eratosthenes Animation</a>" by <a href="http://de.wikipedia.org/wiki/Benutzer:SKopp" target="_blank">SKopp</a> is licensed under <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a>.</small>
 </p>
 
