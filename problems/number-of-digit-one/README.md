@@ -26,6 +26,7 @@
 
 ### Similar Questions
   1. [Factorial Trailing Zeroes](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes) (Easy)
+  1. [Digit Count in Range](https://github.com/openset/leetcode/tree/master/problems/digit-count-in-range) (Hard)
 
 ### Hints
 <details>

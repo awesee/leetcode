@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/previous-permutation-with-one-swap "Previous Permutation With One Swap")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-way-to-form-string "Shortest Way to Form String")
 
 ## 1054. Distant Barcodes (Medium)
 
