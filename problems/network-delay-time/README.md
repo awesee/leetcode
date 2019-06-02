@@ -17,6 +17,19 @@
 
 <p>Now, we send a signal from a certain node <code>K</code>. How long will it take for all nodes to receive the signal? If it is impossible, return <code>-1</code>.</p>
 
+<p>&nbsp;</p>
+
+<p><strong>Example 1:</strong></p>
+
+<p><img alt="" src="https://assets.leetcode.com/uploads/2019/05/23/931_example_1.png" style="width: 200px; height: 220px;" /></p>
+
+<pre>
+<strong>Input: </strong>times = <span id="example-input-1-1">[[2,1,1],[2,3,1],[3,4,1]]</span>, N = <span id="example-input-1-2">4</span>, K = <span id="example-input-1-3">2</span>
+<strong>Output: </strong><span id="example-output-1">2</span>
+</pre>
+
+<p>&nbsp;</p>
+
 <p><b>Note:</b></p>
 
 <ol>
@@ -25,8 +38,6 @@
 	<li>The length of <code>times</code> will be in the range <code>[1, 6000]</code>.</li>
 	<li>All edges <code>times[i] = (u, v, w)</code> will have <code>1 &lt;= u, v &lt;= N</code> and <code>0 &lt;= w &lt;= 100</code>.</li>
 </ol>
-
-<p>&nbsp;</p>
 
 ### Related Topics
   [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
