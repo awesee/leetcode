@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/flip-columns-for-maximum-number-of-equal-rows "Flip Columns For Maximum Number of Equal Rows")
 
-## 1071. Greatest Common Divisor of Strings (Easy)
+## 5076. Greatest Common Divisor of Strings (Easy)
 
 <p>For strings <code>S</code> and <code>T</code>, we say &quot;<code>T</code> divides <code>S</code>&quot; if and only if <code>S = T + ... + T</code>&nbsp; (<code>T</code> concatenated with itself 1 or more times)</p>
 
