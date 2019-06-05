@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1065 | [字符串的索引对](https://github.com/openset/leetcode/tree/master/problems/index-pairs-of-a-string) 🔒 | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1032 | [字符流](https://github.com/openset/leetcode/tree/master/problems/stream-of-characters) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]  | Hard |
 | 1023 | [驼峰式匹配](https://github.com/openset/leetcode/tree/master/problems/camelcase-matching) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 745 | [前缀和后缀搜索](https://github.com/openset/leetcode/tree/master/problems/prefix-and-suffix-search) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]  | Hard |

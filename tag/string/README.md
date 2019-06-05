@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1071 | [字符串的最大公因子](https://github.com/openset/leetcode/tree/master/problems/greatest-common-divisor-of-strings) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
+| 1065 | [字符串的索引对](https://github.com/openset/leetcode/tree/master/problems/index-pairs-of-a-string) 🔒 | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1023 | [驼峰式匹配](https://github.com/openset/leetcode/tree/master/problems/camelcase-matching) | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 1016 | [子串能表示从 1 到 N 数字的二进制串](https://github.com/openset/leetcode/tree/master/problems/binary-string-with-substrings-representing-1-to-n) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 1003 | [检查替换后的词是否有效](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
