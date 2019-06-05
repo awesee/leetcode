@@ -47,3 +47,15 @@ Next >
 	<li><code>-1000 &lt;= matrix[i] &lt;= 1000</code></li>
 	<li><code>-10^8 &lt;= target &lt;= 10^8</code></li>
 </ol>
+
+### Related Topics
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Using a 2D prefix sum, we can query the sum of any submatrix in O(1) time.
+Now for each (r1, r2), we can find the largest sum of a submatrix that uses every row in [r1, r2] in linear time using a sliding window.
+</details>
