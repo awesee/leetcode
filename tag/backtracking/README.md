@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1066 | [校园自行车分配 II](https://github.com/openset/leetcode/tree/master/problems/campus-bikes-ii) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
 | 996 | [正方形数组的数目](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
 | 980 | [不同路径 III](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
 | 842 | [将数组拆分成斐波那契序列](https://github.com/openset/leetcode/tree/master/problems/split-array-into-fibonacci-sequence) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |

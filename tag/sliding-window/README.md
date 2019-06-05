@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1074 | [元素和为目标值的子矩阵数量](https://github.com/openset/leetcode/tree/master/problems/number-of-submatrices-that-sum-to-target) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Hard |
 | 1052 | [爱生气的书店老板](https://github.com/openset/leetcode/tree/master/problems/grumpy-bookstore-owner) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
 | 1040 | [移动石子直到连续 II](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
 | 1004 | [最大连续1的个数 III](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii) | [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |

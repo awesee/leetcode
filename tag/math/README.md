@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1073 | [负二进制数相加](https://github.com/openset/leetcode/tree/master/problems/adding-two-negabinary-numbers) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
+| 1067 | [范围内的数字计数](https://github.com/openset/leetcode/tree/master/problems/digit-count-in-range) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1041 | [困于环中的机器人](https://github.com/openset/leetcode/tree/master/problems/robot-bounded-in-circle) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 1037 | [有效的回旋镖](https://github.com/openset/leetcode/tree/master/problems/valid-boomerang) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 1025 | [除数博弈](https://github.com/openset/leetcode/tree/master/problems/divisor-game) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Easy |

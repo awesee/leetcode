@@ -9,6 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1074 | [元素和为目标值的子矩阵数量](https://github.com/openset/leetcode/tree/master/problems/number-of-submatrices-that-sum-to-target) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Hard |
+| 1067 | [范围内的数字计数](https://github.com/openset/leetcode/tree/master/problems/digit-count-in-range) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
+| 1066 | [校园自行车分配 II](https://github.com/openset/leetcode/tree/master/problems/campus-bikes-ii) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
 | 1049 | [最后一块石头的重量 II](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight-ii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1048 | [最长字符串链](https://github.com/openset/leetcode/tree/master/problems/longest-string-chain) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1039 | [多边形三角剖分的最低得分](https://github.com/openset/leetcode/tree/master/problems/minimum-score-triangulation-of-polygon) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
