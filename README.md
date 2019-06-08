@@ -54,6 +54,9 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1077">1077</span> | [Project Employees III](https://leetcode.com/problems/project-employees-iii) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/project-employees-iii) | Medium |
+| <span id="1076">1076</span> | [Project Employees II](https://leetcode.com/problems/project-employees-ii) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/project-employees-ii) | Easy |
+| <span id="1075">1075</span> | [Project Employees I](https://leetcode.com/problems/project-employees-i) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/project-employees-i) | Easy |
 | <span id="1074">1074</span> | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target "元素和为目标值的子矩阵数量") | [Go](https://github.com/openset/leetcode/tree/master/problems/number-of-submatrices-that-sum-to-target) | Hard |
 | <span id="1073">1073</span> | [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers "负二进制数相加") | [Go](https://github.com/openset/leetcode/tree/master/problems/adding-two-negabinary-numbers) | Medium |
 | <span id="1072">1072</span> | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows "按列翻转得到最大值等行数") | [Go](https://github.com/openset/leetcode/tree/master/problems/flip-columns-for-maximum-number-of-equal-rows) | Medium |

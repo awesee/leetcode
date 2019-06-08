@@ -10,6 +10,7 @@
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1064 | [不动点](https://github.com/openset/leetcode/tree/master/problems/fixed-point) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Easy |
+| 1060 | [有序数组中的缺失元素](https://github.com/openset/leetcode/tree/master/problems/missing-element-in-sorted-array) 🔒 | [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
 | 1044 | [最长重复子串](https://github.com/openset/leetcode/tree/master/problems/longest-duplicate-substring) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
 | 1011 | [在 D 天内送达包裹的能力](https://github.com/openset/leetcode/tree/master/problems/capacity-to-ship-packages-within-d-days) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
 | 981 | [基于时间的键值存储](https://github.com/openset/leetcode/tree/master/problems/time-based-key-value-store) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |

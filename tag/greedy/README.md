@@ -9,6 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1058 | [最小化舍入误差以满足目标](https://github.com/openset/leetcode/tree/master/problems/minimize-rounding-error-to-meet-target) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
+| 1057 | [校园自行车分配](https://github.com/openset/leetcode/tree/master/problems/campus-bikes) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]  | Medium |
+| 1055 | [形成字符串的最短路径](https://github.com/openset/leetcode/tree/master/problems/shortest-way-to-form-string) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1053 | [交换一次的先前排列](https://github.com/openset/leetcode/tree/master/problems/previous-permutation-with-one-swap) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 1046 | [最后一块石头的重量](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
 | 1029 | [两地调度](https://github.com/openset/leetcode/tree/master/problems/two-city-scheduling) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |

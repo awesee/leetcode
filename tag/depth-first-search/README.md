@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1061 | [按字典序排列最小的等效字符串](https://github.com/openset/leetcode/tree/master/problems/lexicographically-smallest-equivalent-string) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]  | Medium |
 | 1034 | [边框着色](https://github.com/openset/leetcode/tree/master/problems/coloring-a-border) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
 | 1028 | [从先序遍历还原二叉树](https://github.com/openset/leetcode/tree/master/problems/recover-a-tree-from-preorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Hard |
 | 1026 | [节点与其祖先之间的最大差值](https://github.com/openset/leetcode/tree/master/problems/maximum-difference-between-node-and-ancestor) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
