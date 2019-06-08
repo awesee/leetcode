@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1057 | [校园自行车分配](https://github.com/openset/leetcode/tree/master/problems/campus-bikes) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]  | Medium |
 | 1054 | [距离相等的条形码](https://github.com/openset/leetcode/tree/master/problems/distant-barcodes) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]  | Medium |
 | 1030 | [距离顺序排列矩阵单元格](https://github.com/openset/leetcode/tree/master/problems/matrix-cells-in-distance-order) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]  | Easy |
 | 976 | [三角形的最大周长](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |

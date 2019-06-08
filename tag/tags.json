@@ -50,14 +50,14 @@
 		"TranslatedName": "双指针"
 	},
 	{
-		"Name": "Stack",
-		"Slug": "stack",
-		"TranslatedName": "栈"
-	},
-	{
 		"Name": "Breadth-first Search",
 		"Slug": "breadth-first-search",
 		"TranslatedName": "广度优先搜索"
+	},
+	{
+		"Name": "Stack",
+		"Slug": "stack",
+		"TranslatedName": "栈"
 	},
 	{
 		"Name": "Backtracking",

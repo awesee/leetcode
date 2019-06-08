@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1061 | [按字典序排列最小的等效字符串](https://github.com/openset/leetcode/tree/master/problems/lexicographically-smallest-equivalent-string) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]  | Medium |
 | 990 | [等式方程的可满足性](https://github.com/openset/leetcode/tree/master/problems/satisfiability-of-equality-equations) | [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 959 | [由斜杠划分区域](https://github.com/openset/leetcode/tree/master/problems/regions-cut-by-slashes) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 952 | [按公因数计算最大组件大小](https://github.com/openset/leetcode/tree/master/problems/largest-component-size-by-common-factor) | [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
