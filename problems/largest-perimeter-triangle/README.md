@@ -66,8 +66,8 @@
 </div>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
 
 ### Similar Questions
   1. [Largest Triangle Area](https://github.com/openset/leetcode/tree/master/problems/largest-triangle-area) (Easy)

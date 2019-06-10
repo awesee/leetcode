@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/project-employees-ii "Project Employees II")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/occurrences-after-bigram "Occurrences After Bigram")
 
 ## 1077. Project Employees III (Medium)
 
