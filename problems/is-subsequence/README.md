@@ -49,3 +49,4 @@ If there are lots of incoming S, say S1, S2, ... , Sk where k >= 1B, and you wan
 
 ### Similar Questions
   1. [Number of Matching Subsequences](https://github.com/openset/leetcode/tree/master/problems/number-of-matching-subsequences) (Medium)
+  1. [Shortest Way to Form String](https://github.com/openset/leetcode/tree/master/problems/shortest-way-to-form-string) (Medium)

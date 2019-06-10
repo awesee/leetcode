@@ -54,9 +54,9 @@ We only want the closest K = 1 points from the origin, so the answer is just [[-
 </div>
 
 ### Related Topics
+  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
   [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
   [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
   1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array) (Medium)

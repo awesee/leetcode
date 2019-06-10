@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1081">1081</span> | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters "不同字符的最小子序列") | [Go](https://github.com/openset/leetcode/tree/master/problems/smallest-subsequence-of-distinct-characters) | Medium |
+| <span id="1080">1080</span> | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths "根到叶路径上的不足节点") | [Go](https://github.com/openset/leetcode/tree/master/problems/insufficient-nodes-in-root-to-leaf-paths) | Medium |
+| <span id="1079">1079</span> | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities "活字印刷") | [Go](https://github.com/openset/leetcode/tree/master/problems/letter-tile-possibilities) | Medium |
+| <span id="1078">1078</span> | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram "Bigram 分词") | [Go](https://github.com/openset/leetcode/tree/master/problems/occurrences-after-bigram) | Easy |
 | <span id="1077">1077</span> | [Project Employees III](https://leetcode.com/problems/project-employees-iii) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/project-employees-iii) | Medium |
 | <span id="1076">1076</span> | [Project Employees II](https://leetcode.com/problems/project-employees-ii) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/project-employees-ii) | Easy |
 | <span id="1075">1075</span> | [Project Employees I](https://leetcode.com/problems/project-employees-i) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/project-employees-i) | Easy |
