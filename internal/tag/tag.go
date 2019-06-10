@@ -23,7 +23,7 @@ func runTag(cmd *base.Command, args []string) {
 	var buf bytes.Buffer
 	buf.WriteString(base.AuthInfo("tag"))
 	buf.WriteString("\n## 话题分类\n\n")
-	buf.WriteString("| # | Title | 标题 | | # | Title | 标题 |\n")
+	buf.WriteString("| # | Title | 话题 | | # | Title | 话题 |\n")
 	buf.WriteString("| :-: | - | :-: | - | :-: | - | :-: |\n")
 	format := "| %d | [%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md) | [%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md) | "
 	n := buf.Len()

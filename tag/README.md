@@ -7,7 +7,7 @@
 
 ## 话题分类
 
-| # | Title | 标题 | | # | Title | 标题 |
+| # | Title | 话题 | | # | Title | 话题 |
 | :-: | - | :-: | - | :-: | - | :-: |
 | 1 | [Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md) | [数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md) | | 2 | [Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md) | [动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md) | 
 | 3 | [Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md) | [数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md) | | 4 | [String](https://github.com/openset/leetcode/tree/master/tag/string/README.md) | [字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md) | 
