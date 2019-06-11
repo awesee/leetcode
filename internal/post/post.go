@@ -6,7 +6,6 @@ import (
 	"os"
 	"path"
 	"regexp"
-	"strconv"
 	"strings"
 	"time"
 
@@ -31,12 +30,12 @@ func runPost(cmd *base.Command, args []string) {
 	formatSimilarQuestion := "  1. [%s](/%s)%s\n"
 	problems := leetcode.ProblemsAll()
 	for _, problem := range problems.StatStatusPairs {
+		questionId := problem.Stat.FrontendQuestionId
 		titleSlug := problem.Stat.QuestionTitleSlug
 		question := leetcode.QuestionData(titleSlug, false).Data.Question
 		if question.TranslatedContent != "" {
-			fmt.Println(question.QuestionFrontendId, "\t"+question.TranslatedTitle, "saving...")
+			fmt.Println(questionId, "\t"+question.TranslatedTitle, "saving...")
 			var buf bytes.Buffer
-			questionId, _ := strconv.Atoi(question.QuestionFrontendId)
 			t := time.Date(2016, 1, 1, 21, 30, 0, 0, time.Local)
 			t = t.AddDate(0, 0, questionId)
 			var tags []string
@@ -131,6 +130,7 @@ var inPosts = map[int]bool{
 	2:    true,
 	3:    true,
 	4:    true,
+	6:    true,
 	7:    true,
 	8:    true,
 	9:    true,
