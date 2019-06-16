@@ -38,3 +38,4 @@ s = "2[abc]3[cd]ef", return "abcabccdcdcdef".
 ### Similar Questions
   1. [Encode String with Shortest Length](https://github.com/openset/leetcode/tree/master/problems/encode-string-with-shortest-length) (Hard)
   1. [Number of Atoms](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms) (Hard)
+  1. [Permutation of Letters](https://github.com/openset/leetcode/tree/master/problems/permutation-of-letters) (Medium)

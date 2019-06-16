@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst-ii "Inorder Successor in BST II")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-ii "Game Play Analysis II")
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/freedom-trail "Freedom Trail")
 

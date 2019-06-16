@@ -54,6 +54,17 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1092">1092</span> | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence "最短公共超序列") | [Go](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence) | Hard |
+| <span id="1091">1091</span> | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix "二进制矩阵中的最短路径") | [Go](https://github.com/openset/leetcode/tree/master/problems/shortest-path-in-binary-matrix) | Medium |
+| <span id="1090">1090</span> | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels "受标签影响的最大值") | [Go](https://github.com/openset/leetcode/tree/master/problems/largest-values-from-labels) | Medium |
+| <span id="1089">1089</span> | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros "复写零") | [Go](https://github.com/openset/leetcode/tree/master/problems/duplicate-zeros) | Easy |
+| <span id="1088">1088</span> | [Confusing Number II](https://leetcode.com/problems/confusing-number-ii "易混淆数 II") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/confusing-number-ii) | Hard |
+| <span id="1087">1087</span> | [Brace Expansion](https://leetcode.com/problems/brace-expansion "字母切换") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/brace-expansion) | Medium |
+| <span id="1086">1086</span> | [High Five](https://leetcode.com/problems/high-five "前五科的均分") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/high-five) | Easy |
+| <span id="1085">1085</span> | [Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number "最小元素各数位之和") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/sum-of-digits-in-the-minimum-number) | Easy |
+| <span id="1084">1084</span> | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-iii) | Easy |
+| <span id="1083">1083</span> | [Sales Analysis II](https://leetcode.com/problems/sales-analysis-ii) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-ii) | Easy |
+| <span id="1082">1082</span> | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-i) | Easy |
 | <span id="1081">1081</span> | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters "不同字符的最小子序列") | [Go](https://github.com/openset/leetcode/tree/master/problems/smallest-subsequence-of-distinct-characters) | Medium |
 | <span id="1080">1080</span> | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths "根到叶路径上的不足节点") | [Go](https://github.com/openset/leetcode/tree/master/problems/insufficient-nodes-in-root-to-leaf-paths) | Medium |
 | <span id="1079">1079</span> | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities "活字印刷") | [Go](https://github.com/openset/leetcode/tree/master/problems/letter-tile-possibilities) | Medium |

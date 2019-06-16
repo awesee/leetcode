@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-ii "Lonely Pixel II")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iii "Game Play Analysis III")
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-string "Construct Binary Tree from String")
 

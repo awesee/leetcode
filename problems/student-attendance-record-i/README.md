@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence-ii "Binary Tree Longest Consecutive Sequence II")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iv "Game Play Analysis IV")
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-ii "Student Attendance Record II")
 
