@@ -38,3 +38,4 @@
 
 ### Similar Questions
   1. [Subsets](https://github.com/openset/leetcode/tree/master/problems/subsets) (Medium)
+  1. [Permutation of Letters](https://github.com/openset/leetcode/tree/master/problems/permutation-of-letters) (Medium)

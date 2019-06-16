@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/insufficient-nodes-in-root-to-leaf-paths "Insufficient Nodes in Root to Leaf Paths")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-i "Sales Analysis I")
 
 ## 1081. Smallest Subsequence of Distinct Characters (Medium)
 

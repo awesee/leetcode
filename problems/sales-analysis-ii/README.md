@@ -5,16 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number "Fibonacci Number")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-i "Sales Analysis I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-i "Game Play Analysis I")
+[Next >](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-iii "Sales Analysis III")
 
-## 510. Inorder Successor in BST II (Medium)
+## 1083. Sales Analysis II (Easy)
 
 
-
-### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-
-### Similar Questions
-  1. [Inorder Successor in BST](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst) (Medium)

@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/split-array-with-equal-sum "Split Array with Equal Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-i "Student Attendance Record I")
+[Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iv "Game Play Analysis IV")
 
 ## 549. Binary Tree Longest Consecutive Sequence II (Medium)
 

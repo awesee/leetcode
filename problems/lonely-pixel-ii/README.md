@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/k-diff-pairs-in-an-array "K-diff Pairs in an Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-tinyurl "Encode and Decode TinyURL")
+[Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iii "Game Play Analysis III")
 
 ## 533. Lonely Pixel II (Medium)
 
