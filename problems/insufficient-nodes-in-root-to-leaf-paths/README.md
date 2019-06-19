@@ -36,6 +36,16 @@ Output: </strong><span id="example-output-1">[1,2,3,4,null,null,7,8,9,null,14]</
 Input: </strong>root = <span id="example-input-2-1">[5,4,8,11,null,17,4,7,1,null,null,5,3]</span>, limit = <span id="example-input-2-2">22</span>
 <strong><img alt="" src="https://assets.leetcode.com/uploads/2019/06/05/insufficient-4.png" style="width: 264px; height: 200px;" />
 Output: </strong><span id="example-output-2">[5,4,8,11,null,17,4,7,null,null,null,5]</span></pre>
+
+<p>&nbsp;</p>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong><img alt="" src="https://assets.leetcode.com/uploads/2019/06/11/screen-shot-2019-06-11-at-83301-pm.png" style="width: 188px; height: 150px;" />
+Input: </strong>root = <span>[1,2,-3,-5,null,4,null]</span>, limit = -1
+<img alt="" src="https://assets.leetcode.com/uploads/2019/06/11/screen-shot-2019-06-11-at-83517-pm.png" style="width: 122px; height: 150px;" /><strong>
+Output: </strong><span>[1,null,-3,4]</span></pre>
 </div>
 
 <p>&nbsp;</p>
@@ -51,3 +61,12 @@ Output: </strong><span id="example-output-2">[5,4,8,11,null,17,4,7,null,null,nul
 <div>
 <div>&nbsp;</div>
 </div>
+
+### Related Topics
+  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Consider a DFS traversal of the tree.  You can keep track of the current path sum from root to this node, and you can also use DFS to return the minimum value of any path from this node to the leaf.  This will tell you if this node is insufficient.
+</details>
