@@ -8,7 +8,8 @@ const (
 	apiProblemsShellUrl      = "https://leetcode.com/api/problems/shell/"
 	problemsetAllUrl         = "https://leetcode.com/problemset/all/"
 	questionArticleUrl       = "https://leetcode.com/articles/%s/"
-	graphqlUrl               = "https://leetcode-cn.com/graphql"
+	graphQLUrl               = "https://leetcode.com/graphql"
+	graphQLCnUrl             = "https://leetcode-cn.com/graphql"
 	apiProgressAllUrl        = "https://leetcode.com/api/progress/all/"
 	submissionsLatestUrl     = "https://leetcode.com/submissions/latest/"
 )
@@ -26,3 +27,5 @@ const (
 	questionArticleFile     = "question_article_%s.html"
 	topicTagFile            = "topic_tag_%s.json"
 )
+
+var graphQL = graphQLCnUrl

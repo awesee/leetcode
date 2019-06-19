@@ -28,10 +28,15 @@ func QuestionData(titleSlug string, isForce bool) (qd questionDataType) {
 	graphQLRequest(filename, days, jsonStr, &qd)
 	if qd.Data.Question.TitleSlug == "" {
 		_ = os.Remove(getCachePath(filename))
+		if graphQL == graphQLCnUrl {
+			graphQL = graphQLUrl
+			return QuestionData(titleSlug, isForce)
+		}
 		for _, err := range qd.Errors {
 			log.Println(titleSlug, err.Message)
 		}
 	}
+	graphQL = graphQLCnUrl
 	return
 }
 

@@ -25,7 +25,7 @@ var (
 
 func graphQLRequest(filename string, days int, jsonStr string, v interface{}) {
 	data := remember(filename, days, func() []byte {
-		return client.PostJson(graphqlUrl, jsonStr)
+		return client.PostJson(graphQL, jsonStr)
 	})
 	jsonDecode(data, &v)
 }
