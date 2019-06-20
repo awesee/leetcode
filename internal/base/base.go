@@ -10,11 +10,15 @@ import (
 	"path"
 	"path/filepath"
 	"strings"
+	"sync"
 )
 
 const CmdName = "leetcode"
 
-var Commands []*Command
+var (
+	Commands []*Command
+	Mutex    sync.Mutex
+)
 
 type Command struct {
 	Run       func(cmd *Command, args []string)

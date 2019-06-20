@@ -12,7 +12,7 @@ import (
 	"unicode"
 )
 
-func QuestionData(titleSlug string, isForce bool) (qd questionDataType) {
+func QuestionData(titleSlug string, isForce bool, graphQL ...string) (qd questionDataType) {
 	jsonStr := `{
 		"operationName": "questionData",
 		"variables": {
@@ -24,19 +24,20 @@ func QuestionData(titleSlug string, isForce bool) (qd questionDataType) {
 	if isForce {
 		days = 0
 	}
+	if len(graphQL) == 0 {
+		graphQL = []string{graphQLCnUrl}
+	}
 	filename := fmt.Sprintf(questionDataFile, slugToSnake(titleSlug))
-	graphQLRequest(filename, days, jsonStr, &qd)
+	graphQLRequest(graphQL[0], jsonStr, filename, days, &qd)
 	if qd.Data.Question.TitleSlug == "" {
 		_ = os.Remove(getCachePath(filename))
-		if graphQL == graphQLCnUrl {
-			graphQL = graphQLUrl
-			return QuestionData(titleSlug, isForce)
+		if graphQL[0] == graphQLCnUrl {
+			return QuestionData(titleSlug, isForce, graphQLUrl)
 		}
 		for _, err := range qd.Errors {
 			log.Println(titleSlug, err.Message)
 		}
 	}
-	graphQL = graphQLCnUrl
 	return
 }
 
@@ -68,7 +69,7 @@ type questionType struct {
 	Dislikes           int                `json:"dislikes"`
 	IsLiked            int                `json:"isLiked"`
 	SimilarQuestions   string             `json:"similarQuestions"`
-	TopicTags          []tagType          `json:"topicTags"`
+	TopicTags          []TagType          `json:"topicTags"`
 	CodeSnippets       []codeSnippetsType `json:"codeSnippets"`
 	Hints              []string           `json:"hints"`
 	MysqlSchemas       []string           `json:"mysqlSchemas"`
