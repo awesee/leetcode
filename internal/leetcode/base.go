@@ -23,7 +23,7 @@ var (
 	translationSet  = make(map[int]string)
 )
 
-func graphQLRequest(filename string, days int, jsonStr string, v interface{}) {
+func graphQLRequest(graphQL, jsonStr, filename string, days int, v interface{}) {
 	data := remember(filename, days, func() []byte {
 		return client.PostJson(graphQL, jsonStr)
 	})

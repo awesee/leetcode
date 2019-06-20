@@ -27,13 +27,13 @@ type problemsType struct {
 	AcEasy          int                   `json:"ac_easy"`
 	AcMedium        int                   `json:"ac_medium"`
 	AcHard          int                   `json:"ac_hard"`
-	StatStatusPairs []statStatusPairsType `json:"stat_status_pairs"`
+	StatStatusPairs []StatStatusPairsType `json:"stat_status_pairs"`
 	FrequencyHigh   int                   `json:"frequency_high"`
 	FrequencyMid    int                   `json:"frequency_mid"`
 	CategorySlug    string                `json:"category_slug"`
 }
 
-type statStatusPairsType struct {
+type StatStatusPairsType struct {
 	Stat       statType       `json:"stat"`
 	Status     string         `json:"status"`
 	Difficulty difficultyType `json:"difficulty"`
@@ -62,7 +62,7 @@ type difficultyType struct {
 
 type paidType bool
 
-func (problem statStatusPairsType) WriteRow(buf *bytes.Buffer) {
+func (problem StatStatusPairsType) WriteRow(buf *bytes.Buffer) {
 	format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s%s)%s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s) | %s |\n"
 	id := problem.Stat.FrontendQuestionId
 	stat := problem.Stat

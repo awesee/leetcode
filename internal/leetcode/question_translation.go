@@ -12,7 +12,7 @@ func GetQuestionTranslation() (qt questionTranslationType) {
 		"variables": {},
 		"query": "query getQuestionTranslation($lang: String) {\n  translations: allAppliedQuestionTranslations(lang: $lang) {\n    title\n    question {\n      questionId\n      __typename\n    }\n    __typename\n  }\n}\n"
 	}`
-	graphQLRequest(questionTranslationFile, 2, jsonStr, &qt)
+	graphQLRequest(graphQLCnUrl, jsonStr, questionTranslationFile, 2, &qt)
 	if qt.Data.Translations == nil {
 		_ = os.Remove(getCachePath(questionTranslationFile))
 		for _, err := range qt.Errors {

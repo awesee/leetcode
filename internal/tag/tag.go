@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"fmt"
 	"reflect"
+	"sync"
 
 	"github.com/openset/leetcode/internal/base"
 	"github.com/openset/leetcode/internal/leetcode"
@@ -20,6 +21,7 @@ func runTag(cmd *base.Command, args []string) {
 	if len(args) != 0 {
 		cmd.Usage()
 	}
+	var wg sync.WaitGroup
 	var buf bytes.Buffer
 	buf.WriteString(base.AuthInfo("tag"))
 	buf.WriteString("\n## 话题分类\n\n")
@@ -38,11 +40,16 @@ func runTag(cmd *base.Command, args []string) {
 			if i&1 == 1 {
 				buf.WriteString("\n")
 			}
-			tag.SaveContents()
+			wg.Add(1)
+			go func(tag leetcode.TagType) {
+				tag.SaveContents()
+				wg.Done()
+			}(tag)
 		}
 		if reflect.DeepEqual(tags, leetcode.GetTags()) {
 			break
 		}
 	}
 	base.FilePutContents("tag/README.md", buf.Bytes())
+	wg.Wait()
 }
