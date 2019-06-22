@@ -1,6 +1,7 @@
 package description
 
 import (
+	"fmt"
 	"sync"
 
 	"github.com/openset/leetcode/internal/base"
@@ -24,6 +25,7 @@ func runDescription(cmd *base.Command, args []string) {
 	for _, problem := range problems.StatStatusPairs {
 		wg.Add(1)
 		tokens <- true
+		fmt.Println(problem.Stat.FrontendQuestionId, "\t"+problem.Stat.QuestionTitle)
 		go func(problem leetcode.StatStatusPairsType) {
 			titleSlug := problem.Stat.QuestionTitleSlug
 			question := leetcode.QuestionData(titleSlug, false).Data.Question
