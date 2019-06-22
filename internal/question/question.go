@@ -1,6 +1,7 @@
 package question
 
 import (
+	"fmt"
 	"strconv"
 
 	"github.com/openset/leetcode/internal/base"
@@ -22,6 +23,7 @@ func runQuestion(cmd *base.Command, args []string) {
 		problems := leetcode.ProblemsAll()
 		for _, problem := range problems.StatStatusPairs {
 			if problem.Stat.FrontendQuestionId == questionId {
+				fmt.Println(questionId, "\t"+problem.Stat.QuestionTitle)
 				titleSlug := problem.Stat.QuestionTitleSlug
 				question := leetcode.QuestionData(titleSlug, true).Data.Question
 				if question.Content == "" && problem.PaidOnly == true && problem.Stat.QuestionArticleLive {

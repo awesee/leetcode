@@ -99,7 +99,6 @@ func (d difficultyStrType) Str() (s string) {
 
 func (question questionType) SaveContent() {
 	if question.TitleSlug != "" {
-		fmt.Println(question.QuestionFrontendId, "\t"+question.Title, "saving...")
 		filePutContents(question.getFilePath("README.md"), question.getDescContent())
 		question.saveMysqlSchemas()
 	}
