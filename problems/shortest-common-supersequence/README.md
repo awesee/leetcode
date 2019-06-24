@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-path-in-binary-matrix "Shortest Path in Binary Matrix")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/statistics-from-a-large-sample "Statistics from a Large Sample")
 
 ## 1092. Shortest Common Supersequence (Hard)
 

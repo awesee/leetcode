@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1096">1096</span> | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii "花括号展开 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii) | Hard |
+| <span id="1095">1095</span> | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array "山脉数组中查找目标值") | [Go](https://github.com/openset/leetcode/tree/master/problems/find-in-mountain-array) | Hard |
+| <span id="1094">1094</span> | [Car Pooling](https://leetcode.com/problems/car-pooling "拼车") | [Go](https://github.com/openset/leetcode/tree/master/problems/car-pooling) | Medium |
+| <span id="1093">1093</span> | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample "大样本统计") | [Go](https://github.com/openset/leetcode/tree/master/problems/statistics-from-a-large-sample) | Medium |
 | <span id="1092">1092</span> | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence "最短公共超序列") | [Go](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence) | Hard |
 | <span id="1091">1091</span> | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix "二进制矩阵中的最短路径") | [Go](https://github.com/openset/leetcode/tree/master/problems/shortest-path-in-binary-matrix) | Medium |
 | <span id="1090">1090</span> | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels "受标签影响的最大值") | [Go](https://github.com/openset/leetcode/tree/master/problems/largest-values-from-labels) | Medium |
