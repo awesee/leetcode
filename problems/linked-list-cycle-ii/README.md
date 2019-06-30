@@ -51,7 +51,7 @@
 
 <p>&nbsp;</p>
 
-<p><b>Follow up</b>:<br />
+<p><b>Follow-up</b>:<br />
 Can you solve it without using extra space?</p>
 
 ### Related Topics

@@ -5,13 +5,13 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst-ii "Inorder Successor in BST II")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii "Brace Expansion II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-ii "Game Play Analysis II")
+[Next >](https://github.com/openset/leetcode/tree/master/problems/unpopular-books "Unpopular Books")
 
-## 511. Game Play Analysis I (Easy)
+## 1097. Game Play Analysis V (Hard)
 
 
 
 ### Similar Questions
-  1. [Game Play Analysis II](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-ii) (Easy)
+  1. [Game Play Analysis IV](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iv) (Medium)

@@ -43,3 +43,12 @@
 	<li><code>1 &lt;= arr.length &lt;= 10000</code></li>
 	<li><code>0 &lt;= arr[i] &lt;= 9</code></li>
 </ol>
+
+### Related Topics
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Iterate through the array backwards.  You know whether an integer should be written or not based on how many zeroes are remaining in the array.
+</details>

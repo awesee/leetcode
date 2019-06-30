@@ -20,7 +20,7 @@
 	<li>There exists some <code>i</code> with&nbsp;<code>0 &lt; i&nbsp;&lt; A.length - 1</code>&nbsp;such that:
 	<ul>
 		<li><code>A[0] &lt; A[1] &lt; ... A[i-1] &lt; A[i] </code></li>
-		<li><code>A[i] &gt; A[i+1] &gt; ... &gt; A[B.length - 1]</code></li>
+		<li><code>A[i] &gt; A[i+1] &gt; ... &gt; A[A.length - 1]</code></li>
 	</ul>
 	</li>
 </ul>

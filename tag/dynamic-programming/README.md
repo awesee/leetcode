@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1092 | [最短公共超序列](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1074 | [元素和为目标值的子矩阵数量](https://github.com/openset/leetcode/tree/master/problems/number-of-submatrices-that-sum-to-target) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Hard |
 | 1067 | [范围内的数字计数](https://github.com/openset/leetcode/tree/master/problems/digit-count-in-range) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1066 | [校园自行车分配 II](https://github.com/openset/leetcode/tree/master/problems/campus-bikes-ii) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |

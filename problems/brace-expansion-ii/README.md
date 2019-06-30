@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/find-in-mountain-array "Find in Mountain Array")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-v "Game Play Analysis V")
 
 ## 1096. Brace Expansion II (Hard)
 
@@ -31,7 +31,7 @@ Next >
 	<li>When we concatenate two expressions, we take the set of possible concatenations between two words where the first word comes from the first expression and the second word comes from the second expression.
 	<ul>
 		<li><code>R(&quot;{a,b}{c,d}&quot;) = {&quot;ac&quot;,&quot;ad&quot;,&quot;bc&quot;,&quot;bd&quot;}</code></li>
-		<li><code>R(&quot;{a{b,c}}{{d,e},f{g,h}}&quot;) = R(&quot;{ab,ac}{dfg,dfh,efg,efh}&quot;) = {&quot;abdfg&quot;, &quot;abdfh&quot;, &quot;abefg&quot;, &quot;abefh&quot;, &quot;acdfg&quot;, &quot;acdfh&quot;, &quot;acefg&quot;, &quot;acefh&quot;}</code></li>
+		<li><code>R(&quot;{a{b,c}}{{d,e}f{g,h}}&quot;) = R(&quot;{ab,ac}{dfg,dfh,efg,efh}&quot;) = {&quot;abdfg&quot;, &quot;abdfh&quot;, &quot;abefg&quot;, &quot;abefh&quot;, &quot;acdfg&quot;, &quot;acdfh&quot;, &quot;acefg&quot;, &quot;acefh&quot;}</code></li>
 	</ul>
 	</li>
 </ul>
@@ -76,3 +76,12 @@ Next >
 </ol>
 </div>
 </div>
+
+### Related Topics
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+You can write helper methods to parse the next "chunk" of the expression.  If you see eg. "a", the answer is just the set {a}.  If you see "{", you parse until you complete the "}" (the number of { and } seen are equal) and that becomes a chunk that you find where the appropriate commas are, and parse each individual expression between the commas.
+</details>

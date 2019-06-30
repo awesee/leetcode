@@ -21,3 +21,4 @@
   1. [3Sum](https://github.com/openset/leetcode/tree/master/problems/3sum) (Medium)
   1. [3Sum Closest](https://github.com/openset/leetcode/tree/master/problems/3sum-closest) (Medium)
   1. [Valid Triangle Number](https://github.com/openset/leetcode/tree/master/problems/valid-triangle-number) (Medium)
+  1. [Two Sum Less Than K](https://github.com/openset/leetcode/tree/master/problems/two-sum-less-than-k) (Easy)

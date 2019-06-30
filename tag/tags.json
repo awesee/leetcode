@@ -105,14 +105,14 @@
 		"TranslatedName": "分治算法"
 	},
 	{
-		"Name": "Trie",
-		"Slug": "trie",
-		"TranslatedName": "字典树"
-	},
-	{
 		"Name": "Sliding Window",
 		"Slug": "sliding-window",
 		"TranslatedName": "Sliding Window"
+	},
+	{
+		"Name": "Trie",
+		"Slug": "trie",
+		"TranslatedName": "字典树"
 	},
 	{
 		"Name": "Recursion",

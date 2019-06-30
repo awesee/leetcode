@@ -36,3 +36,12 @@ The answer provided is the shortest such string that satisfies these properties.
 	<li><code>1 &lt;= str1.length, str2.length &lt;= 1000</code></li>
 	<li><code>str1</code> and <code>str2</code> consist of lowercase English letters.</li>
 </ol>
+
+### Related Topics
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+We can find the length of the longest common subsequence between str1[i:] and str2[j:] (for all (i, j)) by using dynamic programming.  We can use this information to recover the longest common supersequence.
+</details>

@@ -73,3 +73,13 @@
 </div>
 </div>
 </div>
+
+### Related Topics
+  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Consider the items in order from largest to smallest value, and greedily take the items if they fall under the use_limit.  We can keep track of how many items of each label are used by using a hash table.
+</details>

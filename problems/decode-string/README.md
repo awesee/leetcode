@@ -11,25 +11,23 @@
 
 ## 394. Decode String (Medium)
 
-<p>
-Given an encoded string, return it's decoded string.
-</p>
-<p>
-The encoding rule is: <code>k[encoded_string]</code>, where the <i>encoded_string</i> inside the square brackets is being repeated exactly <i>k</i> times. Note that <i>k</i> is guaranteed to be a positive integer.</p>
+<p>Given an encoded string, return its decoded string.</p>
 
-<p>
-You may assume that the input string is always valid; No extra white spaces, square brackets are well-formed, etc.</p>
+<p>The encoding rule is: <code>k[encoded_string]</code>, where the <i>encoded_string</i> inside the square brackets is being repeated exactly <i>k</i> times. Note that <i>k</i> is guaranteed to be a positive integer.</p>
 
-<p>Furthermore, you may assume that the original data does not contain any digits and that digits are only for those repeat numbers, <i>k</i>. For example, there won't be input like <code>3a</code> or <code>2[4]</code>.
-</p>
+<p>You may assume that the input string is always valid; No extra white spaces, square brackets are well-formed, etc.</p>
 
-<p><b>Examples:</b>
+<p>Furthermore, you may assume that the original data does not contain any digits and that digits are only for those repeat numbers, <i>k</i>. For example, there won&#39;t be input like <code>3a</code> or <code>2[4]</code>.</p>
+
+<p><b>Examples:</b></p>
+
 <pre>
-s = "3[a]2[bc]", return "aaabcbc".
-s = "3[a2[c]]", return "accaccacc".
-s = "2[abc]3[cd]ef", return "abcabccdcdcdef".
+s = &quot;3[a]2[bc]&quot;, return &quot;aaabcbc&quot;.
+s = &quot;3[a2[c]]&quot;, return &quot;accaccacc&quot;.
+s = &quot;2[abc]3[cd]ef&quot;, return &quot;abcabccdcdcdef&quot;.
 </pre>
-</p>
+
+<p>&nbsp;</p>
 
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
@@ -38,4 +36,4 @@ s = "2[abc]3[cd]ef", return "abcabccdcdcdef".
 ### Similar Questions
   1. [Encode String with Shortest Length](https://github.com/openset/leetcode/tree/master/problems/encode-string-with-shortest-length) (Hard)
   1. [Number of Atoms](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms) (Hard)
-  1. [Permutation of Letters](https://github.com/openset/leetcode/tree/master/problems/permutation-of-letters) (Medium)
+  1. [Brace Expansion](https://github.com/openset/leetcode/tree/master/problems/brace-expansion) (Medium)

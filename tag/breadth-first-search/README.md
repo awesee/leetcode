@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1091 | [二进制矩阵中的最短路径](https://github.com/openset/leetcode/tree/master/problems/shortest-path-in-binary-matrix) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
 | 1036 | [逃离大迷宫](https://github.com/openset/leetcode/tree/master/problems/escape-a-large-maze) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Hard |
 | 994 | [腐烂的橘子](https://github.com/openset/leetcode/tree/master/problems/rotting-oranges) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Easy |
 | 993 | [二叉树的堂兄弟节点](https://github.com/openset/leetcode/tree/master/problems/cousins-in-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Easy |
