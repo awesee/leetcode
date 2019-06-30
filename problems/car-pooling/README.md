@@ -71,3 +71,12 @@
 	<li><code>0 &lt;= trips[i][1] &lt; trips[i][2] &lt;= 1000</code></li>
 	<li><code>1 &lt;=&nbsp;capacity &lt;= 100000</code></li>
 </ol>
+
+### Related Topics
+  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Sort the pickup and dropoff events by location, then process them in order.
+</details>

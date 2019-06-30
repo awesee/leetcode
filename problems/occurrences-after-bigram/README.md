@@ -43,3 +43,12 @@
 	<li><code>first</code> and <code>second</code> consist of lowercase English letters.</li>
 </ol>
 </div>
+
+### Related Topics
+  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Split the string into words, then look at adjacent triples of words.
+</details>

@@ -9,6 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1090 | [受标签影响的最大值](https://github.com/openset/leetcode/tree/master/problems/largest-values-from-labels) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
+| 1086 | [前五科的均分](https://github.com/openset/leetcode/tree/master/problems/high-five) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
+| 1078 | [Bigram 分词](https://github.com/openset/leetcode/tree/master/problems/occurrences-after-bigram) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
 | 1072 | [按列翻转得到最大值等行数](https://github.com/openset/leetcode/tree/master/problems/flip-columns-for-maximum-number-of-equal-rows) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 1048 | [最长字符串链](https://github.com/openset/leetcode/tree/master/problems/longest-string-chain) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1044 | [最长重复子串](https://github.com/openset/leetcode/tree/master/problems/longest-duplicate-substring) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |

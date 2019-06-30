@@ -12,3 +12,7 @@
 ## 512. Game Play Analysis II (Easy)
 
 
+
+### Similar Questions
+  1. [Game Play Analysis I](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-i) (Easy)
+  1. [Game Play Analysis III](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iii) (Medium)

@@ -47,5 +47,14 @@
 
 <ol>
 	<li><code>1 &lt;= grid.length == grid[0].length &lt;= 100</code></li>
-	<li><code>grid[i][j]</code> is <code>0</code> or <code>1</code></li>
+	<li><code>grid[r][c]</code> is <code>0</code> or <code>1</code></li>
 </ol>
+
+### Related Topics
+  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Do a breadth first search to find the shortest path.
+</details>

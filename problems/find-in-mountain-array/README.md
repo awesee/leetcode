@@ -63,3 +63,13 @@
 	<li><code>0 &lt;= target &lt;= 10^9</code></li>
 	<li><code>0 &lt;= mountain_arr.get(index) &lt;=&nbsp;10^9</code></li>
 </ol>
+
+### Related Topics
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Based on whether A[i-1] < A[i] < A[i+1], A[i-1] < A[i] > A[i+1], or A[i-1] > A[i] > A[i+1], we are either at the left side, peak, or right side of the mountain.  We can binary search to find the peak.
+After finding the peak, we can binary search two more times to find whether the value occurs on either side of the peak.
+</details>

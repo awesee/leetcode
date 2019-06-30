@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1096 | [花括号展开 II](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
+| 1081 | [不同字符的最小子序列](https://github.com/openset/leetcode/tree/master/problems/smallest-subsequence-of-distinct-characters) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 1071 | [字符串的最大公因子](https://github.com/openset/leetcode/tree/master/problems/greatest-common-divisor-of-strings) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1065 | [字符串的索引对](https://github.com/openset/leetcode/tree/master/problems/index-pairs-of-a-string) 🔒 | [[字典树](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1062 | [最长重复子串](https://github.com/openset/leetcode/tree/master/problems/longest-repeating-substring) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |

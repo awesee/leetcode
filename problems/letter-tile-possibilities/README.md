@@ -40,3 +40,12 @@
 	<li><code>1 &lt;= tiles.length &lt;= 7</code></li>
 	<li><code>tiles</code> consists of uppercase English letters.</li>
 </ol>
+
+### Related Topics
+  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Try to build the string with a backtracking DFS by considering what you can put in every position.
+</details>

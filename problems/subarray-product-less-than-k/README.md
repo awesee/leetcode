@@ -37,6 +37,7 @@ Note that [10, 5, 2] is not included as the product of 100 is not strictly less 
   1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray) (Medium)
   1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/problems/maximum-size-subarray-sum-equals-k) (Medium)
   1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)
+  1. [Two Sum Less Than K](https://github.com/openset/leetcode/tree/master/problems/two-sum-less-than-k) (Easy)
 
 ### Hints
 <details>

@@ -9,6 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1089 | [复写零](https://github.com/openset/leetcode/tree/master/problems/duplicate-zeros) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
+| 1086 | [前五科的均分](https://github.com/openset/leetcode/tree/master/problems/high-five) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
+| 1085 | [最小元素各数位之和](https://github.com/openset/leetcode/tree/master/problems/sum-of-digits-in-the-minimum-number) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1074 | [元素和为目标值的子矩阵数量](https://github.com/openset/leetcode/tree/master/problems/number-of-submatrices-that-sum-to-target) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Hard |
 | 1064 | [不动点](https://github.com/openset/leetcode/tree/master/problems/fixed-point) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Easy |
 | 1053 | [交换一次的先前排列](https://github.com/openset/leetcode/tree/master/problems/previous-permutation-with-one-swap) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |

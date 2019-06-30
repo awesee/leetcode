@@ -12,3 +12,7 @@
 ## 534. Game Play Analysis III (Medium)
 
 
+
+### Similar Questions
+  1. [Game Play Analysis II](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-ii) (Easy)
+  1. [Game Play Analysis IV](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iv) (Medium)
