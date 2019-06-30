@@ -24,8 +24,6 @@ Because nums[<strong>0</strong>] + nums[<strong>1</strong>] = 2 + 7 = 9,
 return [<strong>0</strong>, <strong>1</strong>].
 </pre>
 
-<p>&nbsp;</p>
-
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
@@ -37,3 +35,4 @@ return [<strong>0</strong>, <strong>1</strong>].
   1. [Two Sum III - Data structure design](https://github.com/openset/leetcode/tree/master/problems/two-sum-iii-data-structure-design) (Easy)
   1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)
   1. [Two Sum IV - Input is a BST](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst) (Easy)
+  1. [Two Sum Less Than K](https://github.com/openset/leetcode/tree/master/problems/two-sum-less-than-k) (Easy)
