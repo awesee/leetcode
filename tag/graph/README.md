@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1102 | [得分最高的路径](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-minimum-value) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 1059 | [从始点到终点的所有路径](https://github.com/openset/leetcode/tree/master/problems/all-paths-from-source-lead-to-destination) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 1043 | [分隔数组以得到最大和](https://github.com/openset/leetcode/tree/master/problems/partition-array-for-maximum-sum) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 1042 | [不邻接植花](https://github.com/openset/leetcode/tree/master/problems/flower-planting-with-no-adjacent) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Easy |

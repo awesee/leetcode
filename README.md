@@ -54,6 +54,11 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1107">1107</span> | [New Users Daily Count](https://leetcode.com/problems/new-users-daily-count) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/new-users-daily-count) | Medium |
+| <span id="1106">1106</span> | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression "解析布尔表达式") | [Go](https://github.com/openset/leetcode/tree/master/problems/parsing-a-boolean-expression) | Hard |
+| <span id="1105">1105</span> | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves "填充书架") | [Go](https://github.com/openset/leetcode/tree/master/problems/filling-bookcase-shelves) | Medium |
+| <span id="1104">1104</span> | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree "二叉树寻路") | [Go](https://github.com/openset/leetcode/tree/master/problems/path-in-zigzag-labelled-binary-tree) | Medium |
+| <span id="1103">1103</span> | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people "分糖果 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/distribute-candies-to-people) | Easy |
 | <span id="1102">1102</span> | [Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value "得分最高的路径") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-minimum-value) | Medium |
 | <span id="1101">1101</span> | [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends "彼此熟识的最早时间") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/the-earliest-moment-when-everyone-become-friends) | Medium |
 | <span id="1100">1100</span> | [Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters "长度为 K 的无重复字符子串") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/find-k-length-substrings-with-no-repeated-characters) | Medium |

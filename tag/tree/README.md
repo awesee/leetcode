@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1104 | [二叉树寻路](https://github.com/openset/leetcode/tree/master/problems/path-in-zigzag-labelled-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 1028 | [从先序遍历还原二叉树](https://github.com/openset/leetcode/tree/master/problems/recover-a-tree-from-preorder-traversal) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Hard |
 | 1026 | [节点与其祖先之间的最大差值](https://github.com/openset/leetcode/tree/master/problems/maximum-difference-between-node-and-ancestor) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
 | 1022 | [从根到叶的二进制数之和](https://github.com/openset/leetcode/tree/master/problems/sum-of-root-to-leaf-binary-numbers) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Easy |
