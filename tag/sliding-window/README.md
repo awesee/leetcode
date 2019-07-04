@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1100 | [长度为 K 的无重复字符子串](https://github.com/openset/leetcode/tree/master/problems/find-k-length-substrings-with-no-repeated-characters) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
 | 1074 | [元素和为目标值的子矩阵数量](https://github.com/openset/leetcode/tree/master/problems/number-of-submatrices-that-sum-to-target) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Hard |
 | 1052 | [爱生气的书店老板](https://github.com/openset/leetcode/tree/master/problems/grumpy-bookstore-owner) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
 | 1040 | [移动石子直到连续 II](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive-ii) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |

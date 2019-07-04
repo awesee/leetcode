@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-k-length-substrings-with-no-repeated-characters "Find K-Length Substrings With No Repeated Characters")
 
-## 5021. Two Sum Less Than K (Easy)
+## 1099. Two Sum Less Than K (Easy)
 
 <p>Given an array <code>A</code> of integers and&nbsp;integer <code>K</code>, return the maximum <code>S</code> such that there exists <code>i &lt; j</code> with <code>A[i] + A[j] = S</code> and <code>S &lt; K</code>. If no <code>i, j</code> exist satisfying this equation, return -1.</p>
 

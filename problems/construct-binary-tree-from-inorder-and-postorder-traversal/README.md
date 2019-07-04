@@ -33,9 +33,9 @@ postorder = [9,15,7,20,3]</pre>
 </pre>
 
 ### Related Topics
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Similar Questions
   1. [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-inorder-traversal) (Medium)

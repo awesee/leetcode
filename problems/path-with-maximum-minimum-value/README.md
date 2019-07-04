@@ -7,9 +7,9 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/the-earliest-moment-when-everyone-become-friends "The Earliest Moment When Everyone Become Friends")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/distribute-candies-to-people "Distribute Candies to People")
 
-## 5035. Path With Maximum Minimum Value (Medium)
+## 1102. Path With Maximum Minimum Value (Medium)
 
 <p>Given a&nbsp;matrix of integers <code>A</code>&nbsp;with&nbsp;<font face="monospace">R</font>&nbsp;rows and <font face="monospace">C</font>&nbsp;columns, find&nbsp;the <strong>maximum</strong>&nbsp;score&nbsp;of a path starting at&nbsp;<code>[0,0]</code>&nbsp;and ending at <code>[R-1,C-1]</code>.</p>
 

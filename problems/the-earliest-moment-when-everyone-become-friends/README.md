@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-minimum-value "Path With Maximum Minimum Value")
 
-## 5023. The Earliest Moment When Everyone Become Friends (Medium)
+## 1101. The Earliest Moment When Everyone Become Friends (Medium)
 
 <p>In a social group, there are <code>N</code> people, with unique integer ids from <code>0</code> to <code>N-1</code>.</p>
 
