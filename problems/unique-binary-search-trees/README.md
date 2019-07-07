@@ -29,8 +29,8 @@
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Unique Binary Search Trees II](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees-ii) (Medium)
