@@ -24,8 +24,15 @@ func TestThreeSum(t *testing.T) {
 			expected: [][]int{
 				{0, 0, 0},
 			},
-		}, {
-			input: []int{-2, 0, 0, 2, 2},
+		},
+		{
+			input: []int{-2, 0, 0, 2, 2, 2},
+			expected: [][]int{
+				{-2, 0, 2},
+			},
+		},
+		{
+			input: []int{-2, 0, 0, 2, 2, 2, 2},
 			expected: [][]int{
 				{-2, 0, 2},
 			},
