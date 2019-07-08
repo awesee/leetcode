@@ -28,7 +28,12 @@ func QuestionData(titleSlug string, isForce bool, graphQL ...string) (qd questio
 		graphQL = []string{graphQLCnUrl}
 	}
 	filename := fmt.Sprintf(questionDataFile, slugToSnake(titleSlug))
+	oldContent := getContent(filename)
 	graphQLRequest(graphQL[0], jsonStr, filename, days, &qd)
+	if qd.Data.Question.Content == "" && oldContent != "" {
+		qd.Data.Question.Content = oldContent
+		filePutContents(filename, jsonEncode(qd))
+	}
 	if qd.Data.Question.TitleSlug == "" {
 		_ = os.Remove(getCachePath(filename))
 		if graphQL[0] == graphQLCnUrl {
@@ -284,6 +289,13 @@ func filterContents(cts string) string {
 	cts = strings.ReplaceAll(cts, "\r", "")
 	cts = strings.ReplaceAll(cts, `src="/static`, `src="https://assets.leetcode.com/static_assets/public`)
 	return cts
+}
+
+func getContent(filename string) string {
+	var qd questionDataType
+	cts := fileGetContents(filename)
+	jsonDecode(cts, &qd)
+	return qd.Data.Question.Content
 }
 
 const testTpl = `package {{packageName}}
