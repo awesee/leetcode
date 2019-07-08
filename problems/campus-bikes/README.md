@@ -63,7 +63,9 @@ Worker 0 grabs Bike 0 at first. Worker 1 and Worker 2 share the same distance to
 ### Hints
 <details>
 <summary>Hint 1</summary>
-Sort the elements by distance then in case of tie, sort them by the index of the worker, and if there still ties sort then by the index of the bike.Follow up: Can you do this in less than O(nlogn) time, where n is the total number of pairs between workers and bikes?.
+<p>Sort the elements by distance. In case of a tie, sort them by the index of the worker. After that, if there are still ties, sort them by the index of the bike.</p>
+
+<p>Can you do this in less than O(nlogn) time, where n is the total number of pairs between workers and bikes?</p>
 </details>
 
 <details>

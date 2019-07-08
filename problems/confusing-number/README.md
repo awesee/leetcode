@@ -75,6 +75,7 @@ We get an invalid number after rotating <code>25</code>.
 
 ### Similar Questions
   1. [Strobogrammatic Number](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number) (Easy)
+  1. [Confusing Number II](https://github.com/openset/leetcode/tree/master/problems/confusing-number-ii) (Hard)
 
 ### Hints
 <details>
