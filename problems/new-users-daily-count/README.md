@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/parsing-a-boolean-expression "Parsing A Boolean Expression")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/defanging-an-ip-address "Defanging an IP Address")
 
 ## 1107. New Users Daily Count (Medium)
 
