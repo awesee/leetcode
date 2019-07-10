@@ -31,7 +31,7 @@ func runQuestion(cmd *base.Command, args []string) {
 				}
 				question.SaveContent()
 				question.SaveCodeSnippet()
-				break
+				return
 			}
 		}
 	}
