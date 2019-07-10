@@ -32,9 +32,9 @@
 ]</pre>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 
 ### Similar Questions
   1. [Subsets II](https://github.com/openset/leetcode/tree/master/problems/subsets-ii) (Medium)
