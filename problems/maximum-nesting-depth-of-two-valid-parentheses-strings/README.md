@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-nodes-and-return-forest "Delete Nodes And Return Forest")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/highest-grade-for-each-student "Highest Grade For Each Student")
 
 ## 1111. Maximum Nesting Depth of Two Valid Parentheses Strings (Hard)
 

@@ -54,6 +54,8 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1113">1113</span> | [Reported Posts](https://leetcode.com/problems/reported-posts) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/reported-posts) | Easy |
+| <span id="1112">1112</span> | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/highest-grade-for-each-student) | Medium |
 | <span id="1111">1111</span> | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings "有效括号的嵌套深度") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | Medium |
 | <span id="1110">1110</span> | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest "删点成林") | [Go](https://github.com/openset/leetcode/tree/master/problems/delete-nodes-and-return-forest) | Medium |
 | <span id="1109">1109</span> | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings "航班预订统计") | [Go](https://github.com/openset/leetcode/tree/master/problems/corporate-flight-bookings) | Medium |
