@@ -32,9 +32,9 @@
 </ul>
 
 ### Related Topics
+  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
 
 ### Similar Questions
   1. [Sort List](https://github.com/openset/leetcode/tree/master/problems/sort-list) (Medium)

@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/highest-grade-for-each-student "Highest Grade For Each Student")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/print-in-order "Print in Order")
 
 ## 1113. Reported Posts (Easy)
 
