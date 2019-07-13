@@ -27,15 +27,16 @@ func QuestionData(titleSlug string, isForce bool, graphQL ...string) (qd questio
 	if len(graphQL) == 0 {
 		graphQL = []string{graphQLCnUrl}
 	}
-	filename := fmt.Sprintf(questionDataFile, slugToSnake(titleSlug))
+	name := fmt.Sprintf(questionDataFile, slugToSnake(titleSlug))
+	filename := getCachePath(name)
 	oldContent := getContent(filename)
-	graphQLRequest(graphQL[0], jsonStr, filename, days, &qd)
+	graphQLRequest(graphQL[0], jsonStr, name, days, &qd)
 	if qd.Data.Question.Content == "" && oldContent != "" {
 		qd.Data.Question.Content = oldContent
 		filePutContents(filename, jsonEncode(qd))
 	}
 	if qd.Data.Question.TitleSlug == "" {
-		_ = os.Remove(getCachePath(filename))
+		os.Remove(filename)
 		if graphQL[0] == graphQLCnUrl {
 			return QuestionData(titleSlug, isForce, graphQLUrl)
 		}
