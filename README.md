@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1117">1117</span> | [Building H2O](https://leetcode.com/problems/building-h2o) | [Go](https://github.com/openset/leetcode/tree/master/problems/building-h2o) | Hard |
+| <span id="1116">1116</span> | [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) | [Go](https://github.com/openset/leetcode/tree/master/problems/print-zero-even-odd) | Medium |
+| <span id="1115">1115</span> | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) | [Go](https://github.com/openset/leetcode/tree/master/problems/print-foobar-alternately) | Medium |
+| <span id="1114">1114</span> | [Print in Order](https://leetcode.com/problems/print-in-order) | [Go](https://github.com/openset/leetcode/tree/master/problems/print-in-order) | Easy |
 | <span id="1113">1113</span> | [Reported Posts](https://leetcode.com/problems/reported-posts) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/reported-posts) | Easy |
 | <span id="1112">1112</span> | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/highest-grade-for-each-student) | Medium |
 | <span id="1111">1111</span> | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings "有效括号的嵌套深度") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | Medium |
