@@ -54,10 +54,19 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
-| <span id="1117">1117</span> | [Building H2O](https://leetcode.com/problems/building-h2o) | [Go](https://github.com/openset/leetcode/tree/master/problems/building-h2o) | Hard |
+| <span id="1126">1126</span> | [Active Businesses](https://leetcode.com/problems/active-businesses) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/active-businesses) | Medium |
+| <span id="1125">1125</span> | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team "最小的必要团队") | [Go](https://github.com/openset/leetcode/tree/master/problems/smallest-sufficient-team) | Hard |
+| <span id="1124">1124</span> | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval "表现良好的最长时间段") | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-well-performing-interval) | Medium |
+| <span id="1123">1123</span> | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves "最深叶节点的最近公共祖先") | [Go](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-deepest-leaves) | Medium |
+| <span id="1122">1122</span> | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array "数组的相对排序") | [Go](https://github.com/openset/leetcode/tree/master/problems/relative-sort-array) | Easy |
+| <span id="1121">1121</span> | [Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences "将数组分成几个递增序列") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/divide-array-into-increasing-sequences) | Hard |
+| <span id="1120">1120</span> | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree "子树的最大平均值") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subtree) | Medium |
+| <span id="1119">1119</span> | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string "删去字符串中的元音") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/remove-vowels-from-a-string) | Easy |
+| <span id="1118">1118</span> | [Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month "一月有多少天") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/number-of-days-in-a-month) | Easy |
+| <span id="1117">1117</span> | [Building H2O](https://leetcode.com/problems/building-h2o "H2O 生成") | [Go](https://github.com/openset/leetcode/tree/master/problems/building-h2o) | Hard |
 | <span id="1116">1116</span> | [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) | [Go](https://github.com/openset/leetcode/tree/master/problems/print-zero-even-odd) | Medium |
 | <span id="1115">1115</span> | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) | [Go](https://github.com/openset/leetcode/tree/master/problems/print-foobar-alternately) | Medium |
-| <span id="1114">1114</span> | [Print in Order](https://leetcode.com/problems/print-in-order) | [Go](https://github.com/openset/leetcode/tree/master/problems/print-in-order) | Easy |
+| <span id="1114">1114</span> | [Print in Order](https://leetcode.com/problems/print-in-order "按序打印") | [Go](https://github.com/openset/leetcode/tree/master/problems/print-in-order) | Easy |
 | <span id="1113">1113</span> | [Reported Posts](https://leetcode.com/problems/reported-posts) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/reported-posts) | Easy |
 | <span id="1112">1112</span> | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/highest-grade-for-each-student) | Medium |
 | <span id="1111">1111</span> | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings "有效括号的嵌套深度") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | Medium |

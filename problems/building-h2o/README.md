@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/print-zero-even-odd "Print Zero Even Odd")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-days-in-a-month "Number of Days in a Month")
 
 ## 1117. Building H2O (Hard)
 
