@@ -36,8 +36,8 @@ The above output corresponds to the 5 unique BST&#39;s shown below:
 </pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
 
 ### Similar Questions
   1. [Unique Binary Search Trees](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees) (Medium)
