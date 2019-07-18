@@ -54,13 +54,15 @@ func runPost(cmd *base.Command, args []string) {
 				question.TitleSlug,
 			))
 			buf.WriteString(fmt.Sprintf("\n## %s. %s%s\n\n", question.QuestionFrontendId, question.TranslatedTitle, question.Difficulty.Str()))
+			buf.WriteString("{% raw %}\n\n")
 			content := strings.ReplaceAll(question.TranslatedContent, "\r", "")
 			// remove style
 			reg := regexp.MustCompile(`<style[\S\s]+?</style>`)
 			content = reg.ReplaceAllString(content, "")
 			content = strings.ReplaceAll(content, "\n\n\t", "\n\t")
 			content = strings.TrimSpace(content)
-			buf.WriteString(content + "\n")
+			buf.WriteString(content)
+			buf.WriteString("\n\n{% endraw %}\n")
 			if len(question.TopicTags) > 0 {
 				buf.WriteString("\n### 相关话题\n")
 			}
