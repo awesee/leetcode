@@ -5,10 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-sufficient-team "Smallest Sufficient Team")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/active-businesses "Active Businesses")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/user-purchase-platform "User Purchase Platform")
+Next >
 
-## 1126. Active Businesses (Medium)
+## 1127. User Purchase Platform (Hard)
 
 
