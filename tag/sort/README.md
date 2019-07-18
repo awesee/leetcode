@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1122 | [数组的相对排序](https://github.com/openset/leetcode/tree/master/problems/relative-sort-array) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1086 | [前五科的均分](https://github.com/openset/leetcode/tree/master/problems/high-five) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
 | 1057 | [校园自行车分配](https://github.com/openset/leetcode/tree/master/problems/campus-bikes) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]  | Medium |
 | 1054 | [距离相等的条形码](https://github.com/openset/leetcode/tree/master/problems/distant-barcodes) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]  | Medium |

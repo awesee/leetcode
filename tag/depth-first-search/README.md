@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1123 | [最深叶节点的最近公共祖先](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-deepest-leaves) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
 | 1102 | [得分最高的路径](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-minimum-value) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 1080 | [根到叶路径上的不足节点](https://github.com/openset/leetcode/tree/master/problems/insufficient-nodes-in-root-to-leaf-paths) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
 | 1061 | [按字典序排列最小的等效字符串](https://github.com/openset/leetcode/tree/master/problems/lexicographically-smallest-equivalent-string) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]  | Medium |

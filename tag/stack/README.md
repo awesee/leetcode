@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1124 | [表现良好的最长时间段](https://github.com/openset/leetcode/tree/master/problems/longest-well-performing-interval) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
 | 1063 | [有效子数组的数目](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-subarrays) 🔒 | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Hard |
 | 1047 | [删除字符串中的所有相邻重复项](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Easy |
 | 1021 | [删除最外层的括号](https://github.com/openset/leetcode/tree/master/problems/remove-outermost-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Easy |

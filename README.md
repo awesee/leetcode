@@ -54,6 +54,7 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1127">1127</span> | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/user-purchase-platform) | Hard |
 | <span id="1126">1126</span> | [Active Businesses](https://leetcode.com/problems/active-businesses) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/active-businesses) | Medium |
 | <span id="1125">1125</span> | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team "最小的必要团队") | [Go](https://github.com/openset/leetcode/tree/master/problems/smallest-sufficient-team) | Hard |
 | <span id="1124">1124</span> | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval "表现良好的最长时间段") | [Go](https://github.com/openset/leetcode/tree/master/problems/longest-well-performing-interval) | Medium |
@@ -64,8 +65,8 @@ LeetCode Problems' Solutions
 | <span id="1119">1119</span> | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string "删去字符串中的元音") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/remove-vowels-from-a-string) | Easy |
 | <span id="1118">1118</span> | [Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month "一月有多少天") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/number-of-days-in-a-month) | Easy |
 | <span id="1117">1117</span> | [Building H2O](https://leetcode.com/problems/building-h2o "H2O 生成") | [Go](https://github.com/openset/leetcode/tree/master/problems/building-h2o) | Hard |
-| <span id="1116">1116</span> | [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) | [Go](https://github.com/openset/leetcode/tree/master/problems/print-zero-even-odd) | Medium |
-| <span id="1115">1115</span> | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) | [Go](https://github.com/openset/leetcode/tree/master/problems/print-foobar-alternately) | Medium |
+| <span id="1116">1116</span> | [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd "打印零与奇偶数") | [Go](https://github.com/openset/leetcode/tree/master/problems/print-zero-even-odd) | Medium |
+| <span id="1115">1115</span> | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately "交替打印FooBar") | [Go](https://github.com/openset/leetcode/tree/master/problems/print-foobar-alternately) | Medium |
 | <span id="1114">1114</span> | [Print in Order](https://leetcode.com/problems/print-in-order "按序打印") | [Go](https://github.com/openset/leetcode/tree/master/problems/print-in-order) | Easy |
 | <span id="1113">1113</span> | [Reported Posts](https://leetcode.com/problems/reported-posts) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/reported-posts) | Easy |
 | <span id="1112">1112</span> | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/highest-grade-for-each-student) | Medium |
