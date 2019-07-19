@@ -31,5 +31,5 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
