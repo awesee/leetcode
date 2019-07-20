@@ -1,0 +1,1 @@
+package number_of_squareful_arrays
