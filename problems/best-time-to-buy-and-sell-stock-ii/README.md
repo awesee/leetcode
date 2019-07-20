@@ -44,8 +44,8 @@
 <strong>Explanation:</strong> In this case, no transaction is done, i.e. max profit = 0.</pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Similar Questions
   1. [Best Time to Buy and Sell Stock](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) (Easy)
