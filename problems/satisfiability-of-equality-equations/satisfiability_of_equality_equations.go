@@ -1,0 +1,1 @@
+package satisfiability_of_equality_equations
