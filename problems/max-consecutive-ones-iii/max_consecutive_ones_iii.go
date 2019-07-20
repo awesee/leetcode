@@ -1,6 +1,5 @@
 package max_consecutive_ones_iii
 
-// ref: https://leetcode.com/problems/max-consecutive-ones-iii/discuss/247564/JavaC%2B%2BPython-Sliding-Window
 func longestOnes(A []int, K int) int {
 	left, right := 0, 0
 	for right = range A {
