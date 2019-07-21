@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1131">1131</span> | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression "绝对值表达式的最大值") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-of-absolute-value-expression) | Medium |
+| <span id="1130">1130</span> | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values "叶值的最小代价生成树") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-tree-from-leaf-values) | Medium |
+| <span id="1129">1129</span> | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors "颜色交替的最短路径") | [Go](https://github.com/openset/leetcode/tree/master/problems/shortest-path-with-alternating-colors) | Medium |
+| <span id="1128">1128</span> | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs "等价多米诺骨牌对的数量") | [Go](https://github.com/openset/leetcode/tree/master/problems/number-of-equivalent-domino-pairs) | Easy |
 | <span id="1127">1127</span> | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/user-purchase-platform) | Hard |
 | <span id="1126">1126</span> | [Active Businesses](https://leetcode.com/problems/active-businesses) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/active-businesses) | Medium |
 | <span id="1125">1125</span> | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team "最小的必要团队") | [Go](https://github.com/openset/leetcode/tree/master/problems/smallest-sufficient-team) | Hard |
