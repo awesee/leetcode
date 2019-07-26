@@ -75,6 +75,11 @@
 		"TranslatedName": "链表"
 	},
 	{
+		"Name": "Bit Manipulation",
+		"Slug": "bit-manipulation",
+		"TranslatedName": "位运算"
+	},
+	{
 		"Name": "Heap",
 		"Slug": "heap",
 		"TranslatedName": "堆"
@@ -83,11 +88,6 @@
 		"Name": "Sort",
 		"Slug": "sort",
 		"TranslatedName": "排序"
-	},
-	{
-		"Name": "Bit Manipulation",
-		"Slug": "bit-manipulation",
-		"TranslatedName": "位运算"
 	},
 	{
 		"Name": "Graph",

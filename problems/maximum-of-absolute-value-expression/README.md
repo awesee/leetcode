@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-tree-from-leaf-values "Minimum Cost Tree From Leaf Values")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/reported-posts-ii "Reported Posts II")
 
 ## 1131. Maximum of Absolute Value Expression (Medium)
 

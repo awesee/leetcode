@@ -15,13 +15,13 @@
 
 <pre>
 public class Foo {
-&nbsp; public void one() { print(&quot;one&quot;); }
-&nbsp; public void two() { print(&quot;two&quot;); }
-&nbsp; public void three() { print(&quot;three&quot;); }
+&nbsp; public void first() { print(&quot;first&quot;); }
+&nbsp; public void second() { print(&quot;second&quot;); }
+&nbsp; public void third() { print(&quot;third&quot;); }
 }
 </pre>
 
-<p>The same instance of <code>Foo</code> will be passed to three different threads. Thread A will call <code>one()</code>, thread B will call <code>two()</code>, and thread C will call <code>three()</code>. Design a mechanism and modify the program&nbsp;to ensure that&nbsp;<code>two()</code>&nbsp;is executed after&nbsp;<code>one()</code>, and&nbsp;<code>three()</code> is executed after&nbsp;<code>two()</code>.</p>
+<p>The same instance of <code>Foo</code> will be passed to three different threads. Thread A will call <code>first()</code>, thread B will call <code>second()</code>, and thread C will call <code>third()</code>. Design a mechanism and modify the program&nbsp;to ensure that&nbsp;<code>second()</code>&nbsp;is executed after&nbsp;<code>first()</code>, and&nbsp;<code>third()</code> is executed after&nbsp;<code>second()</code>.</p>
 
 <p>&nbsp;</p>
 
@@ -29,16 +29,16 @@ public class Foo {
 
 <pre>
 <b>Input:</b> [1,2,3]
-<b>Output:</b> &quot;onetwothree&quot;
-<strong>Explanation:</strong> There are three threads being fired asynchronously. The input [1,2,3] means thread A calls one(), thread B calls two(), and thread C calls three(). &quot;onetwothree&quot; is the correct output.
+<b>Output:</b> &quot;firstsecondthird&quot;
+<strong>Explanation:</strong> There are three threads being fired asynchronously. The input [1,2,3] means thread A calls first(), thread B calls second(), and thread C calls third(). &quot;firstsecondthird&quot; is the correct output.
 </pre>
 
 <p><strong>Example 2:</strong></p>
 
 <pre>
 <b>Input:</b> [1,3,2]
-<b>Output:</b> &quot;onetwothree&quot;
-<strong>Explanation:</strong> The input [1,3,2] means thread A calls one(), thread B calls three(), and thread C calls two(). &quot;onetwothree&quot; is the correct output.</pre>
+<b>Output:</b> &quot;firstsecondthird&quot;
+<strong>Explanation:</strong> The input [1,3,2] means thread A calls first(), thread B calls third(), and thread C calls second(). &quot;firstsecondthird&quot; is the correct output.</pre>
 
 <p>&nbsp;</p>
 
