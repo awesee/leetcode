@@ -54,6 +54,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1136">1136</span> | [Parallel Courses](https://leetcode.com/problems/parallel-courses "平行课程") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/parallel-courses) | Hard |
+| <span id="1135">1135</span> | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost "最低成本联通所有城市") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/connecting-cities-with-minimum-cost) | Medium |
+| <span id="1134">1134</span> | [Armstrong Number](https://leetcode.com/problems/armstrong-number "阿姆斯特朗数") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/armstrong-number) | Easy |
+| <span id="1133">1133</span> | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number "最大唯一数") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/largest-unique-number) | Easy |
 | <span id="1132">1132</span> | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/reported-posts-ii) | Medium |
 | <span id="1131">1131</span> | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression "绝对值表达式的最大值") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-of-absolute-value-expression) | Medium |
 | <span id="1130">1130</span> | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values "叶值的最小代价生成树") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-tree-from-leaf-values) | Medium |
