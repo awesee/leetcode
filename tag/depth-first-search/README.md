@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1145 | [二叉树着色游戏](https://github.com/openset/leetcode/tree/master/problems/binary-tree-coloring-game) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
+| 1136 | [平行课程](https://github.com/openset/leetcode/tree/master/problems/parallel-courses) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1123 | [最深叶节点的最近公共祖先](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-deepest-leaves) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
 | 1102 | [得分最高的路径](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-minimum-value) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 1080 | [根到叶路径上的不足节点](https://github.com/openset/leetcode/tree/master/problems/insufficient-nodes-in-root-to-leaf-paths) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |

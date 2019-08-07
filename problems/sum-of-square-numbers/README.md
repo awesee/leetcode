@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-range "Smallest Range")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-range-covering-elements-from-k-lists "Smallest Range Covering Elements from K Lists")
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-derangement-of-an-array "Find the Derangement of An Array")
 

@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-values-from-labels "Largest Values From Labels")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence "Shortest Common Supersequence")
+[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence "Shortest Common Supersequence ")
 
 ## 1091. Shortest Path in Binary Matrix (Medium)
 

@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence "Shortest Common Supersequence")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence "Shortest Common Supersequence ")
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/car-pooling "Car Pooling")
 

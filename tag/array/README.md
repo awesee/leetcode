@@ -9,6 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1146 | [快照数组](https://github.com/openset/leetcode/tree/master/problems/snapshot-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
+| 1144 | [递减元素使数组呈锯齿状](https://github.com/openset/leetcode/tree/master/problems/decrease-elements-to-make-array-zigzag) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
+| 1133 | [最大唯一数](https://github.com/openset/leetcode/tree/master/problems/largest-unique-number) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
 | 1122 | [数组的相对排序](https://github.com/openset/leetcode/tree/master/problems/relative-sort-array) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1099 | [小于 K 的两数之和](https://github.com/openset/leetcode/tree/master/problems/two-sum-less-than-k) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1089 | [复写零](https://github.com/openset/leetcode/tree/master/problems/duplicate-zeros) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
