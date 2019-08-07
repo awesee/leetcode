@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1133 | [最大唯一数](https://github.com/openset/leetcode/tree/master/problems/largest-unique-number) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
 | 1090 | [受标签影响的最大值](https://github.com/openset/leetcode/tree/master/problems/largest-values-from-labels) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 1086 | [前五科的均分](https://github.com/openset/leetcode/tree/master/problems/high-five) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
 | 1078 | [Bigram 分词](https://github.com/openset/leetcode/tree/master/problems/occurrences-after-bigram) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |

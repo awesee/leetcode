@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1145 | [二叉树着色游戏](https://github.com/openset/leetcode/tree/master/problems/binary-tree-coloring-game) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
 | 1123 | [最深叶节点的最近公共祖先](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-deepest-leaves) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
 | 1120 | [子树的最大平均值](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subtree) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 1104 | [二叉树寻路](https://github.com/openset/leetcode/tree/master/problems/path-in-zigzag-labelled-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |

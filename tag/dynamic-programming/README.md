@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1147 | [段式回文](https://github.com/openset/leetcode/tree/master/problems/longest-chunked-palindrome-decomposition) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
+| 1136 | [平行课程](https://github.com/openset/leetcode/tree/master/problems/parallel-courses) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1125 | [最小的必要团队](https://github.com/openset/leetcode/tree/master/problems/smallest-sufficient-team) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1105 | [填充书架](https://github.com/openset/leetcode/tree/master/problems/filling-bookcase-shelves) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1092 | [最短公共超序列](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |

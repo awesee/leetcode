@@ -5,13 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/course-schedule-iii "Course Schedule III")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/user-activity-for-the-past-30-days-i "User Activity for the Past 30 Days I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-range-covering-elements-from-k-lists "Smallest Range Covering Elements from K Lists")
+[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-common-subsequence "Longest Common Subsequence")
 
-## 631. Design Excel Sum Formula (Hard)
+## 1142. User Activity for the Past 30 Days II (Easy)
 
 
-
-### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
