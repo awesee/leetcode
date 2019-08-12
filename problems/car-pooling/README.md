@@ -75,6 +75,9 @@
 ### Related Topics
   [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
 
+### Similar Questions
+  1. [Meeting Rooms II](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms-ii) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

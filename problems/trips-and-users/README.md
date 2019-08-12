@@ -47,7 +47,9 @@
 +----------+--------+--------+
 </pre>
 
-<p>Write a SQL query to find the cancellation rate of requests made by unbanned users between <strong>Oct 1, 2013</strong> and <strong>Oct 3, 2013</strong>. For the above tables, your SQL query should return the following rows with the cancellation rate being rounded to <em>two</em> decimal places.</p>
+<p>Write a SQL query to find the cancellation rate of requests made by unbanned users (both client and driver must be unbanned)&nbsp;between <strong>Oct 1, 2013</strong> and <strong>Oct 3, 2013</strong>. The cancellation rate is computed by dividing the number of canceled (by client or driver) requests&nbsp;made by unbanned users by the total number of requests&nbsp;made by unbanned users.</p>
+
+<p>For the above tables, your SQL query should return the following rows with the cancellation rate being rounded to <em>two</em> decimal places.</p>
 
 <pre>
 +------------+-------------------+

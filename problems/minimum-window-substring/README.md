@@ -38,7 +38,6 @@
   1. [Minimum Size Subarray Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-size-subarray-sum) (Medium)
   1. [Sliding Window Maximum](https://github.com/openset/leetcode/tree/master/problems/sliding-window-maximum) (Hard)
   1. [Permutation in String](https://github.com/openset/leetcode/tree/master/problems/permutation-in-string) (Medium)
-  1. [Smallest Range](https://github.com/openset/leetcode/tree/master/problems/smallest-range) (Hard)
   1. [Minimum Window Subsequence](https://github.com/openset/leetcode/tree/master/problems/minimum-window-subsequence) (Hard)
 
 ### Hints

@@ -44,6 +44,7 @@
 ### Similar Questions
   1. [Min Cost Climbing Stairs](https://github.com/openset/leetcode/tree/master/problems/min-cost-climbing-stairs) (Easy)
   1. [Fibonacci Number](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number) (Easy)
+  1. [N-th Tribonacci Number](https://github.com/openset/leetcode/tree/master/problems/n-th-tribonacci-number) (Easy)
 
 ### Hints
 <details>

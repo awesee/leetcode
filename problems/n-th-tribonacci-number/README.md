@@ -42,3 +42,6 @@ T_4 = 1 + 1 + 2 = 4
 	<li><code>0 &lt;= n &lt;= 37</code></li>
 	<li>The answer is guaranteed to fit within a 32-bit integer, ie. <code>answer &lt;= 2^31 - 1</code>.</li>
 </ul>
+
+### Similar Questions
+  1. [Climbing Stairs](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs) (Easy)

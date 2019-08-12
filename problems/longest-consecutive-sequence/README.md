@@ -24,8 +24,8 @@
 </pre>
 
 ### Related Topics
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
 
 ### Similar Questions
   1. [Binary Tree Longest Consecutive Sequence](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence) (Medium)
