@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/snapshot-array "Snapshot Array")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/article-views-i "Article Views I")
 
 ## 1147. Longest Chunked Palindrome Decomposition (Hard)
 

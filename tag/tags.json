@@ -75,6 +75,11 @@
 		"TranslatedName": "链表"
 	},
 	{
+		"Name": "Sort",
+		"Slug": "sort",
+		"TranslatedName": "排序"
+	},
+	{
 		"Name": "Bit Manipulation",
 		"Slug": "bit-manipulation",
 		"TranslatedName": "位运算"
@@ -83,11 +88,6 @@
 		"Name": "Heap",
 		"Slug": "heap",
 		"TranslatedName": "堆"
-	},
-	{
-		"Name": "Sort",
-		"Slug": "sort",
-		"TranslatedName": "排序"
 	},
 	{
 		"Name": "Graph",
@@ -188,5 +188,10 @@
 		"Name": "Memoization",
 		"Slug": "memoization",
 		"TranslatedName": "记忆化"
+	},
+	{
+		"Name": "Rolling Hash",
+		"Slug": "rolling-hash",
+		"TranslatedName": "Rolling Hash"
 	}
 ]

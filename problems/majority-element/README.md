@@ -35,3 +35,4 @@
 
 ### Similar Questions
   1. [Majority Element II](https://github.com/openset/leetcode/tree/master/problems/majority-element-ii) (Medium)
+  1. [Check If a Number Is Majority Element in a Sorted Array](https://github.com/openset/leetcode/tree/master/problems/check-if-a-number-is-majority-element-in-a-sorted-array) (Easy)

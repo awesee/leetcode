@@ -44,7 +44,7 @@ p = &quot;a&quot;
 s = &quot;aa&quot;
 p = &quot;a*&quot;
 <strong>Output:</strong> true
-<strong>Explanation:</strong>&nbsp;&#39;*&#39; means zero or more of the precedeng&nbsp;element, &#39;a&#39;. Therefore, by repeating &#39;a&#39; once, it becomes &quot;aa&quot;.
+<strong>Explanation:</strong>&nbsp;&#39;*&#39; means zero or more of the preceding&nbsp;element, &#39;a&#39;. Therefore, by repeating &#39;a&#39; once, it becomes &quot;aa&quot;.
 </pre>
 
 <p><strong>Example 3:</strong></p>
@@ -64,7 +64,7 @@ p = &quot;.*&quot;
 s = &quot;aab&quot;
 p = &quot;c*a*b&quot;
 <strong>Output:</strong> true
-<strong>Explanation:</strong>&nbsp;c can be repeated 0 times, a can be repeated 1 time. Therefore it matches &quot;aab&quot;.
+<strong>Explanation:</strong>&nbsp;c can be repeated 0 times, a can be repeated 1 time. Therefore, it matches &quot;aab&quot;.
 </pre>
 
 <p><strong>Example 5:</strong></p>

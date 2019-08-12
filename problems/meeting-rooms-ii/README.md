@@ -22,6 +22,7 @@
   1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
   1. [Meeting Rooms](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms) (Easy)
   1. [Minimum Number of Arrows to Burst Balloons](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-arrows-to-burst-balloons) (Medium)
+  1. [Car Pooling](https://github.com/openset/leetcode/tree/master/problems/car-pooling) (Medium)
 
 ### Hints
 <details>
