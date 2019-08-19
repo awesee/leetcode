@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/swap-for-longest-repeated-character-substring "Swap For Longest Repeated Character Substring")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/market-analysis-i "Market Analysis I")
 
 ## 1157. Online Majority Element In Subarray (Hard)
 

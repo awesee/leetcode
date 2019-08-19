@@ -80,6 +80,9 @@
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
+### Similar Questions
+  1. [Brace Expansion](https://github.com/openset/leetcode/tree/master/problems/brace-expansion) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>
