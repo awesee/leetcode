@@ -19,3 +19,4 @@
 ### Similar Questions
   1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/problems/walls-and-gates) (Medium)
   1. [Best Meeting Point](https://github.com/openset/leetcode/tree/master/problems/best-meeting-point) (Hard)
+  1. [As Far from Land as Possible](https://github.com/openset/leetcode/tree/master/problems/as-far-from-land-as-possible) (Medium)

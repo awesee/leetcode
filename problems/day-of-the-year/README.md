@@ -51,3 +51,12 @@
 	<li><code>date[4] == date[7] == &#39;-&#39;</code>, and all other <code>date[i]</code>&#39;s are digits</li>
 	<li><code>date</code> represents a calendar date between Jan 1st, 1900 and Dec 31, 2019.</li>
 </ul>
+
+### Related Topics
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Have a integer array of how many days there are per month.  February gets one extra day if its a leap year.  Then, we can manually count the ordinal as day + (number of days in months before this one).
+</details>

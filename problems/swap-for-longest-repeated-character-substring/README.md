@@ -59,3 +59,13 @@
 	<li><code>1 &lt;= text.length &lt;= 20000</code></li>
 	<li><code>text</code> consist of lowercase English characters only.</li>
 </ul>
+
+### Related Topics
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+There are two cases:  a block of characters, or two blocks of characters between one different character. 
+ By keeping a run-length encoded version of the string, we can easily check these cases.
+</details>

@@ -19,6 +19,7 @@
 ### Similar Questions
   1. [Decode String](https://github.com/openset/leetcode/tree/master/problems/decode-string) (Medium)
   1. [Letter Case Permutation](https://github.com/openset/leetcode/tree/master/problems/letter-case-permutation) (Easy)
+  1. [Brace Expansion II](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii) (Hard)
 
 ### Hints
 <details>

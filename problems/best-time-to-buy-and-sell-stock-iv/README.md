@@ -11,7 +11,7 @@
 
 ## 188. Best Time to Buy and Sell Stock IV (Hard)
 
-<p>Say you have an array for which the <i>i</i><sup>th</sup> element is the price of a given stock on day <i>i</i>.</p>
+<p>Say you have an array for which the <i>i<span style="font-size: 10.8333px;">-</span></i><span style="font-size: 10.8333px;">th</span>&nbsp;element is the price of a given stock on day <i>i</i>.</p>
 
 <p>Design an algorithm to find the maximum profit. You may complete at most <b>k</b> transactions.</p>
 

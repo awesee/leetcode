@@ -85,14 +85,14 @@
 		"TranslatedName": "位运算"
 	},
 	{
-		"Name": "Heap",
-		"Slug": "heap",
-		"TranslatedName": "堆"
-	},
-	{
 		"Name": "Graph",
 		"Slug": "graph",
 		"TranslatedName": "图"
+	},
+	{
+		"Name": "Heap",
+		"Slug": "heap",
+		"TranslatedName": "堆"
 	},
 	{
 		"Name": "Union Find",
@@ -120,14 +120,14 @@
 		"TranslatedName": "递归"
 	},
 	{
-		"Name": "Ordered Map",
-		"Slug": "ordered-map",
-		"TranslatedName": "Ordered Map"
-	},
-	{
 		"Name": "Segment Tree",
 		"Slug": "segment-tree",
 		"TranslatedName": "线段树"
+	},
+	{
+		"Name": "Ordered Map",
+		"Slug": "ordered-map",
+		"TranslatedName": "Ordered Map"
 	},
 	{
 		"Name": "Queue",
