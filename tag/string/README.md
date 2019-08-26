@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1163 | [按字典序排在最后的子串](https://github.com/openset/leetcode/tree/master/problems/last-substring-in-lexicographical-order) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
 | 1119 | [删去字符串中的元音](https://github.com/openset/leetcode/tree/master/problems/remove-vowels-from-a-string) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1106 | [解析布尔表达式](https://github.com/openset/leetcode/tree/master/problems/parsing-a-boolean-expression) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
 | 1100 | [长度为 K 的无重复字符子串](https://github.com/openset/leetcode/tree/master/problems/find-k-length-substrings-with-no-repeated-characters) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |

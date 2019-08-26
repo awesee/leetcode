@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/as-far-from-land-as-possible "As Far from Land as Possible")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/product-price-at-a-given-date "Product Price at a Given Date")
 
 ## 1163. Last Substring in Lexicographical Order (Hard)
 

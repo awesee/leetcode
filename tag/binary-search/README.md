@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1150 | [检查一个数是否在数组中占绝大多数](https://github.com/openset/leetcode/tree/master/problems/check-if-a-number-is-majority-element-in-a-sorted-array) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Easy |
 | 1095 | [山脉数组中查找目标值](https://github.com/openset/leetcode/tree/master/problems/find-in-mountain-array) | [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
 | 1064 | [不动点](https://github.com/openset/leetcode/tree/master/problems/fixed-point) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Easy |
 | 1060 | [有序数组中的缺失元素](https://github.com/openset/leetcode/tree/master/problems/missing-element-in-sorted-array) 🔒 | [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |

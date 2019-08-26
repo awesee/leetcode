@@ -73,3 +73,4 @@ The total cost was 25, and this is the minimum possible.
 
 ### Similar Questions
   1. [Burst Balloons](https://github.com/openset/leetcode/tree/master/problems/burst-balloons) (Hard)
+  1. [Minimum Cost to Connect Sticks](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-connect-sticks) (Medium)
