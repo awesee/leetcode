@@ -29,9 +29,9 @@
 </pre>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
 
 ### Similar Questions
   1. [Majority Element II](https://github.com/openset/leetcode/tree/master/problems/majority-element-ii) (Medium)

@@ -9,6 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1162 | [地图分析](https://github.com/openset/leetcode/tree/master/problems/as-far-from-land-as-possible) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
+| 1161 | [最大层内元素和](https://github.com/openset/leetcode/tree/master/problems/maximum-level-sum-of-a-binary-tree) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
+| 1153 | [字符串转化](https://github.com/openset/leetcode/tree/master/problems/string-transforms-into-another-string) 🔒 | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Hard |
 | 1136 | [平行课程](https://github.com/openset/leetcode/tree/master/problems/parallel-courses) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1135 | [最低成本联通所有城市](https://github.com/openset/leetcode/tree/master/problems/connecting-cities-with-minimum-cost) 🔒 | [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 1102 | [得分最高的路径](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-minimum-value) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
