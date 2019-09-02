@@ -75,6 +75,11 @@
 		"TranslatedName": "链表"
 	},
 	{
+		"Name": "Bit Manipulation",
+		"Slug": "bit-manipulation",
+		"TranslatedName": "位运算"
+	},
+	{
 		"Name": "Graph",
 		"Slug": "graph",
 		"TranslatedName": "图"
@@ -83,11 +88,6 @@
 		"Name": "Sort",
 		"Slug": "sort",
 		"TranslatedName": "排序"
-	},
-	{
-		"Name": "Bit Manipulation",
-		"Slug": "bit-manipulation",
-		"TranslatedName": "位运算"
 	},
 	{
 		"Name": "Heap",
@@ -100,14 +100,14 @@
 		"TranslatedName": "并查集"
 	},
 	{
-		"Name": "Divide and Conquer",
-		"Slug": "divide-and-conquer",
-		"TranslatedName": "分治算法"
-	},
-	{
 		"Name": "Sliding Window",
 		"Slug": "sliding-window",
 		"TranslatedName": "Sliding Window"
+	},
+	{
+		"Name": "Divide and Conquer",
+		"Slug": "divide-and-conquer",
+		"TranslatedName": "分治算法"
 	},
 	{
 		"Name": "Trie",

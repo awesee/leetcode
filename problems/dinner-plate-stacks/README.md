@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-zero-sum-consecutive-nodes-from-linked-list "Remove Zero Sum Consecutive Nodes from Linked List")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/immediate-food-delivery-i "Immediate Food Delivery I")
 
 ## 1172. Dinner Plate Stacks (Hard)
 

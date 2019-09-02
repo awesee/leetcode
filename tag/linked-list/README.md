@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1171 | [从链表中删去总和值为零的连续节点](https://github.com/openset/leetcode/tree/master/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
 | 1019 | [链表中的下一个更大节点](https://github.com/openset/leetcode/tree/master/problems/next-greater-node-in-linked-list) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
 | 876 | [链表的中间结点](https://github.com/openset/leetcode/tree/master/problems/middle-of-the-linked-list) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Easy |
 | 817 | [链表组件](https://github.com/openset/leetcode/tree/master/problems/linked-list-components) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |

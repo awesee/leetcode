@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 5176 | [猜字谜](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-words-for-each-puzzle) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |
 | 1125 | [最小的必要团队](https://github.com/openset/leetcode/tree/master/problems/smallest-sufficient-team) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 898 | [子数组按位或操作](https://github.com/openset/leetcode/tree/master/problems/bitwise-ors-of-subarrays) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 784 | [字母大小写全排列](https://github.com/openset/leetcode/tree/master/problems/letter-case-permutation) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Easy |
