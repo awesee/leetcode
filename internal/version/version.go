@@ -7,7 +7,7 @@ import (
 	"github.com/openset/leetcode/internal/base"
 )
 
-const version = "1.4.3"
+const version = "1.4.4"
 
 var CmdVersion = &base.Command{
 	Run:       runVersion,
