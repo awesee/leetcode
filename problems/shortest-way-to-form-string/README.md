@@ -55,7 +55,7 @@
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Is Subsequence](https://github.com/openset/leetcode/tree/master/problems/is-subsequence) (Medium)
+  1. [Is Subsequence](https://github.com/openset/leetcode/tree/master/problems/is-subsequence) (Easy)
 
 ### Hints
 <details>

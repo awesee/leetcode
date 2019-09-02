@@ -9,6 +9,10 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 5175 | [构建回文串检测](https://github.com/openset/leetcode/tree/master/problems/can-make-palindrome-from-substring) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
+| 1170 | [比较字符串最小字母出现频次](https://github.com/openset/leetcode/tree/master/problems/compare-strings-by-frequency-of-the-smallest-character) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
+| 1169 | [查询无效交易](https://github.com/openset/leetcode/tree/master/problems/invalid-transactions) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
+| 1165 | [单行键盘](https://github.com/openset/leetcode/tree/master/problems/single-row-keyboard) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1163 | [按字典序排在最后的子串](https://github.com/openset/leetcode/tree/master/problems/last-substring-in-lexicographical-order) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
 | 1119 | [删去字符串中的元音](https://github.com/openset/leetcode/tree/master/problems/remove-vowels-from-a-string) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1106 | [解析布尔表达式](https://github.com/openset/leetcode/tree/master/problems/parsing-a-boolean-expression) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |

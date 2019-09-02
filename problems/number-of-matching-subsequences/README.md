@@ -35,4 +35,4 @@ words = [&quot;a&quot;, &quot;bb&quot;, &quot;acd&quot;, &quot;ace&quot;]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Similar Questions
-  1. [Is Subsequence](https://github.com/openset/leetcode/tree/master/problems/is-subsequence) (Medium)
+  1. [Is Subsequence](https://github.com/openset/leetcode/tree/master/problems/is-subsequence) (Easy)

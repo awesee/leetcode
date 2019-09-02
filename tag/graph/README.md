@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1168 | [水资源分配优化](https://github.com/openset/leetcode/tree/master/problems/optimize-water-distribution-in-a-village) 🔒 | [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Hard |
 | 1162 | [地图分析](https://github.com/openset/leetcode/tree/master/problems/as-far-from-land-as-possible) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 1161 | [最大层内元素和](https://github.com/openset/leetcode/tree/master/problems/maximum-level-sum-of-a-binary-tree) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 1153 | [字符串转化](https://github.com/openset/leetcode/tree/master/problems/string-transforms-into-another-string) 🔒 | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Hard |

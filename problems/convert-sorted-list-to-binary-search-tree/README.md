@@ -30,8 +30,8 @@ One possible answer is: [0,-3,9,-10,null,5], which represents the following heig
 </pre>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### Similar Questions
   1. [Convert Sorted Array to Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/convert-sorted-array-to-binary-search-tree) (Easy)
