@@ -36,9 +36,8 @@ func QuestionData(titleSlug string, isForce bool, graphQL ...string) (qd questio
 		filePutContents(filename, jsonEncode(qd))
 	}
 	if qd.Data.Question.TitleSlug == "" {
-		os.Remove(filename)
 		if graphQL[0] == graphQLCnUrl {
-			return QuestionData(titleSlug, isForce, graphQLUrl)
+			return QuestionData(titleSlug, true, graphQLUrl)
 		}
 		for _, err := range qd.Errors {
 			log.Println(titleSlug, err.Message)
