@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/diet-plan-performance "Diet Plan Performance")
 
-## 5173. Prime Arrangements (Easy)
+## 1175. Prime Arrangements (Easy)
 
 <p>Return the number of permutations of 1 to <code>n</code> so that prime numbers are at prime indices (1-indexed.)</p>
 

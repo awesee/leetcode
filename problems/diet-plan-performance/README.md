@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/can-make-palindrome-from-substring "Can Make Palindrome from Substring")
 
-## 5174. Diet Plan Performance (Easy)
+## 1176. Diet Plan Performance (Easy)
 
 <p>A dieter consumes&nbsp;<code>calories[i]</code>&nbsp;calories on the <code>i</code>-th day.&nbsp; For every consecutive sequence of <code>k</code> days, they look at <em>T</em>, the total calories consumed during that sequence of <code>k</code> days:</p>
 
@@ -44,7 +44,7 @@
 <pre>
 <strong>Input:</strong> calories = [6,5,0,0], k = 2, lower = 1, upper = 5
 <strong>Output:</strong> 0
-<strong>Explaination</strong>: calories[0] + calories[1] &gt; upper, calories[2] + calories[3] &lt; lower, total points = 0.
+<strong>Explaination</strong>: calories[0] + calories[1] &gt; upper, lower &lt;= calories[1] + calories[2] &lt;= upper, calories[2] + calories[3] &lt; lower, total points = 0.
 </pre>
 
 <p>&nbsp;</p>

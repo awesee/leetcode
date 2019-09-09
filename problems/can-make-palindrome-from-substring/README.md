@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-words-for-each-puzzle "Number of Valid Words for Each Puzzle")
 
-## 5175. Can Make Palindrome from Substring (Medium)
+## 1177. Can Make Palindrome from Substring (Medium)
 
 <p>Given a string <code>s</code>, we make queries on substrings of <code>s</code>.</p>
 
