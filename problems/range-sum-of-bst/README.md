@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reorder-log-files "Reorder Log Files")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/reorder-data-in-log-files "Reorder Data in Log Files")
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle "Minimum Area Rectangle")
 

@@ -7,9 +7,9 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/can-make-palindrome-from-substring "Can Make Palindrome from Substring")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/reformat-department-table "Reformat Department Table")
 
-## 5176. Number of Valid Words for Each Puzzle (Hard)
+## 1178. Number of Valid Words for Each Puzzle (Hard)
 
 With respect to a given <code>puzzle</code> string, a <code>word</code> is <em>valid</em>&nbsp;if both the following conditions are satisfied:
 <ul>

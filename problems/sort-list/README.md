@@ -27,8 +27,8 @@
 <strong>Output:</strong> -1-&gt;0-&gt;3-&gt;4-&gt;5</pre>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
   [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
 
 ### Similar Questions
   1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists) (Easy)

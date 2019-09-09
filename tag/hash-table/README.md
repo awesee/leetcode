@@ -9,7 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 5176 | [猜字谜](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-words-for-each-puzzle) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |
+| 1178 | [猜字谜](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-words-for-each-puzzle) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |
 | 1166 | [设计文件系统](https://github.com/openset/leetcode/tree/master/problems/design-file-system) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 1160 | [拼写单词](https://github.com/openset/leetcode/tree/master/problems/find-words-that-can-be-formed-by-characters) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
 | 1152 | [用户网站访问行为分析](https://github.com/openset/leetcode/tree/master/problems/analyze-user-website-visit-pattern) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
