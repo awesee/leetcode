@@ -16,6 +16,7 @@ var CmdHelp = &base.Command{
 func runHelp(cmd *base.Command, args []string) {
 	if len(args) < 1 {
 		base.Usage()
+		return
 	}
 	cmdName := args[0]
 	for _, cmd := range base.Commands {
