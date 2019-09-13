@@ -62,7 +62,7 @@ type difficultyType struct {
 
 type paidType bool
 
-func (problem StatStatusPairsType) WriteRow(buf *bytes.Buffer) {
+func (problem *StatStatusPairsType) WriteRow(buf *bytes.Buffer) {
 	format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s%s)%s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s) | %s |\n"
 	id := problem.Stat.FrontendQuestionId
 	stat := problem.Stat
@@ -79,11 +79,11 @@ func (p paidType) Str() string {
 	return ""
 }
 
-func (s statType) QuestionTitleSnake() string {
+func (s *statType) QuestionTitleSnake() string {
 	return slugToSnake(s.QuestionTitleSlug)
 }
 
-func (s statType) TranslationTitle() string {
+func (s *statType) TranslationTitle() string {
 	title := translationSet[s.QuestionId]
 	if title != "" {
 		title = fmt.Sprintf(` "%s"`, title)
@@ -91,11 +91,11 @@ func (s statType) TranslationTitle() string {
 	return title
 }
 
-func (s statType) Lang() string {
+func (s *statType) Lang() string {
 	return getLang(s.QuestionTitleSlug)
 }
 
-func (d difficultyType) LevelName() string {
+func (d *difficultyType) LevelName() string {
 	m := map[int]string{
 		1: "Easy",
 		2: "Medium",

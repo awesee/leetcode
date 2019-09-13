@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"path"
+	"path/filepath"
 	"regexp"
 	"sort"
 	"strconv"
@@ -16,7 +16,7 @@ import (
 
 var (
 	initTags []TagType
-	tagsFile = path.Join("tag", "tags.json")
+	tagsFile = filepath.Join("tag", "tags.json")
 )
 
 func init() {
@@ -120,7 +120,7 @@ type ttQuestionType struct {
 	TopicTags          []TagType `json:"topicTags"`
 }
 
-func (question ttQuestionType) TagsStr() string {
+func (question *ttQuestionType) TagsStr() string {
 	var buf bytes.Buffer
 	format := "[[%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md)] "
 	for _, tag := range question.TopicTags {
@@ -130,7 +130,7 @@ func (question ttQuestionType) TagsStr() string {
 	return string(buf.Bytes())
 }
 
-func (tag TagType) SaveContents() {
+func (tag *TagType) SaveContents() {
 	questions := GetTopicTag(tag.Slug).Data.TopicTag.Questions
 	sort.Slice(questions, func(i, j int) bool {
 		m, _ := strconv.Atoi(questions[i].QuestionFrontendId)
@@ -149,11 +149,11 @@ func (tag TagType) SaveContents() {
 		}
 		buf.WriteString(fmt.Sprintf(format, question.QuestionFrontendId, question.TranslatedTitle, question.TitleSlug, question.IsPaidOnly.Str(), question.TagsStr(), question.Difficulty))
 	}
-	filename := path.Join("tag", tag.Slug, "README.md")
+	filename := filepath.Join("tag", tag.Slug, "README.md")
 	filePutContents(filename, buf.Bytes())
 }
 
-func (tag TagType) ShowName() string {
+func (tag *TagType) ShowName() string {
 	if tag.TranslatedName != "" {
 		return tag.TranslatedName
 	}

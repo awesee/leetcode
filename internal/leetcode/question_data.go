@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"path"
+	"path/filepath"
 	"regexp"
 	"strconv"
 	"strings"
@@ -102,14 +102,14 @@ func (d difficultyStrType) Str() (s string) {
 	return
 }
 
-func (question questionType) SaveContent() {
+func (question *questionType) SaveContent() {
 	if question.TitleSlug != "" {
 		filePutContents(question.getFilePath("README.md"), question.getDescContent())
 		question.saveMysqlSchemas()
 	}
 }
 
-func (question questionType) getDescContent() []byte {
+func (question *questionType) getDescContent() []byte {
 	var buf bytes.Buffer
 	buf.WriteString(authInfo("description"))
 	buf.WriteString(question.getNavigation())
@@ -127,7 +127,7 @@ func (question questionType) getDescContent() []byte {
 	return buf.Bytes()
 }
 
-func (question questionType) getNavigation() string {
+func (question *questionType) getNavigation() string {
 	nav, pre, next := "\n%s\n%s\n%s\n", "< Previous", "Next >"
 	problems := ProblemsAll().StatStatusPairs
 	if questionId, err := strconv.Atoi(question.QuestionId); err == nil {
@@ -147,7 +147,7 @@ func (question questionType) getNavigation() string {
 	return fmt.Sprintf(nav, pre, strings.Repeat("　", 16), next)
 }
 
-func (question questionType) getTopicTags() []byte {
+func (question *questionType) getTopicTags() []byte {
 	tags := question.TopicTags
 	var buf bytes.Buffer
 	if len(tags) > 0 {
@@ -160,12 +160,12 @@ func (question questionType) getTopicTags() []byte {
 	return buf.Bytes()
 }
 
-func (question questionType) GetSimilarQuestion() (sq []similarQuestionType) {
+func (question *questionType) GetSimilarQuestion() (sq []similarQuestionType) {
 	jsonDecode([]byte(question.SimilarQuestions), &sq)
 	return
 }
 
-func (question questionType) getSimilarQuestion() []byte {
+func (question *questionType) getSimilarQuestion() []byte {
 	sq := question.GetSimilarQuestion()
 	var buf bytes.Buffer
 	if len(sq) > 0 {
@@ -178,7 +178,7 @@ func (question questionType) getSimilarQuestion() []byte {
 	return buf.Bytes()
 }
 
-func (question questionType) getHints() []byte {
+func (question *questionType) getHints() []byte {
 	hints := question.Hints
 	var buf bytes.Buffer
 	if len(hints) > 0 {
@@ -190,15 +190,15 @@ func (question questionType) getHints() []byte {
 	return buf.Bytes()
 }
 
-func (question questionType) getFilePath(filename string) string {
-	return path.Join("problems", question.TitleSlug, filename)
+func (question *questionType) getFilePath(filename string) string {
+	return filepath.Join("problems", question.TitleSlug, filename)
 }
 
-func (question questionType) TitleSnake() string {
+func (question *questionType) TitleSnake() string {
 	return slugToSnake(question.TitleSlug)
 }
 
-func (question questionType) PackageName() string {
+func (question *questionType) PackageName() string {
 	snake := question.TitleSnake()
 	if snake != "" && unicode.IsNumber(rune(snake[0])) {
 		snake = "p_" + snake
@@ -206,13 +206,13 @@ func (question questionType) PackageName() string {
 	return snake
 }
 
-func (question questionType) SaveCodeSnippet() {
+func (question *questionType) SaveCodeSnippet() {
 	if isLangMySQL(question.TitleSlug) {
 		filePutContents(question.getFilePath(question.TitleSnake()+".sql"), []byte("# Write your MySQL query statement below\n"))
 	}
 	langSupport := [...]struct {
 		slug   string
-		handle func(questionType, codeSnippetsType)
+		handle func(*questionType, codeSnippetsType)
 	}{
 		{"golang", handleCodeGolang},
 		{"python3", handleCodePython},
@@ -234,7 +234,7 @@ func (question questionType) SaveCodeSnippet() {
 	}
 }
 
-func (question questionType) saveCodeContent(content, ext string, permX ...bool) {
+func (question *questionType) saveCodeContent(content, ext string, permX ...bool) {
 	filePath := question.getFilePath(question.TitleSnake() + ext)
 	filePutContents(filePath, []byte(content))
 	if len(permX) > 0 && permX[0] == true {
@@ -242,7 +242,7 @@ func (question questionType) saveCodeContent(content, ext string, permX ...bool)
 	}
 }
 
-func (question questionType) saveMysqlSchemas() {
+func (question *questionType) saveMysqlSchemas() {
 	var buf bytes.Buffer
 	for _, s := range question.MysqlSchemas {
 		buf.WriteString(s + ";\n")
@@ -250,7 +250,7 @@ func (question questionType) saveMysqlSchemas() {
 	filePutContents(question.getFilePath("mysql_schemas.sql"), buf.Bytes())
 }
 
-func handleCodeGolang(question questionType, code codeSnippetsType) {
+func handleCodeGolang(question *questionType, code codeSnippetsType) {
 	content := fmt.Sprintf("package %s\n\n", question.PackageName())
 	content += code.Code + "\n"
 	question.saveCodeContent(content, ".go")
@@ -272,15 +272,15 @@ func handleCodeGolang(question questionType, code codeSnippetsType) {
 	}
 }
 
-func handleCodeBash(question questionType, code codeSnippetsType) {
+func handleCodeBash(question *questionType, code codeSnippetsType) {
 	question.saveCodeContent("#!/usr/bin/env bash\n\n"+code.Code, ".bash", true)
 }
 
-func handleCodePython(question questionType, code codeSnippetsType) {
+func handleCodePython(question *questionType, code codeSnippetsType) {
 	question.saveCodeContent("#!/usr/bin/env python\n\n"+code.Code, ".py", true)
 }
 
-func handleCodeSQL(question questionType, code codeSnippetsType) {
+func handleCodeSQL(question *questionType, code codeSnippetsType) {
 	question.saveCodeContent(code.Code, ".sql")
 	question.saveMysqlSchemas()
 }
