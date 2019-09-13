@@ -18,6 +18,7 @@ var CmdQuestion = &base.Command{
 func runQuestion(cmd *base.Command, args []string) {
 	if len(args) != 1 {
 		cmd.Usage()
+		return
 	}
 	if questionId, err := strconv.Atoi(args[0]); err == nil {
 		problems := leetcode.ProblemsAll()

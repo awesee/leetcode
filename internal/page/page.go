@@ -15,6 +15,7 @@ var CmdPage = &base.Command{
 func runPage(cmd *base.Command, args []string) {
 	if len(args) != 0 {
 		cmd.Usage()
+		return
 	}
 	readme.CmdReadme.Run(readme.CmdReadme, []string{"page"})
 }

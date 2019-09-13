@@ -23,6 +23,7 @@ var CmdBuild = &base.Command{
 func runBuild(cmd *base.Command, args []string) {
 	if len(args) != 0 {
 		cmd.Usage()
+		return
 	}
 	target := map[string][]string{
 		"darwin":  {"amd64"},

@@ -38,13 +38,11 @@ func (c *Command) Name() string {
 func (c *Command) Usage() {
 	fmt.Printf("usage: %s %s\n\n", CmdName, c.UsageLine)
 	fmt.Printf("Run '%s help %s' for details.\n", CmdName, c.Name())
-	Exit()
 }
 
 func (c *Command) UsageHelp() {
 	fmt.Printf("usage: %s %s\n\n", CmdName, c.UsageLine)
 	fmt.Println(c.Long)
-	Exit()
 }
 
 func Usage() {
@@ -58,7 +56,6 @@ func Usage() {
 		}
 	}
 	fmt.Printf("\nUse \"%s help <command>\" for more information about a command.\n", CmdName)
-	Exit()
 }
 
 func FilePutContents(filename string, data []byte) []byte {
@@ -97,10 +94,6 @@ func CheckErr(err error) {
 	if err != nil {
 		log.Fatalln(err)
 	}
-}
-
-func Exit() {
-	os.Exit(0)
 }
 
 func AuthInfo(cmd string) string {

@@ -18,6 +18,7 @@ var CmdUpdate = &base.Command{
 func runUpdate(cmd *base.Command, args []string) {
 	if len(args) != 0 {
 		cmd.Usage()
+		return
 	}
 	err := exec.Command("go", "get", "-u", "github.com/openset/leetcode").Run()
 	base.CheckErr(err)

@@ -15,6 +15,7 @@ var CmdClean = &base.Command{
 func runClean(cmd *base.Command, args []string) {
 	if len(args) != 0 {
 		cmd.Usage()
+		return
 	}
 	leetcode.Clean()
 }

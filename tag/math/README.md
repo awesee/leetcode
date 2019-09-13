@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1183 | [矩阵中 1 的最大数量](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-ones) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
+| 1180 | [统计只含单一字母的子串](https://github.com/openset/leetcode/tree/master/problems/count-substrings-with-only-one-distinct-letter) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1175 | [质数排列](https://github.com/openset/leetcode/tree/master/problems/prime-arrangements) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 1134 | [阿姆斯特朗数](https://github.com/openset/leetcode/tree/master/problems/armstrong-number) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 1121 | [将数组分成几个递增序列](https://github.com/openset/leetcode/tree/master/problems/divide-array-into-increasing-sequences) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |

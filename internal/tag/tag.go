@@ -20,6 +20,7 @@ var CmdTag = &base.Command{
 func runTag(cmd *base.Command, args []string) {
 	if len(args) != 0 {
 		cmd.Usage()
+		return
 	}
 	var wg sync.WaitGroup
 	var buf bytes.Buffer

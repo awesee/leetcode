@@ -45,6 +45,7 @@ func main() {
 	flag.Parse()
 	if flag.NArg() < 1 {
 		flag.Usage()
+		return
 	}
 	args := flag.Args()
 	cmdName := args[0]

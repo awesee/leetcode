@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1183 | [矩阵中 1 的最大数量](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-ones) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
 | 1152 | [用户网站访问行为分析](https://github.com/openset/leetcode/tree/master/problems/analyze-user-website-visit-pattern) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 1122 | [数组的相对排序](https://github.com/openset/leetcode/tree/master/problems/relative-sort-array) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1086 | [前五科的均分](https://github.com/openset/leetcode/tree/master/problems/high-five) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |

@@ -18,6 +18,7 @@ var CmdOpen = &base.Command{
 func runOpen(cmd *base.Command, args []string) {
 	if len(args) != 1 {
 		cmd.Usage()
+		return
 	}
 	questionId, err := strconv.Atoi(args[0])
 	base.CheckErr(err)

@@ -19,6 +19,7 @@ var CmdTest = &base.Command{
 func runTest(cmd *base.Command, args []string) {
 	if len(args) > 1 {
 		cmd.Usage()
+		return
 	}
 	if _, err := os.Stat("problems"); err == nil {
 		target := "./..."

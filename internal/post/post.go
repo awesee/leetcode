@@ -24,6 +24,7 @@ var CmdPost = &base.Command{
 func runPost(cmd *base.Command, args []string) {
 	if len(args) != 0 {
 		cmd.Usage()
+		return
 	}
 	formatFilename := "%s-%s.md"
 	formatTopicTag := "  [[%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md)]\n"

@@ -17,6 +17,7 @@ var CmdHelper = &base.Command{
 func runHelper(cmd *base.Command, args []string) {
 	if len(args) != 0 {
 		cmd.Usage()
+		return
 	}
 	var buf bytes.Buffer
 	buf.WriteString(base.AuthInfo("helper"))
