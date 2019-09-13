@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 	"os"
-	"path"
+	"path/filepath"
 	"regexp"
 	"strings"
 	"time"
@@ -80,8 +80,8 @@ func runPost(cmd *base.Command, args []string) {
 			buf.WriteString("\n---\n")
 			buf.WriteString(fmt.Sprintf("\n## [答案](https://github.com/openset/leetcode/tree/master/problems/%s)\n", question.TitleSlug))
 			filename := fmt.Sprintf(formatFilename, t.Format("2006-01-02"), question.TitleSlug)
-			oldPath := path.Join(basePath, "leetcode", filename)
-			newPath := path.Join(basePath, "_posts", filename)
+			oldPath := filepath.Join(basePath, "leetcode", filename)
+			newPath := filepath.Join(basePath, "_posts", filename)
 			base.FilePutContents(oldPath, buf.Bytes())
 			if inPosts[questionId] {
 				_ = os.Rename(oldPath, newPath)
@@ -101,7 +101,7 @@ func postTags() {
 		}
 		filename := fmt.Sprintf("tag-%s.md", tag.Slug)
 		data := []byte(fmt.Sprintf(tagTmpl, title, tag.Slug, tag.Name))
-		base.FilePutContents(path.Join(basePath, "_pages", filename), data)
+		base.FilePutContents(filepath.Join(basePath, "_pages", filename), data)
 	}
 }
 
@@ -125,7 +125,7 @@ taxonomy: %s
 
 var homeDir, _ = os.UserHomeDir()
 
-var basePath = path.Join(homeDir, "openset", "openset")
+var basePath = filepath.Join(homeDir, "openset", "openset")
 
 var inPosts = map[int]bool{
 	1:    true,

@@ -20,22 +20,29 @@ func runDescription(cmd *base.Command, args []string) {
 		cmd.Usage()
 	}
 	var wg sync.WaitGroup
-	tokens := make(chan bool, 1<<7)
+	limit := 1 << 7
+	jobs := make(chan *leetcode.StatStatusPairsType, limit)
+	for i := 0; i < limit; i++ {
+		go worker(jobs, &wg)
+	}
 	problems := leetcode.ProblemsAll()
 	for _, problem := range problems.StatStatusPairs {
-		wg.Add(1)
-		tokens <- true
+		problem := problem
 		fmt.Println(problem.Stat.FrontendQuestionId, "\t"+problem.Stat.QuestionTitle)
-		go func(problem leetcode.StatStatusPairsType) {
-			titleSlug := problem.Stat.QuestionTitleSlug
-			question := leetcode.QuestionData(titleSlug, false).Data.Question
-			if question.Content == "" && problem.PaidOnly == true && problem.Stat.QuestionArticleLive {
-				question.Content = leetcode.GetDescription(problem.Stat.QuestionArticleSlug)
-			}
-			question.SaveContent()
-			<-tokens
-			wg.Done()
-		}(problem)
+		wg.Add(1)
+		jobs <- &problem
 	}
 	wg.Wait()
+}
+
+func worker(jobs <-chan *leetcode.StatStatusPairsType, wg *sync.WaitGroup) {
+	for problem := range jobs {
+		titleSlug := problem.Stat.QuestionTitleSlug
+		question := leetcode.QuestionData(titleSlug, false).Data.Question
+		if question.Content == "" && problem.PaidOnly == true && problem.Stat.QuestionArticleLive {
+			question.Content = leetcode.GetDescription(problem.Stat.QuestionArticleSlug)
+		}
+		question.SaveContent()
+		wg.Done()
+	}
 }

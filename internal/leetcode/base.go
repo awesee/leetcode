@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/url"
 	"os"
-	"path"
+	"path/filepath"
 	"strings"
 	"time"
 
@@ -60,7 +60,7 @@ func getCachePath(f string) string {
 		dir, err = os.UserCacheDir()
 		checkErr(err)
 	}
-	return path.Join(dir, ".leetcode", f)
+	return filepath.Join(dir, ".leetcode", f)
 }
 
 func Clean() {

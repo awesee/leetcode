@@ -3,7 +3,7 @@ package readme
 import (
 	"bytes"
 	"fmt"
-	"path"
+	"path/filepath"
 
 	"github.com/openset/leetcode/internal/base"
 	"github.com/openset/leetcode/internal/leetcode"
@@ -47,7 +47,7 @@ func writeProblems(buf *bytes.Buffer) {
 				count--
 				problems[count].WriteRow(buf)
 			}
-			fileName := path.Join("readme", fmt.Sprintf("%d-%d.md", pageSize*(i-1)+1, pageSize*i))
+			fileName := filepath.Join("readme", fmt.Sprintf("%d-%d.md", pageSize*(i-1)+1, pageSize*i))
 			base.FilePutContents(fileName, buf.Bytes())
 			buf.Truncate(n)
 		}

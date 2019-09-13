@@ -7,7 +7,6 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
-	"path"
 	"path/filepath"
 	"strings"
 	"sync"
@@ -86,7 +85,7 @@ func JsonIndent(src []byte) []byte {
 }
 
 func getFilePath(filename string) string {
-	if dir := path.Dir(filename); dir != "" {
+	if dir := filepath.Dir(filename); dir != "" {
 		if err := os.MkdirAll(dir, 0755); err != nil {
 			CheckErr(err)
 		}
