@@ -18,6 +18,7 @@ var CmdDescription = &base.Command{
 func runDescription(cmd *base.Command, args []string) {
 	if len(args) != 0 {
 		cmd.Usage()
+		return
 	}
 	var wg sync.WaitGroup
 	limit := 1 << 7

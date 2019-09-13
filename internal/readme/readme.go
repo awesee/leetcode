@@ -24,6 +24,7 @@ func runReadme(cmd *base.Command, args []string) {
 	}
 	if len(args) > 1 {
 		cmd.Usage()
+		return
 	}
 	var buf bytes.Buffer
 	buf.WriteString(base.AuthInfo(buildCmd))

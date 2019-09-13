@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1181 | [前后拼接](https://github.com/openset/leetcode/tree/master/problems/before-and-after-puzzle) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
+| 1180 | [统计只含单一字母的子串](https://github.com/openset/leetcode/tree/master/problems/count-substrings-with-only-one-distinct-letter) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1177 | [构建回文串检测](https://github.com/openset/leetcode/tree/master/problems/can-make-palindrome-from-substring) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 1170 | [比较字符串最小字母出现频次](https://github.com/openset/leetcode/tree/master/problems/compare-strings-by-frequency-of-the-smallest-character) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1169 | [查询无效交易](https://github.com/openset/leetcode/tree/master/problems/invalid-transactions) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
