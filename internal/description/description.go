@@ -21,21 +21,20 @@ func runDescription(cmd *base.Command, args []string) {
 	}
 	var wg sync.WaitGroup
 	limit := 1 << 7
-	jobs := make(chan *leetcode.StatStatusPairsType, limit)
+	jobs := make(chan leetcode.StatStatusPairsType, limit)
 	for i := 0; i < limit; i++ {
 		go worker(jobs, &wg)
 	}
 	problems := leetcode.ProblemsAll()
 	for _, problem := range problems.StatStatusPairs {
-		problem := problem
 		fmt.Println(problem.Stat.FrontendQuestionId, "\t"+problem.Stat.QuestionTitle)
 		wg.Add(1)
-		jobs <- &problem
+		jobs <- problem
 	}
 	wg.Wait()
 }
 
-func worker(jobs <-chan *leetcode.StatStatusPairsType, wg *sync.WaitGroup) {
+func worker(jobs <-chan leetcode.StatStatusPairsType, wg *sync.WaitGroup) {
 	for problem := range jobs {
 		titleSlug := problem.Stat.QuestionTitleSlug
 		question := leetcode.QuestionData(titleSlug, false).Data.Question
