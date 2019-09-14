@@ -21,8 +21,10 @@ func runOpen(cmd *base.Command, args []string) {
 		return
 	}
 	questionId, err := strconv.Atoi(args[0])
-	base.CheckErr(err)
-	browser.Open("https://github.com/openset/leetcode#" + args[0])
+	if err != nil {
+		cmd.Usage()
+		return
+	}
 	problems := leetcode.ProblemsAll()
 	for _, problem := range problems.StatStatusPairs {
 		if problem.Stat.FrontendQuestionId == questionId {
