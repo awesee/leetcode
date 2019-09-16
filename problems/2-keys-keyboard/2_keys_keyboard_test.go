@@ -10,6 +10,10 @@ type caseType struct {
 func TestMinSteps(t *testing.T) {
 	tests := [...]caseType{
 		{
+			input:    1,
+			expected: 0,
+		},
+		{
 			input:    3,
 			expected: 3,
 		},
