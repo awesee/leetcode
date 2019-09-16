@@ -54,6 +54,11 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1192">1192</span> | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network "查找集群内的「关键连接」") | [Go](https://github.com/openset/leetcode/tree/master/problems/critical-connections-in-a-network) | Hard |
+| <span id="1191">1191</span> | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum "K 次串联后最大子数组之和") | [Go](https://github.com/openset/leetcode/tree/master/problems/k-concatenation-maximum-sum) | Medium |
+| <span id="1190">1190</span> | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses "反转每对括号间的子串") | [Go](https://github.com/openset/leetcode/tree/master/problems/reverse-substrings-between-each-pair-of-parentheses) | Medium |
+| <span id="1189">1189</span> | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons "“气球” 的最大数量") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-balloons) | Easy |
+| <span id="1188">1188</span> | [Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue) 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/design-bounded-blocking-queue) | Medium |
 | <span id="1187">1187</span> | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing "使数组严格递增") | [Go](https://github.com/openset/leetcode/tree/master/problems/make-array-strictly-increasing) | Hard |
 | <span id="1186">1186</span> | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion "删除一次得到子数组最大和") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray-sum-with-one-deletion) | Medium |
 | <span id="1185">1185</span> | [Day of the Week](https://leetcode.com/problems/day-of-the-week "一周中的第几天") | [Go](https://github.com/openset/leetcode/tree/master/problems/day-of-the-week) | Easy |
