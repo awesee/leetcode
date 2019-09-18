@@ -54,6 +54,8 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1194">1194</span> | [Tournament Winners](https://leetcode.com/problems/tournament-winners) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/tournament-winners) | Hard |
+| <span id="1193">1193</span> | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/monthly-transactions-i) | Medium |
 | <span id="1192">1192</span> | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network "查找集群内的「关键连接」") | [Go](https://github.com/openset/leetcode/tree/master/problems/critical-connections-in-a-network) | Hard |
 | <span id="1191">1191</span> | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum "K 次串联后最大子数组之和") | [Go](https://github.com/openset/leetcode/tree/master/problems/k-concatenation-maximum-sum) | Medium |
 | <span id="1190">1190</span> | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses "反转每对括号间的子串") | [Go](https://github.com/openset/leetcode/tree/master/problems/reverse-substrings-between-each-pair-of-parentheses) | Medium |

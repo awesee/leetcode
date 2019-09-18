@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/k-concatenation-maximum-sum "K-Concatenation Maximum Sum")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/monthly-transactions-i "Monthly Transactions I")
 
 ## 1192. Critical Connections in a Network (Hard)
 
