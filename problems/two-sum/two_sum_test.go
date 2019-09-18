@@ -1,4 +1,4 @@
-package two_sum
+package problem_1
 
 import (
 	"reflect"
@@ -29,7 +29,6 @@ func TestTwoSum(t *testing.T) {
 			expected: []int{1, 2},
 		},
 	}
-
 	for _, tc := range tests {
 		output := twoSum(tc.nums, tc.target)
 		if !reflect.DeepEqual(output, tc.expected) {
