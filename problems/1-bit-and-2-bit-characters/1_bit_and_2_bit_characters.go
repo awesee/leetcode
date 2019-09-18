@@ -1,4 +1,4 @@
-package p_1_bit_and_2_bit_characters
+package problem_717
 
 func isOneBitCharacter(bits []int) bool {
 	l := len(bits) - 1
