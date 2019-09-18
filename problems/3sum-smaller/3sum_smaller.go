@@ -1,1 +1,1 @@
-package p_3sum_smaller
+package problem_258

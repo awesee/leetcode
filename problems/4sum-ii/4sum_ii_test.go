@@ -1,4 +1,4 @@
-package p_4sum_ii
+package problem_454
 
 import "testing"
 

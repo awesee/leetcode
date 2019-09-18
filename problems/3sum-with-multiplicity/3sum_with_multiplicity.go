@@ -1,1 +1,1 @@
-package p_3sum_with_multiplicity
+package problem_923

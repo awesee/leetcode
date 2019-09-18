@@ -1,4 +1,4 @@
-package p_3sum
+package problem_15
 
 import "sort"
 

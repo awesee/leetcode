@@ -1,4 +1,4 @@
-package p_132_pattern
+package problem_456
 
 import "testing"
 

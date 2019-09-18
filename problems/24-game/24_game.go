@@ -1,4 +1,4 @@
-package p_24_game
+package problem_679
 
 import "sort"
 
