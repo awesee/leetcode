@@ -1,4 +1,4 @@
-package add_binary
+package problem_67
 
 import "testing"
 

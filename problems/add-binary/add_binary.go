@@ -1,22 +1,20 @@
-package add_binary
+package problem_67
 
 func addBinary(a string, b string) string {
-	i, j := len(a)-1, len(b)-1
-	var carry byte = '0'
-	var bs []byte
-	for i >= 0 || j >= 0 || carry != '0' {
+	ans, l1, l2, carry := "", len(a)-1, len(b)-1, byte('0')
+	for l1 >= 0 || l2 >= 0 || carry != '0' {
 		v := carry
-		if i >= 0 {
-			v += a[i] - '0'
-			i--
+		if l1 >= 0 {
+			v += a[l1] - '0'
+			l1--
 		}
-		if j >= 0 {
-			v += b[j] - '0'
-			j--
+		if l2 >= 0 {
+			v += b[l2] - '0'
+			l2--
 		}
 		carry = '0' + (v-'0')/2
 		v = '0' + (v-'0')%2
-		bs = append([]byte{v}, bs...)
+		ans = string(v) + ans
 	}
-	return string(bs)
+	return ans
 }
