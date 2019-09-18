@@ -48,8 +48,6 @@ func TreeNode2SliceInt(t *TreeNode) (s []int) {
 				s = append(s, queue[0].Val)
 				if queue[0].Left != nil || queue[0].Right != nil {
 					queue = append(queue, queue[0].Left)
-				}
-				if queue[0].Right != nil {
 					queue = append(queue, queue[0].Right)
 				}
 			} else {
@@ -57,6 +55,9 @@ func TreeNode2SliceInt(t *TreeNode) (s []int) {
 			}
 			queue = queue[1:]
 		}
+	}
+	for i := len(s) - 1; i >= 0 && s[i] == NULL; i-- {
+		s = s[:i]
 	}
 	return
 }
