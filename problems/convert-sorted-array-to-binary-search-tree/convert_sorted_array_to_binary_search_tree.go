@@ -1,6 +1,8 @@
 package convert_sorted_array_to_binary_search_tree
 
-import . "github.com/openset/leetcode/internal/kit"
+import "github.com/openset/leetcode/internal/kit"
+
+type TreeNode = kit.TreeNode
 
 /**
  * Definition for a binary tree node.
