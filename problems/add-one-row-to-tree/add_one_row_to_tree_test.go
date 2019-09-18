@@ -28,6 +28,18 @@ func TestAddOneRow(t *testing.T) {
 			d:        3,
 			expected: []int{4, 2, kit.NULL, 1, 1, 3, kit.NULL, kit.NULL, 1},
 		},
+		{
+			input:    []int{3, 1},
+			v:        1,
+			d:        1,
+			expected: []int{1, 3, kit.NULL, 1},
+		},
+		{
+			input:    []int{3, kit.NULL, 2},
+			v:        1,
+			d:        3,
+			expected: []int{3, kit.NULL, 2, 1, 1},
+		},
 	}
 	for _, tc := range tests {
 		root := kit.SliceInt2TreeNode(tc.input)
