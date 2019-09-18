@@ -1,4 +1,4 @@
-package p_2_keys_keyboard
+package problem_650
 
 import "testing"
 

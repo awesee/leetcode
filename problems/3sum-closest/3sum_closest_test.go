@@ -1,4 +1,4 @@
-package p_3sum_closest
+package problem_16
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package p_4sum
+package problem_18
 
 import (
 	"reflect"

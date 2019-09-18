@@ -1,4 +1,4 @@
-package p_132_pattern
+package problem_456
 
 func find132pattern(nums []int) bool {
 	ak, ajStack := -1<<31, make([]int, 0, len(nums))

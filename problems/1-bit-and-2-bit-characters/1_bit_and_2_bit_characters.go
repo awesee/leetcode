@@ -1,8 +1,7 @@
-package p_1_bit_and_2_bit_characters
+package problem_717
 
 func isOneBitCharacter(bits []int) bool {
-	l := len(bits) - 1
-	i := 0
+	i, l := 0, len(bits)-1
 	for i < l {
 		i += bits[i] + 1
 	}

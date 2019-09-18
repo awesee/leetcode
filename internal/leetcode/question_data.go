@@ -9,7 +9,6 @@ import (
 	"regexp"
 	"strconv"
 	"strings"
-	"unicode"
 )
 
 func QuestionData(titleSlug string, isForce bool, graphQL ...string) (qd questionDataType) {
@@ -199,11 +198,7 @@ func (question *questionType) TitleSnake() string {
 }
 
 func (question *questionType) PackageName() string {
-	snake := question.TitleSnake()
-	if snake != "" && unicode.IsNumber(rune(snake[0])) {
-		snake = "p_" + snake
-	}
-	return snake
+	return "problem_" + question.QuestionFrontendId
 }
 
 func (question *questionType) SaveCodeSnippet() {
