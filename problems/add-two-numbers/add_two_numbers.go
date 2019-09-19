@@ -1,6 +1,8 @@
-package add_two_numbers
+package problem_2
 
-import . "github.com/openset/leetcode/internal/kit"
+import "github.com/openset/leetcode/internal/kit"
+
+type ListNode = kit.ListNode
 
 /**
  * Definition for singly-linked list.
@@ -10,9 +12,8 @@ import . "github.com/openset/leetcode/internal/kit"
  * }
  */
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
-	r := &ListNode{}
-	t := r
-	carry := 0
+	ans, carry := &ListNode{}, 0
+	t := ans
 	for l1 != nil || l2 != nil || carry != 0 {
 		val := carry
 		if l1 != nil {
@@ -23,9 +24,9 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 			val += l2.Val
 			l2 = l2.Next
 		}
+		carry = val / 10
 		t.Next = &ListNode{Val: val % 10}
 		t = t.Next
-		carry = val / 10
 	}
-	return r.Next
+	return ans.Next
 }

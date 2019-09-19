@@ -1,10 +1,10 @@
-package add_two_numbers
+package problem_2
 
 import (
 	"reflect"
 	"testing"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -32,9 +32,9 @@ func TestAddTwoNumbers(t *testing.T) {
 		},
 	}
 	for _, tc := range tests {
-		l1 := SliceInt2ListNode(tc.l1)
-		l2 := SliceInt2ListNode(tc.l2)
-		output := ListNode2SliceInt(addTwoNumbers(l1, l2))
+		l1 := kit.SliceInt2ListNode(tc.l1)
+		l2 := kit.SliceInt2ListNode(tc.l2)
+		output := kit.ListNode2SliceInt(addTwoNumbers(l1, l2))
 		if !reflect.DeepEqual(output, tc.expected) {
 			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.l1, tc.l2, output, tc.expected)
 		}
