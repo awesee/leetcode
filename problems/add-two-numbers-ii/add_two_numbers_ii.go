@@ -33,7 +33,7 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 		}
 		ans.Val = carry % 10
 		ans = &ListNode{Val: 0, Next: ans}
-		carry = carry / 10
+		carry /= 10
 	}
 	return ans.Next
 }
