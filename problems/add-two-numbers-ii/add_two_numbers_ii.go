@@ -23,18 +23,17 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	}
 	ans, n1, n2, carry := &ListNode{}, len(s1)-1, len(s2)-1, 0
 	for n1 >= 0 || n2 >= 0 || carry > 0 {
-		v := carry
 		if n1 >= 0 {
-			v += s1[n1]
+			carry += s1[n1]
 			n1--
 		}
 		if n2 >= 0 {
-			v += s2[n2]
+			carry += s2[n2]
 			n2--
 		}
-		carry = v / 10
-		ans.Val = v % 10
+		ans.Val = carry % 10
 		ans = &ListNode{Val: 0, Next: ans}
+		carry = carry / 10
 	}
 	return ans.Next
 }
