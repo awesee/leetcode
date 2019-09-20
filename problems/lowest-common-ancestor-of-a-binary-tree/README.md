@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/delete-node-in-a-linked-list "Delete Node in a Linked List")
 
-## 236. Lowest Common Ancestor of a Binary Tree (Medium)
+## [236. Lowest Common Ancestor of a Binary Tree (Medium)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree "二叉树的最近公共祖先")
 
 <p>Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.</p>
 

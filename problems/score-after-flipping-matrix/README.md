@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-subarray-with-sum-at-least-k "Shortest Subarray with Sum at Least K")
 
-## 861. Score After Flipping Matrix (Medium)
+## [861. Score After Flipping Matrix (Medium)](https://leetcode.com/problems/score-after-flipping-matrix "翻转矩阵后的得分")
 
 <p>We have a two dimensional matrix&nbsp;<code>A</code> where each value is <code>0</code> or <code>1</code>.</p>
 

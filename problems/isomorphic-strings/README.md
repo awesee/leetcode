@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list "Reverse Linked List")
 
-## 205. Isomorphic Strings (Easy)
+## [205. Isomorphic Strings (Easy)](https://leetcode.com/problems/isomorphic-strings "同构字符串")
 
 <p>Given two strings <b><i>s</i></b> and <b><i>t</i></b>, determine if they are isomorphic.</p>
 

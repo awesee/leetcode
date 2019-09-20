@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/all-oone-data-structure "All O`one Data Structure")
 
-## 431. Encode N-ary Tree to Binary Tree (Hard)
+## [431. Encode N-ary Tree to Binary Tree (Hard)](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree "将 N 叉树编码为二叉树")
 
 
 

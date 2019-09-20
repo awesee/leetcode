@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-unique-word-abbreviation "Minimum Unique Word Abbreviation")
 
-## 410. Split Array Largest Sum (Hard)
+## [410. Split Array Largest Sum (Hard)](https://leetcode.com/problems/split-array-largest-sum "分割数组的最大值")
 
 <p>Given an array which consists of non-negative integers and an integer <i>m</i>, you can split the array into <i>m</i> non-empty continuous subarrays. Write an algorithm to minimize the largest sum among these <i>m</i> subarrays.
 </p>

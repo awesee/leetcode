@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/invalid-transactions "Invalid Transactions")
 
-## 1168. Optimize Water Distribution in a Village (Hard)
+## [1168. Optimize Water Distribution in a Village (Hard)](https://leetcode.com/problems/optimize-water-distribution-in-a-village "水资源分配优化")
 
 
 

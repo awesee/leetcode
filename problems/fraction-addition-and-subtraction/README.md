@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/valid-square "Valid Square")
 
-## 592. Fraction Addition and Subtraction (Medium)
+## [592. Fraction Addition and Subtraction (Medium)](https://leetcode.com/problems/fraction-addition-and-subtraction "分数加减运算")
 
 <p>Given a string representing an expression of fraction addition and subtraction, you need to return the calculation result in string format. The final result should be <a href = "https://en.wikipedia.org/wiki/Irreducible_fraction">irreducible fraction</a>. If your final result is an integer, say <code>2</code>, you need to change it to the format of fraction that has denominator <code>1</code>. So in this case, <code>2</code> should be converted to <code>2/1</code>.</p>
 

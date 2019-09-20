@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/rising-temperature "Rising Temperature")
 
-## 196. Delete Duplicate Emails (Easy)
+## [196. Delete Duplicate Emails (Easy)](https://leetcode.com/problems/delete-duplicate-emails "删除重复的电子邮箱")
 
 <p>Write a SQL query to <strong>delete</strong> all duplicate email entries in a table named <code>Person</code>, keeping only unique emails based on its <i>smallest</i> <b>Id</b>.</p>
 

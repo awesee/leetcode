@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/largest-divisible-subset "Largest Divisible Subset")
 
-## 367. Valid Perfect Square (Easy)
+## [367. Valid Perfect Square (Easy)](https://leetcode.com/problems/valid-perfect-square "有效的完全平方数")
 
 <p>Given a positive integer <i>num</i>, write a function which returns True if <i>num</i> is a perfect square else False.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/customers-who-never-order "Customers Who Never Order")
 
-## 182. Duplicate Emails (Easy)
+## [182. Duplicate Emails (Easy)](https://leetcode.com/problems/duplicate-emails "查找重复的电子邮箱")
 
 <p>Write a SQL query to find all duplicate emails in a table named <code>Person</code>.</p>
 

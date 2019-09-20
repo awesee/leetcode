@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals "Data Stream as Disjoint Intervals")
 
-## 351. Android Unlock Patterns (Medium)
+## [351. Android Unlock Patterns (Medium)](https://leetcode.com/problems/android-unlock-patterns "安卓系统手势解锁")
 
 
 

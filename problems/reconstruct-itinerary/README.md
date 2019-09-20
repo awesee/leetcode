@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/largest-bst-subtree "Largest BST Subtree")
 
-## 332. Reconstruct Itinerary (Medium)
+## [332. Reconstruct Itinerary (Medium)](https://leetcode.com/problems/reconstruct-itinerary "重新安排行程")
 
 <p>Given a list of airline tickets represented by pairs of departure and arrival airports <code>[from, to]</code>, reconstruct the itinerary in order. All of the tickets belong to a man who departs from <code>JFK</code>. Thus, the itinerary must begin with <code>JFK</code>.</p>
 

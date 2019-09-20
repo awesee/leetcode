@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/water-and-jug-problem "Water and Jug Problem")
 
-## 364. Nested List Weight Sum II (Medium)
+## [364. Nested List Weight Sum II (Medium)](https://leetcode.com/problems/nested-list-weight-sum-ii "加权嵌套序列和 II")
 
 
 

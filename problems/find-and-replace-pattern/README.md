@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-subsequence-widths "Sum of Subsequence Widths")
 
-## 890. Find and Replace Pattern (Medium)
+## [890. Find and Replace Pattern (Medium)](https://leetcode.com/problems/find-and-replace-pattern "查找和替换模式")
 
 <p>You have a list of&nbsp;<code>words</code> and a <code>pattern</code>, and you want to know which words in <code>words</code> matches the pattern.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/similar-string-groups "Similar String Groups")
 
-## 838. Push Dominoes (Medium)
+## [838. Push Dominoes (Medium)](https://leetcode.com/problems/push-dominoes "推多米诺")
 
 <p>There are<font face="monospace">&nbsp;<code>N</code></font> dominoes in a line, and we place each domino vertically upright.</p>
 

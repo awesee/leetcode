@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reveal-cards-in-increasing-order "Reveal Cards In Increasing Order")
 
-## 949. Largest Time for Given Digits (Easy)
+## [949. Largest Time for Given Digits (Easy)](https://leetcode.com/problems/largest-time-for-given-digits "给定数字能组成的最大时间")
 
 <p>Given an array of 4 digits, return the largest 24 hour time that can be made.</p>
 

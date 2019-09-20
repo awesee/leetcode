@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-factorization "Minimum Factorization")
 
-## 624. Maximum Distance in Arrays (Easy)
+## [624. Maximum Distance in Arrays (Easy)](https://leetcode.com/problems/maximum-distance-in-arrays "数组列表中的最大距离")
 
 <p>
 Given <code>m</code> arrays, and each array is sorted in ascending order. Now you can pick up two integers from two different arrays (each array picks one) and calculate the distance. We define the distance between two integers <code>a</code> and <code>b</code> to be their absolute difference <code>|a-b|</code>. Your task is to find the maximum distance.

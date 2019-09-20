@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-string "Reverse String")
 
-## 343. Integer Break (Medium)
+## [343. Integer Break (Medium)](https://leetcode.com/problems/integer-break "整数拆分")
 
 <p>Given a positive integer <i>n</i>, break it into the sum of <b>at least</b> two positive integers and maximize the product of those integers. Return the maximum product you can get.</p>
 

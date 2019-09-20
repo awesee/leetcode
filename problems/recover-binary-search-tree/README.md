@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/same-tree "Same Tree")
 
-## 99. Recover Binary Search Tree (Hard)
+## [99. Recover Binary Search Tree (Hard)](https://leetcode.com/problems/recover-binary-search-tree "恢复二叉搜索树")
 
 <p>Two elements of a binary search tree (BST) are swapped by mistake.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/bus-routes "Bus Routes")
 
-## 814. Binary Tree Pruning (Medium)
+## [814. Binary Tree Pruning (Medium)](https://leetcode.com/problems/binary-tree-pruning "二叉树剪枝")
 
 <p>We are given the head node <code>root</code>&nbsp;of a binary tree, where additionally every node&#39;s value is either a 0 or a 1.</p>
 

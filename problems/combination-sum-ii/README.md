@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive "First Missing Positive")
 
-## 40. Combination Sum II (Medium)
+## [40. Combination Sum II (Medium)](https://leetcode.com/problems/combination-sum-ii "组合总和 II")
 
 <p>Given a collection of candidate numbers (<code>candidates</code>) and a target number (<code>target</code>), find all unique combinations in <code>candidates</code>&nbsp;where the candidate numbers sums to <code>target</code>.</p>
 

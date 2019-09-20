@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/regions-cut-by-slashes "Regions Cut By Slashes")
 
-## 958. Check Completeness of a Binary Tree (Medium)
+## [958. Check Completeness of a Binary Tree (Medium)](https://leetcode.com/problems/check-completeness-of-a-binary-tree "二叉树的完全性检验")
 
 <p>Given a binary tree, determine if it is a <em>complete binary tree</em>.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/race-car "Race Car")
 
-## 817. Linked List Components (Medium)
+## [817. Linked List Components (Medium)](https://leetcode.com/problems/linked-list-components "链表组件")
 
 <p>We are given&nbsp;<code>head</code>,&nbsp;the head node of a linked list containing&nbsp;<strong>unique integer values</strong>.</p>
 

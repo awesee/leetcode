@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/count-numbers-with-unique-digits "Count Numbers with Unique Digits")
 
-## 356. Line Reflection (Medium)
+## [356. Line Reflection (Medium)](https://leetcode.com/problems/line-reflection "直线镜像")
 
 
 

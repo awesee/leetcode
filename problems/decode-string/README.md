@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-least-k-repeating-characters "Longest Substring with At Least K Repeating Characters")
 
-## 394. Decode String (Medium)
+## [394. Decode String (Medium)](https://leetcode.com/problems/decode-string "字符串解码")
 
 <p>Given an encoded string, return its decoded string.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/subarray-sums-divisible-by-k "Subarray Sums Divisible by K")
 
-## 973. K Closest Points to Origin (Medium)
+## [973. K Closest Points to Origin (Medium)](https://leetcode.com/problems/k-closest-points-to-origin "最接近原点的 K 个点")
 
 <p>We have a list of <code>points</code>&nbsp;on the plane.&nbsp; Find the <code>K</code> closest points to the origin <code>(0, 0)</code>.</p>
 

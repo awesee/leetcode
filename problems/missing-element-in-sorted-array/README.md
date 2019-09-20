@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/lexicographically-smallest-equivalent-string "Lexicographically Smallest Equivalent String")
 
-## 1060. Missing Element in Sorted Array (Medium)
+## [1060. Missing Element in Sorted Array (Medium)](https://leetcode.com/problems/missing-element-in-sorted-array "有序数组中的缺失元素")
 
 <p>Given a sorted array <code>A</code> of <strong>unique</strong> numbers, find the <code><em>K</em>-th</code> missing number starting from the leftmost number of the array.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/self-crossing "Self Crossing")
 
-## 334. Increasing Triplet Subsequence (Medium)
+## [334. Increasing Triplet Subsequence (Medium)](https://leetcode.com/problems/increasing-triplet-subsequence "递增的三元子序列")
 
 <p>Given an unsorted array return whether an increasing subsequence of length 3 exists or not in the array.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/pacific-atlantic-water-flow "Pacific Atlantic Water Flow")
 
-## 416. Partition Equal Subset Sum (Medium)
+## [416. Partition Equal Subset Sum (Medium)](https://leetcode.com/problems/partition-equal-subset-sum "分割等和子集")
 
 <p>Given a <b>non-empty</b> array containing <b>only positive integers</b>, find if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal.</p>
 

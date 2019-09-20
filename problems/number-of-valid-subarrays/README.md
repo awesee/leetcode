@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/fixed-point "Fixed Point")
 
-## 1063. Number of Valid Subarrays (Hard)
+## [1063. Number of Valid Subarrays (Hard)](https://leetcode.com/problems/number-of-valid-subarrays "有效子数组的数目")
 
 <p>Given an array <code>A</code> of integers, return the number of <strong>non-empty continuous subarrays</strong> that satisfy the following condition:</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number "Find the Duplicate Number")
 
-## 286. Walls and Gates (Medium)
+## [286. Walls and Gates (Medium)](https://leetcode.com/problems/walls-and-gates "墙与门")
 
 
 

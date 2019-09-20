@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/create-maximum-number "Create Maximum Number")
 
-## 320. Generalized Abbreviation (Medium)
+## [320. Generalized Abbreviation (Medium)](https://leetcode.com/problems/generalized-abbreviation "列举单词的全部缩写")
 
 
 

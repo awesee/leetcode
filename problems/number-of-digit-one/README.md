@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-linked-list "Palindrome Linked List")
 
-## 233. Number of Digit One (Hard)
+## [233. Number of Digit One (Hard)](https://leetcode.com/problems/number-of-digit-one "数字 1 的个数")
 
 <p>Given an integer n, count the total number of digit 1 appearing in all non-negative integers less than or equal to n.</p>
 

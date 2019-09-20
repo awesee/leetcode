@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/matrix-cells-in-distance-order "Matrix Cells in Distance Order")
 
-## 1029. Two City Scheduling (Easy)
+## [1029. Two City Scheduling (Easy)](https://leetcode.com/problems/two-city-scheduling "两地调度")
 
 <p>There are <code>2N</code> people a company is planning to interview. The cost of flying the <code>i</code>-th person to city <code>A</code> is <code>costs[i][0]</code>, and the cost of flying the <code>i</code>-th person to city <code>B</code> is <code>costs[i][1]</code>.</p>
 

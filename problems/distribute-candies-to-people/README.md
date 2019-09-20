@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/path-in-zigzag-labelled-binary-tree "Path In Zigzag Labelled Binary Tree")
 
-## 1103. Distribute Candies to People (Easy)
+## [1103. Distribute Candies to People (Easy)](https://leetcode.com/problems/distribute-candies-to-people "分糖果 II")
 
 <p>We distribute some&nbsp;number of <code>candies</code>, to a row of <strong><code>n =&nbsp;num_people</code></strong>&nbsp;people in the following way:</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/employees-earning-more-than-their-managers "Employees Earning More Than Their Managers")
 
-## 180. Consecutive Numbers (Medium)
+## [180. Consecutive Numbers (Medium)](https://leetcode.com/problems/consecutive-numbers "连续出现的数字")
 
 <p>Write a SQL query to find all numbers that appear at least three times consecutively.</p>
 

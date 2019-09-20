@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-to-greater-sum-tree "Binary Search Tree to Greater Sum Tree")
 
-## 1037. Valid Boomerang (Easy)
+## [1037. Valid Boomerang (Easy)](https://leetcode.com/problems/valid-boomerang "有效的回旋镖")
 
 <p>A <em>boomerang</em> is a set of 3 points that are all distinct and <strong>not</strong> in a straight line.</p>
 

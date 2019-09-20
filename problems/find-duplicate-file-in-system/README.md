@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/triangle-judgement "Triangle Judgement")
 
-## 609. Find Duplicate File in System (Medium)
+## [609. Find Duplicate File in System (Medium)](https://leetcode.com/problems/find-duplicate-file-in-system "在系统中查找重复文件")
 
 <p>Given a list of directory info including directory path, and all the files with contents in this directory, you need to find out all the groups of duplicate files in the file system in terms of their paths.</p>
 

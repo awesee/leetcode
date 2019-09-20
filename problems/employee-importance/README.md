@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/stickers-to-spell-word "Stickers to Spell Word")
 
-## 690. Employee Importance (Easy)
+## [690. Employee Importance (Easy)](https://leetcode.com/problems/employee-importance "员工的重要性")
 
 <p>You are given a data structure of employee information, which includes the employee&#39;s <b>unique id</b>, his <b>importance value</b> and his <b>direct</b> subordinates&#39; id.</p>
 

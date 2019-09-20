@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/path-sum "Path Sum")
 
-## 111. Minimum Depth of Binary Tree (Easy)
+## [111. Minimum Depth of Binary Tree (Easy)](https://leetcode.com/problems/minimum-depth-of-binary-tree "二叉树的最小深度")
 
 <p>Given a binary tree, find its minimum depth.</p>
 

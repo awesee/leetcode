@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reshape-the-matrix "Reshape the Matrix")
 
-## 565. Array Nesting (Medium)
+## [565. Array Nesting (Medium)](https://leetcode.com/problems/array-nesting "数组嵌套")
 
 <p>A zero-indexed array A of length N contains all integers from 0 to N-1. Find and return the longest length of set S, where S[i] = {A[i], A[A[i]], A[A[A[i]]], ... } subjected to the rule below.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/scramble-string "Scramble String")
 
-## 86. Partition List (Medium)
+## [86. Partition List (Medium)](https://leetcode.com/problems/partition-list "分隔链表")
 
 <p>Given a linked list and a value <em>x</em>, partition it such that all nodes less than <em>x</em> come before nodes greater than or equal to <em>x</em>.</p>
 

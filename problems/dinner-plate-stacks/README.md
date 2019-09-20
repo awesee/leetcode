@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/immediate-food-delivery-i "Immediate Food Delivery I")
 
-## 1172. Dinner Plate Stacks (Hard)
+## [1172. Dinner Plate Stacks (Hard)](https://leetcode.com/problems/dinner-plate-stacks "餐盘栈")
 
 <p>You have an infinite number of stacks arranged in a row and numbered (left to right) from 0, each of the stacks has the same&nbsp;maximum <code>capacity</code>.</p>
 

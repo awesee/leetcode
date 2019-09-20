@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/implement-rand10-using-rand7 "Implement Rand10() Using Rand7()")
 
-## 469. Convex Polygon (Medium)
+## [469. Convex Polygon (Medium)](https://leetcode.com/problems/convex-polygon "凸多边形")
 
 
 

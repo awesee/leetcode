@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list-ii "Reverse Linked List II")
 
-## 91. Decode Ways (Medium)
+## [91. Decode Ways (Medium)](https://leetcode.com/problems/decode-ways "解码方法")
 
 <p>A message containing letters from <code>A-Z</code> is being encoded to numbers using the following mapping:</p>
 

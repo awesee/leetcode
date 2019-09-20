@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-distance-between-bst-nodes "Minimum Distance Between BST Nodes")
 
-## 782. Transform to Chessboard (Hard)
+## [782. Transform to Chessboard (Hard)](https://leetcode.com/problems/transform-to-chessboard "变为棋盘")
 
 <p>An N x N <code>board</code> contains only <code>0</code>s and <code>1</code>s. In each move, you can swap any 2 rows with each other, or any 2 columns with each other.</p>
 

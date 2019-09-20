@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/bag-of-tokens "Bag of Tokens")
 
-## 947. Most Stones Removed with Same Row or Column (Medium)
+## [947. Most Stones Removed with Same Row or Column (Medium)](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column "移除最多的同行或同列石头")
 
 <p>On a 2D plane, we place stones at some integer coordinate points.&nbsp; Each coordinate point may have at most one stone.</p>
 

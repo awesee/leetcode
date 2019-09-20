@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/linked-list-random-node "Linked List Random Node")
 
-## 381. Insert Delete GetRandom O(1) - Duplicates allowed (Hard)
+## [381. Insert Delete GetRandom O(1) - Duplicates allowed (Hard)](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed "O(1) 时间插入、删除和获取随机元素 - 允许重复")
 
 <p>Design a data structure that supports all following operations in <i>average</i> <b>O(1)</b> time.</p>
 <b>Note: Duplicate elements are allowed.</b>

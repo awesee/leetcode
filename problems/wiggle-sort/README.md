@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/zigzag-iterator "Zigzag Iterator")
 
-## 280. Wiggle Sort (Medium)
+## [280. Wiggle Sort (Medium)](https://leetcode.com/problems/wiggle-sort "摆动排序")
 
 
 

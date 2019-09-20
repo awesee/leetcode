@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/armstrong-number "Armstrong Number")
 
-## 1133. Largest Unique Number (Easy)
+## [1133. Largest Unique Number (Easy)](https://leetcode.com/problems/largest-unique-number "最大唯一数")
 
 
 

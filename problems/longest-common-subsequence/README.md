@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/decrease-elements-to-make-array-zigzag "Decrease Elements To Make Array Zigzag")
 
-## 1143. Longest Common Subsequence (Medium)
+## [1143. Longest Common Subsequence (Medium)](https://leetcode.com/problems/longest-common-subsequence "")
 
 <p>Given two strings <code>text1</code> and <code>text2</code>, return the length of their longest common subsequence.</p>
 

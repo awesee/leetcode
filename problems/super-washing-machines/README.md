@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/coin-change-2 "Coin Change 2")
 
-## 517. Super Washing Machines (Hard)
+## [517. Super Washing Machines (Hard)](https://leetcode.com/problems/super-washing-machines "超级洗衣机")
 
 <p>You have <b>n</b> super washing machines on a line. Initially, each washing machine has some dresses or is empty. 
 </p>

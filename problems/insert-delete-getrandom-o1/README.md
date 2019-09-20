@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1-duplicates-allowed "Insert Delete GetRandom O(1) - Duplicates allowed")
 
-## 380. Insert Delete GetRandom O(1) (Medium)
+## [380. Insert Delete GetRandom O(1) (Medium)](https://leetcode.com/problems/insert-delete-getrandom-o1 "常数时间插入、删除和获取随机元素")
 
 <p>Design a data structure that supports all following operations in <i>average</i> <b>O(1)</b> time.</p>
 

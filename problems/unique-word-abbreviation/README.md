@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/game-of-life "Game of Life")
 
-## 288. Unique Word Abbreviation (Medium)
+## [288. Unique Word Abbreviation (Medium)](https://leetcode.com/problems/unique-word-abbreviation "单词的唯一缩写")
 
 
 

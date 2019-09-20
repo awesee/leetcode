@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/convert-bst-to-greater-tree "Convert BST to Greater Tree")
 
-## 537. Complex Number Multiplication (Medium)
+## [537. Complex Number Multiplication (Medium)](https://leetcode.com/problems/complex-number-multiplication "复数乘法")
 
 <p>
 Given two strings representing two <a href = "https://en.wikipedia.org/wiki/Complex_number">complex numbers</a>.</p>

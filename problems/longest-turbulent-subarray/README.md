@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/distribute-coins-in-binary-tree "Distribute Coins in Binary Tree")
 
-## 978. Longest Turbulent Subarray (Medium)
+## [978. Longest Turbulent Subarray (Medium)](https://leetcode.com/problems/longest-turbulent-subarray "最长湍流子数组")
 
 <p>A subarray <code>A[i], A[i+1], ..., A[j]</code>&nbsp;of <code>A</code> is said to be <em>turbulent</em> if and only if:</p>
 

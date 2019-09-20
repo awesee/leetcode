@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/single-number-iii "Single Number III")
 
-## 259. 3Sum Smaller (Medium)
+## [259. 3Sum Smaller (Medium)](https://leetcode.com/problems/3sum-smaller "较小的三数之和")
 
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/median-of-two-sorted-arrays "Median of Two Sorted Arrays")
 
-## 3. Longest Substring Without Repeating Characters (Medium)
+## [3. Longest Substring Without Repeating Characters (Medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters "无重复字符的最长子串")
 
 <p>Given a string, find the length of the <b>longest substring</b> without repeating characters.</p>
 

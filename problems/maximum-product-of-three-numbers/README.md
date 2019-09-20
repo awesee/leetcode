@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/k-inverse-pairs-array "K Inverse Pairs Array")
 
-## 628. Maximum Product of Three Numbers (Easy)
+## [628. Maximum Product of Three Numbers (Easy)](https://leetcode.com/problems/maximum-product-of-three-numbers "三个数的最大乘积")
 
 <p>Given an integer array, find three numbers whose product is maximum and output the maximum product.</p>
 

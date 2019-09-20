@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-vertical-order-traversal "Binary Tree Vertical Order Traversal")
 
-## 313. Super Ugly Number (Medium)
+## [313. Super Ugly Number (Medium)](https://leetcode.com/problems/super-ugly-number "超级丑数")
 
 <p>Write a program to find the <code>n<sup>th</sup></code> super ugly number.</p>
 

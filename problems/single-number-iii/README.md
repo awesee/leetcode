@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/graph-valid-tree "Graph Valid Tree")
 
-## 260. Single Number III (Medium)
+## [260. Single Number III (Medium)](https://leetcode.com/problems/single-number-iii "只出现一次的数字 III")
 
 <p>Given an array of numbers <code>nums</code>, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once.</p>
 

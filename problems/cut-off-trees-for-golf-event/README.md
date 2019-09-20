@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/implement-magic-dictionary "Implement Magic Dictionary")
 
-## 675. Cut Off Trees for Golf Event (Hard)
+## [675. Cut Off Trees for Golf Event (Hard)](https://leetcode.com/problems/cut-off-trees-for-golf-event "为高尔夫比赛砍树")
 
 <p>You are asked to cut off trees in a forest for a golf event. The forest is represented as a non-negative 2D map, in this map:</p>
 

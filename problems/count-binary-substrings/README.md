@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/degree-of-an-array "Degree of an Array")
 
-## 696. Count Binary Substrings (Easy)
+## [696. Count Binary Substrings (Easy)](https://leetcode.com/problems/count-binary-substrings "计数二进制子串")
 
 <p>Give a string <code>s</code>, count the number of non-empty (contiguous) substrings that have the same number of 0's and 1's, and all the 0's and all the 1's in these substrings are grouped consecutively. 
 </p>

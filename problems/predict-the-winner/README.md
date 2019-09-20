@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-ii "Max Consecutive Ones II")
 
-## 486. Predict the Winner (Medium)
+## [486. Predict the Winner (Medium)](https://leetcode.com/problems/predict-the-winner "预测赢家")
 
 <p>Given an array of scores that are non-negative integers. Player 1 picks one of the numbers from either end of the array followed by the player 2 and then player 1 and so on. Each time a player picks a number, that number will not be available for the next player. This continues until all the scores have been chosen. The player with the maximum score wins. </p>
 

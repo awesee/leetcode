@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle "Minimum Area Rectangle")
 
-## 938. Range Sum of BST (Easy)
+## [938. Range Sum of BST (Easy)](https://leetcode.com/problems/range-sum-of-bst "二叉搜索树的范围和")
 
 <p>Given the <code>root</code> node of a binary search tree, return the sum of values of all nodes with value between <code>L</code> and <code>R</code> (inclusive).</p>
 

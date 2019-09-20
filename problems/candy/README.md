@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/single-number "Single Number")
 
-## 135. Candy (Hard)
+## [135. Candy (Hard)](https://leetcode.com/problems/candy "分发糖果")
 
 <p>There are <em>N</em> children standing in a line. Each child is assigned a rating value.</p>
 

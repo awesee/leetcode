@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/largest-unique-number "Largest Unique Number")
 
-## 1132. Reported Posts II (Medium)
+## [1132. Reported Posts II (Medium)](https://leetcode.com/problems/reported-posts-ii "")
 
 

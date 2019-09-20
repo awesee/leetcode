@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/self-dividing-numbers "Self Dividing Numbers")
 
-## 727. Minimum Window Subsequence (Hard)
+## [727. Minimum Window Subsequence (Hard)](https://leetcode.com/problems/minimum-window-subsequence "最小窗口子序列")
 
 
 

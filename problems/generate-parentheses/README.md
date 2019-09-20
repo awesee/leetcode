@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/merge-k-sorted-lists "Merge k Sorted Lists")
 
-## 22. Generate Parentheses (Medium)
+## [22. Generate Parentheses (Medium)](https://leetcode.com/problems/generate-parentheses "括号生成")
 
 <p>
 Given <i>n</i> pairs of parentheses, write a function to generate all combinations of well-formed parentheses.

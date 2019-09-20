@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-repeated-subarray "Maximum Length of Repeated Subarray")
 
-## 717. 1-bit and 2-bit Characters (Easy)
+## [717. 1-bit and 2-bit Characters (Easy)](https://leetcode.com/problems/1-bit-and-2-bit-characters "1比特与2比特字符")
 
 <p>We have two special characters. The first character can be represented by one bit <code>0</code>. The second character can be represented by two bits (<code>10</code> or <code>11</code>).  </p>
 

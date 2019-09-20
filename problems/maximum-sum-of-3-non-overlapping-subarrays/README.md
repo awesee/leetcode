@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/employee-importance "Employee Importance")
 
-## 689. Maximum Sum of 3 Non-Overlapping Subarrays (Hard)
+## [689. Maximum Sum of 3 Non-Overlapping Subarrays (Hard)](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays "三个无重叠子数组的最大和")
 
 <p>In a given array <code>nums</code> of positive integers, find three non-overlapping subarrays with maximum sum.</p>
 

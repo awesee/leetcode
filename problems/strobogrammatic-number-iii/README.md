@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/group-shifted-strings "Group Shifted Strings")
 
-## 248. Strobogrammatic Number III (Hard)
+## [248. Strobogrammatic Number III (Hard)](https://leetcode.com/problems/strobogrammatic-number-iii "中心对称数 III")
 
 
 

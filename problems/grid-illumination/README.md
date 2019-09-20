@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-common-characters "Find Common Characters")
 
-## 1001. Grid Illumination (Hard)
+## [1001. Grid Illumination (Hard)](https://leetcode.com/problems/grid-illumination "网格照明")
 
 <p>On a <code>N x N</code> grid of cells, each cell <code>(x, y)</code> with <code>0 &lt;= x &lt; N</code> and <code>0 &lt;= y &lt; N</code> has a lamp.</p>
 

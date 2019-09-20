@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/largest-palindrome-product "Largest Palindrome Product")
 
-## 478. Generate Random Point in a Circle (Medium)
+## [478. Generate Random Point in a Circle (Medium)](https://leetcode.com/problems/generate-random-point-in-a-circle "在圆内随机生成点")
 
 <p>Given the radius and x-y positions of the center of a circle, write a function <code>randPoint</code>&nbsp;which&nbsp;generates a uniform random&nbsp;point in the circle.</p>
 

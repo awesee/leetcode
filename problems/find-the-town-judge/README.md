@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii "Maximum Binary Tree II")
 
-## 997. Find the Town Judge (Easy)
+## [997. Find the Town Judge (Easy)](https://leetcode.com/problems/find-the-town-judge "找到小镇的法官")
 
 <p>In a town, there are <code>N</code> people labelled from&nbsp;<code>1</code> to <code>N</code>.&nbsp; There is a rumor that one of these people is secretly the town judge.</p>
 

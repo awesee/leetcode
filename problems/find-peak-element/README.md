@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/missing-ranges "Missing Ranges")
 
-## 162. Find Peak Element (Medium)
+## [162. Find Peak Element (Medium)](https://leetcode.com/problems/find-peak-element "寻找峰值")
 
 <p>A peak element is an element that is greater than its neighbors.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/3sum-with-multiplicity "3Sum With Multiplicity")
 
-## 922. Sort Array By Parity II (Easy)
+## [922. Sort Array By Parity II (Easy)](https://leetcode.com/problems/sort-array-by-parity-ii "按奇偶排序数组 II")
 
 <p>Given an array <code>A</code>&nbsp;of non-negative integers, half of the integers in A are odd, and half of the integers are even.</p>
 

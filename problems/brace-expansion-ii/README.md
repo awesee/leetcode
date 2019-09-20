@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-v "Game Play Analysis V")
 
-## 1096. Brace Expansion II (Hard)
+## [1096. Brace Expansion II (Hard)](https://leetcode.com/problems/brace-expansion-ii "花括号展开 II")
 
 <p>Under a grammar given below, strings can represent a set of lowercase words.&nbsp; Let&#39;s&nbsp;use <code>R(expr)</code>&nbsp;to denote the <strong>set</strong> of words the expression represents.</p>
 

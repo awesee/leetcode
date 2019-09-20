@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-matching-subsequences "Number of Matching Subsequences")
 
-## 791. Custom Sort String (Medium)
+## [791. Custom Sort String (Medium)](https://leetcode.com/problems/custom-sort-string "自定义字符串排序")
 
 <p><code>S</code> and <code>T</code> are strings composed of lowercase letters. In <code>S</code>, no letter occurs more than once.</p>
 

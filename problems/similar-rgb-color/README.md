@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-make-sequences-increasing "Minimum Swaps To Make Sequences Increasing")
 
-## 800. Similar RGB Color (Easy)
+## [800. Similar RGB Color (Easy)](https://leetcode.com/problems/similar-rgb-color "相似 RGB 颜色")
 
 
 

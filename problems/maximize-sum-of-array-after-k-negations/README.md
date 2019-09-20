@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/clumsy-factorial "Clumsy Factorial")
 
-## 1005. Maximize Sum Of Array After K Negations (Easy)
+## [1005. Maximize Sum Of Array After K Negations (Easy)](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations "K 次取反后最大化的数组和")
 
 <p>Given an array <code>A</code> of integers, we <strong>must</strong>&nbsp;modify the array in the following way: we choose an <code>i</code>&nbsp;and replace&nbsp;<code>A[i]</code> with <code>-A[i]</code>, and we repeat this process <code>K</code> times in total.&nbsp; (We may choose the same index <code>i</code> multiple times.)</p>
 

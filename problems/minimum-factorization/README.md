@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/exchange-seats "Exchange Seats")
 
-## 625. Minimum Factorization (Medium)
+## [625. Minimum Factorization (Medium)](https://leetcode.com/problems/minimum-factorization "最小因式分解")
 
 <p>Given a positive integer <code>a</code>, find the smallest positive integer <code>b</code> whose multiplication of each digit equals to <code>a</code>. </p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/corporate-flight-bookings "Corporate Flight Bookings")
 
-## 1108. Defanging an IP Address (Easy)
+## [1108. Defanging an IP Address (Easy)](https://leetcode.com/problems/defanging-an-ip-address "IP 地址无效化")
 
 <p>Given a valid (IPv4) IP <code>address</code>, return a defanged version of that IP address.</p>
 

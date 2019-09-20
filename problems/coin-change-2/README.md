@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/random-flip-matrix "Random Flip Matrix")
 
-## 518. Coin Change 2 (Medium)
+## [518. Coin Change 2 (Medium)](https://leetcode.com/problems/coin-change-2 "零钱兑换 II")
 
 <p>You are given coins of different denominations and a total amount of money. Write a function to compute the number of combinations that make up that amount. You may assume that you have infinite number of each kind of coin.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/all-nodes-distance-k-in-binary-tree "All Nodes Distance K in Binary Tree")
 
-## 862. Shortest Subarray with Sum at Least K (Hard)
+## [862. Shortest Subarray with Sum at Least K (Hard)](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k "和至少为 K 的最短子数组")
 
 <p>Return the <strong>length</strong> of the shortest, non-empty, contiguous&nbsp;subarray of <code>A</code> with sum at least <code>K</code>.</p>
 

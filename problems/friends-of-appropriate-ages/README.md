@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/most-profit-assigning-work "Most Profit Assigning Work")
 
-## 825. Friends Of Appropriate Ages (Medium)
+## [825. Friends Of Appropriate Ages (Medium)](https://leetcode.com/problems/friends-of-appropriate-ages "适龄的朋友")
 
 <p>Some people will make friend requests. The&nbsp;list of their ages is given and&nbsp;<code>ages[i]</code>&nbsp;is the age of the&nbsp;ith person.&nbsp;</p>
 

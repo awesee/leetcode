@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-nesting-depth-of-two-valid-parentheses-strings "Maximum Nesting Depth of Two Valid Parentheses Strings")
 
-## 1110. Delete Nodes And Return Forest (Medium)
+## [1110. Delete Nodes And Return Forest (Medium)](https://leetcode.com/problems/delete-nodes-and-return-forest "删点成林")
 
 <p>Given the <code>root</code>&nbsp;of a binary tree, each node in the tree has a distinct value.</p>
 

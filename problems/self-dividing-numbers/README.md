@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i "My Calendar I")
 
-## 728. Self Dividing Numbers (Easy)
+## [728. Self Dividing Numbers (Easy)](https://leetcode.com/problems/self-dividing-numbers "自除数")
 
 <p>
 A <i>self-dividing number</i> is a number that is divisible by every digit it contains.

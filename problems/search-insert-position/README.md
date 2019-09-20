@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/valid-sudoku "Valid Sudoku")
 
-## 35. Search Insert Position (Easy)
+## [35. Search Insert Position (Easy)](https://leetcode.com/problems/search-insert-position "搜索插入位置")
 
 <p>Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.</p>
 

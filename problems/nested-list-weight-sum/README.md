@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-k-distinct-characters "Longest Substring with At Most K Distinct Characters")
 
-## 339. Nested List Weight Sum (Easy)
+## [339. Nested List Weight Sum (Easy)](https://leetcode.com/problems/nested-list-weight-sum "嵌套列表权重和")
 
 
 

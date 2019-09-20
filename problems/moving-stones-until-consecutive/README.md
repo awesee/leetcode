@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/coloring-a-border "Coloring A Border")
 
-## 1033. Moving Stones Until Consecutive (Easy)
+## [1033. Moving Stones Until Consecutive (Easy)](https://leetcode.com/problems/moving-stones-until-consecutive "移动石子直到连续")
 
 <p>Three stones are on a number line at positions <code>a</code>, <code>b</code>, and <code>c</code>.</p>
 

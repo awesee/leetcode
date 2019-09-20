@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/open-the-lock "Open the Lock")
 
-## 751. IP to CIDR (Easy)
+## [751. IP to CIDR (Easy)](https://leetcode.com/problems/ip-to-cidr "IP 到 CIDR")
 
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-nodes-in-k-group "Reverse Nodes in k-Group")
 
-## 24. Swap Nodes in Pairs (Medium)
+## [24. Swap Nodes in Pairs (Medium)](https://leetcode.com/problems/swap-nodes-in-pairs "两两交换链表中的节点")
 
 <p>Given a&nbsp;linked list, swap every two adjacent nodes and return its head.</p>
 

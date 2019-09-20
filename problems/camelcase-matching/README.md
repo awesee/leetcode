@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/video-stitching "Video Stitching")
 
-## 1023. Camelcase Matching (Medium)
+## [1023. Camelcase Matching (Medium)](https://leetcode.com/problems/camelcase-matching "驼峰式匹配")
 
 <p>A query word matches a given <code>pattern</code> if we can insert <strong>lowercase</strong> letters to the pattern word so that it equals the <code>query</code>. (We may insert each character at any position, and may insert 0 characters.)</p>
 

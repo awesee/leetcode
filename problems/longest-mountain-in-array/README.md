@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/hand-of-straights "Hand of Straights")
 
-## 845. Longest Mountain in Array (Medium)
+## [845. Longest Mountain in Array (Medium)](https://leetcode.com/problems/longest-mountain-in-array "数组中的最长山脉")
 
 <p>Let&#39;s call any (contiguous) subarray B (of A)&nbsp;a <em>mountain</em> if the following properties hold:</p>
 

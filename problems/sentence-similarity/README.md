@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/asteroid-collision "Asteroid Collision")
 
-## 734. Sentence Similarity (Easy)
+## [734. Sentence Similarity (Easy)](https://leetcode.com/problems/sentence-similarity "句子相似性")
 
 
 

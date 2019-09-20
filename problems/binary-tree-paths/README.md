@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/add-digits "Add Digits")
 
-## 257. Binary Tree Paths (Easy)
+## [257. Binary Tree Paths (Easy)](https://leetcode.com/problems/binary-tree-paths "二叉树的所有路径")
 
 <p>Given a binary tree, return all root-to-leaf paths.</p>
 

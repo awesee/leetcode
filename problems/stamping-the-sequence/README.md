@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reorder-data-in-log-files "Reorder Data in Log Files")
 
-## 936. Stamping The Sequence (Hard)
+## [936. Stamping The Sequence (Hard)](https://leetcode.com/problems/stamping-the-sequence "戳印序列")
 
 <p>You want to form a <code>target</code>&nbsp;string of <strong>lowercase letters</strong>.</p>
 

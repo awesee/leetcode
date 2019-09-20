@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-i "Game Play Analysis I")
 
-## 510. Inorder Successor in BST II (Medium)
+## [510. Inorder Successor in BST II (Medium)](https://leetcode.com/problems/inorder-successor-in-bst-ii "二叉搜索树中的中序后继 II")
 
 
 

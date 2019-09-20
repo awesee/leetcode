@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-longest-increasing-subsequence "Number of Longest Increasing Subsequence")
 
-## 672. Bulb Switcher II (Medium)
+## [672. Bulb Switcher II (Medium)](https://leetcode.com/problems/bulb-switcher-ii "灯泡开关 Ⅱ")
 
 <p>There is a room with <code>n</code> lights which are turned on initially and 4 buttons on the wall. After performing exactly <code>m</code> unknown operations towards buttons, you need to return how many different kinds of status of the <code>n</code> lights could be.</p>
 

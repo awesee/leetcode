@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/average-salary-departments-vs-company "Average Salary: Departments VS Company")
 
-## 614. Second Degree Follower (Medium)
+## [614. Second Degree Follower (Medium)](https://leetcode.com/problems/second-degree-follower "二级关注者")
 
 

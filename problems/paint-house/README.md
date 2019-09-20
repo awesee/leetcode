@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-paths "Binary Tree Paths")
 
-## 256. Paint House (Easy)
+## [256. Paint House (Easy)](https://leetcode.com/problems/paint-house "粉刷房子")
 
 
 

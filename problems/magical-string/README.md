@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/license-key-formatting "License Key Formatting")
 
-## 481. Magical String (Medium)
+## [481. Magical String (Medium)](https://leetcode.com/problems/magical-string "神奇字符串")
 
 <p>
 A magical string <b>S</b> consists of only '1' and '2' and obeys the following rules:

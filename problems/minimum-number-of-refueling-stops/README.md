@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/leaf-similar-trees "Leaf-Similar Trees")
 
-## 871. Minimum Number of Refueling Stops (Hard)
+## [871. Minimum Number of Refueling Stops (Hard)](https://leetcode.com/problems/minimum-number-of-refueling-stops "最低加油次数")
 
 <p>A car travels from a starting position to a destination which is <code>target</code> miles east of the starting position.</p>
 

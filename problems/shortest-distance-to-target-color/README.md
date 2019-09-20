@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-ones "Maximum Number of Ones")
 
-## 1182. Shortest Distance to Target Color (Medium)
+## [1182. Shortest Distance to Target Color (Medium)](https://leetcode.com/problems/shortest-distance-to-target-color "与目标颜色间的最短距离")
 
 
 

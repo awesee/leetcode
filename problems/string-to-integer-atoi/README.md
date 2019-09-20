@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-number "Palindrome Number")
 
-## 8. String to Integer (atoi) (Medium)
+## [8. String to Integer (atoi) (Medium)](https://leetcode.com/problems/string-to-integer-atoi "字符串转换整数 (atoi)")
 
 <p>Implement <code><span>atoi</span></code> which&nbsp;converts a string to an integer.</p>
 

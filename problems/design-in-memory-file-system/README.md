@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-preorder-traversal "N-ary Tree Preorder Traversal")
 
-## 588. Design In-Memory File System (Hard)
+## [588. Design In-Memory File System (Hard)](https://leetcode.com/problems/design-in-memory-file-system "设计内存文件系统")
 
 <p>Design an in-memory file system to simulate the following functions:</p>
 

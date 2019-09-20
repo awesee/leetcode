@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-days-in-a-month "Number of Days in a Month")
 
-## 1117. Building H2O (Hard)
+## [1117. Building H2O (Hard)](https://leetcode.com/problems/building-h2o "H2O 生成")
 
 <p>There are two kinds of threads, <code>oxygen</code> and <code>hydrogen</code>. Your goal is to group these threads to form water molecules.&nbsp;There is a barrier where each thread has to&nbsp;wait until a complete molecule can be formed. Hydrogen and oxygen threads will be given a <code>releaseHydrogen</code>&nbsp;and <code>releaseOxygen</code>&nbsp;method respectfully, which will allow them to pass the barrier. These threads should pass the barrier in groups of three, and they must be able to immediately bond with each other to form a water molecule.&nbsp;You must guarantee that all the threads from one molecule bond <em>before</em> any other threads from the next molecule do.</p>
 

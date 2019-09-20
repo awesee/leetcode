@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-ascii-delete-sum-for-two-strings "Minimum ASCII Delete Sum for Two Strings")
 
-## 711. Number of Distinct Islands II (Hard)
+## [711. Number of Distinct Islands II (Hard)](https://leetcode.com/problems/number-of-distinct-islands-ii "不同岛屿的数量 II")
 
 
 

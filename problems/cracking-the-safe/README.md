@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reach-a-number "Reach a Number")
 
-## 753. Cracking the Safe (Hard)
+## [753. Cracking the Safe (Hard)](https://leetcode.com/problems/cracking-the-safe "破解保险箱")
 
 <p>There is a box protected by a password. The password is a sequence of&nbsp;<code>n</code> digits&nbsp;where each digit can be one of the first <code>k</code> digits <code>0, 1, ..., k-1</code>.</p>
 

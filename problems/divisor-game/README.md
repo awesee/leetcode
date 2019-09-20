@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-difference-between-node-and-ancestor "Maximum Difference Between Node and Ancestor")
 
-## 1025. Divisor Game (Easy)
+## [1025. Divisor Game (Easy)](https://leetcode.com/problems/divisor-game "除数博弈")
 
 <p>Alice and Bob take turns playing a game, with Alice starting first.</p>
 

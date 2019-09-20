@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/actors-and-directors-who-cooperated-at-least-three-times "Actors and Directors Who Cooperated At Least Three Times")
 
-## 1049. Last Stone Weight II (Medium)
+## [1049. Last Stone Weight II (Medium)](https://leetcode.com/problems/last-stone-weight-ii "最后一块石头的重量 II")
 
 <p>We have a collection of rocks, each rock has a positive integer weight.</p>
 

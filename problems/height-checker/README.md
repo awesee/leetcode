@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/grumpy-bookstore-owner "Grumpy Bookstore Owner")
 
-## 1051. Height Checker (Easy)
+## [1051. Height Checker (Easy)](https://leetcode.com/problems/height-checker "高度检查器")
 
 <p>Students are asked to stand in non-decreasing order of heights for an annual photo.</p>
 

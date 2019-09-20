@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator "Flatten Nested List Iterator")
 
-## 340. Longest Substring with At Most K Distinct Characters (Hard)
+## [340. Longest Substring with At Most K Distinct Characters (Hard)](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters "至多包含 K 个不同字符的最长子串")
 
 
 

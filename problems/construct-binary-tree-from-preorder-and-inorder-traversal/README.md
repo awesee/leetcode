@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-inorder-and-postorder-traversal "Construct Binary Tree from Inorder and Postorder Traversal")
 
-## 105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)
+## [105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal "从前序与中序遍历序列构造二叉树")
 
 <p>Given preorder and inorder traversal of a tree, construct the binary tree.</p>
 

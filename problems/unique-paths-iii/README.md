@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/time-based-key-value-store "Time Based Key-Value Store")
 
-## 980. Unique Paths III (Hard)
+## [980. Unique Paths III (Hard)](https://leetcode.com/problems/unique-paths-iii "不同路径 III")
 
 <p>On a 2-dimensional&nbsp;<code>grid</code>, there are 4 types of squares:</p>
 

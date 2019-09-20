@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/3sum-closest "3Sum Closest")
 
-## 15. 3Sum (Medium)
+## [15. 3Sum (Medium)](https://leetcode.com/problems/3sum "三数之和")
 
 <p>Given an array <code>nums</code> of <em>n</em> integers, are there elements <em>a</em>, <em>b</em>, <em>c</em> in <code>nums</code> such that <em>a</em> + <em>b</em> + <em>c</em> = 0? Find all unique triplets in the array which gives the sum of zero.</p>
 

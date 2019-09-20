@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-ii "Game Play Analysis II")
 
-## 511. Game Play Analysis I (Easy)
+## [511. Game Play Analysis I (Easy)](https://leetcode.com/problems/game-play-analysis-i "游戏玩法分析 I")
 
 
 

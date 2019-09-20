@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design "Add and Search Word - Data structure design")
 
-## 210. Course Schedule II (Medium)
+## [210. Course Schedule II (Medium)](https://leetcode.com/problems/course-schedule-ii "课程表 II")
 
 <p>There are a total of <em>n</em> courses you have to take, labeled from <code>0</code> to <code>n-1</code>.</p>
 

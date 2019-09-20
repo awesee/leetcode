@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-blacklist "Random Pick with Blacklist")
 
-## 709. To Lower Case (Easy)
+## [709. To Lower Case (Easy)](https://leetcode.com/problems/to-lower-case "转换成小写字母")
 
 <p>Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/friends-of-appropriate-ages "Friends Of Appropriate Ages")
 
-## 824. Goat Latin (Easy)
+## [824. Goat Latin (Easy)](https://leetcode.com/problems/goat-latin "山羊拉丁文")
 
 <p>A sentence <code>S</code> is given, composed of words separated by spaces. Each word consists of lowercase and uppercase letters only.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/missing-element-in-sorted-array "Missing Element in Sorted Array")
 
-## 1059. All Paths from Source Lead to Destination (Medium)
+## [1059. All Paths from Source Lead to Destination (Medium)](https://leetcode.com/problems/all-paths-from-source-lead-to-destination "从始点到终点的所有路径")
 
 <p>Given the <code>edges</code> of a directed graph, and two nodes <code>source</code> and <code>destination</code> of this graph, determine whether or not all paths starting from <code>source</code> eventually end at <code>destination</code>, that is:</p>
 

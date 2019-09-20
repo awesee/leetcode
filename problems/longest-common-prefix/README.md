@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/3sum "3Sum")
 
-## 14. Longest Common Prefix (Easy)
+## [14. Longest Common Prefix (Easy)](https://leetcode.com/problems/longest-common-prefix "最长公共前缀")
 
 <p>Write a function to find the longest common prefix string amongst an array of strings.</p>
 

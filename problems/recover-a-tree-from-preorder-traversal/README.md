@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/two-city-scheduling "Two City Scheduling")
 
-## 1028. Recover a Tree From Preorder Traversal (Hard)
+## [1028. Recover a Tree From Preorder Traversal (Hard)](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal "从先序遍历还原二叉树")
 
 <p>We run a&nbsp;preorder&nbsp;depth first search on the <code>root</code> of a binary tree.</p>
 

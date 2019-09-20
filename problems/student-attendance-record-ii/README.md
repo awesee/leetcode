@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/optimal-division "Optimal Division")
 
-## 552. Student Attendance Record II (Hard)
+## [552. Student Attendance Record II (Hard)](https://leetcode.com/problems/student-attendance-record-ii "学生出勤记录 II")
 
 <p>Given a positive integer <b>n</b>, return the number of all possible attendance records with length n, which will be regarded as rewardable. The answer may be very large, return it after mod 10<sup>9</sup> + 7.</p>
 

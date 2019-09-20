@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/ransom-note "Ransom Note")
 
-## 382. Linked List Random Node (Medium)
+## [382. Linked List Random Node (Medium)](https://leetcode.com/problems/linked-list-random-node "链表随机节点")
 
 <p>Given a singly linked list, return a random node's value from the linked list. Each node must have the <b>same probability</b> of being chosen.</p>
 

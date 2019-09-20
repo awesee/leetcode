@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/triples-with-bitwise-and-equal-to-zero "Triples with Bitwise AND Equal To Zero")
 
-## 981. Time Based Key-Value Store (Medium)
+## [981. Time Based Key-Value Store (Medium)](https://leetcode.com/problems/time-based-key-value-store "基于时间的键值存储")
 
 <p>Create a timebased key-value store class&nbsp;<code>TimeMap</code>, that supports two operations.</p>
 

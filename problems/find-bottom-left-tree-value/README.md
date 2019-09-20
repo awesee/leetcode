@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/freedom-trail "Freedom Trail")
 
-## 513. Find Bottom Left Tree Value (Medium)
+## [513. Find Bottom Left Tree Value (Medium)](https://leetcode.com/problems/find-bottom-left-tree-value "找树左下角的值")
 
 <p>
 Given a binary tree, find the leftmost value in the last row of the tree. 

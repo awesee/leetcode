@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/stone-game "Stone Game")
 
-## 876. Middle of the Linked List (Easy)
+## [876. Middle of the Linked List (Easy)](https://leetcode.com/problems/middle-of-the-linked-list "链表的中间结点")
 
 <p>Given a non-empty, singly&nbsp;linked list with head node <code>head</code>, return&nbsp;a&nbsp;middle node of linked list.</p>
 

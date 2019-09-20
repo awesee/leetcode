@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-path-in-binary-matrix "Shortest Path in Binary Matrix")
 
-## 1090. Largest Values From Labels (Medium)
+## [1090. Largest Values From Labels (Medium)](https://leetcode.com/problems/largest-values-from-labels "受标签影响的最大值")
 
 <p>We have a set of items: the <code>i</code>-th item has value <code>values[i]</code> and label <code>labels[i]</code>.</p>
 

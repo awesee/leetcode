@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/prefix-and-suffix-search "Prefix and Suffix Search")
 
-## 744. Find Smallest Letter Greater Than Target (Easy)
+## [744. Find Smallest Letter Greater Than Target (Easy)](https://leetcode.com/problems/find-smallest-letter-greater-than-target "寻找比目标字母大的最小字母")
 
 <p>
 Given a list of sorted characters <code>letters</code> containing only lowercase letters, and given a target letter <code>target</code>, find the smallest element in the list that is larger than the given target.

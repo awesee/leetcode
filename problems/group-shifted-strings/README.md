@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/count-univalue-subtrees "Count Univalue Subtrees")
 
-## 249. Group Shifted Strings (Medium)
+## [249. Group Shifted Strings (Medium)](https://leetcode.com/problems/group-shifted-strings "移位字符串分组")
 
 
 

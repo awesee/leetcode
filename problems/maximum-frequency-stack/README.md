@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/monotonic-array "Monotonic Array")
 
-## 895. Maximum Frequency Stack (Hard)
+## [895. Maximum Frequency Stack (Hard)](https://leetcode.com/problems/maximum-frequency-stack "最大频率栈")
 
 <p>Implement <code>FreqStack</code>, a class which simulates the operation of a stack-like data structure.</p>
 

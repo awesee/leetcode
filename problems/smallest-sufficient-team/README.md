@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/active-businesses "Active Businesses")
 
-## 1125. Smallest Sufficient Team (Hard)
+## [1125. Smallest Sufficient Team (Hard)](https://leetcode.com/problems/smallest-sufficient-team "最小的必要团队")
 
 <p>In a project, you have a list of required skills <code>req_skills</code>,&nbsp;and a list of <code>people</code>.&nbsp; The i-th person <code>people[i]</code>&nbsp;contains a list of skills that person has.</p>
 

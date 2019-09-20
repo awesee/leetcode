@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/super-washing-machines "Super Washing Machines")
 
-## 516. Longest Palindromic Subsequence (Medium)
+## [516. Longest Palindromic Subsequence (Medium)](https://leetcode.com/problems/longest-palindromic-subsequence "最长回文子序列")
 
 <p>
 Given a string s, find the longest palindromic subsequence's length in s. You may assume that the maximum length of s is 1000.

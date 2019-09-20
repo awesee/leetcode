@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/advantage-shuffle "Advantage Shuffle")
 
-## 869. Reordered Power of 2 (Medium)
+## [869. Reordered Power of 2 (Medium)](https://leetcode.com/problems/reordered-power-of-2 "重新排序得到 2 的幂")
 
 <p>Starting with a positive integer <code>N</code>, we reorder the digits in any order (including the original order) such that the leading digit is not zero.</p>
 

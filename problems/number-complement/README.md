@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/total-hamming-distance "Total Hamming Distance")
 
-## 476. Number Complement (Easy)
+## [476. Number Complement (Easy)](https://leetcode.com/problems/number-complement "数字的补数")
 
 <p>Given a positive integer, output its complement number. The complement strategy is to flip the bits of its binary representation.</p>
 

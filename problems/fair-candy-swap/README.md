@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-postorder-traversal "Construct Binary Tree from Preorder and Postorder Traversal")
 
-## 888. Fair Candy Swap (Easy)
+## [888. Fair Candy Swap (Easy)](https://leetcode.com/problems/fair-candy-swap "公平的糖果交换")
 
 <p>Alice and Bob have candy bars of different sizes: <code>A[i]</code> is the size of the <code>i</code>-th bar of candy that Alice has, and <code>B[j]</code> is the size of the <code>j</code>-th bar of candy that Bob has.</p>
 

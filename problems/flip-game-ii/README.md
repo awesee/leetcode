@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-median-from-data-stream "Find Median from Data Stream")
 
-## 294. Flip Game II (Medium)
+## [294. Flip Game II (Medium)](https://leetcode.com/problems/flip-game-ii "翻转游戏 II")
 
 
 

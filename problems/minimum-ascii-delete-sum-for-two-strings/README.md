@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/subarray-product-less-than-k "Subarray Product Less Than K")
 
-## 712. Minimum ASCII Delete Sum for Two Strings (Medium)
+## [712. Minimum ASCII Delete Sum for Two Strings (Medium)](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings "两个字符串的最小ASCII删除和")
 
 <p>Given two strings <code>s1, s2</code>, find the lowest ASCII sum of deleted characters to make two strings equal.</p>
 

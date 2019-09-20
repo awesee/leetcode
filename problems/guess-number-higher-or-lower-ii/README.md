@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/wiggle-subsequence "Wiggle Subsequence")
 
-## 375. Guess Number Higher or Lower II (Medium)
+## [375. Guess Number Higher or Lower II (Medium)](https://leetcode.com/problems/guess-number-higher-or-lower-ii "猜数字大小 II")
 
 <p>We are playing the Guess Game. The game is as follows:</p>
 

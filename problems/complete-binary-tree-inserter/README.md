@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-music-playlists "Number of Music Playlists")
 
-## 919. Complete Binary Tree Inserter (Medium)
+## [919. Complete Binary Tree Inserter (Medium)](https://leetcode.com/problems/complete-binary-tree-inserter "完全二叉树插入器")
 
 <p>A <em>complete</em> binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes are as far left as possible.</p>
 

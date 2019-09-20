@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-increment-to-make-array-unique "Minimum Increment to Make Array Unique")
 
-## 944. Delete Columns to Make Sorted (Easy)
+## [944. Delete Columns to Make Sorted (Easy)](https://leetcode.com/problems/delete-columns-to-make-sorted "删列造序")
 
 <p>We are given an array&nbsp;<code>A</code> of <code>N</code> lowercase letter strings, all of the same length.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-completing-word "Shortest Completing Word")
 
-## 747. Largest Number At Least Twice of Others (Easy)
+## [747. Largest Number At Least Twice of Others (Easy)](https://leetcode.com/problems/largest-number-at-least-twice-of-others "至少是其他数字两倍的最大数")
 
 <p>In a given integer array <code>nums</code>, there is always exactly one largest element.</p>
 

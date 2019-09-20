@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/valid-number "Valid Number")
 
-## 64. Minimum Path Sum (Medium)
+## [64. Minimum Path Sum (Medium)](https://leetcode.com/problems/minimum-path-sum "最小路径和")
 
 <p>Given a <em>m</em> x <em>n</em> grid filled with non-negative numbers, find a path from top left to bottom right which <em>minimizes</em> the sum of all numbers along its path.</p>
 

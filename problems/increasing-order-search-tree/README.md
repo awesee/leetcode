@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/bitwise-ors-of-subarrays "Bitwise ORs of Subarrays")
 
-## 897. Increasing Order Search Tree (Easy)
+## [897. Increasing Order Search Tree (Easy)](https://leetcode.com/problems/increasing-order-search-tree "递增顺序查找树")
 
 <p>Given a binary search tree, rearrange the tree in <strong>in-order</strong> so that the leftmost node in the tree is now the root of the tree, and every node has no left child and only 1 right child.</p>
 

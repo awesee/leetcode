@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-size-subarray-sum-equals-k "Maximum Size Subarray Sum Equals k")
 
-## 324. Wiggle Sort II (Medium)
+## [324. Wiggle Sort II (Medium)](https://leetcode.com/problems/wiggle-sort-ii "摆动排序 II")
 
 <p>Given an unsorted array <code>nums</code>, reorder it such that <code>nums[0] &lt; nums[1] &gt; nums[2] &lt; nums[3]...</code>.</p>
 

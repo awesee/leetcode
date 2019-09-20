@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-depth-of-binary-tree "Minimum Depth of Binary Tree")
 
-## 110. Balanced Binary Tree (Easy)
+## [110. Balanced Binary Tree (Easy)](https://leetcode.com/problems/balanced-binary-tree "平衡二叉树")
 
 <p>Given a binary tree, determine if it is height-balanced.</p>
 

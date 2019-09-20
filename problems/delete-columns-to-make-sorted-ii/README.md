@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/tallest-billboard "Tallest Billboard")
 
-## 955. Delete Columns to Make Sorted II (Medium)
+## [955. Delete Columns to Make Sorted II (Medium)](https://leetcode.com/problems/delete-columns-to-make-sorted-ii "删列造序 II")
 
 <p>We are given an array&nbsp;<code>A</code> of <code>N</code> lowercase letter strings, all of the same length.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/recover-a-tree-from-preorder-traversal "Recover a Tree From Preorder Traversal")
 
-## 1027. Longest Arithmetic Sequence (Medium)
+## [1027. Longest Arithmetic Sequence (Medium)](https://leetcode.com/problems/longest-arithmetic-sequence "最长等差数列")
 
 <p>Given an array <code>A</code> of integers, return the <strong>length</strong> of the longest arithmetic subsequence in <code>A</code>.</p>
 

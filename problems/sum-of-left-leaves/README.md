@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/convert-a-number-to-hexadecimal "Convert a Number to Hexadecimal")
 
-## 404. Sum of Left Leaves (Easy)
+## [404. Sum of Left Leaves (Easy)](https://leetcode.com/problems/sum-of-left-leaves "左叶子之和")
 
 <p>Find the sum of all left leaves in a given binary tree.</p>
 

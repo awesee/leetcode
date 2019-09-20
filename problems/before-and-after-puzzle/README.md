@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-to-target-color "Shortest Distance to Target Color")
 
-## 1181. Before and After Puzzle (Medium)
+## [1181. Before and After Puzzle (Medium)](https://leetcode.com/problems/before-and-after-puzzle "前后拼接")
 
 
 

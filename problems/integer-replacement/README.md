@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/random-pick-index "Random Pick Index")
 
-## 397. Integer Replacement (Medium)
+## [397. Integer Replacement (Medium)](https://leetcode.com/problems/integer-replacement "整数替换")
 
 <p>
 Given a positive integer <i>n</i> and you can do operations as follow:

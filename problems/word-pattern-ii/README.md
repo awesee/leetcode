@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/nim-game "Nim Game")
 
-## 291. Word Pattern II (Hard)
+## [291. Word Pattern II (Hard)](https://leetcode.com/problems/word-pattern-ii "单词规律 II")
 
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/satisfiability-of-equality-equations "Satisfiability of Equality Equations")
 
-## 989. Add to Array-Form of Integer (Easy)
+## [989. Add to Array-Form of Integer (Easy)](https://leetcode.com/problems/add-to-array-form-of-integer "数组形式的整数加法")
 
 <p>For a non-negative integer <code>X</code>, the&nbsp;<em>array-form of <code>X</code></em>&nbsp;is an array of its digits in left to right order.&nbsp; For example, if <code>X = 1231</code>, then the array form is&nbsp;<code>[1,2,3,1]</code>.</p>
 

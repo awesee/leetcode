@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/friend-requests-ii-who-has-the-most-friends "Friend Requests II: Who Has the Most Friends")
 
-## 601. Human Traffic of Stadium (Hard)
+## [601. Human Traffic of Stadium (Hard)](https://leetcode.com/problems/human-traffic-of-stadium "体育馆的人流量")
 
 <p>X city built a new stadium, each day many people visit it and the stats are saved as these columns: <b>id</b>, <strong>visit_</strong><b>date</b>, <b>people</b></p>
 

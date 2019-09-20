@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/boats-to-save-people "Boats to Save People")
 
-## 880. Decoded String at Index (Medium)
+## [880. Decoded String at Index (Medium)](https://leetcode.com/problems/decoded-string-at-index "索引处的解码字符串")
 
 <p>An encoded string <code>S</code> is given.&nbsp; To find and write the <em>decoded</em> string to a tape, the encoded string is read <strong>one character at a time</strong>&nbsp;and the following steps are taken:</p>
 

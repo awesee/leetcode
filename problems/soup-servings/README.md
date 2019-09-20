@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/expressive-words "Expressive Words")
 
-## 808. Soup Servings (Medium)
+## [808. Soup Servings (Medium)](https://leetcode.com/problems/soup-servings "分汤")
 
 <p>There are two types of soup: type A and type B. Initially we have <code>N</code> ml of each type of soup. There are four kinds of operations:</p>
 

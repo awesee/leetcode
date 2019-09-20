@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/word-pattern-ii "Word Pattern II")
 
-## 290. Word Pattern (Easy)
+## [290. Word Pattern (Easy)](https://leetcode.com/problems/word-pattern "单词规律")
 
 <p>Given a <code>pattern</code> and a string <code>str</code>, find if <code>str</code> follows the same pattern.</p>
 

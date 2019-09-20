@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-subarrays-with-sum "Binary Subarrays With Sum")
 
-## 929. Unique Email Addresses (Easy)
+## [929. Unique Email Addresses (Easy)](https://leetcode.com/problems/unique-email-addresses "独特的电子邮件地址")
 
 <p>Every email consists of a local name and a domain name, separated by the @ sign.</p>
 

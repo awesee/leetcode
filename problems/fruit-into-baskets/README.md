@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sort-array-by-parity "Sort Array By Parity")
 
-## 904. Fruit Into Baskets (Medium)
+## [904. Fruit Into Baskets (Medium)](https://leetcode.com/problems/fruit-into-baskets "水果成篮")
 
 <p>In a row of trees, the <code>i</code>-th tree&nbsp;produces&nbsp;fruit with type&nbsp;<code>tree[i]</code>.</p>
 

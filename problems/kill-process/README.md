@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/delete-operation-for-two-strings "Delete Operation for Two Strings")
 
-## 582. Kill Process (Medium)
+## [582. Kill Process (Medium)](https://leetcode.com/problems/kill-process "杀死进程")
 
 <p>Given <b>n</b> processes, each process has a unique <b>PID (process id)</b> and its <b>PPID (parent process id)</b>. 
 

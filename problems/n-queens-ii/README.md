@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray "Maximum Subarray")
 
-## 52. N-Queens II (Hard)
+## [52. N-Queens II (Hard)](https://leetcode.com/problems/n-queens-ii "N皇后 II")
 
 <p>The <em>n</em>-queens puzzle is the problem of placing <em>n</em> queens on an <em>n</em>&times;<em>n</em> chessboard such that no two queens attack each other.</p>
 

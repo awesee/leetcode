@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/distinct-subsequences "Distinct Subsequences")
 
-## 114. Flatten Binary Tree to Linked List (Medium)
+## [114. Flatten Binary Tree to Linked List (Medium)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list "二叉树展开为链表")
 
 <p>Given a binary tree, flatten it to a linked list in-place.</p>
 

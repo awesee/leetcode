@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/encode-n-ary-tree-to-binary-tree "Encode N-ary Tree to Binary Tree")
 
-## 430. Flatten a Multilevel Doubly Linked List (Medium)
+## [430. Flatten a Multilevel Doubly Linked List (Medium)](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list "扁平化多级双向链表")
 
 <p>You are given a doubly linked list which in addition to the next and previous pointers, it could have a child pointer, which may or may not point to a separate doubly linked list. These child lists may have one or more children of their own, and so on, to produce a multilevel data structure, as shown in the example below.</p>
 

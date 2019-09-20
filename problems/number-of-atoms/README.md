@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-window-subsequence "Minimum Window Subsequence")
 
-## 726. Number of Atoms (Hard)
+## [726. Number of Atoms (Hard)](https://leetcode.com/problems/number-of-atoms "原子的数量")
 
 <p>Given a chemical <code>formula</code> (given as a string), return the count of each atom.
 </p><p>

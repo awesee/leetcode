@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-linked-lists "Intersection of Two Linked Lists")
 
-## 159. Longest Substring with At Most Two Distinct Characters (Hard)
+## [159. Longest Substring with At Most Two Distinct Characters (Hard)](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters "至多包含两个不同字符的最长子串")
 
 <p>Given a string <strong><em>s</em></strong> , find the length of the longest substring&nbsp;<strong><em>t&nbsp;&nbsp;</em></strong>that contains <strong>at most </strong>2 distinct characters.</p>
 

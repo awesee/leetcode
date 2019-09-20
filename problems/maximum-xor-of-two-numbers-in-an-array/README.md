@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/valid-word-square "Valid Word Square")
 
-## 421. Maximum XOR of Two Numbers in an Array (Medium)
+## [421. Maximum XOR of Two Numbers in an Array (Medium)](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array "数组中两个数的最大异或值")
 
 <p>Given a <b>non-empty</b> array of numbers, a<sub>0</sub>, a<sub>1</sub>, a<sub>2</sub>, &hellip; , a<sub>n-1</sub>, where 0 &le; a<sub>i</sub> &lt; 2<sup>31</sup>.</p>
 

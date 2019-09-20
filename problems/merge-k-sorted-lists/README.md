@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/swap-nodes-in-pairs "Swap Nodes in Pairs")
 
-## 23. Merge k Sorted Lists (Hard)
+## [23. Merge k Sorted Lists (Hard)](https://leetcode.com/problems/merge-k-sorted-lists "合并K个排序链表")
 
 <p>Merge <em>k</em> sorted linked lists and return it as one sorted list. Analyze and describe its complexity.</p>
 

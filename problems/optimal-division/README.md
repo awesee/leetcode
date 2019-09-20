@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/brick-wall "Brick Wall")
 
-## 553. Optimal Division (Medium)
+## [553. Optimal Division (Medium)](https://leetcode.com/problems/optimal-division "最优除法")
 
 <p>Given a list of <b>positive integers</b>, the adjacent integers will perform the float division. For example, [2,3,4] -> 2 / 3 / 4.</p>
 

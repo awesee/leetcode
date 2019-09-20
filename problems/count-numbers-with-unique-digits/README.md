@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/rearrange-string-k-distance-apart "Rearrange String k Distance Apart")
 
-## 357. Count Numbers with Unique Digits (Medium)
+## [357. Count Numbers with Unique Digits (Medium)](https://leetcode.com/problems/count-numbers-with-unique-digits "计算各个位数不同的数字个数")
 
 <p>Given a <b>non-negative</b> integer n, count all numbers with unique digits, x, where 0 &le; x &lt; 10<sup>n</sup>.</p>
 

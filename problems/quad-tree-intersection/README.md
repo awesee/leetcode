@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-n-ary-tree "Maximum Depth of N-ary Tree")
 
-## 558. Quad Tree Intersection (Easy)
+## [558. Quad Tree Intersection (Easy)](https://leetcode.com/problems/quad-tree-intersection "四叉树交集")
 
 <p>A quadtree is a tree data in which each internal node has exactly four children: <code>topLeft</code>, <code>topRight</code>, <code>bottomLeft</code> and <code>bottomRight</code>. Quad trees are often used to partition a two-dimensional space by recursively subdividing it into four quadrants or regions.</p>
 

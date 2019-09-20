@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/rabbits-in-forest "Rabbits in Forest")
 
-## 780. Reaching Points (Hard)
+## [780. Reaching Points (Hard)](https://leetcode.com/problems/reaching-points "到达终点")
 
 <p>A move consists of taking a point <code>(x, y)</code> and transforming it to either <code>(x, x+y)</code> or <code>(x+y, y)</code>.</p>
 

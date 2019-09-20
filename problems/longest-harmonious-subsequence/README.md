@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/big-countries "Big Countries")
 
-## 594. Longest Harmonious Subsequence (Easy)
+## [594. Longest Harmonious Subsequence (Easy)](https://leetcode.com/problems/longest-harmonious-subsequence "最长和谐子序列")
 
 <p>We define a harmounious array as an array where the difference between its maximum value and its minimum value is <b>exactly</b> 1.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/additive-number "Additive Number")
 
-## 305. Number of Islands II (Hard)
+## [305. Number of Islands II (Hard)](https://leetcode.com/problems/number-of-islands-ii "岛屿数量 II")
 
 
 

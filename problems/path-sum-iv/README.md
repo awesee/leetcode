@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement-ii "Beautiful Arrangement II")
 
-## 666. Path Sum IV (Medium)
+## [666. Path Sum IV (Medium)](https://leetcode.com/problems/path-sum-iv "路径和 IV")
 
 <p>If the depth of a tree is smaller than <code>5</code>, then this tree can be represented by a list of three-digits integers.</p>
 

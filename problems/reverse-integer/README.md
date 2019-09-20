@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/string-to-integer-atoi "String to Integer (atoi)")
 
-## 7. Reverse Integer (Easy)
+## [7. Reverse Integer (Easy)](https://leetcode.com/problems/reverse-integer "整数反转")
 
 <p>Given a 32-bit signed integer, reverse digits of an integer.</p>
 

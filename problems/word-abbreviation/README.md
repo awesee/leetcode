@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-weight "Random Pick with Weight")
 
-## 527. Word Abbreviation (Hard)
+## [527. Word Abbreviation (Hard)](https://leetcode.com/problems/word-abbreviation "单词缩写")
 
 
 

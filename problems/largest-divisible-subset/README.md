@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/plus-one-linked-list "Plus One Linked List")
 
-## 368. Largest Divisible Subset (Medium)
+## [368. Largest Divisible Subset (Medium)](https://leetcode.com/problems/largest-divisible-subset "最大整除子集")
 
 <p>Given a set of <b>distinct</b> positive integers, find the largest subset such that every pair (S<sub>i</sub>, S<sub>j</sub>) of elements in this subset satisfies:</p>
 

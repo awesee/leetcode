@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/escape-the-ghosts "Escape The Ghosts")
 
-## 788. Rotated Digits (Easy)
+## [788. Rotated Digits (Easy)](https://leetcode.com/problems/rotated-digits "旋转数字")
 
 <p>X is a good number if after rotating each digit individually by 180 degrees, we get a valid number that is different from X.&nbsp; Each digit must be rotated - we cannot choose to leave it alone.</p>
 

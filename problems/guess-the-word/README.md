@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/backspace-string-compare "Backspace String Compare")
 
-## 843. Guess the Word (Hard)
+## [843. Guess the Word (Hard)](https://leetcode.com/problems/guess-the-word "猜猜这个单词")
 
 <p>This problem is an&nbsp;<strong><em>interactive problem</em></strong>&nbsp;new to the LeetCode platform.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/goat-latin "Goat Latin")
 
-## 823. Binary Trees With Factors (Medium)
+## [823. Binary Trees With Factors (Medium)](https://leetcode.com/problems/binary-trees-with-factors "带因子的二叉树")
 
 <p>Given an array of unique integers, each integer is strictly greater than 1.</p>
 

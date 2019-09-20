@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/exam-room "Exam Room")
 
-## 854. K-Similar Strings (Hard)
+## [854. K-Similar Strings (Hard)](https://leetcode.com/problems/k-similar-strings "相似度为 K 的字符串")
 
 <p>Strings&nbsp;<code>A</code> and <code>B</code> are <code>K</code>-similar (for some non-negative integer <code>K</code>) if we can swap the positions of two letters in <code>A</code> exactly <code>K</code>&nbsp;times so that the resulting string equals <code>B</code>.</p>
 

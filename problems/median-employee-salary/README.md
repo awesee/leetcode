@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/managers-with-at-least-5-direct-reports "Managers with at Least 5 Direct Reports")
 
-## 569. Median Employee Salary (Hard)
+## [569. Median Employee Salary (Hard)](https://leetcode.com/problems/median-employee-salary "员工薪水中位数")
 
 <p>The <code>Employee</code> table holds all employees. The employee table has three columns: Employee Id, Company Name, and Salary.</p>
 

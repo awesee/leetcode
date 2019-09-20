@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/random-point-in-non-overlapping-rectangles "Random Point in Non-overlapping Rectangles")
 
-## 496. Next Greater Element I (Easy)
+## [496. Next Greater Element I (Easy)](https://leetcode.com/problems/next-greater-element-i "下一个更大元素 I")
 
 <p>
 You are given two arrays <b>(without duplicates)</b> <code>nums1</code> and <code>nums2</code> where <code>nums1</code>’s elements are subset of <code>nums2</code>. Find all the next greater numbers for <code>nums1</code>'s elements in the corresponding places of <code>nums2</code>. 

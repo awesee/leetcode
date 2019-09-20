@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/2-keys-keyboard "2 Keys Keyboard")
 
-## 649. Dota2 Senate (Medium)
+## [649. Dota2 Senate (Medium)](https://leetcode.com/problems/dota2-senate "Dota2 参议院")
 
 <p>In the world of Dota2, there are two parties: the <code>Radiant</code> and the <code>Dire</code>.</p>
 

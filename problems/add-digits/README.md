@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller "3Sum Smaller")
 
-## 258. Add Digits (Easy)
+## [258. Add Digits (Easy)](https://leetcode.com/problems/add-digits "各位相加")
 
 <p>Given a non-negative integer <code>num</code>, repeatedly add all its digits until the result has only one digit.</p>
 

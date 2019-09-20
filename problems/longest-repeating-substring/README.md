@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-subarrays "Number of Valid Subarrays")
 
-## 1062. Longest Repeating Substring (Medium)
+## [1062. Longest Repeating Substring (Medium)](https://leetcode.com/problems/longest-repeating-substring "最长重复子串")
 
 <p>Given a string <code>S</code>, find out the length of the longest repeating substring(s). Return <code>0</code> if no repeating substring exists.</p>
 

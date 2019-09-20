@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/daily-temperatures "Daily Temperatures")
 
-## 738. Monotone Increasing Digits (Medium)
+## [738. Monotone Increasing Digits (Medium)](https://leetcode.com/problems/monotone-increasing-digits "单调递增的数字")
 
 <p>
 Given a non-negative integer <code>N</code>, find the largest number that is less than or equal to <code>N</code> with monotone increasing digits.

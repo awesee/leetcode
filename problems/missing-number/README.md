@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/alien-dictionary "Alien Dictionary")
 
-## 268. Missing Number (Easy)
+## [268. Missing Number (Easy)](https://leetcode.com/problems/missing-number "缺失数字")
 
 <p>Given an array containing <i>n</i> distinct numbers taken from <code>0, 1, 2, ..., n</code>, find the one that is missing from the array.</p>
 

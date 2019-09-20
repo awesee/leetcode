@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/out-of-boundary-paths "Out of Boundary Paths")
 
-## 575. Distribute Candies (Easy)
+## [575. Distribute Candies (Easy)](https://leetcode.com/problems/distribute-candies "分糖果")
 
 Given an integer array with <b>even</b> length, where different numbers in this array represent different <b>kinds</b> of candies. Each number means one candy of the corresponding kind. You need to distribute these candies <b>equally</b> in number to brother and sister. Return the maximum number of <b>kinds</b> of candies the sister could gain. 
 

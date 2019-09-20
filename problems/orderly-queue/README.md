@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/rle-iterator "RLE Iterator")
 
-## 899. Orderly Queue (Hard)
+## [899. Orderly Queue (Hard)](https://leetcode.com/problems/orderly-queue "有序队列")
 
 <p>A string <code>S</code> of lowercase letters is given.&nbsp; Then, we may make any number of <em>moves</em>.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/russian-doll-envelopes "Russian Doll Envelopes")
 
-## 353. Design Snake Game (Medium)
+## [353. Design Snake Game (Medium)](https://leetcode.com/problems/design-snake-game "贪吃蛇")
 
 
 

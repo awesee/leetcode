@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/distribute-candies "Distribute Candies")
 
-## 574. Winning Candidate (Medium)
+## [574. Winning Candidate (Medium)](https://leetcode.com/problems/winning-candidate "当选者")
 
 <p>Table: <code>Candidate</code></p>
 

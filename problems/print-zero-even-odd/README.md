@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/building-h2o "Building H2O")
 
-## 1116. Print Zero Even Odd (Medium)
+## [1116. Print Zero Even Odd (Medium)](https://leetcode.com/problems/print-zero-even-odd "打印零与奇偶数")
 
 <p>Suppose you are given the following code:</p>
 

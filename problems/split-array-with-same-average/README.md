@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-lines-to-write-string "Number of Lines To Write String")
 
-## 805. Split Array With Same Average (Hard)
+## [805. Split Array With Same Average (Hard)](https://leetcode.com/problems/split-array-with-same-average "数组的均值分割")
 
 <p>In a given integer array A, we must move every element of A to either list B or list C. (B and C initially start empty.)</p>
 

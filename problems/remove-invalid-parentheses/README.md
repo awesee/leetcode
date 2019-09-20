@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-rectangle-enclosing-black-pixels "Smallest Rectangle Enclosing Black Pixels")
 
-## 301. Remove Invalid Parentheses (Hard)
+## [301. Remove Invalid Parentheses (Hard)](https://leetcode.com/problems/remove-invalid-parentheses "删除无效的括号")
 
 <p>Remove the minimum number of invalid parentheses in order to make the input string valid. Return all possible results.</p>
 

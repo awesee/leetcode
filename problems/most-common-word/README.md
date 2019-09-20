@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/short-encoding-of-words "Short Encoding of Words")
 
-## 819. Most Common Word (Easy)
+## [819. Most Common Word (Easy)](https://leetcode.com/problems/most-common-word "最常见的单词")
 
 <p>Given a paragraph&nbsp;and a list of banned words, return the most frequent word that is not in the list of banned words.&nbsp; It is guaranteed there is at least one word that isn&#39;t banned, and that the answer is unique.</p>
 

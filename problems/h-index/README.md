@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/h-index-ii "H-Index II")
 
-## 274. H-Index (Medium)
+## [274. H-Index (Medium)](https://leetcode.com/problems/h-index "H指数")
 
 <p>Given an array of citations (each citation is a non-negative integer) of a researcher, write a function to compute the researcher&#39;s h-index.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array-ii "Remove Duplicates from Sorted Array II")
 
-## 79. Word Search (Medium)
+## [79. Word Search (Medium)](https://leetcode.com/problems/word-search "单词搜索")
 
 <p>Given a 2D board and a word, find if the word exists in the grid.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-deepest-leaves "Lowest Common Ancestor of Deepest Leaves")
 
-## 1122. Relative Sort Array (Easy)
+## [1122. Relative Sort Array (Easy)](https://leetcode.com/problems/relative-sort-array "数组的相对排序")
 
 <p>Given two arrays <code>arr1</code> and <code>arr2</code>, the elements of <code>arr2</code> are distinct, and all elements in <code>arr2</code> are also in <code>arr1</code>.</p>
 
@@ -33,3 +33,14 @@
 ### Related Topics
   [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Using a hashmap, we can map the values of arr2 to their position in arr2.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+After, we can use a custom sorting function.
+</details>

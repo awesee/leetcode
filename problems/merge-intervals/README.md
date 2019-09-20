@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/insert-interval "Insert Interval")
 
-## 56. Merge Intervals (Medium)
+## [56. Merge Intervals (Medium)](https://leetcode.com/problems/merge-intervals "合并区间")
 
 <p>Given a collection of intervals, merge all overlapping intervals.</p>
 

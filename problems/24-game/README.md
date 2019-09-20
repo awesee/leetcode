@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-ii "Valid Palindrome II")
 
-## 679. 24 Game (Hard)
+## [679. 24 Game (Hard)](https://leetcode.com/problems/24-game "24 点游戏")
 
 <p>
 You have 4 cards each containing a number from 1 to 9.  You need to judge whether they could operated through <code>*</code>, <code>/</code>, <code>+</code>, <code>-</code>, <code>(</code>, <code>)</code> to get the value of 24.

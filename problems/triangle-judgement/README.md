@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/valid-triangle-number "Valid Triangle Number")
 
-## 610. Triangle Judgement (Easy)
+## [610. Triangle Judgement (Easy)](https://leetcode.com/problems/triangle-judgement "判断三角形")
 
 A pupil Tim gets homework to identify whether three line segments could possibly form a triangle.
 <p>&nbsp;</p>

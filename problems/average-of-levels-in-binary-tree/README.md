@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shopping-offers "Shopping Offers")
 
-## 637. Average of Levels in Binary Tree (Easy)
+## [637. Average of Levels in Binary Tree (Easy)](https://leetcode.com/problems/average-of-levels-in-binary-tree "二叉树的层平均值")
 
 Given a non-empty binary tree, return the average value of the nodes on each level in the form of an array.
 

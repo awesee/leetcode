@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance "Shortest Word Distance")
 
-## 242. Valid Anagram (Easy)
+## [242. Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram "有效的字母异位词")
 
 <p>Given two strings <em>s</em> and <em>t&nbsp;</em>, write a function to determine if <em>t</em> is an anagram of <em>s</em>.</p>
 

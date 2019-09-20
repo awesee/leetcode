@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/move-zeroes "Move Zeroes")
 
-## 282. Expression Add Operators (Hard)
+## [282. Expression Add Operators (Hard)](https://leetcode.com/problems/expression-add-operators "给表达式添加运算符")
 
 <p>Given a string that contains only digits <code>0-9</code> and a target value, return all possibilities to add <b>binary</b> operators (not unary) <code>+</code>, <code>-</code>, or <code>*</code> between the digits so they evaluate to the target value.</p>
 

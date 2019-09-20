@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-in-a-line "Shortest Distance in a Line")
 
-## 612. Shortest Distance in a Plane (Medium)
+## [612. Shortest Distance in a Plane (Medium)](https://leetcode.com/problems/shortest-distance-in-a-plane "平面上的最近距离")
 
 Table <code>point_2d</code> holds the coordinates (x,y) of some unique points (more than two) in a plane.
 <p>&nbsp;</p>

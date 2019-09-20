@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/robot-bounded-in-circle "Robot Bounded In Circle")
 
-## 1040. Moving Stones Until Consecutive II (Medium)
+## [1040. Moving Stones Until Consecutive II (Medium)](https://leetcode.com/problems/moving-stones-until-consecutive-ii "移动石子直到连续 II")
 
 <p>On an <strong>infinite</strong> number line, the position of the i-th stone is given by&nbsp;<code>stones[i]</code>.&nbsp; Call a stone an <em>endpoint stone</em> if it has the smallest or largest position.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/optimize-water-distribution-in-a-village "Optimize Water Distribution in a Village")
 
-## 1167. Minimum Cost to Connect Sticks (Medium)
+## [1167. Minimum Cost to Connect Sticks (Medium)](https://leetcode.com/problems/minimum-cost-to-connect-sticks "连接棒材的最低费用")
 
 
 

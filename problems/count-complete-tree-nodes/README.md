@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/rectangle-area "Rectangle Area")
 
-## 222. Count Complete Tree Nodes (Medium)
+## [222. Count Complete Tree Nodes (Medium)](https://leetcode.com/problems/count-complete-tree-nodes "完全二叉树的节点个数")
 
 <p>Given a <b>complete</b> binary tree, count the number of nodes.</p>
 

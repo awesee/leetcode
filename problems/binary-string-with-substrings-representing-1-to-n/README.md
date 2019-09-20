@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/convert-to-base-2 "Convert to Base -2")
 
-## 1016. Binary String With Substrings Representing 1 To N (Medium)
+## [1016. Binary String With Substrings Representing 1 To N (Medium)](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n "子串能表示从 1 到 N 数字的二进制串")
 
 <p>Given a binary string <code>S</code> (a string consisting only of &#39;0&#39; and &#39;1&#39;s) and a positive integer <code>N</code>, return true if and only if for every integer X from 1 to N, the binary representation of X is a substring of S.</p>
 

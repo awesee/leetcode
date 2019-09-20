@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/moving-average-from-data-stream "Moving Average from Data Stream")
 
-## 345. Reverse Vowels of a String (Easy)
+## [345. Reverse Vowels of a String (Easy)](https://leetcode.com/problems/reverse-vowels-of-a-string "反转字符串中的元音字母")
 
 <p>Write a function that takes a string as input and reverse only the vowels of a string.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-iii "Strobogrammatic Number III")
 
-## 247. Strobogrammatic Number II (Medium)
+## [247. Strobogrammatic Number II (Medium)](https://leetcode.com/problems/strobogrammatic-number-ii "中心对称数 II")
 
 
 

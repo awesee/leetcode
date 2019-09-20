@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/most-stones-removed-with-same-row-or-column "Most Stones Removed with Same Row or Column")
 
-## 946. Validate Stack Sequences (Medium)
+## [946. Validate Stack Sequences (Medium)](https://leetcode.com/problems/validate-stack-sequences "验证栈序列")
 
 <p>Given two sequences <code>pushed</code> and <code>popped</code>&nbsp;<strong>with distinct values</strong>,&nbsp;return <code>true</code> if and only if this could have been the result of a sequence of push and pop operations on an initially empty stack.</p>
 

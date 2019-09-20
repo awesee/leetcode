@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/construct-quad-tree "Construct Quad Tree")
 
-## 426. Convert Binary Search Tree to Sorted Doubly Linked List (Medium)
+## [426. Convert Binary Search Tree to Sorted Doubly Linked List (Medium)](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list "将二叉搜索树转化为排序的双向链表")
 
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/making-a-large-island "Making A Large Island")
 
-## 826. Most Profit Assigning Work (Medium)
+## [826. Most Profit Assigning Work (Medium)](https://leetcode.com/problems/most-profit-assigning-work "安排工作以达到最大收益")
 
 <p>We have jobs: <code>difficulty[i]</code>&nbsp;is the difficulty of the&nbsp;<code>i</code>th job, and&nbsp;<code>profit[i]</code>&nbsp;is the profit of the&nbsp;<code>i</code>th job.&nbsp;</p>
 

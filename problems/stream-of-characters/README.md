@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive "Moving Stones Until Consecutive")
 
-## 1032. Stream of Characters (Hard)
+## [1032. Stream of Characters (Hard)](https://leetcode.com/problems/stream-of-characters "字符流")
 
 <p>Implement the <code>StreamChecker</code> class as follows:</p>
 

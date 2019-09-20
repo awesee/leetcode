@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/single-number-ii "Single Number II")
 
-## 136. Single Number (Easy)
+## [136. Single Number (Easy)](https://leetcode.com/problems/single-number "只出现一次的数字")
 
 <p>Given a <strong>non-empty</strong>&nbsp;array of integers, every element appears <em>twice</em> except for one. Find that single one.</p>
 

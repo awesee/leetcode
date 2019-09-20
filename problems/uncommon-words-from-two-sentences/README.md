@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-iii "Spiral Matrix III")
 
-## 884. Uncommon Words from Two Sentences (Easy)
+## [884. Uncommon Words from Two Sentences (Easy)](https://leetcode.com/problems/uncommon-words-from-two-sentences "两句话中的不常见单词")
 
 <p>We are given two sentences <code>A</code> and <code>B</code>.&nbsp; (A <em>sentence</em>&nbsp;is a string of space separated words.&nbsp; Each <em>word</em> consists only of lowercase letters.)</p>
 

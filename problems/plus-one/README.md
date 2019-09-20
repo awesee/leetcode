@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/add-binary "Add Binary")
 
-## 66. Plus One (Easy)
+## [66. Plus One (Easy)](https://leetcode.com/problems/plus-one "加一")
 
 <p>Given a <strong>non-empty</strong> array of digits&nbsp;representing a non-negative integer, plus one to the integer.</p>
 

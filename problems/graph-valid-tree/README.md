@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/trips-and-users "Trips and Users")
 
-## 261. Graph Valid Tree (Medium)
+## [261. Graph Valid Tree (Medium)](https://leetcode.com/problems/graph-valid-tree "以图判树")
 
 
 

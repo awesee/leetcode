@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-common-subsequence "Longest Common Subsequence")
 
-## 1142. User Activity for the Past 30 Days II (Easy)
+## [1142. User Activity for the Past 30 Days II (Easy)](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii "")
 
 

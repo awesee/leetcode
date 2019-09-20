@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-disjoint-intervals "Partition Array into Disjoint Intervals")
 
-## 914. X of a Kind in a Deck of Cards (Easy)
+## [914. X of a Kind in a Deck of Cards (Easy)](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards "卡牌分组")
 
 <p>In a deck of cards, each card has an integer written on it.</p>
 

@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/market-analysis-ii "Market Analysis II")
 
-## 1158. Market Analysis I (Medium)
+## [1158. Market Analysis I (Medium)](https://leetcode.com/problems/market-analysis-i "")
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/design-hit-counter "Design Hit Counter")
 
-## 361. Bomb Enemy (Medium)
+## [361. Bomb Enemy (Medium)](https://leetcode.com/problems/bomb-enemy "轰炸敌人")
 
 
 

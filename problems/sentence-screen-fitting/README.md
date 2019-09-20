@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/battleships-in-a-board "Battleships in a Board")
 
-## 418. Sentence Screen Fitting (Medium)
+## [418. Sentence Screen Fitting (Medium)](https://leetcode.com/problems/sentence-screen-fitting "屏幕可显示句子的数量")
 
 
 

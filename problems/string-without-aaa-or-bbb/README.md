@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-even-numbers-after-queries "Sum of Even Numbers After Queries")
 
-## 984. String Without AAA or BBB (Medium)
+## [984. String Without AAA or BBB (Medium)](https://leetcode.com/problems/string-without-aaa-or-bbb "不含 AAA 或 BBB 的字符串")
 
 <p>Given two integers <code>A</code> and <code>B</code>, return <strong>any</strong> string <code>S</code> such that:</p>
 

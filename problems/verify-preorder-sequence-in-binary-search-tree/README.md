@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/paint-house "Paint House")
 
-## 255. Verify Preorder Sequence in Binary Search Tree (Medium)
+## [255. Verify Preorder Sequence in Binary Search Tree (Medium)](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree "验证前序遍历序列二叉搜索树")
 
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/redundant-connection "Redundant Connection")
 
-## 683. K Empty Slots (Hard)
+## [683. K Empty Slots (Hard)](https://leetcode.com/problems/k-empty-slots "K 个空花盆")
 
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/n-repeated-element-in-size-2n-array "N-Repeated Element in Size 2N Array")
 
-## 960. Delete Columns to Make Sorted III (Hard)
+## [960. Delete Columns to Make Sorted III (Hard)](https://leetcode.com/problems/delete-columns-to-make-sorted-iii "删列造序 III")
 
 <p>We are given an array&nbsp;<code>A</code> of <code>N</code> lowercase letter strings, all of the same length.</p>
 

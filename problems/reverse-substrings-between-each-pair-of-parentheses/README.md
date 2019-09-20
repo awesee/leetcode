@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/k-concatenation-maximum-sum "K-Concatenation Maximum Sum")
 
-## 1190. Reverse Substrings Between Each Pair of Parentheses (Medium)
+## [1190. Reverse Substrings Between Each Pair of Parentheses (Medium)](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses "反转每对括号间的子串")
 
 <p>Given a string <code>s</code> that consists of lower case English letters and brackets.&nbsp;</p>
 
@@ -56,9 +56,6 @@
 	<li><code>s</code> only contains lower case English characters and parentheses.</li>
 	<li>It&#39;s guaranteed that all parentheses are balanced.</li>
 </ul>
-
-### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
 
 ### Hints
 <details>

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/subsets "Subsets")
 
-## 77. Combinations (Medium)
+## [77. Combinations (Medium)](https://leetcode.com/problems/combinations "组合")
 
 <p>Given two integers <em>n</em> and <em>k</em>, return all possible combinations of <em>k</em> numbers out of 1 ... <em>n</em>.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst "Inorder Successor in BST")
 
-## 284. Peeking Iterator (Medium)
+## [284. Peeking Iterator (Medium)](https://leetcode.com/problems/peeking-iterator "顶端迭代器")
 
 <p>Given an Iterator class interface with methods: <code>next()</code> and <code>hasNext()</code>, design and implement a PeekingIterator that support the <code>peek()</code> operation -- it essentially peek() at the element that will be returned by the next call to next().</p>
 

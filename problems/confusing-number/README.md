@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/campus-bikes "Campus Bikes")
 
-## 1056. Confusing Number (Easy)
+## [1056. Confusing Number (Easy)](https://leetcode.com/problems/confusing-number "易混淆数")
 
 <p>Given a number <code>N</code>, return <code>true</code> if and only if it is a <em>confusing number</em>, which satisfies the following condition:</p>
 

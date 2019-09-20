@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/first-bad-version "First Bad Version")
 
-## 277. Find the Celebrity (Medium)
+## [277. Find the Celebrity (Medium)](https://leetcode.com/problems/find-the-celebrity "搜寻名人")
 
 
 

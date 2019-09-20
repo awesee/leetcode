@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras "Binary Tree Cameras")
 
-## 967. Numbers With Same Consecutive Differences (Medium)
+## [967. Numbers With Same Consecutive Differences (Medium)](https://leetcode.com/problems/numbers-with-same-consecutive-differences "连续差相同的数字")
 
 <p>Return all <strong>non-negative</strong> integers of length <code>N</code> such that the absolute difference between every two consecutive digits is <code>K</code>.</p>
 

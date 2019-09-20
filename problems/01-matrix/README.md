@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/diameter-of-binary-tree "Diameter of Binary Tree")
 
-## 542. 01 Matrix (Medium)
+## [542. 01 Matrix (Medium)](https://leetcode.com/problems/01-matrix "01 矩阵")
 
 <p>Given a matrix consists of 0 and 1, find the distance of the nearest 0 for each cell.</p>
 

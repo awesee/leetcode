@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/alphabet-board-path "Alphabet Board Path")
 
-## 1137. N-th Tribonacci Number (Easy)
+## [1137. N-th Tribonacci Number (Easy)](https://leetcode.com/problems/n-th-tribonacci-number "第 N 个泰波那契数")
 
 <p>The Tribonacci sequence T<sub>n</sub> is defined as follows:&nbsp;</p>
 

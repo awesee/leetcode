@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/design-linked-list "Design Linked List")
 
-## 706. Design HashMap (Easy)
+## [706. Design HashMap (Easy)](https://leetcode.com/problems/design-hashmap "设计哈希映射")
 
 <p>Design a HashMap&nbsp;without using any built-in hash table libraries.</p>
 

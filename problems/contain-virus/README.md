@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-corner-rectangles "Number Of Corner Rectangles")
 
-## 749. Contain Virus (Hard)
+## [749. Contain Virus (Hard)](https://leetcode.com/problems/contain-virus "隔离病毒")
 
 <p>
 A virus is spreading rapidly, and your task is to quarantine the infected area by installing walls.

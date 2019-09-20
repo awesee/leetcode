@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/exclusive-time-of-functions "Exclusive Time of Functions")
 
-## 635. Design Log Storage System (Medium)
+## [635. Design Log Storage System (Medium)](https://leetcode.com/problems/design-log-storage-system "设计日志存储系统")
 
 
 

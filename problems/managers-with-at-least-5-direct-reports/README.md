@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-median-given-frequency-of-numbers "Find Median Given Frequency of Numbers")
 
-## 570. Managers with at Least 5 Direct Reports (Medium)
+## [570. Managers with at Least 5 Direct Reports (Medium)](https://leetcode.com/problems/managers-with-at-least-5-direct-reports "至少有5名直接下属的经理")
 
 <p>The <code>Employee</code> table holds all employees including their managers. Every employee has an Id, and there is also a column for the manager Id.</p>
 

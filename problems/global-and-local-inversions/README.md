@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/split-bst "Split BST")
 
-## 775. Global and Local Inversions (Medium)
+## [775. Global and Local Inversions (Medium)](https://leetcode.com/problems/global-and-local-inversions "全局倒置与局部倒置")
 
 <p>We have some permutation <code>A</code> of <code>[0, 1, ..., N - 1]</code>, where <code>N</code> is the length of <code>A</code>.</p>
 

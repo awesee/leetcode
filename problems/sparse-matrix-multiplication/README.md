@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/burst-balloons "Burst Balloons")
 
-## 311. Sparse Matrix Multiplication (Medium)
+## [311. Sparse Matrix Multiplication (Medium)](https://leetcode.com/problems/sparse-matrix-multiplication "稀疏矩阵的乘法")
 
 
 

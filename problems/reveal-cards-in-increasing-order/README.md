@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/flip-equivalent-binary-trees "Flip Equivalent Binary Trees")
 
-## 950. Reveal Cards In Increasing Order (Medium)
+## [950. Reveal Cards In Increasing Order (Medium)](https://leetcode.com/problems/reveal-cards-in-increasing-order "按递增顺序显示卡牌")
 
 <p>In a deck of cards, every card has a unique integer.&nbsp; You can order the deck in&nbsp;any order you want.</p>
 

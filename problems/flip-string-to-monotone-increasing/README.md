@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/three-equal-parts "Three Equal Parts")
 
-## 926. Flip String to Monotone Increasing (Medium)
+## [926. Flip String to Monotone Increasing (Medium)](https://leetcode.com/problems/flip-string-to-monotone-increasing "将字符串翻转到单调递增")
 
 <p>A string of <code>&#39;0&#39;</code>s and <code>&#39;1&#39;</code>s is <em>monotone increasing</em> if it consists of some number of <code>&#39;0&#39;</code>s (possibly 0), followed by some number of <code>&#39;1&#39;</code>s (also possibly 0.)</p>
 

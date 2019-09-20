@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/divide-array-into-increasing-sequences "Divide Array Into Increasing Sequences")
 
-## 1120. Maximum Average Subtree (Medium)
+## [1120. Maximum Average Subtree (Medium)](https://leetcode.com/problems/maximum-average-subtree "子树的最大平均值")
 
 
 

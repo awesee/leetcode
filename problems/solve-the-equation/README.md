@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/design-circular-deque "Design Circular Deque")
 
-## 640. Solve the Equation (Medium)
+## [640. Solve the Equation (Medium)](https://leetcode.com/problems/solve-the-equation "求解方程")
 
 <p>
 Solve a given equation and return the value of <code>x</code> in the form of string "x=#value". The equation contains only '+', '-' operation, the variable <code>x</code> and its coefficient.

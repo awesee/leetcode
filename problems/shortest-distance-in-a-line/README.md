@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/second-degree-follower "Second Degree Follower")
 
-## 613. Shortest Distance in a Line (Easy)
+## [613. Shortest Distance in a Line (Easy)](https://leetcode.com/problems/shortest-distance-in-a-line "直线上的最近距离")
 
 Table <code>point</code> holds the x coordinate of some points on x-axis in a plane, which are all integers.
 <p>&nbsp;</p>

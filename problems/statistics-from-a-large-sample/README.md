@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/car-pooling "Car Pooling")
 
-## 1093. Statistics from a Large Sample (Medium)
+## [1093. Statistics from a Large Sample (Medium)](https://leetcode.com/problems/statistics-from-a-large-sample "大样本统计")
 
 <p>We sampled integers between <code>0</code> and <code>255</code>, and stored the results in an array <code>count</code>:&nbsp; <code>count[k]</code> is the number of integers we sampled equal to <code>k</code>.</p>
 

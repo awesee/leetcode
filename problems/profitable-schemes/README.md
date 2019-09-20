@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/decoded-string-at-index "Decoded String at Index")
 
-## 879. Profitable Schemes (Hard)
+## [879. Profitable Schemes (Hard)](https://leetcode.com/problems/profitable-schemes "盈利计划")
 
 <p>There are G people in a gang, and a list of various crimes they could commit.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/zigzag-conversion "ZigZag Conversion")
 
-## 5. Longest Palindromic Substring (Medium)
+## [5. Longest Palindromic Substring (Medium)](https://leetcode.com/problems/longest-palindromic-substring "最长回文子串")
 
 <p>Given a string <strong>s</strong>, find the longest palindromic substring in <strong>s</strong>. You may assume that the maximum length of <strong>s</strong> is 1000.</p>
 

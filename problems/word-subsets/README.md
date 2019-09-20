@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-only-letters "Reverse Only Letters")
 
-## 916. Word Subsets (Medium)
+## [916. Word Subsets (Medium)](https://leetcode.com/problems/word-subsets "单词子集")
 
 <p>We are given two arrays <code>A</code> and <code>B</code> of words.&nbsp; Each word is a string of lowercase letters.</p>
 

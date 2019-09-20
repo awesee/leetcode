@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sort-array-by-parity-ii "Sort Array By Parity II")
 
-## 921. Minimum Add to Make Parentheses Valid (Medium)
+## [921. Minimum Add to Make Parentheses Valid (Medium)](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid "使括号有效的最少添加")
 
 <p>Given a string&nbsp;<code>S</code> of <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code> parentheses, we add the minimum number of parentheses ( <code>&#39;(&#39;</code> or <code>&#39;)&#39;</code>, and in any positions ) so that the resulting parentheses string is valid.</p>
 

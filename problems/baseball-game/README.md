@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/k-empty-slots "K Empty Slots")
 
-## 682. Baseball Game (Easy)
+## [682. Baseball Game (Easy)](https://leetcode.com/problems/baseball-game "棒球比赛")
 
 <p>
 You're now a baseball game point recorder.

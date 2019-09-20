@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/squirrel-simulation "Squirrel Simulation")
 
-## 572. Subtree of Another Tree (Easy)
+## [572. Subtree of Another Tree (Easy)](https://leetcode.com/problems/subtree-of-another-tree "另一个树的子树")
 
 <p>
 Given two non-empty binary trees <b>s</b> and <b>t</b>, check whether tree <b>t</b> has exactly the same structure and node values with a subtree of <b>s</b>. A subtree of <b>s</b> is a tree consists of a node in <b>s</b> and all of this node's descendants. The tree <b>s</b> could also be considered as a subtree of itself.

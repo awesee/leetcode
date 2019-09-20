@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-permutation "Find Permutation")
 
-## 483. Smallest Good Base (Hard)
+## [483. Smallest Good Base (Hard)](https://leetcode.com/problems/smallest-good-base "最小好进制")
 
 <p>For an integer n, we call k&gt;=2 a <i><b>good base</b></i> of n, if all digits of n base k are 1.</p>
 

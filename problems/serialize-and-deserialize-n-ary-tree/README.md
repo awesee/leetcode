@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-level-order-traversal "N-ary Tree Level Order Traversal")
 
-## 428. Serialize and Deserialize N-ary Tree (Hard)
+## [428. Serialize and Deserialize N-ary Tree (Hard)](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree "序列化和反序列化 N 叉树")
 
 
 

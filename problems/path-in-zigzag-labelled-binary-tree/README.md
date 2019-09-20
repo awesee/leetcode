@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/filling-bookcase-shelves "Filling Bookcase Shelves")
 
-## 1104. Path In Zigzag Labelled Binary Tree (Medium)
+## [1104. Path In Zigzag Labelled Binary Tree (Medium)](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree "二叉树寻路")
 
 <p>In an infinite binary tree where every node has two children, the nodes are labelled in row order.</p>
 

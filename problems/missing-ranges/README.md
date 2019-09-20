@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-gap "Maximum Gap")
 
-## 163. Missing Ranges (Medium)
+## [163. Missing Ranges (Medium)](https://leetcode.com/problems/missing-ranges "缺失的区间")
 
 
 

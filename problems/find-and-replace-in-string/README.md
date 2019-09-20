@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-distances-in-tree "Sum of Distances in Tree")
 
-## 833. Find And Replace in String (Medium)
+## [833. Find And Replace in String (Medium)](https://leetcode.com/problems/find-and-replace-in-string "字符串中的查找与替换")
 
 <p>To some string <code>S</code>, we will perform some&nbsp;replacement&nbsp;operations that replace groups of letters with new ones (not necessarily the same size).</p>
 

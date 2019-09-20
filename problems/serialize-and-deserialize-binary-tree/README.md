@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence "Binary Tree Longest Consecutive Sequence")
 
-## 297. Serialize and Deserialize Binary Tree (Hard)
+## [297. Serialize and Deserialize Binary Tree (Hard)](https://leetcode.com/problems/serialize-and-deserialize-binary-tree "二叉树的序列化与反序列化")
 
 <p>Serialization is the process of converting a data structure or object into a sequence of bits so that it can be stored in a file or memory buffer, or transmitted across a network connection link to be reconstructed later in the same or another computer environment.</p>
 

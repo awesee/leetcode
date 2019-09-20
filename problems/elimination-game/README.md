@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/perfect-rectangle "Perfect Rectangle")
 
-## 390. Elimination Game (Medium)
+## [390. Elimination Game (Medium)](https://leetcode.com/problems/elimination-game "消除游戏")
 
 <p>
 There is a list of sorted integers from 1 to <i>n</i>. Starting from left to right, remove the first number and every other number afterward until you reach the end of the list.</p>

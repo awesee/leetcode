@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/rank-scores "Rank Scores")
 
-## 177. Nth Highest Salary (Medium)
+## [177. Nth Highest Salary (Medium)](https://leetcode.com/problems/nth-highest-salary "第N高的薪水")
 
 <p>Write a SQL query to get the <em>n</em><sup>th</sup> highest salary from the <code>Employee</code> table.</p>
 

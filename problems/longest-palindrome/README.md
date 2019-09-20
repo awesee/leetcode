@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/split-array-largest-sum "Split Array Largest Sum")
 
-## 409. Longest Palindrome (Easy)
+## [409. Longest Palindrome (Easy)](https://leetcode.com/problems/longest-palindrome "最长回文串")
 
 <p>Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters.</p>
 

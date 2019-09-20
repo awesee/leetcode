@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-prime-fraction "K-th Smallest Prime Fraction")
 
-## 785. Is Graph Bipartite? (Medium)
+## [785. Is Graph Bipartite? (Medium)](https://leetcode.com/problems/is-graph-bipartite "判断二分图")
 
 <p>Given an undirected&nbsp;<code>graph</code>, return <code>true</code> if and only if it is bipartite.</p>
 

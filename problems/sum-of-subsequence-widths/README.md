@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/surface-area-of-3d-shapes "Surface Area of 3D Shapes")
 
-## 891. Sum of Subsequence Widths (Hard)
+## [891. Sum of Subsequence Widths (Hard)](https://leetcode.com/problems/sum-of-subsequence-widths "子序列宽度之和")
 
 <p>Given an array of integers <code>A</code>, consider all non-empty subsequences of <code>A</code>.</p>
 

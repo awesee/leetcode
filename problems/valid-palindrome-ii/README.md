@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/next-closest-time "Next Closest Time")
 
-## 680. Valid Palindrome II (Easy)
+## [680. Valid Palindrome II (Easy)](https://leetcode.com/problems/valid-palindrome-ii "验证回文字符串 Ⅱ")
 
 <p>
 Given a non-empty string <code>s</code>, you may delete <b>at most</b> one character.  Judge whether you can make it a palindrome.

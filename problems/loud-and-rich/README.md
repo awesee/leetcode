@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/peak-index-in-a-mountain-array "Peak Index in a Mountain Array")
 
-## 851. Loud and Rich (Medium)
+## [851. Loud and Rich (Medium)](https://leetcode.com/problems/loud-and-rich "喧闹和富有")
 
 <p>In a group of N people (labelled <code>0, 1, 2, ..., N-1</code>), each person has different amounts of money, and different levels of quietness.</p>
 

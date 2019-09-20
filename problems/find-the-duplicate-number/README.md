@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/unique-word-abbreviation "Unique Word Abbreviation")
 
-## 287. Find the Duplicate Number (Medium)
+## [287. Find the Duplicate Number (Medium)](https://leetcode.com/problems/find-the-duplicate-number "寻找重复数")
 
 <p>Given an array <i>nums</i> containing <i>n</i> + 1 integers where each integer is between 1 and <i>n</i> (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/validate-stack-sequences "Validate Stack Sequences")
 
-## 945. Minimum Increment to Make Array Unique (Medium)
+## [945. Minimum Increment to Make Array Unique (Medium)](https://leetcode.com/problems/minimum-increment-to-make-array-unique "使数组唯一的最小增量")
 
 <p>Given an array of integers A, a <em>move</em> consists of choosing any <code>A[i]</code>, and incrementing it by <code>1</code>.</p>
 

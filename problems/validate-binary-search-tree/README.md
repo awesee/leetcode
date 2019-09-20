@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/recover-binary-search-tree "Recover Binary Search Tree")
 
-## 98. Validate Binary Search Tree (Medium)
+## [98. Validate Binary Search Tree (Medium)](https://leetcode.com/problems/validate-binary-search-tree "验证二叉搜索树")
 
 <p>Given a binary tree, determine if it is a valid binary search tree (BST).</p>
 

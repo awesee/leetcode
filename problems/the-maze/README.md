@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/increasing-subsequences "Increasing Subsequences")
 
-## 490. The Maze (Medium)
+## [490. The Maze (Medium)](https://leetcode.com/problems/the-maze "迷宫")
 
 <p>There is a <b>ball</b> in a maze with empty spaces and walls. The ball can go through empty spaces by rolling <b>up</b>, <b>down</b>, <b>left</b> or <b>right</b>, but it won&#39;t stop rolling until hitting a wall. When the ball stops, it could choose the next direction.</p>
 

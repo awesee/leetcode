@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-ii "Next Greater Element II")
 
-## 502. IPO (Hard)
+## [502. IPO (Hard)](https://leetcode.com/problems/ipo "IPO")
 
 <p>
 Suppose LeetCode will start its IPO soon. In order to sell a good price of its shares to Venture Capital, LeetCode would like to work on some projects to increase its capital before the IPO. Since it has limited resources, it can only finish at most <b>k</b> distinct projects before the IPO. Help LeetCode design the best way to maximize its total capital after finishing at most <b>k</b> distinct projects. 

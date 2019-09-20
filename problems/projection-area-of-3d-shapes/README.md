@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/uncommon-words-from-two-sentences "Uncommon Words from Two Sentences")
 
-## 883. Projection Area of 3D Shapes (Easy)
+## [883. Projection Area of 3D Shapes (Easy)](https://leetcode.com/problems/projection-area-of-3d-shapes "三维形体投影面积")
 
 <p>On a&nbsp;<code>N&nbsp;*&nbsp;N</code> grid, we place some&nbsp;<code>1 * 1 * 1&nbsp;</code>cubes that are axis-aligned with the x, y, and z axes.</p>
 

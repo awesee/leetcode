@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/evaluate-division "Evaluate Division")
 
-## 398. Random Pick Index (Medium)
+## [398. Random Pick Index (Medium)](https://leetcode.com/problems/random-pick-index "随机数索引")
 
 <p>Given an array of integers with possible duplicates, randomly output the index of a given target number. You can assume that the given target number must exist in the array.</p>
 

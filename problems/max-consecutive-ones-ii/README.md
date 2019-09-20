@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/zuma-game "Zuma Game")
 
-## 487. Max Consecutive Ones II (Medium)
+## [487. Max Consecutive Ones II (Medium)](https://leetcode.com/problems/max-consecutive-ones-ii "最大连续1的个数 II")
 
 
 

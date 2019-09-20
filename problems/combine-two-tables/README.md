@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/second-highest-salary "Second Highest Salary")
 
-## 175. Combine Two Tables (Easy)
+## [175. Combine Two Tables (Easy)](https://leetcode.com/problems/combine-two-tables "组合两个表")
 
 <p>Table: <code>Person</code></p>
 

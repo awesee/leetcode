@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/online-election "Online Election")
 
-## 910. Smallest Range II (Medium)
+## [910. Smallest Range II (Medium)](https://leetcode.com/problems/smallest-range-ii "最小差值 II")
 
 <p>Given an array <code>A</code> of integers, for each integer <code>A[i]</code> we need to choose <strong>either&nbsp;<code>x = -K</code>&nbsp;or <code>x = K</code></strong>, and add <code>x</code> to <code>A[i] <strong>(only once)</strong></code>.</p>
 

@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/user-purchase-platform "User Purchase Platform")
 
-## 1126. Active Businesses (Medium)
+## [1126. Active Businesses (Medium)](https://leetcode.com/problems/active-businesses "")
 
 

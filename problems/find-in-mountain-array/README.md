@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii "Brace Expansion II")
 
-## 1095. Find in Mountain Array (Hard)
+## [1095. Find in Mountain Array (Hard)](https://leetcode.com/problems/find-in-mountain-array "山脉数组中查找目标值")
 
 <p><em>(This problem is an&nbsp;<strong>interactive problem</strong>.)</em></p>
 

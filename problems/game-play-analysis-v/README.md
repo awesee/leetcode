@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/unpopular-books "Unpopular Books")
 
-## 1097. Game Play Analysis V (Hard)
+## [1097. Game Play Analysis V (Hard)](https://leetcode.com/problems/game-play-analysis-v "")
 
 
 

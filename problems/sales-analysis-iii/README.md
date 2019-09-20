@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-digits-in-the-minimum-number "Sum of Digits in the Minimum Number")
 
-## 1084. Sales Analysis III (Easy)
+## [1084. Sales Analysis III (Easy)](https://leetcode.com/problems/sales-analysis-iii "")
 
 

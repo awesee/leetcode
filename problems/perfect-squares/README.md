@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort "Wiggle Sort")
 
-## 279. Perfect Squares (Medium)
+## [279. Perfect Squares (Medium)](https://leetcode.com/problems/perfect-squares "完全平方数")
 
 <p>Given a positive integer <i>n</i>, find the least number of perfect square numbers (for example, <code>1, 4, 9, 16, ...</code>) which sum to <i>n</i>.</p>
 

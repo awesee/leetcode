@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-ii "Longest Uncommon Subsequence II")
 
-## 521. Longest Uncommon Subsequence I  (Easy)
+## [521. Longest Uncommon Subsequence I  (Easy)](https://leetcode.com/problems/longest-uncommon-subsequence-i "最长特殊序列 Ⅰ")
 
 <p>
 Given a group of two strings, you need to find the longest uncommon subsequence of this group of two strings.

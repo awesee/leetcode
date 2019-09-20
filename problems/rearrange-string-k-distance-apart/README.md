@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/logger-rate-limiter "Logger Rate Limiter")
 
-## 358. Rearrange String k Distance Apart (Hard)
+## [358. Rearrange String k Distance Apart (Hard)](https://leetcode.com/problems/rearrange-string-k-distance-apart "K 距离间隔重排字符串")
 
 
 

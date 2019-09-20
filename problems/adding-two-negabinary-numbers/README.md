@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-submatrices-that-sum-to-target "Number of Submatrices That Sum to Target")
 
-## 1073. Adding Two Negabinary Numbers (Medium)
+## [1073. Adding Two Negabinary Numbers (Medium)](https://leetcode.com/problems/adding-two-negabinary-numbers "负二进制数相加")
 
 <p>Given two numbers <code>arr1</code> and <code>arr2</code> in base <strong>-2</strong>, return the result of adding them together.</p>
 

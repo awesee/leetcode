@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/pancake-sorting "Pancake Sorting")
 
-## 968. Binary Tree Cameras (Hard)
+## [968. Binary Tree Cameras (Hard)](https://leetcode.com/problems/binary-tree-cameras "监控二叉树")
 
 <p>Given a binary tree, we install cameras on the nodes of the tree.&nbsp;</p>
 

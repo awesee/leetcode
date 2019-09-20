@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/biggest-single-number "Biggest Single Number")
 
-## 618. Students Report By Geography (Hard)
+## [618. Students Report By Geography (Hard)](https://leetcode.com/problems/students-report-by-geography "学生地理信息报告")
 
 A U.S graduate school has students from Asia, Europe and America. The students&#39; location information are stored in table <code>student</code> as below.
 <p>&nbsp;</p>

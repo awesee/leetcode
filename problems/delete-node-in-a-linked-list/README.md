@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/product-of-array-except-self "Product of Array Except Self")
 
-## 237. Delete Node in a Linked List (Easy)
+## [237. Delete Node in a Linked List (Easy)](https://leetcode.com/problems/delete-node-in-a-linked-list "删除链表中的节点")
 
 <p>Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.</p>
 

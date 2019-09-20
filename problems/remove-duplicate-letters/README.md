@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-from-all-buildings "Shortest Distance from All Buildings")
 
-## 316. Remove Duplicate Letters (Hard)
+## [316. Remove Duplicate Letters (Hard)](https://leetcode.com/problems/remove-duplicate-letters "去除重复字母")
 
 <p>Given a string which contains only lowercase letters, remove duplicate letters so that every letter appears once and only once. You must make sure your result is the smallest in lexicographical order among all possible results.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/positions-of-large-groups "Positions of Large Groups")
 
-## 829. Consecutive Numbers Sum (Hard)
+## [829. Consecutive Numbers Sum (Hard)](https://leetcode.com/problems/consecutive-numbers-sum "连续整数求和")
 
 <p>Given a positive integer&nbsp;<code>N</code>, how many ways can we write it as a sum of&nbsp;consecutive positive integers?</p>
 

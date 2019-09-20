@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/letter-tile-possibilities "Letter Tile Possibilities")
 
-## 1078. Occurrences After Bigram (Easy)
+## [1078. Occurrences After Bigram (Easy)](https://leetcode.com/problems/occurrences-after-bigram "Bigram 分词")
 
 <p>Given words <code>first</code> and <code>second</code>, consider occurrences in some&nbsp;<code>text</code> of the form &quot;<code>first second third</code>&quot;, where <code>second</code> comes immediately after <code>first</code>, and <code>third</code> comes immediately after <code>second</code>.</p>
 

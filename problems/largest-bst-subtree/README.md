@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/increasing-triplet-subsequence "Increasing Triplet Subsequence")
 
-## 333. Largest BST Subtree (Medium)
+## [333. Largest BST Subtree (Medium)](https://leetcode.com/problems/largest-bst-subtree "最大 BST 子树")
 
 
 

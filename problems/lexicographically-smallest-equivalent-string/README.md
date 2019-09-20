@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-repeating-substring "Longest Repeating Substring")
 
-## 1061. Lexicographically Smallest Equivalent String (Medium)
+## [1061. Lexicographically Smallest Equivalent String (Medium)](https://leetcode.com/problems/lexicographically-smallest-equivalent-string "按字典序排列最小的等效字符串")
 
 <p>Given strings <code>A</code> and <code>B</code> of the same length, we say A[i] and B[i] are equivalent characters. For example, if <code>A = &quot;abc&quot;</code> and <code>B = &quot;cde&quot;</code>, then we have <code>&#39;a&#39; == &#39;c&#39;, &#39;b&#39; == &#39;d&#39;, &#39;c&#39; == &#39;e&#39;</code>.</p>
 

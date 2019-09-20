@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones "Max Consecutive Ones")
 
-## 484. Find Permutation (Medium)
+## [484. Find Permutation (Medium)](https://leetcode.com/problems/find-permutation "寻找排列")
 
 <p>
 By now, you are given a <b>secret signature</b> consisting of character 'D' and 'I'. 'D' represents a decreasing relationship between two numbers, 'I' represents an increasing relationship between two numbers. And our <b>secret signature</b> was constructed by a special integer array, which contains uniquely all the different number from 1 to n (n is the length of the secret signature plus 1). For example, the secret signature "DI" can be constructed by array [2,1,3] or [3,1,2], but won't be constructed by array [3,2,4] or [2,1,3,4], which are both illegal constructing special string that can't represent the "DI" <b>secret signature</b>.

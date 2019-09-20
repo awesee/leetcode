@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/android-unlock-patterns "Android Unlock Patterns")
 
-## 350. Intersection of Two Arrays II (Easy)
+## [350. Intersection of Two Arrays II (Easy)](https://leetcode.com/problems/intersection-of-two-arrays-ii "两个数组的交集 II")
 
 <p>Given two arrays, write a function to compute their intersection.</p>
 

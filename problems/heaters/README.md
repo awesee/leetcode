@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-complement "Number Complement")
 
-## 475. Heaters (Easy)
+## [475. Heaters (Easy)](https://leetcode.com/problems/heaters "供暖器")
 
 <p>Winter is coming! Your first job during the contest is to design a standard heater with fixed warm radius to warm all the houses.</p>
 

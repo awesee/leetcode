@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iv "Combination Sum IV")
 
-## 376. Wiggle Subsequence (Medium)
+## [376. Wiggle Subsequence (Medium)](https://leetcode.com/problems/wiggle-subsequence "摆动序列")
 
 <p>A sequence of numbers is called a <strong>wiggle sequence</strong> if the differences between successive numbers strictly alternate between positive and negative. The first difference (if one exists) may be either positive or negative. A sequence with fewer than two elements is trivially a wiggle sequence.</p>
 

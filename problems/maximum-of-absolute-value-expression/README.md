@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reported-posts-ii "Reported Posts II")
 
-## 1131. Maximum of Absolute Value Expression (Medium)
+## [1131. Maximum of Absolute Value Expression (Medium)](https://leetcode.com/problems/maximum-of-absolute-value-expression "绝对值表达式的最大值")
 
 <p>Given two arrays of integers with equal lengths, return the maximum value of:</p>
 

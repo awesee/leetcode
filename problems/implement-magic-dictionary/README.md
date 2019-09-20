@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/map-sum-pairs "Map Sum Pairs")
 
-## 676. Implement Magic Dictionary (Medium)
+## [676. Implement Magic Dictionary (Medium)](https://leetcode.com/problems/implement-magic-dictionary "实现一个魔法字典")
 
 <p>
 Implement a magic directory with <code>buildDict</code>, and <code>search</code> methods.

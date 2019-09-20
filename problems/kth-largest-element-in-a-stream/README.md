@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-search "Binary Search")
 
-## 703. Kth Largest Element in a Stream (Easy)
+## [703. Kth Largest Element in a Stream (Easy)](https://leetcode.com/problems/kth-largest-element-in-a-stream "数据流中的第K大元素")
 
 <p>Design a class to find&nbsp;the <strong>k</strong>th largest element in a stream. Note that it is the kth largest element in the sorted order, not the kth distinct element.</p>
 

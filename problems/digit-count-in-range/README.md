@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/product-sales-analysis-i "Product Sales Analysis I")
 
-## 1067. Digit Count in Range (Hard)
+## [1067. Digit Count in Range (Hard)](https://leetcode.com/problems/digit-count-in-range "范围内的数字计数")
 
 Given an integer <code>d</code> between <code>0</code> and <code>9</code>, and two positive integers <code>low</code> and <code>high</code> as lower and upper bounds, respectively. Return the number of times that <code>d</code> occurs as a digit in all integers between <code>low</code> and <code>high</code>, including the bounds <code>low</code> and <code>high</code>.
 <p>&nbsp;</p>

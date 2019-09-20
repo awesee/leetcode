@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/swap-for-longest-repeated-character-substring "Swap For Longest Repeated Character Substring")
 
-## 1155. Number of Dice Rolls With Target Sum (Medium)
+## [1155. Number of Dice Rolls With Target Sum (Medium)](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum "掷骰子的N种方法")
 
 <p>You have <code>d</code> dice, and each die has <code>f</code> faces numbered <code>1, 2, ..., f</code>.</p>
 

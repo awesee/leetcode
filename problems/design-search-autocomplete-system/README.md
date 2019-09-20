@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-i "Maximum Average Subarray I")
 
-## 642. Design Search Autocomplete System (Hard)
+## [642. Design Search Autocomplete System (Hard)](https://leetcode.com/problems/design-search-autocomplete-system "设计搜索自动补全系统")
 
 
 

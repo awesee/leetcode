@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/heaters "Heaters")
 
-## 474. Ones and Zeroes (Medium)
+## [474. Ones and Zeroes (Medium)](https://leetcode.com/problems/ones-and-zeroes "一和零")
 
 <p>In the computer world, use restricted resource you have to generate maximum benefit is what we always want to pursue.</p>
 

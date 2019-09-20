@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/compare-version-numbers "Compare Version Numbers")
 
-## 164. Maximum Gap (Hard)
+## [164. Maximum Gap (Hard)](https://leetcode.com/problems/maximum-gap "最大间距")
 
 <p>Given an unsorted array, find the maximum difference between the successive elements in its sorted form.</p>
 

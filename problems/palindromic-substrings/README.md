@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/replace-words "Replace Words")
 
-## 647. Palindromic Substrings (Medium)
+## [647. Palindromic Substrings (Medium)](https://leetcode.com/problems/palindromic-substrings "回文子串")
 
 <p>Given a string, your task is to count how many palindromic substrings in this string.</p>
 

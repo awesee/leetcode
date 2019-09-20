@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/score-of-parentheses "Score of Parentheses")
 
-## 855. Exam Room (Medium)
+## [855. Exam Room (Medium)](https://leetcode.com/problems/exam-room "考场就座")
 
 <p>In an exam room, there are <code>N</code> seats in a single row, numbered <code>0, 1, 2, ..., N-1</code>.</p>
 

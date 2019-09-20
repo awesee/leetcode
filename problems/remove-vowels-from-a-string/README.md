@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subtree "Maximum Average Subtree")
 
-## 1119. Remove Vowels from a String (Easy)
+## [1119. Remove Vowels from a String (Easy)](https://leetcode.com/problems/remove-vowels-from-a-string "删去字符串中的元音")
 
 
 

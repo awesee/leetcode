@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/second-minimum-node-in-a-binary-tree "Second Minimum Node In a Binary Tree")
 
-## 670. Maximum Swap (Medium)
+## [670. Maximum Swap (Medium)](https://leetcode.com/problems/maximum-swap "最大交换")
 
 <p>
 Given a non-negative integer, you could swap two digits <b>at most</b> once to get the maximum valued number. Return the maximum valued number you could get.

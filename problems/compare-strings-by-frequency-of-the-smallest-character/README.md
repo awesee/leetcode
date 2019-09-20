@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/remove-zero-sum-consecutive-nodes-from-linked-list "Remove Zero Sum Consecutive Nodes from Linked List")
 
-## 1170. Compare Strings by Frequency of the Smallest Character (Easy)
+## [1170. Compare Strings by Frequency of the Smallest Character (Easy)](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character "比较字符串最小字母出现频次")
 
 <p>Let&#39;s define a function <code>f(s)</code> over a non-empty string <code>s</code>, which calculates the frequency of the smallest character in <code>s</code>. For example,&nbsp;if <code>s = &quot;dcce&quot;</code> then <code>f(s) = 2</code> because the smallest character is <code>&quot;c&quot;</code> and its frequency is 2.</p>
 

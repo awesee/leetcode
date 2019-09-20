@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1 "Insert Delete GetRandom O(1)")
 
-## 379. Design Phone Directory (Medium)
+## [379. Design Phone Directory (Medium)](https://leetcode.com/problems/design-phone-directory "电话目录管理系统")
 
 
 

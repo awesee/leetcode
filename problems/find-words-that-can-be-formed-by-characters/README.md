@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-level-sum-of-a-binary-tree "Maximum Level Sum of a Binary Tree")
 
-## 1160. Find Words That Can Be Formed by Characters (Easy)
+## [1160. Find Words That Can Be Formed by Characters (Easy)](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters "拼写单词")
 
 <p>You are given an array of strings&nbsp;<code>words</code>&nbsp;and a string&nbsp;<code>chars</code>.</p>
 

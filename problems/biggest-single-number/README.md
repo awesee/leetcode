@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/not-boring-movies "Not Boring Movies")
 
-## 619. Biggest Single Number (Easy)
+## [619. Biggest Single Number (Easy)](https://leetcode.com/problems/biggest-single-number "只出现一次的最大数字")
 
 <p>Table <code>my_numbers</code> contains many numbers in column <b>num</b> including duplicated ones.<br />
 Can you write a SQL query to find the biggest number, which only appears once.</p>

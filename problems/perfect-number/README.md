@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/most-frequent-subtree-sum "Most Frequent Subtree Sum")
 
-## 507. Perfect Number (Easy)
+## [507. Perfect Number (Easy)](https://leetcode.com/problems/perfect-number "完美数")
 
 <p>We define the Perfect Number is a <b>positive</b> integer that is equal to the sum of all its <b>positive</b> divisors except itself. 
 </p>

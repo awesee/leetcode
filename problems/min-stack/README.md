@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-upside-down "Binary Tree Upside Down")
 
-## 155. Min Stack (Easy)
+## [155. Min Stack (Easy)](https://leetcode.com/problems/min-stack "最小栈")
 
 <p>Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.</p>
 

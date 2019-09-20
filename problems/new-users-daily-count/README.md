@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/defanging-an-ip-address "Defanging an IP Address")
 
-## 1107. New Users Daily Count (Medium)
+## [1107. New Users Daily Count (Medium)](https://leetcode.com/problems/new-users-daily-count "")
 
 

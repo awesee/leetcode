@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii "Flip Game II")
 
-## 293. Flip Game (Easy)
+## [293. Flip Game (Easy)](https://leetcode.com/problems/flip-game "翻转游戏")
 
 
 

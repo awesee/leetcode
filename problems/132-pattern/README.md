@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/circular-array-loop "Circular Array Loop")
 
-## 456. 132 Pattern (Medium)
+## [456. 132 Pattern (Medium)](https://leetcode.com/problems/132-pattern "132模式")
 
 <p>
 Given a sequence of n integers a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>, a 132 pattern is a subsequence a<sub><b>i</b></sub>, a<sub><b>j</b></sub>, a<sub><b>k</b></sub> such

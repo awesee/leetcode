@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/unique-paths-ii "Unique Paths II")
 
-## 62. Unique Paths (Medium)
+## [62. Unique Paths (Medium)](https://leetcode.com/problems/unique-paths "不同路径")
 
 <p>A robot is located at the top-left corner of a <em>m</em> x <em>n</em> grid (marked &#39;Start&#39; in the diagram below).</p>
 

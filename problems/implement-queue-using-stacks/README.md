@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-digit-one "Number of Digit One")
 
-## 232. Implement Queue using Stacks (Easy)
+## [232. Implement Queue using Stacks (Easy)](https://leetcode.com/problems/implement-queue-using-stacks "用栈实现队列")
 
 <p>Implement the following operations of a queue using stacks.</p>
 

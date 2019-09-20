@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/wildcard-matching "Wildcard Matching")
 
-## 43. Multiply Strings (Medium)
+## [43. Multiply Strings (Medium)](https://leetcode.com/problems/multiply-strings "字符串相乘")
 
 <p>Given two non-negative integers <code>num1</code> and <code>num2</code> represented as strings, return the product of <code>num1</code> and <code>num2</code>, also represented as a string.</p>
 

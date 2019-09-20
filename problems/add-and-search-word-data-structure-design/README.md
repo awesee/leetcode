@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/word-search-ii "Word Search II")
 
-## 211. Add and Search Word - Data structure design (Medium)
+## [211. Add and Search Word - Data structure design (Medium)](https://leetcode.com/problems/add-and-search-word-data-structure-design "添加与搜索单词 - 数据结构设计")
 
 <p>Design a data structure that supports the following two operations:</p>
 

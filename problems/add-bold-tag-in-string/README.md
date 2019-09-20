@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/merge-two-binary-trees "Merge Two Binary Trees")
 
-## 616. Add Bold Tag in String (Medium)
+## [616. Add Bold Tag in String (Medium)](https://leetcode.com/problems/add-bold-tag-in-string "给字符串添加加粗标签")
 
 
 

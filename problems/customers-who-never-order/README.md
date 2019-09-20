@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/department-highest-salary "Department Highest Salary")
 
-## 183. Customers Who Never Order (Easy)
+## [183. Customers Who Never Order (Easy)](https://leetcode.com/problems/customers-who-never-order "从不订购的客户")
 
 <p>Suppose that a website contains two tables, the <code>Customers</code> table and the <code>Orders</code> table. Write a SQL query to find all customers who never order anything.</p>
 

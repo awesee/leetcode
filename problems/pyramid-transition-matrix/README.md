@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/set-intersection-size-at-least-two "Set Intersection Size At Least Two")
 
-## 756. Pyramid Transition Matrix (Medium)
+## [756. Pyramid Transition Matrix (Medium)](https://leetcode.com/problems/pyramid-transition-matrix "金字塔转换矩阵")
 
 <p>We are stacking blocks to form a pyramid. Each block has a color which is a one letter string.</p>
 

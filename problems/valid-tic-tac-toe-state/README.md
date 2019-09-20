@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-subarrays-with-bounded-maximum "Number of Subarrays with Bounded Maximum")
 
-## 794. Valid Tic-Tac-Toe State (Medium)
+## [794. Valid Tic-Tac-Toe State (Medium)](https://leetcode.com/problems/valid-tic-tac-toe-state "有效的井字游戏")
 
 <p>A Tic-Tac-Toe board is given as a string array <code>board</code>. Return True if and only if it is possible to reach this board position during the course of a valid tic-tac-toe game.</p>
 

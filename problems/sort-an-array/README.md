@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/cat-and-mouse "Cat and Mouse")
 
-## 912. Sort an Array (Medium)
+## [912. Sort an Array (Medium)](https://leetcode.com/problems/sort-an-array "排序数组")
 
 <p>Given an array of integers <code>nums</code>, sort the array in ascending order.</p>
 

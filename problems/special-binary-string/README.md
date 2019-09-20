@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/prime-number-of-set-bits-in-binary-representation "Prime Number of Set Bits in Binary Representation")
 
-## 761. Special Binary String (Hard)
+## [761. Special Binary String (Hard)](https://leetcode.com/problems/special-binary-string "特殊的二进制序列")
 
 <p>
 <i>Special</i> binary strings are binary strings with the following two properties:

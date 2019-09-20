@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance "Find K-th Smallest Pair Distance")
 
-## 718. Maximum Length of Repeated Subarray (Medium)
+## [718. Maximum Length of Repeated Subarray (Medium)](https://leetcode.com/problems/maximum-length-of-repeated-subarray "最长重复子数组")
 
 <p>Given two integer arrays <code>A</code> and <code>B</code>, return the maximum length of an subarray that appears in both arrays.</p>
 

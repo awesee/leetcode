@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/count-of-range-sum "Count of Range Sum")
 
-## 326. Power of Three (Easy)
+## [326. Power of Three (Easy)](https://leetcode.com/problems/power-of-three "3的幂")
 
 <p>Given an integer, write a function to determine if it is a power of three.</p>
 

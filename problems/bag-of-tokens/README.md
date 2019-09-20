@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/largest-time-for-given-digits "Largest Time for Given Digits")
 
-## 948. Bag of Tokens (Medium)
+## [948. Bag of Tokens (Medium)](https://leetcode.com/problems/bag-of-tokens "令牌放置")
 
 <p>You have an initial power <code>P</code>, an initial score of <code>0</code> points, and a bag of tokens.</p>
 

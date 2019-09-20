@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/flipping-an-image "Flipping an Image")
 
-## 831. Masking Personal Information (Medium)
+## [831. Masking Personal Information (Medium)](https://leetcode.com/problems/masking-personal-information "隐藏个人信息")
 
 <p>We are given a&nbsp;personal information string <code>S</code>, which may represent&nbsp;either <strong>an email address</strong> or <strong>a phone number.</strong></p>
 

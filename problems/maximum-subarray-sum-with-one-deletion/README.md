@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/make-array-strictly-increasing "Make Array Strictly Increasing")
 
-## 1186. Maximum Subarray Sum with One Deletion (Medium)
+## [1186. Maximum Subarray Sum with One Deletion (Medium)](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion "删除一次得到子数组最大和")
 
 <p>Given an array of integers, return the maximum sum for a <strong>non-empty</strong>&nbsp;subarray (contiguous elements) with at most one element deletion.&nbsp;In other words, you want to choose a subarray and optionally delete one element from it so that there is still at least one element left and the&nbsp;sum of the remaining elements is maximum possible.</p>
 

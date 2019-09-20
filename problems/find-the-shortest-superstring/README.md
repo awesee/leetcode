@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted "Delete Columns to Make Sorted")
 
-## 943. Find the Shortest Superstring (Hard)
+## [943. Find the Shortest Superstring (Hard)](https://leetcode.com/problems/find-the-shortest-superstring "最短超级串")
 
 <p>Given an array A of strings, find any&nbsp;smallest string that contains each string in <code>A</code> as a&nbsp;substring.</p>
 

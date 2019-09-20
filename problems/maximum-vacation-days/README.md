@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/median-employee-salary "Median Employee Salary")
 
-## 568. Maximum Vacation Days (Hard)
+## [568. Maximum Vacation Days (Hard)](https://leetcode.com/problems/maximum-vacation-days "最大休假天数")
 
 
 

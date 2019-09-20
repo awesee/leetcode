@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/bricks-falling-when-hit "Bricks Falling When Hit")
 
-## 802. Find Eventual Safe States (Medium)
+## [802. Find Eventual Safe States (Medium)](https://leetcode.com/problems/find-eventual-safe-states "找到最终的安全状态")
 
 <p>In a directed graph, we start at some node and every turn, walk along a directed edge of the graph.&nbsp; If we reach a node that is terminal (that is, it has no outgoing directed edges), we stop.</p>
 

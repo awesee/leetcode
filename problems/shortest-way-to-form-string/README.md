@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/confusing-number "Confusing Number")
 
-## 1055. Shortest Way to Form String (Medium)
+## [1055. Shortest Way to Form String (Medium)](https://leetcode.com/problems/shortest-way-to-form-string "形成字符串的最短路径")
 
 <p>From any string, we can form a <i>subsequence</i> of that string by deleting some number of characters (possibly no deletions).</p>
 

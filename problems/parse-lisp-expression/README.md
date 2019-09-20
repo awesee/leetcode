@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity-ii "Sentence Similarity II")
 
-## 736. Parse Lisp Expression (Hard)
+## [736. Parse Lisp Expression (Hard)](https://leetcode.com/problems/parse-lisp-expression "Lisp 语法解析")
 
 <p>
 You are given a string <code>expression</code> representing a Lisp-like expression to return the integer value of.

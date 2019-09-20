@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices "Arithmetic Slices")
 
-## 412. Fizz Buzz (Easy)
+## [412. Fizz Buzz (Easy)](https://leetcode.com/problems/fizz-buzz "Fizz Buzz")
 
 <p>Write a program that outputs the string representation of numbers from 1 to <i>n</i>.</p>
 

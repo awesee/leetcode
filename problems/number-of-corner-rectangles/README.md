@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/ip-to-cidr "IP to CIDR")
 
-## 750. Number Of Corner Rectangles (Medium)
+## [750. Number Of Corner Rectangles (Medium)](https://leetcode.com/problems/number-of-corner-rectangles "角矩形的数量")
 
 
 

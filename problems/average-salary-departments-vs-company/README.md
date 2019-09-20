@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/add-bold-tag-in-string "Add Bold Tag in String")
 
-## 615. Average Salary: Departments VS Company (Hard)
+## [615. Average Salary: Departments VS Company (Hard)](https://leetcode.com/problems/average-salary-departments-vs-company "平均工资：部门与公司比较")
 
 Given two tables as below, write a query to display the comparison result (higher/lower/same) of the average salary of employees in a department to the company&#39;s average salary.
 <p>&nbsp;</p>

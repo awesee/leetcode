@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/fruit-into-baskets "Fruit Into Baskets")
 
-## 903. Valid Permutations for DI Sequence (Hard)
+## [903. Valid Permutations for DI Sequence (Hard)](https://leetcode.com/problems/valid-permutations-for-di-sequence "DI 序列的有效排列")
 
 <p>We are given <code>S</code>, a length <code>n</code> string of characters from the set <code>{&#39;D&#39;, &#39;I&#39;}</code>. (These letters stand for &quot;decreasing&quot; and &quot;increasing&quot;.)</p>
 

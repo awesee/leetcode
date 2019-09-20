@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-trees-with-factors "Binary Trees With Factors")
 
-## 822. Card Flipping Game (Medium)
+## [822. Card Flipping Game (Medium)](https://leetcode.com/problems/card-flipping-game "翻转卡片游戏")
 
 <p>On a table are <code>N</code> cards, with a positive integer printed on the front and back of each card (possibly different).</p>
 

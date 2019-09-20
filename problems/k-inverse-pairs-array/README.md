@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/course-schedule-iii "Course Schedule III")
 
-## 629. K Inverse Pairs Array (Hard)
+## [629. K Inverse Pairs Array (Hard)](https://leetcode.com/problems/k-inverse-pairs-array "K个逆序对数组")
 
 <p>Given two integers <code>n</code> and <code>k</code>, find how many different arrays consist of numbers from <code>1</code> to <code>n</code> such that there are exactly <code>k</code> inverse pairs.</p>
 

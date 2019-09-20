@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin "K Closest Points to Origin")
 
-## 972. Equal Rational Numbers (Hard)
+## [972. Equal Rational Numbers (Hard)](https://leetcode.com/problems/equal-rational-numbers "相等的有理数")
 
 <p>Given two strings <code>S</code> and <code>T</code>, each of which represents a non-negative rational number, return <strong>True</strong> if and only if they represent the same number. The strings may use parentheses to denote the repeating part of the rational number.</p>
 

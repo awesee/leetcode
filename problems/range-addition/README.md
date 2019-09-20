@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-two-integers "Sum of Two Integers")
 
-## 370. Range Addition (Medium)
+## [370. Range Addition (Medium)](https://leetcode.com/problems/range-addition "区间加法")
 
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/teemo-attacking "Teemo Attacking")
 
-## 494. Target Sum (Medium)
+## [494. Target Sum (Medium)](https://leetcode.com/problems/target-sum "目标和")
 
 <p>
 You are given a list of non-negative integers, a1, a2, ..., an, and a target, S. Now you have 2 symbols <code>+</code> and <code>-</code>. For each integer, you should choose one from <code>+</code> and <code>-</code> as its new symbol.

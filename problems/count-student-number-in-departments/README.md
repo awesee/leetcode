@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-unsorted-continuous-subarray "Shortest Unsorted Continuous Subarray")
 
-## 580. Count Student Number in Departments (Medium)
+## [580. Count Student Number in Departments (Medium)](https://leetcode.com/problems/count-student-number-in-departments "统计各专业学生人数")
 
 <p>A university uses 2 data tables, <b><i>student</i></b> and <b><i>department</i></b>, to store data about its students and the departments associated with each major.</p>
 

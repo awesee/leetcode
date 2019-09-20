@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-i "Sales Analysis I")
 
-## 1081. Smallest Subsequence of Distinct Characters (Medium)
+## [1081. Smallest Subsequence of Distinct Characters (Medium)](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters "不同字符的最小子序列")
 
 <p>Return the lexicographically smallest subsequence of <code>text</code> that contains all the distinct characters of <code>text</code> exactly once.</p>
 

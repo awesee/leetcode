@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray-sum-with-one-deletion "Maximum Subarray Sum with One Deletion")
 
-## 1185. Day of the Week (Easy)
+## [1185. Day of the Week (Easy)](https://leetcode.com/problems/day-of-the-week "一周中的第几天")
 
 <p>Given a date, return the corresponding day of the week for that date.</p>
 

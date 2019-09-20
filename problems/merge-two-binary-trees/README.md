@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/students-report-by-geography "Students Report By Geography")
 
-## 617. Merge Two Binary Trees (Easy)
+## [617. Merge Two Binary Trees (Easy)](https://leetcode.com/problems/merge-two-binary-trees "合并二叉树")
 
 <p>Given two binary trees and imagine that when you put one of them to cover the other, some nodes of the two trees are overlapped while the others are not.</p>
 

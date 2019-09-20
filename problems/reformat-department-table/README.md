@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/count-substrings-with-only-one-distinct-letter "Count Substrings with Only One Distinct Letter")
 
-## 1179. Reformat Department Table (Easy)
+## [1179. Reformat Department Table (Easy)](https://leetcode.com/problems/reformat-department-table "")
 
 <p>Table: <code>Department</code></p>
 

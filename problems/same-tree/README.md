@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/symmetric-tree "Symmetric Tree")
 
-## 100. Same Tree (Easy)
+## [100. Same Tree (Easy)](https://leetcode.com/problems/same-tree "相同的树")
 
 <p>Given two binary trees, write a function to check if they are the same or not.</p>
 

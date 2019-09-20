@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/analyze-user-website-visit-pattern "Analyze User Website Visit Pattern")
 
-## 1151. Minimum Swaps to Group All 1's Together (Medium)
+## [1151. Minimum Swaps to Group All 1's Together (Medium)](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together "最少交换次数来组合所有的 1")
 
 
 

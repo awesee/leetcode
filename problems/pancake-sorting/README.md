@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/powerful-integers "Powerful Integers")
 
-## 969. Pancake Sorting (Medium)
+## [969. Pancake Sorting (Medium)](https://leetcode.com/problems/pancake-sorting "煎饼排序")
 
 <p>Given an array <code>A</code>, we can perform a&nbsp;<em>pancake flip</em>:&nbsp;We choose some positive integer&nbsp;<code><strong>k</strong> &lt;= A.length</code>, then reverse the order of the first <strong>k</strong> elements of <code>A</code>.&nbsp; We want to perform zero or more pancake flips (doing them one after another in succession) to sort the array <code>A</code>.</p>
 

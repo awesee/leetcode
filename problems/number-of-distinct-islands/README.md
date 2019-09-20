@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/max-area-of-island "Max Area of Island")
 
-## 694. Number of Distinct Islands (Medium)
+## [694. Number of Distinct Islands (Medium)](https://leetcode.com/problems/number-of-distinct-islands "不同岛屿的数量")
 
 
 

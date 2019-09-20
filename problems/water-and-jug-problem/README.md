@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-leaves-of-binary-tree "Find Leaves of Binary Tree")
 
-## 365. Water and Jug Problem (Medium)
+## [365. Water and Jug Problem (Medium)](https://leetcode.com/problems/water-and-jug-problem "水壶问题")
 
 <p>You are given two jugs with capacities <i>x</i> and <i>y</i> litres. There is an infinite amount of water supply available. You need to determine whether it is possible to measure exactly <i>z</i> litres using these two jugs.</p>
 

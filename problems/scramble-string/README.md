@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/merge-sorted-array "Merge Sorted Array")
 
-## 87. Scramble String (Hard)
+## [87. Scramble String (Hard)](https://leetcode.com/problems/scramble-string "扰乱字符串")
 
 <p>Given a string <em>s1</em>, we may represent it as a binary tree by partitioning it to two non-empty substrings recursively.</p>
 

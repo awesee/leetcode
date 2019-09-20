@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/palindromic-substrings "Palindromic Substrings")
 
-## 646. Maximum Length of Pair Chain (Medium)
+## [646. Maximum Length of Pair Chain (Medium)](https://leetcode.com/problems/maximum-length-of-pair-chain "最长数对链")
 
 <p>
 You are given <code>n</code> pairs of numbers. In every pair, the first number is always smaller than the second number.

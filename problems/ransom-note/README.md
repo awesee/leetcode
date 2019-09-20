@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shuffle-an-array "Shuffle an Array")
 
-## 383. Ransom Note (Easy)
+## [383. Ransom Note (Easy)](https://leetcode.com/problems/ransom-note "赎金信")
 
 <p>
 Given an arbitrary ransom note string and another string containing letters from all the magazines, write a function that will return true if the ransom 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-vacation-days "Maximum Vacation Days")
 
-## 567. Permutation in String (Medium)
+## [567. Permutation in String (Medium)](https://leetcode.com/problems/permutation-in-string "字符串的排列")
 
 <p>Given two strings <b>s1</b> and <b>s2</b>, write a function to return true if <b>s2</b> contains the permutation of <b>s1</b>. In other words, one of the first string&#39;s permutations is the <b>substring</b> of the second string.</p>
 

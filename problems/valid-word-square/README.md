@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reconstruct-original-digits-from-english "Reconstruct Original Digits from English")
 
-## 422. Valid Word Square (Easy)
+## [422. Valid Word Square (Easy)](https://leetcode.com/problems/valid-word-square "有效的单词方块")
 
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-add-to-make-parentheses-valid "Minimum Add to Make Parentheses Valid")
 
-## 920. Number of Music Playlists (Hard)
+## [920. Number of Music Playlists (Hard)](https://leetcode.com/problems/number-of-music-playlists "播放列表的数量")
 
 <p>Your music player contains <code>N</code>&nbsp;different songs and she wants to listen to <code>L</code><strong> </strong>(not necessarily different) songs during your trip. &nbsp;You&nbsp;create&nbsp;a playlist so&nbsp;that:</p>
 

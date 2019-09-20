@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers-ii "Add Two Numbers II")
 
-## 444. Sequence Reconstruction (Medium)
+## [444. Sequence Reconstruction (Medium)](https://leetcode.com/problems/sequence-reconstruction "序列重建")
 
 
 

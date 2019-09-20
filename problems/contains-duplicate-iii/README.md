@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximal-square "Maximal Square")
 
-## 220. Contains Duplicate III (Medium)
+## [220. Contains Duplicate III (Medium)](https://leetcode.com/problems/contains-duplicate-iii "存在重复元素 III")
 
 <p>Given an array of integers, find out whether there are two distinct indices <i>i</i> and <i>j</i> in the array such that the <b>absolute</b> difference between <b>nums[i]</b> and <b>nums[j]</b> is at most <i>t</i> and the <b>absolute</b> difference between <i>i</i> and <i>j</i> is at most <i>k</i>.</p>
 

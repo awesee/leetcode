@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list-ii "Remove Duplicates from Sorted List II")
 
-## 81. Search in Rotated Sorted Array II (Medium)
+## [81. Search in Rotated Sorted Array II (Medium)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii "搜索旋转排序数组 II")
 
 <p>Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.</p>
 

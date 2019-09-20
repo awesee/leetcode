@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii "Ugly Number II")
 
-## 263. Ugly Number (Easy)
+## [263. Ugly Number (Easy)](https://leetcode.com/problems/ugly-number "丑数")
 
 <p>Write a program to check whether a given number is an ugly number.</p>
 

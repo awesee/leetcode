@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-for-tickets "Minimum Cost For Tickets")
 
-## 982. Triples with Bitwise AND Equal To Zero (Hard)
+## [982. Triples with Bitwise AND Equal To Zero (Hard)](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero "按位与为零的三元组")
 
 <p>Given an array of integers <code>A</code>, find the number of&nbsp;triples of indices (i, j, k)&nbsp;such that:</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/valid-phone-numbers "Valid Phone Numbers")
 
-## 192. Word Frequency (Medium)
+## [192. Word Frequency (Medium)](https://leetcode.com/problems/word-frequency "统计词频")
 
 <p>Write a bash script to calculate the frequency of each word in a text file <code>words.txt</code>.</p>
 

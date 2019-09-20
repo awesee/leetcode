@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump "Odd Even Jump")
 
-## 974. Subarray Sums Divisible by K (Medium)
+## [974. Subarray Sums Divisible by K (Medium)](https://leetcode.com/problems/subarray-sums-divisible-by-k "和可被 K 整除的子数组")
 
 <p>Given an array <code>A</code> of integers, return the number of (contiguous, non-empty) subarrays that have a sum divisible by <code>K</code>.</p>
 

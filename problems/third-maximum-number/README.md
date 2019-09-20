@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/add-strings "Add Strings")
 
-## 414. Third Maximum Number (Easy)
+## [414. Third Maximum Number (Easy)](https://leetcode.com/problems/third-maximum-number "第三大的数")
 
 <p>Given a <b>non-empty</b> array of integers, return the <b>third</b> maximum number in this array. If it does not exist, return the maximum number. The time complexity must be in O(n).</p>
 

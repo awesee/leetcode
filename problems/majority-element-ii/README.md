@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-bst "Kth Smallest Element in a BST")
 
-## 229. Majority Element II (Medium)
+## [229. Majority Element II (Medium)](https://leetcode.com/problems/majority-element-ii "求众数 II")
 
 <p>Given an integer array of size <i>n</i>, find all elements that appear more than <code>&lfloor; n/3 &rfloor;</code> times.</p>
 

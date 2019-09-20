@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/solve-the-equation "Solve the Equation")
 
-## 639. Decode Ways II (Hard)
+## [639. Decode Ways II (Hard)](https://leetcode.com/problems/decode-ways-ii "解码方法 2")
 
 <p>
 A message containing letters from <code>A-Z</code> is being encoded to numbers using the following mapping way:

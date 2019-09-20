@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-way-to-form-string "Shortest Way to Form String")
 
-## 1054. Distant Barcodes (Medium)
+## [1054. Distant Barcodes (Medium)](https://leetcode.com/problems/distant-barcodes "距离相等的条形码")
 
 <p>In a warehouse, there is a row of barcodes, where the <code>i</code>-th barcode is&nbsp;<code>barcodes[i]</code>.</p>
 

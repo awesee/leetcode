@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/parallel-courses "Parallel Courses")
 
-## 1135. Connecting Cities With Minimum Cost (Medium)
+## [1135. Connecting Cities With Minimum Cost (Medium)](https://leetcode.com/problems/connecting-cities-with-minimum-cost "最低成本联通所有城市")
 
 <p>There are <code>N</code> cities numbered from 1 to <code>N</code>.</p>
 

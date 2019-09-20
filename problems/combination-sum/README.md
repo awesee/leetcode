@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/combination-sum-ii "Combination Sum II")
 
-## 39. Combination Sum (Medium)
+## [39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum "组合总和")
 
 <p>Given a <strong>set</strong> of candidate numbers (<code>candidates</code>) <strong>(without duplicates)</strong> and a target number (<code>target</code>), find all unique combinations in <code>candidates</code>&nbsp;where the candidate numbers sums to <code>target</code>.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock "Best Time to Buy and Sell Stock")
 
-## 120. Triangle (Medium)
+## [120. Triangle (Medium)](https://leetcode.com/problems/triangle "三角形最小路径和")
 
 <p>Given a triangle, find the minimum path sum from top to bottom. Each step you may move to adjacent numbers on the row below.</p>
 

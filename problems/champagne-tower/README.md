@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/similar-rgb-color "Similar RGB Color")
 
-## 799. Champagne Tower (Medium)
+## [799. Champagne Tower (Medium)](https://leetcode.com/problems/champagne-tower "香槟塔")
 
 <p>We stack glasses in a pyramid, where the first row has 1 glass, the second row has 2 glasses, and so on until the 100th row.&nbsp; Each glass holds one cup (250ml) of champagne.</p>
 

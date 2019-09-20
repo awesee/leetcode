@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/critical-connections-in-a-network "Critical Connections in a Network")
 
-## 1191. K-Concatenation Maximum Sum (Medium)
+## [1191. K-Concatenation Maximum Sum (Medium)](https://leetcode.com/problems/k-concatenation-maximum-sum "K 次串联后最大子数组之和")
 
 <p>Given an integer array <code>arr</code>&nbsp;and an integer <code>k</code>, modify the array by repeating it <code>k</code> times.</p>
 
@@ -49,9 +49,6 @@
 	<li><code>1 &lt;= k &lt;= 10^5</code></li>
 	<li><code>-10^4 &lt;= arr[i] &lt;= 10^4</code></li>
 </ul>
-
-### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

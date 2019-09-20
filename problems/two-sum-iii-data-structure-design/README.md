@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/excel-sheet-column-number "Excel Sheet Column Number")
 
-## 170. Two Sum III - Data structure design (Easy)
+## [170. Two Sum III - Data structure design (Easy)](https://leetcode.com/problems/two-sum-iii-data-structure-design "两数之和 III - 数据结构设计")
 
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/delete-duplicate-emails "Delete Duplicate Emails")
 
-## 195. Tenth Line (Easy)
+## [195. Tenth Line (Easy)](https://leetcode.com/problems/tenth-line "第十行")
 
 <p>Given a text file&nbsp;<code>file.txt</code>, print&nbsp;just the 10th line of the&nbsp;file.</p>
 

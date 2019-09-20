@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-ii "Shortest Word Distance II")
 
-## 243. Shortest Word Distance (Easy)
+## [243. Shortest Word Distance (Easy)](https://leetcode.com/problems/shortest-word-distance "最短单词距离")
 
 
 

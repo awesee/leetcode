@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/remove-boxes "Remove Boxes")
 
-## 545. Boundary of Binary Tree (Medium)
+## [545. Boundary of Binary Tree (Medium)](https://leetcode.com/problems/boundary-of-binary-tree "二叉树的边界")
 
 
 

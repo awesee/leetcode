@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-pair-chain "Maximum Length of Pair Chain")
 
-## 645. Set Mismatch (Easy)
+## [645. Set Mismatch (Easy)](https://leetcode.com/problems/set-mismatch "错误的集合")
 
 <p>
 The set <code>S</code> originally contains numbers from 1 to <code>n</code>. But unfortunately, due to the data error, one of the numbers in the set got duplicated to <b>another</b> number in the set, which results in repetition of one number and loss of another number. 
