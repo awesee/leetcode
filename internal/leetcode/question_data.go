@@ -112,7 +112,13 @@ func (question *questionType) getDescContent() []byte {
 	var buf bytes.Buffer
 	buf.WriteString(authInfo("description"))
 	buf.WriteString(question.getNavigation())
-	buf.WriteString(fmt.Sprintf("\n## %s. %s%s\n\n", question.QuestionFrontendId, question.Title, question.Difficulty.Str()))
+	buf.WriteString(fmt.Sprintf("\n## [%s. %s%s](%s \"%s\")\n\n",
+		question.QuestionFrontendId,
+		question.Title,
+		question.Difficulty.Str(),
+		question.LeetCodeUrl(),
+		question.TranslatedTitle,
+	))
 	cts := filterContents(question.Content)
 	// remove style
 	reg := regexp.MustCompile(`<style[\S\s]+?</style>`)
@@ -195,6 +201,10 @@ func (question *questionType) getFilePath(filename string) string {
 
 func (question *questionType) TitleSnake() string {
 	return slugToSnake(question.TitleSlug)
+}
+
+func (question *questionType) LeetCodeUrl() string {
+	return "https://leetcode.com/problems/" + question.TitleSlug
 }
 
 func (question *questionType) PackageName() string {
