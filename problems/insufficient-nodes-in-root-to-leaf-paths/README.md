@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-subsequence-of-distinct-characters "Smallest Subsequence of Distinct Characters")
 
-## 1080. Insufficient Nodes in Root to Leaf Paths (Medium)
+## [1080. Insufficient Nodes in Root to Leaf Paths (Medium)](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths "根到叶路径上的不足节点")
 
 <p>Given the <code>root</code>&nbsp;of a binary tree, consider all <em>root to leaf paths</em>: paths from the root&nbsp;to any leaf.&nbsp; (A leaf is a node with no children.)</p>
 

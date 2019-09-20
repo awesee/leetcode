@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight-ii "Last Stone Weight II")
 
-## 1048. Longest String Chain (Medium)
+## [1048. Longest String Chain (Medium)](https://leetcode.com/problems/longest-string-chain "最长字符串链")
 
 <p>Given a list of words, each word consists of English lowercase letters.</p>
 

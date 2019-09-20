@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/fraction-to-recurring-decimal "Fraction to Recurring Decimal")
 
-## 165. Compare Version Numbers (Medium)
+## [165. Compare Version Numbers (Medium)](https://leetcode.com/problems/compare-version-numbers "比较版本号")
 
 <p>Compare two version numbers <em>version1</em> and <em>version2</em>.<br />
 If <code><em>version1</em> &gt; <em>version2</em></code> return <code>1;</code>&nbsp;if <code><em>version1</em> &lt; <em>version2</em></code> return <code>-1;</code>otherwise return <code>0</code>.</p>

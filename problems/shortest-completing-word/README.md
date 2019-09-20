@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/contain-virus "Contain Virus")
 
-## 748. Shortest Completing Word (Easy)
+## [748. Shortest Completing Word (Easy)](https://leetcode.com/problems/shortest-completing-word "最短完整词")
 
 <p>
 Find the minimum length word from a given dictionary <code>words</code>, which has all the letters from the string <code>licensePlate</code>.  Such a word is said to <i>complete</i> the given string <code>licensePlate</code>

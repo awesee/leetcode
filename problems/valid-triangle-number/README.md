@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-in-a-plane "Shortest Distance in a Plane")
 
-## 611. Valid Triangle Number (Medium)
+## [611. Valid Triangle Number (Medium)](https://leetcode.com/problems/valid-triangle-number "有效三角形的个数")
 
 Given an array consists of non-negative integers,  your task is to count the number of triplets chosen from the array that can make triangles if we take them as side lengths of a triangle.
 

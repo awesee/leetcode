@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/edit-distance "Edit Distance")
 
-## 71. Simplify Path (Medium)
+## [71. Simplify Path (Medium)](https://leetcode.com/problems/simplify-path "简化路径")
 
 <p>Given an <strong>absolute path</strong> for a file (Unix-style), simplify it. Or in other words, convert it to the <strong>canonical path</strong>.</p>
 

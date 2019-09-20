@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/restore-ip-addresses "Restore IP Addresses")
 
-## 92. Reverse Linked List II (Medium)
+## [92. Reverse Linked List II (Medium)](https://leetcode.com/problems/reverse-linked-list-ii "反转链表 II")
 
 <p>Reverse a linked list from position <em>m</em> to <em>n</em>. Do it in one-pass.</p>
 

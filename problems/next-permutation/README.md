@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-valid-parentheses "Longest Valid Parentheses")
 
-## 31. Next Permutation (Medium)
+## [31. Next Permutation (Medium)](https://leetcode.com/problems/next-permutation "下一个排列")
 
 <p>Implement <strong>next permutation</strong>, which rearranges numbers into the lexicographically next greater permutation of numbers.</p>
 

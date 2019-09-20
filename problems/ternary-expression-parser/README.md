@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-in-lexicographical-order "K-th Smallest in Lexicographical Order")
 
-## 439. Ternary Expression Parser (Medium)
+## [439. Ternary Expression Parser (Medium)](https://leetcode.com/problems/ternary-expression-parser "三元表达式解析器")
 
 
 

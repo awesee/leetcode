@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sequence-reconstruction "Sequence Reconstruction")
 
-## 443. String Compression (Easy)
+## [443. String Compression (Easy)](https://leetcode.com/problems/string-compression "压缩字符串")
 
 <p>Given an array of characters, compress it <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><b>in-place</b></a>.</p>
 

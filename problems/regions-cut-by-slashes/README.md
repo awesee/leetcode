@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted-iii "Delete Columns to Make Sorted III")
 
-## 959. Regions Cut By Slashes (Medium)
+## [959. Regions Cut By Slashes (Medium)](https://leetcode.com/problems/regions-cut-by-slashes "由斜杠划分区域")
 
 <p>In a N x N&nbsp;<code>grid</code> composed of 1 x 1 squares, each 1 x 1 square consists of a <code>/</code>, <code>\</code>, or blank space.&nbsp; These characters divide the square into contiguous regions.</p>
 

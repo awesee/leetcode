@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/knight-dialer "Knight Dialer")
 
-## 934. Shortest Bridge (Medium)
+## [934. Shortest Bridge (Medium)](https://leetcode.com/problems/shortest-bridge "最短的桥")
 
 <p>In a given 2D binary array <code>A</code>, there are two islands.&nbsp; (An island is a 4-directionally connected group of&nbsp;<code>1</code>s not connected to any other 1s.)</p>
 

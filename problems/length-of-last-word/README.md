@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-ii "Spiral Matrix II")
 
-## 58. Length of Last Word (Easy)
+## [58. Length of Last Word (Easy)](https://leetcode.com/problems/length-of-last-word "最后一个单词的长度")
 
 <p>Given a string <i>s</i> consists of upper/lower-case alphabets and empty space characters <code>&#39; &#39;</code>, return the length of last word in the string.</p>
 

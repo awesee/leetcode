@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/monthly-transactions-i "Monthly Transactions I")
 
-## 1192. Critical Connections in a Network (Hard)
+## [1192. Critical Connections in a Network (Hard)](https://leetcode.com/problems/critical-connections-in-a-network "查找集群内的「关键连接」")
 
 <p>There are&nbsp;<code>n</code> servers numbered from&nbsp;<code>0</code>&nbsp;to&nbsp;<code>n-1</code> connected by&nbsp;undirected server-to-server <code>connections</code> forming a network where <code>connections[i] = [a, b]</code>&nbsp;represents a connection between servers <code>a</code>&nbsp;and <code>b</code>. Any server can reach any other server directly or indirectly through the network.</p>
 
@@ -37,9 +37,6 @@
 	<li><code>connections[i][0] != connections[i][1]</code></li>
 	<li>There are no repeated connections.</li>
 </ul>
-
-### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
 
 ### Hints
 <details>

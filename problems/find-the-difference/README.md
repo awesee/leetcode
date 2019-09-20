@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/elimination-game "Elimination Game")
 
-## 389. Find the Difference (Easy)
+## [389. Find the Difference (Easy)](https://leetcode.com/problems/find-the-difference "找不同")
 
 <p>
 Given two strings <b><i>s</i></b> and <b><i>t</i></b> which consist of only lowercase letters.</p>

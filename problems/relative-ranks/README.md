@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/perfect-number "Perfect Number")
 
-## 506. Relative Ranks (Easy)
+## [506. Relative Ranks (Easy)](https://leetcode.com/problems/relative-ranks "相对名次")
 
 <p>
 Given scores of <b>N</b> athletes, find their relative ranks and the people with the top three highest scores, who will be awarded medals: "Gold Medal", "Silver Medal" and "Bronze Medal".</p>

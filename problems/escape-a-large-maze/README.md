@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/valid-boomerang "Valid Boomerang")
 
-## 1036. Escape a Large Maze (Hard)
+## [1036. Escape a Large Maze (Hard)](https://leetcode.com/problems/escape-a-large-maze "逃离大迷宫")
 
 <p>In a 1 million by 1 million grid, the coordinates of each grid square are <code>(x, y)</code> with <code>0 &lt;= x, y &lt; 10^6</code>.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/the-maze-ii "The Maze II")
 
-## 504. Base 7 (Easy)
+## [504. Base 7 (Easy)](https://leetcode.com/problems/base-7 "七进制数")
 
 <p>Given an integer, return its base 7 string representation.</p>
 

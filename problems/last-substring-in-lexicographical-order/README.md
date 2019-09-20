@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/product-price-at-a-given-date "Product Price at a Given Date")
 
-## 1163. Last Substring in Lexicographical Order (Hard)
+## [1163. Last Substring in Lexicographical Order (Hard)](https://leetcode.com/problems/last-substring-in-lexicographical-order "按字典序排在最后的子串")
 
 <p>Given a string <code>s</code>, return the last substring of <code>s</code> in lexicographical order.</p>
 

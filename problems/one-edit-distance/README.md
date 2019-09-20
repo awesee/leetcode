@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-peak-element "Find Peak Element")
 
-## 161. One Edit Distance (Medium)
+## [161. One Edit Distance (Medium)](https://leetcode.com/problems/one-edit-distance "相隔为 1 的编辑距离")
 
 <p>Given two strings <b><i>s</i></b>&nbsp;and <b><i>t</i></b>, determine if they are both one edit distance apart.</p>
 

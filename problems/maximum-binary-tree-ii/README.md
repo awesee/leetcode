@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/available-captures-for-rook "Available Captures for Rook")
 
-## 998. Maximum Binary Tree II (Medium)
+## [998. Maximum Binary Tree II (Medium)](https://leetcode.com/problems/maximum-binary-tree-ii "最大二叉树 II")
 
 <p>We are given the <code>root</code>&nbsp;node of a <em>maximum tree:</em> a tree where every node has a value greater than any other value in its subtree.</p>
 

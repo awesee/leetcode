@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/lexicographical-numbers "Lexicographical Numbers")
 
-## 385. Mini Parser (Medium)
+## [385. Mini Parser (Medium)](https://leetcode.com/problems/mini-parser "迷你语法分析器")
 
 <p>Given a nested list of integers represented as a string, implement a parser to deserialize it.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence "Shortest Common Supersequence ")
 
-## 1091. Shortest Path in Binary Matrix (Medium)
+## [1091. Shortest Path in Binary Matrix (Medium)](https://leetcode.com/problems/shortest-path-in-binary-matrix "二进制矩阵中的最短路径")
 
 <p>In an N by N square grid, each cell is either empty (0) or blocked (1).</p>
 

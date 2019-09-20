@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/all-paths-from-source-lead-to-destination "All Paths from Source Lead to Destination")
 
-## 1058. Minimize Rounding Error to Meet Target (Medium)
+## [1058. Minimize Rounding Error to Meet Target (Medium)](https://leetcode.com/problems/minimize-rounding-error-to-meet-target "最小化舍入误差以满足目标")
 
 <p>Given an array of prices <code>[p<sub>1</sub>,p<sub>2</sub>...,p<sub>n</sub>]</code> and a <code>target</code>, round each price <code>p<sub>i</sub></code> to <code>Round<sub>i</sub>(p<sub>i</sub>)</code> so that the rounded array <code>[Round<sub>1</sub>(p<sub>1</sub>),Round<sub>2</sub>(p<sub>2</sub>)...,Round<sub>n</sub>(p<sub>n</sub>)]</code> sums to the given <code>target</code>. Each operation <code>Round<sub>i</sub>(p<sub>i</sub>)</code> could be either <code>Floor(p<sub>i</sub>)</code> or <code>Ceil(p<sub>i</sub>)</code>.</p>
 

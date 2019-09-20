@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimize-max-distance-to-gas-station "Minimize Max Distance to Gas Station")
 
-## 773. Sliding Puzzle (Hard)
+## [773. Sliding Puzzle (Hard)](https://leetcode.com/problems/sliding-puzzle "滑动谜题")
 
 <p>On a 2x3 <code>board</code>, there are 5 tiles represented by the integers 1 through 5, and an empty square represented by 0.</p>
 

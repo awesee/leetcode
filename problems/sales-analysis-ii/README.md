@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-iii "Sales Analysis III")
 
-## 1083. Sales Analysis II (Easy)
+## [1083. Sales Analysis II (Easy)](https://leetcode.com/problems/sales-analysis-ii "1083. 销售分析II")
 
 

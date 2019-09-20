@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii "Paint House II")
 
-## 264. Ugly Number II (Medium)
+## [264. Ugly Number II (Medium)](https://leetcode.com/problems/ugly-number-ii "丑数 II")
 
 <p>Write a program to find the <code>n</code>-th ugly number.</p>
 

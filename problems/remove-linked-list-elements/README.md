@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/count-primes "Count Primes")
 
-## 203. Remove Linked List Elements (Easy)
+## [203. Remove Linked List Elements (Easy)](https://leetcode.com/problems/remove-linked-list-elements "移除链表元素")
 
 <p>Remove all elements from a linked list of integers that have value <b><i>val</i></b>.</p>
 

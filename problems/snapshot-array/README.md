@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-chunked-palindrome-decomposition "Longest Chunked Palindrome Decomposition")
 
-## 1146. Snapshot Array (Medium)
+## [1146. Snapshot Array (Medium)](https://leetcode.com/problems/snapshot-array "快照数组")
 
 <p>Implement a SnapshotArray that supports the following interface:</p>
 
@@ -47,3 +47,9 @@ snapshotArr.get(0,0);  // Get the value of array[0] with snap_id = 0, return 5</
 
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Use a list of lists, adding both the element and the snap_id to each index.
+</details>

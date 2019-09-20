@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sales-person "Sales Person")
 
-## 606. Construct String from Binary Tree (Easy)
+## [606. Construct String from Binary Tree (Easy)](https://leetcode.com/problems/construct-string-from-binary-tree "根据二叉树创建字符串")
 
 <p>You need to construct a string consists of parenthesis and integers from a binary tree with the preorder traversing way.</p>
 

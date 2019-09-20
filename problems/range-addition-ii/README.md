@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-index-sum-of-two-lists "Minimum Index Sum of Two Lists")
 
-## 598. Range Addition II (Easy)
+## [598. Range Addition II (Easy)](https://leetcode.com/problems/range-addition-ii "范围求和 II")
 
 <p>Given an m * n matrix <b>M</b> initialized with all <b>0</b>'s and several update operations.</p>
 <p>Operations are represented by a 2D array, and each operation is represented by an array with two <b>positive</b> integers <b>a</b> and <b>b</b>, which means <b>M[i][j]</b> should be <b>added by one</b> for all <b>0 <= i < a</b> and <b>0 <= j < b</b>. </p>

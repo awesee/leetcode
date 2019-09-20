@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference-in-bst "Minimum Absolute Difference in BST")
 
-## 529. Minesweeper (Medium)
+## [529. Minesweeper (Medium)](https://leetcode.com/problems/minesweeper "扫雷游戏")
 
 <p>Let&#39;s play the minesweeper game (<a href="https://en.wikipedia.org/wiki/Minesweeper_(video_game)">Wikipedia</a>, <a href="http://minesweeperonline.com">online game</a>)!</p>
 

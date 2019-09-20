@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/remove-vowels-from-a-string "Remove Vowels from a String")
 
-## 1118. Number of Days in a Month (Easy)
+## [1118. Number of Days in a Month (Easy)](https://leetcode.com/problems/number-of-days-in-a-month "一月有多少天")
 
 
 

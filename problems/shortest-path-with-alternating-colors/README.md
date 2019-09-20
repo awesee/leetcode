@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-tree-from-leaf-values "Minimum Cost Tree From Leaf Values")
 
-## 1129. Shortest Path with Alternating Colors (Medium)
+## [1129. Shortest Path with Alternating Colors (Medium)](https://leetcode.com/problems/shortest-path-with-alternating-colors "颜色交替的最短路径")
 
 <p>Consider a directed graph, with nodes labelled <code>0, 1, ..., n-1</code>.&nbsp; In this graph, each edge is either red or blue, and there could&nbsp;be self-edges or parallel edges.</p>
 

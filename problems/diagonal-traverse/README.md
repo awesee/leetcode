@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/the-maze-iii "The Maze III")
 
-## 498. Diagonal Traverse (Medium)
+## [498. Diagonal Traverse (Medium)](https://leetcode.com/problems/diagonal-traverse "对角线遍历")
 
 <p>Given a matrix of M x N elements (M rows, N columns), return all elements of the matrix in diagonal order as shown in the below image.</p>
 

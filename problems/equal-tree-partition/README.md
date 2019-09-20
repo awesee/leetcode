@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/strange-printer "Strange Printer")
 
-## 663. Equal Tree Partition (Medium)
+## [663. Equal Tree Partition (Medium)](https://leetcode.com/problems/equal-tree-partition "均匀树划分")
 
 <p>
 Given a binary tree with <code>n</code> nodes, your task is to check if it's possible to partition the tree to two trees which have the equal sum of values after removing <b>exactly</b> one edge on the original tree.

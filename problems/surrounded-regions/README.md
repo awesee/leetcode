@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning "Palindrome Partitioning")
 
-## 130. Surrounded Regions (Medium)
+## [130. Surrounded Regions (Medium)](https://leetcode.com/problems/surrounded-regions "被围绕的区域")
 
 <p>Given a 2D board containing <code>&#39;X&#39;</code> and <code>&#39;O&#39;</code> (<strong>the letter O</strong>), capture all regions surrounded by <code>&#39;X&#39;</code>.</p>
 

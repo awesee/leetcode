@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/odd-even-linked-list "Odd Even Linked List")
 
-## 327. Count of Range Sum (Hard)
+## [327. Count of Range Sum (Hard)](https://leetcode.com/problems/count-of-range-sum "区间和的个数")
 
 <p>Given an integer array <code>nums</code>, return the number of range sums that lie in <code>[lower, upper]</code> inclusive.<br />
 Range sum <code>S(i, j)</code> is defined as the sum of the elements in <code>nums</code> between indices <code>i</code> and <code>j</code> (<code>i</code> &le; <code>j</code>), inclusive.</p>

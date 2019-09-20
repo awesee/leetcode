@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/largest-1-bordered-square "Largest 1-Bordered Square")
 
-## 1138. Alphabet Board Path (Medium)
+## [1138. Alphabet Board Path (Medium)](https://leetcode.com/problems/alphabet-board-path "字母板上的路径")
 
 <p>On an alphabet board, we start at position <code>(0, 0)</code>, corresponding to character&nbsp;<code>board[0][0]</code>.</p>
 

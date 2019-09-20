@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/majority-element "Majority Element")
 
-## 168. Excel Sheet Column Title (Easy)
+## [168. Excel Sheet Column Title (Easy)](https://leetcode.com/problems/excel-sheet-column-title "Excel表列名称")
 
 <p>Given a positive integer, return its corresponding column title as appear in an Excel sheet.</p>
 

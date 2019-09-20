@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array "Find Minimum in Rotated Sorted Array")
 
-## 152. Maximum Product Subarray (Medium)
+## [152. Maximum Product Subarray (Medium)](https://leetcode.com/problems/maximum-product-subarray "乘积最大子序列")
 
 <p>Given an integer array&nbsp;<code>nums</code>, find the contiguous subarray within an array (containing at least one number) which has the largest product.</p>
 

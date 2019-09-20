@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/couples-holding-hands "Couples Holding Hands")
 
-## 764. Largest Plus Sign (Medium)
+## [764. Largest Plus Sign (Medium)](https://leetcode.com/problems/largest-plus-sign "最大加号标志")
 
 <p>
 In a 2D <code>grid</code> from (0, 0) to (N-1, N-1), every cell contains a <code>1</code>, except those cells in the given list <code>mines</code> which are <code>0</code>.  What is the largest axis-aligned plus sign of <code>1</code>s contained in the grid?  Return the order of the plus sign.  If there is none, return 0.

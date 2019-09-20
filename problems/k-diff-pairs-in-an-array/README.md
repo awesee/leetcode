@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-ii "Lonely Pixel II")
 
-## 532. K-diff Pairs in an Array (Easy)
+## [532. K-diff Pairs in an Array (Easy)](https://leetcode.com/problems/k-diff-pairs-in-an-array "数组中的K-diff数对")
 
 <p>
 Given an array of integers and an integer <b>k</b>, you need to find the number of <b>unique</b> k-diff pairs in the array. Here a <b>k-diff</b> pair is defined as an integer pair (i, j), where <b>i</b> and <b>j</b> are both numbers in the array and their <a href = "https://en.wikipedia.org/wiki/Absolute_difference">absolute difference</a> is <b>k</b>.

@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/project-employees-ii "Project Employees II")
 
-## 1075. Project Employees I (Easy)
+## [1075. Project Employees I (Easy)](https://leetcode.com/problems/project-employees-i "项目员工 I")
 
 

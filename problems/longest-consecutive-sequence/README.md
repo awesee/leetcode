@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sum-root-to-leaf-numbers "Sum Root to Leaf Numbers")
 
-## 128. Longest Consecutive Sequence (Hard)
+## [128. Longest Consecutive Sequence (Hard)](https://leetcode.com/problems/longest-consecutive-sequence "最长连续序列")
 
 <p>Given an unsorted array of integers, find the length of the longest consecutive elements sequence.</p>
 

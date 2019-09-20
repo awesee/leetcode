@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/average-of-levels-in-binary-tree "Average of Levels in Binary Tree")
 
-## 636. Exclusive Time of Functions (Medium)
+## [636. Exclusive Time of Functions (Medium)](https://leetcode.com/problems/exclusive-time-of-functions "函数的独占时间")
 
 <p>On a <strong>single threaded</strong> CPU, we execute some functions.&nbsp; Each function has a unique id between <code>0</code> and <code>N-1</code>.</p>
 

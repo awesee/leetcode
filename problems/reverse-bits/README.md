@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits "Number of 1 Bits")
 
-## 190. Reverse Bits (Easy)
+## [190. Reverse Bits (Easy)](https://leetcode.com/problems/reverse-bits "颠倒二进制位")
 
 <p>Reverse bits of a given 32 bits unsigned integer.</p>
 

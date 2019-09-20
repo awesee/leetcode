@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/search-insert-position "Search Insert Position")
 
-## 34. Find First and Last Position of Element in Sorted Array (Medium)
+## [34. Find First and Last Position of Element in Sorted Array (Medium)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array "在排序数组中查找元素的第一个和最后一个位置")
 
 <p>Given an array of integers <code>nums</code> sorted in ascending order, find the starting and ending position of a given <code>target</code> value.</p>
 

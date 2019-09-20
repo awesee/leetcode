@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-rotation-with-highest-score "Smallest Rotation with Highest Score")
 
-## 797. All Paths From Source to Target (Medium)
+## [797. All Paths From Source to Target (Medium)](https://leetcode.com/problems/all-paths-from-source-to-target "所有可能的路径")
 
 <p>Given a directed, acyclic graph of <code>N</code> nodes.&nbsp; Find all possible paths from node <code>0</code> to node <code>N-1</code>, and return them in any order.</p>
 

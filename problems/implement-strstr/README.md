@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/divide-two-integers "Divide Two Integers")
 
-## 28. Implement strStr() (Easy)
+## [28. Implement strStr() (Easy)](https://leetcode.com/problems/implement-strstr "实现 strStr()")
 
 <p>Implement <a href="http://www.cplusplus.com/reference/cstring/strstr/" target="_blank">strStr()</a>.</p>
 

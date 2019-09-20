@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/missing-number "Missing Number")
 
-## 267. Palindrome Permutation II (Medium)
+## [267. Palindrome Permutation II (Medium)](https://leetcode.com/problems/palindrome-permutation-ii "回文排列 II")
 
 <p>Given a string <code>s</code>, return all the palindromic permutations (without duplicates) of it. Return an empty list if no palindromic permutation could be form.</p>
 

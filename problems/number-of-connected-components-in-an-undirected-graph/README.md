@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort-ii "Wiggle Sort II")
 
-## 323. Number of Connected Components in an Undirected Graph (Medium)
+## [323. Number of Connected Components in an Undirected Graph (Medium)](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph "无向图中连通分量的数目")
 
 
 

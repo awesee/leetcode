@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/department-top-three-salaries "Department Top Three Salaries")
 
-## 184. Department Highest Salary (Medium)
+## [184. Department Highest Salary (Medium)](https://leetcode.com/problems/department-highest-salary "部门工资最高的员工")
 
 <p>The <code>Employee</code> table holds all employees. Every employee has an Id, a salary, and there is also a column for the department Id.</p>
 

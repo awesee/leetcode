@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-coloring-game "Binary Tree Coloring Game")
 
-## 1144. Decrease Elements To Make Array Zigzag (Medium)
+## [1144. Decrease Elements To Make Array Zigzag (Medium)](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag "递减元素使数组呈锯齿状")
 
 <p>Given an array <code>nums</code> of integers, a <em>move</em>&nbsp;consists of choosing any element and <strong>decreasing it by 1</strong>.</p>
 

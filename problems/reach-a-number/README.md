@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/pour-water "Pour Water")
 
-## 754. Reach a Number (Easy)
+## [754. Reach a Number (Easy)](https://leetcode.com/problems/reach-a-number "到达终点数字")
 
 <p>
 You are standing at position <code>0</code> on an infinite number line.  There is a goal at position <code>target</code>.

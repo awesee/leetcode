@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/keyboard-row "Keyboard Row")
 
-## 499. The Maze III (Hard)
+## [499. The Maze III (Hard)](https://leetcode.com/problems/the-maze-iii "迷宫 III")
 
 
 

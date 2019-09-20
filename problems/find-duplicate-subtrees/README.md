@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst "Two Sum IV - Input is a BST")
 
-## 652. Find Duplicate Subtrees (Medium)
+## [652. Find Duplicate Subtrees (Medium)](https://leetcode.com/problems/find-duplicate-subtrees "寻找重复的子树")
 
 <p>Given a binary tree, return all duplicate subtrees. For each kind of duplicate subtrees, you only need to return the root node of any <b>one</b> of them.</p>
 

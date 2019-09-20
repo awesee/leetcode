@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-path-in-a-matrix "Longest Increasing Path in a Matrix")
 
-## 328. Odd Even Linked List (Medium)
+## [328. Odd Even Linked List (Medium)](https://leetcode.com/problems/odd-even-linked-list "奇偶链表")
 
 <p>Given a singly linked list, group all odd nodes together followed by the even nodes. Please note here we are talking about the node number and not the value in the nodes.</p>
 

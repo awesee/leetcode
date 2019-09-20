@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/cut-off-trees-for-golf-event "Cut Off Trees for Golf Event")
 
-## 674. Longest Continuous Increasing Subsequence (Easy)
+## [674. Longest Continuous Increasing Subsequence (Easy)](https://leetcode.com/problems/longest-continuous-increasing-subsequence "最长连续递增序列")
 
 <p>
 Given an unsorted array of integers, find the length of longest <code>continuous</code> increasing subsequence (subarray).

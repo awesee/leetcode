@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-iii "Next Greater Element III")
 
-## 555. Split Concatenated Strings (Medium)
+## [555. Split Concatenated Strings (Medium)](https://leetcode.com/problems/split-concatenated-strings "分割连接字符串")
 
 
 

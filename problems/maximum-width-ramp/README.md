@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle-ii "Minimum Area Rectangle II")
 
-## 962. Maximum Width Ramp (Medium)
+## [962. Maximum Width Ramp (Medium)](https://leetcode.com/problems/maximum-width-ramp "最大宽度坡")
 
 <p>Given an array <code>A</code> of integers, a <em>ramp</em>&nbsp;is a tuple <code>(i, j)</code> for which <code>i &lt; j</code>&nbsp;and&nbsp;<code>A[i] &lt;= A[j]</code>.&nbsp; The width of such a&nbsp;ramp is <code>j - i</code>.</p>
 

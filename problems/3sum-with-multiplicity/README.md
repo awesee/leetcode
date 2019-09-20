@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimize-malware-spread "Minimize Malware Spread")
 
-## 923. 3Sum With Multiplicity (Medium)
+## [923. 3Sum With Multiplicity (Medium)](https://leetcode.com/problems/3sum-with-multiplicity "三数之和的多种可能")
 
 <p>Given an integer array <code>A</code>, and an integer <code>target</code>, return the number of&nbsp;tuples&nbsp;<code>i, j, k</code>&nbsp; such that <code>i &lt; j &lt; k</code> and&nbsp;<code>A[i] + A[j] + A[k] == target</code>.</p>
 

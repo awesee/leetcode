@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-i "Next Greater Element I")
 
-## 495. Teemo Attacking (Medium)
+## [495. Teemo Attacking (Medium)](https://leetcode.com/problems/teemo-attacking "提莫攻击")
 
 <p>In LOL world, there is a hero called Teemo and his attacking can make his enemy Ashe be in poisoned condition. Now, given the Teemo&#39;s attacking <b>ascending</b> time series towards Ashe and the poisoning time duration per Teemo&#39;s attacking, you need to output the total time that Ashe is in poisoned condition.</p>
 

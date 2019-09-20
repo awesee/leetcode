@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii "Max Consecutive Ones III")
 
-## 1003. Check If Word Is Valid After Substitutions (Medium)
+## [1003. Check If Word Is Valid After Substitutions (Medium)](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions "检查替换后的词是否有效")
 
 <p>We are given that the string <code>&quot;abc&quot;</code> is valid.</p>
 

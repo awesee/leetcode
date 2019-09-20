@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iii "Game Play Analysis III")
 
-## 533. Lonely Pixel II (Medium)
+## [533. Lonely Pixel II (Medium)](https://leetcode.com/problems/lonely-pixel-ii "孤独像素 II")
 
 
 

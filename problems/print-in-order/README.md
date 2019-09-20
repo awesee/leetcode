@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/print-foobar-alternately "Print FooBar Alternately")
 
-## 1114. Print in Order (Easy)
+## [1114. Print in Order (Easy)](https://leetcode.com/problems/print-in-order "按序打印")
 
 <p>Suppose we have a class:</p>
 

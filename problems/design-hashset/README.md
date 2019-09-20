@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/design-hashmap "Design HashMap")
 
-## 705. Design HashSet (Easy)
+## [705. Design HashSet (Easy)](https://leetcode.com/problems/design-hashset "设计哈希集合")
 
 <p>Design a HashSet&nbsp;without using any built-in hash table libraries.</p>
 

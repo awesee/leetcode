@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/flatten-2d-vector "Flatten 2D Vector")
 
-## 250. Count Univalue Subtrees (Medium)
+## [250. Count Univalue Subtrees (Medium)](https://leetcode.com/problems/count-univalue-subtrees "统计同值子树")
 
 <p>Given a binary tree, count the number of uni-value subtrees.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/walking-robot-simulation "Walking Robot Simulation")
 
-## 873. Length of Longest Fibonacci Subsequence (Medium)
+## [873. Length of Longest Fibonacci Subsequence (Medium)](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence "最长的斐波那契子序列的长度")
 
 <p>A sequence <code>X_1, X_2, ..., X_n</code>&nbsp;is <em>fibonacci-like</em> if:</p>
 

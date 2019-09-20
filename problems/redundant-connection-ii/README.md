@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/repeated-string-match "Repeated String Match")
 
-## 685. Redundant Connection II (Hard)
+## [685. Redundant Connection II (Hard)](https://leetcode.com/problems/redundant-connection-ii "冗余连接 II")
 
 <p>
 In this problem, a rooted tree is a <b>directed</b> graph such that, there is exactly one node (the root) for which all other nodes are descendants of this node, plus every node has exactly one parent, except for the root node which has no parents.

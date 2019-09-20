@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones "Non-negative Integers without Consecutive Ones")
 
-## 599. Minimum Index Sum of Two Lists (Easy)
+## [599. Minimum Index Sum of Two Lists (Easy)](https://leetcode.com/problems/minimum-index-sum-of-two-lists "两个列表的最小索引总和")
 
 <p>
 Suppose Andy and Doris want to choose a restaurant for dinner, and they both have a list of favorite restaurants represented by strings. 

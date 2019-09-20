@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-mutable "Range Sum Query - Mutable")
 
-## 306. Additive Number (Medium)
+## [306. Additive Number (Medium)](https://leetcode.com/problems/additive-number "累加数")
 
 <p>Additive number is a string whose digits can form additive sequence.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/majority-element-ii "Majority Element II")
 
-## 228. Summary Ranges (Medium)
+## [228. Summary Ranges (Medium)](https://leetcode.com/problems/summary-ranges "汇总区间")
 
 <p>Given a sorted integer array without duplicates, return the summary of its ranges.</p>
 

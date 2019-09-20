@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/arranging-coins "Arranging Coins")
 
-## 440. K-th Smallest in Lexicographical Order (Hard)
+## [440. K-th Smallest in Lexicographical Order (Hard)](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order "字典序的第K小数字")
 
 <p>Given integers <code>n</code> and <code>k</code>, find the lexicographically k-th smallest integer in the range from <code>1</code> to <code>n</code>.</p>
 

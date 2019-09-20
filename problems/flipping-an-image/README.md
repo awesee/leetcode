@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-and-replace-in-string "Find And Replace in String")
 
-## 832. Flipping an Image (Easy)
+## [832. Flipping an Image (Easy)](https://leetcode.com/problems/flipping-an-image "翻转图像")
 
 <p>Given a binary matrix <code>A</code>, we want to flip the image horizontally, then invert it, and return the resulting image.</p>
 

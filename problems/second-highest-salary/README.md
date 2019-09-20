@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/nth-highest-salary "Nth Highest Salary")
 
-## 176. Second Highest Salary (Easy)
+## [176. Second Highest Salary (Easy)](https://leetcode.com/problems/second-highest-salary "第二高的薪水")
 
 <p>Write a SQL query to get the second highest salary from the <code>Employee</code> table.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/escape-a-large-maze "Escape a Large Maze")
 
-## 1035. Uncrossed Lines (Medium)
+## [1035. Uncrossed Lines (Medium)](https://leetcode.com/problems/uncrossed-lines "不相交的线")
 
 <p>We write the integers of <code>A</code> and <code>B</code>&nbsp;(in the order they are given) on two separate horizontal lines.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/profitable-schemes "Profitable Schemes")
 
-## 878. Nth Magical Number (Hard)
+## [878. Nth Magical Number (Hard)](https://leetcode.com/problems/nth-magical-number "第 N 个神奇数字")
 
 <p>A positive integer&nbsp;is <em>magical</em>&nbsp;if it is divisible by either <font face="monospace">A</font>&nbsp;or <font face="monospace">B</font>.</p>
 

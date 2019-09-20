@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node "Populating Next Right Pointers in Each Node")
 
-## 115. Distinct Subsequences (Hard)
+## [115. Distinct Subsequences (Hard)](https://leetcode.com/problems/distinct-subsequences "不同的子序列")
 
 <p>Given a string <strong>S</strong> and a string <strong>T</strong>, count the number of distinct subsequences of <strong>S</strong> which equals <strong>T</strong>.</p>
 

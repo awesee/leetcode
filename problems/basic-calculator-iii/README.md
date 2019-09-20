@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sliding-puzzle "Sliding Puzzle")
 
-## 772. Basic Calculator III (Hard)
+## [772. Basic Calculator III (Hard)](https://leetcode.com/problems/basic-calculator-iii "基本计算器 III")
 
 
 

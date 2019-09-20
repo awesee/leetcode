@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/permutations-ii "Permutations II")
 
-## 46. Permutations (Medium)
+## [46. Permutations (Medium)](https://leetcode.com/problems/permutations "全排列")
 
 <p>Given a collection of <strong>distinct</strong> integers, return all possible permutations.</p>
 

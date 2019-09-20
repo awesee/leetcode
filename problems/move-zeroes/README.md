@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/peeking-iterator "Peeking Iterator")
 
-## 283. Move Zeroes (Easy)
+## [283. Move Zeroes (Easy)](https://leetcode.com/problems/move-zeroes "移动零")
 
 <p>Given an array <code>nums</code>, write a function to move all <code>0</code>&#39;s to the end of it while maintaining the relative order of the non-zero elements.</p>
 

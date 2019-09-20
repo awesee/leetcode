@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-celebrity "Find the Celebrity")
 
-## 276. Paint Fence (Easy)
+## [276. Paint Fence (Easy)](https://leetcode.com/problems/paint-fence "栅栏涂色")
 
 
 

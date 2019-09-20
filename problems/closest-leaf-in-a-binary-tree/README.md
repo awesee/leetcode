@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/network-delay-time "Network Delay Time")
 
-## 742. Closest Leaf in a Binary Tree (Medium)
+## [742. Closest Leaf in a Binary Tree (Medium)](https://leetcode.com/problems/closest-leaf-in-a-binary-tree "二叉树最近的叶节点")
 
 
 

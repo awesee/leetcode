@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate "Contains Duplicate")
 
-## 216. Combination Sum III (Medium)
+## [216. Combination Sum III (Medium)](https://leetcode.com/problems/combination-sum-iii "组合总和 III")
 
 <div>
 <p>Find all possible combinations of <i><b>k</b></i> numbers that add up to a number <i><b>n</b></i>, given that only numbers from 1 to 9 can be used and each combination should be a unique set of numbers.</p>

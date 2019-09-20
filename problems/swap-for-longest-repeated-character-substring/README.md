@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/online-majority-element-in-subarray "Online Majority Element In Subarray")
 
-## 1156. Swap For Longest Repeated Character Substring (Medium)
+## [1156. Swap For Longest Repeated Character Substring (Medium)](https://leetcode.com/problems/swap-for-longest-repeated-character-substring "")
 
 <p>Given a string <code>text</code>, we are allowed to swap two of the characters in the string. Find the length of the longest substring with repeated characters.</p>
 

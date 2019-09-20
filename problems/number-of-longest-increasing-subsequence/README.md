@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-continuous-increasing-subsequence "Longest Continuous Increasing Subsequence")
 
-## 673. Number of Longest Increasing Subsequence (Medium)
+## [673. Number of Longest Increasing Subsequence (Medium)](https://leetcode.com/problems/number-of-longest-increasing-subsequence "最长递增子序列的个数")
 
 <p>
 Given an unsorted array of integers, find the number of longest increasing subsequence.

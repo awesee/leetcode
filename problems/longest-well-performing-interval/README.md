@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-sufficient-team "Smallest Sufficient Team")
 
-## 1124. Longest Well-Performing Interval (Medium)
+## [1124. Longest Well-Performing Interval (Medium)](https://leetcode.com/problems/longest-well-performing-interval "表现良好的最长时间段")
 
 <p>We are given <code>hours</code>, a list of the number of hours&nbsp;worked per day for a given employee.</p>
 

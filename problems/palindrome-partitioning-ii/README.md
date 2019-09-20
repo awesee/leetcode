@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/clone-graph "Clone Graph")
 
-## 132. Palindrome Partitioning II (Hard)
+## [132. Palindrome Partitioning II (Hard)](https://leetcode.com/problems/palindrome-partitioning-ii "分割回文串 II")
 
 <p>Given a string <em>s</em>, partition <em>s</em> such that every substring of the partition is a palindrome.</p>
 

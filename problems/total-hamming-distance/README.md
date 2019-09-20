@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/generate-random-point-in-a-circle "Generate Random Point in a Circle")
 
-## 477. Total Hamming Distance (Medium)
+## [477. Total Hamming Distance (Medium)](https://leetcode.com/problems/total-hamming-distance "汉明距离总和")
 
 <p>The <a href="https://en.wikipedia.org/wiki/Hamming_distance" target="_blank">Hamming distance</a> between two integers is the number of positions at which the corresponding bits are different.</p>
 

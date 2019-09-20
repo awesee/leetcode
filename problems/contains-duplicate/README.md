@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/the-skyline-problem "The Skyline Problem")
 
-## 217. Contains Duplicate (Easy)
+## [217. Contains Duplicate (Easy)](https://leetcode.com/problems/contains-duplicate "存在重复元素")
 
 <p>Given an array of integers, find if the array contains any duplicates.</p>
 

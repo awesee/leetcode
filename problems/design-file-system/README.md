@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-connect-sticks "Minimum Cost to Connect Sticks")
 
-## 1166. Design File System (Medium)
+## [1166. Design File System (Medium)](https://leetcode.com/problems/design-file-system "设计文件系统")
 
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-cumulative-salary-of-an-employee "Find Cumulative Salary of an Employee")
 
-## 578. Get Highest Answer Rate Question (Medium)
+## [578. Get Highest Answer Rate Question (Medium)](https://leetcode.com/problems/get-highest-answer-rate-question "查询回答率最高的问题")
 
 <p>Get the highest answer rate question from a table <code>survey_log</code> with these columns: <b>uid</b>, <b>action</b>, <b>question_id</b>, <b>answer_id</b>, <b>q_num</b>, <b>timestamp</b>.</p>
 

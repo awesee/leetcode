@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/coin-path "Coin Path")
 
-## 655. Print Binary Tree (Medium)
+## [655. Print Binary Tree (Medium)](https://leetcode.com/problems/print-binary-tree "输出二叉树")
 
 <p>Print a binary tree in an m*n 2D string array following these rules: </p>
 

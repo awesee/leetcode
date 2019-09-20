@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-iii "Reverse Words in a String III")
 
-## 556. Next Greater Element III (Medium)
+## [556. Next Greater Element III (Medium)](https://leetcode.com/problems/next-greater-element-iii "下一个更大元素 III")
 
 <p>Given a positive <strong>32-bit</strong> integer <strong>n</strong>, you need to find the smallest <strong>32-bit</strong> integer which has exactly the same digits existing in the integer <strong>n</strong> and is greater in value than n. If no such positive <strong>32-bit</strong> integer exists, you need to return -1.</p>
 

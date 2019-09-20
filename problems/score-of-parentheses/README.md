@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-hire-k-workers "Minimum Cost to Hire K Workers")
 
-## 856. Score of Parentheses (Medium)
+## [856. Score of Parentheses (Medium)](https://leetcode.com/problems/score-of-parentheses "括号的分数")
 
 <p>Given a balanced parentheses string <code>S</code>, compute the score of the string based on the following rule:</p>
 

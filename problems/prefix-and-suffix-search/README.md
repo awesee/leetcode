@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/min-cost-climbing-stairs "Min Cost Climbing Stairs")
 
-## 745. Prefix and Suffix Search (Hard)
+## [745. Prefix and Suffix Search (Hard)](https://leetcode.com/problems/prefix-and-suffix-search "前缀和后缀搜索")
 
 <p>Given many <code>words</code>, <code>words[i]</code> has weight <code>i</code>.</p>
 

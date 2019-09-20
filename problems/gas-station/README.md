@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/candy "Candy")
 
-## 134. Gas Station (Medium)
+## [134. Gas Station (Medium)](https://leetcode.com/problems/gas-station "加油站")
 
 <p>There are <em>N</em> gas stations along a circular route, where the amount of gas at station <em>i</em> is <code>gas[i]</code>.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-inorder-traversal "Construct Binary Tree from Preorder and Inorder Traversal")
 
-## 104. Maximum Depth of Binary Tree (Easy)
+## [104. Maximum Depth of Binary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree "二叉树的最大深度")
 
 <p>Given a binary tree, find its maximum depth.</p>
 

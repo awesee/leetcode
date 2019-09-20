@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-difference "Find the Difference")
 
-## 388. Longest Absolute File Path (Medium)
+## [388. Longest Absolute File Path (Medium)](https://leetcode.com/problems/longest-absolute-file-path "文件的最长绝对路径")
 
 <p>Suppose we abstract our file system by a string in the following manner:</p>
 

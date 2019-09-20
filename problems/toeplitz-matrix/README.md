@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reorganize-string "Reorganize String")
 
-## 766. Toeplitz Matrix (Easy)
+## [766. Toeplitz Matrix (Easy)](https://leetcode.com/problems/toeplitz-matrix "托普利茨矩阵")
 
 <p>A matrix is <em>Toeplitz</em> if every diagonal from top-left to bottom-right has the same element.</p>
 

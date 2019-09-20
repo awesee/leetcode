@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/task-scheduler "Task Scheduler")
 
-## 620. Not Boring Movies (Easy)
+## [620. Not Boring Movies (Easy)](https://leetcode.com/problems/not-boring-movies "有趣的电影")
 
 X city opened a new cinema, many people would like to go to this cinema. The cinema also gives out a poster indicating the movies&rsquo; ratings and descriptions.
 <p>Please write a SQL query to output movies with an odd numbered ID and a description that is not &#39;boring&#39;. Order the result by rating.</p>

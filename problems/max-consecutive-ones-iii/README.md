@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximize-sum-of-array-after-k-negations "Maximize Sum Of Array After K Negations")
 
-## 1004. Max Consecutive Ones III (Medium)
+## [1004. Max Consecutive Ones III (Medium)](https://leetcode.com/problems/max-consecutive-ones-iii "最大连续1的个数 III")
 
 <p>Given an array <code>A</code>&nbsp;of 0s and 1s, we may change up to <code>K</code>&nbsp;values from 0 to 1.</p>
 

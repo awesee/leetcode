@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/distinct-subsequences-ii "Distinct Subsequences II")
 
-## 939. Minimum Area Rectangle (Medium)
+## [939. Minimum Area Rectangle (Medium)](https://leetcode.com/problems/minimum-area-rectangle "最小面积矩形")
 
 <p>Given a set of points in the xy-plane, determine the minimum area of a rectangle formed from these points, with sides parallel to the x and y axes.</p>
 

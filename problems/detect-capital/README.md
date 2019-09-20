@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-uncommon-subsequence-i "Longest Uncommon Subsequence I ")
 
-## 520. Detect Capital (Easy)
+## [520. Detect Capital (Easy)](https://leetcode.com/problems/detect-capital "检测大写字母")
 
 <p>Given a word, you need to judge whether the usage of capitals in it is right or not.</p>
 

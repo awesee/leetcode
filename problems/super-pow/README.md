@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-k-pairs-with-smallest-sums "Find K Pairs with Smallest Sums")
 
-## 372. Super Pow (Medium)
+## [372. Super Pow (Medium)](https://leetcode.com/problems/super-pow "超级次方")
 
 <p>Your task is to calculate <i>a</i><sup><i>b</i></sup> mod 1337 where <i>a</i> is a positive integer and <i>b</i> is an extremely large positive integer given in the form of an array.</p>
 

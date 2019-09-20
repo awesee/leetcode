@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/path-sum-ii "Path Sum II")
 
-## 112. Path Sum (Easy)
+## [112. Path Sum (Easy)](https://leetcode.com/problems/path-sum "路径总和")
 
 <p>Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.</p>
 

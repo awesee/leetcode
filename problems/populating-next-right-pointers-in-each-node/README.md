@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node-ii "Populating Next Right Pointers in Each Node II")
 
-## 116. Populating Next Right Pointers in Each Node (Medium)
+## [116. Populating Next Right Pointers in Each Node (Medium)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node "填充每个节点的下一个右侧节点指针")
 
 <p>You are given a <strong>perfect binary tree</strong>&nbsp;where&nbsp;all leaves are on the same level, and every parent has two children. The binary tree has the following definition:</p>
 

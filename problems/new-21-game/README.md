@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/push-dominoes "Push Dominoes")
 
-## 837. New 21 Game (Medium)
+## [837. New 21 Game (Medium)](https://leetcode.com/problems/new-21-game "新21点")
 
 <p>Alice plays the following game, loosely based on the card game &quot;21&quot;.</p>
 

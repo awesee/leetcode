@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle-ii "Pascal's Triangle II")
 
-## 118. Pascal's Triangle (Easy)
+## [118. Pascal's Triangle (Easy)](https://leetcode.com/problems/pascals-triangle "杨辉三角")
 
 <p>Given a non-negative integer&nbsp;<em>numRows</em>, generate the first <em>numRows</em> of Pascal&#39;s triangle.</p>
 

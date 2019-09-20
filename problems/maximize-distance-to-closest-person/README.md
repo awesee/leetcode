@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/rectangle-area-ii "Rectangle Area II")
 
-## 849. Maximize Distance to Closest Person (Easy)
+## [849. Maximize Distance to Closest Person (Easy)](https://leetcode.com/problems/maximize-distance-to-closest-person "到最近的人的最大距离")
 
 <p>In a row of <code>seats</code>, <code>1</code> represents a person sitting in that seat, and <code>0</code> represents that the seat is empty.&nbsp;</p>
 

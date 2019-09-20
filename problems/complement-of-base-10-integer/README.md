@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/pairs-of-songs-with-total-durations-divisible-by-60 "Pairs of Songs With Total Durations Divisible by 60")
 
-## 1009. Complement of Base 10 Integer (Easy)
+## [1009. Complement of Base 10 Integer (Easy)](https://leetcode.com/problems/complement-of-base-10-integer "十进制整数的反码")
 
 <p>Every non-negative integer <code>N</code>&nbsp;has a binary representation.&nbsp; For example,&nbsp;<code>5</code> can be represented as <code>&quot;101&quot;</code>&nbsp;in binary, <code>11</code> as <code>&quot;1011&quot;</code>&nbsp;in binary, and so on.&nbsp; Note that except for <code>N = 0</code>, there are no leading zeroes in any&nbsp;binary representation.</p>
 

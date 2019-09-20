@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-univalue-path "Longest Univalue Path")
 
-## 686. Repeated String Match (Easy)
+## [686. Repeated String Match (Easy)](https://leetcode.com/problems/repeated-string-match "重复叠加字符串匹配")
 
 <p>Given two strings A and B, find the minimum number of times A has to be repeated such that B is a substring of it. If no such solution, return -1.</p>
 

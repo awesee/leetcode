@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists "Merge Two Sorted Lists")
 
-## 20. Valid Parentheses (Easy)
+## [20. Valid Parentheses (Easy)](https://leetcode.com/problems/valid-parentheses "有效的括号")
 
 <p>Given a string containing just the characters <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, <code>&#39;{&#39;</code>, <code>&#39;}&#39;</code>, <code>&#39;[&#39;</code> and <code>&#39;]&#39;</code>, determine if the input string is valid.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/orderly-queue "Orderly Queue")
 
-## 898. Bitwise ORs of Subarrays (Medium)
+## [898. Bitwise ORs of Subarrays (Medium)](https://leetcode.com/problems/bitwise-ors-of-subarrays "子数组按位或操作")
 
 <p>We have an array <code>A</code> of non-negative integers.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/length-of-longest-fibonacci-subsequence "Length of Longest Fibonacci Subsequence")
 
-## 872. Leaf-Similar Trees (Easy)
+## [872. Leaf-Similar Trees (Easy)](https://leetcode.com/problems/leaf-similar-trees "叶子相似的树")
 
 <p>Consider all the leaves of a binary tree.&nbsp; From&nbsp;left to right order, the values of those&nbsp;leaves form a <em>leaf value sequence.</em></p>
 

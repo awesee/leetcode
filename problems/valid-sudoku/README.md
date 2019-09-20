@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sudoku-solver "Sudoku Solver")
 
-## 36. Valid Sudoku (Medium)
+## [36. Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku "有效的数独")
 
 <p>Determine if a&nbsp;9x9 Sudoku board&nbsp;is valid.&nbsp;Only the filled cells need to be validated&nbsp;<strong>according to the following rules</strong>:</p>
 

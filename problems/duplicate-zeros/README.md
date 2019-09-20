@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/largest-values-from-labels "Largest Values From Labels")
 
-## 1089. Duplicate Zeros (Easy)
+## [1089. Duplicate Zeros (Easy)](https://leetcode.com/problems/duplicate-zeros "复写零")
 
 <p>Given a fixed length&nbsp;array <code>arr</code> of integers, duplicate each occurrence of zero, shifting the remaining elements to the right.</p>
 

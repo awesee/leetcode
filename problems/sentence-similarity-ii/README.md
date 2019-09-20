@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/monotone-increasing-digits "Monotone Increasing Digits")
 
-## 737. Sentence Similarity II (Medium)
+## [737. Sentence Similarity II (Medium)](https://leetcode.com/problems/sentence-similarity-ii "句子相似性 II")
 
 
 

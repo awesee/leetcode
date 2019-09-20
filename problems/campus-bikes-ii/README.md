@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/digit-count-in-range "Digit Count in Range")
 
-## 1066. Campus Bikes II (Medium)
+## [1066. Campus Bikes II (Medium)](https://leetcode.com/problems/campus-bikes-ii "校园自行车分配 II")
 
 <p>On a campus represented as a 2D grid, there are <code>N</code> workers and <code>M</code> bikes, with <code>N &lt;= M</code>. Each worker and bike is a 2D coordinate on this grid.</p>
 

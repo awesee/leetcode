@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-bits "Reverse Bits")
 
-## 189. Rotate Array (Easy)
+## [189. Rotate Array (Easy)](https://leetcode.com/problems/rotate-array "旋转数组")
 
 <p>Given an array, rotate the array to the right by <em>k</em> steps, where&nbsp;<em>k</em>&nbsp;is non-negative.</p>
 

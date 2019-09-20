@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/count-and-say "Count and Say")
 
-## 37. Sudoku Solver (Hard)
+## [37. Sudoku Solver (Hard)](https://leetcode.com/problems/sudoku-solver "解数独")
 
 <p>Write a program to solve a Sudoku puzzle by filling the empty cells.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/transpose-matrix "Transpose Matrix")
 
-## 866. Prime Palindrome (Medium)
+## [866. Prime Palindrome (Medium)](https://leetcode.com/problems/prime-palindrome "回文素数")
 
 <p>Find the smallest prime palindrome greater than or equal to <code>N</code>.</p>
 

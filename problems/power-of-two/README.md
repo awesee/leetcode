@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/implement-queue-using-stacks "Implement Queue using Stacks")
 
-## 231. Power of Two (Easy)
+## [231. Power of Two (Easy)](https://leetcode.com/problems/power-of-two "2的幂")
 
 <p>Given an integer, write a function to determine if it is a power of two.</p>
 

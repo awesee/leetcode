@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/magic-squares-in-grid "Magic Squares In Grid")
 
-## 839. Similar String Groups (Hard)
+## [839. Similar String Groups (Hard)](https://leetcode.com/problems/similar-string-groups "相似字符串组")
 
 <p>Two strings <code>X</code>&nbsp;and <code>Y</code>&nbsp;are similar if we can swap two letters (in different positions) of <code>X</code>, so that&nbsp;it equals <code>Y</code>.</p>
 

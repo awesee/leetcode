@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/fizz-buzz "Fizz Buzz")
 
-## 411. Minimum Unique Word Abbreviation (Hard)
+## [411. Minimum Unique Word Abbreviation (Hard)](https://leetcode.com/problems/minimum-unique-word-abbreviation "最短特异单词缩写")
 
 
 

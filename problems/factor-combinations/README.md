@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/verify-preorder-sequence-in-binary-search-tree "Verify Preorder Sequence in Binary Search Tree")
 
-## 254. Factor Combinations (Medium)
+## [254. Factor Combinations (Medium)](https://leetcode.com/problems/factor-combinations "因子的组合")
 
 
 

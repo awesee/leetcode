@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/permutation-in-string "Permutation in String")
 
-## 566. Reshape the Matrix (Easy)
+## [566. Reshape the Matrix (Easy)](https://leetcode.com/problems/reshape-the-matrix "重塑矩阵")
 
 <p>In MATLAB, there is a very useful function called 'reshape', which can reshape a matrix into a new one with different size but keep its original data.
 </p>

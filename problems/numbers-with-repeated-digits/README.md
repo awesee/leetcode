@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-three-parts-with-equal-sum "Partition Array Into Three Parts With Equal Sum")
 
-## 1012. Numbers With Repeated Digits (Hard)
+## [1012. Numbers With Repeated Digits (Hard)](https://leetcode.com/problems/numbers-with-repeated-digits "至少有 1 位重复的数字")
 
 <p>Given a positive integer <code>N</code>, return the number of positive integers less than or equal to <code>N</code> that have at least 1 repeated digit.</p>
 

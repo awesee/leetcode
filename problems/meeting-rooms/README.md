@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms-ii "Meeting Rooms II")
 
-## 252. Meeting Rooms (Easy)
+## [252. Meeting Rooms (Easy)](https://leetcode.com/problems/meeting-rooms "会议室")
 
 
 

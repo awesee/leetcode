@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/last-substring-in-lexicographical-order "Last Substring in Lexicographical Order")
 
-## 1162. As Far from Land as Possible (Medium)
+## [1162. As Far from Land as Possible (Medium)](https://leetcode.com/problems/as-far-from-land-as-possible "地图分析")
 
 <p>Given an N x N <code>grid</code>&nbsp;containing only values <code>0</code> and <code>1</code>, where&nbsp;<code>0</code> represents water&nbsp;and <code>1</code> represents land, find a water cell such that its distance to the nearest land cell is maximized and return the distance.</p>
 

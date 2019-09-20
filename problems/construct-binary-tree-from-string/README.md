@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/complex-number-multiplication "Complex Number Multiplication")
 
-## 536. Construct Binary Tree from String (Medium)
+## [536. Construct Binary Tree from String (Medium)](https://leetcode.com/problems/construct-binary-tree-from-string "从字符串生成二叉树")
 
 
 

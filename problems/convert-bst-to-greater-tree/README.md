@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-time-difference "Minimum Time Difference")
 
-## 538. Convert BST to Greater Tree (Easy)
+## [538. Convert BST to Greater Tree (Easy)](https://leetcode.com/problems/convert-bst-to-greater-tree "把二叉搜索树转换为累加树")
 
 <p>Given a Binary Search Tree (BST), convert it to a Greater Tree such that every key of the original BST is changed to the original key plus sum of all keys greater than the original key in BST.</p>
 

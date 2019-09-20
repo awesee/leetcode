@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/squares-of-a-sorted-array "Squares of a Sorted Array")
 
-## 976. Largest Perimeter Triangle (Easy)
+## [976. Largest Perimeter Triangle (Easy)](https://leetcode.com/problems/largest-perimeter-triangle "三角形的最大周长")
 
 <p>Given an array <code>A</code> of positive lengths, return the largest perimeter of a triangle with <strong>non-zero area</strong>, formed from 3 of these lengths.</p>
 

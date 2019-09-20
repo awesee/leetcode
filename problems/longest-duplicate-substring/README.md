@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/customers-who-bought-all-products "Customers Who Bought All Products")
 
-## 1044. Longest Duplicate Substring (Hard)
+## [1044. Longest Duplicate Substring (Hard)](https://leetcode.com/problems/longest-duplicate-substring "最长重复子串")
 
 <p>Given a string <code>S</code>, consider all <em>duplicated substrings</em>: (contiguous) substrings of S that occur 2 or more times.&nbsp; (The occurrences&nbsp;may overlap.)</p>
 

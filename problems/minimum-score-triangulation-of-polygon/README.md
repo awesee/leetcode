@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive-ii "Moving Stones Until Consecutive II")
 
-## 1039. Minimum Score Triangulation of Polygon (Medium)
+## [1039. Minimum Score Triangulation of Polygon (Medium)](https://leetcode.com/problems/minimum-score-triangulation-of-polygon "多边形三角剖分的最低得分")
 
 <p>Given <code>N</code>, consider a convex <code>N</code>-sided polygon with vertices labelled <code>A[0], A[i], ..., A[N-1]</code>&nbsp;in clockwise order.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/design-file-system "Design File System")
 
-## 1165. Single-Row Keyboard (Easy)
+## [1165. Single-Row Keyboard (Easy)](https://leetcode.com/problems/single-row-keyboard "单行键盘")
 
 
 

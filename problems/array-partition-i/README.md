@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-line-of-consecutive-one-in-matrix "Longest Line of Consecutive One in Matrix")
 
-## 561. Array Partition I (Easy)
+## [561. Array Partition I (Easy)](https://leetcode.com/problems/array-partition-i "数组拆分 I")
 
 <p>
 Given an array of <b>2n</b> integers, your task is to group these integers into <b>n</b> pairs of integer, say (a<sub>1</sub>, b<sub>1</sub>), (a<sub>2</sub>, b<sub>2</sub>), ..., (a<sub>n</sub>, b<sub>n</sub>) which makes sum of min(a<sub>i</sub>, b<sub>i</sub>) for all i from 1 to n as large as possible.

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/tree-node "Tree Node")
 
-## 607. Sales Person (Easy)
+## [607. Sales Person (Easy)](https://leetcode.com/problems/sales-person "销售员")
 
 <p><b>Description</b></p>
 

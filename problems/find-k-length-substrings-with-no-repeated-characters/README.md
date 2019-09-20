@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/the-earliest-moment-when-everyone-become-friends "The Earliest Moment When Everyone Become Friends")
 
-## 1100. Find K-Length Substrings With No Repeated Characters (Medium)
+## [1100. Find K-Length Substrings With No Repeated Characters (Medium)](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters "长度为 K 的无重复字符子串")
 
 <p>Given a string <code>S</code>, return the number of substrings of length <code>K</code> with no repeated characters.</p>
 

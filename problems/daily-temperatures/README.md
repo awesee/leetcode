@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/delete-and-earn "Delete and Earn")
 
-## 739. Daily Temperatures (Medium)
+## [739. Daily Temperatures (Medium)](https://leetcode.com/problems/daily-temperatures "每日温度")
 
 <p>
 Given a list of daily temperatures <code>T</code>, return a list such that, for each day in the input, tells you how many days you would have to wait until a warmer temperature.  If there is no future day for which this is possible, put <code>0</code> instead.

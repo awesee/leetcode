@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements "Top K Frequent Elements")
 
-## 346. Moving Average from Data Stream (Easy)
+## [346. Moving Average from Data Stream (Easy)](https://leetcode.com/problems/moving-average-from-data-stream "数据流中的移动平均值")
 
 
 

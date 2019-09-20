@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/simplify-path "Simplify Path")
 
-## 70. Climbing Stairs (Easy)
+## [70. Climbing Stairs (Easy)](https://leetcode.com/problems/climbing-stairs "爬楼梯")
 
 <p>You are climbing a stair case. It takes <em>n</em> steps to reach to the top.</p>
 

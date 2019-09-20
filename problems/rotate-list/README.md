@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/unique-paths "Unique Paths")
 
-## 61. Rotate List (Medium)
+## [61. Rotate List (Medium)](https://leetcode.com/problems/rotate-list "旋转链表")
 
 <p>Given a linked&nbsp;list, rotate the list to the right by <em>k</em> places, where <em>k</em> is non-negative.</p>
 

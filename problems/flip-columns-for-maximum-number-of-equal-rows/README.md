@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/adding-two-negabinary-numbers "Adding Two Negabinary Numbers")
 
-## 1072. Flip Columns For Maximum Number of Equal Rows (Medium)
+## [1072. Flip Columns For Maximum Number of Equal Rows (Medium)](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows "按列翻转得到最大值等行数")
 
 <p>Given a <code>matrix</code> consisting of 0s and 1s, we may choose any number of columns in the matrix and flip <strong>every</strong>&nbsp;cell in that column.&nbsp; Flipping a cell changes the value of that cell from 0 to 1 or from 1 to 0.</p>
 

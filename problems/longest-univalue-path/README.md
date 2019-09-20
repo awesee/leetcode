@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/knight-probability-in-chessboard "Knight Probability in Chessboard")
 
-## 687. Longest Univalue Path (Easy)
+## [687. Longest Univalue Path (Easy)](https://leetcode.com/problems/longest-univalue-path "最长同值路径")
 
 <p>Given a binary tree, find the length of the longest path where each node in the path has the same value. This path may or may not pass through the root.</p>
 

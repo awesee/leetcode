@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string "Remove All Adjacent Duplicates In String")
 
-## 1046. Last Stone Weight (Easy)
+## [1046. Last Stone Weight (Easy)](https://leetcode.com/problems/last-stone-weight "最后一块石头的重量")
 
 <p>We have a collection of rocks, each rock has a positive integer weight.</p>
 

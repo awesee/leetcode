@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-subtrees "Find Duplicate Subtrees")
 
-## 651. 4 Keys Keyboard (Medium)
+## [651. 4 Keys Keyboard (Medium)](https://leetcode.com/problems/4-keys-keyboard "4键键盘")
 
 <p>Imagine you have a special keyboard with the following keys: </p>
 <p><code>Key 1: (A)</code>:  Print one 'A' on screen.</p>

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/vowel-spellchecker "Vowel Spellchecker")
 
-## 965. Univalued Binary Tree (Easy)
+## [965. Univalued Binary Tree (Easy)](https://leetcode.com/problems/univalued-binary-tree "单值二叉树")
 
 <p>A binary tree is <em>univalued</em> if every node in the tree has the same value.</p>
 

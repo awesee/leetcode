@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/search-in-a-sorted-array-of-unknown-size "Search in a Sorted Array of Unknown Size")
 
-## 701. Insert into a Binary Search Tree (Medium)
+## [701. Insert into a Binary Search Tree (Medium)](https://leetcode.com/problems/insert-into-a-binary-search-tree "二叉搜索树中的插入操作")
 
 <p>Given the root node of a binary search tree (BST) and a value to be inserted into the tree,&nbsp;insert the value into the BST. Return the root node of the BST after the insertion. It is guaranteed that the new value does not exist in the original BST.</p>
 

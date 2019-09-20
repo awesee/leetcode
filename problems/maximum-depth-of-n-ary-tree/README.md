@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k "Subarray Sum Equals K")
 
-## 559. Maximum Depth of N-ary Tree (Easy)
+## [559. Maximum Depth of N-ary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree "N叉树的最大深度")
 
 <p>Given a n-ary tree, find its maximum depth.</p>
 

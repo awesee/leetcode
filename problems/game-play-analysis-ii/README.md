@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-bottom-left-tree-value "Find Bottom Left Tree Value")
 
-## 512. Game Play Analysis II (Easy)
+## [512. Game Play Analysis II (Easy)](https://leetcode.com/problems/game-play-analysis-ii "游戏玩法分析 II")
 
 
 

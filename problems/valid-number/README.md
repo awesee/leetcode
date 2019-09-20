@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/plus-one "Plus One")
 
-## 65. Valid Number (Hard)
+## [65. Valid Number (Hard)](https://leetcode.com/problems/valid-number "有效数字")
 
 <p>Validate if a given string can be interpreted as&nbsp;a decimal number.</p>
 

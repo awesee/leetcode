@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/camelcase-matching "Camelcase Matching")
 
-## 1022. Sum of Root To Leaf Binary Numbers (Easy)
+## [1022. Sum of Root To Leaf Binary Numbers (Easy)](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers "从根到叶的二进制数之和")
 
 <p>Given a binary tree, each node has value <code>0</code>&nbsp;or <code>1</code>.&nbsp; Each root-to-leaf path represents a binary number starting with the most significant bit.&nbsp; For example, if the path is <code>0 -&gt; 1 -&gt; 1 -&gt; 0 -&gt; 1</code>, then this could represent <code>01101</code> in binary, which is <code>13</code>.</p>
 

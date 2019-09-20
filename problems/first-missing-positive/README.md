@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water "Trapping Rain Water")
 
-## 41. First Missing Positive (Hard)
+## [41. First Missing Positive (Hard)](https://leetcode.com/problems/first-missing-positive "缺失的第一个正数")
 
 <p>Given an unsorted integer array, find the smallest missing&nbsp;positive integer.</p>
 

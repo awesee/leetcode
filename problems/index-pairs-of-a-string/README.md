@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/campus-bikes-ii "Campus Bikes II")
 
-## 1065. Index Pairs of a String (Easy)
+## [1065. Index Pairs of a String (Easy)](https://leetcode.com/problems/index-pairs-of-a-string "字符串的索引对")
 
 <p>Given a <code>text</code>&nbsp;string and <code>words</code> (a list of strings), return all index pairs <code>[i, j]</code> so that the substring <code>text[i]...text[j]</code>&nbsp;is in the list of <code>words</code>.</p>
 

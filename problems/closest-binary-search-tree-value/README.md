@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings "Encode and Decode Strings")
 
-## 270. Closest Binary Search Tree Value (Easy)
+## [270. Closest Binary Search Tree Value (Easy)](https://leetcode.com/problems/closest-binary-search-tree-value "最接近的二叉搜索树值")
 
 
 

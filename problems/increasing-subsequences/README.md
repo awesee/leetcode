@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/construct-the-rectangle "Construct the Rectangle")
 
-## 491. Increasing Subsequences (Medium)
+## [491. Increasing Subsequences (Medium)](https://leetcode.com/problems/increasing-subsequences "递增子序列")
 
 <p>
 Given an integer array, your task is to find all the different possible increasing subsequences of the given array, and the length of an increasing subsequence should be at least 2 .

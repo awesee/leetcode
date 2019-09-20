@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/relative-ranks "Relative Ranks")
 
-## 505. The Maze II (Medium)
+## [505. The Maze II (Medium)](https://leetcode.com/problems/the-maze-ii "迷宫 II")
 
 <p>There is a <b>ball</b> in a maze with empty spaces and walls. The ball can go through empty spaces by rolling <b>up</b>, <b>down</b>, <b>left</b> or <b>right</b>, but it won&#39;t stop rolling until hitting a wall. When the ball stops, it could choose the next direction.</p>
 

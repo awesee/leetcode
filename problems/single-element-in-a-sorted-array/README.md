@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-string-ii "Reverse String II")
 
-## 540. Single Element in a Sorted Array (Medium)
+## [540. Single Element in a Sorted Array (Medium)](https://leetcode.com/problems/single-element-in-a-sorted-array "有序数组中的单一元素")
 
 <p>Given a sorted array consisting of only integers where every element appears exactly twice except for one element which appears exactly&nbsp;once. Find this single element that appears only once.</p>
 

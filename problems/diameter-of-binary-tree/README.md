@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/output-contest-matches "Output Contest Matches")
 
-## 543. Diameter of Binary Tree (Easy)
+## [543. Diameter of Binary Tree (Easy)](https://leetcode.com/problems/diameter-of-binary-tree "二叉树的直径")
 
 <p>
 Given a binary tree, you need to compute the length of the diameter of the tree. The diameter of a binary tree is the length of the <b>longest</b> path between any two nodes in a tree. This path may or may not pass through the root.

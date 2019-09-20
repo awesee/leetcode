@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/cracking-the-safe "Cracking the Safe")
 
-## 752. Open the Lock (Medium)
+## [752. Open the Lock (Medium)](https://leetcode.com/problems/open-the-lock "打开转盘锁")
 
 <p>
 You have a lock in front of you with 4 circular wheels.  Each wheel has 10 slots: <code>'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'</code>.  The wheels can rotate freely and wrap around: for example we can turn <code>'9'</code> to be <code>'0'</code>, or <code>'0'</code> to be <code>'9'</code>.  Each move consists of turning one wheel one slot.

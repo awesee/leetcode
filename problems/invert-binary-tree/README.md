@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-ii "Basic Calculator II")
 
-## 226. Invert Binary Tree (Easy)
+## [226. Invert Binary Tree (Easy)](https://leetcode.com/problems/invert-binary-tree "翻转二叉树")
 
 <p>Invert a binary tree.</p>
 

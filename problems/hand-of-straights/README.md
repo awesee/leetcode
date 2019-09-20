@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-path-visiting-all-nodes "Shortest Path Visiting All Nodes")
 
-## 846. Hand of Straights (Medium)
+## [846. Hand of Straights (Medium)](https://leetcode.com/problems/hand-of-straights "一手顺子")
 
 <p>Alice has a <code>hand</code> of cards, given as an array of integers.</p>
 

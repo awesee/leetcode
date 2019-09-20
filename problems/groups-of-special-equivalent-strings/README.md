@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/all-possible-full-binary-trees "All Possible Full Binary Trees")
 
-## 893. Groups of Special-Equivalent Strings (Easy)
+## [893. Groups of Special-Equivalent Strings (Easy)](https://leetcode.com/problems/groups-of-special-equivalent-strings "特殊等价字符串组")
 
 <p>You are given an array <code>A</code> of strings.</p>
 

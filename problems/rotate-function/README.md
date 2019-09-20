@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/integer-replacement "Integer Replacement")
 
-## 396. Rotate Function (Medium)
+## [396. Rotate Function (Medium)](https://leetcode.com/problems/rotate-function "旋转函数")
 
 <p>
 Given an array of integers <code>A</code> and let <i>n</i> to be its length.

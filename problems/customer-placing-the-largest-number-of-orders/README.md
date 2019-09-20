@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/erect-the-fence "Erect the Fence")
 
-## 586. Customer Placing the Largest Number of Orders (Easy)
+## [586. Customer Placing the Largest Number of Orders (Easy)](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders "订单最多的客户")
 
 <p>Query the <b>customer_number</b> from the <b><i>orders</i></b> table for the customer who has placed the largest number of orders.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/redundant-connection-ii "Redundant Connection II")
 
-## 684. Redundant Connection (Medium)
+## [684. Redundant Connection (Medium)](https://leetcode.com/problems/redundant-connection "冗余连接")
 
 <p>
 In this problem, a tree is an <b>undirected</b> graph that is connected and has no cycles.

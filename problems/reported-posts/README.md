@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/print-in-order "Print in Order")
 
-## 1113. Reported Posts (Easy)
+## [1113. Reported Posts (Easy)](https://leetcode.com/problems/reported-posts "")
 
 

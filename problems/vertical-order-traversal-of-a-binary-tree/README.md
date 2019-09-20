@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf "Smallest String Starting From Leaf")
 
-## 987. Vertical Order Traversal of a Binary Tree (Medium)
+## [987. Vertical Order Traversal of a Binary Tree (Medium)](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree "二叉树的垂序遍历")
 
 <p>Given a binary tree, return the <em>vertical order</em> traversal of its nodes&nbsp;values.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms "Number of Atoms")
 
-## 725. Split Linked List in Parts (Medium)
+## [725. Split Linked List in Parts (Medium)](https://leetcode.com/problems/split-linked-list-in-parts "分隔链表")
 
 <p>Given a (singly) linked list with head node <code>root</code>, write a function to split the linked list into <code>k</code> consecutive linked list "parts".
 </p><p>

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-vowels-of-a-string "Reverse Vowels of a String")
 
-## 344. Reverse String (Easy)
+## [344. Reverse String (Easy)](https://leetcode.com/problems/reverse-string "反转字符串")
 
 <p>Write a function that reverses a string. The input string is given as an array of characters <code>char[]</code>.</p>
 

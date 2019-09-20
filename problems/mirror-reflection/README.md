@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/buddy-strings "Buddy Strings")
 
-## 858. Mirror Reflection (Medium)
+## [858. Mirror Reflection (Medium)](https://leetcode.com/problems/mirror-reflection "镜面反射")
 
 <p>There is&nbsp;a special square room with mirrors on each of the four&nbsp;walls.&nbsp; Except for the southwest&nbsp;corner, there are receptors on each of the remaining corners, numbered <code>0</code>, <code>1</code>, and <code>2</code>.</p>
 

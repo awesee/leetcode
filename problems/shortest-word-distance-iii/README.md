@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number "Strobogrammatic Number")
 
-## 245. Shortest Word Distance III (Medium)
+## [245. Shortest Word Distance III (Medium)](https://leetcode.com/problems/shortest-word-distance-iii "最短单词距离 III")
 
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-palindrome "Longest Palindrome")
 
-## 408. Valid Word Abbreviation (Easy)
+## [408. Valid Word Abbreviation (Easy)](https://leetcode.com/problems/valid-word-abbreviation "有效单词缩写")
 
 
 

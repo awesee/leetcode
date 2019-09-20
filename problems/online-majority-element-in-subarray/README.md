@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/market-analysis-i "Market Analysis I")
 
-## 1157. Online Majority Element In Subarray (Hard)
+## [1157. Online Majority Element In Subarray (Hard)](https://leetcode.com/problems/online-majority-element-in-subarray "子数组中占绝大多数的元素")
 
 <p>Implementing the class <code>MajorityChecker</code>, which has the following API:</p>
 

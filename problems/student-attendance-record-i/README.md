@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-ii "Student Attendance Record II")
 
-## 551. Student Attendance Record I (Easy)
+## [551. Student Attendance Record I (Easy)](https://leetcode.com/problems/student-attendance-record-i "学生出勤记录 I")
 
 You are given a string representing an attendance record for a student. The record only contains the following three characters:
 

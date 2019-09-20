@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-two-distinct-characters "Longest Substring with At Most Two Distinct Characters")
 
-## 158. Read N Characters Given Read4 II - Call multiple times (Hard)
+## [158. Read N Characters Given Read4 II - Call multiple times (Hard)](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times "用 Read4 读取 N 个字符 II")
 
 
 

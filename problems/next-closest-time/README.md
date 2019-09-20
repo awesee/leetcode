@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/baseball-game "Baseball Game")
 
-## 681. Next Closest Time (Medium)
+## [681. Next Closest Time (Medium)](https://leetcode.com/problems/next-closest-time "最近时刻")
 
 
 

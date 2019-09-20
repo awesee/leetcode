@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/1-bit-and-2-bit-characters "1-bit and 2-bit Characters")
 
-## 716. Max Stack (Easy)
+## [716. Max Stack (Easy)](https://leetcode.com/problems/max-stack "最大栈")
 
 <p>Design a max stack that supports push, pop, top, peekMax and popMax.</p>
 

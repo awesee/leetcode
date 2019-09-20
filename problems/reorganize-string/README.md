@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted-ii "Max Chunks To Make Sorted II")
 
-## 767. Reorganize String (Medium)
+## [767. Reorganize String (Medium)](https://leetcode.com/problems/reorganize-string "重构字符串")
 
 <p>Given a string <code>S</code>, check if the letters can be rearranged so that two characters that are adjacent to each other are not the same.</p>
 

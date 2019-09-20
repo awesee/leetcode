@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/previous-permutation-with-one-swap "Previous Permutation With One Swap")
 
-## 1052. Grumpy Bookstore Owner (Medium)
+## [1052. Grumpy Bookstore Owner (Medium)](https://leetcode.com/problems/grumpy-bookstore-owner "爱生气的书店老板")
 
 <p>Today, the bookstore owner has a store open for <code>customers.length</code> minutes.&nbsp; Every minute, some number of customers (<code>customers[i]</code>) enter the store, and all those customers leave after the end of that minute.</p>
 

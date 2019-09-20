@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/robot-room-cleaner "Robot Room Cleaner")
 
-## 488. Zuma Game (Hard)
+## [488. Zuma Game (Hard)](https://leetcode.com/problems/zuma-game "祖玛游戏")
 
 <p>Think about Zuma Game. You have a row of balls on the table, colored red(R), yellow(Y), blue(B), green(G), and white(W). You also have several balls in your hand.</p>
 <p>

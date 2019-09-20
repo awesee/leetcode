@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-duplicate-substring "Longest Duplicate Substring")
 
-## 1043. Partition Array for Maximum Sum (Medium)
+## [1043. Partition Array for Maximum Sum (Medium)](https://leetcode.com/problems/partition-array-for-maximum-sum "分隔数组以得到最大和")
 
 <p>Given an integer array <code>A</code>, you partition the array into (contiguous) subarrays of length at most <code>K</code>.&nbsp; After partitioning, each subarray has their values changed to become the maximum value of that subarray.</p>
 

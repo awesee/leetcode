@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-town-judge "Find the Town Judge")
 
-## 996. Number of Squareful Arrays (Hard)
+## [996. Number of Squareful Arrays (Hard)](https://leetcode.com/problems/number-of-squareful-arrays "正方形数组的数目")
 
 <p>Given an array <code>A</code> of non-negative integers, the array is <em>squareful</em> if for every pair of adjacent elements, their sum is a perfect square.</p>
 

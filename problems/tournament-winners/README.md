@@ -7,8 +7,8 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/monthly-transactions-i "Monthly Transactions I")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/fizz-buzz-multithreaded "Fizz Buzz Multithreaded")
 
-## 1194. Tournament Winners (Hard)
+## [1194. Tournament Winners (Hard)](https://leetcode.com/problems/tournament-winners "")
 
 

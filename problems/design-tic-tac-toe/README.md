@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays "Intersection of Two Arrays")
 
-## 348. Design Tic-Tac-Toe (Medium)
+## [348. Design Tic-Tac-Toe (Medium)](https://leetcode.com/problems/design-tic-tac-toe "判定井字棋胜负")
 
 
 

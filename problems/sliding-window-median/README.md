@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/magical-string "Magical String")
 
-## 480. Sliding Window Median (Hard)
+## [480. Sliding Window Median (Hard)](https://leetcode.com/problems/sliding-window-median "滑动窗口中位数")
 
 <p>Median is the middle value in an ordered integer list. If the size of the list is even, there is no middle value. So the median is the mean of the two middle value.</p>
 Examples: <br />

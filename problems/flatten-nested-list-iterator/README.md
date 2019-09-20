@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/power-of-four "Power of Four")
 
-## 341. Flatten Nested List Iterator (Medium)
+## [341. Flatten Nested List Iterator (Medium)](https://leetcode.com/problems/flatten-nested-list-iterator "扁平化嵌套列表迭代器")
 
 <p>Given a nested list of integers, implement an iterator to flatten it.</p>
 

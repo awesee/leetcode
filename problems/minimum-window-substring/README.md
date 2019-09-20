@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/combinations "Combinations")
 
-## 76. Minimum Window Substring (Hard)
+## [76. Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring "最小覆盖子串")
 
 <p>Given a string S and a string T, find the minimum window in S which will contain all the characters in T in complexity O(n).</p>
 

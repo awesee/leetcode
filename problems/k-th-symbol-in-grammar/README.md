@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reaching-points "Reaching Points")
 
-## 779. K-th Symbol in Grammar (Medium)
+## [779. K-th Symbol in Grammar (Medium)](https://leetcode.com/problems/k-th-symbol-in-grammar "第K个语法符号")
 
 <p>On the first row, we write a <code>0</code>. Now in every subsequent row, we look at the previous row and replace each occurrence of <code>0</code> with <code>01</code>, and each occurrence of <code>1</code> with <code>10</code>.</p>
 

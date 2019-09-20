@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-gap "Binary Gap")
 
-## 867. Transpose Matrix (Easy)
+## [867. Transpose Matrix (Easy)](https://leetcode.com/problems/transpose-matrix "转置矩阵")
 
 <p>Given a&nbsp;matrix <code>A</code>, return the transpose of <code>A</code>.</p>
 

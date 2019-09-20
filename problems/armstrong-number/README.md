@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/connecting-cities-with-minimum-cost "Connecting Cities With Minimum Cost")
 
-## 1134. Armstrong Number (Easy)
+## [1134. Armstrong Number (Easy)](https://leetcode.com/problems/armstrong-number "阿姆斯特朗数")
 
 
 

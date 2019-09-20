@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/swap-adjacent-in-lr-string "Swap Adjacent in LR String")
 
-## 776. Split BST (Medium)
+## [776. Split BST (Medium)](https://leetcode.com/problems/split-bst "拆分二叉搜索树")
 
 
 

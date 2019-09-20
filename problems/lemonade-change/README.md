@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/score-after-flipping-matrix "Score After Flipping Matrix")
 
-## 860. Lemonade Change (Easy)
+## [860. Lemonade Change (Easy)](https://leetcode.com/problems/lemonade-change "柠檬水找零")
 
 <p>At a lemonade stand, each lemonade costs <code>$5</code>.&nbsp;</p>
 

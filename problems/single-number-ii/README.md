@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/copy-list-with-random-pointer "Copy List with Random Pointer")
 
-## 137. Single Number II (Medium)
+## [137. Single Number II (Medium)](https://leetcode.com/problems/single-number-ii "只出现一次的数字 II")
 
 <p>Given a <strong>non-empty</strong>&nbsp;array of integers, every element appears <em>three</em> times except for one, which appears exactly once. Find that single one.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-bridge "Shortest Bridge")
 
-## 933. Number of Recent Calls (Easy)
+## [933. Number of Recent Calls (Easy)](https://leetcode.com/problems/number-of-recent-calls "最近的请求次数")
 
 <p>Write a class <code>RecentCounter</code> to count recent requests.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/global-and-local-inversions "Global and Local Inversions")
 
-## 774. Minimize Max Distance to Gas Station (Hard)
+## [774. Minimize Max Distance to Gas Station (Hard)](https://leetcode.com/problems/minimize-max-distance-to-gas-station "最小化去加油站的最大距离")
 
 
 

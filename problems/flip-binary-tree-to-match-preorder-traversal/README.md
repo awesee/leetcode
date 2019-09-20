@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/equal-rational-numbers "Equal Rational Numbers")
 
-## 971. Flip Binary Tree To Match Preorder Traversal (Medium)
+## [971. Flip Binary Tree To Match Preorder Traversal (Medium)](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal "翻转二叉树以匹配先序遍历")
 
 <p>Given a binary tree with <code>N</code> nodes, each node has a different value from&nbsp;<code>{1, ..., N}</code>.</p>
 

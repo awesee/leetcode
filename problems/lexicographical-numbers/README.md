@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/first-unique-character-in-a-string "First Unique Character in a String")
 
-## 386. Lexicographical Numbers (Medium)
+## [386. Lexicographical Numbers (Medium)](https://leetcode.com/problems/lexicographical-numbers "字典序排数")
 
 <p>Given an integer <i>n</i>, return 1 - <i>n</i> in lexicographical order.</p>
 

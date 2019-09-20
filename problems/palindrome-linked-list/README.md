@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-search-tree "Lowest Common Ancestor of a Binary Search Tree")
 
-## 234. Palindrome Linked List (Easy)
+## [234. Palindrome Linked List (Easy)](https://leetcode.com/problems/palindrome-linked-list "回文链表")
 
 <p>Given a singly linked list, determine if it is a palindrome.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/remove-outermost-parentheses "Remove Outermost Parentheses")
 
-## 1020. Number of Enclaves (Medium)
+## [1020. Number of Enclaves (Medium)](https://leetcode.com/problems/number-of-enclaves "飞地的数量")
 
 <p>Given a 2D array <code>A</code>, each cell is 0 (representing sea) or 1 (representing land)</p>
 

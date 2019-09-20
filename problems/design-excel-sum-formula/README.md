@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-range-covering-elements-from-k-lists "Smallest Range Covering Elements from K Lists")
 
-## 631. Design Excel Sum Formula (Hard)
+## [631. Design Excel Sum Formula (Hard)](https://leetcode.com/problems/design-excel-sum-formula "设计 Excel 求和公式")
 
 
 

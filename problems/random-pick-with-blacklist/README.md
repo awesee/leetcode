@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-distinct-islands-ii "Number of Distinct Islands II")
 
-## 710. Random Pick with Blacklist (Hard)
+## [710. Random Pick with Blacklist (Hard)](https://leetcode.com/problems/random-pick-with-blacklist "黑名单中的随机数")
 
 <p>Given a blacklist&nbsp;<code>B</code> containing unique integers&nbsp;from <code>[0, N)</code>, write a function to return a uniform random integer from <code>[0, N)</code> which is <strong>NOT</strong>&nbsp;in <code>B</code>.</p>
 

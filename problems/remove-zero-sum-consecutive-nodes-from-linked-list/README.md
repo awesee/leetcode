@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/dinner-plate-stacks "Dinner Plate Stacks")
 
-## 1171. Remove Zero Sum Consecutive Nodes from Linked List (Medium)
+## [1171. Remove Zero Sum Consecutive Nodes from Linked List (Medium)](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list "从链表中删去总和值为零的连续节点")
 
 <p>Given the <code>head</code> of a linked list, we repeatedly delete consecutive sequences of nodes that sum to <code>0</code> until there are no such sequences.</p>
 

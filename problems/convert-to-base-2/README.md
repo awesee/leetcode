@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-prefix-divisible-by-5 "Binary Prefix Divisible By 5")
 
-## 1017. Convert to Base -2 (Medium)
+## [1017. Convert to Base -2 (Medium)](https://leetcode.com/problems/convert-to-base-2 "负二进制转换")
 
 <p>Given a number <code>N</code>, return a string consisting of <code>&quot;0&quot;</code>s and <code>&quot;1&quot;</code>s&nbsp;that represents its value in base <code><strong>-2</strong></code>&nbsp;(negative two).</p>
 

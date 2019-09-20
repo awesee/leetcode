@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-a-stream "Kth Largest Element in a Stream")
 
-## 702. Search in a Sorted Array of Unknown Size (Medium)
+## [702. Search in a Sorted Array of Unknown Size (Medium)](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size "搜索长度未知的有序数组")
 
 
 

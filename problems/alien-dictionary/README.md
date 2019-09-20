@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value "Closest Binary Search Tree Value")
 
-## 269. Alien Dictionary (Hard)
+## [269. Alien Dictionary (Hard)](https://leetcode.com/problems/alien-dictionary "火星词典")
 
 
 

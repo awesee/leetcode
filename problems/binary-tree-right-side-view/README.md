@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-islands "Number of Islands")
 
-## 199. Binary Tree Right Side View (Medium)
+## [199. Binary Tree Right Side View (Medium)](https://leetcode.com/problems/binary-tree-right-side-view "二叉树的右视图")
 
 <p>Given a binary tree, imagine yourself standing on the <em>right</em> side of it, return the values of the nodes you can see ordered from top to bottom.</p>
 

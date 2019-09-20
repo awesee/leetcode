@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/fair-candy-swap "Fair Candy Swap")
 
-## 887. Super Egg Drop (Hard)
+## [887. Super Egg Drop (Hard)](https://leetcode.com/problems/super-egg-drop "鸡蛋掉落")
 
 <p>You are given <code>K</code> eggs, and you have access to a building with <code>N</code> floors from <code>1</code> to <code>N</code>.&nbsp;</p>
 

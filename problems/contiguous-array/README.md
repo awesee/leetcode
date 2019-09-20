@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement "Beautiful Arrangement")
 
-## 525. Contiguous Array (Medium)
+## [525. Contiguous Array (Medium)](https://leetcode.com/problems/contiguous-array "连续数组")
 
 <p>Given a binary array, find the maximum length of a contiguous subarray with equal number of 0 and 1. </p>
 

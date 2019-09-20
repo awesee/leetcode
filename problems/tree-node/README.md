@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-file-in-system "Find Duplicate File in System")
 
-## 608. Tree Node (Medium)
+## [608. Tree Node (Medium)](https://leetcode.com/problems/tree-node "树节点")
 
 <p>Given a table <code>tree</code>, <b>id</b> is identifier of the tree node and <b>p_id</b> is its parent node&#39;s <b>id</b>.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-and-replace-pattern "Find and Replace Pattern")
 
-## 889. Construct Binary Tree from Preorder and Postorder Traversal (Medium)
+## [889. Construct Binary Tree from Preorder and Postorder Traversal (Medium)](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal "根据前序和后序遍历构造二叉树")
 
 <p>Return any binary tree that matches the given preorder and postorder traversals.</p>
 

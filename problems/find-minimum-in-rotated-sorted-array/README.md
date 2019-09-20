@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array-ii "Find Minimum in Rotated Sorted Array II")
 
-## 153. Find Minimum in Rotated Sorted Array (Medium)
+## [153. Find Minimum in Rotated Sorted Array (Medium)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array "寻找旋转排序数组中的最小值")
 
 <p>Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.</p>
 

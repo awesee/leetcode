@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/word-ladder-ii "Word Ladder II")
 
-## 125. Valid Palindrome (Easy)
+## [125. Valid Palindrome (Easy)](https://leetcode.com/problems/valid-palindrome "验证回文串")
 
 <p>Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.</p>
 

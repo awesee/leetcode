@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/split-linked-list-in-parts "Split Linked List in Parts")
 
-## 724. Find Pivot Index (Easy)
+## [724. Find Pivot Index (Easy)](https://leetcode.com/problems/find-pivot-index "寻找数组的中心索引")
 
 <p>Given an array of integers <code>nums</code>, write a method that returns the &quot;pivot&quot; index of this array.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/tag-validator "Tag Validator")
 
-## 590. N-ary Tree Postorder Traversal (Easy)
+## [590. N-ary Tree Postorder Traversal (Easy)](https://leetcode.com/problems/n-ary-tree-postorder-traversal "N叉树的后序遍历")
 
 <p>Given an n-ary tree, return the <i>postorder</i> traversal of its nodes&#39; values.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-number-with-alternating-bits "Binary Number with Alternating Bits")
 
-## 692. Top K Frequent Words (Medium)
+## [692. Top K Frequent Words (Medium)](https://leetcode.com/problems/top-k-frequent-words "前K个高频单词")
 
 <p>Given a non-empty list of words, return the <i>k</i> most frequent elements.</p>
 <p>Your answer should be sorted by frequency from highest to lowest. If two words have the same frequency, then the word with the lower alphabetical order comes first.</p>

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/index-pairs-of-a-string "Index Pairs of a String")
 
-## 1064. Fixed Point (Easy)
+## [1064. Fixed Point (Easy)](https://leetcode.com/problems/fixed-point "不动点")
 
 <p>Given an array <code>A</code> of distinct integers sorted in ascending order, return the smallest index <code>i</code> that satisfies <code>A[i] == i</code>.&nbsp; Return <code>-1</code> if no such <code>i</code> exists.</p>
 

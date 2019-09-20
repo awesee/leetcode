@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator "Binary Search Tree Iterator")
 
-## 172. Factorial Trailing Zeroes (Easy)
+## [172. Factorial Trailing Zeroes (Easy)](https://leetcode.com/problems/factorial-trailing-zeroes "阶乘后的零")
 
 <p>Given an integer <i>n</i>, return the number of trailing zeroes in <i>n</i>!.</p>
 

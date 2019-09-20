@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/third-maximum-number "Third Maximum Number")
 
-## 413. Arithmetic Slices (Medium)
+## [413. Arithmetic Slices (Medium)](https://leetcode.com/problems/arithmetic-slices "等差数列划分")
 
 <p>A sequence of number is called arithmetic if it consists of at least three elements and if the difference between any two consecutive elements is the same.</p>
 

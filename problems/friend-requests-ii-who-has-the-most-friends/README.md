@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/consecutive-available-seats "Consecutive Available Seats")
 
-## 602. Friend Requests II: Who Has the Most Friends (Medium)
+## [602. Friend Requests II: Who Has the Most Friends (Medium)](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends "好友申请 II ：谁有最多的好友")
 
 In social network like Facebook or Twitter, people send friend requests and accept others&#39; requests as well.
 <p>&nbsp;</p>

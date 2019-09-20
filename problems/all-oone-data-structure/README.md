@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-genetic-mutation "Minimum Genetic Mutation")
 
-## 432. All O`one Data Structure (Hard)
+## [432. All O`one Data Structure (Hard)](https://leetcode.com/problems/all-oone-data-structure "全 O(1) 的数据结构")
 
 <p>Implement a data structure supporting the following operations:</p>
 

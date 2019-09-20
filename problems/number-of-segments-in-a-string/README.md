@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/non-overlapping-intervals "Non-overlapping Intervals")
 
-## 434. Number of Segments in a String (Easy)
+## [434. Number of Segments in a String (Easy)](https://leetcode.com/problems/number-of-segments-in-a-string "字符串中的单词数")
 
 <p>Count the number of segments in a string, where a segment is defined to be a contiguous sequence of non-space characters.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sort-an-array "Sort an Array")
 
-## 911. Online Election (Medium)
+## [911. Online Election (Medium)](https://leetcode.com/problems/online-election "在线选举")
 
 <p>In an election, the <code>i</code>-th&nbsp;vote was cast for <code>persons[i]</code> at time <code>times[i]</code>.</p>
 

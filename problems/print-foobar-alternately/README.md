@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/print-zero-even-odd "Print Zero Even Odd")
 
-## 1115. Print FooBar Alternately (Medium)
+## [1115. Print FooBar Alternately (Medium)](https://leetcode.com/problems/print-foobar-alternately "交替打印FooBar")
 
 <p>Suppose you are given the following code:</p>
 

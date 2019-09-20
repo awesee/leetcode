@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/boundary-of-binary-tree "Boundary of Binary Tree")
 
-## 544. Output Contest Matches (Medium)
+## [544. Output Contest Matches (Medium)](https://leetcode.com/problems/output-contest-matches "输出比赛匹配对")
 
 <p>
 During the NBA playoffs, we always arrange the rather strong team to play with the rather weak team, like make the rank 1 team play with the rank n<sub>th</sub> team, which is a good strategy to make the contest more interesting. Now, you're given <b>n</b> teams, you need to output their <b>final</b> contest matches in the form of a string.

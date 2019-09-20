@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary-through-deleting "Longest Word in Dictionary through Deleting")
 
-## 523. Continuous Subarray Sum (Medium)
+## [523. Continuous Subarray Sum (Medium)](https://leetcode.com/problems/continuous-subarray-sum "连续的子数组和")
 
 <p>Given a list of <b>non-negative</b> numbers and a target <b>integer</b> k, write a function to check if the array has a continuous subarray of size at least 2 that sums up to a multiple of <b>k</b>, that is, sums up to n*k where n is also an <b>integer</b>.</p>
 

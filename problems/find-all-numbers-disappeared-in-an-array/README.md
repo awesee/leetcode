@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-bst "Serialize and Deserialize BST")
 
-## 448. Find All Numbers Disappeared in an Array (Easy)
+## [448. Find All Numbers Disappeared in an Array (Easy)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array "找到所有数组中消失的数字")
 
 <p>Given an array of integers where 1 &le; a[i] &le; <i>n</i> (<i>n</i> = size of array), some elements appear twice and others appear once.</p>
 

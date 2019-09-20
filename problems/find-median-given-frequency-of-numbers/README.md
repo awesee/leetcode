@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree "Subtree of Another Tree")
 
-## 571. Find Median Given Frequency of Numbers (Hard)
+## [571. Find Median Given Frequency of Numbers (Hard)](https://leetcode.com/problems/find-median-given-frequency-of-numbers "给定数字的频率查询中位数")
 
 
 

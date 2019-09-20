@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/remove-invalid-parentheses "Remove Invalid Parentheses")
 
-## 300. Longest Increasing Subsequence (Medium)
+## [300. Longest Increasing Subsequence (Medium)](https://leetcode.com/problems/longest-increasing-subsequence "最长上升子序列")
 
 <p>Given an unsorted array of integers, find the length of longest increasing subsequence.</p>
 

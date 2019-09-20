@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/stamping-the-sequence "Stamping The Sequence")
 
-## 935. Knight Dialer (Medium)
+## [935. Knight Dialer (Medium)](https://leetcode.com/problems/knight-dialer "骑士拨号器")
 
 <p>A chess knight can move as indicated in the chess diagram below:</p>
 

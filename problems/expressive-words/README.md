@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/chalkboard-xor-game "Chalkboard XOR Game")
 
-## 809. Expressive Words (Medium)
+## [809. Expressive Words (Medium)](https://leetcode.com/problems/expressive-words "情感丰富的文字")
 
 <p>Sometimes people repeat letters to represent extra feeling, such as &quot;hello&quot; -&gt; &quot;heeellooo&quot;, &quot;hi&quot; -&gt; &quot;hiiii&quot;.&nbsp; In these strings like &quot;heeellooo&quot;, we have <em>groups</em> of adjacent letters that are all the same:&nbsp; &quot;h&quot;, &quot;eee&quot;, &quot;ll&quot;, &quot;ooo&quot;.</p>
 

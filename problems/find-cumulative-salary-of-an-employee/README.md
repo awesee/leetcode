@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/count-student-number-in-departments "Count Student Number in Departments")
 
-## 579. Find Cumulative Salary of an Employee (Hard)
+## [579. Find Cumulative Salary of an Employee (Hard)](https://leetcode.com/problems/find-cumulative-salary-of-an-employee "查询员工的累计薪水")
 
 <p>The <b>Employee</b> table holds the salary information in a year.</p>
 

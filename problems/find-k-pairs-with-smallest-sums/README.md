@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower "Guess Number Higher or Lower")
 
-## 373. Find K Pairs with Smallest Sums (Medium)
+## [373. Find K Pairs with Smallest Sums (Medium)](https://leetcode.com/problems/find-k-pairs-with-smallest-sums "查找和最小的K对数字")
 
 <p>You are given two integer arrays <b>nums1</b> and <b>nums2</b> sorted in ascending order and an integer <b>k</b>.</p>
 

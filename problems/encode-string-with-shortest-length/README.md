@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/concatenated-words "Concatenated Words")
 
-## 471. Encode String with Shortest Length (Hard)
+## [471. Encode String with Shortest Length (Hard)](https://leetcode.com/problems/encode-string-with-shortest-length "编码最短长度的字符串")
 
 
 

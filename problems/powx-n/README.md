@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/n-queens "N-Queens")
 
-## 50. Pow(x, n) (Medium)
+## [50. Pow(x, n) (Medium)](https://leetcode.com/problems/powx-n "Pow(x, n)")
 
 <p>Implement <a href="http://www.cplusplus.com/reference/valarray/pow/" target="_blank">pow(<em>x</em>, <em>n</em>)</a>, which calculates&nbsp;<em>x</em> raised to the power <em>n</em> (x<sup><span style="font-size:10.8333px">n</span></sup>).</p>
 

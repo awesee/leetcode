@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value-ii "Closest Binary Search Tree Value II")
 
-## 271. Encode and Decode Strings (Medium)
+## [271. Encode and Decode Strings (Medium)](https://leetcode.com/problems/encode-and-decode-strings "字符串的编码与解码")
 
 <p>Design an algorithm to encode <b>a list of strings</b> to <b>a string</b>. The encoded string is then sent over the network and is decoded back to the original list of strings.</p>
 

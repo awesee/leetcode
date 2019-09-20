@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimize-malware-spread-ii "Minimize Malware Spread II")
 
-## 927. Three Equal Parts (Hard)
+## [927. Three Equal Parts (Hard)](https://leetcode.com/problems/three-equal-parts "三等分")
 
 <p>Given an array <code>A</code> of <code>0</code>s and <code>1</code>s, divide the array into 3 non-empty parts such that all of these parts represent the same binary value.</p>
 

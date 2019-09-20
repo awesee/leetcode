@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/special-binary-string "Special Binary String")
 
-## 760. Find Anagram Mappings (Easy)
+## [760. Find Anagram Mappings (Easy)](https://leetcode.com/problems/find-anagram-mappings "找出变位映射")
 
 
 

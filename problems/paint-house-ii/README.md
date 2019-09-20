@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation "Palindrome Permutation")
 
-## 265. Paint House II (Hard)
+## [265. Paint House II (Hard)](https://leetcode.com/problems/paint-house-ii "粉刷房子 II")
 
 
 

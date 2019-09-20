@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/bulls-and-cows "Bulls and Cows")
 
-## 298. Binary Tree Longest Consecutive Sequence (Medium)
+## [298. Binary Tree Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence "二叉树最长连续序列")
 
 
 

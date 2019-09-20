@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/relative-sort-array "Relative Sort Array")
 
-## 1121. Divide Array Into Increasing Sequences (Hard)
+## [1121. Divide Array Into Increasing Sequences (Hard)](https://leetcode.com/problems/divide-array-into-increasing-sequences "将数组分成几个递增序列")
 
 
 

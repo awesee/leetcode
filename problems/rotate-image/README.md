@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/group-anagrams "Group Anagrams")
 
-## 48. Rotate Image (Medium)
+## [48. Rotate Image (Medium)](https://leetcode.com/problems/rotate-image "旋转图像")
 
 <p>You are given an <em>n</em> x <em>n</em> 2D matrix representing an image.</p>
 

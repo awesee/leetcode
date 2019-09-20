@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/univalued-binary-tree "Univalued Binary Tree")
 
-## 964. Least Operators to Express Number (Hard)
+## [964. Least Operators to Express Number (Hard)](https://leetcode.com/problems/least-operators-to-express-number "表示数字的最少运算符")
 
 <p>Given a single positive integer <code>x</code>, we will write an expression of the form <code>x (op1) x (op2) x (op3) x ...</code>&nbsp;where each operator <code>op1</code>, <code>op2</code>, etc. is either addition, subtraction, multiplication, or division (<code>+</code>, <code>-</code>, <code>*</code>, or <code>/)</code>.&nbsp; For example, with <code>x = 3</code>, we might write <code>3 * 3 / 3 + 3 - 3</code>&nbsp;which is a value of <font face="monospace">3</font>.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/investments-in-2016 "Investments in 2016")
 
-## 584. Find Customer Referee (Easy)
+## [584. Find Customer Referee (Easy)](https://leetcode.com/problems/find-customer-referee "寻找用户推荐人")
 
 <p>Given a table <code>customer</code> holding customers information and the referee.</p>
 

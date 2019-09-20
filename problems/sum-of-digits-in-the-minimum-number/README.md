@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/high-five "High Five")
 
-## 1085. Sum of Digits in the Minimum Number (Easy)
+## [1085. Sum of Digits in the Minimum Number (Easy)](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number "最小元素各数位之和")
 
 <p>Given an array <code>A</code> of positive integers, let <code>S</code> be the sum of the digits of the minimal element of <code>A</code>.</p>
 

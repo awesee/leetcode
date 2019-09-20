@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-ii "Strobogrammatic Number II")
 
-## 246. Strobogrammatic Number (Easy)
+## [246. Strobogrammatic Number (Easy)](https://leetcode.com/problems/strobogrammatic-number "中心对称数")
 
 
 

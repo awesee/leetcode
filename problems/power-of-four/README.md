@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/integer-break "Integer Break")
 
-## 342. Power of Four (Easy)
+## [342. Power of Four (Easy)](https://leetcode.com/problems/power-of-four "4的幂")
 
 <p>Given an integer (signed 32 bits), write a function to check whether it is a power of 4.</p>
 

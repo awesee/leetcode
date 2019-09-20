@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-distinct-islands "Number of Distinct Islands")
 
-## 693. Binary Number with Alternating Bits (Easy)
+## [693. Binary Number with Alternating Bits (Easy)](https://leetcode.com/problems/binary-number-with-alternating-bits "交替位二进制数")
 
 <p>Given a positive integer, check whether it has alternating bits: namely, if two adjacent bits will always have different values.</p>
 

@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/user-activity-for-the-past-30-days-ii "User Activity for the Past 30 Days II")
 
-## 1141. User Activity for the Past 30 Days I (Easy)
+## [1141. User Activity for the Past 30 Days I (Easy)](https://leetcode.com/problems/user-activity-for-the-past-30-days-i "")
 
 

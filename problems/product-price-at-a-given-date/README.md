@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/single-row-keyboard "Single-Row Keyboard")
 
-## 1164. Product Price at a Given Date (Medium)
+## [1164. Product Price at a Given Date (Medium)](https://leetcode.com/problems/product-price-at-a-given-date "")
 
 

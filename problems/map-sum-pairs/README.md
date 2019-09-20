@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/valid-parenthesis-string "Valid Parenthesis String")
 
-## 677. Map Sum Pairs (Medium)
+## [677. Map Sum Pairs (Medium)](https://leetcode.com/problems/map-sum-pairs "键值映射")
 
 <p>
 Implement a MapSum class with <code>insert</code>, and <code>sum</code> methods.

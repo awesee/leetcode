@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/fraction-addition-and-subtraction "Fraction Addition and Subtraction")
 
-## 591. Tag Validator (Hard)
+## [591. Tag Validator (Hard)](https://leetcode.com/problems/tag-validator "标签验证器")
 
 <p>Given a string representing a code snippet, you need to implement a tag validator to parse the code and return whether it is valid. A code snippet is valid if all the following rules hold:<p>
 <ol>

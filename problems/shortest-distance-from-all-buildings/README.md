@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-word-lengths "Maximum Product of Word Lengths")
 
-## 317. Shortest Distance from All Buildings (Hard)
+## [317. Shortest Distance from All Buildings (Hard)](https://leetcode.com/problems/shortest-distance-from-all-buildings "离建筑物最近的距离")
 
 
 

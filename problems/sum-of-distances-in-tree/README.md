@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/image-overlap "Image Overlap")
 
-## 834. Sum of Distances in Tree (Hard)
+## [834. Sum of Distances in Tree (Hard)](https://leetcode.com/problems/sum-of-distances-in-tree "树中距离之和")
 
 <p>An undirected, connected&nbsp;tree with <code>N</code> nodes labelled <code>0...N-1</code> and <code>N-1</code> <code>edges</code>&nbsp;are&nbsp;given.</p>
 

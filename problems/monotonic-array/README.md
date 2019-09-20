@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/increasing-order-search-tree "Increasing Order Search Tree")
 
-## 896. Monotonic Array (Easy)
+## [896. Monotonic Array (Easy)](https://leetcode.com/problems/monotonic-array "单调数列")
 
 <p>An array is <em>monotonic</em> if it is either monotone increasing or monotone decreasing.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/duplicate-zeros "Duplicate Zeros")
 
-## 1088. Confusing Number II (Hard)
+## [1088. Confusing Number II (Hard)](https://leetcode.com/problems/confusing-number-ii "易混淆数 II")
 
 <p>We can rotate digits by 180 degrees to form new digits. When 0, 1, 6, 8, 9 are rotated 180 degrees, they become 0, 1, 9, 8, 6 respectively. When 2, 3, 4, 5 and 7 are rotated 180 degrees, they become invalid.</p>
 

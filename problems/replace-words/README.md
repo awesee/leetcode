@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/dota2-senate "Dota2 Senate")
 
-## 648. Replace Words (Medium)
+## [648. Replace Words (Medium)](https://leetcode.com/problems/replace-words "单词替换")
 
 <p>In English, we have a concept called <code>root</code>, which can be followed by some other words to form another longer word - let&#39;s call this word <code>successor</code>. For example, the root <code>an</code>, followed by <code>other</code>, which can form another word <code>another</code>.</p>
 

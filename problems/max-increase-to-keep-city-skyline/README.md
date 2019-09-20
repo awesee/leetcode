@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/soup-servings "Soup Servings")
 
-## 807. Max Increase to Keep City Skyline (Medium)
+## [807. Max Increase to Keep City Skyline (Medium)](https://leetcode.com/problems/max-increase-to-keep-city-skyline "保持城市天际线")
 
 <p>In a 2 dimensional array <code>grid</code>, each value <code>grid[i][j]</code> represents the height of a building located there. We are allowed to increase the height of any number of buildings, by any amount (the amounts&nbsp;can be different for different buildings). Height&nbsp;0 is considered to be a&nbsp;building&nbsp;as well.&nbsp;</p>
 

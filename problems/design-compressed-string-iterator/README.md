@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers "Can Place Flowers")
 
-## 604. Design Compressed String Iterator (Easy)
+## [604. Design Compressed String Iterator (Easy)](https://leetcode.com/problems/design-compressed-string-iterator "迭代压缩字符串")
 
 <p>
 Design and implement a data structure for a compressed string iterator. It should support the following operations: <code>next</code> and <code>hasNext</code>.

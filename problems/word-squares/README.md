@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/convert-binary-search-tree-to-sorted-doubly-linked-list "Convert Binary Search Tree to Sorted Doubly Linked List")
 
-## 425. Word Squares (Hard)
+## [425. Word Squares (Hard)](https://leetcode.com/problems/word-squares "单词方块")
 
 
 

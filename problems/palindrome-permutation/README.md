@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation-ii "Palindrome Permutation II")
 
-## 266. Palindrome Permutation (Easy)
+## [266. Palindrome Permutation (Easy)](https://leetcode.com/problems/palindrome-permutation "回文排列")
 
 <p>Given a string, determine if a permutation of the string could form a palindrome.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/cherry-pickup "Cherry Pickup")
 
-## 740. Delete and Earn (Medium)
+## [740. Delete and Earn (Medium)](https://leetcode.com/problems/delete-and-earn "删除与获得点数")
 
 <p>Given an array <code>nums</code> of integers, you can perform operations on the array.</p>
 

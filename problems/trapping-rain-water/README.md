@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/multiply-strings "Multiply Strings")
 
-## 42. Trapping Rain Water (Hard)
+## [42. Trapping Rain Water (Hard)](https://leetcode.com/problems/trapping-rain-water "接雨水")
 
 <p>Given <em>n</em> non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.</p>
 

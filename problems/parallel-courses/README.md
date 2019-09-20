@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/n-th-tribonacci-number "N-th Tribonacci Number")
 
-## 1136. Parallel Courses (Hard)
+## [1136. Parallel Courses (Hard)](https://leetcode.com/problems/parallel-courses "平行课程")
 
 
 

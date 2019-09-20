@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/invert-binary-tree "Invert Binary Tree")
 
-## 225. Implement Stack using Queues (Easy)
+## [225. Implement Stack using Queues (Easy)](https://leetcode.com/problems/implement-stack-using-queues "用队列实现栈")
 
 <p>Implement the following operations of a stack using queues.</p>
 

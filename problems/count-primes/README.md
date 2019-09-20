@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/isomorphic-strings "Isomorphic Strings")
 
-## 204. Count Primes (Easy)
+## [204. Count Primes (Easy)](https://leetcode.com/problems/count-primes "计数质数")
 
 <p>Count the number of prime numbers less than a non-negative number, <b><i>n</i></b>.</p>
 

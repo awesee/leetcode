@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray "Longest Turbulent Subarray")
 
-## 977. Squares of a Sorted Array (Easy)
+## [977. Squares of a Sorted Array (Easy)](https://leetcode.com/problems/squares-of-a-sorted-array "有序数组的平方")
 
 <p>Given an array of integers <code>A</code>&nbsp;sorted in non-decreasing order,&nbsp;return an array of the squares of each number,&nbsp;also in sorted non-decreasing order.</p>
 

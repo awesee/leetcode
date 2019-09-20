@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/perfect-squares "Perfect Squares")
 
-## 278. First Bad Version (Easy)
+## [278. First Bad Version (Easy)](https://leetcode.com/problems/first-bad-version "第一个错误的版本")
 
 <p>You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.</p>
 

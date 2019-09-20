@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/remove-k-digits "Remove K Digits")
 
-## 401. Binary Watch (Easy)
+## [401. Binary Watch (Easy)](https://leetcode.com/problems/binary-watch "二进制手表")
 
 <p>A binary watch has 4 LEDs on the top which represent the <b>hours</b> (<b>0-11</b>), and the 6 LEDs on the bottom represent the <b>minutes</b> (<b>0-59</b>).</p>
 <p>Each LED represents a zero or one, with the least significant bit on the right.</p>

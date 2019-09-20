@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/greatest-common-divisor-of-strings "Greatest Common Divisor of Strings")
 
-## 1070. Product Sales Analysis III (Medium)
+## [1070. Product Sales Analysis III (Medium)](https://leetcode.com/problems/product-sales-analysis-iii "")
 
 

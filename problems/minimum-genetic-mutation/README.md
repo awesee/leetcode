@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-segments-in-a-string "Number of Segments in a String")
 
-## 433. Minimum Genetic Mutation (Medium)
+## [433. Minimum Genetic Mutation (Medium)](https://leetcode.com/problems/minimum-genetic-mutation "最小基因变化")
 
 <p>A gene string can be represented by an 8-character long string, with choices from <code>&quot;A&quot;</code>, <code>&quot;C&quot;</code>, <code>&quot;G&quot;</code>, <code>&quot;T&quot;</code>.</p>
 

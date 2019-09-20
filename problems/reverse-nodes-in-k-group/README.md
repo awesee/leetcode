@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array "Remove Duplicates from Sorted Array")
 
-## 25. Reverse Nodes in k-Group (Hard)
+## [25. Reverse Nodes in k-Group (Hard)](https://leetcode.com/problems/reverse-nodes-in-k-group "K 个一组翻转链表")
 
 <p>Given a linked list, reverse the nodes of a linked list <em>k</em> at a time and return its modified list.</p>
 

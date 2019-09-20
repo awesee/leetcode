@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-tinyurl "Encode and Decode TinyURL")
 
-## 534. Game Play Analysis III (Medium)
+## [534. Game Play Analysis III (Medium)](https://leetcode.com/problems/game-play-analysis-iii "")
 
 
 

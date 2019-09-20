@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-transaction-fee "Best Time to Buy and Sell Stock with Transaction Fee")
 
-## 713. Subarray Product Less Than K (Medium)
+## [713. Subarray Product Less Than K (Medium)](https://leetcode.com/problems/subarray-product-less-than-k "乘积小于K的子数组")
 
 <p>Your are given an array of positive integers <code>nums</code>.</p>
 <p>Count and print the number of (contiguous) subarrays where the product of all the elements in the subarray is less than <code>k</code>.</p>

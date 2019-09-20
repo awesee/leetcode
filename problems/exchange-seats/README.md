@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/swap-salary "Swap Salary")
 
-## 626. Exchange Seats (Medium)
+## [626. Exchange Seats (Medium)](https://leetcode.com/problems/exchange-seats "换座位")
 
 <p>Mary is a teacher in a middle school and she has a table <code>seat</code> storing students&#39; names and their corresponding seat ids.</p>
 The column <b>id</b> is continuous increment.

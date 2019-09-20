@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/non-decreasing-array "Non-decreasing Array")
 
-## 664. Strange Printer (Hard)
+## [664. Strange Printer (Hard)](https://leetcode.com/problems/strange-printer "奇怪的打印机")
 
 <p>
 There is a strange printer with the following two special requirements:

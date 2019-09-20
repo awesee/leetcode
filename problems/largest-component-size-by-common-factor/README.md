@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/verifying-an-alien-dictionary "Verifying an Alien Dictionary")
 
-## 952. Largest Component Size by Common Factor (Hard)
+## [952. Largest Component Size by Common Factor (Hard)](https://leetcode.com/problems/largest-component-size-by-common-factor "按公因数计算最大组件大小")
 
 <p>Given a non-empty&nbsp;array of unique positive integers <code>A</code>, consider the following graph:</p>
 

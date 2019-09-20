@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/range-addition "Range Addition")
 
-## 369. Plus One Linked List (Medium)
+## [369. Plus One Linked List (Medium)](https://leetcode.com/problems/plus-one-linked-list "给单链表加一")
 
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/walls-and-gates "Walls and Gates")
 
-## 285. Inorder Successor in BST (Medium)
+## [285. Inorder Successor in BST (Medium)](https://leetcode.com/problems/inorder-successor-in-bst "二叉搜索树中的顺序后继")
 
 <p>Given a binary search tree and a node in it, find the in-order successor of that node in the BST.</p>
 

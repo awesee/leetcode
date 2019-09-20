@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements "Remove Linked List Elements")
 
-## 202. Happy Number (Easy)
+## [202. Happy Number (Easy)](https://leetcode.com/problems/happy-number "快乐数")
 
 <p>Write an algorithm to determine if a number is &quot;happy&quot;.</p>
 

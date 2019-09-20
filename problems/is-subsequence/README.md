@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/utf-8-validation "UTF-8 Validation")
 
-## 392. Is Subsequence (Easy)
+## [392. Is Subsequence (Easy)](https://leetcode.com/problems/is-subsequence "判断子序列")
 
 <p>
 Given a string <b>s</b> and a string <b>t</b>, check if <b>s</b> is subsequence of <b>t</b>.

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-group-all-1s-together "Minimum Swaps to Group All 1's Together")
 
-## 1150. Check If a Number Is Majority Element in a Sorted Array (Easy)
+## [1150. Check If a Number Is Majority Element in a Sorted Array (Easy)](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array "检查一个数是否在数组中占绝大多数")
 
 
 

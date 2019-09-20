@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list "Remove Duplicates from Sorted List")
 
-## 82. Remove Duplicates from Sorted List II (Medium)
+## [82. Remove Duplicates from Sorted List II (Medium)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii "删除排序链表中的重复元素 II")
 
 <p>Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only <em>distinct</em> numbers from the original list.</p>
 

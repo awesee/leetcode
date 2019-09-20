@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/design-search-autocomplete-system "Design Search Autocomplete System")
 
-## 641. Design Circular Deque (Medium)
+## [641. Design Circular Deque (Medium)](https://leetcode.com/problems/design-circular-deque "设计循环双端队列")
 
 <p>Design your implementation of the circular double-ended queue (deque).</p>
 

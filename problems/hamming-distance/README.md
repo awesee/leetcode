@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements-ii "Minimum Moves to Equal Array Elements II")
 
-## 461. Hamming Distance (Easy)
+## [461. Hamming Distance (Easy)](https://leetcode.com/problems/hamming-distance "汉明距离")
 
 <p>The <a href="https://en.wikipedia.org/wiki/Hamming_distance" target="_blank">Hamming distance</a> between two integers is the number of positions at which the corresponding bits are different.</p>
 

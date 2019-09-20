@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/partition-array-for-maximum-sum "Partition Array for Maximum Sum")
 
-## 1042. Flower Planting With No Adjacent (Easy)
+## [1042. Flower Planting With No Adjacent (Easy)](https://leetcode.com/problems/flower-planting-with-no-adjacent "不邻接植花")
 
 <p>You have <code>N</code> gardens, labelled <code>1</code> to <code>N</code>.&nbsp; In each garden, you want to plant one of 4 types of flowers.</p>
 

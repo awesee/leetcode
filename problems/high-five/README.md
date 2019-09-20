@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/brace-expansion "Brace Expansion")
 
-## 1086. High Five (Easy)
+## [1086. High Five (Easy)](https://leetcode.com/problems/high-five "前五科的均分")
 
 <p>Given a list of scores of different students, return the average score of each student&#39;s <strong>top five scores</strong> in<strong> the order of each student&#39;s id</strong>.</p>
 

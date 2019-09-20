@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/max-sum-of-rectangle-no-larger-than-k "Max Sum of Rectangle No Larger Than K")
 
-## 362. Design Hit Counter (Medium)
+## [362. Design Hit Counter (Medium)](https://leetcode.com/problems/design-hit-counter "敲击计数器")
 
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/statistics-from-a-large-sample "Statistics from a Large Sample")
 
-## 1092. Shortest Common Supersequence (Hard)
+## [1092. Shortest Common Supersequence (Hard)](https://leetcode.com/problems/shortest-common-supersequence "最短公共超序列")
 
 <p>Given two strings <code>str1</code> and <code>str2</code>,&nbsp;return the shortest string that has both <code>str1</code>&nbsp;and <code>str2</code>&nbsp;as subsequences.&nbsp;&nbsp;If multiple answers exist, you may return any of them.</p>
 

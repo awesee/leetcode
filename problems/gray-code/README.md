@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/subsets-ii "Subsets II")
 
-## 89. Gray Code (Medium)
+## [89. Gray Code (Medium)](https://leetcode.com/problems/gray-code "格雷编码")
 
 <p>The gray code is a binary numeral system where two successive values differ in only one bit.</p>
 

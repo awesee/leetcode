@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-path-with-alternating-colors "Shortest Path with Alternating Colors")
 
-## 1128. Number of Equivalent Domino Pairs (Easy)
+## [1128. Number of Equivalent Domino Pairs (Easy)](https://leetcode.com/problems/number-of-equivalent-domino-pairs "等价多米诺骨牌对的数量")
 
 <p>Given a list of <code>dominoes</code>,&nbsp;<code>dominoes[i] = [a, b]</code>&nbsp;is <em>equivalent</em> to <code>dominoes[j] = [c, d]</code>&nbsp;if and only if either (<code>a==c</code> and <code>b==d</code>), or (<code>a==d</code> and <code>b==c</code>) - that is, one domino can be rotated to be equal to another domino.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/construct-string-from-binary-tree "Construct String from Binary Tree")
 
-## 605. Can Place Flowers (Easy)
+## [605. Can Place Flowers (Easy)](https://leetcode.com/problems/can-place-flowers "种花问题")
 
 <p>Suppose you have a long flowerbed in which some of the plots are planted and some are not. However, flowers cannot be planted in adjacent plots - they would compete for water and both would die.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/24-game "24 Game")
 
-## 678. Valid Parenthesis String (Medium)
+## [678. Valid Parenthesis String (Medium)](https://leetcode.com/problems/valid-parenthesis-string "有效的括号字符串")
 
 <p>
 Given a string containing only three types of characters: '(', ')' and '*', write a function to check whether this string is valid. We define the validity of a string by these rules:

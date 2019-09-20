@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/card-flipping-game "Card Flipping Game")
 
-## 821. Shortest Distance to a Character (Easy)
+## [821. Shortest Distance to a Character (Easy)](https://leetcode.com/problems/shortest-distance-to-a-character "字符的最短距离")
 
 <p>Given a string <code>S</code>&nbsp;and a character <code>C</code>, return an array of integers representing the shortest distance from the character <code>C</code> in the string.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/all-paths-from-source-to-target "All Paths From Source to Target")
 
-## 796. Rotate String (Easy)
+## [796. Rotate String (Easy)](https://leetcode.com/problems/rotate-string "旋转字符串")
 
 <p>We are given two strings, <code>A</code> and <code>B</code>.</p>
 

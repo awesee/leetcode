@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/design-compressed-string-iterator "Design Compressed String Iterator")
 
-## 603. Consecutive Available Seats (Easy)
+## [603. Consecutive Available Seats (Easy)](https://leetcode.com/problems/consecutive-available-seats "连续空余座位")
 
 Several friends at a cinema ticket office would like to reserve consecutive available seats.<br />
 Can you help to query all the consecutive available seats order by the seat_id using the following <code>cinema</code> table?

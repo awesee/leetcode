@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iv "Best Time to Buy and Sell Stock IV")
 
-## 187. Repeated DNA Sequences (Medium)
+## [187. Repeated DNA Sequences (Medium)](https://leetcode.com/problems/repeated-dna-sequences "重复的DNA序列")
 
 <p>All DNA is composed of a series of nucleotides abbreviated as A, C, G, and T, for example: &quot;ACGAATTCCG&quot;. When studying DNA, it is sometimes useful to identify repeated sequences within the DNA.</p>
 

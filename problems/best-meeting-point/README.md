@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-binary-tree "Serialize and Deserialize Binary Tree")
 
-## 296. Best Meeting Point (Hard)
+## [296. Best Meeting Point (Hard)](https://leetcode.com/problems/best-meeting-point "最佳的碰头地点")
 
 
 

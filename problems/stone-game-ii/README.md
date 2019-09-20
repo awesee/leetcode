@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/user-activity-for-the-past-30-days-i "User Activity for the Past 30 Days I")
 
-## 1140. Stone Game II (Medium)
+## [1140. Stone Game II (Medium)](https://leetcode.com/problems/stone-game-ii "石子游戏 II")
 
 <p>Alex&nbsp;and Lee continue their&nbsp;games with piles of stones.&nbsp; There are a number of&nbsp;piles&nbsp;<strong>arranged in a row</strong>, and each pile has a positive integer number of stones&nbsp;<code>piles[i]</code>.&nbsp; The objective of the game is to end with the most&nbsp;stones.&nbsp;</p>
 

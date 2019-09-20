@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/text-justification "Text Justification")
 
-## 67. Add Binary (Easy)
+## [67. Add Binary (Easy)](https://leetcode.com/problems/add-binary "二进制求和")
 
 <p>Given two binary strings, return their sum (also a binary string).</p>
 

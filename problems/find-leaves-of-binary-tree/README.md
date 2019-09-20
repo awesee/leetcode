@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/valid-perfect-square "Valid Perfect Square")
 
-## 366. Find Leaves of Binary Tree (Medium)
+## [366. Find Leaves of Binary Tree (Medium)](https://leetcode.com/problems/find-leaves-of-binary-tree "寻找完全二叉树的叶子节点")
 
 
 

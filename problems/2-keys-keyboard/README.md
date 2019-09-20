@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/4-keys-keyboard "4 Keys Keyboard")
 
-## 650. 2 Keys Keyboard (Medium)
+## [650. 2 Keys Keyboard (Medium)](https://leetcode.com/problems/2-keys-keyboard "只有两个键的键盘")
 
 <p>Initially on a notepad only one character &#39;A&#39; is present. You can perform two operations on this notepad for each step:</p>
 

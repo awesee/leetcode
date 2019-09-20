@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/pyramid-transition-matrix "Pyramid Transition Matrix")
 
-## 755. Pour Water (Medium)
+## [755. Pour Water (Medium)](https://leetcode.com/problems/pour-water "倒水")
 
 
 

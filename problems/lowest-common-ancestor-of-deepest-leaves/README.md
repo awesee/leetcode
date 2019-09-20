@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-well-performing-interval "Longest Well-Performing Interval")
 
-## 1123. Lowest Common Ancestor of Deepest Leaves (Medium)
+## [1123. Lowest Common Ancestor of Deepest Leaves (Medium)](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves "最深叶节点的最近公共祖先")
 
 <p>Given a rooted binary tree, return the lowest common ancestor of its deepest leaves.</p>
 

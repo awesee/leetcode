@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/dungeon-game "Dungeon Game")
 
-## 173. Binary Search Tree Iterator (Medium)
+## [173. Binary Search Tree Iterator (Medium)](https://leetcode.com/problems/binary-search-tree-iterator "二叉搜索树迭代器")
 
 <p>Implement an iterator over a binary search tree (BST). Your iterator will be initialized with the root node of a BST.</p>
 

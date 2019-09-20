@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/validate-ip-address "Validate IP Address")
 
-## 467. Unique Substrings in Wraparound String (Medium)
+## [467. Unique Substrings in Wraparound String (Medium)](https://leetcode.com/problems/unique-substrings-in-wraparound-string "环绕字符串中唯一的子字符串")
 
 <p>Consider the string <code>s</code> to be the infinite wraparound string of "abcdefghijklmnopqrstuvwxyz", so <code>s</code> will look like this: "...zabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcd....".</p>
 

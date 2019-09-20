@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/implement-strstr "Implement strStr()")
 
-## 27. Remove Element (Easy)
+## [27. Remove Element (Easy)](https://leetcode.com/problems/remove-element "移除元素")
 
 <p>Given an array <em>nums</em> and a value <em>val</em>, remove all instances of that value <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> and return the new length.</p>
 

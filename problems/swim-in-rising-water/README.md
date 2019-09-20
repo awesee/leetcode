@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/k-th-symbol-in-grammar "K-th Symbol in Grammar")
 
-## 778. Swim in Rising Water (Hard)
+## [778. Swim in Rising Water (Hard)](https://leetcode.com/problems/swim-in-rising-water "水位上升的泳池中游泳")
 
 <p>On an N x N <code>grid</code>, each square <code>grid[i][j]</code> represents the elevation at that point <code>(i,j)</code>.</p>
 

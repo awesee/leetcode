@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/human-traffic-of-stadium "Human Traffic of Stadium")
 
-## 600. Non-negative Integers without Consecutive Ones (Hard)
+## [600. Non-negative Integers without Consecutive Ones (Hard)](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones "不含连续1的非负整数")
 
 <p>Given a positive integer n, find the number of <b>non-negative</b> integers less than or equal to n, whose binary representations do NOT contain <b>consecutive ones</b>.</p>
 

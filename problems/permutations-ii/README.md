@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/rotate-image "Rotate Image")
 
-## 47. Permutations II (Medium)
+## [47. Permutations II (Medium)](https://leetcode.com/problems/permutations-ii "全排列 II")
 
 <p>Given a collection of numbers that might contain duplicates, return all possible unique permutations.</p>
 

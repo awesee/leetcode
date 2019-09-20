@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions "Check If Word Is Valid After Substitutions")
 
-## 1002. Find Common Characters (Easy)
+## [1002. Find Common Characters (Easy)](https://leetcode.com/problems/find-common-characters "查找常用字符")
 
 <p>Given an array&nbsp;<code>A</code> of strings made only from lowercase letters, return a list of all characters that show up in all strings within the list <strong>(including duplicates)</strong>.&nbsp;&nbsp;For example, if a character occurs 3 times&nbsp;in all strings but not 4 times, you need to include that character three times&nbsp;in the final answer.</p>
 

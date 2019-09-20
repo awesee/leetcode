@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-immutable "Range Sum Query 2D - Immutable")
 
-## 303. Range Sum Query - Immutable (Easy)
+## [303. Range Sum Query - Immutable (Easy)](https://leetcode.com/problems/range-sum-query-immutable "区域和检索 - 数组不可变")
 
 <p>Given an integer array <i>nums</i>, find the sum of the elements between indices <i>i</i> and <i>j</i> (<i>i</i> &le; <i>j</i>), inclusive.</p>
 

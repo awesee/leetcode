@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/super-pow "Super Pow")
 
-## 371. Sum of Two Integers (Easy)
+## [371. Sum of Two Integers (Easy)](https://leetcode.com/problems/sum-of-two-integers "两整数之和")
 
 <p>Calculate the sum of two integers <i>a</i> and <i>b</i>, but you are <b>not allowed</b> to use the operator <code>+</code> and <code>-</code>.</p>
 

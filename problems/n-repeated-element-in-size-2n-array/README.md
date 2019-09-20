@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-width-ramp "Maximum Width Ramp")
 
-## 961. N-Repeated Element in Size 2N Array (Easy)
+## [961. N-Repeated Element in Size 2N Array (Easy)](https://leetcode.com/problems/n-repeated-element-in-size-2n-array "重复 N 次的元素")
 
 <p>In a array <code>A</code> of size <code>2N</code>, there are <code>N+1</code> unique elements, and exactly one of these elements is repeated N times.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/regular-expression-matching "Regular Expression Matching")
 
-## 9. Palindrome Number (Easy)
+## [9. Palindrome Number (Easy)](https://leetcode.com/problems/palindrome-number "回文数")
 
 <p>Determine whether an integer is a palindrome. An integer&nbsp;is&nbsp;a&nbsp;palindrome when it&nbsp;reads the same backward as forward.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome "Valid Palindrome")
 
-## 124. Binary Tree Maximum Path Sum (Hard)
+## [124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum "二叉树中的最大路径和")
 
 <p>Given a <strong>non-empty</strong> binary tree, find the maximum path sum.</p>
 

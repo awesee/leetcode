@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/patching-array "Patching Array")
 
-## 329. Longest Increasing Path in a Matrix (Hard)
+## [329. Longest Increasing Path in a Matrix (Hard)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix "矩阵中的最长递增路径")
 
 <p>Given an integer matrix, find the length of the longest increasing path.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/binary-string-with-substrings-representing-1-to-n "Binary String With Substrings Representing 1 To N")
 
-## 1015. Smallest Integer Divisible by K (Medium)
+## [1015. Smallest Integer Divisible by K (Medium)](https://leetcode.com/problems/smallest-integer-divisible-by-k "可被 K 整除的最小整数")
 
 <p>Given a positive integer <code>K</code>, you need find the <strong>smallest</strong>&nbsp;positive integer <code>N</code> such that <code>N</code> is divisible by <code>K</code>, and <code>N</code> only contains the digit <strong>1</strong>.</p>
 

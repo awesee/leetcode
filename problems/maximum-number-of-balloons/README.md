@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-substrings-between-each-pair-of-parentheses "Reverse Substrings Between Each Pair of Parentheses")
 
-## 1189. Maximum Number of Balloons (Easy)
+## [1189. Maximum Number of Balloons (Easy)](https://leetcode.com/problems/maximum-number-of-balloons "“气球” 的最大数量")
 
 <p>Given a string&nbsp;<code>text</code>, you want to use the characters of&nbsp;<code>text</code>&nbsp;to form as many instances of the word <strong>&quot;balloon&quot;</strong> as possible.</p>
 
@@ -48,10 +48,6 @@
 	<li><code>1 &lt;= text.length &lt;= 10^4</code></li>
 	<li><code>text</code>&nbsp;consists of lower case English letters only.</li>
 </ul>
-
-### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
 
 ### Hints
 <details>

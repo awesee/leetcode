@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/matchsticks-to-square "Matchsticks to Square")
 
-## 472. Concatenated Words (Hard)
+## [472. Concatenated Words (Hard)](https://leetcode.com/problems/concatenated-words "连接词")
 
 Given a list of words (<b>without duplicates</b>), please write a program that returns all concatenated words in the given list of words.
 <p>A concatenated word is defined as a string that is comprised entirely of at least two shorter words in the given array.</p>

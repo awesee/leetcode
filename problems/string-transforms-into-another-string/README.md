@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/day-of-the-year "Day of the Year")
 
-## 1153. String Transforms Into Another String (Hard)
+## [1153. String Transforms Into Another String (Hard)](https://leetcode.com/problems/string-transforms-into-another-string "字符串转化")
 
 
 

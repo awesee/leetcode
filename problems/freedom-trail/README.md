@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-largest-value-in-each-tree-row "Find Largest Value in Each Tree Row")
 
-## 514. Freedom Trail (Hard)
+## [514. Freedom Trail (Hard)](https://leetcode.com/problems/freedom-trail "自由之路")
 
 <p>In the video game Fallout 4, the quest &quot;Road to Freedom&quot; requires players to reach a metal dial called the &quot;Freedom Trail Ring&quot;, and use the dial to spell a specific keyword in order to open the door.</p>
 

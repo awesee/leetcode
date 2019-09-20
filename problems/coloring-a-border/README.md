@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/uncrossed-lines "Uncrossed Lines")
 
-## 1034. Coloring A Border (Medium)
+## [1034. Coloring A Border (Medium)](https://leetcode.com/problems/coloring-a-border "边框着色")
 
 <p>Given a 2-dimensional&nbsp;<code>grid</code> of integers, each value in the grid represents the color of the grid square at that location.</p>
 

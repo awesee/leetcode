@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-i "Student Attendance Record I")
 
-## 550. Game Play Analysis IV (Medium)
+## [550. Game Play Analysis IV (Medium)](https://leetcode.com/problems/game-play-analysis-iv "")
 
 
 

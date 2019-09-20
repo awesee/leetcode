@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/largest-number-at-least-twice-of-others "Largest Number At Least Twice of Others")
 
-## 746. Min Cost Climbing Stairs (Easy)
+## [746. Min Cost Climbing Stairs (Easy)](https://leetcode.com/problems/min-cost-climbing-stairs "使用最小花费爬楼梯")
 
 <p>
 On a staircase, the <code>i</code>-th step has some non-negative cost <code>cost[i]</code> assigned (0 indexed).

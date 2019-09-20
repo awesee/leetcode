@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/flower-planting-with-no-adjacent "Flower Planting With No Adjacent")
 
-## 1041. Robot Bounded In Circle (Easy)
+## [1041. Robot Bounded In Circle (Easy)](https://leetcode.com/problems/robot-bounded-in-circle "困于环中的机器人")
 
 <p>On an infinite plane, a&nbsp;robot initially stands at <code>(0, 0)</code> and faces north.&nbsp;&nbsp;The robot can receive one of three instructions:</p>
 

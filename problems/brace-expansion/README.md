@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/confusing-number-ii "Confusing Number II")
 
-## 1087. Brace Expansion (Medium)
+## [1087. Brace Expansion (Medium)](https://leetcode.com/problems/brace-expansion "字母切换")
 
 
 

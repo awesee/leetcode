@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/decode-ways-ii "Decode Ways II")
 
-## 638. Shopping Offers (Medium)
+## [638. Shopping Offers (Medium)](https://leetcode.com/problems/shopping-offers "大礼包")
 
 <p>
 In LeetCode Store, there are some kinds of items to sell. Each item has a price.

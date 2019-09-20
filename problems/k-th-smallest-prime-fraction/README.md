@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/cheapest-flights-within-k-stops "Cheapest Flights Within K Stops")
 
-## 786. K-th Smallest Prime Fraction (Hard)
+## [786. K-th Smallest Prime Fraction (Hard)](https://leetcode.com/problems/k-th-smallest-prime-fraction "第 K 个最小的素数分数")
 
 <p>A sorted list <code>A</code> contains 1, plus some number of primes.&nbsp; Then, for every p &lt; q in the list, we consider the fraction p/q.</p>
 

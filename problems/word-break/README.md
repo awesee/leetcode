@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/word-break-ii "Word Break II")
 
-## 139. Word Break (Medium)
+## [139. Word Break (Medium)](https://leetcode.com/problems/word-break "单词拆分")
 
 <p>Given a <strong>non-empty</strong> string <em>s</em> and a dictionary <em>wordDict</em> containing a list of <strong>non-empty</strong> words, determine if <em>s</em> can be segmented into a space-separated sequence of one or more dictionary words.</p>
 

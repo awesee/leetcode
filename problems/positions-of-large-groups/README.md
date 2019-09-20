@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/masking-personal-information "Masking Personal Information")
 
-## 830. Positions of Large Groups (Easy)
+## [830. Positions of Large Groups (Easy)](https://leetcode.com/problems/positions-of-large-groups "较大分组的位置")
 
 <p>In a string&nbsp;<code>S</code>&nbsp;of lowercase letters, these letters form consecutive groups of the same character.</p>
 

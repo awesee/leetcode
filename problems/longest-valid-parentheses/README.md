@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/search-in-rotated-sorted-array "Search in Rotated Sorted Array")
 
-## 32. Longest Valid Parentheses (Hard)
+## [32. Longest Valid Parentheses (Hard)](https://leetcode.com/problems/longest-valid-parentheses "最长有效括号")
 
 <p>Given a string containing just the characters <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>, find the length of the longest valid (well-formed) parentheses substring.</p>
 

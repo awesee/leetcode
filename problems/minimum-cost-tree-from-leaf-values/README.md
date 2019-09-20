@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-of-absolute-value-expression "Maximum of Absolute Value Expression")
 
-## 1130. Minimum Cost Tree From Leaf Values (Medium)
+## [1130. Minimum Cost Tree From Leaf Values (Medium)](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values "叶值的最小代价生成树")
 
 <p>Given an array <code>arr</code> of positive integers, consider all binary trees such that:</p>
 

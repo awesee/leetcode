@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minesweeper "Minesweeper")
 
-## 528. Random Pick with Weight (Medium)
+## [528. Random Pick with Weight (Medium)](https://leetcode.com/problems/random-pick-with-weight "按权重随机选择")
 
 <p>Given an array <code>w</code> of positive integers, where <code>w[i]</code> describes the weight of index <code>i</code>,&nbsp;write a function <code>pickIndex</code>&nbsp;which randomly&nbsp;picks an index&nbsp;in proportion&nbsp;to its weight.</p>
 

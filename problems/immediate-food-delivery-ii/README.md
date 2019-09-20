@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/prime-arrangements "Prime Arrangements")
 
-## 1174. Immediate Food Delivery II (Medium)
+## [1174. Immediate Food Delivery II (Medium)](https://leetcode.com/problems/immediate-food-delivery-ii "")
 
 

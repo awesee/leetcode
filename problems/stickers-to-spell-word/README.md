@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-words "Top K Frequent Words")
 
-## 691. Stickers to Spell Word (Hard)
+## [691. Stickers to Spell Word (Hard)](https://leetcode.com/problems/stickers-to-spell-word "贴纸拼词")
 
 <p>
 We are given N different types of stickers.  Each sticker has a lowercase English word on it.

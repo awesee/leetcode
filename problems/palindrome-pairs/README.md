@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/house-robber-iii "House Robber III")
 
-## 336. Palindrome Pairs (Hard)
+## [336. Palindrome Pairs (Hard)](https://leetcode.com/problems/palindrome-pairs "回文对")
 
 <p>Given a list of <b>unique</b> words, find all pairs of <b><i>distinct</i></b> indices <code>(i, j)</code> in the given list, so that the concatenation of the two words, i.e. <code>words[i] + words[j]</code> is a palindrome.</p>
 

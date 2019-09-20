@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iv "Game Play Analysis IV")
 
-## 549. Binary Tree Longest Consecutive Sequence II (Medium)
+## [549. Binary Tree Longest Consecutive Sequence II (Medium)](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii "二叉树中最长的连续序列")
 
 
 

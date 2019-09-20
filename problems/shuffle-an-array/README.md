@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/mini-parser "Mini Parser")
 
-## 384. Shuffle an Array (Medium)
+## [384. Shuffle an Array (Medium)](https://leetcode.com/problems/shuffle-an-array "打乱数组")
 
 <p>Shuffle a set of numbers without duplicates.
 </p>

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii "Guess Number Higher or Lower II")
 
-## 374. Guess Number Higher or Lower (Easy)
+## [374. Guess Number Higher or Lower (Easy)](https://leetcode.com/problems/guess-number-higher-or-lower "猜数字大小")
 
 <p>We are playing the Guess Game. The game is as follows:</p>
 

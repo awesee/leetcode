@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/di-string-match "DI String Match")
 
-## 941. Valid Mountain Array (Easy)
+## [941. Valid Mountain Array (Easy)](https://leetcode.com/problems/valid-mountain-array "有效的山脉数组")
 
 <p>Given an array <code>A</code> of integers, return <code>true</code> if and only if it is a <em>valid mountain array</em>.</p>
 

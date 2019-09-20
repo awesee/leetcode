@@ -54,6 +54,7 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1195">1195</span> | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded) | [Go](https://github.com/openset/leetcode/tree/master/problems/fizz-buzz-multithreaded) | Medium |
 | <span id="1194">1194</span> | [Tournament Winners](https://leetcode.com/problems/tournament-winners) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/tournament-winners) | Hard |
 | <span id="1193">1193</span> | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/monthly-transactions-i) | Medium |
 | <span id="1192">1192</span> | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network "查找集群内的「关键连接」") | [Go](https://github.com/openset/leetcode/tree/master/problems/critical-connections-in-a-network) | Hard |
@@ -165,7 +166,7 @@ LeetCode Problems' Solutions
 | <span id="1086">1086</span> | [High Five](https://leetcode.com/problems/high-five "前五科的均分") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/high-five) | Easy |
 | <span id="1085">1085</span> | [Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number "最小元素各数位之和") 🔒 | [Go](https://github.com/openset/leetcode/tree/master/problems/sum-of-digits-in-the-minimum-number) | Easy |
 | <span id="1084">1084</span> | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-iii) | Easy |
-| <span id="1083">1083</span> | [Sales Analysis II](https://leetcode.com/problems/sales-analysis-ii) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-ii) | Easy |
+| <span id="1083">1083</span> | [Sales Analysis II](https://leetcode.com/problems/sales-analysis-ii "1083. 销售分析II") 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-ii) | Easy |
 | <span id="1082">1082</span> | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i "销售分析 I ") 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-i) | Easy |
 | <span id="1081">1081</span> | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters "不同字符的最小子序列") | [Go](https://github.com/openset/leetcode/tree/master/problems/smallest-subsequence-of-distinct-characters) | Medium |
 | <span id="1080">1080</span> | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths "根到叶路径上的不足节点") | [Go](https://github.com/openset/leetcode/tree/master/problems/insufficient-nodes-in-root-to-leaf-paths) | Medium |

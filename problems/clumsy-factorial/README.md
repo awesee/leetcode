@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-domino-rotations-for-equal-row "Minimum Domino Rotations For Equal Row")
 
-## 1006. Clumsy Factorial (Medium)
+## [1006. Clumsy Factorial (Medium)](https://leetcode.com/problems/clumsy-factorial "笨阶乘")
 
 <p>Normally, the factorial of a positive integer <code>n</code>&nbsp;is the product of all positive integers less than or equal to <code>n</code>.&nbsp; For example, <code>factorial(10) = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1</code>.</p>
 

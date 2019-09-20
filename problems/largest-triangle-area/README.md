@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/largest-sum-of-averages "Largest Sum of Averages")
 
-## 812. Largest Triangle Area (Easy)
+## [812. Largest Triangle Area (Easy)](https://leetcode.com/problems/largest-triangle-area "最大三角形面积")
 
 <p>You have a list of points in the plane. Return the area of the largest triangle that can be formed by any 3 of the points.</p>
 

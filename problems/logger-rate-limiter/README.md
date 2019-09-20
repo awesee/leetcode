@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sort-transformed-array "Sort Transformed Array")
 
-## 359. Logger Rate Limiter (Easy)
+## [359. Logger Rate Limiter (Easy)](https://leetcode.com/problems/logger-rate-limiter "日志速率限制器")
 
 
 

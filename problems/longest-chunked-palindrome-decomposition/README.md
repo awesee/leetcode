@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/article-views-i "Article Views I")
 
-## 1147. Longest Chunked Palindrome Decomposition (Hard)
+## [1147. Longest Chunked Palindrome Decomposition (Hard)](https://leetcode.com/problems/longest-chunked-palindrome-decomposition "段式回文")
 
 <p>Return the largest possible <code>k</code>&nbsp;such that there exists&nbsp;<code>a_1, a_2, ..., a_k</code>&nbsp;such that:</p>
 

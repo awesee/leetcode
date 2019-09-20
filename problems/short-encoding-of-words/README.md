@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-to-a-character "Shortest Distance to a Character")
 
-## 820. Short Encoding of Words (Medium)
+## [820. Short Encoding of Words (Medium)](https://leetcode.com/problems/short-encoding-of-words "单词的压缩编码")
 
 <p>Given a list of words, we may encode it by writing a reference string <code>S</code> and a list of indexes <code>A</code>.</p>
 

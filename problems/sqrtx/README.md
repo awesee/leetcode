@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs "Climbing Stairs")
 
-## 69. Sqrt(x) (Easy)
+## [69. Sqrt(x) (Easy)](https://leetcode.com/problems/sqrtx "x 的平方根")
 
 <p>Implement <code>int sqrt(int x)</code>.</p>
 

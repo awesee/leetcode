@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/split-concatenated-strings "Split Concatenated Strings")
 
-## 554. Brick Wall (Medium)
+## [554. Brick Wall (Medium)](https://leetcode.com/problems/brick-wall "砖墙")
 
 <p>There is a brick wall in front of you. The wall is rectangular and has several rows of bricks. The bricks have the same height but different width. You want to draw a vertical line from the <b>top</b> to the <b>bottom</b> and cross the <b>least</b> bricks.</p>
 

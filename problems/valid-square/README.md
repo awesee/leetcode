@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-harmonious-subsequence "Longest Harmonious Subsequence")
 
-## 593. Valid Square (Medium)
+## [593. Valid Square (Medium)](https://leetcode.com/problems/valid-square "有效的正方形")
 
 <p>Given the coordinates of four points in 2D space, return whether the four points could construct a square.</p>
 

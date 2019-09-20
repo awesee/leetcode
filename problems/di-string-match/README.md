@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-shortest-superstring "Find the Shortest Superstring")
 
-## 942. DI String Match (Easy)
+## [942. DI String Match (Easy)](https://leetcode.com/problems/di-string-match "增减字符串匹配")
 
 <p>Given a string <code>S</code> that <strong>only</strong> contains &quot;I&quot; (increase) or &quot;D&quot; (decrease), let <code>N = S.length</code>.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-smallest-letter-greater-than-target "Find Smallest Letter Greater Than Target")
 
-## 743. Network Delay Time (Medium)
+## [743. Network Delay Time (Medium)](https://leetcode.com/problems/network-delay-time "网络延迟时间")
 
 <p>There are <code>N</code> network nodes, labelled <code>1</code> to <code>N</code>.</p>
 

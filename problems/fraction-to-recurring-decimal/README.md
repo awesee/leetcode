@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted "Two Sum II - Input array is sorted")
 
-## 166. Fraction to Recurring Decimal (Medium)
+## [166. Fraction to Recurring Decimal (Medium)](https://leetcode.com/problems/fraction-to-recurring-decimal "分数到小数")
 
 <p>Given two integers representing the numerator and denominator of a fraction, return the fraction in string format.</p>
 

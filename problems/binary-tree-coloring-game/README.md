@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/snapshot-array "Snapshot Array")
 
-## 1145. Binary Tree Coloring Game (Medium)
+## [1145. Binary Tree Coloring Game (Medium)](https://leetcode.com/problems/binary-tree-coloring-game "二叉树着色游戏")
 
 <p>Two players play a turn based game on a binary tree.&nbsp; We are given&nbsp;the <code>root</code> of this binary tree, and the number of nodes <code>n</code>&nbsp;in the tree.&nbsp; <code>n</code> is odd, and&nbsp;each node has a distinct value from <code>1</code> to <code>n</code>.</p>
 

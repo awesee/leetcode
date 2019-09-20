@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/convex-polygon "Convex Polygon")
 
-## 468. Validate IP Address (Medium)
+## [468. Validate IP Address (Medium)](https://leetcode.com/problems/validate-ip-address "验证IP地址")
 
 <p>
 Write a function to check whether an input string is a valid IPv4 address or IPv6 address or neither.

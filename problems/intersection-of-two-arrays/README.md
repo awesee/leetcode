@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays-ii "Intersection of Two Arrays II")
 
-## 349. Intersection of Two Arrays (Easy)
+## [349. Intersection of Two Arrays (Easy)](https://leetcode.com/problems/intersection-of-two-arrays "两个数组的交集")
 
 <p>Given two arrays, write a function to compute their intersection.</p>
 

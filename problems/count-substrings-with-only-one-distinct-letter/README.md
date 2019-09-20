@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/before-and-after-puzzle "Before and After Puzzle")
 
-## 1180. Count Substrings with Only One Distinct Letter (Easy)
+## [1180. Count Substrings with Only One Distinct Letter (Easy)](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter "统计只含单一字母的子串")
 
 
 

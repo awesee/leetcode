@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/split-array-with-equal-sum "Split Array with Equal Sum")
 
-## 547. Friend Circles (Medium)
+## [547. Friend Circles (Medium)](https://leetcode.com/problems/friend-circles "朋友圈")
 
 <p>
 There are <b>N</b> students in a class. Some of them are friends, while some are not. Their friendship is transitive in nature. For example, if A is a <b>direct</b> friend of B, and B is a <b>direct</b> friend of C, then A is an <b>indirect</b> friend of C. And we defined a friend circle is a group of students who are direct or indirect friends.

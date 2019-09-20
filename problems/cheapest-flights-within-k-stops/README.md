@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/rotated-digits "Rotated Digits")
 
-## 787. Cheapest Flights Within K Stops (Medium)
+## [787. Cheapest Flights Within K Stops (Medium)](https://leetcode.com/problems/cheapest-flights-within-k-stops "K 站中转内最便宜的航班")
 
 <p>There are <code>n</code> cities connected by&nbsp;<code>m</code> flights. Each fight starts from city&nbsp;<code>u </code>and arrives at&nbsp;<code>v</code> with a price <code>w</code>.</p>
 

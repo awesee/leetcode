@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/classes-more-than-5-students "Classes More Than 5 Students")
 
-## 595. Big Countries (Easy)
+## [595. Big Countries (Easy)](https://leetcode.com/problems/big-countries "大的国家")
 
 <p>There is a table <code>World</code></p>
 

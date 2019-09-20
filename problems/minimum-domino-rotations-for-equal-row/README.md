@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/construct-binary-search-tree-from-preorder-traversal "Construct Binary Search Tree from Preorder Traversal")
 
-## 1007. Minimum Domino Rotations For Equal Row (Medium)
+## [1007. Minimum Domino Rotations For Equal Row (Medium)](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row "行相等的最少多米诺旋转")
 
 <p>In a row of dominoes, <code>A[i]</code> and <code>B[i]</code> represent the top and bottom halves of the <code>i</code>-th domino.&nbsp; (A domino is a tile with two numbers from 1 to 6 - one on each half of the tile.)</p>
 

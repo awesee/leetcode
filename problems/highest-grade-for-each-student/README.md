@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reported-posts "Reported Posts")
 
-## 1112. Highest Grade For Each Student (Medium)
+## [1112. Highest Grade For Each Student (Medium)](https://leetcode.com/problems/highest-grade-for-each-student "")
 
 
 

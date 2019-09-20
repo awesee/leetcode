@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reachable-nodes-in-subdivided-graph "Reachable Nodes In Subdivided Graph")
 
-## 881. Boats to Save People (Medium)
+## [881. Boats to Save People (Medium)](https://leetcode.com/problems/boats-to-save-people "救生艇")
 
 <p>The <code>i</code>-th person has weight <code>people[i]</code>, and each boat can carry a maximum weight of <code>limit</code>.</p>
 

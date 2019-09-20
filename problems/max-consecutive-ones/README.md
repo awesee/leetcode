@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/predict-the-winner "Predict the Winner")
 
-## 485. Max Consecutive Ones (Easy)
+## [485. Max Consecutive Ones (Easy)](https://leetcode.com/problems/max-consecutive-ones "最大连续1的个数")
 
 <p>Given a binary array, find the maximum number of consecutive 1s in this array.</p>
 

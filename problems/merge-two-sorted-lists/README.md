@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses "Generate Parentheses")
 
-## 21. Merge Two Sorted Lists (Easy)
+## [21. Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists "合并两个有序链表")
 
 <p>Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.</p>
 

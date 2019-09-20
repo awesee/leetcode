@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/gray-code "Gray Code")
 
-## 88. Merge Sorted Array (Easy)
+## [88. Merge Sorted Array (Easy)](https://leetcode.com/problems/merge-sorted-array "合并两个有序数组")
 
 <p>Given two sorted integer arrays <em>nums1</em> and <em>nums2</em>, merge <em>nums2</em> into <em>nums1</em> as one sorted array.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-ii "Maximum Average Subarray II")
 
-## 643. Maximum Average Subarray I (Easy)
+## [643. Maximum Average Subarray I (Easy)](https://leetcode.com/problems/maximum-average-subarray-i "子数组最大平均数 I")
 
 <p>Given an array consisting of <code>n</code> integers, find the contiguous subarray of given length <code>k</code> that has the maximum average value. And you need to output the maximum average value.</p>
 

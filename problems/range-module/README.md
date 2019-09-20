@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/max-stack "Max Stack")
 
-## 715. Range Module (Hard)
+## [715. Range Module (Hard)](https://leetcode.com/problems/range-module "Range 模块")
 
 <p>A Range Module is a module that tracks ranges of numbers. Your task is to design and implement the following interfaces in an efficient manner.</p>
 

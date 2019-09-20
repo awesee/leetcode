@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/valid-mountain-array "Valid Mountain Array")
 
-## 940. Distinct Subsequences II (Hard)
+## [940. Distinct Subsequences II (Hard)](https://leetcode.com/problems/distinct-subsequences-ii "不同的子序列 II")
 
 <p>Given a string <code>S</code>, count the number of distinct, non-empty subsequences of <code>S</code> .</p>
 
