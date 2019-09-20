@@ -1,4 +1,4 @@
-package reorder_log_files
+package problem_937
 
 import (
 	"sort"
