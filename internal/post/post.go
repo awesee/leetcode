@@ -84,7 +84,7 @@ func runPost(cmd *base.Command, args []string) {
 			oldPath := filepath.Join(basePath, "leetcode", filename)
 			newPath := filepath.Join(basePath, "_posts", filename)
 			base.FilePutContents(oldPath, buf.Bytes())
-			if leetcode.ProblemStatus[questionId] {
+			if leetcode.IsSolved(questionId) {
 				_ = os.Rename(oldPath, newPath)
 			} else {
 				_ = os.Remove(newPath)
