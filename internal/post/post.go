@@ -28,7 +28,7 @@ func runPost(cmd *base.Command, args []string) {
 	}
 	formatFilename := "%s-%s.md"
 	formatTopicTag := "  [[%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md)]\n"
-	formatSimilarQuestion := "  1. [%s](/%s)%s\n"
+	formatSimilarQuestion := "  1. [%s](/problems/%s)%s\n"
 	problems := leetcode.ProblemsAll()
 	for _, problem := range problems.StatStatusPairs {
 		questionId := problem.Stat.FrontendQuestionId
@@ -84,7 +84,7 @@ func runPost(cmd *base.Command, args []string) {
 			oldPath := filepath.Join(basePath, "leetcode", filename)
 			newPath := filepath.Join(basePath, "_posts", filename)
 			base.FilePutContents(oldPath, buf.Bytes())
-			if inPosts[questionId] {
+			if leetcode.ProblemStatus[questionId] {
 				_ = os.Rename(oldPath, newPath)
 			} else {
 				_ = os.Remove(newPath)
@@ -112,7 +112,7 @@ title:      "%s"
 date:       %s +0800
 categories: [Leetcode]
 tags:       [%s]
-permalink:  /%s/
+permalink:  /problems/%s/
 ---
 `
 
@@ -124,38 +124,7 @@ taxonomy: %s
 ---
 `
 
-var homeDir, _ = os.UserHomeDir()
-
-var basePath = filepath.Join(homeDir, "openset", "openset")
-
-var inPosts = map[int]bool{
-	1:    true,
-	2:    true,
-	3:    true,
-	4:    true,
-	6:    true,
-	7:    true,
-	8:    true,
-	9:    true,
-	12:   true,
-	13:   true,
-	15:   true,
-	18:   true,
-	20:   true,
-	58:   true,
-	101:  true,
-	139:  true,
-	168:  true,
-	171:  true,
-	172:  true,
-	190:  true,
-	191:  true,
-	198:  true,
-	233:  true,
-	746:  true,
-	793:  true,
-	849:  true,
-	941:  true,
-	984:  true,
-	1000: true,
-}
+var (
+	homeDir, _ = os.UserHomeDir()
+	basePath   = filepath.Join(homeDir, "openset", "openset")
+)
