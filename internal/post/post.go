@@ -28,7 +28,7 @@ func runPost(cmd *base.Command, args []string) {
 	}
 	formatFilename := "%s-%s.md"
 	formatTopicTag := "  [[%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md)]\n"
-	formatSimilarQuestion := "  1. [%s](/%s)%s\n"
+	formatSimilarQuestion := "  1. [%s](/problems/%s)%s\n"
 	problems := leetcode.ProblemsAll()
 	for _, problem := range problems.StatStatusPairs {
 		questionId := problem.Stat.FrontendQuestionId
@@ -112,7 +112,7 @@ title:      "%s"
 date:       %s +0800
 categories: [Leetcode]
 tags:       [%s]
-permalink:  /%s/
+permalink:  /problems/%s/
 ---
 `
 
