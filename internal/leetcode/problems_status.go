@@ -1,6 +1,11 @@
 package leetcode
 
-var ProblemStatus = map[int]bool{
+// 状态
+func IsSolved(id int) bool {
+	return problemStatus[id]
+}
+
+var problemStatus = map[int]bool{
 	1:    true,
 	2:    true,
 	3:    true,
