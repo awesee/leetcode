@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/tournament-winners "Tournament Winners")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/how-many-apples-can-you-put-into-the-basket "How Many Apples Can You Put into the Basket")
 
 ## [1195. Fizz Buzz Multithreaded (Medium)](https://leetcode.com/problems/fizz-buzz-multithreaded "")
 
