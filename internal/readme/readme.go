@@ -93,7 +93,7 @@ var (
 var defaultStr = `
 # [LeetCode](https://openset.github.io/leetcode)
 LeetCode Problems' Solutions
-[[话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md)]
+[[力扣](https://openset.github.io/categories/leetcode/) ∙ [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md)]
 
 [![Build Status](https://travis-ci.org/openset/leetcode.svg?branch=master)](https://travis-ci.org/openset/leetcode)
 [![codecov](https://codecov.io/gh/openset/leetcode/branch/master/graph/badge.svg)](https://codecov.io/gh/openset/leetcode)
