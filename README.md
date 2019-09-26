@@ -62,6 +62,7 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1204">1204</span> | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/last-person-to-fit-in-the-elevator) | Medium |
 | <span id="1203">1203</span> | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies "项目管理") | [Go](https://github.com/openset/leetcode/tree/master/problems/sort-items-by-groups-respecting-dependencies) | Hard |
 | <span id="1202">1202</span> | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps "交换字符串中的元素") | [Go](https://github.com/openset/leetcode/tree/master/problems/smallest-string-with-swaps) | Medium |
 | <span id="1201">1201</span> | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii "丑数 III") | [Go](https://github.com/openset/leetcode/tree/master/problems/ugly-number-iii) | Medium |

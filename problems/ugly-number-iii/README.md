@@ -28,7 +28,7 @@
 <pre>
 <strong>Input:</strong> n = 4, a = 2, b = 3, c = 4
 <strong>Output:</strong> 6
-<strong>Explanation: </strong>The ugly numbers are 2, 3, 4, 6, 8, 9, 12... The 4th is 6.
+<strong>Explanation: </strong>The ugly numbers are 2, 3, 4, 6, 8, 9, 10, 12... The 4th is 6.
 </pre>
 
 <p><strong>Example 3:</strong></p>
