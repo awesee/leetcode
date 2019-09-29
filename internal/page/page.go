@@ -1,3 +1,4 @@
+// Package page implements the command page.
 package page
 
 import (

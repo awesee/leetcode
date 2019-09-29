@@ -1,3 +1,4 @@
+// leetcode is a tool for managing leetcode source code.
 package main
 
 import (

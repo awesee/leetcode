@@ -1,3 +1,4 @@
+// Package update implements the command update.
 package update
 
 import (

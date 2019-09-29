@@ -1,3 +1,4 @@
+// Package clean implements the command clean.
 package clean
 
 import (
