@@ -1,3 +1,4 @@
+// Package tag implements the command tag.
 package tag
 
 import (

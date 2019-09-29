@@ -1,3 +1,4 @@
+// Package readme implements the command readme.
 package readme
 
 import (

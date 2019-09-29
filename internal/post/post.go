@@ -1,3 +1,4 @@
+// Package post implements the command post.
 package post
 
 import (

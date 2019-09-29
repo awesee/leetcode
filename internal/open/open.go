@@ -1,3 +1,4 @@
+// Package open implements the command open.
 package open
 
 import (

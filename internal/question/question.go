@@ -1,3 +1,4 @@
+// Package question implements the command question.
 package question
 
 import (

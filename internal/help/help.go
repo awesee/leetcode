@@ -1,3 +1,4 @@
+// Package help implements the command help.
 package help
 
 import (

@@ -1,3 +1,4 @@
+// Package build implements the command build.
 package build
 
 import (

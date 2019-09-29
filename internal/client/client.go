@@ -1,3 +1,4 @@
+// Package client provides support for http request.
 package client
 
 import (

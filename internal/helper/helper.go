@@ -1,3 +1,4 @@
+// Package helper implements the command helper.
 package helper
 
 import (

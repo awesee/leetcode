@@ -1,3 +1,4 @@
+// Package description implements the command description.
 package description
 
 import (

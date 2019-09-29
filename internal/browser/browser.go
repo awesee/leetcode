@@ -1,3 +1,4 @@
+// Package browser support open a url in browser.
 package browser
 
 import (
