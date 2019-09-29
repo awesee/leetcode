@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/how-many-apples-can-you-put-into-the-basket "How Many Apples Can You Put into the Basket")
 
-## [1195. Fizz Buzz Multithreaded (Medium)](https://leetcode.com/problems/fizz-buzz-multithreaded "")
+## [1195. Fizz Buzz Multithreaded (Medium)](https://leetcode.com/problems/fizz-buzz-multithreaded "交替打印字符串")
 
 <p>Write a program that outputs the string representation of numbers from 1 to&nbsp;<i>n</i>, however:</p>
 
@@ -40,7 +40,3 @@ class FizzBuzz {
 	<li>Thread C will call <code>fizzbuzz()</code>&nbsp;to check for divisibility of 3 and 5 and outputs&nbsp;<code>fizzbuzz</code>.</li>
 	<li>Thread D will call <code>number()</code> which should only output the numbers.</li>
 </ol>
-
-### Similar Questions
-  1. [Fizz Buzz](https://github.com/openset/leetcode/tree/master/problems/fizz-buzz) (Easy)
-  1. [Print Zero Even Odd](https://github.com/openset/leetcode/tree/master/problems/print-zero-even-odd) (Medium)
