@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/decrease-elements-to-make-array-zigzag "Decrease Elements To Make Array Zigzag")
 
-## [1143. Longest Common Subsequence (Medium)](https://leetcode.com/problems/longest-common-subsequence "")
+## [1143. Longest Common Subsequence (Medium)](https://leetcode.com/problems/longest-common-subsequence "最长公共子序列")
 
 <p>Given two strings <code>text1</code> and <code>text2</code>, return the length of their longest common subsequence.</p>
 
@@ -52,14 +52,6 @@
 	<li><code>1 &lt;= text2.length &lt;= 1000</code></li>
 	<li>The input strings consist of lowercase English characters only.</li>
 </ul>
-
-### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-
-### Similar Questions
-  1. [Longest Palindromic Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-subsequence) (Medium)
-  1. [Delete Operation for Two Strings](https://github.com/openset/leetcode/tree/master/problems/delete-operation-for-two-strings) (Medium)
-  1. [Shortest Common Supersequence ](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence) (Hard)
 
 ### Hints
 <details>

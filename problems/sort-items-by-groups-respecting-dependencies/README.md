@@ -57,6 +57,7 @@
 ### Related Topics
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Topological Sort](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
 
 ### Hints
 <details>
