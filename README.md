@@ -62,6 +62,11 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1210">1210</span> | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations "穿过迷宫的最少移动次数") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-reach-target-with-rotations) | Hard |
+| <span id="1209">1209</span> | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii "删除字符串中的所有相邻重复项 II") | [Go](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string-ii) | Medium |
+| <span id="1208">1208</span> | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget "尽可能使字符串相等") | [Go](https://github.com/openset/leetcode/tree/master/problems/get-equal-substrings-within-budget) | Medium |
+| <span id="1207">1207</span> | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences "独一无二的出现次数") | [Go](https://github.com/openset/leetcode/tree/master/problems/unique-number-of-occurrences) | Easy |
+| <span id="1206">1206</span> | [Design Skiplist](https://leetcode.com/problems/design-skiplist) | [Go](https://github.com/openset/leetcode/tree/master/problems/design-skiplist) | Hard |
 | <span id="1205">1205</span> | [Monthly Transactions II](https://leetcode.com/problems/monthly-transactions-ii) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/monthly-transactions-ii) | Medium |
 | <span id="1204">1204</span> | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/last-person-to-fit-in-the-elevator) | Medium |
 | <span id="1203">1203</span> | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies "项目管理") | [Go](https://github.com/openset/leetcode/tree/master/problems/sort-items-by-groups-respecting-dependencies) | Hard |
