@@ -80,7 +80,7 @@ func runPost(cmd *base.Command, args []string) {
 				buf.WriteString(fmt.Sprintf(formatSimilarQuestion, q.Title, q.TitleSlug, q.Difficulty.Str()))
 			}
 			buf.WriteString("\n---\n")
-			buf.WriteString(fmt.Sprintf("\n## [答案](https://github.com/openset/leetcode/tree/master/problems/%s)\n", question.TitleSlug))
+			buf.WriteString(fmt.Sprintf("\n## [解法](https://github.com/openset/leetcode/tree/master/problems/%s)\n", question.TitleSlug))
 			filename := fmt.Sprintf(formatFilename, t.Format("2006-01-02"), question.TitleSlug)
 			oldPath := filepath.Join(basePath, "leetcode", filename)
 			newPath := filepath.Join(basePath, "_posts", filename)
