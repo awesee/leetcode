@@ -9,4 +9,5 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 5080 | [查找两棵二叉搜索树之和](https://github.com/openset/leetcode/tree/master/problems/two-sum-bsts) | [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]  | Medium |
 | 1038 | [从二叉搜索树到更大和树](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-to-greater-sum-tree) | [[二叉搜索树](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]  | Medium |

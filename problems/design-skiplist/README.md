@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/unique-number-of-occurrences "Unique Number of Occurrences")
 
-## [1206. Design Skiplist (Hard)](https://leetcode.com/problems/design-skiplist "")
+## [1206. Design Skiplist (Hard)](https://leetcode.com/problems/design-skiplist "设计跳表")
 
 <p>Design a Skiplist without using any built-in libraries.</p>
 
