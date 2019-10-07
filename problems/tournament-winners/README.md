@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/fizz-buzz-multithreaded "Fizz Buzz Multithreaded")
 
-## [1194. Tournament Winners (Hard)](https://leetcode.com/problems/tournament-winners "")
+## [1194. Tournament Winners (Hard)](https://leetcode.com/problems/tournament-winners "锦标赛优胜者")
 
 

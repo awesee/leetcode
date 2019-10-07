@@ -5,13 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii "Brace Expansion II")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-reach-target-with-rotations "Minimum Moves to Reach Target with Rotations")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unpopular-books "Unpopular Books")
+[Next >](https://github.com/openset/leetcode/tree/master/problems/team-scores-in-football-tournament "Team Scores in Football Tournament")
 
-## [1097. Game Play Analysis V (Hard)](https://leetcode.com/problems/game-play-analysis-v "游戏玩法分析 V")
+## [1211. Queries Quality and Percentage (Easy)](https://leetcode.com/problems/queries-quality-and-percentage "")
 
 
-
-### Similar Questions
-  1. [Game Play Analysis IV](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iv) (Medium)

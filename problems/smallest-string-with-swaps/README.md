@@ -47,7 +47,6 @@ Swap s[1] and s[2], s = &quot;abcd&quot;</pre>
 Swap s[0] and s[1], s = &quot;bca&quot;
 Swap s[1] and s[2], s = &quot;bac&quot;
 Swap s[0] and s[1], s = &quot;abc&quot;
-
 </pre>
 
 <p>&nbsp;</p>

@@ -170,6 +170,11 @@
 		"TranslatedName": "Line Sweep"
 	},
 	{
+		"Name": "Binary Search Tree",
+		"Slug": "binary-search-tree",
+		"TranslatedName": "二叉搜索树"
+	},
+	{
 		"Name": "Rejection Sampling",
 		"Slug": "rejection-sampling",
 		"TranslatedName": "Rejection Sampling"
@@ -178,11 +183,6 @@
 		"Name": "Reservoir Sampling",
 		"Slug": "reservoir-sampling",
 		"TranslatedName": "蓄水池抽样"
-	},
-	{
-		"Name": "Binary Search Tree",
-		"Slug": "binary-search-tree",
-		"TranslatedName": "二叉搜索树"
 	},
 	{
 		"Name": "Memoization",

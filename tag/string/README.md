@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 5099 | [验证回文字符串 III](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-iii) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1181 | [前后拼接](https://github.com/openset/leetcode/tree/master/problems/before-and-after-puzzle) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 1180 | [统计只含单一字母的子串](https://github.com/openset/leetcode/tree/master/problems/count-substrings-with-only-one-distinct-letter) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1177 | [构建回文串检测](https://github.com/openset/leetcode/tree/master/problems/can-make-palindrome-from-substring) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |

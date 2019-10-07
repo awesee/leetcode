@@ -38,7 +38,6 @@
 <strong>Input:</strong> n = 8, m = 2, group = [-1,-1,1,0,0,1,0,-1], beforeItems = [[],[6],[5],[6],[3],[],[4],[]]
 <strong>Output:</strong> []
 <strong>Explanation:</strong>&nbsp;This is the same as example 1 except that 4 needs to be before 6 in the sorted list.
-
 </pre>
 
 <p>&nbsp;</p>

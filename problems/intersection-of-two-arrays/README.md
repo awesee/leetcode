@@ -45,3 +45,4 @@
 
 ### Similar Questions
   1. [Intersection of Two Arrays II](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays-ii) (Easy)
+  1. [Intersection of Three Sorted Arrays](https://github.com/openset/leetcode/tree/master/problems/intersection-of-three-sorted-arrays) (Easy)

@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string-ii "Remove All Adjacent Duplicates in String II")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/queries-quality-and-percentage "Queries Quality and Percentage")
 
 ## [5208. Minimum Moves to Reach Target with Rotations (Hard)](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations "穿过迷宫的最少移动次数")
 
