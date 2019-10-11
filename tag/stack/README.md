@@ -9,6 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1209 | [删除字符串中的所有相邻重复项 II](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string-ii) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
+| 1190 | [反转每对括号间的子串](https://github.com/openset/leetcode/tree/master/problems/reverse-substrings-between-each-pair-of-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
+| 1130 | [叶值的最小代价生成树](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-tree-from-leaf-values) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1124 | [表现良好的最长时间段](https://github.com/openset/leetcode/tree/master/problems/longest-well-performing-interval) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
 | 1063 | [有效子数组的数目](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-subarrays) 🔒 | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Hard |
 | 1047 | [删除字符串中的所有相邻重复项](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Easy |

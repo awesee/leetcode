@@ -38,6 +38,9 @@
 	<li>There are no repeated connections.</li>
 </ul>
 
+### Related Topics
+  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

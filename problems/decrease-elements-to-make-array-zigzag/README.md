@@ -48,3 +48,9 @@
 
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Do each case (even indexed is greater, odd indexed is greater) separately. In say the even case, you should decrease each even-indexed element until it is lower than its immediate neighbors.
+</details>

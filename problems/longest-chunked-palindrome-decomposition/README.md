@@ -62,3 +62,14 @@
 
 ### Related Topics
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Using a rolling hash, we can quickly check whether two strings are equal.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+Use that as the basis of a dp.
+</details>

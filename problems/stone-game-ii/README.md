@@ -37,3 +37,12 @@
 	<li><code>1 &lt;= piles.length &lt;= 100</code></li>
 	<li><code>1 &lt;= piles[i]&nbsp;&lt;= 10 ^ 4</code></li>
 </ul>
+
+### Related Topics
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Use dynamic programming: the states are (i, m) for the answer of piles[i:] and that given m.
+</details>

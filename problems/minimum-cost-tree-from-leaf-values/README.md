@@ -45,3 +45,19 @@ There are two possible trees.  The first has non-leaf node sum 36, and the secon
 	<li><code>1 &lt;= arr[i] &lt;= 15</code></li>
 	<li>It is guaranteed that the answer fits into a 32-bit signed integer (ie.&nbsp;it is less than <code>2^31</code>).</li>
 </ul>
+
+### Related Topics
+  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Do a DP, where dp(i, j) is the answer for the subarray arr[i]..arr[j].
+</details>
+
+<details>
+<summary>Hint 2</summary>
+For each possible way to partition the subarray i <= k < j, the answer is max(arr[i]..arr[k]) * max(arr[k+1]..arr[j]) + dp(i, k) + dp(k+1, j).
+</details>

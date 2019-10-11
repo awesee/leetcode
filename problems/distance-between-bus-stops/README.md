@@ -61,6 +61,9 @@
 	<li><code>0 &lt;= distance[i] &lt;= 10^4</code></li>
 </ul>
 
+### Related Topics
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-square-numbers "Sum of Square Numbers")
 
-## [632. Smallest Range Covering Elements from K Lists (Hard)](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists "")
+## [632. Smallest Range Covering Elements from K Lists (Hard)](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists "最小区间")
 
 <p>You have <code>k</code> lists of sorted integers in ascending order. Find the <b>smallest</b> range that includes at least one number from each of the <code>k</code> lists.</p>
 
@@ -42,6 +42,3 @@ List 3: [5, 18, 22, 30], 22 is in range [20,24].
   [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
   [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-
-### Similar Questions
-  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) (Hard)

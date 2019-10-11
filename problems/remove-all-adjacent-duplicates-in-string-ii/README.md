@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-reach-target-with-rotations "Minimum Moves to Reach Target with Rotations")
 
-## [5206. Remove All Adjacent Duplicates in String II (Medium)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii "删除字符串中的所有相邻重复项 II")
+## [1209. Remove All Adjacent Duplicates in String II (Medium)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii "删除字符串中的所有相邻重复项 II")
 
 <p>Given a string&nbsp;<code>s</code>, a <em>k</em>&nbsp;<em>duplicate removal</em>&nbsp;consists of choosing <code>k</code>&nbsp;adjacent and equal letters from&nbsp;<code>s</code> and removing&nbsp;them causing the left and the right side of the deleted substring to concatenate together.</p>
 
@@ -52,6 +52,9 @@ Finally delete &quot;ddd&quot;, get &quot;aa&quot;</pre>
 	<li><code>2 &lt;= k &lt;= 10^4</code></li>
 	<li><code>s</code> only contains lower case English letters.</li>
 </ul>
+
+### Related Topics
+  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
 
 ### Hints
 <details>

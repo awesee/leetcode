@@ -27,3 +27,17 @@
 	<li><code>1 &lt;= dominoes.length &lt;= 40000</code></li>
 	<li><code>1 &lt;= dominoes[i][j] &lt;= 9</code></li>
 </ul>
+
+### Related Topics
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+For each domino j, find the number of dominoes you've already seen (dominoes i with i < j) that are equivalent.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+You can keep track of what you've seen using a hashmap.
+</details>

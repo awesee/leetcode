@@ -25,7 +25,8 @@
 <pre>
 <strong>Input:</strong> hours = [9,9,6,0,6,6,9]
 <strong>Output:</strong> 3
-<strong>Explanation: </strong>The longest well-performing interval is [9,9,6].<button type="default"></button></pre>
+<strong>Explanation: </strong>The longest well-performing interval is [9,9,6].
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
@@ -37,3 +38,14 @@
 
 ### Related Topics
   [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Make a new array A of +1/-1s corresponding to if hours[i] is > 8 or not. The goal is to find the longest subarray with positive sum.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+Using prefix sums (PrefixSum[i+1] = A[0] + A[1] + ... + A[i]), you need to find for each j, the smallest i < j with PrefixSum[i] + 1 == PrefixSum[j].
+</details>

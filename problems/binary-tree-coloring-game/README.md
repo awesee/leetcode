@@ -42,3 +42,14 @@
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+The best move y must be immediately adjacent to x, since it locks out that subtree.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+Can you count each of (up to) 3 different subtrees neighboring x?
+</details>

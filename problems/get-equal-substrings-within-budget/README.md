@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string-ii "Remove All Adjacent Duplicates in String II")
 
-## [5207. Get Equal Substrings Within Budget (Medium)](https://leetcode.com/problems/get-equal-substrings-within-budget "尽可能使字符串相等")
+## [1208. Get Equal Substrings Within Budget (Medium)](https://leetcode.com/problems/get-equal-substrings-within-budget "尽可能使字符串相等")
 
 <p>You are given two strings <code>s</code> and <code>t</code> of the same length. You want to change <code>s</code> to <code>t</code>. Changing the <code>i</code>-th character of <code>s</code> to <code>i</code>-th character of <code>t</code> costs <code>|s[i] - t[i]|</code> that is, the absolute difference between the ASCII values of the characters.</p>
 
@@ -23,22 +23,22 @@
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;abcd&quot;, t = &quot;bcdf&quot;, cost = 3
+<strong>Input:</strong> s = &quot;abcd&quot;, t = &quot;bcdf&quot;, maxCost = 3
 <strong>Output:</strong> 3
 <strong>Explanation: </strong>&quot;abc&quot; of s can change to &quot;bcd&quot;. That costs 3, so the maximum length is 3.</pre>
 
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;abcd&quot;, t = &quot;cdef&quot;, cost = 3
+<strong>Input:</strong> s = &quot;abcd&quot;, t = &quot;cdef&quot;, maxCost = 3
 <strong>Output:</strong> 1
-<strong>Explanation: </strong>Each charactor in s costs 2 to change to charactor in <code>t, so the maximum length is 1.</code>
+<strong>Explanation: </strong>Each character in s costs 2 to change to charactor in <code>t, so the maximum length is 1.</code>
 </pre>
 
 <p><strong>Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;abcd&quot;, t = &quot;acde&quot;, cost = 0
+<strong>Input:</strong> s = &quot;abcd&quot;, t = &quot;acde&quot;, maxCost = 0
 <strong>Output:</strong> 1
 <strong>Explanation: </strong>You can&#39;t make any change, so the maximum length is 1.
 </pre>
@@ -51,6 +51,10 @@
 	<li><code>0 &lt;= maxCost &lt;= 10^6</code></li>
 	<li><code>s</code> and&nbsp;<code>t</code> only contain lower case English letters.</li>
 </ul>
+
+### Related Topics
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
 
 ### Hints
 <details>

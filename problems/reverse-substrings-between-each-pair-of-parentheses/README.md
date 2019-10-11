@@ -11,13 +11,11 @@
 
 ## [1190. Reverse Substrings Between Each Pair of Parentheses (Medium)](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses "反转每对括号间的子串")
 
-<p>Given a string <code>s</code> that consists of lower case English letters and brackets.&nbsp;</p>
+<p>You are given a string <code>s</code> that consists of lower case English letters and brackets.&nbsp;</p>
 
 <p>Reverse the strings&nbsp;in each&nbsp;pair of matching parentheses, starting&nbsp;from the innermost one.</p>
 
-<p>Your result should <strong>not</strong> contain any bracket.</p>
-
-<p>&nbsp;</p>
+<p>Your result should <strong>not</strong> contain any brackets.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -32,6 +30,7 @@
 <pre>
 <strong>Input:</strong> s = &quot;(u(love)i)&quot;
 <strong>Output:</strong> &quot;iloveu&quot;
+<strong>Explanation:</strong>&nbsp;The substring &quot;love&quot; is reversed first, then the whole string is reversed.
 </pre>
 
 <p><strong>Example 3:</strong></p>
@@ -39,6 +38,7 @@
 <pre>
 <strong>Input:</strong> s = &quot;(ed(et(oc))el)&quot;
 <strong>Output:</strong> &quot;leetcode&quot;
+<strong>Explanation:</strong>&nbsp;First, we reverse the substring &quot;oc&quot;, then &quot;etco&quot;, and finally, the whole string.
 </pre>
 
 <p><strong>Example 4:</strong></p>
@@ -56,6 +56,9 @@
 	<li><code>s</code> only contains lower case English characters and parentheses.</li>
 	<li>It&#39;s guaranteed that all parentheses are balanced.</li>
 </ul>
+
+### Related Topics
+  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
 
 ### Hints
 <details>

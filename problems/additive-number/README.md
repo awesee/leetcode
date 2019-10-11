@@ -19,22 +19,32 @@
 
 <p><b>Note:</b> Numbers in the additive sequence <b>cannot</b> have leading zeros, so sequence <code>1, 2, 03</code> or <code>1, 02, 3</code> is invalid.</p>
 
-<p><b>Example 1:</b></p>
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
 
 <pre>
-<b>Input:</b> <code>&quot;112358&quot;</code>
-<b>Output:</b> true 
-<strong>Explanation: </strong>The digits can form an additive sequence: <code>1, 1, 2, 3, 5, 8</code>. 
+<strong>Input:</strong> &quot;112358&quot;
+<strong>Output:</strong> true
+<strong>Explanation:</strong> The digits can form an additive sequence: 1, 1, 2, 3, 5, 8. 
 &nbsp;            1 + 1 = 2, 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8
 </pre>
 
-<p><b>Example 2:</b></p>
+<p><strong>Example 2:</strong></p>
 
 <pre>
-<b>Input:</b> <code>&quot;199100199&quot;</code>
-<b>Output:</b> true 
-<strong>Explanation: </strong>The additive sequence is: <code>1, 99, 100, 199</code><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;;">.</span>&nbsp;
-&nbsp;            1 + 99 = 100, 99 + 100 = 199</pre>
+<strong>Input:</strong> &quot;199100199&quot;
+<strong>Output:</strong> true
+<strong>Explanation:</strong> The additive sequence is: 1, 99, 100, 199.&nbsp;
+&nbsp;            1 + 99 = 100, 99 + 100 = 199
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><font face="monospace"><code>num</code>&nbsp;</font>consists only of digits <code>&#39;0&#39;-&#39;9&#39;</code>.</li>
+	<li><code>1 &lt;= num.length &lt;= 35</code></li>
+</ul>
 
 <p><b>Follow up:</b><br />
 How would you handle overflow for very large input integers?</p>

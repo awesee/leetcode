@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 Next >
 
-## [5216. Count Vowels Permutation (Hard)](https://leetcode.com/problems/count-vowels-permutation "统计元音字母序列的数目")
+## [1220. Count Vowels Permutation (Hard)](https://leetcode.com/problems/count-vowels-permutation "统计元音字母序列的数目")
 
 <p>Given an integer <code>n</code>, your task is to count how many strings of length <code>n</code> can be formed under the following rules:</p>
 
@@ -53,6 +53,9 @@ Next >
 <ul>
 	<li><code>1 &lt;= n &lt;= 2 * 10^4</code></li>
 </ul>
+
+### Related Topics
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

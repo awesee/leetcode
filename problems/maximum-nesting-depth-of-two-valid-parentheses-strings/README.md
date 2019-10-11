@@ -58,3 +58,7 @@
 <ul>
 	<li><code>1 &lt;= seq.size &lt;= 10000</code></li>
 </ul>
+
+### Related Topics
+  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]

@@ -30,7 +30,7 @@ class ZeroEvenOdd {
 	<li>Thread C will call <code>odd()</code>&nbsp;which should only output odd numbers.</li>
 </ol>
 
-<p>Each of the thread is given a&nbsp;<code>printNumber</code> method to output&nbsp;an integer. Modify the given program to output the series&nbsp;<code>010203040506</code>... where the length of the series must be 2<em>n</em>.</p>
+<p>Each of the threads is given a&nbsp;<code>printNumber</code> method to output&nbsp;an integer. Modify the given program to output the series&nbsp;<code>010203040506</code>... where the length of the series must be 2<em>n</em>.</p>
 
 <p>&nbsp;</p>
 

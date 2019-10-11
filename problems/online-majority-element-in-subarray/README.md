@@ -46,3 +46,34 @@ majorityChecker.query(2,3,2); // returns 2
 	<li>For each query, <code>2 * threshold &gt; right - left + 1</code></li>
 	<li>The number of queries is at most <code>10000</code></li>
 </ul>
+
+### Related Topics
+  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+What's special about a majority element ?
+</details>
+
+<details>
+<summary>Hint 2</summary>
+A majority element appears more than half the length of the array number of times.
+</details>
+
+<details>
+<summary>Hint 3</summary>
+If we tried a random index of the array, what's the probability that this index has a majority element ?
+</details>
+
+<details>
+<summary>Hint 4</summary>
+It's more than 50% if that array has a majority element.
+</details>
+
+<details>
+<summary>Hint 5</summary>
+Try a random index for a proper number of times so that the probability of not finding the answer tends to zero.
+</details>

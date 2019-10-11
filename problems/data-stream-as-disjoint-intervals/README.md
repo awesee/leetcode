@@ -23,10 +23,11 @@
 [1, 3], [6, 7]
 </pre>
 
-<p><b>Follow up:</b><br />
-What if there are lots of merges and the number of disjoint intervals are small compared to the data stream&#39;s size?</p>
+<p>&nbsp;</p>
 
-<p><strong>NOTE:</strong>&nbsp;input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</p>
+<p><b>Follow up:</b></p>
+
+<p>What if there are lots of merges and the number of disjoint intervals are small compared to the data stream&#39;s size?</p>
 
 ### Related Topics
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
