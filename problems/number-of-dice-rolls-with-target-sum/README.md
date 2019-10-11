@@ -69,3 +69,12 @@ The answer must be returned modulo 10^9 + 7.
 	<li><code>1 &lt;= d, f &lt;= 30</code></li>
 	<li><code>1 &lt;= target &lt;= 1000</code></li>
 </ul>
+
+### Related Topics
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Use dynamic programming.  The states are how many dice are remaining, and what sum total you have rolled so far.
+</details>

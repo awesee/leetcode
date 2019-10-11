@@ -47,6 +47,9 @@
 	<li><code>-10^4 &lt;= arr[i] &lt;= 10^4</code></li>
 </ul>
 
+### Related Topics
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

@@ -39,3 +39,13 @@
 	<li><code>2 &lt;= arr1.length == arr2.length &lt;= 40000</code></li>
 	<li><code>-10^6 &lt;= arr1[i], arr2[i] &lt;= 10^6</code></li>
 </ul>
+
+### Related Topics
+  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Use the idea that abs(A) + abs(B) = max(A+B, A-B, -A+B, -A-B).
+</details>

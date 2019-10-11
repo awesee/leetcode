@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/get-equal-substrings-within-budget "Get Equal Substrings Within Budget")
 
-## [5205. Unique Number of Occurrences (Easy)](https://leetcode.com/problems/unique-number-of-occurrences "独一无二的出现次数")
+## [1207. Unique Number of Occurrences (Easy)](https://leetcode.com/problems/unique-number-of-occurrences "独一无二的出现次数")
 
 <p>Given an array of integers <code>arr</code>,&nbsp;write a function that returns <code>true</code> if and only if the number of occurrences of each value in the array is unique.</p>
 
@@ -42,6 +42,9 @@
 	<li><code>1 &lt;= arr.length&nbsp;&lt;= 1000</code></li>
 	<li><code>-1000 &lt;= arr[i] &lt;= 1000</code></li>
 </ul>
+
+### Related Topics
+  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
 
 ### Hints
 <details>

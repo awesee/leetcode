@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1157 | [子数组中占绝大多数的元素](https://github.com/openset/leetcode/tree/master/problems/online-majority-element-in-subarray) | [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
 | 850 | [矩形面积 II](https://github.com/openset/leetcode/tree/master/problems/rectangle-area-ii) | [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)] [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]  | Hard |
 | 732 | [我的日程安排表 III](https://github.com/openset/leetcode/tree/master/problems/my-calendar-iii) | [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)] [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]  | Hard |
 | 715 | [Range 模块](https://github.com/openset/leetcode/tree/master/problems/range-module) | [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)] [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]  | Hard |

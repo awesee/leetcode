@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/compare-strings-by-frequency-of-the-smallest-character "Compare Strings by Frequency of the Smallest Character")
 
-## [1169. Invalid Transactions (Easy)](https://leetcode.com/problems/invalid-transactions "查询无效交易")
+## [1169. Invalid Transactions (Medium)](https://leetcode.com/problems/invalid-transactions "查询无效交易")
 
 <p>A transaction is <em>possibly invalid</em> if:</p>
 

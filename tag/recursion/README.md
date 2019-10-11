@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1137 | [第 N 个泰波那契数](https://github.com/openset/leetcode/tree/master/problems/n-th-tribonacci-number) | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Easy |
 | 938 | [二叉搜索树的范围和](https://github.com/openset/leetcode/tree/master/problems/range-sum-of-bst) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Easy |
 | 894 | [所有可能的满二叉树](https://github.com/openset/leetcode/tree/master/problems/all-possible-full-binary-trees) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]  | Medium |
 | 794 | [有效的井字游戏](https://github.com/openset/leetcode/tree/master/problems/valid-tic-tac-toe-state) | [[递归](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |

@@ -36,3 +36,7 @@
 	<li><code>to_delete.length &lt;= 1000</code></li>
 	<li><code>to_delete</code> contains distinct values between <code>1</code> and <code>1000</code>.</li>
 </ul>
+
+### Related Topics
+  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

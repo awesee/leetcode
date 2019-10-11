@@ -36,9 +36,21 @@
 	<li><code>1 &lt;= people[i].length, req_skills[i].length, people[i][j].length&nbsp;&lt;= 16</code></li>
 	<li>Elements of <code>req_skills</code> and <code>people[i]</code> are (respectively) distinct.</li>
 	<li><code>req_skills[i][j], people[i][j][k]</code> are&nbsp;lowercase English letters.</li>
+	<li>Every skill in <code>people[i]</code>&nbsp;is a skill in <code>req_skills</code>.</li>
 	<li>It is guaranteed a sufficient team exists.</li>
 </ul>
 
 ### Related Topics
   [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Do a bitmask DP.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+For each person, for each set of skills, we can update our understanding of a minimum set of people needed to perform this set of skills.
+</details>

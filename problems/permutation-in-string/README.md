@@ -45,7 +45,7 @@
 
 ### Similar Questions
   1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) (Hard)
-  1. [Find All Anagrams in a String](https://github.com/openset/leetcode/tree/master/problems/find-all-anagrams-in-a-string) (Easy)
+  1. [Find All Anagrams in a String](https://github.com/openset/leetcode/tree/master/problems/find-all-anagrams-in-a-string) (Medium)
 
 ### Hints
 <details>

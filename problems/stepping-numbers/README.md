@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-iii "Valid Palindrome III")
 
-## [5081. Stepping Numbers (Medium)](https://leetcode.com/problems/stepping-numbers "步进数")
+## [1215. Stepping Numbers (Medium)](https://leetcode.com/problems/stepping-numbers "步进数")
 
 <p>A <em>Stepping Number</em> is&nbsp;an integer&nbsp;such that&nbsp;all of its adjacent digits have an absolute difference of exactly <code>1</code>. For example, <code>321</code> is a Stepping Number while <code>421</code> is not.</p>
 

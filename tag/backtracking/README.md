@@ -9,7 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 5081 | [步进数](https://github.com/openset/leetcode/tree/master/problems/stepping-numbers) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
+| 1219 | [黄金矿工](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-gold) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
+| 1215 | [步进数](https://github.com/openset/leetcode/tree/master/problems/stepping-numbers) 🔒 | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
 | 1088 | [易混淆数 II](https://github.com/openset/leetcode/tree/master/problems/confusing-number-ii) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
 | 1087 | [字母切换](https://github.com/openset/leetcode/tree/master/problems/brace-expansion) 🔒 | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
 | 1079 | [活字印刷](https://github.com/openset/leetcode/tree/master/problems/letter-tile-possibilities) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |

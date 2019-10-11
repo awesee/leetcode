@@ -46,3 +46,18 @@
 	<li><code>1 &lt;= target.length &lt;= 100</code></li>
 	<li><code>target</code> consists only of English lowercase letters.</li>
 </ul>
+
+### Related Topics
+  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Create a hashmap from letter to position on the board.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+Now for each letter, try moving there in steps, where at each step you check if it is inside the boundaries of the board.
+</details>

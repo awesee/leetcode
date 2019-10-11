@@ -9,7 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1217 | [玩筹码](https://github.com/openset/leetcode/tree/master/problems/play-with-chips) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 1167 | [连接棒材的最低费用](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-connect-sticks) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
+| 1111 | [有效括号的嵌套深度](https://github.com/openset/leetcode/tree/master/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
 | 1094 | [拼车](https://github.com/openset/leetcode/tree/master/problems/car-pooling) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
 | 1090 | [受标签影响的最大值](https://github.com/openset/leetcode/tree/master/problems/largest-values-from-labels) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 1058 | [最小化舍入误差以满足目标](https://github.com/openset/leetcode/tree/master/problems/minimize-rounding-error-to-meet-target) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |

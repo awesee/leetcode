@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/statistics-from-a-large-sample "Statistics from a Large Sample")
 
-## [1092. Shortest Common Supersequence (Hard)](https://leetcode.com/problems/shortest-common-supersequence "最短公共超序列")
+## [1092. Shortest Common Supersequence  (Hard)](https://leetcode.com/problems/shortest-common-supersequence "最短公共超序列")
 
 <p>Given two strings <code>str1</code> and <code>str2</code>,&nbsp;return the shortest string that has both <code>str1</code>&nbsp;and <code>str2</code>&nbsp;as subsequences.&nbsp;&nbsp;If multiple answers exist, you may return any of them.</p>
 
@@ -23,8 +23,8 @@
 <strong>Input: </strong>str1 = <span id="example-input-1-1">&quot;abac&quot;</span>, str2 = <span id="example-input-1-2">&quot;cab&quot;</span>
 <strong>Output: </strong><span id="example-output-1">&quot;cabac&quot;</span>
 <strong>Explanation: </strong>
-str1 = &quot;abac&quot; is a substring of &quot;cabac&quot; because we can delete the first &quot;c&quot;.
-str2 = &quot;cab&quot; is a substring of &quot;cabac&quot; because we can delete the last &quot;ac&quot;.
+str1 = &quot;abac&quot; is a subsequence of &quot;cabac&quot; because we can delete the first &quot;c&quot;.
+str2 = &quot;cab&quot; is a subsequence of &quot;cabac&quot; because we can delete the last &quot;ac&quot;.
 The answer provided is the shortest such string that satisfies these properties.
 </pre>
 

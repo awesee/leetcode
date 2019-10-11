@@ -58,3 +58,19 @@ The answer returned is a TreeNode object (not an array) with serialization &quot
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Do a postorder traversal.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+Then, if both subtrees contain a deepest leaf, you can mark this node as the answer (so far).
+</details>
+
+<details>
+<summary>Hint 3</summary>
+The final node marked will be the correct answer.
+</details>

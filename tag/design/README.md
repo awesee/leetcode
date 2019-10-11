@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1206 | [设计跳表](https://github.com/openset/leetcode/tree/master/problems/design-skiplist) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Hard |
 | 1172 | [餐盘栈](https://github.com/openset/leetcode/tree/master/problems/dinner-plate-stacks) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Hard |
 | 1166 | [设计文件系统](https://github.com/openset/leetcode/tree/master/problems/design-file-system) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 716 | [最大栈](https://github.com/openset/leetcode/tree/master/problems/max-stack) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Easy |

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/queries-quality-and-percentage "Queries Quality and Percentage")
 
-## [5208. Minimum Moves to Reach Target with Rotations (Hard)](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations "穿过迷宫的最少移动次数")
+## [1210. Minimum Moves to Reach Target with Rotations (Hard)](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations "穿过迷宫的最少移动次数")
 
 <p>In an&nbsp;<code>n*n</code>&nbsp;grid, there is a snake that spans 2 cells and starts moving from the top left corner at <code>(0, 0)</code> and <code>(0, 1)</code>. The grid has empty cells represented by zeros and blocked cells represented by ones. The snake wants to reach the lower right corner at&nbsp;<code>(n-1, n-2)</code>&nbsp;and&nbsp;<code>(n-1, n-1)</code>.</p>
 
@@ -65,6 +65,9 @@
 	<li><code>0 &lt;= grid[i][j] &lt;= 1</code></li>
 	<li>It is guaranteed that the snake starts at empty cells.</li>
 </ul>
+
+### Related Topics
+  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

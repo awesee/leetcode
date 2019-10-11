@@ -31,7 +31,7 @@
 	<li>When we concatenate two expressions, we take the set of possible concatenations between two words where the first word comes from the first expression and the second word comes from the second expression.
 	<ul>
 		<li><code>R(&quot;{a,b}{c,d}&quot;) = {&quot;ac&quot;,&quot;ad&quot;,&quot;bc&quot;,&quot;bd&quot;}</code></li>
-		<li><code>R(&quot;{a{b,c}}{{d,e}f{g,h}}&quot;) = R(&quot;{ab,ac}{dfg,dfh,efg,efh}&quot;) = {&quot;abdfg&quot;, &quot;abdfh&quot;, &quot;abefg&quot;, &quot;abefh&quot;, &quot;acdfg&quot;, &quot;acdfh&quot;, &quot;acefg&quot;, &quot;acefh&quot;}</code></li>
+		<li><code>R(&quot;a{b,c}{d,e}f{g,h}&quot;)&nbsp;= {&quot;abdfg&quot;, &quot;abdfh&quot;, &quot;abefg&quot;, &quot;abefh&quot;, &quot;acdfg&quot;, &quot;acdfh&quot;, &quot;acefg&quot;, &quot;acefh&quot;}</code></li>
 	</ul>
 	</li>
 </ul>
@@ -52,8 +52,8 @@
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-1-1">&quot;{a,b}{c{d,e}}&quot;</span>
-<strong>Output: </strong><span id="example-output-1">[&quot;acd&quot;,&quot;ace&quot;,&quot;bcd&quot;,&quot;bce&quot;]</span>
+<strong>Input: </strong><span id="example-input-1-1">&quot;{a,b}{c,{d,e}}&quot;</span>
+<strong>Output: </strong><span id="example-output-1">[&quot;ac&quot;,&quot;ad&quot;,&quot;ae&quot;,&quot;bc&quot;,&quot;bd&quot;,&quot;be&quot;]</span>
 </pre>
 
 <div>
@@ -70,7 +70,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ol>
-	<li><code>1 &lt;= expression.length &lt;= 50</code></li>
+	<li><code>1 &lt;= expression.length &lt;= 60</code></li>
 	<li><code>expression[i]</code> consists of <code>&#39;{&#39;</code>, <code>&#39;}&#39;</code>, <code>&#39;,&#39;</code>or lowercase English letters.</li>
 	<li>The given&nbsp;<code>expression</code>&nbsp;represents a set of words based on the grammar given in the description.</li>
 </ol>

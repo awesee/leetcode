@@ -36,3 +36,17 @@
 	<li><code>1 &lt;= grid[0].length &lt;= 100</code></li>
 	<li><code>grid[i][j]</code> is <code>0</code> or <code>1</code></li>
 </ul>
+
+### Related Topics
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+For each square, know how many ones are up, left, down, and right of this square. You can find it in O(N^2) using dynamic programming.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+Now for each square ( O(N^3) ), we can evaluate whether that square is 1-bordered in O(1).
+</details>

@@ -44,3 +44,13 @@
 	<li><code>red_edges[i].length == blue_edges[i].length == 2</code></li>
 	<li><code>0 &lt;= red_edges[i][j], blue_edges[i][j] &lt; n</code></li>
 </ul>
+
+### Related Topics
+  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Do a breadth-first search, where the "nodes" are actually (Node, color of last edge taken).
+</details>

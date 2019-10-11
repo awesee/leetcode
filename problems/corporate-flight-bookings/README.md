@@ -33,3 +33,7 @@
 	<li><code>1 &lt;= bookings[i][0] &lt;= bookings[i][1] &lt;= n &lt;= 20000</code></li>
 	<li><code>1 &lt;= bookings[i][2] &lt;= 10000</code></li>
 </ul>
+
+### Related Topics
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]

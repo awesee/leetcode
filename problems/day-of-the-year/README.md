@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-dice-rolls-with-target-sum "Number of Dice Rolls With Target Sum")
 
-## [1154. Day of the Year (Easy)](https://leetcode.com/problems/day-of-the-year "")
+## [1154. Day of the Year (Easy)](https://leetcode.com/problems/day-of-the-year "一年中的第几天")
 
 <p>Given a string <code>date</code> representing a <a href="https://en.wikipedia.org/wiki/Gregorian_calendar" target="_blank">Gregorian&nbsp;calendar</a> date formatted as <code>YYYY-MM-DD</code>, return the day number of the year.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/stepping-numbers "Stepping Numbers")
 
-## [5080. Two Sum BSTs (Medium)](https://leetcode.com/problems/two-sum-bsts "查找两棵二叉搜索树之和")
+## [1214. Two Sum BSTs (Medium)](https://leetcode.com/problems/two-sum-bsts "查找两棵二叉搜索树之和")
 
 <p>Given two binary search trees, return <code>True</code>&nbsp;if and only if there is a node in the first tree and a node in the second tree whose values&nbsp;sum up to a given integer&nbsp;<code>target</code>.</p>
 

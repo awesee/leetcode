@@ -11,9 +11,12 @@
 
 ## [659. Split Array into Consecutive Subsequences (Medium)](https://leetcode.com/problems/split-array-into-consecutive-subsequences "分割数组为连续子序列")
 
-<p>You are given an integer array sorted in ascending order (may contain duplicates), you need to split them into several subsequences, where each subsequences consist of at least 3 consecutive integers. Return whether you can make such a split.</p>
+<p>Given an array <code>nums</code>&nbsp;sorted in ascending order, return <code>true</code> if and only if you can split it into 1 or more subsequences such that each subsequence consists of consecutive integers&nbsp;and has length at least 3.</p>
 
-<p><b>Example 1:</b><br />
+<p>&nbsp;</p>
+
+<p><b>Example 1:</b></p>
+
 <pre>
 <b>Input:</b> [1,2,3,3,4,5]
 <b>Output:</b> True
@@ -21,10 +24,11 @@
 You can split them into two consecutive subsequences : 
 1, 2, 3
 3, 4, 5
-</pre>
-</p>
 
-<p><b>Example 2:</b><br />
+</pre>
+
+<p><b>Example 2:</b></p>
+
 <pre>
 <b>Input:</b> [1,2,3,3,4,4,5,5]
 <b>Output:</b> True
@@ -32,21 +36,25 @@ You can split them into two consecutive subsequences :
 You can split them into two consecutive subsequences : 
 1, 2, 3, 4, 5
 3, 4, 5
-</pre>
-</p>
 
-<p><b>Example 3:</b><br />
+</pre>
+
+<p><b>Example 3:</b></p>
+
 <pre>
 <b>Input:</b> [1,2,3,4,4,5]
 <b>Output:</b> False
 </pre>
-</p>
 
-<p><b>Note:</b><br>
-<ol>
-<li>The length of the input is in range of [1, 10000]</li>
-</ol>
-</p>
+<p>&nbsp;</p>
+
+<p><b>Constraints:</b></p>
+
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 10000</code></li>
+</ul>
+
+<p>&nbsp;</p>
 
 ### Related Topics
   [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]

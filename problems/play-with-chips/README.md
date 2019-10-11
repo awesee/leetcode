@@ -9,9 +9,9 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-subsequence-of-given-difference "Longest Arithmetic Subsequence of Given Difference")
 
-## [5213. Play with Chips (Easy)](https://leetcode.com/problems/play-with-chips "玩筹码")
+## [1217. Play with Chips (Easy)](https://leetcode.com/problems/play-with-chips "玩筹码")
 
-<p>You have the positions of some&nbsp;<code>chips</code>&nbsp;on the number line.</p>
+<p>There are some chips, and the i-th chip is at position <code>chips[i]</code>.</p>
 
 <p>You can perform any of the two following types of moves <strong>any number of times</strong> (possibly&nbsp;zero) <strong>on any chip</strong>:</p>
 
@@ -48,3 +48,29 @@
 	<li><code>1 &lt;= chips.length &lt;= 100</code></li>
 	<li><code>1 &lt;= chips[i] &lt;= 10^9</code></li>
 </ul>
+
+### Related Topics
+  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+The first move keeps the parity of the element as it is.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+The second move changes the parity of the element.
+</details>
+
+<details>
+<summary>Hint 3</summary>
+Since the first move is free, if all the numbers have the same parity, the answer would be zero.
+</details>
+
+<details>
+<summary>Hint 4</summary>
+Find the minimum cost to make all the numbers have the same parity.
+</details>

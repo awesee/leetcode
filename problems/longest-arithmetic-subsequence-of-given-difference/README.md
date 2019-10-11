@@ -9,9 +9,9 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-gold "Path with Maximum Gold")
 
-## [5214. Longest Arithmetic Subsequence of Given Difference (Medium)](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference "最长定差子序列")
+## [1218. Longest Arithmetic Subsequence of Given Difference (Medium)](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference "最长定差子序列")
 
-<p>Given an integer array <code>arr</code>&nbsp;and an integer <code><font face="monospace">difference</font></code>, return the length of the longest arithmetic subsequence in <font face="monospace"><code>arr</code>&nbsp;</font>such that the difference between adjacent elements in the subsequence equals&nbsp;<code>difference</code>.</p>
+<p>Given an integer array <code>arr</code>&nbsp;and an integer <code><font face="monospace">difference</font></code>, return the length of the longest subsequence in <font face="monospace"><code>arr</code>&nbsp;</font>which is an arithmetic sequence such that the difference between adjacent elements in the subsequence equals&nbsp;<code>difference</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -44,3 +44,23 @@
 	<li><code>1 &lt;= arr.length &lt;= 10^5</code></li>
 	<li><code>-10^4 &lt;= arr[i], difference &lt;= 10^4</code></li>
 </ul>
+
+### Related Topics
+  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Use dynamic programming.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+Let dp[i] be the maximum length of a subsequence of the given difference whose last element is i.
+</details>
+
+<details>
+<summary>Hint 3</summary>
+dp[i] = 1 + dp[i-k]
+</details>

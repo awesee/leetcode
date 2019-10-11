@@ -35,7 +35,7 @@
 <p><strong>Note:</strong></p>
 
 <ol>
-	<li><code>1 &lt;= s.length &lt;= 10^5</code></li>
+	<li><code>1 &lt;= s.length &lt;= 4&nbsp;* 10^5</code></li>
 	<li><font face="monospace">s</font> contains only lowercase English letters.</li>
 </ol>
 

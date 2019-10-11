@@ -53,6 +53,9 @@
 	<li>The input strings consist of lowercase English characters only.</li>
 </ul>
 
+### Related Topics
+  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

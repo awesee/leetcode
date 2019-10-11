@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/count-vowels-permutation "Count Vowels Permutation")
 
-## [5215. Path with Maximum Gold (Medium)](https://leetcode.com/problems/path-with-maximum-gold "黄金矿工")
+## [1219. Path with Maximum Gold (Medium)](https://leetcode.com/problems/path-with-maximum-gold "黄金矿工")
 
 <p>In a gold mine <code>grid</code>&nbsp;of size <code>m * n</code>,&nbsp;each cell in this mine has an integer representing the amount of gold&nbsp;in that cell,&nbsp;<code>0</code> if it is empty.</p>
 
@@ -58,3 +58,12 @@ Path to get the maximum gold, 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5 -&gt; 6 -&gt; 7.
 	<li><code>0 &lt;= grid[i][j] &lt;= 100</code></li>
 	<li>There are at most <strong>25&nbsp;</strong>cells containing gold.</li>
 </ul>
+
+### Related Topics
+  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Use recursion to try all such paths and find the one with the maximum value.
+</details>

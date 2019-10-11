@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/play-with-chips "Play with Chips")
 
-## [5099. Valid Palindrome III (Hard)](https://leetcode.com/problems/valid-palindrome-iii "验证回文字符串 III")
+## [1216. Valid Palindrome III (Hard)](https://leetcode.com/problems/valid-palindrome-iii "验证回文字符串 III")
 
 <p>Given a string <code>s</code>&nbsp;and an integer&nbsp;<code>k</code>, find out if the given string is&nbsp;a&nbsp;<em>K-Palindrome</em> or not.</p>
 

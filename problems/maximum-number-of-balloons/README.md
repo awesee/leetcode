@@ -49,6 +49,10 @@
 	<li><code>text</code>&nbsp;consists of lower case English letters only.</li>
 </ul>
 
+### Related Topics
+  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

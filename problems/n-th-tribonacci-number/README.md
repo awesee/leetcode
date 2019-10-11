@@ -43,5 +43,19 @@ T_4 = 1 + 1 + 2 = 4
 	<li>The answer is guaranteed to fit within a 32-bit integer, ie. <code>answer &lt;= 2^31 - 1</code>.</li>
 </ul>
 
+### Related Topics
+  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+
 ### Similar Questions
   1. [Climbing Stairs](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs) (Easy)
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Make an array F of length 38, and set F[0] = 0, F[1] = F[2] = 1.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+Now write a loop where you set F[n+3] = F[n] + F[n+1] + F[n+2], and return F[n].
+</details>
