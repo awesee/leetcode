@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1221 | [分割平衡字符串](https://github.com/openset/leetcode/tree/master/problems/split-a-string-in-balanced-strings) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1216 | [验证回文字符串 III](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-iii) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1189 | [“气球” 的最大数量](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-balloons) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1181 | [前后拼接](https://github.com/openset/leetcode/tree/master/problems/before-and-after-puzzle) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
@@ -33,7 +34,7 @@
 | 1016 | [子串能表示从 1 到 N 数字的二进制串](https://github.com/openset/leetcode/tree/master/problems/binary-string-with-substrings-representing-1-to-n) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 1003 | [检查替换后的词是否有效](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 966 | [元音拼写检查器](https://github.com/openset/leetcode/tree/master/problems/vowel-spellchecker) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
-| 937 | [重新排列日志文件](https://github.com/openset/leetcode/tree/master/problems/reorder-log-files) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
+| 937 | [重新排列日志文件](https://github.com/openset/leetcode/tree/master/problems/reorder-data-in-log-files) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 936 | [戳印序列](https://github.com/openset/leetcode/tree/master/problems/stamping-the-sequence) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Hard |
 | 929 | [独特的电子邮件地址](https://github.com/openset/leetcode/tree/master/problems/unique-email-addresses) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 925 | [长按键入](https://github.com/openset/leetcode/tree/master/problems/long-pressed-name) | [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |

@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-gold "Path with Maximum Gold")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/split-a-string-in-balanced-strings "Split a String in Balanced Strings")
 
 ## [1220. Count Vowels Permutation (Hard)](https://leetcode.com/problems/count-vowels-permutation "统计元音字母序列的数目")
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/sort-items-by-groups-respecting-dependencies "Sort Items by Groups Respecting Dependencies")
 
-## [1202. Smallest String With Swaps (Medium)](https://leetcode.com/problems/smallest-string-with-swaps "")
+## [1202. Smallest String With Swaps (Medium)](https://leetcode.com/problems/smallest-string-with-swaps "交换字符串中的元素")
 
 <p>You are given a string <code>s</code>, and an array of pairs of indices in the string&nbsp;<code>pairs</code>&nbsp;where&nbsp;<code>pairs[i] =&nbsp;[a, b]</code>&nbsp;indicates 2 indices(0-indexed) of the string.</p>
 
@@ -60,8 +60,8 @@ Swap s[0] and s[1], s = &quot;abc&quot;
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
   [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
 
 ### Hints
 <details>

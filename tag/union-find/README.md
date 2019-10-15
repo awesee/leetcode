@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1202 | [交换字符串中的元素](https://github.com/openset/leetcode/tree/master/problems/smallest-string-with-swaps) | [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 1168 | [水资源分配优化](https://github.com/openset/leetcode/tree/master/problems/optimize-water-distribution-in-a-village) 🔒 | [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Hard |
 | 1135 | [最低成本联通所有城市](https://github.com/openset/leetcode/tree/master/problems/connecting-cities-with-minimum-cost) 🔒 | [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 1102 | [得分最高的路径](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-minimum-value) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |

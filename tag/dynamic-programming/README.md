@@ -9,9 +9,11 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1223 | [掷骰子模拟](https://github.com/openset/leetcode/tree/master/problems/dice-roll-simulation) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1220 | [统计元音字母序列的数目](https://github.com/openset/leetcode/tree/master/problems/count-vowels-permutation) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1218 | [最长定差子序列](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-subsequence-of-given-difference) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1216 | [验证回文字符串 III](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-iii) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
+| 1199 | [建造街区的最短时间](https://github.com/openset/leetcode/tree/master/problems/minimum-time-to-build-blocks) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1191 | [K 次串联后最大子数组之和](https://github.com/openset/leetcode/tree/master/problems/k-concatenation-maximum-sum) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1187 | [使数组严格递增](https://github.com/openset/leetcode/tree/master/problems/make-array-strictly-increasing) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1186 | [删除一次得到子数组最大和](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray-sum-with-one-deletion) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |

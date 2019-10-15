@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/last-person-to-fit-in-the-elevator "Last Person to Fit in the Elevator")
 
-## [1203. Sort Items by Groups Respecting Dependencies (Hard)](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies "")
+## [1203. Sort Items by Groups Respecting Dependencies (Hard)](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies "项目管理")
 
 <p>There are&nbsp;<code>n</code>&nbsp;items each&nbsp;belonging to zero or one of&nbsp;<code>m</code>&nbsp;groups where <code>group[i]</code>&nbsp;is the group that the <code>i</code>-th item belongs to and it&#39;s equal to <code>-1</code>&nbsp;if the <code>i</code>-th item belongs to no group. The items and the groups are zero indexed. A group can have no item belonging to it.</p>
 
