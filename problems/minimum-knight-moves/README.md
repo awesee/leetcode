@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/find-smallest-common-element-in-all-rows "Find Smallest Common Element in All Rows")
 
-## [1197. Minimum Knight Moves (Medium)](https://leetcode.com/problems/minimum-knight-moves "")
+## [1197. Minimum Knight Moves (Medium)](https://leetcode.com/problems/minimum-knight-moves "进击的骑士")
 
 
 

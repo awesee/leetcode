@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-string-with-swaps "Smallest String With Swaps")
 
-## [1201. Ugly Number III (Medium)](https://leetcode.com/problems/ugly-number-iii "")
+## [1201. Ugly Number III (Medium)](https://leetcode.com/problems/ugly-number-iii "丑数 III")
 
 <p>Write a program to find the&nbsp;<code>n</code>-th ugly number.</p>
 
@@ -58,9 +58,6 @@
 ### Related Topics
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-
-### Similar Questions
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii) (Medium)
 
 ### Hints
 <details>

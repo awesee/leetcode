@@ -10,6 +10,7 @@
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1210 | [穿过迷宫的最少移动次数](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-reach-target-with-rotations) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Hard |
+| 1197 | [进击的骑士](https://github.com/openset/leetcode/tree/master/problems/minimum-knight-moves) 🔒 | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
 | 1162 | [地图分析](https://github.com/openset/leetcode/tree/master/problems/as-far-from-land-as-possible) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 1129 | [颜色交替的最短路径](https://github.com/openset/leetcode/tree/master/problems/shortest-path-with-alternating-colors) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)] [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]  | Medium |
 | 1091 | [二进制矩阵中的最短路径](https://github.com/openset/leetcode/tree/master/problems/shortest-path-in-binary-matrix) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |

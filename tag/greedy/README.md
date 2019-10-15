@@ -9,7 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1221 | [分割平衡字符串](https://github.com/openset/leetcode/tree/master/problems/split-a-string-in-balanced-strings) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1217 | [玩筹码](https://github.com/openset/leetcode/tree/master/problems/play-with-chips) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
+| 1196 | [最多可以买到的苹果数量](https://github.com/openset/leetcode/tree/master/problems/how-many-apples-can-you-put-into-the-basket) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Easy |
 | 1167 | [连接棒材的最低费用](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-connect-sticks) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
 | 1111 | [有效括号的嵌套深度](https://github.com/openset/leetcode/tree/master/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
 | 1094 | [拼车](https://github.com/openset/leetcode/tree/master/problems/car-pooling) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |

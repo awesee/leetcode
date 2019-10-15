@@ -9,8 +9,11 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1222 | [可以攻击国王的皇后](https://github.com/openset/leetcode/tree/master/problems/queens-that-can-attack-the-king) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
 | 1217 | [玩筹码](https://github.com/openset/leetcode/tree/master/problems/play-with-chips) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 1208 | [尽可能使字符串相等](https://github.com/openset/leetcode/tree/master/problems/get-equal-substrings-within-budget) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |
+| 1202 | [交换字符串中的元素](https://github.com/openset/leetcode/tree/master/problems/smallest-string-with-swaps) | [[并查集](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
+| 1200 | [最小绝对差](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1185 | [一周中的第几天](https://github.com/openset/leetcode/tree/master/problems/day-of-the-week) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1184 | [公交站间的距离](https://github.com/openset/leetcode/tree/master/problems/distance-between-bus-stops) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1177 | [构建回文串检测](https://github.com/openset/leetcode/tree/master/problems/can-make-palindrome-from-substring) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |

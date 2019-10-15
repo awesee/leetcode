@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/ugly-number-iii "Ugly Number III")
 
-## [1200. Minimum Absolute Difference (Easy)](https://leetcode.com/problems/minimum-absolute-difference "")
+## [1200. Minimum Absolute Difference (Easy)](https://leetcode.com/problems/minimum-absolute-difference "最小绝对差")
 
 <p>Given an&nbsp;array&nbsp;of <strong>distinct</strong>&nbsp;integers <code>arr</code>, find all pairs of elements with the minimum absolute difference of any two elements.&nbsp;</p>
 

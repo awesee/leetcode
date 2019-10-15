@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference "Minimum Absolute Difference")
 
-## [1199. Minimum Time to Build Blocks (Hard)](https://leetcode.com/problems/minimum-time-to-build-blocks "")
+## [1199. Minimum Time to Build Blocks (Hard)](https://leetcode.com/problems/minimum-time-to-build-blocks "建造街区的最短时间")
 
 
 

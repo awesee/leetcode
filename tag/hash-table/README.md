@@ -9,8 +9,10 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1224 | [最大相等频率](https://github.com/openset/leetcode/tree/master/problems/maximum-equal-frequency) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |
 | 1213 | [三个有序数组的交集](https://github.com/openset/leetcode/tree/master/problems/intersection-of-three-sorted-arrays) 🔒 | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |
 | 1207 | [独一无二的出现次数](https://github.com/openset/leetcode/tree/master/problems/unique-number-of-occurrences) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Easy |
+| 1198 | [找出所有行中最小公共元素](https://github.com/openset/leetcode/tree/master/problems/find-smallest-common-element-in-all-rows) 🔒 | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
 | 1189 | [“气球” 的最大数量](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-balloons) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1178 | [猜字谜](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-words-for-each-puzzle) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |
 | 1166 | [设计文件系统](https://github.com/openset/leetcode/tree/master/problems/design-file-system) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
