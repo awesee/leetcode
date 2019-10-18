@@ -62,6 +62,7 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1225">1225</span> | [Report Contiguous Dates](https://leetcode.com/problems/report-contiguous-dates) | [MySQL](https://github.com/openset/leetcode/tree/master/problems/report-contiguous-dates) | Hard |
 | <span id="1224">1224</span> | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency "最大相等频率") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-equal-frequency) | Hard |
 | <span id="1223">1223</span> | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation "掷骰子模拟") | [Go](https://github.com/openset/leetcode/tree/master/problems/dice-roll-simulation) | Medium |
 | <span id="1222">1222</span> | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king "可以攻击国王的皇后") | [Go](https://github.com/openset/leetcode/tree/master/problems/queens-that-can-attack-the-king) | Medium |

@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/dice-roll-simulation "Dice Roll Simulation")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/report-contiguous-dates "Report Contiguous Dates")
 
 ## [1224. Maximum Equal Frequency (Hard)](https://leetcode.com/problems/maximum-equal-frequency "最大相等频率")
 
