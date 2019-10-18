@@ -16,8 +16,10 @@
 <p>For this problem, a height-balanced binary tree is defined as:</p>
 
 <blockquote>
-<p>a binary tree in which the depth of the two subtrees of <em>every</em> node never differ by more than 1.</p>
+<p>a binary tree in which the left and right subtrees of <em>every</em> node differ in height by no more than 1.</p>
 </blockquote>
+
+<p>&nbsp;</p>
 
 <p><strong>Example 1:</strong></p>
 
