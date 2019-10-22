@@ -9,6 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1232 | [缀点成线](https://github.com/openset/leetcode/tree/master/problems/check-if-it-is-a-straight-line) | [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
+| 1230 | [抛掷硬币](https://github.com/openset/leetcode/tree/master/problems/toss-strange-coins) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
+| 1228 | [等差数列中缺失的数字](https://github.com/openset/leetcode/tree/master/problems/missing-number-in-arithmetic-progression) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 1218 | [最长定差子序列](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-subsequence-of-given-difference) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1217 | [玩筹码](https://github.com/openset/leetcode/tree/master/problems/play-with-chips) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 1201 | [丑数 III](https://github.com/openset/leetcode/tree/master/problems/ugly-number-iii) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |

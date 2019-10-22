@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1235 | [规划兼职工作](https://github.com/openset/leetcode/tree/master/problems/maximum-profit-in-job-scheduling) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
+| 1231 | [分享巧克力](https://github.com/openset/leetcode/tree/master/problems/divide-chocolate) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
 | 1201 | [丑数 III](https://github.com/openset/leetcode/tree/master/problems/ugly-number-iii) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
 | 1198 | [找出所有行中最小公共元素](https://github.com/openset/leetcode/tree/master/problems/find-smallest-common-element-in-all-rows) 🔒 | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
 | 1182 | [与目标颜色间的最短距离](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-to-target-color) 🔒 | [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |

@@ -70,6 +70,11 @@
 		"TranslatedName": "设计"
 	},
 	{
+		"Name": "Sort",
+		"Slug": "sort",
+		"TranslatedName": "排序"
+	},
+	{
 		"Name": "Graph",
 		"Slug": "graph",
 		"TranslatedName": "图"
@@ -78,11 +83,6 @@
 		"Name": "Linked List",
 		"Slug": "linked-list",
 		"TranslatedName": "链表"
-	},
-	{
-		"Name": "Sort",
-		"Slug": "sort",
-		"TranslatedName": "排序"
 	},
 	{
 		"Name": "Bit Manipulation",

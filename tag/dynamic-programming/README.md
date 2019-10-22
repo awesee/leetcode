@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1235 | [规划兼职工作](https://github.com/openset/leetcode/tree/master/problems/maximum-profit-in-job-scheduling) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
+| 1230 | [抛掷硬币](https://github.com/openset/leetcode/tree/master/problems/toss-strange-coins) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1223 | [掷骰子模拟](https://github.com/openset/leetcode/tree/master/problems/dice-roll-simulation) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1220 | [统计元音字母序列的数目](https://github.com/openset/leetcode/tree/master/problems/count-vowels-permutation) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1218 | [最长定差子序列](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-subsequence-of-given-difference) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
