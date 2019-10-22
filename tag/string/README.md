@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1234 | [替换子串得到平衡字符串](https://github.com/openset/leetcode/tree/master/problems/replace-the-substring-for-balanced-string) | [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
+| 1233 | [删除子文件夹](https://github.com/openset/leetcode/tree/master/problems/remove-sub-folders-from-the-filesystem) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 1221 | [分割平衡字符串](https://github.com/openset/leetcode/tree/master/problems/split-a-string-in-balanced-strings) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1216 | [验证回文字符串 III](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-iii) 🔒 | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1189 | [“气球” 的最大数量](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-balloons) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |

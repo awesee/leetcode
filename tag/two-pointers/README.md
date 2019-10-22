@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1234 | [替换子串得到平衡字符串](https://github.com/openset/leetcode/tree/master/problems/replace-the-substring-for-balanced-string) | [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 1213 | [三个有序数组的交集](https://github.com/openset/leetcode/tree/master/problems/intersection-of-three-sorted-arrays) 🔒 | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |
 | 1093 | [大样本统计](https://github.com/openset/leetcode/tree/master/problems/statistics-from-a-large-sample) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
 | 1004 | [最大连续1的个数 III](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii) | [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)] [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]  | Medium |

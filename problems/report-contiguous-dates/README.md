@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-equal-frequency "Maximum Equal Frequency")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/the-dining-philosophers "The Dining Philosophers")
 
 ## [1225. Report Contiguous Dates (Hard)](https://leetcode.com/problems/report-contiguous-dates "")
 
