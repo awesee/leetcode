@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/the-dining-philosophers "The Dining Philosophers")
 
-## [1225. Report Contiguous Dates (Hard)](https://leetcode.com/problems/report-contiguous-dates "")
+## [1225. Report Contiguous Dates (Hard)](https://leetcode.com/problems/report-contiguous-dates "报告系统状态的连续日期")
 
 <p>Table: <code>Failed</code></p>
 

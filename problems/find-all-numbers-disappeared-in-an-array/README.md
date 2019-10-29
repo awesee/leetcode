@@ -33,3 +33,19 @@
 ### Similar Questions
   1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive) (Hard)
   1. [Find All Duplicates in an Array](https://github.com/openset/leetcode/tree/master/problems/find-all-duplicates-in-an-array) (Medium)
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+This is a really easy problem if you decide to use additional memory. For those trying to write an initial solution using additional memory, think <b>counters!</b>
+</details>
+
+<details>
+<summary>Hint 2</summary>
+However, the trick really is to not use any additional space than what is already available to use. Sometimes, multiple passes over the input array help find the solution. However, there's an interesting piece of information in this problem that makes it easy to re-use the input array itself for the solution.
+</details>
+
+<details>
+<summary>Hint 3</summary>
+The problem specifies that the numbers in the array will be in the range [1, n] where n is the number of elements in the array. Can we use this information and modify the array in-place somehow to find what we need?
+</details>

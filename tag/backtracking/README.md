@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1240 | [铺瓷砖](https://github.com/openset/leetcode/tree/master/problems/tiling-a-rectangle-with-the-fewest-squares) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
+| 1239 | [串联字符串的最大长度](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
 | 1219 | [黄金矿工](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-gold) | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
 | 1215 | [步进数](https://github.com/openset/leetcode/tree/master/problems/stepping-numbers) 🔒 | [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
 | 1088 | [易混淆数 II](https://github.com/openset/leetcode/tree/master/problems/confusing-number-ii) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |

@@ -65,3 +65,9 @@
 
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+This problem is exactly like reversing a normal string except that there are certain characters that we have to simply skip. That should be easy enough to do if you know how to reverse a string using the two-pointer approach.
+</details>

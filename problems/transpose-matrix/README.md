@@ -15,6 +15,9 @@
 
 <p>The transpose of a matrix is the matrix flipped over it&#39;s main diagonal, switching the row and column indices of the matrix.</p>
 
+<br>
+<img src="https://assets.leetcode.com/uploads/2019/10/20/hint_transpose.png" width="700"/>
+
 <p>&nbsp;</p>
 
 <div>
@@ -46,3 +49,9 @@
 
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+We don't need any special algorithms to do this. You just need to know what the transpose of a matrix looks like. Rows become columns and vice versa!
+</details>

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/missing-number-in-arithmetic-progression "Missing Number In Arithmetic Progression")
 
-## [1227. Airplane Seat Assignment Probability (Medium)](https://leetcode.com/problems/airplane-seat-assignment-probability "")
+## [1227. Airplane Seat Assignment Probability (Medium)](https://leetcode.com/problems/airplane-seat-assignment-probability "飞机座位分配概率")
 
 <p><code data-stringify-type="code">n</code>&nbsp;passengers board an airplane with exactly&nbsp;<code data-stringify-type="code">n</code>&nbsp;seats. The first passenger has lost the ticket and picks a seat randomly. But after that, the rest of passengers will:</p>
 
@@ -44,9 +44,9 @@
 </ul>
 
 ### Related Topics
+  [[Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
   [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
   [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
 
 ### Hints
 <details>

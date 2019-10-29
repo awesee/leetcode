@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1227 | [飞机座位分配概率](https://github.com/openset/leetcode/tree/master/problems/airplane-seat-assignment-probability) | [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1033 | [移动石子直到连续](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive) | [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]  | Easy |
 | 777 | [在LR字符串中交换相邻字符](https://github.com/openset/leetcode/tree/master/problems/swap-adjacent-in-lr-string) | [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]  | Medium |
 | 319 | [灯泡开关](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher) | [[脑筋急转弯](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |

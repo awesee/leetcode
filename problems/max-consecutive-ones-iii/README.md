@@ -59,3 +59,24 @@ Bolded numbers were flipped from 0 to 1.  The longest subarray is underlined.
   1. [Longest Repeating Character Replacement](https://github.com/openset/leetcode/tree/master/problems/longest-repeating-character-replacement) (Medium)
   1. [Max Consecutive Ones](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones) (Easy)
   1. [Max Consecutive Ones II](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-ii) (Medium)
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+One thing's for sure, we will only flip a zero if it extends an existing window of 1s. Otherwise, there's no point in doing it, right? Think Sliding Window!
+</details>
+
+<details>
+<summary>Hint 2</summary>
+Since we know this problem can be solved using the sliding window construct, we might as well focus in that direction for hints. Basically, in a given window, we can never have > K zeros, right?
+</details>
+
+<details>
+<summary>Hint 3</summary>
+We don't have a fixed size window in this case. The window size can grow and shrink depending upon the number of zeros we have (we don't actually have to flip the zeros here!).
+</details>
+
+<details>
+<summary>Hint 4</summary>
+The way to shrink or expand a window would be based on the number of zeros that can still be flipped and so on.
+</details>
