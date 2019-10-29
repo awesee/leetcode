@@ -44,3 +44,9 @@
 ### Similar Questions
   1. [Reverse Vowels of a String](https://github.com/openset/leetcode/tree/master/problems/reverse-vowels-of-a-string) (Easy)
   1. [Reverse String II](https://github.com/openset/leetcode/tree/master/problems/reverse-string-ii) (Easy)
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+The entire logic for reversing a string is based on using the opposite directional two-pointer approach!
+</details>

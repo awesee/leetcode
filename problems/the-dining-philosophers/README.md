@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/airplane-seat-assignment-probability "Airplane Seat Assignment Probability")
 
-## [1226. The Dining Philosophers (Medium)](https://leetcode.com/problems/the-dining-philosophers "")
+## [1226. The Dining Philosophers (Medium)](https://leetcode.com/problems/the-dining-philosophers "哲学家进餐")
 
 <p>Five silent philosophers&nbsp;sit at a round table with bowls of spaghetti. Forks are placed between each pair of adjacent philosophers.</p>
 

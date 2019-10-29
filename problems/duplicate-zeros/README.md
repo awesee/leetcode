@@ -50,5 +50,20 @@
 ### Hints
 <details>
 <summary>Hint 1</summary>
-Iterate through the array backwards.  You know whether an integer should be written or not based on how many zeroes are remaining in the array.
+This is a great introductory problem for understanding and working with the concept of in-place operations. The problem statement clearly states that we are to modify the array in-place. That does not mean we cannot use another array. We just don't have to return anything.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+A better way to solve this would be without using additional space. The only reason the problem statement allows you to make modifications in place is that it hints at avoiding any additional memory.
+</details>
+
+<details>
+<summary>Hint 3</summary>
+The main problem with not using additional memory is that we might override elements due to the zero duplication requirement of the problem statement. How do we get around that?
+</details>
+
+<details>
+<summary>Hint 4</summary>
+If we had enough space available, we would be able to accommodate all the elements properly. The new length would be the original length of the array plus the number of zeros. Can we use this information somehow to solve the problem?
 </details>

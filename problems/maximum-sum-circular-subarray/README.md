@@ -78,3 +78,23 @@
 
 ### Related Topics
   [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+For those of you who are familiar with the <b>Kadane's algorithm</b>, think in terms of that. For the newbies, Kadane's algorithm is used to finding the maximum sum subarray from a given array. This problem is a twist on that idea and it is advisable to read up on that algorithm first before starting this problem. Unless you already have a great algorithm brewing up in your mind in which case, go right ahead!
+</details>
+
+<details>
+<summary>Hint 2</summary>
+What is an alternate way of representing a circular array so that it appears to be a straight array?
+Essentially, there are two cases of this problem that we need to take care of. Let's look at the figure below to understand those two cases:
+
+<br>
+<img src="https://assets.leetcode.com/uploads/2019/10/20/circular_subarray_hint_1.png" width="700"/>
+</details>
+
+<details>
+<summary>Hint 3</summary>
+The first case can be handled by the good old Kadane's algorithm. However, is there a smarter way of going about handling the second case as well?
+</details>

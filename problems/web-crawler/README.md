@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-profit-in-job-scheduling "Maximum Profit in Job Scheduling")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-positive-integer-solution-for-a-given-equation "Find Positive Integer Solution for a Given Equation")
 
 ## [1236. Web Crawler (Medium)](https://leetcode.com/problems/web-crawler "")
 

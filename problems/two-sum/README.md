@@ -36,3 +36,19 @@ return [<strong>0</strong>, <strong>1</strong>].
   1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)
   1. [Two Sum IV - Input is a BST](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst) (Easy)
   1. [Two Sum Less Than K](https://github.com/openset/leetcode/tree/master/problems/two-sum-less-than-k) (Easy)
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+A really brute force way would be to search for all possible pairs of numbers but that would be too slow. Again, it's best to try out brute force solutions for just for completeness. It is from these brute force solutions that you can come up with optimizations.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+So, if we fix one of the numbers, say <pre>x</pre>, we have to scan the entire array to find the next number <pre>y</pre> which is <pre>value - x</pre> where value is the input parameter. Can we change our array somehow so that this search becomes faster?
+</details>
+
+<details>
+<summary>Hint 3</summary>
+The second train of thought is, without changing the array, can we use additional space somehow? Like maybe a hash map to speed up the search?
+</details>

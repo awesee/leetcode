@@ -18,3 +18,17 @@
 
 ### Similar Questions
   1. [Find the Town Judge](https://github.com/openset/leetcode/tree/master/problems/find-the-town-judge) (Easy)
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+The best hint for this problem can be provided by the following figure:
+
+<br>
+<img src="https://assets.leetcode.com/uploads/2019/10/20/hint_find_celebrity.png" width="700"/>
+</details>
+
+<details>
+<summary>Hint 2</summary>
+Well, if you understood the gist of the above idea, you can extend it to find a candidate that can possibly be a celebrity. Why do we say a "candidate"? That is for you to think. This is clearly a greedy approach to find the answer. However, there is some information that would still remain to be verified without which we can't obtain an answer with certainty. To get that stake in the ground, we would need some more calls to the knows API.
+</details>

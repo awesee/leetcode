@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1239 | [串联字符串的最大长度](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
 | 1178 | [猜字谜](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-words-for-each-puzzle) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |
 | 1131 | [绝对值表达式的最大值](https://github.com/openset/leetcode/tree/master/problems/maximum-of-absolute-value-expression) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 1125 | [最小的必要团队](https://github.com/openset/leetcode/tree/master/problems/smallest-sufficient-team) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |

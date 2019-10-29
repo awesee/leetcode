@@ -44,3 +44,19 @@
 
 ### Related Topics
   [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Most languages support lowercase conversion for a string data type. However, that is certainly not the purpose of the problem. Think about how the implementation of the lowercase function call can be done easily.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+<b>Think ASCII!</b>
+</details>
+
+<details>
+<summary>Hint 3</summary>
+Think about the different capital letters and their ASCII codes and how that relates to their lowercase counterparts. Does there seem to be any pattern there? Any mathematical relationship that we can use?
+</details>
