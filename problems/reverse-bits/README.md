@@ -28,7 +28,7 @@
 <pre>
 <strong>Input:</strong> 11111111111111111111111111111101
 <strong>Output:</strong> 10111111111111111111111111111111
-<strong>Explanation: </strong>The input binary string <strong>11111111111111111111111111111101</strong> represents the unsigned integer 4294967293, so return 3221225471 which its binary representation is <strong>10101111110010110010011101101001</strong>.</pre>
+<strong>Explanation: </strong>The input binary string <strong>11111111111111111111111111111101</strong> represents the unsigned integer 4294967293, so return 3221225471 which its binary representation is <strong>10111111111111111111111111111111</strong>.</pre>
 
 <p>&nbsp;</p>
 

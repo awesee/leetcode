@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1249 | [移除无效的括号](https://github.com/openset/leetcode/tree/master/problems/minimum-remove-to-make-valid-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 1209 | [删除字符串中的所有相邻重复项 II](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string-ii) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
 | 1190 | [反转每对括号间的子串](https://github.com/openset/leetcode/tree/master/problems/reverse-substrings-between-each-pair-of-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]  | Medium |
 | 1130 | [叶值的最小代价生成树](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-tree-from-leaf-values) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
