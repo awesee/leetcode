@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1247 | [交换字符使得字符串相同](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-make-strings-equal) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1231 | [分享巧克力](https://github.com/openset/leetcode/tree/master/problems/divide-chocolate) 🔒 | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Hard |
 | 1221 | [分割平衡字符串](https://github.com/openset/leetcode/tree/master/problems/split-a-string-in-balanced-strings) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1217 | [玩筹码](https://github.com/openset/leetcode/tree/master/problems/play-with-chips) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |

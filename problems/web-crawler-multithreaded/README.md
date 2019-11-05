@@ -5,20 +5,14 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-profit-in-job-scheduling "Maximum Profit in Job Scheduling")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-comments-per-post "Number of Comments per Post")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-positive-integer-solution-for-a-given-equation "Find Positive Integer Solution for a Given Equation")
+[Next >](https://github.com/openset/leetcode/tree/master/problems/array-transformation "Array Transformation")
 
-## [1236. Web Crawler (Medium)](https://leetcode.com/problems/web-crawler "")
+## [1242. Web Crawler Multithreaded (Medium)](https://leetcode.com/problems/web-crawler-multithreaded "")
 
 
 
 ### Related Topics
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
   [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-
-### Hints
-<details>
-<summary>Hint 1</summary>
-Use DFS/BFS to search start from the startURL. Remember to get rid of duplicate URLs.
-</details>

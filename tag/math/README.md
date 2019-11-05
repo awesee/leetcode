@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1250 | [检查「好数组」](https://github.com/openset/leetcode/tree/master/problems/check-if-it-is-a-good-array) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
 | 1238 | [循环码排列](https://github.com/openset/leetcode/tree/master/problems/circular-permutation-in-binary-representation) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 1237 | [找出给定方程的正整数解](https://github.com/openset/leetcode/tree/master/problems/find-positive-integer-solution-for-a-given-equation) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Easy |
 | 1232 | [缀点成线](https://github.com/openset/leetcode/tree/master/problems/check-if-it-is-a-straight-line) | [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |

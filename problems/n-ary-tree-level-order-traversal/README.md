@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/flatten-a-multilevel-doubly-linked-list "Flatten a Multilevel Doubly Linked List")
 
-## [429. N-ary Tree Level Order Traversal (Easy)](https://leetcode.com/problems/n-ary-tree-level-order-traversal "N叉树的层序遍历")
+## [429. N-ary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/n-ary-tree-level-order-traversal "N叉树的层序遍历")
 
 <p>Given an n-ary tree, return the level order traversal of its nodes&#39; values. (ie, from left to right, level by level).</p>
 

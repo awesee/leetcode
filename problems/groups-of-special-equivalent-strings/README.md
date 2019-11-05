@@ -13,57 +13,50 @@
 
 <p>You are given an array <code>A</code> of strings.</p>
 
-<p>Two strings <code>S</code> and <code>T</code> are&nbsp;<em>special-equivalent</em>&nbsp;if after any number of <em>moves</em>, S == T.</p>
+<p>A <em>move&nbsp;onto <code>S</code></em> consists of swapping any two even indexed characters of <code>S</code>, or any two odd indexed characters of <code>S</code>.</p>
 
-<p>A <em>move</em> consists of choosing two indices <code>i</code> and <code>j</code> with <code>i % 2 == j % 2</code>, and swapping <code>S[i]</code> with <code>S[j]</code>.</p>
+<p>Two strings <code>S</code> and <code>T</code> are&nbsp;<em>special-equivalent</em>&nbsp;if after any number of <em>moves onto <code>S</code></em>, <code>S == T</code>.</p>
 
-<p>Now, a <em>group of special-equivalent strings from <code>A</code></em>&nbsp;is a&nbsp;non-empty subset S of <code>A</code>&nbsp;such that any string not in S&nbsp;is not special-equivalent with any string in S.</p>
+<p>For example, <code>S = &quot;zzxy&quot;</code> and <code>T = &quot;xyzz&quot;</code> are special-equivalent because we may make the moves <code>&quot;zzxy&quot; -&gt; &quot;xzzy&quot; -&gt; &quot;xyzz&quot;</code>&nbsp;that swap <code>S[0]</code> and <code>S[2]</code>, then <code>S[1]</code> and <code>S[3]</code>.</p>
+
+<p>Now, a <em>group of special-equivalent strings from <code>A</code></em>&nbsp;is a non-empty subset of&nbsp;A such that:</p>
+
+<ol>
+	<li>Every pair of strings in the group are special equivalent, and;</li>
+	<li>The group is the largest size possible (ie., there isn&#39;t a string S not in the group such that S is special equivalent to every string in the group)</li>
+</ol>
 
 <p>Return the number of groups of special-equivalent strings from <code>A</code>.</p>
 
-<p>&nbsp;</p>
-
-<ul>
-</ul>
+<div>&nbsp;</div>
 
 <div>
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-1-1">[&quot;a&quot;,&quot;b&quot;,&quot;c&quot;,&quot;a&quot;,&quot;c&quot;,&quot;c&quot;]</span>
+<strong>Input: </strong><span id="example-input-1-1">[&quot;abcd&quot;,&quot;cdab&quot;,&quot;cbad&quot;,&quot;xyzz&quot;,&quot;zzxy&quot;,&quot;zzyx&quot;]</span>
 <strong>Output: </strong><span id="example-output-1">3</span>
-<span><strong>Explanation</strong>: 3 groups [&quot;a&quot;,&quot;a&quot;], [&quot;b&quot;], [&quot;c&quot;,&quot;c&quot;,&quot;c&quot;]</span>
+<strong>Explanation: </strong>
+One group is [&quot;abcd&quot;, &quot;cdab&quot;, &quot;cbad&quot;], since they are all pairwise special equivalent, and none of the other strings are all pairwise special equivalent to these.
+
+The other two groups are [&quot;xyzz&quot;, &quot;zzxy&quot;] and [&quot;zzyx&quot;].  Note that in particular, &quot;zzxy&quot; is not special equivalent to &quot;zzyx&quot;.
 </pre>
 
 <div>
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-2-1">[&quot;aa&quot;,&quot;bb&quot;,&quot;ab&quot;,&quot;ba&quot;]</span>
-<strong>Output: </strong><span id="example-output-2">4</span>
-<strong>Explanation</strong>: 4 groups <span id="example-input-2-1">[&quot;aa&quot;], [&quot;bb&quot;], [&quot;ab&quot;], [&quot;ba&quot;]</span>
-</pre>
-
-<div>
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input: </strong><span id="example-input-3-1">[&quot;abc&quot;,&quot;acb&quot;,&quot;bac&quot;,&quot;bca&quot;,&quot;cab&quot;,&quot;cba&quot;]</span>
-<strong>Output: </strong><span id="example-output-3">3</span>
-<strong>Explanation</strong>: 3 groups [&quot;abc&quot;,&quot;cba&quot;], [&quot;acb&quot;,&quot;bca&quot;], [&quot;bac&quot;,&quot;cab&quot;]
-</pre>
-
-<div>
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input: </strong><span id="example-input-4-1">[&quot;abcd&quot;,&quot;cdab&quot;,&quot;adcb&quot;,&quot;cbad&quot;]</span>
-<strong>Output: </strong><span id="example-output-4">1</span>
-<strong>Explanation</strong>: 1 group <span id="example-input-4-1">[&quot;abcd&quot;,&quot;cdab&quot;,&quot;adcb&quot;,&quot;cbad&quot;]</span>
-</pre>
+<strong>Input: </strong><span id="example-input-2-1">[&quot;abc&quot;,&quot;acb&quot;,&quot;bac&quot;,&quot;bca&quot;,&quot;cab&quot;,&quot;cba&quot;]</span>
+<strong>Output: </strong><span id="example-output-2">3</span></pre>
 
 <p>&nbsp;</p>
+</div>
+</div>
 
+<div>
+<div>
+<div>
+<div>
 <p><strong>Note:</strong></p>
 
 <ul>

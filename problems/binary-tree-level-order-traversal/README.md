@@ -45,5 +45,5 @@ return its level order traversal as:<br />
   1. [Minimum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/problems/minimum-depth-of-binary-tree) (Easy)
   1. [Binary Tree Vertical Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-vertical-order-traversal) (Medium)
   1. [Average of Levels in Binary Tree](https://github.com/openset/leetcode/tree/master/problems/average-of-levels-in-binary-tree) (Easy)
-  1. [N-ary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-level-order-traversal) (Easy)
+  1. [N-ary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-level-order-traversal) (Medium)
   1. [Cousins in Binary Tree](https://github.com/openset/leetcode/tree/master/problems/cousins-in-binary-tree) (Easy)
