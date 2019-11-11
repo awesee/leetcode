@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1252 | [奇数值单元格的数目](https://github.com/openset/leetcode/tree/master/problems/cells-with-odd-values-in-a-matrix) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1243 | [数组变换](https://github.com/openset/leetcode/tree/master/problems/array-transformation) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1233 | [删除子文件夹](https://github.com/openset/leetcode/tree/master/problems/remove-sub-folders-from-the-filesystem) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 1232 | [缀点成线](https://github.com/openset/leetcode/tree/master/problems/check-if-it-is-a-straight-line) | [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |

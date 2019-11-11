@@ -42,6 +42,14 @@
 <strong>Explanation: </strong>s can be split into &quot;LLLLRRRR&quot;.
 </pre>
 
+<p><strong>Example 4:</strong></p>
+
+<pre>
+<strong>Input:</strong> s = &quot;RLRRRLLRLL&quot;
+<strong>Output:</strong> 2
+<strong>Explanation: </strong>s can be split into &quot;RL&quot;, &quot;RRRLLRLL&quot;, since each substring contains an equal number of &#39;L&#39; and &#39;R&#39;
+</pre>
+
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

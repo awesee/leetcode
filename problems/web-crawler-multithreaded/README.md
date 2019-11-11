@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/array-transformation "Array Transformation")
 
-## [1242. Web Crawler Multithreaded (Medium)](https://leetcode.com/problems/web-crawler-multithreaded "")
+## [1242. Web Crawler Multithreaded (Medium)](https://leetcode.com/problems/web-crawler-multithreaded "多线程网页爬虫")
 
 
 

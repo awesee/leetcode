@@ -17,7 +17,7 @@
 
 <p><strong>Example:</strong></p>
 
-<p><img alt="" src="https://assets.leetcode.com/uploads/2019/02/19/113_sample.png" style="width: 200px; height: 149px;" /></p>
+<p><img alt="" src="https://assets.leetcode.com/uploads/2019/11/04/133_clone_graph_question.png" style="width: 500px;height:550px" /></p>
 
 <pre>
 <strong>Input:

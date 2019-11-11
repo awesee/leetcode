@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-remove-to-make-valid-parentheses "Minimum Remove to Make Valid Parentheses")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/average-selling-price "Average Selling Price")
 
 ## [1250. Check If It Is a Good Array (Hard)](https://leetcode.com/problems/check-if-it-is-a-good-array "检查「好数组」")
 
