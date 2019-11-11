@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/count-number-of-nice-subarrays "Count Number of Nice Subarrays")
 
-## [1247. Minimum Swaps to Make Strings Equal (Easy)](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal "交换字符使得字符串相同")
+## [1247. Minimum Swaps to Make Strings Equal (Medium)](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal "交换字符使得字符串相同")
 
 <p>You are given two strings&nbsp;<code>s1</code>&nbsp;and&nbsp;<code>s2</code>&nbsp;of equal length&nbsp;consisting of letters <code>&quot;x&quot;</code> and <code>&quot;y&quot;</code> <strong>only</strong>. Your task is to&nbsp;make these two strings equal to each other. You can swap any two characters that belong to <strong>different</strong> strings,&nbsp;which means: swap <code>s1[i]</code> and <code>s2[j]</code>.</p>
 
