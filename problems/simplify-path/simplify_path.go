@@ -1,4 +1,4 @@
-package simplify_path
+package problem71
 
 import "path/filepath"
 

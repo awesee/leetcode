@@ -1,4 +1,4 @@
-package jewels_and_stones
+package problem771
 
 func numJewelsInStones(J string, S string) int {
 	m := [128]bool{}

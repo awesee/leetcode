@@ -1,1 +1,1 @@
-package sliding_puzzle
+package problem773

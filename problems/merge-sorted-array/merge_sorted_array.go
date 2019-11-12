@@ -1,4 +1,4 @@
-package merge_sorted_array
+package problem88
 
 func merge(nums1 []int, m int, nums2 []int, n int) {
 	copy(nums1[n:], nums1)

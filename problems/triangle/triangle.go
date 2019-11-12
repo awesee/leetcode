@@ -1,1 +1,1 @@
-package triangle
+package problem120

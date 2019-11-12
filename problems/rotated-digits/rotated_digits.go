@@ -1,4 +1,4 @@
-package rotated_digits
+package problem788
 
 func rotatedDigits(N int) int {
 	count := 0

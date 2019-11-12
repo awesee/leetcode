@@ -1,4 +1,4 @@
-package flipping_an_image
+package problem832
 
 import (
 	"reflect"

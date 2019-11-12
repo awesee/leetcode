@@ -1,4 +1,4 @@
-package range_sum_of_bst
+package problem938
 
 import . "github.com/openset/leetcode/internal/kit"
 

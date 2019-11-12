@@ -1,4 +1,4 @@
-package happy_number
+package problem202
 
 import "testing"
 

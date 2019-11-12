@@ -1,4 +1,4 @@
-package problem_454
+package problem454
 
 func fourSumCount(A []int, B []int, C []int, D []int) int {
 	ans, n := 0, len(A)

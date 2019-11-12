@@ -1,1 +1,1 @@
-package three_equal_parts
+package problem927

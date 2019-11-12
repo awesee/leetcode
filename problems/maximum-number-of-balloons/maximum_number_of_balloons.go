@@ -1,4 +1,4 @@
-package problem_1189
+package problem1189
 
 func maxNumberOfBalloons(text string) int {
 	ans, m := len(text), make(map[byte]int, 5)

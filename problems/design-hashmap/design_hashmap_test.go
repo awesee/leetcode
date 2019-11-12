@@ -1,4 +1,4 @@
-package design_hashmap
+package problem706
 
 import "testing"
 

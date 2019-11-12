@@ -1,4 +1,4 @@
-package rotate_string
+package problem796
 
 import "testing"
 

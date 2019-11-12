@@ -1,1 +1,1 @@
-package binary_search
+package problem704

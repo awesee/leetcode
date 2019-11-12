@@ -1,4 +1,4 @@
-package problem_793
+package problem793
 
 func preimageSizeFZF(K int) int {
 	l, r := 0, 5*(K+1)

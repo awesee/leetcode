@@ -1,1 +1,1 @@
-package array_of_doubled_pairs
+package problem954

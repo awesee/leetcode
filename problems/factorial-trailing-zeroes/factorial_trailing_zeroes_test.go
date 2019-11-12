@@ -1,4 +1,4 @@
-package factorial_trailing_zeroes
+package problem172
 
 import "testing"
 

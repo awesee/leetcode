@@ -1,1 +1,1 @@
-package range_sum_query_2d_mutable
+package problem308

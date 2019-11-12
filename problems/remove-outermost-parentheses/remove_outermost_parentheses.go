@@ -1,4 +1,4 @@
-package remove_outermost_parentheses
+package problem1021
 
 func removeOuterParentheses(S string) string {
 	ans, n := make([]rune, 0, len(S)), 0

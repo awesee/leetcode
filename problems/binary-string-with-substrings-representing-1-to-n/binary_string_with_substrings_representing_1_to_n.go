@@ -1,4 +1,4 @@
-package binary_string_with_substrings_representing_1_to_n
+package problem1016
 
 import "strings"
 

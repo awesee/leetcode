@@ -1,4 +1,4 @@
-package ransom_note
+package problem383
 
 func canConstruct(ransomNote string, magazine string) bool {
 	var m [128]int

@@ -1,4 +1,4 @@
-package largest_perimeter_triangle
+package problem976
 
 import "testing"
 

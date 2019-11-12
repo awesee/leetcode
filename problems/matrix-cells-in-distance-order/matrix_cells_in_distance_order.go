@@ -1,4 +1,4 @@
-package matrix_cells_in_distance_order
+package problem1030
 
 var res = [10000][]int{}
 

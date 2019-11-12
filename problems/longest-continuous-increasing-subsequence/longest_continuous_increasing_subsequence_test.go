@@ -1,4 +1,4 @@
-package longest_continuous_increasing_subsequence
+package problem674
 
 import "testing"
 

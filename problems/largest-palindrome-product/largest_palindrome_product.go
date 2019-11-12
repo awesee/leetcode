@@ -1,1 +1,1 @@
-package largest_palindrome_product
+package problem479

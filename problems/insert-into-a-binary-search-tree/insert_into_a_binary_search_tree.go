@@ -1,1 +1,1 @@
-package insert_into_a_binary_search_tree
+package problem701

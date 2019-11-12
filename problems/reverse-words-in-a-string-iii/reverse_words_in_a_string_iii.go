@@ -1,4 +1,4 @@
-package reverse_words_in_a_string_iii
+package problem557
 
 func reverseWords(s string) string {
 	ss, pre, l := []byte(s+" "), 0, len(s)

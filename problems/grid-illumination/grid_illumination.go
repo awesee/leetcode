@@ -1,4 +1,4 @@
-package grid_illumination
+package problem1001
 
 func gridIllumination(N int, lamps [][]int, queries [][]int) []int {
 	l := newLights(N)

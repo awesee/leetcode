@@ -1,1 +1,1 @@
-package maximum_depth_of_n_ary_tree
+package problem559

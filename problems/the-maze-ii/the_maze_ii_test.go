@@ -1,1 +1,1 @@
-package the_maze_ii
+package problem505

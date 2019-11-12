@@ -1,1 +1,1 @@
-package zuma_game
+package problem488

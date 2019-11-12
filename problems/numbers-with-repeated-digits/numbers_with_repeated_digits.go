@@ -1,4 +1,4 @@
-package numbers_with_repeated_digits
+package problem1012
 
 func numDupDigitsAtMostN(N int) int {
 	digits := convert(N + 1) // +1 为为了把判别条件从 <= 简化成 <

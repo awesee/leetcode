@@ -1,4 +1,4 @@
-package smallest_subsequence_of_distinct_characters
+package problem1081
 
 import "strings"
 

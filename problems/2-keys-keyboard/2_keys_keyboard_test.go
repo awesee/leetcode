@@ -1,4 +1,4 @@
-package problem_650
+package problem650
 
 import "testing"
 

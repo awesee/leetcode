@@ -1,4 +1,4 @@
-package flower_planting_with_no_adjacent
+package problem1042
 
 import (
 	"reflect"

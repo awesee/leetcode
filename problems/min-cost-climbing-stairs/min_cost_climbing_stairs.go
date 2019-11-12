@@ -1,4 +1,4 @@
-package min_cost_climbing_stairs
+package problem746
 
 func minCostClimbingStairs(cost []int) int {
 	f1, f2, l := 0, 0, len(cost)-1

@@ -1,4 +1,4 @@
-package capacity_to_ship_packages_within_d_days
+package problem1011
 
 func shipWithinDays(weights []int, D int) int {
 	lo, hi := 0, 0

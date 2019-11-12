@@ -1,4 +1,4 @@
-package problem_168
+package problem168
 
 // Solution 1: recursive
 func convertToTitle(n int) string {

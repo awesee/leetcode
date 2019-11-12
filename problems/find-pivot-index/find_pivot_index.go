@@ -1,4 +1,4 @@
-package find_pivot_index
+package problem724
 
 func pivotIndex(nums []int) int {
 	left, right := 0, 0

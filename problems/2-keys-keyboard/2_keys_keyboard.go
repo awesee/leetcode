@@ -1,4 +1,4 @@
-package problem_650
+package problem650
 
 func minSteps(n int) int {
 	if n == 1 {

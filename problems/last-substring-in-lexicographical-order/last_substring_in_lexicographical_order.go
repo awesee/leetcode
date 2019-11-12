@@ -1,4 +1,4 @@
-package problem_1163
+package problem1163
 
 func lastSubstring(s string) string {
 	last, n := 0, len(s)

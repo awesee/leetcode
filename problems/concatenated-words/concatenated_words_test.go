@@ -1,1 +1,1 @@
-package concatenated_words
+package problem472

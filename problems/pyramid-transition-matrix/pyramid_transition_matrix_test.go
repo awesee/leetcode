@@ -1,1 +1,1 @@
-package pyramid_transition_matrix
+package problem756

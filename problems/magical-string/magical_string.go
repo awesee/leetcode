@@ -1,1 +1,1 @@
-package magical_string
+package problem481

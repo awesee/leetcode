@@ -1,4 +1,4 @@
-package implement_strstr
+package problem28
 
 import "testing"
 

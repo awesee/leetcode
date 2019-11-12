@@ -1,1 +1,1 @@
-package continuous_subarray_sum
+package problem523

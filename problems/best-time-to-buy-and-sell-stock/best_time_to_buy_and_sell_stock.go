@@ -1,4 +1,4 @@
-package best_time_to_buy_and_sell_stock
+package problem121
 
 func maxProfit(prices []int) int {
 	ans, min := 0, 0

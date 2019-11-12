@@ -1,1 +1,1 @@
-package next_greater_element_i
+package problem496

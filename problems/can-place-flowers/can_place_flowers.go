@@ -1,4 +1,4 @@
-package can_place_flowers
+package problem605
 
 func canPlaceFlowers(flowerbed []int, n int) bool {
 	sum, ec := 0, 1

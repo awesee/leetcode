@@ -1,4 +1,4 @@
-package zigzag_conversion
+package problem6
 
 import "testing"
 

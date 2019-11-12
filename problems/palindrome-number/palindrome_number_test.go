@@ -1,4 +1,4 @@
-package palindrome_number
+package problem9
 
 import (
 	"math"

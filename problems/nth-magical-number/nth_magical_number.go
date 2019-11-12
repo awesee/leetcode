@@ -1,1 +1,1 @@
-package nth_magical_number
+package problem878

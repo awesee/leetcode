@@ -1,4 +1,4 @@
-package power_of_four
+package problem342
 
 import "testing"
 

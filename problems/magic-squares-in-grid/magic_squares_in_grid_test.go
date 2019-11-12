@@ -1,4 +1,4 @@
-package magic_squares_in_grid
+package problem840
 
 import "testing"
 

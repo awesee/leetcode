@@ -1,4 +1,4 @@
-package same_tree
+package problem100
 
 import . "github.com/openset/leetcode/internal/kit"
 

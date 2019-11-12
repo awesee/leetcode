@@ -1,4 +1,4 @@
-package magic_squares_in_grid
+package problem840
 
 func numMagicSquaresInside(grid [][]int) int {
 	ans, r, c := 0, len(grid)-1, len(grid[0])-1

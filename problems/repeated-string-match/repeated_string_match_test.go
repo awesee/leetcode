@@ -1,4 +1,4 @@
-package repeated_string_match
+package problem686
 
 import "testing"
 

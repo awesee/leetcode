@@ -1,4 +1,4 @@
-package range_sum_query_immutable
+package problem303
 
 type NumArray struct {
 	sum []int

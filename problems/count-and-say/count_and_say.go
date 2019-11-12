@@ -1,4 +1,4 @@
-package count_and_say
+package problem38
 
 func countAndSay(n int) string {
 	r := "1"

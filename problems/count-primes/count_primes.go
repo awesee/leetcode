@@ -1,4 +1,4 @@
-package count_primes
+package problem204
 
 func countPrimes(n int) int {
 	if n < 3 {

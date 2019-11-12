@@ -1,4 +1,4 @@
-package previous_permutation_with_one_swap
+package problem1053
 
 func prevPermOpt1(A []int) []int {
 	n := len(A)

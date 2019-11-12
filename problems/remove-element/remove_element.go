@@ -1,4 +1,4 @@
-package remove_element
+package problem27
 
 func removeElement(nums []int, val int) int {
 	l := 0

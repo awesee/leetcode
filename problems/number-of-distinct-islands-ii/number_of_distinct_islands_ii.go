@@ -1,1 +1,1 @@
-package number_of_distinct_islands_ii
+package problem711

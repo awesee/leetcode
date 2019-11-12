@@ -1,4 +1,4 @@
-package powx_n
+package problem50
 
 import (
 	"math"

@@ -1,4 +1,4 @@
-package reverse_integer
+package problem7
 
 import "math"
 

@@ -1,1 +1,1 @@
-package most_profit_assigning_work
+package problem826

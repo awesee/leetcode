@@ -1,4 +1,4 @@
-package divisor_game
+package problem1025
 
 import "testing"
 

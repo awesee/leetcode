@@ -1,1 +1,1 @@
-package number_of_boomerangs
+package problem447

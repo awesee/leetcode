@@ -1,4 +1,4 @@
-package design_hashmap
+package problem706
 
 type MyHashMap struct {
 	data map[int]int

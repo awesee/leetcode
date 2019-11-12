@@ -1,4 +1,4 @@
-package fibonacci_number
+package problem509
 
 func fib(N int) int {
 	a, b := 0, 1

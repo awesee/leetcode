@@ -1,4 +1,4 @@
-package problem_565
+package problem565
 
 func arrayNesting(nums []int) int {
 	ans := 0

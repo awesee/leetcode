@@ -1,4 +1,4 @@
-package letter_tile_possibilities
+package problem1079
 
 func numTilePossibilities(tiles string) int {
 	count := [26]int{}

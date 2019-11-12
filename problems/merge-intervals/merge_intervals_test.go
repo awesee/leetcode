@@ -1,1 +1,1 @@
-package merge_intervals
+package problem56

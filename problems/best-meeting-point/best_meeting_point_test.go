@@ -1,1 +1,1 @@
-package best_meeting_point
+package problem296

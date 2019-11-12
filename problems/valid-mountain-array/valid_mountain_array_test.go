@@ -1,4 +1,4 @@
-package valid_mountain_array
+package problem941
 
 import "testing"
 

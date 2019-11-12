@@ -1,4 +1,4 @@
-package count_binary_substrings
+package problem696
 
 func countBinarySubstrings(s string) int {
 	ans, pre, cur, l := 0, 0, 1, len(s)

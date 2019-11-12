@@ -1,4 +1,4 @@
-package complement_of_base_10_integer
+package problem1009
 
 func bitwiseComplement(N int) int {
 	if N == 0 {

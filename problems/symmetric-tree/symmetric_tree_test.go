@@ -1,4 +1,4 @@
-package symmetric_tree
+package problem101
 
 import (
 	"testing"

@@ -1,1 +1,1 @@
-package water_and_jug_problem
+package problem365

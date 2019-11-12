@@ -1,4 +1,4 @@
-package unique_morse_code_words
+package problem804
 
 import "testing"
 

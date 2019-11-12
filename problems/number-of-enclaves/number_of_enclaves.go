@@ -1,4 +1,4 @@
-package number_of_enclaves
+package problem1020
 
 var dx = [4]int{-1, 1, 0, 0}
 var dy = [4]int{0, 0, -1, 1}

@@ -1,1 +1,1 @@
-package number_of_atoms
+package problem726

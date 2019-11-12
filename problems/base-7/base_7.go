@@ -1,4 +1,4 @@
-package base_7
+package problem504
 
 func convertToBase7(num int) string {
 	ans := ""

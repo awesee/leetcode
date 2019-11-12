@@ -1,1 +1,1 @@
-package additive_number
+package problem306

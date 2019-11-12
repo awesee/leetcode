@@ -1,4 +1,4 @@
-package min_stack
+package problem155
 
 import (
 	"reflect"

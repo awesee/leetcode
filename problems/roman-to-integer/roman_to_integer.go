@@ -1,4 +1,4 @@
-package roman_to_integer
+package problem13
 
 func romanToInt(s string) int {
 	m := map[byte]int{

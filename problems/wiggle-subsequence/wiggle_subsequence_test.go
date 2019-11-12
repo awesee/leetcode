@@ -1,1 +1,1 @@
-package wiggle_subsequence
+package problem376

@@ -1,4 +1,4 @@
-package clumsy_factorial
+package problem1006
 
 var answers = []int{0, 1, 2, 6, 7}
 

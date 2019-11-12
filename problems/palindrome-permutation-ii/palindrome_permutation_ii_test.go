@@ -1,1 +1,1 @@
-package palindrome_permutation_ii
+package problem267

@@ -1,1 +1,1 @@
-package knight_probability_in_chessboard
+package problem688

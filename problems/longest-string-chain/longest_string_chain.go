@@ -1,4 +1,4 @@
-package longest_string_chain
+package problem1048
 
 func longestStrChain(words []string) int {
 	indexs := make([][]int, 17)

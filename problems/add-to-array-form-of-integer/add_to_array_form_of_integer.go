@@ -1,4 +1,4 @@
-package add_to_array_form_of_integer
+package problem989
 
 func addToArrayForm(A []int, K int) []int {
 	ans, carry, l := make([]int, 0), 0, len(A)-1

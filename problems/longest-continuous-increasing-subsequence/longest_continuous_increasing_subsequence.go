@@ -1,4 +1,4 @@
-package longest_continuous_increasing_subsequence
+package problem674
 
 func findLengthOfLCIS(nums []int) int {
 	max, cur := 0, 1

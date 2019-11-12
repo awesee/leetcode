@@ -1,4 +1,4 @@
-package stream_of_characters
+package problem1032
 
 // StreamChecker check letters
 type StreamChecker struct {

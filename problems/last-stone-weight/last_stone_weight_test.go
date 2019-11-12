@@ -1,4 +1,4 @@
-package last_stone_weight
+package problem1046
 
 import "testing"
 

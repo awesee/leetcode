@@ -1,1 +1,1 @@
-package isomorphic_strings
+package problem205

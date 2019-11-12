@@ -1,4 +1,4 @@
-package palindrome_linked_list
+package problem234
 
 import . "github.com/openset/leetcode/internal/kit"
 

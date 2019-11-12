@@ -1,4 +1,4 @@
-package sort_array_by_parity
+package problem905
 
 import "sort"
 

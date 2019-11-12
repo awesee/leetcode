@@ -1,4 +1,4 @@
-package largest_number_at_least_twice_of_others
+package problem747
 
 func dominantIndex(nums []int) int {
 	ans, sec := 0, 0

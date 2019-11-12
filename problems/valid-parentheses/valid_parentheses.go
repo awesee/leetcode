@@ -1,4 +1,4 @@
-package valid_parentheses
+package problem20
 
 func isValid(s string) bool {
 	m := map[byte]byte{

@@ -1,4 +1,4 @@
-package student_attendance_record_i
+package problem551
 
 import "strings"
 

@@ -1,4 +1,4 @@
-package majority_element
+package problem169
 
 func majorityElement(nums []int) int {
 	ans, count := 0, 0

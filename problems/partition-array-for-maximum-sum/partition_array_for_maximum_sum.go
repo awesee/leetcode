@@ -1,4 +1,4 @@
-package partition_array_for_maximum_sum
+package problem1043
 
 func maxSumAfterPartitioning(A []int, K int) int {
 	n := len(A)

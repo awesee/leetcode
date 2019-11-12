@@ -1,4 +1,4 @@
-package reshape_the_matrix
+package problem566
 
 func matrixReshape(nums [][]int, r int, c int) [][]int {
 	m, n := len(nums), len(nums[0])

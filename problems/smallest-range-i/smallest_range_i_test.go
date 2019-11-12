@@ -1,4 +1,4 @@
-package smallest_range_i
+package problem908
 
 import "testing"
 

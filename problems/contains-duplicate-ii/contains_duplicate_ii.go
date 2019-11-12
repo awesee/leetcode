@@ -1,4 +1,4 @@
-package contains_duplicate_ii
+package problem219
 
 func containsNearbyDuplicate(nums []int, k int) bool {
 	m := make(map[int]int, len(nums))

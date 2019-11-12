@@ -1,4 +1,4 @@
-package monotonic_array
+package problem896
 
 import "testing"
 

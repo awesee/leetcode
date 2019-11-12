@@ -1,4 +1,4 @@
-package number_of_submatrices_that_sum_to_target
+package problem1074
 
 func numSubmatrixSumTarget(M [][]int, target int) int {
 	m, n := len(M), len(M[0])

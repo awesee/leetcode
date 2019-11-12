@@ -1,4 +1,4 @@
-package min_cost_climbing_stairs
+package problem746
 
 import "testing"
 

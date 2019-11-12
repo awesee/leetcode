@@ -1,4 +1,4 @@
-package sum_of_even_numbers_after_queries
+package problem985
 
 func sumEvenAfterQueries(A []int, queries [][]int) []int {
 	sum, ans := 0, make([]int, 0)

@@ -1,4 +1,4 @@
-package car_pooling
+package problem1094
 
 func carPooling(trips [][]int, capacity int) bool {
 	location := [1001]int{}

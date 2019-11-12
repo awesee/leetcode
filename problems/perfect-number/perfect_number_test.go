@@ -1,1 +1,1 @@
-package perfect_number
+package problem507

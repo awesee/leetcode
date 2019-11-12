@@ -1,4 +1,4 @@
-package climbing_stairs
+package problem70
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package reshape_the_matrix
+package problem566
 
 import (
 	"reflect"

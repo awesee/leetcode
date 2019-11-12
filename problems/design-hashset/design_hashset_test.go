@@ -1,4 +1,4 @@
-package design_hashset
+package problem705
 
 import "testing"
 

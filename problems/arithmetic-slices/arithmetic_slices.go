@@ -1,4 +1,4 @@
-package problem_413
+package problem413
 
 func numberOfArithmeticSlices(A []int) int {
 	ans, i, j, l := 0, 0, 0, len(A)-1

@@ -1,4 +1,4 @@
-package unique_email_addresses
+package problem929
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package merge_sorted_array
+package problem88
 
 import (
 	"reflect"

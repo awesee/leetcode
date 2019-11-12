@@ -1,4 +1,4 @@
-package k_closest_points_to_origin
+package problem973
 
 import "sort"
 

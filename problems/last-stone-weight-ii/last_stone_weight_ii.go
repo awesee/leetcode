@@ -1,4 +1,4 @@
-package last_stone_weight_ii
+package problem1049
 
 func lastStoneWeightII(stones []int) int {
 	hasSum := [3001]bool{}

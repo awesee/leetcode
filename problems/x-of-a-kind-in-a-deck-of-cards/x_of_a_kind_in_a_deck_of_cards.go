@@ -1,4 +1,4 @@
-package x_of_a_kind_in_a_deck_of_cards
+package problem914
 
 func hasGroupsSizeX(deck []int) bool {
 	m, l := make(map[int]int), len(deck)

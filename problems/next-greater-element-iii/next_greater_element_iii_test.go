@@ -1,1 +1,1 @@
-package next_greater_element_iii
+package problem556

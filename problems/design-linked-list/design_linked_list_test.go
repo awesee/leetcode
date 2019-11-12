@@ -1,4 +1,4 @@
-package design_linked_list
+package problem707
 
 import "testing"
 

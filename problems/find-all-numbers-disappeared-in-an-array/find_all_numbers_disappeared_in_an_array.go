@@ -1,4 +1,4 @@
-package find_all_numbers_disappeared_in_an_array
+package problem448
 
 func findDisappearedNumbers(nums []int) []int {
 	max, count := len(nums), 0

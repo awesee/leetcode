@@ -1,1 +1,1 @@
-package delete_and_earn
+package problem740

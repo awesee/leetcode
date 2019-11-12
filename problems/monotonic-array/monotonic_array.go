@@ -1,4 +1,4 @@
-package monotonic_array
+package problem896
 
 func isMonotonic(A []int) bool {
 	increasing, decreasing := true, true

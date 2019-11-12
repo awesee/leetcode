@@ -1,4 +1,4 @@
-package longest_uncommon_subsequence_i
+package problem521
 
 import "testing"
 

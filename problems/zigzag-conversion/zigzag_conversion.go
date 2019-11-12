@@ -1,4 +1,4 @@
-package zigzag_conversion
+package problem6
 
 func convert(s string, numRows int) string {
 	l := len(s)

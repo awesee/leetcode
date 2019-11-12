@@ -1,4 +1,4 @@
-package k_diff_pairs_in_an_array
+package problem532
 
 import "testing"
 

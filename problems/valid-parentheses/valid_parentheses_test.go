@@ -1,4 +1,4 @@
-package valid_parentheses
+package problem20
 
 import "testing"
 

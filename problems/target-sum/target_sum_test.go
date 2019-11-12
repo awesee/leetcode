@@ -1,1 +1,1 @@
-package target_sum
+package problem494

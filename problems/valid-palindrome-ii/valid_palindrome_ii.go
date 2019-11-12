@@ -1,4 +1,4 @@
-package valid_palindrome_ii
+package problem680
 
 func validPalindrome(s string) bool {
 	start, end := 0, len(s)-1

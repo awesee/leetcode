@@ -1,4 +1,4 @@
-package remove_all_adjacent_duplicates_in_string
+package problem1047
 
 func removeDuplicates(S string) string {
 	ans := make([]byte, 0, len(S))

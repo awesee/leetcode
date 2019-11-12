@@ -1,4 +1,4 @@
-package camelcase_matching
+package problem1023
 
 func camelMatch(queries []string, pattern string) []bool {
 	ans := make([]bool, len(queries))

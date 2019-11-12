@@ -1,4 +1,4 @@
-package reverse_vowels_of_a_string
+package problem345
 
 import "testing"
 

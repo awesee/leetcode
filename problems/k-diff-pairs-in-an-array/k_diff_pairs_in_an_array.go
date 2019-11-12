@@ -1,4 +1,4 @@
-package k_diff_pairs_in_an_array
+package problem532
 
 func findPairs(nums []int, k int) int {
 	ans, m := 0, make(map[int]int)

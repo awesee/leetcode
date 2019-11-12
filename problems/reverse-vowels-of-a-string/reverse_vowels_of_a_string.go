@@ -1,4 +1,4 @@
-package reverse_vowels_of_a_string
+package problem345
 
 func reverseVowels(s string) string {
 	i, j, ss := 0, len(s)-1, []byte(s)

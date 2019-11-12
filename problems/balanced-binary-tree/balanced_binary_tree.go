@@ -1,4 +1,4 @@
-package problem_110
+package problem110
 
 import "github.com/openset/leetcode/internal/kit"
 

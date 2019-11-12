@@ -1,1 +1,1 @@
-package super_palindromes
+package problem906

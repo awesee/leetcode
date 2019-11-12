@@ -1,1 +1,1 @@
-package merge_k_sorted_lists
+package problem23

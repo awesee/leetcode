@@ -1,1 +1,1 @@
-package is_graph_bipartite
+package problem785

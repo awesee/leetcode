@@ -1,4 +1,4 @@
-package minimum_domino_rotations_for_equal_row
+package problem1007
 
 func minDominoRotations(A []int, B []int) int {
 	if res, ok := check(A, B, A[0]); ok {

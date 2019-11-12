@@ -1,4 +1,4 @@
-package sort_array_by_parity_ii
+package problem922
 
 func sortArrayByParityII(A []int) []int {
 	i, l := 0, len(A)

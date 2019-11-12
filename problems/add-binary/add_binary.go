@@ -1,4 +1,4 @@
-package problem_67
+package problem67
 
 func addBinary(a string, b string) string {
 	ans, l1, l2, carry := "", len(a)-1, len(b)-1, byte('0')

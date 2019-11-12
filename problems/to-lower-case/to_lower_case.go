@@ -1,4 +1,4 @@
-package to_lower_case
+package problem709
 
 import "strings"
 

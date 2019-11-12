@@ -1,1 +1,1 @@
-package remove_k_digits
+package problem402

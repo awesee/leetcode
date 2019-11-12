@@ -1,4 +1,4 @@
-package groups_of_special_equivalent_strings
+package problem893
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package sum_of_two_integers
+package problem371
 
 func getSum(a int, b int) int {
 	for b != 0 {

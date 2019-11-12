@@ -1,1 +1,1 @@
-package problem_110
+package problem110

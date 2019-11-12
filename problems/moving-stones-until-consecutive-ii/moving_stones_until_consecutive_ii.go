@@ -1,4 +1,4 @@
-package moving_stones_until_consecutive_ii
+package problem1040
 
 import "sort"
 

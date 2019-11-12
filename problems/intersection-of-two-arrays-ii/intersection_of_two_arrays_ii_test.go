@@ -1,4 +1,4 @@
-package intersection_of_two_arrays_ii
+package problem350
 
 import (
 	"testing"

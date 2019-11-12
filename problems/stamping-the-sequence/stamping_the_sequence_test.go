@@ -1,1 +1,1 @@
-package stamping_the_sequence
+package problem936

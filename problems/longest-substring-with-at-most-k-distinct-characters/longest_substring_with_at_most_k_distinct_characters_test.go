@@ -1,1 +1,1 @@
-package longest_substring_with_at_most_k_distinct_characters
+package problem340

@@ -1,1 +1,1 @@
-package contiguous_array
+package problem525

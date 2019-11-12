@@ -1,4 +1,4 @@
-package move_zeroes
+package problem283
 
 import (
 	"reflect"

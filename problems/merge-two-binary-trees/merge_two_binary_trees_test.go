@@ -1,4 +1,4 @@
-package merge_two_binary_trees
+package problem617
 
 import (
 	"reflect"

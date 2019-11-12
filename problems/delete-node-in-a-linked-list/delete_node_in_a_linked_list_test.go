@@ -1,4 +1,4 @@
-package delete_node_in_a_linked_list
+package problem237
 
 import (
 	"reflect"

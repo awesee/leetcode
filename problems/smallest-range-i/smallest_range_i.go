@@ -1,4 +1,4 @@
-package smallest_range_i
+package problem908
 
 func smallestRangeI(A []int, K int) int {
 	min, max := A[0], A[0]

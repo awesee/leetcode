@@ -1,4 +1,4 @@
-package shortest_path_in_binary_matrix
+package problem1091
 
 var dx = []int{-1, -1, -1, 0, 1, 1, 1, 0}
 var dy = []int{-1, 0, 1, 1, 1, 0, -1, -1}

@@ -1,4 +1,4 @@
-package escape_a_large_maze
+package problem1036
 
 var dx = []int{0, 0, 1, -1}
 var dy = []int{1, -1, 0, 0}

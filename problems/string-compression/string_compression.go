@@ -1,4 +1,4 @@
-package string_compression
+package problem443
 
 import "strconv"
 

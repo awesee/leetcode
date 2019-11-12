@@ -1,4 +1,4 @@
-package first_unique_character_in_a_string
+package problem387
 
 func firstUniqChar(s string) int {
 	var count [256]byte

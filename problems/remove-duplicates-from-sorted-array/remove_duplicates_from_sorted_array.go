@@ -1,4 +1,4 @@
-package remove_duplicates_from_sorted_array
+package problem26
 
 func removeDuplicates(nums []int) int {
 	top, l := 0, len(nums)

@@ -13,6 +13,7 @@ import (
 	"sync"
 )
 
+// CmdName
 const CmdName = "leetcode"
 
 var (
@@ -20,6 +21,7 @@ var (
 	Mutex    sync.Mutex
 )
 
+// Command
 type Command struct {
 	Run       func(cmd *Command, args []string)
 	UsageLine string

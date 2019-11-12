@@ -1,4 +1,4 @@
-package maximize_distance_to_closest_person
+package problem849
 
 import "testing"
 

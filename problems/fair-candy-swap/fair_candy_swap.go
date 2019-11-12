@@ -1,4 +1,4 @@
-package fair_candy_swap
+package problem888
 
 func fairCandySwap(A []int, B []int) []int {
 	sA, sB := 0, 0

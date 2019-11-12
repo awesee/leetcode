@@ -1,4 +1,4 @@
-package occurrences_after_bigram
+package problem1078
 
 import "strings"
 

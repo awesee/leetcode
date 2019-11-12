@@ -1,4 +1,4 @@
-package design_hashset
+package problem705
 
 type MyHashSet struct {
 	data map[int]bool

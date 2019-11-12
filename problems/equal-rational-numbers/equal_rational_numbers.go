@@ -1,1 +1,1 @@
-package equal_rational_numbers
+package problem972

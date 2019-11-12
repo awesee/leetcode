@@ -1,4 +1,4 @@
-package find_pivot_index
+package problem724
 
 import "testing"
 

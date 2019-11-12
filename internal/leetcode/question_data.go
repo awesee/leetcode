@@ -208,7 +208,7 @@ func (question *questionType) LeetCodeUrl() string {
 }
 
 func (question *questionType) PackageName() string {
-	return "problem_" + question.QuestionFrontendId
+	return "problem" + question.QuestionFrontendId
 }
 
 func (question *questionType) SaveCodeSnippet() {
@@ -234,7 +234,7 @@ func (question *questionType) SaveCodeSnippet() {
 	for _, lang := range langSupport {
 		if code, ok := codeSet[lang.slug]; ok {
 			lang.handle(question, code)
-			break
+			return
 		}
 	}
 }
@@ -253,6 +253,18 @@ func (question *questionType) saveMysqlSchemas() {
 		buf.WriteString(s + ";\n")
 	}
 	filePutContents(question.getFilePath("mysql_schemas.sql"), buf.Bytes())
+}
+
+func (question *questionType) RenamePackageName() {
+	packageName := fmt.Sprintf("package %s", question.PackageName())
+	reg := regexp.MustCompile(`package \w+`)
+	for _, ext := range [...]string{".go", "_test.go"} {
+		cts := fileGetContents(question.getFilePath(question.TitleSnake() + ext))
+		if len(cts) > 0 {
+			content := reg.ReplaceAllString(string(cts), packageName)
+			question.saveCodeContent(content, ext)
+		}
+	}
 }
 
 func handleCodeGolang(question *questionType, code codeSnippetsType) {

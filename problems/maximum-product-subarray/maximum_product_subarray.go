@@ -1,1 +1,1 @@
-package maximum_product_subarray
+package problem152

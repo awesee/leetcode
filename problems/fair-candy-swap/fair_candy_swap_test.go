@@ -1,4 +1,4 @@
-package fair_candy_swap
+package problem888
 
 import (
 	"reflect"

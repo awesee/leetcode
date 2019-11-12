@@ -1,1 +1,1 @@
-package word_abbreviation
+package problem527

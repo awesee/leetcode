@@ -1,4 +1,4 @@
-package robot_bounded_in_circle
+package problem1041
 
 func isRobotBounded(instructions string) bool {
 	x, y, dx, dy := 0, 0, 0, 1

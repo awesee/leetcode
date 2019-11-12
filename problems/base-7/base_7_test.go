@@ -1,4 +1,4 @@
-package base_7
+package problem504
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package greatest_common_divisor_of_strings
+package problem1071
 
 import "strings"
 

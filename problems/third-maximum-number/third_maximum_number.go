@@ -1,4 +1,4 @@
-package third_maximum_number
+package problem414
 
 func thirdMax(nums []int) int {
 	max1, max2, max3 := 0, -1, -1

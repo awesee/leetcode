@@ -1,1 +1,1 @@
-package largest_component_size_by_common_factor
+package problem952

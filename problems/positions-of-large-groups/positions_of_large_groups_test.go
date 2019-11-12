@@ -1,4 +1,4 @@
-package positions_of_large_groups
+package problem830
 
 import (
 	"reflect"

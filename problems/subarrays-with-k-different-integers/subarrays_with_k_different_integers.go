@@ -1,1 +1,1 @@
-package subarrays_with_k_different_integers
+package problem992

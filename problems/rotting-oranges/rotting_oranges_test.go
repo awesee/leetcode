@@ -1,4 +1,4 @@
-package rotting_oranges
+package problem994
 
 import "testing"
 

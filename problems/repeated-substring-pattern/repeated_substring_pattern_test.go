@@ -1,4 +1,4 @@
-package repeated_substring_pattern
+package problem459
 
 import "testing"
 

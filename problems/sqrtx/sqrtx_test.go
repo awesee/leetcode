@@ -1,4 +1,4 @@
-package sqrtx
+package problem69
 
 import "testing"
 

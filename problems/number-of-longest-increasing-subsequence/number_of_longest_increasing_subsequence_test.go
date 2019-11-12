@@ -1,1 +1,1 @@
-package number_of_longest_increasing_subsequence
+package problem673

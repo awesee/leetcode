@@ -1,4 +1,4 @@
-package smallest_integer_divisible_by_k
+package problem1015
 
 func smallestRepunitDivByK(K int) int {
 	if K%2 == 0 || K%5 == 0 {

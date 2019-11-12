@@ -1,4 +1,4 @@
-package maximize_distance_to_closest_person
+package problem849
 
 func maxDistToClosest(seats []int) int {
 	ans, ec := 0, 0

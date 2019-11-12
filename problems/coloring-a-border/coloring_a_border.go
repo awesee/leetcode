@@ -1,4 +1,4 @@
-package coloring_a_border
+package problem1034
 
 var dx = []int{0, 0, 1, -1}
 var dy = []int{1, -1, 0, 0}

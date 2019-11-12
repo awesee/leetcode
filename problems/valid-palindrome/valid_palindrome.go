@@ -1,4 +1,4 @@
-package valid_palindrome
+package problem125
 
 func isPalindrome(s string) bool {
 	start, end := 0, len(s)-1

@@ -1,4 +1,4 @@
-package buddy_strings
+package problem859
 
 import "testing"
 

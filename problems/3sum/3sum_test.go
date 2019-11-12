@@ -1,4 +1,4 @@
-package problem_15
+package problem15
 
 import (
 	"reflect"

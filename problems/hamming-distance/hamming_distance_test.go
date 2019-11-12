@@ -1,4 +1,4 @@
-package hamming_distance
+package problem461
 
 import "testing"
 

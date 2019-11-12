@@ -1,4 +1,4 @@
-package pascals_triangle_ii
+package problem119
 
 func getRow(rowIndex int) []int {
 	row := make([]int, rowIndex+1)

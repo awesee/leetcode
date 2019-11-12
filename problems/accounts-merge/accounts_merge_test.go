@@ -1,4 +1,4 @@
-package accounts_merge
+package problem721
 
 import (
 	"reflect"

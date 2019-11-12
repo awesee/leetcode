@@ -1,4 +1,4 @@
-package house_robber
+package problem198
 
 import "testing"
 

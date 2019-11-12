@@ -1,4 +1,4 @@
-package count_binary_substrings
+package problem696
 
 import "testing"
 

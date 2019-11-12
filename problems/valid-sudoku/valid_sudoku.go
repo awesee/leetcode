@@ -1,4 +1,4 @@
-package valid_sudoku
+package problem36
 
 func isValidSudoku(board [][]byte) bool {
 	for i := 0; i < 9; i++ {

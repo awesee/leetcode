@@ -1,4 +1,4 @@
-package image_smoother
+package problem661
 
 import (
 	"reflect"

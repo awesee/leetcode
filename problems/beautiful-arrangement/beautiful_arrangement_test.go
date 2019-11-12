@@ -1,1 +1,1 @@
-package beautiful_arrangement
+package problem526

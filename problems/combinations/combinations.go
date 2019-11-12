@@ -1,1 +1,1 @@
-package combinations
+package problem77
