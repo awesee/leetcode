@@ -1,4 +1,4 @@
-package max_consecutive_ones_iii
+package problem1004
 
 func longestOnes(A []int, K int) int {
 	left, right := 0, 0

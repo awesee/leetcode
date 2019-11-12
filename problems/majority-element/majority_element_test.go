@@ -1,4 +1,4 @@
-package majority_element
+package problem169
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package height_checker
+package problem1051
 
 import "sort"
 

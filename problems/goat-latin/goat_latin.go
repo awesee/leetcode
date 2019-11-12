@@ -1,4 +1,4 @@
-package goat_latin
+package problem824
 
 import "strings"
 

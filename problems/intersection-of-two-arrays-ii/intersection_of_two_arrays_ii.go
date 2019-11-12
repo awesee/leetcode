@@ -1,4 +1,4 @@
-package intersection_of_two_arrays_ii
+package problem350
 
 func intersect(nums1 []int, nums2 []int) []int {
 	res := make([]int, 0, len(nums1))

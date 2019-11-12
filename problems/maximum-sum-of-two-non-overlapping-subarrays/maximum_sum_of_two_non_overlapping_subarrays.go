@@ -1,4 +1,4 @@
-package maximum_sum_of_two_non_overlapping_subarrays
+package problem1031
 
 func maxSumTwoNoOverlap(A []int, L int, M int) int {
 	for i := 1; i < len(A); i++ {

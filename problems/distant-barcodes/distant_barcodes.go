@@ -1,4 +1,4 @@
-package distant_barcodes
+package problem1054
 
 import "sort"
 

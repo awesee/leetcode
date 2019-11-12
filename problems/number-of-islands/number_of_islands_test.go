@@ -1,1 +1,1 @@
-package number_of_islands
+package problem200

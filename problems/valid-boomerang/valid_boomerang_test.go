@@ -1,4 +1,4 @@
-package valid_boomerang
+package problem1037
 
 import "testing"
 

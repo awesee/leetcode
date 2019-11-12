@@ -1,4 +1,4 @@
-package missing_number
+package problem268
 
 func missingNumber(nums []int) int {
 	sum, n := 0, len(nums)

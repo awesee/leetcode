@@ -1,4 +1,4 @@
-package merge_two_sorted_lists
+package problem21
 
 import . "github.com/openset/leetcode/internal/kit"
 

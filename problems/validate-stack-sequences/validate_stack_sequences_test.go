@@ -1,1 +1,1 @@
-package validate_stack_sequences
+package problem946

@@ -1,1 +1,1 @@
-package elimination_game
+package problem390

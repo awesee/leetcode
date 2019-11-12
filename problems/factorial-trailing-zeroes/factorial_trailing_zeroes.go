@@ -1,4 +1,4 @@
-package factorial_trailing_zeroes
+package problem172
 
 func trailingZeroes(n int) int {
 	if n < 5 {

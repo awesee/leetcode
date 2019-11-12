@@ -1,4 +1,4 @@
-package maximum_width_ramp
+package problem962
 
 func maxWidthRamp(A []int) int {
 	return 0

@@ -1,1 +1,1 @@
-package find_anagram_mappings
+package problem760

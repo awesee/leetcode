@@ -1,1 +1,1 @@
-package strobogrammatic_number
+package problem246

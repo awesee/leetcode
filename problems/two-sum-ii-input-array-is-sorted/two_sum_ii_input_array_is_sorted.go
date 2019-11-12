@@ -1,4 +1,4 @@
-package two_sum_ii_input_array_is_sorted
+package problem167
 
 func twoSum(numbers []int, target int) []int {
 	s := 0

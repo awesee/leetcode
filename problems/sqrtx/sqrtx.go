@@ -1,4 +1,4 @@
-package sqrtx
+package problem69
 
 func mySqrt(x int) int {
 	if x < 2 {

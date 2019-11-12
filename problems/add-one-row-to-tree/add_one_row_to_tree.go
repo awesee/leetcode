@@ -1,4 +1,4 @@
-package add_one_row_to_tree
+package problem623
 
 import "github.com/openset/leetcode/internal/kit"
 

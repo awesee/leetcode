@@ -1,4 +1,4 @@
-package maximum_product_of_three_numbers
+package problem628
 
 import "testing"
 

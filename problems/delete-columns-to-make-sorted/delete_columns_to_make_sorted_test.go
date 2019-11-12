@@ -1,4 +1,4 @@
-package delete_columns_to_make_sorted
+package problem944
 
 import "testing"
 

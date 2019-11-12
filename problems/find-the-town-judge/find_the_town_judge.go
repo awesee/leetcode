@@ -1,4 +1,4 @@
-package find_the_town_judge
+package problem997
 
 func findJudge(N int, trust [][]int) int {
 	ans, count := 1, make([]int, N+1)

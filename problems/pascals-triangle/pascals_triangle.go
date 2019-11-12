@@ -1,4 +1,4 @@
-package pascals_triangle
+package problem118
 
 func generate(numRows int) [][]int {
 	ans := make([][]int, numRows)

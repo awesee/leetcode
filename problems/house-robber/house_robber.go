@@ -1,4 +1,4 @@
-package house_robber
+package problem198
 
 func rob(nums []int) int {
 	pre1, pre2, ans := 0, 0, 0

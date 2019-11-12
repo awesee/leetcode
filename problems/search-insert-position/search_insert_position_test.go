@@ -1,4 +1,4 @@
-package search_insert_position
+package problem35
 
 import "testing"
 

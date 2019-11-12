@@ -1,1 +1,1 @@
-package permutations_ii
+package problem47

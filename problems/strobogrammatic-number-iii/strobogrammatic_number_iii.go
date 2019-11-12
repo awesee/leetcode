@@ -1,1 +1,1 @@
-package strobogrammatic_number_iii
+package problem248

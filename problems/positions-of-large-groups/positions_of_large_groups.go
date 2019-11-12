@@ -1,4 +1,4 @@
-package positions_of_large_groups
+package problem830
 
 func largeGroupPositions(S string) [][]int {
 	pre, ans, l := 0, make([][]int, 0), len(S)

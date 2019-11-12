@@ -1,4 +1,4 @@
-package sum_of_root_to_leaf_binary_numbers
+package problem1022
 
 import (
 	"testing"

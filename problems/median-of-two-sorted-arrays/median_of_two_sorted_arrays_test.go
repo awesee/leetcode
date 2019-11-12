@@ -1,4 +1,4 @@
-package median_of_two_sorted_arrays
+package problem4
 
 import "testing"
 

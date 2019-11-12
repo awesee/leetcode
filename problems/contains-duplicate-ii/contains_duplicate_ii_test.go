@@ -1,4 +1,4 @@
-package contains_duplicate_ii
+package problem219
 
 import "testing"
 

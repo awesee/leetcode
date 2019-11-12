@@ -1,4 +1,4 @@
-package string_without_aaa_or_bbb
+package problem984
 
 func strWithout3a3b(A int, B int) string {
 	str, ac, bc := "", 0, 0

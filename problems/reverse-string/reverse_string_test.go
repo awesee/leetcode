@@ -1,4 +1,4 @@
-package reverse_string
+package problem344
 
 import (
 	"reflect"

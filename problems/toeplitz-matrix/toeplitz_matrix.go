@@ -1,4 +1,4 @@
-package toeplitz_matrix
+package problem766
 
 func isToeplitzMatrix(matrix [][]int) bool {
 	for i, row := range matrix[1:] {

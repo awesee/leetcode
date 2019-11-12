@@ -1,4 +1,4 @@
-package groups_of_special_equivalent_strings
+package problem893
 
 func numSpecialEquivGroups(A []string) int {
 	m := make(map[[52]int]bool)

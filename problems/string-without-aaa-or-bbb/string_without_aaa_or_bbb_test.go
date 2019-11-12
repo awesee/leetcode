@@ -1,4 +1,4 @@
-package string_without_aaa_or_bbb
+package problem984
 
 import "testing"
 

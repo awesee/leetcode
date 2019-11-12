@@ -1,4 +1,4 @@
-package valid_anagram
+package problem242
 
 func isAnagram(s string, t string) bool {
 	sl := len(s)

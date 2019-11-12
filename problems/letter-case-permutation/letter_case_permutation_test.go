@@ -1,1 +1,1 @@
-package letter_case_permutation
+package problem784

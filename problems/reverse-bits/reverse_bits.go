@@ -1,4 +1,4 @@
-package reverse_bits
+package problem190
 
 import "math/bits"
 

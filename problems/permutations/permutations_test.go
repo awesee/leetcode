@@ -1,1 +1,1 @@
-package permutations
+package problem46

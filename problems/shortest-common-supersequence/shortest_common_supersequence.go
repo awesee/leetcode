@@ -1,4 +1,4 @@
-package shortest_common_supersequence
+package problem1092
 
 import "strings"
 

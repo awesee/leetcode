@@ -1,4 +1,4 @@
-package jewels_and_stones
+package problem771
 
 import "testing"
 

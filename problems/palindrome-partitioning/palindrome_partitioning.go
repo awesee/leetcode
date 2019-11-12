@@ -1,1 +1,1 @@
-package palindrome_partitioning
+package problem131

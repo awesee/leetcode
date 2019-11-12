@@ -1,4 +1,4 @@
-package maximum_depth_of_binary_tree
+package problem104
 
 import . "github.com/openset/leetcode/internal/kit"
 

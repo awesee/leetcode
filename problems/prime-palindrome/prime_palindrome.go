@@ -1,1 +1,1 @@
-package prime_palindrome
+package problem866

@@ -1,4 +1,4 @@
-package binary_prefix_divisible_by_5
+package problem1018
 
 import (
 	"reflect"

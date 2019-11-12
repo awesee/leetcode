@@ -1,4 +1,4 @@
-package powx_n
+package problem50
 
 func myPow(x float64, n int) float64 {
 	res := 1.0

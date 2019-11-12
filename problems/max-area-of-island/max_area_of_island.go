@@ -1,1 +1,1 @@
-package max_area_of_island
+package problem695

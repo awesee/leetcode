@@ -1,4 +1,4 @@
-package rotate_array
+package problem189
 
 func rotate(nums []int, k int) {
 	l := len(nums)

@@ -1,4 +1,4 @@
-package problem_393
+package problem393
 
 func validUtf8(data []int) bool {
 	u := 0

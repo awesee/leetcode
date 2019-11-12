@@ -1,1 +1,1 @@
-package beautiful_array
+package problem932

@@ -1,4 +1,4 @@
-package long_pressed_name
+package problem925
 
 func isLongPressedName(name string, typed string) bool {
 	i, nl, j, tl := 0, len(name), 0, len(typed)

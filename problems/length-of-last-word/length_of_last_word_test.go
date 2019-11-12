@@ -1,4 +1,4 @@
-package length_of_last_word
+package problem58
 
 import "testing"
 

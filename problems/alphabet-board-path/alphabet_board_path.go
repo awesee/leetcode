@@ -1,4 +1,4 @@
-package alphabet_board_path
+package problem1138
 
 import "strings"
 

@@ -1,4 +1,4 @@
-package self_dividing_numbers
+package problem728
 
 func selfDividingNumbers(left int, right int) []int {
 	ans := make([]int, 0)

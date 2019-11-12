@@ -1,4 +1,4 @@
-package powerful_integers
+package problem970
 
 import "math"
 

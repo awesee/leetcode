@@ -1,4 +1,4 @@
-package degree_of_an_array
+package problem697
 
 import "testing"
 

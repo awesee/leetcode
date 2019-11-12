@@ -1,1 +1,1 @@
-package the_maze
+package problem490

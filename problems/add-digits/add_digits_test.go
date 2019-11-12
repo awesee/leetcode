@@ -1,4 +1,4 @@
-package add_digits
+package problem258
 
 import "testing"
 

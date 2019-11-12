@@ -1,4 +1,4 @@
-package moving_stones_until_consecutive
+package problem1033
 
 var zerozero = []int{0, 0}
 

@@ -1,4 +1,4 @@
-package intersection_of_two_linked_lists
+package problem160
 
 import (
 	"testing"

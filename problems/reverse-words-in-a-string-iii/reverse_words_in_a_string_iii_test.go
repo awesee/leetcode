@@ -1,4 +1,4 @@
-package reverse_words_in_a_string_iii
+package problem557
 
 import "testing"
 

@@ -1,1 +1,1 @@
-package partition_list
+package problem86

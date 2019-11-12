@@ -1,4 +1,4 @@
-package move_zeroes
+package problem283
 
 func moveZeroes(nums []int) {
 	insertAt := 0

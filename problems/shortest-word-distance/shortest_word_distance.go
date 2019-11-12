@@ -1,1 +1,1 @@
-package shortest_word_distance
+package problem243

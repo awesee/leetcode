@@ -1,4 +1,4 @@
-package longest_palindromic_substring
+package problem5
 
 import "testing"
 

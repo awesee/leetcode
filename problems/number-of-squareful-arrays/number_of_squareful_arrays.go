@@ -1,1 +1,1 @@
-package number_of_squareful_arrays
+package problem996

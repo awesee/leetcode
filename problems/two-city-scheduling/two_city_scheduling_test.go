@@ -1,4 +1,4 @@
-package two_city_scheduling
+package problem1029
 
 import "testing"
 

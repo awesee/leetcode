@@ -1,4 +1,4 @@
-package largest_time_for_given_digits
+package problem949
 
 import "testing"
 

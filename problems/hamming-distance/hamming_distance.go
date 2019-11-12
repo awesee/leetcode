@@ -1,4 +1,4 @@
-package hamming_distance
+package problem461
 
 func hammingDistance(x int, y int) int {
 	ans, n := 0, x^y

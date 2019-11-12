@@ -1,4 +1,4 @@
-package toeplitz_matrix
+package problem766
 
 import "testing"
 

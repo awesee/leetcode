@@ -1,1 +1,1 @@
-package validate_binary_search_tree
+package problem98

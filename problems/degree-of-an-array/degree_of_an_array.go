@@ -1,4 +1,4 @@
-package degree_of_an_array
+package problem697
 
 func findShortestSubArray(nums []int) int {
 	m, ans := make(map[int]int), 0

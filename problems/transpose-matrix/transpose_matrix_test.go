@@ -1,4 +1,4 @@
-package transpose_matrix
+package problem867
 
 import (
 	"reflect"

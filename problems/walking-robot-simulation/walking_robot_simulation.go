@@ -1,1 +1,1 @@
-package walking_robot_simulation
+package problem874

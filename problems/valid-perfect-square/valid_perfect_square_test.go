@@ -1,1 +1,1 @@
-package valid_perfect_square
+package problem367

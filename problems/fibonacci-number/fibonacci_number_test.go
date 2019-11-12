@@ -1,4 +1,4 @@
-package fibonacci_number
+package problem509
 
 import "testing"
 

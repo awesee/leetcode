@@ -1,4 +1,4 @@
-package duplicate_zeros
+package problem1089
 
 func duplicateZeros(A []int) {
 	n := len(A)

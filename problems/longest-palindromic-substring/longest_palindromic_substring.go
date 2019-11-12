@@ -1,4 +1,4 @@
-package longest_palindromic_substring
+package problem5
 
 func longestPalindrome(s string) string {
 	start, maxLen, l := 0, 0, len(s)

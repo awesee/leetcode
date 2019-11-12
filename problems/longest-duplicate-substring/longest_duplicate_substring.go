@@ -1,4 +1,4 @@
-package longest_duplicate_substring
+package problem1044
 
 func longestDupSubstring(S string) string {
 	res := ""

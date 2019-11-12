@@ -1,4 +1,4 @@
-package robot_return_to_origin
+package problem657
 
 func judgeCircle(moves string) bool {
 	x, y := 0, 0

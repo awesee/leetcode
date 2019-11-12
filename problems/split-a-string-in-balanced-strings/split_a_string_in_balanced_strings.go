@@ -1,4 +1,4 @@
-package problem_1221
+package problem1221
 
 func balancedStringSplit(s string) int {
 	ans, flag := 0, 0

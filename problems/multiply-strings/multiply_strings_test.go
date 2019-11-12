@@ -1,1 +1,1 @@
-package multiply_strings
+package problem43

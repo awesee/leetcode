@@ -1,4 +1,4 @@
-package power_of_three
+package problem326
 
 import "testing"
 

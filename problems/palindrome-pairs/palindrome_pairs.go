@@ -1,1 +1,1 @@
-package palindrome_pairs
+package problem336

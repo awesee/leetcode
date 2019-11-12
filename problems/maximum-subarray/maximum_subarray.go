@@ -1,4 +1,4 @@
-package maximum_subarray
+package problem53
 
 func maxSubArray(nums []int) int {
 	max, current, l := nums[0], nums[0], len(nums)

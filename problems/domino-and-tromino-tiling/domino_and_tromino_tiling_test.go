@@ -1,1 +1,1 @@
-package domino_and_tromino_tiling
+package problem790

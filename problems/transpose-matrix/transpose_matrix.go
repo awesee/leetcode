@@ -1,4 +1,4 @@
-package transpose_matrix
+package problem867
 
 func transpose(A [][]int) [][]int {
 	m, n := len(A[0]), len(A)

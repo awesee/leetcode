@@ -1,1 +1,1 @@
-package distinct_subsequences_ii
+package problem940

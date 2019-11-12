@@ -1,4 +1,4 @@
-package array_partition_i
+package problem561
 
 import "sort"
 

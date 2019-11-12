@@ -1,4 +1,4 @@
-package rotated_digits
+package problem788
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package remove_duplicates_from_sorted_list
+package problem83
 
 import . "github.com/openset/leetcode/internal/kit"
 

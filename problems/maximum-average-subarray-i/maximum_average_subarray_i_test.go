@@ -1,4 +1,4 @@
-package maximum_average_subarray_i
+package problem643
 
 import "testing"
 

@@ -1,4 +1,4 @@
-package number_of_1_bits
+package problem191
 
 import "testing"
 

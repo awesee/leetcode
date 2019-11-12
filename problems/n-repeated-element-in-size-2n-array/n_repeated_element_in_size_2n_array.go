@@ -1,4 +1,4 @@
-package n_repeated_element_in_size_2n_array
+package problem961
 
 func repeatedNTimes(A []int) int {
 	m := make(map[int]bool)

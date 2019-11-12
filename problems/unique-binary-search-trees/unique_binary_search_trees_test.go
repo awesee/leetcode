@@ -1,1 +1,1 @@
-package unique_binary_search_trees
+package problem96

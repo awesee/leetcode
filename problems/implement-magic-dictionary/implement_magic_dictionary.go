@@ -1,1 +1,1 @@
-package implement_magic_dictionary
+package problem676

@@ -1,4 +1,4 @@
-package univalued_binary_tree
+package problem965
 
 import . "github.com/openset/leetcode/internal/kit"
 

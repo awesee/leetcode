@@ -1,4 +1,4 @@
-package string_to_integer_atoi
+package problem8
 
 import (
 	"math"

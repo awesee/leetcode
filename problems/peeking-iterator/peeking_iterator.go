@@ -1,1 +1,1 @@
-package peeking_iterator
+package problem284

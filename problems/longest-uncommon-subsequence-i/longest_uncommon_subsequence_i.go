@@ -1,4 +1,4 @@
-package longest_uncommon_subsequence_i
+package problem521
 
 func findLUSlength(a string, b string) int {
 	if a == b {

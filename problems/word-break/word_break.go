@@ -1,4 +1,4 @@
-package word_break
+package problem139
 
 func wordBreak(s string, wordDict []string) bool {
 	wm, l := make(map[string]bool), len(s)

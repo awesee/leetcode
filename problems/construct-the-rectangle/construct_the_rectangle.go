@@ -1,1 +1,1 @@
-package construct_the_rectangle
+package problem492

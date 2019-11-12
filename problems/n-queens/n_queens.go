@@ -1,1 +1,1 @@
-package n_queens
+package problem51

@@ -1,1 +1,1 @@
-package permutation_sequence
+package problem60

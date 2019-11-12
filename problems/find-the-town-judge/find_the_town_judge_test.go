@@ -1,4 +1,4 @@
-package find_the_town_judge
+package problem997
 
 import "testing"
 

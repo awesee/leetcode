@@ -1,4 +1,4 @@
-package valid_boomerang
+package problem1037
 
 func isBoomerang(points [][]int) bool {
 	ans := points[0][0] * (points[1][1] - points[2][1])

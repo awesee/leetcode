@@ -1,4 +1,4 @@
-package binary_prefix_divisible_by_5
+package problem1018
 
 func prefixesDivBy5(A []int) []bool {
 	ans, v := make([]bool, len(A)), 0

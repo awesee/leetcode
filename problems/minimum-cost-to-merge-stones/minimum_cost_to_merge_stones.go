@@ -1,4 +1,4 @@
-package minimum_cost_to_merge_stones
+package problem1000
 
 func mergeStones(stones []int, K int) int {
 	size := len(stones)

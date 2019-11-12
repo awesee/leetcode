@@ -1,1 +1,1 @@
-package super_pow
+package problem372

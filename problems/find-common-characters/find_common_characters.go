@@ -1,4 +1,4 @@
-package find_common_characters
+package problem1002
 
 func commonChars(A []string) []string {
 	ans, m, l := make([]string, 0), make([][26]int, len(A)), len(A)

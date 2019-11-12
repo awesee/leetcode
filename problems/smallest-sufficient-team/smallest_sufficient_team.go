@@ -1,1 +1,1 @@
-package smallest_sufficient_team
+package problem1125

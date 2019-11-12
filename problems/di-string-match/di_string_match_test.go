@@ -1,4 +1,4 @@
-package di_string_match
+package problem942
 
 import (
 	"reflect"

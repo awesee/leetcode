@@ -1,4 +1,4 @@
-package flipping_an_image
+package problem832
 
 func flipAndInvertImage(A [][]int) [][]int {
 	for _, row := range A {

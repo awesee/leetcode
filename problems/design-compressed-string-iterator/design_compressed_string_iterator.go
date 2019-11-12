@@ -1,1 +1,1 @@
-package design_compressed_string_iterator
+package problem604

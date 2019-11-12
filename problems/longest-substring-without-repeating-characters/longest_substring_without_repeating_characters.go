@@ -1,4 +1,4 @@
-package longest_substring_without_repeating_characters
+package problem3
 
 func lengthOfLongestSubstring(s string) int {
 	ans, l := 0, len(s)

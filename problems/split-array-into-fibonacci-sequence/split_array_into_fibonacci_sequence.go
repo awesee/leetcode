@@ -1,1 +1,1 @@
-package split_array_into_fibonacci_sequence
+package problem842

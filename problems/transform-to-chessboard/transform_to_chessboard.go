@@ -1,1 +1,1 @@
-package transform_to_chessboard
+package problem782

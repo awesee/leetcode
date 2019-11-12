@@ -1,1 +1,1 @@
-package number_of_corner_rectangles
+package problem750

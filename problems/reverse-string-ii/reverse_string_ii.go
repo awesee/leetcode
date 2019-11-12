@@ -1,4 +1,4 @@
-package reverse_string_ii
+package problem541
 
 func reverseStr(s string, k int) string {
 	ss, l := []rune(s), len(s)-1

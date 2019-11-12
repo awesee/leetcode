@@ -1,4 +1,4 @@
-package statistics_from_a_large_sample
+package problem1093
 
 import "sort"
 

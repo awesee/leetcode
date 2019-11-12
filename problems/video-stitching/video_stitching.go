@@ -1,4 +1,4 @@
-package video_stitching
+package problem1024
 
 import "sort"
 

@@ -1,1 +1,1 @@
-package consecutive_numbers_sum
+package problem829

@@ -1,4 +1,4 @@
-package check_if_word_is_valid_after_substitutions
+package problem1003
 
 func isValid(S string) bool {
 	bs := []byte(S)

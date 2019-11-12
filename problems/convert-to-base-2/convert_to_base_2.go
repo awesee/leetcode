@@ -1,4 +1,4 @@
-package convert_to_base_2
+package problem1017
 
 func baseNeg2(N int) string {
 	if N == 0 {

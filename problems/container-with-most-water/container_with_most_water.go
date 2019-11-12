@@ -1,4 +1,4 @@
-package container_with_most_water
+package problem11
 
 func maxArea(height []int) int {
 	ans, l, r := 0, 0, len(height)-1

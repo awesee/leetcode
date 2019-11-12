@@ -1,4 +1,4 @@
-package longest_arithmetic_sequence
+package problem1027
 
 func longestArithSeqLength(A []int) int {
 	n := len(A)

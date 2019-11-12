@@ -1,1 +1,1 @@
-package minesweeper
+package problem529

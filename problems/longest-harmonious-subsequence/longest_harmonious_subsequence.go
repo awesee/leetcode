@@ -1,1 +1,1 @@
-package longest_harmonious_subsequence
+package problem594

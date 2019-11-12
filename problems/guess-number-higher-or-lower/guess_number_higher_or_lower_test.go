@@ -1,1 +1,1 @@
-package guess_number_higher_or_lower
+package problem374

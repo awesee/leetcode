@@ -1,4 +1,4 @@
-package grumpy_bookstore_owner
+package problem1052
 
 func maxSatisfied(customers []int, grumpy []int, X int) int {
 	n := len(customers)

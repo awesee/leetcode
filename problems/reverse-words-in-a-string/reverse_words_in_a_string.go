@@ -1,4 +1,4 @@
-package reverse_words_in_a_string
+package problem151
 
 import (
 	"regexp"

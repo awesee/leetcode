@@ -1,4 +1,4 @@
-package problem_1185
+package problem1185
 
 import "time"
 

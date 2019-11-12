@@ -1,1 +1,1 @@
-package vowel_spellchecker
+package problem966

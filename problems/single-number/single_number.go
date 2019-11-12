@@ -1,4 +1,4 @@
-package single_number
+package problem136
 
 func singleNumber(nums []int) int {
 	n := 0

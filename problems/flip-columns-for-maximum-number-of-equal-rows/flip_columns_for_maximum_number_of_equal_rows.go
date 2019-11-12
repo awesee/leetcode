@@ -1,4 +1,4 @@
-package flip_columns_for_maximum_number_of_equal_rows
+package problem1072
 
 import "strings"
 

@@ -1,1 +1,1 @@
-package maximum_frequency_stack
+package problem895

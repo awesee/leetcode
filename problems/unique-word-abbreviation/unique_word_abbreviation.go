@@ -1,1 +1,1 @@
-package unique_word_abbreviation
+package problem288

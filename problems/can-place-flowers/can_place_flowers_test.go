@@ -1,4 +1,4 @@
-package can_place_flowers
+package problem605
 
 import "testing"
 

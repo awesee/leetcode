@@ -1,1 +1,1 @@
-package short_encoding_of_words
+package problem820

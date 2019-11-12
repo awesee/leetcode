@@ -1,1 +1,1 @@
-package longest_palindromic_subsequence
+package problem516

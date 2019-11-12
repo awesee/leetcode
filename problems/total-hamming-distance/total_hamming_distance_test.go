@@ -1,1 +1,1 @@
-package total_hamming_distance
+package problem477

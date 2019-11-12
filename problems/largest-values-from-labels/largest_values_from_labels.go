@@ -1,4 +1,4 @@
-package largest_values_from_labels
+package problem1090
 
 import "sort"
 

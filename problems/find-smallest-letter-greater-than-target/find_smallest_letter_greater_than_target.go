@@ -1,4 +1,4 @@
-package problem_744
+package problem744
 
 func nextGreatestLetter(letters []byte, target byte) byte {
 	for _, v := range letters {

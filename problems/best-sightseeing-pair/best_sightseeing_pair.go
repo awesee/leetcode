@@ -1,4 +1,4 @@
-package best_sightseeing_pair
+package problem1014
 
 func maxScoreSightseeingPair(A []int) int {
 	a := A[0] // a is A[i]+i

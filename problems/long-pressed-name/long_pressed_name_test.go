@@ -1,4 +1,4 @@
-package long_pressed_name
+package problem925
 
 import "testing"
 

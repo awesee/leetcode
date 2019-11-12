@@ -1,4 +1,4 @@
-package partition_array_into_three_parts_with_equal_sum
+package problem1013
 
 func canThreePartsEqualSum(A []int) bool {
 	avg, sum := 0, 0

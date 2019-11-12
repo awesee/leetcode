@@ -1,1 +1,1 @@
-package group_shifted_strings
+package problem249

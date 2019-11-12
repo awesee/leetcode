@@ -1,4 +1,4 @@
-package adding_two_negabinary_numbers
+package problem1073
 
 func addNegabinary(A, B []int) []int {
 	i, j := len(A)-1, len(B)-1

@@ -1,1 +1,1 @@
-package smallest_good_base
+package problem483

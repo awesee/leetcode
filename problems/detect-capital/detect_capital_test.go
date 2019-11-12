@@ -1,4 +1,4 @@
-package detect_capital
+package problem520
 
 import "testing"
 

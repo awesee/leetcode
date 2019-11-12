@@ -1,4 +1,4 @@
-package valid_sudoku
+package problem36
 
 import "testing"
 

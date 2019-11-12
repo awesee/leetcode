@@ -1,4 +1,4 @@
-package verifying_an_alien_dictionary
+package problem953
 
 func isAlienSorted(words []string, order string) bool {
 	m := make(map[byte]int)

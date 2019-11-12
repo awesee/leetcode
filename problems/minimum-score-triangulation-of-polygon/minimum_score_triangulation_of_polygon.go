@@ -1,4 +1,4 @@
-package minimum_score_triangulation_of_polygon
+package problem1039
 
 func minScoreTriangulation(A []int) int {
 	n := len(A)

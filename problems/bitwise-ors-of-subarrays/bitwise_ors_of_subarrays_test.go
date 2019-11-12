@@ -1,1 +1,1 @@
-package bitwise_ors_of_subarrays
+package problem898

@@ -1,4 +1,4 @@
-package remove_outermost_parentheses
+package problem1021
 
 import "testing"
 

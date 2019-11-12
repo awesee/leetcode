@@ -1,4 +1,4 @@
-package excel_sheet_column_number
+package problem171
 
 func titleToNumber(s string) int {
 	ans := 0

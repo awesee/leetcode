@@ -1,4 +1,4 @@
-package cousins_in_binary_tree
+package problem993
 
 import (
 	"testing"

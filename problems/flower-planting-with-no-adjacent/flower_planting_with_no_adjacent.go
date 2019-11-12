@@ -1,4 +1,4 @@
-package flower_planting_with_no_adjacent
+package problem1042
 
 func gardenNoAdj(N int, paths [][]int) []int {
 	ans, adjGarden, flowerUsed := make([]int, N), make([][]int, N), make([][4]bool, N)

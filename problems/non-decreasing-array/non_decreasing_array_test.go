@@ -1,4 +1,4 @@
-package non_decreasing_array
+package problem665
 
 import "testing"
 

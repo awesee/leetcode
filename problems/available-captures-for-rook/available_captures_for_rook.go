@@ -1,4 +1,4 @@
-package available_captures_for_rook
+package problem999
 
 func numRookCaptures(board [][]byte) int {
 	ans, rx, ry, left, up := 0, -1, -1, [8]int{}, [8]int{}

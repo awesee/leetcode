@@ -1,1 +1,1 @@
-package smallest_rectangle_enclosing_black_pixels
+package problem302

@@ -1,1 +1,1 @@
-package hand_of_straights
+package problem846

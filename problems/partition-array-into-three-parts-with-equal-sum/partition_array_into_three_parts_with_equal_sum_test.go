@@ -1,4 +1,4 @@
-package partition_array_into_three_parts_with_equal_sum
+package problem1013
 
 import "testing"
 

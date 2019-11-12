@@ -1,1 +1,1 @@
-package factor_combinations
+package problem254

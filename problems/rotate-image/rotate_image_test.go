@@ -1,4 +1,4 @@
-package rotate_image
+package problem48
 
 import (
 	"reflect"

@@ -1,4 +1,4 @@
-package reverse_linked_list
+package problem206
 
 import (
 	"reflect"

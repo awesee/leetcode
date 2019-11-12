@@ -1,4 +1,4 @@
-package di_string_match
+package problem942
 
 func diStringMatch(S string) []int {
 	lo, hi := 0, len(S)

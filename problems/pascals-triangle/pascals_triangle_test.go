@@ -1,4 +1,4 @@
-package pascals_triangle
+package problem118
 
 import (
 	"reflect"

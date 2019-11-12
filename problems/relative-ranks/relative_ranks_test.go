@@ -1,1 +1,1 @@
-package relative_ranks
+package problem506

@@ -1,4 +1,4 @@
-package letter_combinations_of_a_phone_number
+package problem17
 
 func letterCombinations(digits string) []string {
 	if digits == "" {

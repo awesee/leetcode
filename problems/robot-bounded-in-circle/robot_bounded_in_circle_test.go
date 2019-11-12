@@ -1,4 +1,4 @@
-package robot_bounded_in_circle
+package problem1041
 
 import "testing"
 

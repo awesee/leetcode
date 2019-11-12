@@ -1,4 +1,4 @@
-package delete_columns_to_make_sorted
+package problem944
 
 func minDeletionSize(A []string) int {
 	ans := 0

@@ -1,4 +1,4 @@
-package maximum_average_subarray_i
+package problem643
 
 func findMaxAverage(nums []int, k int) float64 {
 	max, sum := 0, 0

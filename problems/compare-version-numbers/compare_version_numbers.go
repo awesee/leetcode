@@ -1,4 +1,4 @@
-package compare_version_numbers
+package problem165
 
 import (
 	"strconv"

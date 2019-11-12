@@ -1,4 +1,4 @@
-package find_common_characters
+package problem1002
 
 import (
 	"reflect"

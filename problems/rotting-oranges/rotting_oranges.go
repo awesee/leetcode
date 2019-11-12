@@ -1,4 +1,4 @@
-package rotting_oranges
+package problem994
 
 func orangesRotting(grid [][]int) int {
 	r, c, minutes := len(grid), len(grid[0]), 0
