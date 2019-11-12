@@ -1,4 +1,4 @@
-package excel_sheet_column_title
+package problem_168
 
 import "testing"
 
@@ -46,8 +46,16 @@ func TestConvertToTitle(t *testing.T) {
 			expected: "XYZ",
 		},
 	}
+	// Solution 1
 	for _, tc := range tests {
 		output := convertToTitle(tc.input)
+		if output != tc.expected {
+			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+		}
+	}
+	// Solution 2
+	for _, tc := range tests {
+		output := convertToTitle2(tc.input)
 		if output != tc.expected {
 			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
 		}
