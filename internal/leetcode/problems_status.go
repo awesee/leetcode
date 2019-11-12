@@ -170,6 +170,7 @@ var problemStatus = map[int]bool{
 	849:  true,
 	859:  true,
 	867:  true,
+	877:  true,
 	888:  true,
 	893:  true,
 	896:  true,
