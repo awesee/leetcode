@@ -1,7 +1,7 @@
-package defanging_an_ip_address
+package problem_1108
 
 import "strings"
 
 func defangIPaddr(address string) string {
-	return strings.Replace(address, ".", "[.]", -1)
+	return strings.ReplaceAll(address, ".", "[.]")
 }
