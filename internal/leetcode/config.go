@@ -1,17 +1,18 @@
 package leetcode
 
+// leetcode const
 const (
-	accountsLoginUrl         = "https://leetcode.com/accounts/login/"
-	apiProblemsAllUrl        = "https://leetcode.com/api/problems/all/"
-	apiProblemsAlgorithmsUrl = "https://leetcode.com/api/problems/algorithms/"
-	apiProblemsDatabaseUrl   = "https://leetcode.com/api/problems/database/"
-	apiProblemsShellUrl      = "https://leetcode.com/api/problems/shell/"
-	problemsetAllUrl         = "https://leetcode.com/problemset/all/"
-	questionArticleUrl       = "https://leetcode.com/articles/%s/"
+	accountsLoginURL         = "https://leetcode.com/accounts/login/"
+	apiProblemsAllURL        = "https://leetcode.com/api/problems/all/"
+	apiProblemsAlgorithmsURL = "https://leetcode.com/api/problems/algorithms/"
+	apiProblemsDatabaseURL   = "https://leetcode.com/api/problems/database/"
+	apiProblemsShellURL      = "https://leetcode.com/api/problems/shell/"
+	problemsetAllURL         = "https://leetcode.com/problemset/all/"
+	questionArticleURL       = "https://leetcode.com/articles/%s/"
 	graphQLUrl               = "https://leetcode.com/graphql"
-	graphQLCnUrl             = "https://leetcode-cn.com/graphql"
-	apiProgressAllUrl        = "https://leetcode.com/api/progress/all/"
-	submissionsLatestUrl     = "https://leetcode.com/submissions/latest/"
+	graphQLCnURL             = "https://leetcode-cn.com/graphql"
+	apiProgressAllURL        = "https://leetcode.com/api/progress/all/"
+	submissionsLatestURL     = "https://leetcode.com/submissions/latest/"
 )
 
 const (

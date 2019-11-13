@@ -14,6 +14,7 @@ import (
 	"github.com/openset/leetcode/internal/leetcode"
 )
 
+// CmdPost - post.CmdPost
 var CmdPost = &base.Command{
 	Run:       runPost,
 	UsageLine: "post",
@@ -32,14 +33,14 @@ func runPost(cmd *base.Command, args []string) {
 	formatSimilarQuestion := "  1. [%s](/problems/%s)%s\n"
 	problems := leetcode.ProblemsAll()
 	for _, problem := range problems.StatStatusPairs {
-		questionId := problem.Stat.FrontendQuestionId
+		id := problem.Stat.FrontendQuestionID
 		titleSlug := problem.Stat.QuestionTitleSlug
 		question := leetcode.QuestionData(titleSlug, false).Data.Question
 		if question.TranslatedContent != "" {
-			fmt.Println(questionId, "\t"+question.TranslatedTitle, "saving...")
+			fmt.Println(id, "\t"+question.TranslatedTitle, "saving...")
 			var buf bytes.Buffer
 			t := time.Date(2016, 1, 1, 21, 30, 0, 0, time.Local)
-			t = t.AddDate(0, 0, questionId)
+			t = t.AddDate(0, 0, id)
 			var tags []string
 			var tagsBuf bytes.Buffer
 			for _, tag := range question.TopicTags {
@@ -55,7 +56,7 @@ func runPost(cmd *base.Command, args []string) {
 				strings.Join(tags, ", "),
 				question.TitleSlug,
 			))
-			buf.WriteString(fmt.Sprintf("\n## %s. %s%s\n\n", question.QuestionFrontendId, question.TranslatedTitle, question.Difficulty.Str()))
+			buf.WriteString(fmt.Sprintf("\n## %s. %s%s\n\n", question.QuestionFrontendID, question.TranslatedTitle, question.Difficulty.Str()))
 			buf.WriteString("{% raw %}\n\n")
 			content := strings.ReplaceAll(question.TranslatedContent, "\r", "")
 			// remove style
@@ -85,7 +86,7 @@ func runPost(cmd *base.Command, args []string) {
 			oldPath := filepath.Join(basePath, "leetcode", filename)
 			newPath := filepath.Join(basePath, "_posts", filename)
 			base.FilePutContents(oldPath, buf.Bytes())
-			if leetcode.IsSolved(questionId) {
+			if leetcode.IsSolved(id) {
 				_ = os.Rename(oldPath, newPath)
 			} else {
 				_ = os.Remove(newPath)

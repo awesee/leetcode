@@ -9,6 +9,7 @@ import (
 	"github.com/openset/leetcode/internal/leetcode"
 )
 
+// CmdQuestion - question.CmdQuestion
 var CmdQuestion = &base.Command{
 	Run:       runQuestion,
 	UsageLine: "question <QuestionId>",
@@ -21,11 +22,11 @@ func runQuestion(cmd *base.Command, args []string) {
 		cmd.Usage()
 		return
 	}
-	if questionId, err := strconv.Atoi(args[0]); err == nil {
+	if id, err := strconv.Atoi(args[0]); err == nil {
 		problems := leetcode.ProblemsAll()
 		for _, problem := range problems.StatStatusPairs {
-			if problem.Stat.FrontendQuestionId == questionId {
-				fmt.Println(questionId, "\t"+problem.Stat.QuestionTitle)
+			if problem.Stat.FrontendQuestionID == id {
+				fmt.Println(id, "\t"+problem.Stat.QuestionTitle)
 				titleSlug := problem.Stat.QuestionTitleSlug
 				question := leetcode.QuestionData(titleSlug, true).Data.Question
 				if question.Content == "" && problem.PaidOnly == true && problem.Stat.QuestionArticleLive {

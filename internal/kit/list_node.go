@@ -1,12 +1,12 @@
 package kit
 
-// Definition for singly-linked list.
+// ListNode - Definition for singly-linked list.
 type ListNode struct {
 	Val  int
 	Next *ListNode
 }
 
-// convert *ListNode to []int
+// ListNode2SliceInt - convert *ListNode to []int
 func ListNode2SliceInt(l *ListNode) (s []int) {
 	for l != nil {
 		s = append(s, l.Val)
@@ -15,7 +15,7 @@ func ListNode2SliceInt(l *ListNode) (s []int) {
 	return
 }
 
-// convert []int to *ListNode
+// SliceInt2ListNode - convert []int to *ListNode
 func SliceInt2ListNode(s []int) *ListNode {
 	l := &ListNode{}
 	t := l

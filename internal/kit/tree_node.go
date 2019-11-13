@@ -2,16 +2,17 @@ package kit
 
 import "math"
 
+// NULL null
 var NULL = math.MinInt32
 
-// Definition for a binary tree node.
+// TreeNode - Definition for a binary tree node.
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
 	Right *TreeNode
 }
 
-// convert []int to *TreeNode
+// SliceInt2TreeNode - convert []int to *TreeNode
 func SliceInt2TreeNode(s []int) *TreeNode {
 	l := len(s)
 	if l == 0 {
@@ -39,7 +40,7 @@ func SliceInt2TreeNode(s []int) *TreeNode {
 	return tree
 }
 
-// convert *TreeNode to []int
+// TreeNode2SliceInt - convert *TreeNode to []int
 func TreeNode2SliceInt(t *TreeNode) (s []int) {
 	if t != nil {
 		queue := []*TreeNode{t}

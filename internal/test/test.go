@@ -10,6 +10,7 @@ import (
 	"github.com/openset/leetcode/internal/leetcode"
 )
 
+// CmdTest - test.CmdTest
 var CmdTest = &base.Command{
 	Run:       runTest,
 	UsageLine: "test [QuestionId]",
@@ -25,10 +26,10 @@ func runTest(cmd *base.Command, args []string) {
 	if _, err := os.Stat("problems"); err == nil {
 		target := "./..."
 		if len(args) == 1 {
-			if questionId, err := strconv.Atoi(args[0]); err == nil {
+			if id, err := strconv.Atoi(args[0]); err == nil {
 				problems := leetcode.ProblemsAll()
 				for _, problem := range problems.StatStatusPairs {
-					if problem.Stat.FrontendQuestionId == questionId {
+					if problem.Stat.FrontendQuestionID == id {
 						target = "./problems/" + problem.Stat.QuestionTitleSlug
 						break
 					}

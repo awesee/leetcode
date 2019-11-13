@@ -1,6 +1,6 @@
 package leetcode
 
-// 状态
+// IsSolved - leetcode.IsSolved
 func IsSolved(id int) bool {
 	return problemStatus[id]
 }

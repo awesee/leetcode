@@ -21,7 +21,7 @@ var (
 
 func init() {
 	html := remember(problemsetAllFile, 3, func() []byte {
-		return client.Get(problemsetAllUrl)
+		return client.Get(problemsetAllURL)
 	})
 	reg := regexp.MustCompile(`href="/tag/(\S+?)/"`)
 	for _, matches := range reg.FindAllStringSubmatch(string(html), -1) {
@@ -31,6 +31,7 @@ func init() {
 	}
 }
 
+// GetTags - leetcode.GetTags
 func GetTags() (tags []TagType) {
 	cts := fileGetContents(tagsFile)
 	jsonDecode(cts, &tags)
@@ -68,7 +69,8 @@ func tagsUnique(tags []TagType) []TagType {
 	return rs
 }
 
-func GetTopicTag(slug string) (tt topicTagType) {
+// GetTopicTag - leetcode.GetTopicTag
+func GetTopicTag(slug string) (tt TopicTagType) {
 	jsonStr := `{
 		"operationName": "getTopicTag",
 		"variables": {
@@ -77,7 +79,7 @@ func GetTopicTag(slug string) (tt topicTagType) {
 		"query": "query getTopicTag($slug: String!) {\n  topicTag(slug: $slug) {\n    name\n    translatedName\n    questions {\n      status\n      questionId\n      questionFrontendId\n      title\n      titleSlug\n      translatedTitle\n      stats\n      difficulty\n      isPaidOnly\n      topicTags {\n        name\n        translatedName\n        slug\n        __typename\n      }\n      __typename\n    }\n    frequencies\n    __typename\n  }\n  favoritesLists {\n    publicFavorites {\n      ...favoriteFields\n      __typename\n    }\n    privateFavorites {\n      ...favoriteFields\n      __typename\n    }\n    __typename\n  }\n}\n\nfragment favoriteFields on FavoriteNode {\n  idHash\n  id\n  name\n  isPublicFavorite\n  viewCount\n  creator\n  isWatched\n  questions {\n    questionId\n    title\n    titleSlug\n    __typename\n  }\n  __typename\n}\n"
 	}`
 	filename := fmt.Sprintf(topicTagFile, slugToSnake(slug))
-	graphQLRequest(graphQLCnUrl, jsonStr, filename, 2, &tt)
+	graphQLRequest(graphQLCnURL, jsonStr, filename, 2, &tt)
 	if tt.Data.TopicTag.Name == "" {
 		_ = os.Remove(getCachePath(filename))
 		for _, err := range tt.Errors {
@@ -87,13 +89,15 @@ func GetTopicTag(slug string) (tt topicTagType) {
 	return
 }
 
+// TagType - leetcode.TagType
 type TagType struct {
 	Name           string
 	Slug           string
 	TranslatedName string
 }
 
-type topicTagType struct {
+// TopicTagType - leetcode.TopicTagType
+type TopicTagType struct {
 	Errors []errorType `json:"errors"`
 	Data   ttDataType  `json:"data"`
 }
@@ -109,8 +113,8 @@ type ttType struct {
 }
 
 type ttQuestionType struct {
-	QuestionId         string    `json:"questionId"`
-	QuestionFrontendId string    `json:"questionFrontendId"`
+	QuestionID         string    `json:"questionId"`
+	QuestionFrontendID string    `json:"questionFrontendId"`
 	Title              string    `json:"title"`
 	TitleSlug          string    `json:"titleSlug"`
 	TranslatedTitle    string    `json:"translatedTitle"`
@@ -124,22 +128,23 @@ func (question *ttQuestionType) TagsStr() string {
 	var buf bytes.Buffer
 	format := "[[%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md)] "
 	for _, tag := range question.TopicTags {
-		buf.WriteString(fmt.Sprintf(format, tag.ShowName(), tag.Slug))
+		buf.WriteString(fmt.Sprintf(format, tag.name(), tag.Slug))
 	}
 	saveTags(question.TopicTags)
 	return string(buf.Bytes())
 }
 
+// SaveContents - leetcode.SaveContents
 func (tag *TagType) SaveContents() {
 	questions := GetTopicTag(tag.Slug).Data.TopicTag.Questions
 	sort.Slice(questions, func(i, j int) bool {
-		m, _ := strconv.Atoi(questions[i].QuestionFrontendId)
-		n, _ := strconv.Atoi(questions[j].QuestionFrontendId)
+		m, _ := strconv.Atoi(questions[i].QuestionFrontendID)
+		n, _ := strconv.Atoi(questions[j].QuestionFrontendID)
 		return m > n
 	})
 	var buf bytes.Buffer
 	buf.WriteString(authInfo("tag"))
-	buf.WriteString(fmt.Sprintf("\n## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > %s\n\n", tag.ShowName()))
+	buf.WriteString(fmt.Sprintf("\n## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > %s\n\n", tag.name()))
 	buf.WriteString("| # | 题名 | 标签 | 难度 |\n")
 	buf.WriteString("| :-: | - | - | :-: |\n")
 	format := "| %s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s)%s | %s | %s |\n"
@@ -147,13 +152,13 @@ func (tag *TagType) SaveContents() {
 		if question.TranslatedTitle == "" {
 			question.TranslatedTitle = question.Title
 		}
-		buf.WriteString(fmt.Sprintf(format, question.QuestionFrontendId, question.TranslatedTitle, question.TitleSlug, question.IsPaidOnly.Str(), question.TagsStr(), question.Difficulty))
+		buf.WriteString(fmt.Sprintf(format, question.QuestionFrontendID, question.TranslatedTitle, question.TitleSlug, question.IsPaidOnly.Str(), question.TagsStr(), question.Difficulty))
 	}
 	filename := filepath.Join("tag", tag.Slug, "README.md")
 	filePutContents(filename, buf.Bytes())
 }
 
-func (tag *TagType) ShowName() string {
+func (tag *TagType) name() string {
 	if tag.TranslatedName != "" {
 		return tag.TranslatedName
 	}

@@ -25,6 +25,7 @@ func init() {
 	}
 }
 
+// Get - client.Get
 func Get(url string) []byte {
 	if resp, err := http.Get(url); err == nil {
 		defer resp.Body.Close()
@@ -35,7 +36,8 @@ func Get(url string) []byte {
 	return nil
 }
 
-func PostJson(url, jsonStr string) []byte {
+// PostJSON - client.PostJSON
+func PostJSON(url, jsonStr string) []byte {
 	if resp, err := http.Post(url, "application/json", strings.NewReader(jsonStr)); err == nil {
 		defer resp.Body.Close()
 		body, err := ioutil.ReadAll(resp.Body)

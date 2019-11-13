@@ -6,6 +6,7 @@ import (
 	"github.com/openset/leetcode/internal/leetcode"
 )
 
+// CmdClean - clean.CmdClean
 var CmdClean = &base.Command{
 	Run:       runClean,
 	UsageLine: "clean",

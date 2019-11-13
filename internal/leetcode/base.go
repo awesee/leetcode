@@ -14,18 +14,19 @@ import (
 	"github.com/openset/leetcode/internal/client"
 )
 
+// leetcode var
 var (
 	authInfo        = base.AuthInfo
 	checkErr        = base.CheckErr
 	filePutContents = base.FilePutContents
-	jsonIndent      = base.JsonIndent
+	jsonIndent      = base.JSONIndent
 	LockStr         = " 🔒"
 	translationSet  = make(map[int]string)
 )
 
 func graphQLRequest(graphQL, jsonStr, filename string, days int, v interface{}) {
 	data := remember(filename, days, func() []byte {
-		return client.PostJson(graphQL, jsonStr)
+		return client.PostJSON(graphQL, jsonStr)
 	})
 	jsonDecode(data, &v)
 }
@@ -63,6 +64,7 @@ func getCachePath(f string) string {
 	return filepath.Join(dir, ".leetcode", f)
 }
 
+// Clean - leetcode.Clean
 func Clean() {
 	dir := getCachePath("")
 	err := os.RemoveAll(dir)

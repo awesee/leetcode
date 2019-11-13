@@ -6,6 +6,7 @@ import (
 	"github.com/openset/leetcode/internal/readme"
 )
 
+// CmdPage - page.CmdPage
 var CmdPage = &base.Command{
 	Run:       runPage,
 	UsageLine: "page",

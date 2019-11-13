@@ -10,6 +10,7 @@ import (
 	"github.com/openset/leetcode/internal/leetcode"
 )
 
+// CmdReadme - readme.CmdReadme
 var CmdReadme = &base.Command{
 	Run:       runReadme,
 	UsageLine: "readme",
@@ -38,14 +39,14 @@ func writeProblems(buf *bytes.Buffer) {
 	problems := leetcode.ProblemsAll().StatStatusPairs
 	count := len(problems)
 	if count > 0 {
-		maxId = problems[0].Stat.FrontendQuestionId
+		maxID = problems[0].Stat.FrontendQuestionID
 		writeNav(buf)
 		// list
 		buf.WriteString("| # | Title | Solution | Difficulty |\n")
 		buf.WriteString("| :-: | - | - | :-: |\n")
 		n := buf.Len()
-		for i := 1; i < maxId/pageSize; i++ {
-			for problems[count-1].Stat.FrontendQuestionId <= pageSize*i {
+		for i := 1; i < maxID/pageSize; i++ {
+			for problems[count-1].Stat.FrontendQuestionID <= pageSize*i {
 				count--
 				problems[count].WriteRow(buf)
 			}
@@ -62,7 +63,7 @@ func writeProblems(buf *bytes.Buffer) {
 func writeNav(buf *bytes.Buffer) {
 	// table
 	buf.WriteString("<table><thead>\n")
-	for i := 0; i < maxId; i += step * num {
+	for i := 0; i < maxID; i += step * num {
 		buf.WriteString("<tr>\n")
 		for j := 0; j < num; j++ {
 			buf.WriteString(fmt.Sprintf("\t<th align=\"center\"><a href=\"%s\">[%d-%d]</a></th>\n", linkStr(i+j*step+step), 1+i+j*step, i+j*step+step))
@@ -74,7 +75,7 @@ func writeNav(buf *bytes.Buffer) {
 
 func linkStr(num int) string {
 	link := "https://github.com/openset/leetcode/blob/master/"
-	if num > maxId-maxId%pageSize-pageSize {
+	if num > maxID-maxID%pageSize-pageSize {
 		link += fmt.Sprintf("README.md#%d", num)
 	} else {
 		link += fmt.Sprintf("readme/%d-%d.md#%d", (num-1)/pageSize*pageSize+1, ((num-1)/pageSize+1)*pageSize, num-step+1)
@@ -85,7 +86,7 @@ func linkStr(num int) string {
 var (
 	buildCmd = "readme"
 	fileName = "README.md"
-	maxId    = 0
+	maxID    = 0
 	pageSize = 300
 	step     = 50
 	num      = 6

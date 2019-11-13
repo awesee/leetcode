@@ -2,9 +2,10 @@ package leetcode
 
 import "github.com/openset/leetcode/internal/client"
 
-func ProblemsAlgorithms() (ps problemsType) {
+// ProblemsAlgorithms - leetcode.ProblemsAlgorithms
+func ProblemsAlgorithms() (ps ProblemsType) {
 	data := remember(problemsAlgorithmsFile, 2, func() []byte {
-		return client.Get(apiProblemsAlgorithmsUrl)
+		return client.Get(apiProblemsAlgorithmsURL)
 	})
 	jsonDecode(data, &ps)
 	return

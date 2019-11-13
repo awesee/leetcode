@@ -9,6 +9,7 @@ import (
 	"github.com/openset/leetcode/internal/base"
 )
 
+// CmdUpdate - update.CmdUpdate
 var CmdUpdate = &base.Command{
 	Run:       runUpdate,
 	UsageLine: "update",

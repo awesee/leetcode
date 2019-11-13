@@ -8,10 +8,11 @@ import (
 	"github.com/openset/leetcode/internal/client"
 )
 
+// GetDescription - leetcode.GetDescription
 func GetDescription(articleSlug string) string {
 	filename := fmt.Sprintf(questionArticleFile, slugToSnake(articleSlug))
 	html := remember(filename, 6, func() []byte {
-		return client.Get(fmt.Sprintf(questionArticleUrl, articleSlug))
+		return client.Get(fmt.Sprintf(questionArticleURL, articleSlug))
 	})
 	reg := regexp.MustCompile(`<div class="block-markdown question">([\S\s]+?)</div>`)
 	matches := reg.FindSubmatch(html)
