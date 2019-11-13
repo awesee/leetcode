@@ -11,6 +11,7 @@ import (
 	"github.com/openset/leetcode/internal/leetcode"
 )
 
+// CmdTag - tag.CmdTag
 var CmdTag = &base.Command{
 	Run:       runTag,
 	UsageLine: "tag",

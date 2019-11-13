@@ -8,6 +8,7 @@ import (
 	"github.com/openset/leetcode/internal/base"
 )
 
+// CmdHelper - help.CmdHelper
 var CmdHelper = &base.Command{
 	Run:       runHelper,
 	UsageLine: "helper",

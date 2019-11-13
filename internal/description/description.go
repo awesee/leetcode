@@ -9,6 +9,7 @@ import (
 	"github.com/openset/leetcode/internal/leetcode"
 )
 
+// CmdDescription - description.CmdDescription
 var CmdDescription = &base.Command{
 	Run:       runDescription,
 	UsageLine: "description",
@@ -29,7 +30,7 @@ func runDescription(cmd *base.Command, args []string) {
 	}
 	problems := leetcode.ProblemsAll()
 	for _, problem := range problems.StatStatusPairs {
-		fmt.Println(problem.Stat.FrontendQuestionId, "\t"+problem.Stat.QuestionTitle)
+		fmt.Println(problem.Stat.FrontendQuestionID, "\t"+problem.Stat.QuestionTitle)
 		wg.Add(1)
 		jobs <- problem
 	}

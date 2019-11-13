@@ -9,6 +9,7 @@ import (
 	"github.com/openset/leetcode/internal/leetcode"
 )
 
+// CmdOpen - open.CmdOpen
 var CmdOpen = &base.Command{
 	Run:       runOpen,
 	UsageLine: "open <QuestionId>",
@@ -21,14 +22,14 @@ func runOpen(cmd *base.Command, args []string) {
 		cmd.Usage()
 		return
 	}
-	questionId, err := strconv.Atoi(args[0])
+	id, err := strconv.Atoi(args[0])
 	if err != nil {
 		cmd.Usage()
 		return
 	}
 	problems := leetcode.ProblemsAll()
 	for _, problem := range problems.StatStatusPairs {
-		if problem.Stat.FrontendQuestionId == questionId {
+		if problem.Stat.FrontendQuestionID == id {
 			titleSlug := problem.Stat.QuestionTitleSlug
 			browser.Open("https://github.com/openset/leetcode/tree/master/problems/" + titleSlug)
 			break

@@ -11,7 +11,8 @@ import (
 	"strings"
 )
 
-func QuestionData(titleSlug string, isForce bool, graphQL ...string) (qd questionDataType) {
+// QuestionData - leetcode.QuestionData
+func QuestionData(titleSlug string, isForce bool, graphQL ...string) (qd QuestionDataType) {
 	jsonStr := `{
 		"operationName": "questionData",
 		"variables": {
@@ -24,7 +25,7 @@ func QuestionData(titleSlug string, isForce bool, graphQL ...string) (qd questio
 		days = 0
 	}
 	if len(graphQL) == 0 {
-		graphQL = []string{graphQLCnUrl}
+		graphQL = []string{graphQLCnURL}
 	}
 	name := fmt.Sprintf(questionDataFile, slugToSnake(titleSlug))
 	filename := getCachePath(name)
@@ -35,7 +36,7 @@ func QuestionData(titleSlug string, isForce bool, graphQL ...string) (qd questio
 		filePutContents(filename, jsonEncode(qd))
 	}
 	if qd.Data.Question.TitleSlug == "" {
-		if graphQL[0] == graphQLCnUrl {
+		if graphQL[0] == graphQLCnURL {
 			return QuestionData(titleSlug, true, graphQLUrl)
 		}
 		for _, err := range qd.Errors {
@@ -45,7 +46,8 @@ func QuestionData(titleSlug string, isForce bool, graphQL ...string) (qd questio
 	return
 }
 
-type questionDataType struct {
+// QuestionDataType - leetcode.QuestionDataType
+type QuestionDataType struct {
 	Errors []errorType `json:"errors"`
 	Data   dataType    `json:"data"`
 }
@@ -59,9 +61,9 @@ type dataType struct {
 }
 
 type questionType struct {
-	QuestionId         string             `json:"questionId"`
-	QuestionFrontendId string             `json:"questionFrontendId"`
-	BoundTopicId       int                `json:"boundTopicId"`
+	QuestionID         string             `json:"questionId"`
+	QuestionFrontendID string             `json:"questionFrontendId"`
+	BoundTopicID       int                `json:"boundTopicId"`
 	Title              string             `json:"title"`
 	TitleSlug          string             `json:"titleSlug"`
 	Content            string             `json:"content"`
@@ -113,10 +115,10 @@ func (question *questionType) getDescContent() []byte {
 	buf.WriteString(authInfo("description"))
 	buf.WriteString(question.getNavigation())
 	buf.WriteString(fmt.Sprintf("\n## [%s. %s%s](%s \"%s\")\n\n",
-		question.QuestionFrontendId,
+		question.QuestionFrontendID,
 		question.Title,
 		question.Difficulty.Str(),
-		question.LeetCodeUrl(),
+		question.LeetCodeURL(),
 		question.TranslatedTitle,
 	))
 	cts := filterContents(question.Content)
@@ -135,10 +137,10 @@ func (question *questionType) getDescContent() []byte {
 func (question *questionType) getNavigation() string {
 	nav, pre, next := "\n%s\n%s\n%s\n", "< Previous", "Next >"
 	problems := ProblemsAll().StatStatusPairs
-	if questionId, err := strconv.Atoi(question.QuestionId); err == nil {
+	if id, err := strconv.Atoi(question.QuestionID); err == nil {
 		format := `[%s](https://github.com/openset/leetcode/tree/master/problems/%s "%s")`
 		for i, problem := range problems {
-			if problem.Stat.QuestionId == questionId {
+			if problem.Stat.QuestionID == id {
 				if i < len(problems)-1 {
 					pre = fmt.Sprintf(format, pre, problems[i+1].Stat.QuestionTitleSlug, problems[i+1].Stat.QuestionTitle)
 				}
@@ -203,12 +205,12 @@ func (question *questionType) TitleSnake() string {
 	return slugToSnake(question.TitleSlug)
 }
 
-func (question *questionType) LeetCodeUrl() string {
+func (question *questionType) LeetCodeURL() string {
 	return "https://leetcode.com/problems/" + question.TitleSlug
 }
 
 func (question *questionType) PackageName() string {
-	return "problem" + question.QuestionFrontendId
+	return "problem" + question.QuestionFrontendID
 }
 
 func (question *questionType) SaveCodeSnippet() {
@@ -309,7 +311,7 @@ func filterContents(cts string) string {
 }
 
 func getContent(filename string) string {
-	var qd questionDataType
+	var qd QuestionDataType
 	cts := fileGetContents(filename)
 	jsonDecode(cts, &qd)
 	return qd.Data.Question.Content

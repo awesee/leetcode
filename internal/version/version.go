@@ -10,6 +10,7 @@ import (
 
 const version = "1.4.9"
 
+// CmdVersion - version.CmdVersion
 var CmdVersion = &base.Command{
 	Run:       runVersion,
 	UsageLine: "version",
@@ -25,6 +26,7 @@ func runVersion(cmd *base.Command, args []string) {
 	fmt.Printf("%s version %s %s/%s\n", base.CmdName, version, runtime.GOOS, runtime.GOARCH)
 }
 
+// String - version.String
 func String() string {
 	return version
 }

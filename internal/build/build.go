@@ -13,6 +13,7 @@ import (
 	"github.com/openset/leetcode/internal/version"
 )
 
+// CmdBuild - build.CmdBuild
 var CmdBuild = &base.Command{
 	Run:       runBuild,
 	UsageLine: "build",

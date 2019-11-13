@@ -2,9 +2,10 @@ package leetcode
 
 import "github.com/openset/leetcode/internal/client"
 
-func ProblemsShell() (ps problemsType) {
+// ProblemsShell - leetcode.ProblemsShell
+func ProblemsShell() (ps ProblemsType) {
 	data := remember(problemsShellFile, 2, func() []byte {
-		return client.Get(apiProblemsShellUrl)
+		return client.Get(apiProblemsShellURL)
 	})
 	jsonDecode(data, &ps)
 	return

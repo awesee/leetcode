@@ -6,8 +6,9 @@ import (
 	"net/url"
 )
 
+// AccountsLogin - leetcode.AccountsLogin
 func AccountsLogin(username, password string) (*http.Response, error) {
-	resp, err := http.Head(accountsLoginUrl)
+	resp, err := http.Head(accountsLoginURL)
 	checkErr(err)
 	defer resp.Body.Close()
 	saveCookies(resp.Cookies())
@@ -17,7 +18,7 @@ func AccountsLogin(username, password string) (*http.Response, error) {
 		"password":            {password},
 		"csrfmiddlewaretoken": {csrftoken},
 	}
-	resp, err = http.PostForm(accountsLoginUrl, data)
+	resp, err = http.PostForm(accountsLoginURL, data)
 	checkErr(err)
 	defer resp.Body.Close()
 	saveCookies(resp.Cookies())
@@ -29,6 +30,7 @@ func AccountsLogin(username, password string) (*http.Response, error) {
 	return resp, err
 }
 
+// AutoLogin - leetcode.AutoLogin
 func AutoLogin() (*http.Response, error) {
 	data := getCredential()
 	if data.Get("login") == "" {
