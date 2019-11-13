@@ -9,9 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/reported-posts "Reported Posts")
 
-## [1112. Highest Grade For Each Student (Medium)](https://leetcode.com/problems/highest-grade-for-each-student "")
+## [1112. Highest Grade For Each Student (Medium)](https://leetcode.com/problems/highest-grade-for-each-student "每位学生的最高成绩")
 
 
-
-### Similar Questions
-  1. [Department Highest Salary](https://github.com/openset/leetcode/tree/master/problems/department-highest-salary) (Medium)
