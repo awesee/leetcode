@@ -14,19 +14,18 @@ func buddyStrings(A string, B string) bool {
 			exist[k] = true
 		}
 		return false
-	} else {
-		m, n := -1, -1
-		for i, c := range A {
-			if B[i] != byte(c) {
-				if m == -1 {
-					m = i
-				} else if n == -1 {
-					n = i
-				} else {
-					return false
-				}
+	}
+	m, n := -1, -1
+	for i, c := range A {
+		if B[i] != byte(c) {
+			if m == -1 {
+				m = i
+			} else if n == -1 {
+				n = i
+			} else {
+				return false
 			}
 		}
-		return n != -1 && A[m] == B[n] && A[n] == B[m]
 	}
+	return n != -1 && A[m] == B[n] && A[n] == B[m]
 }
