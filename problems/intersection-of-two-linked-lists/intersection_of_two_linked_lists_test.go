@@ -3,7 +3,7 @@ package problem160
 import (
 	"testing"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -36,9 +36,9 @@ func TestGetIntersectionNode(t *testing.T) {
 		},
 	}
 	for _, tc := range tests {
-		intersection := SliceInt2ListNode(tc.intersection)
-		headA := SliceInt2ListNode(tc.headA)
-		headB := SliceInt2ListNode(tc.headB)
+		intersection := kit.SliceInt2ListNode(tc.intersection)
+		headA := kit.SliceInt2ListNode(tc.headA)
+		headB := kit.SliceInt2ListNode(tc.headB)
 		for n := headA; n != nil; n = n.Next {
 			if n.Next == nil {
 				n.Next = intersection

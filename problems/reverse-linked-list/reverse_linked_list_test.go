@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -20,7 +20,7 @@ func TestReverseList(t *testing.T) {
 		},
 	}
 	for _, tc := range tests {
-		output := ListNode2SliceInt(reverseList(SliceInt2ListNode(tc.input)))
+		output := kit.ListNode2SliceInt(reverseList(kit.SliceInt2ListNode(tc.input)))
 		if !reflect.DeepEqual(output, tc.expected) {
 			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
 		}

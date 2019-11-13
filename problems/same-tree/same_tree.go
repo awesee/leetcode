@@ -1,6 +1,9 @@
 package problem100
 
-import . "github.com/openset/leetcode/internal/kit"
+import "github.com/openset/leetcode/internal/kit"
+
+// TreeNode - Definition for a binary tree node.
+type TreeNode = kit.TreeNode
 
 /**
  * Definition for a binary tree node.

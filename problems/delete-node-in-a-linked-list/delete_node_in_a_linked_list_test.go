@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -42,13 +42,13 @@ func TestDeleteNode(t *testing.T) {
 		},
 	}
 	for _, tc := range tests {
-		head := SliceInt2ListNode(tc.input)
+		head := kit.SliceInt2ListNode(tc.input)
 		node := head
 		for node != nil && node.Val != tc.node {
 			node = node.Next
 		}
 		deleteNode(node)
-		output := ListNode2SliceInt(head)
+		output := kit.ListNode2SliceInt(head)
 		if !reflect.DeepEqual(output, tc.expected) {
 			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
 		}

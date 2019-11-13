@@ -3,7 +3,7 @@ package problem938
 import (
 	"testing"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -16,20 +16,20 @@ type caseType struct {
 func TestRangeSumBST(t *testing.T) {
 	tests := [...]caseType{
 		{
-			input:    []int{10, 5, 15, 3, 7, NULL, 18},
+			input:    []int{10, 5, 15, 3, 7, kit.NULL, 18},
 			l:        7,
 			r:        15,
 			expected: 32,
 		},
 		{
-			input:    []int{10, 5, 15, 3, 7, 13, 18, 1, NULL, 6},
+			input:    []int{10, 5, 15, 3, 7, 13, 18, 1, kit.NULL, 6},
 			l:        6,
 			r:        10,
 			expected: 23,
 		},
 	}
 	for _, tc := range tests {
-		output := rangeSumBST(SliceInt2TreeNode(tc.input), tc.l, tc.r)
+		output := rangeSumBST(kit.SliceInt2TreeNode(tc.input), tc.l, tc.r)
 		if output != tc.expected {
 			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
 		}

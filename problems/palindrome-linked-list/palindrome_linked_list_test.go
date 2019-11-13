@@ -3,7 +3,7 @@ package problem234
 import (
 	"testing"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -27,7 +27,7 @@ func TestIsPalindrome(t *testing.T) {
 		},
 	}
 	for _, tc := range tests {
-		output := isPalindrome(SliceInt2ListNode(tc.input))
+		output := isPalindrome(kit.SliceInt2ListNode(tc.input))
 		if output != tc.expected {
 			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
 		}

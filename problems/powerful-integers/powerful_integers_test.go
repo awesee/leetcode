@@ -3,7 +3,7 @@ package problem970
 import (
 	"testing"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -30,7 +30,7 @@ func TestPowerfulIntegers(t *testing.T) {
 	}
 	for _, tc := range tests {
 		output := powerfulIntegers(tc.x, tc.y, tc.bound)
-		if !IsEqualSliceInt(output, tc.expected) {
+		if !kit.IsEqualSliceInt(output, tc.expected) {
 			t.Fatalf("input: %v %v %v, output: %v, expected: %v", tc.x, tc.y, tc.bound, output, tc.expected)
 		}
 	}

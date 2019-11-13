@@ -3,7 +3,7 @@ package problem606
 import (
 	"testing"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -18,12 +18,12 @@ func TestTree2str(t *testing.T) {
 			expected: "1(2(4))(3)",
 		},
 		{
-			input:    []int{1, 2, 3, NULL, 4},
+			input:    []int{1, 2, 3, kit.NULL, 4},
 			expected: "1(2()(4))(3)",
 		},
 	}
 	for _, tc := range tests {
-		output := tree2str(SliceInt2TreeNode(tc.input))
+		output := tree2str(kit.SliceInt2TreeNode(tc.input))
 		if output != tc.expected {
 			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
 		}

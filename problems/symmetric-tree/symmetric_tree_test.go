@@ -3,7 +3,7 @@ package problem101
 import (
 	"testing"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -18,12 +18,12 @@ func TestIsSymmetric(t *testing.T) {
 			expected: true,
 		},
 		{
-			input:    []int{1, 2, 2, NULL, 3, NULL, 3},
+			input:    []int{1, 2, 2, kit.NULL, 3, kit.NULL, 3},
 			expected: false,
 		},
 	}
 	for _, tc := range tests {
-		output := isSymmetric(SliceInt2TreeNode(tc.input))
+		output := isSymmetric(kit.SliceInt2TreeNode(tc.input))
 		if output != tc.expected {
 			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
 		}

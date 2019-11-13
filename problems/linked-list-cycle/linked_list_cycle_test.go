@@ -3,7 +3,7 @@ package problem141
 import (
 	"testing"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -36,7 +36,7 @@ func TestHasCycle(t *testing.T) {
 		},
 	}
 	for _, tc := range tests {
-		input := SliceInt2ListNode(tc.input)
+		input := kit.SliceInt2ListNode(tc.input)
 		p, curr := input, input
 		for i := 0; curr != nil && tc.pos >= 0; i, curr = i+1, curr.Next {
 			if i == tc.pos {
