@@ -3,7 +3,7 @@ package problem350
 import (
 	"testing"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -32,7 +32,7 @@ func TestIntersect(t *testing.T) {
 	}
 	for _, tc := range tests {
 		output := intersect(tc.nums1, tc.nums2)
-		if !IsEqualSliceInt(output, tc.expected) {
+		if !kit.IsEqualSliceInt(output, tc.expected) {
 			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.nums1, tc.nums2, output, tc.expected)
 		}
 	}

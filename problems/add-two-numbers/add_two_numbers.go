@@ -2,6 +2,7 @@ package problem2
 
 import "github.com/openset/leetcode/internal/kit"
 
+// ListNode - Definition for singly-linked list.
 type ListNode = kit.ListNode
 
 /**

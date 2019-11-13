@@ -3,7 +3,7 @@ package problem965
 import (
 	"testing"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -14,7 +14,7 @@ type caseType struct {
 func TestIsUnivalTree(t *testing.T) {
 	tests := [...]caseType{
 		{
-			input:    []int{1, 1, 1, 1, 1, NULL, 1},
+			input:    []int{1, 1, 1, 1, 1, kit.NULL, 1},
 			expected: true,
 		},
 		{
@@ -27,7 +27,7 @@ func TestIsUnivalTree(t *testing.T) {
 		},
 	}
 	for _, tc := range tests {
-		output := isUnivalTree(SliceInt2TreeNode(tc.input))
+		output := isUnivalTree(kit.SliceInt2TreeNode(tc.input))
 		if output != tc.expected {
 			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
 		}

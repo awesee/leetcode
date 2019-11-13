@@ -3,7 +3,7 @@ package problem100
 import (
 	"testing"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -21,7 +21,7 @@ func TestIsSameTree(t *testing.T) {
 		},
 		{
 			p:        []int{1, 2},
-			q:        []int{1, NULL, 2},
+			q:        []int{1, kit.NULL, 2},
 			expected: false,
 		},
 		{
@@ -31,7 +31,7 @@ func TestIsSameTree(t *testing.T) {
 		},
 	}
 	for _, tc := range tests {
-		output := isSameTree(SliceInt2TreeNode(tc.p), SliceInt2TreeNode(tc.q))
+		output := isSameTree(kit.SliceInt2TreeNode(tc.p), kit.SliceInt2TreeNode(tc.q))
 		if output != tc.expected {
 			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.p, tc.q, output, tc.expected)
 		}

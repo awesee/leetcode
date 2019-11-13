@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
 
 type caseType struct {
@@ -28,8 +28,8 @@ func TestDeleteDuplicates(t *testing.T) {
 		},
 	}
 	for _, tc := range tests {
-		output := deleteDuplicates(SliceInt2ListNode(tc.input))
-		if !reflect.DeepEqual(ListNode2SliceInt(output), tc.expected) {
+		output := deleteDuplicates(kit.SliceInt2ListNode(tc.input))
+		if !reflect.DeepEqual(kit.ListNode2SliceInt(output), tc.expected) {
 			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
 		}
 	}

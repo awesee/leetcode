@@ -3,8 +3,11 @@ package problem606
 import (
 	"strconv"
 
-	. "github.com/openset/leetcode/internal/kit"
+	"github.com/openset/leetcode/internal/kit"
 )
+
+// TreeNode - Definition for a binary tree node.
+type TreeNode = kit.TreeNode
 
 /**
  * Definition for a binary tree node.
