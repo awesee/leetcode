@@ -119,7 +119,7 @@ func (question *questionType) getDescContent() []byte {
 		question.Title,
 		question.Difficulty.Str(),
 		question.LeetCodeURL(),
-		question.TranslatedTitle,
+		question.translatedTitle(),
 	))
 	cts := filterContents(question.Content)
 	// remove style
@@ -134,21 +134,32 @@ func (question *questionType) getDescContent() []byte {
 	return buf.Bytes()
 }
 
+func (question *questionType) questionID() int {
+	id, _ := strconv.Atoi(question.QuestionID)
+	return id
+}
+
+func (question *questionType) translatedTitle() string {
+	if question.TranslatedTitle == "" {
+		question.TranslatedTitle = translationSet[question.questionID()]
+	}
+	return question.TranslatedTitle
+}
+
 func (question *questionType) getNavigation() string {
 	nav, pre, next := "\n%s\n%s\n%s\n", "< Previous", "Next >"
 	problems := ProblemsAll().StatStatusPairs
-	if id, err := strconv.Atoi(question.QuestionID); err == nil {
-		format := `[%s](https://github.com/openset/leetcode/tree/master/problems/%s "%s")`
-		for i, problem := range problems {
-			if problem.Stat.QuestionID == id {
-				if i < len(problems)-1 {
-					pre = fmt.Sprintf(format, pre, problems[i+1].Stat.QuestionTitleSlug, problems[i+1].Stat.QuestionTitle)
-				}
-				if i > 0 {
-					next = fmt.Sprintf(format, next, problems[i-1].Stat.QuestionTitleSlug, problems[i-1].Stat.QuestionTitle)
-				}
-				break
+	id := question.questionID()
+	format := `[%s](https://github.com/openset/leetcode/tree/master/problems/%s "%s")`
+	for i, problem := range problems {
+		if problem.Stat.QuestionID == id {
+			if i < len(problems)-1 {
+				pre = fmt.Sprintf(format, pre, problems[i+1].Stat.QuestionTitleSlug, problems[i+1].Stat.QuestionTitle)
 			}
+			if i > 0 {
+				next = fmt.Sprintf(format, next, problems[i-1].Stat.QuestionTitleSlug, problems[i-1].Stat.QuestionTitle)
+			}
+			break
 		}
 	}
 	return fmt.Sprintf(nav, pre, strings.Repeat("　", 16), next)
