@@ -25,9 +25,8 @@ func compareVersion(version1 string, version2 string) int {
 		if n1 != n2 {
 			if n1 < n2 {
 				return -1
-			} else {
-				return 1
 			}
+			return 1
 		}
 	}
 	return 0
