@@ -23,9 +23,8 @@ func runDescription(cmd *base.Command, args []string) {
 		return
 	}
 	var wg sync.WaitGroup
-	limit := 1 << 7
-	jobs := make(chan leetcode.StatStatusPairsType, limit)
-	for i := 0; i < limit; i++ {
+	jobs := make(chan leetcode.StatStatusPairsType)
+	for i := 0; i < 1<<7; i++ {
 		go worker(jobs, &wg)
 	}
 	problems := leetcode.ProblemsAll()

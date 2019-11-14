@@ -14,8 +14,8 @@
 
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
 
 ### Similar Questions
   1. [Count Complete Tree Nodes](https://github.com/openset/leetcode/tree/master/problems/count-complete-tree-nodes) (Medium)
