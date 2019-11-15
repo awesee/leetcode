@@ -131,7 +131,7 @@ func (question *ttQuestionType) TagsStr() string {
 		buf.WriteString(fmt.Sprintf(format, tag.name(), tag.Slug))
 	}
 	saveTags(question.TopicTags)
-	return string(buf.Bytes())
+	return buf.String()
 }
 
 // SaveContents - leetcode.SaveContents
