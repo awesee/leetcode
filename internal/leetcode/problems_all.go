@@ -9,18 +9,6 @@ import (
 	"github.com/openset/leetcode/internal/client"
 )
 
-// ProblemsAll - leetcode.ProblemsAll
-func ProblemsAll() (ps ProblemsType) {
-	data := remember(problemsAllFile, 2, func() []byte {
-		return client.Get(apiProblemsAllURL)
-	})
-	jsonDecode(data, &ps)
-	sort.Slice(ps.StatStatusPairs, func(i, j int) bool {
-		return ps.StatStatusPairs[i].Stat.FrontendQuestionID > ps.StatStatusPairs[j].Stat.FrontendQuestionID
-	})
-	return
-}
-
 // ProblemsType - leetcode.ProblemsType
 type ProblemsType struct {
 	UserName        string                `json:"user_name"`
@@ -46,6 +34,17 @@ type StatStatusPairsType struct {
 	Progress   int            `json:"progress"`
 }
 
+// WriteRow - leetcode.WriteRow
+func (problem *StatStatusPairsType) WriteRow(buf *bytes.Buffer) {
+	format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s%s)%s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s) | %s |\n"
+	id := problem.Stat.FrontendQuestionID
+	stat := problem.Stat
+	title := strings.TrimSpace(problem.Stat.QuestionTitle)
+	titleSlug := stat.QuestionTitleSlug
+	levelName := problem.Difficulty.LevelName()
+	buf.WriteString(fmt.Sprintf(format, id, id, title, titleSlug, stat.TranslationTitle(), problem.PaidOnly.Str(), stat.Lang(), titleSlug, levelName))
+}
+
 type statType struct {
 	QuestionID          int    `json:"question_id"`
 	QuestionArticleLive bool   `json:"question__article__live"`
@@ -59,28 +58,8 @@ type statType struct {
 	IsNewQuestion       bool   `json:"is_new_question"`
 }
 
-type difficultyType struct {
-	Level int `json:"level"`
-}
-
-type paidType bool
-
-// WriteRow - leetcode.WriteRow
-func (problem *StatStatusPairsType) WriteRow(buf *bytes.Buffer) {
-	format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s%s)%s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s) | %s |\n"
-	id := problem.Stat.FrontendQuestionID
-	stat := problem.Stat
-	title := strings.TrimSpace(problem.Stat.QuestionTitle)
-	titleSlug := stat.QuestionTitleSlug
-	levelName := problem.Difficulty.LevelName()
-	buf.WriteString(fmt.Sprintf(format, id, id, title, titleSlug, stat.TranslationTitle(), problem.PaidOnly.Str(), stat.Lang(), titleSlug, levelName))
-}
-
-func (p paidType) Str() string {
-	if p {
-		return LockStr
-	}
-	return ""
+func (s *statType) Lang() string {
+	return getLang(s.QuestionTitleSlug)
 }
 
 func (s *statType) QuestionTitleSnake() string {
@@ -95,8 +74,8 @@ func (s *statType) TranslationTitle() string {
 	return title
 }
 
-func (s *statType) Lang() string {
-	return getLang(s.QuestionTitleSlug)
+type difficultyType struct {
+	Level int `json:"level"`
 }
 
 func (d *difficultyType) LevelName() string {
@@ -106,4 +85,25 @@ func (d *difficultyType) LevelName() string {
 		3: "Hard",
 	}
 	return m[d.Level]
+}
+
+type paidType bool
+
+func (p paidType) Str() string {
+	if p {
+		return LockStr
+	}
+	return ""
+}
+
+// ProblemsAll - leetcode.ProblemsAll
+func ProblemsAll() (ps ProblemsType) {
+	data := remember(problemsAllFile, 2, func() []byte {
+		return client.Get(apiProblemsAllURL)
+	})
+	jsonDecode(data, &ps)
+	sort.Slice(ps.StatStatusPairs, func(i, j int) bool {
+		return ps.StatStatusPairs[i].Stat.FrontendQuestionID > ps.StatStatusPairs[j].Stat.FrontendQuestionID
+	})
+	return
 }

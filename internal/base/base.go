@@ -91,15 +91,6 @@ func JSONIndent(src []byte) []byte {
 	return buf.Bytes()
 }
 
-func getFilePath(filename string) string {
-	if dir := filepath.Dir(filename); dir != "" {
-		if err := os.MkdirAll(dir, 0755); err != nil {
-			CheckErr(err)
-		}
-	}
-	return filename
-}
-
 // CheckErr - base.CheckErr
 func CheckErr(err error) {
 	if err != nil {
@@ -116,4 +107,13 @@ func AuthInfo(cmd string) string {
 	format += "<!--|@home      https://github.com/openset/leetcode                        |-->\n"
 	format += "<!--+----------------------------------------------------------------------+-->\n"
 	return fmt.Sprintf(format, cmd, strings.Repeat(" ", 15-len(cmd)))
+}
+
+func getFilePath(filename string) string {
+	if dir := filepath.Dir(filename); dir != "" {
+		if err := os.MkdirAll(dir, 0755); err != nil {
+			CheckErr(err)
+		}
+	}
+	return filename
 }

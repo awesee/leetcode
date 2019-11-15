@@ -14,6 +14,24 @@ import (
 	"github.com/openset/leetcode/internal/leetcode"
 )
 
+const frontMatter = `---
+layout:     single
+title:      "%s"
+date:       %s +0800
+categories: [Leetcode]
+tags:       [%s]
+permalink:  /problems/%s/
+---
+`
+
+const tagTmpl = `---
+title: "%s"
+layout: tag
+permalink: /tags/%s/
+taxonomy: %s
+---
+`
+
 // CmdPost - post.CmdPost
 var CmdPost = &base.Command{
 	Run:       runPost,
@@ -22,6 +40,11 @@ var CmdPost = &base.Command{
 	Long:      "build all post files.",
 	Hidden:    true,
 }
+
+var (
+	homeDir, _ = os.UserHomeDir()
+	basePath   = filepath.Join(homeDir, "openset", "openset")
+)
 
 func runPost(cmd *base.Command, args []string) {
 	if len(args) != 0 {
@@ -37,7 +60,7 @@ func runPost(cmd *base.Command, args []string) {
 		titleSlug := problem.Stat.QuestionTitleSlug
 		question := leetcode.QuestionData(titleSlug, false).Data.Question
 		if question.TranslatedContent != "" {
-			fmt.Println(id, "\t"+question.TranslatedTitle, "saving...")
+			fmt.Println(id, "\t"+question.TranslatedTitle)
 			var buf bytes.Buffer
 			t := time.Date(2016, 1, 1, 21, 30, 0, 0, time.Local)
 			t = t.AddDate(0, 0, id)
@@ -107,26 +130,3 @@ func postTags() {
 		base.FilePutContents(filepath.Join(basePath, "_pages", filename), data)
 	}
 }
-
-const frontMatter = `---
-layout:     single
-title:      "%s"
-date:       %s +0800
-categories: [Leetcode]
-tags:       [%s]
-permalink:  /problems/%s/
----
-`
-
-const tagTmpl = `---
-title: "%s"
-layout: tag
-permalink: /tags/%s/
-taxonomy: %s
----
-`
-
-var (
-	homeDir, _ = os.UserHomeDir()
-	basePath   = filepath.Join(homeDir, "openset", "openset")
-)

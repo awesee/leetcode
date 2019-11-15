@@ -13,18 +13,6 @@ import (
 
 var err error
 
-func init() {
-	http.DefaultClient.Jar, err = cookiejar.New(nil)
-	base.CheckErr(err)
-	http.DefaultClient.CheckRedirect = func(req *http.Request, via []*http.Request) error {
-		req.Header.Set("Referer", req.URL.String())
-		if len(via) >= 3 {
-			return errors.New("stopped after 3 redirects")
-		}
-		return nil
-	}
-}
-
 // Get - client.Get
 func Get(url string) []byte {
 	if resp, err := http.Get(url); err == nil {
@@ -45,4 +33,16 @@ func PostJSON(url, jsonStr string) []byte {
 		return body
 	}
 	return nil
+}
+
+func init() {
+	http.DefaultClient.Jar, err = cookiejar.New(nil)
+	base.CheckErr(err)
+	http.DefaultClient.CheckRedirect = func(req *http.Request, via []*http.Request) error {
+		req.Header.Set("Referer", req.URL.String())
+		if len(via) >= 3 {
+			return errors.New("stopped after 3 redirects")
+		}
+		return nil
+	}
 }

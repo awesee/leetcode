@@ -1,10 +1,5 @@
 package leetcode
 
-// IsSolved - leetcode.IsSolved
-func IsSolved(id int) bool {
-	return problemStatus[id]
-}
-
 var problemStatus = map[int]bool{
 	1:    true,
 	2:    true,
@@ -228,4 +223,9 @@ var problemStatus = map[int]bool{
 	1185: true,
 	1189: true,
 	1221: true,
+}
+
+// IsSolved - leetcode.IsSolved
+func IsSolved(id int) bool {
+	return problemStatus[id]
 }

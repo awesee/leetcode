@@ -37,7 +37,7 @@ func runTag(cmd *base.Command, args []string) {
 		tags := leetcode.GetTags()
 		for i, tag := range tags {
 			if tag.Name != "" {
-				fmt.Println(i+1, "\t"+tag.Name, "saving...")
+				fmt.Println(i+1, "\t"+tag.Name)
 			}
 			buf.WriteString(fmt.Sprintf(format, i+1, tag.Name, tag.Slug, tag.TranslatedName, tag.Slug))
 			if i&1 == 1 {
