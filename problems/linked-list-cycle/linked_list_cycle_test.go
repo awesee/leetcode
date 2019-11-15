@@ -6,40 +6,40 @@ import (
 	"github.com/openset/leetcode/internal/kit"
 )
 
-type caseType struct {
-	input    []int
-	pos      int
-	expected bool
+type testType struct {
+	in   []int
+	pos  int
+	want bool
 }
 
 func TestHasCycle(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{3, 2, 0, -4},
-			pos:      1,
-			expected: true,
+			in:   []int{3, 2, 0, -4},
+			pos:  1,
+			want: true,
 		},
 		{
-			input:    []int{1, 2},
-			pos:      0,
-			expected: true,
+			in:   []int{1, 2},
+			pos:  0,
+			want: true,
 		},
 		{
-			input:    []int{1, 2, 3, 4, 5},
-			pos:      -1,
-			expected: false,
+			in:   []int{1, 2, 3, 4, 5},
+			pos:  -1,
+			want: false,
 		},
 		{
-			input:    []int{1},
-			pos:      -1,
-			expected: false,
+			in:   []int{1},
+			pos:  -1,
+			want: false,
 		},
 	}
-	for _, tc := range tests {
-		input := kit.SliceInt2ListNode(tc.input)
-		p, curr := input, input
-		for i := 0; curr != nil && tc.pos >= 0; i, curr = i+1, curr.Next {
-			if i == tc.pos {
+	for _, tt := range tests {
+		in := kit.SliceInt2ListNode(tt.in)
+		p, curr := in, in
+		for i := 0; curr != nil && tt.pos >= 0; i, curr = i+1, curr.Next {
+			if i == tt.pos {
 				p = curr
 			}
 			if curr.Next == nil {
@@ -47,9 +47,9 @@ func TestHasCycle(t *testing.T) {
 				break
 			}
 		}
-		output := hasCycle(input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+		got := hasCycle(in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

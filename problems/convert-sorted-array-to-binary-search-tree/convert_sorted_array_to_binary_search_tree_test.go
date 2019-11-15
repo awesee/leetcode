@@ -7,22 +7,22 @@ import (
 	"github.com/openset/leetcode/internal/kit"
 )
 
-type caseType struct {
-	input    []int
-	expected []int
+type testType struct {
+	in   []int
+	want []int
 }
 
 func TestSortedArrayToBST(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{-10, -3, 0, 5, 9},
-			expected: []int{0, -3, 9, -10, kit.NULL, 5},
+			in:   []int{-10, -3, 0, 5, 9},
+			want: []int{0, -3, 9, -10, kit.NULL, 5},
 		},
 	}
-	for _, tc := range tests {
-		output := kit.TreeNode2SliceInt(sortedArrayToBST(tc.input))
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := kit.TreeNode2SliceInt(sortedArrayToBST(tt.in))
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

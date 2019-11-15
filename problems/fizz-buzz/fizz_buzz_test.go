@@ -5,16 +5,16 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    int
-	expected []string
+type testType struct {
+	in   int
+	want []string
 }
 
 func TestFizzBuzz(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input: 15,
-			expected: []string{
+			in: 15,
+			want: []string{
 				"1",
 				"2",
 				"Fizz",
@@ -33,8 +33,8 @@ func TestFizzBuzz(t *testing.T) {
 			},
 		},
 		{
-			input: 5,
-			expected: []string{
+			in: 5,
+			want: []string{
 				"1",
 				"2",
 				"Fizz",
@@ -43,8 +43,8 @@ func TestFizzBuzz(t *testing.T) {
 			},
 		},
 		{
-			input: 10,
-			expected: []string{
+			in: 10,
+			want: []string{
 				"1",
 				"2",
 				"Fizz",
@@ -59,10 +59,10 @@ func TestFizzBuzz(t *testing.T) {
 		},
 	}
 
-	for _, tc := range tests {
-		output := fizzBuzz(tc.input)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := fizzBuzz(tt.in)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

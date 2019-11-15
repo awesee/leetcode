@@ -2,26 +2,26 @@ package problem804
 
 import "testing"
 
-type caseType struct {
-	input    []string
-	expected int
+type testType struct {
+	in   []string
+	want int
 }
 
 func TestUniqueMorseRepresentations(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []string{"gin", "zen", "gig", "msg"},
-			expected: 2,
+			in:   []string{"gin", "zen", "gig", "msg"},
+			want: 2,
 		},
 		{
-			input:    []string{"hello", "word"},
-			expected: 2,
+			in:   []string{"hello", "word"},
+			want: 2,
 		},
 	}
-	for _, tc := range tests {
-		output := uniqueMorseRepresentations(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := uniqueMorseRepresentations(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

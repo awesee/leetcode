@@ -5,16 +5,16 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    int
-	expected []string
+type testType struct {
+	in   int
+	want []string
 }
 
 func TestGenerateParenthesis(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input: 3,
-			expected: []string{
+			in: 3,
+			want: []string{
 				"((()))",
 				"(()())",
 				"(())()",
@@ -23,23 +23,23 @@ func TestGenerateParenthesis(t *testing.T) {
 			},
 		},
 		{
-			input: 2,
-			expected: []string{
+			in: 2,
+			want: []string{
 				"(())",
 				"()()",
 			},
 		},
 		{
-			input:    1,
-			expected: []string{"()"},
+			in:   1,
+			want: []string{"()"},
 		},
 		{
-			input:    0,
-			expected: []string{},
+			in:   0,
+			want: []string{},
 		},
 		{
-			input: 5,
-			expected: []string{
+			in: 5,
+			want: []string{
 				"((((()))))",
 				"(((()())))",
 				"(((())()))",
@@ -85,10 +85,10 @@ func TestGenerateParenthesis(t *testing.T) {
 			},
 		},
 	}
-	for _, tc := range tests {
-		output := generateParenthesis(tc.input)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := generateParenthesis(tt.in)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

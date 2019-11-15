@@ -2,34 +2,34 @@ package problem1189
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected int
+type testType struct {
+	in   string
+	want int
 }
 
 func TestMaxNumberOfBalloons(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "nlaebolko",
-			expected: 1,
+			in:   "nlaebolko",
+			want: 1,
 		},
 		{
-			input:    "loonbalxballpoon",
-			expected: 2,
+			in:   "loonbalxballpoon",
+			want: 2,
 		},
 		{
-			input:    "leetcode",
-			expected: 0,
+			in:   "leetcode",
+			want: 0,
 		},
 		{
-			input:    "lloo",
-			expected: 0,
+			in:   "lloo",
+			want: 0,
 		},
 	}
-	for _, tc := range tests {
-		output := maxNumberOfBalloons(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := maxNumberOfBalloons(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

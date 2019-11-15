@@ -5,22 +5,22 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    []int
-	expected []int
+type testType struct {
+	in   []int
+	want []int
 }
 
 func TestSortArrayByParity(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{3, 1, 2, 4},
-			expected: []int{2, 4, 3, 1},
+			in:   []int{3, 1, 2, 4},
+			want: []int{2, 4, 3, 1},
 		},
 	}
-	for _, tc := range tests {
-		output := sortArrayByParity(tc.input)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := sortArrayByParity(tt.in)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

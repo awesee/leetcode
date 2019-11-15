@@ -2,31 +2,31 @@ package problem136
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected int
+type testType struct {
+	in   []int
+	want int
 }
 
 func TestSingleNumber(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{2, 2, 1},
-			expected: 1,
+			in:   []int{2, 2, 1},
+			want: 1,
 		},
 		{
-			input:    []int{4, 1, 2, 1, 2},
-			expected: 4,
+			in:   []int{4, 1, 2, 1, 2},
+			want: 4,
 		},
 		{
-			input:    []int{1, 2, 1, 2, 3},
-			expected: 3,
+			in:   []int{1, 2, 1, 2, 3},
+			want: 3,
 		},
 	}
 
-	for _, tc := range tests {
-		output := singleNumber(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := singleNumber(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

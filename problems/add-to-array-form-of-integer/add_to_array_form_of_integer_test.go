@@ -5,34 +5,34 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    []int
-	k        int
-	expected []int
+type testType struct {
+	in   []int
+	k    int
+	want []int
 }
 
 func TestAddToArrayForm(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 2, 0, 0},
-			k:        34,
-			expected: []int{1, 2, 3, 4},
+			in:   []int{1, 2, 0, 0},
+			k:    34,
+			want: []int{1, 2, 3, 4},
 		},
 		{
-			input:    []int{2, 1, 5},
-			k:        806,
-			expected: []int{1, 0, 2, 1},
+			in:   []int{2, 1, 5},
+			k:    806,
+			want: []int{1, 0, 2, 1},
 		},
 		{
-			input:    []int{9, 9, 9, 9, 9, 9, 9, 9, 9, 9},
-			k:        1,
-			expected: []int{1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+			in:   []int{9, 9, 9, 9, 9, 9, 9, 9, 9, 9},
+			k:    1,
+			want: []int{1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
 		},
 	}
-	for _, tc := range tests {
-		output := addToArrayForm(tc.input, tc.k)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := addToArrayForm(tt.in, tt.k)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

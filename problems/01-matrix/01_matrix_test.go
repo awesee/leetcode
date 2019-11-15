@@ -5,42 +5,42 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    [][]int
-	expected [][]int
+type testType struct {
+	in   [][]int
+	want [][]int
 }
 
 func TestUpdateMatrix(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input: [][]int{
+			in: [][]int{
 				{0, 0, 0},
 				{0, 1, 0},
 				{0, 0, 0},
 			},
-			expected: [][]int{
+			want: [][]int{
 				{0, 0, 0},
 				{0, 1, 0},
 				{0, 0, 0},
 			},
 		},
 		{
-			input: [][]int{
+			in: [][]int{
 				{0, 0, 0},
 				{0, 1, 0},
 				{1, 1, 1},
 			},
-			expected: [][]int{
+			want: [][]int{
 				{0, 0, 0},
 				{0, 1, 0},
 				{1, 2, 1},
 			},
 		},
 	}
-	for _, tc := range tests {
-		output := updateMatrix(tc.input)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := updateMatrix(tt.in)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

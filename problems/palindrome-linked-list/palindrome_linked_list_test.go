@@ -6,30 +6,30 @@ import (
 	"github.com/openset/leetcode/internal/kit"
 )
 
-type caseType struct {
-	input    []int
-	expected bool
+type testType struct {
+	in   []int
+	want bool
 }
 
 func TestIsPalindrome(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 2},
-			expected: false,
+			in:   []int{1, 2},
+			want: false,
 		},
 		{
-			input:    []int{1, 2, 1},
-			expected: true,
+			in:   []int{1, 2, 1},
+			want: true,
 		},
 		{
-			input:    []int{1, 2, 2, 1},
-			expected: true,
+			in:   []int{1, 2, 2, 1},
+			want: true,
 		},
 	}
-	for _, tc := range tests {
-		output := isPalindrome(kit.SliceInt2ListNode(tc.input))
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := isPalindrome(kit.SliceInt2ListNode(tt.in))
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -10,10 +10,10 @@ func TestToLowerCase(t *testing.T) {
 		"OpenSet": "openset",
 	}
 
-	for input, expected := range tests {
-		output := toLowerCase(input)
-		if output != expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", input, output, expected)
+	for in, want := range tests {
+		got := toLowerCase(in)
+		if got != want {
+			t.Fatalf("in: %v, got: %v, want: %v", in, got, want)
 		}
 	}
 }

@@ -5,34 +5,34 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    []byte
-	expected []byte
+type testType struct {
+	in   []byte
+	want []byte
 }
 
 func TestCompress(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []byte{'a', 'a', 'b', 'b', 'c', 'c', 'c'},
-			expected: []byte{'a', '2', 'b', '2', 'c', '3'},
+			in:   []byte{'a', 'a', 'b', 'b', 'c', 'c', 'c'},
+			want: []byte{'a', '2', 'b', '2', 'c', '3'},
 		},
 		{
-			input:    []byte{'a'},
-			expected: []byte{'a'},
+			in:   []byte{'a'},
+			want: []byte{'a'},
 		},
 		{
-			input:    []byte{'a', 'a'},
-			expected: []byte{'a', '2'},
+			in:   []byte{'a', 'a'},
+			want: []byte{'a', '2'},
 		},
 		{
-			input:    []byte{'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b'},
-			expected: []byte{'a', 'b', '1', '2'},
+			in:   []byte{'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'b'},
+			want: []byte{'a', 'b', '1', '2'},
 		},
 	}
-	for _, tc := range tests {
-		l := compress(tc.input)
-		if !reflect.DeepEqual(tc.input[:l], tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, l, tc.expected)
+	for _, tt := range tests {
+		l := compress(tt.in)
+		if !reflect.DeepEqual(tt.in[:l], tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, l, tt.want)
 		}
 	}
 }

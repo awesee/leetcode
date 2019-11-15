@@ -2,49 +2,49 @@ package problem171
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected int
+type testType struct {
+	in   string
+	want int
 }
 
 func TestTitleToNumber(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "A",
-			expected: 1,
+			in:   "A",
+			want: 1,
 		},
 		{
-			input:    "C",
-			expected: 3,
+			in:   "C",
+			want: 3,
 		},
 		{
-			input:    "Z",
-			expected: 26,
+			in:   "Z",
+			want: 26,
 		},
 		{
-			input:    "AA",
-			expected: 27,
+			in:   "AA",
+			want: 27,
 		},
 		{
-			input:    "AB",
-			expected: 28,
+			in:   "AB",
+			want: 28,
 		},
 		{
-			input:    "ZY",
-			expected: 701,
+			in:   "ZY",
+			want: 701,
 		}, {
-			input:    "AAA",
-			expected: 703,
+			in:   "AAA",
+			want: 703,
 		},
 		{
-			input:    "XYZ",
-			expected: 16900,
+			in:   "XYZ",
+			want: 16900,
 		},
 	}
-	for _, tc := range tests {
-		output := titleToNumber(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := titleToNumber(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

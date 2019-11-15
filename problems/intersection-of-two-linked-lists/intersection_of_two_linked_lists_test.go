@@ -6,14 +6,14 @@ import (
 	"github.com/openset/leetcode/internal/kit"
 )
 
-type caseType struct {
+type testType struct {
 	headA        []int
 	headB        []int
 	intersection []int
 }
 
 func TestGetIntersectionNode(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
 			headA:        []int{4, 1},
 			headB:        []int{5, 0, 1},
@@ -35,10 +35,10 @@ func TestGetIntersectionNode(t *testing.T) {
 			intersection: []int{},
 		},
 	}
-	for _, tc := range tests {
-		intersection := kit.SliceInt2ListNode(tc.intersection)
-		headA := kit.SliceInt2ListNode(tc.headA)
-		headB := kit.SliceInt2ListNode(tc.headB)
+	for _, tt := range tests {
+		intersection := kit.SliceInt2ListNode(tt.intersection)
+		headA := kit.SliceInt2ListNode(tt.headA)
+		headB := kit.SliceInt2ListNode(tt.headB)
 		for n := headA; n != nil; n = n.Next {
 			if n.Next == nil {
 				n.Next = intersection
@@ -51,9 +51,9 @@ func TestGetIntersectionNode(t *testing.T) {
 				break
 			}
 		}
-		output := getIntersectionNode(headA, headB)
-		if output != intersection {
-			t.Fatalf("input: %v, output: %v %v, expected: %v", tc.headA, tc.headB, output, tc.intersection)
+		got := getIntersectionNode(headA, headB)
+		if got != intersection {
+			t.Fatalf("in: %v, got: %v %v, want: %v", tt.headA, tt.headB, got, tt.intersection)
 		}
 	}
 }

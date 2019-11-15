@@ -2,42 +2,42 @@ package problem434
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected int
+type testType struct {
+	in   string
+	want int
 }
 
 func TestCountSegments(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "Hello, my name is John",
-			expected: 5,
+			in:   "Hello, my name is John",
+			want: 5,
 		},
 		{
-			input:    "",
-			expected: 0,
+			in:   "",
+			want: 0,
 		},
 		{
-			input:    " ",
-			expected: 0,
+			in:   " ",
+			want: 0,
 		},
 		{
-			input:    " abc ",
-			expected: 1,
+			in:   " abc ",
+			want: 1,
 		},
 		{
-			input:    " abc  def  ",
-			expected: 2,
+			in:   " abc  def  ",
+			want: 2,
 		},
 		{
-			input:    "love live! mu'sic forever",
-			expected: 4,
+			in:   "love live! mu'sic forever",
+			want: 4,
 		},
 	}
-	for _, tc := range tests {
-		output := countSegments(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := countSegments(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

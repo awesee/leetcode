@@ -2,42 +2,42 @@ package problem342
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected bool
+type testType struct {
+	in   int
+	want bool
 }
 
 func TestIsPowerOfFour(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    16,
-			expected: true,
+			in:   16,
+			want: true,
 		},
 		{
-			input:    5,
-			expected: false,
+			in:   5,
+			want: false,
 		},
 		{
-			input:    6,
-			expected: false,
+			in:   6,
+			want: false,
 		},
 		{
-			input:    12,
-			expected: false,
+			in:   12,
+			want: false,
 		},
 		{
-			input:    0,
-			expected: false,
+			in:   0,
+			want: false,
 		},
 		{
-			input:    1,
-			expected: true,
+			in:   1,
+			want: true,
 		},
 	}
-	for _, tc := range tests {
-		output := isPowerOfFour(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := isPowerOfFour(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

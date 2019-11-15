@@ -6,30 +6,30 @@ import (
 	"github.com/openset/leetcode/internal/kit"
 )
 
-type caseType struct {
-	input    []int
-	expected int
+type testType struct {
+	in   []int
+	want int
 }
 
 func TestSumRootToLeaf(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 0, 1, 0, 1, 0, 1},
-			expected: 22,
+			in:   []int{1, 0, 1, 0, 1, 0, 1},
+			want: 22,
 		},
 		{
-			input:    []int{1, 1},
-			expected: 3,
+			in:   []int{1, 1},
+			want: 3,
 		},
 		{
-			input:    []int{1, kit.NULL, 0},
-			expected: 2,
+			in:   []int{1, kit.NULL, 0},
+			want: 2,
 		},
 	}
-	for _, tc := range tests {
-		output := sumRootToLeaf(kit.SliceInt2TreeNode(tc.input))
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := sumRootToLeaf(kit.SliceInt2TreeNode(tt.in))
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

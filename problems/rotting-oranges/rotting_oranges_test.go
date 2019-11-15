@@ -2,46 +2,46 @@ package problem994
 
 import "testing"
 
-type caseType struct {
-	input    [][]int
-	expected int
+type testType struct {
+	in   [][]int
+	want int
 }
 
 func TestOrangesRotting(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input: [][]int{
+			in: [][]int{
 				{2, 1, 1},
 				{1, 1, 0},
 				{0, 1, 1},
 			},
-			expected: 4,
+			want: 4,
 		},
 		{
-			input: [][]int{
+			in: [][]int{
 				{2, 1, 1},
 				{0, 1, 1},
 				{1, 0, 1},
 			},
-			expected: -1,
+			want: -1,
 		},
 		{
-			input: [][]int{
+			in: [][]int{
 				{0, 2},
 			},
-			expected: 0,
+			want: 0,
 		},
 		{
-			input: [][]int{
+			in: [][]int{
 				{1, 2},
 			},
-			expected: 1,
+			want: 1,
 		},
 	}
-	for _, tc := range tests {
-		output := orangesRotting(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := orangesRotting(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

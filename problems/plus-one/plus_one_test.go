@@ -5,35 +5,35 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    []int
-	expected []int
+type testType struct {
+	in   []int
+	want []int
 }
 
 func TestPlusOne(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 2, 3},
-			expected: []int{1, 2, 4},
+			in:   []int{1, 2, 3},
+			want: []int{1, 2, 4},
 		},
 		{
-			input:    []int{4, 3, 2, 1},
-			expected: []int{4, 3, 2, 2},
+			in:   []int{4, 3, 2, 1},
+			want: []int{4, 3, 2, 2},
 		},
 		{
-			input:    []int{1, 2, 9, 9},
-			expected: []int{1, 3, 0, 0},
+			in:   []int{1, 2, 9, 9},
+			want: []int{1, 3, 0, 0},
 		},
 		{
-			input:    []int{9, 9},
-			expected: []int{1, 0, 0},
+			in:   []int{9, 9},
+			want: []int{1, 0, 0},
 		},
 	}
 
-	for _, tc := range tests {
-		output := plusOne(tc.input)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := plusOne(tt.in)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

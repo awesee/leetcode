@@ -2,64 +2,64 @@ package problem925
 
 import "testing"
 
-type caseType struct {
-	name     string
-	typed    string
-	expected bool
+type testType struct {
+	name  string
+	typed string
+	want  bool
 }
 
 func TestIsLongPressedName(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			name:     "alex",
-			typed:    "aaleex",
-			expected: true,
+			name:  "alex",
+			typed: "aaleex",
+			want:  true,
 		},
 		{
-			name:     "saeed",
-			typed:    "ssaaedd",
-			expected: false,
+			name:  "saeed",
+			typed: "ssaaedd",
+			want:  false,
 		},
 		{
-			name:     "leelee",
-			typed:    "lleeelee",
-			expected: true,
+			name:  "leelee",
+			typed: "lleeelee",
+			want:  true,
 		},
 		{
-			name:     "laiden",
-			typed:    "laiden",
-			expected: true,
+			name:  "laiden",
+			typed: "laiden",
+			want:  true,
 		},
 		{
-			name:     "laiden",
-			typed:    "laidef",
-			expected: false,
+			name:  "laiden",
+			typed: "laidef",
+			want:  false,
 		},
 		{
-			name:     "a",
-			typed:    "a",
-			expected: true,
+			name:  "a",
+			typed: "a",
+			want:  true,
 		},
 		{
-			name:     "a",
-			typed:    "b",
-			expected: false,
+			name:  "a",
+			typed: "b",
+			want:  false,
 		},
 		{
-			name:     "pyplrz",
-			typed:    "ppyypllr",
-			expected: false,
+			name:  "pyplrz",
+			typed: "ppyypllr",
+			want:  false,
 		},
 		{
-			name:     "vtkgn",
-			typed:    "vttkgnn",
-			expected: true,
+			name:  "vtkgn",
+			typed: "vttkgnn",
+			want:  true,
 		},
 	}
-	for _, tc := range tests {
-		output := isLongPressedName(tc.name, tc.typed)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.name, tc.typed, output, tc.expected)
+	for _, tt := range tests {
+		got := isLongPressedName(tt.name, tt.typed)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.name, tt.typed, got, tt.want)
 		}
 	}
 }

@@ -2,34 +2,34 @@ package problem191
 
 import "testing"
 
-type caseType struct {
-	input    uint32
-	expected int
+type testType struct {
+	in   uint32
+	want int
 }
 
 func TestHammingWeight(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    3,
-			expected: 2,
+			in:   3,
+			want: 2,
 		},
 		{
-			input:    7,
-			expected: 3,
+			in:   7,
+			want: 3,
 		},
 		{
-			input:    8,
-			expected: 1,
+			in:   8,
+			want: 1,
 		},
 		{
-			input:    0x5555,
-			expected: 8,
+			in:   0x5555,
+			want: 8,
 		},
 	}
-	for _, tc := range tests {
-		output := hammingWeight(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := hammingWeight(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -2,26 +2,26 @@ package problem345
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected string
+type testType struct {
+	in   string
+	want string
 }
 
 func TestReverseVowels(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "hello",
-			expected: "holle",
+			in:   "hello",
+			want: "holle",
 		},
 		{
-			input:    "leetcode",
-			expected: "leotcede",
+			in:   "leetcode",
+			want: "leotcede",
 		},
 	}
-	for _, tc := range tests {
-		output := reverseVowels(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := reverseVowels(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

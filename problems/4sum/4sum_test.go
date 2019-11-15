@@ -5,55 +5,55 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    []int
-	target   int
-	expected [][]int
+type testType struct {
+	in     []int
+	target int
+	want   [][]int
 }
 
 func TestFourSum(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:  []int{1, 0, -1, 0, -2, 2},
+			in:     []int{1, 0, -1, 0, -2, 2},
 			target: 0,
-			expected: [][]int{
+			want: [][]int{
 				{-2, -1, 1, 2},
 				{-2, 0, 0, 2},
 				{-1, 0, 0, 1},
 			},
 		},
 		{
-			input:  []int{-1, 0, 1, 2, -1, -4},
+			in:     []int{-1, 0, 1, 2, -1, -4},
 			target: 0,
-			expected: [][]int{
+			want: [][]int{
 				{-1, -1, 0, 2},
 			},
 		},
 		{
-			input:  []int{0, 0, 0, 0},
+			in:     []int{0, 0, 0, 0},
 			target: 0,
-			expected: [][]int{
+			want: [][]int{
 				{0, 0, 0, 0},
 			},
 		},
 		{
-			input:  []int{-2, 0, 0, 2, 2, 2},
+			in:     []int{-2, 0, 0, 2, 2, 2},
 			target: 0,
-			expected: [][]int{
+			want: [][]int{
 				{-2, 0, 0, 2},
 			},
 		},
 		{
-			input:  []int{-2, 0, 0, 2, 2, 2, 2},
+			in:     []int{-2, 0, 0, 2, 2, 2, 2},
 			target: 0,
-			expected: [][]int{
+			want: [][]int{
 				{-2, 0, 0, 2},
 			},
 		},
 		{
-			input:  []int{-3, -2, -1, 0, 0, 1, 2, 3},
+			in:     []int{-3, -2, -1, 0, 0, 1, 2, 3},
 			target: 0,
-			expected: [][]int{
+			want: [][]int{
 				{-3, -2, 2, 3},
 				{-3, -1, 1, 3},
 				{-3, 0, 0, 3},
@@ -65,17 +65,17 @@ func TestFourSum(t *testing.T) {
 			},
 		},
 		{
-			input:  []int{1, -2, -5, -4, -3, 3, 3, 5},
+			in:     []int{1, -2, -5, -4, -3, 3, 3, 5},
 			target: -11,
-			expected: [][]int{
+			want: [][]int{
 				{-5, -4, -3, 1},
 			},
 		},
 	}
-	for _, tc := range tests {
-		output := fourSum(tc.input, tc.target)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := fourSum(tt.in, tt.target)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

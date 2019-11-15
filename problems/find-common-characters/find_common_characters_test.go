@@ -5,26 +5,26 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    []string
-	expected []string
+type testType struct {
+	in   []string
+	want []string
 }
 
 func TestCommonChars(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []string{"bella", "label", "roller"},
-			expected: []string{"e", "l", "l"},
+			in:   []string{"bella", "label", "roller"},
+			want: []string{"e", "l", "l"},
 		},
 		{
-			input:    []string{"cool", "lock", "cook"},
-			expected: []string{"c", "o"},
+			in:   []string{"cool", "lock", "cook"},
+			want: []string{"c", "o"},
 		},
 	}
-	for _, tc := range tests {
-		output := commonChars(tc.input)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := commonChars(tt.in)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

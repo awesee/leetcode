@@ -10,10 +10,10 @@ func TestFirstUniqChar(t *testing.T) {
 		"aabbccddeeff": -1,
 	}
 
-	for input, expected := range tests {
-		output := firstUniqChar(input)
-		if output != expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", input, output, expected)
+	for in, want := range tests {
+		got := firstUniqChar(in)
+		if got != want {
+			t.Fatalf("in: %v, got: %v, want: %v", in, got, want)
 		}
 	}
 }

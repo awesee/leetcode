@@ -6,26 +6,26 @@ import (
 	"github.com/openset/leetcode/internal/kit"
 )
 
-type caseType struct {
-	input    []int
-	expected bool
+type testType struct {
+	in   []int
+	want bool
 }
 
 func TestIsSymmetric(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 2, 2, 3, 4, 4, 3},
-			expected: true,
+			in:   []int{1, 2, 2, 3, 4, 4, 3},
+			want: true,
 		},
 		{
-			input:    []int{1, 2, 2, kit.NULL, 3, kit.NULL, 3},
-			expected: false,
+			in:   []int{1, 2, 2, kit.NULL, 3, kit.NULL, 3},
+			want: false,
 		},
 	}
-	for _, tc := range tests {
-		output := isSymmetric(kit.SliceInt2TreeNode(tc.input))
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := isSymmetric(kit.SliceInt2TreeNode(tt.in))
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

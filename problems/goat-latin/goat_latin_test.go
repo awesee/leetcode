@@ -2,26 +2,26 @@ package problem824
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected string
+type testType struct {
+	in   string
+	want string
 }
 
 func TestToGoatLatin(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "I speak Goat Latin",
-			expected: "Imaa peaksmaaa oatGmaaaa atinLmaaaaa",
+			in:   "I speak Goat Latin",
+			want: "Imaa peaksmaaa oatGmaaaa atinLmaaaaa",
 		},
 		{
-			input:    "The quick brown fox jumped over the lazy dog",
-			expected: "heTmaa uickqmaaa rownbmaaaa oxfmaaaaa umpedjmaaaaaa overmaaaaaaa hetmaaaaaaaa azylmaaaaaaaaa ogdmaaaaaaaaaa",
+			in:   "The quick brown fox jumped over the lazy dog",
+			want: "heTmaa uickqmaaa rownbmaaaa oxfmaaaaa umpedjmaaaaaa overmaaaaaaa hetmaaaaaaaa azylmaaaaaaaaa ogdmaaaaaaaaaa",
 		},
 	}
-	for _, tc := range tests {
-		output := toGoatLatin(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := toGoatLatin(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

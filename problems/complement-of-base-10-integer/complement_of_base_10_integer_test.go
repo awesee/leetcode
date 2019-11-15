@@ -2,34 +2,34 @@ package problem1009
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected int
+type testType struct {
+	in   int
+	want int
 }
 
 func TestBitwiseComplement(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    5,
-			expected: 2,
+			in:   5,
+			want: 2,
 		},
 		{
-			input:    7,
-			expected: 0,
+			in:   7,
+			want: 0,
 		},
 		{
-			input:    10,
-			expected: 5,
+			in:   10,
+			want: 5,
 		},
 		{
-			input:    0,
-			expected: 1,
+			in:   0,
+			want: 1,
 		},
 	}
-	for _, tc := range tests {
-		output := bitwiseComplement(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := bitwiseComplement(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

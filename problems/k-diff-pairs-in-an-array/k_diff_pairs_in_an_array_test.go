@@ -2,39 +2,39 @@ package problem532
 
 import "testing"
 
-type caseType struct {
-	nums     []int
-	k        int
-	expected int
+type testType struct {
+	nums []int
+	k    int
+	want int
 }
 
 func TestFindPairs(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			nums:     []int{1, 3, 1, 5, 4},
-			k:        0,
-			expected: 1,
+			nums: []int{1, 3, 1, 5, 4},
+			k:    0,
+			want: 1,
 		},
 		{
-			nums:     []int{3, 1, 4, 1, 5},
-			k:        2,
-			expected: 2,
+			nums: []int{3, 1, 4, 1, 5},
+			k:    2,
+			want: 2,
 		},
 		{
-			nums:     []int{1, 2, 3, 4, 5},
-			k:        1,
-			expected: 4,
+			nums: []int{1, 2, 3, 4, 5},
+			k:    1,
+			want: 4,
 		},
 		{
-			nums:     []int{1, 2, 3, 4, 5},
-			k:        -1,
-			expected: 0,
+			nums: []int{1, 2, 3, 4, 5},
+			k:    -1,
+			want: 0,
 		},
 	}
-	for _, tc := range tests {
-		output := findPairs(tc.nums, tc.k)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.nums, tc.k, output, tc.expected)
+	for _, tt := range tests {
+		got := findPairs(tt.nums, tt.k)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.nums, tt.k, got, tt.want)
 		}
 	}
 }

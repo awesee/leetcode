@@ -2,54 +2,54 @@ package problem859
 
 import "testing"
 
-type caseType struct {
-	a        string
-	b        string
-	expected bool
+type testType struct {
+	a    string
+	b    string
+	want bool
 }
 
 func TestBuddyStrings(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			a:        "ab",
-			b:        "ba",
-			expected: true,
+			a:    "ab",
+			b:    "ba",
+			want: true,
 		},
 		{
-			a:        "aa",
-			b:        "aa",
-			expected: true,
+			a:    "aa",
+			b:    "aa",
+			want: true,
 		},
 		{
-			a:        "ab",
-			b:        "ab",
-			expected: false,
+			a:    "ab",
+			b:    "ab",
+			want: false,
 		},
 		{
-			a:        "aaaaaaabc",
-			b:        "aaaaaaacb",
-			expected: true,
+			a:    "aaaaaaabc",
+			b:    "aaaaaaacb",
+			want: true,
 		},
 		{
-			a:        "",
-			b:        "aa",
-			expected: false,
+			a:    "",
+			b:    "aa",
+			want: false,
 		},
 		{
-			a:        "hello",
-			b:        "h0lle",
-			expected: false,
+			a:    "hello",
+			b:    "h0lle",
+			want: false,
 		},
 		{
-			a:        "hello",
-			b:        "hanna",
-			expected: false,
+			a:    "hello",
+			b:    "hanna",
+			want: false,
 		},
 	}
-	for _, tc := range tests {
-		output := buddyStrings(tc.a, tc.b)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.a, tc.b, output, tc.expected)
+	for _, tt := range tests {
+		got := buddyStrings(tt.a, tt.b)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.a, tt.b, got, tt.want)
 		}
 	}
 }

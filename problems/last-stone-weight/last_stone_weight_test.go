@@ -2,30 +2,30 @@ package problem1046
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected int
+type testType struct {
+	in   []int
+	want int
 }
 
 func TestLastStoneWeight(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{2, 7, 4, 1, 8, 1},
-			expected: 1,
+			in:   []int{2, 7, 4, 1, 8, 1},
+			want: 1,
 		},
 		{
-			input:    []int{2, 7, 4, 1, 8, 1, 5},
-			expected: 0,
+			in:   []int{2, 7, 4, 1, 8, 1, 5},
+			want: 0,
 		},
 		{
-			input:    []int{316, 157, 73, 106, 771, 828},
-			expected: 37,
+			in:   []int{316, 157, 73, 106, 771, 828},
+			want: 37,
 		},
 	}
-	for _, tc := range tests {
-		output := lastStoneWeight(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := lastStoneWeight(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -2,35 +2,35 @@ package problem961
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected int
+type testType struct {
+	in   []int
+	want int
 }
 
 func TestRepeatedNTimes(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 2, 3, 3},
-			expected: 3,
+			in:   []int{1, 2, 3, 3},
+			want: 3,
 		},
 		{
-			input:    []int{2, 1, 2, 5, 3, 2},
-			expected: 2,
+			in:   []int{2, 1, 2, 5, 3, 2},
+			want: 2,
 		},
 		{
-			input:    []int{5, 1, 5, 2, 5, 3, 5, 4},
-			expected: 5,
+			in:   []int{5, 1, 5, 2, 5, 3, 5, 4},
+			want: 5,
 		},
 		{
-			input:    []int{1, 2, 3},
-			expected: 0,
+			in:   []int{1, 2, 3},
+			want: 0,
 		},
 	}
 
-	for _, tc := range tests {
-		output := repeatedNTimes(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := repeatedNTimes(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

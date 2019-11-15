@@ -6,34 +6,34 @@ import (
 	"github.com/openset/leetcode/internal/kit"
 )
 
-type caseType struct {
-	input    []int
-	expected int
+type testType struct {
+	in   []int
+	want int
 }
 
 func TestMaxDepth(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{3, 9, 20, kit.NULL, kit.NULL, 15, 7},
-			expected: 3,
+			in:   []int{3, 9, 20, kit.NULL, kit.NULL, 15, 7},
+			want: 3,
 		},
 		{
-			input:    []int{1, 2, 3, kit.NULL, 5, 6},
-			expected: 3,
+			in:   []int{1, 2, 3, kit.NULL, 5, 6},
+			want: 3,
 		},
 		{
-			input:    []int{1, 2, kit.NULL, kit.NULL, 5},
-			expected: 3,
+			in:   []int{1, 2, kit.NULL, kit.NULL, 5},
+			want: 3,
 		},
 		{
-			input:    []int{1, kit.NULL, 3, kit.NULL, 5},
-			expected: 3,
+			in:   []int{1, kit.NULL, 3, kit.NULL, 5},
+			want: 3,
 		},
 	}
-	for _, tc := range tests {
-		output := maxDepth(kit.SliceInt2TreeNode(tc.input))
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := maxDepth(kit.SliceInt2TreeNode(tt.in))
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

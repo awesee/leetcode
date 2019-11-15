@@ -2,30 +2,30 @@ package problem944
 
 import "testing"
 
-type caseType struct {
-	input    []string
-	expected int
+type testType struct {
+	in   []string
+	want int
 }
 
 func TestMinDeletionSize(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []string{"cba", "daf", "ghi"},
-			expected: 1,
+			in:   []string{"cba", "daf", "ghi"},
+			want: 1,
 		},
 		{
-			input:    []string{"a", "b"},
-			expected: 0,
+			in:   []string{"a", "b"},
+			want: 0,
 		},
 		{
-			input:    []string{"zyx", "wvu", "tsr"},
-			expected: 3,
+			in:   []string{"zyx", "wvu", "tsr"},
+			want: 3,
 		},
 	}
-	for _, tc := range tests {
-		output := minDeletionSize(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := minDeletionSize(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

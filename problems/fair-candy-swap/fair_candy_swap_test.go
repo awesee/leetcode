@@ -5,44 +5,44 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	a        []int
-	b        []int
-	expected []int
+type testType struct {
+	a    []int
+	b    []int
+	want []int
 }
 
 func TestFairCandySwap(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			a:        []int{1, 1},
-			b:        []int{2, 2},
-			expected: []int{1, 2},
+			a:    []int{1, 1},
+			b:    []int{2, 2},
+			want: []int{1, 2},
 		},
 		{
-			a:        []int{1, 2},
-			b:        []int{2, 3},
-			expected: []int{1, 2},
+			a:    []int{1, 2},
+			b:    []int{2, 3},
+			want: []int{1, 2},
 		},
 		{
-			a:        []int{2},
-			b:        []int{1, 3},
-			expected: []int{2, 3},
+			a:    []int{2},
+			b:    []int{1, 3},
+			want: []int{2, 3},
 		},
 		{
-			a:        []int{1, 2, 5},
-			b:        []int{2, 4},
-			expected: []int{5, 4},
+			a:    []int{1, 2, 5},
+			b:    []int{2, 4},
+			want: []int{5, 4},
 		},
 		{
-			a:        []int{1, 2, 3},
-			b:        []int{11, 15, 17},
-			expected: nil,
+			a:    []int{1, 2, 3},
+			b:    []int{11, 15, 17},
+			want: nil,
 		},
 	}
-	for _, tc := range tests {
-		output := fairCandySwap(tc.a, tc.b)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.a, tc.b, output, tc.expected)
+	for _, tt := range tests {
+		got := fairCandySwap(tt.a, tt.b)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.a, tt.b, got, tt.want)
 		}
 	}
 }

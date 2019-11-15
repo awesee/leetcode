@@ -2,38 +2,38 @@ package problem680
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected bool
+type testType struct {
+	in   string
+	want bool
 }
 
 func TestValidPalindrome(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "aba",
-			expected: true,
+			in:   "aba",
+			want: true,
 		},
 		{
-			input:    "abca",
-			expected: true,
+			in:   "abca",
+			want: true,
 		},
 		{
-			input:    "hello",
-			expected: false,
+			in:   "hello",
+			want: false,
 		},
 		{
-			input:    "abcdcbda",
-			expected: true,
+			in:   "abcdcbda",
+			want: true,
 		},
 		{
-			input:    "abcbabbbca",
-			expected: false,
+			in:   "abcbabbbca",
+			want: false,
 		},
 	}
-	for _, tc := range tests {
-		output := validPalindrome(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := validPalindrome(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -18,10 +18,10 @@ func TestIsPalindrome(t *testing.T) {
 		math.MaxInt32: false,
 	}
 
-	for input, expected := range tests {
-		output := isPalindrome(input)
-		if output != expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", input, output, expected)
+	for in, want := range tests {
+		got := isPalindrome(in)
+		if got != want {
+			t.Fatalf("in: %v, got: %v, want: %v", in, got, want)
 		}
 	}
 }

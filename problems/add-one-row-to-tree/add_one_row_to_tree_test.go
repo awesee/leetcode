@@ -7,46 +7,46 @@ import (
 	"github.com/openset/leetcode/internal/kit"
 )
 
-type caseType struct {
-	input    []int
-	v        int
-	d        int
-	expected []int
+type testType struct {
+	in   []int
+	v    int
+	d    int
+	want []int
 }
 
 func TestAddOneRow(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{4, 2, 6, 3, 1, 5},
-			v:        1,
-			d:        2,
-			expected: []int{4, 1, 1, 2, kit.NULL, kit.NULL, 6, 3, 1, 5},
+			in:   []int{4, 2, 6, 3, 1, 5},
+			v:    1,
+			d:    2,
+			want: []int{4, 1, 1, 2, kit.NULL, kit.NULL, 6, 3, 1, 5},
 		},
 		{
-			input:    []int{4, 2, kit.NULL, 3, 1},
-			v:        1,
-			d:        3,
-			expected: []int{4, 2, kit.NULL, 1, 1, 3, kit.NULL, kit.NULL, 1},
+			in:   []int{4, 2, kit.NULL, 3, 1},
+			v:    1,
+			d:    3,
+			want: []int{4, 2, kit.NULL, 1, 1, 3, kit.NULL, kit.NULL, 1},
 		},
 		{
-			input:    []int{3, 1},
-			v:        1,
-			d:        1,
-			expected: []int{1, 3, kit.NULL, 1},
+			in:   []int{3, 1},
+			v:    1,
+			d:    1,
+			want: []int{1, 3, kit.NULL, 1},
 		},
 		{
-			input:    []int{3, kit.NULL, 2},
-			v:        1,
-			d:        3,
-			expected: []int{3, kit.NULL, 2, 1, 1},
+			in:   []int{3, kit.NULL, 2},
+			v:    1,
+			d:    3,
+			want: []int{3, kit.NULL, 2, 1, 1},
 		},
 	}
-	for _, tc := range tests {
-		root := kit.SliceInt2TreeNode(tc.input)
-		root = addOneRow(root, tc.v, tc.d)
-		output := kit.TreeNode2SliceInt(root)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		root := kit.SliceInt2TreeNode(tt.in)
+		root = addOneRow(root, tt.v, tt.d)
+		got := kit.TreeNode2SliceInt(root)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

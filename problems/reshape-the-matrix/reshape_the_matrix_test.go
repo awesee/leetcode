@@ -5,15 +5,15 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	nums     [][]int
-	r        int
-	c        int
-	expected [][]int
+type testType struct {
+	nums [][]int
+	r    int
+	c    int
+	want [][]int
 }
 
 func TestMatrixReshape(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
 			nums: [][]int{
 				{1, 2},
@@ -21,7 +21,7 @@ func TestMatrixReshape(t *testing.T) {
 			},
 			r: 1,
 			c: 4,
-			expected: [][]int{
+			want: [][]int{
 				{1, 2, 3, 4},
 			},
 		},
@@ -32,16 +32,16 @@ func TestMatrixReshape(t *testing.T) {
 			},
 			r: 2,
 			c: 4,
-			expected: [][]int{
+			want: [][]int{
 				{1, 2},
 				{3, 4},
 			},
 		},
 	}
-	for _, tc := range tests {
-		output := matrixReshape(tc.nums, tc.r, tc.c)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.nums, output, tc.expected)
+	for _, tt := range tests {
+		got := matrixReshape(tt.nums, tt.r, tt.c)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.nums, got, tt.want)
 
 		}
 	}

@@ -2,38 +2,38 @@ package problem5
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected string
+type testType struct {
+	in   string
+	want string
 }
 
 func TestLongestPalindrome(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "babad",
-			expected: "bab",
+			in:   "babad",
+			want: "bab",
 		},
 		{
-			input:    "cbbd",
-			expected: "bb",
+			in:   "cbbd",
+			want: "bb",
 		},
 		{
-			input:    "",
-			expected: "",
+			in:   "",
+			want: "",
 		},
 		{
-			input:    "a",
-			expected: "a",
+			in:   "a",
+			want: "a",
 		},
 		{
-			input:    "abbba",
-			expected: "abbba",
+			in:   "abbba",
+			want: "abbba",
 		},
 	}
-	for _, tc := range tests {
-		output := longestPalindrome(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := longestPalindrome(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -2,66 +2,66 @@ package problem233
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected int
+type testType struct {
+	in   int
+	want int
 }
 
 func TestCountDigitOne(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    0,
-			expected: 0,
+			in:   0,
+			want: 0,
 		},
 		{
-			input:    1,
-			expected: 1,
+			in:   1,
+			want: 1,
 		},
 		{
-			input:    12,
-			expected: 5,
+			in:   12,
+			want: 5,
 		},
 		{
-			input:    99,
-			expected: 20,
+			in:   99,
+			want: 20,
 		},
 		{
-			input:    100,
-			expected: 21,
+			in:   100,
+			want: 21,
 		},
 		{
-			input:    123,
-			expected: 57,
+			in:   123,
+			want: 57,
 		},
 		{
-			input:    1234,
-			expected: 689,
+			in:   1234,
+			want: 689,
 		},
 		{
-			input:    12345,
-			expected: 8121,
+			in:   12345,
+			want: 8121,
 		},
 		{
-			input:    123456,
-			expected: 93553,
+			in:   123456,
+			want: 93553,
 		},
 		{
-			input:    1234567,
-			expected: 1058985,
+			in:   1234567,
+			want: 1058985,
 		},
 		{
-			input:    12345678,
-			expected: 11824417,
+			in:   12345678,
+			want: 11824417,
 		},
 		{
-			input:    123456789,
-			expected: 130589849,
+			in:   123456789,
+			want: 130589849,
 		},
 	}
-	for _, tc := range tests {
-		output := countDigitOne(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := countDigitOne(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

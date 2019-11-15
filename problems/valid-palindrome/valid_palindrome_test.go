@@ -2,43 +2,43 @@ package problem125
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected bool
+type testType struct {
+	in   string
+	want bool
 }
 
 func TestIsPalindrome(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "A man, a plan, a canal: Panama",
-			expected: true,
+			in:   "A man, a plan, a canal: Panama",
+			want: true,
 		},
 		{
-			input:    "",
-			expected: true,
+			in:   "",
+			want: true,
 		},
 		{
-			input:    ".",
-			expected: true,
+			in:   ".",
+			want: true,
 		},
 		{
-			input:    "12321",
-			expected: true,
+			in:   "12321",
+			want: true,
 		},
 		{
-			input:    "race a car",
-			expected: false,
+			in:   "race a car",
+			want: false,
 		},
 		{
-			input:    "hello, world",
-			expected: false,
+			in:   "hello, world",
+			want: false,
 		},
 	}
 
-	for _, tc := range tests {
-		output := isPalindrome(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := isPalindrome(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

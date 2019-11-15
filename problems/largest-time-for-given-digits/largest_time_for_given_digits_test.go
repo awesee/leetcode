@@ -2,30 +2,30 @@ package problem949
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected string
+type testType struct {
+	in   []int
+	want string
 }
 
 func TestLargestTimeFromDigits(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 2, 3, 4},
-			expected: "23:41",
+			in:   []int{1, 2, 3, 4},
+			want: "23:41",
 		},
 		{
-			input:    []int{5, 5, 5, 5},
-			expected: "",
+			in:   []int{5, 5, 5, 5},
+			want: "",
 		},
 		{
-			input:    []int{2, 0, 6, 6},
-			expected: "06:26",
+			in:   []int{2, 0, 6, 6},
+			want: "06:26",
 		},
 	}
-	for _, tc := range tests {
-		output := largestTimeFromDigits(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := largestTimeFromDigits(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -2,46 +2,46 @@ package problem1041
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected bool
+type testType struct {
+	in   string
+	want bool
 }
 
 func TestIsRobotBounded(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "GGLLGG",
-			expected: true,
+			in:   "GGLLGG",
+			want: true,
 		},
 		{
-			input:    "GG",
-			expected: false,
+			in:   "GG",
+			want: false,
 		},
 		{
-			input:    "GL",
-			expected: true,
+			in:   "GL",
+			want: true,
 		},
 		{
-			input:    "GGLLGGGGRRGG",
-			expected: true,
+			in:   "GGLLGGGGRRGG",
+			want: true,
 		},
 		{
-			input:    "GGRRGG",
-			expected: true,
+			in:   "GGRRGG",
+			want: true,
 		},
 		{
-			input:    "GLRLLGLL",
-			expected: true,
+			in:   "GLRLLGLL",
+			want: true,
 		},
 		{
-			input:    "GLGRGLGLGLGL",
-			expected: false,
+			in:   "GLGRGLGLGLGL",
+			want: false,
 		},
 	}
-	for _, tc := range tests {
-		output := isRobotBounded(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := isRobotBounded(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

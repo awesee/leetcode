@@ -5,16 +5,16 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    int
-	expected [][]int
+type testType struct {
+	in   int
+	want [][]int
 }
 
 func TestGenerate(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input: 5,
-			expected: [][]int{
+			in: 5,
+			want: [][]int{
 				{1},
 				{1, 1},
 				{1, 2, 1},
@@ -23,10 +23,10 @@ func TestGenerate(t *testing.T) {
 			},
 		},
 	}
-	for _, tc := range tests {
-		output := generate(tc.input)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := generate(tt.in)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

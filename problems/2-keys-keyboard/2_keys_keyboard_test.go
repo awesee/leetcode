@@ -2,34 +2,34 @@ package problem650
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected int
+type testType struct {
+	in   int
+	want int
 }
 
 func TestMinSteps(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    1,
-			expected: 0,
+			in:   1,
+			want: 0,
 		},
 		{
-			input:    3,
-			expected: 3,
+			in:   3,
+			want: 3,
 		},
 		{
-			input:    30,
-			expected: 10,
+			in:   30,
+			want: 10,
 		},
 		{
-			input:    97,
-			expected: 97,
+			in:   97,
+			want: 97,
 		},
 	}
-	for _, tc := range tests {
-		output := minSteps(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := minSteps(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

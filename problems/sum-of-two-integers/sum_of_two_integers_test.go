@@ -2,29 +2,29 @@ package problem371
 
 import "testing"
 
-type caseType struct {
-	a        int
-	b        int
-	expected int
+type testType struct {
+	a    int
+	b    int
+	want int
 }
 
 func TestGetSum(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			a:        1,
-			b:        2,
-			expected: 3,
+			a:    1,
+			b:    2,
+			want: 3,
 		},
 		{
-			a:        -2,
-			b:        3,
-			expected: 1,
+			a:    -2,
+			b:    3,
+			want: 1,
 		},
 	}
-	for _, tc := range tests {
-		output := getSum(tc.a, tc.b)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.a, tc.b, output, tc.expected)
+	for _, tt := range tests {
+		got := getSum(tt.a, tt.b)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.a, tt.b, got, tt.want)
 		}
 	}
 }

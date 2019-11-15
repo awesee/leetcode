@@ -2,30 +2,30 @@ package problem70
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected int
+type testType struct {
+	in   int
+	want int
 }
 
 func TestClimbStairs(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    1,
-			expected: 1,
+			in:   1,
+			want: 1,
 		},
 		{
-			input:    2,
-			expected: 2,
+			in:   2,
+			want: 2,
 		},
 		{
-			input:    3,
-			expected: 3,
+			in:   3,
+			want: 3,
 		},
 	}
-	for _, tc := range tests {
-		output := climbStairs(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := climbStairs(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

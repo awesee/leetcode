@@ -2,42 +2,42 @@ package problem71
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected string
+type testType struct {
+	in   string
+	want string
 }
 
 func TestSimplifyPath(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "/home/",
-			expected: "/home",
+			in:   "/home/",
+			want: "/home",
 		},
 		{
-			input:    "/../",
-			expected: "/",
+			in:   "/../",
+			want: "/",
 		},
 		{
-			input:    "/home//foo/",
-			expected: "/home/foo",
+			in:   "/home//foo/",
+			want: "/home/foo",
 		},
 		{
-			input:    "/a/./b/../../c/",
-			expected: "/c",
+			in:   "/a/./b/../../c/",
+			want: "/c",
 		},
 		{
-			input:    "/a/../../b/../c//.//",
-			expected: "/c",
+			in:   "/a/../../b/../c//.//",
+			want: "/c",
 		},
 		{
-			input:    "/a//b////c/d//././/..",
-			expected: "/a/b/c",
+			in:   "/a//b////c/d//././/..",
+			want: "/a/b/c",
 		},
 	}
-	for _, tc := range tests {
-		output := simplifyPath(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := simplifyPath(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -2,26 +2,26 @@ package problem1108
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected string
+type testType struct {
+	in   string
+	want string
 }
 
 func TestDefangIPaddr(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "1.1.1.1",
-			expected: "1[.]1[.]1[.]1",
+			in:   "1.1.1.1",
+			want: "1[.]1[.]1[.]1",
 		},
 		{
-			input:    "255.100.50.0",
-			expected: "255[.]100[.]50[.]0",
+			in:   "255.100.50.0",
+			want: "255[.]100[.]50[.]0",
 		},
 	}
-	for _, tc := range tests {
-		output := defangIPaddr(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := defangIPaddr(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

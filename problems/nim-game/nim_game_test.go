@@ -2,26 +2,26 @@ package problem292
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected bool
+type testType struct {
+	in   int
+	want bool
 }
 
 func TestCanWinNim(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    4,
-			expected: false,
+			in:   4,
+			want: false,
 		},
 		{
-			input:    3,
-			expected: true,
+			in:   3,
+			want: true,
 		},
 	}
-	for _, tc := range tests {
-		output := canWinNim(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := canWinNim(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

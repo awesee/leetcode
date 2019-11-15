@@ -2,34 +2,34 @@ package problem504
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected string
+type testType struct {
+	in   int
+	want string
 }
 
 func TestConvertToBase7(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    100,
-			expected: "202",
+			in:   100,
+			want: "202",
 		},
 		{
-			input:    -7,
-			expected: "-10",
+			in:   -7,
+			want: "-10",
 		},
 		{
-			input:    -1,
-			expected: "-1",
+			in:   -1,
+			want: "-1",
 		},
 		{
-			input:    0,
-			expected: "0",
+			in:   0,
+			want: "0",
 		},
 	}
-	for _, tc := range tests {
-		output := convertToBase7(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := convertToBase7(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

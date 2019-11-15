@@ -4,34 +4,34 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    []int
-	expected int
+type testType struct {
+	in   []int
+	want int
 }
 
 func TestArrayNesting(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{5, 4, 0, 3, 1, 6, 2},
-			expected: 4,
+			in:   []int{5, 4, 0, 3, 1, 6, 2},
+			want: 4,
 		},
 		{
-			input:    []int{0, 3, 1, 5, 4, 6, 2},
-			expected: 5,
+			in:   []int{0, 3, 1, 5, 4, 6, 2},
+			want: 5,
 		},
 		{
-			input:    []int{6, 2, 5, 4, 0, 3, 1},
-			expected: 7,
+			in:   []int{6, 2, 5, 4, 0, 3, 1},
+			want: 7,
 		},
 		{
-			input:    []int{3, 1, 5, 4, 0, 6, 2},
-			expected: 3,
+			in:   []int{3, 1, 5, 4, 0, 6, 2},
+			want: 3,
 		},
 	}
-	for _, tc := range tests {
-		output := arrayNesting(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := arrayNesting(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

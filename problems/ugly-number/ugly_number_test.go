@@ -2,42 +2,42 @@ package problem263
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected bool
+type testType struct {
+	in   int
+	want bool
 }
 
 func TestIsUgly(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    1,
-			expected: true,
+			in:   1,
+			want: true,
 		},
 		{
-			input:    6,
-			expected: true,
+			in:   6,
+			want: true,
 		},
 		{
-			input:    8,
-			expected: true,
+			in:   8,
+			want: true,
 		},
 		{
-			input:    14,
-			expected: false,
+			in:   14,
+			want: false,
 		},
 		{
-			input:    0,
-			expected: false,
+			in:   0,
+			want: false,
 		},
 		{
-			input:    -30,
-			expected: false,
+			in:   -30,
+			want: false,
 		},
 	}
-	for _, tc := range tests {
-		output := isUgly(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := isUgly(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -11,10 +11,10 @@ func TestCountAndSay(t *testing.T) {
 		9: "31131211131221",
 	}
 
-	for input, expected := range tests {
-		output := countAndSay(input)
-		if output != expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", input, output, expected)
+	for in, want := range tests {
+		got := countAndSay(in)
+		if got != want {
+			t.Fatalf("in: %v, got: %v, want: %v", in, got, want)
 		}
 	}
 }

@@ -2,26 +2,26 @@ package problem1047
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected string
+type testType struct {
+	in   string
+	want string
 }
 
 func TestRemoveDuplicates(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "abbaca",
-			expected: "ca",
+			in:   "abbaca",
+			want: "ca",
 		},
 		{
-			input:    "aaabaca",
-			expected: "abaca",
+			in:   "aaabaca",
+			want: "abaca",
 		},
 	}
-	for _, tc := range tests {
-		output := removeDuplicates(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := removeDuplicates(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

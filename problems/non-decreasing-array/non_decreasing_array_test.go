@@ -2,38 +2,38 @@ package problem665
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected bool
+type testType struct {
+	in   []int
+	want bool
 }
 
 func TestCheckPossibility(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{3, 2, 5},
-			expected: true,
+			in:   []int{3, 2, 5},
+			want: true,
 		},
 		{
-			input:    []int{3, 2, 1},
-			expected: false,
+			in:   []int{3, 2, 1},
+			want: false,
 		},
 		{
-			input:    []int{3, 4, 2, 3},
-			expected: false,
+			in:   []int{3, 4, 2, 3},
+			want: false,
 		},
 		{
-			input:    []int{1, 2, 3, 7, 5, 6},
-			expected: true,
+			in:   []int{1, 2, 3, 7, 5, 6},
+			want: true,
 		},
 		{
-			input:    []int{1, 2, 3, 7, 1, 9},
-			expected: true,
+			in:   []int{1, 2, 3, 7, 1, 9},
+			want: true,
 		},
 	}
-	for _, tc := range tests {
-		output := checkPossibility(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := checkPossibility(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

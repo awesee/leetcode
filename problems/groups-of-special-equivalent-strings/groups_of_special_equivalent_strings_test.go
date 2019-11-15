@@ -2,34 +2,34 @@ package problem893
 
 import "testing"
 
-type caseType struct {
-	input    []string
-	expected int
+type testType struct {
+	in   []string
+	want int
 }
 
 func TestNumSpecialEquivGroups(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []string{"a", "b", "c", "a", "c", "c"},
-			expected: 3,
+			in:   []string{"a", "b", "c", "a", "c", "c"},
+			want: 3,
 		},
 		{
-			input:    []string{"aa", "bb", "ab", "ba"},
-			expected: 4,
+			in:   []string{"aa", "bb", "ab", "ba"},
+			want: 4,
 		},
 		{
-			input:    []string{"abc", "acb", "bac", "bca", "cab", "cba"},
-			expected: 3,
+			in:   []string{"abc", "acb", "bac", "bca", "cab", "cba"},
+			want: 3,
 		},
 		{
-			input:    []string{"abcd", "cdab", "adcb", "cbad"},
-			expected: 1,
+			in:   []string{"abcd", "cdab", "adcb", "cbad"},
+			want: 1,
 		},
 	}
-	for _, tc := range tests {
-		output := numSpecialEquivGroups(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := numSpecialEquivGroups(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

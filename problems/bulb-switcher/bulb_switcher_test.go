@@ -2,30 +2,30 @@ package problem319
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected int
+type testType struct {
+	in   int
+	want int
 }
 
 func TestBulbSwitch(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    3,
-			expected: 1,
+			in:   3,
+			want: 1,
 		},
 		{
-			input:    4,
-			expected: 2,
+			in:   4,
+			want: 2,
 		},
 		{
-			input:    5,
-			expected: 2,
+			in:   5,
+			want: 2,
 		},
 	}
-	for _, tc := range tests {
-		output := bulbSwitch(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := bulbSwitch(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

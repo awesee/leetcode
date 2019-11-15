@@ -5,41 +5,41 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    [][]int
-	k        int
-	expected [][]int
+type testType struct {
+	in   [][]int
+	k    int
+	want [][]int
 }
 
 func TestKClosest(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input: [][]int{
+			in: [][]int{
 				{1, 3},
 				{-2, 2},
 			},
 			k: 1,
-			expected: [][]int{
+			want: [][]int{
 				{-2, 2},
 			},
 		},
 		{
-			input: [][]int{
+			in: [][]int{
 				{3, 3},
 				{5, -1},
 				{-2, 4},
 			},
 			k: 2,
-			expected: [][]int{
+			want: [][]int{
 				{3, 3},
 				{-2, 4},
 			},
 		},
 	}
-	for _, tc := range tests {
-		output := kClosest(tc.input, tc.k)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := kClosest(tt.in, tt.k)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

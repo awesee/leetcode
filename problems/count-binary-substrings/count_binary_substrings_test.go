@@ -2,26 +2,26 @@ package problem696
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected int
+type testType struct {
+	in   string
+	want int
 }
 
 func TestCountBinarySubstrings(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "00110011",
-			expected: 6,
+			in:   "00110011",
+			want: 6,
 		},
 		{
-			input:    "10101",
-			expected: 4,
+			in:   "10101",
+			want: 4,
 		},
 	}
-	for _, tc := range tests {
-		output := countBinarySubstrings(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := countBinarySubstrings(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

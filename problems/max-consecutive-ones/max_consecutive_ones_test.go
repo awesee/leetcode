@@ -2,26 +2,26 @@ package problem485
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected int
+type testType struct {
+	in   []int
+	want int
 }
 
 func TestFindMaxConsecutiveOnes(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 1, 0, 1, 1, 1},
-			expected: 3,
+			in:   []int{1, 1, 0, 1, 1, 1},
+			want: 3,
 		},
 		{
-			input:    []int{1, 0, 1, 1, 0, 1},
-			expected: 2,
+			in:   []int{1, 0, 1, 1, 0, 1},
+			want: 2,
 		},
 	}
-	for _, tc := range tests {
-		output := findMaxConsecutiveOnes(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := findMaxConsecutiveOnes(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

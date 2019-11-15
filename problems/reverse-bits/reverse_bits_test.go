@@ -2,26 +2,26 @@ package problem190
 
 import "testing"
 
-type caseType struct {
-	input    uint32
-	expected uint32
+type testType struct {
+	in   uint32
+	want uint32
 }
 
 func TestReverseBits(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    43261596,
-			expected: 964176192,
+			in:   43261596,
+			want: 964176192,
 		},
 		{
-			input:    4294967293,
-			expected: 3221225471,
+			in:   4294967293,
+			want: 3221225471,
 		},
 	}
-	for _, tc := range tests {
-		output := reverseBits(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := reverseBits(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -5,25 +5,25 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    []int
-	expected []int
+type testType struct {
+	in   []int
+	want []int
 }
 
 func TestConstructor(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 100, 3001, 3002},
-			expected: []int{1, 2, 3, 3},
+			in:   []int{1, 100, 3001, 3002},
+			want: []int{1, 2, 3, 3},
 		},
 	}
-	for _, tc := range tests {
-		obj, output := Constructor(), make([]int, 0)
-		for _, t := range tc.input {
-			output = append(output, obj.Ping(t))
+	for _, tt := range tests {
+		obj, got := Constructor(), make([]int, 0)
+		for _, t := range tt.in {
+			got = append(got, obj.Ping(t))
 		}
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

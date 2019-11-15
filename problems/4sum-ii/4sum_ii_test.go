@@ -2,28 +2,28 @@ package problem454
 
 import "testing"
 
-type caseType struct {
-	a        []int
-	b        []int
-	c        []int
-	d        []int
-	expected int
+type testType struct {
+	a    []int
+	b    []int
+	c    []int
+	d    []int
+	want int
 }
 
 func TestFourSumCount(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			a:        []int{1, 2},
-			b:        []int{-2, -1},
-			c:        []int{-1, 2},
-			d:        []int{0, 2},
-			expected: 2,
+			a:    []int{1, 2},
+			b:    []int{-2, -1},
+			c:    []int{-1, 2},
+			d:    []int{0, 2},
+			want: 2,
 		},
 	}
-	for _, tc := range tests {
-		output := fourSumCount(tc.a, tc.b, tc.c, tc.d)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc, output, tc.expected)
+	for _, tt := range tests {
+		got := fourSumCount(tt.a, tt.b, tt.c, tt.d)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt, got, tt.want)
 		}
 	}
 }

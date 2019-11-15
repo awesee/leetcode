@@ -2,34 +2,34 @@ package problem819
 
 import "testing"
 
-type caseType struct {
+type testType struct {
 	paragraph string
 	banned    []string
-	expected  string
+	want      string
 }
 
 func TestMostCommonWord(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
 			paragraph: "Bob hit a ball, the hit BALL flew far after it was hit.",
 			banned:    []string{"hit"},
-			expected:  "ball",
+			want:      "ball",
 		},
 		{
 			paragraph: "a, a, a, a, b,b,b,c, c",
 			banned:    []string{"a"},
-			expected:  "b",
+			want:      "b",
 		},
 		{
 			paragraph: "Bob",
 			banned:    []string{},
-			expected:  "bob",
+			want:      "bob",
 		},
 	}
-	for _, tc := range tests {
-		output := mostCommonWord(tc.paragraph, tc.banned)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.paragraph, tc.banned, output, tc.expected)
+	for _, tt := range tests {
+		got := mostCommonWord(tt.paragraph, tt.banned)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.paragraph, tt.banned, got, tt.want)
 		}
 	}
 }

@@ -2,30 +2,30 @@ package problem581
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected int
+type testType struct {
+	in   []int
+	want int
 }
 
 func TestFindUnsortedSubarray(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{2, 6, 4, 8, 10, 9, 15},
-			expected: 5,
+			in:   []int{2, 6, 4, 8, 10, 9, 15},
+			want: 5,
 		},
 		{
-			input:    []int{1, 2, 3, 4},
-			expected: 0,
+			in:   []int{1, 2, 3, 4},
+			want: 0,
 		},
 		{
-			input:    []int{1, 2, 4, 5, 3},
-			expected: 3,
+			in:   []int{1, 2, 4, 5, 3},
+			want: 3,
 		},
 	}
-	for _, tc := range tests {
-		output := findUnsortedSubarray(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := findUnsortedSubarray(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

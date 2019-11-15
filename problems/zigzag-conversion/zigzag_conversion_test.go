@@ -2,34 +2,34 @@ package problem6
 
 import "testing"
 
-type caseType struct {
-	input    string
-	numRows  int
-	expected string
+type testType struct {
+	in      string
+	numRows int
+	want    string
 }
 
 func TestConvert(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "PAYPALISHIRING",
-			numRows:  3,
-			expected: "PAHNAPLSIIGYIR",
+			in:      "PAYPALISHIRING",
+			numRows: 3,
+			want:    "PAHNAPLSIIGYIR",
 		},
 		{
-			input:    "PAYPALISHIRING",
-			numRows:  4,
-			expected: "PINALSIGYAHRPI",
+			in:      "PAYPALISHIRING",
+			numRows: 4,
+			want:    "PINALSIGYAHRPI",
 		},
 		{
-			input:    "AB",
-			numRows:  1,
-			expected: "AB",
+			in:      "AB",
+			numRows: 1,
+			want:    "AB",
 		},
 	}
-	for _, tc := range tests {
-		output := convert(tc.input, tc.numRows)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := convert(tt.in, tt.numRows)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

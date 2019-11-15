@@ -2,34 +2,34 @@ package problem788
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected int
+type testType struct {
+	in   int
+	want int
 }
 
 func TestRotatedDigits(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    10,
-			expected: 4,
+			in:   10,
+			want: 4,
 		},
 		{
-			input:    23,
-			expected: 11,
+			in:   23,
+			want: 11,
 		},
 		{
-			input:    100,
-			expected: 40,
+			in:   100,
+			want: 40,
 		},
 		{
-			input:    200,
-			expected: 81,
+			in:   200,
+			want: 81,
 		},
 	}
-	for _, tc := range tests {
-		output := rotatedDigits(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := rotatedDigits(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

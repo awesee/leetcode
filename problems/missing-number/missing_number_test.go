@@ -2,30 +2,30 @@ package problem268
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected int
+type testType struct {
+	in   []int
+	want int
 }
 
 func TestMissingNumber(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{3, 0, 1},
-			expected: 2,
+			in:   []int{3, 0, 1},
+			want: 2,
 		},
 		{
-			input:    []int{0, 1, 2, 4, 5, 6},
-			expected: 3,
+			in:   []int{0, 1, 2, 4, 5, 6},
+			want: 3,
 		},
 		{
-			input:    []int{9, 6, 4, 2, 3, 5, 7, 0, 1},
-			expected: 8,
+			in:   []int{9, 6, 4, 2, 3, 5, 7, 0, 1},
+			want: 8,
 		},
 	}
-	for _, tc := range tests {
-		output := missingNumber(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := missingNumber(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }
