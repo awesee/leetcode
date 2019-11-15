@@ -24,6 +24,13 @@ var (
 	translationSet  = make(map[int]string)
 )
 
+// Clean - leetcode.Clean
+func Clean() {
+	dir := getCachePath("")
+	err := os.RemoveAll(dir)
+	checkErr(err)
+}
+
 func graphQLRequest(graphQL, jsonStr, filename string, days int, v interface{}) {
 	data := remember(filename, days, func() []byte {
 		return client.PostJSON(graphQL, jsonStr)
@@ -62,13 +69,6 @@ func getCachePath(f string) string {
 		checkErr(err)
 	}
 	return filepath.Join(dir, ".leetcode", f)
-}
-
-// Clean - leetcode.Clean
-func Clean() {
-	dir := getCachePath("")
-	err := os.RemoveAll(dir)
-	checkErr(err)
 }
 
 func fileGetContents(filename string) []byte {
