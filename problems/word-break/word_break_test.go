@@ -2,34 +2,34 @@ package problem139
 
 import "testing"
 
-type caseType struct {
-	input    string
+type testType struct {
+	in       string
 	wordDict []string
-	expected bool
+	want     bool
 }
 
 func TestWordBreak(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "leetcode",
+			in:       "leetcode",
 			wordDict: []string{"leet", "code"},
-			expected: true,
+			want:     true,
 		},
 		{
-			input:    "applepenapple",
+			in:       "applepenapple",
 			wordDict: []string{"apple", "pen"},
-			expected: true,
+			want:     true,
 		},
 		{
-			input:    "catsandog",
+			in:       "catsandog",
 			wordDict: []string{"cats", "dog", "sand", "and", "cat"},
-			expected: false,
+			want:     false,
 		},
 	}
-	for _, tc := range tests {
-		output := wordBreak(tc.input, tc.wordDict)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := wordBreak(tt.in, tt.wordDict)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

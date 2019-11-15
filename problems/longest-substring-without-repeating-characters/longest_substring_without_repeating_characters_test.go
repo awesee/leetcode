@@ -10,10 +10,10 @@ func TestLengthOfLongestSubstring(t *testing.T) {
 		"abcdef":   6,
 	}
 
-	for input, expected := range tests {
-		output := lengthOfLongestSubstring(input)
-		if output != expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", input, output, expected)
+	for in, want := range tests {
+		got := lengthOfLongestSubstring(in)
+		if got != want {
+			t.Fatalf("in: %v, got: %v, want: %v", in, got, want)
 		}
 	}
 }

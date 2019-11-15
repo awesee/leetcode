@@ -2,50 +2,50 @@ package problem441
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected int
+type testType struct {
+	in   int
+	want int
 }
 
 func TestArrangeCoins(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    5,
-			expected: 2,
+			in:   5,
+			want: 2,
 		},
 		{
-			input:    8,
-			expected: 3,
+			in:   8,
+			want: 3,
 		},
 		{
-			input:    0,
-			expected: 0,
+			in:   0,
+			want: 0,
 		},
 		{
-			input:    1,
-			expected: 1,
+			in:   1,
+			want: 1,
 		},
 		{
-			input:    2,
-			expected: 1,
+			in:   2,
+			want: 1,
 		},
 		{
-			input:    3,
-			expected: 2,
+			in:   3,
+			want: 2,
 		},
 		{
-			input:    13,
-			expected: 4,
+			in:   13,
+			want: 4,
 		},
 		{
-			input:    130,
-			expected: 15,
+			in:   130,
+			want: 15,
 		},
 	}
-	for _, tc := range tests {
-		output := arrangeCoins(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := arrangeCoins(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

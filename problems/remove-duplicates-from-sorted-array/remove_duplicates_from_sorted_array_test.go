@@ -5,42 +5,42 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    []int
-	expected []int
+type testType struct {
+	in   []int
+	want []int
 }
 
 func TestRemoveDuplicates(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 1, 2},
-			expected: []int{1, 2},
+			in:   []int{1, 1, 2},
+			want: []int{1, 2},
 		},
 		{
-			input:    []int{0, 0, 1, 1, 1, 2, 2, 3, 3, 4},
-			expected: []int{0, 1, 2, 3, 4},
+			in:   []int{0, 0, 1, 1, 1, 2, 2, 3, 3, 4},
+			want: []int{0, 1, 2, 3, 4},
 		},
 		{
-			input:    []int{1, 2, 3, 4},
-			expected: []int{1, 2, 3, 4},
+			in:   []int{1, 2, 3, 4},
+			want: []int{1, 2, 3, 4},
 		},
 		{
-			input:    []int{1, 2, 2, 3, 3, 3, 4, 4, 4, 4},
-			expected: []int{1, 2, 3, 4},
+			in:   []int{1, 2, 2, 3, 3, 3, 4, 4, 4, 4},
+			want: []int{1, 2, 3, 4},
 		},
 		{
-			input:    []int{},
-			expected: []int{},
+			in:   []int{},
+			want: []int{},
 		},
 	}
 
-	for _, tc := range tests {
-		nums := make([]int, len(tc.input))
-		copy(nums, tc.input)
+	for _, tt := range tests {
+		nums := make([]int, len(tt.in))
+		copy(nums, tt.in)
 		l := removeDuplicates(nums)
-		output := nums[:l]
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+		got := nums[:l]
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

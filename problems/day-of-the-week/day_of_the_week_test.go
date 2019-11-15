@@ -2,50 +2,50 @@ package problem1185
 
 import "testing"
 
-type caseType struct {
-	day      int
-	month    int
-	year     int
-	expected string
+type testType struct {
+	day   int
+	month int
+	year  int
+	want  string
 }
 
 func TestDayOfTheWeek(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			day:      31,
-			month:    8,
-			year:     2019,
-			expected: "Saturday",
+			day:   31,
+			month: 8,
+			year:  2019,
+			want:  "Saturday",
 		},
 		{
-			day:      15,
-			month:    8,
-			year:     1993,
-			expected: "Sunday",
+			day:   15,
+			month: 8,
+			year:  1993,
+			want:  "Sunday",
 		},
 		{
-			day:      1,
-			month:    1,
-			year:     1970,
-			expected: "Thursday",
+			day:   1,
+			month: 1,
+			year:  1970,
+			want:  "Thursday",
 		},
 		{
-			day:      25,
-			month:    3,
-			year:     1993,
-			expected: "Thursday",
+			day:   25,
+			month: 3,
+			year:  1993,
+			want:  "Thursday",
 		},
 		{
-			day:      30,
-			month:    6,
-			year:     2000,
-			expected: "Friday",
+			day:   30,
+			month: 6,
+			year:  2000,
+			want:  "Friday",
 		},
 	}
-	for _, tc := range tests {
-		output := dayOfTheWeek(tc.day, tc.month, tc.year)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc, output, tc.expected)
+	for _, tt := range tests {
+		got := dayOfTheWeek(tt.day, tt.month, tt.year)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt, got, tt.want)
 		}
 	}
 }

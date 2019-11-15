@@ -2,39 +2,39 @@ package problem521
 
 import "testing"
 
-type caseType struct {
-	a        string
-	b        string
-	expected int
+type testType struct {
+	a    string
+	b    string
+	want int
 }
 
 func TestFindLUSlength(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			a:        "aba",
-			b:        "cdc",
-			expected: 3,
+			a:    "aba",
+			b:    "cdc",
+			want: 3,
 		},
 		{
-			a:        "aba",
-			b:        "abcdef",
-			expected: 6,
+			a:    "aba",
+			b:    "abcdef",
+			want: 6,
 		},
 		{
-			a:        "abcdef",
-			b:        "cdc",
-			expected: 6,
+			a:    "abcdef",
+			b:    "cdc",
+			want: 6,
 		},
 		{
-			a:        "abc",
-			b:        "abc",
-			expected: -1,
+			a:    "abc",
+			b:    "abc",
+			want: -1,
 		},
 	}
-	for _, tc := range tests {
-		output := findLUSlength(tc.a, tc.b)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.a, tc.b, output, tc.expected)
+	for _, tt := range tests {
+		got := findLUSlength(tt.a, tt.b)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.a, tt.b, got, tt.want)
 		}
 	}
 }

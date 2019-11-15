@@ -2,49 +2,49 @@ package problem10
 
 import "testing"
 
-type caseType struct {
-	s        string
-	p        string
-	expected bool
+type testType struct {
+	s    string
+	p    string
+	want bool
 }
 
 func TestIsMatch(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			s:        "aa",
-			p:        "a",
-			expected: false,
+			s:    "aa",
+			p:    "a",
+			want: false,
 		},
 		{
-			s:        "aa",
-			p:        "a*",
-			expected: true,
+			s:    "aa",
+			p:    "a*",
+			want: true,
 		},
 		{
-			s:        "ab",
-			p:        ".*",
-			expected: true,
+			s:    "ab",
+			p:    ".*",
+			want: true,
 		},
 		{
-			s:        "aab",
-			p:        "c*a*b",
-			expected: true,
+			s:    "aab",
+			p:    "c*a*b",
+			want: true,
 		},
 		{
-			s:        "mississippi",
-			p:        "mis*is*p*.",
-			expected: false,
+			s:    "mississippi",
+			p:    "mis*is*p*.",
+			want: false,
 		},
 		{
-			s:        "",
-			p:        ".",
-			expected: false,
+			s:    "",
+			p:    ".",
+			want: false,
 		},
 	}
-	for _, tc := range tests {
-		output := isMatch(tc.s, tc.p)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.s, tc.p, output, tc.expected)
+	for _, tt := range tests {
+		got := isMatch(tt.s, tt.p)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.s, tt.p, got, tt.want)
 		}
 	}
 }

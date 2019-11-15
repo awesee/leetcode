@@ -5,28 +5,28 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    []byte
-	expected []byte
+type testType struct {
+	in   []byte
+	want []byte
 }
 
 func TestReverseString(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []byte{'h', 'e', 'l', 'l', 'o'},
-			expected: []byte{'o', 'l', 'l', 'e', 'h'},
+			in:   []byte{'h', 'e', 'l', 'l', 'o'},
+			want: []byte{'o', 'l', 'l', 'e', 'h'},
 		},
 		{
-			input:    []byte{'H', 'a', 'n', 'n', 'a', 'h'},
-			expected: []byte{'h', 'a', 'n', 'n', 'a', 'H'},
+			in:   []byte{'H', 'a', 'n', 'n', 'a', 'h'},
+			want: []byte{'h', 'a', 'n', 'n', 'a', 'H'},
 		},
 	}
-	for _, tc := range tests {
-		output := make([]byte, len(tc.input))
-		copy(output, tc.input)
-		reverseString(output)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := make([]byte, len(tt.in))
+		copy(got, tt.in)
+		reverseString(got)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

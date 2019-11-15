@@ -6,32 +6,32 @@ import (
 	"github.com/openset/leetcode/internal/kit"
 )
 
-type caseType struct {
-	x        int
-	y        int
-	bound    int
-	expected []int
+type testType struct {
+	x     int
+	y     int
+	bound int
+	want  []int
 }
 
 func TestPowerfulIntegers(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			x:        2,
-			y:        3,
-			bound:    10,
-			expected: []int{2, 3, 4, 5, 7, 9, 10},
+			x:     2,
+			y:     3,
+			bound: 10,
+			want:  []int{2, 3, 4, 5, 7, 9, 10},
 		},
 		{
-			x:        3,
-			y:        5,
-			bound:    15,
-			expected: []int{2, 4, 6, 8, 10, 14},
+			x:     3,
+			y:     5,
+			bound: 15,
+			want:  []int{2, 4, 6, 8, 10, 14},
 		},
 	}
-	for _, tc := range tests {
-		output := powerfulIntegers(tc.x, tc.y, tc.bound)
-		if !kit.IsEqualSliceInt(output, tc.expected) {
-			t.Fatalf("input: %v %v %v, output: %v, expected: %v", tc.x, tc.y, tc.bound, output, tc.expected)
+	for _, tt := range tests {
+		got := powerfulIntegers(tt.x, tt.y, tt.bound)
+		if !kit.IsEqualSliceInt(got, tt.want) {
+			t.Fatalf("in: %v %v %v, got: %v, want: %v", tt.x, tt.y, tt.bound, got, tt.want)
 		}
 	}
 }

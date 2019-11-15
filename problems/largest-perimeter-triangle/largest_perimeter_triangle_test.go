@@ -2,34 +2,34 @@ package problem976
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected int
+type testType struct {
+	in   []int
+	want int
 }
 
 func TestLargestPerimeter(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{2, 1, 2},
-			expected: 5,
+			in:   []int{2, 1, 2},
+			want: 5,
 		},
 		{
-			input:    []int{1, 2, 1},
-			expected: 0,
+			in:   []int{1, 2, 1},
+			want: 0,
 		},
 		{
-			input:    []int{3, 2, 3, 4},
-			expected: 10,
+			in:   []int{3, 2, 3, 4},
+			want: 10,
 		},
 		{
-			input:    []int{3, 6, 2, 3},
-			expected: 8,
+			in:   []int{3, 6, 2, 3},
+			want: 8,
 		},
 	}
-	for _, tc := range tests {
-		output := largestPerimeter(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := largestPerimeter(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -2,24 +2,24 @@ package problem461
 
 import "testing"
 
-type caseType struct {
-	x        int
-	y        int
-	expected int
+type testType struct {
+	x    int
+	y    int
+	want int
 }
 
 func TestHammingDistance(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			x:        1,
-			y:        4,
-			expected: 2,
+			x:    1,
+			y:    4,
+			want: 2,
 		},
 	}
-	for _, tc := range tests {
-		output := hammingDistance(tc.x, tc.y)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.x, tc.y, output, tc.expected)
+	for _, tt := range tests {
+		got := hammingDistance(tt.x, tt.y)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.x, tt.y, got, tt.want)
 		}
 	}
 }

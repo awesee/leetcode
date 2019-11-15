@@ -5,33 +5,33 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    []int
-	expected []int
+type testType struct {
+	in   []int
+	want []int
 }
 
 func TestMoveZeroes(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{0, 1, 0, 3, 12},
-			expected: []int{1, 3, 12, 0, 0},
+			in:   []int{0, 1, 0, 3, 12},
+			want: []int{1, 3, 12, 0, 0},
 		},
 		{
-			input:    []int{0, 1, 0, 2, 3, 3, 0, 7, 8},
-			expected: []int{1, 2, 3, 3, 7, 8, 0, 0, 0},
+			in:   []int{0, 1, 0, 2, 3, 3, 0, 7, 8},
+			want: []int{1, 2, 3, 3, 7, 8, 0, 0, 0},
 		},
 		{
-			input:    []int{1, 2, 3, 4, 5},
-			expected: []int{1, 2, 3, 4, 5},
+			in:   []int{1, 2, 3, 4, 5},
+			want: []int{1, 2, 3, 4, 5},
 		},
 	}
 
-	for _, tc := range tests {
-		output := make([]int, len(tc.input))
-		copy(output, tc.input)
-		moveZeroes(output)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := make([]int, len(tt.in))
+		copy(got, tt.in)
+		moveZeroes(got)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

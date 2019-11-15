@@ -2,34 +2,34 @@ package problem796
 
 import "testing"
 
-type caseType struct {
-	A        string
-	B        string
-	expected bool
+type testType struct {
+	A    string
+	B    string
+	want bool
 }
 
 func TestRotateString(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			A:        "abcde",
-			B:        "cdeab",
-			expected: true,
+			A:    "abcde",
+			B:    "cdeab",
+			want: true,
 		},
 		{
-			A:        "abcde",
-			B:        "abced",
-			expected: false,
+			A:    "abcde",
+			B:    "abced",
+			want: false,
 		},
 		{
-			A:        "abcde",
-			B:        "abcdef",
-			expected: false,
+			A:    "abcde",
+			B:    "abcdef",
+			want: false,
 		},
 	}
-	for _, tc := range tests {
-		output := rotateString(tc.A, tc.B)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.A, tc.B, output, tc.expected)
+	for _, tt := range tests {
+		got := rotateString(tt.A, tt.B)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.A, tt.B, got, tt.want)
 		}
 	}
 }

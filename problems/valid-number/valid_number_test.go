@@ -2,78 +2,78 @@ package problem65
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected bool
+type testType struct {
+	in   string
+	want bool
 }
 
 func TestIsNumber(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "0",
-			expected: true,
+			in:   "0",
+			want: true,
 		},
 		{
-			input:    " 0.1",
-			expected: true,
+			in:   " 0.1",
+			want: true,
 		},
 		{
-			input:    "abc",
-			expected: false,
+			in:   "abc",
+			want: false,
 		},
 		{
-			input:    "1 a",
-			expected: false,
+			in:   "1 a",
+			want: false,
 		},
 		{
-			input:    "2e10",
-			expected: true,
+			in:   "2e10",
+			want: true,
 		},
 		{
-			input:    " -90e3   ",
-			expected: true,
+			in:   " -90e3   ",
+			want: true,
 		},
 		{
-			input:    " 1e",
-			expected: false,
+			in:   " 1e",
+			want: false,
 		},
 		{
-			input:    "e3",
-			expected: false,
+			in:   "e3",
+			want: false,
 		},
 		{
-			input:    " 6e-1",
-			expected: true,
+			in:   " 6e-1",
+			want: true,
 		},
 		{
-			input:    " 99e2.5 ",
-			expected: false,
+			in:   " 99e2.5 ",
+			want: false,
 		},
 		{
-			input:    "53.5e93",
-			expected: true,
+			in:   "53.5e93",
+			want: true,
 		},
 		{
-			input:    " --6 ",
-			expected: false,
+			in:   " --6 ",
+			want: false,
 		},
 		{
-			input:    "-+3",
-			expected: false,
+			in:   "-+3",
+			want: false,
 		},
 		{
-			input:    "95a54e53",
-			expected: false,
+			in:   "95a54e53",
+			want: false,
 		},
 		{
-			input:    "078332e437",
-			expected: true,
+			in:   "078332e437",
+			want: true,
 		},
 	}
-	for _, tc := range tests {
-		output := isNumber(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := isNumber(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

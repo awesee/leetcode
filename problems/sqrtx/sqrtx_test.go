@@ -2,34 +2,34 @@ package problem69
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected int
+type testType struct {
+	in   int
+	want int
 }
 
 func TestMySqrt(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    4,
-			expected: 2,
+			in:   4,
+			want: 2,
 		},
 		{
-			input:    8,
-			expected: 2,
+			in:   8,
+			want: 2,
 		},
 		{
-			input:    0,
-			expected: 0,
+			in:   0,
+			want: 0,
 		},
 		{
-			input:    1,
-			expected: 1,
+			in:   1,
+			want: 1,
 		},
 	}
-	for _, tc := range tests {
-		output := mySqrt(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := mySqrt(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

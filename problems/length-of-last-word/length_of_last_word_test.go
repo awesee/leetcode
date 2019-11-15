@@ -13,10 +13,10 @@ func TestLengthOfLastWord(t *testing.T) {
 		"b  ":              1,
 	}
 
-	for input, expected := range tests {
-		output := lengthOfLastWord(input)
-		if output != expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", input, output, expected)
+	for in, want := range tests {
+		got := lengthOfLastWord(in)
+		if got != want {
+			t.Fatalf("in: %v, got: %v, want: %v", in, got, want)
 		}
 	}
 }

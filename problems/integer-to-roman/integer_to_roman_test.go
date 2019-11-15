@@ -2,46 +2,46 @@ package problem12
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected string
+type testType struct {
+	in   int
+	want string
 }
 
 func TestIntToRoman(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    3,
-			expected: "III",
+			in:   3,
+			want: "III",
 		},
 		{
-			input:    4,
-			expected: "IV",
+			in:   4,
+			want: "IV",
 		},
 		{
-			input:    9,
-			expected: "IX",
+			in:   9,
+			want: "IX",
 		},
 		{
-			input:    20,
-			expected: "XX",
+			in:   20,
+			want: "XX",
 		},
 		{
-			input:    58,
-			expected: "LVIII",
+			in:   58,
+			want: "LVIII",
 		},
 		{
-			input:    1994,
-			expected: "MCMXCIV",
+			in:   1994,
+			want: "MCMXCIV",
 		},
 		{
-			input:    11111,
-			expected: "MMMMMMMMMMMCXI",
+			in:   11111,
+			want: "MMMMMMMMMMMCXI",
 		},
 	}
-	for _, tc := range tests {
-		output := intToRoman(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := intToRoman(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

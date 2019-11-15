@@ -5,42 +5,42 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    [][]int
-	expected [][]int
+type testType struct {
+	in   [][]int
+	want [][]int
 }
 
 func TestImageSmoother(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input: [][]int{
+			in: [][]int{
 				{1, 1, 1},
 				{1, 0, 1},
 				{1, 1, 1},
 			},
-			expected: [][]int{
+			want: [][]int{
 				{0, 0, 0},
 				{0, 0, 0},
 				{0, 0, 0},
 			},
 		},
 		{
-			input: [][]int{
+			in: [][]int{
 				{1, 2, 3},
 				{4, 5, 6},
 				{7, 8, 9},
 			},
-			expected: [][]int{
+			want: [][]int{
 				{3, 3, 4},
 				{4, 5, 5},
 				{6, 6, 7},
 			},
 		},
 	}
-	for _, tc := range tests {
-		output := imageSmoother(tc.input)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := imageSmoother(tt.in)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -2,34 +2,34 @@ package problem628
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected int
+type testType struct {
+	in   []int
+	want int
 }
 
 func TestMaximumProduct(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 2, 3},
-			expected: 6,
+			in:   []int{1, 2, 3},
+			want: 6,
 		},
 		{
-			input:    []int{1, 2, 3, 4},
-			expected: 24,
+			in:   []int{1, 2, 3, 4},
+			want: 24,
 		},
 		{
-			input:    []int{-2, -1, 0, 2, 3},
-			expected: 6,
+			in:   []int{-2, -1, 0, 2, 3},
+			want: 6,
 		},
 		{
-			input:    []int{-1, -2, -3, 5, 4, 3, 2, 1},
-			expected: 60,
+			in:   []int{-1, -2, -3, 5, 4, 3, 2, 1},
+			want: 60,
 		},
 	}
-	for _, tc := range tests {
-		output := maximumProduct(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := maximumProduct(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

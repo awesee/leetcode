@@ -5,24 +5,24 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    []int
-	queries  [][]int
-	expected []int
+type testType struct {
+	in      []int
+	queries [][]int
+	want    []int
 }
 
 func TestSumEvenAfterQueries(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 2, 3, 4},
-			queries:  [][]int{{1, 0}, {-3, 1}, {-4, 0}, {2, 3}},
-			expected: []int{8, 6, 2, 4},
+			in:      []int{1, 2, 3, 4},
+			queries: [][]int{{1, 0}, {-3, 1}, {-4, 0}, {2, 3}},
+			want:    []int{8, 6, 2, 4},
 		},
 	}
-	for _, tc := range tests {
-		output := sumEvenAfterQueries(tc.input, tc.queries)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := sumEvenAfterQueries(tt.in, tt.queries)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -2,30 +2,30 @@ package problem1221
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected int
+type testType struct {
+	in   string
+	want int
 }
 
 func TestBalancedStringSplit(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "RLRRLLRLRL",
-			expected: 4,
+			in:   "RLRRLLRLRL",
+			want: 4,
 		},
 		{
-			input:    "RLLLLRRRLR",
-			expected: 3,
+			in:   "RLLLLRRRLR",
+			want: 3,
 		},
 		{
-			input:    "LLLLRRRR",
-			expected: 1,
+			in:   "LLLLRRRR",
+			want: 1,
 		},
 	}
-	for _, tc := range tests {
-		output := balancedStringSplit(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := balancedStringSplit(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

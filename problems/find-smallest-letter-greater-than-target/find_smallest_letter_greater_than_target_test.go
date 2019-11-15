@@ -2,49 +2,49 @@ package problem744
 
 import "testing"
 
-type caseType struct {
-	input    []byte
-	target   byte
-	expected byte
+type testType struct {
+	in     []byte
+	target byte
+	want   byte
 }
 
 func TestNextGreatestLetter(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []byte{'c', 'f', 'j'},
-			target:   'a',
-			expected: 'c',
+			in:     []byte{'c', 'f', 'j'},
+			target: 'a',
+			want:   'c',
 		},
 		{
-			input:    []byte{'c', 'f', 'j'},
-			target:   'c',
-			expected: 'f',
+			in:     []byte{'c', 'f', 'j'},
+			target: 'c',
+			want:   'f',
 		},
 		{
-			input:    []byte{'c', 'f', 'j'},
-			target:   'd',
-			expected: 'f',
+			in:     []byte{'c', 'f', 'j'},
+			target: 'd',
+			want:   'f',
 		},
 		{
-			input:    []byte{'c', 'f', 'j'},
-			target:   'g',
-			expected: 'j',
+			in:     []byte{'c', 'f', 'j'},
+			target: 'g',
+			want:   'j',
 		},
 		{
-			input:    []byte{'c', 'f', 'j'},
-			target:   'j',
-			expected: 'c',
+			in:     []byte{'c', 'f', 'j'},
+			target: 'j',
+			want:   'c',
 		},
 		{
-			input:    []byte{'c', 'f', 'j'},
-			target:   'k',
-			expected: 'c',
+			in:     []byte{'c', 'f', 'j'},
+			target: 'k',
+			want:   'c',
 		},
 	}
-	for _, tc := range tests {
-		output := nextGreatestLetter(tc.input, tc.target)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := nextGreatestLetter(tt.in, tt.target)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

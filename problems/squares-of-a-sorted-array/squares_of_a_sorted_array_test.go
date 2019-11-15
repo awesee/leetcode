@@ -5,26 +5,26 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    []int
-	expected []int
+type testType struct {
+	in   []int
+	want []int
 }
 
 func TestSortedSquares(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{-4, -1, 0, 3, 10},
-			expected: []int{0, 1, 9, 16, 100},
+			in:   []int{-4, -1, 0, 3, 10},
+			want: []int{0, 1, 9, 16, 100},
 		},
 		{
-			input:    []int{-7, -3, 2, 3, 11},
-			expected: []int{4, 9, 9, 49, 121},
+			in:   []int{-7, -3, 2, 3, 11},
+			want: []int{4, 9, 9, 49, 121},
 		},
 	}
-	for _, tc := range tests {
-		output := sortedSquares(tc.input)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := sortedSquares(tt.in)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

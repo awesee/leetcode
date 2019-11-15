@@ -11,10 +11,10 @@ func TestRomanToInt(t *testing.T) {
 		"MCMXCIV": 1994,
 	}
 
-	for input, expected := range tests {
-		output := romanToInt(input)
-		if output != expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", input, output, expected)
+	for in, want := range tests {
+		got := romanToInt(in)
+		if got != want {
+			t.Fatalf("in: %v, got: %v, want: %v", in, got, want)
 		}
 	}
 }

@@ -2,29 +2,29 @@ package problem28
 
 import "testing"
 
-type caseType struct {
+type testType struct {
 	haystack string
 	needle   string
-	expected int
+	want     int
 }
 
 func TestStrStr(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
 			haystack: "hello",
 			needle:   "ll",
-			expected: 2,
+			want:     2,
 		}, {
 			haystack: "this is test string",
 			needle:   "a",
-			expected: -1,
+			want:     -1,
 		},
 	}
 
-	for _, tc := range tests {
-		output := strStr(tc.haystack, tc.needle)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.haystack, tc.needle, output, tc.expected)
+	for _, tt := range tests {
+		got := strStr(tt.haystack, tt.needle)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.haystack, tt.needle, got, tt.want)
 		}
 	}
 }

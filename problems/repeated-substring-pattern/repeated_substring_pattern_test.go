@@ -2,53 +2,53 @@ package problem459
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected bool
+type testType struct {
+	in   string
+	want bool
 }
 
 func TestRepeatedSubstringPattern(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "a",
-			expected: false,
+			in:   "a",
+			want: false,
 		},
 		{
-			input:    "abab",
-			expected: true,
+			in:   "abab",
+			want: true,
 		},
 		{
-			input:    "aba",
-			expected: false,
+			in:   "aba",
+			want: false,
 		},
 		{
-			input:    "abaaba",
-			expected: true,
+			in:   "abaaba",
+			want: true,
 		},
 		{
-			input:    "abcabcabcabc",
-			expected: true,
+			in:   "abcabcabcabc",
+			want: true,
 		},
 		{
-			input:    "abbaabbaabba",
-			expected: true,
+			in:   "abbaabbaabba",
+			want: true,
 		},
 		{
-			input:    "abcabcabcdabcabcabcdabcabcabcd",
-			expected: true,
+			in:   "abcabcabcdabcabcabcdabcabcabcd",
+			want: true,
 		},
 		{
-			input:    "abaabaabac",
-			expected: false,
+			in:   "abaabaabac",
+			want: false,
 		}, {
-			input:    "babbabbabbabbab",
-			expected: true,
+			in:   "babbabbabbabbab",
+			want: true,
 		},
 	}
-	for _, tc := range tests {
-		output := repeatedSubstringPattern(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := repeatedSubstringPattern(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

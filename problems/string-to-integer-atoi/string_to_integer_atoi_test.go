@@ -21,10 +21,10 @@ func TestMyAtoi(t *testing.T) {
 		"9876543210":      math.MaxInt32,
 	}
 
-	for input, expected := range tests {
-		output := myAtoi(input)
-		if output != expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", input, output, expected)
+	for in, want := range tests {
+		got := myAtoi(in)
+		if got != want {
+			t.Fatalf("in: %v, got: %v, want: %v", in, got, want)
 		}
 	}
 }

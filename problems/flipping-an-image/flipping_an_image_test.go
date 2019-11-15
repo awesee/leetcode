@@ -5,33 +5,33 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    [][]int
-	expected [][]int
+type testType struct {
+	in   [][]int
+	want [][]int
 }
 
 func TestFlipAndInvertImage(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input: [][]int{
+			in: [][]int{
 				{1, 1, 0},
 				{1, 0, 1},
 				{0, 0, 0},
 			},
-			expected: [][]int{
+			want: [][]int{
 				{1, 0, 0},
 				{0, 1, 0},
 				{1, 1, 1},
 			},
 		},
 		{
-			input: [][]int{
+			in: [][]int{
 				{1, 1, 0, 0},
 				{1, 0, 0, 1},
 				{0, 1, 1, 1},
 				{1, 0, 1, 0},
 			},
-			expected: [][]int{
+			want: [][]int{
 				{1, 1, 0, 0},
 				{0, 1, 1, 0},
 				{0, 0, 0, 1},
@@ -39,10 +39,10 @@ func TestFlipAndInvertImage(t *testing.T) {
 			},
 		},
 	}
-	for _, tc := range tests {
-		output := flipAndInvertImage(tc.input)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := flipAndInvertImage(tt.in)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

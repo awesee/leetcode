@@ -2,34 +2,34 @@ package problem520
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected bool
+type testType struct {
+	in   string
+	want bool
 }
 
 func TestDetectCapitalUse(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "USA",
-			expected: true,
+			in:   "USA",
+			want: true,
 		},
 		{
-			input:    "leetcode",
-			expected: true,
+			in:   "leetcode",
+			want: true,
 		},
 		{
-			input:    "Google",
-			expected: true,
+			in:   "Google",
+			want: true,
 		},
 		{
-			input:    "FlaG",
-			expected: false,
+			in:   "FlaG",
+			want: false,
 		},
 	}
-	for _, tc := range tests {
-		output := detectCapitalUse(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := detectCapitalUse(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

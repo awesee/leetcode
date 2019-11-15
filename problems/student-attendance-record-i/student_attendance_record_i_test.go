@@ -2,26 +2,26 @@ package problem551
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected bool
+type testType struct {
+	in   string
+	want bool
 }
 
 func TestCheckRecord(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "PPALLP",
-			expected: true,
+			in:   "PPALLP",
+			want: true,
 		},
 		{
-			input:    "PPALLL",
-			expected: false,
+			in:   "PPALLL",
+			want: false,
 		},
 	}
-	for _, tc := range tests {
-		output := checkRecord(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := checkRecord(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -2,34 +2,34 @@ package problem657
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected bool
+type testType struct {
+	in   string
+	want bool
 }
 
 func TestJudgeCircle(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "UD",
-			expected: true,
+			in:   "UD",
+			want: true,
 		},
 		{
-			input:    "RL",
-			expected: true,
+			in:   "RL",
+			want: true,
 		},
 		{
-			input:    "LL",
-			expected: false,
+			in:   "LL",
+			want: false,
 		},
 		{
-			input:    "UU",
-			expected: false,
+			in:   "UU",
+			want: false,
 		},
 	}
-	for _, tc := range tests {
-		output := judgeCircle(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := judgeCircle(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -2,46 +2,46 @@ package problem172
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected int
+type testType struct {
+	in   int
+	want int
 }
 
 func TestTrailingZeroes(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    3,
-			expected: 0,
+			in:   3,
+			want: 0,
 		},
 		{
-			input:    5,
-			expected: 1,
+			in:   5,
+			want: 1,
 		},
 		{
-			input:    7,
-			expected: 1,
+			in:   7,
+			want: 1,
 		},
 		{
-			input:    8,
-			expected: 1,
+			in:   8,
+			want: 1,
 		},
 		{
-			input:    10,
-			expected: 2,
+			in:   10,
+			want: 2,
 		},
 		{
-			input:    12,
-			expected: 2,
+			in:   12,
+			want: 2,
 		},
 		{
-			input:    25,
-			expected: 6,
+			in:   25,
+			want: 6,
 		},
 	}
-	for _, tc := range tests {
-		output := trailingZeroes(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := trailingZeroes(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

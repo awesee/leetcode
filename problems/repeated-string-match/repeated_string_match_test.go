@@ -2,39 +2,39 @@ package problem686
 
 import "testing"
 
-type caseType struct {
-	a        string
-	b        string
-	expected int
+type testType struct {
+	a    string
+	b    string
+	want int
 }
 
 func TestRepeatedStringMatch(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			a:        "abcd",
-			b:        "cdabcdab",
-			expected: 3,
+			a:    "abcd",
+			b:    "cdabcdab",
+			want: 3,
 		},
 		{
-			a:        "abcdefg",
-			b:        "cde",
-			expected: 1,
+			a:    "abcdefg",
+			b:    "cde",
+			want: 1,
 		},
 		{
-			a:        "abc",
-			b:        "abcabc",
-			expected: 2,
+			a:    "abc",
+			b:    "abcabc",
+			want: 2,
 		},
 		{
-			a:        "abc",
-			b:        "abcd",
-			expected: -1,
+			a:    "abc",
+			b:    "abcd",
+			want: -1,
 		},
 	}
-	for _, tc := range tests {
-		output := repeatedStringMatch(tc.a, tc.b)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.a, tc.b, output, tc.expected)
+	for _, tt := range tests {
+		got := repeatedStringMatch(tt.a, tt.b)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.a, tt.b, got, tt.want)
 		}
 	}
 }

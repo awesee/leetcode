@@ -5,48 +5,48 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    []int
-	val      int
-	expected []int
+type testType struct {
+	in   []int
+	val  int
+	want []int
 }
 
 func TestRemoveElement(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{3, 2, 2, 3},
-			val:      3,
-			expected: []int{2, 2},
+			in:   []int{3, 2, 2, 3},
+			val:  3,
+			want: []int{2, 2},
 		},
 		{
-			input:    []int{0, 1, 2, 2, 3, 0, 4, 2},
-			val:      2,
-			expected: []int{0, 1, 3, 0, 4},
+			in:   []int{0, 1, 2, 2, 3, 0, 4, 2},
+			val:  2,
+			want: []int{0, 1, 3, 0, 4},
 		},
 		{
-			input:    []int{1, 2, 3, 4, 5},
-			val:      6,
-			expected: []int{1, 2, 3, 4, 5},
+			in:   []int{1, 2, 3, 4, 5},
+			val:  6,
+			want: []int{1, 2, 3, 4, 5},
 		},
 		{
-			input:    []int{1, 2, 2, 3, 3, 3, 4, 4, 4, 4},
-			val:      4,
-			expected: []int{1, 2, 2, 3, 3, 3},
+			in:   []int{1, 2, 2, 3, 3, 3, 4, 4, 4, 4},
+			val:  4,
+			want: []int{1, 2, 2, 3, 3, 3},
 		},
 		{
-			input:    []int{},
-			val:      1,
-			expected: []int{},
+			in:   []int{},
+			val:  1,
+			want: []int{},
 		},
 	}
 
-	for _, tc := range tests {
-		nums := make([]int, len(tc.input))
-		copy(nums, tc.input)
-		l := removeElement(nums, tc.val)
-		output := nums[:l]
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		nums := make([]int, len(tt.in))
+		copy(nums, tt.in)
+		l := removeElement(nums, tt.val)
+		got := nums[:l]
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

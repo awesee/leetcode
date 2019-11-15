@@ -2,26 +2,26 @@ package problem198
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected int
+type testType struct {
+	in   []int
+	want int
 }
 
 func TestRob(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 2, 3, 1},
-			expected: 4,
+			in:   []int{1, 2, 3, 1},
+			want: 4,
 		},
 		{
-			input:    []int{2, 7, 9, 3, 1},
-			expected: 12,
+			in:   []int{2, 7, 9, 3, 1},
+			want: 12,
 		},
 	}
-	for _, tc := range tests {
-		output := rob(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := rob(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

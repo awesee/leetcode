@@ -2,34 +2,34 @@ package problem219
 
 import "testing"
 
-type caseType struct {
-	nums     []int
-	k        int
-	expected bool
+type testType struct {
+	nums []int
+	k    int
+	want bool
 }
 
 func TestContainsNearbyDuplicate(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			nums:     []int{1, 2, 3, 1},
-			k:        3,
-			expected: true,
+			nums: []int{1, 2, 3, 1},
+			k:    3,
+			want: true,
 		},
 		{
-			nums:     []int{1, 0, 1, 1},
-			k:        1,
-			expected: true,
+			nums: []int{1, 0, 1, 1},
+			k:    1,
+			want: true,
 		},
 		{
-			nums:     []int{1, 2, 3, 1, 2, 3},
-			k:        2,
-			expected: false,
+			nums: []int{1, 2, 3, 1, 2, 3},
+			k:    2,
+			want: false,
 		},
 	}
-	for _, tc := range tests {
-		output := containsNearbyDuplicate(tc.nums, tc.k)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.nums, tc.k, output, tc.expected)
+	for _, tt := range tests {
+		got := containsNearbyDuplicate(tt.nums, tt.k)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.nums, tt.k, got, tt.want)
 		}
 	}
 }

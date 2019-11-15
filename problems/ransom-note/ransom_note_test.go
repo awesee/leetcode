@@ -2,34 +2,34 @@ package problem383
 
 import "testing"
 
-type caseType struct {
+type testType struct {
 	ransom   string
 	magazine string
-	expected bool
+	want     bool
 }
 
 func TestCanConstruct(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
 			ransom:   "a",
 			magazine: "b",
-			expected: false,
+			want:     false,
 		},
 		{
 			ransom:   "aa",
 			magazine: "ab",
-			expected: false,
+			want:     false,
 		},
 		{
 			ransom:   "aa",
 			magazine: "aab",
-			expected: true,
+			want:     true,
 		},
 	}
-	for _, tc := range tests {
-		output := canConstruct(tc.ransom, tc.magazine)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.ransom, tc.magazine, output, tc.expected)
+	for _, tt := range tests {
+		got := canConstruct(tt.ransom, tt.magazine)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.ransom, tt.magazine, got, tt.want)
 		}
 	}
 }

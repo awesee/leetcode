@@ -5,26 +5,26 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    string
-	expected []string
+type testType struct {
+	in   string
+	want []string
 }
 
 func TestLetterCombinations(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "",
-			expected: nil,
+			in:   "",
+			want: nil,
 		},
 		{
-			input:    "23",
-			expected: []string{"ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"},
+			in:   "23",
+			want: []string{"ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"},
 		},
 	}
-	for _, tc := range tests {
-		output := letterCombinations(tc.input)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := letterCombinations(tt.in)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

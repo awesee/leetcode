@@ -2,35 +2,35 @@ package problem771
 
 import "testing"
 
-type caseType struct {
-	j        string
-	s        string
-	expected int
+type testType struct {
+	j    string
+	s    string
+	want int
 }
 
 func TestNumJewelsInStones(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			j:        "aA",
-			s:        "aAAbbbb",
-			expected: 3,
+			j:    "aA",
+			s:    "aAAbbbb",
+			want: 3,
 		},
 		{
-			j:        "z",
-			s:        "ZZ",
-			expected: 0,
+			j:    "z",
+			s:    "ZZ",
+			want: 0,
 		},
 		{
-			j:        "Tb",
-			s:        "abcdefhelloaabads",
-			expected: 2,
+			j:    "Tb",
+			s:    "abcdefhelloaabads",
+			want: 2,
 		},
 	}
 
-	for _, tc := range tests {
-		output := numJewelsInStones(tc.j, tc.s)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.j, tc.s, output, tc.expected)
+	for _, tt := range tests {
+		got := numJewelsInStones(tt.j, tt.s)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.j, tt.s, got, tt.want)
 		}
 	}
 }

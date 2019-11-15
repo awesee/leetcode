@@ -2,34 +2,34 @@ package problem1163
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected string
+type testType struct {
+	in   string
+	want string
 }
 
 func TestLastSubstring(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "abab",
-			expected: "bab",
+			in:   "abab",
+			want: "bab",
 		},
 		{
-			input:    "abcdabc",
-			expected: "dabc",
+			in:   "abcdabc",
+			want: "dabc",
 		},
 		{
-			input:    "ffbcdfeda",
-			expected: "ffbcdfeda",
+			in:   "ffbcdfeda",
+			want: "ffbcdfeda",
 		},
 		{
-			input:    "hksljkjsfjv",
-			expected: "v",
+			in:   "hksljkjsfjv",
+			want: "v",
 		},
 	}
-	for _, tc := range tests {
-		output := lastSubstring(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := lastSubstring(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -5,42 +5,42 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    string
-	expected [][]int
+type testType struct {
+	in   string
+	want [][]int
 }
 
 func TestLargeGroupPositions(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input: "abbxxxxzzy",
-			expected: [][]int{
+			in: "abbxxxxzzy",
+			want: [][]int{
 				{3, 6},
 			},
 		},
 		{
-			input:    "abc",
-			expected: [][]int{},
+			in:   "abc",
+			want: [][]int{},
 		},
 		{
-			input: "abcdddeeeeaabbbcd",
-			expected: [][]int{
+			in: "abcdddeeeeaabbbcd",
+			want: [][]int{
 				{3, 5},
 				{6, 9},
 				{12, 14},
 			},
 		},
 		{
-			input: "abcddd",
-			expected: [][]int{
+			in: "abcddd",
+			want: [][]int{
 				{3, 5},
 			},
 		},
 	}
-	for _, tc := range tests {
-		output := largeGroupPositions(tc.input)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := largeGroupPositions(tt.in)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

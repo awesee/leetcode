@@ -16,10 +16,10 @@ func TestCountPrimes(t *testing.T) {
 		300: 62,
 	}
 
-	for input, expected := range tests {
-		output := countPrimes(input)
-		if output != expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", input, output, expected)
+	for in, want := range tests {
+		got := countPrimes(in)
+		if got != want {
+			t.Fatalf("in: %v, got: %v, want: %v", in, got, want)
 		}
 	}
 }

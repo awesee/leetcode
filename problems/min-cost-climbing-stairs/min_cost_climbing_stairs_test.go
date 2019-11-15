@@ -2,26 +2,26 @@ package problem746
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected int
+type testType struct {
+	in   []int
+	want int
 }
 
 func TestMinCostClimbingStairs(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{10, 15, 20},
-			expected: 15,
+			in:   []int{10, 15, 20},
+			want: 15,
 		},
 		{
-			input:    []int{1, 100, 1, 1, 1, 100, 1, 1, 100, 1},
-			expected: 6,
+			in:   []int{1, 100, 1, 1, 1, 100, 1, 1, 100, 1},
+			want: 6,
 		},
 	}
-	for _, tc := range tests {
-		output := minCostClimbingStairs(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := minCostClimbingStairs(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

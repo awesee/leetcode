@@ -2,26 +2,26 @@ package problem717
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected bool
+type testType struct {
+	in   []int
+	want bool
 }
 
 func TestIsOneBitCharacter(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 0, 0},
-			expected: true,
+			in:   []int{1, 0, 0},
+			want: true,
 		},
 		{
-			input:    []int{1, 1, 1, 0},
-			expected: false,
+			in:   []int{1, 1, 1, 0},
+			want: false,
 		},
 	}
-	for _, tc := range tests {
-		output := isOneBitCharacter(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := isOneBitCharacter(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

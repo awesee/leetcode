@@ -6,50 +6,50 @@ import (
 	"github.com/openset/leetcode/internal/kit"
 )
 
-type caseType struct {
-	input    []int
-	x        int
-	y        int
-	expected bool
+type testType struct {
+	in   []int
+	x    int
+	y    int
+	want bool
 }
 
 func TestIsCousins(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 2, 3, 4},
-			x:        4,
-			y:        3,
-			expected: false,
+			in:   []int{1, 2, 3, 4},
+			x:    4,
+			y:    3,
+			want: false,
 		},
 		{
-			input:    []int{1, 2, 3, kit.NULL, 4, kit.NULL, 5},
-			x:        5,
-			y:        4,
-			expected: true,
+			in:   []int{1, 2, 3, kit.NULL, 4, kit.NULL, 5},
+			x:    5,
+			y:    4,
+			want: true,
 		},
 		{
-			input:    []int{1, 2, 3, kit.NULL, 4},
-			x:        2,
-			y:        3,
-			expected: false,
+			in:   []int{1, 2, 3, kit.NULL, 4},
+			x:    2,
+			y:    3,
+			want: false,
 		},
 		{
-			input:    []int{1, 2, 3, kit.NULL, 4, 5},
-			x:        4,
-			y:        5,
-			expected: true,
+			in:   []int{1, 2, 3, kit.NULL, 4, 5},
+			x:    4,
+			y:    5,
+			want: true,
 		},
 		{
-			input:    []int{1, 2, 3, kit.NULL, 4, 5},
-			x:        5,
-			y:        4,
-			expected: true,
+			in:   []int{1, 2, 3, kit.NULL, 4, 5},
+			x:    5,
+			y:    4,
+			want: true,
 		},
 	}
-	for _, tc := range tests {
-		output := isCousins(kit.SliceInt2TreeNode(tc.input), tc.x, tc.y)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := isCousins(kit.SliceInt2TreeNode(tt.in), tt.x, tt.y)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

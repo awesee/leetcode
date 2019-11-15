@@ -2,22 +2,22 @@ package problem258
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected int
+type testType struct {
+	in   int
+	want int
 }
 
 func TestAddDigits(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    38,
-			expected: 2,
+			in:   38,
+			want: 2,
 		},
 	}
-	for _, tc := range tests {
-		output := addDigits(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := addDigits(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

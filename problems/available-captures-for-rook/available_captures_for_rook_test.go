@@ -2,15 +2,15 @@ package problem999
 
 import "testing"
 
-type caseType struct {
-	input    [][]byte
-	expected int
+type testType struct {
+	in   [][]byte
+	want int
 }
 
 func TestNumRookCaptures(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input: [][]byte{
+			in: [][]byte{
 				{'.', '.', '.', '.', '.', '.', '.', '.'},
 				{'.', '.', '.', 'p', '.', '.', '.', '.'},
 				{'.', '.', '.', 'R', '.', '.', '.', 'p'},
@@ -20,10 +20,10 @@ func TestNumRookCaptures(t *testing.T) {
 				{'.', '.', '.', '.', '.', '.', '.', '.'},
 				{'.', '.', '.', '.', '.', '.', '.', '.'},
 			},
-			expected: 3,
+			want: 3,
 		},
 		{
-			input: [][]byte{
+			in: [][]byte{
 				{'.', '.', '.', '.', '.', '.', '.', '.'},
 				{'.', 'p', 'p', 'p', 'p', 'p', '.', '.'},
 				{'.', 'p', 'p', 'B', 'p', 'p', '.', '.'},
@@ -33,10 +33,10 @@ func TestNumRookCaptures(t *testing.T) {
 				{'.', '.', '.', '.', '.', '.', '.', '.'},
 				{'.', '.', '.', '.', '.', '.', '.', '.'},
 			},
-			expected: 0,
+			want: 0,
 		},
 		{
-			input: [][]byte{
+			in: [][]byte{
 				{'.', '.', '.', '.', '.', '.', '.', '.'},
 				{'.', '.', '.', 'p', '.', '.', '.', '.'},
 				{'.', '.', '.', 'p', '.', '.', '.', '.'},
@@ -46,10 +46,10 @@ func TestNumRookCaptures(t *testing.T) {
 				{'.', '.', '.', 'p', '.', '.', '.', '.'},
 				{'.', '.', '.', '.', '.', '.', '.', '.'},
 			},
-			expected: 3,
+			want: 3,
 		},
 		{
-			input: [][]byte{
+			in: [][]byte{
 				{'.', '.', '.', '.', '.', '.', '.', '.'},
 				{'.', '.', '.', 'p', '.', '.', '.', '.'},
 				{'.', '.', '.', 'p', '.', '.', '.', '.'},
@@ -59,13 +59,13 @@ func TestNumRookCaptures(t *testing.T) {
 				{'.', '.', 'p', '.', 'p', '.', '.', '.'},
 				{'.', '.', '.', '.', '.', '.', '.', '.'},
 			},
-			expected: 2,
+			want: 2,
 		},
 	}
-	for _, tc := range tests {
-		output := numRookCaptures(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := numRookCaptures(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

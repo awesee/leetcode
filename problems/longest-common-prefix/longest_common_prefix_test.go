@@ -2,31 +2,31 @@ package problem14
 
 import "testing"
 
-type caseType struct {
-	input    []string
-	expected string
+type testType struct {
+	in   []string
+	want string
 }
 
 func TestLongestCommonPrefix(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []string{"flower", "flow", "flight"},
-			expected: "fl",
+			in:   []string{"flower", "flow", "flight"},
+			want: "fl",
 		},
 		{
-			input:    []string{"dog", "race", "car"},
-			expected: "",
+			in:   []string{"dog", "race", "car"},
+			want: "",
 		},
 		{
-			input:    nil,
-			expected: "",
+			in:   nil,
+			want: "",
 		},
 	}
 
-	for _, tc := range tests {
-		output := longestCommonPrefix(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := longestCommonPrefix(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

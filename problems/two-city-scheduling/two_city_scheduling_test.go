@@ -2,24 +2,24 @@ package problem1029
 
 import "testing"
 
-type caseType struct {
-	input    [][]int
-	expected int
+type testType struct {
+	in   [][]int
+	want int
 }
 
 func TestTwoCitySchedCost(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input: [][]int{
+			in: [][]int{
 				{10, 20},
 				{30, 200},
 				{400, 50},
 				{30, 20},
 			},
-			expected: 110,
+			want: 110,
 		},
 		{
-			input: [][]int{
+			in: [][]int{
 				{259, 770},
 				{448, 54},
 				{926, 667},
@@ -27,10 +27,10 @@ func TestTwoCitySchedCost(t *testing.T) {
 				{840, 118},
 				{577, 469},
 			},
-			expected: 1859,
+			want: 1859,
 		},
 		{
-			input: [][]int{
+			in: [][]int{
 				{918, 704},
 				{77, 778},
 				{239, 457},
@@ -46,13 +46,13 @@ func TestTwoCitySchedCost(t *testing.T) {
 				{384, 585},
 				{165, 54},
 			},
-			expected: 4532,
+			want: 4532,
 		},
 	}
-	for _, tc := range tests {
-		output := twoCitySchedCost(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := twoCitySchedCost(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

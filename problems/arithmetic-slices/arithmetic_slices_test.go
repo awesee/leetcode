@@ -2,46 +2,46 @@ package problem413
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected int
+type testType struct {
+	in   []int
+	want int
 }
 
 func TestNumberOfArithmeticSlices(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{1, 3, 5, 7, 9},
-			expected: 6,
+			in:   []int{1, 3, 5, 7, 9},
+			want: 6,
 		},
 		{
-			input:    []int{7, 7, 7, 7},
-			expected: 3,
+			in:   []int{7, 7, 7, 7},
+			want: 3,
 		},
 		{
-			input:    []int{3, -1, -5, -9},
-			expected: 3,
+			in:   []int{3, -1, -5, -9},
+			want: 3,
 		},
 		{
-			input:    []int{1, 2, 3, 4},
-			expected: 3,
+			in:   []int{1, 2, 3, 4},
+			want: 3,
 		},
 		{
-			input:    []int{1, 2, 3, 4, 6, 8, 10},
-			expected: 6,
+			in:   []int{1, 2, 3, 4, 6, 8, 10},
+			want: 6,
 		},
 		{
-			input:    []int{1, 2},
-			expected: 0,
+			in:   []int{1, 2},
+			want: 0,
 		},
 		{
-			input:    []int{1, 2, 4, 5, 7},
-			expected: 0,
+			in:   []int{1, 2, 4, 5, 7},
+			want: 0,
 		},
 	}
-	for _, tc := range tests {
-		output := numberOfArithmeticSlices(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := numberOfArithmeticSlices(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

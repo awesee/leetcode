@@ -5,30 +5,30 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	input    int
-	expected []int
+type testType struct {
+	in   int
+	want []int
 }
 
 func TestGetRow(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    2,
-			expected: []int{1, 2, 1},
+			in:   2,
+			want: []int{1, 2, 1},
 		},
 		{
-			input:    3,
-			expected: []int{1, 3, 3, 1},
+			in:   3,
+			want: []int{1, 3, 3, 1},
 		},
 		{
-			input:    5,
-			expected: []int{1, 5, 10, 10, 5, 1},
+			in:   5,
+			want: []int{1, 5, 10, 10, 5, 1},
 		},
 	}
-	for _, tc := range tests {
-		output := getRow(tc.input)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := getRow(tt.in)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

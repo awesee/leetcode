@@ -2,30 +2,30 @@ package problem1021
 
 import "testing"
 
-type caseType struct {
-	input    string
-	expected string
+type testType struct {
+	in   string
+	want string
 }
 
 func TestRemoveOuterParentheses(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    "(()())(())",
-			expected: "()()()",
+			in:   "(()())(())",
+			want: "()()()",
 		},
 		{
-			input:    "(()())(())(()(()))",
-			expected: "()()()()(())",
+			in:   "(()())(())(()(()))",
+			want: "()()()()(())",
 		},
 		{
-			input:    "()()",
-			expected: "",
+			in:   "()()",
+			want: "",
 		},
 	}
-	for _, tc := range tests {
-		output := removeOuterParentheses(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := removeOuterParentheses(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

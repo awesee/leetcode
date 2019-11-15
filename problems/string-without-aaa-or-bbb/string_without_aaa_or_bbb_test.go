@@ -2,39 +2,39 @@ package problem984
 
 import "testing"
 
-type caseType struct {
-	a        int
-	b        int
-	expected string
+type testType struct {
+	a    int
+	b    int
+	want string
 }
 
 func TestStrWithout3a3b(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			a:        6,
-			b:        2,
-			expected: "aabaabaa",
+			a:    6,
+			b:    2,
+			want: "aabaabaa",
 		},
 		{
-			a:        2,
-			b:        6,
-			expected: "bbabbabb",
+			a:    2,
+			b:    6,
+			want: "bbabbabb",
 		},
 		{
-			a:        1,
-			b:        2,
-			expected: "bba",
+			a:    1,
+			b:    2,
+			want: "bba",
 		},
 		{
-			a:        4,
-			b:        1,
-			expected: "aabaa",
+			a:    4,
+			b:    1,
+			want: "aabaa",
 		},
 	}
-	for _, tc := range tests {
-		output := strWithout3a3b(tc.a, tc.b)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.a, tc.b, output, tc.expected)
+	for _, tt := range tests {
+		got := strWithout3a3b(tt.a, tt.b)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.a, tt.b, got, tt.want)
 		}
 	}
 }

@@ -2,26 +2,26 @@ package problem877
 
 import "testing"
 
-type caseType struct {
-	input    []int
-	expected bool
+type testType struct {
+	in   []int
+	want bool
 }
 
 func TestStoneGame(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    []int{5, 3, 4, 5},
-			expected: true,
+			in:   []int{5, 3, 4, 5},
+			want: true,
 		},
 		{
-			input:    []int{2, 5, 7, 3},
-			expected: true,
+			in:   []int{2, 5, 7, 3},
+			want: true,
 		},
 	}
-	for _, tc := range tests {
-		output := stoneGame(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := stoneGame(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

@@ -5,14 +5,14 @@ import (
 	"testing"
 )
 
-type caseType struct {
-	n        int
-	paths    [][]int
-	expected []int
+type testType struct {
+	n     int
+	paths [][]int
+	want  []int
 }
 
 func TestGardenNoAdj(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
 			n: 3,
 			paths: [][]int{
@@ -20,7 +20,7 @@ func TestGardenNoAdj(t *testing.T) {
 				{2, 3},
 				{3, 1},
 			},
-			expected: []int{1, 2, 3},
+			want: []int{1, 2, 3},
 		},
 		{
 			n: 4,
@@ -28,7 +28,7 @@ func TestGardenNoAdj(t *testing.T) {
 				{1, 2},
 				{3, 4},
 			},
-			expected: []int{1, 2, 1, 2},
+			want: []int{1, 2, 1, 2},
 		},
 		{
 			n: 4,
@@ -40,13 +40,13 @@ func TestGardenNoAdj(t *testing.T) {
 				{1, 3},
 				{2, 4},
 			},
-			expected: []int{1, 2, 3, 4},
+			want: []int{1, 2, 3, 4},
 		},
 	}
-	for _, tc := range tests {
-		output := gardenNoAdj(tc.n, tc.paths)
-		if !reflect.DeepEqual(output, tc.expected) {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.n, output, tc.expected)
+	for _, tt := range tests {
+		got := gardenNoAdj(tt.n, tt.paths)
+		if !reflect.DeepEqual(got, tt.want) {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.n, got, tt.want)
 		}
 	}
 }

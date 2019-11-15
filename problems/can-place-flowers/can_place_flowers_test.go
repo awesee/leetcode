@@ -2,69 +2,69 @@ package problem605
 
 import "testing"
 
-type caseType struct {
+type testType struct {
 	flowerbed []int
 	n         int
-	expected  bool
+	want      bool
 }
 
 func TestCanPlaceFlowers(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
 			flowerbed: []int{0, 1, 0, 0, 0, 0, 1, 0},
 			n:         2,
-			expected:  false,
+			want:      false,
 		},
 		{
 			flowerbed: []int{1, 0, 0, 0, 1},
 			n:         1,
-			expected:  true,
+			want:      true,
 		},
 		{
 			flowerbed: []int{1, 0, 0, 0, 1},
 			n:         2,
-			expected:  false,
+			want:      false,
 		},
 		{
 			flowerbed: []int{0, 0, 1, 0},
 			n:         1,
-			expected:  true,
+			want:      true,
 		},
 		{
 			flowerbed: []int{0, 1, 0, 0},
 			n:         1,
-			expected:  true,
+			want:      true,
 		},
 		{
 			flowerbed: []int{0, 1, 0, 0, 1, 0},
 			n:         1,
-			expected:  false,
+			want:      false,
 		},
 		{
 			flowerbed: []int{0, 0, 0, 0, 0},
 			n:         3,
-			expected:  true,
+			want:      true,
 		},
 		{
 			flowerbed: []int{0, 0},
 			n:         2,
-			expected:  false,
+			want:      false,
 		},
 		{
 			flowerbed: []int{0},
 			n:         1,
-			expected:  true,
+			want:      true,
 		},
 		{
 			flowerbed: []int{0, 1},
 			n:         1,
-			expected:  false,
+			want:      false,
 		},
 	}
-	for _, tc := range tests {
-		output := canPlaceFlowers(tc.flowerbed, tc.n)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.flowerbed, tc.n, output, tc.expected)
+	for _, tt := range tests {
+		got := canPlaceFlowers(tt.flowerbed, tt.n)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.flowerbed, tt.n, got, tt.want)
 		}
 	}
 }

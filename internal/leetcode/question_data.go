@@ -332,22 +332,22 @@ const testTpl = `package {{packageName}}
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected int
+type testType struct {
+	in   int
+	want int
 }
 
 func Test{{funcName}}(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    0,
-			expected: 0,
+			in:   0,
+			want: 0,
 		},
 	}
-	for _, tc := range tests {
-		output := 0
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := 0
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

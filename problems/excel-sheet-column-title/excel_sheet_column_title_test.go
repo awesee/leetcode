@@ -2,62 +2,62 @@ package problem168
 
 import "testing"
 
-type caseType struct {
-	input    int
-	expected string
+type testType struct {
+	in   int
+	want string
 }
 
 func TestConvertToTitle(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input:    1,
-			expected: "A",
+			in:   1,
+			want: "A",
 		},
 		{
-			input:    3,
-			expected: "C",
+			in:   3,
+			want: "C",
 		},
 		{
-			input:    26,
-			expected: "Z",
+			in:   26,
+			want: "Z",
 		},
 		{
-			input:    52,
-			expected: "AZ",
+			in:   52,
+			want: "AZ",
 		},
 		{
-			input:    27,
-			expected: "AA",
+			in:   27,
+			want: "AA",
 		},
 		{
-			input:    28,
-			expected: "AB",
+			in:   28,
+			want: "AB",
 		},
 		{
-			input:    701,
-			expected: "ZY",
+			in:   701,
+			want: "ZY",
 		},
 		{
-			input:    703,
-			expected: "AAA",
+			in:   703,
+			want: "AAA",
 		},
 		{
-			input:    16900,
-			expected: "XYZ",
+			in:   16900,
+			want: "XYZ",
 		},
 	}
 	// Solution 1
-	for _, tc := range tests {
-		output := convertToTitle(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := convertToTitle(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 	// Solution 2
-	for _, tc := range tests {
-		output := convertToTitle2(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := convertToTitle2(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }

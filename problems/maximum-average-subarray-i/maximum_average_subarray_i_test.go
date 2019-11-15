@@ -2,24 +2,24 @@ package problem643
 
 import "testing"
 
-type caseType struct {
-	nums     []int
-	k        int
-	expected float64
+type testType struct {
+	nums []int
+	k    int
+	want float64
 }
 
 func TestFindMaxAverage(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			nums:     []int{1, 12, -5, -6, 50, 3},
-			k:        4,
-			expected: 12.75,
+			nums: []int{1, 12, -5, -6, 50, 3},
+			k:    4,
+			want: 12.75,
 		},
 	}
-	for _, tc := range tests {
-		output := findMaxAverage(tc.nums, tc.k)
-		if output != tc.expected {
-			t.Fatalf("input: %v %v, output: %v, expected: %v", tc.nums, tc.k, output, tc.expected)
+	for _, tt := range tests {
+		got := findMaxAverage(tt.nums, tt.k)
+		if got != tt.want {
+			t.Fatalf("in: %v %v, got: %v, want: %v", tt.nums, tt.k, got, tt.want)
 		}
 	}
 }

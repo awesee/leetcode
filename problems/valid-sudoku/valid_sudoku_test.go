@@ -2,15 +2,15 @@ package problem36
 
 import "testing"
 
-type caseType struct {
-	input    [][]byte
-	expected bool
+type testType struct {
+	in   [][]byte
+	want bool
 }
 
 func TestIsValidSudoku(t *testing.T) {
-	tests := [...]caseType{
+	tests := [...]testType{
 		{
-			input: [][]byte{
+			in: [][]byte{
 				{'5', '3', '.', '.', '7', '.', '.', '.', '.'},
 				{'6', '.', '.', '1', '9', '5', '.', '.', '.'},
 				{'.', '9', '8', '.', '.', '.', '.', '6', '.'},
@@ -21,10 +21,10 @@ func TestIsValidSudoku(t *testing.T) {
 				{'.', '.', '.', '4', '1', '9', '.', '.', '5'},
 				{'.', '.', '.', '.', '8', '.', '.', '7', '9'},
 			},
-			expected: true,
+			want: true,
 		},
 		{
-			input: [][]byte{
+			in: [][]byte{
 				{'5', '3', '6', '.', '7', '.', '.', '.', '.'},
 				{'6', '.', '.', '1', '9', '5', '.', '.', '.'},
 				{'.', '9', '8', '.', '.', '.', '.', '6', '.'},
@@ -35,10 +35,10 @@ func TestIsValidSudoku(t *testing.T) {
 				{'.', '.', '.', '4', '1', '9', '.', '.', '5'},
 				{'.', '.', '.', '.', '8', '.', '.', '7', '9'},
 			},
-			expected: false,
+			want: false,
 		},
 		{
-			input: [][]byte{
+			in: [][]byte{
 				{'8', '3', '.', '.', '7', '.', '.', '.', '.'},
 				{'6', '.', '.', '1', '9', '5', '.', '.', '.'},
 				{'.', '9', '8', '.', '.', '.', '.', '6', '.'},
@@ -49,10 +49,10 @@ func TestIsValidSudoku(t *testing.T) {
 				{'.', '.', '.', '4', '1', '9', '.', '.', '5'},
 				{'.', '.', '.', '.', '8', '.', '.', '7', '9'},
 			},
-			expected: false,
+			want: false,
 		},
 		{
-			input: [][]byte{
+			in: [][]byte{
 				{'8', '3', '.', '.', '3', '.', '.', '.', '.'},
 				{'6', '.', '.', '1', '9', '5', '.', '.', '.'},
 				{'.', '9', '2', '.', '.', '.', '.', '6', '.'},
@@ -63,10 +63,10 @@ func TestIsValidSudoku(t *testing.T) {
 				{'.', '.', '.', '4', '1', '9', '.', '.', '5'},
 				{'.', '.', '.', '.', '8', '.', '.', '7', '9'},
 			},
-			expected: false,
+			want: false,
 		},
 		{
-			input: [][]byte{
+			in: [][]byte{
 				{'8', '3', '.', '.', '3', '.', '.', '.', '.'},
 				{'6', '.', '.', '1', '9', '5', '.', '.', '.'},
 				{'.', '8', '2', '.', '.', '.', '.', '6', '.'},
@@ -77,14 +77,14 @@ func TestIsValidSudoku(t *testing.T) {
 				{'.', '.', '.', '4', '1', '9', '.', '.', '5'},
 				{'.', '.', '.', '.', '8', '.', '.', '7', '9'},
 			},
-			expected: false,
+			want: false,
 		},
 	}
 
-	for _, tc := range tests {
-		output := isValidSudoku(tc.input)
-		if output != tc.expected {
-			t.Fatalf("input: %v, output: %v, expected: %v", tc.input, output, tc.expected)
+	for _, tt := range tests {
+		got := isValidSudoku(tt.in)
+		if got != tt.want {
+			t.Fatalf("in: %v, got: %v, want: %v", tt.in, got, tt.want)
 		}
 	}
 }
