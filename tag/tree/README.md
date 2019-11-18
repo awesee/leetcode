@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1261 | [在受污染的二叉树中查找元素](https://github.com/openset/leetcode/tree/master/problems/find-elements-in-a-contaminated-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
+| 1257 | [最小公共区域](https://github.com/openset/leetcode/tree/master/problems/smallest-common-region) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]  | Medium |
 | 1245 | [树的直径](https://github.com/openset/leetcode/tree/master/problems/tree-diameter) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
 | 1145 | [二叉树着色游戏](https://github.com/openset/leetcode/tree/master/problems/binary-tree-coloring-game) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]  | Medium |
 | 1130 | [叶值的最小代价生成树](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-tree-from-leaf-values) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |

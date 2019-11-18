@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1263 | [推箱子](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-move-a-box-to-their-target-location) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Hard |
 | 1245 | [树的直径](https://github.com/openset/leetcode/tree/master/problems/tree-diameter) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
 | 1242 | [多线程网页爬虫](https://github.com/openset/leetcode/tree/master/problems/web-crawler-multithreaded) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |
 | 1236 | [Web Crawler](https://github.com/openset/leetcode/tree/master/problems/web-crawler) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |

@@ -62,6 +62,14 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1263">1263</span> | [Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location "推箱子") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-move-a-box-to-their-target-location) | Hard |
+| <span id="1262">1262</span> | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three "可被三整除的最大和") | [Go](https://github.com/openset/leetcode/tree/master/problems/greatest-sum-divisible-by-three) | Medium |
+| <span id="1261">1261</span> | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree "在受污染的二叉树中查找元素") | [Go](https://github.com/openset/leetcode/tree/master/problems/find-elements-in-a-contaminated-binary-tree) | Medium |
+| <span id="1260">1260</span> | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid "二维网格迁移") | [Go](https://github.com/openset/leetcode/tree/master/problems/shift-2d-grid) | Easy |
+| <span id="1259">1259</span> | [Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross "不相交的握手") | [Go](https://github.com/openset/leetcode/tree/master/problems/handshakes-that-dont-cross) | Hard |
+| <span id="1258">1258</span> | [Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences "近义词句子") | [Go](https://github.com/openset/leetcode/tree/master/problems/synonymous-sentences) | Medium |
+| <span id="1257">1257</span> | [Smallest Common Region](https://leetcode.com/problems/smallest-common-region "最小公共区域") | [Go](https://github.com/openset/leetcode/tree/master/problems/smallest-common-region) | Medium |
+| <span id="1256">1256</span> | [Encode Number](https://leetcode.com/problems/encode-number "加密数字") | [Go](https://github.com/openset/leetcode/tree/master/problems/encode-number) | Medium |
 | <span id="1255">1255</span> | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters "得分最高的单词集合") | [Go](https://github.com/openset/leetcode/tree/master/problems/maximum-score-words-formed-by-letters) | Hard |
 | <span id="1254">1254</span> | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands "统计封闭岛屿的数目") | [Go](https://github.com/openset/leetcode/tree/master/problems/number-of-closed-islands) | Medium |
 | <span id="1253">1253</span> | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix "重构 2 行二进制矩阵") | [Go](https://github.com/openset/leetcode/tree/master/problems/reconstruct-a-2-row-binary-matrix) | Medium |

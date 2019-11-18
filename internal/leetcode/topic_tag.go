@@ -30,21 +30,19 @@ type TagType struct {
 func (tag *TagType) SaveContents() {
 	questions := GetTopicTag(tag.Slug).Data.TopicTag.Questions
 	sort.Slice(questions, func(i, j int) bool {
-		m, _ := strconv.Atoi(questions[i].QuestionFrontendID)
-		n, _ := strconv.Atoi(questions[j].QuestionFrontendID)
-		return m > n
+		return questions[i].frontendID() > questions[j].frontendID()
 	})
 	var buf bytes.Buffer
 	buf.WriteString(authInfo("tag"))
 	buf.WriteString(fmt.Sprintf("\n## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > %s\n\n", tag.name()))
 	buf.WriteString("| # | 题名 | 标签 | 难度 |\n")
 	buf.WriteString("| :-: | - | - | :-: |\n")
-	format := "| %s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s)%s | %s | %s |\n"
+	format := "| %d | [%s](https://github.com/openset/leetcode/tree/master/problems/%s)%s | %s | %s |\n"
 	for _, question := range questions {
 		if question.TranslatedTitle == "" {
 			question.TranslatedTitle = question.Title
 		}
-		buf.WriteString(fmt.Sprintf(format, question.QuestionFrontendID, question.TranslatedTitle, question.TitleSlug, question.IsPaidOnly.Str(), question.TagsStr(), question.Difficulty))
+		buf.WriteString(fmt.Sprintf(format, question.frontendID(), question.TranslatedTitle, question.TitleSlug, question.IsPaidOnly.Str(), question.TagsStr(), question.Difficulty))
 	}
 	filename := filepath.Join("tag", tag.Slug, "README.md")
 	filePutContents(filename, buf.Bytes())
@@ -93,6 +91,15 @@ func (question *ttQuestionType) TagsStr() string {
 	}
 	saveTags(question.TopicTags)
 	return buf.String()
+}
+
+func (question *ttQuestionType) frontendID() int {
+	id := titleSlugID[question.TitleSlug]
+	if id != 0 {
+		return id
+	}
+	id, _ = strconv.Atoi(question.QuestionFrontendID)
+	return id
 }
 
 // GetTags - leetcode.GetTags

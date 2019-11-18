@@ -49,3 +49,4 @@
 
 ### Similar Questions
   1. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-search-tree) (Easy)
+  1. [Smallest Common Region](https://github.com/openset/leetcode/tree/master/problems/smallest-common-region) (Medium)

@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-closed-islands "Number of Closed Islands")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/encode-number "Encode Number")
 
 ## [1255. Maximum Score Words Formed by Letters (Hard)](https://leetcode.com/problems/maximum-score-words-formed-by-letters "得分最高的单词集合")
 

@@ -127,8 +127,8 @@ func (question *questionType) getDescContent() []byte {
 	var buf bytes.Buffer
 	buf.WriteString(authInfo("description"))
 	buf.WriteString(question.getNavigation())
-	buf.WriteString(fmt.Sprintf("\n## [%s. %s%s](%s \"%s\")\n\n",
-		question.QuestionFrontendID,
+	buf.WriteString(fmt.Sprintf("\n## [%d. %s%s](%s \"%s\")\n\n",
+		question.FrontendID(),
 		question.Title,
 		question.Difficulty.Str(),
 		question.LeetCodeURL(),
@@ -149,6 +149,15 @@ func (question *questionType) getDescContent() []byte {
 
 func (question *questionType) questionID() int {
 	id, _ := strconv.Atoi(question.QuestionID)
+	return id
+}
+
+func (question *questionType) FrontendID() int {
+	id := titleSlugID[question.TitleSlug]
+	if id != 0 {
+		return id
+	}
+	id, _ = strconv.Atoi(question.QuestionFrontendID)
 	return id
 }
 
