@@ -15,23 +15,35 @@
 
 <p>The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.</p>
 
-<p>For example, given a <code>3-ary</code> tree:</p>
-&nbsp;
+<p><em>Nary-Tree input serialization&nbsp;is represented in their level order traversal, each group of children is separated by the null value (See examples).</em></p>
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
 
 <p><img src="https://assets.leetcode.com/uploads/2018/10/12/narytreeexample.png" style="width: 100%; max-width: 300px;" /></p>
 
+<pre>
+<strong>Input:</strong> root = [1,null,3,2,4,null,5,6]
+<strong>Output:</strong> 3
+<strong>Explanation:</strong> Representation of 3-ary tree.
+</pre>
+
+<p><strong>Example 2:</strong></p>
+
+<p><img alt="" src="https://assets.leetcode.com/uploads/2019/11/08/sample_4_964.png" style="width: 296px; height: 241px;" /></p>
+
+<pre>
+<strong>Input:</strong> root = [1,null,2,3,4,5,null,null,6,7,null,8,null,9,10,null,null,11,null,12,null,13,null,null,14]
+<strong>Output:</strong> 5
+</pre>
+
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p>We should return its max depth, which is 3.</p>
-
-<p>&nbsp;</p>
-
-<p><b>Note:</b></p>
-
-<ol>
-	<li>The depth of the tree is at most <code>1000</code>.</li>
-	<li>The total number of nodes is at most <code>5000</code>.</li>
-</ol>
+<ul>
+	<li>The depth of the n-ary tree is less than or equal to <code>1000</code>.</li>
+	<li>The total number of nodes is between <code>[0,&nbsp;10^4]</code>.</li>
+</ul>
 
 ### Related Topics
   [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]

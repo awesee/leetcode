@@ -22,6 +22,7 @@ var (
 	jsonIndent      = base.JSONIndent
 	LockStr         = " 🔒"
 	translationSet  = make(map[int]string)
+	titleSlugID     = make(map[string]int)
 )
 
 // Clean - leetcode.Clean

@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1261 | [在受污染的二叉树中查找元素](https://github.com/openset/leetcode/tree/master/problems/find-elements-in-a-contaminated-binary-tree) | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 1244 | [力扣排行榜](https://github.com/openset/leetcode/tree/master/problems/design-a-leaderboard) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 1224 | [最大相等频率](https://github.com/openset/leetcode/tree/master/problems/maximum-equal-frequency) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |
 | 1213 | [三个有序数组的交集](https://github.com/openset/leetcode/tree/master/problems/intersection-of-three-sorted-arrays) 🔒 | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |

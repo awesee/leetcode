@@ -79,7 +79,7 @@ func runPost(cmd *base.Command, args []string) {
 				strings.Join(tags, ", "),
 				question.TitleSlug,
 			))
-			buf.WriteString(fmt.Sprintf("\n## %s. %s%s\n\n", question.QuestionFrontendID, question.TranslatedTitle, question.Difficulty.Str()))
+			buf.WriteString(fmt.Sprintf("\n## %d. %s%s\n\n", question.FrontendID(), question.TranslatedTitle, question.Difficulty.Str()))
 			buf.WriteString("{% raw %}\n\n")
 			content := strings.ReplaceAll(question.TranslatedContent, "\r", "")
 			// remove style

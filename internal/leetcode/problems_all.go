@@ -107,3 +107,10 @@ func ProblemsAll() (ps ProblemsType) {
 	})
 	return
 }
+
+func init() {
+	questions := ProblemsAll().StatStatusPairs
+	for _, item := range questions {
+		titleSlugID[item.Stat.QuestionTitleSlug] = item.Stat.FrontendQuestionID
+	}
+}

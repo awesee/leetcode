@@ -54,7 +54,7 @@ CandidateId is the id appeared in Candidate table.
 <p><b>Notes:</b></p>
 
 <ol>
-	<li>You may assume <b>there is no tie</b>, in other words there will be <b>at most one</b> winning candidate.</li>
+	<li>You may assume <b>there is no tie</b>, in other words there will be <b>only one</b> winning candidate.</li>
 </ol>
 
 <p>&nbsp;</p>
