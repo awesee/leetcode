@@ -7,18 +7,18 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/greatest-sum-divisible-by-three "Greatest Sum Divisible by Three")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/page-recommendations "Page Recommendations")
 
 ## [1263. Minimum Moves to Move a Box to Their Target Location (Hard)](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location "推箱子")
 
-<p>Storekeeper is a&nbsp;game, in which the player pushes boxes around in a warehouse, trying to get them to target locations.</p>
+<p>Storekeeper is a&nbsp;game&nbsp;in which the player pushes boxes around in a warehouse&nbsp;trying to get them to target locations.</p>
 
-<p>The game is represented by a <code>grid</code> of size&nbsp;<code>n<font face="sans-serif, Arial, Verdana, Trebuchet MS">*</font></code><code>m</code>, where each element is a wall, floor&nbsp;or a box.</p>
+<p>The game is represented by a <code>grid</code> of size&nbsp;<code>n<font face="sans-serif, Arial, Verdana, Trebuchet MS">*</font></code><code>m</code>, where each element is a wall, floor, or a box.</p>
 
 <p>Your task is move the box <code>&#39;B&#39;</code> to the target position <code>&#39;T&#39;</code> under the following rules:</p>
 
 <ul>
-	<li>Player is represented by character <code>&#39;S&#39;</code>&nbsp;and&nbsp;can move up, down, left, right in the <code>grid</code> if its a floor (empy cell).</li>
+	<li>Player is represented by character <code>&#39;S&#39;</code>&nbsp;and&nbsp;can move up, down, left, right in the <code>grid</code> if it is a floor (empy cell).</li>
 	<li>Floor is represented by character <code>&#39;.&#39;</code> that means free cell to walk.</li>
 	<li>Wall is represented by character <code>&#39;#&#39;</code> that means obstacle&nbsp;&nbsp;(impossible to walk there).&nbsp;</li>
 	<li>There is only one box <code>&#39;B&#39;</code> and one&nbsp;target cell <code>&#39;T&#39;</code> in the <code>grid</code>.</li>

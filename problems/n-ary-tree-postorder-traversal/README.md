@@ -29,7 +29,6 @@
 <pre>
 <strong>Input:</strong> root = [1,null,3,2,4,null,5,6]
 <strong>Output:</strong> [5,6,3,2,4,1]
-<strong>Explanation:</strong> Representation of 3-ary tree.
 </pre>
 
 <p><strong>Example 2:</strong></p>

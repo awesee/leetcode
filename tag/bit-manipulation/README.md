@@ -9,7 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1256 | [加密数字](https://github.com/openset/leetcode/tree/master/problems/encode-number) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
+| 1256 | [加密数字](https://github.com/openset/leetcode/tree/master/problems/encode-number) 🔒 | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 1255 | [得分最高的单词集合](https://github.com/openset/leetcode/tree/master/problems/maximum-score-words-formed-by-letters) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]  | Hard |
 | 1239 | [串联字符串的最大长度](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
 | 1178 | [猜字谜](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-words-for-each-puzzle) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Hard |

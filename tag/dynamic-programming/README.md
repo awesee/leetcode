@@ -9,8 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1269 | [停在原地的方案数](https://github.com/openset/leetcode/tree/master/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1262 | [可被三整除的最大和](https://github.com/openset/leetcode/tree/master/problems/greatest-sum-divisible-by-three) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
-| 1259 | [不相交的握手](https://github.com/openset/leetcode/tree/master/problems/handshakes-that-dont-cross) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
+| 1259 | [不相交的握手](https://github.com/openset/leetcode/tree/master/problems/handshakes-that-dont-cross) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1246 | [删除回文子数组](https://github.com/openset/leetcode/tree/master/problems/palindrome-removal) 🔒 | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1240 | [铺瓷砖](https://github.com/openset/leetcode/tree/master/problems/tiling-a-rectangle-with-the-fewest-squares) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Hard |
 | 1235 | [规划兼职工作](https://github.com/openset/leetcode/tree/master/problems/maximum-profit-in-job-scheduling) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |

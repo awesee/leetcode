@@ -53,4 +53,4 @@ With each iteration one element (red) is removed from the input data and inserte
 
 ### Similar Questions
   1. [Sort List](https://github.com/openset/leetcode/tree/master/problems/sort-list) (Medium)
-  1. [Insert into a Cyclic Sorted List](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-cyclic-sorted-list) (Medium)
+  1. [Insert into a Sorted Circular Linked List](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-sorted-circular-linked-list) (Medium)

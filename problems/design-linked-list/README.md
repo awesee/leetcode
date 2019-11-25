@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/design-hashmap "Design HashMap")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-cyclic-sorted-list "Insert into a Cyclic Sorted List")
+[Next >](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-sorted-circular-linked-list "Insert into a Sorted Circular Linked List")
 
 ## [707. Design Linked List (Medium)](https://leetcode.com/problems/design-linked-list "设计链表")
 
