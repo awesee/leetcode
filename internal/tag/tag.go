@@ -17,6 +17,7 @@ var CmdTag = &base.Command{
 	UsageLine: "tag",
 	Short:     "build all tags file",
 	Long:      "build all tags README.md file.",
+	Hidden:    true,
 }
 
 func runTag(cmd *base.Command, args []string) {

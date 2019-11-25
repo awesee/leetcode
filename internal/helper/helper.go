@@ -14,6 +14,7 @@ var CmdHelper = &base.Command{
 	UsageLine: "helper",
 	Short:     "build helper file",
 	Long:      "build helper README.md file.",
+	Hidden:    true,
 }
 
 func runHelper(cmd *base.Command, args []string) {

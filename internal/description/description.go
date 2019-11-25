@@ -15,6 +15,7 @@ var CmdDescription = &base.Command{
 	UsageLine: "description",
 	Short:     "build all problems description file",
 	Long:      "build all problems README.md file.",
+	Hidden:    true,
 }
 
 func runDescription(cmd *base.Command, args []string) {

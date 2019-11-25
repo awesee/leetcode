@@ -31,6 +31,7 @@ var CmdReadme = &base.Command{
 	UsageLine: "readme",
 	Short:     "build README.md file",
 	Long:      "build README.md file.",
+	Hidden:    true,
 }
 
 var (
