@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-cyclic-sorted-list "Insert into a Cyclic Sorted List")
+[< Previous](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-sorted-circular-linked-list "Insert into a Sorted Circular Linked List")
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-blacklist "Random Pick with Blacklist")
 

@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1267 | [统计参与通信的服务器](https://github.com/openset/leetcode/tree/master/problems/count-servers-that-communicate) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
+| 1266 | [访问所有点的最小时间](https://github.com/openset/leetcode/tree/master/problems/minimum-time-visiting-all-points) | [[几何](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1260 | [二维网格迁移](https://github.com/openset/leetcode/tree/master/problems/shift-2d-grid) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1252 | [奇数值单元格的数目](https://github.com/openset/leetcode/tree/master/problems/cells-with-odd-values-in-a-matrix) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1243 | [数组变换](https://github.com/openset/leetcode/tree/master/problems/array-transformation) 🔒 | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |

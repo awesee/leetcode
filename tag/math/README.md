@@ -9,8 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1259 | [不相交的握手](https://github.com/openset/leetcode/tree/master/problems/handshakes-that-dont-cross) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
-| 1256 | [加密数字](https://github.com/openset/leetcode/tree/master/problems/encode-number) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
+| 1259 | [不相交的握手](https://github.com/openset/leetcode/tree/master/problems/handshakes-that-dont-cross) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
+| 1256 | [加密数字](https://github.com/openset/leetcode/tree/master/problems/encode-number) 🔒 | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 1253 | [重构 2 行二进制矩阵](https://github.com/openset/leetcode/tree/master/problems/reconstruct-a-2-row-binary-matrix) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 1250 | [检查「好数组」](https://github.com/openset/leetcode/tree/master/problems/check-if-it-is-a-good-array) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Hard |
 | 1238 | [循环码排列](https://github.com/openset/leetcode/tree/master/problems/circular-permutation-in-binary-representation) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
