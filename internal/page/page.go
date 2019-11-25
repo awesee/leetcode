@@ -12,6 +12,7 @@ var CmdPage = &base.Command{
 	UsageLine: "page",
 	Short:     "build index.md file",
 	Long:      "build page file(index.md).",
+	Hidden:    true,
 }
 
 func runPage(cmd *base.Command, args []string) {

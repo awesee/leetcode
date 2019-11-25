@@ -13,14 +13,9 @@ leetcode is a tool for managing leetcode source code.
 Usage:
 	leetcode <command> [arguments]
 The commands are:
-	readme      	build README.md file
-	page        	build index.md file
-	tag         	build all tags file
-	helper      	build helper file
 	question    	build problem solution file
 	open        	open a problem solution in browser
 	test        	run go test
-	description 	build all problems description file
 	update      	update or upgrade self
 	clean       	remove cached files
 	version     	print leetcode version
