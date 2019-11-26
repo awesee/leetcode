@@ -22,20 +22,22 @@ func runQuestion(cmd *base.Command, args []string) {
 		cmd.Usage()
 		return
 	}
-	if id, err := strconv.Atoi(args[0]); err == nil {
-		problems := leetcode.ProblemsAll()
-		for _, problem := range problems.StatStatusPairs {
-			if problem.Stat.FrontendQuestionID == id {
-				fmt.Println(id, "\t"+problem.Stat.QuestionTitle)
-				titleSlug := problem.Stat.QuestionTitleSlug
-				question := leetcode.QuestionData(titleSlug, true).Data.Question
-				if question.Content == "" && problem.PaidOnly == true && problem.Stat.QuestionArticleLive {
-					question.Content = leetcode.GetDescription(problem.Stat.QuestionArticleSlug)
-				}
-				question.SaveContent()
-				question.SaveCodeSnippet()
-				return
+	id, err := strconv.Atoi(args[0])
+	if err != nil {
+		return
+	}
+	problems := leetcode.ProblemsAll()
+	for _, problem := range problems.StatStatusPairs {
+		if problem.Stat.FrontendQuestionID == id {
+			fmt.Println(id, "\t"+problem.Stat.QuestionTitle)
+			titleSlug := problem.Stat.QuestionTitleSlug
+			question := leetcode.QuestionData(titleSlug, true).Data.Question
+			if question.Content == "" && problem.PaidOnly == true && problem.Stat.QuestionArticleLive {
+				question.Content = leetcode.GetDescription(problem.Stat.QuestionArticleSlug)
 			}
+			question.SaveContent()
+			question.SaveCodeSnippet()
+			return
 		}
 	}
 }

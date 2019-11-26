@@ -49,7 +49,7 @@ func main() {
 		return
 	}
 	args := flag.Args()
-	cmdName := args[0]
+	cmdName := flag.Arg(0)
 	for _, cmd := range base.Commands {
 		if cmd.Name() == cmdName {
 			cmd.Run(cmd, args[1:])
