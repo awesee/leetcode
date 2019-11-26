@@ -11,7 +11,30 @@
 
 ## [571. Find Median Given Frequency of Numbers (Hard)](https://leetcode.com/problems/find-median-given-frequency-of-numbers "给定数字的频率查询中位数")
 
+<p>The <code>Numbers</code> table keeps the value of number and its frequency.</p>
 
+<pre>
++----------+-------------+
+|  Number  |  Frequency  |
++----------+-------------|
+|  0       |  7          |
+|  1       |  1          |
+|  2       |  3          |
+|  3       |  1          |
++----------+-------------+
+</pre>
+
+<p>In this table, the numbers are <code>0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 3</code>, so the median is <code>(0 + 0) / 2 = 0</code>.</p>
+
+<pre>
++--------+
+| median |
++--------|
+| 0.0000 |
++--------+
+</pre>
+
+<p>Write a query to find the median of all numbers and name the result as <code>median</code>.</p>
 
 ### Similar Questions
   1. [Median Employee Salary](https://github.com/openset/leetcode/tree/master/problems/median-employee-salary) (Hard)
