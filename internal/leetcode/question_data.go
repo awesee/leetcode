@@ -224,6 +224,25 @@ func (question *questionType) RenamePackageName() {
 	}
 }
 
+func (question *questionType) Restore() {
+	filename := question.getFilePath("README.md")
+	body := fileGetContents(filename)
+	pattern := `## [^\n]+\n\n([\S\s]+)`
+	if bytes.Contains(body, []byte("\n### ")) {
+		pattern = `## [^\n]+\n\n([\S\s]+?)\n### `
+	}
+	reg := regexp.MustCompile(pattern)
+	matches := reg.FindSubmatch(body)
+	if len(matches) >= 2 {
+		return
+	}
+	question.Content = string(matches[1])
+	name := fmt.Sprintf(questionDataFile, question.TitleSnake())
+	filePutContents(getCachePath(name), jsonEncode(QuestionDataType{
+		Data: dataType{Question: *question},
+	}))
+}
+
 func (question *questionType) getSimilarQuestion() []byte {
 	sq := question.GetSimilarQuestion()
 	var buf bytes.Buffer

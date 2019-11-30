@@ -62,6 +62,7 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1270">1270</span> | [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/all-people-report-to-the-given-manager) | Medium |
 | <span id="1269">1269</span> | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps "停在原地的方案数") | [Go](https://github.com/openset/leetcode/tree/master/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) | Hard |
 | <span id="1268">1268</span> | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system "搜索推荐系统") | [Go](https://github.com/openset/leetcode/tree/master/problems/search-suggestions-system) | Medium |
 | <span id="1267">1267</span> | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate "统计参与通信的服务器") | [Go](https://github.com/openset/leetcode/tree/master/problems/count-servers-that-communicate) | Medium |
