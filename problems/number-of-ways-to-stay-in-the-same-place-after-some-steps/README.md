@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/search-suggestions-system "Search Suggestions System")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/all-people-report-to-the-given-manager "All People Report to the Given Manager")
 
 ## [1269. Number of Ways to Stay in the Same Place After Some Steps (Hard)](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps "停在原地的方案数")
 

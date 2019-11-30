@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](https://github.com/openset/leetcode/tree/master/problems/two-sum-iii-data-structure-design "Two Sum III - Data structure design")
 
-## [169. Majority Element (Easy)](https://leetcode.com/problems/majority-element "求众数")
+## [169. Majority Element (Easy)](https://leetcode.com/problems/majority-element "多数元素")
 
 <p>Given an array of size <i>n</i>, find the majority element. The majority element is the element that appears <b>more than</b> <code>&lfloor; n/2 &rfloor;</code> times.</p>
 
