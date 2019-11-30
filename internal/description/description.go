@@ -3,6 +3,7 @@ package description
 
 import (
 	"fmt"
+	"runtime"
 	"sync"
 
 	"github.com/openset/leetcode/internal/base"
@@ -25,7 +26,7 @@ func runDescription(cmd *base.Command, args []string) {
 	}
 	var wg sync.WaitGroup
 	jobs := make(chan leetcode.StatStatusPairsType)
-	for i := 0; i < 1<<7; i++ {
+	for i := 0; i < 1<<runtime.NumCPU(); i++ {
 		go worker(jobs, &wg)
 	}
 	problems := leetcode.ProblemsAll()
