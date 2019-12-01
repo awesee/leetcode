@@ -62,6 +62,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1274">1274</span> | [Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle "矩形内船只的数目") | [Go](https://github.com/openset/leetcode/tree/master/problems/number-of-ships-in-a-rectangle) | Hard |
+| <span id="1273">1273</span> | [Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes "删除树节点") | [Go](https://github.com/openset/leetcode/tree/master/problems/delete-tree-nodes) | Medium |
+| <span id="1272">1272</span> | [Remove Interval](https://leetcode.com/problems/remove-interval "删除区间") | [Go](https://github.com/openset/leetcode/tree/master/problems/remove-interval) | Medium |
+| <span id="1271">1271</span> | [Hexspeak](https://leetcode.com/problems/hexspeak "十六进制魔术数字") | [Go](https://github.com/openset/leetcode/tree/master/problems/hexspeak) | Easy |
 | <span id="1270">1270</span> | [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/all-people-report-to-the-given-manager) | Medium |
 | <span id="1269">1269</span> | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps "停在原地的方案数") | [Go](https://github.com/openset/leetcode/tree/master/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) | Hard |
 | <span id="1268">1268</span> | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system "搜索推荐系统") | [Go](https://github.com/openset/leetcode/tree/master/problems/search-suggestions-system) | Medium |
