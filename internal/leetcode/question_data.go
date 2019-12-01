@@ -92,7 +92,7 @@ func (question *questionType) LeetCodeURL() string {
 }
 
 func (question *questionType) PackageName() string {
-	return "problem" + question.QuestionFrontendID
+	return fmt.Sprintf("problem%d", question.FrontendID())
 }
 
 func (question *questionType) SaveCodeSnippet() {
