@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1271 | [十六进制魔术数字](https://github.com/openset/leetcode/tree/master/problems/hexspeak) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |
 | 1268 | [搜索推荐系统](https://github.com/openset/leetcode/tree/master/problems/search-suggestions-system) | [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 1249 | [移除无效的括号](https://github.com/openset/leetcode/tree/master/problems/minimum-remove-to-make-valid-parentheses) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
 | 1247 | [交换字符使得字符串相同](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-make-strings-equal) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
