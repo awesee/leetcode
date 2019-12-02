@@ -9,6 +9,9 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1278 | [分割回文串 III](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-iii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
+| 1277 | [统计全为 1 的正方形子矩阵](https://github.com/openset/leetcode/tree/master/problems/count-square-submatrices-with-all-ones) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
+| 1273 | [删除树节点](https://github.com/openset/leetcode/tree/master/problems/delete-tree-nodes) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1269 | [停在原地的方案数](https://github.com/openset/leetcode/tree/master/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1262 | [可被三整除的最大和](https://github.com/openset/leetcode/tree/master/problems/greatest-sum-divisible-by-three) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1259 | [不相交的握手](https://github.com/openset/leetcode/tree/master/problems/handshakes-that-dont-cross) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |

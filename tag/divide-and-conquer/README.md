@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1274 | [矩形内船只的数目](https://github.com/openset/leetcode/tree/master/problems/number-of-ships-in-a-rectangle) | [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Hard |
 | 973 | [最接近原点的 K 个点](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Medium |
 | 932 | [漂亮数组](https://github.com/openset/leetcode/tree/master/problems/beautiful-array) | [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Medium |
 | 903 | [DI 序列的有效排列](https://github.com/openset/leetcode/tree/master/problems/valid-permutations-for-di-sequence) | [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
