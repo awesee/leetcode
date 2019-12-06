@@ -19,22 +19,22 @@
 
 <p>We are given a list <code>A</code> of strings.&nbsp; Every string in <code>A</code> is an anagram of every other string in <code>A</code>.&nbsp; How many groups are there?</p>
 
+<p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
+<pre><strong>Input:</strong> A = ["tars","rats","arts","star"]
+<strong>Output:</strong> 2
+</pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<pre>
-<strong>Input: </strong>[&quot;tars&quot;,&quot;rats&quot;,&quot;arts&quot;,&quot;star&quot;]
-<strong>Output: </strong>2</pre>
-
-<p><strong>Note:</strong></p>
-
-<ol>
-	<li><code>A.length &lt;= 2000</code></li>
-	<li><code>A[i].length &lt;= 1000</code></li>
+<ul>
+	<li><code>1 &lt;= A.length &lt;= 2000</code></li>
+	<li><code>1 &lt;= A[i].length &lt;= 1000</code></li>
 	<li><code>A.length * A[i].length &lt;= 20000</code></li>
 	<li>All words in <code>A</code>&nbsp;consist of lowercase letters only.</li>
 	<li>All words in <code>A</code> have the same length and are anagrams of each other.</li>
 	<li>The judging time limit has been increased for this question.</li>
-</ol>
+</ul>
 
 ### Related Topics
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]

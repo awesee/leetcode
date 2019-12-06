@@ -11,14 +11,14 @@
 
 ## [1260. Shift 2D Grid (Easy)](https://leetcode.com/problems/shift-2d-grid "二维网格迁移")
 
-<p>Given a 2D <code>grid</code> of size <code>n</code> * <code>m</code>&nbsp;and an integer <code>k</code>. You need to shift the <code>grid</code>&nbsp;<code>k</code> times.</p>
+<p>Given a 2D <code>grid</code> of size <code>m x n</code>&nbsp;and an integer <code>k</code>. You need to shift the <code>grid</code>&nbsp;<code>k</code> times.</p>
 
 <p>In one shift operation:</p>
 
 <ul>
 	<li>Element at <code>grid[i][j]</code> becomes at <code>grid[i][j + 1]</code>.</li>
-	<li>Element at <code>grid[i][m - 1]</code> becomes at <code>grid[i + 1][0]</code>.</li>
-	<li>Element at <code>grid[n - 1][m - 1]</code> becomes at <code>grid[0][0]</code>.</li>
+	<li>Element at <code>grid[i][n - 1]</code> becomes at <code>grid[i + 1][0]</code>.</li>
+	<li>Element at <code>grid[n - 1][n - 1]</code> becomes at <code>grid[0][0]</code>.</li>
 </ul>
 
 <p>Return the <em>2D grid</em> after applying shift operation <code>k</code> times.</p>
@@ -49,8 +49,10 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= grid.length &lt;= 50</code></li>
-	<li><code>1 &lt;= grid[i].length &lt;= 50</code></li>
+	<li><code>m ==&nbsp;grid.length</code></li>
+	<li><code>n ==&nbsp;grid[i].length</code></li>
+	<li><code>1 &lt;= m &lt;= 50</code></li>
+	<li><code>1 &lt;= n &lt;= 50</code></li>
 	<li><code>-1000 &lt;= grid[i][j] &lt;= 1000</code></li>
 	<li><code>0 &lt;= k &lt;= 100</code></li>
 </ul>

@@ -58,6 +58,7 @@ After typing mou, mous and mouse the system suggests [&quot;mouse&quot;,&quot;mo
 
 <ul>
 	<li><code>1 &lt;= products.length &lt;= 1000</code></li>
+	<li>There are no&nbsp;repeated elements in&nbsp;<code>products</code>.</li>
 	<li><code>1 &lt;= &Sigma; products[i].length &lt;= 2 * 10^4</code></li>
 	<li>All characters of <code>products[i]</code> are lower-case English letters.</li>
 	<li><code>1 &lt;= searchWord.length &lt;= 1000</code></li>
