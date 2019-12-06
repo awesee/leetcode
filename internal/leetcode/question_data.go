@@ -236,7 +236,7 @@ func (question *questionType) Restore() {
 	if len(matches) >= 2 {
 		return
 	}
-	question.Content = string(matches[1])
+	question.Content = string(bytes.TrimSpace(matches[1]))
 	name := fmt.Sprintf(questionDataFile, question.TitleSnake())
 	filePutContents(getCachePath(name), jsonEncode(QuestionDataType{
 		Data: dataType{Question: *question},
