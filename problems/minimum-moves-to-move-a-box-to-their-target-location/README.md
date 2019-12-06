@@ -13,7 +13,7 @@
 
 <p>Storekeeper is a&nbsp;game&nbsp;in which the player pushes boxes around in a warehouse&nbsp;trying to get them to target locations.</p>
 
-<p>The game is represented by a <code>grid</code> of size&nbsp;<code>n<font face="sans-serif, Arial, Verdana, Trebuchet MS">*</font></code><code>m</code>, where each element is a wall, floor, or a box.</p>
+<p>The game is represented by a <code>grid</code> of size&nbsp;<code>m x n</code>, where each element is a wall, floor, or a box.</p>
 
 <p>Your task is move the box <code>&#39;B&#39;</code> to the target position <code>&#39;T&#39;</code> under the following rules:</p>
 
@@ -81,8 +81,10 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= grid.length &lt;= 20</code></li>
-	<li><code>1 &lt;= grid[i].length &lt;= 20</code></li>
+	<li><code>m ==&nbsp;grid.length</code></li>
+	<li><code>n ==&nbsp;grid[i].length</code></li>
+	<li><code>1 &lt;= m &lt;= 20</code></li>
+	<li><code>1 &lt;= n &lt;= 20</code></li>
 	<li><code>grid</code> contains only characters&nbsp;<code>&#39;.&#39;</code>, <code>&#39;#&#39;</code>,&nbsp; <code>&#39;S&#39;</code> , <code>&#39;T&#39;</code>,&nbsp;or <code>&#39;B&#39;</code>.</li>
 	<li>There is only one character&nbsp;<code>&#39;S&#39;</code>, <code>&#39;B&#39;</code>&nbsp;<font face="sans-serif, Arial, Verdana, Trebuchet MS">and&nbsp;</font><code>&#39;T&#39;</code>&nbsp;in the <code>grid</code>.</li>
 </ul>

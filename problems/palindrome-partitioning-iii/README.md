@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/count-square-submatrices-with-all-ones "Count Square Submatrices with All Ones")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/traffic-light-controlled-intersection "Traffic Light Controlled Intersection")
 
 ## [1278. Palindrome Partitioning III (Hard)](https://leetcode.com/problems/palindrome-partitioning-iii "分割回文串 III")
 
