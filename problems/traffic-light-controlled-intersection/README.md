@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-iii "Palindrome Partitioning III")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/students-and-examinations "Students and Examinations")
 
 ## [1279. Traffic Light Controlled Intersection (Easy)](https://leetcode.com/problems/traffic-light-controlled-intersection "")
 

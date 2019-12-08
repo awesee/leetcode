@@ -17,12 +17,7 @@ type qtDataType struct {
 }
 
 type translationsType struct {
-	Title    string         `json:"title"`
-	Question questionIDType `json:"question"`
-	TypeName string         `json:"__typename"`
-}
-
-type questionIDType struct {
+	Title      string `json:"title"`
 	QuestionID string `json:"questionId"`
 	TypeName   string `json:"__typename"`
 }
@@ -32,7 +27,7 @@ func GetQuestionTranslation() (qt QuestionTranslationType) {
 	jsonStr := `{
 		"operationName": "getQuestionTranslation",
 		"variables": {},
-		"query": "query getQuestionTranslation($lang: String) {\n  translations: allAppliedQuestionTranslations(lang: $lang) {\n    title\n    question {\n      questionId\n      __typename\n    }\n    __typename\n  }\n}\n"
+		"query": "query getQuestionTranslation($lang: String) {\n  translations: allAppliedQuestionTranslations(lang: $lang) {\n    title\n    questionId\n    __typename\n  }\n}\n"
 	}`
 	graphQLRequest(graphQLCnURL, jsonStr, questionTranslationFile, 2, &qt)
 	if qt.Data.Translations == nil {
@@ -47,7 +42,7 @@ func GetQuestionTranslation() (qt QuestionTranslationType) {
 func init() {
 	translation := GetQuestionTranslation()
 	for _, item := range translation.Data.Translations {
-		id := item.Question.QuestionID
+		id := item.QuestionID
 		if id, err := strconv.Atoi(id); err == nil {
 			translationSet[id] = item.Title
 		}
