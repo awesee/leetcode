@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1281 | [整数的各位积和之差](https://github.com/openset/leetcode/tree/master/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Easy |
 | 1276 | [不浪费原料的汉堡制作方案](https://github.com/openset/leetcode/tree/master/problems/number-of-burgers-with-no-waste-of-ingredients) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 1272 | [删除区间](https://github.com/openset/leetcode/tree/master/problems/remove-interval) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]  | Medium |
 | 1271 | [十六进制魔术数字](https://github.com/openset/leetcode/tree/master/problems/hexspeak) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Easy |

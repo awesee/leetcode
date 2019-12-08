@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1282 | [用户分组](https://github.com/openset/leetcode/tree/master/problems/group-the-people-given-the-group-size-they-belong-to) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]  | Medium |
 | 1276 | [不浪费原料的汉堡制作方案](https://github.com/openset/leetcode/tree/master/problems/number-of-burgers-with-no-waste-of-ingredients) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 1253 | [重构 2 行二进制矩阵](https://github.com/openset/leetcode/tree/master/problems/reconstruct-a-2-row-binary-matrix) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
 | 1247 | [交换字符使得字符串相同](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-make-strings-equal) | [[贪心算法](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)] [[字符串](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]  | Medium |
