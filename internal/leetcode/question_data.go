@@ -233,7 +233,7 @@ func (question *questionType) Restore() {
 	}
 	reg := regexp.MustCompile(pattern)
 	matches := reg.FindSubmatch(body)
-	if len(matches) >= 2 {
+	if len(matches) < 2 {
 		return
 	}
 	question.Content = string(bytes.TrimSpace(matches[1]))
