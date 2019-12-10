@@ -19,6 +19,11 @@ func TestHasPathSum(t *testing.T) {
 			sum:  22,
 			want: true,
 		},
+		{
+			in:   []int{5, 8, 4, 4, 13, kit.NULL, 11, 7, 2},
+			sum:  22,
+			want: false,
+		},
 	}
 	for _, tt := range tests {
 		got := hasPathSum(kit.SliceInt2TreeNode(tt.in), tt.sum)
