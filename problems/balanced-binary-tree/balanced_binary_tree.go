@@ -14,26 +14,25 @@ type TreeNode = kit.TreeNode
  * }
  */
 func isBalanced(root *TreeNode) bool {
-	_, isBalanced := recur(root)
-	return isBalanced
+	if root != nil {
+		left := depth(root.Left)
+		right := depth(root.Right)
+		if left > right+1 || left < right-1 {
+			return false
+		}
+		return isBalanced(root.Left) && isBalanced(root.Right)
+	}
+	return true
 }
 
-func recur(root *TreeNode) (int, bool) {
-	if root == nil {
-		return 0, true
+func depth(root *TreeNode) int {
+	if root != nil {
+		left := depth(root.Left) + 1
+		right := depth(root.Right) + 1
+		if left > right {
+			return left
+		}
+		return right
 	}
-	leftDepth, leftIsBalanced := recur(root.Left)
-	rightDepth, rightIsBalanced := recur(root.Right)
-	if leftIsBalanced && rightIsBalanced &&
-		-1 <= leftDepth-rightDepth && leftDepth-rightDepth <= 1 {
-		return max(leftDepth, rightDepth) + 1, true
-	}
-	return 0, false
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
+	return 0
 }
