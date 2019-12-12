@@ -62,6 +62,7 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1285">1285</span> | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges) 🔒 | [MySQL](https://github.com/openset/leetcode/tree/master/problems/find-the-start-and-end-number-of-continuous-ranges) | Medium |
 | <span id="1284">1284</span> | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix "转化为全零矩阵的最少反转次数") | [Go](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) | Hard |
 | <span id="1283">1283</span> | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold "使结果不超过阈值的最小除数") | [Go](https://github.com/openset/leetcode/tree/master/problems/find-the-smallest-divisor-given-a-threshold) | Medium |
 | <span id="1282">1282</span> | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to "用户分组") | [Go](https://github.com/openset/leetcode/tree/master/problems/group-the-people-given-the-group-size-they-belong-to) | Medium |

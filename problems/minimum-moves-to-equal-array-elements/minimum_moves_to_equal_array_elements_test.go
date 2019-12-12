@@ -13,6 +13,10 @@ func TestMinMoves(t *testing.T) {
 			in:   []int{1, 2, 3},
 			want: 3,
 		},
+		{
+			in:   []int{5, 3, 1},
+			want: 6,
+		},
 	}
 	for _, tt := range tests {
 		got := minMoves(tt.in)
