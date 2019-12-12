@@ -16,36 +16,84 @@
 <p>Flatten the list so that all the nodes appear in a single-level, doubly linked list. You are given the head of the first level of the list.</p>
 
 <p>&nbsp;</p>
-
-<p><strong>Example:</strong></p>
+<p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong>
- 1---2---3---4---5---6--NULL
-         |
-         7---8---9---10--NULL
-             |
-             11--12--NULL
+<strong>Input:</strong> head = [1,2,3,4,5,6,null,null,null,7,8,9,10,null,null,11,12]
+<strong>Output:</strong> [1,2,3,7,8,11,12,9,10,4,5,6]
+<strong>Explanation:
+</strong>
+The multilevel linked list in the input is as follows:
 
-<strong>Output:</strong>
-1-2-3-7-8-11-12-9-10-4-5-6-NULL
+<img src="https://assets.leetcode.com/uploads/2018/10/12/multilevellinkedlist.png" style="width: 640px;" />
+
+After flattening the multilevel linked list it becomes:
+
+<img src="https://assets.leetcode.com/uploads/2018/10/12/multilevellinkedlistflattened.png" style="width: 1100px;" />
+</pre>
+
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> head = [1,2,null,3]
+<strong>Output:</strong> [1,3,2]
+<strong>Explanation:
+
+</strong>The input multilevel linked list is as follows:
+
+  1---2---NULL
+  |
+  3---NULL
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> head = []
+<strong>Output:</strong> []
 </pre>
 
 <p>&nbsp;</p>
 
-<p><strong>Explanation for the above example:</strong></p>
+<p><strong>How&nbsp;multilevel linked list is represented in test case:</strong></p>
 
-<p>Given the following multilevel doubly linked list:</p>
+<p>We use the&nbsp;multilevel linked list from <strong>Example 1</strong> above:</p>
 
 <pre>
-<img src="https://assets.leetcode.com/uploads/2018/10/12/multilevellinkedlist.png" style="width: 640px;" /></pre>
+ 1---2---3---4---5---6--NULL
+         |
+         7---8---9---10--NULL
+             |
+             11--12--NULL</pre>
+
+<p>The serialization of each level is as follows:</p>
+
+<pre>
+[1,2,3,4,5,6,null]
+[7,8,9,10,null]
+[11,12,null]
+</pre>
+
+<p>To serialize all levels together we will add nulls in each level to signify no node connects to the upper node of the previous level. The serialization becomes:</p>
+
+<pre>
+[1,2,3,4,5,6,null]
+[null,null,7,8,9,10,null]
+[null,11,12,null]
+</pre>
+
+<p>Merging the serialization of each level and removing trailing nulls we obtain:</p>
+
+<pre>
+[1,2,3,4,5,6,null,null,null,7,8,9,10,null,null,11,12]</pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p>We should return the following flattened doubly linked list:</p>
-
-<pre>
-<img src="https://assets.leetcode.com/uploads/2018/10/12/multilevellinkedlistflattened.png" style="width: 1100px;" /></pre>
+<ul>
+	<li>Number of Nodes will not exceed 1000.</li>
+	<li><code>1 &lt;= Node.val &lt;= 10^5</code></li>
+</ul>
 
 ### Related Topics
   [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
