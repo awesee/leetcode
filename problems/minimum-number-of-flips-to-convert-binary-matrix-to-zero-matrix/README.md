@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/find-the-smallest-divisor-given-a-threshold "Find the Smallest Divisor Given a Threshold")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-start-and-end-number-of-continuous-ranges "Find the Start and End Number of Continuous Ranges")
 
 ## [1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix (Hard)](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix "转化为全零矩阵的最少反转次数")
 
