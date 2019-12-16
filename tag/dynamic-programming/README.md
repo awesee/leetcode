@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1289 | [下降路径最小和  II](https://github.com/openset/leetcode/tree/master/problems/minimum-falling-path-sum-ii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1278 | [分割回文串 III](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-iii) | [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |
 | 1277 | [统计全为 1 的正方形子矩阵](https://github.com/openset/leetcode/tree/master/problems/count-square-submatrices-with-all-ones) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1273 | [删除树节点](https://github.com/openset/leetcode/tree/master/problems/delete-tree-nodes) 🔒 | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |

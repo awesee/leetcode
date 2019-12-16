@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1288 | [删除被覆盖区间](https://github.com/openset/leetcode/tree/master/problems/remove-covered-intervals) | [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]  | Medium |
 | 1272 | [删除区间](https://github.com/openset/leetcode/tree/master/problems/remove-interval) 🔒 | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]  | Medium |
 | 1229 | [安排会议日程](https://github.com/openset/leetcode/tree/master/problems/meeting-scheduler) 🔒 | [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]  | Medium |
 | 850 | [矩形面积 II](https://github.com/openset/leetcode/tree/master/problems/rectangle-area-ii) | [[线段树](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)] [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]  | Hard |

@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1293 | [网格中的最短路径](https://github.com/openset/leetcode/tree/master/problems/shortest-path-in-a-grid-with-obstacles-elimination) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Hard |
 | 1284 | [转化为全零矩阵的最少反转次数](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Hard |
 | 1263 | [推箱子](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-move-a-box-to-their-target-location) | [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Hard |
 | 1245 | [树的直径](https://github.com/openset/leetcode/tree/master/problems/tree-diameter) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[广度优先搜索](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]  | Medium |

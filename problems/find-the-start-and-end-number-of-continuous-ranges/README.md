@@ -7,7 +7,7 @@
 
 [< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](https://github.com/openset/leetcode/tree/master/problems/iterator-for-combination "Iterator for Combination")
 
 ## [1285. Find the Start and End Number of Continuous Ranges (Medium)](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges "")
 
@@ -55,6 +55,3 @@ From 7 to 8 is contained in the table.
 Number 9 is missing in the table.
 Number 10 is contained in the table.
 </pre>
-
-### Similar Questions
-  1. [Report Contiguous Dates](https://github.com/openset/leetcode/tree/master/problems/report-contiguous-dates) (Hard)

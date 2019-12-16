@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1292 | [元素和小于等于阈值的正方形的最大边长](https://github.com/openset/leetcode/tree/master/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
+| 1287 | [有序数组中出现次数超过25%的元素](https://github.com/openset/leetcode/tree/master/problems/element-appearing-more-than-25-in-sorted-array) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1277 | [统计全为 1 的正方形子矩阵](https://github.com/openset/leetcode/tree/master/problems/count-square-submatrices-with-all-ones) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Medium |
 | 1275 | [找出井字棋的获胜者](https://github.com/openset/leetcode/tree/master/problems/find-winner-on-a-tic-tac-toe-game) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Easy |
 | 1267 | [统计参与通信的服务器](https://github.com/openset/leetcode/tree/master/problems/count-servers-that-communicate) | [[图](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)] [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]  | Medium |
