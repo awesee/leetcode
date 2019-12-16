@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1292 | [元素和小于等于阈值的正方形的最大边长](https://github.com/openset/leetcode/tree/master/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | [[数组](https://github.com/openset/leetcode/tree/master/tag/array/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
 | 1283 | [使结果不超过阈值的最小除数](https://github.com/openset/leetcode/tree/master/problems/find-the-smallest-divisor-given-a-threshold) | [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Medium |
 | 1237 | [找出给定方程的正整数解](https://github.com/openset/leetcode/tree/master/problems/find-positive-integer-solution-for-a-given-equation) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]  | Easy |
 | 1235 | [规划兼职工作](https://github.com/openset/leetcode/tree/master/problems/maximum-profit-in-job-scheduling) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[二分查找](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)] [[动态规划](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]  | Hard |

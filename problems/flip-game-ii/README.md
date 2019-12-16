@@ -27,8 +27,8 @@
 Derive your algorithm&#39;s runtime complexity.</p>
 
 ### Related Topics
-  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
   [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
 
 ### Similar Questions
   1. [Nim Game](https://github.com/openset/leetcode/tree/master/problems/nim-game) (Easy)

@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1286 | [字母组合迭代器](https://github.com/openset/leetcode/tree/master/problems/iterator-for-combination) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[回溯算法](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]  | Medium |
 | 1244 | [力扣排行榜](https://github.com/openset/leetcode/tree/master/problems/design-a-leaderboard) 🔒 | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]  | Medium |
 | 1206 | [设计跳表](https://github.com/openset/leetcode/tree/master/problems/design-skiplist) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Hard |
 | 1172 | [餐盘栈](https://github.com/openset/leetcode/tree/master/problems/dinner-plate-stacks) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]  | Hard |

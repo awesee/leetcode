@@ -45,14 +45,14 @@
 		"TranslatedName": "贪心算法"
 	},
 	{
-		"Name": "Two Pointers",
-		"Slug": "two-pointers",
-		"TranslatedName": "双指针"
-	},
-	{
 		"Name": "Breadth-first Search",
 		"Slug": "breadth-first-search",
 		"TranslatedName": "广度优先搜索"
+	},
+	{
+		"Name": "Two Pointers",
+		"Slug": "two-pointers",
+		"TranslatedName": "双指针"
 	},
 	{
 		"Name": "Stack",
@@ -145,6 +145,11 @@
 		"TranslatedName": "树状数组"
 	},
 	{
+		"Name": "Line Sweep",
+		"Slug": "line-sweep",
+		"TranslatedName": "Line Sweep"
+	},
+	{
 		"Name": "Random",
 		"Slug": "random",
 		"TranslatedName": "Random"
@@ -163,11 +168,6 @@
 		"Name": "Geometry",
 		"Slug": "geometry",
 		"TranslatedName": "几何"
-	},
-	{
-		"Name": "Line Sweep",
-		"Slug": "line-sweep",
-		"TranslatedName": "Line Sweep"
 	},
 	{
 		"Name": "Binary Search Tree",
