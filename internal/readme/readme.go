@@ -73,14 +73,14 @@ func writeProblems(buf *bytes.Buffer) {
 		for i := 1; i < maxID/pageSize; i++ {
 			for problems[count-1].Stat.FrontendQuestionID <= pageSize*i {
 				count--
-				problems[count].WriteRow(buf)
+				problems[count].WriteRow(buf, "../problems")
 			}
 			fileName := filepath.Join("readme", fmt.Sprintf("%d-%d.md", pageSize*(i-1)+1, pageSize*i))
 			base.FilePutContents(fileName, buf.Bytes())
 			buf.Truncate(n)
 		}
 		for _, problem := range problems[0:count] {
-			problem.WriteRow(buf)
+			problem.WriteRow(buf, "problems")
 		}
 	}
 }
