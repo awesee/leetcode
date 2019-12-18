@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/last-person-to-fit-in-the-elevator "Last Person to Fit in the Elevator")
+[< Previous](../last-person-to-fit-in-the-elevator "Last Person to Fit in the Elevator")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-skiplist "Design Skiplist")
+[Next >](../design-skiplist "Design Skiplist")
 
 ## [1205. Monthly Transactions II (Medium)](https://leetcode.com/problems/monthly-transactions-ii "每月交易II")
 

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-path-visiting-all-nodes "Shortest Path Visiting All Nodes")
+[< Previous](../shortest-path-visiting-all-nodes "Shortest Path Visiting All Nodes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximize-distance-to-closest-person "Maximize Distance to Closest Person")
+[Next >](../maximize-distance-to-closest-person "Maximize Distance to Closest Person")
 
 ## [848. Shifting Letters (Medium)](https://leetcode.com/problems/shifting-letters "字母移位")
 
@@ -41,4 +41,4 @@ After shifting the first 3 letters of S by 9, we have &quot;rpl&quot;, the answe
 </ol>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

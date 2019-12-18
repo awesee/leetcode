@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/ugly-number-iii "Ugly Number III")
+[< Previous](../ugly-number-iii "Ugly Number III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sort-items-by-groups-respecting-dependencies "Sort Items by Groups Respecting Dependencies")
+[Next >](../sort-items-by-groups-respecting-dependencies "Sort Items by Groups Respecting Dependencies")
 
 ## [1202. Smallest String With Swaps (Medium)](https://leetcode.com/problems/smallest-string-with-swaps "交换字符串中的元素")
 
@@ -60,8 +60,8 @@ Swap s[0] and s[1], s = &quot;abc&quot;
 </ul>
 
 ### Related Topics
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

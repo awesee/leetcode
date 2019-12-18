@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/pacific-atlantic-water-flow "Pacific Atlantic Water Flow")
+[< Previous](../pacific-atlantic-water-flow "Pacific Atlantic Water Flow")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/battleships-in-a-board "Battleships in a Board")
+[Next >](../battleships-in-a-board "Battleships in a Board")
 
 ## [418. Sentence Screen Fitting (Medium)](https://leetcode.com/problems/sentence-screen-fitting "屏幕可显示句子的数量")
 
@@ -80,4 +80,4 @@ The character '-' signifies an empty space on the screen.
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

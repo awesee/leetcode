@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/self-dividing-numbers "Self Dividing Numbers")
+[< Previous](../self-dividing-numbers "Self Dividing Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-different-palindromic-subsequences "Count Different Palindromic Subsequences")
+[Next >](../count-different-palindromic-subsequences "Count Different Palindromic Subsequences")
 
 ## [729. My Calendar I (Medium)](https://leetcode.com/problems/my-calendar-i "我的日程安排表 I")
 
@@ -44,11 +44,11 @@ The third event can be booked, as the first event takes every time less than 20,
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [My Calendar II](https://github.com/openset/leetcode/tree/master/problems/my-calendar-ii) (Medium)
-  1. [My Calendar III](https://github.com/openset/leetcode/tree/master/problems/my-calendar-iii) (Hard)
+  1. [My Calendar II](../my-calendar-ii) (Medium)
+  1. [My Calendar III](../my-calendar-iii) (Hard)
 
 ### Hints
 <details>

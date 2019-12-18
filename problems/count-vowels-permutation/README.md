@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-gold "Path with Maximum Gold")
+[< Previous](../path-with-maximum-gold "Path with Maximum Gold")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/split-a-string-in-balanced-strings "Split a String in Balanced Strings")
+[Next >](../split-a-string-in-balanced-strings "Split a String in Balanced Strings")
 
 ## [1220. Count Vowels Permutation (Hard)](https://leetcode.com/problems/count-vowels-permutation "统计元音字母序列的数目")
 
@@ -55,7 +55,7 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reconstruct-itinerary "Reconstruct Itinerary")
+[< Previous](../reconstruct-itinerary "Reconstruct Itinerary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/increasing-triplet-subsequence "Increasing Triplet Subsequence")
+[Next >](../increasing-triplet-subsequence "Increasing Triplet Subsequence")
 
 ## [333. Largest BST Subtree (Medium)](https://leetcode.com/problems/largest-bst-subtree "最大 BST 子树")
 
@@ -36,7 +36,7 @@ A subtree must include all of its descendants.</p>
 Can you figure out ways to solve it with O(n) time complexity?</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Hints
 <details>

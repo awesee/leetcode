@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/palindrome-linked-list "Palindrome Linked List")
+[< Previous](../palindrome-linked-list "Palindrome Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-tree "Lowest Common Ancestor of a Binary Tree")
+[Next >](../lowest-common-ancestor-of-a-binary-tree "Lowest Common Ancestor of a Binary Tree")
 
 ## [235. Lowest Common Ancestor of a Binary Search Tree (Easy)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree "二叉搜索树的最近公共祖先")
 
@@ -45,8 +45,8 @@
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Lowest Common Ancestor of a Binary Tree](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-tree) (Medium)
-  1. [Smallest Common Region](https://github.com/openset/leetcode/tree/master/problems/smallest-common-region) (Medium)
+  1. [Lowest Common Ancestor of a Binary Tree](../lowest-common-ancestor-of-a-binary-tree) (Medium)
+  1. [Smallest Common Region](../smallest-common-region) (Medium)

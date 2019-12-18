@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-inorder-traversal "Construct Binary Tree from Preorder and Inorder Traversal")
+[< Previous](../construct-binary-tree-from-preorder-and-inorder-traversal "Construct Binary Tree from Preorder and Inorder Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal-ii "Binary Tree Level Order Traversal II")
+[Next >](../binary-tree-level-order-traversal-ii "Binary Tree Level Order Traversal II")
 
 ## [106. Construct Binary Tree from Inorder and Postorder Traversal (Medium)](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal "从中序与后序遍历序列构造二叉树")
 
@@ -33,9 +33,9 @@ postorder = [9,15,7,20,3]</pre>
 </pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-inorder-traversal) (Medium)
+  1. [Construct Binary Tree from Preorder and Inorder Traversal](../construct-binary-tree-from-preorder-and-inorder-traversal) (Medium)

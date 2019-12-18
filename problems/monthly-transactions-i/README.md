@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/critical-connections-in-a-network "Critical Connections in a Network")
+[< Previous](../critical-connections-in-a-network "Critical Connections in a Network")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/tournament-winners "Tournament Winners")
+[Next >](../tournament-winners "Tournament Winners")
 
 ## [1193. Monthly Transactions I (Medium)](https://leetcode.com/problems/monthly-transactions-i "每月交易 I")
 

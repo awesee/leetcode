@@ -99,9 +99,8 @@ func writeNav(buf *bytes.Buffer) {
 }
 
 func linkStr(num int) string {
-	link := "https://github.com/openset/leetcode/blob/master/"
 	if num > maxID-maxID%pageSize-pageSize {
-		return fmt.Sprintf("%sREADME.md#%d", link, num)
+		return fmt.Sprintf("%s/README.md#%d", base.URL, num)
 	}
-	return fmt.Sprintf("%sreadme/%d-%d.md#%d", link, (num-1)/pageSize*pageSize+1, ((num-1)/pageSize+1)*pageSize, num-step+1)
+	return fmt.Sprintf("%s/readme/%d-%d.md#%d", base.URL, (num-1)/pageSize*pageSize+1, ((num-1)/pageSize+1)*pageSize, num-step+1)
 }

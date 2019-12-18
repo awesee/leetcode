@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort-ii "Wiggle Sort II")
+[< Previous](../wiggle-sort-ii "Wiggle Sort II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/power-of-three "Power of Three")
+[Next >](../power-of-three "Power of Three")
 
 ## [325. Maximum Size Subarray Sum Equals k (Medium)](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k "和等于 k 的最长子数组长度")
 
@@ -35,13 +35,13 @@ Explanation: </strong>The subarray <code>[-1, 2]</code> sums to 1 and is the lon
 Can you do it in O(<i>n</i>) time?</p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Minimum Size Subarray Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-size-subarray-sum) (Medium)
-  1. [Range Sum Query - Immutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-immutable) (Easy)
-  1. [Contiguous Array](https://github.com/openset/leetcode/tree/master/problems/contiguous-array) (Medium)
-  1. [Subarray Product Less Than K](https://github.com/openset/leetcode/tree/master/problems/subarray-product-less-than-k) (Medium)
+  1. [Minimum Size Subarray Sum](../minimum-size-subarray-sum) (Medium)
+  1. [Range Sum Query - Immutable](../range-sum-query-immutable) (Easy)
+  1. [Contiguous Array](../contiguous-array) (Medium)
+  1. [Subarray Product Less Than K](../subarray-product-less-than-k) (Medium)
 
 ### Hints
 <details>

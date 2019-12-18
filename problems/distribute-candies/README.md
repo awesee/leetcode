@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/winning-candidate "Winning Candidate")
+[< Previous](../winning-candidate "Winning Candidate")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/out-of-boundary-paths "Out of Boundary Paths")
+[Next >](../out-of-boundary-paths "Out of Boundary Paths")
 
 ## [575. Distribute Candies (Easy)](https://leetcode.com/problems/distribute-candies "分糖果")
 
@@ -41,7 +41,7 @@ The sister has two different kinds of candies, the brother has only one kind of 
 </p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

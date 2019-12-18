@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-string-with-swaps "Smallest String With Swaps")
+[< Previous](../smallest-string-with-swaps "Smallest String With Swaps")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/last-person-to-fit-in-the-elevator "Last Person to Fit in the Elevator")
+[Next >](../last-person-to-fit-in-the-elevator "Last Person to Fit in the Elevator")
 
 ## [1203. Sort Items by Groups Respecting Dependencies (Hard)](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies "项目管理")
 
@@ -54,9 +54,9 @@
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[Topological Sort](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]
+  [[Topological Sort](../../tag/topological-sort/README.md)]
 
 ### Hints
 <details>

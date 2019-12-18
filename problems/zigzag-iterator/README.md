@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort "Wiggle Sort")
+[< Previous](../wiggle-sort "Wiggle Sort")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/expression-add-operators "Expression Add Operators")
+[Next >](../expression-add-operators "Expression Add Operators")
 
 ## [281. Zigzag Iterator (Medium)](https://leetcode.com/problems/zigzag-iterator "锯齿迭代器")
 
@@ -40,10 +40,10 @@ The &quot;Zigzag&quot; order is not clearly defined and is ambiguous for <code>k
 </pre>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Similar Questions
-  1. [Binary Search Tree Iterator](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator) (Medium)
-  1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/problems/flatten-2d-vector) (Medium)
-  1. [Peeking Iterator](https://github.com/openset/leetcode/tree/master/problems/peeking-iterator) (Medium)
-  1. [Flatten Nested List Iterator](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator) (Medium)
+  1. [Binary Search Tree Iterator](../binary-search-tree-iterator) (Medium)
+  1. [Flatten 2D Vector](../flatten-2d-vector) (Medium)
+  1. [Peeking Iterator](../peeking-iterator) (Medium)
+  1. [Flatten Nested List Iterator](../flatten-nested-list-iterator) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/projection-area-of-3d-shapes "Projection Area of 3D Shapes")
+[< Previous](../projection-area-of-3d-shapes "Projection Area of 3D Shapes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-iii "Spiral Matrix III")
+[Next >](../spiral-matrix-iii "Spiral Matrix III")
 
 ## [884. Uncommon Words from Two Sentences (Easy)](https://leetcode.com/problems/uncommon-words-from-two-sentences "两句话中的不常见单词")
 
@@ -53,4 +53,4 @@
 </div>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]

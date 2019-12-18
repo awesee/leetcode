@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/uncommon-words-from-two-sentences "Uncommon Words from Two Sentences")
+[< Previous](../uncommon-words-from-two-sentences "Uncommon Words from Two Sentences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/possible-bipartition "Possible Bipartition")
+[Next >](../possible-bipartition "Possible Bipartition")
 
 ## [885. Spiral Matrix III (Medium)](https://leetcode.com/problems/spiral-matrix-iii "螺旋矩阵 III")
 
@@ -61,4 +61,4 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

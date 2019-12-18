@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/baseball-game "Baseball Game")
+[< Previous](../baseball-game "Baseball Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/redundant-connection "Redundant Connection")
+[Next >](../redundant-connection "Redundant Connection")
 
 ## [683. K Empty Slots (Hard)](https://leetcode.com/problems/k-empty-slots "K 个空花盆")
 
@@ -56,4 +56,4 @@ K: 1
 </ol>
 
 ### Related Topics
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[Ordered Map](../../tag/ordered-map/README.md)]

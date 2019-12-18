@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance "Find K-th Smallest Pair Distance")
+[< Previous](../find-k-th-smallest-pair-distance "Find K-th Smallest Pair Distance")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/accounts-merge "Accounts Merge")
+[Next >](../accounts-merge "Accounts Merge")
 
 ## [720. Longest Word in Dictionary (Easy)](https://leetcode.com/problems/longest-word-in-dictionary "词典中最长的单词")
 
@@ -40,12 +40,12 @@ Both "apply" and "apple" can be built from other words in the dictionary. Howeve
 </p>
 
 ### Related Topics
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Trie](../../tag/trie/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Longest Word in Dictionary through Deleting](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary-through-deleting) (Medium)
-  1. [Implement Magic Dictionary](https://github.com/openset/leetcode/tree/master/problems/implement-magic-dictionary) (Medium)
+  1. [Longest Word in Dictionary through Deleting](../longest-word-in-dictionary-through-deleting) (Medium)
+  1. [Implement Magic Dictionary](../implement-magic-dictionary) (Medium)
 
 ### Hints
 <details>

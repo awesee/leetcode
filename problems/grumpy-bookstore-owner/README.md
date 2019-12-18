@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/height-checker "Height Checker")
+[< Previous](../height-checker "Height Checker")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/previous-permutation-with-one-swap "Previous Permutation With One Swap")
+[Next >](../previous-permutation-with-one-swap "Previous Permutation With One Swap")
 
 ## [1052. Grumpy Bookstore Owner (Medium)](https://leetcode.com/problems/grumpy-bookstore-owner "爱生气的书店老板")
 
@@ -41,8 +41,8 @@ The maximum number of customers that can be satisfied = 1 + 1 + 1 + 1 + 7 + 5 = 
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

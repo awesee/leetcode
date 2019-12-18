@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/how-many-apples-can-you-put-into-the-basket "How Many Apples Can You Put into the Basket")
+[< Previous](../how-many-apples-can-you-put-into-the-basket "How Many Apples Can You Put into the Basket")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-smallest-common-element-in-all-rows "Find Smallest Common Element in All Rows")
+[Next >](../find-smallest-common-element-in-all-rows "Find Smallest Common Element in All Rows")
 
 ## [1197. Minimum Knight Moves (Medium)](https://leetcode.com/problems/minimum-knight-moves "进击的骑士")
 
@@ -44,7 +44,7 @@
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

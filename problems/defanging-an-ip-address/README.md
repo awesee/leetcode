@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/new-users-daily-count "New Users Daily Count")
+[< Previous](../new-users-daily-count "New Users Daily Count")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/corporate-flight-bookings "Corporate Flight Bookings")
+[Next >](../corporate-flight-bookings "Corporate Flight Bookings")
 
 ## [1108. Defanging an IP Address (Easy)](https://leetcode.com/problems/defanging-an-ip-address "IP 地址无效化")
 
@@ -31,4 +31,4 @@
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

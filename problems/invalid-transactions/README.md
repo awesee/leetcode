@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/optimize-water-distribution-in-a-village "Optimize Water Distribution in a Village")
+[< Previous](../optimize-water-distribution-in-a-village "Optimize Water Distribution in a Village")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/compare-strings-by-frequency-of-the-smallest-character "Compare Strings by Frequency of the Smallest Character")
+[Next >](../compare-strings-by-frequency-of-the-smallest-character "Compare Strings by Frequency of the Smallest Character")
 
 ## [1169. Invalid Transactions (Medium)](https://leetcode.com/problems/invalid-transactions "查询无效交易")
 
@@ -56,8 +56,8 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

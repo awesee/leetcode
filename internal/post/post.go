@@ -52,7 +52,7 @@ func runPost(cmd *base.Command, args []string) {
 		return
 	}
 	formatFilename := "%s-%s.md"
-	formatTopicTag := "  [[%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md)]\n"
+	formatTopicTag := "  [[%s](%s/tag/%s/README.md)]\n"
 	formatSimilarQuestion := "  1. [%s](/problems/%s)%s\n"
 	problems := leetcode.ProblemsAll()
 	for _, problem := range problems.StatStatusPairs {
@@ -71,7 +71,7 @@ func runPost(cmd *base.Command, args []string) {
 				if tag.TranslatedName != "" {
 					tag.Name = tag.TranslatedName
 				}
-				tagsBuf.WriteString(fmt.Sprintf(formatTopicTag, tag.Name, tag.Slug))
+				tagsBuf.WriteString(fmt.Sprintf(formatTopicTag, tag.Name, base.URL, tag.Slug))
 			}
 			buf.WriteString(fmt.Sprintf(frontMatter,
 				question.TranslatedTitle,
@@ -104,7 +104,7 @@ func runPost(cmd *base.Command, args []string) {
 				buf.WriteString(fmt.Sprintf(formatSimilarQuestion, q.Title, q.TitleSlug, q.Difficulty.Str()))
 			}
 			buf.WriteString("\n---\n")
-			buf.WriteString(fmt.Sprintf("\n## [解法](https://github.com/openset/leetcode/tree/master/problems/%s)\n", question.TitleSlug))
+			buf.WriteString(fmt.Sprintf("\n## [解法](%s/problems/%s)\n", base.URL, question.TitleSlug))
 			filename := fmt.Sprintf(formatFilename, t.Format("2006-01-02"), question.TitleSlug)
 			oldPath := filepath.Join(basePath, "leetcode", filename)
 			newPath := filepath.Join(basePath, "_posts", filename)

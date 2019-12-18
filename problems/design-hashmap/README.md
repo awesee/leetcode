@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-hashset "Design HashSet")
+[< Previous](../design-hashset "Design HashSet")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-linked-list "Design Linked List")
+[Next >](../design-linked-list "Design Linked List")
 
 ## [706. Design HashMap (Easy)](https://leetcode.com/problems/design-hashmap "设计哈希映射")
 
@@ -46,8 +46,8 @@ hashMap.get(2); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;// returns -1 (not foun
 </ul>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Design HashSet](https://github.com/openset/leetcode/tree/master/problems/design-hashset) (Easy)
+  1. [Design HashSet](../design-hashset) (Easy)

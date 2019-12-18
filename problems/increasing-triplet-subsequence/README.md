@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-bst-subtree "Largest BST Subtree")
+[< Previous](../largest-bst-subtree "Largest BST Subtree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/self-crossing "Self Crossing")
+[Next >](../self-crossing "Self Crossing")
 
 ## [334. Increasing Triplet Subsequence (Medium)](https://leetcode.com/problems/increasing-triplet-subsequence "递增的三元子序列")
 
@@ -39,4 +39,4 @@ such that <i>arr[i]</i> &lt; <i>arr[j]</i> &lt; <i>arr[k]</i> given 0 &le; <i>i<
 </div>
 
 ### Similar Questions
-  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence) (Medium)
+  1. [Longest Increasing Subsequence](../longest-increasing-subsequence) (Medium)

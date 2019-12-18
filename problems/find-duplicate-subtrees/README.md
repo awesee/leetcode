@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/4-keys-keyboard "4 Keys Keyboard")
+[< Previous](../4-keys-keyboard "4 Keys Keyboard")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst "Two Sum IV - Input is a BST")
+[Next >](../two-sum-iv-input-is-a-bst "Two Sum IV - Input is a BST")
 
 ## [652. Find Duplicate Subtrees (Medium)](https://leetcode.com/problems/find-duplicate-subtrees "寻找重复的子树")
 
@@ -43,9 +43,9 @@
 Therefore, you need to return above trees&#39; root in the form of a list.
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Serialize and Deserialize Binary Tree](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-binary-tree) (Hard)
-  1. [Serialize and Deserialize BST](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-bst) (Medium)
-  1. [Construct String from Binary Tree](https://github.com/openset/leetcode/tree/master/problems/construct-string-from-binary-tree) (Easy)
+  1. [Serialize and Deserialize Binary Tree](../serialize-and-deserialize-binary-tree) (Hard)
+  1. [Serialize and Deserialize BST](../serialize-and-deserialize-bst) (Medium)
+  1. [Construct String from Binary Tree](../construct-string-from-binary-tree) (Easy)

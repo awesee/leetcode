@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-difference-between-node-and-ancestor "Maximum Difference Between Node and Ancestor")
+[< Previous](../maximum-difference-between-node-and-ancestor "Maximum Difference Between Node and Ancestor")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/recover-a-tree-from-preorder-traversal "Recover a Tree From Preorder Traversal")
+[Next >](../recover-a-tree-from-preorder-traversal "Recover a Tree From Preorder Traversal")
 
 ## [1027. Longest Arithmetic Sequence (Medium)](https://leetcode.com/problems/longest-arithmetic-sequence "最长等差数列")
 
@@ -58,4 +58,4 @@ The longest arithmetic subsequence is [20,15,10,5].
 </div>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/merge-sorted-array "Merge Sorted Array")
+[< Previous](../merge-sorted-array "Merge Sorted Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/subsets-ii "Subsets II")
+[Next >](../subsets-ii "Subsets II")
 
 ## [89. Gray Code (Medium)](https://leetcode.com/problems/gray-code "格雷编码")
 
@@ -46,7 +46,7 @@ For example, [0,2,3,1] is also a valid gray code sequence.
 </pre>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [1-bit and 2-bit Characters](https://github.com/openset/leetcode/tree/master/problems/1-bit-and-2-bit-characters) (Easy)
+  1. [1-bit and 2-bit Characters](../1-bit-and-2-bit-characters) (Easy)

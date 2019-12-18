@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/palindrome-pairs "Palindrome Pairs")
+[< Previous](../palindrome-pairs "Palindrome Pairs")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/counting-bits "Counting Bits")
+[Next >](../counting-bits "Counting Bits")
 
 ## [337. House Robber III (Medium)](https://leetcode.com/problems/house-robber-iii "打家劫舍 III")
 
@@ -45,9 +45,9 @@
 </pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [House Robber](https://github.com/openset/leetcode/tree/master/problems/house-robber) (Easy)
-  1. [House Robber II](https://github.com/openset/leetcode/tree/master/problems/house-robber-ii) (Medium)
+  1. [House Robber](../house-robber) (Easy)
+  1. [House Robber II](../house-robber-ii) (Medium)

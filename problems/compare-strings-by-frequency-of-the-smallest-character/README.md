@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/invalid-transactions "Invalid Transactions")
+[< Previous](../invalid-transactions "Invalid Transactions")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-zero-sum-consecutive-nodes-from-linked-list "Remove Zero Sum Consecutive Nodes from Linked List")
+[Next >](../remove-zero-sum-consecutive-nodes-from-linked-list "Remove Zero Sum Consecutive Nodes from Linked List")
 
 ## [1170. Compare Strings by Frequency of the Smallest Character (Easy)](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character "比较字符串最小字母出现频次")
 
@@ -43,8 +43,8 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

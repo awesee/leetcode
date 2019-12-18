@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/product-sales-analysis-i "Product Sales Analysis I")
+[< Previous](../product-sales-analysis-i "Product Sales Analysis I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/product-sales-analysis-iii "Product Sales Analysis III")
+[Next >](../product-sales-analysis-iii "Product Sales Analysis III")
 
 ## [1069. Product Sales Analysis II (Easy)](https://leetcode.com/problems/product-sales-analysis-ii "产品销售分析 II")
 

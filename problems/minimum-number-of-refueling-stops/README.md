@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/advantage-shuffle "Advantage Shuffle")
+[< Previous](../advantage-shuffle "Advantage Shuffle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/leaf-similar-trees "Leaf-Similar Trees")
+[Next >](../leaf-similar-trees "Leaf-Similar Trees")
 
 ## [871. Minimum Number of Refueling Stops (Hard)](https://leetcode.com/problems/minimum-number-of-refueling-stops "最低加油次数")
 
@@ -71,5 +71,5 @@ We made 2 refueling stops along the way, so we return 2.
 </div>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

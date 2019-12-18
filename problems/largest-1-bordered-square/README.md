@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/alphabet-board-path "Alphabet Board Path")
+[< Previous](../alphabet-board-path "Alphabet Board Path")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/stone-game-ii "Stone Game II")
+[Next >](../stone-game-ii "Stone Game II")
 
 ## [1139. Largest 1-Bordered Square (Medium)](https://leetcode.com/problems/largest-1-bordered-square "最大的以 1 为边界的正方形")
 
@@ -38,7 +38,7 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

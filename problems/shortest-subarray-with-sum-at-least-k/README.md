@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/score-after-flipping-matrix "Score After Flipping Matrix")
+[< Previous](../score-after-flipping-matrix "Score After Flipping Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/all-nodes-distance-k-in-binary-tree "All Nodes Distance K in Binary Tree")
+[Next >](../all-nodes-distance-k-in-binary-tree "All Nodes Distance K in Binary Tree")
 
 ## [862. Shortest Subarray with Sum at Least K (Hard)](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k "和至少为 K 的最短子数组")
 
@@ -58,5 +58,5 @@
 </div>
 
 ### Related Topics
-  [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Queue](../../tag/queue/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]

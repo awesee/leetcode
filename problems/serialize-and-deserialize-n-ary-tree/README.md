@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/construct-quad-tree "Construct Quad Tree")
+[< Previous](../construct-quad-tree "Construct Quad Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-level-order-traversal "N-ary Tree Level Order Traversal")
+[Next >](../n-ary-tree-level-order-traversal "N-ary Tree Level Order Traversal")
 
 ## [428. Serialize and Deserialize N-ary Tree (Hard)](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree "序列化和反序列化 N 叉树")
 
@@ -35,9 +35,9 @@
 </ol>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Serialize and Deserialize Binary Tree](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-binary-tree) (Hard)
-  1. [Serialize and Deserialize BST](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-bst) (Medium)
-  1. [Encode N-ary Tree to Binary Tree](https://github.com/openset/leetcode/tree/master/problems/encode-n-ary-tree-to-binary-tree) (Hard)
+  1. [Serialize and Deserialize Binary Tree](../serialize-and-deserialize-binary-tree) (Hard)
+  1. [Serialize and Deserialize BST](../serialize-and-deserialize-bst) (Medium)
+  1. [Encode N-ary Tree to Binary Tree](../encode-n-ary-tree-to-binary-tree) (Hard)

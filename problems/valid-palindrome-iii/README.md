@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/stepping-numbers "Stepping Numbers")
+[< Previous](../stepping-numbers "Stepping Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/play-with-chips "Play with Chips")
+[Next >](../play-with-chips "Play with Chips")
 
 ## [1216. Valid Palindrome III (Hard)](https://leetcode.com/problems/valid-palindrome-iii "验证回文字符串 III")
 
@@ -34,8 +34,8 @@
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

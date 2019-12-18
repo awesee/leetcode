@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/two-sum "Two Sum")
+[< Previous](../two-sum "Two Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-substring-without-repeating-characters "Longest Substring Without Repeating Characters")
+[Next >](../longest-substring-without-repeating-characters "Longest Substring Without Repeating Characters")
 
 ## [2. Add Two Numbers (Medium)](https://leetcode.com/problems/add-two-numbers "两数相加")
 
@@ -24,13 +24,13 @@
 </pre>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/problems/multiply-strings) (Medium)
-  1. [Add Binary](https://github.com/openset/leetcode/tree/master/problems/add-binary) (Easy)
-  1. [Sum of Two Integers](https://github.com/openset/leetcode/tree/master/problems/sum-of-two-integers) (Easy)
-  1. [Add Strings](https://github.com/openset/leetcode/tree/master/problems/add-strings) (Easy)
-  1. [Add Two Numbers II](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers-ii) (Medium)
-  1. [Add to Array-Form of Integer](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer) (Easy)
+  1. [Multiply Strings](../multiply-strings) (Medium)
+  1. [Add Binary](../add-binary) (Easy)
+  1. [Sum of Two Integers](../sum-of-two-integers) (Easy)
+  1. [Add Strings](../add-strings) (Easy)
+  1. [Add Two Numbers II](../add-two-numbers-ii) (Medium)
+  1. [Add to Array-Form of Integer](../add-to-array-form-of-integer) (Easy)

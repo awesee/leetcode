@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-well-performing-interval "Longest Well-Performing Interval")
+[< Previous](../longest-well-performing-interval "Longest Well-Performing Interval")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/active-businesses "Active Businesses")
+[Next >](../active-businesses "Active Businesses")
 
 ## [1125. Smallest Sufficient Team (Hard)](https://leetcode.com/problems/smallest-sufficient-team "最小的必要团队")
 
@@ -41,8 +41,8 @@
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

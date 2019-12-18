@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-nodes-and-return-forest "Delete Nodes And Return Forest")
+[< Previous](../delete-nodes-and-return-forest "Delete Nodes And Return Forest")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/highest-grade-for-each-student "Highest Grade For Each Student")
+[Next >](../highest-grade-for-each-student "Highest Grade For Each Student")
 
 ## [1111. Maximum Nesting Depth of Two Valid Parentheses Strings (Medium)](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings "有效括号的嵌套深度")
 
@@ -60,5 +60,5 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]

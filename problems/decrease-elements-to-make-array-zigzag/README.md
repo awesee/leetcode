@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-common-subsequence "Longest Common Subsequence")
+[< Previous](../longest-common-subsequence "Longest Common Subsequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-coloring-game "Binary Tree Coloring Game")
+[Next >](../binary-tree-coloring-game "Binary Tree Coloring Game")
 
 ## [1144. Decrease Elements To Make Array Zigzag (Medium)](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag "递减元素使数组呈锯齿状")
 
@@ -47,7 +47,7 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

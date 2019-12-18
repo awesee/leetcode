@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/convert-to-base-2 "Convert to Base -2")
+[< Previous](../convert-to-base-2 "Convert to Base -2")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/next-greater-node-in-linked-list "Next Greater Node In Linked List")
+[Next >](../next-greater-node-in-linked-list "Next Greater Node In Linked List")
 
 ## [1018. Binary Prefix Divisible By 5 (Easy)](https://leetcode.com/problems/binary-prefix-divisible-by-5 "可被 5 整除的二进制前缀")
 
@@ -55,7 +55,7 @@ The input numbers in binary are 0, 01, 011; which are 0, 1, and 3 in base-10.  O
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

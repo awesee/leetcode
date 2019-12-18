@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/average-selling-price "Average Selling Price")
+[< Previous](../average-selling-price "Average Selling Price")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reconstruct-a-2-row-binary-matrix "Reconstruct a 2-Row Binary Matrix")
+[Next >](../reconstruct-a-2-row-binary-matrix "Reconstruct a 2-Row Binary Matrix")
 
 ## [1252. Cells with Odd Values in a Matrix (Easy)](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix "奇数值单元格的数目")
 
@@ -46,7 +46,7 @@ The final matrix will be [[1,3,1],[1,3,1]] which contains 6 odd numbers.
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

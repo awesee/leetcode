@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-all-numbers-disappeared-in-an-array "Find All Numbers Disappeared in an Array")
+[< Previous](../find-all-numbers-disappeared-in-an-array "Find All Numbers Disappeared in an Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/delete-node-in-a-bst "Delete Node in a BST")
+[Next >](../delete-node-in-a-bst "Delete Node in a BST")
 
 ## [449. Serialize and Deserialize BST (Medium)](https://leetcode.com/problems/serialize-and-deserialize-bst "序列化和反序列化二叉搜索树")
 
@@ -20,9 +20,9 @@
 <p><b>Note:</b> Do not use class member/global/static variables to store states. Your serialize and deserialize algorithms should be stateless.</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Serialize and Deserialize Binary Tree](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-binary-tree) (Hard)
-  1. [Find Duplicate Subtrees](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-subtrees) (Medium)
-  1. [Serialize and Deserialize N-ary Tree](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-n-ary-tree) (Hard)
+  1. [Serialize and Deserialize Binary Tree](../serialize-and-deserialize-binary-tree) (Hard)
+  1. [Find Duplicate Subtrees](../find-duplicate-subtrees) (Medium)
+  1. [Serialize and Deserialize N-ary Tree](../serialize-and-deserialize-n-ary-tree) (Hard)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree "Maximum Binary Tree")
+[< Previous](../maximum-binary-tree "Maximum Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/coin-path "Coin Path")
+[Next >](../coin-path "Coin Path")
 
 ## [655. Print Binary Tree (Medium)](https://leetcode.com/problems/print-binary-tree "输出二叉树")
 
@@ -73,4 +73,4 @@ The height of binary tree is in the range of [1, 10].
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]

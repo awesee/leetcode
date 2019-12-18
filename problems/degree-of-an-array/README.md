@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-binary-substrings "Count Binary Substrings")
+[< Previous](../count-binary-substrings "Count Binary Substrings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/partition-to-k-equal-sum-subsets "Partition to K Equal Sum Subsets")
+[Next >](../partition-to-k-equal-sum-subsets "Partition to K Equal Sum Subsets")
 
 ## [697. Degree of an Array (Easy)](https://leetcode.com/problems/degree-of-an-array "数组的度")
 
@@ -40,10 +40,10 @@ The shortest length is 2. So return 2.
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Maximum Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray) (Easy)
+  1. [Maximum Subarray](../maximum-subarray) (Easy)
 
 ### Hints
 <details>

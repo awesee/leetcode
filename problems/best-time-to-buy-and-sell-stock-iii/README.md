@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-ii "Best Time to Buy and Sell Stock II")
+[< Previous](../best-time-to-buy-and-sell-stock-ii "Best Time to Buy and Sell Stock II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-maximum-path-sum "Binary Tree Maximum Path Sum")
+[Next >](../binary-tree-maximum-path-sum "Binary Tree Maximum Path Sum")
 
 ## [123. Best Time to Buy and Sell Stock III (Hard)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii "买卖股票的最佳时机 III")
 
@@ -43,11 +43,11 @@
 <strong>Explanation:</strong> In this case, no transaction is done, i.e. max profit = 0.</pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Best Time to Buy and Sell Stock](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) (Easy)
-  1. [Best Time to Buy and Sell Stock II](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-ii) (Easy)
-  1. [Best Time to Buy and Sell Stock IV](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iv) (Hard)
-  1. [Maximum Sum of 3 Non-Overlapping Subarrays](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-3-non-overlapping-subarrays) (Hard)
+  1. [Best Time to Buy and Sell Stock](../best-time-to-buy-and-sell-stock) (Easy)
+  1. [Best Time to Buy and Sell Stock II](../best-time-to-buy-and-sell-stock-ii) (Easy)
+  1. [Best Time to Buy and Sell Stock IV](../best-time-to-buy-and-sell-stock-iv) (Hard)
+  1. [Maximum Sum of 3 Non-Overlapping Subarrays](../maximum-sum-of-3-non-overlapping-subarrays) (Hard)

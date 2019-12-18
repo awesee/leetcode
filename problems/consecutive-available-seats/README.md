@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/friend-requests-ii-who-has-the-most-friends "Friend Requests II: Who Has the Most Friends")
+[< Previous](../friend-requests-ii-who-has-the-most-friends "Friend Requests II: Who Has the Most Friends")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-compressed-string-iterator "Design Compressed String Iterator")
+[Next >](../design-compressed-string-iterator "Design Compressed String Iterator")
 
 ## [603. Consecutive Available Seats (Easy)](https://leetcode.com/problems/consecutive-available-seats "连续空余座位")
 

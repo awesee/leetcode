@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-search-tree "Lowest Common Ancestor of a Binary Search Tree")
+[< Previous](../lowest-common-ancestor-of-a-binary-search-tree "Lowest Common Ancestor of a Binary Search Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/delete-node-in-a-linked-list "Delete Node in a Linked List")
+[Next >](../delete-node-in-a-linked-list "Delete Node in a Linked List")
 
 ## [236. Lowest Common Ancestor of a Binary Tree (Medium)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree "二叉树的最近公共祖先")
 
@@ -45,8 +45,8 @@
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-search-tree) (Easy)
-  1. [Smallest Common Region](https://github.com/openset/leetcode/tree/master/problems/smallest-common-region) (Medium)
+  1. [Lowest Common Ancestor of a Binary Search Tree](../lowest-common-ancestor-of-a-binary-search-tree) (Easy)
+  1. [Smallest Common Region](../smallest-common-region) (Medium)

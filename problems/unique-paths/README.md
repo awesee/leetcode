@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rotate-list "Rotate List")
+[< Previous](../rotate-list "Rotate List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-paths-ii "Unique Paths II")
+[Next >](../unique-paths-ii "Unique Paths II")
 
 ## [62. Unique Paths (Medium)](https://leetcode.com/problems/unique-paths "不同路径")
 
@@ -41,10 +41,10 @@ From the top-left corner, there are a total of 3 ways to reach the bottom-right 
 <strong>Output:</strong> 28</pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Unique Paths II](https://github.com/openset/leetcode/tree/master/problems/unique-paths-ii) (Medium)
-  1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-path-sum) (Medium)
-  1. [Dungeon Game](https://github.com/openset/leetcode/tree/master/problems/dungeon-game) (Hard)
+  1. [Unique Paths II](../unique-paths-ii) (Medium)
+  1. [Minimum Path Sum](../minimum-path-sum) (Medium)
+  1. [Dungeon Game](../dungeon-game) (Hard)

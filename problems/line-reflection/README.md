@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-twitter "Design Twitter")
+[< Previous](../design-twitter "Design Twitter")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-numbers-with-unique-digits "Count Numbers with Unique Digits")
+[Next >](../count-numbers-with-unique-digits "Count Numbers with Unique Digits")
 
 ## [356. Line Reflection (Medium)](https://leetcode.com/problems/line-reflection "直线镜像")
 
@@ -28,12 +28,12 @@
 <strong>Output: </strong><span id="example-output-2">false</span></pre>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Max Points on a Line](https://github.com/openset/leetcode/tree/master/problems/max-points-on-a-line) (Hard)
-  1. [Number of Boomerangs](https://github.com/openset/leetcode/tree/master/problems/number-of-boomerangs) (Easy)
+  1. [Max Points on a Line](../max-points-on-a-line) (Hard)
+  1. [Number of Boomerangs](../number-of-boomerangs) (Easy)
 
 ### Hints
 <details>

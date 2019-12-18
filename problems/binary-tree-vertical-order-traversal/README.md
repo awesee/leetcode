@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/super-ugly-number "Super Ugly Number")
+[< Previous](../super-ugly-number "Super Ugly Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self "Count of Smaller Numbers After Self")
+[Next >](../count-of-smaller-numbers-after-self "Count of Smaller Numbers After Self")
 
 ## [314. Binary Tree Vertical Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-vertical-order-traversal "二叉树的垂直遍历")
 
@@ -90,7 +90,7 @@
 </pre>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal) (Medium)
+  1. [Binary Tree Level Order Traversal](../binary-tree-level-order-traversal) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/convert-binary-number-in-a-linked-list-to-integer "Convert Binary Number in a Linked List to Integer")
+[< Previous](../convert-binary-number-in-a-linked-list-to-integer "Convert Binary Number in a Linked List to Integer")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold "Maximum Side Length of a Square with Sum Less than or Equal to Threshold")
+[Next >](../maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold "Maximum Side Length of a Square with Sum Less than or Equal to Threshold")
 
 ## [1291. Sequential Digits (Medium)](https://leetcode.com/problems/sequential-digits "顺次数")
 
@@ -31,7 +31,7 @@
 </ul>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints
 <details>

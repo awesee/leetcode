@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/moving-average-from-data-stream "Moving Average from Data Stream")
+[< Previous](../moving-average-from-data-stream "Moving Average from Data Stream")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-tic-tac-toe "Design Tic-Tac-Toe")
+[Next >](../design-tic-tac-toe "Design Tic-Tac-Toe")
 
 ## [347. Top K Frequent Elements (Medium)](https://leetcode.com/problems/top-k-frequent-elements "前 K 个高频元素")
 
@@ -36,13 +36,13 @@
 </ul>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Word Frequency](https://github.com/openset/leetcode/tree/master/problems/word-frequency) (Medium)
-  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array) (Medium)
-  1. [Sort Characters By Frequency](https://github.com/openset/leetcode/tree/master/problems/sort-characters-by-frequency) (Medium)
-  1. [Split Array into Consecutive Subsequences](https://github.com/openset/leetcode/tree/master/problems/split-array-into-consecutive-subsequences) (Medium)
-  1. [Top K Frequent Words](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-words) (Medium)
-  1. [K Closest Points to Origin](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) (Medium)
+  1. [Word Frequency](../word-frequency) (Medium)
+  1. [Kth Largest Element in an Array](../kth-largest-element-in-an-array) (Medium)
+  1. [Sort Characters By Frequency](../sort-characters-by-frequency) (Medium)
+  1. [Split Array into Consecutive Subsequences](../split-array-into-consecutive-subsequences) (Medium)
+  1. [Top K Frequent Words](../top-k-frequent-words) (Medium)
+  1. [K Closest Points to Origin](../k-closest-points-to-origin) (Medium)

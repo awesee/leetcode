@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/split-bst "Split BST")
+[< Previous](../split-bst "Split BST")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/swim-in-rising-water "Swim in Rising Water")
+[Next >](../swim-in-rising-water "Swim in Rising Water")
 
 ## [777. Swap Adjacent in LR String (Medium)](https://leetcode.com/problems/swap-adjacent-in-lr-string "在LR字符串中交换相邻字符")
 
@@ -35,7 +35,7 @@ XRLXXRRLX
 </ol>
 
 ### Related Topics
-  [[Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
+  [[Brainteaser](../../tag/brainteaser/README.md)]
 
 ### Hints
 <details>

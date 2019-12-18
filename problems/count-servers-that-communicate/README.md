@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-time-visiting-all-points "Minimum Time Visiting All Points")
+[< Previous](../minimum-time-visiting-all-points "Minimum Time Visiting All Points")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/search-suggestions-system "Search Suggestions System")
+[Next >](../search-suggestions-system "Search Suggestions System")
 
 ## [1267. Count Servers that Communicate (Medium)](https://leetcode.com/problems/count-servers-that-communicate "统计参与通信的服务器")
 
@@ -57,8 +57,8 @@ Return the number of servers&nbsp;that communicate with any other server.</p>
 </ul>
 
 ### Related Topics
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Graph](../../tag/graph/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

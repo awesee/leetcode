@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-square "Valid Square")
+[< Previous](../valid-square "Valid Square")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/big-countries "Big Countries")
+[Next >](../big-countries "Big Countries")
 
 ## [594. Longest Harmonious Subsequence (Easy)](https://leetcode.com/problems/longest-harmonious-subsequence "最长和谐子序列")
 
@@ -28,4 +28,4 @@
 <p><b>Note:</b> The length of the input array will not exceed 20,000.</p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]

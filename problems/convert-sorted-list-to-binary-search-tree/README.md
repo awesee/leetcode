@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/convert-sorted-array-to-binary-search-tree "Convert Sorted Array to Binary Search Tree")
+[< Previous](../convert-sorted-array-to-binary-search-tree "Convert Sorted Array to Binary Search Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/balanced-binary-tree "Balanced Binary Tree")
+[Next >](../balanced-binary-tree "Balanced Binary Tree")
 
 ## [109. Convert Sorted List to Binary Search Tree (Medium)](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree "有序链表转换二叉搜索树")
 
@@ -30,8 +30,8 @@ One possible answer is: [0,-3,9,-10,null,5], which represents the following heig
 </pre>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Convert Sorted Array to Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/convert-sorted-array-to-binary-search-tree) (Easy)
+  1. [Convert Sorted Array to Binary Search Tree](../convert-sorted-array-to-binary-search-tree) (Easy)

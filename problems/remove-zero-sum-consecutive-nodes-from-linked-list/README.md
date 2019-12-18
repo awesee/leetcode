@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/compare-strings-by-frequency-of-the-smallest-character "Compare Strings by Frequency of the Smallest Character")
+[< Previous](../compare-strings-by-frequency-of-the-smallest-character "Compare Strings by Frequency of the Smallest Character")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/dinner-plate-stacks "Dinner Plate Stacks")
+[Next >](../dinner-plate-stacks "Dinner Plate Stacks")
 
 ## [1171. Remove Zero Sum Consecutive Nodes from Linked List (Medium)](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list "从链表中删去总和值为零的连续节点")
 
@@ -49,7 +49,7 @@
 </ul>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
 
 ### Hints
 <details>

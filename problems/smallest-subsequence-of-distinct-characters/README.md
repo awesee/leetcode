@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/insufficient-nodes-in-root-to-leaf-paths "Insufficient Nodes in Root to Leaf Paths")
+[< Previous](../insufficient-nodes-in-root-to-leaf-paths "Insufficient Nodes in Root to Leaf Paths")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-i "Sales Analysis I")
+[Next >](../sales-analysis-i "Sales Analysis I")
 
 ## [1081. Smallest Subsequence of Distinct Characters (Medium)](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters "不同字符的最小子序列")
 
@@ -61,7 +61,7 @@
 </div>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

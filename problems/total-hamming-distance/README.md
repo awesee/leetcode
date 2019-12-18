@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-complement "Number Complement")
+[< Previous](../number-complement "Number Complement")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/generate-random-point-in-a-circle "Generate Random Point in a Circle")
+[Next >](../generate-random-point-in-a-circle "Generate Random Point in a Circle")
 
 ## [477. Total Hamming Distance (Medium)](https://leetcode.com/problems/total-hamming-distance "汉明距离总和")
 
@@ -36,7 +36,7 @@ HammingDistance(4, 14) + HammingDistance(4, 2) + HammingDistance(14, 2) = 2 + 2 
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
-  1. [Hamming Distance](https://github.com/openset/leetcode/tree/master/problems/hamming-distance) (Easy)
+  1. [Hamming Distance](../hamming-distance) (Easy)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list-ii "Remove Duplicates from Sorted List II")
+[< Previous](../remove-duplicates-from-sorted-list-ii "Remove Duplicates from Sorted List II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-rectangle-in-histogram "Largest Rectangle in Histogram")
+[Next >](../largest-rectangle-in-histogram "Largest Rectangle in Histogram")
 
 ## [83. Remove Duplicates from Sorted List (Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-list "删除排序链表中的重复元素")
 
@@ -28,7 +28,7 @@
 </pre>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Remove Duplicates from Sorted List II](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list-ii) (Medium)
+  1. [Remove Duplicates from Sorted List II](../remove-duplicates-from-sorted-list-ii) (Medium)

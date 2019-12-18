@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reordered-power-of-2 "Reordered Power of 2")
+[< Previous](../reordered-power-of-2 "Reordered Power of 2")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-refueling-stops "Minimum Number of Refueling Stops")
+[Next >](../minimum-number-of-refueling-stops "Minimum Number of Refueling Stops")
 
 ## [870. Advantage Shuffle (Medium)](https://leetcode.com/problems/advantage-shuffle "优势洗牌")
 
@@ -46,5 +46,5 @@
 </div>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]

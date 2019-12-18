@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/basic-calculator "Basic Calculator")
+[< Previous](../basic-calculator "Basic Calculator")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/invert-binary-tree "Invert Binary Tree")
+[Next >](../invert-binary-tree "Invert Binary Tree")
 
 ## [225. Implement Stack using Queues (Easy)](https://leetcode.com/problems/implement-stack-using-queues "用队列实现栈")
 
@@ -40,8 +40,8 @@ stack.empty(); // returns false</pre>
 </ul>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Similar Questions
-  1. [Implement Queue using Stacks](https://github.com/openset/leetcode/tree/master/problems/implement-queue-using-stacks) (Easy)
+  1. [Implement Queue using Stacks](../implement-queue-using-stacks) (Easy)

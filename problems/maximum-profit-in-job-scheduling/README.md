@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/replace-the-substring-for-balanced-string "Replace the Substring for Balanced String")
+[< Previous](../replace-the-substring-for-balanced-string "Replace the Substring for Balanced String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/web-crawler "Web Crawler")
+[Next >](../web-crawler "Web Crawler")
 
 ## [1235. Maximum Profit in Job Scheduling (Hard)](https://leetcode.com/problems/maximum-profit-in-job-scheduling "规划兼职工作")
 
@@ -60,9 +60,9 @@ Profit obtained 150 = 20 + 70 + 60.
 </ul>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

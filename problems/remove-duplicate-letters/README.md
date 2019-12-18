@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self "Count of Smaller Numbers After Self")
+[< Previous](../count-of-smaller-numbers-after-self "Count of Smaller Numbers After Self")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-from-all-buildings "Shortest Distance from All Buildings")
+[Next >](../shortest-distance-from-all-buildings "Shortest Distance from All Buildings")
 
 ## [316. Remove Duplicate Letters (Hard)](https://leetcode.com/problems/remove-duplicate-letters "去除重复字母")
 
@@ -28,5 +28,5 @@
 </pre>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

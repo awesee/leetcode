@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf "Smallest String Starting From Leaf")
+[< Previous](../smallest-string-starting-from-leaf "Smallest String Starting From Leaf")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/satisfiability-of-equality-equations "Satisfiability of Equality Equations")
+[Next >](../satisfiability-of-equality-equations "Satisfiability of Equality Equations")
 
 ## [989. Add to Array-Form of Integer (Easy)](https://leetcode.com/problems/add-to-array-form-of-integer "数组形式的整数加法")
 
@@ -72,10 +72,10 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers) (Medium)
-  1. [Plus One](https://github.com/openset/leetcode/tree/master/problems/plus-one) (Easy)
-  1. [Add Binary](https://github.com/openset/leetcode/tree/master/problems/add-binary) (Easy)
-  1. [Add Strings](https://github.com/openset/leetcode/tree/master/problems/add-strings) (Easy)
+  1. [Add Two Numbers](../add-two-numbers) (Medium)
+  1. [Plus One](../plus-one) (Easy)
+  1. [Add Binary](../add-binary) (Easy)
+  1. [Add Strings](../add-strings) (Easy)

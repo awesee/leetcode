@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-score-words-formed-by-letters "Maximum Score Words Formed by Letters")
+[< Previous](../maximum-score-words-formed-by-letters "Maximum Score Words Formed by Letters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-common-region "Smallest Common Region")
+[Next >](../smallest-common-region "Smallest Common Region")
 
 ## [1256. Encode Number (Medium)](https://leetcode.com/problems/encode-number "加密数字")
 
@@ -40,11 +40,11 @@
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Convert to Base -2](https://github.com/openset/leetcode/tree/master/problems/convert-to-base-2) (Medium)
+  1. [Convert to Base -2](../convert-to-base-2) (Medium)
 
 ### Hints
 <details>

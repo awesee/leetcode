@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii "Brace Expansion II")
+[< Previous](../brace-expansion-ii "Brace Expansion II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unpopular-books "Unpopular Books")
+[Next >](../unpopular-books "Unpopular Books")
 
 ## [1097. Game Play Analysis V (Hard)](https://leetcode.com/problems/game-play-analysis-v "游戏玩法分析 V")
 
@@ -61,4 +61,4 @@ Player 2 installed the game on 2017-06-25 but didn&#39;t log back in on 2017-06-
 </pre>
 
 ### Similar Questions
-  1. [Game Play Analysis IV](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iv) (Medium)
+  1. [Game Play Analysis IV](../game-play-analysis-iv) (Medium)

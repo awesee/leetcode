@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sum-of-root-to-leaf-binary-numbers "Sum of Root To Leaf Binary Numbers")
+[< Previous](../sum-of-root-to-leaf-binary-numbers "Sum of Root To Leaf Binary Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/video-stitching "Video Stitching")
+[Next >](../video-stitching "Video Stitching")
 
 ## [1023. Camelcase Matching (Medium)](https://leetcode.com/problems/camelcase-matching "驼峰式匹配")
 
@@ -58,8 +58,8 @@
 </ol>
 
 ### Related Topics
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Trie](../../tag/trie/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

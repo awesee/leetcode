@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-a-concatenated-string-with-unique-characters "Maximum Length of a Concatenated String with Unique Characters")
+[< Previous](../maximum-length-of-a-concatenated-string-with-unique-characters "Maximum Length of a Concatenated String with Unique Characters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-comments-per-post "Number of Comments per Post")
+[Next >](../number-of-comments-per-post "Number of Comments per Post")
 
 ## [1240. Tiling a Rectangle with the Fewest Squares (Hard)](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares "铺瓷砖")
 
@@ -52,8 +52,8 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints
 <details>

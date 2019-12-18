@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/subarrays-with-k-different-integers "Subarrays with K Different Integers")
+[< Previous](../subarrays-with-k-different-integers "Subarrays with K Different Integers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rotting-oranges "Rotting Oranges")
+[Next >](../rotting-oranges "Rotting Oranges")
 
 ## [993. Cousins in Binary Tree (Easy)](https://leetcode.com/problems/cousins-in-binary-tree "二叉树的堂兄弟节点")
 
@@ -65,8 +65,8 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal) (Medium)
+  1. [Binary Tree Level Order Traversal](../binary-tree-level-order-traversal) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/powerful-integers "Powerful Integers")
+[< Previous](../powerful-integers "Powerful Integers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/equal-rational-numbers "Equal Rational Numbers")
+[Next >](../equal-rational-numbers "Equal Rational Numbers")
 
 ## [971. Flip Binary Tree To Match Preorder Traversal (Medium)](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal "翻转二叉树以匹配先序遍历")
 
@@ -69,5 +69,5 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]

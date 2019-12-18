@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/transpose-matrix "Transpose Matrix")
+[< Previous](../transpose-matrix "Transpose Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reordered-power-of-2 "Reordered Power of 2")
+[Next >](../reordered-power-of-2 "Reordered Power of 2")
 
 ## [868. Binary Gap (Easy)](https://leetcode.com/problems/binary-gap "二进制间距")
 
@@ -90,4 +90,4 @@ There aren&#39;t any consecutive pairs of 1&#39;s in the binary representation o
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

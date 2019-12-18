@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/russian-doll-envelopes "Russian Doll Envelopes")
+[< Previous](../russian-doll-envelopes "Russian Doll Envelopes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/line-reflection "Line Reflection")
+[Next >](../line-reflection "Line Reflection")
 
 ## [355. Design Twitter (Medium)](https://leetcode.com/problems/design-twitter "设计推特")
 
@@ -52,6 +52,6 @@ twitter.getNewsFeed(1);
 </p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]

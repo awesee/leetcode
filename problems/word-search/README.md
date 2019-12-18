@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/subsets "Subsets")
+[< Previous](../subsets "Subsets")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array-ii "Remove Duplicates from Sorted Array II")
+[Next >](../remove-duplicates-from-sorted-array-ii "Remove Duplicates from Sorted Array II")
 
 ## [79. Word Search (Medium)](https://leetcode.com/problems/word-search "单词搜索")
 
@@ -31,8 +31,8 @@ Given word = &quot;<strong>ABCB</strong>&quot;, return <strong>false</strong>.
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Word Search II](https://github.com/openset/leetcode/tree/master/problems/word-search-ii) (Hard)
+  1. [Word Search II](../word-search-ii) (Hard)

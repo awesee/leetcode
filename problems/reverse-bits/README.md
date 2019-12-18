@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rotate-array "Rotate Array")
+[< Previous](../rotate-array "Rotate Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits "Number of 1 Bits")
+[Next >](../number-of-1-bits "Number of 1 Bits")
 
 ## [190. Reverse Bits (Easy)](https://leetcode.com/problems/reverse-bits "颠倒二进制位")
 
@@ -46,8 +46,8 @@
 <p>If this function is called many times, how would you optimize it?</p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
-  1. [Reverse Integer](https://github.com/openset/leetcode/tree/master/problems/reverse-integer) (Easy)
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)
+  1. [Reverse Integer](../reverse-integer) (Easy)
+  1. [Number of 1 Bits](../number-of-1-bits) (Easy)

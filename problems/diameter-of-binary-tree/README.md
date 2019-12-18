@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/01-matrix "01 Matrix")
+[< Previous](../01-matrix "01 Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/output-contest-matches "Output Contest Matches")
+[Next >](../output-contest-matches "Output Contest Matches")
 
 ## [543. Diameter of Binary Tree (Easy)](https://leetcode.com/problems/diameter-of-binary-tree "二叉树的直径")
 
@@ -35,4 +35,4 @@ The length of path between two nodes is represented by the number of edges betwe
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]

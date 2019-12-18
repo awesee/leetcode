@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-mountain-array "Valid Mountain Array")
+[< Previous](../valid-mountain-array "Valid Mountain Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-shortest-superstring "Find the Shortest Superstring")
+[Next >](../find-the-shortest-superstring "Find the Shortest Superstring")
 
 ## [942. DI String Match (Easy)](https://leetcode.com/problems/di-string-match "增减字符串匹配")
 
@@ -56,4 +56,4 @@
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

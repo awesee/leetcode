@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-customer-referee "Find Customer Referee")
+[< Previous](../find-customer-referee "Find Customer Referee")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/customer-placing-the-largest-number-of-orders "Customer Placing the Largest Number of Orders")
+[Next >](../customer-placing-the-largest-number-of-orders "Customer Placing the Largest Number of Orders")
 
 ## [585. Investments in 2016 (Medium)](https://leetcode.com/problems/investments-in-2016 "2016年的投资")
 

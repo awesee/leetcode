@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/counting-bits "Counting Bits")
+[< Previous](../counting-bits "Counting Bits")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-k-distinct-characters "Longest Substring with At Most K Distinct Characters")
+[Next >](../longest-substring-with-at-most-k-distinct-characters "Longest Substring with At Most K Distinct Characters")
 
 ## [339. Nested List Weight Sum (Easy)](https://leetcode.com/problems/nested-list-weight-sum "嵌套列表权重和")
 
@@ -32,9 +32,9 @@
 <strong>Explanation: </strong>One 1 at depth 1, one 4 at depth 2, and one 6 at depth 3; 1 + 4*2 + 6*3 = 27.</pre>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Nested List Weight Sum II](https://github.com/openset/leetcode/tree/master/problems/nested-list-weight-sum-ii) (Medium)
-  1. [Array Nesting](https://github.com/openset/leetcode/tree/master/problems/array-nesting) (Medium)
-  1. [Employee Importance](https://github.com/openset/leetcode/tree/master/problems/employee-importance) (Easy)
+  1. [Nested List Weight Sum II](../nested-list-weight-sum-ii) (Medium)
+  1. [Array Nesting](../array-nesting) (Medium)
+  1. [Employee Importance](../employee-importance) (Easy)

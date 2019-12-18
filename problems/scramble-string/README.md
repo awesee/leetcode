@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/partition-list "Partition List")
+[< Previous](../partition-list "Partition List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/merge-sorted-array "Merge Sorted Array")
+[Next >](../merge-sorted-array "Merge Sorted Array")
 
 ## [87. Scramble String (Hard)](https://leetcode.com/problems/scramble-string "扰乱字符串")
 
@@ -71,5 +71,5 @@ r   g  ta  e
 <strong>Output:</strong> false</pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

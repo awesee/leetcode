@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sentence-screen-fitting "Sentence Screen Fitting")
+[< Previous](../sentence-screen-fitting "Sentence Screen Fitting")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/strong-password-checker "Strong Password Checker")
+[Next >](../strong-password-checker "Strong Password Checker")
 
 ## [419. Battleships in a Board (Medium)](https://leetcode.com/problems/battleships-in-a-board "甲板上的战舰")
 

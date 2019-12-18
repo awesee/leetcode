@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller "3Sum Smaller")
+[< Previous](../3sum-smaller "3Sum Smaller")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/graph-valid-tree "Graph Valid Tree")
+[Next >](../graph-valid-tree "Graph Valid Tree")
 
 ## [260. Single Number III (Medium)](https://leetcode.com/problems/single-number-iii "只出现一次的数字 III")
 
@@ -27,8 +27,8 @@
 </ol>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
-  1. [Single Number](https://github.com/openset/leetcode/tree/master/problems/single-number) (Easy)
-  1. [Single Number II](https://github.com/openset/leetcode/tree/master/problems/single-number-ii) (Medium)
+  1. [Single Number](../single-number) (Easy)
+  1. [Single Number II](../single-number-ii) (Medium)

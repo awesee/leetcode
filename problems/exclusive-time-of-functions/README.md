@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-log-storage-system "Design Log Storage System")
+[< Previous](../design-log-storage-system "Design Log Storage System")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/average-of-levels-in-binary-tree "Average of Levels in Binary Tree")
+[Next >](../average-of-levels-in-binary-tree "Average of Levels in Binary Tree")
 
 ## [636. Exclusive Time of Functions (Medium)](https://leetcode.com/problems/exclusive-time-of-functions "函数的独占时间")
 
@@ -54,4 +54,4 @@ So function 0 spends 2 + 1 = 3 units of total time executing, and function 1 spe
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](../../tag/stack/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/gas-station "Gas Station")
+[< Previous](../gas-station "Gas Station")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/single-number "Single Number")
+[Next >](../single-number "Single Number")
 
 ## [135. Candy (Hard)](https://leetcode.com/problems/candy "分发糖果")
 
@@ -40,4 +40,4 @@
 </pre>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

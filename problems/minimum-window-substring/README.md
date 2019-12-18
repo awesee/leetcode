@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sort-colors "Sort Colors")
+[< Previous](../sort-colors "Sort Colors")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/combinations "Combinations")
+[Next >](../combinations "Combinations")
 
 ## [76. Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring "最小覆盖子串")
 
@@ -28,17 +28,17 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions
-  1. [Substring with Concatenation of All Words](https://github.com/openset/leetcode/tree/master/problems/substring-with-concatenation-of-all-words) (Hard)
-  1. [Minimum Size Subarray Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-size-subarray-sum) (Medium)
-  1. [Sliding Window Maximum](https://github.com/openset/leetcode/tree/master/problems/sliding-window-maximum) (Hard)
-  1. [Permutation in String](https://github.com/openset/leetcode/tree/master/problems/permutation-in-string) (Medium)
-  1. [Minimum Window Subsequence](https://github.com/openset/leetcode/tree/master/problems/minimum-window-subsequence) (Hard)
+  1. [Substring with Concatenation of All Words](../substring-with-concatenation-of-all-words) (Hard)
+  1. [Minimum Size Subarray Sum](../minimum-size-subarray-sum) (Medium)
+  1. [Sliding Window Maximum](../sliding-window-maximum) (Hard)
+  1. [Permutation in String](../permutation-in-string) (Medium)
+  1. [Minimum Window Subsequence](../minimum-window-subsequence) (Hard)
 
 ### Hints
 <details>

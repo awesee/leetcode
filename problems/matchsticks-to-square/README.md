@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/concatenated-words "Concatenated Words")
+[< Previous](../concatenated-words "Concatenated Words")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/ones-and-zeroes "Ones and Zeroes")
+[Next >](../ones-and-zeroes "Ones and Zeroes")
 
 ## [473. Matchsticks to Square (Medium)](https://leetcode.com/problems/matchsticks-to-square "火柴拼正方形")
 
@@ -41,7 +41,7 @@
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Hints
 <details>

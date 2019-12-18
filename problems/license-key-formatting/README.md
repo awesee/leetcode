@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/magical-string "Magical String")
+[< Previous](../magical-string "Magical String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-good-base "Smallest Good Base")
+[Next >](../smallest-good-base "Smallest Good Base")
 
 ## [482. License Key Formatting (Easy)](https://leetcode.com/problems/license-key-formatting "密钥格式化")
 

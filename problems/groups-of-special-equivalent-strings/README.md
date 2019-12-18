@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/surface-area-of-3d-shapes "Surface Area of 3D Shapes")
+[< Previous](../surface-area-of-3d-shapes "Surface Area of 3D Shapes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/all-possible-full-binary-trees "All Possible Full Binary Trees")
+[Next >](../all-possible-full-binary-trees "All Possible Full Binary Trees")
 
 ## [893. Groups of Special-Equivalent Strings (Easy)](https://leetcode.com/problems/groups-of-special-equivalent-strings "特殊等价字符串组")
 
@@ -71,4 +71,4 @@ The other two groups are [&quot;xyzz&quot;, &quot;zzxy&quot;] and [&quot;zzyx&qu
 </div>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

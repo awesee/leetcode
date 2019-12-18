@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/course-schedule-iii "Course Schedule III")
+[< Previous](../course-schedule-iii "Course Schedule III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-range-covering-elements-from-k-lists "Smallest Range Covering Elements from K Lists")
+[Next >](../smallest-range-covering-elements-from-k-lists "Smallest Range Covering Elements from K Lists")
 
 ## [631. Design Excel Sum Formula (Hard)](https://leetcode.com/problems/design-excel-sum-formula "设计 Excel 求和公式")
 
@@ -70,4 +70,4 @@ Set(2, "B", 2);
 </p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](../../tag/design/README.md)]

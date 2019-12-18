@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/analyze-user-website-visit-pattern "Analyze User Website Visit Pattern")
+[< Previous](../analyze-user-website-visit-pattern "Analyze User Website Visit Pattern")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/day-of-the-year "Day of the Year")
+[Next >](../day-of-the-year "Day of the Year")
 
 ## [1153. String Transforms Into Another String (Hard)](https://leetcode.com/problems/string-transforms-into-another-string "字符串转化")
 
@@ -45,7 +45,7 @@
 </ol>
 
 ### Related Topics
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Hints
 <details>

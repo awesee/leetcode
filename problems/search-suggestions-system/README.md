@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-servers-that-communicate "Count Servers that Communicate")
+[< Previous](../count-servers-that-communicate "Count Servers that Communicate")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps "Number of Ways to Stay in the Same Place After Some Steps")
+[Next >](../number-of-ways-to-stay-in-the-same-place-after-some-steps "Number of Ways to Stay in the Same Place After Some Steps")
 
 ## [1268. Search Suggestions System (Medium)](https://leetcode.com/problems/search-suggestions-system "搜索推荐系统")
 
@@ -66,7 +66,7 @@ After typing mou, mous and mouse the system suggests [&quot;mouse&quot;,&quot;mo
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

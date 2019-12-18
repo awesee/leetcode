@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/range-sum-of-bst "Range Sum of BST")
+[< Previous](../range-sum-of-bst "Range Sum of BST")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/distinct-subsequences-ii "Distinct Subsequences II")
+[Next >](../distinct-subsequences-ii "Distinct Subsequences II")
 
 ## [939. Minimum Area Rectangle (Medium)](https://leetcode.com/problems/minimum-area-rectangle "最小面积矩形")
 
@@ -47,4 +47,4 @@
 </div>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]

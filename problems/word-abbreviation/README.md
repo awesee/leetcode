@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement "Beautiful Arrangement")
+[< Previous](../beautiful-arrangement "Beautiful Arrangement")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-weight "Random Pick with Weight")
+[Next >](../random-pick-with-weight "Random Pick with Weight")
 
 ## [527. Word Abbreviation (Hard)](https://leetcode.com/problems/word-abbreviation "单词缩写")
 
@@ -36,9 +36,9 @@
 </ol>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Valid Word Abbreviation](https://github.com/openset/leetcode/tree/master/problems/valid-word-abbreviation) (Easy)
-  1. [Minimum Unique Word Abbreviation](https://github.com/openset/leetcode/tree/master/problems/minimum-unique-word-abbreviation) (Hard)
+  1. [Valid Word Abbreviation](../valid-word-abbreviation) (Easy)
+  1. [Minimum Unique Word Abbreviation](../minimum-unique-word-abbreviation) (Hard)

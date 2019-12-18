@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/surrounded-regions "Surrounded Regions")
+[< Previous](../surrounded-regions "Surrounded Regions")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-ii "Palindrome Partitioning II")
+[Next >](../palindrome-partitioning-ii "Palindrome Partitioning II")
 
 ## [131. Palindrome Partitioning (Medium)](https://leetcode.com/problems/palindrome-partitioning "分割回文串")
 
@@ -27,7 +27,7 @@
 </pre>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Palindrome Partitioning II](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-ii) (Hard)
+  1. [Palindrome Partitioning II](../palindrome-partitioning-ii) (Hard)

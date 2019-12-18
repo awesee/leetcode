@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/triangle "Triangle")
+[< Previous](../triangle "Triangle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-ii "Best Time to Buy and Sell Stock II")
+[Next >](../best-time-to-buy-and-sell-stock-ii "Best Time to Buy and Sell Stock II")
 
 ## [121. Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock "买卖股票的最佳时机")
 
@@ -35,12 +35,12 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Maximum Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray) (Easy)
-  1. [Best Time to Buy and Sell Stock II](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-ii) (Easy)
-  1. [Best Time to Buy and Sell Stock III](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iii) (Hard)
-  1. [Best Time to Buy and Sell Stock IV](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iv) (Hard)
-  1. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-cooldown) (Medium)
+  1. [Maximum Subarray](../maximum-subarray) (Easy)
+  1. [Best Time to Buy and Sell Stock II](../best-time-to-buy-and-sell-stock-ii) (Easy)
+  1. [Best Time to Buy and Sell Stock III](../best-time-to-buy-and-sell-stock-iii) (Hard)
+  1. [Best Time to Buy and Sell Stock IV](../best-time-to-buy-and-sell-stock-iv) (Hard)
+  1. [Best Time to Buy and Sell Stock with Cooldown](../best-time-to-buy-and-sell-stock-with-cooldown) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-in-a-plane "Shortest Distance in a Plane")
+[< Previous](../shortest-distance-in-a-plane "Shortest Distance in a Plane")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/second-degree-follower "Second Degree Follower")
+[Next >](../second-degree-follower "Second Degree Follower")
 
 ## [613. Shortest Distance in a Line (Easy)](https://leetcode.com/problems/shortest-distance-in-a-line "直线上的最近距离")
 

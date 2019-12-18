@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/relative-sort-array "Relative Sort Array")
+[< Previous](../relative-sort-array "Relative Sort Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-well-performing-interval "Longest Well-Performing Interval")
+[Next >](../longest-well-performing-interval "Longest Well-Performing Interval")
 
 ## [1123. Lowest Common Ancestor of Deepest Leaves (Medium)](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves "最深叶节点的最近公共祖先")
 
@@ -56,8 +56,8 @@ The answer returned is a TreeNode object (not an array) with serialization &quot
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Hints
 <details>

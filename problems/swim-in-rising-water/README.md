@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/swap-adjacent-in-lr-string "Swap Adjacent in LR String")
+[< Previous](../swap-adjacent-in-lr-string "Swap Adjacent in LR String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/k-th-symbol-in-grammar "K-th Symbol in Grammar")
+[Next >](../k-th-symbol-in-grammar "K-th Symbol in Grammar")
 
 ## [778. Swim in Rising Water (Hard)](https://leetcode.com/problems/swim-in-rising-water "水位上升的泳池中游泳")
 
@@ -54,10 +54,10 @@ We need to wait until time 16 so that (0, 0) and (4, 4) are connected.
 </ol>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

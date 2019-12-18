@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/project-employees-iii "Project Employees III")
+[< Previous](../project-employees-iii "Project Employees III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/letter-tile-possibilities "Letter Tile Possibilities")
+[Next >](../letter-tile-possibilities "Letter Tile Possibilities")
 
 ## [1078. Occurrences After Bigram (Easy)](https://leetcode.com/problems/occurrences-after-bigram "Bigram 分词")
 
@@ -45,7 +45,7 @@
 </div>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

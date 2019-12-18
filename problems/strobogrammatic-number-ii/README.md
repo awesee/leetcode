@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number "Strobogrammatic Number")
+[< Previous](../strobogrammatic-number "Strobogrammatic Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-iii "Strobogrammatic Number III")
+[Next >](../strobogrammatic-number-iii "Strobogrammatic Number III")
 
 ## [247. Strobogrammatic Number II (Medium)](https://leetcode.com/problems/strobogrammatic-number-ii "中心对称数 II")
 
@@ -23,12 +23,12 @@
 </pre>
 
 ### Related Topics
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Strobogrammatic Number](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number) (Easy)
-  1. [Strobogrammatic Number III](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-iii) (Hard)
+  1. [Strobogrammatic Number](../strobogrammatic-number) (Easy)
+  1. [Strobogrammatic Number III](../strobogrammatic-number-iii) (Hard)
 
 ### Hints
 <details>

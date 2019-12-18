@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-subarrays "Number of Valid Subarrays")
+[< Previous](../number-of-valid-subarrays "Number of Valid Subarrays")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/index-pairs-of-a-string "Index Pairs of a String")
+[Next >](../index-pairs-of-a-string "Index Pairs of a String")
 
 ## [1064. Fixed Point (Easy)](https://leetcode.com/problems/fixed-point "不动点")
 
@@ -52,8 +52,8 @@ There is no such <code>i</code> that <code>A[i] = i</code>, thus the output is -
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

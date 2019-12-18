@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/knight-dialer "Knight Dialer")
+[< Previous](../knight-dialer "Knight Dialer")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reorder-data-in-log-files "Reorder Data in Log Files")
+[Next >](../reorder-data-in-log-files "Reorder Data in Log Files")
 
 ## [936. Stamping The Sequence (Hard)](https://leetcode.com/problems/stamping-the-sequence "戳印序列")
 
@@ -56,5 +56,5 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[String](../../tag/string/README.md)]

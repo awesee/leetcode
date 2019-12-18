@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flatten-2d-vector "Flatten 2D Vector")
+[< Previous](../flatten-2d-vector "Flatten 2D Vector")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms-ii "Meeting Rooms II")
+[Next >](../meeting-rooms-ii "Meeting Rooms II")
 
 ## [252. Meeting Rooms (Easy)](https://leetcode.com/problems/meeting-rooms "会议室")
 
@@ -30,8 +30,8 @@
 <p><strong>NOTE:</strong>&nbsp;input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</p>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Sort](../../tag/sort/README.md)]
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
-  1. [Meeting Rooms II](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms-ii) (Medium)
+  1. [Merge Intervals](../merge-intervals) (Medium)
+  1. [Meeting Rooms II](../meeting-rooms-ii) (Medium)

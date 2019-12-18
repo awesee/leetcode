@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/online-stock-span "Online Stock Span")
+[< Previous](../online-stock-span "Online Stock Span")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-permutations-for-di-sequence "Valid Permutations for DI Sequence")
+[Next >](../valid-permutations-for-di-sequence "Valid Permutations for DI Sequence")
 
 ## [902. Numbers At Most N Given Digit Set (Hard)](https://leetcode.com/problems/numbers-at-most-n-given-digit-set "最大为 N 的数字组合")
 
@@ -52,5 +52,5 @@ In total, this is 29523 integers that can be written using the digits of D.</pre
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

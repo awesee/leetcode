@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/min-stack "Min Stack")
+[< Previous](../min-stack "Min Stack")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/read-n-characters-given-read4 "Read N Characters Given Read4")
+[Next >](../read-n-characters-given-read4 "Read N Characters Given Read4")
 
 ## [156. Binary Tree Upside Down (Medium)](https://leetcode.com/problems/binary-tree-upside-down "上下翻转二叉树")
 
@@ -54,7 +54,7 @@
 <p>The above binary tree is serialized as <code>[1,2,3,#,#,4,#,#,5]</code>.</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Reverse Linked List](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list) (Easy)
+  1. [Reverse Linked List](../reverse-linked-list) (Easy)

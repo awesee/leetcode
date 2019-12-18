@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-phone-numbers "Valid Phone Numbers")
+[< Previous](../valid-phone-numbers "Valid Phone Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/tenth-line "Tenth Line")
+[Next >](../tenth-line "Tenth Line")
 
 ## [194. Transpose File (Medium)](https://leetcode.com/problems/transpose-file "转置文件")
 

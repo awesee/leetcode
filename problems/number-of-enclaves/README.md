@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/next-greater-node-in-linked-list "Next Greater Node In Linked List")
+[< Previous](../next-greater-node-in-linked-list "Next Greater Node In Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-outermost-parentheses "Remove Outermost Parentheses")
+[Next >](../remove-outermost-parentheses "Remove Outermost Parentheses")
 
 ## [1020. Number of Enclaves (Medium)](https://leetcode.com/problems/number-of-enclaves "飞地的数量")
 
@@ -48,7 +48,7 @@ All 1s are either on the boundary or can reach the boundary.
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Hints
 <details>

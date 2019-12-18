@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/swap-salary "Swap Salary")
+[< Previous](../swap-salary "Swap Salary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/k-inverse-pairs-array "K Inverse Pairs Array")
+[Next >](../k-inverse-pairs-array "K Inverse Pairs Array")
 
 ## [628. Maximum Product of Three Numbers (Easy)](https://leetcode.com/problems/maximum-product-of-three-numbers "三个数的最大乘积")
 
@@ -41,8 +41,8 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray) (Medium)
+  1. [Maximum Product Subarray](../maximum-product-subarray) (Medium)

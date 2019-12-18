@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-ladder "Word Ladder")
+[< Previous](../word-ladder "Word Ladder")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sum-root-to-leaf-numbers "Sum Root to Leaf Numbers")
+[Next >](../sum-root-to-leaf-numbers "Sum Root to Leaf Numbers")
 
 ## [128. Longest Consecutive Sequence (Hard)](https://leetcode.com/problems/longest-consecutive-sequence "最长连续序列")
 
@@ -24,8 +24,8 @@
 </pre>
 
 ### Related Topics
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Longest Consecutive Sequence](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence) (Medium)
+  1. [Binary Tree Longest Consecutive Sequence](../binary-tree-longest-consecutive-sequence) (Medium)

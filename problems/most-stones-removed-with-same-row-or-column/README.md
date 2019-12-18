@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/validate-stack-sequences "Validate Stack Sequences")
+[< Previous](../validate-stack-sequences "Validate Stack Sequences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/bag-of-tokens "Bag of Tokens")
+[Next >](../bag-of-tokens "Bag of Tokens")
 
 ## [947. Most Stones Removed with Same Row or Column (Medium)](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column "移除最多的同行或同列石头")
 
@@ -56,5 +56,5 @@
 </div>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]

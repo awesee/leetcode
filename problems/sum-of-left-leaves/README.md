@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/frog-jump "Frog Jump")
+[< Previous](../frog-jump "Frog Jump")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/convert-a-number-to-hexadecimal "Convert a Number to Hexadecimal")
+[Next >](../convert-a-number-to-hexadecimal "Convert a Number to Hexadecimal")
 
 ## [404. Sum of Left Leaves (Easy)](https://leetcode.com/problems/sum-of-left-leaves "左叶子之和")
 
@@ -26,4 +26,4 @@ There are two left leaves in the binary tree, with values <b>9</b> and <b>15</b>
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]

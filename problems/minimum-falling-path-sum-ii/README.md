@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-covered-intervals "Remove Covered Intervals")
+[< Previous](../remove-covered-intervals "Remove Covered Intervals")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/convert-binary-number-in-a-linked-list-to-integer "Convert Binary Number in a Linked List to Integer")
+[Next >](../convert-binary-number-in-a-linked-list-to-integer "Convert Binary Number in a Linked List to Integer")
 
 ## [1289. Minimum Falling Path Sum II (Hard)](https://leetcode.com/problems/minimum-falling-path-sum-ii "下降路径最小和  II")
 
@@ -38,7 +38,7 @@ The falling path with the smallest sum is&nbsp;[1,5,7], so the answer is&nbsp;13
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

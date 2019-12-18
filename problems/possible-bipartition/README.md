@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-iii "Spiral Matrix III")
+[< Previous](../spiral-matrix-iii "Spiral Matrix III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/super-egg-drop "Super Egg Drop")
+[Next >](../super-egg-drop "Super Egg Drop")
 
 ## [886. Possible Bipartition (Medium)](https://leetcode.com/problems/possible-bipartition "可能的二分法")
 
@@ -69,4 +69,4 @@
 </div>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]

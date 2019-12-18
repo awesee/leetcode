@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/third-maximum-number "Third Maximum Number")
+[< Previous](../third-maximum-number "Third Maximum Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/partition-equal-subset-sum "Partition Equal Subset Sum")
+[Next >](../partition-equal-subset-sum "Partition Equal Subset Sum")
 
 ## [415. Add Strings (Easy)](https://leetcode.com/problems/add-strings "字符串相加")
 
@@ -23,9 +23,9 @@
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers) (Medium)
-  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/problems/multiply-strings) (Medium)
-  1. [Add to Array-Form of Integer](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer) (Easy)
+  1. [Add Two Numbers](../add-two-numbers) (Medium)
+  1. [Multiply Strings](../multiply-strings) (Medium)
+  1. [Add to Array-Form of Integer](../add-to-array-form-of-integer) (Easy)

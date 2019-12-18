@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/redundant-connection "Redundant Connection")
+[< Previous](../redundant-connection "Redundant Connection")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/repeated-string-match "Repeated String Match")
+[Next >](../repeated-string-match "Repeated String Match")
 
 ## [685. Redundant Connection II (Hard)](https://leetcode.com/problems/redundant-connection-ii "冗余连接 II")
 
@@ -47,10 +47,10 @@ v   v
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Similar Questions
-  1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/problems/redundant-connection) (Medium)
+  1. [Redundant Connection](../redundant-connection) (Medium)

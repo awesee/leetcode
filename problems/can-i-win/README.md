@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/island-perimeter "Island Perimeter")
+[< Previous](../island-perimeter "Island Perimeter")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/optimal-account-balancing "Optimal Account Balancing")
+[Next >](../optimal-account-balancing "Optimal Account Balancing")
 
 ## [464. Can I Win (Medium)](https://leetcode.com/problems/can-i-win "我能赢吗")
 
@@ -41,10 +41,10 @@ Same with other integers chosen by the first player, the second player will alwa
 </p>
 
 ### Related Topics
-  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Minimax](../../tag/minimax/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Flip Game II](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii) (Medium)
-  1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii) (Medium)
-  1. [Predict the Winner](https://github.com/openset/leetcode/tree/master/problems/predict-the-winner) (Medium)
+  1. [Flip Game II](../flip-game-ii) (Medium)
+  1. [Guess Number Higher or Lower II](../guess-number-higher-or-lower-ii) (Medium)
+  1. [Predict the Winner](../predict-the-winner) (Medium)

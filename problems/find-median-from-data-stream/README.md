@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii "Flip Game II")
+[< Previous](../flip-game-ii "Flip Game II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/best-meeting-point "Best Meeting Point")
+[Next >](../best-meeting-point "Best Meeting Point")
 
 ## [295. Find Median from Data Stream (Hard)](https://leetcode.com/problems/find-median-from-data-stream "数据流的中位数")
 
@@ -47,8 +47,8 @@ findMedian() -&gt; 2
 </ol>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Similar Questions
-  1. [Sliding Window Median](https://github.com/openset/leetcode/tree/master/problems/sliding-window-median) (Hard)
+  1. [Sliding Window Median](../sliding-window-median) (Hard)

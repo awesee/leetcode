@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices "Arithmetic Slices")
+[< Previous](../arithmetic-slices "Arithmetic Slices")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/add-strings "Add Strings")
+[Next >](../add-strings "Add Strings")
 
 ## [414. Third Maximum Number (Easy)](https://leetcode.com/problems/third-maximum-number "第三大的数")
 
@@ -45,7 +45,7 @@ Both numbers with value 2 are both considered as second maximum.
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Kth Largest Element in an Array](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array) (Medium)
+  1. [Kth Largest Element in an Array](../kth-largest-element-in-an-array) (Medium)

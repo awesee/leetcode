@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-k-length-substrings-with-no-repeated-characters "Find K-Length Substrings With No Repeated Characters")
+[< Previous](../find-k-length-substrings-with-no-repeated-characters "Find K-Length Substrings With No Repeated Characters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-minimum-value "Path With Maximum Minimum Value")
+[Next >](../path-with-maximum-minimum-value "Path With Maximum Minimum Value")
 
 ## [1101. The Earliest Moment When Everyone Become Friends (Medium)](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends "彼此熟识的最早时间")
 
@@ -52,10 +52,10 @@ The sixth event occurs at timestamp = 20190301 and after 0 and 3 become friends 
 </ol>
 
 ### Related Topics
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
 
 ### Similar Questions
-  1. [Friend Circles](https://github.com/openset/leetcode/tree/master/problems/friend-circles) (Medium)
+  1. [Friend Circles](../friend-circles) (Medium)
 
 ### Hints
 <details>

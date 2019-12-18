@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-word-square "Valid Word Square")
+[< Previous](../valid-word-square "Valid Word Square")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-repeating-character-replacement "Longest Repeating Character Replacement")
+[Next >](../longest-repeating-character-replacement "Longest Repeating Character Replacement")
 
 ## [423. Reconstruct Original Digits from English (Medium)](https://leetcode.com/problems/reconstruct-original-digits-from-english "从英文中重建数字")
 
@@ -38,4 +38,4 @@ Output: "45"
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

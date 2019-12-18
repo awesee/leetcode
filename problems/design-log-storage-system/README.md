@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-the-derangement-of-an-array "Find the Derangement of An Array")
+[< Previous](../find-the-derangement-of-an-array "Find the Derangement of An Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/exclusive-time-of-functions "Exclusive Time of Functions")
+[Next >](../exclusive-time-of-functions "Exclusive Time of Functions")
 
 ## [635. Design Log Storage System (Medium)](https://leetcode.com/problems/design-log-storage-system "设计日志存储系统")
 
@@ -38,8 +38,8 @@ retrieve("2016:01:01:01:01:01","2017:01:01:23:00:00","Hour"); // return [1,2], b
 </p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Design In-Memory File System](https://github.com/openset/leetcode/tree/master/problems/design-in-memory-file-system) (Hard)
+  1. [Design In-Memory File System](../design-in-memory-file-system) (Hard)

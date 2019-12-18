@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-for-tickets "Minimum Cost For Tickets")
+[< Previous](../minimum-cost-for-tickets "Minimum Cost For Tickets")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-even-numbers-after-queries "Sum of Even Numbers After Queries")
+[Next >](../sum-of-even-numbers-after-queries "Sum of Even Numbers After Queries")
 
 ## [984. String Without AAA or BBB (Medium)](https://leetcode.com/problems/string-without-aaa-or-bbb "不含 AAA 或 BBB 的字符串")
 
@@ -48,4 +48,4 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

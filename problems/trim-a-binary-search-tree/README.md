@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-number-in-multiplication-table "Kth Smallest Number in Multiplication Table")
+[< Previous](../kth-smallest-number-in-multiplication-table "Kth Smallest Number in Multiplication Table")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-swap "Maximum Swap")
+[Next >](../maximum-swap "Maximum Swap")
 
 ## [669. Trim a Binary Search Tree (Easy)](https://leetcode.com/problems/trim-a-binary-search-tree "修剪二叉搜索树")
 
@@ -56,4 +56,4 @@ Given a binary search tree and the lowest and highest boundaries as <code>L</cod
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]

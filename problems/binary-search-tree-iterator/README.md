@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes "Factorial Trailing Zeroes")
+[< Previous](../factorial-trailing-zeroes "Factorial Trailing Zeroes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/dungeon-game "Dungeon Game")
+[Next >](../dungeon-game "Dungeon Game")
 
 ## [173. Binary Search Tree Iterator (Medium)](https://leetcode.com/problems/binary-search-tree-iterator "二叉搜索树迭代器")
 
@@ -47,13 +47,13 @@ iterator.hasNext(); // return false
 </ul>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
-  1. [Flatten 2D Vector](https://github.com/openset/leetcode/tree/master/problems/flatten-2d-vector) (Medium)
-  1. [Zigzag Iterator](https://github.com/openset/leetcode/tree/master/problems/zigzag-iterator) (Medium)
-  1. [Peeking Iterator](https://github.com/openset/leetcode/tree/master/problems/peeking-iterator) (Medium)
-  1. [Inorder Successor in BST](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst) (Medium)
+  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Medium)
+  1. [Flatten 2D Vector](../flatten-2d-vector) (Medium)
+  1. [Zigzag Iterator](../zigzag-iterator) (Medium)
+  1. [Peeking Iterator](../peeking-iterator) (Medium)
+  1. [Inorder Successor in BST](../inorder-successor-in-bst) (Medium)

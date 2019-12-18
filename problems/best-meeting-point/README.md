@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-median-from-data-stream "Find Median from Data Stream")
+[< Previous](../find-median-from-data-stream "Find Median from Data Stream")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-binary-tree "Serialize and Deserialize Binary Tree")
+[Next >](../serialize-and-deserialize-binary-tree "Serialize and Deserialize Binary Tree")
 
 ## [296. Best Meeting Point (Hard)](https://leetcode.com/problems/best-meeting-point "最佳的碰头地点")
 
@@ -31,12 +31,12 @@ Explanation: </strong>Given three people living at <code>(0,0)</code>, <code>(0,
 &nbsp;            of 2+2+2=6 is minimal. So return 6.</pre>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Shortest Distance from All Buildings](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-from-all-buildings) (Hard)
-  1. [Minimum Moves to Equal Array Elements II](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements-ii) (Medium)
+  1. [Shortest Distance from All Buildings](../shortest-distance-from-all-buildings) (Hard)
+  1. [Minimum Moves to Equal Array Elements II](../minimum-moves-to-equal-array-elements-ii) (Medium)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/degree-of-an-array "Degree of an Array")
+[< Previous](../degree-of-an-array "Degree of an Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/falling-squares "Falling Squares")
+[Next >](../falling-squares "Falling Squares")
 
 ## [698. Partition to K Equal Sum Subsets (Medium)](https://leetcode.com/problems/partition-to-k-equal-sum-subsets "划分为k个相等的子集")
 
@@ -33,11 +33,11 @@
 </ul>
 
 ### Related Topics
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Partition Equal Subset Sum](https://github.com/openset/leetcode/tree/master/problems/partition-equal-subset-sum) (Medium)
+  1. [Partition Equal Subset Sum](../partition-equal-subset-sum) (Medium)
 
 ### Hints
 <details>

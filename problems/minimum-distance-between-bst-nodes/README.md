@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/transform-to-chessboard "Transform to Chessboard")
+[< Previous](../transform-to-chessboard "Transform to Chessboard")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/letter-case-permutation "Letter Case Permutation")
+[Next >](../letter-case-permutation "Letter Case Permutation")
 
 ## [783. Minimum Distance Between BST Nodes (Easy)](https://leetcode.com/problems/minimum-distance-between-bst-nodes "二叉搜索树结点最小距离")
 
@@ -40,8 +40,8 @@ while the minimum difference in this tree is 1, it occurs between node 1 and nod
 </ol>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
+  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Medium)

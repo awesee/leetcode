@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/di-string-match "DI String Match")
+[< Previous](../di-string-match "DI String Match")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted "Delete Columns to Make Sorted")
+[Next >](../delete-columns-to-make-sorted "Delete Columns to Make Sorted")
 
 ## [943. Find the Shortest Superstring (Hard)](https://leetcode.com/problems/find-the-shortest-superstring "最短超级串")
 
@@ -49,4 +49,4 @@
 </div>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

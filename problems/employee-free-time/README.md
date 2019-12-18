@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/bold-words-in-string "Bold Words in String")
+[< Previous](../bold-words-in-string "Bold Words in String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-anagram-mappings "Find Anagram Mappings")
+[Next >](../find-anagram-mappings "Find Anagram Mappings")
 
 ## [759. Employee Free Time (Hard)](https://leetcode.com/problems/employee-free-time "员工空闲时间")
 
@@ -55,12 +55,12 @@ We discard any intervals that contain inf as they aren&#39;t finite.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
-  1. [Interval List Intersections](https://github.com/openset/leetcode/tree/master/problems/interval-list-intersections) (Medium)
+  1. [Merge Intervals](../merge-intervals) (Medium)
+  1. [Interval List Intersections](../interval-list-intersections) (Medium)
 
 ### Hints
 <details>

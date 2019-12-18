@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-unique-word-abbreviation "Minimum Unique Word Abbreviation")
+[< Previous](../minimum-unique-word-abbreviation "Minimum Unique Word Abbreviation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices "Arithmetic Slices")
+[Next >](../arithmetic-slices "Arithmetic Slices")
 
 ## [412. Fizz Buzz (Easy)](https://leetcode.com/problems/fizz-buzz "Fizz Buzz")
 

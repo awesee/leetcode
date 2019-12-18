@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock "Best Time to Buy and Sell Stock")
+[< Previous](../best-time-to-buy-and-sell-stock "Best Time to Buy and Sell Stock")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iii "Best Time to Buy and Sell Stock III")
+[Next >](../best-time-to-buy-and-sell-stock-iii "Best Time to Buy and Sell Stock III")
 
 ## [122. Best Time to Buy and Sell Stock II (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii "买卖股票的最佳时机 II")
 
@@ -44,12 +44,12 @@
 <strong>Explanation:</strong> In this case, no transaction is done, i.e. max profit = 0.</pre>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Best Time to Buy and Sell Stock](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) (Easy)
-  1. [Best Time to Buy and Sell Stock III](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iii) (Hard)
-  1. [Best Time to Buy and Sell Stock IV](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iv) (Hard)
-  1. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-cooldown) (Medium)
-  1. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) (Medium)
+  1. [Best Time to Buy and Sell Stock](../best-time-to-buy-and-sell-stock) (Easy)
+  1. [Best Time to Buy and Sell Stock III](../best-time-to-buy-and-sell-stock-iii) (Hard)
+  1. [Best Time to Buy and Sell Stock IV](../best-time-to-buy-and-sell-stock-iv) (Hard)
+  1. [Best Time to Buy and Sell Stock with Cooldown](../best-time-to-buy-and-sell-stock-with-cooldown) (Medium)
+  1. [Best Time to Buy and Sell Stock with Transaction Fee](../best-time-to-buy-and-sell-stock-with-transaction-fee) (Medium)

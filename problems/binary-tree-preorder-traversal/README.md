@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reorder-list "Reorder List")
+[< Previous](../reorder-list "Reorder List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-postorder-traversal "Binary Tree Postorder Traversal")
+[Next >](../binary-tree-postorder-traversal "Binary Tree Postorder Traversal")
 
 ## [144. Binary Tree Preorder Traversal (Medium)](https://leetcode.com/problems/binary-tree-preorder-traversal "二叉树的前序遍历")
 
@@ -29,10 +29,10 @@
 <p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
-  1. [Verify Preorder Sequence in Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/verify-preorder-sequence-in-binary-search-tree) (Medium)
-  1. [N-ary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-preorder-traversal) (Easy)
+  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Medium)
+  1. [Verify Preorder Sequence in Binary Search Tree](../verify-preorder-sequence-in-binary-search-tree) (Medium)
+  1. [N-ary Tree Preorder Traversal](../n-ary-tree-preorder-traversal) (Easy)

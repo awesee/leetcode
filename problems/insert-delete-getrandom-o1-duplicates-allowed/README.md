@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1 "Insert Delete GetRandom O(1)")
+[< Previous](../insert-delete-getrandom-o1 "Insert Delete GetRandom O(1)")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/linked-list-random-node "Linked List Random Node")
+[Next >](../linked-list-random-node "Linked List Random Node")
 
 ## [381. Insert Delete GetRandom O(1) - Duplicates allowed (Hard)](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed "O(1) 时间插入、删除和获取随机元素 - 允许重复")
 
@@ -47,9 +47,9 @@ collection.getRandom();
 </p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Insert Delete GetRandom O(1)](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1) (Medium)
+  1. [Insert Delete GetRandom O(1)](../insert-delete-getrandom-o1) (Medium)

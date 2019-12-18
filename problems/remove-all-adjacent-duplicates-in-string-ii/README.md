@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/get-equal-substrings-within-budget "Get Equal Substrings Within Budget")
+[< Previous](../get-equal-substrings-within-budget "Get Equal Substrings Within Budget")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-reach-target-with-rotations "Minimum Moves to Reach Target with Rotations")
+[Next >](../minimum-moves-to-reach-target-with-rotations "Minimum Moves to Reach Target with Rotations")
 
 ## [1209. Remove All Adjacent Duplicates in String II (Medium)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii "删除字符串中的所有相邻重复项 II")
 
@@ -54,7 +54,7 @@ Finally delete &quot;ddd&quot;, get &quot;aa&quot;</pre>
 </ul>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](../../tag/stack/README.md)]
 
 ### Hints
 <details>

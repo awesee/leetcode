@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/plus-one-linked-list "Plus One Linked List")
+[< Previous](../plus-one-linked-list "Plus One Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-two-integers "Sum of Two Integers")
+[Next >](../sum-of-two-integers "Sum of Two Integers")
 
 ## [370. Range Addition (Medium)](https://leetcode.com/problems/range-addition "区间加法")
 
@@ -41,10 +41,10 @@ After applying operation [0,2,-2]:
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Range Addition II](https://github.com/openset/leetcode/tree/master/problems/range-addition-ii) (Easy)
+  1. [Range Addition II](../range-addition-ii) (Easy)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-vowels-permutation "Count Vowels Permutation")
+[< Previous](../count-vowels-permutation "Count Vowels Permutation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/queens-that-can-attack-the-king "Queens That Can Attack the King")
+[Next >](../queens-that-can-attack-the-king "Queens That Can Attack the King")
 
 ## [1221. Split a String in Balanced Strings (Easy)](https://leetcode.com/problems/split-a-string-in-balanced-strings "分割平衡字符串")
 
@@ -59,8 +59,8 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

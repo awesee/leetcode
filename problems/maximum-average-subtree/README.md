@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-vowels-from-a-string "Remove Vowels from a String")
+[< Previous](../remove-vowels-from-a-string "Remove Vowels from a String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/divide-array-into-increasing-sequences "Divide Array Into Increasing Sequences")
+[Next >](../divide-array-into-increasing-sequences "Divide Array Into Increasing Sequences")
 
 ## [1120. Maximum Average Subtree (Medium)](https://leetcode.com/problems/maximum-average-subtree "子树的最大平均值")
 
@@ -42,7 +42,7 @@ So the answer is 6 which is the maximum.
 </ol>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Hints
 <details>

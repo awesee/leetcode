@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits "Number of 1 Bits")
+[< Previous](../number-of-1-bits "Number of 1 Bits")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-phone-numbers "Valid Phone Numbers")
+[Next >](../valid-phone-numbers "Valid Phone Numbers")
 
 ## [192. Word Frequency (Medium)](https://leetcode.com/problems/word-frequency "统计词频")
 
@@ -47,4 +47,4 @@ day 1
 </ul>
 
 ### Similar Questions
-  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements) (Medium)
+  1. [Top K Frequent Elements](../top-k-frequent-elements) (Medium)

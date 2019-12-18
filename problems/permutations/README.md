@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/jump-game-ii "Jump Game II")
+[< Previous](../jump-game-ii "Jump Game II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/permutations-ii "Permutations II")
+[Next >](../permutations-ii "Permutations II")
 
 ## [46. Permutations (Medium)](https://leetcode.com/problems/permutations "全排列")
 
@@ -29,10 +29,10 @@
 </pre>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Next Permutation](https://github.com/openset/leetcode/tree/master/problems/next-permutation) (Medium)
-  1. [Permutations II](https://github.com/openset/leetcode/tree/master/problems/permutations-ii) (Medium)
-  1. [Permutation Sequence](https://github.com/openset/leetcode/tree/master/problems/permutation-sequence) (Medium)
-  1. [Combinations](https://github.com/openset/leetcode/tree/master/problems/combinations) (Medium)
+  1. [Next Permutation](../next-permutation) (Medium)
+  1. [Permutations II](../permutations-ii) (Medium)
+  1. [Permutation Sequence](../permutation-sequence) (Medium)
+  1. [Combinations](../combinations) (Medium)

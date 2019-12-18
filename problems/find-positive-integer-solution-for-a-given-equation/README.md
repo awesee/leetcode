@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/web-crawler "Web Crawler")
+[< Previous](../web-crawler "Web Crawler")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/circular-permutation-in-binary-representation "Circular Permutation in Binary Representation")
+[Next >](../circular-permutation-in-binary-representation "Circular Permutation in Binary Representation")
 
 ## [1237. Find Positive Integer Solution for a Given Equation (Easy)](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation "找出给定方程的正整数解")
 
@@ -61,8 +61,8 @@ public:
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/add-binary "Add Binary")
+[< Previous](../add-binary "Add Binary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sqrtx "Sqrt(x)")
+[Next >](../sqrtx "Sqrt(x)")
 
 ## [68. Text Justification (Hard)](https://leetcode.com/problems/text-justification "文本左右对齐")
 
@@ -77,4 +77,4 @@ maxWidth = 20
 </pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

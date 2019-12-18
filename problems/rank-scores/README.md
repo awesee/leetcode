@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/nth-highest-salary "Nth Highest Salary")
+[< Previous](../nth-highest-salary "Nth Highest Salary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-number "Largest Number")
+[Next >](../largest-number "Largest Number")
 
 ## [178. Rank Scores (Medium)](https://leetcode.com/problems/rank-scores "分数排名")
 

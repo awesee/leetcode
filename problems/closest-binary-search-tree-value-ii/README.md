@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings "Encode and Decode Strings")
+[< Previous](../encode-and-decode-strings "Encode and Decode Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/integer-to-english-words "Integer to English Words")
+[Next >](../integer-to-english-words "Integer to English Words")
 
 ## [272. Closest Binary Search Tree Value II (Hard)](https://leetcode.com/problems/closest-binary-search-tree-value-ii "最接近的二叉搜索树值 II")
 
@@ -38,12 +38,12 @@
 Assume that the BST is balanced, could you solve it in less than <i>O</i>(<i>n</i>) runtime (where <i>n</i> = total nodes)?</p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
-  1. [Closest Binary Search Tree Value](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value) (Easy)
+  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Medium)
+  1. [Closest Binary Search Tree Value](../closest-binary-search-tree-value) (Easy)
 
 ### Hints
 <details>

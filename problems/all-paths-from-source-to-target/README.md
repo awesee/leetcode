@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rotate-string "Rotate String")
+[< Previous](../rotate-string "Rotate String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-rotation-with-highest-score "Smallest Rotation with Highest Score")
+[Next >](../smallest-rotation-with-highest-score "Smallest Rotation with Highest Score")
 
 ## [797. All Paths From Source to Target (Medium)](https://leetcode.com/problems/all-paths-from-source-to-target "所有可能的路径")
 

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/repeated-string-match "Repeated String Match")
+[< Previous](../repeated-string-match "Repeated String Match")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/knight-probability-in-chessboard "Knight Probability in Chessboard")
+[Next >](../knight-probability-in-chessboard "Knight Probability in Chessboard")
 
 ## [687. Longest Univalue Path (Easy)](https://leetcode.com/problems/longest-univalue-path "最长同值路径")
 
@@ -52,10 +52,10 @@
 <p><b>Note:</b> The given binary tree has not more than 10000 nodes. The height of the tree is not more than 1000.</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Maximum Path Sum](https://github.com/openset/leetcode/tree/master/problems/binary-tree-maximum-path-sum) (Hard)
-  1. [Count Univalue Subtrees](https://github.com/openset/leetcode/tree/master/problems/count-univalue-subtrees) (Medium)
-  1. [Path Sum III](https://github.com/openset/leetcode/tree/master/problems/path-sum-iii) (Easy)
+  1. [Binary Tree Maximum Path Sum](../binary-tree-maximum-path-sum) (Hard)
+  1. [Count Univalue Subtrees](../count-univalue-subtrees) (Medium)
+  1. [Path Sum III](../path-sum-iii) (Easy)

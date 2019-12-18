@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-th-symbol-in-grammar "K-th Symbol in Grammar")
+[< Previous](../k-th-symbol-in-grammar "K-th Symbol in Grammar")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rabbits-in-forest "Rabbits in Forest")
+[Next >](../rabbits-in-forest "Rabbits in Forest")
 
 ## [780. Reaching Points (Hard)](https://leetcode.com/problems/reaching-points "到达终点")
 
@@ -40,4 +40,4 @@ One series of moves that transforms the starting point to the target is:
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

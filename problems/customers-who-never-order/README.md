@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/duplicate-emails "Duplicate Emails")
+[< Previous](../duplicate-emails "Duplicate Emails")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/department-highest-salary "Department Highest Salary")
+[Next >](../department-highest-salary "Department Highest Salary")
 
 ## [183. Customers Who Never Order (Easy)](https://leetcode.com/problems/customers-who-never-order "从不订购的客户")
 

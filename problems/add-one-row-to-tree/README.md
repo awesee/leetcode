@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-circular-queue "Design Circular Queue")
+[< Previous](../design-circular-queue "Design Circular Queue")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-distance-in-arrays "Maximum Distance in Arrays")
+[Next >](../maximum-distance-in-arrays "Maximum Distance in Arrays")
 
 ## [623. Add One Row to Tree (Medium)](https://leetcode.com/problems/add-one-row-to-tree "在二叉树中增加一行")
 
@@ -75,4 +75,4 @@ A binary tree as following:
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]

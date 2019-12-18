@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/high-five "High Five")
+[< Previous](../high-five "High Five")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/confusing-number-ii "Confusing Number II")
+[Next >](../confusing-number-ii "Confusing Number II")
 
 ## [1087. Brace Expansion (Medium)](https://leetcode.com/problems/brace-expansion "字母切换")
 
@@ -46,12 +46,12 @@
 </ol>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Decode String](https://github.com/openset/leetcode/tree/master/problems/decode-string) (Medium)
-  1. [Letter Case Permutation](https://github.com/openset/leetcode/tree/master/problems/letter-case-permutation) (Easy)
-  1. [Brace Expansion II](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii) (Hard)
+  1. [Decode String](../decode-string) (Medium)
+  1. [Letter Case Permutation](../letter-case-permutation) (Easy)
+  1. [Brace Expansion II](../brace-expansion-ii) (Hard)
 
 ### Hints
 <details>

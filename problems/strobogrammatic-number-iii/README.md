@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-ii "Strobogrammatic Number II")
+[< Previous](../strobogrammatic-number-ii "Strobogrammatic Number II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/group-shifted-strings "Group Shifted Strings")
+[Next >](../group-shifted-strings "Group Shifted Strings")
 
 ## [248. Strobogrammatic Number III (Hard)](https://leetcode.com/problems/strobogrammatic-number-iii "中心对称数 III")
 
@@ -26,9 +26,9 @@
 Because the range might be a large number, the <em>low</em> and <em>high</em> numbers are represented as string.</p>
 
 ### Related Topics
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Strobogrammatic Number](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number) (Easy)
-  1. [Strobogrammatic Number II](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-ii) (Medium)
+  1. [Strobogrammatic Number](../strobogrammatic-number) (Easy)
+  1. [Strobogrammatic Number II](../strobogrammatic-number-ii) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-string-with-substrings-representing-1-to-n "Binary String With Substrings Representing 1 To N")
+[< Previous](../binary-string-with-substrings-representing-1-to-n "Binary String With Substrings Representing 1 To N")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-prefix-divisible-by-5 "Binary Prefix Divisible By 5")
+[Next >](../binary-prefix-divisible-by-5 "Binary Prefix Divisible By 5")
 
 ## [1017. Convert to Base -2 (Medium)](https://leetcode.com/problems/convert-to-base-2 "负二进制转换")
 
@@ -56,10 +56,10 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Encode Number](https://github.com/openset/leetcode/tree/master/problems/encode-number) (Medium)
+  1. [Encode Number](../encode-number) (Medium)
 
 ### Hints
 <details>

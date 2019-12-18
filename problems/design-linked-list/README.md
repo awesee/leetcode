@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-hashmap "Design HashMap")
+[< Previous](../design-hashmap "Design HashMap")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-sorted-circular-linked-list "Insert into a Sorted Circular Linked List")
+[Next >](../insert-into-a-sorted-circular-linked-list "Insert into a Sorted Circular Linked List")
 
 ## [707. Design Linked List (Medium)](https://leetcode.com/problems/design-linked-list "设计链表")
 
@@ -54,5 +54,5 @@ linkedList.get(1);&nbsp;&nbsp;&nbsp;         // returns 3
 </ul>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]

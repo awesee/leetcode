@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/copy-list-with-random-pointer "Copy List with Random Pointer")
+[< Previous](../copy-list-with-random-pointer "Copy List with Random Pointer")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-break-ii "Word Break II")
+[Next >](../word-break-ii "Word Break II")
 
 ## [139. Word Break (Medium)](https://leetcode.com/problems/word-break "单词拆分")
 
@@ -45,7 +45,7 @@
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Word Break II](https://github.com/openset/leetcode/tree/master/problems/word-break-ii) (Hard)
+  1. [Word Break II](../word-break-ii) (Hard)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-prime-fraction "K-th Smallest Prime Fraction")
+[< Previous](../k-th-smallest-prime-fraction "K-th Smallest Prime Fraction")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rotated-digits "Rotated Digits")
+[Next >](../rotated-digits "Rotated Digits")
 
 ## [787. Cheapest Flights Within K Stops (Medium)](https://leetcode.com/problems/cheapest-flights-within-k-stops "K 站中转内最便宜的航班")
 
@@ -51,9 +51,9 @@ The cheapest price from city <code>0</code> to city <code>2</code> with at most 
 </ul>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Maximum Vacation Days](https://github.com/openset/leetcode/tree/master/problems/maximum-vacation-days) (Hard)
+  1. [Maximum Vacation Days](../maximum-vacation-days) (Hard)

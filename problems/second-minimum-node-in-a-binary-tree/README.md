@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-swap "Maximum Swap")
+[< Previous](../maximum-swap "Maximum Swap")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher-ii "Bulb Switcher II")
+[Next >](../bulb-switcher-ii "Bulb Switcher II")
 
 ## [671. Second Minimum Node In a Binary Tree (Easy)](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree "二叉树中第二小的节点")
 
@@ -48,7 +48,7 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Kth Smallest Element in a BST](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-bst) (Medium)
+  1. [Kth Smallest Element in a BST](../kth-smallest-element-in-a-bst) (Medium)

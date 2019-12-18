@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list "Reverse Linked List")
+[< Previous](../reverse-linked-list "Reverse Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree "Implement Trie (Prefix Tree)")
+[Next >](../implement-trie-prefix-tree "Implement Trie (Prefix Tree)")
 
 ## [207. Course Schedule (Medium)](https://leetcode.com/problems/course-schedule "课程表")
 
@@ -43,16 +43,16 @@
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[Topological Sort](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]
+  [[Topological Sort](../../tag/topological-sort/README.md)]
 
 ### Similar Questions
-  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii) (Medium)
-  1. [Graph Valid Tree](https://github.com/openset/leetcode/tree/master/problems/graph-valid-tree) (Medium)
-  1. [Minimum Height Trees](https://github.com/openset/leetcode/tree/master/problems/minimum-height-trees) (Medium)
-  1. [Course Schedule III](https://github.com/openset/leetcode/tree/master/problems/course-schedule-iii) (Hard)
+  1. [Course Schedule II](../course-schedule-ii) (Medium)
+  1. [Graph Valid Tree](../graph-valid-tree) (Medium)
+  1. [Minimum Height Trees](../minimum-height-trees) (Medium)
+  1. [Course Schedule III](../course-schedule-iii) (Hard)
 
 ### Hints
 <details>

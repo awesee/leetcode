@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/user-purchase-platform "User Purchase Platform")
+[< Previous](../user-purchase-platform "User Purchase Platform")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-path-with-alternating-colors "Shortest Path with Alternating Colors")
+[Next >](../shortest-path-with-alternating-colors "Shortest Path with Alternating Colors")
 
 ## [1128. Number of Equivalent Domino Pairs (Easy)](https://leetcode.com/problems/number-of-equivalent-domino-pairs "等价多米诺骨牌对的数量")
 
@@ -29,7 +29,7 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

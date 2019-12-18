@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-of-absolute-value-expression "Maximum of Absolute Value Expression")
+[< Previous](../maximum-of-absolute-value-expression "Maximum of Absolute Value Expression")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-unique-number "Largest Unique Number")
+[Next >](../largest-unique-number "Largest Unique Number")
 
 ## [1132. Reported Posts II (Medium)](https://leetcode.com/problems/reported-posts-ii "")
 

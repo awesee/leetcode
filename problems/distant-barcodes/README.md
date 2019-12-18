@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/previous-permutation-with-one-swap "Previous Permutation With One Swap")
+[< Previous](../previous-permutation-with-one-swap "Previous Permutation With One Swap")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-way-to-form-string "Shortest Way to Form String")
+[Next >](../shortest-way-to-form-string "Shortest Way to Form String")
 
 ## [1054. Distant Barcodes (Medium)](https://leetcode.com/problems/distant-barcodes "距离相等的条形码")
 
@@ -46,8 +46,8 @@
 </div>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Sort](../../tag/sort/README.md)]
 
 ### Hints
 <details>

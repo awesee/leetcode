@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/tournament-winners "Tournament Winners")
+[< Previous](../tournament-winners "Tournament Winners")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/how-many-apples-can-you-put-into-the-basket "How Many Apples Can You Put into the Basket")
+[Next >](../how-many-apples-can-you-put-into-the-basket "How Many Apples Can You Put into the Basket")
 
 ## [1195. Fizz Buzz Multithreaded (Medium)](https://leetcode.com/problems/fizz-buzz-multithreaded "交替打印字符串")
 

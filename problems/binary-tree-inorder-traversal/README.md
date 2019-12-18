@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/restore-ip-addresses "Restore IP Addresses")
+[< Previous](../restore-ip-addresses "Restore IP Addresses")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees-ii "Unique Binary Search Trees II")
+[Next >](../unique-binary-search-trees-ii "Unique Binary Search Trees II")
 
 ## [94. Binary Tree Inorder Traversal (Medium)](https://leetcode.com/problems/binary-tree-inorder-traversal "二叉树的中序遍历")
 
@@ -28,17 +28,17 @@
 <p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Validate Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/validate-binary-search-tree) (Medium)
-  1. [Binary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-preorder-traversal) (Medium)
-  1. [Binary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-postorder-traversal) (Hard)
-  1. [Binary Search Tree Iterator](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator) (Medium)
-  1. [Kth Smallest Element in a BST](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-bst) (Medium)
-  1. [Closest Binary Search Tree Value II](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value-ii) (Hard)
-  1. [Inorder Successor in BST](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst) (Medium)
-  1. [Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/openset/leetcode/tree/master/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) (Medium)
-  1. [Minimum Distance Between BST Nodes](https://github.com/openset/leetcode/tree/master/problems/minimum-distance-between-bst-nodes) (Easy)
+  1. [Validate Binary Search Tree](../validate-binary-search-tree) (Medium)
+  1. [Binary Tree Preorder Traversal](../binary-tree-preorder-traversal) (Medium)
+  1. [Binary Tree Postorder Traversal](../binary-tree-postorder-traversal) (Hard)
+  1. [Binary Search Tree Iterator](../binary-search-tree-iterator) (Medium)
+  1. [Kth Smallest Element in a BST](../kth-smallest-element-in-a-bst) (Medium)
+  1. [Closest Binary Search Tree Value II](../closest-binary-search-tree-value-ii) (Hard)
+  1. [Inorder Successor in BST](../inorder-successor-in-bst) (Medium)
+  1. [Convert Binary Search Tree to Sorted Doubly Linked List](../convert-binary-search-tree-to-sorted-doubly-linked-list) (Medium)
+  1. [Minimum Distance Between BST Nodes](../minimum-distance-between-bst-nodes) (Easy)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii "Ugly Number II")
+[< Previous](../ugly-number-ii "Ugly Number II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation "Palindrome Permutation")
+[Next >](../palindrome-permutation "Palindrome Permutation")
 
 ## [265. Paint House II (Hard)](https://leetcode.com/problems/paint-house-ii "粉刷房子 II")
 
@@ -31,10 +31,10 @@ All costs are positive integers.</p>
 Could you solve it in <i>O</i>(<i>nk</i>) runtime?</p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Product of Array Except Self](https://github.com/openset/leetcode/tree/master/problems/product-of-array-except-self) (Medium)
-  1. [Sliding Window Maximum](https://github.com/openset/leetcode/tree/master/problems/sliding-window-maximum) (Hard)
-  1. [Paint House](https://github.com/openset/leetcode/tree/master/problems/paint-house) (Easy)
-  1. [Paint Fence](https://github.com/openset/leetcode/tree/master/problems/paint-fence) (Easy)
+  1. [Product of Array Except Self](../product-of-array-except-self) (Medium)
+  1. [Sliding Window Maximum](../sliding-window-maximum) (Hard)
+  1. [Paint House](../paint-house) (Easy)
+  1. [Paint Fence](../paint-fence) (Easy)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/making-a-large-island "Making A Large Island")
+[< Previous](../making-a-large-island "Making A Large Island")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/consecutive-numbers-sum "Consecutive Numbers Sum")
+[Next >](../consecutive-numbers-sum "Consecutive Numbers Sum")
 
 ## [828. Unique Letter String (Hard)](https://leetcode.com/problems/unique-letter-string "独特字符串")
 
@@ -49,4 +49,4 @@ Sum of lengths of all substring is 1 + 1 + 1 + 2 + 2 + 3 = 10</pre>
 <p><strong>Note:</strong> <code>0 &lt;= S.length &lt;= 10000</code>.</p>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-i "Maximum Average Subarray I")
+[< Previous](../maximum-average-subarray-i "Maximum Average Subarray I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/set-mismatch "Set Mismatch")
+[Next >](../set-mismatch "Set Mismatch")
 
 ## [644. Maximum Average Subarray II (Hard)](https://leetcode.com/problems/maximum-average-subarray-ii "最大平均子段和 II")
 
@@ -37,8 +37,8 @@ Thus return 12.75.
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Maximum Average Subarray I](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-i) (Easy)
+  1. [Maximum Average Subarray I](../maximum-average-subarray-i) (Easy)

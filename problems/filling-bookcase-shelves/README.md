@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/path-in-zigzag-labelled-binary-tree "Path In Zigzag Labelled Binary Tree")
+[< Previous](../path-in-zigzag-labelled-binary-tree "Path In Zigzag Labelled Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/parsing-a-boolean-expression "Parsing A Boolean Expression")
+[Next >](../parsing-a-boolean-expression "Parsing A Boolean Expression")
 
 ## [1105. Filling Bookcase Shelves (Medium)](https://leetcode.com/problems/filling-bookcase-shelves "填充书架")
 
@@ -42,7 +42,7 @@ Notice that book number 2 does not have to be on the first shelf.
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

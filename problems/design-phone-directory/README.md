@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-sorted-matrix "Kth Smallest Element in a Sorted Matrix")
+[< Previous](../kth-smallest-element-in-a-sorted-matrix "Kth Smallest Element in a Sorted Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/insert-delete-getrandom-o1 "Insert Delete GetRandom O(1)")
+[Next >](../insert-delete-getrandom-o1 "Insert Delete GetRandom O(1)")
 
 ## [379. Design Phone Directory (Medium)](https://leetcode.com/problems/design-phone-directory "电话目录管理系统")
 
@@ -50,5 +50,5 @@ directory.check(2);
 </p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/expression-add-operators "Expression Add Operators")
+[< Previous](../expression-add-operators "Expression Add Operators")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/peeking-iterator "Peeking Iterator")
+[Next >](../peeking-iterator "Peeking Iterator")
 
 ## [283. Move Zeroes (Easy)](https://leetcode.com/problems/move-zeroes "移动零")
 
@@ -27,11 +27,11 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Remove Element](https://github.com/openset/leetcode/tree/master/problems/remove-element) (Easy)
+  1. [Remove Element](../remove-element) (Easy)
 
 ### Hints
 <details>

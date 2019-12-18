@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/preimage-size-of-factorial-zeroes-function "Preimage Size of Factorial Zeroes Function")
+[< Previous](../preimage-size-of-factorial-zeroes-function "Preimage Size of Factorial Zeroes Function")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-subarrays-with-bounded-maximum "Number of Subarrays with Bounded Maximum")
+[Next >](../number-of-subarrays-with-bounded-maximum "Number of Subarrays with Bounded Maximum")
 
 ## [794. Valid Tic-Tac-Toe State (Medium)](https://leetcode.com/problems/valid-tic-tac-toe-state "有效的井字游戏")
 
@@ -54,8 +54,8 @@
 </ul>
 
 ### Related Topics
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Design Tic-Tac-Toe](https://github.com/openset/leetcode/tree/master/problems/design-tic-tac-toe) (Medium)
+  1. [Design Tic-Tac-Toe](../design-tic-tac-toe) (Medium)

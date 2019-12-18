@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/integer-to-english-words "Integer to English Words")
+[< Previous](../integer-to-english-words "Integer to English Words")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/h-index-ii "H-Index II")
+[Next >](../h-index-ii "H-Index II")
 
 ## [274. H-Index (Medium)](https://leetcode.com/problems/h-index "H指数")
 
@@ -28,11 +28,11 @@
 <p><strong>Note:&nbsp;</strong>If there are several possible values for <em>h</em>, the maximum one is taken as the h-index.</p>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [H-Index II](https://github.com/openset/leetcode/tree/master/problems/h-index-ii) (Medium)
+  1. [H-Index II](../h-index-ii) (Medium)
 
 ### Hints
 <details>

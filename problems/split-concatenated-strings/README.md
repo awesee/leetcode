@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/brick-wall "Brick Wall")
+[< Previous](../brick-wall "Brick Wall")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-iii "Next Greater Element III")
+[Next >](../next-greater-element-iii "Next Greater Element III")
 
 ## [555. Split Concatenated Strings (Medium)](https://leetcode.com/problems/split-concatenated-strings "分割连接字符串")
 
@@ -39,4 +39,4 @@
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/department-highest-salary "Department Highest Salary")
+[< Previous](../department-highest-salary "Department Highest Salary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-ii "Reverse Words in a String II")
+[Next >](../reverse-words-in-a-string-ii "Reverse Words in a String II")
 
 ## [185. Department Top Three Salaries (Hard)](https://leetcode.com/problems/department-top-three-salaries "部门工资前三高的所有员工")
 

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sum-of-two-integers "Sum of Two Integers")
+[< Previous](../sum-of-two-integers "Sum of Two Integers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-k-pairs-with-smallest-sums "Find K Pairs with Smallest Sums")
+[Next >](../find-k-pairs-with-smallest-sums "Find K Pairs with Smallest Sums")
 
 ## [372. Super Pow (Medium)](https://leetcode.com/problems/super-pow "超级次方")
 
@@ -32,7 +32,7 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Pow(x, n)](https://github.com/openset/leetcode/tree/master/problems/powx-n) (Medium)
+  1. [Pow(x, n)](../powx-n) (Medium)

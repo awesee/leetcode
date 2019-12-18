@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-tilt "Binary Tree Tilt")
+[< Previous](../binary-tree-tilt "Binary Tree Tilt")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/array-nesting "Array Nesting")
+[Next >](../array-nesting "Array Nesting")
 
 ## [564. Find the Closest Palindrome (Hard)](https://leetcode.com/problems/find-the-closest-palindrome "寻找最近的回文数")
 
@@ -30,7 +30,7 @@
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

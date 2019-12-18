@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-refueling-stops "Minimum Number of Refueling Stops")
+[< Previous](../minimum-number-of-refueling-stops "Minimum Number of Refueling Stops")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/length-of-longest-fibonacci-subsequence "Length of Longest Fibonacci Subsequence")
+[Next >](../length-of-longest-fibonacci-subsequence "Length of Longest Fibonacci Subsequence")
 
 ## [872. Leaf-Similar Trees (Easy)](https://leetcode.com/problems/leaf-similar-trees "叶子相似的树")
 
@@ -30,5 +30,5 @@
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]

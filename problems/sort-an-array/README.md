@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/online-election "Online Election")
+[< Previous](../online-election "Online Election")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/cat-and-mouse "Cat and Mouse")
+[Next >](../cat-and-mouse "Cat and Mouse")
 
 ## [912. Sort an Array (Medium)](https://leetcode.com/problems/sort-an-array "排序数组")
 

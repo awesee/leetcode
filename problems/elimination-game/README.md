@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-the-difference "Find the Difference")
+[< Previous](../find-the-difference "Find the Difference")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/perfect-rectangle "Perfect Rectangle")
+[Next >](../perfect-rectangle "Perfect Rectangle")
 
 ## [390. Elimination Game (Medium)](https://leetcode.com/problems/elimination-game "消除游戏")
 

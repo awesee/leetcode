@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rearrange-string-k-distance-apart "Rearrange String k Distance Apart")
+[< Previous](../rearrange-string-k-distance-apart "Rearrange String k Distance Apart")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sort-transformed-array "Sort Transformed Array")
+[Next >](../sort-transformed-array "Sort Transformed Array")
 
 ## [359. Logger Rate Limiter (Easy)](https://leetcode.com/problems/logger-rate-limiter "日志速率限制器")
 
@@ -42,8 +42,8 @@ logger.shouldPrintMessage(11,&quot;foo&quot;); returns true;
 </pre>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Design Hit Counter](https://github.com/openset/leetcode/tree/master/problems/design-hit-counter) (Medium)
+  1. [Design Hit Counter](../design-hit-counter) (Medium)

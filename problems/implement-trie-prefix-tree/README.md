@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/course-schedule "Course Schedule")
+[< Previous](../course-schedule "Course Schedule")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-size-subarray-sum "Minimum Size Subarray Sum")
+[Next >](../minimum-size-subarray-sum "Minimum Size Subarray Sum")
 
 ## [208. Implement Trie (Prefix Tree) (Medium)](https://leetcode.com/problems/implement-trie-prefix-tree "实现 Trie (前缀树)")
 
@@ -34,11 +34,11 @@ trie.search(&quot;app&quot;);     // returns true
 </ul>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Trie](../../tag/trie/README.md)]
 
 ### Similar Questions
-  1. [Add and Search Word - Data structure design](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design) (Medium)
-  1. [Design Search Autocomplete System](https://github.com/openset/leetcode/tree/master/problems/design-search-autocomplete-system) (Hard)
-  1. [Replace Words](https://github.com/openset/leetcode/tree/master/problems/replace-words) (Medium)
-  1. [Implement Magic Dictionary](https://github.com/openset/leetcode/tree/master/problems/implement-magic-dictionary) (Medium)
+  1. [Add and Search Word - Data structure design](../add-and-search-word-data-structure-design) (Medium)
+  1. [Design Search Autocomplete System](../design-search-autocomplete-system) (Hard)
+  1. [Replace Words](../replace-words) (Medium)
+  1. [Implement Magic Dictionary](../implement-magic-dictionary) (Medium)

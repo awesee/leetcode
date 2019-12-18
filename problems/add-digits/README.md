@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-paths "Binary Tree Paths")
+[< Previous](../binary-tree-paths "Binary Tree Paths")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller "3Sum Smaller")
+[Next >](../3sum-smaller "3Sum Smaller")
 
 ## [258. Add Digits (Easy)](https://leetcode.com/problems/add-digits "各位相加")
 
@@ -26,11 +26,11 @@
 Could you do it without any loop/recursion in O(1) runtime?</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Happy Number](https://github.com/openset/leetcode/tree/master/problems/happy-number) (Easy)
-  1. [Sum of Digits in the Minimum Number](https://github.com/openset/leetcode/tree/master/problems/sum-of-digits-in-the-minimum-number) (Easy)
+  1. [Happy Number](../happy-number) (Easy)
+  1. [Sum of Digits in the Minimum Number](../sum-of-digits-in-the-minimum-number) (Easy)
 
 ### Hints
 <details>

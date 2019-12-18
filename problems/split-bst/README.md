@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/global-and-local-inversions "Global and Local Inversions")
+[< Previous](../global-and-local-inversions "Global and Local Inversions")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/swap-adjacent-in-lr-string "Swap Adjacent in LR String")
+[Next >](../swap-adjacent-in-lr-string "Swap Adjacent in LR String")
 
 ## [776. Split BST (Medium)](https://leetcode.com/problems/split-bst "拆分二叉搜索树")
 
@@ -50,11 +50,11 @@ while the diagrams for the outputs are:
 </ol>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
 
 ### Similar Questions
-  1. [Delete Node in a BST](https://github.com/openset/leetcode/tree/master/problems/delete-node-in-a-bst) (Medium)
+  1. [Delete Node in a BST](../delete-node-in-a-bst) (Medium)
 
 ### Hints
 <details>

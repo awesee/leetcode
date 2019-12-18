@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/subtract-the-product-and-sum-of-digits-of-an-integer "Subtract the Product and Sum of Digits of an Integer")
+[< Previous](../subtract-the-product-and-sum-of-digits-of-an-integer "Subtract the Product and Sum of Digits of an Integer")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-smallest-divisor-given-a-threshold "Find the Smallest Divisor Given a Threshold")
+[Next >](../find-the-smallest-divisor-given-a-threshold "Find the Smallest Divisor Given a Threshold")
 
 ## [1282. Group the People Given the Group Size They Belong To (Medium)](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to "用户分组")
 
@@ -42,7 +42,7 @@ Other possible solutions are [[2,1,6],[5],[0,4,3]] and [[5],[0,6,2],[4,3,1]].
 </ul>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Hints
 <details>

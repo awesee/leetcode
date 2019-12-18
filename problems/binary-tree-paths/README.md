@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/paint-house "Paint House")
+[< Previous](../paint-house "Paint House")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/add-digits "Add Digits")
+[Next >](../add-digits "Add Digits")
 
 ## [257. Binary Tree Paths (Easy)](https://leetcode.com/problems/binary-tree-paths "二叉树的所有路径")
 
@@ -32,9 +32,9 @@
 </pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Path Sum II](https://github.com/openset/leetcode/tree/master/problems/path-sum-ii) (Medium)
-  1. [Smallest String Starting From Leaf](https://github.com/openset/leetcode/tree/master/problems/smallest-string-starting-from-leaf) (Medium)
+  1. [Path Sum II](../path-sum-ii) (Medium)
+  1. [Smallest String Starting From Leaf](../smallest-string-starting-from-leaf) (Medium)

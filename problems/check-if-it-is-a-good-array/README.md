@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-remove-to-make-valid-parentheses "Minimum Remove to Make Valid Parentheses")
+[< Previous](../minimum-remove-to-make-valid-parentheses "Minimum Remove to Make Valid Parentheses")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/average-selling-price "Average Selling Price")
+[Next >](../average-selling-price "Average Selling Price")
 
 ## [1250. Check If It Is a Good Array (Hard)](https://leetcode.com/problems/check-if-it-is-a-good-array "检查「好数组」")
 
@@ -50,7 +50,7 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

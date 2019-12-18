@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/car-pooling "Car Pooling")
+[< Previous](../car-pooling "Car Pooling")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/brace-expansion-ii "Brace Expansion II")
+[Next >](../brace-expansion-ii "Brace Expansion II")
 
 ## [1095. Find in Mountain Array (Hard)](https://leetcode.com/problems/find-in-mountain-array "山脉数组中查找目标值")
 
@@ -65,7 +65,7 @@
 </ol>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

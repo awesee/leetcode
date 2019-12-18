@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/split-concatenated-strings "Split Concatenated Strings")
+[< Previous](../split-concatenated-strings "Split Concatenated Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-iii "Reverse Words in a String III")
+[Next >](../reverse-words-in-a-string-iii "Reverse Words in a String III")
 
 ## [556. Next Greater Element III (Medium)](https://leetcode.com/problems/next-greater-element-iii "下一个更大元素 III")
 
@@ -32,8 +32,8 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-i) (Easy)
-  1. [Next Greater Element II](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-ii) (Medium)
+  1. [Next Greater Element I](../next-greater-element-i) (Easy)
+  1. [Next Greater Element II](../next-greater-element-ii) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-compressed-string-iterator "Design Compressed String Iterator")
+[< Previous](../design-compressed-string-iterator "Design Compressed String Iterator")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/construct-string-from-binary-tree "Construct String from Binary Tree")
+[Next >](../construct-string-from-binary-tree "Construct String from Binary Tree")
 
 ## [605. Can Place Flowers (Easy)](https://leetcode.com/problems/can-place-flowers "种花问题")
 
@@ -38,8 +38,8 @@
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Teemo Attacking](https://github.com/openset/leetcode/tree/master/problems/teemo-attacking) (Medium)
-  1. [Asteroid Collision](https://github.com/openset/leetcode/tree/master/problems/asteroid-collision) (Medium)
+  1. [Teemo Attacking](../teemo-attacking) (Medium)
+  1. [Asteroid Collision](../asteroid-collision) (Medium)

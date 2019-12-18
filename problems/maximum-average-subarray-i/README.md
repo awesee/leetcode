@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-search-autocomplete-system "Design Search Autocomplete System")
+[< Previous](../design-search-autocomplete-system "Design Search Autocomplete System")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-ii "Maximum Average Subarray II")
+[Next >](../maximum-average-subarray-ii "Maximum Average Subarray II")
 
 ## [643. Maximum Average Subarray I (Easy)](https://leetcode.com/problems/maximum-average-subarray-i "子数组最大平均数 I")
 
@@ -33,7 +33,7 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Maximum Average Subarray II](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-ii) (Hard)
+  1. [Maximum Average Subarray II](../maximum-average-subarray-ii) (Hard)

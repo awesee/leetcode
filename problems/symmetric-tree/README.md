@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/same-tree "Same Tree")
+[< Previous](../same-tree "Same Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal "Binary Tree Level Order Traversal")
+[Next >](../binary-tree-level-order-traversal "Binary Tree Level Order Traversal")
 
 ## [101. Symmetric Tree (Easy)](https://leetcode.com/problems/symmetric-tree "对称二叉树")
 
@@ -41,6 +41,6 @@
 Bonus points if you could solve it both recursively and iteratively.</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]

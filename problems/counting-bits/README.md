@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/house-robber-iii "House Robber III")
+[< Previous](../house-robber-iii "House Robber III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/nested-list-weight-sum "Nested List Weight Sum")
+[Next >](../nested-list-weight-sum "Nested List Weight Sum")
 
 ## [338. Counting Bits (Medium)](https://leetcode.com/problems/counting-bits "比特位计数")
 
@@ -35,11 +35,11 @@
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)
+  1. [Number of 1 Bits](../number-of-1-bits) (Easy)
 
 ### Hints
 <details>

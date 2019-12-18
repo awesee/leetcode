@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/numbers-at-most-n-given-digit-set "Numbers At Most N Given Digit Set")
+[< Previous](../numbers-at-most-n-given-digit-set "Numbers At Most N Given Digit Set")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/fruit-into-baskets "Fruit Into Baskets")
+[Next >](../fruit-into-baskets "Fruit Into Baskets")
 
 ## [903. Valid Permutations for DI Sequence (Hard)](https://leetcode.com/problems/valid-permutations-for-di-sequence "DI 序列的有效排列")
 
@@ -52,5 +52,5 @@ The 5 valid permutations of (0, 1, 2, 3) are:
 </div>
 
 ### Related Topics
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

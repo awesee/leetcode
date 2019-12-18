@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-profit-in-job-scheduling "Maximum Profit in Job Scheduling")
+[< Previous](../maximum-profit-in-job-scheduling "Maximum Profit in Job Scheduling")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-positive-integer-solution-for-a-given-equation "Find Positive Integer Solution for a Given Equation")
+[Next >](../find-positive-integer-solution-for-a-given-equation "Find Positive Integer Solution for a Given Equation")
 
 ## [1236. Web Crawler (Medium)](https://leetcode.com/problems/web-crawler "")
 
@@ -93,8 +93,8 @@ startUrl = &quot;http://news.google.com&quot;
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

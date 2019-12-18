@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-search-ii "Word Search II")
+[< Previous](../word-search-ii "Word Search II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-palindrome "Shortest Palindrome")
+[Next >](../shortest-palindrome "Shortest Palindrome")
 
 ## [213. House Robber II (Medium)](https://leetcode.com/problems/house-robber-ii "打家劫舍 II")
 
@@ -33,15 +33,15 @@
 &nbsp;            Total amount you can rob = 1 + 3 = 4.</pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [House Robber](https://github.com/openset/leetcode/tree/master/problems/house-robber) (Easy)
-  1. [Paint House](https://github.com/openset/leetcode/tree/master/problems/paint-house) (Easy)
-  1. [Paint Fence](https://github.com/openset/leetcode/tree/master/problems/paint-fence) (Easy)
-  1. [House Robber III](https://github.com/openset/leetcode/tree/master/problems/house-robber-iii) (Medium)
-  1. [Non-negative Integers without Consecutive Ones](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones) (Hard)
-  1. [Coin Path](https://github.com/openset/leetcode/tree/master/problems/coin-path) (Hard)
+  1. [House Robber](../house-robber) (Easy)
+  1. [Paint House](../paint-house) (Easy)
+  1. [Paint Fence](../paint-fence) (Easy)
+  1. [House Robber III](../house-robber-iii) (Medium)
+  1. [Non-negative Integers without Consecutive Ones](../non-negative-integers-without-consecutive-ones) (Hard)
+  1. [Coin Path](../coin-path) (Hard)
 
 ### Hints
 <details>

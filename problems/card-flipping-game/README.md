@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-to-a-character "Shortest Distance to a Character")
+[< Previous](../shortest-distance-to-a-character "Shortest Distance to a Character")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-trees-with-factors "Binary Trees With Factors")
+[Next >](../binary-trees-with-factors "Binary Trees With Factors")
 
 ## [822. Card Flipping Game (Medium)](https://leetcode.com/problems/card-flipping-game "翻转卡片游戏")
 

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-preorder-traversal "N-ary Tree Preorder Traversal")
+[< Previous](../n-ary-tree-preorder-traversal "N-ary Tree Preorder Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/tag-validator "Tag Validator")
+[Next >](../tag-validator "Tag Validator")
 
 ## [590. N-ary Tree Postorder Traversal (Easy)](https://leetcode.com/problems/n-ary-tree-postorder-traversal "N叉树的后序遍历")
 
@@ -49,9 +49,9 @@
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-postorder-traversal) (Hard)
-  1. [N-ary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-level-order-traversal) (Medium)
-  1. [N-ary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-preorder-traversal) (Easy)
+  1. [Binary Tree Postorder Traversal](../binary-tree-postorder-traversal) (Hard)
+  1. [N-ary Tree Level Order Traversal](../n-ary-tree-level-order-traversal) (Medium)
+  1. [N-ary Tree Preorder Traversal](../n-ary-tree-preorder-traversal) (Easy)

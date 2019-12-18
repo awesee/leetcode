@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flip-string-to-monotone-increasing "Flip String to Monotone Increasing")
+[< Previous](../flip-string-to-monotone-increasing "Flip String to Monotone Increasing")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimize-malware-spread-ii "Minimize Malware Spread II")
+[Next >](../minimize-malware-spread-ii "Minimize Malware Spread II")
 
 ## [927. Three Equal Parts (Hard)](https://leetcode.com/problems/three-equal-parts "三等分")
 
@@ -57,6 +57,6 @@
 </div>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]

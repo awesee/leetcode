@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle-ii "Linked List Cycle II")
+[< Previous](../linked-list-cycle-ii "Linked List Cycle II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-preorder-traversal "Binary Tree Preorder Traversal")
+[Next >](../binary-tree-preorder-traversal "Binary Tree Preorder Traversal")
 
 ## [143. Reorder List (Medium)](https://leetcode.com/problems/reorder-list "重排链表")
 
@@ -28,4 +28,4 @@ Given 1-&gt;2-&gt;3-&gt;4-&gt;5, reorder it to 1-&gt;5-&gt;2-&gt;4-&gt;3.
 </pre>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/output-contest-matches "Output Contest Matches")
+[< Previous](../output-contest-matches "Output Contest Matches")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-boxes "Remove Boxes")
+[Next >](../remove-boxes "Remove Boxes")
 
 ## [545. Boundary of Binary Tree (Medium)](https://leetcode.com/problems/boundary-of-binary-tree "二叉树的边界")
 
@@ -66,7 +66,7 @@ So order them in anti-clockwise without duplicate nodes we have [1,2,4,7,8,9,10,
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Right Side View](https://github.com/openset/leetcode/tree/master/problems/binary-tree-right-side-view) (Medium)
+  1. [Binary Tree Right Side View](../binary-tree-right-side-view) (Medium)

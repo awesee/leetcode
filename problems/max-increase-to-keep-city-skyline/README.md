@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-lines-to-write-string "Number of Lines To Write String")
+[< Previous](../number-of-lines-to-write-string "Number of Lines To Write String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/soup-servings "Soup Servings")
+[Next >](../soup-servings "Soup Servings")
 
 ## [807. Max Increase to Keep City Skyline (Medium)](https://leetcode.com/problems/max-increase-to-keep-city-skyline "保持城市天际线")
 

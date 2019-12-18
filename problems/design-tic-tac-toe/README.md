@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements "Top K Frequent Elements")
+[< Previous](../top-k-frequent-elements "Top K Frequent Elements")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays "Intersection of Two Arrays")
+[Next >](../intersection-of-two-arrays "Intersection of Two Arrays")
 
 ## [348. Design Tic-Tac-Toe (Medium)](https://leetcode.com/problems/design-tic-tac-toe "判定井字棋胜负")
 
@@ -70,10 +70,10 @@ Could you do better than O(<i>n</i><sup>2</sup>) per <code>move()</code> operati
 </p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Similar Questions
-  1. [Valid Tic-Tac-Toe State](https://github.com/openset/leetcode/tree/master/problems/valid-tic-tac-toe-state) (Medium)
+  1. [Valid Tic-Tac-Toe State](../valid-tic-tac-toe-state) (Medium)
 
 ### Hints
 <details>

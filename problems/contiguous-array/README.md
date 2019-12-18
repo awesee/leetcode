@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary-through-deleting "Longest Word in Dictionary through Deleting")
+[< Previous](../longest-word-in-dictionary-through-deleting "Longest Word in Dictionary through Deleting")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement "Beautiful Arrangement")
+[Next >](../beautiful-arrangement "Beautiful Arrangement")
 
 ## [525. Contiguous Array (Medium)](https://leetcode.com/problems/contiguous-array "连续数组")
 
@@ -35,7 +35,7 @@ The length of the given binary array will not exceed 50,000.
 </p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Maximum Size Subarray Sum Equals k](https://github.com/openset/leetcode/tree/master/problems/maximum-size-subarray-sum-equals-k) (Medium)
+  1. [Maximum Size Subarray Sum Equals k](../maximum-size-subarray-sum-equals-k) (Medium)

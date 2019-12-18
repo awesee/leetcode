@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/least-operators-to-express-number "Least Operators to Express Number")
+[< Previous](../least-operators-to-express-number "Least Operators to Express Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/vowel-spellchecker "Vowel Spellchecker")
+[Next >](../vowel-spellchecker "Vowel Spellchecker")
 
 ## [965. Univalued Binary Tree (Easy)](https://leetcode.com/problems/univalued-binary-tree "单值二叉树")
 
@@ -43,4 +43,4 @@
 </ol>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-node-in-a-linked-list "Delete Node in a Linked List")
+[< Previous](../delete-node-in-a-linked-list "Delete Node in a Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sliding-window-maximum "Sliding Window Maximum")
+[Next >](../sliding-window-maximum "Sliding Window Maximum")
 
 ## [238. Product of Array Except Self (Medium)](https://leetcode.com/problems/product-of-array-except-self "除自身以外数组的乘积")
 
@@ -26,9 +26,9 @@
 Could you solve it with constant space complexity? (The output array <strong>does not</strong> count as extra space for the purpose of space complexity analysis.)</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Trapping Rain Water](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water) (Hard)
-  1. [Maximum Product Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray) (Medium)
-  1. [Paint House II](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii) (Hard)
+  1. [Trapping Rain Water](../trapping-rain-water) (Hard)
+  1. [Maximum Product Subarray](../maximum-product-subarray) (Medium)
+  1. [Paint House II](../paint-house-ii) (Hard)

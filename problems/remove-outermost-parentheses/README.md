@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-enclaves "Number of Enclaves")
+[< Previous](../number-of-enclaves "Number of Enclaves")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-root-to-leaf-binary-numbers "Sum of Root To Leaf Binary Numbers")
+[Next >](../sum-of-root-to-leaf-binary-numbers "Sum of Root To Leaf Binary Numbers")
 
 ## [1021. Remove Outermost Parentheses (Easy)](https://leetcode.com/problems/remove-outermost-parentheses "删除最外层的括号")
 
@@ -72,7 +72,7 @@ After removing outer parentheses of each part, this is &quot;&quot; + &quot;&quo
 </div>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](../../tag/stack/README.md)]
 
 ### Hints
 <details>

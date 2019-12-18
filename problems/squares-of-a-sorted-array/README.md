@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle "Largest Perimeter Triangle")
+[< Previous](../largest-perimeter-triangle "Largest Perimeter Triangle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray "Longest Turbulent Subarray")
+[Next >](../longest-turbulent-subarray "Longest Turbulent Subarray")
 
 ## [977. Squares of a Sorted Array (Easy)](https://leetcode.com/problems/squares-of-a-sorted-array "有序数组的平方")
 
@@ -44,9 +44,9 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Merge Sorted Array](https://github.com/openset/leetcode/tree/master/problems/merge-sorted-array) (Easy)
-  1. [Sort Transformed Array](https://github.com/openset/leetcode/tree/master/problems/sort-transformed-array) (Medium)
+  1. [Merge Sorted Array](../merge-sorted-array) (Easy)
+  1. [Sort Transformed Array](../sort-transformed-array) (Medium)

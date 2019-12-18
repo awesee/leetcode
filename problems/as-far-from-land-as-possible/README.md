@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-level-sum-of-a-binary-tree "Maximum Level Sum of a Binary Tree")
+[< Previous](../maximum-level-sum-of-a-binary-tree "Maximum Level Sum of a Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/last-substring-in-lexicographical-order "Last Substring in Lexicographical Order")
+[Next >](../last-substring-in-lexicographical-order "Last Substring in Lexicographical Order")
 
 ## [1162. As Far from Land as Possible (Medium)](https://leetcode.com/problems/as-far-from-land-as-possible "地图分析")
 
@@ -51,11 +51,11 @@ The cell (2, 2) is as far as possible from all the land with distance 4.
 </ol>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Similar Questions
-  1. [Shortest Distance from All Buildings](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-from-all-buildings) (Hard)
+  1. [Shortest Distance from All Buildings](../shortest-distance-from-all-buildings) (Hard)
 
 ### Hints
 <details>

@@ -5,44 +5,44 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > 链表
+## [话题分类](../README.md) > 链表
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1290 | [二进制链表转整数](https://github.com/openset/leetcode/tree/master/problems/convert-binary-number-in-a-linked-list-to-integer) | [[位运算](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Easy |
-| 1171 | [从链表中删去总和值为零的连续节点](https://github.com/openset/leetcode/tree/master/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 1019 | [链表中的下一个更大节点](https://github.com/openset/leetcode/tree/master/problems/next-greater-node-in-linked-list) | [[栈](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 876 | [链表的中间结点](https://github.com/openset/leetcode/tree/master/problems/middle-of-the-linked-list) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Easy |
-| 817 | [链表组件](https://github.com/openset/leetcode/tree/master/problems/linked-list-components) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 725 | [分隔链表](https://github.com/openset/leetcode/tree/master/problems/split-linked-list-in-parts) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 708 | [循环有序列表的插入](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-sorted-circular-linked-list) 🔒 | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 707 | [设计链表](https://github.com/openset/leetcode/tree/master/problems/design-linked-list) | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 445 | [两数相加 II](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers-ii) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 430 | [扁平化多级双向链表](https://github.com/openset/leetcode/tree/master/problems/flatten-a-multilevel-doubly-linked-list) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 426 | [将二叉搜索树转化为排序的双向链表](https://github.com/openset/leetcode/tree/master/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) 🔒 | [[树](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Medium |
-| 379 | [电话目录管理系统](https://github.com/openset/leetcode/tree/master/problems/design-phone-directory) 🔒 | [[设计](https://github.com/openset/leetcode/tree/master/tag/design/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 369 | [给单链表加一](https://github.com/openset/leetcode/tree/master/problems/plus-one-linked-list) 🔒 | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 328 | [奇偶链表](https://github.com/openset/leetcode/tree/master/problems/odd-even-linked-list) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 237 | [删除链表中的节点](https://github.com/openset/leetcode/tree/master/problems/delete-node-in-a-linked-list) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Easy |
-| 234 | [回文链表](https://github.com/openset/leetcode/tree/master/problems/palindrome-linked-list) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |
-| 206 | [反转链表](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Easy |
-| 203 | [移除链表元素](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Easy |
-| 160 | [相交链表](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-linked-lists) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Easy |
-| 148 | [排序链表](https://github.com/openset/leetcode/tree/master/problems/sort-list) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 147 | [对链表进行插入排序](https://github.com/openset/leetcode/tree/master/problems/insertion-sort-list) | [[排序](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 143 | [重排链表](https://github.com/openset/leetcode/tree/master/problems/reorder-list) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 142 | [环形链表 II](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle-ii) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 141 | [环形链表](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Easy |
-| 138 | [复制带随机指针的链表](https://github.com/openset/leetcode/tree/master/problems/copy-list-with-random-pointer) | [[哈希表](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 109 | [有序链表转换二叉搜索树](https://github.com/openset/leetcode/tree/master/problems/convert-sorted-list-to-binary-search-tree) | [[深度优先搜索](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 92 | [反转链表 II](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list-ii) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 86 | [分隔链表](https://github.com/openset/leetcode/tree/master/problems/partition-list) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 83 | [删除排序链表中的重复元素](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Easy |
-| 82 | [删除排序链表中的重复元素 II](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list-ii) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 61 | [旋转链表](https://github.com/openset/leetcode/tree/master/problems/rotate-list) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 25 | [K 个一组翻转链表](https://github.com/openset/leetcode/tree/master/problems/reverse-nodes-in-k-group) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Hard |
-| 24 | [两两交换链表中的节点](https://github.com/openset/leetcode/tree/master/problems/swap-nodes-in-pairs) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Medium |
-| 23 | [合并K个排序链表](https://github.com/openset/leetcode/tree/master/problems/merge-k-sorted-lists) | [[堆](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)] [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] [[分治算法](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]  | Hard |
-| 21 | [合并两个有序链表](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]  | Easy |
-| 19 | [删除链表的倒数第N个节点](https://github.com/openset/leetcode/tree/master/problems/remove-nth-node-from-end-of-list) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] [[双指针](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]  | Medium |
-| 2 | [两数相加](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers) | [[链表](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)] [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]  | Medium |
+| 1290 | [二进制链表转整数](../../problems/convert-binary-number-in-a-linked-list-to-integer) | [[位运算](../bit-manipulation/README.md)] [[链表](../linked-list/README.md)]  | Easy |
+| 1171 | [从链表中删去总和值为零的连续节点](../../problems/remove-zero-sum-consecutive-nodes-from-linked-list) | [[链表](../linked-list/README.md)]  | Medium |
+| 1019 | [链表中的下一个更大节点](../../problems/next-greater-node-in-linked-list) | [[栈](../stack/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 876 | [链表的中间结点](../../problems/middle-of-the-linked-list) | [[链表](../linked-list/README.md)]  | Easy |
+| 817 | [链表组件](../../problems/linked-list-components) | [[链表](../linked-list/README.md)]  | Medium |
+| 725 | [分隔链表](../../problems/split-linked-list-in-parts) | [[链表](../linked-list/README.md)]  | Medium |
+| 708 | [循环有序列表的插入](../../problems/insert-into-a-sorted-circular-linked-list) 🔒 | [[链表](../linked-list/README.md)]  | Medium |
+| 707 | [设计链表](../../problems/design-linked-list) | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 445 | [两数相加 II](../../problems/add-two-numbers-ii) | [[链表](../linked-list/README.md)]  | Medium |
+| 430 | [扁平化多级双向链表](../../problems/flatten-a-multilevel-doubly-linked-list) | [[深度优先搜索](../depth-first-search/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 426 | [将二叉搜索树转化为排序的双向链表](../../problems/convert-binary-search-tree-to-sorted-doubly-linked-list) 🔒 | [[树](../tree/README.md)] [[链表](../linked-list/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Medium |
+| 379 | [电话目录管理系统](../../problems/design-phone-directory) 🔒 | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 369 | [给单链表加一](../../problems/plus-one-linked-list) 🔒 | [[链表](../linked-list/README.md)]  | Medium |
+| 328 | [奇偶链表](../../problems/odd-even-linked-list) | [[链表](../linked-list/README.md)]  | Medium |
+| 237 | [删除链表中的节点](../../problems/delete-node-in-a-linked-list) | [[链表](../linked-list/README.md)]  | Easy |
+| 234 | [回文链表](../../problems/palindrome-linked-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 206 | [反转链表](../../problems/reverse-linked-list) | [[链表](../linked-list/README.md)]  | Easy |
+| 203 | [移除链表元素](../../problems/remove-linked-list-elements) | [[链表](../linked-list/README.md)]  | Easy |
+| 160 | [相交链表](../../problems/intersection-of-two-linked-lists) | [[链表](../linked-list/README.md)]  | Easy |
+| 148 | [排序链表](../../problems/sort-list) | [[排序](../sort/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 147 | [对链表进行插入排序](../../problems/insertion-sort-list) | [[排序](../sort/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 143 | [重排链表](../../problems/reorder-list) | [[链表](../linked-list/README.md)]  | Medium |
+| 142 | [环形链表 II](../../problems/linked-list-cycle-ii) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 141 | [环形链表](../../problems/linked-list-cycle) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 138 | [复制带随机指针的链表](../../problems/copy-list-with-random-pointer) | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 109 | [有序链表转换二叉搜索树](../../problems/convert-sorted-list-to-binary-search-tree) | [[深度优先搜索](../depth-first-search/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 92 | [反转链表 II](../../problems/reverse-linked-list-ii) | [[链表](../linked-list/README.md)]  | Medium |
+| 86 | [分隔链表](../../problems/partition-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 83 | [删除排序链表中的重复元素](../../problems/remove-duplicates-from-sorted-list) | [[链表](../linked-list/README.md)]  | Easy |
+| 82 | [删除排序链表中的重复元素 II](../../problems/remove-duplicates-from-sorted-list-ii) | [[链表](../linked-list/README.md)]  | Medium |
+| 61 | [旋转链表](../../problems/rotate-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 25 | [K 个一组翻转链表](../../problems/reverse-nodes-in-k-group) | [[链表](../linked-list/README.md)]  | Hard |
+| 24 | [两两交换链表中的节点](../../problems/swap-nodes-in-pairs) | [[链表](../linked-list/README.md)]  | Medium |
+| 23 | [合并K个排序链表](../../problems/merge-k-sorted-lists) | [[堆](../heap/README.md)] [[链表](../linked-list/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
+| 21 | [合并两个有序链表](../../problems/merge-two-sorted-lists) | [[链表](../linked-list/README.md)]  | Easy |
+| 19 | [删除链表的倒数第N个节点](../../problems/remove-nth-node-from-end-of-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 2 | [两数相加](../../problems/add-two-numbers) | [[链表](../linked-list/README.md)] [[数学](../math/README.md)]  | Medium |

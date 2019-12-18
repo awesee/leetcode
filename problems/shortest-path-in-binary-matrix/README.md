@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-values-from-labels "Largest Values From Labels")
+[< Previous](../largest-values-from-labels "Largest Values From Labels")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence "Shortest Common Supersequence ")
+[Next >](../shortest-common-supersequence "Shortest Common Supersequence ")
 
 ## [1091. Shortest Path in Binary Matrix (Medium)](https://leetcode.com/problems/shortest-path-in-binary-matrix "二进制矩阵中的最短路径")
 
@@ -58,7 +58,7 @@
 </ol>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

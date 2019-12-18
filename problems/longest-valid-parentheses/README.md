@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/next-permutation "Next Permutation")
+[< Previous](../next-permutation "Next Permutation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/search-in-rotated-sorted-array "Search in Rotated Sorted Array")
+[Next >](../search-in-rotated-sorted-array "Search in Rotated Sorted Array")
 
 ## [32. Longest Valid Parentheses (Hard)](https://leetcode.com/problems/longest-valid-parentheses "最长有效括号")
 
@@ -30,8 +30,8 @@
 </pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Valid Parentheses](https://github.com/openset/leetcode/tree/master/problems/valid-parentheses) (Easy)
+  1. [Valid Parentheses](../valid-parentheses) (Easy)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/profitable-schemes "Profitable Schemes")
+[< Previous](../profitable-schemes "Profitable Schemes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/boats-to-save-people "Boats to Save People")
+[Next >](../boats-to-save-people "Boats to Save People")
 
 ## [880. Decoded String at Index (Medium)](https://leetcode.com/problems/decoded-string-at-index "索引处的解码字符串")
 
@@ -69,4 +69,4 @@ The decoded string is &quot;a&quot; repeated 8301530446056247680 times.  The 1st
 </div>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](../../tag/stack/README.md)]

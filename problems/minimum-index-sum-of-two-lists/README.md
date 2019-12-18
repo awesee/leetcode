@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/range-addition-ii "Range Addition II")
+[< Previous](../range-addition-ii "Range Addition II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones "Non-negative Integers without Consecutive Ones")
+[Next >](../non-negative-integers-without-consecutive-ones "Non-negative Integers without Consecutive Ones")
 
 ## [599. Minimum Index Sum of Two Lists (Easy)](https://leetcode.com/problems/minimum-index-sum-of-two-lists "两个列表的最小索引总和")
 
@@ -50,7 +50,7 @@ You need to help them find out their <b>common interest</b> with the <b>least li
 </p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Intersection of Two Linked Lists](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-linked-lists) (Easy)
+  1. [Intersection of Two Linked Lists](../intersection-of-two-linked-lists) (Easy)

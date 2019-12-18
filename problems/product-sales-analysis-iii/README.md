@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/product-sales-analysis-ii "Product Sales Analysis II")
+[< Previous](../product-sales-analysis-ii "Product Sales Analysis II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/greatest-common-divisor-of-strings "Greatest Common Divisor of Strings")
+[Next >](../greatest-common-divisor-of-strings "Greatest Common Divisor of Strings")
 
 ## [1070. Product Sales Analysis III (Medium)](https://leetcode.com/problems/product-sales-analysis-iii "产品销售分析 III")
 

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle "Minimum Area Rectangle")
+[< Previous](../minimum-area-rectangle "Minimum Area Rectangle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-mountain-array "Valid Mountain Array")
+[Next >](../valid-mountain-array "Valid Mountain Array")
 
 ## [940. Distinct Subsequences II (Hard)](https://leetcode.com/problems/distinct-subsequences-ii "不同的子序列 II")
 
@@ -65,4 +65,4 @@
 </div>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/next-closest-time "Next Closest Time")
+[< Previous](../next-closest-time "Next Closest Time")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/k-empty-slots "K Empty Slots")
+[Next >](../k-empty-slots "K Empty Slots")
 
 ## [682. Baseball Game (Easy)](https://leetcode.com/problems/baseball-game "棒球比赛")
 
@@ -68,4 +68,4 @@ Round 7: You could get 9 + 5 = 14 points. The sum is 27.
 </p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](../../tag/stack/README.md)]

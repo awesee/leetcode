@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/web-crawler-multithreaded "Web Crawler Multithreaded")
+[< Previous](../web-crawler-multithreaded "Web Crawler Multithreaded")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-a-leaderboard "Design A Leaderboard")
+[Next >](../design-a-leaderboard "Design A Leaderboard")
 
 ## [1243. Array Transformation (Easy)](https://leetcode.com/problems/array-transformation "数组变换")
 
@@ -54,7 +54,7 @@ No more operations can be done to this array.
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/power-of-two "Power of Two")
+[< Previous](../power-of-two "Power of Two")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-digit-one "Number of Digit One")
+[Next >](../number-of-digit-one "Number of Digit One")
 
 ## [232. Implement Queue using Stacks (Easy)](https://leetcode.com/problems/implement-queue-using-stacks "用栈实现队列")
 
@@ -40,8 +40,8 @@ queue.empty(); // returns false</pre>
 </ul>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Similar Questions
-  1. [Implement Stack using Queues](https://github.com/openset/leetcode/tree/master/problems/implement-stack-using-queues) (Easy)
+  1. [Implement Stack using Queues](../implement-stack-using-queues) (Easy)

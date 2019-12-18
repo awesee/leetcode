@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-morse-code-words "Unique Morse Code Words")
+[< Previous](../unique-morse-code-words "Unique Morse Code Words")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-lines-to-write-string "Number of Lines To Write String")
+[Next >](../number-of-lines-to-write-string "Number of Lines To Write String")
 
 ## [805. Split Array With Same Average (Hard)](https://leetcode.com/problems/split-array-with-same-average "数组的均值分割")
 
@@ -33,4 +33,4 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-binary-tree "Serialize and Deserialize Binary Tree")
+[< Previous](../serialize-and-deserialize-binary-tree "Serialize and Deserialize Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/bulls-and-cows "Bulls and Cows")
+[Next >](../bulls-and-cows "Bulls and Cows")
 
 ## [298. Binary Tree Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence "二叉树最长连续序列")
 
@@ -50,8 +50,8 @@
 Explanation: </strong>Longest consecutive sequence path is <code>2-3</code><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;;">, not </span><code>3-2-1</code><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;;">, so return </span><code>2</code><span style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;;">.</span></pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Longest Consecutive Sequence](https://github.com/openset/leetcode/tree/master/problems/longest-consecutive-sequence) (Hard)
-  1. [Binary Tree Longest Consecutive Sequence II](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence-ii) (Medium)
+  1. [Longest Consecutive Sequence](../longest-consecutive-sequence) (Hard)
+  1. [Binary Tree Longest Consecutive Sequence II](../binary-tree-longest-consecutive-sequence-ii) (Medium)

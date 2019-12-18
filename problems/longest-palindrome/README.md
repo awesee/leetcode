@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-word-abbreviation "Valid Word Abbreviation")
+[< Previous](../valid-word-abbreviation "Valid Word Abbreviation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/split-array-largest-sum "Split Array Largest Sum")
+[Next >](../split-array-largest-sum "Split Array Largest Sum")
 
 ## [409. Longest Palindrome (Easy)](https://leetcode.com/problems/longest-palindrome "最长回文串")
 
@@ -33,7 +33,7 @@ One longest palindrome that can be built is "dccaccd", whose length is 7.
 </p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Palindrome Permutation](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation) (Easy)
+  1. [Palindrome Permutation](../palindrome-permutation) (Easy)

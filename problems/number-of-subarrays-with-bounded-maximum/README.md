@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-tic-tac-toe-state "Valid Tic-Tac-Toe State")
+[< Previous](../valid-tic-tac-toe-state "Valid Tic-Tac-Toe State")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rotate-string "Rotate String")
+[Next >](../rotate-string "Rotate String")
 
 ## [795. Number of Subarrays with Bounded Maximum (Medium)](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum "区间子数组个数")
 
@@ -33,4 +33,4 @@ R = 3
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]

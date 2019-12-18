@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/distribute-coins-in-binary-tree "Distribute Coins in Binary Tree")
+[< Previous](../distribute-coins-in-binary-tree "Distribute Coins in Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/time-based-key-value-store "Time Based Key-Value Store")
+[Next >](../time-based-key-value-store "Time Based Key-Value Store")
 
 ## [980. Unique Paths III (Hard)](https://leetcode.com/problems/unique-paths-iii "不同路径 III")
 
@@ -69,10 +69,10 @@ Note that the starting and ending square can be anywhere in the grid.
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Sudoku Solver](https://github.com/openset/leetcode/tree/master/problems/sudoku-solver) (Hard)
-  1. [Unique Paths II](https://github.com/openset/leetcode/tree/master/problems/unique-paths-ii) (Medium)
-  1. [Word Search II](https://github.com/openset/leetcode/tree/master/problems/word-search-ii) (Hard)
+  1. [Sudoku Solver](../sudoku-solver) (Hard)
+  1. [Unique Paths II](../unique-paths-ii) (Medium)
+  1. [Word Search II](../word-search-ii) (Hard)

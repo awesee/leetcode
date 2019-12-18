@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/graph-valid-tree "Graph Valid Tree")
+[< Previous](../graph-valid-tree "Graph Valid Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/ugly-number "Ugly Number")
+[Next >](../ugly-number "Ugly Number")
 
 ## [262. Trips and Users (Hard)](https://leetcode.com/problems/trips-and-users "行程和用户")
 

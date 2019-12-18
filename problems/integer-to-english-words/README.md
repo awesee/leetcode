@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value-ii "Closest Binary Search Tree Value II")
+[< Previous](../closest-binary-search-tree-value-ii "Closest Binary Search Tree Value II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/h-index "H-Index")
+[Next >](../h-index "H-Index")
 
 ## [273. Integer to English Words (Hard)](https://leetcode.com/problems/integer-to-english-words "整数转换英文表示")
 
@@ -41,11 +41,11 @@
 </pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Integer to Roman](https://github.com/openset/leetcode/tree/master/problems/integer-to-roman) (Medium)
+  1. [Integer to Roman](../integer-to-roman) (Medium)
 
 ### Hints
 <details>

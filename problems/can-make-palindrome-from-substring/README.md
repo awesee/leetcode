@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/diet-plan-performance "Diet Plan Performance")
+[< Previous](../diet-plan-performance "Diet Plan Performance")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-words-for-each-puzzle "Number of Valid Words for Each Puzzle")
+[Next >](../number-of-valid-words-for-each-puzzle "Number of Valid Words for Each Puzzle")
 
 ## [1177. Can Make Palindrome from Substring (Medium)](https://leetcode.com/problems/can-make-palindrome-from-substring "构建回文串检测")
 
@@ -46,8 +46,8 @@ queries[4] :&nbsp;substring = &quot;abcda&quot;,&nbsp;could be changed to &quot;
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

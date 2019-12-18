@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-three-parts-with-equal-sum "Partition Array Into Three Parts With Equal Sum")
+[< Previous](../partition-array-into-three-parts-with-equal-sum "Partition Array Into Three Parts With Equal Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-integer-divisible-by-k "Smallest Integer Divisible by K")
+[Next >](../smallest-integer-divisible-by-k "Smallest Integer Divisible by K")
 
 ## [1014. Best Sightseeing Pair (Medium)](https://leetcode.com/problems/best-sightseeing-pair "最佳观光组合")
 
@@ -37,7 +37,7 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

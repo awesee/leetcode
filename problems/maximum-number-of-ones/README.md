@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-to-target-color "Shortest Distance to Target Color")
+[< Previous](../shortest-distance-to-target-color "Shortest Distance to Target Color")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/distance-between-bus-stops "Distance Between Bus Stops")
+[Next >](../distance-between-bus-stops "Distance Between Bus Stops")
 
 ## [1183. Maximum Number of Ones (Hard)](https://leetcode.com/problems/maximum-number-of-ones "矩阵中 1 的最大数量")
 
@@ -50,8 +50,8 @@ The best solution that has 4 ones is:
 </ul>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

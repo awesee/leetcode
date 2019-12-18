@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/is-graph-bipartite "Is Graph Bipartite?")
+[< Previous](../is-graph-bipartite "Is Graph Bipartite?")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/cheapest-flights-within-k-stops "Cheapest Flights Within K Stops")
+[Next >](../cheapest-flights-within-k-stops "Cheapest Flights Within K Stops")
 
 ## [786. K-th Smallest Prime Fraction (Hard)](https://leetcode.com/problems/k-th-smallest-prime-fraction "第 K 个最小的素数分数")
 
@@ -37,10 +37,10 @@ The third fraction is 2/5.
 </ul>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Kth Smallest Element in a Sorted Matrix](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
-  1. [Kth Smallest Number in Multiplication Table](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-number-in-multiplication-table) (Hard)
-  1. [Find K-th Smallest Pair Distance](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance) (Hard)
+  1. [Kth Smallest Element in a Sorted Matrix](../kth-smallest-element-in-a-sorted-matrix) (Medium)
+  1. [Kth Smallest Number in Multiplication Table](../kth-smallest-number-in-multiplication-table) (Hard)
+  1. [Find K-th Smallest Pair Distance](../find-k-th-smallest-pair-distance) (Hard)

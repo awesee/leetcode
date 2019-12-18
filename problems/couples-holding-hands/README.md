@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-plus-sign "Largest Plus Sign")
+[< Previous](../largest-plus-sign "Largest Plus Sign")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/toeplitz-matrix "Toeplitz Matrix")
+[Next >](../toeplitz-matrix "Toeplitz Matrix")
 
 ## [765. Couples Holding Hands (Hard)](https://leetcode.com/problems/couples-holding-hands "情侣牵手")
 
@@ -38,14 +38,14 @@ The couples' initial seating is given by <code>row[i]</code> being the value of 
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Similar Questions
-  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive) (Hard)
-  1. [Missing Number](https://github.com/openset/leetcode/tree/master/problems/missing-number) (Easy)
-  1. [K-Similar Strings](https://github.com/openset/leetcode/tree/master/problems/k-similar-strings) (Hard)
+  1. [First Missing Positive](../first-missing-positive) (Hard)
+  1. [Missing Number](../missing-number) (Easy)
+  1. [K-Similar Strings](../k-similar-strings) (Hard)
 
 ### Hints
 <details>

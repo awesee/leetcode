@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-genetic-mutation "Minimum Genetic Mutation")
+[< Previous](../minimum-genetic-mutation "Minimum Genetic Mutation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/non-overlapping-intervals "Non-overlapping Intervals")
+[Next >](../non-overlapping-intervals "Non-overlapping Intervals")
 
 ## [434. Number of Segments in a String (Easy)](https://leetcode.com/problems/number-of-segments-in-a-string "字符串中的单词数")
 
@@ -23,4 +23,4 @@
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

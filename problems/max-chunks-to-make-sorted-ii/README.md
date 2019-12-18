@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reorganize-string "Reorganize String")
+[< Previous](../reorganize-string "Reorganize String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted "Max Chunks To Make Sorted")
+[Next >](../max-chunks-to-make-sorted "Max Chunks To Make Sorted")
 
 ## [768. Max Chunks To Make Sorted II (Hard)](https://leetcode.com/problems/max-chunks-to-make-sorted-ii "最多能完成排序的块 II")
 
@@ -49,10 +49,10 @@ However, splitting into [2, 1], [3], [4], [4] is the highest number of chunks po
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Max Chunks To Make Sorted](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted) (Medium)
+  1. [Max Chunks To Make Sorted](../max-chunks-to-make-sorted) (Medium)
 
 ### Hints
 <details>

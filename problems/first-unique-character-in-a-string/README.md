@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/lexicographical-numbers "Lexicographical Numbers")
+[< Previous](../lexicographical-numbers "Lexicographical Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-absolute-file-path "Longest Absolute File Path")
+[Next >](../longest-absolute-file-path "Longest Absolute File Path")
 
 ## [387. First Unique Character in a String (Easy)](https://leetcode.com/problems/first-unique-character-in-a-string "字符串中的第一个唯一字符")
 
@@ -29,8 +29,8 @@ return 2.
 </p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Sort Characters By Frequency](https://github.com/openset/leetcode/tree/master/problems/sort-characters-by-frequency) (Medium)
+  1. [Sort Characters By Frequency](../sort-characters-by-frequency) (Medium)

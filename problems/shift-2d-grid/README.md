@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/handshakes-that-dont-cross "Handshakes That Don't Cross")
+[< Previous](../handshakes-that-dont-cross "Handshakes That Don't Cross")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-elements-in-a-contaminated-binary-tree "Find Elements in a Contaminated Binary Tree")
+[Next >](../find-elements-in-a-contaminated-binary-tree "Find Elements in a Contaminated Binary Tree")
 
 ## [1260. Shift 2D Grid (Easy)](https://leetcode.com/problems/shift-2d-grid "二维网格迁移")
 
@@ -58,7 +58,7 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

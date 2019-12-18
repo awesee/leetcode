@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reveal-cards-in-increasing-order "Reveal Cards In Increasing Order")
+[< Previous](../reveal-cards-in-increasing-order "Reveal Cards In Increasing Order")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-component-size-by-common-factor "Largest Component Size by Common Factor")
+[Next >](../largest-component-size-by-common-factor "Largest Component Size by Common Factor")
 
 ## [951. Flip Equivalent Binary Trees (Medium)](https://leetcode.com/problems/flip-equivalent-binary-trees "翻转等价二叉树")
 
@@ -42,4 +42,4 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]

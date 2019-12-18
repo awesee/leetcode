@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/active-businesses "Active Businesses")
+[< Previous](../active-businesses "Active Businesses")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-equivalent-domino-pairs "Number of Equivalent Domino Pairs")
+[Next >](../number-of-equivalent-domino-pairs "Number of Equivalent Domino Pairs")
 
 ## [1127. User Purchase Platform (Hard)](https://leetcode.com/problems/user-purchase-platform "")
 

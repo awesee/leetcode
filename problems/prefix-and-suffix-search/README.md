@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-smallest-letter-greater-than-target "Find Smallest Letter Greater Than Target")
+[< Previous](../find-smallest-letter-greater-than-target "Find Smallest Letter Greater Than Target")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/min-cost-climbing-stairs "Min Cost Climbing Stairs")
+[Next >](../min-cost-climbing-stairs "Min Cost Climbing Stairs")
 
 ## [745. Prefix and Suffix Search (Hard)](https://leetcode.com/problems/prefix-and-suffix-search "前缀和后缀搜索")
 
@@ -39,10 +39,10 @@ WordFilter.f(&quot;b&quot;, &quot;&quot;) // returns -1
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[Trie](../../tag/trie/README.md)]
 
 ### Similar Questions
-  1. [Add and Search Word - Data structure design](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design) (Medium)
+  1. [Add and Search Word - Data structure design](../add-and-search-word-data-structure-design) (Medium)
 
 ### Hints
 <details>

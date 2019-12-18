@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-common-characters "Find Common Characters")
+[< Previous](../find-common-characters "Find Common Characters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii "Max Consecutive Ones III")
+[Next >](../max-consecutive-ones-iii "Max Consecutive Ones III")
 
 ## [1003. Check If Word Is Valid After Substitutions (Medium)](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions "检查替换后的词是否有效")
 
@@ -78,8 +78,8 @@ Then we can insert &quot;abc&quot; before the last letter, resulting in &quot;ab
 </div>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Valid Parentheses](https://github.com/openset/leetcode/tree/master/problems/valid-parentheses) (Easy)
+  1. [Valid Parentheses](../valid-parentheses) (Easy)

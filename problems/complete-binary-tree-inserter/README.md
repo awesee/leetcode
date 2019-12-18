@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-circular-subarray "Maximum Sum Circular Subarray")
+[< Previous](../maximum-sum-circular-subarray "Maximum Sum Circular Subarray")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-music-playlists "Number of Music Playlists")
+[Next >](../number-of-music-playlists "Number of Music Playlists")
 
 ## [919. Complete Binary Tree Inserter (Medium)](https://leetcode.com/problems/complete-binary-tree-inserter "完全二叉树插入器")
 
@@ -62,4 +62,4 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]

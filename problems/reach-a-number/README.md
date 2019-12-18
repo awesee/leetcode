@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/cracking-the-safe "Cracking the Safe")
+[< Previous](../cracking-the-safe "Cracking the Safe")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/pour-water "Pour Water")
+[Next >](../pour-water "Pour Water")
 
 ## [754. Reach a Number (Medium)](https://leetcode.com/problems/reach-a-number "到达终点数字")
 
@@ -45,4 +45,4 @@ On the third move we step from -1 to 2.
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

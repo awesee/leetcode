@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/group-shifted-strings "Group Shifted Strings")
+[< Previous](../group-shifted-strings "Group Shifted Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flatten-2d-vector "Flatten 2D Vector")
+[Next >](../flatten-2d-vector "Flatten 2D Vector")
 
 ## [250. Count Univalue Subtrees (Medium)](https://leetcode.com/problems/count-univalue-subtrees "统计同值子树")
 
@@ -29,8 +29,8 @@
 </pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Subtree of Another Tree](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree) (Easy)
-  1. [Longest Univalue Path](https://github.com/openset/leetcode/tree/master/problems/longest-univalue-path) (Easy)
+  1. [Subtree of Another Tree](../subtree-of-another-tree) (Easy)
+  1. [Longest Univalue Path](../longest-univalue-path) (Easy)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/capacity-to-ship-packages-within-d-days "Capacity To Ship Packages Within D Days")
+[< Previous](../capacity-to-ship-packages-within-d-days "Capacity To Ship Packages Within D Days")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-three-parts-with-equal-sum "Partition Array Into Three Parts With Equal Sum")
+[Next >](../partition-array-into-three-parts-with-equal-sum "Partition Array Into Three Parts With Equal Sum")
 
 ## [1012. Numbers With Repeated Digits (Hard)](https://leetcode.com/problems/numbers-with-repeated-digits "至少有 1 位重复的数字")
 
@@ -53,8 +53,8 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/product-price-at-a-given-date "Product Price at a Given Date")
+[< Previous](../product-price-at-a-given-date "Product Price at a Given Date")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-file-system "Design File System")
+[Next >](../design-file-system "Design File System")
 
 ## [1165. Single-Row Keyboard (Easy)](https://leetcode.com/problems/single-row-keyboard "单行键盘")
 
@@ -45,7 +45,7 @@ Total time = 2 + 1 + 1 = 4.
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold "Maximum Side Length of a Square with Sum Less than or Equal to Threshold")
+[< Previous](../maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold "Maximum Side Length of a Square with Sum Less than or Equal to Threshold")
 　　　　　　　　　　　　　　　　
 Next >
 
@@ -62,7 +62,7 @@ k = 1
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

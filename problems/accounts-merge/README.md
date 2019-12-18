@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary "Longest Word in Dictionary")
+[< Previous](../longest-word-in-dictionary "Longest Word in Dictionary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-comments "Remove Comments")
+[Next >](../remove-comments "Remove Comments")
 
 ## [721. Accounts Merge (Medium)](https://leetcode.com/problems/accounts-merge "账户合并")
 
@@ -37,13 +37,13 @@ We could return these lists in any order, for example the answer [['Mary', 'mary
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
 
 ### Similar Questions
-  1. [Redundant Connection](https://github.com/openset/leetcode/tree/master/problems/redundant-connection) (Medium)
-  1. [Sentence Similarity](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity) (Easy)
-  1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity-ii) (Medium)
+  1. [Redundant Connection](../redundant-connection) (Medium)
+  1. [Sentence Similarity](../sentence-similarity) (Easy)
+  1. [Sentence Similarity II](../sentence-similarity-ii) (Medium)
 
 ### Hints
 <details>

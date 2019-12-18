@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/brace-expansion "Brace Expansion")
+[< Previous](../brace-expansion "Brace Expansion")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/duplicate-zeros "Duplicate Zeros")
+[Next >](../duplicate-zeros "Duplicate Zeros")
 
 ## [1088. Confusing Number II (Hard)](https://leetcode.com/problems/confusing-number-ii "易混淆数 II")
 
@@ -52,11 +52,11 @@ The confusing numbers are [6,9,10,16,18,19,60,61,66,68,80,81,86,89,90,91,98,99,1
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Confusing Number](https://github.com/openset/leetcode/tree/master/problems/confusing-number) (Easy)
+  1. [Confusing Number](../confusing-number) (Easy)
 
 ### Hints
 <details>

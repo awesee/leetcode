@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/get-highest-answer-rate-question "Get Highest Answer Rate Question")
+[< Previous](../get-highest-answer-rate-question "Get Highest Answer Rate Question")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-student-number-in-departments "Count Student Number in Departments")
+[Next >](../count-student-number-in-departments "Count Student Number in Departments")
 
 ## [579. Find Cumulative Salary of an Employee (Hard)](https://leetcode.com/problems/find-cumulative-salary-of-an-employee "查询员工的累计薪水")
 

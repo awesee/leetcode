@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/divide-chocolate "Divide Chocolate")
+[< Previous](../divide-chocolate "Divide Chocolate")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-sub-folders-from-the-filesystem "Remove Sub-Folders from the Filesystem")
+[Next >](../remove-sub-folders-from-the-filesystem "Remove Sub-Folders from the Filesystem")
 
 ## [1232. Check If It Is a Straight Line (Easy)](https://leetcode.com/problems/check-if-it-is-a-straight-line "缀点成线")
 
@@ -45,9 +45,9 @@
 </ul>
 
 ### Related Topics
-  [[Geometry](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Geometry](../../tag/geometry/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

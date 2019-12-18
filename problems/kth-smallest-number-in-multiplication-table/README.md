@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement-ii "Beautiful Arrangement II")
+[< Previous](../beautiful-arrangement-ii "Beautiful Arrangement II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/trim-a-binary-search-tree "Trim a Binary Search Tree")
+[Next >](../trim-a-binary-search-tree "Trim a Binary Search Tree")
 
 ## [668. Kth Smallest Number in Multiplication Table (Hard)](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table "乘法表中第k小的数")
 
@@ -56,9 +56,9 @@ The 6-th smallest number is 6 (1, 2, 2, 3, 4, 6).
 </p>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Kth Smallest Element in a Sorted Matrix](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-element-in-a-sorted-matrix) (Medium)
-  1. [Find K-th Smallest Pair Distance](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance) (Hard)
-  1. [K-th Smallest Prime Fraction](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-prime-fraction) (Hard)
+  1. [Kth Smallest Element in a Sorted Matrix](../kth-smallest-element-in-a-sorted-matrix) (Medium)
+  1. [Find K-th Smallest Pair Distance](../find-k-th-smallest-pair-distance) (Hard)
+  1. [K-th Smallest Prime Fraction](../k-th-smallest-prime-fraction) (Hard)

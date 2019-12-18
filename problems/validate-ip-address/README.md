@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-substrings-in-wraparound-string "Unique Substrings in Wraparound String")
+[< Previous](../unique-substrings-in-wraparound-string "Unique Substrings in Wraparound String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/convex-polygon "Convex Polygon")
+[Next >](../convex-polygon "Convex Polygon")
 
 ## [468. Validate IP Address (Medium)](https://leetcode.com/problems/validate-ip-address "验证IP地址")
 
@@ -73,7 +73,7 @@ You may assume there is no extra space or special characters in the input string
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [IP to CIDR](https://github.com/openset/leetcode/tree/master/problems/ip-to-cidr) (Easy)
+  1. [IP to CIDR](../ip-to-cidr) (Easy)

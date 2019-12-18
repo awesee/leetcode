@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/vowel-spellchecker "Vowel Spellchecker")
+[< Previous](../vowel-spellchecker "Vowel Spellchecker")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras "Binary Tree Cameras")
+[Next >](../binary-tree-cameras "Binary Tree Cameras")
 
 ## [967. Numbers With Same Consecutive Differences (Medium)](https://leetcode.com/problems/numbers-with-same-consecutive-differences "连续差相同的数字")
 
@@ -45,4 +45,4 @@
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

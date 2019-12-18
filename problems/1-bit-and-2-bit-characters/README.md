@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/max-stack "Max Stack")
+[< Previous](../max-stack "Max Stack")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-repeated-subarray "Maximum Length of Repeated Subarray")
+[Next >](../maximum-length-of-repeated-subarray "Maximum Length of Repeated Subarray")
 
 ## [717. 1-bit and 2-bit Characters (Easy)](https://leetcode.com/problems/1-bit-and-2-bit-characters "1比特与2比特字符")
 
@@ -41,10 +41,10 @@ The only way to decode it is two-bit character and two-bit character. So the las
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Gray Code](https://github.com/openset/leetcode/tree/master/problems/gray-code) (Medium)
+  1. [Gray Code](../gray-code) (Medium)
 
 ### Hints
 <details>

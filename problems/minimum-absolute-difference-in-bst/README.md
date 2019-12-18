@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minesweeper "Minesweeper")
+[< Previous](../minesweeper "Minesweeper")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-i "Lonely Pixel I")
+[Next >](../lonely-pixel-i "Lonely Pixel I")
 
 ## [530. Minimum Absolute Difference in BST (Easy)](https://leetcode.com/problems/minimum-absolute-difference-in-bst "二叉搜索树的最小绝对差")
 
@@ -36,7 +36,7 @@ The minimum absolute difference is 1, which is the difference between 2 and 1 (o
 <p><b>Note:</b> There are at least two nodes in this BST.</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [K-diff Pairs in an Array](https://github.com/openset/leetcode/tree/master/problems/k-diff-pairs-in-an-array) (Easy)
+  1. [K-diff Pairs in an Array](../k-diff-pairs-in-an-array) (Easy)

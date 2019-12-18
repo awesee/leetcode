@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/hand-of-straights "Hand of Straights")
+[< Previous](../hand-of-straights "Hand of Straights")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shifting-letters "Shifting Letters")
+[Next >](../shifting-letters "Shifting Letters")
 
 ## [847. Shortest Path Visiting All Nodes (Hard)](https://leetcode.com/problems/shortest-path-visiting-all-nodes "访问所有节点的最短路径")
 
@@ -47,5 +47,5 @@
 </ol>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

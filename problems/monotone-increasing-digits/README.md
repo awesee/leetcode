@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity-ii "Sentence Similarity II")
+[< Previous](../sentence-similarity-ii "Sentence Similarity II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/daily-temperatures "Daily Temperatures")
+[Next >](../daily-temperatures "Daily Temperatures")
 
 ## [738. Monotone Increasing Digits (Medium)](https://leetcode.com/problems/monotone-increasing-digits "单调递增的数字")
 
@@ -43,10 +43,10 @@ Given a non-negative integer <code>N</code>, find the largest number that is les
 </p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Similar Questions
-  1. [Remove K Digits](https://github.com/openset/leetcode/tree/master/problems/remove-k-digits) (Medium)
+  1. [Remove K Digits](../remove-k-digits) (Medium)
 
 ### Hints
 <details>

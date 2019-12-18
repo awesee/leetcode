@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-peak-element "Find Peak Element")
+[< Previous](../find-peak-element "Find Peak Element")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-gap "Maximum Gap")
+[Next >](../maximum-gap "Maximum Gap")
 
 ## [163. Missing Ranges (Medium)](https://leetcode.com/problems/missing-ranges "缺失的区间")
 
@@ -21,7 +21,7 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Summary Ranges](https://github.com/openset/leetcode/tree/master/problems/summary-ranges) (Medium)
+  1. [Summary Ranges](../summary-ranges) (Medium)

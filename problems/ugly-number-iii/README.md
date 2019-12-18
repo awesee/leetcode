@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference "Minimum Absolute Difference")
+[< Previous](../minimum-absolute-difference "Minimum Absolute Difference")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-string-with-swaps "Smallest String With Swaps")
+[Next >](../smallest-string-with-swaps "Smallest String With Swaps")
 
 ## [1201. Ugly Number III (Medium)](https://leetcode.com/problems/ugly-number-iii "丑数 III")
 
@@ -56,8 +56,8 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

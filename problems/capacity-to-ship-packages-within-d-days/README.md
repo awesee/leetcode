@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/pairs-of-songs-with-total-durations-divisible-by-60 "Pairs of Songs With Total Durations Divisible by 60")
+[< Previous](../pairs-of-songs-with-total-durations-divisible-by-60 "Pairs of Songs With Total Durations Divisible by 60")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/numbers-with-repeated-digits "Numbers With Repeated Digits")
+[Next >](../numbers-with-repeated-digits "Numbers With Repeated Digits")
 
 ## [1011. Capacity To Ship Packages Within D Days (Medium)](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days "在 D 天内送达包裹的能力")
 
@@ -69,8 +69,8 @@ A ship capacity of 6 is the minimum to ship all the packages in 3 days like this
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

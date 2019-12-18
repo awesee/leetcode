@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-islands "Number of Islands")
+[< Previous](../number-of-islands "Number of Islands")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/happy-number "Happy Number")
+[Next >](../happy-number "Happy Number")
 
 ## [201. Bitwise AND of Numbers Range (Medium)](https://leetcode.com/problems/bitwise-and-of-numbers-range "数字范围按位与")
 
@@ -27,4 +27,4 @@
 <strong>Output:</strong> 0</pre>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]

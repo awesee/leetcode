@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iii "Combination Sum III")
+[< Previous](../combination-sum-iii "Combination Sum III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/the-skyline-problem "The Skyline Problem")
+[Next >](../the-skyline-problem "The Skyline Problem")
 
 ## [217. Contains Duplicate (Easy)](https://leetcode.com/problems/contains-duplicate "存在重复元素")
 
@@ -34,9 +34,9 @@
 <strong>Output:</strong> true</pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Contains Duplicate II](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate-ii) (Easy)
-  1. [Contains Duplicate III](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate-iii) (Medium)
+  1. [Contains Duplicate II](../contains-duplicate-ii) (Easy)
+  1. [Contains Duplicate III](../contains-duplicate-iii) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-mode-in-binary-search-tree "Find Mode in Binary Search Tree")
+[< Previous](../find-mode-in-binary-search-tree "Find Mode in Binary Search Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-ii "Next Greater Element II")
+[Next >](../next-greater-element-ii "Next Greater Element II")
 
 ## [502. IPO (Hard)](https://leetcode.com/problems/ipo "IPO")
 
@@ -46,5 +46,5 @@ To sum up, pick a list of at most <b>k</b> distinct projects from given projects
 </p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

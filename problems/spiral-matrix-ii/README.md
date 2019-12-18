@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/length-of-last-word "Length of Last Word")
+[< Previous](../length-of-last-word "Length of Last Word")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/permutation-sequence "Permutation Sequence")
+[Next >](../permutation-sequence "Permutation Sequence")
 
 ## [59. Spiral Matrix II (Medium)](https://leetcode.com/problems/spiral-matrix-ii "螺旋矩阵 II")
 
@@ -26,7 +26,7 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Spiral Matrix](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix) (Medium)
+  1. [Spiral Matrix](../spiral-matrix) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/contain-virus "Contain Virus")
+[< Previous](../contain-virus "Contain Virus")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/ip-to-cidr "IP to CIDR")
+[Next >](../ip-to-cidr "IP to CIDR")
 
 ## [750. Number Of Corner Rectangles (Medium)](https://leetcode.com/problems/number-of-corner-rectangles "角矩形的数量")
 
@@ -66,7 +66,7 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

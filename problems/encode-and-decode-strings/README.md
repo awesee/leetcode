@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value "Closest Binary Search Tree Value")
+[< Previous](../closest-binary-search-tree-value "Closest Binary Search Tree Value")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value-ii "Closest Binary Search Tree Value II")
+[Next >](../closest-binary-search-tree-value-ii "Closest Binary Search Tree Value II")
 
 ## [271. Encode and Decode Strings (Medium)](https://leetcode.com/problems/encode-and-decode-strings "字符串的编码与解码")
 
@@ -56,10 +56,10 @@ vector&lt;string&gt; strs2 = decode(encoded_string);
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Count and Say](https://github.com/openset/leetcode/tree/master/problems/count-and-say) (Easy)
-  1. [Serialize and Deserialize Binary Tree](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-binary-tree) (Hard)
-  1. [String Compression](https://github.com/openset/leetcode/tree/master/problems/string-compression) (Easy)
-  1. [Count Binary Substrings](https://github.com/openset/leetcode/tree/master/problems/count-binary-substrings) (Easy)
+  1. [Count and Say](../count-and-say) (Easy)
+  1. [Serialize and Deserialize Binary Tree](../serialize-and-deserialize-binary-tree) (Hard)
+  1. [String Compression](../string-compression) (Easy)
+  1. [Count Binary Substrings](../count-binary-substrings) (Easy)

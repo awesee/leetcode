@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/walls-and-gates "Walls and Gates")
+[< Previous](../walls-and-gates "Walls and Gates")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-word-abbreviation "Unique Word Abbreviation")
+[Next >](../unique-word-abbreviation "Unique Word Abbreviation")
 
 ## [287. Find the Duplicate Number (Medium)](https://leetcode.com/problems/find-the-duplicate-number "寻找重复数")
 
@@ -36,13 +36,13 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive) (Hard)
-  1. [Single Number](https://github.com/openset/leetcode/tree/master/problems/single-number) (Easy)
-  1. [Linked List Cycle II](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle-ii) (Medium)
-  1. [Missing Number](https://github.com/openset/leetcode/tree/master/problems/missing-number) (Easy)
-  1. [Set Mismatch](https://github.com/openset/leetcode/tree/master/problems/set-mismatch) (Easy)
+  1. [First Missing Positive](../first-missing-positive) (Hard)
+  1. [Single Number](../single-number) (Easy)
+  1. [Linked List Cycle II](../linked-list-cycle-ii) (Medium)
+  1. [Missing Number](../missing-number) (Easy)
+  1. [Set Mismatch](../set-mismatch) (Easy)

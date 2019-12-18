@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/missing-ranges "Missing Ranges")
+[< Previous](../missing-ranges "Missing Ranges")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/compare-version-numbers "Compare Version Numbers")
+[Next >](../compare-version-numbers "Compare Version Numbers")
 
 ## [164. Maximum Gap (Hard)](https://leetcode.com/problems/maximum-gap "最大间距")
 
@@ -38,4 +38,4 @@
 </ul>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Sort](../../tag/sort/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-ii "Shortest Word Distance II")
+[< Previous](../shortest-word-distance-ii "Shortest Word Distance II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number "Strobogrammatic Number")
+[Next >](../strobogrammatic-number "Strobogrammatic Number")
 
 ## [245. Shortest Word Distance III (Medium)](https://leetcode.com/problems/shortest-word-distance-iii "最短单词距离 III")
 
@@ -32,8 +32,8 @@ Assume that words = <code>[&quot;practice&quot;, &quot;makes&quot;, &quot;perfec
 You may assume <em>word1</em> and <em>word2</em> are both in the list.</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Shortest Word Distance](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance) (Easy)
-  1. [Shortest Word Distance II](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-ii) (Medium)
+  1. [Shortest Word Distance](../shortest-word-distance) (Easy)
+  1. [Shortest Word Distance II](../shortest-word-distance-ii) (Medium)

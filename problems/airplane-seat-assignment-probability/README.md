@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/the-dining-philosophers "The Dining Philosophers")
+[< Previous](../the-dining-philosophers "The Dining Philosophers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/missing-number-in-arithmetic-progression "Missing Number In Arithmetic Progression")
+[Next >](../missing-number-in-arithmetic-progression "Missing Number In Arithmetic Progression")
 
 ## [1227. Airplane Seat Assignment Probability (Medium)](https://leetcode.com/problems/airplane-seat-assignment-probability "飞机座位分配概率")
 
@@ -44,9 +44,9 @@
 </ul>
 
 ### Related Topics
-  [[Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Brainteaser](../../tag/brainteaser/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

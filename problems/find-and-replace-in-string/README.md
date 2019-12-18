@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flipping-an-image "Flipping an Image")
+[< Previous](../flipping-an-image "Flipping an Image")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-distances-in-tree "Sum of Distances in Tree")
+[Next >](../sum-of-distances-in-tree "Sum of Distances in Tree")
 
 ## [833. Find And Replace in String (Medium)](https://leetcode.com/problems/find-and-replace-in-string "字符串中的查找与替换")
 
@@ -50,4 +50,4 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

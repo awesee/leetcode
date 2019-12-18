@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximize-distance-to-closest-person "Maximize Distance to Closest Person")
+[< Previous](../maximize-distance-to-closest-person "Maximize Distance to Closest Person")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/loud-and-rich "Loud and Rich")
+[Next >](../loud-and-rich "Loud and Rich")
 
 ## [850. Rectangle Area II (Hard)](https://leetcode.com/problems/rectangle-area-ii "矩形面积 II")
 
@@ -43,5 +43,5 @@
 </ul>
 
 ### Related Topics
-  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
+  [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Line Sweep](../../tag/line-sweep/README.md)]

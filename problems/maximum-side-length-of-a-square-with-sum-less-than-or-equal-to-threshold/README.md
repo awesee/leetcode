@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sequential-digits "Sequential Digits")
+[< Previous](../sequential-digits "Sequential Digits")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-path-in-a-grid-with-obstacles-elimination "Shortest Path in a Grid with Obstacles Elimination")
+[Next >](../shortest-path-in-a-grid-with-obstacles-elimination "Shortest Path in a Grid with Obstacles Elimination")
 
 ## [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold (Medium)](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold "元素和小于等于阈值的正方形的最大边长")
 
@@ -55,8 +55,8 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

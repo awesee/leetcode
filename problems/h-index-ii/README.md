@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/h-index "H-Index")
+[< Previous](../h-index "H-Index")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/paint-fence "Paint Fence")
+[Next >](../paint-fence "Paint Fence")
 
 ## [275. H-Index II (Medium)](https://leetcode.com/problems/h-index-ii "H指数 II")
 
@@ -37,10 +37,10 @@
 </ul>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [H-Index](https://github.com/openset/leetcode/tree/master/problems/h-index) (Medium)
+  1. [H-Index](../h-index) (Medium)
 
 ### Hints
 <details>

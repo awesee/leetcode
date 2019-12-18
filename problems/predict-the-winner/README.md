@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones "Max Consecutive Ones")
+[< Previous](../max-consecutive-ones "Max Consecutive Ones")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-ii "Max Consecutive Ones II")
+[Next >](../max-consecutive-ones-ii "Max Consecutive Ones II")
 
 ## [486. Predict the Winner (Medium)](https://leetcode.com/problems/predict-the-winner "预测赢家")
 
@@ -40,8 +40,8 @@
 </p>
 
 ### Related Topics
-  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Minimax](../../tag/minimax/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Can I Win](https://github.com/openset/leetcode/tree/master/problems/can-i-win) (Medium)
+  1. [Can I Win](../can-i-win) (Medium)

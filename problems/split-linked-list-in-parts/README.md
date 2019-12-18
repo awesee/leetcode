@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-pivot-index "Find Pivot Index")
+[< Previous](../find-pivot-index "Find Pivot Index")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms "Number of Atoms")
+[Next >](../number-of-atoms "Number of Atoms")
 
 ## [725. Split Linked List in Parts (Medium)](https://leetcode.com/problems/split-linked-list-in-parts "分隔链表")
 
@@ -58,11 +58,11 @@ The input has been split into consecutive parts with size difference at most 1, 
 </p>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Rotate List](https://github.com/openset/leetcode/tree/master/problems/rotate-list) (Medium)
-  1. [Odd Even Linked List](https://github.com/openset/leetcode/tree/master/problems/odd-even-linked-list) (Medium)
+  1. [Rotate List](../rotate-list) (Medium)
+  1. [Odd Even Linked List](../odd-even-linked-list) (Medium)
 
 ### Hints
 <details>

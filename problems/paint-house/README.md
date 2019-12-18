@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/verify-preorder-sequence-in-binary-search-tree "Verify Preorder Sequence in Binary Search Tree")
+[< Previous](../verify-preorder-sequence-in-binary-search-tree "Verify Preorder Sequence in Binary Search Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-paths "Binary Tree Paths")
+[Next >](../binary-tree-paths "Binary Tree Paths")
 
 ## [256. Paint House (Easy)](https://leetcode.com/problems/paint-house "粉刷房子")
 
@@ -28,10 +28,10 @@ All costs are positive integers.</p>
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [House Robber](https://github.com/openset/leetcode/tree/master/problems/house-robber) (Easy)
-  1. [House Robber II](https://github.com/openset/leetcode/tree/master/problems/house-robber-ii) (Medium)
-  1. [Paint House II](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii) (Hard)
-  1. [Paint Fence](https://github.com/openset/leetcode/tree/master/problems/paint-fence) (Easy)
+  1. [House Robber](../house-robber) (Easy)
+  1. [House Robber II](../house-robber-ii) (Medium)
+  1. [Paint House II](../paint-house-ii) (Hard)
+  1. [Paint Fence](../paint-fence) (Easy)

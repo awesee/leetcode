@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/bitwise-ors-of-subarrays "Bitwise ORs of Subarrays")
+[< Previous](../bitwise-ors-of-subarrays "Bitwise ORs of Subarrays")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rle-iterator "RLE Iterator")
+[Next >](../rle-iterator "RLE Iterator")
 
 ## [899. Orderly Queue (Hard)](https://leetcode.com/problems/orderly-queue "有序队列")
 
@@ -53,5 +53,5 @@ In the second move, we move the 3rd character (&quot;c&quot;) to the end, obtain
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]

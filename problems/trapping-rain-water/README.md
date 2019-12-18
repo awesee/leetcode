@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive "First Missing Positive")
+[< Previous](../first-missing-positive "First Missing Positive")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/multiply-strings "Multiply Strings")
+[Next >](../multiply-strings "Multiply Strings")
 
 ## [42. Trapping Rain Water (Hard)](https://leetcode.com/problems/trapping-rain-water "接雨水")
 
@@ -23,12 +23,12 @@
 <strong>Output:</strong> 6</pre>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Container With Most Water](https://github.com/openset/leetcode/tree/master/problems/container-with-most-water) (Medium)
-  1. [Product of Array Except Self](https://github.com/openset/leetcode/tree/master/problems/product-of-array-except-self) (Medium)
-  1. [Trapping Rain Water II](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water-ii) (Hard)
-  1. [Pour Water](https://github.com/openset/leetcode/tree/master/problems/pour-water) (Medium)
+  1. [Container With Most Water](../container-with-most-water) (Medium)
+  1. [Product of Array Except Self](../product-of-array-except-self) (Medium)
+  1. [Trapping Rain Water II](../trapping-rain-water-ii) (Hard)
+  1. [Pour Water](../pour-water) (Medium)

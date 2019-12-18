@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-falling-path-sum-ii "Minimum Falling Path Sum II")
+[< Previous](../minimum-falling-path-sum-ii "Minimum Falling Path Sum II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sequential-digits "Sequential Digits")
+[Next >](../sequential-digits "Sequential Digits")
 
 ## [1290. Convert Binary Number in a Linked List to Integer (Easy)](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer "二进制链表转整数")
 
@@ -62,8 +62,8 @@
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
 
 ### Hints
 <details>

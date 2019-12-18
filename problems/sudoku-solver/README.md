@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-sudoku "Valid Sudoku")
+[< Previous](../valid-sudoku "Valid Sudoku")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-and-say "Count and Say")
+[Next >](../count-and-say "Count and Say")
 
 ## [37. Sudoku Solver (Hard)](https://leetcode.com/problems/sudoku-solver "解数独")
 
@@ -38,9 +38,9 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Valid Sudoku](https://github.com/openset/leetcode/tree/master/problems/valid-sudoku) (Medium)
-  1. [Unique Paths III](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii) (Hard)
+  1. [Valid Sudoku](../valid-sudoku) (Medium)
+  1. [Unique Paths III](../unique-paths-iii) (Hard)

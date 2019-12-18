@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/similar-string-groups "Similar String Groups")
+[< Previous](../similar-string-groups "Similar String Groups")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/keys-and-rooms "Keys and Rooms")
+[Next >](../keys-and-rooms "Keys and Rooms")
 
 ## [840. Magic Squares In Grid (Easy)](https://leetcode.com/problems/magic-squares-in-grid "矩阵中的幻方")
 
@@ -47,4 +47,4 @@ In total, there is only one magic square inside the given grid.
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]

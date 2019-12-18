@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/increasing-triplet-subsequence "Increasing Triplet Subsequence")
+[< Previous](../increasing-triplet-subsequence "Increasing Triplet Subsequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-pairs "Palindrome Pairs")
+[Next >](../palindrome-pairs "Palindrome Pairs")
 
 ## [335. Self Crossing (Hard)](https://leetcode.com/problems/self-crossing "路径交叉")
 
@@ -54,4 +54,4 @@ Input:</strong> <code>[1,1,1,1]</code>
 </pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

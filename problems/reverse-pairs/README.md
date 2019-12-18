@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/construct-the-rectangle "Construct the Rectangle")
+[< Previous](../construct-the-rectangle "Construct the Rectangle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/target-sum "Target Sum")
+[Next >](../target-sum "Target Sum")
 
 ## [493. Reverse Pairs (Hard)](https://leetcode.com/problems/reverse-pairs "翻转对")
 
@@ -35,12 +35,12 @@
 </p>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Binary Indexed Tree](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
-  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
+  [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
-  1. [Count of Smaller Numbers After Self](https://github.com/openset/leetcode/tree/master/problems/count-of-smaller-numbers-after-self) (Hard)
-  1. [Count of Range Sum](https://github.com/openset/leetcode/tree/master/problems/count-of-range-sum) (Hard)
+  1. [Count of Smaller Numbers After Self](../count-of-smaller-numbers-after-self) (Hard)
+  1. [Count of Range Sum](../count-of-range-sum) (Hard)

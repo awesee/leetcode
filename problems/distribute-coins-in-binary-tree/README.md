@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-turbulent-subarray "Longest Turbulent Subarray")
+[< Previous](../longest-turbulent-subarray "Longest Turbulent Subarray")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii "Unique Paths III")
+[Next >](../unique-paths-iii "Unique Paths III")
 
 ## [979. Distribute Coins in Binary Tree (Medium)](https://leetcode.com/problems/distribute-coins-in-binary-tree "在二叉树中分配硬币")
 
@@ -75,9 +75,9 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Sum of Distances in Tree](https://github.com/openset/leetcode/tree/master/problems/sum-of-distances-in-tree) (Hard)
-  1. [Binary Tree Cameras](https://github.com/openset/leetcode/tree/master/problems/binary-tree-cameras) (Hard)
+  1. [Sum of Distances in Tree](../sum-of-distances-in-tree) (Hard)
+  1. [Binary Tree Cameras](../binary-tree-cameras) (Hard)

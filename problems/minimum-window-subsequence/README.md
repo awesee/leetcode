@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms "Number of Atoms")
+[< Previous](../number-of-atoms "Number of Atoms")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/self-dividing-numbers "Self Dividing Numbers")
+[Next >](../self-dividing-numbers "Self Dividing Numbers")
 
 ## [727. Minimum Window Subsequence (Hard)](https://leetcode.com/problems/minimum-window-subsequence "最小窗口子序列")
 
@@ -39,12 +39,12 @@ S = &quot;abcdebdde&quot;, T = &quot;bde&quot;
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions
-  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) (Hard)
-  1. [Longest Continuous Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-continuous-increasing-subsequence) (Easy)
+  1. [Minimum Window Substring](../minimum-window-substring) (Hard)
+  1. [Longest Continuous Increasing Subsequence](../longest-continuous-increasing-subsequence) (Easy)
 
 ### Hints
 <details>

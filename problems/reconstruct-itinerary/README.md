@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/verify-preorder-serialization-of-a-binary-tree "Verify Preorder Serialization of a Binary Tree")
+[< Previous](../verify-preorder-serialization-of-a-binary-tree "Verify Preorder Serialization of a Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-bst-subtree "Largest BST Subtree")
+[Next >](../largest-bst-subtree "Largest BST Subtree")
 
 ## [332. Reconstruct Itinerary (Medium)](https://leetcode.com/problems/reconstruct-itinerary "重新安排行程")
 
@@ -38,5 +38,5 @@
 </pre>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/self-crossing "Self Crossing")
+[< Previous](../self-crossing "Self Crossing")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/house-robber-iii "House Robber III")
+[Next >](../house-robber-iii "House Robber III")
 
 ## [336. Palindrome Pairs (Hard)](https://leetcode.com/problems/palindrome-pairs "回文对")
 
@@ -34,10 +34,10 @@
 </div>
 
 ### Related Topics
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Trie](../../tag/trie/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-substring) (Medium)
-  1. [Shortest Palindrome](https://github.com/openset/leetcode/tree/master/problems/shortest-palindrome) (Hard)
+  1. [Longest Palindromic Substring](../longest-palindromic-substring) (Medium)
+  1. [Shortest Palindrome](../shortest-palindrome) (Hard)

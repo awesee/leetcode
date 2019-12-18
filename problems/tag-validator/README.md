@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-postorder-traversal "N-ary Tree Postorder Traversal")
+[< Previous](../n-ary-tree-postorder-traversal "N-ary Tree Postorder Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/fraction-addition-and-subtraction "Fraction Addition and Subtraction")
+[Next >](../fraction-addition-and-subtraction "Fraction Addition and Subtraction")
 
 ## [591. Tag Validator (Hard)](https://leetcode.com/problems/tag-validator "标签验证器")
 
@@ -79,8 +79,8 @@ The reason why cdata is NOT <b>"&lt;![CDATA[&lt;div>]>]]>]]>"</b> is because of 
 </p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Add Bold Tag in String](https://github.com/openset/leetcode/tree/master/problems/add-bold-tag-in-string) (Medium)
+  1. [Add Bold Tag in String](../add-bold-tag-in-string) (Medium)

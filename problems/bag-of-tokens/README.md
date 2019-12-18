@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/most-stones-removed-with-same-row-or-column "Most Stones Removed with Same Row or Column")
+[< Previous](../most-stones-removed-with-same-row-or-column "Most Stones Removed with Same Row or Column")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-time-for-given-digits "Largest Time for Given Digits")
+[Next >](../largest-time-for-given-digits "Largest Time for Given Digits")
 
 ## [948. Bag of Tokens (Medium)](https://leetcode.com/problems/bag-of-tokens "令牌放置")
 
@@ -65,4 +65,4 @@
 </div>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

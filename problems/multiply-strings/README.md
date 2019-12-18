@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water "Trapping Rain Water")
+[< Previous](../trapping-rain-water "Trapping Rain Water")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/wildcard-matching "Wildcard Matching")
+[Next >](../wildcard-matching "Wildcard Matching")
 
 ## [43. Multiply Strings (Medium)](https://leetcode.com/problems/multiply-strings "字符串相乘")
 
@@ -36,11 +36,11 @@
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers) (Medium)
-  1. [Plus One](https://github.com/openset/leetcode/tree/master/problems/plus-one) (Easy)
-  1. [Add Binary](https://github.com/openset/leetcode/tree/master/problems/add-binary) (Easy)
-  1. [Add Strings](https://github.com/openset/leetcode/tree/master/problems/add-strings) (Easy)
+  1. [Add Two Numbers](../add-two-numbers) (Medium)
+  1. [Plus One](../plus-one) (Easy)
+  1. [Add Binary](../add-binary) (Easy)
+  1. [Add Strings](../add-strings) (Easy)

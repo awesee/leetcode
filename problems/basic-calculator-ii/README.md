@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/invert-binary-tree "Invert Binary Tree")
+[< Previous](../invert-binary-tree "Invert Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/summary-ranges "Summary Ranges")
+[Next >](../summary-ranges "Summary Ranges")
 
 ## [227. Basic Calculator II (Medium)](https://leetcode.com/problems/basic-calculator-ii "基本计算器 II")
 
@@ -43,9 +43,9 @@
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/problems/basic-calculator) (Hard)
-  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/problems/expression-add-operators) (Hard)
-  1. [Basic Calculator III](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iii) (Hard)
+  1. [Basic Calculator](../basic-calculator) (Hard)
+  1. [Expression Add Operators](../expression-add-operators) (Hard)
+  1. [Basic Calculator III](../basic-calculator-iii) (Hard)

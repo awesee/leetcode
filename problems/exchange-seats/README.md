@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-factorization "Minimum Factorization")
+[< Previous](../minimum-factorization "Minimum Factorization")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/swap-salary "Swap Salary")
+[Next >](../swap-salary "Swap Salary")
 
 ## [626. Exchange Seats (Medium)](https://leetcode.com/problems/exchange-seats "换座位")
 

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/permutation-in-string "Permutation in String")
+[< Previous](../permutation-in-string "Permutation in String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/median-employee-salary "Median Employee Salary")
+[Next >](../median-employee-salary "Median Employee Salary")
 
 ## [568. Maximum Vacation Days (Hard)](https://leetcode.com/problems/maximum-vacation-days "最大休假天数")
 
@@ -72,10 +72,10 @@ One of the best strategies is:
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Cheapest Flights Within K Stops](https://github.com/openset/leetcode/tree/master/problems/cheapest-flights-within-k-stops) (Medium)
+  1. [Cheapest Flights Within K Stops](../cheapest-flights-within-k-stops) (Medium)
 
 ### Hints
 <details>

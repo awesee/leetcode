@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/goat-latin "Goat Latin")
+[< Previous](../goat-latin "Goat Latin")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/most-profit-assigning-work "Most Profit Assigning Work")
+[Next >](../most-profit-assigning-work "Most Profit Assigning Work")
 
 ## [825. Friends Of Appropriate Ages (Medium)](https://leetcode.com/problems/friends-of-appropriate-ages "适龄的朋友")
 
@@ -60,4 +60,4 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]

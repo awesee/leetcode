@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-path-in-a-matrix "Longest Increasing Path in a Matrix")
+[< Previous](../longest-increasing-path-in-a-matrix "Longest Increasing Path in a Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/verify-preorder-serialization-of-a-binary-tree "Verify Preorder Serialization of a Binary Tree")
+[Next >](../verify-preorder-serialization-of-a-binary-tree "Verify Preorder Serialization of a Binary Tree")
 
 ## [330. Patching Array (Hard)](https://leetcode.com/problems/patching-array "按要求补齐数组")
 
@@ -40,4 +40,4 @@ So we only need <code>1</code> patch.</pre>
 </pre>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

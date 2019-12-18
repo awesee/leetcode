@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-width-ramp "Maximum Width Ramp")
+[< Previous](../maximum-width-ramp "Maximum Width Ramp")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/least-operators-to-express-number "Least Operators to Express Number")
+[Next >](../least-operators-to-express-number "Least Operators to Express Number")
 
 ## [963. Minimum Area Rectangle II (Medium)](https://leetcode.com/problems/minimum-area-rectangle-ii "最小面积矩形 II")
 
@@ -76,5 +76,5 @@
 </ol>
 
 ### Related Topics
-  [[Geometry](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Geometry](../../tag/geometry/README.md)]
+  [[Math](../../tag/math/README.md)]

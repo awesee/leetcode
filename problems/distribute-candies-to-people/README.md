@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/path-with-maximum-minimum-value "Path With Maximum Minimum Value")
+[< Previous](../path-with-maximum-minimum-value "Path With Maximum Minimum Value")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/path-in-zigzag-labelled-binary-tree "Path In Zigzag Labelled Binary Tree")
+[Next >](../path-in-zigzag-labelled-binary-tree "Path In Zigzag Labelled Binary Tree")
 
 ## [1103. Distribute Candies to People (Easy)](https://leetcode.com/problems/distribute-candies-to-people "分糖果 II")
 
@@ -55,7 +55,7 @@ On the fourth turn, ans[0] += 4, and the final array is [5,2,3].
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

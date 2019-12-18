@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-frequency "Word Frequency")
+[< Previous](../word-frequency "Word Frequency")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/transpose-file "Transpose File")
+[Next >](../transpose-file "Transpose File")
 
 ## [193. Valid Phone Numbers (Easy)](https://leetcode.com/problems/valid-phone-numbers "有效电话号码")
 

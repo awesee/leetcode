@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/single-row-keyboard "Single-Row Keyboard")
+[< Previous](../single-row-keyboard "Single-Row Keyboard")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-connect-sticks "Minimum Cost to Connect Sticks")
+[Next >](../minimum-cost-to-connect-sticks "Minimum Cost to Connect Sticks")
 
 ## [1166. Design File System (Medium)](https://leetcode.com/problems/design-file-system "设计文件系统")
 
@@ -70,8 +70,8 @@ fileSystem.get(&quot;/c&quot;); // return -1 because this path doesn&#39;t exist
 <p><strong>NOTE:</strong>&nbsp;create method has been changed on August&nbsp;29, 2019 to createPath. Please reset to default code definition to get new method signature.</p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

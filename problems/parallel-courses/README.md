@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/connecting-cities-with-minimum-cost "Connecting Cities With Minimum Cost")
+[< Previous](../connecting-cities-with-minimum-cost "Connecting Cities With Minimum Cost")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/n-th-tribonacci-number "N-th Tribonacci Number")
+[Next >](../n-th-tribonacci-number "N-th Tribonacci Number")
 
 ## [1136. Parallel Courses (Hard)](https://leetcode.com/problems/parallel-courses "平行课程")
 
@@ -55,9 +55,9 @@ No course can be studied because they depend on each other.
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

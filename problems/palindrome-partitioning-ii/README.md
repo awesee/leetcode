@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning "Palindrome Partitioning")
+[< Previous](../palindrome-partitioning "Palindrome Partitioning")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/clone-graph "Clone Graph")
+[Next >](../clone-graph "Clone Graph")
 
 ## [132. Palindrome Partitioning II (Hard)](https://leetcode.com/problems/palindrome-partitioning-ii "分割回文串 II")
 
@@ -24,7 +24,7 @@
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Palindrome Partitioning](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning) (Medium)
+  1. [Palindrome Partitioning](../palindrome-partitioning) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-coloring-game "Binary Tree Coloring Game")
+[< Previous](../binary-tree-coloring-game "Binary Tree Coloring Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-chunked-palindrome-decomposition "Longest Chunked Palindrome Decomposition")
+[Next >](../longest-chunked-palindrome-decomposition "Longest Chunked Palindrome Decomposition")
 
 ## [1146. Snapshot Array (Medium)](https://leetcode.com/problems/snapshot-array "快照数组")
 
@@ -46,7 +46,7 @@ snapshotArr.get(0,0);  // Get the value of array[0] with snap_id = 0, return 5</
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-permutations-for-di-sequence "Valid Permutations for DI Sequence")
+[< Previous](../valid-permutations-for-di-sequence "Valid Permutations for DI Sequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sort-array-by-parity "Sort Array By Parity")
+[Next >](../sort-array-by-parity "Sort Array By Parity")
 
 ## [904. Fruit Into Baskets (Medium)](https://leetcode.com/problems/fruit-into-baskets "水果成篮")
 
@@ -79,4 +79,4 @@ If we started at the first tree, we would only collect [0, 1].</span>
 </ol>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]

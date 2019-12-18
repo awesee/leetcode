@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/ones-and-zeroes "Ones and Zeroes")
+[< Previous](../ones-and-zeroes "Ones and Zeroes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-complement "Number Complement")
+[Next >](../number-complement "Number Complement")
 
 ## [475. Heaters (Easy)](https://leetcode.com/problems/heaters "供暖器")
 
@@ -49,4 +49,4 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/encode-string-with-shortest-length "Encode String with Shortest Length")
+[< Previous](../encode-string-with-shortest-length "Encode String with Shortest Length")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/matchsticks-to-square "Matchsticks to Square")
+[Next >](../matchsticks-to-square "Matchsticks to Square")
 
 ## [472. Concatenated Words (Hard)](https://leetcode.com/problems/concatenated-words "连接词")
 
@@ -34,9 +34,9 @@ Given a list of words (<b>without duplicates</b>), please write a program that r
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Trie](../../tag/trie/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Word Break II](https://github.com/openset/leetcode/tree/master/problems/word-break-ii) (Hard)
+  1. [Word Break II](../word-break-ii) (Hard)

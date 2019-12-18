@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-bridge "Shortest Bridge")
+[< Previous](../shortest-bridge "Shortest Bridge")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/stamping-the-sequence "Stamping The Sequence")
+[Next >](../stamping-the-sequence "Stamping The Sequence")
 
 ## [935. Knight Dialer (Medium)](https://leetcode.com/problems/knight-dialer "骑士拨号器")
 
@@ -66,4 +66,4 @@
 </div>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/burst-balloons "Burst Balloons")
+[< Previous](../burst-balloons "Burst Balloons")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-vertical-order-traversal "Binary Tree Vertical Order Traversal")
+[Next >](../binary-tree-vertical-order-traversal "Binary Tree Vertical Order Traversal")
 
 ## [313. Super Ugly Number (Medium)](https://leetcode.com/problems/super-ugly-number "超级丑数")
 
@@ -33,8 +33,8 @@
 </ul>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii) (Medium)
+  1. [Ugly Number II](../ugly-number-ii) (Medium)

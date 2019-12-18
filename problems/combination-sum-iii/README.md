@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array "Kth Largest Element in an Array")
+[< Previous](../kth-largest-element-in-an-array "Kth Largest Element in an Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/contains-duplicate "Contains Duplicate")
+[Next >](../contains-duplicate "Contains Duplicate")
 
 ## [216. Combination Sum III (Medium)](https://leetcode.com/problems/combination-sum-iii "组合总和 III")
 
@@ -37,8 +37,8 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/problems/combination-sum) (Medium)
+  1. [Combination Sum](../combination-sum) (Medium)

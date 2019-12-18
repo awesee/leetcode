@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/solve-the-equation "Solve the Equation")
+[< Previous](../solve-the-equation "Solve the Equation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-search-autocomplete-system "Design Search Autocomplete System")
+[Next >](../design-search-autocomplete-system "Design Search Autocomplete System")
 
 ## [641. Design Circular Deque (Medium)](https://leetcode.com/problems/design-circular-deque "设计循环双端队列")
 
@@ -55,8 +55,8 @@ circularDeque.getFront();			// return 4
 </ul>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Queue](../../tag/queue/README.md)]
 
 ### Similar Questions
-  1. [Design Circular Queue](https://github.com/openset/leetcode/tree/master/problems/design-circular-queue) (Medium)
+  1. [Design Circular Queue](../design-circular-queue) (Medium)

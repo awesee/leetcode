@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/students-and-examinations "Students and Examinations")
+[< Previous](../students-and-examinations "Students and Examinations")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/group-the-people-given-the-group-size-they-belong-to "Group the People Given the Group Size They Belong To")
+[Next >](../group-the-people-given-the-group-size-they-belong-to "Group the People Given the Group Size They Belong To")
 
 ## [1281. Subtract the Product and Sum of Digits of an Integer (Easy)](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer "整数的各位积和之差")
 
@@ -43,7 +43,7 @@ Result = 32 - 11 = 21
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin "K Closest Points to Origin")
+[< Previous](../k-closest-points-to-origin "K Closest Points to Origin")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump "Odd Even Jump")
+[Next >](../odd-even-jump "Odd Even Jump")
 
 ## [974. Subarray Sums Divisible by K (Medium)](https://leetcode.com/problems/subarray-sums-divisible-by-k "和可被 K 整除的子数组")
 
@@ -37,8 +37,8 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)
+  1. [Subarray Sum Equals K](../subarray-sum-equals-k) (Medium)

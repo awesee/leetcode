@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-string "Construct Binary Tree from String")
+[< Previous](../construct-binary-tree-from-string "Construct Binary Tree from String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/convert-bst-to-greater-tree "Convert BST to Greater Tree")
+[Next >](../convert-bst-to-greater-tree "Convert BST to Greater Tree")
 
 ## [537. Complex Number Multiplication (Medium)](https://leetcode.com/problems/complex-number-multiplication "复数乘法")
 
@@ -42,5 +42,5 @@ You need to return a string representing their multiplication. Note i<sup>2</sup
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]

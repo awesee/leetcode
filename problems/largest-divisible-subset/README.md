@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-perfect-square "Valid Perfect Square")
+[< Previous](../valid-perfect-square "Valid Perfect Square")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/plus-one-linked-list "Plus One Linked List")
+[Next >](../plus-one-linked-list "Plus One Linked List")
 
 ## [368. Largest Divisible Subset (Medium)](https://leetcode.com/problems/largest-divisible-subset "最大整除子集")
 
@@ -36,5 +36,5 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

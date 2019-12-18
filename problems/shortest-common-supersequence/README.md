@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-path-in-binary-matrix "Shortest Path in Binary Matrix")
+[< Previous](../shortest-path-in-binary-matrix "Shortest Path in Binary Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/statistics-from-a-large-sample "Statistics from a Large Sample")
+[Next >](../statistics-from-a-large-sample "Statistics from a Large Sample")
 
 ## [1092. Shortest Common Supersequence  (Hard)](https://leetcode.com/problems/shortest-common-supersequence "最短公共超序列")
 
@@ -38,7 +38,7 @@ The answer provided is the shortest such string that satisfies these properties.
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-in-memory-file-system "Design In-Memory File System")
+[< Previous](../design-in-memory-file-system "Design In-Memory File System")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-postorder-traversal "N-ary Tree Postorder Traversal")
+[Next >](../n-ary-tree-postorder-traversal "N-ary Tree Postorder Traversal")
 
 ## [589. N-ary Tree Preorder Traversal (Easy)](https://leetcode.com/problems/n-ary-tree-preorder-traversal "N叉树的前序遍历")
 
@@ -49,9 +49,9 @@
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-preorder-traversal) (Medium)
-  1. [N-ary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-level-order-traversal) (Medium)
-  1. [N-ary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-postorder-traversal) (Easy)
+  1. [Binary Tree Preorder Traversal](../binary-tree-preorder-traversal) (Medium)
+  1. [N-ary Tree Level Order Traversal](../n-ary-tree-level-order-traversal) (Medium)
+  1. [N-ary Tree Postorder Traversal](../n-ary-tree-postorder-traversal) (Easy)

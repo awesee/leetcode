@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/contiguous-array "Contiguous Array")
+[< Previous](../contiguous-array "Contiguous Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-abbreviation "Word Abbreviation")
+[Next >](../word-abbreviation "Word Abbreviation")
 
 ## [526. Beautiful Arrangement (Medium)](https://leetcode.com/problems/beautiful-arrangement "优美的排列")
 
@@ -53,7 +53,7 @@ Number at the 2nd position (i=2) is 1, and i (i=2) is divisible by 1.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Beautiful Arrangement II](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement-ii) (Medium)
+  1. [Beautiful Arrangement II](../beautiful-arrangement-ii) (Medium)

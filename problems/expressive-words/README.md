@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/soup-servings "Soup Servings")
+[< Previous](../soup-servings "Soup Servings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/chalkboard-xor-game "Chalkboard XOR Game")
+[Next >](../chalkboard-xor-game "Chalkboard XOR Game")
 
 ## [809. Expressive Words (Medium)](https://leetcode.com/problems/expressive-words "情感丰富的文字")
 
@@ -46,4 +46,4 @@ We can&#39;t extend &quot;helo&quot; to get &quot;heeellooo&quot; because the gr
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-number-with-alternating-bits "Binary Number with Alternating Bits")
+[< Previous](../binary-number-with-alternating-bits "Binary Number with Alternating Bits")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-area-of-island "Max Area of Island")
+[Next >](../max-area-of-island "Max Area of Island")
 
 ## [694. Number of Distinct Islands (Medium)](https://leetcode.com/problems/number-of-distinct-islands "不同岛屿的数量")
 
@@ -49,9 +49,9 @@ The length of each dimension in the given <code>grid</code> does not exceed 50.
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Number of Islands](https://github.com/openset/leetcode/tree/master/problems/number-of-islands) (Medium)
-  1. [Number of Distinct Islands II](https://github.com/openset/leetcode/tree/master/problems/number-of-distinct-islands-ii) (Hard)
+  1. [Number of Islands](../number-of-islands) (Medium)
+  1. [Number of Distinct Islands II](../number-of-distinct-islands-ii) (Hard)

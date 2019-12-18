@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-number "Valid Number")
+[< Previous](../valid-number "Valid Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/add-binary "Add Binary")
+[Next >](../add-binary "Add Binary")
 
 ## [66. Plus One (Easy)](https://leetcode.com/problems/plus-one "加一")
 
@@ -34,10 +34,10 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/problems/multiply-strings) (Medium)
-  1. [Add Binary](https://github.com/openset/leetcode/tree/master/problems/add-binary) (Easy)
-  1. [Plus One Linked List](https://github.com/openset/leetcode/tree/master/problems/plus-one-linked-list) (Medium)
-  1. [Add to Array-Form of Integer](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer) (Easy)
+  1. [Multiply Strings](../multiply-strings) (Medium)
+  1. [Add Binary](../add-binary) (Easy)
+  1. [Plus One Linked List](../plus-one-linked-list) (Medium)
+  1. [Add to Array-Form of Integer](../add-to-array-form-of-integer) (Easy)

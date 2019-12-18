@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/hexspeak "Hexspeak")
+[< Previous](../hexspeak "Hexspeak")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/delete-tree-nodes "Delete Tree Nodes")
+[Next >](../delete-tree-nodes "Delete Tree Nodes")
 
 ## [1272. Remove Interval (Medium)](https://leetcode.com/problems/remove-interval "删除区间")
 
@@ -34,8 +34,8 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Line Sweep](../../tag/line-sweep/README.md)]
 
 ### Hints
 <details>

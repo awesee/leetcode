@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst-ii "Inorder Successor in BST II")
+[< Previous](../inorder-successor-in-bst-ii "Inorder Successor in BST II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-ii "Game Play Analysis II")
+[Next >](../game-play-analysis-ii "Game Play Analysis II")
 
 ## [511. Game Play Analysis I (Easy)](https://leetcode.com/problems/game-play-analysis-i "游戏玩法分析 I")
 
@@ -56,4 +56,4 @@ Result table:
 </pre>
 
 ### Similar Questions
-  1. [Game Play Analysis II](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-ii) (Easy)
+  1. [Game Play Analysis II](../game-play-analysis-ii) (Easy)

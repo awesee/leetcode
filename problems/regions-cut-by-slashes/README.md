@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/check-completeness-of-a-binary-tree "Check Completeness of a Binary Tree")
+[< Previous](../check-completeness-of-a-binary-tree "Check Completeness of a Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted-iii "Delete Columns to Make Sorted III")
+[Next >](../delete-columns-to-make-sorted-iii "Delete Columns to Make Sorted III")
 
 ## [959. Regions Cut By Slashes (Medium)](https://leetcode.com/problems/regions-cut-by-slashes "由斜杠划分区域")
 
@@ -119,6 +119,6 @@ The 2x2 grid is as follows:
 </div>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
+  [[Graph](../../tag/graph/README.md)]

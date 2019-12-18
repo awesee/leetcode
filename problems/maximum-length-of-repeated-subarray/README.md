@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/1-bit-and-2-bit-characters "1-bit and 2-bit Characters")
+[< Previous](../1-bit-and-2-bit-characters "1-bit and 2-bit Characters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance "Find K-th Smallest Pair Distance")
+[Next >](../find-k-th-smallest-pair-distance "Find K-th Smallest Pair Distance")
 
 ## [718. Maximum Length of Repeated Subarray (Medium)](https://leetcode.com/problems/maximum-length-of-repeated-subarray "最长重复子数组")
 
@@ -36,13 +36,13 @@ The repeated subarray with maximum length is [3, 2, 1].
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Minimum Size Subarray Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-size-subarray-sum) (Medium)
+  1. [Minimum Size Subarray Sum](../minimum-size-subarray-sum) (Medium)
 
 ### Hints
 <details>

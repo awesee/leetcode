@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/employee-importance "Employee Importance")
+[< Previous](../employee-importance "Employee Importance")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-words "Top K Frequent Words")
+[Next >](../top-k-frequent-words "Top K Frequent Words")
 
 ## [691. Stickers to Spell Word (Hard)](https://leetcode.com/problems/stickers-to-spell-word "贴纸拼词")
 
@@ -58,11 +58,11 @@ We can't form the target "basicbasic" from cutting letters from the given sticke
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Ransom Note](https://github.com/openset/leetcode/tree/master/problems/ransom-note) (Easy)
+  1. [Ransom Note](../ransom-note) (Easy)
 
 ### Hints
 <details>

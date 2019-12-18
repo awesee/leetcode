@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/4sum "4Sum")
+[< Previous](../4sum "4Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-parentheses "Valid Parentheses")
+[Next >](../valid-parentheses "Valid Parentheses")
 
 ## [19. Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list "删除链表的倒数第N个节点")
 
@@ -30,8 +30,8 @@ After removing the second node from the end, the linked list becomes <strong>1-&
 <p>Could you do this in one pass?</p>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/statistics-from-a-large-sample "Statistics from a Large Sample")
+[< Previous](../statistics-from-a-large-sample "Statistics from a Large Sample")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-in-mountain-array "Find in Mountain Array")
+[Next >](../find-in-mountain-array "Find in Mountain Array")
 
 ## [1094. Car Pooling (Medium)](https://leetcode.com/problems/car-pooling "拼车")
 
@@ -73,10 +73,10 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Similar Questions
-  1. [Meeting Rooms II](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms-ii) (Medium)
+  1. [Meeting Rooms II](../meeting-rooms-ii) (Medium)
 
 ### Hints
 <details>

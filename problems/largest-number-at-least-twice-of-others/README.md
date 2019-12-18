@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/min-cost-climbing-stairs "Min Cost Climbing Stairs")
+[< Previous](../min-cost-climbing-stairs "Min Cost Climbing Stairs")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-completing-word "Shortest Completing Word")
+[Next >](../shortest-completing-word "Shortest Completing Word")
 
 ## [747. Largest Number At Least Twice of Others (Easy)](https://leetcode.com/problems/largest-number-at-least-twice-of-others "至少是其他数字两倍的最大数")
 
@@ -48,7 +48,7 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

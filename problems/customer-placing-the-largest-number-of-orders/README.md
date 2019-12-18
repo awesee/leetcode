@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/investments-in-2016 "Investments in 2016")
+[< Previous](../investments-in-2016 "Investments in 2016")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/erect-the-fence "Erect the Fence")
+[Next >](../erect-the-fence "Erect the Fence")
 
 ## [586. Customer Placing the Largest Number of Orders (Easy)](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders "订单最多的客户")
 

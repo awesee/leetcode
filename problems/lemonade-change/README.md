@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/buddy-strings "Buddy Strings")
+[< Previous](../buddy-strings "Buddy Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/score-after-flipping-matrix "Score After Flipping Matrix")
+[Next >](../score-after-flipping-matrix "Score After Flipping Matrix")
 
 ## [860. Lemonade Change (Easy)](https://leetcode.com/problems/lemonade-change "柠檬水找零")
 
@@ -79,4 +79,4 @@ Since not every customer received correct change, the answer is false.
 </div>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

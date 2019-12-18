@@ -31,7 +31,7 @@ func runTag(cmd *base.Command, args []string) {
 	buf.WriteString("\n## 话题分类\n\n")
 	buf.WriteString("| # | Title | 话题 | | # | Title | 话题 |\n")
 	buf.WriteString("| :-: | - | :-: | - | :-: | - | :-: |\n")
-	format := "| %d | [%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md) | [%s](https://openset.github.io/tags/%s/) | "
+	format := "| %d | [%s](%s/README.md) | [%s](https://openset.github.io/tags/%s/) | "
 	n := buf.Len()
 	for times := 0; times < 2; times++ {
 		buf.Truncate(n)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-number "Largest Number")
+[< Previous](../largest-number "Largest Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/employees-earning-more-than-their-managers "Employees Earning More Than Their Managers")
+[Next >](../employees-earning-more-than-their-managers "Employees Earning More Than Their Managers")
 
 ## [180. Consecutive Numbers (Medium)](https://leetcode.com/problems/consecutive-numbers "连续出现的数字")
 

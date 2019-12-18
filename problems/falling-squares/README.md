@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/partition-to-k-equal-sum-subsets "Partition to K Equal Sum Subsets")
+[< Previous](../partition-to-k-equal-sum-subsets "Partition to K Equal Sum Subsets")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/search-in-a-binary-search-tree "Search in a Binary Search Tree")
+[Next >](../search-in-a-binary-search-tree "Search in a Binary Search Tree")
 
 ## [699. Falling Squares (Hard)](https://leetcode.com/problems/falling-squares "掉落的方块")
 
@@ -60,11 +60,11 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Ordered Map](../../tag/ordered-map/README.md)]
 
 ### Similar Questions
-  1. [The Skyline Problem](https://github.com/openset/leetcode/tree/master/problems/the-skyline-problem) (Hard)
+  1. [The Skyline Problem](../the-skyline-problem) (Hard)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-file-in-system "Find Duplicate File in System")
+[< Previous](../find-duplicate-file-in-system "Find Duplicate File in System")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-triangle-number "Valid Triangle Number")
+[Next >](../valid-triangle-number "Valid Triangle Number")
 
 ## [610. Triangle Judgement (Easy)](https://leetcode.com/problems/triangle-judgement "判断三角形")
 

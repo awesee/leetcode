@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/partition-equal-subset-sum "Partition Equal Subset Sum")
+[< Previous](../partition-equal-subset-sum "Partition Equal Subset Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sentence-screen-fitting "Sentence Screen Fitting")
+[Next >](../sentence-screen-fitting "Sentence Screen Fitting")
 
 ## [417. Pacific Atlantic Water Flow (Medium)](https://leetcode.com/problems/pacific-atlantic-water-flow "太平洋大西洋水流问题")
 
@@ -47,5 +47,5 @@ Return:
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]

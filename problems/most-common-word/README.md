@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/race-car "Race Car")
+[< Previous](../race-car "Race Car")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/short-encoding-of-words "Short Encoding of Words")
+[Next >](../short-encoding-of-words "Short Encoding of Words")
 
 ## [819. Most Common Word (Easy)](https://leetcode.com/problems/most-common-word "最常见的单词")
 
@@ -47,4 +47,4 @@ and that &quot;hit&quot; isn&#39;t the answer even though it occurs more because
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-add-to-make-parentheses-valid "Minimum Add to Make Parentheses Valid")
+[< Previous](../minimum-add-to-make-parentheses-valid "Minimum Add to Make Parentheses Valid")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/3sum-with-multiplicity "3Sum With Multiplicity")
+[Next >](../3sum-with-multiplicity "3Sum With Multiplicity")
 
 ## [922. Sort Array By Parity II (Easy)](https://leetcode.com/problems/sort-array-by-parity-ii "按奇偶排序数组 II")
 
@@ -42,5 +42,5 @@
 </div>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sort-characters-by-frequency "Sort Characters By Frequency")
+[< Previous](../sort-characters-by-frequency "Sort Characters By Frequency")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements "Minimum Moves to Equal Array Elements")
+[Next >](../minimum-moves-to-equal-array-elements "Minimum Moves to Equal Array Elements")
 
 ## [452. Minimum Number of Arrows to Burst Balloons (Medium)](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons "用最少数量的箭引爆气球")
 
@@ -31,8 +31,8 @@ One way is to shoot one arrow for example at x = 6 (bursting the balloons [2,8] 
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Similar Questions
-  1. [Meeting Rooms II](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms-ii) (Medium)
-  1. [Non-overlapping Intervals](https://github.com/openset/leetcode/tree/master/problems/non-overlapping-intervals) (Medium)
+  1. [Meeting Rooms II](../meeting-rooms-ii) (Medium)
+  1. [Non-overlapping Intervals](../non-overlapping-intervals) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-duplicate-emails "Delete Duplicate Emails")
+[< Previous](../delete-duplicate-emails "Delete Duplicate Emails")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/house-robber "House Robber")
+[Next >](../house-robber "House Robber")
 
 ## [197. Rising Temperature (Easy)](https://leetcode.com/problems/rising-temperature "上升的温度")
 

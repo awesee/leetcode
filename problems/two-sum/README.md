@@ -7,7 +7,7 @@
 
 < Previous
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers "Add Two Numbers")
+[Next >](../add-two-numbers "Add Two Numbers")
 
 ## [1. Two Sum (Easy)](https://leetcode.com/problems/two-sum "两数之和")
 
@@ -25,17 +25,17 @@ return [<strong>0</strong>, <strong>1</strong>].
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [3Sum](https://github.com/openset/leetcode/tree/master/problems/3sum) (Medium)
-  1. [4Sum](https://github.com/openset/leetcode/tree/master/problems/4sum) (Medium)
-  1. [Two Sum II - Input array is sorted](https://github.com/openset/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted) (Easy)
-  1. [Two Sum III - Data structure design](https://github.com/openset/leetcode/tree/master/problems/two-sum-iii-data-structure-design) (Easy)
-  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)
-  1. [Two Sum IV - Input is a BST](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst) (Easy)
-  1. [Two Sum Less Than K](https://github.com/openset/leetcode/tree/master/problems/two-sum-less-than-k) (Easy)
+  1. [3Sum](../3sum) (Medium)
+  1. [4Sum](../4sum) (Medium)
+  1. [Two Sum II - Input array is sorted](../two-sum-ii-input-array-is-sorted) (Easy)
+  1. [Two Sum III - Data structure design](../two-sum-iii-data-structure-design) (Easy)
+  1. [Subarray Sum Equals K](../subarray-sum-equals-k) (Medium)
+  1. [Two Sum IV - Input is a BST](../two-sum-iv-input-is-a-bst) (Easy)
+  1. [Two Sum Less Than K](../two-sum-less-than-k) (Easy)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/game-of-life "Game of Life")
+[< Previous](../game-of-life "Game of Life")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-pattern-ii "Word Pattern II")
+[Next >](../word-pattern-ii "Word Pattern II")
 
 ## [290. Word Pattern (Easy)](https://leetcode.com/problems/word-pattern "单词规律")
 
@@ -43,8 +43,8 @@
 You may assume <code>pattern</code> contains only lowercase letters, and <code>str</code> contains lowercase letters that may be separated by a single space.</p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Isomorphic Strings](https://github.com/openset/leetcode/tree/master/problems/isomorphic-strings) (Easy)
-  1. [Word Pattern II](https://github.com/openset/leetcode/tree/master/problems/word-pattern-ii) (Hard)
+  1. [Isomorphic Strings](../isomorphic-strings) (Easy)
+  1. [Word Pattern II](../word-pattern-ii) (Hard)

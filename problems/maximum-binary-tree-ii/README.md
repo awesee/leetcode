@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-the-town-judge "Find the Town Judge")
+[< Previous](../find-the-town-judge "Find the Town Judge")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/available-captures-for-rook "Available Captures for Rook")
+[Next >](../available-captures-for-rook "Available Captures for Rook")
 
 ## [998. Maximum Binary Tree II (Medium)](https://leetcode.com/problems/maximum-binary-tree-ii "最大二叉树 II")
 
@@ -72,7 +72,7 @@
 </ol>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Maximum Binary Tree](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree) (Medium)
+  1. [Maximum Binary Tree](../maximum-binary-tree) (Medium)

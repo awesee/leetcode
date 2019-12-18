@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/array-of-doubled-pairs "Array of Doubled Pairs")
+[< Previous](../array-of-doubled-pairs "Array of Doubled Pairs")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/tallest-billboard "Tallest Billboard")
+[Next >](../tallest-billboard "Tallest Billboard")
 
 ## [955. Delete Columns to Make Sorted II (Medium)](https://leetcode.com/problems/delete-columns-to-make-sorted-ii "删列造序 II")
 
@@ -81,4 +81,4 @@ We have to delete every column.
 </div>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

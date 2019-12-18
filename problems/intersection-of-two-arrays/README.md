@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-tic-tac-toe "Design Tic-Tac-Toe")
+[< Previous](../design-tic-tac-toe "Design Tic-Tac-Toe")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays-ii "Intersection of Two Arrays II")
+[Next >](../intersection-of-two-arrays-ii "Intersection of Two Arrays II")
 
 ## [349. Intersection of Two Arrays (Easy)](https://leetcode.com/problems/intersection-of-two-arrays "两个数组的交集")
 
@@ -38,11 +38,11 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Intersection of Two Arrays II](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays-ii) (Easy)
-  1. [Intersection of Three Sorted Arrays](https://github.com/openset/leetcode/tree/master/problems/intersection-of-three-sorted-arrays) (Easy)
+  1. [Intersection of Two Arrays II](../intersection-of-two-arrays-ii) (Easy)
+  1. [Intersection of Three Sorted Arrays](../intersection-of-three-sorted-arrays) (Easy)

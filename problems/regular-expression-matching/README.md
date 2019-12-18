@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/palindrome-number "Palindrome Number")
+[< Previous](../palindrome-number "Palindrome Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/container-with-most-water "Container With Most Water")
+[Next >](../container-with-most-water "Container With Most Water")
 
 ## [10. Regular Expression Matching (Hard)](https://leetcode.com/problems/regular-expression-matching "正则表达式匹配")
 
@@ -77,9 +77,9 @@ p = &quot;mis*is*p*.&quot;
 </pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Wildcard Matching](https://github.com/openset/leetcode/tree/master/problems/wildcard-matching) (Hard)
+  1. [Wildcard Matching](../wildcard-matching) (Hard)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-search "Binary Search")
+[< Previous](../binary-search "Binary Search")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-hashmap "Design HashMap")
+[Next >](../design-hashmap "Design HashMap")
 
 ## [705. Design HashSet (Easy)](https://leetcode.com/problems/design-hashset "设计哈希集合")
 
@@ -46,8 +46,8 @@ hashSet.contains(2); &nbsp;&nbsp;&nbsp;// returns false (already removed)
 </ul>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Design HashMap](https://github.com/openset/leetcode/tree/master/problems/design-hashmap) (Easy)
+  1. [Design HashMap](../design-hashmap) (Easy)

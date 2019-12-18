@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/prime-palindrome "Prime Palindrome")
+[< Previous](../prime-palindrome "Prime Palindrome")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-gap "Binary Gap")
+[Next >](../binary-gap "Binary Gap")
 
 ## [867. Transpose Matrix (Easy)](https://leetcode.com/problems/transpose-matrix "转置矩阵")
 
@@ -48,7 +48,7 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

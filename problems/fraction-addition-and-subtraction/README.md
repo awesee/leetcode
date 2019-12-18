@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/tag-validator "Tag Validator")
+[< Previous](../tag-validator "Tag Validator")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-square "Valid Square")
+[Next >](../valid-square "Valid Square")
 
 ## [592. Fraction Addition and Subtraction (Medium)](https://leetcode.com/problems/fraction-addition-and-subtraction "分数加减运算")
 
@@ -52,7 +52,7 @@
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Solve the Equation](https://github.com/openset/leetcode/tree/master/problems/solve-the-equation) (Medium)
+  1. [Solve the Equation](../solve-the-equation) (Medium)

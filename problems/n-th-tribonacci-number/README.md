@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/parallel-courses "Parallel Courses")
+[< Previous](../parallel-courses "Parallel Courses")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/alphabet-board-path "Alphabet Board Path")
+[Next >](../alphabet-board-path "Alphabet Board Path")
 
 ## [1137. N-th Tribonacci Number (Easy)](https://leetcode.com/problems/n-th-tribonacci-number "第 N 个泰波那契数")
 
@@ -44,10 +44,10 @@ T_4 = 1 + 1 + 2 = 4
 </ul>
 
 ### Related Topics
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
 
 ### Similar Questions
-  1. [Climbing Stairs](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs) (Easy)
+  1. [Climbing Stairs](../climbing-stairs) (Easy)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/print-zero-even-odd "Print Zero Even Odd")
+[< Previous](../print-zero-even-odd "Print Zero Even Odd")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-days-in-a-month "Number of Days in a Month")
+[Next >](../number-of-days-in-a-month "Number of Days in a Month")
 
 ## [1117. Building H2O (Medium)](https://leetcode.com/problems/building-h2o "H2O 生成")
 

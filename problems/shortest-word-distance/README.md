@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-anagram "Valid Anagram")
+[< Previous](../valid-anagram "Valid Anagram")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-ii "Shortest Word Distance II")
+[Next >](../shortest-word-distance-ii "Shortest Word Distance II")
 
 ## [243. Shortest Word Distance (Easy)](https://leetcode.com/problems/shortest-word-distance "最短单词距离")
 
@@ -30,8 +30,8 @@ Assume that words = <code>[&quot;practice&quot;, &quot;makes&quot;, &quot;perfec
 You may assume that <em>word1</em> <strong>does not equal to</strong> <em>word2</em>, and <em>word1</em> and <em>word2</em> are both in the list.</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Shortest Word Distance II](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-ii) (Medium)
-  1. [Shortest Word Distance III](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-iii) (Medium)
+  1. [Shortest Word Distance II](../shortest-word-distance-ii) (Medium)
+  1. [Shortest Word Distance III](../shortest-word-distance-iii) (Medium)

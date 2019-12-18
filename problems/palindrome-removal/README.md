@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/tree-diameter "Tree Diameter")
+[< Previous](../tree-diameter "Tree Diameter")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-make-strings-equal "Minimum Swaps to Make Strings Equal")
+[Next >](../minimum-swaps-to-make-strings-equal "Minimum Swaps to Make Strings Equal")
 
 ## [1246. Palindrome Removal (Hard)](https://leetcode.com/problems/palindrome-removal "删除回文子数组")
 
@@ -40,7 +40,7 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/immediate-food-delivery-i "Immediate Food Delivery I")
+[< Previous](../immediate-food-delivery-i "Immediate Food Delivery I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/prime-arrangements "Prime Arrangements")
+[Next >](../prime-arrangements "Prime Arrangements")
 
 ## [1174. Immediate Food Delivery II (Medium)](https://leetcode.com/problems/immediate-food-delivery-ii "")
 

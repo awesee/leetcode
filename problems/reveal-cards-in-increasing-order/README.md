@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-time-for-given-digits "Largest Time for Given Digits")
+[< Previous](../largest-time-for-given-digits "Largest Time for Given Digits")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flip-equivalent-binary-trees "Flip Equivalent Binary Trees")
+[Next >](../flip-equivalent-binary-trees "Flip Equivalent Binary Trees")
 
 ## [950. Reveal Cards In Increasing Order (Medium)](https://leetcode.com/problems/reveal-cards-in-increasing-order "按递增顺序显示卡牌")
 
@@ -62,4 +62,4 @@ Since all the cards revealed are in increasing order, the answer is correct.
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]

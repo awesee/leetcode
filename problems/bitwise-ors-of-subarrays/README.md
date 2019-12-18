@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/increasing-order-search-tree "Increasing Order Search Tree")
+[< Previous](../increasing-order-search-tree "Increasing Order Search Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/orderly-queue "Orderly Queue")
+[Next >](../orderly-queue "Orderly Queue")
 
 ## [898. Bitwise ORs of Subarrays (Medium)](https://leetcode.com/problems/bitwise-ors-of-subarrays "子数组按位或操作")
 
@@ -64,5 +64,5 @@ The possible results are 1, 2, 3, 4, 6, and 7.
 </ol>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

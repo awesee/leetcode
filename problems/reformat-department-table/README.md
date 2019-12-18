@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-words-for-each-puzzle "Number of Valid Words for Each Puzzle")
+[< Previous](../number-of-valid-words-for-each-puzzle "Number of Valid Words for Each Puzzle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-substrings-with-only-one-distinct-letter "Count Substrings with Only One Distinct Letter")
+[Next >](../count-substrings-with-only-one-distinct-letter "Count Substrings with Only One Distinct Letter")
 
 ## [1179. Reformat Department Table (Easy)](https://leetcode.com/problems/reformat-department-table "重新格式化部门表")
 

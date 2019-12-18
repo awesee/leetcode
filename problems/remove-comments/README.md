@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/accounts-merge "Accounts Merge")
+[< Previous](../accounts-merge "Accounts Merge")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/candy-crush "Candy Crush")
+[Next >](../candy-crush "Candy Crush")
 
 ## [722. Remove Comments (Medium)](https://leetcode.com/problems/remove-comments "删除注释")
 
@@ -82,11 +82,11 @@ source = ["a/*comment", "line", "more_comment*/b"]
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Mini Parser](https://github.com/openset/leetcode/tree/master/problems/mini-parser) (Medium)
-  1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser) (Medium)
+  1. [Mini Parser](../mini-parser) (Medium)
+  1. [Ternary Expression Parser](../ternary-expression-parser) (Medium)
 
 ### Hints
 <details>

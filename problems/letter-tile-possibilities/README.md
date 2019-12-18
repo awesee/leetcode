@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/occurrences-after-bigram "Occurrences After Bigram")
+[< Previous](../occurrences-after-bigram "Occurrences After Bigram")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/insufficient-nodes-in-root-to-leaf-paths "Insufficient Nodes in Root to Leaf Paths")
+[Next >](../insufficient-nodes-in-root-to-leaf-paths "Insufficient Nodes in Root to Leaf Paths")
 
 ## [1079. Letter Tile Possibilities (Medium)](https://leetcode.com/problems/letter-tile-possibilities "活字印刷")
 
@@ -42,7 +42,7 @@
 </ol>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints
 <details>

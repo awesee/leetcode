@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/all-oone-data-structure "All O`one Data Structure")
+[< Previous](../all-oone-data-structure "All O`one Data Structure")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-segments-in-a-string "Number of Segments in a String")
+[Next >](../number-of-segments-in-a-string "Number of Segments in a String")
 
 ## [433. Minimum Genetic Mutation (Medium)](https://leetcode.com/problems/minimum-genetic-mutation "最小基因变化")
 
@@ -68,4 +68,4 @@ return: 3
 <p>&nbsp;</p>
 
 ### Similar Questions
-  1. [Word Ladder](https://github.com/openset/leetcode/tree/master/problems/word-ladder) (Medium)
+  1. [Word Ladder](../word-ladder) (Medium)

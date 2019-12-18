@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/distant-barcodes "Distant Barcodes")
+[< Previous](../distant-barcodes "Distant Barcodes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/confusing-number "Confusing Number")
+[Next >](../confusing-number "Confusing Number")
 
 ## [1055. Shortest Way to Form String (Medium)](https://leetcode.com/problems/shortest-way-to-form-string "形成字符串的最短路径")
 
@@ -51,11 +51,11 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Is Subsequence](https://github.com/openset/leetcode/tree/master/problems/is-subsequence) (Easy)
+  1. [Is Subsequence](../is-subsequence) (Easy)
 
 ### Hints
 <details>

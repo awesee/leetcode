@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/cousins-in-binary-tree "Cousins in Binary Tree")
+[< Previous](../cousins-in-binary-tree "Cousins in Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips "Minimum Number of K Consecutive Bit Flips")
+[Next >](../minimum-number-of-k-consecutive-bit-flips "Minimum Number of K Consecutive Bit Flips")
 
 ## [994. Rotting Oranges (Easy)](https://leetcode.com/problems/rotting-oranges "腐烂的橘子")
 
@@ -67,7 +67,7 @@
 </div>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/problems/walls-and-gates) (Medium)
+  1. [Walls and Gates](../walls-and-gates) (Medium)

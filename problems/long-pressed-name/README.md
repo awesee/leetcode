@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimize-malware-spread "Minimize Malware Spread")
+[< Previous](../minimize-malware-spread "Minimize Malware Spread")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flip-string-to-monotone-increasing "Flip String to Monotone Increasing")
+[Next >](../flip-string-to-monotone-increasing "Flip String to Monotone Increasing")
 
 ## [925. Long Pressed Name (Easy)](https://leetcode.com/problems/long-pressed-name "长按键入")
 
@@ -75,5 +75,5 @@
 </div>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[String](../../tag/string/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/bitwise-and-of-numbers-range "Bitwise AND of Numbers Range")
+[< Previous](../bitwise-and-of-numbers-range "Bitwise AND of Numbers Range")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements "Remove Linked List Elements")
+[Next >](../remove-linked-list-elements "Remove Linked List Elements")
 
 ## [202. Happy Number (Easy)](https://leetcode.com/problems/happy-number "快乐数")
 
@@ -28,10 +28,10 @@
 </pre>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Linked List Cycle](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle) (Easy)
-  1. [Add Digits](https://github.com/openset/leetcode/tree/master/problems/add-digits) (Easy)
-  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/problems/ugly-number) (Easy)
+  1. [Linked List Cycle](../linked-list-cycle) (Easy)
+  1. [Add Digits](../add-digits) (Easy)
+  1. [Ugly Number](../ugly-number) (Easy)

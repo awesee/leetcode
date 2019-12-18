@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/airplane-seat-assignment-probability "Airplane Seat Assignment Probability")
+[< Previous](../airplane-seat-assignment-probability "Airplane Seat Assignment Probability")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/meeting-scheduler "Meeting Scheduler")
+[Next >](../meeting-scheduler "Meeting Scheduler")
 
 ## [1228. Missing Number In Arithmetic Progression (Easy)](https://leetcode.com/problems/missing-number-in-arithmetic-progression "等差数列中缺失的数字")
 
@@ -42,7 +42,7 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

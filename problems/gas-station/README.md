@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/clone-graph "Clone Graph")
+[< Previous](../clone-graph "Clone Graph")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/candy "Candy")
+[Next >](../candy "Candy")
 
 ## [134. Gas Station (Medium)](https://leetcode.com/problems/gas-station "加油站")
 
@@ -63,4 +63,4 @@ Therefore, you can&#39;t travel around the circuit once no matter where you star
 </pre>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

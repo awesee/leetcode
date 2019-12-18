@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-words "Top K Frequent Words")
+[< Previous](../top-k-frequent-words "Top K Frequent Words")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-distinct-islands "Number of Distinct Islands")
+[Next >](../number-of-distinct-islands "Number of Distinct Islands")
 
 ## [693. Binary Number with Alternating Bits (Easy)](https://leetcode.com/problems/binary-number-with-alternating-bits "交替位二进制数")
 
@@ -50,7 +50,7 @@ The binary representation of 10 is: 1010.
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)
+  1. [Number of 1 Bits](../number-of-1-bits) (Easy)

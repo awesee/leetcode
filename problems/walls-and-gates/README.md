@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst "Inorder Successor in BST")
+[< Previous](../inorder-successor-in-bst "Inorder Successor in BST")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number "Find the Duplicate Number")
+[Next >](../find-the-duplicate-number "Find the Duplicate Number")
 
 ## [286. Walls and Gates (Medium)](https://leetcode.com/problems/walls-and-gates "墙与门")
 
@@ -42,11 +42,11 @@ INF  -1 INF  -1
 </pre>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Surrounded Regions](https://github.com/openset/leetcode/tree/master/problems/surrounded-regions) (Medium)
-  1. [Number of Islands](https://github.com/openset/leetcode/tree/master/problems/number-of-islands) (Medium)
-  1. [Shortest Distance from All Buildings](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-from-all-buildings) (Hard)
-  1. [Robot Room Cleaner](https://github.com/openset/leetcode/tree/master/problems/robot-room-cleaner) (Hard)
-  1. [Rotting Oranges](https://github.com/openset/leetcode/tree/master/problems/rotting-oranges) (Easy)
+  1. [Surrounded Regions](../surrounded-regions) (Medium)
+  1. [Number of Islands](../number-of-islands) (Medium)
+  1. [Shortest Distance from All Buildings](../shortest-distance-from-all-buildings) (Hard)
+  1. [Robot Room Cleaner](../robot-room-cleaner) (Hard)
+  1. [Rotting Oranges](../rotting-oranges) (Easy)

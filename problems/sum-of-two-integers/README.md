@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/range-addition "Range Addition")
+[< Previous](../range-addition "Range Addition")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/super-pow "Super Pow")
+[Next >](../super-pow "Super Pow")
 
 ## [371. Sum of Two Integers (Easy)](https://leetcode.com/problems/sum-of-two-integers "两整数之和")
 
@@ -32,7 +32,7 @@
 </div>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
-  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers) (Medium)
+  1. [Add Two Numbers](../add-two-numbers) (Medium)

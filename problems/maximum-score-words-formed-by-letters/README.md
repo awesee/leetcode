@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-closed-islands "Number of Closed Islands")
+[< Previous](../number-of-closed-islands "Number of Closed Islands")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/encode-number "Encode Number")
+[Next >](../encode-number "Encode Number")
 
 ## [1255. Maximum Score Words Formed by Letters (Hard)](https://leetcode.com/problems/maximum-score-words-formed-by-letters "得分最高的单词集合")
 
@@ -60,7 +60,7 @@ Letter &quot;e&quot; can only be used once.</pre>
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Hints
 <details>

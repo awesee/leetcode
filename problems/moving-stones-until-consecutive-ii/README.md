@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-score-triangulation-of-polygon "Minimum Score Triangulation of Polygon")
+[< Previous](../minimum-score-triangulation-of-polygon "Minimum Score Triangulation of Polygon")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/robot-bounded-in-circle "Robot Bounded In Circle")
+[Next >](../robot-bounded-in-circle "Robot Bounded In Circle")
 
 ## [1040. Moving Stones Until Consecutive II (Medium)](https://leetcode.com/problems/moving-stones-until-consecutive-ii "移动石子直到连续 II")
 
@@ -70,8 +70,8 @@ Notice we cannot move 10 -&gt; 2 to finish the game, because that would be an il
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

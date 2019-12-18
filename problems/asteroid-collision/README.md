@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity "Sentence Similarity")
+[< Previous](../sentence-similarity "Sentence Similarity")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/parse-lisp-expression "Parse Lisp Expression")
+[Next >](../parse-lisp-expression "Parse Lisp Expression")
 
 ## [735. Asteroid Collision (Medium)](https://leetcode.com/problems/asteroid-collision "行星碰撞")
 
@@ -66,10 +66,10 @@ Asteroids moving the same direction never meet, so no asteroids will meet each o
 </p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](../../tag/stack/README.md)]
 
 ### Similar Questions
-  1. [Can Place Flowers](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers) (Easy)
+  1. [Can Place Flowers](../can-place-flowers) (Easy)
 
 ### Hints
 <details>

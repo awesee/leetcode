@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/fruit-into-baskets "Fruit Into Baskets")
+[< Previous](../fruit-into-baskets "Fruit Into Baskets")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/super-palindromes "Super Palindromes")
+[Next >](../super-palindromes "Super Palindromes")
 
 ## [905. Sort Array By Parity (Easy)](https://leetcode.com/problems/sort-array-by-parity "按奇偶排序数组")
 
@@ -37,4 +37,4 @@ The outputs [4,2,3,1], [2,4,1,3], and [4,2,1,3] would also be accepted.
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]

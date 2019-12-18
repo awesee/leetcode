@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sliding-puzzle "Sliding Puzzle")
+[< Previous](../sliding-puzzle "Sliding Puzzle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/global-and-local-inversions "Global and Local Inversions")
+[Next >](../global-and-local-inversions "Global and Local Inversions")
 
 ## [774. Minimize Max Distance to Gas Station (Hard)](https://leetcode.com/problems/minimize-max-distance-to-gas-station "最小化去加油站的最大距离")
 
@@ -34,10 +34,10 @@
 </ol>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Koko Eating Bananas](https://github.com/openset/leetcode/tree/master/problems/koko-eating-bananas) (Medium)
+  1. [Koko Eating Bananas](../koko-eating-bananas) (Medium)
 
 ### Hints
 <details>

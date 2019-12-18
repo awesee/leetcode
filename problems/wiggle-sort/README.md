@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/perfect-squares "Perfect Squares")
+[< Previous](../perfect-squares "Perfect Squares")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/zigzag-iterator "Zigzag Iterator")
+[Next >](../zigzag-iterator "Zigzag Iterator")
 
 ## [280. Wiggle Sort (Medium)](https://leetcode.com/problems/wiggle-sort "摆动排序")
 
@@ -20,9 +20,9 @@
 <b>Output:</b> One possible answer is [3,5,1,6,2,4]</pre>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Sort Colors](https://github.com/openset/leetcode/tree/master/problems/sort-colors) (Medium)
-  1. [Wiggle Sort II](https://github.com/openset/leetcode/tree/master/problems/wiggle-sort-ii) (Medium)
+  1. [Sort Colors](../sort-colors) (Medium)
+  1. [Wiggle Sort II](../wiggle-sort-ii) (Medium)

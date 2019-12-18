@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subtree "Maximum Average Subtree")
+[< Previous](../maximum-average-subtree "Maximum Average Subtree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/relative-sort-array "Relative Sort Array")
+[Next >](../relative-sort-array "Relative Sort Array")
 
 ## [1121. Divide Array Into Increasing Sequences (Hard)](https://leetcode.com/problems/divide-array-into-increasing-sequences "将数组分成几个递增序列")
 
@@ -44,7 +44,7 @@ There is no way to divide the array using the conditions required.
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

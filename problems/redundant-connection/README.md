@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-empty-slots "K Empty Slots")
+[< Previous](../k-empty-slots "K Empty Slots")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/redundant-connection-ii "Redundant Connection II")
+[Next >](../redundant-connection-ii "Redundant Connection II")
 
 ## [684. Redundant Connection (Medium)](https://leetcode.com/problems/redundant-connection "冗余连接")
 
@@ -52,10 +52,10 @@ We have overhauled the problem description + test cases and specified clearly th
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Similar Questions
-  1. [Redundant Connection II](https://github.com/openset/leetcode/tree/master/problems/redundant-connection-ii) (Hard)
-  1. [Accounts Merge](https://github.com/openset/leetcode/tree/master/problems/accounts-merge) (Medium)
+  1. [Redundant Connection II](../redundant-connection-ii) (Hard)
+  1. [Accounts Merge](../accounts-merge) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/tenth-line "Tenth Line")
+[< Previous](../tenth-line "Tenth Line")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rising-temperature "Rising Temperature")
+[Next >](../rising-temperature "Rising Temperature")
 
 ## [196. Delete Duplicate Emails (Easy)](https://leetcode.com/problems/delete-duplicate-emails "删除重复的电子邮箱")
 

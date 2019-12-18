@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/cat-and-mouse "Cat and Mouse")
+[< Previous](../cat-and-mouse "Cat and Mouse")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-disjoint-intervals "Partition Array into Disjoint Intervals")
+[Next >](../partition-array-into-disjoint-intervals "Partition Array into Disjoint Intervals")
 
 ## [914. X of a Kind in a Deck of Cards (Easy)](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards "卡牌分组")
 
@@ -89,5 +89,5 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]

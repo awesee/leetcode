@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/adding-two-negabinary-numbers "Adding Two Negabinary Numbers")
+[< Previous](../adding-two-negabinary-numbers "Adding Two Negabinary Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/project-employees-i "Project Employees I")
+[Next >](../project-employees-i "Project Employees I")
 
 ## [1074. Number of Submatrices That Sum to Target (Hard)](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target "元素和为目标值的子矩阵数量")
 
@@ -49,9 +49,9 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

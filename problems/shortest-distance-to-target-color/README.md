@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/before-and-after-puzzle "Before and After Puzzle")
+[< Previous](../before-and-after-puzzle "Before and After Puzzle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-ones "Maximum Number of Ones")
+[Next >](../maximum-number-of-ones "Maximum Number of Ones")
 
 ## [1182. Shortest Distance to Target Color (Medium)](https://leetcode.com/problems/shortest-distance-to-target-color "与目标颜色间的最短距离")
 
@@ -48,7 +48,7 @@ The nearest 1 from index 6 is at index 3 (3 steps away).
 </ul>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

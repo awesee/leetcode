@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/cherry-pickup "Cherry Pickup")
+[< Previous](../cherry-pickup "Cherry Pickup")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/network-delay-time "Network Delay Time")
+[Next >](../network-delay-time "Network Delay Time")
 
 ## [742. Closest Leaf in a Binary Tree (Medium)](https://leetcode.com/problems/closest-leaf-in-a-binary-tree "二叉树最近的叶节点")
 
@@ -72,7 +72,7 @@ Diagram of binary tree:
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Hints
 <details>

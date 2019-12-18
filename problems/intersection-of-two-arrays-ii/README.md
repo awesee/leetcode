@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays "Intersection of Two Arrays")
+[< Previous](../intersection-of-two-arrays "Intersection of Two Arrays")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/android-unlock-patterns "Android Unlock Patterns")
+[Next >](../android-unlock-patterns "Android Unlock Patterns")
 
 ## [350. Intersection of Two Arrays II (Easy)](https://leetcode.com/problems/intersection-of-two-arrays-ii "两个数组的交集 II")
 
@@ -44,11 +44,11 @@
 </ul>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Intersection of Two Arrays](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays) (Easy)
-  1. [Find Common Characters](https://github.com/openset/leetcode/tree/master/problems/find-common-characters) (Easy)
+  1. [Intersection of Two Arrays](../intersection-of-two-arrays) (Easy)
+  1. [Find Common Characters](../find-common-characters) (Easy)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/middle-of-the-linked-list "Middle of the Linked List")
+[< Previous](../middle-of-the-linked-list "Middle of the Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/nth-magical-number "Nth Magical Number")
+[Next >](../nth-magical-number "Nth Magical Number")
 
 ## [877. Stone Game (Medium)](https://leetcode.com/problems/stone-game "石子游戏")
 
@@ -46,6 +46,6 @@ This demonstrated that taking the first 5 was a winning move for Alex, so we ret
 </ol>
 
 ### Related Topics
-  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Minimax](../../tag/minimax/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

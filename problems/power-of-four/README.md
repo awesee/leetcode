@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator "Flatten Nested List Iterator")
+[< Previous](../flatten-nested-list-iterator "Flatten Nested List Iterator")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/integer-break "Integer Break")
+[Next >](../integer-break "Integer Break")
 
 ## [342. Power of Four (Easy)](https://leetcode.com/problems/power-of-four "4的幂")
 
@@ -31,8 +31,8 @@
 <p><b>Follow up</b>: Could you solve it without loops/recursion?</p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
-  1. [Power of Two](https://github.com/openset/leetcode/tree/master/problems/power-of-two) (Easy)
-  1. [Power of Three](https://github.com/openset/leetcode/tree/master/problems/power-of-three) (Easy)
+  1. [Power of Two](../power-of-two) (Easy)
+  1. [Power of Three](../power-of-three) (Easy)

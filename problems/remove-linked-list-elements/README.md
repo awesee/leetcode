@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/happy-number "Happy Number")
+[< Previous](../happy-number "Happy Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-primes "Count Primes")
+[Next >](../count-primes "Count Primes")
 
 ## [203. Remove Linked List Elements (Easy)](https://leetcode.com/problems/remove-linked-list-elements "移除链表元素")
 
@@ -21,8 +21,8 @@
 </pre>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Remove Element](https://github.com/openset/leetcode/tree/master/problems/remove-element) (Easy)
-  1. [Delete Node in a Linked List](https://github.com/openset/leetcode/tree/master/problems/delete-node-in-a-linked-list) (Easy)
+  1. [Remove Element](../remove-element) (Easy)
+  1. [Delete Node in a Linked List](../delete-node-in-a-linked-list) (Easy)

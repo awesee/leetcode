@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-ships-in-a-rectangle "Number of Ships in a Rectangle")
+[< Previous](../number-of-ships-in-a-rectangle "Number of Ships in a Rectangle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-burgers-with-no-waste-of-ingredients "Number of Burgers with No Waste of Ingredients")
+[Next >](../number-of-burgers-with-no-waste-of-ingredients "Number of Burgers with No Waste of Ingredients")
 
 ## [1275. Find Winner on a Tic Tac Toe Game (Easy)](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game "找出井字棋的获胜者")
 
@@ -87,7 +87,7 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

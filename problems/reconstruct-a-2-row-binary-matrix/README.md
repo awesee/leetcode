@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/cells-with-odd-values-in-a-matrix "Cells with Odd Values in a Matrix")
+[< Previous](../cells-with-odd-values-in-a-matrix "Cells with Odd Values in a Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-closed-islands "Number of Closed Islands")
+[Next >](../number-of-closed-islands "Number of Closed Islands")
 
 ## [1253. Reconstruct a 2-Row Binary Matrix (Medium)](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix "重构 2 行二进制矩阵")
 
@@ -61,8 +61,8 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

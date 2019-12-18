@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/zuma-game "Zuma Game")
+[< Previous](../zuma-game "Zuma Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/the-maze "The Maze")
+[Next >](../the-maze "The Maze")
 
 ## [489. Robot Room Cleaner (Hard)](https://leetcode.com/problems/robot-room-cleaner "扫地机器人")
 
@@ -68,7 +68,7 @@ From the top left corner, its position is one row below and three columns right.
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/problems/walls-and-gates) (Medium)
+  1. [Walls and Gates](../walls-and-gates) (Medium)

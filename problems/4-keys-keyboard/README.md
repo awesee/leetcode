@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/2-keys-keyboard "2 Keys Keyboard")
+[< Previous](../2-keys-keyboard "2 Keys Keyboard")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-subtrees "Find Duplicate Subtrees")
+[Next >](../find-duplicate-subtrees "Find Duplicate Subtrees")
 
 ## [651. 4 Keys Keyboard (Medium)](https://leetcode.com/problems/4-keys-keyboard "4键键盘")
 
@@ -48,9 +48,9 @@ A, A, A, Ctrl A, Ctrl C, Ctrl V, Ctrl V
 </p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [2 Keys Keyboard](https://github.com/openset/leetcode/tree/master/problems/2-keys-keyboard) (Medium)
+  1. [2 Keys Keyboard](../2-keys-keyboard) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-subarray-with-sum-at-least-k "Shortest Subarray with Sum at Least K")
+[< Previous](../shortest-subarray-with-sum-at-least-k "Shortest Subarray with Sum at Least K")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-path-to-get-all-keys "Shortest Path to Get All Keys")
+[Next >](../shortest-path-to-get-all-keys "Shortest Path to Get All Keys")
 
 ## [863. All Nodes Distance K in Binary Tree (Medium)](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree "二叉树中所有距离为 K 的结点")
 
@@ -51,6 +51,6 @@ The descriptions of the inputs above are just serializations of these objects.
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle-ii "Pascal's Triangle II")
+[< Previous](../pascals-triangle-ii "Pascal's Triangle II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock "Best Time to Buy and Sell Stock")
+[Next >](../best-time-to-buy-and-sell-stock "Best Time to Buy and Sell Stock")
 
 ## [120. Triangle (Medium)](https://leetcode.com/problems/triangle "三角形最小路径和")
 
@@ -31,5 +31,5 @@
 <p>Bonus point if you are able to do this using only <em>O</em>(<em>n</em>) extra space, where <em>n</em> is the total number of rows in the triangle.</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

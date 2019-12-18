@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/palindrome-removal "Palindrome Removal")
+[< Previous](../palindrome-removal "Palindrome Removal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-number-of-nice-subarrays "Count Number of Nice Subarrays")
+[Next >](../count-number-of-nice-subarrays "Count Number of Nice Subarrays")
 
 ## [1247. Minimum Swaps to Make Strings Equal (Medium)](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal "交换字符使得字符串相同")
 
@@ -57,8 +57,8 @@ Note that you can&#39;t swap s1[0] and s1[1] to make s1 equal to &quot;yx&quot;,
 </ul>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

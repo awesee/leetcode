@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flood-fill "Flood Fill")
+[< Previous](../flood-fill "Flood Fill")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/asteroid-collision "Asteroid Collision")
+[Next >](../asteroid-collision "Asteroid Collision")
 
 ## [734. Sentence Similarity (Easy)](https://leetcode.com/problems/sentence-similarity "句子相似性")
 
@@ -35,12 +35,12 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Friend Circles](https://github.com/openset/leetcode/tree/master/problems/friend-circles) (Medium)
-  1. [Accounts Merge](https://github.com/openset/leetcode/tree/master/problems/accounts-merge) (Medium)
-  1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity-ii) (Medium)
+  1. [Friend Circles](../friend-circles) (Medium)
+  1. [Accounts Merge](../accounts-merge) (Medium)
+  1. [Sentence Similarity II](../sentence-similarity-ii) (Medium)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-connect-sticks "Minimum Cost to Connect Sticks")
+[< Previous](../minimum-cost-to-connect-sticks "Minimum Cost to Connect Sticks")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/invalid-transactions "Invalid Transactions")
+[Next >](../invalid-transactions "Invalid Transactions")
 
 ## [1168. Optimize Water Distribution in a Village (Hard)](https://leetcode.com/problems/optimize-water-distribution-in-a-village "水资源分配优化")
 
@@ -44,8 +44,8 @@ The best strategy is to build a well in the first house with cost 1 and connect 
 </ul>
 
 ### Related Topics
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Hints
 <details>

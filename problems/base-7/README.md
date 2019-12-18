@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-ii "Next Greater Element II")
+[< Previous](../next-greater-element-ii "Next Greater Element II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/the-maze-ii "The Maze II")
+[Next >](../the-maze-ii "The Maze II")
 
 ## [504. Base 7 (Easy)](https://leetcode.com/problems/base-7 "七进制数")
 

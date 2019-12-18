@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimize-rounding-error-to-meet-target "Minimize Rounding Error to Meet Target")
+[< Previous](../minimize-rounding-error-to-meet-target "Minimize Rounding Error to Meet Target")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/missing-element-in-sorted-array "Missing Element in Sorted Array")
+[Next >](../missing-element-in-sorted-array "Missing Element in Sorted Array")
 
 ## [1059. All Paths from Source Lead to Destination (Medium)](https://leetcode.com/problems/all-paths-from-source-lead-to-destination "从始点到终点的所有路径")
 
@@ -87,8 +87,8 @@
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Hints
 <details>

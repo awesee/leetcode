@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-ii "Lonely Pixel II")
+[< Previous](../lonely-pixel-ii "Lonely Pixel II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-tinyurl "Encode and Decode TinyURL")
+[Next >](../encode-and-decode-tinyurl "Encode and Decode TinyURL")
 
 ## [534. Game Play Analysis III (Medium)](https://leetcode.com/problems/game-play-analysis-iii "游戏玩法分析 III")
 
@@ -61,5 +61,5 @@ Note that for each player we only care about the days when the player logged in.
 </pre>
 
 ### Similar Questions
-  1. [Game Play Analysis II](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-ii) (Easy)
-  1. [Game Play Analysis IV](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iv) (Medium)
+  1. [Game Play Analysis II](../game-play-analysis-ii) (Easy)
+  1. [Game Play Analysis IV](../game-play-analysis-iv) (Medium)

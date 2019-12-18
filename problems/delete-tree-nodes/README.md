@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-interval "Remove Interval")
+[< Previous](../remove-interval "Remove Interval")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-ships-in-a-rectangle "Number of Ships in a Rectangle")
+[Next >](../number-of-ships-in-a-rectangle "Number of Ships in a Rectangle")
 
 ## [1273. Delete Tree Nodes (Medium)](https://leetcode.com/problems/delete-tree-nodes "删除树节点")
 
@@ -44,8 +44,8 @@
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

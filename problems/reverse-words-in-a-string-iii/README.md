@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-iii "Next Greater Element III")
+[< Previous](../next-greater-element-iii "Next Greater Element III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/quad-tree-intersection "Quad Tree Intersection")
+[Next >](../quad-tree-intersection "Quad Tree Intersection")
 
 ## [557. Reverse Words in a String III (Easy)](https://leetcode.com/problems/reverse-words-in-a-string-iii "反转字符串中的单词 III")
 
@@ -25,7 +25,7 @@ In the string, each word is separated by single space and there will not be any 
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Reverse String II](https://github.com/openset/leetcode/tree/master/problems/reverse-string-ii) (Easy)
+  1. [Reverse String II](../reverse-string-ii) (Easy)

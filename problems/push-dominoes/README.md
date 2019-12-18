@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/new-21-game "New 21 Game")
+[< Previous](../new-21-game "New 21 Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/similar-string-groups "Similar String Groups")
+[Next >](../similar-string-groups "Similar String Groups")
 
 ## [838. Push Dominoes (Medium)](https://leetcode.com/problems/push-dominoes "推多米诺")
 
@@ -52,5 +52,5 @@
 </ol>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

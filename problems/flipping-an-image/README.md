@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/masking-personal-information "Masking Personal Information")
+[< Previous](../masking-personal-information "Masking Personal Information")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-and-replace-in-string "Find And Replace in String")
+[Next >](../find-and-replace-in-string "Find And Replace in String")
 
 ## [832. Flipping an Image (Easy)](https://leetcode.com/problems/flipping-an-image "翻转图像")
 
@@ -43,4 +43,4 @@ Then invert the image: [[1,1,0,0],[0,1,1,0],[0,0,0,1],[1,0,1,0]]
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]

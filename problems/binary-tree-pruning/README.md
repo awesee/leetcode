@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/largest-sum-of-averages "Largest Sum of Averages")
+[< Previous](../largest-sum-of-averages "Largest Sum of Averages")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/bus-routes "Bus Routes")
+[Next >](../bus-routes "Bus Routes")
 
 ## [814. Binary Tree Pruning (Medium)](https://leetcode.com/problems/binary-tree-pruning "二叉树剪枝")
 
@@ -55,4 +55,4 @@ The diagram on the right represents the answer.
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-break "Word Break")
+[< Previous](../word-break "Word Break")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle "Linked List Cycle")
+[Next >](../linked-list-cycle "Linked List Cycle")
 
 ## [140. Word Break II (Hard)](https://leetcode.com/problems/word-break-ii "单词拆分 II")
 
@@ -58,9 +58,9 @@ wordDict = [&quot;cats&quot;, &quot;dog&quot;, &quot;sand&quot;, &quot;and&quot;
 </strong>[]</pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Word Break](https://github.com/openset/leetcode/tree/master/problems/word-break) (Medium)
-  1. [Concatenated Words](https://github.com/openset/leetcode/tree/master/problems/concatenated-words) (Hard)
+  1. [Word Break](../word-break) (Medium)
+  1. [Concatenated Words](../concatenated-words) (Hard)

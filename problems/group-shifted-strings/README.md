@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-iii "Strobogrammatic Number III")
+[< Previous](../strobogrammatic-number-iii "Strobogrammatic Number III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-univalue-subtrees "Count Univalue Subtrees")
+[Next >](../count-univalue-subtrees "Count Univalue Subtrees")
 
 ## [249. Group Shifted Strings (Medium)](https://leetcode.com/problems/group-shifted-strings "移位字符串分组")
 
@@ -32,8 +32,8 @@
 </pre>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Group Anagrams](https://github.com/openset/leetcode/tree/master/problems/group-anagrams) (Medium)
+  1. [Group Anagrams](../group-anagrams) (Medium)

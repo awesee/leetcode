@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/bag-of-tokens "Bag of Tokens")
+[< Previous](../bag-of-tokens "Bag of Tokens")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reveal-cards-in-increasing-order "Reveal Cards In Increasing Order")
+[Next >](../reveal-cards-in-increasing-order "Reveal Cards In Increasing Order")
 
 ## [949. Largest Time for Given Digits (Easy)](https://leetcode.com/problems/largest-time-for-given-digits "给定数字能组成的最大时间")
 
@@ -47,4 +47,4 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

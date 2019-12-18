@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/single-number "Single Number")
+[< Previous](../single-number "Single Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/copy-list-with-random-pointer "Copy List with Random Pointer")
+[Next >](../copy-list-with-random-pointer "Copy List with Random Pointer")
 
 ## [137. Single Number II (Medium)](https://leetcode.com/problems/single-number-ii "只出现一次的数字 II")
 
@@ -31,8 +31,8 @@
 <strong>Output:</strong> 99</pre>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
-  1. [Single Number](https://github.com/openset/leetcode/tree/master/problems/single-number) (Easy)
-  1. [Single Number III](https://github.com/openset/leetcode/tree/master/problems/single-number-iii) (Medium)
+  1. [Single Number](../single-number) (Easy)
+  1. [Single Number III](../single-number-iii) (Medium)

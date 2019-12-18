@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/string-without-aaa-or-bbb "String Without AAA or BBB")
+[< Previous](../string-without-aaa-or-bbb "String Without AAA or BBB")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/interval-list-intersections "Interval List Intersections")
+[Next >](../interval-list-intersections "Interval List Intersections")
 
 ## [985. Sum of Even Numbers After Queries (Easy)](https://leetcode.com/problems/sum-of-even-numbers-after-queries "查询后的偶数和")
 
@@ -47,4 +47,4 @@ After adding 2 to A[3], the array is [-2,-1,3,6], and the sum of even values is 
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]

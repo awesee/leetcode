@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-two-non-overlapping-subarrays "Maximum Sum of Two Non-Overlapping Subarrays")
+[< Previous](../maximum-sum-of-two-non-overlapping-subarrays "Maximum Sum of Two Non-Overlapping Subarrays")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive "Moving Stones Until Consecutive")
+[Next >](../moving-stones-until-consecutive "Moving Stones Until Consecutive")
 
 ## [1032. Stream of Characters (Hard)](https://leetcode.com/problems/stream-of-characters "字符流")
 
@@ -51,7 +51,7 @@ streamChecker.query(&#39;l&#39;);          // return true, because &#39;kl&#39; 
 </ul>
 
 ### Related Topics
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[Trie](../../tag/trie/README.md)]
 
 ### Hints
 <details>

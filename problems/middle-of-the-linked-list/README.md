@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/koko-eating-bananas "Koko Eating Bananas")
+[< Previous](../koko-eating-bananas "Koko Eating Bananas")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/stone-game "Stone Game")
+[Next >](../stone-game "Stone Game")
 
 ## [876. Middle of the Linked List (Easy)](https://leetcode.com/problems/middle-of-the-linked-list "链表的中间结点")
 
@@ -48,4 +48,4 @@ Since the list has two middle nodes with values 3 and 4, we return the second on
 </div>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]

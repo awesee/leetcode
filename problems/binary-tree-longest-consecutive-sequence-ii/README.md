@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/split-array-with-equal-sum "Split Array with Equal Sum")
+[< Previous](../split-array-with-equal-sum "Split Array with Equal Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iv "Game Play Analysis IV")
+[Next >](../game-play-analysis-iv "Game Play Analysis IV")
 
 ## [549. Binary Tree Longest Consecutive Sequence II (Medium)](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii "二叉树中最长的连续序列")
 
@@ -44,7 +44,7 @@
 <p><b>Note:</b> All the values of tree nodes are in the range of [-1e7, 1e7].</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Longest Consecutive Sequence](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence) (Medium)
+  1. [Binary Tree Longest Consecutive Sequence](../binary-tree-longest-consecutive-sequence) (Medium)

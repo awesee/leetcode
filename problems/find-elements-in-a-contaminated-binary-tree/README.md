@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shift-2d-grid "Shift 2D Grid")
+[< Previous](../shift-2d-grid "Shift 2D Grid")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/greatest-sum-divisible-by-three "Greatest Sum Divisible by Three")
+[Next >](../greatest-sum-divisible-by-three "Greatest Sum Divisible by Three")
 
 ## [1261. Find Elements in a Contaminated Binary Tree (Medium)](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree "在受污染的二叉树中查找元素")
 
@@ -90,8 +90,8 @@ findElements.find(5); // return True
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

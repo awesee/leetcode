@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-in-lexicographical-order "K-th Smallest in Lexicographical Order")
+[< Previous](../k-th-smallest-in-lexicographical-order "K-th Smallest in Lexicographical Order")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-all-duplicates-in-an-array "Find All Duplicates in an Array")
+[Next >](../find-all-duplicates-in-an-array "Find All Duplicates in an Array")
 
 ## [441. Arranging Coins (Easy)](https://leetcode.com/problems/arranging-coins "排列硬币")
 
@@ -45,5 +45,5 @@ Because the 4th row is incomplete, we return 3.
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]

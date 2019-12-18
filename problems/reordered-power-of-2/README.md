@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-gap "Binary Gap")
+[< Previous](../binary-gap "Binary Gap")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/advantage-shuffle "Advantage Shuffle")
+[Next >](../advantage-shuffle "Advantage Shuffle")
 
 ## [869. Reordered Power of 2 (Medium)](https://leetcode.com/problems/reordered-power-of-2 "重新排序得到 2 的幂")
 
@@ -74,4 +74,4 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

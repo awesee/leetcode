@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-two-distinct-characters "Longest Substring with At Most Two Distinct Characters")
+[< Previous](../longest-substring-with-at-most-two-distinct-characters "Longest Substring with At Most Two Distinct Characters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/one-edit-distance "One Edit Distance")
+[Next >](../one-edit-distance "One Edit Distance")
 
 ## [160. Intersection of Two Linked Lists (Easy)](https://leetcode.com/problems/intersection-of-two-linked-lists "相交链表")
 
@@ -63,7 +63,7 @@
 </ul>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Minimum Index Sum of Two Lists](https://github.com/openset/leetcode/tree/master/problems/minimum-index-sum-of-two-lists) (Easy)
+  1. [Minimum Index Sum of Two Lists](../minimum-index-sum-of-two-lists) (Easy)

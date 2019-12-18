@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/two-sum-bsts "Two Sum BSTs")
+[< Previous](../two-sum-bsts "Two Sum BSTs")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-iii "Valid Palindrome III")
+[Next >](../valid-palindrome-iii "Valid Palindrome III")
 
 ## [1215. Stepping Numbers (Medium)](https://leetcode.com/problems/stepping-numbers "步进数")
 
@@ -28,7 +28,7 @@
 </ul>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints
 <details>

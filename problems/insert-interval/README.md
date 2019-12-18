@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/merge-intervals "Merge Intervals")
+[< Previous](../merge-intervals "Merge Intervals")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/length-of-last-word "Length of Last Word")
+[Next >](../length-of-last-word "Length of Last Word")
 
 ## [57. Insert Interval (Hard)](https://leetcode.com/problems/insert-interval "插入区间")
 
@@ -32,9 +32,9 @@
 <p><strong>NOTE:</strong>&nbsp;input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</p>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
-  1. [Range Module](https://github.com/openset/leetcode/tree/master/problems/range-module) (Hard)
+  1. [Merge Intervals](../merge-intervals) (Medium)
+  1. [Range Module](../range-module) (Hard)

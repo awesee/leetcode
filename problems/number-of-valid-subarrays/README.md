@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-repeating-substring "Longest Repeating Substring")
+[< Previous](../longest-repeating-substring "Longest Repeating Substring")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/fixed-point "Fixed Point")
+[Next >](../fixed-point "Fixed Point")
 
 ## [1063. Number of Valid Subarrays (Hard)](https://leetcode.com/problems/number-of-valid-subarrays "有效子数组的数目")
 
@@ -51,7 +51,7 @@
 </ol>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](../../tag/stack/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-path-sum "Minimum Path Sum")
+[< Previous](../minimum-path-sum "Minimum Path Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/plus-one "Plus One")
+[Next >](../plus-one "Plus One")
 
 ## [65. Valid Number (Hard)](https://leetcode.com/problems/valid-number "有效数字")
 
@@ -44,8 +44,8 @@
 The signature of the <code>C++</code> function had been updated. If you still see your function signature accepts a <code>const char *</code> argument, please click the reload button to reset your code definition.</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [String to Integer (atoi)](https://github.com/openset/leetcode/tree/master/problems/string-to-integer-atoi) (Medium)
+  1. [String to Integer (atoi)](../string-to-integer-atoi) (Medium)

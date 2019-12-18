@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-in-mountain-array "Find in Mountain Array")
+[< Previous](../find-in-mountain-array "Find in Mountain Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-v "Game Play Analysis V")
+[Next >](../game-play-analysis-v "Game Play Analysis V")
 
 ## [1096. Brace Expansion II (Hard)](https://leetcode.com/problems/brace-expansion-ii "花括号展开 II")
 
@@ -78,10 +78,10 @@
 </div>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Brace Expansion](https://github.com/openset/leetcode/tree/master/problems/brace-expansion) (Medium)
+  1. [Brace Expansion](../brace-expansion) (Medium)
 
 ### Hints
 <details>

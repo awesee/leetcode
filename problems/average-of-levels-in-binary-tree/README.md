@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/exclusive-time-of-functions "Exclusive Time of Functions")
+[< Previous](../exclusive-time-of-functions "Exclusive Time of Functions")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shopping-offers "Shopping Offers")
+[Next >](../shopping-offers "Shopping Offers")
 
 ## [637. Average of Levels in Binary Tree (Easy)](https://leetcode.com/problems/average-of-levels-in-binary-tree "二叉树的层平均值")
 
@@ -34,8 +34,8 @@ The average value of nodes on level 0 is 3,  on level 1 is 14.5, and on level 2 
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal) (Medium)
-  1. [Binary Tree Level Order Traversal II](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal-ii) (Easy)
+  1. [Binary Tree Level Order Traversal](../binary-tree-level-order-traversal) (Medium)
+  1. [Binary Tree Level Order Traversal II](../binary-tree-level-order-traversal-ii) (Easy)

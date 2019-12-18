@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/exchange-seats "Exchange Seats")
+[< Previous](../exchange-seats "Exchange Seats")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-three-numbers "Maximum Product of Three Numbers")
+[Next >](../maximum-product-of-three-numbers "Maximum Product of Three Numbers")
 
 ## [627. Swap Salary (Easy)](https://leetcode.com/problems/swap-salary "交换工资")
 

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-iii "Reverse Words in a String III")
+[< Previous](../reverse-words-in-a-string-iii "Reverse Words in a String III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-n-ary-tree "Maximum Depth of N-ary Tree")
+[Next >](../maximum-depth-of-n-ary-tree "Maximum Depth of N-ary Tree")
 
 ## [558. Quad Tree Intersection (Easy)](https://leetcode.com/problems/quad-tree-intersection "四叉树交集")
 

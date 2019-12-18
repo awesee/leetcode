@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/array-nesting "Array Nesting")
+[< Previous](../array-nesting "Array Nesting")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/permutation-in-string "Permutation in String")
+[Next >](../permutation-in-string "Permutation in String")
 
 ## [566. Reshape the Matrix (Easy)](https://leetcode.com/problems/reshape-the-matrix "重塑矩阵")
 
@@ -59,7 +59,7 @@ r = 2, c = 4
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

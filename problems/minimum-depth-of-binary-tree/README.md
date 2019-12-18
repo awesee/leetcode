@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/balanced-binary-tree "Balanced Binary Tree")
+[< Previous](../balanced-binary-tree "Balanced Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/path-sum "Path Sum")
+[Next >](../path-sum "Path Sum")
 
 ## [111. Minimum Depth of Binary Tree (Easy)](https://leetcode.com/problems/minimum-depth-of-binary-tree "二叉树的最小深度")
 
@@ -31,10 +31,10 @@
 <p>return its minimum&nbsp;depth = 2.</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal) (Medium)
-  1. [Maximum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-binary-tree) (Easy)
+  1. [Binary Tree Level Order Traversal](../binary-tree-level-order-traversal) (Medium)
+  1. [Maximum Depth of Binary Tree](../maximum-depth-of-binary-tree) (Easy)

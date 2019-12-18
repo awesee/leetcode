@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/employee-free-time "Employee Free Time")
+[< Previous](../employee-free-time "Employee Free Time")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/special-binary-string "Special Binary String")
+[Next >](../special-binary-string "Special Binary String")
 
 ## [760. Find Anagram Mappings (Easy)](https://leetcode.com/problems/find-anagram-mappings "找出变位映射")
 
@@ -41,7 +41,7 @@ and so on.
 </ol></p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

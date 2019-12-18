@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/armstrong-number "Armstrong Number")
+[< Previous](../armstrong-number "Armstrong Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/parallel-courses "Parallel Courses")
+[Next >](../parallel-courses "Parallel Courses")
 
 ## [1135. Connecting Cities With Minimum Cost (Medium)](https://leetcode.com/problems/connecting-cities-with-minimum-cost "最低成本联通所有城市")
 
@@ -54,8 +54,8 @@ There is no way to connect all cities even if all edges are used.
 </ol>
 
 ### Related Topics
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Hints
 <details>

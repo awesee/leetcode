@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-balloons "Maximum Number of Balloons")
+[< Previous](../maximum-number-of-balloons "Maximum Number of Balloons")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/k-concatenation-maximum-sum "K-Concatenation Maximum Sum")
+[Next >](../k-concatenation-maximum-sum "K-Concatenation Maximum Sum")
 
 ## [1190. Reverse Substrings Between Each Pair of Parentheses (Medium)](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses "反转每对括号间的子串")
 
@@ -58,7 +58,7 @@
 </ul>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](../../tag/stack/README.md)]
 
 ### Hints
 <details>

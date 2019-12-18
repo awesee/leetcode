@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > Rolling Hash
+## [话题分类](../README.md) > Rolling Hash
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/satisfiability-of-equality-equations "Satisfiability of Equality Equations")
+[< Previous](../satisfiability-of-equality-equations "Satisfiability of Equality Equations")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/subarrays-with-k-different-integers "Subarrays with K Different Integers")
+[Next >](../subarrays-with-k-different-integers "Subarrays with K Different Integers")
 
 ## [991. Broken Calculator (Medium)](https://leetcode.com/problems/broken-calculator "坏了的计算器")
 
@@ -66,8 +66,8 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [2 Keys Keyboard](https://github.com/openset/leetcode/tree/master/problems/2-keys-keyboard) (Medium)
+  1. [2 Keys Keyboard](../2-keys-keyboard) (Medium)

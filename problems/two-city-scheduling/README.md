@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/recover-a-tree-from-preorder-traversal "Recover a Tree From Preorder Traversal")
+[< Previous](../recover-a-tree-from-preorder-traversal "Recover a Tree From Preorder Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/matrix-cells-in-distance-order "Matrix Cells in Distance Order")
+[Next >](../matrix-cells-in-distance-order "Matrix Cells in Distance Order")
 
 ## [1029. Two City Scheduling (Easy)](https://leetcode.com/problems/two-city-scheduling "两地调度")
 
@@ -42,4 +42,4 @@ The total minimum cost is 10 + 30 + 50 + 20 = 110 to have half the people interv
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

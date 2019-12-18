@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/alien-dictionary "Alien Dictionary")
+[< Previous](../alien-dictionary "Alien Dictionary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings "Encode and Decode Strings")
+[Next >](../encode-and-decode-strings "Encode and Decode Strings")
 
 ## [270. Closest Binary Search Tree Value (Easy)](https://leetcode.com/problems/closest-binary-search-tree-value "最接近的二叉搜索树值")
 
@@ -35,10 +35,10 @@
 </pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Count Complete Tree Nodes](https://github.com/openset/leetcode/tree/master/problems/count-complete-tree-nodes) (Medium)
-  1. [Closest Binary Search Tree Value II](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value-ii) (Hard)
-  1. [Search in a Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/search-in-a-binary-search-tree) (Easy)
+  1. [Count Complete Tree Nodes](../count-complete-tree-nodes) (Medium)
+  1. [Closest Binary Search Tree Value II](../closest-binary-search-tree-value-ii) (Hard)
+  1. [Search in a Binary Search Tree](../search-in-a-binary-search-tree) (Easy)

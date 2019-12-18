@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-nodes-in-k-group "Reverse Nodes in k-Group")
+[< Previous](../reverse-nodes-in-k-group "Reverse Nodes in k-Group")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-element "Remove Element")
+[Next >](../remove-element "Remove Element")
 
 ## [26. Remove Duplicates from Sorted Array (Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-array "删除排序数组中的重复项")
 
@@ -53,9 +53,9 @@ for (int i = 0; i &lt; len; i++) {
 }</pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Remove Element](https://github.com/openset/leetcode/tree/master/problems/remove-element) (Easy)
-  1. [Remove Duplicates from Sorted Array II](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array-ii) (Medium)
+  1. [Remove Element](../remove-element) (Easy)
+  1. [Remove Duplicates from Sorted Array II](../remove-duplicates-from-sorted-array-ii) (Medium)
