@@ -35,14 +35,18 @@ type StatStatusPairsType struct {
 }
 
 // WriteRow - leetcode.WriteRow
-func (problem *StatStatusPairsType) WriteRow(buf *bytes.Buffer) {
-	format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s%s)%s | [%s](https://github.com/openset/leetcode/tree/master/problems/%s) | %s |\n"
+func (problem *StatStatusPairsType) WriteRow(buf *bytes.Buffer, path string) {
+	format := "| <span id=\"%d\">%d</span> | [%s](https://leetcode.com/problems/%s%s)%s | [%s](%s/%s) | %s |\n"
 	id := problem.Stat.FrontendQuestionID
 	stat := problem.Stat
 	title := strings.TrimSpace(problem.Stat.QuestionTitle)
 	titleSlug := stat.QuestionTitleSlug
 	levelName := problem.Difficulty.LevelName()
-	buf.WriteString(fmt.Sprintf(format, id, id, title, titleSlug, stat.TranslationTitle(), problem.PaidOnly.Str(), stat.Lang(), titleSlug, levelName))
+	buf.WriteString(fmt.Sprintf(format, id, id,
+		title, titleSlug, stat.TranslationTitle(), problem.PaidOnly.Str(),
+		stat.Lang(), path, titleSlug,
+		levelName,
+	))
 }
 
 type statType struct {

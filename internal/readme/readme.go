@@ -73,14 +73,14 @@ func writeProblems(buf *bytes.Buffer) {
 		for i := 1; i < maxID/pageSize; i++ {
 			for problems[count-1].Stat.FrontendQuestionID <= pageSize*i {
 				count--
-				problems[count].WriteRow(buf)
+				problems[count].WriteRow(buf, "../problems")
 			}
 			fileName := filepath.Join("readme", fmt.Sprintf("%d-%d.md", pageSize*(i-1)+1, pageSize*i))
 			base.FilePutContents(fileName, buf.Bytes())
 			buf.Truncate(n)
 		}
 		for _, problem := range problems[0:count] {
-			problem.WriteRow(buf)
+			problem.WriteRow(buf, "problems")
 		}
 	}
 }
@@ -101,9 +101,7 @@ func writeNav(buf *bytes.Buffer) {
 func linkStr(num int) string {
 	link := "https://github.com/openset/leetcode/blob/master/"
 	if num > maxID-maxID%pageSize-pageSize {
-		link += fmt.Sprintf("README.md#%d", num)
-	} else {
-		link += fmt.Sprintf("readme/%d-%d.md#%d", (num-1)/pageSize*pageSize+1, ((num-1)/pageSize+1)*pageSize, num-step+1)
+		return fmt.Sprintf("%sREADME.md#%d", link, num)
 	}
-	return link
+	return fmt.Sprintf("%sreadme/%d-%d.md#%d", link, (num-1)/pageSize*pageSize+1, ((num-1)/pageSize+1)*pageSize, num-step+1)
 }
