@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-number-of-nice-subarrays "Count Number of Nice Subarrays")
+[< Previous](../count-number-of-nice-subarrays "Count Number of Nice Subarrays")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/check-if-it-is-a-good-array "Check If It Is a Good Array")
+[Next >](../check-if-it-is-a-good-array "Check If It Is a Good Array")
 
 ## [1249. Minimum Remove to Make Valid Parentheses (Medium)](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses "移除无效的括号")
 
@@ -63,8 +63,8 @@
 </ul>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sum-of-digits-in-the-minimum-number "Sum of Digits in the Minimum Number")
+[< Previous](../sum-of-digits-in-the-minimum-number "Sum of Digits in the Minimum Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/brace-expansion "Brace Expansion")
+[Next >](../brace-expansion "Brace Expansion")
 
 ## [1086. High Five (Easy)](https://leetcode.com/problems/high-five "前五科的均分")
 
@@ -40,9 +40,9 @@ The average of the student with id = 2 is 88.6. But with integer division their 
 </ol>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

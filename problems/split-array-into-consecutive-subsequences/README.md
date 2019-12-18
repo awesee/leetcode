@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-k-closest-elements "Find K Closest Elements")
+[< Previous](../find-k-closest-elements "Find K Closest Elements")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-9 "Remove 9")
+[Next >](../remove-9 "Remove 9")
 
 ## [659. Split Array into Consecutive Subsequences (Medium)](https://leetcode.com/problems/split-array-into-consecutive-subsequences "分割数组为连续子序列")
 
@@ -57,8 +57,8 @@ You can split them into two consecutive subsequences :
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Similar Questions
-  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements) (Medium)
+  1. [Top K Frequent Elements](../top-k-frequent-elements) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/all-paths-from-source-lead-to-destination "All Paths from Source Lead to Destination")
+[< Previous](../all-paths-from-source-lead-to-destination "All Paths from Source Lead to Destination")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/lexicographically-smallest-equivalent-string "Lexicographically Smallest Equivalent String")
+[Next >](../lexicographically-smallest-equivalent-string "Lexicographically Smallest Equivalent String")
 
 ## [1060. Missing Element in Sorted Array (Medium)](https://leetcode.com/problems/missing-element-in-sorted-array "有序数组中的缺失元素")
 
@@ -53,7 +53,7 @@ The missing numbers are [3,5,6,7,...], hence the third missing number is 6.
 </ol>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

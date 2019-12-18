@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-burgers-with-no-waste-of-ingredients "Number of Burgers with No Waste of Ingredients")
+[< Previous](../number-of-burgers-with-no-waste-of-ingredients "Number of Burgers with No Waste of Ingredients")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-partitioning-iii "Palindrome Partitioning III")
+[Next >](../palindrome-partitioning-iii "Palindrome Partitioning III")
 
 ## [1277. Count Square Submatrices with All Ones (Medium)](https://leetcode.com/problems/count-square-submatrices-with-all-ones "统计全为 1 的正方形子矩阵")
 
@@ -57,8 +57,8 @@ Total number of squares = 6 + 1 = <b>7</b>.
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

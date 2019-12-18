@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/prison-cells-after-n-days "Prison Cells After N Days")
+[< Previous](../prison-cells-after-n-days "Prison Cells After N Days")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/regions-cut-by-slashes "Regions Cut By Slashes")
+[Next >](../regions-cut-by-slashes "Regions Cut By Slashes")
 
 ## [958. Check Completeness of a Binary Tree (Medium)](https://leetcode.com/problems/check-completeness-of-a-binary-tree "二叉树的完全性检验")
 
@@ -49,4 +49,4 @@ In a complete binary tree every level, except possibly the last, is completely f
 </ol>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]

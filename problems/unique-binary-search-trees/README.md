@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees-ii "Unique Binary Search Trees II")
+[< Previous](../unique-binary-search-trees-ii "Unique Binary Search Trees II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/interleaving-string "Interleaving String")
+[Next >](../interleaving-string "Interleaving String")
 
 ## [96. Unique Binary Search Trees (Medium)](https://leetcode.com/problems/unique-binary-search-trees "不同的二叉搜索树")
 
@@ -29,8 +29,8 @@
 </pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Unique Binary Search Trees II](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees-ii) (Medium)
+  1. [Unique Binary Search Trees II](../unique-binary-search-trees-ii) (Medium)

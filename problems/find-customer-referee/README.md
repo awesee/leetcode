@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-operation-for-two-strings "Delete Operation for Two Strings")
+[< Previous](../delete-operation-for-two-strings "Delete Operation for Two Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/investments-in-2016 "Investments in 2016")
+[Next >](../investments-in-2016 "Investments in 2016")
 
 ## [584. Find Customer Referee (Easy)](https://leetcode.com/problems/find-customer-referee "寻找用户推荐人")
 

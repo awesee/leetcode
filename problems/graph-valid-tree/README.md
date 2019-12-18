@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/single-number-iii "Single Number III")
+[< Previous](../single-number-iii "Single Number III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/trips-and-users "Trips and Users")
+[Next >](../trips-and-users "Trips and Users")
 
 ## [261. Graph Valid Tree (Medium)](https://leetcode.com/problems/graph-valid-tree "以图判树")
 
@@ -28,14 +28,14 @@
 <p><b>Note</b>: you can assume that no duplicate edges will appear in <code>edges</code>. Since all edges are undirected, <code>[0,1]</code> is the same as <code>[1,0]</code> and thus will not appear together in <code>edges</code>.</p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Similar Questions
-  1. [Course Schedule](https://github.com/openset/leetcode/tree/master/problems/course-schedule) (Medium)
-  1. [Number of Connected Components in an Undirected Graph](https://github.com/openset/leetcode/tree/master/problems/number-of-connected-components-in-an-undirected-graph) (Medium)
+  1. [Course Schedule](../course-schedule) (Medium)
+  1. [Number of Connected Components in an Undirected Graph](../number-of-connected-components-in-an-undirected-graph) (Medium)
 
 ### Hints
 <details>

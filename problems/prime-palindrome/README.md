@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-subtree-with-all-the-deepest-nodes "Smallest Subtree with all the Deepest Nodes")
+[< Previous](../smallest-subtree-with-all-the-deepest-nodes "Smallest Subtree with all the Deepest Nodes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/transpose-matrix "Transpose Matrix")
+[Next >](../transpose-matrix "Transpose Matrix")
 
 ## [866. Prime Palindrome (Medium)](https://leetcode.com/problems/prime-palindrome "回文素数")
 
@@ -59,4 +59,4 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

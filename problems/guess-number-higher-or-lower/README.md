@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-k-pairs-with-smallest-sums "Find K Pairs with Smallest Sums")
+[< Previous](../find-k-pairs-with-smallest-sums "Find K Pairs with Smallest Sums")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii "Guess Number Higher or Lower II")
+[Next >](../guess-number-higher-or-lower-ii "Guess Number Higher or Lower II")
 
 ## [374. Guess Number Higher or Lower (Easy)](https://leetcode.com/problems/guess-number-higher-or-lower "猜数字大小")
 
@@ -35,9 +35,9 @@
 </div>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [First Bad Version](https://github.com/openset/leetcode/tree/master/problems/first-bad-version) (Easy)
-  1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii) (Medium)
-  1. [Find K Closest Elements](https://github.com/openset/leetcode/tree/master/problems/find-k-closest-elements) (Medium)
+  1. [First Bad Version](../first-bad-version) (Easy)
+  1. [Guess Number Higher or Lower II](../guess-number-higher-or-lower-ii) (Medium)
+  1. [Find K Closest Elements](../find-k-closest-elements) (Medium)

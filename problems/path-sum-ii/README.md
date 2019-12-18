@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/path-sum "Path Sum")
+[< Previous](../path-sum "Path Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flatten-binary-tree-to-linked-list "Flatten Binary Tree to Linked List")
+[Next >](../flatten-binary-tree-to-linked-list "Flatten Binary Tree to Linked List")
 
 ## [113. Path Sum II (Medium)](https://leetcode.com/problems/path-sum-ii "路径总和 II")
 
@@ -39,11 +39,11 @@
 </pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Path Sum](https://github.com/openset/leetcode/tree/master/problems/path-sum) (Easy)
-  1. [Binary Tree Paths](https://github.com/openset/leetcode/tree/master/problems/binary-tree-paths) (Easy)
-  1. [Path Sum III](https://github.com/openset/leetcode/tree/master/problems/path-sum-iii) (Easy)
-  1. [Path Sum IV](https://github.com/openset/leetcode/tree/master/problems/path-sum-iv) (Medium)
+  1. [Path Sum](../path-sum) (Easy)
+  1. [Binary Tree Paths](../binary-tree-paths) (Easy)
+  1. [Path Sum III](../path-sum-iii) (Easy)
+  1. [Path Sum IV](../path-sum-iv) (Medium)

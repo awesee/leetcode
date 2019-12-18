@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-subsets "Word Subsets")
+[< Previous](../word-subsets "Word Subsets")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-circular-subarray "Maximum Sum Circular Subarray")
+[Next >](../maximum-sum-circular-subarray "Maximum Sum Circular Subarray")
 
 ## [917. Reverse Only Letters (Easy)](https://leetcode.com/problems/reverse-only-letters "仅仅反转字母")
 
@@ -64,7 +64,7 @@
 </div>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

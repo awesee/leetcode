@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/check-if-it-is-a-straight-line "Check If It Is a Straight Line")
+[< Previous](../check-if-it-is-a-straight-line "Check If It Is a Straight Line")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/replace-the-substring-for-balanced-string "Replace the Substring for Balanced String")
+[Next >](../replace-the-substring-for-balanced-string "Replace the Substring for Balanced String")
 
 ## [1233. Remove Sub-Folders from the Filesystem (Medium)](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem "删除子文件夹")
 
@@ -53,8 +53,8 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

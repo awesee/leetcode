@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/validate-binary-search-tree "Validate Binary Search Tree")
+[< Previous](../validate-binary-search-tree "Validate Binary Search Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/same-tree "Same Tree")
+[Next >](../same-tree "Same Tree")
 
 ## [99. Recover Binary Search Tree (Hard)](https://leetcode.com/problems/recover-binary-search-tree "恢复二叉搜索树")
 
@@ -63,5 +63,5 @@
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]

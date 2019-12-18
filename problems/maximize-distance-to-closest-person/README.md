@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shifting-letters "Shifting Letters")
+[< Previous](../shifting-letters "Shifting Letters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rectangle-area-ii "Rectangle Area II")
+[Next >](../rectangle-area-ii "Rectangle Area II")
 
 ## [849. Maximize Distance to Closest Person (Easy)](https://leetcode.com/problems/maximize-distance-to-closest-person "到最近的人的最大距离")
 
@@ -51,7 +51,7 @@ This is the maximum distance possible, so the answer is 3.
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Exam Room](https://github.com/openset/leetcode/tree/master/problems/exam-room) (Medium)
+  1. [Exam Room](../exam-room) (Medium)

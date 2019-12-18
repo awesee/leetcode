@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/paint-fence "Paint Fence")
+[< Previous](../paint-fence "Paint Fence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/first-bad-version "First Bad Version")
+[Next >](../first-bad-version "First Bad Version")
 
 ## [277. Find the Celebrity (Medium)](https://leetcode.com/problems/find-the-celebrity "搜寻名人")
 
@@ -53,10 +53,10 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Find the Town Judge](https://github.com/openset/leetcode/tree/master/problems/find-the-town-judge) (Easy)
+  1. [Find the Town Judge](../find-the-town-judge) (Easy)
 
 ### Hints
 <details>

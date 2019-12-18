@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rectangle-area "Rectangle Area")
+[< Previous](../rectangle-area "Rectangle Area")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/implement-stack-using-queues "Implement Stack using Queues")
+[Next >](../implement-stack-using-queues "Implement Stack using Queues")
 
 ## [224. Basic Calculator (Hard)](https://leetcode.com/problems/basic-calculator "基本计算器")
 
@@ -41,12 +41,12 @@
 </ul>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Evaluate Reverse Polish Notation](https://github.com/openset/leetcode/tree/master/problems/evaluate-reverse-polish-notation) (Medium)
-  1. [Basic Calculator II](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-ii) (Medium)
-  1. [Different Ways to Add Parentheses](https://github.com/openset/leetcode/tree/master/problems/different-ways-to-add-parentheses) (Medium)
-  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/problems/expression-add-operators) (Hard)
-  1. [Basic Calculator III](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iii) (Hard)
+  1. [Evaluate Reverse Polish Notation](../evaluate-reverse-polish-notation) (Medium)
+  1. [Basic Calculator II](../basic-calculator-ii) (Medium)
+  1. [Different Ways to Add Parentheses](../different-ways-to-add-parentheses) (Medium)
+  1. [Expression Add Operators](../expression-add-operators) (Hard)
+  1. [Basic Calculator III](../basic-calculator-iii) (Hard)

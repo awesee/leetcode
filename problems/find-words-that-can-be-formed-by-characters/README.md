@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/market-analysis-ii "Market Analysis II")
+[< Previous](../market-analysis-ii "Market Analysis II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-level-sum-of-a-binary-tree "Maximum Level Sum of a Binary Tree")
+[Next >](../maximum-level-sum-of-a-binary-tree "Maximum Level Sum of a Binary Tree")
 
 ## [1160. Find Words That Can Be Formed by Characters (Easy)](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters "拼写单词")
 
@@ -48,8 +48,8 @@ The strings that can be formed are &quot;hello&quot; and &quot;world&quot; so th
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

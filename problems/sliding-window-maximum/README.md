@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/product-of-array-except-self "Product of Array Except Self")
+[< Previous](../product-of-array-except-self "Product of Array Except Self")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix-ii "Search a 2D Matrix II")
+[Next >](../search-a-2d-matrix-ii "Search a 2D Matrix II")
 
 ## [239. Sliding Window Maximum (Hard)](https://leetcode.com/problems/sliding-window-maximum "滑动窗口最大值")
 
@@ -37,14 +37,14 @@ You may assume <em>k</em> is always valid, 1 &le; k &le; input array&#39;s size 
 Could you solve it in linear time?</p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions
-  1. [Minimum Window Substring](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring) (Hard)
-  1. [Min Stack](https://github.com/openset/leetcode/tree/master/problems/min-stack) (Easy)
-  1. [Longest Substring with At Most Two Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-two-distinct-characters) (Medium)
-  1. [Paint House II](https://github.com/openset/leetcode/tree/master/problems/paint-house-ii) (Hard)
+  1. [Minimum Window Substring](../minimum-window-substring) (Hard)
+  1. [Min Stack](../min-stack) (Easy)
+  1. [Longest Substring with At Most Two Distinct Characters](../longest-substring-with-at-most-two-distinct-characters) (Medium)
+  1. [Paint House II](../paint-house-ii) (Hard)
 
 ### Hints
 <details>

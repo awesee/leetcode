@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/increasing-subsequences "Increasing Subsequences")
+[< Previous](../increasing-subsequences "Increasing Subsequences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-pairs "Reverse Pairs")
+[Next >](../reverse-pairs "Reverse Pairs")
 
 ## [492. Construct the Rectangle (Easy)](https://leetcode.com/problems/construct-the-rectangle "构造矩形")
 

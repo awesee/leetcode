@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/not-boring-movies "Not Boring Movies")
+[< Previous](../not-boring-movies "Not Boring Movies")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-circular-queue "Design Circular Queue")
+[Next >](../design-circular-queue "Design Circular Queue")
 
 ## [621. Task Scheduler (Medium)](https://leetcode.com/problems/task-scheduler "任务调度器")
 
@@ -37,10 +37,10 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Queue](../../tag/queue/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Rearrange String k Distance Apart](https://github.com/openset/leetcode/tree/master/problems/rearrange-string-k-distance-apart) (Hard)
-  1. [Reorganize String](https://github.com/openset/leetcode/tree/master/problems/reorganize-string) (Medium)
+  1. [Rearrange String k Distance Apart](../rearrange-string-k-distance-apart) (Hard)
+  1. [Reorganize String](../reorganize-string) (Medium)

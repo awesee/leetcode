@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-hit-counter "Design Hit Counter")
+[< Previous](../design-hit-counter "Design Hit Counter")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/nested-list-weight-sum-ii "Nested List Weight Sum II")
+[Next >](../nested-list-weight-sum-ii "Nested List Weight Sum II")
 
 ## [363. Max Sum of Rectangle No Larger Than K (Hard)](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k "矩形区域不超过 K 的最大数值和")
 
@@ -29,6 +29,6 @@
 </ol>
 
 ### Related Topics
-  [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Queue](../../tag/queue/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

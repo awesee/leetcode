@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/set-matrix-zeroes "Set Matrix Zeroes")
+[< Previous](../set-matrix-zeroes "Set Matrix Zeroes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sort-colors "Sort Colors")
+[Next >](../sort-colors "Sort Colors")
 
 ## [74. Search a 2D Matrix (Medium)](https://leetcode.com/problems/search-a-2d-matrix "搜索二维矩阵")
 
@@ -44,8 +44,8 @@ target = 13
 <strong>Output:</strong> false</pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Search a 2D Matrix II](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix-ii) (Medium)
+  1. [Search a 2D Matrix II](../search-a-2d-matrix-ii) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-boomerangs "Number of Boomerangs")
+[< Previous](../number-of-boomerangs "Number of Boomerangs")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-bst "Serialize and Deserialize BST")
+[Next >](../serialize-and-deserialize-bst "Serialize and Deserialize BST")
 
 ## [448. Find All Numbers Disappeared in an Array (Easy)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array "找到所有数组中消失的数字")
 
@@ -28,11 +28,11 @@
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [First Missing Positive](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive) (Hard)
-  1. [Find All Duplicates in an Array](https://github.com/openset/leetcode/tree/master/problems/find-all-duplicates-in-an-array) (Medium)
+  1. [First Missing Positive](../first-missing-positive) (Hard)
+  1. [Find All Duplicates in an Array](../find-all-duplicates-in-an-array) (Medium)
 
 ### Hints
 <details>

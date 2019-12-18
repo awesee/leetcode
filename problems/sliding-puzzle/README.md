@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iii "Basic Calculator III")
+[< Previous](../basic-calculator-iii "Basic Calculator III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimize-max-distance-to-gas-station "Minimize Max Distance to Gas Station")
+[Next >](../minimize-max-distance-to-gas-station "Minimize Max Distance to Gas Station")
 
 ## [773. Sliding Puzzle (Hard)](https://leetcode.com/problems/sliding-puzzle "滑动谜题")
 
@@ -59,7 +59,7 @@ After move 5: [[1,2,3],[4,5,0]]
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

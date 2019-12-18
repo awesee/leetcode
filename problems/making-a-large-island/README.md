@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/most-profit-assigning-work "Most Profit Assigning Work")
+[< Previous](../most-profit-assigning-work "Most Profit Assigning Work")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-letter-string "Unique Letter String")
+[Next >](../unique-letter-string "Unique Letter String")
 
 ## [827. Making A Large Island (Hard)](https://leetcode.com/problems/making-a-large-island "最大人工岛")
 
@@ -49,4 +49,4 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-n-ary-tree "Serialize and Deserialize N-ary Tree")
+[< Previous](../serialize-and-deserialize-n-ary-tree "Serialize and Deserialize N-ary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flatten-a-multilevel-doubly-linked-list "Flatten a Multilevel Doubly Linked List")
+[Next >](../flatten-a-multilevel-doubly-linked-list "Flatten a Multilevel Doubly Linked List")
 
 ## [429. N-ary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/n-ary-tree-level-order-traversal "N叉树的层序遍历")
 
@@ -43,10 +43,10 @@
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal) (Medium)
-  1. [N-ary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-preorder-traversal) (Easy)
-  1. [N-ary Tree Postorder Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-postorder-traversal) (Easy)
+  1. [Binary Tree Level Order Traversal](../binary-tree-level-order-traversal) (Medium)
+  1. [N-ary Tree Preorder Traversal](../n-ary-tree-preorder-traversal) (Easy)
+  1. [N-ary Tree Postorder Traversal](../n-ary-tree-postorder-traversal) (Easy)

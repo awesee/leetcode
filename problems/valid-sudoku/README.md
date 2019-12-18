@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/search-insert-position "Search Insert Position")
+[< Previous](../search-insert-position "Search Insert Position")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sudoku-solver "Sudoku Solver")
+[Next >](../sudoku-solver "Sudoku Solver")
 
 ## [36. Valid Sudoku (Medium)](https://leetcode.com/problems/valid-sudoku "有效的数独")
 
@@ -72,7 +72,7 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Sudoku Solver](https://github.com/openset/leetcode/tree/master/problems/sudoku-solver) (Hard)
+  1. [Sudoku Solver](../sudoku-solver) (Hard)

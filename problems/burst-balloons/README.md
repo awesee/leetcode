@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sparse-matrix-multiplication "Sparse Matrix Multiplication")
+[< Previous](../sparse-matrix-multiplication "Sparse Matrix Multiplication")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/super-ugly-number "Super Ugly Number")
+[Next >](../super-ugly-number "Super Ugly Number")
 
 ## [312. Burst Balloons (Hard)](https://leetcode.com/problems/burst-balloons "戳气球")
 
@@ -32,8 +32,8 @@
 </pre>
 
 ### Related Topics
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Minimum Cost to Merge Stones](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-merge-stones) (Hard)
+  1. [Minimum Cost to Merge Stones](../minimum-cost-to-merge-stones) (Hard)

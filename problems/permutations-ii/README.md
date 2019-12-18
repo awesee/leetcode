@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/permutations "Permutations")
+[< Previous](../permutations "Permutations")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rotate-image "Rotate Image")
+[Next >](../rotate-image "Rotate Image")
 
 ## [47. Permutations II (Medium)](https://leetcode.com/problems/permutations-ii "全排列 II")
 
@@ -26,10 +26,10 @@
 </pre>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Next Permutation](https://github.com/openset/leetcode/tree/master/problems/next-permutation) (Medium)
-  1. [Permutations](https://github.com/openset/leetcode/tree/master/problems/permutations) (Medium)
-  1. [Palindrome Permutation II](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation-ii) (Medium)
-  1. [Number of Squareful Arrays](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays) (Hard)
+  1. [Next Permutation](../next-permutation) (Medium)
+  1. [Permutations](../permutations) (Medium)
+  1. [Palindrome Permutation II](../palindrome-permutation-ii) (Medium)
+  1. [Number of Squareful Arrays](../number-of-squareful-arrays) (Hard)

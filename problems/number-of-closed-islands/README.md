@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reconstruct-a-2-row-binary-matrix "Reconstruct a 2-Row Binary Matrix")
+[< Previous](../reconstruct-a-2-row-binary-matrix "Reconstruct a 2-Row Binary Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-score-words-formed-by-letters "Maximum Score Words Formed by Letters")
+[Next >](../maximum-score-words-formed-by-letters "Maximum Score Words Formed by Letters")
 
 ## [1254. Number of Closed Islands (Medium)](https://leetcode.com/problems/number-of-closed-islands "统计封闭岛屿的数目")
 
@@ -57,7 +57,7 @@ Islands in gray are closed because they are completely surrounded by water (grou
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Hints
 <details>

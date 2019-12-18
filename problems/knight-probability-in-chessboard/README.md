@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-univalue-path "Longest Univalue Path")
+[< Previous](../longest-univalue-path "Longest Univalue Path")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-3-non-overlapping-subarrays "Maximum Sum of 3 Non-Overlapping Subarrays")
+[Next >](../maximum-sum-of-3-non-overlapping-subarrays "Maximum Sum of 3 Non-Overlapping Subarrays")
 
 ## [688. Knight Probability in Chessboard (Medium)](https://leetcode.com/problems/knight-probability-in-chessboard "“马”在棋盘上的概率")
 
@@ -48,7 +48,7 @@ The total probability the knight stays on the board is 0.0625.
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Out of Boundary Paths](https://github.com/openset/leetcode/tree/master/problems/out-of-boundary-paths) (Medium)
+  1. [Out of Boundary Paths](../out-of-boundary-paths) (Medium)

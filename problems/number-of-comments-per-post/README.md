@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/tiling-a-rectangle-with-the-fewest-squares "Tiling a Rectangle with the Fewest Squares")
+[< Previous](../tiling-a-rectangle-with-the-fewest-squares "Tiling a Rectangle with the Fewest Squares")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/web-crawler-multithreaded "Web Crawler Multithreaded")
+[Next >](../web-crawler-multithreaded "Web Crawler Multithreaded")
 
 ## [1241. Number of Comments per Post (Easy)](https://leetcode.com/problems/number-of-comments-per-post "每个帖子的评论数")
 

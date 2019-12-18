@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-immutable "Range Sum Query 2D - Immutable")
+[< Previous](../range-sum-query-2d-immutable "Range Sum Query 2D - Immutable")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/additive-number "Additive Number")
+[Next >](../additive-number "Additive Number")
 
 ## [305. Number of Islands II (Hard)](https://leetcode.com/problems/number-of-islands-ii "岛屿数量 II")
 
@@ -67,7 +67,7 @@
 <p>Can you do it in time complexity O(k log mn), where k is the length of the <code>positions</code>?</p>
 
 ### Related Topics
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
 
 ### Similar Questions
-  1. [Number of Islands](https://github.com/openset/leetcode/tree/master/problems/number-of-islands) (Medium)
+  1. [Number of Islands](../number-of-islands) (Medium)

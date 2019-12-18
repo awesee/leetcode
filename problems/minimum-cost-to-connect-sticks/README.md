@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-file-system "Design File System")
+[< Previous](../design-file-system "Design File System")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/optimize-water-distribution-in-a-village "Optimize Water Distribution in a Village")
+[Next >](../optimize-water-distribution-in-a-village "Optimize Water Distribution in a Village")
 
 ## [1167. Minimum Cost to Connect Sticks (Medium)](https://leetcode.com/problems/minimum-cost-to-connect-sticks "连接棒材的最低费用")
 
@@ -34,10 +34,10 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Similar Questions
-  1. [Minimum Cost to Merge Stones](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-merge-stones) (Hard)
+  1. [Minimum Cost to Merge Stones](../minimum-cost-to-merge-stones) (Hard)
 
 ### Hints
 <details>

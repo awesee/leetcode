@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/domino-and-tromino-tiling "Domino and Tromino Tiling")
+[< Previous](../domino-and-tromino-tiling "Domino and Tromino Tiling")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-matching-subsequences "Number of Matching Subsequences")
+[Next >](../number-of-matching-subsequences "Number of Matching Subsequences")
 
 ## [791. Custom Sort String (Medium)](https://leetcode.com/problems/custom-sort-string "自定义字符串排序")
 
@@ -39,4 +39,4 @@ Since &quot;d&quot; does not appear in S, it can be at any position in T. &quot;
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

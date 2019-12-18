@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-bounded-blocking-queue "Design Bounded Blocking Queue")
+[< Previous](../design-bounded-blocking-queue "Design Bounded Blocking Queue")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-substrings-between-each-pair-of-parentheses "Reverse Substrings Between Each Pair of Parentheses")
+[Next >](../reverse-substrings-between-each-pair-of-parentheses "Reverse Substrings Between Each Pair of Parentheses")
 
 ## [1189. Maximum Number of Balloons (Easy)](https://leetcode.com/problems/maximum-number-of-balloons "“气球” 的最大数量")
 
@@ -50,8 +50,8 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

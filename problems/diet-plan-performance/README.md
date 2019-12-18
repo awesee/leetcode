@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/prime-arrangements "Prime Arrangements")
+[< Previous](../prime-arrangements "Prime Arrangements")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/can-make-palindrome-from-substring "Can Make Palindrome from Substring")
+[Next >](../can-make-palindrome-from-substring "Can Make Palindrome from Substring")
 
 ## [1176. Diet Plan Performance (Easy)](https://leetcode.com/problems/diet-plan-performance "健身计划评估")
 
@@ -57,8 +57,8 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

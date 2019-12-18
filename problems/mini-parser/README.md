@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shuffle-an-array "Shuffle an Array")
+[< Previous](../shuffle-an-array "Shuffle an Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/lexicographical-numbers "Lexicographical Numbers")
+[Next >](../lexicographical-numbers "Lexicographical Numbers")
 
 ## [385. Mini Parser (Medium)](https://leetcode.com/problems/mini-parser "迷你语法分析器")
 
@@ -47,10 +47,10 @@ Return a NestedInteger object containing a nested list with 2 elements:
 </p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Flatten Nested List Iterator](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator) (Medium)
-  1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser) (Medium)
-  1. [Remove Comments](https://github.com/openset/leetcode/tree/master/problems/remove-comments) (Medium)
+  1. [Flatten Nested List Iterator](../flatten-nested-list-iterator) (Medium)
+  1. [Ternary Expression Parser](../ternary-expression-parser) (Medium)
+  1. [Remove Comments](../remove-comments) (Medium)

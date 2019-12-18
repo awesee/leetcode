@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-make-strings-equal "Minimum Swaps to Make Strings Equal")
+[< Previous](../minimum-swaps-to-make-strings-equal "Minimum Swaps to Make Strings Equal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-remove-to-make-valid-parentheses "Minimum Remove to Make Valid Parentheses")
+[Next >](../minimum-remove-to-make-valid-parentheses "Minimum Remove to Make Valid Parentheses")
 
 ## [1248. Count Number of Nice Subarrays (Medium)](https://leetcode.com/problems/count-number-of-nice-subarrays "统计「优美子数组」")
 
@@ -49,7 +49,7 @@
 </ul>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Hints
 <details>

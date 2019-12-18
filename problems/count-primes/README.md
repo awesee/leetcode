@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-linked-list-elements "Remove Linked List Elements")
+[< Previous](../remove-linked-list-elements "Remove Linked List Elements")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/isomorphic-strings "Isomorphic Strings")
+[Next >](../isomorphic-strings "Isomorphic Strings")
 
 ## [204. Count Primes (Easy)](https://leetcode.com/problems/count-primes "计数质数")
 
@@ -22,13 +22,13 @@
 </pre>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Ugly Number](https://github.com/openset/leetcode/tree/master/problems/ugly-number) (Easy)
-  1. [Ugly Number II](https://github.com/openset/leetcode/tree/master/problems/ugly-number-ii) (Medium)
-  1. [Perfect Squares](https://github.com/openset/leetcode/tree/master/problems/perfect-squares) (Medium)
+  1. [Ugly Number](../ugly-number) (Easy)
+  1. [Ugly Number II](../ugly-number-ii) (Medium)
+  1. [Perfect Squares](../perfect-squares) (Medium)
 
 ### Hints
 <details>

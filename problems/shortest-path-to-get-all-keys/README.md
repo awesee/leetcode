@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/all-nodes-distance-k-in-binary-tree "All Nodes Distance K in Binary Tree")
+[< Previous](../all-nodes-distance-k-in-binary-tree "All Nodes Distance K in Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-subtree-with-all-the-deepest-nodes "Smallest Subtree with all the Deepest Nodes")
+[Next >](../smallest-subtree-with-all-the-deepest-nodes "Smallest Subtree with all the Deepest Nodes")
 
 ## [864. Shortest Path to Get All Keys (Hard)](https://leetcode.com/problems/shortest-path-to-get-all-keys "获取所有钥匙的最短路径")
 
@@ -51,5 +51,5 @@
 </div>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]

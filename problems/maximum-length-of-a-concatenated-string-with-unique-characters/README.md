@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/circular-permutation-in-binary-representation "Circular Permutation in Binary Representation")
+[< Previous](../circular-permutation-in-binary-representation "Circular Permutation in Binary Representation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/tiling-a-rectangle-with-the-fewest-squares "Tiling a Rectangle with the Fewest Squares")
+[Next >](../tiling-a-rectangle-with-the-fewest-squares "Tiling a Rectangle with the Fewest Squares")
 
 ## [1239. Maximum Length of a Concatenated String with Unique Characters (Medium)](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters "串联字符串的最大长度")
 
@@ -50,8 +50,8 @@ Maximum length is 4.
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints
 <details>

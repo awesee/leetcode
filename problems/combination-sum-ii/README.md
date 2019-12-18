@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/combination-sum "Combination Sum")
+[< Previous](../combination-sum "Combination Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/first-missing-positive "First Missing Positive")
+[Next >](../first-missing-positive "First Missing Positive")
 
 ## [40. Combination Sum II (Medium)](https://leetcode.com/problems/combination-sum-ii "组合总和 II")
 
@@ -47,8 +47,8 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/problems/combination-sum) (Medium)
+  1. [Combination Sum](../combination-sum) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-height-trees "Minimum Height Trees")
+[< Previous](../minimum-height-trees "Minimum Height Trees")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/burst-balloons "Burst Balloons")
+[Next >](../burst-balloons "Burst Balloons")
 
 ## [311. Sparse Matrix Multiplication (Medium)](https://leetcode.com/problems/sparse-matrix-multiplication "稀疏矩阵的乘法")
 
@@ -39,4 +39,4 @@
 </pre>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/ip-to-cidr "IP to CIDR")
+[< Previous](../ip-to-cidr "IP to CIDR")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/cracking-the-safe "Cracking the Safe")
+[Next >](../cracking-the-safe "Cracking the Safe")
 
 ## [752. Open the Lock (Medium)](https://leetcode.com/problems/open-the-lock "打开转盘锁")
 
@@ -66,7 +66,7 @@ We can't reach the target without getting stuck.
 </p>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

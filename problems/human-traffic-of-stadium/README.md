@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones "Non-negative Integers without Consecutive Ones")
+[< Previous](../non-negative-integers-without-consecutive-ones "Non-negative Integers without Consecutive Ones")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/friend-requests-ii-who-has-the-most-friends "Friend Requests II: Who Has the Most Friends")
+[Next >](../friend-requests-ii-who-has-the-most-friends "Friend Requests II: Who Has the Most Friends")
 
 ## [601. Human Traffic of Stadium (Hard)](https://leetcode.com/problems/human-traffic-of-stadium "体育馆的人流量")
 

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rectangle-area-ii "Rectangle Area II")
+[< Previous](../rectangle-area-ii "Rectangle Area II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/peak-index-in-a-mountain-array "Peak Index in a Mountain Array")
+[Next >](../peak-index-in-a-mountain-array "Peak Index in a Mountain Array")
 
 ## [851. Loud and Rich (Medium)](https://leetcode.com/problems/loud-and-rich "喧闹和富有")
 
@@ -57,4 +57,4 @@ The other answers can be filled out with similar reasoning.
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]

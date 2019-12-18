@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-all-duplicates-in-an-array "Find All Duplicates in an Array")
+[< Previous](../find-all-duplicates-in-an-array "Find All Duplicates in an Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sequence-reconstruction "Sequence Reconstruction")
+[Next >](../sequence-reconstruction "Sequence Reconstruction")
 
 ## [443. String Compression (Easy)](https://leetcode.com/problems/string-compression "压缩字符串")
 
@@ -78,12 +78,12 @@ Notice each digit has it&#39;s own entry in the array.
 </ol>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Count and Say](https://github.com/openset/leetcode/tree/master/problems/count-and-say) (Easy)
-  1. [Encode and Decode Strings](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-strings) (Medium)
-  1. [Design Compressed String Iterator](https://github.com/openset/leetcode/tree/master/problems/design-compressed-string-iterator) (Easy)
+  1. [Count and Say](../count-and-say) (Easy)
+  1. [Encode and Decode Strings](../encode-and-decode-strings) (Medium)
+  1. [Design Compressed String Iterator](../design-compressed-string-iterator) (Easy)
 
 ### Hints
 <details>

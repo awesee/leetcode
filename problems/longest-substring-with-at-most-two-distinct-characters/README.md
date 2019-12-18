@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/read-n-characters-given-read4-ii-call-multiple-times "Read N Characters Given Read4 II - Call multiple times")
+[< Previous](../read-n-characters-given-read4-ii-call-multiple-times "Read N Characters Given Read4 II - Call multiple times")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-linked-lists "Intersection of Two Linked Lists")
+[Next >](../intersection-of-two-linked-lists "Intersection of Two Linked Lists")
 
 ## [159. Longest Substring with At Most Two Distinct Characters (Medium)](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters "至多包含两个不同字符的最长子串")
 
@@ -28,13 +28,13 @@
 </pre>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions
-  1. [Longest Substring Without Repeating Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-without-repeating-characters) (Medium)
-  1. [Sliding Window Maximum](https://github.com/openset/leetcode/tree/master/problems/sliding-window-maximum) (Hard)
-  1. [Longest Substring with At Most K Distinct Characters](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-k-distinct-characters) (Hard)
-  1. [Subarrays with K Different Integers](https://github.com/openset/leetcode/tree/master/problems/subarrays-with-k-different-integers) (Hard)
+  1. [Longest Substring Without Repeating Characters](../longest-substring-without-repeating-characters) (Medium)
+  1. [Sliding Window Maximum](../sliding-window-maximum) (Hard)
+  1. [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [Subarrays with K Different Integers](../subarrays-with-k-different-integers) (Hard)

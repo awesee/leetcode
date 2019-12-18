@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/lexicographically-smallest-equivalent-string "Lexicographically Smallest Equivalent String")
+[< Previous](../lexicographically-smallest-equivalent-string "Lexicographically Smallest Equivalent String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-valid-subarrays "Number of Valid Subarrays")
+[Next >](../number-of-valid-subarrays "Number of Valid Subarrays")
 
 ## [1062. Longest Repeating Substring (Medium)](https://leetcode.com/problems/longest-repeating-substring "最长重复子串")
 
@@ -57,7 +57,7 @@
 </ol>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

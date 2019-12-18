@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/strong-password-checker "Strong Password Checker")
+[< Previous](../strong-password-checker "Strong Password Checker")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-word-square "Valid Word Square")
+[Next >](../valid-word-square "Valid Word Square")
 
 ## [421. Maximum XOR of Two Numbers in an Array (Medium)](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array "数组中两个数的最大异或值")
 
@@ -30,5 +30,5 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Trie](../../tag/trie/README.md)]

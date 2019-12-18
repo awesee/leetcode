@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements "Minimum Moves to Equal Array Elements")
+[< Previous](../minimum-moves-to-equal-array-elements "Minimum Moves to Equal Array Elements")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/assign-cookies "Assign Cookies")
+[Next >](../assign-cookies "Assign Cookies")
 
 ## [454. 4Sum II (Medium)](https://leetcode.com/problems/4sum-ii "四数相加 II")
 
@@ -36,8 +36,8 @@ The two tuples are:
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [4Sum](https://github.com/openset/leetcode/tree/master/problems/4sum) (Medium)
+  1. [4Sum](../4sum) (Medium)

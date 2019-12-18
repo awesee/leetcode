@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/classes-more-than-5-students "Classes More Than 5 Students")
+[< Previous](../classes-more-than-5-students "Classes More Than 5 Students")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/range-addition-ii "Range Addition II")
+[Next >](../range-addition-ii "Range Addition II")
 
 ## [597. Friend Requests I: Overall Acceptance Rate (Easy)](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate "好友申请 I ：总体通过率")
 

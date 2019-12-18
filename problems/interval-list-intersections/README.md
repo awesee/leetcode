@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sum-of-even-numbers-after-queries "Sum of Even Numbers After Queries")
+[< Previous](../sum-of-even-numbers-after-queries "Sum of Even Numbers After Queries")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/vertical-order-traversal-of-a-binary-tree "Vertical Order Traversal of a Binary Tree")
+[Next >](../vertical-order-traversal-of-a-binary-tree "Vertical Order Traversal of a Binary Tree")
 
 ## [986. Interval List Intersections (Medium)](https://leetcode.com/problems/interval-list-intersections "区间列表的交集")
 
@@ -44,9 +44,9 @@
 </div>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
-  1. [Merge Sorted Array](https://github.com/openset/leetcode/tree/master/problems/merge-sorted-array) (Easy)
-  1. [Employee Free Time](https://github.com/openset/leetcode/tree/master/problems/employee-free-time) (Hard)
+  1. [Merge Intervals](../merge-intervals) (Medium)
+  1. [Merge Sorted Array](../merge-sorted-array) (Easy)
+  1. [Employee Free Time](../employee-free-time) (Hard)

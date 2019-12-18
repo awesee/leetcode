@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/swap-for-longest-repeated-character-substring "Swap For Longest Repeated Character Substring")
+[< Previous](../swap-for-longest-repeated-character-substring "Swap For Longest Repeated Character Substring")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/market-analysis-i "Market Analysis I")
+[Next >](../market-analysis-i "Market Analysis I")
 
 ## [1157. Online Majority Element In Subarray (Hard)](https://leetcode.com/problems/online-majority-element-in-subarray "子数组中占绝大多数的元素")
 
@@ -48,9 +48,9 @@ majorityChecker.query(2,3,2); // returns 2
 </ul>
 
 ### Related Topics
-  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/circular-array-loop "Circular Array Loop")
+[< Previous](../circular-array-loop "Circular Array Loop")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/repeated-substring-pattern "Repeated Substring Pattern")
+[Next >](../repeated-substring-pattern "Repeated Substring Pattern")
 
 ## [458. Poor Pigs (Hard)](https://leetcode.com/problems/poor-pigs "可怜的小猪")
 
@@ -32,7 +32,7 @@
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

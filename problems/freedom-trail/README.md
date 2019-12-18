@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-bottom-left-tree-value "Find Bottom Left Tree Value")
+[< Previous](../find-bottom-left-tree-value "Find Bottom Left Tree Value")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-largest-value-in-each-tree-row "Find Largest Value in Each Tree Row")
+[Next >](../find-largest-value-in-each-tree-row "Find Largest Value in Each Tree Row")
 
 ## [514. Freedom Trail (Hard)](https://leetcode.com/problems/freedom-trail "自由之路")
 
@@ -48,6 +48,6 @@ So the final output is 4.
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

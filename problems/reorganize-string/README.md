@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/toeplitz-matrix "Toeplitz Matrix")
+[< Previous](../toeplitz-matrix "Toeplitz Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-chunks-to-make-sorted-ii "Max Chunks To Make Sorted II")
+[Next >](../max-chunks-to-make-sorted-ii "Max Chunks To Make Sorted II")
 
 ## [767. Reorganize String (Medium)](https://leetcode.com/problems/reorganize-string "重构字符串")
 
@@ -38,14 +38,14 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Rearrange String k Distance Apart](https://github.com/openset/leetcode/tree/master/problems/rearrange-string-k-distance-apart) (Hard)
-  1. [Task Scheduler](https://github.com/openset/leetcode/tree/master/problems/task-scheduler) (Medium)
+  1. [Rearrange String k Distance Apart](../rearrange-string-k-distance-apart) (Hard)
+  1. [Task Scheduler](../task-scheduler) (Medium)
 
 ### Hints
 <details>

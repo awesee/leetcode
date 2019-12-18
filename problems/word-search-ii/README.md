@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/add-and-search-word-data-structure-design "Add and Search Word - Data structure design")
+[< Previous](../add-and-search-word-data-structure-design "Add and Search Word - Data structure design")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/house-robber-ii "House Robber II")
+[Next >](../house-robber-ii "House Robber II")
 
 ## [212. Word Search II (Hard)](https://leetcode.com/problems/word-search-ii "单词搜索 II")
 
@@ -42,12 +42,12 @@
 </ol>
 
 ### Related Topics
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Trie](../../tag/trie/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Word Search](https://github.com/openset/leetcode/tree/master/problems/word-search) (Medium)
-  1. [Unique Paths III](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii) (Hard)
+  1. [Word Search](../word-search) (Medium)
+  1. [Unique Paths III](../unique-paths-iii) (Hard)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flower-planting-with-no-adjacent "Flower Planting With No Adjacent")
+[< Previous](../flower-planting-with-no-adjacent "Flower Planting With No Adjacent")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-duplicate-substring "Longest Duplicate Substring")
+[Next >](../longest-duplicate-substring "Longest Duplicate Substring")
 
 ## [1043. Partition Array for Maximum Sum (Medium)](https://leetcode.com/problems/partition-array-for-maximum-sum "分隔数组以得到最大和")
 
@@ -34,7 +34,7 @@
 </ol>
 
 ### Related Topics
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Hints
 <details>

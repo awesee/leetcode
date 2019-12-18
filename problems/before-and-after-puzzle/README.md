@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-substrings-with-only-one-distinct-letter "Count Substrings with Only One Distinct Letter")
+[< Previous](../count-substrings-with-only-one-distinct-letter "Count Substrings with Only One Distinct Letter")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-to-target-color "Shortest Distance to Target Color")
+[Next >](../shortest-distance-to-target-color "Shortest Distance to Target Color")
 
 ## [1181. Before and After Puzzle (Medium)](https://leetcode.com/problems/before-and-after-puzzle "前后拼接")
 
@@ -64,7 +64,7 @@
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

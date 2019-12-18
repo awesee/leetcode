@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/evaluate-reverse-polish-notation "Evaluate Reverse Polish Notation")
+[< Previous](../evaluate-reverse-polish-notation "Evaluate Reverse Polish Notation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-product-subarray "Maximum Product Subarray")
+[Next >](../maximum-product-subarray "Maximum Product Subarray")
 
 ## [151. Reverse Words in a String (Medium)](https://leetcode.com/problems/reverse-words-in-a-string "翻转字符串里的单词")
 
@@ -55,7 +55,7 @@
 <p>For C programmers, try to solve it <em>in-place</em> in <em>O</em>(1) extra space.</p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Reverse Words in a String II](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string-ii) (Medium)
+  1. [Reverse Words in a String II](../reverse-words-in-a-string-ii) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reported-posts "Reported Posts")
+[< Previous](../reported-posts "Reported Posts")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/print-foobar-alternately "Print FooBar Alternately")
+[Next >](../print-foobar-alternately "Print FooBar Alternately")
 
 ## [1114. Print in Order (Easy)](https://leetcode.com/problems/print-in-order "按序打印")
 
@@ -47,4 +47,4 @@ public class Foo {
 <p>We do not know how the threads will be scheduled in the operating system, even though the numbers in the input seems to imply the ordering. The input format you see is mainly&nbsp;to ensure our tests&#39; comprehensiveness.</p>
 
 ### Similar Questions
-  1. [Print FooBar Alternately](https://github.com/openset/leetcode/tree/master/problems/print-foobar-alternately) (Medium)
+  1. [Print FooBar Alternately](../print-foobar-alternately) (Medium)

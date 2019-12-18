@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-dice-rolls-with-target-sum "Number of Dice Rolls With Target Sum")
+[< Previous](../number-of-dice-rolls-with-target-sum "Number of Dice Rolls With Target Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/online-majority-element-in-subarray "Online Majority Element In Subarray")
+[Next >](../online-majority-element-in-subarray "Online Majority Element In Subarray")
 
 ## [1156. Swap For Longest Repeated Character Substring (Medium)](https://leetcode.com/problems/swap-for-longest-repeated-character-substring "单字符重复子串的最大长度")
 
@@ -61,7 +61,7 @@
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

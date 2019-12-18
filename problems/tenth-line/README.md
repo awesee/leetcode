@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/transpose-file "Transpose File")
+[< Previous](../transpose-file "Transpose File")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/delete-duplicate-emails "Delete Duplicate Emails")
+[Next >](../delete-duplicate-emails "Delete Duplicate Emails")
 
 ## [195. Tenth Line (Easy)](https://leetcode.com/problems/tenth-line "第十行")
 

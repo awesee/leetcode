@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/confusing-number-ii "Confusing Number II")
+[< Previous](../confusing-number-ii "Confusing Number II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-values-from-labels "Largest Values From Labels")
+[Next >](../largest-values-from-labels "Largest Values From Labels")
 
 ## [1089. Duplicate Zeros (Easy)](https://leetcode.com/problems/duplicate-zeros "复写零")
 
@@ -45,7 +45,7 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

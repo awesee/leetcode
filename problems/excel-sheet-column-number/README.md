@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/two-sum-iii-data-structure-design "Two Sum III - Data structure design")
+[< Previous](../two-sum-iii-data-structure-design "Two Sum III - Data structure design")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/factorial-trailing-zeroes "Factorial Trailing Zeroes")
+[Next >](../factorial-trailing-zeroes "Factorial Trailing Zeroes")
 
 ## [171. Excel Sheet Column Number (Easy)](https://leetcode.com/problems/excel-sheet-column-number "Excel表列序号")
 
@@ -48,7 +48,7 @@
 </pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Excel Sheet Column Title](https://github.com/openset/leetcode/tree/master/problems/excel-sheet-column-title) (Easy)
+  1. [Excel Sheet Column Title](../excel-sheet-column-title) (Easy)

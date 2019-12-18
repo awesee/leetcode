@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-and-replace-in-string "Find And Replace in String")
+[< Previous](../find-and-replace-in-string "Find And Replace in String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/image-overlap "Image Overlap")
+[Next >](../image-overlap "Image Overlap")
 
 ## [834. Sum of Distances in Tree (Hard)](https://leetcode.com/problems/sum-of-distances-in-tree "树中距离之和")
 
@@ -36,8 +36,8 @@ equals 1 + 1 + 2 + 2 + 2 = 8.  Hence, answer[0] = 8, and so on.
 <p>Note:<font face="monospace">&nbsp;<code>1 &lt;= N &lt;= 10000</code></font></p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Distribute Coins in Binary Tree](https://github.com/openset/leetcode/tree/master/problems/distribute-coins-in-binary-tree) (Medium)
+  1. [Distribute Coins in Binary Tree](../distribute-coins-in-binary-tree) (Medium)

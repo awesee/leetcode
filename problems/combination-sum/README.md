@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-and-say "Count and Say")
+[< Previous](../count-and-say "Count and Say")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/combination-sum-ii "Combination Sum II")
+[Next >](../combination-sum-ii "Combination Sum II")
 
 ## [39. Combination Sum (Medium)](https://leetcode.com/problems/combination-sum "组合总和")
 
@@ -46,13 +46,13 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Letter Combinations of a Phone Number](https://github.com/openset/leetcode/tree/master/problems/letter-combinations-of-a-phone-number) (Medium)
-  1. [Combination Sum II](https://github.com/openset/leetcode/tree/master/problems/combination-sum-ii) (Medium)
-  1. [Combinations](https://github.com/openset/leetcode/tree/master/problems/combinations) (Medium)
-  1. [Combination Sum III](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iii) (Medium)
-  1. [Factor Combinations](https://github.com/openset/leetcode/tree/master/problems/factor-combinations) (Medium)
-  1. [Combination Sum IV](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iv) (Medium)
+  1. [Letter Combinations of a Phone Number](../letter-combinations-of-a-phone-number) (Medium)
+  1. [Combination Sum II](../combination-sum-ii) (Medium)
+  1. [Combinations](../combinations) (Medium)
+  1. [Combination Sum III](../combination-sum-iii) (Medium)
+  1. [Factor Combinations](../factor-combinations) (Medium)
+  1. [Combination Sum IV](../combination-sum-iv) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/the-maze "The Maze")
+[< Previous](../the-maze "The Maze")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/construct-the-rectangle "Construct the Rectangle")
+[Next >](../construct-the-rectangle "Construct the Rectangle")
 
 ## [491. Increasing Subsequences (Medium)](https://leetcode.com/problems/increasing-subsequences "递增子序列")
 
@@ -33,7 +33,7 @@
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Maximum Length of Pair Chain](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-pair-chain) (Medium)
+  1. [Maximum Length of Pair Chain](../maximum-length-of-pair-chain) (Medium)

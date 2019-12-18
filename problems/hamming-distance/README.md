@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/lfu-cache "LFU Cache")
+[< Previous](../lfu-cache "LFU Cache")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements-ii "Minimum Moves to Equal Array Elements II")
+[Next >](../minimum-moves-to-equal-array-elements-ii "Minimum Moves to Equal Array Elements II")
 
 ## [461. Hamming Distance (Easy)](https://leetcode.com/problems/hamming-distance "汉明距离")
 
@@ -35,8 +35,8 @@ The above arrows point to positions where the corresponding bits are different.
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)
-  1. [Total Hamming Distance](https://github.com/openset/leetcode/tree/master/problems/total-hamming-distance) (Medium)
+  1. [Number of 1 Bits](../number-of-1-bits) (Easy)
+  1. [Total Hamming Distance](../total-hamming-distance) (Medium)

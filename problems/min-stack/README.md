@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array-ii "Find Minimum in Rotated Sorted Array II")
+[< Previous](../find-minimum-in-rotated-sorted-array-ii "Find Minimum in Rotated Sorted Array II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-upside-down "Binary Tree Upside Down")
+[Next >](../binary-tree-upside-down "Binary Tree Upside Down")
 
 ## [155. Min Stack (Easy)](https://leetcode.com/problems/min-stack "最小栈")
 
@@ -38,12 +38,12 @@ minStack.getMin();   --&gt; Returns -2.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Similar Questions
-  1. [Sliding Window Maximum](https://github.com/openset/leetcode/tree/master/problems/sliding-window-maximum) (Hard)
-  1. [Max Stack](https://github.com/openset/leetcode/tree/master/problems/max-stack) (Easy)
+  1. [Sliding Window Maximum](../sliding-window-maximum) (Hard)
+  1. [Max Stack](../max-stack) (Easy)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps "Number of Ways to Stay in the Same Place After Some Steps")
+[< Previous](../number-of-ways-to-stay-in-the-same-place-after-some-steps "Number of Ways to Stay in the Same Place After Some Steps")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/hexspeak "Hexspeak")
+[Next >](../hexspeak "Hexspeak")
 
 ## [1270. All People Report to the Given Manager (Medium)](https://leetcode.com/problems/all-people-report-to-the-given-manager "")
 

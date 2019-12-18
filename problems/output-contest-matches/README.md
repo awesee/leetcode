@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/diameter-of-binary-tree "Diameter of Binary Tree")
+[< Previous](../diameter-of-binary-tree "Diameter of Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/boundary-of-binary-tree "Boundary of Binary Tree")
+[Next >](../boundary-of-binary-tree "Boundary of Binary Tree")
 
 ## [544. Output Contest Matches (Medium)](https://leetcode.com/problems/output-contest-matches "输出比赛匹配对")
 
@@ -56,5 +56,5 @@ Since the third round will generate the final winner, you need to output the ans
 </p>
 
 ### Related Topics
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
+  [[String](../../tag/string/README.md)]

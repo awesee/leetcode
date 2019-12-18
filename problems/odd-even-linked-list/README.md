@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-of-range-sum "Count of Range Sum")
+[< Previous](../count-of-range-sum "Count of Range Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-path-in-a-matrix "Longest Increasing Path in a Matrix")
+[Next >](../longest-increasing-path-in-a-matrix "Longest Increasing Path in a Matrix")
 
 ## [328. Odd Even Linked List (Medium)](https://leetcode.com/problems/odd-even-linked-list "奇偶链表")
 
@@ -37,7 +37,7 @@
 </ul>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Split Linked List in Parts](https://github.com/openset/leetcode/tree/master/problems/split-linked-list-in-parts) (Medium)
+  1. [Split Linked List in Parts](../split-linked-list-in-parts) (Medium)

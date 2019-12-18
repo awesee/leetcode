@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/wildcard-matching "Wildcard Matching")
+[< Previous](../wildcard-matching "Wildcard Matching")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/permutations "Permutations")
+[Next >](../permutations "Permutations")
 
 ## [45. Jump Game II (Hard)](https://leetcode.com/problems/jump-game-ii "跳跃游戏 II")
 
@@ -30,8 +30,8 @@
 <p>You can assume that you can always reach the last index.</p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Jump Game](https://github.com/openset/leetcode/tree/master/problems/jump-game) (Medium)
+  1. [Jump Game](../jump-game) (Medium)

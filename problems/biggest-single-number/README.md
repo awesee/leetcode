@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/students-report-by-geography "Students Report By Geography")
+[< Previous](../students-report-by-geography "Students Report By Geography")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/not-boring-movies "Not Boring Movies")
+[Next >](../not-boring-movies "Not Boring Movies")
 
 ## [619. Biggest Single Number (Easy)](https://leetcode.com/problems/biggest-single-number "只出现一次的最大数字")
 

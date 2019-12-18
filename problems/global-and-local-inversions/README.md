@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimize-max-distance-to-gas-station "Minimize Max Distance to Gas Station")
+[< Previous](../minimize-max-distance-to-gas-station "Minimize Max Distance to Gas Station")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/split-bst "Split BST")
+[Next >](../split-bst "Split BST")
 
 ## [775. Global and Local Inversions (Medium)](https://leetcode.com/problems/global-and-local-inversions "全局倒置与局部倒置")
 
@@ -44,8 +44,8 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

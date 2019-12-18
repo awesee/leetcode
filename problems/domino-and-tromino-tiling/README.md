@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/escape-the-ghosts "Escape The Ghosts")
+[< Previous](../escape-the-ghosts "Escape The Ghosts")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/custom-sort-string "Custom Sort String")
+[Next >](../custom-sort-string "Custom Sort String")
 
 ## [790. Domino and Tromino Tiling (Medium)](https://leetcode.com/problems/domino-and-tromino-tiling "多米诺和托米诺平铺")
 
@@ -43,4 +43,4 @@ XYZ YYZ XZZ XYY XXY</pre>
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

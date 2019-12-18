@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-ladder-ii "Word Ladder II")
+[< Previous](../word-ladder-ii "Word Ladder II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-consecutive-sequence "Longest Consecutive Sequence")
+[Next >](../longest-consecutive-sequence "Longest Consecutive Sequence")
 
 ## [127. Word Ladder (Medium)](https://leetcode.com/problems/word-ladder "单词接龙")
 
@@ -59,8 +59,8 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Word Ladder II](https://github.com/openset/leetcode/tree/master/problems/word-ladder-ii) (Hard)
-  1. [Minimum Genetic Mutation](https://github.com/openset/leetcode/tree/master/problems/minimum-genetic-mutation) (Medium)
+  1. [Word Ladder II](../word-ladder-ii) (Hard)
+  1. [Minimum Genetic Mutation](../minimum-genetic-mutation) (Medium)

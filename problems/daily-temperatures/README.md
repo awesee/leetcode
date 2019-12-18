@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/monotone-increasing-digits "Monotone Increasing Digits")
+[< Previous](../monotone-increasing-digits "Monotone Increasing Digits")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/delete-and-earn "Delete and Earn")
+[Next >](../delete-and-earn "Delete and Earn")
 
 ## [739. Daily Temperatures (Medium)](https://leetcode.com/problems/daily-temperatures "每日温度")
 
@@ -23,11 +23,11 @@ Each temperature will be an integer in the range <code>[30, 100]</code>.
 </p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-i) (Easy)
+  1. [Next Greater Element I](../next-greater-element-i) (Easy)
 
 ### Hints
 <details>

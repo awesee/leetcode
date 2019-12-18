@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-integer "Reverse Integer")
+[< Previous](../reverse-integer "Reverse Integer")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-number "Palindrome Number")
+[Next >](../palindrome-number "Palindrome Number")
 
 ## [8. String to Integer (atoi) (Medium)](https://leetcode.com/problems/string-to-integer-atoi "字符串转换整数 (atoi)")
 
@@ -69,9 +69,9 @@
 &nbsp;            Thefore INT_MIN (&minus;2<sup>31</sup>) is returned.</pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Reverse Integer](https://github.com/openset/leetcode/tree/master/problems/reverse-integer) (Easy)
-  1. [Valid Number](https://github.com/openset/leetcode/tree/master/problems/valid-number) (Hard)
+  1. [Reverse Integer](../reverse-integer) (Easy)
+  1. [Valid Number](../valid-number) (Hard)

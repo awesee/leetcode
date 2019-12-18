@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/fizz-buzz-multithreaded "Fizz Buzz Multithreaded")
+[< Previous](../fizz-buzz-multithreaded "Fizz Buzz Multithreaded")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-knight-moves "Minimum Knight Moves")
+[Next >](../minimum-knight-moves "Minimum Knight Moves")
 
 ## [1196. How Many Apples Can You Put into the Basket (Easy)](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket "最多可以买到的苹果数量")
 
@@ -41,7 +41,7 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Hints
 <details>

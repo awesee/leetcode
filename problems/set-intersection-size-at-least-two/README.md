@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/pyramid-transition-matrix "Pyramid Transition Matrix")
+[< Previous](../pyramid-transition-matrix "Pyramid Transition Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/bold-words-in-string "Bold Words in String")
+[Next >](../bold-words-in-string "Bold Words in String")
 
 ## [757. Set Intersection Size At Least Two (Hard)](https://leetcode.com/problems/set-intersection-size-at-least-two " 设置交集大小至少为2")
 
@@ -44,4 +44,4 @@ An example of a minimum sized set is {1, 2, 3, 4, 5}.
 </ol></p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-and-earn "Delete and Earn")
+[< Previous](../delete-and-earn "Delete and Earn")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/closest-leaf-in-a-binary-tree "Closest Leaf in a Binary Tree")
+[Next >](../closest-leaf-in-a-binary-tree "Closest Leaf in a Binary Tree")
 
 ## [741. Cherry Pickup (Hard)](https://leetcode.com/problems/cherry-pickup "摘樱桃")
 
@@ -67,8 +67,8 @@ The total number of cherries picked up is 5, and this is the maximum possible.
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-path-sum) (Medium)
-  1. [Dungeon Game](https://github.com/openset/leetcode/tree/master/problems/dungeon-game) (Hard)
+  1. [Minimum Path Sum](../minimum-path-sum) (Medium)
+  1. [Dungeon Game](../dungeon-game) (Hard)

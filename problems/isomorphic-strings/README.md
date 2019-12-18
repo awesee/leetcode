@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-primes "Count Primes")
+[< Previous](../count-primes "Count Primes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list "Reverse Linked List")
+[Next >](../reverse-linked-list "Reverse Linked List")
 
 ## [205. Isomorphic Strings (Easy)](https://leetcode.com/problems/isomorphic-strings "同构字符串")
 
@@ -40,7 +40,7 @@
 You may assume both <b><i>s&nbsp;</i></b>and <b><i>t&nbsp;</i></b>have the same length.</p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Word Pattern](https://github.com/openset/leetcode/tree/master/problems/word-pattern) (Easy)
+  1. [Word Pattern](../word-pattern) (Easy)

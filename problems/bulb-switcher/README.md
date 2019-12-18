@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-word-lengths "Maximum Product of Word Lengths")
+[< Previous](../maximum-product-of-word-lengths "Maximum Product of Word Lengths")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/generalized-abbreviation "Generalized Abbreviation")
+[Next >](../generalized-abbreviation "Generalized Abbreviation")
 
 ## [319. Bulb Switcher (Medium)](https://leetcode.com/problems/bulb-switcher "灯泡开关")
 
@@ -28,9 +28,9 @@ So you should return 1, because there is only one bulb is on.
 </pre>
 
 ### Related Topics
-  [[Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Brainteaser](../../tag/brainteaser/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Bulb Switcher II](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher-ii) (Medium)
-  1. [Minimum Number of K Consecutive Bit Flips](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-k-consecutive-bit-flips) (Hard)
+  1. [Bulb Switcher II](../bulb-switcher-ii) (Medium)
+  1. [Minimum Number of K Consecutive Bit Flips](../minimum-number-of-k-consecutive-bit-flips) (Hard)

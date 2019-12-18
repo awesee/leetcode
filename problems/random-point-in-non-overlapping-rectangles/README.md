@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-i "Next Greater Element I")
+[< Previous](../next-greater-element-i "Next Greater Element I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/diagonal-traverse "Diagonal Traverse")
+[Next >](../diagonal-traverse "Diagonal Traverse")
 
 ## [497. Random Point in Non-overlapping Rectangles (Medium)](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles "非重叠矩形中的随机点")
 
@@ -59,9 +59,9 @@
 </div>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Random](../../tag/random/README.md)]
 
 ### Similar Questions
-  1. [Random Pick with Weight](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-weight) (Medium)
-  1. [Generate Random Point in a Circle](https://github.com/openset/leetcode/tree/master/problems/generate-random-point-in-a-circle) (Medium)
+  1. [Random Pick with Weight](../random-pick-with-weight) (Medium)
+  1. [Generate Random Point in a Circle](../generate-random-point-in-a-circle) (Medium)

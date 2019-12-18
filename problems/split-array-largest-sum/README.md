@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-palindrome "Longest Palindrome")
+[< Previous](../longest-palindrome "Longest Palindrome")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-unique-word-abbreviation "Minimum Unique Word Abbreviation")
+[Next >](../minimum-unique-word-abbreviation "Minimum Unique Word Abbreviation")
 
 ## [410. Split Array Largest Sum (Hard)](https://leetcode.com/problems/split-array-largest-sum "分割数组的最大值")
 
@@ -39,5 +39,5 @@ where the largest sum among the two subarrays is only 18.
 </p>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

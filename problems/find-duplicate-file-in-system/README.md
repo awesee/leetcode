@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/tree-node "Tree Node")
+[< Previous](../tree-node "Tree Node")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/triangle-judgement "Triangle Judgement")
+[Next >](../triangle-judgement "Triangle Judgement")
 
 ## [609. Find Duplicate File in System (Medium)](https://leetcode.com/problems/find-duplicate-file-in-system "在系统中查找重复文件")
 
@@ -58,5 +58,5 @@
 </ol>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]

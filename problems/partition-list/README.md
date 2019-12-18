@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximal-rectangle "Maximal Rectangle")
+[< Previous](../maximal-rectangle "Maximal Rectangle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/scramble-string "Scramble String")
+[Next >](../scramble-string "Scramble String")
 
 ## [86. Partition List (Medium)](https://leetcode.com/problems/partition-list "分隔链表")
 
@@ -23,5 +23,5 @@
 </pre>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-distance-between-bst-nodes "Minimum Distance Between BST Nodes")
+[< Previous](../minimum-distance-between-bst-nodes "Minimum Distance Between BST Nodes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/is-graph-bipartite "Is Graph Bipartite?")
+[Next >](../is-graph-bipartite "Is Graph Bipartite?")
 
 ## [784. Letter Case Permutation (Easy)](https://leetcode.com/problems/letter-case-permutation "字母大小写全排列")
 
@@ -33,9 +33,9 @@
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Subsets](https://github.com/openset/leetcode/tree/master/problems/subsets) (Medium)
-  1. [Brace Expansion](https://github.com/openset/leetcode/tree/master/problems/brace-expansion) (Medium)
+  1. [Subsets](../subsets) (Medium)
+  1. [Brace Expansion](../brace-expansion) (Medium)

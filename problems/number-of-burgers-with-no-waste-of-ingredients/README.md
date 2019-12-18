@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-winner-on-a-tic-tac-toe-game "Find Winner on a Tic Tac Toe Game")
+[< Previous](../find-winner-on-a-tic-tac-toe-game "Find Winner on a Tic Tac Toe Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-square-submatrices-with-all-ones "Count Square Submatrices with All Ones")
+[Next >](../count-square-submatrices-with-all-ones "Count Square Submatrices with All Ones")
 
 ## [1276. Number of Burgers with No Waste of Ingredients (Medium)](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients "不浪费原料的汉堡制作方案")
 
@@ -68,8 +68,8 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

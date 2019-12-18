@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/generate-random-point-in-a-circle "Generate Random Point in a Circle")
+[< Previous](../generate-random-point-in-a-circle "Generate Random Point in a Circle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sliding-window-median "Sliding Window Median")
+[Next >](../sliding-window-median "Sliding Window Median")
 
 ## [479. Largest Palindrome Product (Hard)](https://leetcode.com/problems/largest-palindrome-product "最大回文数乘积")
 

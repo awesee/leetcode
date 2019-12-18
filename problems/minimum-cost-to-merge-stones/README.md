@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/available-captures-for-rook "Available Captures for Rook")
+[< Previous](../available-captures-for-rook "Available Captures for Rook")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/grid-illumination "Grid Illumination")
+[Next >](../grid-illumination "Grid Illumination")
 
 ## [1000. Minimum Cost to Merge Stones (Hard)](https://leetcode.com/problems/minimum-cost-to-merge-stones "合并石头的最低成本")
 
@@ -69,8 +69,8 @@ The total cost was 25, and this is the minimum possible.
 </div>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Burst Balloons](https://github.com/openset/leetcode/tree/master/problems/burst-balloons) (Hard)
-  1. [Minimum Cost to Connect Sticks](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-connect-sticks) (Medium)
+  1. [Burst Balloons](../burst-balloons) (Hard)
+  1. [Minimum Cost to Connect Sticks](../minimum-cost-to-connect-sticks) (Medium)

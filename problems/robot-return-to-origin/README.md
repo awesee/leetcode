@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/coin-path "Coin Path")
+[< Previous](../coin-path "Coin Path")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-k-closest-elements "Find K Closest Elements")
+[Next >](../find-k-closest-elements "Find K Closest Elements")
 
 ## [657. Robot Return to Origin (Easy)](https://leetcode.com/problems/robot-return-to-origin "机器人能否返回原点")
 
@@ -36,7 +36,7 @@
 </pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Friend Circles](https://github.com/openset/leetcode/tree/master/problems/friend-circles) (Medium)
+  1. [Friend Circles](../friend-circles) (Medium)

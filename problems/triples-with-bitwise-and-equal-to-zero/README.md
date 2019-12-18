@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/time-based-key-value-store "Time Based Key-Value Store")
+[< Previous](../time-based-key-value-store "Time Based Key-Value Store")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-for-tickets "Minimum Cost For Tickets")
+[Next >](../minimum-cost-for-tickets "Minimum Cost For Tickets")
 
 ## [982. Triples with Bitwise AND Equal To Zero (Hard)](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero "按位与为零的三元组")
 
@@ -52,4 +52,4 @@
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

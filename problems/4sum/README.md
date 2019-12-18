@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/letter-combinations-of-a-phone-number "Letter Combinations of a Phone Number")
+[< Previous](../letter-combinations-of-a-phone-number "Letter Combinations of a Phone Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-nth-node-from-end-of-list "Remove Nth Node From End of List")
+[Next >](../remove-nth-node-from-end-of-list "Remove Nth Node From End of List")
 
 ## [18. 4Sum (Medium)](https://leetcode.com/problems/4sum "四数之和")
 
@@ -31,11 +31,11 @@ A solution set is:
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/problems/two-sum) (Easy)
-  1. [3Sum](https://github.com/openset/leetcode/tree/master/problems/3sum) (Medium)
-  1. [4Sum II](https://github.com/openset/leetcode/tree/master/problems/4sum-ii) (Medium)
+  1. [Two Sum](../two-sum) (Easy)
+  1. [3Sum](../3sum) (Medium)
+  1. [4Sum II](../4sum-ii) (Medium)

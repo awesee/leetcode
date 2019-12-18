@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-leaves-of-binary-tree "Find Leaves of Binary Tree")
+[< Previous](../find-leaves-of-binary-tree "Find Leaves of Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-divisible-subset "Largest Divisible Subset")
+[Next >](../largest-divisible-subset "Largest Divisible Subset")
 
 ## [367. Valid Perfect Square (Easy)](https://leetcode.com/problems/valid-perfect-square "有效的完全平方数")
 
@@ -34,9 +34,9 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Sqrt(x)](https://github.com/openset/leetcode/tree/master/problems/sqrtx) (Easy)
-  1. [Sum of Square Numbers](https://github.com/openset/leetcode/tree/master/problems/sum-of-square-numbers) (Easy)
+  1. [Sqrt(x)](../sqrtx) (Easy)
+  1. [Sum of Square Numbers](../sum-of-square-numbers) (Easy)

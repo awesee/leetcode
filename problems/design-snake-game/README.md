@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals "Data Stream as Disjoint Intervals")
+[< Previous](../data-stream-as-disjoint-intervals "Data Stream as Disjoint Intervals")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/russian-doll-envelopes "Russian Doll Envelopes")
+[Next >](../russian-doll-envelopes "Russian Doll Envelopes")
 
 ## [353. Design Snake Game (Medium)](https://leetcode.com/problems/design-snake-game "贪吃蛇")
 
@@ -62,5 +62,5 @@ snake.move(&quot;U&quot;); -&gt; Returns -1 (Game over because snake collides wi
 </pre>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Queue](../../tag/queue/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/subdomain-visit-count "Subdomain Visit Count")
+[< Previous](../subdomain-visit-count "Subdomain Visit Count")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-sum-of-averages "Largest Sum of Averages")
+[Next >](../largest-sum-of-averages "Largest Sum of Averages")
 
 ## [812. Largest Triangle Area (Easy)](https://leetcode.com/problems/largest-triangle-area "最大三角形面积")
 
@@ -35,7 +35,7 @@ The five points are show in the figure below. The red triangle is the largest.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Largest Perimeter Triangle](https://github.com/openset/leetcode/tree/master/problems/largest-perimeter-triangle) (Easy)
+  1. [Largest Perimeter Triangle](../largest-perimeter-triangle) (Easy)

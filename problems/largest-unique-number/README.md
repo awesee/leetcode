@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reported-posts-ii "Reported Posts II")
+[< Previous](../reported-posts-ii "Reported Posts II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/armstrong-number "Armstrong Number")
+[Next >](../armstrong-number "Armstrong Number")
 
 ## [1133. Largest Unique Number (Easy)](https://leetcode.com/problems/largest-unique-number "最大唯一数")
 
@@ -45,8 +45,8 @@ There is no number that occurs only once.
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

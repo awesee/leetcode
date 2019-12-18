@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iv "Combination Sum IV")
+[< Previous](../combination-sum-iv "Combination Sum IV")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-phone-directory "Design Phone Directory")
+[Next >](../design-phone-directory "Design Phone Directory")
 
 ## [378. Kth Smallest Element in a Sorted Matrix (Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix "有序矩阵中第K小的元素")
 
@@ -34,11 +34,11 @@ return 13.
 You may assume k is always valid, 1 &le; k &le; n<sup>2</sup>.</p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Find K Pairs with Smallest Sums](https://github.com/openset/leetcode/tree/master/problems/find-k-pairs-with-smallest-sums) (Medium)
-  1. [Kth Smallest Number in Multiplication Table](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-number-in-multiplication-table) (Hard)
-  1. [Find K-th Smallest Pair Distance](https://github.com/openset/leetcode/tree/master/problems/find-k-th-smallest-pair-distance) (Hard)
-  1. [K-th Smallest Prime Fraction](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-prime-fraction) (Hard)
+  1. [Find K Pairs with Smallest Sums](../find-k-pairs-with-smallest-sums) (Medium)
+  1. [Kth Smallest Number in Multiplication Table](../kth-smallest-number-in-multiplication-table) (Hard)
+  1. [Find K-th Smallest Pair Distance](../find-k-th-smallest-pair-distance) (Hard)
+  1. [K-th Smallest Prime Fraction](../k-th-smallest-prime-fraction) (Hard)

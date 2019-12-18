@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-all-anagrams-in-a-string "Find All Anagrams in a String")
+[< Previous](../find-all-anagrams-in-a-string "Find All Anagrams in a String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/k-th-smallest-in-lexicographical-order "K-th Smallest in Lexicographical Order")
+[Next >](../k-th-smallest-in-lexicographical-order "K-th Smallest in Lexicographical Order")
 
 ## [439. Ternary Expression Parser (Medium)](https://leetcode.com/problems/ternary-expression-parser "三元表达式解析器")
 
@@ -65,10 +65,10 @@
 </p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Mini Parser](https://github.com/openset/leetcode/tree/master/problems/mini-parser) (Medium)
-  1. [Remove Comments](https://github.com/openset/leetcode/tree/master/problems/remove-comments) (Medium)
-  1. [Parse Lisp Expression](https://github.com/openset/leetcode/tree/master/problems/parse-lisp-expression) (Hard)
+  1. [Mini Parser](../mini-parser) (Medium)
+  1. [Remove Comments](../remove-comments) (Medium)
+  1. [Parse Lisp Expression](../parse-lisp-expression) (Hard)

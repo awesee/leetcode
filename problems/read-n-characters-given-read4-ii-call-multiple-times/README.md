@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/read-n-characters-given-read4 "Read N Characters Given Read4")
+[< Previous](../read-n-characters-given-read4 "Read N Characters Given Read4")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-most-two-distinct-characters "Longest Substring with At Most Two Distinct Characters")
+[Next >](../longest-substring-with-at-most-two-distinct-characters "Longest Substring with At Most Two Distinct Characters")
 
 ## [158. Read N Characters Given Read4 II - Call multiple times (Hard)](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times "用 Read4 读取 N 个字符 II")
 
@@ -94,7 +94,7 @@ sol.read(buf, 1); // We have reached the end of file, no more characters can be 
 </ol>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Read N Characters Given Read4](https://github.com/openset/leetcode/tree/master/problems/read-n-characters-given-read4) (Easy)
+  1. [Read N Characters Given Read4](../read-n-characters-given-read4) (Easy)

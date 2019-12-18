@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/online-majority-element-in-subarray "Online Majority Element In Subarray")
+[< Previous](../online-majority-element-in-subarray "Online Majority Element In Subarray")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/market-analysis-ii "Market Analysis II")
+[Next >](../market-analysis-ii "Market Analysis II")
 
 ## [1158. Market Analysis I (Medium)](https://leetcode.com/problems/market-analysis-i "")
 

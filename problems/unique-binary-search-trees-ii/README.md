@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal "Binary Tree Inorder Traversal")
+[< Previous](../binary-tree-inorder-traversal "Binary Tree Inorder Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees "Unique Binary Search Trees")
+[Next >](../unique-binary-search-trees "Unique Binary Search Trees")
 
 ## [95. Unique Binary Search Trees II (Medium)](https://leetcode.com/problems/unique-binary-search-trees-ii "不同的二叉搜索树 II")
 
@@ -36,9 +36,9 @@ The above output corresponds to the 5 unique BST&#39;s shown below:
 </pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Unique Binary Search Trees](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees) (Medium)
-  1. [Different Ways to Add Parentheses](https://github.com/openset/leetcode/tree/master/problems/different-ways-to-add-parentheses) (Medium)
+  1. [Unique Binary Search Trees](../unique-binary-search-trees) (Medium)
+  1. [Different Ways to Add Parentheses](../different-ways-to-add-parentheses) (Medium)

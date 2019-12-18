@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flip-game "Flip Game")
+[< Previous](../flip-game "Flip Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-median-from-data-stream "Find Median from Data Stream")
+[Next >](../find-median-from-data-stream "Find Median from Data Stream")
 
 ## [294. Flip Game II (Medium)](https://leetcode.com/problems/flip-game-ii "翻转游戏 II")
 
@@ -27,11 +27,11 @@
 Derive your algorithm&#39;s runtime complexity.</p>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
-  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
+  [[Minimax](../../tag/minimax/README.md)]
 
 ### Similar Questions
-  1. [Nim Game](https://github.com/openset/leetcode/tree/master/problems/nim-game) (Easy)
-  1. [Flip Game](https://github.com/openset/leetcode/tree/master/problems/flip-game) (Easy)
-  1. [Guess Number Higher or Lower II](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii) (Medium)
-  1. [Can I Win](https://github.com/openset/leetcode/tree/master/problems/can-i-win) (Medium)
+  1. [Nim Game](../nim-game) (Easy)
+  1. [Flip Game](../flip-game) (Easy)
+  1. [Guess Number Higher or Lower II](../guess-number-higher-or-lower-ii) (Medium)
+  1. [Can I Win](../can-i-win) (Medium)

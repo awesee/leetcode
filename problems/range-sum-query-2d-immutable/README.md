@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-immutable "Range Sum Query - Immutable")
+[< Previous](../range-sum-query-immutable "Range Sum Query - Immutable")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-islands-ii "Number of Islands II")
+[Next >](../number-of-islands-ii "Number of Islands II")
 
 ## [304. Range Sum Query 2D - Immutable (Medium)](https://leetcode.com/problems/range-sum-query-2d-immutable "二维区域和检索 - 矩阵不可变")
 
@@ -43,8 +43,8 @@ sumRegion(1, 2, 2, 4) -> 12
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Range Sum Query - Immutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-immutable) (Easy)
-  1. [Range Sum Query 2D - Mutable](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-2d-mutable) (Hard)
+  1. [Range Sum Query - Immutable](../range-sum-query-immutable) (Easy)
+  1. [Range Sum Query 2D - Mutable](../range-sum-query-2d-mutable) (Hard)

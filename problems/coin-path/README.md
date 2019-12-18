@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/print-binary-tree "Print Binary Tree")
+[< Previous](../print-binary-tree "Print Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/robot-return-to-origin "Robot Return to Origin")
+[Next >](../robot-return-to-origin "Robot Return to Origin")
 
 ## [656. Coin Path (Hard)](https://leetcode.com/problems/coin-path "金币路径")
 
@@ -49,8 +49,8 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [House Robber](https://github.com/openset/leetcode/tree/master/problems/house-robber) (Easy)
-  1. [House Robber II](https://github.com/openset/leetcode/tree/master/problems/house-robber-ii) (Medium)
+  1. [House Robber](../house-robber) (Easy)
+  1. [House Robber II](../house-robber-ii) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/distinct-subsequences "Distinct Subsequences")
+[< Previous](../distinct-subsequences "Distinct Subsequences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node-ii "Populating Next Right Pointers in Each Node II")
+[Next >](../populating-next-right-pointers-in-each-node-ii "Populating Next Right Pointers in Each Node II")
 
 ## [116. Populating Next Right Pointers in Each Node (Medium)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node "填充每个节点的下一个右侧节点指针")
 
@@ -55,9 +55,9 @@ struct Node {
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Populating Next Right Pointers in Each Node II](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node-ii) (Medium)
-  1. [Binary Tree Right Side View](https://github.com/openset/leetcode/tree/master/problems/binary-tree-right-side-view) (Medium)
+  1. [Populating Next Right Pointers in Each Node II](../populating-next-right-pointers-in-each-node-ii) (Medium)
+  1. [Binary Tree Right Side View](../binary-tree-right-side-view) (Medium)

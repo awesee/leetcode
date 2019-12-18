@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/camelcase-matching "Camelcase Matching")
+[< Previous](../camelcase-matching "Camelcase Matching")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/divisor-game "Divisor Game")
+[Next >](../divisor-game "Divisor Game")
 
 ## [1024. Video Stitching (Medium)](https://leetcode.com/problems/video-stitching "视频拼接")
 
@@ -69,7 +69,7 @@ Notice you can have extra video after the event ends.
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

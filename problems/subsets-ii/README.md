@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/gray-code "Gray Code")
+[< Previous](../gray-code "Gray Code")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/decode-ways "Decode Ways")
+[Next >](../decode-ways "Decode Ways")
 
 ## [90. Subsets II (Medium)](https://leetcode.com/problems/subsets-ii "子集 II")
 
@@ -31,8 +31,8 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Subsets](https://github.com/openset/leetcode/tree/master/problems/subsets) (Medium)
+  1. [Subsets](../subsets) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-i "Game Play Analysis I")
+[< Previous](../game-play-analysis-i "Game Play Analysis I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-bottom-left-tree-value "Find Bottom Left Tree Value")
+[Next >](../find-bottom-left-tree-value "Find Bottom Left Tree Value")
 
 ## [512. Game Play Analysis II (Easy)](https://leetcode.com/problems/game-play-analysis-ii "游戏玩法分析 II")
 
@@ -55,5 +55,5 @@ Result table:
 +-----------+-----------+</pre>
 
 ### Similar Questions
-  1. [Game Play Analysis I](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-i) (Easy)
-  1. [Game Play Analysis III](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iii) (Medium)
+  1. [Game Play Analysis I](../game-play-analysis-i) (Easy)
+  1. [Game Play Analysis III](../game-play-analysis-iii) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-abbreviation "Word Abbreviation")
+[< Previous](../word-abbreviation "Word Abbreviation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minesweeper "Minesweeper")
+[Next >](../minesweeper "Minesweeper")
 
 ## [528. Random Pick with Weight (Medium)](https://leetcode.com/problems/random-pick-with-weight "按权重随机选择")
 
@@ -45,10 +45,10 @@
 <p>The input is two lists:&nbsp;the subroutines called&nbsp;and their&nbsp;arguments.&nbsp;<code>Solution</code>&#39;s&nbsp;constructor has one argument, the&nbsp;array <code>w</code>. <code>pickIndex</code> has no arguments.&nbsp;Arguments&nbsp;are&nbsp;always wrapped with a list, even if there aren&#39;t any.</p>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Random](../../tag/random/README.md)]
 
 ### Similar Questions
-  1. [Random Pick Index](https://github.com/openset/leetcode/tree/master/problems/random-pick-index) (Medium)
-  1. [Random Pick with Blacklist](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-blacklist) (Hard)
-  1. [Random Point in Non-overlapping Rectangles](https://github.com/openset/leetcode/tree/master/problems/random-point-in-non-overlapping-rectangles) (Medium)
+  1. [Random Pick Index](../random-pick-index) (Medium)
+  1. [Random Pick with Blacklist](../random-pick-with-blacklist) (Hard)
+  1. [Random Point in Non-overlapping Rectangles](../random-point-in-non-overlapping-rectangles) (Medium)

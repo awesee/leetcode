@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-gap "Maximum Gap")
+[< Previous](../maximum-gap "Maximum Gap")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/fraction-to-recurring-decimal "Fraction to Recurring Decimal")
+[Next >](../fraction-to-recurring-decimal "Fraction to Recurring Decimal")
 
 ## [165. Compare Version Numbers (Medium)](https://leetcode.com/problems/compare-version-numbers "比较版本号")
 
@@ -57,4 +57,4 @@ If <code><em>version1</em> &gt; <em>version2</em></code> return <code>1;</code>&
 </ol>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

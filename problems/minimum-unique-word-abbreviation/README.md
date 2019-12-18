@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/split-array-largest-sum "Split Array Largest Sum")
+[< Previous](../split-array-largest-sum "Split Array Largest Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/fizz-buzz "Fizz Buzz")
+[Next >](../fizz-buzz "Fizz Buzz")
 
 ## [411. Minimum Unique Word Abbreviation (Hard)](https://leetcode.com/problems/minimum-unique-word-abbreviation "最短特异单词缩写")
 
@@ -36,10 +36,10 @@
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Generalized Abbreviation](https://github.com/openset/leetcode/tree/master/problems/generalized-abbreviation) (Medium)
-  1. [Valid Word Abbreviation](https://github.com/openset/leetcode/tree/master/problems/valid-word-abbreviation) (Easy)
-  1. [Word Abbreviation](https://github.com/openset/leetcode/tree/master/problems/word-abbreviation) (Hard)
+  1. [Generalized Abbreviation](../generalized-abbreviation) (Medium)
+  1. [Valid Word Abbreviation](../valid-word-abbreviation) (Easy)
+  1. [Word Abbreviation](../word-abbreviation) (Hard)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/short-encoding-of-words "Short Encoding of Words")
+[< Previous](../short-encoding-of-words "Short Encoding of Words")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/card-flipping-game "Card Flipping Game")
+[Next >](../card-flipping-game "Card Flipping Game")
 
 ## [821. Shortest Distance to a Character (Easy)](https://leetcode.com/problems/shortest-distance-to-a-character "字符的最短距离")
 

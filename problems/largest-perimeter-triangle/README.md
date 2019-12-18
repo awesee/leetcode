@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/odd-even-jump "Odd Even Jump")
+[< Previous](../odd-even-jump "Odd Even Jump")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/squares-of-a-sorted-array "Squares of a Sorted Array")
+[Next >](../squares-of-a-sorted-array "Squares of a Sorted Array")
 
 ## [976. Largest Perimeter Triangle (Easy)](https://leetcode.com/problems/largest-perimeter-triangle "三角形的最大周长")
 
@@ -66,8 +66,8 @@
 </div>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Largest Triangle Area](https://github.com/openset/leetcode/tree/master/problems/largest-triangle-area) (Easy)
+  1. [Largest Triangle Area](../largest-triangle-area) (Easy)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/stickers-to-spell-word "Stickers to Spell Word")
+[< Previous](../stickers-to-spell-word "Stickers to Spell Word")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-number-with-alternating-bits "Binary Number with Alternating Bits")
+[Next >](../binary-number-with-alternating-bits "Binary Number with Alternating Bits")
 
 ## [692. Top K Frequent Words (Medium)](https://leetcode.com/problems/top-k-frequent-words "前K个高频单词")
 
@@ -46,10 +46,10 @@
 </p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Trie](../../tag/trie/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Top K Frequent Elements](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements) (Medium)
-  1. [K Closest Points to Origin](https://github.com/openset/leetcode/tree/master/problems/k-closest-points-to-origin) (Medium)
+  1. [Top K Frequent Elements](../top-k-frequent-elements) (Medium)
+  1. [K Closest Points to Origin](../k-closest-points-to-origin) (Medium)

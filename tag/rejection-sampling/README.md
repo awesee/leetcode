@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > Rejection Sampling
+## [话题分类](../README.md) > Rejection Sampling
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 478 | [在圆内随机生成点](https://github.com/openset/leetcode/tree/master/problems/generate-random-point-in-a-circle) | [[数学](https://github.com/openset/leetcode/tree/master/tag/math/README.md)] [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)] [[Rejection Sampling](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling/README.md)]  | Medium |
-| 470 | [用 Rand7() 实现 Rand10()](https://github.com/openset/leetcode/tree/master/problems/implement-rand10-using-rand7) | [[Random](https://github.com/openset/leetcode/tree/master/tag/random/README.md)] [[Rejection Sampling](https://github.com/openset/leetcode/tree/master/tag/rejection-sampling/README.md)]  | Medium |
+| 478 | [在圆内随机生成点](../../problems/generate-random-point-in-a-circle) | [[数学](../math/README.md)] [[Random](../random/README.md)] [[Rejection Sampling](../rejection-sampling/README.md)]  | Medium |
+| 470 | [用 Rand7() 实现 Rand10()](../../problems/implement-rand10-using-rand7) | [[Random](../random/README.md)] [[Rejection Sampling](../rejection-sampling/README.md)]  | Medium |

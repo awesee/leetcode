@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-increment-to-make-array-unique "Minimum Increment to Make Array Unique")
+[< Previous](../minimum-increment-to-make-array-unique "Minimum Increment to Make Array Unique")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/most-stones-removed-with-same-row-or-column "Most Stones Removed with Same Row or Column")
+[Next >](../most-stones-removed-with-same-row-or-column "Most Stones Removed with Same Row or Column")
 
 ## [946. Validate Stack Sequences (Medium)](https://leetcode.com/problems/validate-stack-sequences "验证栈序列")
 
@@ -49,4 +49,4 @@ push(5), pop() -&gt; 5, pop() -&gt; 3, pop() -&gt; 2, pop() -&gt; 1
 </div>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](../../tag/stack/README.md)]

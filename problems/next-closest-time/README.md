@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome-ii "Valid Palindrome II")
+[< Previous](../valid-palindrome-ii "Valid Palindrome II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/baseball-game "Baseball Game")
+[Next >](../baseball-game "Baseball Game")
 
 ## [681. Next Closest Time (Medium)](https://leetcode.com/problems/next-closest-time "最近时刻")
 
@@ -32,4 +32,4 @@
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-subsequence "Longest Palindromic Subsequence")
+[< Previous](../longest-palindromic-subsequence "Longest Palindromic Subsequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/coin-change-2 "Coin Change 2")
+[Next >](../coin-change-2 "Coin Change 2")
 
 ## [517. Super Washing Machines (Hard)](https://leetcode.com/problems/super-washing-machines "超级洗衣机")
 
@@ -61,5 +61,5 @@ It's impossible to make all the three washing machines have the same number of d
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

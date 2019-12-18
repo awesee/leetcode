@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/chalkboard-xor-game "Chalkboard XOR Game")
+[< Previous](../chalkboard-xor-game "Chalkboard XOR Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/largest-triangle-area "Largest Triangle Area")
+[Next >](../largest-triangle-area "Largest Triangle Area")
 
 ## [811. Subdomain Visit Count (Easy)](https://leetcode.com/problems/subdomain-visit-count "子域名访问计数")
 
@@ -50,4 +50,4 @@ We will visit &quot;google.mail.com&quot; 900 times, &quot;yahoo.com&quot; 50 ti
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]

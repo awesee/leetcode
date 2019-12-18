@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/optimal-account-balancing "Optimal Account Balancing")
+[< Previous](../optimal-account-balancing "Optimal Account Balancing")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-substrings-in-wraparound-string "Unique Substrings in Wraparound String")
+[Next >](../unique-substrings-in-wraparound-string "Unique Substrings in Wraparound String")
 
 ## [466. Count The Repetitions (Hard)](https://leetcode.com/problems/count-the-repetitions "统计重复个数")
 
@@ -27,4 +27,4 @@ Return:
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

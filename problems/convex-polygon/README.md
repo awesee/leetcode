@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/validate-ip-address "Validate IP Address")
+[< Previous](../validate-ip-address "Validate IP Address")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/implement-rand10-using-rand7 "Implement Rand10() Using Rand7()")
+[Next >](../implement-rand10-using-rand7 "Implement Rand10() Using Rand7()")
 
 ## [469. Convex Polygon (Medium)](https://leetcode.com/problems/convex-polygon "凸多边形")
 
@@ -46,4 +46,4 @@ Explanation:<img src="https://assets.leetcode.com/uploads/2018/10/13/polygon_not
 </pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/heaters "Heaters")
+[< Previous](../heaters "Heaters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/total-hamming-distance "Total Hamming Distance")
+[Next >](../total-hamming-distance "Total Hamming Distance")
 
 ## [476. Number Complement (Easy)](https://leetcode.com/problems/number-complement "数字的补数")
 
@@ -37,4 +37,4 @@
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]

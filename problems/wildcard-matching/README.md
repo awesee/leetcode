@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/multiply-strings "Multiply Strings")
+[< Previous](../multiply-strings "Multiply Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/jump-game-ii "Jump Game II")
+[Next >](../jump-game-ii "Jump Game II")
 
 ## [44. Wildcard Matching (Hard)](https://leetcode.com/problems/wildcard-matching "通配符匹配")
 
@@ -77,10 +77,10 @@ p = &quot;a*c?b&quot;
 </pre>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Regular Expression Matching](https://github.com/openset/leetcode/tree/master/problems/regular-expression-matching) (Hard)
+  1. [Regular Expression Matching](../regular-expression-matching) (Hard)

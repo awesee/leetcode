@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/decrease-elements-to-make-array-zigzag "Decrease Elements To Make Array Zigzag")
+[< Previous](../decrease-elements-to-make-array-zigzag "Decrease Elements To Make Array Zigzag")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/snapshot-array "Snapshot Array")
+[Next >](../snapshot-array "Snapshot Array")
 
 ## [1145. Binary Tree Coloring Game (Medium)](https://leetcode.com/problems/binary-tree-coloring-game "二叉树着色游戏")
 
@@ -40,8 +40,8 @@
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Hints
 <details>

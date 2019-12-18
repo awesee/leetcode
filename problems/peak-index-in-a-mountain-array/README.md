@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/loud-and-rich "Loud and Rich")
+[< Previous](../loud-and-rich "Loud and Rich")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/car-fleet "Car Fleet")
+[Next >](../car-fleet "Car Fleet")
 
 ## [852. Peak Index in a Mountain Array (Easy)](https://leetcode.com/problems/peak-index-in-a-mountain-array "山脉数组的峰顶索引")
 
@@ -44,7 +44,7 @@
 </ol>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Find Peak Element](https://github.com/openset/leetcode/tree/master/problems/find-peak-element) (Medium)
+  1. [Find Peak Element](../find-peak-element) (Medium)

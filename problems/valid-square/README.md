@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/fraction-addition-and-subtraction "Fraction Addition and Subtraction")
+[< Previous](../fraction-addition-and-subtraction "Fraction Addition and Subtraction")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-harmonious-subsequence "Longest Harmonious Subsequence")
+[Next >](../longest-harmonious-subsequence "Longest Harmonious Subsequence")
 
 ## [593. Valid Square (Medium)](https://leetcode.com/problems/valid-square "有效的正方形")
 
@@ -35,4 +35,4 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

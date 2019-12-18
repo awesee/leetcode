@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/my-calendar-ii "My Calendar II")
+[< Previous](../my-calendar-ii "My Calendar II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flood-fill "Flood Fill")
+[Next >](../flood-fill "Flood Fill")
 
 ## [732. My Calendar III (Hard)](https://leetcode.com/problems/my-calendar-iii "我的日程安排表 III")
 
@@ -50,12 +50,12 @@ eg. [10, 20), [10, 40), and [5, 15) are still triple booked.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Ordered Map](../../tag/ordered-map/README.md)]
 
 ### Similar Questions
-  1. [My Calendar I](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i) (Medium)
-  1. [My Calendar II](https://github.com/openset/leetcode/tree/master/problems/my-calendar-ii) (Medium)
+  1. [My Calendar I](../my-calendar-i) (Medium)
+  1. [My Calendar II](../my-calendar-ii) (Medium)
 
 ### Hints
 <details>

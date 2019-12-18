@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/combination-sum-ii "Combination Sum II")
+[< Previous](../combination-sum-ii "Combination Sum II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/trapping-rain-water "Trapping Rain Water")
+[Next >](../trapping-rain-water "Trapping Rain Water")
 
 ## [41. First Missing Positive (Hard)](https://leetcode.com/problems/first-missing-positive "缺失的第一个正数")
 
@@ -39,13 +39,13 @@ Output: 1
 <p>Your algorithm should run in <em>O</em>(<em>n</em>) time and uses constant extra space.</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Missing Number](https://github.com/openset/leetcode/tree/master/problems/missing-number) (Easy)
-  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number) (Medium)
-  1. [Find All Numbers Disappeared in an Array](https://github.com/openset/leetcode/tree/master/problems/find-all-numbers-disappeared-in-an-array) (Easy)
-  1. [Couples Holding Hands](https://github.com/openset/leetcode/tree/master/problems/couples-holding-hands) (Hard)
+  1. [Missing Number](../missing-number) (Easy)
+  1. [Find the Duplicate Number](../find-the-duplicate-number) (Medium)
+  1. [Find All Numbers Disappeared in an Array](../find-all-numbers-disappeared-in-an-array) (Easy)
+  1. [Couples Holding Hands](../couples-holding-hands) (Hard)
 
 ### Hints
 <details>

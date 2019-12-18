@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/leaf-similar-trees "Leaf-Similar Trees")
+[< Previous](../leaf-similar-trees "Leaf-Similar Trees")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/walking-robot-simulation "Walking Robot Simulation")
+[Next >](../walking-robot-simulation "Walking Robot Simulation")
 
 ## [873. Length of Longest Fibonacci Subsequence (Medium)](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence "最长的斐波那契子序列的长度")
 
@@ -57,8 +57,8 @@ The longest subsequence that is fibonacci-like:
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Fibonacci Number](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number) (Easy)
+  1. [Fibonacci Number](../fibonacci-number) (Easy)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-move-a-box-to-their-target-location "Minimum Moves to Move a Box to Their Target Location")
+[< Previous](../minimum-moves-to-move-a-box-to-their-target-location "Minimum Moves to Move a Box to Their Target Location")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/print-immutable-linked-list-in-reverse "Print Immutable Linked List in Reverse")
+[Next >](../print-immutable-linked-list-in-reverse "Print Immutable Linked List in Reverse")
 
 ## [1264. Page Recommendations (Medium)](https://leetcode.com/problems/page-recommendations "")
 

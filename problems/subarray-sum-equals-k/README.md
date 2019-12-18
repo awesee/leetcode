@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-n-ary-tree "Maximum Depth of N-ary Tree")
+[< Previous](../maximum-depth-of-n-ary-tree "Maximum Depth of N-ary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/array-partition-i "Array Partition I")
+[Next >](../array-partition-i "Array Partition I")
 
 ## [560. Subarray Sum Equals K (Medium)](https://leetcode.com/problems/subarray-sum-equals-k "和为K的子数组")
 
@@ -28,15 +28,15 @@
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/problems/two-sum) (Easy)
-  1. [Continuous Subarray Sum](https://github.com/openset/leetcode/tree/master/problems/continuous-subarray-sum) (Medium)
-  1. [Subarray Product Less Than K](https://github.com/openset/leetcode/tree/master/problems/subarray-product-less-than-k) (Medium)
-  1. [Find Pivot Index](https://github.com/openset/leetcode/tree/master/problems/find-pivot-index) (Easy)
-  1. [Subarray Sums Divisible by K](https://github.com/openset/leetcode/tree/master/problems/subarray-sums-divisible-by-k) (Medium)
+  1. [Two Sum](../two-sum) (Easy)
+  1. [Continuous Subarray Sum](../continuous-subarray-sum) (Medium)
+  1. [Subarray Product Less Than K](../subarray-product-less-than-k) (Medium)
+  1. [Find Pivot Index](../find-pivot-index) (Easy)
+  1. [Subarray Sums Divisible by K](../subarray-sums-divisible-by-k) (Medium)
 
 ### Hints
 <details>

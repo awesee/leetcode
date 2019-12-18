@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-subsequence-of-given-difference "Longest Arithmetic Subsequence of Given Difference")
+[< Previous](../longest-arithmetic-subsequence-of-given-difference "Longest Arithmetic Subsequence of Given Difference")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-vowels-permutation "Count Vowels Permutation")
+[Next >](../count-vowels-permutation "Count Vowels Permutation")
 
 ## [1219. Path with Maximum Gold (Medium)](https://leetcode.com/problems/path-with-maximum-gold "黄金矿工")
 
@@ -60,7 +60,7 @@ Path to get the maximum gold, 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5 -&gt; 6 -&gt; 7.
 </ul>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints
 <details>

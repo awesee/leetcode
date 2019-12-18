@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-postorder-traversal "Binary Tree Postorder Traversal")
+[< Previous](../binary-tree-postorder-traversal "Binary Tree Postorder Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/insertion-sort-list "Insertion Sort List")
+[Next >](../insertion-sort-list "Insertion Sort List")
 
 ## [146. LRU Cache (Medium)](https://leetcode.com/problems/lru-cache "LRU缓存机制")
 
@@ -40,9 +40,9 @@ cache.get(4);       // returns 4
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Similar Questions
-  1. [LFU Cache](https://github.com/openset/leetcode/tree/master/problems/lfu-cache) (Hard)
-  1. [Design In-Memory File System](https://github.com/openset/leetcode/tree/master/problems/design-in-memory-file-system) (Hard)
-  1. [Design Compressed String Iterator](https://github.com/openset/leetcode/tree/master/problems/design-compressed-string-iterator) (Easy)
+  1. [LFU Cache](../lfu-cache) (Hard)
+  1. [Design In-Memory File System](../design-in-memory-file-system) (Hard)
+  1. [Design Compressed String Iterator](../design-compressed-string-iterator) (Easy)

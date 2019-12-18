@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-good-base "Smallest Good Base")
+[< Previous](../smallest-good-base "Smallest Good Base")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones "Max Consecutive Ones")
+[Next >](../max-consecutive-ones "Max Consecutive Ones")
 
 ## [484. Find Permutation (Medium)](https://leetcode.com/problems/find-permutation "寻找排列")
 
@@ -39,4 +39,4 @@ On the other hand, now your job is to find the lexicographically smallest permut
 </p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

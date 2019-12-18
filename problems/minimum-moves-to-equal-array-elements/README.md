@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-arrows-to-burst-balloons "Minimum Number of Arrows to Burst Balloons")
+[< Previous](../minimum-number-of-arrows-to-burst-balloons "Minimum Number of Arrows to Burst Balloons")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/4sum-ii "4Sum II")
+[Next >](../4sum-ii "4Sum II")
 
 ## [453. Minimum Moves to Equal Array Elements (Easy)](https://leetcode.com/problems/minimum-moves-to-equal-array-elements "最小移动次数使数组元素相等")
 
@@ -29,7 +29,7 @@ Only three moves are needed (remember each move increments two elements):
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Minimum Moves to Equal Array Elements II](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-equal-array-elements-ii) (Medium)
+  1. [Minimum Moves to Equal Array Elements II](../minimum-moves-to-equal-array-elements-ii) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-integer-divisible-by-k "Smallest Integer Divisible by K")
+[< Previous](../smallest-integer-divisible-by-k "Smallest Integer Divisible by K")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/convert-to-base-2 "Convert to Base -2")
+[Next >](../convert-to-base-2 "Convert to Base -2")
 
 ## [1016. Binary String With Substrings Representing 1 To N (Medium)](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n "子串能表示从 1 到 N 数字的二进制串")
 
@@ -39,7 +39,7 @@
 </ol>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

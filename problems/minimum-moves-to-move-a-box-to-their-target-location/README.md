@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/greatest-sum-divisible-by-three "Greatest Sum Divisible by Three")
+[< Previous](../greatest-sum-divisible-by-three "Greatest Sum Divisible by Three")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/page-recommendations "Page Recommendations")
+[Next >](../page-recommendations "Page Recommendations")
 
 ## [1263. Minimum Moves to Move a Box to Their Target Location (Hard)](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location "推箱子")
 
@@ -90,7 +90,7 @@
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

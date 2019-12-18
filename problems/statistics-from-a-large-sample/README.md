@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-common-supersequence "Shortest Common Supersequence ")
+[< Previous](../shortest-common-supersequence "Shortest Common Supersequence ")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/car-pooling "Car Pooling")
+[Next >](../car-pooling "Car Pooling")
 
 ## [1093. Statistics from a Large Sample (Medium)](https://leetcode.com/problems/statistics-from-a-large-sample "大样本统计")
 
@@ -41,8 +41,8 @@
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Hints
 <details>

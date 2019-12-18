@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-common-region "Smallest Common Region")
+[< Previous](../smallest-common-region "Smallest Common Region")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/handshakes-that-dont-cross "Handshakes That Don't Cross")
+[Next >](../handshakes-that-dont-cross "Handshakes That Don't Cross")
 
 ## [1258. Synonymous Sentences (Medium)](https://leetcode.com/problems/synonymous-sentences "近义词句子")
 
@@ -40,7 +40,7 @@ text = &quot;I am happy today but was sad yesterday&quot;
 </ul>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints
 <details>

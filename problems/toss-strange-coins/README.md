@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/meeting-scheduler "Meeting Scheduler")
+[< Previous](../meeting-scheduler "Meeting Scheduler")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/divide-chocolate "Divide Chocolate")
+[Next >](../divide-chocolate "Divide Chocolate")
 
 ## [1230. Toss Strange Coins (Medium)](https://leetcode.com/problems/toss-strange-coins "抛掷硬币")
 
@@ -34,8 +34,8 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

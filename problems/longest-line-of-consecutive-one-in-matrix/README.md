@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/array-partition-i "Array Partition I")
+[< Previous](../array-partition-i "Array Partition I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-tilt "Binary Tree Tilt")
+[Next >](../binary-tree-tilt "Binary Tree Tilt")
 
 ## [562. Longest Line of Consecutive One in Matrix (Medium)](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix "矩阵中最长的连续1线段")
 
@@ -29,7 +29,7 @@ The number of elements in the given matrix will not exceed 10,000.
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-list "Remove Duplicates from Sorted List")
+[< Previous](../remove-duplicates-from-sorted-list "Remove Duplicates from Sorted List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximal-rectangle "Maximal Rectangle")
+[Next >](../maximal-rectangle "Maximal Rectangle")
 
 ## [84. Largest Rectangle in Histogram (Hard)](https://leetcode.com/problems/largest-rectangle-in-histogram "柱状图中最大的矩形")
 
@@ -33,8 +33,8 @@
 </pre>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Maximal Rectangle](https://github.com/openset/leetcode/tree/master/problems/maximal-rectangle) (Hard)
+  1. [Maximal Rectangle](../maximal-rectangle) (Hard)

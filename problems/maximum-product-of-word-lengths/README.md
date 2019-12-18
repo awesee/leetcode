@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-from-all-buildings "Shortest Distance from All Buildings")
+[< Previous](../shortest-distance-from-all-buildings "Shortest Distance from All Buildings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher "Bulb Switcher")
+[Next >](../bulb-switcher "Bulb Switcher")
 
 ## [318. Maximum Product of Word Lengths (Medium)](https://leetcode.com/problems/maximum-product-of-word-lengths "最大单词长度乘积")
 
@@ -36,4 +36,4 @@
 </pre>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]

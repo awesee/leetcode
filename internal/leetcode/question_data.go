@@ -172,7 +172,7 @@ func (question *questionType) getNavigation() string {
 	nav, pre, next := "\n%s\n%s\n%s\n", "< Previous", "Next >"
 	problems := ProblemsAll().StatStatusPairs
 	id := question.questionID()
-	format := `[%s](https://github.com/openset/leetcode/tree/master/problems/%s "%s")`
+	format := `[%s](../%s "%s")`
 	for i, problem := range problems {
 		if problem.Stat.QuestionID == id {
 			if i < len(problems)-1 {
@@ -193,7 +193,7 @@ func (question *questionType) getTopicTags() []byte {
 	if len(tags) > 0 {
 		buf.WriteString("\n### Related Topics\n")
 	}
-	format := "  [[%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md)]\n"
+	format := "  [[%s](../../tag/%s/README.md)]\n"
 	for _, tag := range tags {
 		buf.WriteString(fmt.Sprintf(format, tag.Name, tag.Slug))
 	}
@@ -249,7 +249,7 @@ func (question *questionType) getSimilarQuestion() []byte {
 	if len(sq) > 0 {
 		buf.WriteString("\n### Similar Questions\n")
 	}
-	format := "  1. [%s](https://github.com/openset/leetcode/tree/master/problems/%s)%s\n"
+	format := "  1. [%s](../%s)%s\n"
 	for _, q := range sq {
 		buf.WriteString(fmt.Sprintf(format, q.Title, q.TitleSlug, q.Difficulty.Str()))
 	}

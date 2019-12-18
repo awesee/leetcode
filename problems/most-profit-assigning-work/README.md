@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/friends-of-appropriate-ages "Friends Of Appropriate Ages")
+[< Previous](../friends-of-appropriate-ages "Friends Of Appropriate Ages")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/making-a-large-island "Making A Large Island")
+[Next >](../making-a-large-island "Making A Large Island")
 
 ## [826. Most Profit Assigning Work (Medium)](https://leetcode.com/problems/most-profit-assigning-work "安排工作以达到最大收益")
 
@@ -37,4 +37,4 @@
 </ul>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]

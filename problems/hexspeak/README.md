@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/all-people-report-to-the-given-manager "All People Report to the Given Manager")
+[< Previous](../all-people-report-to-the-given-manager "All People Report to the Given Manager")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-interval "Remove Interval")
+[Next >](../remove-interval "Remove Interval")
 
 ## [1271. Hexspeak (Easy)](https://leetcode.com/problems/hexspeak "十六进制魔术数字")
 
@@ -41,8 +41,8 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

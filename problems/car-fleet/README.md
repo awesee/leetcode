@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/peak-index-in-a-mountain-array "Peak Index in a Mountain Array")
+[< Previous](../peak-index-in-a-mountain-array "Peak Index in a Mountain Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/k-similar-strings "K-Similar Strings")
+[Next >](../k-similar-strings "K-Similar Strings")
 
 ## [853. Car Fleet (Medium)](https://leetcode.com/problems/car-fleet "车队")
 
@@ -52,4 +52,4 @@ Note that no other cars meet these fleets before the destination, so the answer 
 </ol>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Sort](../../tag/sort/README.md)]

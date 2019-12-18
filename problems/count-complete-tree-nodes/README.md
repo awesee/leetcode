@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximal-square "Maximal Square")
+[< Previous](../maximal-square "Maximal Square")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rectangle-area "Rectangle Area")
+[Next >](../rectangle-area "Rectangle Area")
 
 ## [222. Count Complete Tree Nodes (Medium)](https://leetcode.com/problems/count-complete-tree-nodes "完全二叉树的节点个数")
 
@@ -31,8 +31,8 @@ In a complete binary tree every level, except possibly the last, is completely f
 <strong>Output:</strong> 6</pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Closest Binary Search Tree Value](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value) (Easy)
+  1. [Closest Binary Search Tree Value](../closest-binary-search-tree-value) (Easy)

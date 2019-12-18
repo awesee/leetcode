@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-make-sequences-increasing "Minimum Swaps To Make Sequences Increasing")
+[< Previous](../minimum-swaps-to-make-sequences-increasing "Minimum Swaps To Make Sequences Increasing")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/bricks-falling-when-hit "Bricks Falling When Hit")
+[Next >](../bricks-falling-when-hit "Bricks Falling When Hit")
 
 ## [802. Find Eventual Safe States (Medium)](https://leetcode.com/problems/find-eventual-safe-states "找到最终的安全状态")
 
@@ -38,5 +38,5 @@ Here is a diagram of the above graph.
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]

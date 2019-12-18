@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/closest-leaf-in-a-binary-tree "Closest Leaf in a Binary Tree")
+[< Previous](../closest-leaf-in-a-binary-tree "Closest Leaf in a Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-smallest-letter-greater-than-target "Find Smallest Letter Greater Than Target")
+[Next >](../find-smallest-letter-greater-than-target "Find Smallest Letter Greater Than Target")
 
 ## [743. Network Delay Time (Medium)](https://leetcode.com/problems/network-delay-time "网络延迟时间")
 
@@ -40,10 +40,10 @@
 </ol>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/symmetric-tree "Symmetric Tree")
+[< Previous](../symmetric-tree "Symmetric Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-zigzag-level-order-traversal "Binary Tree Zigzag Level Order Traversal")
+[Next >](../binary-tree-zigzag-level-order-traversal "Binary Tree Zigzag Level Order Traversal")
 
 ## [102. Binary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal "二叉树的层次遍历")
 
@@ -36,14 +36,14 @@ return its level order traversal as:<br />
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Zigzag Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-zigzag-level-order-traversal) (Medium)
-  1. [Binary Tree Level Order Traversal II](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal-ii) (Easy)
-  1. [Minimum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/problems/minimum-depth-of-binary-tree) (Easy)
-  1. [Binary Tree Vertical Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-vertical-order-traversal) (Medium)
-  1. [Average of Levels in Binary Tree](https://github.com/openset/leetcode/tree/master/problems/average-of-levels-in-binary-tree) (Easy)
-  1. [N-ary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-level-order-traversal) (Medium)
-  1. [Cousins in Binary Tree](https://github.com/openset/leetcode/tree/master/problems/cousins-in-binary-tree) (Easy)
+  1. [Binary Tree Zigzag Level Order Traversal](../binary-tree-zigzag-level-order-traversal) (Medium)
+  1. [Binary Tree Level Order Traversal II](../binary-tree-level-order-traversal-ii) (Easy)
+  1. [Minimum Depth of Binary Tree](../minimum-depth-of-binary-tree) (Easy)
+  1. [Binary Tree Vertical Order Traversal](../binary-tree-vertical-order-traversal) (Medium)
+  1. [Average of Levels in Binary Tree](../average-of-levels-in-binary-tree) (Easy)
+  1. [N-ary Tree Level Order Traversal](../n-ary-tree-level-order-traversal) (Medium)
+  1. [Cousins in Binary Tree](../cousins-in-binary-tree) (Easy)

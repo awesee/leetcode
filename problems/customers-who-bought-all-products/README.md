@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-duplicate-substring "Longest Duplicate Substring")
+[< Previous](../longest-duplicate-substring "Longest Duplicate Substring")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight "Last Stone Weight")
+[Next >](../last-stone-weight "Last Stone Weight")
 
 ## [1045. Customers Who Bought All Products (Medium)](https://leetcode.com/problems/customers-who-bought-all-products "买下所有产品的客户")
 

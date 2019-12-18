@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-width-of-binary-tree "Maximum Width of Binary Tree")
+[< Previous](../maximum-width-of-binary-tree "Maximum Width of Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/strange-printer "Strange Printer")
+[Next >](../strange-printer "Strange Printer")
 
 ## [663. Equal Tree Partition (Medium)](https://leetcode.com/problems/equal-tree-partition "均匀树划分")
 
@@ -61,4 +61,4 @@ Sum: 15
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]

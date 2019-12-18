@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string "Reverse Words in a String")
+[< Previous](../reverse-words-in-a-string "Reverse Words in a String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array "Find Minimum in Rotated Sorted Array")
+[Next >](../find-minimum-in-rotated-sorted-array "Find Minimum in Rotated Sorted Array")
 
 ## [152. Maximum Product Subarray (Medium)](https://leetcode.com/problems/maximum-product-subarray "乘积最大子序列")
 
@@ -29,12 +29,12 @@
 <strong>Explanation:</strong>&nbsp;The result cannot be 2, because [-2,-1] is not a subarray.</pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Maximum Subarray](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray) (Easy)
-  1. [House Robber](https://github.com/openset/leetcode/tree/master/problems/house-robber) (Easy)
-  1. [Product of Array Except Self](https://github.com/openset/leetcode/tree/master/problems/product-of-array-except-self) (Medium)
-  1. [Maximum Product of Three Numbers](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-three-numbers) (Easy)
-  1. [Subarray Product Less Than K](https://github.com/openset/leetcode/tree/master/problems/subarray-product-less-than-k) (Medium)
+  1. [Maximum Subarray](../maximum-subarray) (Easy)
+  1. [House Robber](../house-robber) (Easy)
+  1. [Product of Array Except Self](../product-of-array-except-self) (Medium)
+  1. [Maximum Product of Three Numbers](../maximum-product-of-three-numbers) (Easy)
+  1. [Subarray Product Less Than K](../subarray-product-less-than-k) (Medium)

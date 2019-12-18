@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-three-numbers "Maximum Product of Three Numbers")
+[< Previous](../maximum-product-of-three-numbers "Maximum Product of Three Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/course-schedule-iii "Course Schedule III")
+[Next >](../course-schedule-iii "Course Schedule III")
 
 ## [629. K Inverse Pairs Array (Hard)](https://leetcode.com/problems/k-inverse-pairs-array "K个逆序对数组")
 
@@ -48,4 +48,4 @@ The array [1,3,2] and [2,1,3] have exactly 1 inverse pair.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

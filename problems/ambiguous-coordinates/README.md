@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/bus-routes "Bus Routes")
+[< Previous](../bus-routes "Bus Routes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/linked-list-components "Linked List Components")
+[Next >](../linked-list-components "Linked List Components")
 
 ## [816. Ambiguous Coordinates (Medium)](https://leetcode.com/problems/ambiguous-coordinates "模糊坐标")
 
@@ -57,4 +57,4 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

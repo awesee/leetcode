@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/plus-one "Plus One")
+[< Previous](../plus-one "Plus One")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/text-justification "Text Justification")
+[Next >](../text-justification "Text Justification")
 
 ## [67. Add Binary (Easy)](https://leetcode.com/problems/add-binary "二进制求和")
 
@@ -28,11 +28,11 @@
 <strong>Output:</strong> &quot;10101&quot;</pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Add Two Numbers](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers) (Medium)
-  1. [Multiply Strings](https://github.com/openset/leetcode/tree/master/problems/multiply-strings) (Medium)
-  1. [Plus One](https://github.com/openset/leetcode/tree/master/problems/plus-one) (Easy)
-  1. [Add to Array-Form of Integer](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer) (Easy)
+  1. [Add Two Numbers](../add-two-numbers) (Medium)
+  1. [Multiply Strings](../multiply-strings) (Medium)
+  1. [Plus One](../plus-one) (Easy)
+  1. [Add to Array-Form of Integer](../add-to-array-form-of-integer) (Easy)

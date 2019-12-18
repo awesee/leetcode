@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/out-of-boundary-paths "Out of Boundary Paths")
+[< Previous](../out-of-boundary-paths "Out of Boundary Paths")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/get-highest-answer-rate-question "Get Highest Answer Rate Question")
+[Next >](../get-highest-answer-rate-question "Get Highest Answer Rate Question")
 
 ## [577. Employee Bonus (Easy)](https://leetcode.com/problems/employee-bonus "员工奖金")
 
@@ -52,7 +52,7 @@ empId is the primary key column for this table.
 </pre>
 
 ### Similar Questions
-  1. [Combine Two Tables](https://github.com/openset/leetcode/tree/master/problems/combine-two-tables) (Easy)
+  1. [Combine Two Tables](../combine-two-tables) (Easy)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/implement-rand10-using-rand7 "Implement Rand10() Using Rand7()")
+[< Previous](../implement-rand10-using-rand7 "Implement Rand10() Using Rand7()")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/concatenated-words "Concatenated Words")
+[Next >](../concatenated-words "Concatenated Words")
 
 ## [471. Encode String with Shortest Length (Hard)](https://leetcode.com/problems/encode-string-with-shortest-length "编码最短长度的字符串")
 
@@ -76,8 +76,8 @@ Explanation: &quot;abbbabbbc&quot; occurs twice, but &quot;abbbabbbc&quot; can a
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Decode String](https://github.com/openset/leetcode/tree/master/problems/decode-string) (Medium)
-  1. [Number of Atoms](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms) (Hard)
+  1. [Decode String](../decode-string) (Medium)
+  1. [Number of Atoms](../number-of-atoms) (Hard)

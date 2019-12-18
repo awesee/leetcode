@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/k-diff-pairs-in-an-array "K-diff Pairs in an Array")
+[< Previous](../k-diff-pairs-in-an-array "K-diff Pairs in an Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-iii "Game Play Analysis III")
+[Next >](../game-play-analysis-iii "Game Play Analysis III")
 
 ## [533. Lonely Pixel II (Medium)](https://leetcode.com/problems/lonely-pixel-ii "孤独像素 II")
 
@@ -52,8 +52,8 @@ Rule 2, the rows have black pixel at column C = 1 are row 0, row 1 and row 2. Th
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Lonely Pixel I](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-i) (Medium)
+  1. [Lonely Pixel I](../lonely-pixel-i) (Medium)

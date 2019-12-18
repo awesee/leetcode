@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/can-make-palindrome-from-substring "Can Make Palindrome from Substring")
+[< Previous](../can-make-palindrome-from-substring "Can Make Palindrome from Substring")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reformat-department-table "Reformat Department Table")
+[Next >](../reformat-department-table "Reformat Department Table")
 
 ## [1178. Number of Valid Words for Each Puzzle (Hard)](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle "猜字谜")
 
@@ -48,8 +48,8 @@ There&#39;re&nbsp;no valid words for&nbsp;&quot;gaswxyz&quot; cause none of the 
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

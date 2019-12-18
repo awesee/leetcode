@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/two-sum-less-than-k "Two Sum Less Than K")
+[< Previous](../two-sum-less-than-k "Two Sum Less Than K")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/the-earliest-moment-when-everyone-become-friends "The Earliest Moment When Everyone Become Friends")
+[Next >](../the-earliest-moment-when-everyone-become-friends "The Earliest Moment When Everyone Become Friends")
 
 ## [1100. Find K-Length Substrings With No Repeated Characters (Medium)](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters "长度为 K 的无重复字符子串")
 
@@ -44,8 +44,8 @@ Notice K can be larger than the length of S. In this case is not possible to fin
 </ol>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

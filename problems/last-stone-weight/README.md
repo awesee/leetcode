@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/customers-who-bought-all-products "Customers Who Bought All Products")
+[< Previous](../customers-who-bought-all-products "Customers Who Bought All Products")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string "Remove All Adjacent Duplicates In String")
+[Next >](../remove-all-adjacent-duplicates-in-string "Remove All Adjacent Duplicates In String")
 
 ## [1046. Last Stone Weight (Easy)](https://leetcode.com/problems/last-stone-weight "最后一块石头的重量")
 
@@ -45,8 +45,8 @@ we combine 1 and 1 to get 0 so the array converts to [1] then that&#39;s the val
 </ol>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Hints
 <details>

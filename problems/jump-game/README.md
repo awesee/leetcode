@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix "Spiral Matrix")
+[< Previous](../spiral-matrix "Spiral Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/merge-intervals "Merge Intervals")
+[Next >](../merge-intervals "Merge Intervals")
 
 ## [55. Jump Game (Medium)](https://leetcode.com/problems/jump-game "跳跃游戏")
 
@@ -35,8 +35,8 @@
 </pre>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Jump Game II](https://github.com/openset/leetcode/tree/master/problems/jump-game-ii) (Hard)
+  1. [Jump Game II](../jump-game-ii) (Hard)

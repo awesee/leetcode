@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number "Find the Duplicate Number")
+[< Previous](../find-the-duplicate-number "Find the Duplicate Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/game-of-life "Game of Life")
+[Next >](../game-of-life "Game of Life")
 
 ## [288. Unique Word Abbreviation (Medium)](https://leetcode.com/problems/unique-word-abbreviation "单词的唯一缩写")
 
@@ -45,9 +45,9 @@ isUnique(&quot;make&quot;) -&gt; <code>true</code>
 </pre>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Two Sum III - Data structure design](https://github.com/openset/leetcode/tree/master/problems/two-sum-iii-data-structure-design) (Easy)
-  1. [Generalized Abbreviation](https://github.com/openset/leetcode/tree/master/problems/generalized-abbreviation) (Medium)
+  1. [Two Sum III - Data structure design](../two-sum-iii-data-structure-design) (Easy)
+  1. [Generalized Abbreviation](../generalized-abbreviation) (Medium)

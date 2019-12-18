@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/matchsticks-to-square "Matchsticks to Square")
+[< Previous](../matchsticks-to-square "Matchsticks to Square")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/heaters "Heaters")
+[Next >](../heaters "Heaters")
 
 ## [474. Ones and Zeroes (Medium)](https://leetcode.com/problems/ones-and-zeroes "一和零")
 
@@ -49,7 +49,7 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Non-negative Integers without Consecutive Ones](https://github.com/openset/leetcode/tree/master/problems/non-negative-integers-without-consecutive-ones) (Hard)
+  1. [Non-negative Integers without Consecutive Ones](../non-negative-integers-without-consecutive-ones) (Hard)

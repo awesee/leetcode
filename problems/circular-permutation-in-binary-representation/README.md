@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-positive-integer-solution-for-a-given-equation "Find Positive Integer Solution for a Given Equation")
+[< Previous](../find-positive-integer-solution-for-a-given-equation "Find Positive Integer Solution for a Given Equation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-a-concatenated-string-with-unique-characters "Maximum Length of a Concatenated String with Unique Characters")
+[Next >](../maximum-length-of-a-concatenated-string-with-unique-characters "Maximum Length of a Concatenated String with Unique Characters")
 
 ## [1238. Circular Permutation in Binary Representation (Medium)](https://leetcode.com/problems/circular-permutation-in-binary-representation "循环码排列")
 
@@ -46,7 +46,7 @@ All the adjacent element differ by one bit. Another valid permutation is [3,1,0,
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

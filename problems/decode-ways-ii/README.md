@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shopping-offers "Shopping Offers")
+[< Previous](../shopping-offers "Shopping Offers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/solve-the-equation "Solve the Equation")
+[Next >](../solve-the-equation "Solve the Equation")
 
 ## [639. Decode Ways II (Hard)](https://leetcode.com/problems/decode-ways-ii "解码方法 2")
 
@@ -58,7 +58,7 @@ Also, since the answer may be very large, you should return the output mod 10<su
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Decode Ways](https://github.com/openset/leetcode/tree/master/problems/decode-ways) (Medium)
+  1. [Decode Ways](../decode-ways) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-nth-node-from-end-of-list "Remove Nth Node From End of List")
+[< Previous](../remove-nth-node-from-end-of-list "Remove Nth Node From End of List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists "Merge Two Sorted Lists")
+[Next >](../merge-two-sorted-lists "Merge Two Sorted Lists")
 
 ## [20. Valid Parentheses (Easy)](https://leetcode.com/problems/valid-parentheses "有效的括号")
 
@@ -58,14 +58,14 @@
 </pre>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Generate Parentheses](https://github.com/openset/leetcode/tree/master/problems/generate-parentheses) (Medium)
-  1. [Longest Valid Parentheses](https://github.com/openset/leetcode/tree/master/problems/longest-valid-parentheses) (Hard)
-  1. [Remove Invalid Parentheses](https://github.com/openset/leetcode/tree/master/problems/remove-invalid-parentheses) (Hard)
-  1. [Check If Word Is Valid After Substitutions](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions) (Medium)
+  1. [Generate Parentheses](../generate-parentheses) (Medium)
+  1. [Longest Valid Parentheses](../longest-valid-parentheses) (Hard)
+  1. [Remove Invalid Parentheses](../remove-invalid-parentheses) (Hard)
+  1. [Check If Word Is Valid After Substitutions](../check-if-word-is-valid-after-substitutions) (Medium)
 
 ### Hints
 <details>

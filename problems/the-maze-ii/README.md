@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/base-7 "Base 7")
+[< Previous](../base-7 "Base 7")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/relative-ranks "Relative Ranks")
+[Next >](../relative-ranks "Relative Ranks")
 
 ## [505. The Maze II (Medium)](https://leetcode.com/problems/the-maze-ii "迷宫 II")
 
@@ -70,9 +70,9 @@
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [The Maze](https://github.com/openset/leetcode/tree/master/problems/the-maze) (Medium)
-  1. [The Maze III](https://github.com/openset/leetcode/tree/master/problems/the-maze-iii) (Hard)
+  1. [The Maze](../the-maze) (Medium)
+  1. [The Maze III](../the-maze-iii) (Hard)

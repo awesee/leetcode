@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-word-distance-iii "Shortest Word Distance III")
+[< Previous](../shortest-word-distance-iii "Shortest Word Distance III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-ii "Strobogrammatic Number II")
+[Next >](../strobogrammatic-number-ii "Strobogrammatic Number II")
 
 ## [246. Strobogrammatic Number (Easy)](https://leetcode.com/problems/strobogrammatic-number "中心对称数")
 
@@ -35,10 +35,10 @@
 <b>Output:</b> false</pre>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Strobogrammatic Number II](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-ii) (Medium)
-  1. [Strobogrammatic Number III](https://github.com/openset/leetcode/tree/master/problems/strobogrammatic-number-iii) (Hard)
-  1. [Confusing Number](https://github.com/openset/leetcode/tree/master/problems/confusing-number) (Easy)
+  1. [Strobogrammatic Number II](../strobogrammatic-number-ii) (Medium)
+  1. [Strobogrammatic Number III](../strobogrammatic-number-iii) (Hard)
+  1. [Confusing Number](../confusing-number) (Easy)

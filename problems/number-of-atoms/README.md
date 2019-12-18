@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/split-linked-list-in-parts "Split Linked List in Parts")
+[< Previous](../split-linked-list-in-parts "Split Linked List in Parts")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-window-subsequence "Minimum Window Subsequence")
+[Next >](../minimum-window-subsequence "Minimum Window Subsequence")
 
 ## [726. Number of Atoms (Hard)](https://leetcode.com/problems/number-of-atoms "原子的数量")
 
@@ -60,14 +60,14 @@ The count of elements are {'K': 4, 'N': 2, 'O': 14, 'S': 4}.
 </p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Decode String](https://github.com/openset/leetcode/tree/master/problems/decode-string) (Medium)
-  1. [Encode String with Shortest Length](https://github.com/openset/leetcode/tree/master/problems/encode-string-with-shortest-length) (Hard)
-  1. [Parse Lisp Expression](https://github.com/openset/leetcode/tree/master/problems/parse-lisp-expression) (Hard)
+  1. [Decode String](../decode-string) (Medium)
+  1. [Encode String with Shortest Length](../encode-string-with-shortest-length) (Hard)
+  1. [Parse Lisp Expression](../parse-lisp-expression) (Hard)
 
 ### Hints
 <details>

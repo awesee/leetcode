@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number "Fibonacci Number")
+[< Previous](../fibonacci-number "Fibonacci Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-i "Game Play Analysis I")
+[Next >](../game-play-analysis-i "Game Play Analysis I")
 
 ## [510. Inorder Successor in BST II (Medium)](https://leetcode.com/problems/inorder-successor-in-bst-ii "二叉搜索树中的中序后继 II")
 
@@ -74,7 +74,7 @@ p = <span id="example-input-2-2">13</span>
 <p>Could you solve&nbsp;it without&nbsp;looking up any of the&nbsp;node&#39;s values?</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Inorder Successor in BST](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst) (Medium)
+  1. [Inorder Successor in BST](../inorder-successor-in-bst) (Medium)

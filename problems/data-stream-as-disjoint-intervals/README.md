@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/android-unlock-patterns "Android Unlock Patterns")
+[< Previous](../android-unlock-patterns "Android Unlock Patterns")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-snake-game "Design Snake Game")
+[Next >](../design-snake-game "Design Snake Game")
 
 ## [352. Data Stream as Disjoint Intervals (Hard)](https://leetcode.com/problems/data-stream-as-disjoint-intervals "将数据流变为多个不相交区间")
 
@@ -30,10 +30,10 @@
 <p>What if there are lots of merges and the number of disjoint intervals are small compared to the data stream&#39;s size?</p>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Ordered Map](../../tag/ordered-map/README.md)]
 
 ### Similar Questions
-  1. [Summary Ranges](https://github.com/openset/leetcode/tree/master/problems/summary-ranges) (Medium)
-  1. [Find Right Interval](https://github.com/openset/leetcode/tree/master/problems/find-right-interval) (Medium)
-  1. [Range Module](https://github.com/openset/leetcode/tree/master/problems/range-module) (Hard)
+  1. [Summary Ranges](../summary-ranges) (Medium)
+  1. [Find Right Interval](../find-right-interval) (Medium)
+  1. [Range Module](../range-module) (Hard)

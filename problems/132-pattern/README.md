@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/assign-cookies "Assign Cookies")
+[< Previous](../assign-cookies "Assign Cookies")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/circular-array-loop "Circular Array Loop")
+[Next >](../circular-array-loop "Circular Array Loop")
 
 ## [456. 132 Pattern (Medium)](https://leetcode.com/problems/132-pattern "132模式")
 
@@ -48,4 +48,4 @@ that <b>i</b> < <b>j</b> < <b>k</b> and a<sub><b>i</b></sub> < a<sub><b>k</b></s
 </p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](../../tag/stack/README.md)]

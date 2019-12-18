@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-the-start-and-end-number-of-continuous-ranges "Find the Start and End Number of Continuous Ranges")
+[< Previous](../find-the-start-and-end-number-of-continuous-ranges "Find the Start and End Number of Continuous Ranges")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/element-appearing-more-than-25-in-sorted-array "Element Appearing More Than 25% In Sorted Array")
+[Next >](../element-appearing-more-than-25-in-sorted-array "Element Appearing More Than 25% In Sorted Array")
 
 ## [1286. Iterator for Combination (Medium)](https://leetcode.com/problems/iterator-for-combination "字母组合迭代器")
 
@@ -44,8 +44,8 @@ iterator.hasNext(); // returns false
 </ul>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints
 <details>

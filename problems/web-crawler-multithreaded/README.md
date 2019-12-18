@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-comments-per-post "Number of Comments per Post")
+[< Previous](../number-of-comments-per-post "Number of Comments per Post")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/array-transformation "Array Transformation")
+[Next >](../array-transformation "Array Transformation")
 
 ## [1242. Web Crawler Multithreaded (Medium)](https://leetcode.com/problems/web-crawler-multithreaded "多线程网页爬虫")
 
@@ -106,5 +106,5 @@ startUrl = &quot;http://news.google.com&quot;
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]

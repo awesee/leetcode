@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/champagne-tower "Champagne Tower")
+[< Previous](../champagne-tower "Champagne Tower")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-make-sequences-increasing "Minimum Swaps To Make Sequences Increasing")
+[Next >](../minimum-swaps-to-make-sequences-increasing "Minimum Swaps To Make Sequences Increasing")
 
 ## [800. Similar RGB Color (Easy)](https://leetcode.com/problems/similar-rgb-color "相似 RGB 颜色")
 
@@ -38,5 +38,5 @@ This is the highest among any shorthand color.
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]

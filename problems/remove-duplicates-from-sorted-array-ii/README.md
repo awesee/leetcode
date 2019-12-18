@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-search "Word Search")
+[< Previous](../word-search "Word Search")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/search-in-rotated-sorted-array-ii "Search in Rotated Sorted Array II")
+[Next >](../search-in-rotated-sorted-array-ii "Search in Rotated Sorted Array II")
 
 ## [80. Remove Duplicates from Sorted Array II (Medium)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii "删除排序数组中的重复项 II")
 
@@ -54,8 +54,8 @@ for (int i = 0; i &lt; len; i++) {
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Remove Duplicates from Sorted Array](https://github.com/openset/leetcode/tree/master/problems/remove-duplicates-from-sorted-array) (Easy)
+  1. [Remove Duplicates from Sorted Array](../remove-duplicates-from-sorted-array) (Easy)

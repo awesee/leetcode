@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/falling-squares "Falling Squares")
+[< Previous](../falling-squares "Falling Squares")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-binary-search-tree "Insert into a Binary Search Tree")
+[Next >](../insert-into-a-binary-search-tree "Insert into a Binary Search Tree")
 
 ## [700. Search in a Binary Search Tree (Easy)](https://leetcode.com/problems/search-in-a-binary-search-tree "二叉搜索树中的搜索")
 
@@ -39,8 +39,8 @@ And the value to search: 2
 <p>Note that an empty tree is represented by <code>NULL</code>, therefore you would see the expected output (serialized tree format) as&nbsp;<code>[]</code>, not <code>null</code>.</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Closest Binary Search Tree Value](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value) (Easy)
-  1. [Insert into a Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-binary-search-tree) (Medium)
+  1. [Closest Binary Search Tree Value](../closest-binary-search-tree-value) (Easy)
+  1. [Insert into a Binary Search Tree](../insert-into-a-binary-search-tree) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-linked-list "Design Linked List")
+[< Previous](../design-linked-list "Design Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/to-lower-case "To Lower Case")
+[Next >](../to-lower-case "To Lower Case")
 
 ## [708. Insert into a Sorted Circular Linked List (Medium)](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list "循环有序列表的插入")
 
@@ -32,7 +32,7 @@
 <small>The new node should insert between node 1 and node 3. After the insertion, the list should look like this, and we should still return node 3.</small></p>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Insertion Sort List](https://github.com/openset/leetcode/tree/master/problems/insertion-sort-list) (Medium)
+  1. [Insertion Sort List](../insertion-sort-list) (Medium)

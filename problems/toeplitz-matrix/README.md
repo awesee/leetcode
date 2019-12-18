@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/couples-holding-hands "Couples Holding Hands")
+[< Previous](../couples-holding-hands "Couples Holding Hands")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reorganize-string "Reorganize String")
+[Next >](../reorganize-string "Reorganize String")
 
 ## [766. Toeplitz Matrix (Easy)](https://leetcode.com/problems/toeplitz-matrix "托普利茨矩阵")
 
@@ -63,10 +63,10 @@ The diagonal &quot;[1, 2]&quot; has different elements.
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Valid Word Square](https://github.com/openset/leetcode/tree/master/problems/valid-word-square) (Easy)
+  1. [Valid Word Square](../valid-word-square) (Easy)
 
 ### Hints
 <details>

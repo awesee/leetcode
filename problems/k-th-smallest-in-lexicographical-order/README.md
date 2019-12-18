@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser "Ternary Expression Parser")
+[< Previous](../ternary-expression-parser "Ternary Expression Parser")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/arranging-coins "Arranging Coins")
+[Next >](../arranging-coins "Arranging Coins")
 
 ## [440. K-th Smallest in Lexicographical Order (Hard)](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order "字典序的第K小数字")
 

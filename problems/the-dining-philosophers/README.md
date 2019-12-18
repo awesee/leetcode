@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/report-contiguous-dates "Report Contiguous Dates")
+[< Previous](../report-contiguous-dates "Report Contiguous Dates")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/airplane-seat-assignment-probability "Airplane Seat Assignment Probability")
+[Next >](../airplane-seat-assignment-probability "Airplane Seat Assignment Probability")
 
 ## [1226. The Dining Philosophers (Medium)](https://leetcode.com/problems/the-dining-philosophers "哲学家进餐")
 

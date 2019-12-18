@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-distance-in-arrays "Maximum Distance in Arrays")
+[< Previous](../maximum-distance-in-arrays "Maximum Distance in Arrays")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/exchange-seats "Exchange Seats")
+[Next >](../exchange-seats "Exchange Seats")
 
 ## [625. Minimum Factorization (Medium)](https://leetcode.com/problems/minimum-factorization "最小因式分解")
 
@@ -34,5 +34,5 @@ Output:
 </p>
 
 ### Related Topics
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
+  [[Math](../../tag/math/README.md)]

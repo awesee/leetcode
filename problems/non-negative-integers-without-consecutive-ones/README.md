@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-index-sum-of-two-lists "Minimum Index Sum of Two Lists")
+[< Previous](../minimum-index-sum-of-two-lists "Minimum Index Sum of Two Lists")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/human-traffic-of-stadium "Human Traffic of Stadium")
+[Next >](../human-traffic-of-stadium "Human Traffic of Stadium")
 
 ## [600. Non-negative Integers without Consecutive Ones (Hard)](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones "不含连续1的非负整数")
 
@@ -34,9 +34,9 @@ Among them, only integer 3 disobeys the rule (two consecutive ones) and the othe
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [House Robber](https://github.com/openset/leetcode/tree/master/problems/house-robber) (Easy)
-  1. [House Robber II](https://github.com/openset/leetcode/tree/master/problems/house-robber-ii) (Medium)
-  1. [Ones and Zeroes](https://github.com/openset/leetcode/tree/master/problems/ones-and-zeroes) (Medium)
+  1. [House Robber](../house-robber) (Easy)
+  1. [House Robber II](../house-robber-ii) (Medium)
+  1. [Ones and Zeroes](../ones-and-zeroes) (Medium)

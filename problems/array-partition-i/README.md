@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k "Subarray Sum Equals K")
+[< Previous](../subarray-sum-equals-k "Subarray Sum Equals K")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-line-of-consecutive-one-in-matrix "Longest Line of Consecutive One in Matrix")
+[Next >](../longest-line-of-consecutive-one-in-matrix "Longest Line of Consecutive One in Matrix")
 
 ## [561. Array Partition I (Easy)](https://leetcode.com/problems/array-partition-i "数组拆分 I")
 
@@ -32,7 +32,7 @@ Given an array of <b>2n</b> integers, your task is to group these integers into 
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-ii "Student Attendance Record II")
+[< Previous](../student-attendance-record-ii "Student Attendance Record II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/brick-wall "Brick Wall")
+[Next >](../brick-wall "Brick Wall")
 
 ## [553. Optimal Division (Medium)](https://leetcode.com/problems/optimal-division "最优除法")
 
@@ -40,5 +40,5 @@ Other cases:
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]

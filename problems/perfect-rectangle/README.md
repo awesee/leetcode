@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/elimination-game "Elimination Game")
+[< Previous](../elimination-game "Elimination Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/is-subsequence "Is Subsequence")
+[Next >](../is-subsequence "Is Subsequence")
 
 ## [391. Perfect Rectangle (Hard)](https://leetcode.com/problems/perfect-rectangle "完美矩形")
 
@@ -91,4 +91,4 @@ Return false. Because two of the rectangles overlap with each other.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
+  [[Line Sweep](../../tag/line-sweep/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-window-substring "Minimum Window Substring")
+[< Previous](../minimum-window-substring "Minimum Window Substring")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/subsets "Subsets")
+[Next >](../subsets "Subsets")
 
 ## [77. Combinations (Medium)](https://leetcode.com/problems/combinations "组合")
 
@@ -29,8 +29,8 @@
 </pre>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Combination Sum](https://github.com/openset/leetcode/tree/master/problems/combination-sum) (Medium)
-  1. [Permutations](https://github.com/openset/leetcode/tree/master/problems/permutations) (Medium)
+  1. [Combination Sum](../combination-sum) (Medium)
+  1. [Permutations](../permutations) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/snakes-and-ladders "Snakes and Ladders")
+[< Previous](../snakes-and-ladders "Snakes and Ladders")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/online-election "Online Election")
+[Next >](../online-election "Online Election")
 
 ## [910. Smallest Range II (Medium)](https://leetcode.com/problems/smallest-range-ii "最小差值 II")
 
@@ -63,5 +63,5 @@
 </div>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Math](../../tag/math/README.md)]

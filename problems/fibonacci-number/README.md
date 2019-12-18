@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/most-frequent-subtree-sum "Most Frequent Subtree Sum")
+[< Previous](../most-frequent-subtree-sum "Most Frequent Subtree Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst-ii "Inorder Successor in BST II")
+[Next >](../inorder-successor-in-bst-ii "Inorder Successor in BST II")
 
 ## [509. Fibonacci Number (Easy)](https://leetcode.com/problems/fibonacci-number "斐波那契数")
 
@@ -53,9 +53,9 @@ F(N) = F(N - 1) + F(N - 2), for N &gt; 1.
 <p>0 &le; <code>N</code> &le; 30.</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Climbing Stairs](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs) (Easy)
-  1. [Split Array into Fibonacci Sequence](https://github.com/openset/leetcode/tree/master/problems/split-array-into-fibonacci-sequence) (Medium)
-  1. [Length of Longest Fibonacci Subsequence](https://github.com/openset/leetcode/tree/master/problems/length-of-longest-fibonacci-subsequence) (Medium)
+  1. [Climbing Stairs](../climbing-stairs) (Easy)
+  1. [Split Array into Fibonacci Sequence](../split-array-into-fibonacci-sequence) (Medium)
+  1. [Length of Longest Fibonacci Subsequence](../length-of-longest-fibonacci-subsequence) (Medium)

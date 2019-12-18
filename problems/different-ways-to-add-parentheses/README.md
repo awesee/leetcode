@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix-ii "Search a 2D Matrix II")
+[< Previous](../search-a-2d-matrix-ii "Search a 2D Matrix II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-anagram "Valid Anagram")
+[Next >](../valid-anagram "Valid Anagram")
 
 ## [241. Different Ways to Add Parentheses (Medium)](https://leetcode.com/problems/different-ways-to-add-parentheses "为运算表达式设计优先级")
 
@@ -36,9 +36,9 @@
 </strong></pre>
 
 ### Related Topics
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
-  1. [Unique Binary Search Trees II](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees-ii) (Medium)
-  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/problems/basic-calculator) (Hard)
-  1. [Expression Add Operators](https://github.com/openset/leetcode/tree/master/problems/expression-add-operators) (Hard)
+  1. [Unique Binary Search Trees II](../unique-binary-search-trees-ii) (Medium)
+  1. [Basic Calculator](../basic-calculator) (Hard)
+  1. [Expression Add Operators](../expression-add-operators) (Hard)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/insert-interval "Insert Interval")
+[< Previous](../insert-interval "Insert Interval")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/spiral-matrix-ii "Spiral Matrix II")
+[Next >](../spiral-matrix-ii "Spiral Matrix II")
 
 ## [58. Length of Last Word (Easy)](https://leetcode.com/problems/length-of-last-word "最后一个单词的长度")
 
@@ -27,4 +27,4 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

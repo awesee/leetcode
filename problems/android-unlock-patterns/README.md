@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays-ii "Intersection of Two Arrays II")
+[< Previous](../intersection-of-two-arrays-ii "Intersection of Two Arrays II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/data-stream-as-disjoint-intervals "Data Stream as Disjoint Intervals")
+[Next >](../data-stream-as-disjoint-intervals "Data Stream as Disjoint Intervals")
 
 ## [351. Android Unlock Patterns (Medium)](https://leetcode.com/problems/android-unlock-patterns "安卓系统手势解锁")
 
@@ -61,5 +61,5 @@ Line 1 - 9 is valid because it passes through key 5, which had been selected in 
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]

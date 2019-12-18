@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower-ii "Guess Number Higher or Lower II")
+[< Previous](../guess-number-higher-or-lower-ii "Guess Number Higher or Lower II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/combination-sum-iv "Combination Sum IV")
+[Next >](../combination-sum-iv "Combination Sum IV")
 
 ## [376. Wiggle Subsequence (Medium)](https://leetcode.com/problems/wiggle-subsequence "摆动序列")
 
@@ -45,5 +45,5 @@ Can you do it in O(<i>n</i>) time?</p>
 </div>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

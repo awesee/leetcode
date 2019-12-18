@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-equivalent-domino-pairs "Number of Equivalent Domino Pairs")
+[< Previous](../number-of-equivalent-domino-pairs "Number of Equivalent Domino Pairs")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-tree-from-leaf-values "Minimum Cost Tree From Leaf Values")
+[Next >](../minimum-cost-tree-from-leaf-values "Minimum Cost Tree From Leaf Values")
 
 ## [1129. Shortest Path with Alternating Colors (Medium)](https://leetcode.com/problems/shortest-path-with-alternating-colors "颜色交替的最短路径")
 
@@ -46,8 +46,8 @@
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Hints
 <details>

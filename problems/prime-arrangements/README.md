@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/immediate-food-delivery-ii "Immediate Food Delivery II")
+[< Previous](../immediate-food-delivery-ii "Immediate Food Delivery II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/diet-plan-performance "Diet Plan Performance")
+[Next >](../diet-plan-performance "Diet Plan Performance")
 
 ## [1175. Prime Arrangements (Easy)](https://leetcode.com/problems/prime-arrangements "质数排列")
 
@@ -41,7 +41,7 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

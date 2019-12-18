@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/compare-version-numbers "Compare Version Numbers")
+[< Previous](../compare-version-numbers "Compare Version Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted "Two Sum II - Input array is sorted")
+[Next >](../two-sum-ii-input-array-is-sorted "Two Sum II - Input array is sorted")
 
 ## [166. Fraction to Recurring Decimal (Medium)](https://leetcode.com/problems/fraction-to-recurring-decimal "分数到小数")
 
@@ -36,8 +36,8 @@
 </pre>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

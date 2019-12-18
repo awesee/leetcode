@@ -14,7 +14,10 @@ import (
 )
 
 // CmdName - base.CmdName
-const CmdName = "leetcode"
+const (
+	CmdName = "leetcode"
+	URL     = "https://github.com/openset/leetcode/tree/master"
+)
 
 // base var
 var (

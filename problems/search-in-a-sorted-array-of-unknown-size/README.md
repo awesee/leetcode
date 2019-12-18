@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-binary-search-tree "Insert into a Binary Search Tree")
+[< Previous](../insert-into-a-binary-search-tree "Insert into a Binary Search Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-a-stream "Kth Largest Element in a Stream")
+[Next >](../kth-largest-element-in-a-stream "Kth Largest Element in a Stream")
 
 ## [702. Search in a Sorted Array of Unknown Size (Medium)](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size "搜索长度未知的有序数组")
 
@@ -40,7 +40,7 @@
 </ol>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Binary Search](https://github.com/openset/leetcode/tree/master/problems/binary-search) (Easy)
+  1. [Binary Search](../binary-search) (Easy)

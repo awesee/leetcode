@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/confusing-number "Confusing Number")
+[< Previous](../confusing-number "Confusing Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimize-rounding-error-to-meet-target "Minimize Rounding Error to Meet Target")
+[Next >](../minimize-rounding-error-to-meet-target "Minimize Rounding Error to Meet Target")
 
 ## [1057. Campus Bikes (Medium)](https://leetcode.com/problems/campus-bikes "校园自行车分配")
 
@@ -54,11 +54,11 @@ Worker 0 grabs Bike 0 at first. Worker 1 and Worker 2 share the same distance to
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Sort](../../tag/sort/README.md)]
 
 ### Similar Questions
-  1. [Campus Bikes II](https://github.com/openset/leetcode/tree/master/problems/campus-bikes-ii) (Medium)
+  1. [Campus Bikes II](../campus-bikes-ii) (Medium)
 
 ### Hints
 <details>

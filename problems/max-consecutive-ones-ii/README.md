@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/predict-the-winner "Predict the Winner")
+[< Previous](../predict-the-winner "Predict the Winner")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/zuma-game "Zuma Game")
+[Next >](../zuma-game "Zuma Game")
 
 ## [487. Max Consecutive Ones II (Medium)](https://leetcode.com/problems/max-consecutive-ones-ii "最大连续1的个数 II")
 
@@ -36,8 +36,8 @@ What if the input numbers come in one by one as an <b>infinite stream</b>? In ot
 </p>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Max Consecutive Ones](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones) (Easy)
-  1. [Max Consecutive Ones III](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-iii) (Medium)
+  1. [Max Consecutive Ones](../max-consecutive-ones) (Easy)
+  1. [Max Consecutive Ones III](../max-consecutive-ones-iii) (Medium)

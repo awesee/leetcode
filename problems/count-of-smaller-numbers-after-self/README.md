@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-vertical-order-traversal "Binary Tree Vertical Order Traversal")
+[< Previous](../binary-tree-vertical-order-traversal "Binary Tree Vertical Order Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-duplicate-letters "Remove Duplicate Letters")
+[Next >](../remove-duplicate-letters "Remove Duplicate Letters")
 
 ## [315. Count of Smaller Numbers After Self (Hard)](https://leetcode.com/problems/count-of-smaller-numbers-after-self "计算右侧小于当前元素的个数")
 
@@ -26,13 +26,13 @@ To the right of 1 there is <b>0</b> smaller element.
 </pre>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Binary Indexed Tree](https://github.com/openset/leetcode/tree/master/tag/binary-indexed-tree/README.md)]
-  [[Segment Tree](https://github.com/openset/leetcode/tree/master/tag/segment-tree/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
+  [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
-  1. [Count of Range Sum](https://github.com/openset/leetcode/tree/master/problems/count-of-range-sum) (Hard)
-  1. [Queue Reconstruction by Height](https://github.com/openset/leetcode/tree/master/problems/queue-reconstruction-by-height) (Medium)
-  1. [Reverse Pairs](https://github.com/openset/leetcode/tree/master/problems/reverse-pairs) (Hard)
+  1. [Count of Range Sum](../count-of-range-sum) (Hard)
+  1. [Queue Reconstruction by Height](../queue-reconstruction-by-height) (Medium)
+  1. [Reverse Pairs](../reverse-pairs) (Hard)

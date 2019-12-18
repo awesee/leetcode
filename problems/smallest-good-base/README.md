@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/license-key-formatting "License Key Formatting")
+[< Previous](../license-key-formatting "License Key Formatting")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-permutation "Find Permutation")
+[Next >](../find-permutation "Find Permutation")
 
 ## [483. Smallest Good Base (Hard)](https://leetcode.com/problems/smallest-good-base "最小好进制")
 
@@ -55,5 +55,5 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]

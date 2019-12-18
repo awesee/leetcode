@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/robot-bounded-in-circle "Robot Bounded In Circle")
+[< Previous](../robot-bounded-in-circle "Robot Bounded In Circle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/partition-array-for-maximum-sum "Partition Array for Maximum Sum")
+[Next >](../partition-array-for-maximum-sum "Partition Array for Maximum Sum")
 
 ## [1042. Flower Planting With No Adjacent (Easy)](https://leetcode.com/problems/flower-planting-with-no-adjacent "不邻接植花")
 
@@ -62,7 +62,7 @@
 </div>
 
 ### Related Topics
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Hints
 <details>

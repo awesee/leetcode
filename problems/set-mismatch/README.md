@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-ii "Maximum Average Subarray II")
+[< Previous](../maximum-average-subarray-ii "Maximum Average Subarray II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-length-of-pair-chain "Maximum Length of Pair Chain")
+[Next >](../maximum-length-of-pair-chain "Maximum Length of Pair Chain")
 
 ## [645. Set Mismatch (Easy)](https://leetcode.com/problems/set-mismatch "错误的集合")
 
@@ -35,8 +35,8 @@ Given an array <code>nums</code> representing the data status of this set after 
 </p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Find the Duplicate Number](https://github.com/openset/leetcode/tree/master/problems/find-the-duplicate-number) (Medium)
+  1. [Find the Duplicate Number](../find-the-duplicate-number) (Medium)

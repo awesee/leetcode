@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-duplicate-letters "Remove Duplicate Letters")
+[< Previous](../remove-duplicate-letters "Remove Duplicate Letters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-product-of-word-lengths "Maximum Product of Word Lengths")
+[Next >](../maximum-product-of-word-lengths "Maximum Product of Word Lengths")
 
 ## [317. Shortest Distance from All Buildings (Hard)](https://leetcode.com/problems/shortest-distance-from-all-buildings "离建筑物最近的距离")
 
@@ -40,9 +40,9 @@
 There will be at least one building. If it is not possible to build such house according to the above rules, return -1.</p>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Walls and Gates](https://github.com/openset/leetcode/tree/master/problems/walls-and-gates) (Medium)
-  1. [Best Meeting Point](https://github.com/openset/leetcode/tree/master/problems/best-meeting-point) (Hard)
-  1. [As Far from Land as Possible](https://github.com/openset/leetcode/tree/master/problems/as-far-from-land-as-possible) (Medium)
+  1. [Walls and Gates](../walls-and-gates) (Medium)
+  1. [Best Meeting Point](../best-meeting-point) (Hard)
+  1. [As Far from Land as Possible](../as-far-from-land-as-possible) (Medium)

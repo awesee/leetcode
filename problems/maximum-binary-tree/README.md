@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst "Two Sum IV - Input is a BST")
+[< Previous](../two-sum-iv-input-is-a-bst "Two Sum IV - Input is a BST")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/print-binary-tree "Print Binary Tree")
+[Next >](../print-binary-tree "Print Binary Tree")
 
 ## [654. Maximum Binary Tree (Medium)](https://leetcode.com/problems/maximum-binary-tree "最大二叉树")
 
@@ -46,7 +46,7 @@ Construct the maximum tree by the given array and output the root node of this t
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Maximum Binary Tree II](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii) (Medium)
+  1. [Maximum Binary Tree II](../maximum-binary-tree-ii) (Medium)

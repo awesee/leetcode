@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reformat-department-table "Reformat Department Table")
+[< Previous](../reformat-department-table "Reformat Department Table")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/before-and-after-puzzle "Before and After Puzzle")
+[Next >](../before-and-after-puzzle "Before and After Puzzle")
 
 ## [1180. Count Substrings with Only One Distinct Letter (Easy)](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter "统计只含单一字母的子串")
 
@@ -43,8 +43,8 @@ So the answer is 1 + 2 + 4 + 1 = 8.
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

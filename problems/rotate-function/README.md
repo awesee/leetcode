@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-substring-with-at-least-k-repeating-characters "Longest Substring with At Least K Repeating Characters")
+[< Previous](../longest-substring-with-at-least-k-repeating-characters "Longest Substring with At Least K Repeating Characters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/integer-replacement "Integer Replacement")
+[Next >](../integer-replacement "Integer Replacement")
 
 ## [396. Rotate Function (Medium)](https://leetcode.com/problems/rotate-function "旋转函数")
 
@@ -43,4 +43,4 @@ So the maximum value of F(0), F(1), F(2), F(3) is F(3) = 26.
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

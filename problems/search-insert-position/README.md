@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-first-and-last-position-of-element-in-sorted-array "Find First and Last Position of Element in Sorted Array")
+[< Previous](../find-first-and-last-position-of-element-in-sorted-array "Find First and Last Position of Element in Sorted Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-sudoku "Valid Sudoku")
+[Next >](../valid-sudoku "Valid Sudoku")
 
 ## [35. Search Insert Position (Easy)](https://leetcode.com/problems/search-insert-position "搜索插入位置")
 
@@ -44,8 +44,8 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [First Bad Version](https://github.com/openset/leetcode/tree/master/problems/first-bad-version) (Easy)
+  1. [First Bad Version](../first-bad-version) (Easy)

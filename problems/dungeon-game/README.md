@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator "Binary Search Tree Iterator")
+[< Previous](../binary-search-tree-iterator "Binary Search Tree Iterator")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/combine-two-tables "Combine Two Tables")
+[Next >](../combine-two-tables "Combine Two Tables")
 
 ## [174. Dungeon Game (Hard)](https://leetcode.com/problems/dungeon-game "地下城游戏")
 
@@ -55,10 +55,10 @@
 </ul>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Unique Paths](https://github.com/openset/leetcode/tree/master/problems/unique-paths) (Medium)
-  1. [Minimum Path Sum](https://github.com/openset/leetcode/tree/master/problems/minimum-path-sum) (Medium)
-  1. [Cherry Pickup](https://github.com/openset/leetcode/tree/master/problems/cherry-pickup) (Hard)
+  1. [Unique Paths](../unique-paths) (Medium)
+  1. [Minimum Path Sum](../minimum-path-sum) (Medium)
+  1. [Cherry Pickup](../cherry-pickup) (Hard)

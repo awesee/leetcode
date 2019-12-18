@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/iterator-for-combination "Iterator for Combination")
+[< Previous](../iterator-for-combination "Iterator for Combination")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-covered-intervals "Remove Covered Intervals")
+[Next >](../remove-covered-intervals "Remove Covered Intervals")
 
 ## [1287. Element Appearing More Than 25% In Sorted Array (Easy)](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array "有序数组中出现次数超过25%的元素")
 
@@ -29,7 +29,7 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

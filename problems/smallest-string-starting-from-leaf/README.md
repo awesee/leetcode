@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/vertical-order-traversal-of-a-binary-tree "Vertical Order Traversal of a Binary Tree")
+[< Previous](../vertical-order-traversal-of-a-binary-tree "Vertical Order Traversal of a Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/add-to-array-form-of-integer "Add to Array-Form of Integer")
+[Next >](../add-to-array-form-of-integer "Add to Array-Form of Integer")
 
 ## [988. Smallest String Starting From Leaf (Medium)](https://leetcode.com/problems/smallest-string-starting-from-leaf "从叶结点开始的最小字符串")
 
@@ -69,9 +69,9 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Sum Root to Leaf Numbers](https://github.com/openset/leetcode/tree/master/problems/sum-root-to-leaf-numbers) (Medium)
-  1. [Binary Tree Paths](https://github.com/openset/leetcode/tree/master/problems/binary-tree-paths) (Easy)
+  1. [Sum Root to Leaf Numbers](../sum-root-to-leaf-numbers) (Medium)
+  1. [Binary Tree Paths](../binary-tree-paths) (Easy)

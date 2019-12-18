@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/add-strings "Add Strings")
+[< Previous](../add-strings "Add Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/pacific-atlantic-water-flow "Pacific Atlantic Water Flow")
+[Next >](../pacific-atlantic-water-flow "Pacific Atlantic Water Flow")
 
 ## [416. Partition Equal Subset Sum (Medium)](https://leetcode.com/problems/partition-equal-subset-sum "分割等和子集")
 
@@ -47,7 +47,7 @@ Explanation: The array cannot be partitioned into equal sum subsets.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Partition to K Equal Sum Subsets](https://github.com/openset/leetcode/tree/master/problems/partition-to-k-equal-sum-subsets) (Medium)
+  1. [Partition to K Equal Sum Subsets](../partition-to-k-equal-sum-subsets) (Medium)

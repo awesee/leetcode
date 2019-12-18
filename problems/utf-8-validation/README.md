@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/is-subsequence "Is Subsequence")
+[< Previous](../is-subsequence "Is Subsequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/decode-string "Decode String")
+[Next >](../decode-string "Decode String")
 
 ## [393. UTF-8 Validation (Medium)](https://leetcode.com/problems/utf-8-validation "UTF-8 编码验证")
 
@@ -57,7 +57,7 @@ But the second continuation byte does not start with 10, so it is invalid.
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Hints
 <details>

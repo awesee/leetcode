@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/consecutive-available-seats "Consecutive Available Seats")
+[< Previous](../consecutive-available-seats "Consecutive Available Seats")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers "Can Place Flowers")
+[Next >](../can-place-flowers "Can Place Flowers")
 
 ## [604. Design Compressed String Iterator (Easy)](https://leetcode.com/problems/design-compressed-string-iterator "迭代压缩字符串")
 
@@ -49,8 +49,8 @@ iterator.next(); // return ' '
 </p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Similar Questions
-  1. [LRU Cache](https://github.com/openset/leetcode/tree/master/problems/lru-cache) (Medium)
-  1. [String Compression](https://github.com/openset/leetcode/tree/master/problems/string-compression) (Easy)
+  1. [LRU Cache](../lru-cache) (Medium)
+  1. [String Compression](../string-compression) (Easy)

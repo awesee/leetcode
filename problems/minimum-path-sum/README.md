@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-paths-ii "Unique Paths II")
+[< Previous](../unique-paths-ii "Unique Paths II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-number "Valid Number")
+[Next >](../valid-number "Valid Number")
 
 ## [64. Minimum Path Sum (Medium)](https://leetcode.com/problems/minimum-path-sum "最小路径和")
 
@@ -29,10 +29,10 @@
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Unique Paths](https://github.com/openset/leetcode/tree/master/problems/unique-paths) (Medium)
-  1. [Dungeon Game](https://github.com/openset/leetcode/tree/master/problems/dungeon-game) (Hard)
-  1. [Cherry Pickup](https://github.com/openset/leetcode/tree/master/problems/cherry-pickup) (Hard)
+  1. [Unique Paths](../unique-paths) (Medium)
+  1. [Dungeon Game](../dungeon-game) (Hard)
+  1. [Cherry Pickup](../cherry-pickup) (Hard)

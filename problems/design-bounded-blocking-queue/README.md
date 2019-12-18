@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/make-array-strictly-increasing "Make Array Strictly Increasing")
+[< Previous](../make-array-strictly-increasing "Make Array Strictly Increasing")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-number-of-balloons "Maximum Number of Balloons")
+[Next >](../maximum-number-of-balloons "Maximum Number of Balloons")
 
 ## [1188. Design Bounded Blocking Queue (Medium)](https://leetcode.com/problems/design-bounded-blocking-queue "设计有限阻塞队列")
 

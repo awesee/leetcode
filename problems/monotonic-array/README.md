@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-frequency-stack "Maximum Frequency Stack")
+[< Previous](../maximum-frequency-stack "Maximum Frequency Stack")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/increasing-order-search-tree "Increasing Order Search Tree")
+[Next >](../increasing-order-search-tree "Increasing Order Search Tree")
 
 ## [896. Monotonic Array (Easy)](https://leetcode.com/problems/monotonic-array "单调数列")
 
@@ -77,4 +77,4 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]

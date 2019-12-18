@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/nth-magical-number "Nth Magical Number")
+[< Previous](../nth-magical-number "Nth Magical Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/decoded-string-at-index "Decoded String at Index")
+[Next >](../decoded-string-at-index "Decoded String at Index")
 
 ## [879. Profitable Schemes (Hard)](https://leetcode.com/problems/profitable-schemes "盈利计划")
 
@@ -62,4 +62,4 @@ There are 7 possible schemes: (0), (1), (2), (0,1), (0,2), (1,2), and (0,1,2).
 </div>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

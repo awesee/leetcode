@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-a-leaderboard "Design A Leaderboard")
+[< Previous](../design-a-leaderboard "Design A Leaderboard")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/palindrome-removal "Palindrome Removal")
+[Next >](../palindrome-removal "Palindrome Removal")
 
 ## [1245. Tree Diameter (Medium)](https://leetcode.com/problems/tree-diameter "树的直径")
 
@@ -49,9 +49,9 @@ A longest path of the tree is the path 3 - 2 - 1 - 4 - 5.
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/queens-that-can-attack-the-king "Queens That Can Attack the King")
+[< Previous](../queens-that-can-attack-the-king "Queens That Can Attack the King")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-equal-frequency "Maximum Equal Frequency")
+[Next >](../maximum-equal-frequency "Maximum Equal Frequency")
 
 ## [1223. Dice Roll Simulation (Medium)](https://leetcode.com/problems/dice-roll-simulation "掷骰子模拟")
 
@@ -50,7 +50,7 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

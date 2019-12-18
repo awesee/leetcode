@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/insertion-sort-list "Insertion Sort List")
+[< Previous](../insertion-sort-list "Insertion Sort List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-points-on-a-line "Max Points on a Line")
+[Next >](../max-points-on-a-line "Max Points on a Line")
 
 ## [148. Sort List (Medium)](https://leetcode.com/problems/sort-list "排序链表")
 
@@ -27,10 +27,10 @@
 <strong>Output:</strong> -1-&gt;0-&gt;3-&gt;4-&gt;5</pre>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists) (Easy)
-  1. [Sort Colors](https://github.com/openset/leetcode/tree/master/problems/sort-colors) (Medium)
-  1. [Insertion Sort List](https://github.com/openset/leetcode/tree/master/problems/insertion-sort-list) (Medium)
+  1. [Merge Two Sorted Lists](../merge-two-sorted-lists) (Easy)
+  1. [Sort Colors](../sort-colors) (Medium)
+  1. [Insertion Sort List](../insertion-sort-list) (Medium)

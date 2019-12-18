@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-domino-rotations-for-equal-row "Minimum Domino Rotations For Equal Row")
+[< Previous](../minimum-domino-rotations-for-equal-row "Minimum Domino Rotations For Equal Row")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/complement-of-base-10-integer "Complement of Base 10 Integer")
+[Next >](../complement-of-base-10-integer "Complement of Base 10 Integer")
 
 ## [1008. Construct Binary Search Tree from Preorder Traversal (Medium)](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal "先序遍历构造二叉树")
 
@@ -35,4 +35,4 @@
 </ol>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/consecutive-numbers "Consecutive Numbers")
+[< Previous](../consecutive-numbers "Consecutive Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/duplicate-emails "Duplicate Emails")
+[Next >](../duplicate-emails "Duplicate Emails")
 
 ## [181. Employees Earning More Than Their Managers (Easy)](https://leetcode.com/problems/employees-earning-more-than-their-managers "超过经理收入的员工")
 

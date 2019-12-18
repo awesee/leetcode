@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/element-appearing-more-than-25-in-sorted-array "Element Appearing More Than 25% In Sorted Array")
+[< Previous](../element-appearing-more-than-25-in-sorted-array "Element Appearing More Than 25% In Sorted Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-falling-path-sum-ii "Minimum Falling Path Sum II")
+[Next >](../minimum-falling-path-sum-ii "Minimum Falling Path Sum II")
 
 ## [1288. Remove Covered Intervals (Medium)](https://leetcode.com/problems/remove-covered-intervals "删除被覆盖区间")
 
@@ -34,7 +34,7 @@
 </ul>
 
 ### Related Topics
-  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
+  [[Line Sweep](../../tag/line-sweep/README.md)]
 
 ### Hints
 <details>

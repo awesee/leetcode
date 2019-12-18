@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/filling-bookcase-shelves "Filling Bookcase Shelves")
+[< Previous](../filling-bookcase-shelves "Filling Bookcase Shelves")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/new-users-daily-count "New Users Daily Count")
+[Next >](../new-users-daily-count "New Users Daily Count")
 
 ## [1106. Parsing A Boolean Expression (Hard)](https://leetcode.com/problems/parsing-a-boolean-expression "解析布尔表达式")
 
@@ -62,7 +62,7 @@
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

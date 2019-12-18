@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unpopular-books "Unpopular Books")
+[< Previous](../unpopular-books "Unpopular Books")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-k-length-substrings-with-no-repeated-characters "Find K-Length Substrings With No Repeated Characters")
+[Next >](../find-k-length-substrings-with-no-repeated-characters "Find K-Length Substrings With No Repeated Characters")
 
 ## [1099. Two Sum Less Than K (Easy)](https://leetcode.com/problems/two-sum-less-than-k "小于 K 的两数之和")
 
@@ -44,13 +44,13 @@ In this case it&#39;s not possible to get a pair sum less that 15.
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/problems/two-sum) (Easy)
-  1. [Two Sum II - Input array is sorted](https://github.com/openset/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted) (Easy)
-  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller) (Medium)
-  1. [Subarray Product Less Than K](https://github.com/openset/leetcode/tree/master/problems/subarray-product-less-than-k) (Medium)
+  1. [Two Sum](../two-sum) (Easy)
+  1. [Two Sum II - Input array is sorted](../two-sum-ii-input-array-is-sorted) (Easy)
+  1. [3Sum Smaller](../3sum-smaller) (Medium)
+  1. [Subarray Product Less Than K](../subarray-product-less-than-k) (Medium)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/defanging-an-ip-address "Defanging an IP Address")
+[< Previous](../defanging-an-ip-address "Defanging an IP Address")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/delete-nodes-and-return-forest "Delete Nodes And Return Forest")
+[Next >](../delete-nodes-and-return-forest "Delete Nodes And Return Forest")
 
 ## [1109. Corporate Flight Bookings (Medium)](https://leetcode.com/problems/corporate-flight-bookings "航班预订统计")
 
@@ -35,5 +35,5 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]

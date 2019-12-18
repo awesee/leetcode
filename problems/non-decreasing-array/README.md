@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/strange-printer "Strange Printer")
+[< Previous](../strange-printer "Strange Printer")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/path-sum-iv "Path Sum IV")
+[Next >](../path-sum-iv "Path Sum IV")
 
 ## [665. Non-decreasing Array (Easy)](https://leetcode.com/problems/non-decreasing-array "非递减数列")
 
@@ -40,4 +40,4 @@ The <code>n</code> belongs to [1, 10,000].
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]

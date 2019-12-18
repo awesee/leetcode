@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/isomorphic-strings "Isomorphic Strings")
+[< Previous](../isomorphic-strings "Isomorphic Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/course-schedule "Course Schedule")
+[Next >](../course-schedule "Course Schedule")
 
 ## [206. Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list "反转链表")
 
@@ -25,9 +25,9 @@
 <p>A linked list can be reversed either iteratively or recursively. Could you implement both?</p>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Reverse Linked List II](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list-ii) (Medium)
-  1. [Binary Tree Upside Down](https://github.com/openset/leetcode/tree/master/problems/binary-tree-upside-down) (Medium)
-  1. [Palindrome Linked List](https://github.com/openset/leetcode/tree/master/problems/palindrome-linked-list) (Easy)
+  1. [Reverse Linked List II](../reverse-linked-list-ii) (Medium)
+  1. [Binary Tree Upside Down](../binary-tree-upside-down) (Medium)
+  1. [Palindrome Linked List](../palindrome-linked-list) (Easy)

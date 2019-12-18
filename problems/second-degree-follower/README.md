@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-in-a-line "Shortest Distance in a Line")
+[< Previous](../shortest-distance-in-a-line "Shortest Distance in a Line")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/average-salary-departments-vs-company "Average Salary: Departments VS Company")
+[Next >](../average-salary-departments-vs-company "Average Salary: Departments VS Company")
 
 ## [614. Second Degree Follower (Medium)](https://leetcode.com/problems/second-degree-follower "二级关注者")
 

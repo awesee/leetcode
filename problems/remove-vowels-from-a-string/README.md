@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-days-in-a-month "Number of Days in a Month")
+[< Previous](../number-of-days-in-a-month "Number of Days in a Month")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subtree "Maximum Average Subtree")
+[Next >](../maximum-average-subtree "Maximum Average Subtree")
 
 ## [1119. Remove Vowels from a String (Easy)](https://leetcode.com/problems/remove-vowels-from-a-string "删去字符串中的元音")
 
@@ -39,10 +39,10 @@
 </ol>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Reverse Vowels of a String](https://github.com/openset/leetcode/tree/master/problems/reverse-vowels-of-a-string) (Easy)
+  1. [Reverse Vowels of a String](../reverse-vowels-of-a-string) (Easy)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/exam-room "Exam Room")
+[< Previous](../exam-room "Exam Room")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-hire-k-workers "Minimum Cost to Hire K Workers")
+[Next >](../minimum-cost-to-hire-k-workers "Minimum Cost to Hire K Workers")
 
 ## [856. Score of Parentheses (Medium)](https://leetcode.com/problems/score-of-parentheses "括号的分数")
 
@@ -67,5 +67,5 @@
 </div>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[String](../../tag/string/README.md)]

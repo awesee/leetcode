@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/best-sightseeing-pair "Best Sightseeing Pair")
+[< Previous](../best-sightseeing-pair "Best Sightseeing Pair")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-string-with-substrings-representing-1-to-n "Binary String With Substrings Representing 1 To N")
+[Next >](../binary-string-with-substrings-representing-1-to-n "Binary String With Substrings Representing 1 To N")
 
 ## [1015. Smallest Integer Divisible by K (Medium)](https://leetcode.com/problems/smallest-integer-divisible-by-k "可被 K 整除的最小整数")
 
@@ -47,7 +47,7 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

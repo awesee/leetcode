@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-blacklist "Random Pick with Blacklist")
+[< Previous](../random-pick-with-blacklist "Random Pick with Blacklist")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-ascii-delete-sum-for-two-strings "Minimum ASCII Delete Sum for Two Strings")
+[Next >](../minimum-ascii-delete-sum-for-two-strings "Minimum ASCII Delete Sum for Two Strings")
 
 ## [711. Number of Distinct Islands II (Hard)](https://leetcode.com/problems/number-of-distinct-islands-ii "不同岛屿的数量 II")
 
@@ -74,8 +74,8 @@ The length of each dimension in the given <code>grid</code> does not exceed 50.
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Number of Distinct Islands](https://github.com/openset/leetcode/tree/master/problems/number-of-distinct-islands) (Medium)
+  1. [Number of Distinct Islands](../number-of-distinct-islands) (Medium)

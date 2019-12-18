@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/map-sum-pairs "Map Sum Pairs")
+[< Previous](../map-sum-pairs "Map Sum Pairs")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/24-game "24 Game")
+[Next >](../24-game "24 Game")
 
 ## [678. Valid Parenthesis String (Medium)](https://leetcode.com/problems/valid-parenthesis-string "有效的括号字符串")
 
@@ -50,7 +50,7 @@ Given a string containing only three types of characters: '(', ')' and '*', writ
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Special Binary String](https://github.com/openset/leetcode/tree/master/problems/special-binary-string) (Hard)
+  1. [Special Binary String](../special-binary-string) (Hard)

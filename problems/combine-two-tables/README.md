@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/dungeon-game "Dungeon Game")
+[< Previous](../dungeon-game "Dungeon Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/second-highest-salary "Second Highest Salary")
+[Next >](../second-highest-salary "Second Highest Salary")
 
 ## [175. Combine Two Tables (Easy)](https://leetcode.com/problems/combine-two-tables "组合两个表")
 
@@ -47,4 +47,4 @@ FirstName, LastName, City, State
 </pre>
 
 ### Similar Questions
-  1. [Employee Bonus](https://github.com/openset/leetcode/tree/master/problems/employee-bonus) (Easy)
+  1. [Employee Bonus](../employee-bonus) (Easy)

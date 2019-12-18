@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/continuous-subarray-sum "Continuous Subarray Sum")
+[< Previous](../continuous-subarray-sum "Continuous Subarray Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/contiguous-array "Contiguous Array")
+[Next >](../contiguous-array "Contiguous Array")
 
 ## [524. Longest Word in Dictionary through Deleting (Medium)](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting "通过删除字母匹配到字典里最长单词")
 
@@ -44,8 +44,8 @@ s = "abpcplea", d = ["a","b","c"]
 </p>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Longest Word in Dictionary](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary) (Easy)
+  1. [Longest Word in Dictionary](../longest-word-in-dictionary) (Easy)

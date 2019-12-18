@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-weight "Random Pick with Weight")
+[< Previous](../random-pick-with-weight "Random Pick with Weight")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference-in-bst "Minimum Absolute Difference in BST")
+[Next >](../minimum-absolute-difference-in-bst "Minimum Absolute Difference in BST")
 
 ## [529. Minesweeper (Medium)](https://leetcode.com/problems/minesweeper "扫雷游戏")
 
@@ -84,5 +84,5 @@ Click : [1,2]
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]

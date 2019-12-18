@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/can-i-win "Can I Win")
+[< Previous](../can-i-win "Can I Win")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-the-repetitions "Count The Repetitions")
+[Next >](../count-the-repetitions "Count The Repetitions")
 
 ## [465. Optimal Account Balancing (Hard)](https://leetcode.com/problems/optimal-account-balancing "最优账单平衡")
 

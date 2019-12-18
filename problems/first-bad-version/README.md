@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-the-celebrity "Find the Celebrity")
+[< Previous](../find-the-celebrity "Find the Celebrity")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/perfect-squares "Perfect Squares")
+[Next >](../perfect-squares "Perfect Squares")
 
 ## [278. First Bad Version (Easy)](https://leetcode.com/problems/first-bad-version "第一个错误的版本")
 
@@ -30,9 +30,9 @@ Then 4 is the first bad version.&nbsp;</code>
 </pre>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Find First and Last Position of Element in Sorted Array](https://github.com/openset/leetcode/tree/master/problems/find-first-and-last-position-of-element-in-sorted-array) (Medium)
-  1. [Search Insert Position](https://github.com/openset/leetcode/tree/master/problems/search-insert-position) (Easy)
-  1. [Guess Number Higher or Lower](https://github.com/openset/leetcode/tree/master/problems/guess-number-higher-or-lower) (Easy)
+  1. [Find First and Last Position of Element in Sorted Array](../find-first-and-last-position-of-element-in-sorted-array) (Medium)
+  1. [Search Insert Position](../search-insert-position) (Easy)
+  1. [Guess Number Higher or Lower](../guess-number-higher-or-lower) (Easy)

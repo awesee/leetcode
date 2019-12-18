@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/the-maze-iii "The Maze III")
+[< Previous](../the-maze-iii "The Maze III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-mode-in-binary-search-tree "Find Mode in Binary Search Tree")
+[Next >](../find-mode-in-binary-search-tree "Find Mode in Binary Search Tree")
 
 ## [500. Keyboard Row (Easy)](https://leetcode.com/problems/keyboard-row "键盘行")
 
@@ -35,4 +35,4 @@
 </ol>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]

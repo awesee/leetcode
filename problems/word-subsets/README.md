@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/partition-array-into-disjoint-intervals "Partition Array into Disjoint Intervals")
+[< Previous](../partition-array-into-disjoint-intervals "Partition Array into Disjoint Intervals")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-only-letters "Reverse Only Letters")
+[Next >](../reverse-only-letters "Reverse Only Letters")
 
 ## [916. Word Subsets (Medium)](https://leetcode.com/problems/word-subsets "单词子集")
 
@@ -81,4 +81,4 @@
 </div>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

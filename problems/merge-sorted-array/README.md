@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/scramble-string "Scramble String")
+[< Previous](../scramble-string "Scramble String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/gray-code "Gray Code")
+[Next >](../gray-code "Gray Code")
 
 ## [88. Merge Sorted Array (Easy)](https://leetcode.com/problems/merge-sorted-array "合并两个有序数组")
 
@@ -31,13 +31,13 @@ nums2 = [2,5,6],       n = 3
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Merge Two Sorted Lists](https://github.com/openset/leetcode/tree/master/problems/merge-two-sorted-lists) (Easy)
-  1. [Squares of a Sorted Array](https://github.com/openset/leetcode/tree/master/problems/squares-of-a-sorted-array) (Easy)
-  1. [Interval List Intersections](https://github.com/openset/leetcode/tree/master/problems/interval-list-intersections) (Medium)
+  1. [Merge Two Sorted Lists](../merge-two-sorted-lists) (Easy)
+  1. [Squares of a Sorted Array](../squares-of-a-sorted-array) (Easy)
+  1. [Interval List Intersections](../interval-list-intersections) (Medium)
 
 ### Hints
 <details>

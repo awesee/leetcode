@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/linked-list-components "Linked List Components")
+[< Previous](../linked-list-components "Linked List Components")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/most-common-word "Most Common Word")
+[Next >](../most-common-word "Most Common Word")
 
 ## [818. Race Car (Hard)](https://leetcode.com/problems/race-car "赛车")
 
@@ -52,5 +52,5 @@ Your position goes from 0-&gt;1-&gt;3-&gt;7-&gt;7-&gt;6.
 </ul>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

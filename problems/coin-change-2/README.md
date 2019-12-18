@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/super-washing-machines "Super Washing Machines")
+[< Previous](../super-washing-machines "Super Washing Machines")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/random-flip-matrix "Random Flip Matrix")
+[Next >](../random-flip-matrix "Random Flip Matrix")
 
 ## [518. Coin Change 2 (Medium)](https://leetcode.com/problems/coin-change-2 "零钱兑换 II")
 

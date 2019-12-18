@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-knight-moves "Minimum Knight Moves")
+[< Previous](../minimum-knight-moves "Minimum Knight Moves")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-time-to-build-blocks "Minimum Time to Build Blocks")
+[Next >](../minimum-time-to-build-blocks "Minimum Time to Build Blocks")
 
 ## [1198. Find Smallest Common Element in All Rows (Medium)](https://leetcode.com/problems/find-smallest-common-element-in-all-rows "找出所有行中最小公共元素")
 
@@ -31,8 +31,8 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

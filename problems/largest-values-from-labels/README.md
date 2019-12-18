@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/duplicate-zeros "Duplicate Zeros")
+[< Previous](../duplicate-zeros "Duplicate Zeros")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-path-in-binary-matrix "Shortest Path in Binary Matrix")
+[Next >](../shortest-path-in-binary-matrix "Shortest Path in Binary Matrix")
 
 ## [1090. Largest Values From Labels (Medium)](https://leetcode.com/problems/largest-values-from-labels "受标签影响的最大值")
 
@@ -75,8 +75,8 @@
 </div>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/project-employees-i "Project Employees I")
+[< Previous](../project-employees-i "Project Employees I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/project-employees-iii "Project Employees III")
+[Next >](../project-employees-iii "Project Employees III")
 
 ## [1076. Project Employees II (Easy)](https://leetcode.com/problems/project-employees-ii "项目员工II")
 

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/4sum-ii "4Sum II")
+[< Previous](../4sum-ii "4Sum II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/132-pattern "132 Pattern")
+[Next >](../132-pattern "132 Pattern")
 
 ## [455. Assign Cookies (Easy)](https://leetcode.com/problems/assign-cookies "分发饼干")
 
@@ -45,4 +45,4 @@ You need to output 2.
 </p>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

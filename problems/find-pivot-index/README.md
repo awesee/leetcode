@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/candy-crush "Candy Crush")
+[< Previous](../candy-crush "Candy Crush")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/split-linked-list-in-parts "Split Linked List in Parts")
+[Next >](../split-linked-list-in-parts "Split Linked List in Parts")
 
 ## [724. Find Pivot Index (Easy)](https://leetcode.com/problems/find-pivot-index "寻找数组的中心索引")
 
@@ -52,10 +52,10 @@ There is no index that satisfies the conditions in the problem statement.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Subarray Sum Equals K](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k) (Medium)
+  1. [Subarray Sum Equals K](../subarray-sum-equals-k) (Medium)
 
 ### Hints
 <details>

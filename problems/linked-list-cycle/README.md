@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-break-ii "Word Break II")
+[< Previous](../word-break-ii "Word Break II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle-ii "Linked List Cycle II")
+[Next >](../linked-list-cycle-ii "Linked List Cycle II")
 
 ## [141. Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle "环形链表")
 
@@ -60,9 +60,9 @@
 <p>Can you solve it using <em>O(1)</em> (i.e. constant) memory?</p>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Linked List Cycle II](https://github.com/openset/leetcode/tree/master/problems/linked-list-cycle-ii) (Medium)
-  1. [Happy Number](https://github.com/openset/leetcode/tree/master/problems/happy-number) (Easy)
+  1. [Linked List Cycle II](../linked-list-cycle-ii) (Medium)
+  1. [Happy Number](../happy-number) (Easy)

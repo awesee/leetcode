@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/triangle-judgement "Triangle Judgement")
+[< Previous](../triangle-judgement "Triangle Judgement")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-distance-in-a-plane "Shortest Distance in a Plane")
+[Next >](../shortest-distance-in-a-plane "Shortest Distance in a Plane")
 
 ## [611. Valid Triangle Number (Medium)](https://leetcode.com/problems/valid-triangle-number "有效三角形的个数")
 
@@ -33,7 +33,7 @@ Valid combinations are:
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller) (Medium)
+  1. [3Sum Smaller](../3sum-smaller) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/parse-lisp-expression "Parse Lisp Expression")
+[< Previous](../parse-lisp-expression "Parse Lisp Expression")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/monotone-increasing-digits "Monotone Increasing Digits")
+[Next >](../monotone-increasing-digits "Monotone Increasing Digits")
 
 ## [737. Sentence Similarity II (Medium)](https://leetcode.com/problems/sentence-similarity-ii "句子相似性 II")
 
@@ -35,13 +35,13 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
 
 ### Similar Questions
-  1. [Friend Circles](https://github.com/openset/leetcode/tree/master/problems/friend-circles) (Medium)
-  1. [Accounts Merge](https://github.com/openset/leetcode/tree/master/problems/accounts-merge) (Medium)
-  1. [Sentence Similarity](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity) (Easy)
+  1. [Friend Circles](../friend-circles) (Medium)
+  1. [Accounts Merge](../accounts-merge) (Medium)
+  1. [Sentence Similarity](../sentence-similarity) (Easy)
 
 ### Hints
 <details>

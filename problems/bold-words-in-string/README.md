@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/set-intersection-size-at-least-two "Set Intersection Size At Least Two")
+[< Previous](../set-intersection-size-at-least-two "Set Intersection Size At Least Two")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/employee-free-time "Employee Free Time")
+[Next >](../employee-free-time "Employee Free Time")
 
 ## [758. Bold Words in String (Easy)](https://leetcode.com/problems/bold-words-in-string "字符串中的加粗单词")
 
@@ -28,7 +28,7 @@ For example, given that <code>words = ["ab", "bc"]</code> and  <code>S = "aabcd"
 </ol></p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/missing-number-in-arithmetic-progression "Missing Number In Arithmetic Progression")
+[< Previous](../missing-number-in-arithmetic-progression "Missing Number In Arithmetic Progression")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/toss-strange-coins "Toss Strange Coins")
+[Next >](../toss-strange-coins "Toss Strange Coins")
 
 ## [1229. Meeting Scheduler (Medium)](https://leetcode.com/problems/meeting-scheduler "安排会议日程")
 
@@ -47,7 +47,7 @@
 </ul>
 
 ### Related Topics
-  [[Line Sweep](https://github.com/openset/leetcode/tree/master/tag/line-sweep/README.md)]
+  [[Line Sweep](../../tag/line-sweep/README.md)]
 
 ### Hints
 <details>

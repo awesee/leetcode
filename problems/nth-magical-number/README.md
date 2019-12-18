@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/stone-game "Stone Game")
+[< Previous](../stone-game "Stone Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/profitable-schemes "Profitable Schemes")
+[Next >](../profitable-schemes "Profitable Schemes")
 
 ## [878. Nth Magical Number (Hard)](https://leetcode.com/problems/nth-magical-number "第 N 个神奇数字")
 
@@ -67,5 +67,5 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]

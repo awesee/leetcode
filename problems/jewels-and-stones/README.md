@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iv "Basic Calculator IV")
+[< Previous](../basic-calculator-iv "Basic Calculator IV")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iii "Basic Calculator III")
+[Next >](../basic-calculator-iii "Basic Calculator III")
 
 ## [771. Jewels and Stones (Easy)](https://leetcode.com/problems/jewels-and-stones "宝石与石头")
 
@@ -37,7 +37,7 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

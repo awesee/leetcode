@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-i "Student Attendance Record I")
+[< Previous](../student-attendance-record-i "Student Attendance Record I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/optimal-division "Optimal Division")
+[Next >](../optimal-division "Optimal Division")
 
 ## [552. Student Attendance Record II (Hard)](https://leetcode.com/problems/student-attendance-record-ii "学生出勤记录 II")
 
@@ -42,7 +42,7 @@ The value of <b>n</b> won't exceed 100,000.
 </p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Student Attendance Record I](https://github.com/openset/leetcode/tree/master/problems/student-attendance-record-i) (Easy)
+  1. [Student Attendance Record I](../student-attendance-record-i) (Easy)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-boxes "Remove Boxes")
+[< Previous](../remove-boxes "Remove Boxes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/split-array-with-equal-sum "Split Array with Equal Sum")
+[Next >](../split-array-with-equal-sum "Split Array with Equal Sum")
 
 ## [547. Friend Circles (Medium)](https://leetcode.com/problems/friend-circles "朋友圈")
 
@@ -51,12 +51,12 @@ Given a <b>N*N</b> matrix <b>M</b> representing the friend relationship between 
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
 
 ### Similar Questions
-  1. [Number of Connected Components in an Undirected Graph](https://github.com/openset/leetcode/tree/master/problems/number-of-connected-components-in-an-undirected-graph) (Medium)
-  1. [Robot Return to Origin](https://github.com/openset/leetcode/tree/master/problems/robot-return-to-origin) (Easy)
-  1. [Sentence Similarity](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity) (Easy)
-  1. [Sentence Similarity II](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity-ii) (Medium)
-  1. [The Earliest Moment When Everyone Become Friends](https://github.com/openset/leetcode/tree/master/problems/the-earliest-moment-when-everyone-become-friends) (Medium)
+  1. [Number of Connected Components in an Undirected Graph](../number-of-connected-components-in-an-undirected-graph) (Medium)
+  1. [Robot Return to Origin](../robot-return-to-origin) (Easy)
+  1. [Sentence Similarity](../sentence-similarity) (Easy)
+  1. [Sentence Similarity II](../sentence-similarity-ii) (Medium)
+  1. [The Earliest Moment When Everyone Become Friends](../the-earliest-moment-when-everyone-become-friends) (Medium)

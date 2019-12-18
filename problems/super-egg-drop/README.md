@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/possible-bipartition "Possible Bipartition")
+[< Previous](../possible-bipartition "Possible Bipartition")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/fair-candy-swap "Fair Candy Swap")
+[Next >](../fair-candy-swap "Fair Candy Swap")
 
 ## [887. Super Egg Drop (Hard)](https://leetcode.com/problems/super-egg-drop "鸡蛋掉落")
 
@@ -70,6 +70,6 @@ Hence, we needed 2 moves in the worst case to know what F is with certainty.
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

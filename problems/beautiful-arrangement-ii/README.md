@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/path-sum-iv "Path Sum IV")
+[< Previous](../path-sum-iv "Path Sum IV")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/kth-smallest-number-in-multiplication-table "Kth Smallest Number in Multiplication Table")
+[Next >](../kth-smallest-number-in-multiplication-table "Kth Smallest Number in Multiplication Table")
 
 ## [667. Beautiful Arrangement II (Medium)](https://leetcode.com/problems/beautiful-arrangement-ii "优美的排列 II")
 
@@ -44,7 +44,7 @@ If there are multiple answers, print any of them.
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Beautiful Arrangement](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement) (Medium)
+  1. [Beautiful Arrangement](../beautiful-arrangement) (Medium)

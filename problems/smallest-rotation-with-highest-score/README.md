@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/all-paths-from-source-to-target "All Paths From Source to Target")
+[< Previous](../all-paths-from-source-to-target "All Paths From Source to Target")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/champagne-tower "Champagne Tower")
+[Next >](../champagne-tower "Champagne Tower")
 
 ## [798. Smallest Rotation with Highest Score (Hard)](https://leetcode.com/problems/smallest-rotation-with-highest-score "得分最高的最小轮调")
 

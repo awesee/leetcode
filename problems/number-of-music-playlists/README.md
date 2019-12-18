@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/complete-binary-tree-inserter "Complete Binary Tree Inserter")
+[< Previous](../complete-binary-tree-inserter "Complete Binary Tree Inserter")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-add-to-make-parentheses-valid "Minimum Add to Make Parentheses Valid")
+[Next >](../minimum-add-to-make-parentheses-valid "Minimum Add to Make Parentheses Valid")
 
 ## [920. Number of Music Playlists (Hard)](https://leetcode.com/problems/number-of-music-playlists "播放列表的数量")
 
@@ -65,4 +65,4 @@
 </div>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

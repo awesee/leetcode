@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/friend-requests-i-overall-acceptance-rate "Friend Requests I: Overall Acceptance Rate")
+[< Previous](../friend-requests-i-overall-acceptance-rate "Friend Requests I: Overall Acceptance Rate")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-index-sum-of-two-lists "Minimum Index Sum of Two Lists")
+[Next >](../minimum-index-sum-of-two-lists "Minimum Index Sum of Two Lists")
 
 ## [598. Range Addition II (Easy)](https://leetcode.com/problems/range-addition-ii "范围求和 II")
 
@@ -50,7 +50,7 @@ So the maximum integer in M is 2, and there are four of it in M. So return 4.
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Range Addition](https://github.com/openset/leetcode/tree/master/problems/range-addition) (Medium)
+  1. [Range Addition](../range-addition) (Medium)

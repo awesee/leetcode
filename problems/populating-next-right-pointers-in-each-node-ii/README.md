@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node "Populating Next Right Pointers in Each Node")
+[< Previous](../populating-next-right-pointers-in-each-node "Populating Next Right Pointers in Each Node")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle "Pascal's Triangle")
+[Next >](../pascals-triangle "Pascal's Triangle")
 
 ## [117. Populating Next Right Pointers in Each Node II (Medium)](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii "填充每个节点的下一个右侧节点指针 II")
 
@@ -55,8 +55,8 @@ struct Node {
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Populating Next Right Pointers in Each Node](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node) (Medium)
+  1. [Populating Next Right Pointers in Each Node](../populating-next-right-pointers-in-each-node) (Medium)

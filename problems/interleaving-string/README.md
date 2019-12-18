@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-binary-search-trees "Unique Binary Search Trees")
+[< Previous](../unique-binary-search-trees "Unique Binary Search Trees")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/validate-binary-search-tree "Validate Binary Search Tree")
+[Next >](../validate-binary-search-tree "Validate Binary Search Tree")
 
 ## [97. Interleaving String (Hard)](https://leetcode.com/problems/interleaving-string "交错字符串")
 
@@ -28,5 +28,5 @@
 </pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

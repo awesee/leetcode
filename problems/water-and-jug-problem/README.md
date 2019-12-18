@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/nested-list-weight-sum-ii "Nested List Weight Sum II")
+[< Previous](../nested-list-weight-sum-ii "Nested List Weight Sum II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-leaves-of-binary-tree "Find Leaves of Binary Tree")
+[Next >](../find-leaves-of-binary-tree "Find Leaves of Binary Tree")
 
 ## [365. Water and Jug Problem (Medium)](https://leetcode.com/problems/water-and-jug-problem "水壶问题")
 
@@ -38,4 +38,4 @@ Output: False
 </pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

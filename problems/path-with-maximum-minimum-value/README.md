@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/the-earliest-moment-when-everyone-become-friends "The Earliest Moment When Everyone Become Friends")
+[< Previous](../the-earliest-moment-when-everyone-become-friends "The Earliest Moment When Everyone Become Friends")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/distribute-candies-to-people "Distribute Candies to People")
+[Next >](../distribute-candies-to-people "Distribute Candies to People")
 
 ## [1102. Path With Maximum Minimum Value (Medium)](https://leetcode.com/problems/path-with-maximum-minimum-value "得分最高的路径")
 
@@ -56,9 +56,9 @@ The path with the maximum score is highlighted in yellow.
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Hints
 <details>

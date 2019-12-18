@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/complex-number-multiplication "Complex Number Multiplication")
+[< Previous](../complex-number-multiplication "Complex Number Multiplication")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-time-difference "Minimum Time Difference")
+[Next >](../minimum-time-difference "Minimum Time Difference")
 
 ## [538. Convert BST to Greater Tree (Easy)](https://leetcode.com/problems/convert-bst-to-greater-tree "把二叉搜索树转换为累加树")
 
@@ -29,4 +29,4 @@
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]

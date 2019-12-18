@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/repeated-substring-pattern "Repeated Substring Pattern")
+[< Previous](../repeated-substring-pattern "Repeated Substring Pattern")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/hamming-distance "Hamming Distance")
+[Next >](../hamming-distance "Hamming Distance")
 
 ## [460. LFU Cache (Hard)](https://leetcode.com/problems/lfu-cache "LFU缓存")
 
@@ -45,8 +45,8 @@ cache.get(4);       // returns 4
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Similar Questions
-  1. [LRU Cache](https://github.com/openset/leetcode/tree/master/problems/lru-cache) (Medium)
-  1. [Design In-Memory File System](https://github.com/openset/leetcode/tree/master/problems/design-in-memory-file-system) (Hard)
+  1. [LRU Cache](../lru-cache) (Medium)
+  1. [Design In-Memory File System](../design-in-memory-file-system) (Hard)

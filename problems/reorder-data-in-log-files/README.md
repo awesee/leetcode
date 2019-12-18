@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/stamping-the-sequence "Stamping The Sequence")
+[< Previous](../stamping-the-sequence "Stamping The Sequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/range-sum-of-bst "Range Sum of BST")
+[Next >](../range-sum-of-bst "Range Sum of BST")
 
 ## [937. Reorder Data in Log Files (Easy)](https://leetcode.com/problems/reorder-data-in-log-files "重新排列日志文件")
 
@@ -41,4 +41,4 @@
 </ol>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

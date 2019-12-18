@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-absolute-difference-in-bst "Minimum Absolute Difference in BST")
+[< Previous](../minimum-absolute-difference-in-bst "Minimum Absolute Difference in BST")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/k-diff-pairs-in-an-array "K-diff Pairs in an Array")
+[Next >](../k-diff-pairs-in-an-array "K-diff Pairs in an Array")
 
 ## [531. Lonely Pixel I (Medium)](https://leetcode.com/problems/lonely-pixel-i "孤独像素 I")
 
@@ -36,8 +36,8 @@
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Lonely Pixel II](https://github.com/openset/leetcode/tree/master/problems/lonely-pixel-ii) (Medium)
+  1. [Lonely Pixel II](../lonely-pixel-ii) (Medium)

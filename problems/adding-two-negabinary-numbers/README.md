@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flip-columns-for-maximum-number-of-equal-rows "Flip Columns For Maximum Number of Equal Rows")
+[< Previous](../flip-columns-for-maximum-number-of-equal-rows "Flip Columns For Maximum Number of Equal Rows")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-submatrices-that-sum-to-target "Number of Submatrices That Sum to Target")
+[Next >](../number-of-submatrices-that-sum-to-target "Number of Submatrices That Sum to Target")
 
 ## [1073. Adding Two Negabinary Numbers (Medium)](https://leetcode.com/problems/adding-two-negabinary-numbers "负二进制数相加")
 
@@ -40,7 +40,7 @@
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

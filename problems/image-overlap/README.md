@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sum-of-distances-in-tree "Sum of Distances in Tree")
+[< Previous](../sum-of-distances-in-tree "Sum of Distances in Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rectangle-overlap "Rectangle Overlap")
+[Next >](../rectangle-overlap "Rectangle Overlap")
 
 ## [835. Image Overlap (Medium)](https://leetcode.com/problems/image-overlap "图像重叠")
 
@@ -39,4 +39,4 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]

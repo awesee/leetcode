@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/relative-ranks "Relative Ranks")
+[< Previous](../relative-ranks "Relative Ranks")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/most-frequent-subtree-sum "Most Frequent Subtree Sum")
+[Next >](../most-frequent-subtree-sum "Most Frequent Subtree Sum")
 
 ## [507. Perfect Number (Easy)](https://leetcode.com/problems/perfect-number "完美数")
 
@@ -29,7 +29,7 @@ The input number <b>n</b> will not exceed 100,000,000. (1e8)
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Self Dividing Numbers](https://github.com/openset/leetcode/tree/master/problems/self-dividing-numbers) (Easy)
+  1. [Self Dividing Numbers](../self-dividing-numbers) (Easy)

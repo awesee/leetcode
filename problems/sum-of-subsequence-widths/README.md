@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-and-replace-pattern "Find and Replace Pattern")
+[< Previous](../find-and-replace-pattern "Find and Replace Pattern")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/surface-area-of-3d-shapes "Surface Area of 3D Shapes")
+[Next >](../surface-area-of-3d-shapes "Surface Area of 3D Shapes")
 
 ## [891. Sum of Subsequence Widths (Hard)](https://leetcode.com/problems/sum-of-subsequence-widths "子序列宽度之和")
 
@@ -44,5 +44,5 @@ The sum of these widths is 6.
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]

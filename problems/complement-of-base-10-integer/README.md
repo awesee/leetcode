@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/construct-binary-search-tree-from-preorder-traversal "Construct Binary Search Tree from Preorder Traversal")
+[< Previous](../construct-binary-search-tree-from-preorder-traversal "Construct Binary Search Tree from Preorder Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/pairs-of-songs-with-total-durations-divisible-by-60 "Pairs of Songs With Total Durations Divisible by 60")
+[Next >](../pairs-of-songs-with-total-durations-divisible-by-60 "Pairs of Songs With Total Durations Divisible by 60")
 
 ## [1009. Complement of Base 10 Integer (Easy)](https://leetcode.com/problems/complement-of-base-10-integer "十进制整数的反码")
 
@@ -61,7 +61,7 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

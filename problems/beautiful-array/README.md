@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-falling-path-sum "Minimum Falling Path Sum")
+[< Previous](../minimum-falling-path-sum "Minimum Falling Path Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-recent-calls "Number of Recent Calls")
+[Next >](../number-of-recent-calls "Number of Recent Calls")
 
 ## [932. Beautiful Array (Medium)](https://leetcode.com/problems/beautiful-array "漂亮数组")
 
@@ -47,4 +47,4 @@
 </div>
 
 ### Related Topics
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]

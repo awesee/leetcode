@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flatten-a-multilevel-doubly-linked-list "Flatten a Multilevel Doubly Linked List")
+[< Previous](../flatten-a-multilevel-doubly-linked-list "Flatten a Multilevel Doubly Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/all-oone-data-structure "All O`one Data Structure")
+[Next >](../all-oone-data-structure "All O`one Data Structure")
 
 ## [431. Encode N-ary Tree to Binary Tree (Hard)](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree "将 N 叉树编码为二叉树")
 
@@ -33,7 +33,7 @@
 </ol>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Serialize and Deserialize N-ary Tree](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-n-ary-tree) (Hard)
+  1. [Serialize and Deserialize N-ary Tree](../serialize-and-deserialize-n-ary-tree) (Hard)

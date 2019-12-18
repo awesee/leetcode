@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/distinct-subsequences-ii "Distinct Subsequences II")
+[< Previous](../distinct-subsequences-ii "Distinct Subsequences II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/di-string-match "DI String Match")
+[Next >](../di-string-match "DI String Match")
 
 ## [941. Valid Mountain Array (Easy)](https://leetcode.com/problems/valid-mountain-array "有效的山脉数组")
 
@@ -72,7 +72,7 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

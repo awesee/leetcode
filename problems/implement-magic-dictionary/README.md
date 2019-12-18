@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/cut-off-trees-for-golf-event "Cut Off Trees for Golf Event")
+[< Previous](../cut-off-trees-for-golf-event "Cut Off Trees for Golf Event")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/map-sum-pairs "Map Sum Pairs")
+[Next >](../map-sum-pairs "Map Sum Pairs")
 
 ## [676. Implement Magic Dictionary (Medium)](https://leetcode.com/problems/implement-magic-dictionary "实现一个魔法字典")
 
@@ -42,9 +42,9 @@ Input: search("leetcoded"), Output: False
 </p>
 
 ### Related Topics
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Trie](../../tag/trie/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree) (Medium)
-  1. [Longest Word in Dictionary](https://github.com/openset/leetcode/tree/master/problems/longest-word-in-dictionary) (Easy)
+  1. [Implement Trie (Prefix Tree)](../implement-trie-prefix-tree) (Medium)
+  1. [Longest Word in Dictionary](../longest-word-in-dictionary) (Easy)

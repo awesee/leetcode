@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-common-prefix "Longest Common Prefix")
+[< Previous](../longest-common-prefix "Longest Common Prefix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/3sum-closest "3Sum Closest")
+[Next >](../3sum-closest "3Sum Closest")
 
 ## [15. 3Sum (Medium)](https://leetcode.com/problems/3sum "三数之和")
 
@@ -30,11 +30,11 @@ A solution set is:
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/problems/two-sum) (Easy)
-  1. [3Sum Closest](https://github.com/openset/leetcode/tree/master/problems/3sum-closest) (Medium)
-  1. [4Sum](https://github.com/openset/leetcode/tree/master/problems/4sum) (Medium)
-  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller) (Medium)
+  1. [Two Sum](../two-sum) (Easy)
+  1. [3Sum Closest](../3sum-closest) (Medium)
+  1. [4Sum](../4sum) (Medium)
+  1. [3Sum Smaller](../3sum-smaller) (Medium)

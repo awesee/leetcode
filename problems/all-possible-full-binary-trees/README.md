@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/groups-of-special-equivalent-strings "Groups of Special-Equivalent Strings")
+[< Previous](../groups-of-special-equivalent-strings "Groups of Special-Equivalent Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-frequency-stack "Maximum Frequency Stack")
+[Next >](../maximum-frequency-stack "Maximum Frequency Stack")
 
 ## [894. All Possible Full Binary Trees (Medium)](https://leetcode.com/problems/all-possible-full-binary-trees "所有可能的满二叉树")
 
@@ -39,5 +39,5 @@
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Recursion](https://github.com/openset/leetcode/tree/master/tag/recursion/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]

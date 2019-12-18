@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/logger-rate-limiter "Logger Rate Limiter")
+[< Previous](../logger-rate-limiter "Logger Rate Limiter")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/bomb-enemy "Bomb Enemy")
+[Next >](../bomb-enemy "Bomb Enemy")
 
 ## [360. Sort Transformed Array (Medium)](https://leetcode.com/problems/sort-transformed-array "有序转化数组")
 
@@ -34,11 +34,11 @@
 </pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Squares of a Sorted Array](https://github.com/openset/leetcode/tree/master/problems/squares-of-a-sorted-array) (Easy)
+  1. [Squares of a Sorted Array](../squares-of-a-sorted-array) (Easy)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-squareful-arrays "Number of Squareful Arrays")
+[< Previous](../number-of-squareful-arrays "Number of Squareful Arrays")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree-ii "Maximum Binary Tree II")
+[Next >](../maximum-binary-tree-ii "Maximum Binary Tree II")
 
 ## [997. Find the Town Judge (Easy)](https://leetcode.com/problems/find-the-town-judge "找到小镇的法官")
 
@@ -82,7 +82,7 @@
 </ol>
 
 ### Related Topics
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Similar Questions
-  1. [Find the Celebrity](https://github.com/openset/leetcode/tree/master/problems/find-the-celebrity) (Medium)
+  1. [Find the Celebrity](../find-the-celebrity) (Medium)

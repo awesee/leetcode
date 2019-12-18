@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/peeking-iterator "Peeking Iterator")
+[< Previous](../peeking-iterator "Peeking Iterator")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/walls-and-gates "Walls and Gates")
+[Next >](../walls-and-gates "Walls and Gates")
 
 ## [285. Inorder Successor in BST (Medium)](https://leetcode.com/problems/inorder-successor-in-bst "二叉搜索树中的顺序后继")
 
@@ -41,9 +41,9 @@
 </ol>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-inorder-traversal) (Medium)
-  1. [Binary Search Tree Iterator](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator) (Medium)
-  1. [Inorder Successor in BST II](https://github.com/openset/leetcode/tree/master/problems/inorder-successor-in-bst-ii) (Medium)
+  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Medium)
+  1. [Binary Search Tree Iterator](../binary-search-tree-iterator) (Medium)
+  1. [Inorder Successor in BST II](../inorder-successor-in-bst-ii) (Medium)

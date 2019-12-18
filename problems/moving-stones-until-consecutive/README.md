@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/stream-of-characters "Stream of Characters")
+[< Previous](../stream-of-characters "Stream of Characters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/coloring-a-border "Coloring A Border")
+[Next >](../coloring-a-border "Coloring A Border")
 
 ## [1033. Moving Stones Until Consecutive (Easy)](https://leetcode.com/problems/moving-stones-until-consecutive "移动石子直到连续")
 
@@ -69,7 +69,7 @@
 </div>
 
 ### Related Topics
-  [[Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
+  [[Brainteaser](../../tag/brainteaser/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/ambiguous-coordinates "Ambiguous Coordinates")
+[< Previous](../ambiguous-coordinates "Ambiguous Coordinates")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/race-car "Race Car")
+[Next >](../race-car "Race Car")
 
 ## [817. Linked List Components (Medium)](https://leetcode.com/problems/linked-list-components "链表组件")
 
@@ -49,4 +49,4 @@ G = [0, 3, 1, 4]
 </ul>
 
 ### Related Topics
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]

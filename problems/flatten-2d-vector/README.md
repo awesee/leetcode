@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-univalue-subtrees "Count Univalue Subtrees")
+[< Previous](../count-univalue-subtrees "Count Univalue Subtrees")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms "Meeting Rooms")
+[Next >](../meeting-rooms "Meeting Rooms")
 
 ## [251. Flatten 2D Vector (Medium)](https://leetcode.com/problems/flatten-2d-vector "展开二维向量")
 
@@ -45,13 +45,13 @@ iterator.hasNext(); // return false
 <p>As an added challenge, try to code it using only <a href="http://www.cplusplus.com/reference/iterator/iterator/" target="_blank">iterators in C++</a> or <a href="http://docs.oracle.com/javase/7/docs/api/java/util/Iterator.html" target="_blank">iterators in Java</a>.</p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Similar Questions
-  1. [Binary Search Tree Iterator](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-iterator) (Medium)
-  1. [Zigzag Iterator](https://github.com/openset/leetcode/tree/master/problems/zigzag-iterator) (Medium)
-  1. [Peeking Iterator](https://github.com/openset/leetcode/tree/master/problems/peeking-iterator) (Medium)
-  1. [Flatten Nested List Iterator](https://github.com/openset/leetcode/tree/master/problems/flatten-nested-list-iterator) (Medium)
+  1. [Binary Search Tree Iterator](../binary-search-tree-iterator) (Medium)
+  1. [Zigzag Iterator](../zigzag-iterator) (Medium)
+  1. [Peeking Iterator](../peeking-iterator) (Medium)
+  1. [Flatten Nested List Iterator](../flatten-nested-list-iterator) (Medium)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/bomb-enemy "Bomb Enemy")
+[< Previous](../bomb-enemy "Bomb Enemy")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/max-sum-of-rectangle-no-larger-than-k "Max Sum of Rectangle No Larger Than K")
+[Next >](../max-sum-of-rectangle-no-larger-than-k "Max Sum of Rectangle No Larger Than K")
 
 ## [362. Design Hit Counter (Medium)](https://leetcode.com/problems/design-hit-counter "敲击计数器")
 
@@ -48,7 +48,7 @@ counter.getHits(301);
 What if the number of hits per second could be very large? Does your design scale?</p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Similar Questions
-  1. [Logger Rate Limiter](https://github.com/openset/leetcode/tree/master/problems/logger-rate-limiter) (Easy)
+  1. [Logger Rate Limiter](../logger-rate-limiter) (Easy)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/check-if-it-is-a-good-array "Check If It Is a Good Array")
+[< Previous](../check-if-it-is-a-good-array "Check If It Is a Good Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/cells-with-odd-values-in-a-matrix "Cells with Odd Values in a Matrix")
+[Next >](../cells-with-odd-values-in-a-matrix "Cells with Odd Values in a Matrix")
 
 ## [1251. Average Selling Price (Easy)](https://leetcode.com/problems/average-selling-price "")
 

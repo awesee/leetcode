@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-string-chain "Longest String Chain")
+[< Previous](../longest-string-chain "Longest String Chain")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/actors-and-directors-who-cooperated-at-least-three-times "Actors and Directors Who Cooperated At Least Three Times")
+[Next >](../actors-and-directors-who-cooperated-at-least-three-times "Actors and Directors Who Cooperated At Least Three Times")
 
 ## [1049. Last Stone Weight II (Medium)](https://leetcode.com/problems/last-stone-weight-ii "最后一块石头的重量 II")
 
@@ -46,7 +46,7 @@ we can combine 1 and 1 to get 0 so the array converts to [1] then that&#39;s the
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/string-compression "String Compression")
+[< Previous](../string-compression "String Compression")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers-ii "Add Two Numbers II")
+[Next >](../add-two-numbers-ii "Add Two Numbers II")
 
 ## [444. Sequence Reconstruction (Medium)](https://leetcode.com/problems/sequence-reconstruction "序列重建")
 
@@ -68,8 +68,8 @@ The <i>seqs</i> parameter had been changed to a list of list of strings (instead
 </p>
 
 ### Related Topics
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[Topological Sort](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[Graph](../../tag/graph/README.md)]
+  [[Topological Sort](../../tag/topological-sort/README.md)]
 
 ### Similar Questions
-  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii) (Medium)
+  1. [Course Schedule II](../course-schedule-ii) (Medium)

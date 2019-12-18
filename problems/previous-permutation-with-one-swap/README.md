@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/grumpy-bookstore-owner "Grumpy Bookstore Owner")
+[< Previous](../grumpy-bookstore-owner "Grumpy Bookstore Owner")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/distant-barcodes "Distant Barcodes")
+[Next >](../distant-barcodes "Distant Barcodes")
 
 ## [1053. Previous Permutation With One Swap (Medium)](https://leetcode.com/problems/previous-permutation-with-one-swap "交换一次的先前排列")
 
@@ -57,8 +57,8 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

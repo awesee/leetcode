@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-to-merge-stones "Minimum Cost to Merge Stones")
+[< Previous](../minimum-cost-to-merge-stones "Minimum Cost to Merge Stones")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-common-characters "Find Common Characters")
+[Next >](../find-common-characters "Find Common Characters")
 
 ## [1001. Grid Illumination (Hard)](https://leetcode.com/problems/grid-illumination "网格照明")
 
@@ -57,7 +57,7 @@ Before performing the second query we have only the lamp [4,4] on.  Now the quer
 </ol>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [N-Queens](https://github.com/openset/leetcode/tree/master/problems/n-queens) (Hard)
+  1. [N-Queens](../n-queens) (Hard)

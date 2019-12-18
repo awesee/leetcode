@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sort-transformed-array "Sort Transformed Array")
+[< Previous](../sort-transformed-array "Sort Transformed Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-hit-counter "Design Hit Counter")
+[Next >](../design-hit-counter "Design Hit Counter")
 
 ## [361. Bomb Enemy (Medium)](https://leetcode.com/problems/bomb-enemy "轰炸敌人")
 
@@ -31,4 +31,4 @@ Placing a bomb at (1,1) kills 3 enemies.
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

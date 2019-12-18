@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/missing-number "Missing Number")
+[< Previous](../missing-number "Missing Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/closest-binary-search-tree-value "Closest Binary Search Tree Value")
+[Next >](../closest-binary-search-tree-value "Closest Binary Search Tree Value")
 
 ## [269. Alien Dictionary (Hard)](https://leetcode.com/problems/alien-dictionary "火星词典")
 
@@ -65,8 +65,8 @@
 </ol>
 
 ### Related Topics
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
-  [[Topological Sort](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
+  [[Graph](../../tag/graph/README.md)]
+  [[Topological Sort](../../tag/topological-sort/README.md)]
 
 ### Similar Questions
-  1. [Course Schedule II](https://github.com/openset/leetcode/tree/master/problems/course-schedule-ii) (Medium)
+  1. [Course Schedule II](../course-schedule-ii) (Medium)

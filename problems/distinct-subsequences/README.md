@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/flatten-binary-tree-to-linked-list "Flatten Binary Tree to Linked List")
+[< Previous](../flatten-binary-tree-to-linked-list "Flatten Binary Tree to Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/populating-next-right-pointers-in-each-node "Populating Next Right Pointers in Each Node")
+[Next >](../populating-next-right-pointers-in-each-node "Populating Next Right Pointers in Each Node")
 
 ## [115. Distinct Subsequences (Hard)](https://leetcode.com/problems/distinct-subsequences "不同的子序列")
 
@@ -56,5 +56,5 @@ As shown below, there are 5 ways you can generate &quot;bag&quot; from S.
 </pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

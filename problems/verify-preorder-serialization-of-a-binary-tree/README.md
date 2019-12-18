@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/patching-array "Patching Array")
+[< Previous](../patching-array "Patching Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reconstruct-itinerary "Reconstruct Itinerary")
+[Next >](../reconstruct-itinerary "Reconstruct Itinerary")
 
 ## [331. Verify Preorder Serialization of a Binary Tree (Medium)](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree "验证二叉树的前序序列化")
 
@@ -51,4 +51,4 @@
 <strong>Output: </strong><code>false</code></pre>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](../../tag/stack/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/line-reflection "Line Reflection")
+[< Previous](../line-reflection "Line Reflection")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/rearrange-string-k-distance-apart "Rearrange String k Distance Apart")
+[Next >](../rearrange-string-k-distance-apart "Rearrange String k Distance Apart")
 
 ## [357. Count Numbers with Unique Digits (Medium)](https://leetcode.com/problems/count-numbers-with-unique-digits "计算各个位数不同的数字个数")
 
@@ -25,9 +25,9 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints
 <details>

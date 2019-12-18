@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/first-unique-character-in-a-string "First Unique Character in a String")
+[< Previous](../first-unique-character-in-a-string "First Unique Character in a String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-the-difference "Find the Difference")
+[Next >](../find-the-difference "Find the Difference")
 
 ## [388. Longest Absolute File Path (Medium)](https://leetcode.com/problems/longest-absolute-file-path "文件的最长绝对路径")
 

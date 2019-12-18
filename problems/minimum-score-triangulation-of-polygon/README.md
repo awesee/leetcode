@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-to-greater-sum-tree "Binary Search Tree to Greater Sum Tree")
+[< Previous](../binary-search-tree-to-greater-sum-tree "Binary Search Tree to Greater Sum Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive-ii "Moving Stones Until Consecutive II")
+[Next >](../moving-stones-until-consecutive-ii "Moving Stones Until Consecutive II")
 
 ## [1039. Minimum Score Triangulation of Polygon (Medium)](https://leetcode.com/problems/minimum-score-triangulation-of-polygon "多边形三角剖分的最低得分")
 
@@ -64,7 +64,7 @@
 </div>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

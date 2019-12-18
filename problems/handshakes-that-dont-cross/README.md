@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/synonymous-sentences "Synonymous Sentences")
+[< Previous](../synonymous-sentences "Synonymous Sentences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shift-2d-grid "Shift 2D Grid")
+[Next >](../shift-2d-grid "Shift 2D Grid")
 
 ## [1259. Handshakes That Don't Cross (Hard)](https://leetcode.com/problems/handshakes-that-dont-cross "不相交的握手")
 
@@ -60,8 +60,8 @@
 </ul>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

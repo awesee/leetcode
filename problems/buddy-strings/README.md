@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/mirror-reflection "Mirror Reflection")
+[< Previous](../mirror-reflection "Mirror Reflection")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/lemonade-change "Lemonade Change")
+[Next >](../lemonade-change "Lemonade Change")
 
 ## [859. Buddy Strings (Easy)](https://leetcode.com/problems/buddy-strings "亲密字符串")
 
@@ -71,4 +71,4 @@
 </div>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reaching-points "Reaching Points")
+[< Previous](../reaching-points "Reaching Points")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/transform-to-chessboard "Transform to Chessboard")
+[Next >](../transform-to-chessboard "Transform to Chessboard")
 
 ## [781. Rabbits in Forest (Medium)](https://leetcode.com/problems/rabbits-in-forest "森林中的兔子")
 
@@ -41,5 +41,5 @@ The smallest possible number of rabbits in the forest is therefore 5: 3 that ans
 </ol>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Math](../../tag/math/README.md)]

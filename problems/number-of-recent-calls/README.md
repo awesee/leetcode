@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/beautiful-array "Beautiful Array")
+[< Previous](../beautiful-array "Beautiful Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-bridge "Shortest Bridge")
+[Next >](../shortest-bridge "Shortest Bridge")
 
 ## [933. Number of Recent Calls (Easy)](https://leetcode.com/problems/number-of-recent-calls "最近的请求次数")
 
@@ -44,4 +44,4 @@
 </div>
 
 ### Related Topics
-  [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[Queue](../../tag/queue/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/big-countries "Big Countries")
+[< Previous](../big-countries "Big Countries")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/friend-requests-i-overall-acceptance-rate "Friend Requests I: Overall Acceptance Rate")
+[Next >](../friend-requests-i-overall-acceptance-rate "Friend Requests I: Overall Acceptance Rate")
 
 ## [596. Classes More Than 5 Students (Easy)](https://leetcode.com/problems/classes-more-than-5-students "超过5名学生的课")
 

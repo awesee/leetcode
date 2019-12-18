@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms "Meeting Rooms")
+[< Previous](../meeting-rooms "Meeting Rooms")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/factor-combinations "Factor Combinations")
+[Next >](../factor-combinations "Factor Combinations")
 
 ## [253. Meeting Rooms II (Medium)](https://leetcode.com/problems/meeting-rooms-ii "会议室 II")
 
@@ -28,15 +28,15 @@
 <p><strong>NOTE:</strong>&nbsp;input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</p>
 
 ### Related Topics
-  [[Heap](https://github.com/openset/leetcode/tree/master/tag/heap/README.md)]
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Heap](../../tag/heap/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Sort](../../tag/sort/README.md)]
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
-  1. [Meeting Rooms](https://github.com/openset/leetcode/tree/master/problems/meeting-rooms) (Easy)
-  1. [Minimum Number of Arrows to Burst Balloons](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-arrows-to-burst-balloons) (Medium)
-  1. [Car Pooling](https://github.com/openset/leetcode/tree/master/problems/car-pooling) (Medium)
+  1. [Merge Intervals](../merge-intervals) (Medium)
+  1. [Meeting Rooms](../meeting-rooms) (Easy)
+  1. [Minimum Number of Arrows to Burst Balloons](../minimum-number-of-arrows-to-burst-balloons) (Medium)
+  1. [Car Pooling](../car-pooling) (Medium)
 
 ### Hints
 <details>

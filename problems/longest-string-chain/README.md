@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string "Remove All Adjacent Duplicates In String")
+[< Previous](../remove-all-adjacent-duplicates-in-string "Remove All Adjacent Duplicates In String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/last-stone-weight-ii "Last Stone Weight II")
+[Next >](../last-stone-weight-ii "Last Stone Weight II")
 
 ## [1048. Longest String Chain (Medium)](https://leetcode.com/problems/longest-string-chain "最长字符串链")
 
@@ -44,8 +44,8 @@
 </div>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

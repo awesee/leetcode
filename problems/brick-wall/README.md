@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/optimal-division "Optimal Division")
+[< Previous](../optimal-division "Optimal Division")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/split-concatenated-strings "Split Concatenated Strings")
+[Next >](../split-concatenated-strings "Split Concatenated Strings")
 
 ## [554. Brick Wall (Medium)](https://leetcode.com/problems/brick-wall "砖墙")
 
@@ -47,4 +47,4 @@
 </ol>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]

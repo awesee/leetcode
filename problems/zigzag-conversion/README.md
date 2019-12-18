@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-substring "Longest Palindromic Substring")
+[< Previous](../longest-palindromic-substring "Longest Palindromic Substring")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-integer "Reverse Integer")
+[Next >](../reverse-integer "Reverse Integer")
 
 ## [6. ZigZag Conversion (Medium)](https://leetcode.com/problems/zigzag-conversion "Z 字形变换")
 
@@ -46,4 +46,4 @@ Y A   H R
 P     I</pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

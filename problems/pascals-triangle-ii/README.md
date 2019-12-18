@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle "Pascal's Triangle")
+[< Previous](../pascals-triangle "Pascal's Triangle")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/triangle "Triangle")
+[Next >](../triangle "Triangle")
 
 ## [119. Pascal's Triangle II (Easy)](https://leetcode.com/problems/pascals-triangle-ii "杨辉三角 II")
 
@@ -30,7 +30,7 @@
 <p>Could you optimize your algorithm to use only <em>O</em>(<em>k</em>) extra space?</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Pascal's Triangle](https://github.com/openset/leetcode/tree/master/problems/pascals-triangle) (Easy)
+  1. [Pascal's Triangle](../pascals-triangle) (Easy)

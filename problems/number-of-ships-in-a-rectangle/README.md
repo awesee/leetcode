@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/delete-tree-nodes "Delete Tree Nodes")
+[< Previous](../delete-tree-nodes "Delete Tree Nodes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-winner-on-a-tic-tac-toe-game "Find Winner on a Tic Tac Toe Game")
+[Next >](../find-winner-on-a-tic-tac-toe-game "Find Winner on a Tic Tac Toe Game")
 
 ## [1274. Number of Ships in a Rectangle (Hard)](https://leetcode.com/problems/number-of-ships-in-a-rectangle "矩形内船只的数目")
 
@@ -43,7 +43,7 @@ ships = [[1,1],[2,2],[3,3],[5,5]], topRight = [4,4], bottomLeft = [0,0]
 </ul>
 
 ### Related Topics
-  [[Divide and Conquer](https://github.com/openset/leetcode/tree/master/tag/divide-and-conquer/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
 
 ### Hints
 <details>

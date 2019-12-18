@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/pancake-sorting "Pancake Sorting")
+[< Previous](../pancake-sorting "Pancake Sorting")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flip-binary-tree-to-match-preorder-traversal "Flip Binary Tree To Match Preorder Traversal")
+[Next >](../flip-binary-tree-to-match-preorder-traversal "Flip Binary Tree To Match Preorder Traversal")
 
 ## [970. Powerful Integers (Easy)](https://leetcode.com/problems/powerful-integers "强整数")
 
@@ -56,5 +56,5 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Math](../../tag/math/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-comments "Remove Comments")
+[< Previous](../remove-comments "Remove Comments")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-pivot-index "Find Pivot Index")
+[Next >](../find-pivot-index "Find Pivot Index")
 
 ## [723. Candy Crush (Medium)](https://leetcode.com/problems/candy-crush "粉碎糖果")
 
@@ -51,8 +51,8 @@ board =
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Hints
 <details>

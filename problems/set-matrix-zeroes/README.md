@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/edit-distance "Edit Distance")
+[< Previous](../edit-distance "Edit Distance")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/search-a-2d-matrix "Search a 2D Matrix")
+[Next >](../search-a-2d-matrix "Search a 2D Matrix")
 
 ## [73. Set Matrix Zeroes (Medium)](https://leetcode.com/problems/set-matrix-zeroes "矩阵置零")
 
@@ -56,10 +56,10 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Game of Life](https://github.com/openset/leetcode/tree/master/problems/game-of-life) (Medium)
+  1. [Game of Life](../game-of-life) (Medium)
 
 ### Hints
 <details>

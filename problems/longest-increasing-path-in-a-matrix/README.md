@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/odd-even-linked-list "Odd Even Linked List")
+[< Previous](../odd-even-linked-list "Odd Even Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/patching-array "Patching Array")
+[Next >](../patching-array "Patching Array")
 
 ## [329. Longest Increasing Path in a Matrix (Hard)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix "矩阵中的最长递增路径")
 
@@ -42,6 +42,6 @@
 </pre>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Topological Sort](https://github.com/openset/leetcode/tree/master/tag/topological-sort/README.md)]
-  [[Memoization](https://github.com/openset/leetcode/tree/master/tag/memoization/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Topological Sort](../../tag/topological-sort/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]

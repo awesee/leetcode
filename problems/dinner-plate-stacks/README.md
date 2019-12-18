@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-zero-sum-consecutive-nodes-from-linked-list "Remove Zero Sum Consecutive Nodes from Linked List")
+[< Previous](../remove-zero-sum-consecutive-nodes-from-linked-list "Remove Zero Sum Consecutive Nodes from Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/immediate-food-delivery-i "Immediate Food Delivery I")
+[Next >](../immediate-food-delivery-i "Immediate Food Delivery I")
 
 ## [1172. Dinner Plate Stacks (Hard)](https://leetcode.com/problems/dinner-plate-stacks "餐盘栈")
 
@@ -77,7 +77,7 @@ D.pop()            // Returns -1.  There are still no stacks.
 </ul>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Hints
 <details>

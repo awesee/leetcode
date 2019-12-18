@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii "Unique Paths III")
+[< Previous](../unique-paths-iii "Unique Paths III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/triples-with-bitwise-and-equal-to-zero "Triples with Bitwise AND Equal To Zero")
+[Next >](../triples-with-bitwise-and-equal-to-zero "Triples with Bitwise AND Equal To Zero")
 
 ## [981. Time Based Key-Value Store (Medium)](https://leetcode.com/problems/time-based-key-value-store "基于时间的键值存储")
 
@@ -69,5 +69,5 @@ kv.get(&quot;foo&quot;, 5); //output &quot;bar2&quot; &nbsp;
 </ol>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]

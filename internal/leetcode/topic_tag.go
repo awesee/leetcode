@@ -34,10 +34,10 @@ func (tag *TagType) SaveContents() {
 	})
 	var buf bytes.Buffer
 	buf.WriteString(authInfo("tag"))
-	buf.WriteString(fmt.Sprintf("\n## [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md) > %s\n\n", tag.name()))
+	buf.WriteString(fmt.Sprintf("\n## [话题分类](../README.md) > %s\n\n", tag.name()))
 	buf.WriteString("| # | 题名 | 标签 | 难度 |\n")
 	buf.WriteString("| :-: | - | - | :-: |\n")
-	format := "| %d | [%s](https://github.com/openset/leetcode/tree/master/problems/%s)%s | %s | %s |\n"
+	format := "| %d | [%s](../../problems/%s)%s | %s | %s |\n"
 	for _, question := range questions {
 		if question.TranslatedTitle == "" {
 			question.TranslatedTitle = question.Title
@@ -85,7 +85,7 @@ type ttQuestionType struct {
 
 func (question *ttQuestionType) TagsStr() string {
 	var buf bytes.Buffer
-	format := "[[%s](https://github.com/openset/leetcode/tree/master/tag/%s/README.md)] "
+	format := "[[%s](../%s/README.md)] "
 	for _, tag := range question.TopicTags {
 		buf.WriteString(fmt.Sprintf(format, tag.name(), tag.Slug))
 	}

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-prefix-divisible-by-5 "Binary Prefix Divisible By 5")
+[< Previous](../binary-prefix-divisible-by-5 "Binary Prefix Divisible By 5")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-enclaves "Number of Enclaves")
+[Next >](../number-of-enclaves "Number of Enclaves")
 
 ## [1019. Next Greater Node In Linked List (Medium)](https://leetcode.com/problems/next-greater-node-in-linked-list "链表中的下一个更大节点")
 
@@ -58,8 +58,8 @@
 </div>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
 
 ### Hints
 <details>

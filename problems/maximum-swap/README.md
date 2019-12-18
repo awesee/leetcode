@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/trim-a-binary-search-tree "Trim a Binary Search Tree")
+[< Previous](../trim-a-binary-search-tree "Trim a Binary Search Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/second-minimum-node-in-a-binary-tree "Second Minimum Node In a Binary Tree")
+[Next >](../second-minimum-node-in-a-binary-tree "Second Minimum Node In a Binary Tree")
 
 ## [670. Maximum Swap (Medium)](https://leetcode.com/problems/maximum-swap "最大交换")
 
@@ -39,8 +39,8 @@ Given a non-negative integer, you could swap two digits <b>at most</b> once to g
 </p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Create Maximum Number](https://github.com/openset/leetcode/tree/master/problems/create-maximum-number) (Hard)
+  1. [Create Maximum Number](../create-maximum-number) (Hard)

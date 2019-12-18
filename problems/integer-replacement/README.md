@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rotate-function "Rotate Function")
+[< Previous](../rotate-function "Rotate Function")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/random-pick-index "Random Pick Index")
+[Next >](../random-pick-index "Random Pick Index")
 
 ## [397. Integer Replacement (Medium)](https://leetcode.com/problems/integer-replacement "整数替换")
 
@@ -57,5 +57,5 @@ or
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Math](../../tag/math/README.md)]

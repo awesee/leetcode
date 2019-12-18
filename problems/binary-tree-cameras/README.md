@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/numbers-with-same-consecutive-differences "Numbers With Same Consecutive Differences")
+[< Previous](../numbers-with-same-consecutive-differences "Numbers With Same Consecutive Differences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/pancake-sorting "Pancake Sorting")
+[Next >](../pancake-sorting "Pancake Sorting")
 
 ## [968. Binary Tree Cameras (Hard)](https://leetcode.com/problems/binary-tree-cameras "监控二叉树")
 
@@ -48,9 +48,9 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Distribute Coins in Binary Tree](https://github.com/openset/leetcode/tree/master/problems/distribute-coins-in-binary-tree) (Medium)
+  1. [Distribute Coins in Binary Tree](../distribute-coins-in-binary-tree) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-preorder-and-postorder-traversal "Construct Binary Tree from Preorder and Postorder Traversal")
+[< Previous](../construct-binary-tree-from-preorder-and-postorder-traversal "Construct Binary Tree from Preorder and Postorder Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sum-of-subsequence-widths "Sum of Subsequence Widths")
+[Next >](../sum-of-subsequence-widths "Sum of Subsequence Widths")
 
 ## [890. Find and Replace Pattern (Medium)](https://leetcode.com/problems/find-and-replace-pattern "查找和替换模式")
 
@@ -44,4 +44,4 @@ since a and b map to the same letter.</pre>
 </div>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/decoded-string-at-index "Decoded String at Index")
+[< Previous](../decoded-string-at-index "Decoded String at Index")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reachable-nodes-in-subdivided-graph "Reachable Nodes In Subdivided Graph")
+[Next >](../reachable-nodes-in-subdivided-graph "Reachable Nodes In Subdivided Graph")
 
 ## [881. Boats to Save People (Medium)](https://leetcode.com/problems/boats-to-save-people "救生艇")
 
@@ -56,5 +56,5 @@
 </div>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]

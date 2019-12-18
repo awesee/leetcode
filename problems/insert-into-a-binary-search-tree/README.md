@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/search-in-a-binary-search-tree "Search in a Binary Search Tree")
+[< Previous](../search-in-a-binary-search-tree "Search in a Binary Search Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/search-in-a-sorted-array-of-unknown-size "Search in a Sorted Array of Unknown Size")
+[Next >](../search-in-a-sorted-array-of-unknown-size "Search in a Sorted Array of Unknown Size")
 
 ## [701. Insert into a Binary Search Tree (Medium)](https://leetcode.com/problems/insert-into-a-binary-search-tree "二叉搜索树中的插入操作")
 
@@ -50,7 +50,7 @@ And the value to insert: 5
 </pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Search in a Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/search-in-a-binary-search-tree) (Easy)
+  1. [Search in a Binary Search Tree](../search-in-a-binary-search-tree) (Easy)

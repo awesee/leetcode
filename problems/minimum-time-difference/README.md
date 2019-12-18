@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/convert-bst-to-greater-tree "Convert BST to Greater Tree")
+[< Previous](../convert-bst-to-greater-tree "Convert BST to Greater Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/single-element-in-a-sorted-array "Single Element in a Sorted Array")
+[Next >](../single-element-in-a-sorted-array "Single Element in a Sorted Array")
 
 ## [539. Minimum Time Difference (Medium)](https://leetcode.com/problems/minimum-time-difference "最小时间差")
 
@@ -28,4 +28,4 @@ Given a list of 24-hour clock time points in "Hour:Minutes" format, find the min
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

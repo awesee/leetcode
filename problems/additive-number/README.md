@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-islands-ii "Number of Islands II")
+[< Previous](../number-of-islands-ii "Number of Islands II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/range-sum-query-mutable "Range Sum Query - Mutable")
+[Next >](../range-sum-query-mutable "Range Sum Query - Mutable")
 
 ## [306. Additive Number (Medium)](https://leetcode.com/problems/additive-number "累加数")
 
@@ -50,7 +50,7 @@
 How would you handle overflow for very large input integers?</p>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Split Array into Fibonacci Sequence](https://github.com/openset/leetcode/tree/master/problems/split-array-into-fibonacci-sequence) (Medium)
+  1. [Split Array into Fibonacci Sequence](../split-array-into-fibonacci-sequence) (Medium)

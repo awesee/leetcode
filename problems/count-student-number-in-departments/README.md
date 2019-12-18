@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-cumulative-salary-of-an-employee "Find Cumulative Salary of an Employee")
+[< Previous](../find-cumulative-salary-of-an-employee "Find Cumulative Salary of an Employee")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-unsorted-continuous-subarray "Shortest Unsorted Continuous Subarray")
+[Next >](../shortest-unsorted-continuous-subarray "Shortest Unsorted Continuous Subarray")
 
 ## [580. Count Student Number in Departments (Medium)](https://leetcode.com/problems/count-student-number-in-departments "统计各专业学生人数")
 

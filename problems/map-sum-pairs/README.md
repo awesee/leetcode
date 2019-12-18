@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/implement-magic-dictionary "Implement Magic Dictionary")
+[< Previous](../implement-magic-dictionary "Implement Magic Dictionary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-parenthesis-string "Valid Parenthesis String")
+[Next >](../valid-parenthesis-string "Valid Parenthesis String")
 
 ## [677. Map Sum Pairs (Medium)](https://leetcode.com/problems/map-sum-pairs "键值映射")
 
@@ -33,4 +33,4 @@ Input: sum("ap"), Output: 5
 </p>
 
 ### Related Topics
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[Trie](../../tag/trie/README.md)]

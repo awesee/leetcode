@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-arithmetic-sequence "Longest Arithmetic Sequence")
+[< Previous](../longest-arithmetic-sequence "Longest Arithmetic Sequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/two-city-scheduling "Two City Scheduling")
+[Next >](../two-city-scheduling "Two City Scheduling")
 
 ## [1028. Recover a Tree From Preorder Traversal (Hard)](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal "从先序遍历还原二叉树")
 
@@ -65,8 +65,8 @@
 </div>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Hints
 <details>

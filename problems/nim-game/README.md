@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-pattern-ii "Word Pattern II")
+[< Previous](../word-pattern-ii "Word Pattern II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/flip-game "Flip Game")
+[Next >](../flip-game "Flip Game")
 
 ## [292. Nim Game (Easy)](https://leetcode.com/problems/nim-game "Nim 游戏")
 
@@ -25,11 +25,11 @@
 &nbsp;            removed by your friend.</pre>
 
 ### Related Topics
-  [[Brainteaser](https://github.com/openset/leetcode/tree/master/tag/brainteaser/README.md)]
-  [[Minimax](https://github.com/openset/leetcode/tree/master/tag/minimax/README.md)]
+  [[Brainteaser](../../tag/brainteaser/README.md)]
+  [[Minimax](../../tag/minimax/README.md)]
 
 ### Similar Questions
-  1. [Flip Game II](https://github.com/openset/leetcode/tree/master/problems/flip-game-ii) (Medium)
+  1. [Flip Game II](../flip-game-ii) (Medium)
 
 ### Hints
 <details>

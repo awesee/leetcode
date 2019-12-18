@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/3sum "3Sum")
+[< Previous](../3sum "3Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/letter-combinations-of-a-phone-number "Letter Combinations of a Phone Number")
+[Next >](../letter-combinations-of-a-phone-number "Letter Combinations of a Phone Number")
 
 ## [16. 3Sum Closest (Medium)](https://leetcode.com/problems/3sum-closest "最接近的三数之和")
 
@@ -22,9 +22,9 @@ The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [3Sum](https://github.com/openset/leetcode/tree/master/problems/3sum) (Medium)
-  1. [3Sum Smaller](https://github.com/openset/leetcode/tree/master/problems/3sum-smaller) (Medium)
+  1. [3Sum](../3sum) (Medium)
+  1. [3Sum Smaller](../3sum-smaller) (Medium)

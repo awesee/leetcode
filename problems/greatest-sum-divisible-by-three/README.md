@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-elements-in-a-contaminated-binary-tree "Find Elements in a Contaminated Binary Tree")
+[< Previous](../find-elements-in-a-contaminated-binary-tree "Find Elements in a Contaminated Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-moves-to-move-a-box-to-their-target-location "Minimum Moves to Move a Box to Their Target Location")
+[Next >](../minimum-moves-to-move-a-box-to-their-target-location "Minimum Moves to Move a Box to Their Target Location")
 
 ## [1262. Greatest Sum Divisible by Three (Medium)](https://leetcode.com/problems/greatest-sum-divisible-by-three "可被三整除的最大和")
 
@@ -49,7 +49,7 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

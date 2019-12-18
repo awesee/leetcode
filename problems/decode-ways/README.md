@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/subsets-ii "Subsets II")
+[< Previous](../subsets-ii "Subsets II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-linked-list-ii "Reverse Linked List II")
+[Next >](../reverse-linked-list-ii "Reverse Linked List II")
 
 ## [91. Decode Ways (Medium)](https://leetcode.com/problems/decode-ways "解码方法")
 
@@ -38,8 +38,8 @@
 <strong>Explanation:</strong>&nbsp;It could be decoded as &quot;BZ&quot; (2 26), &quot;VF&quot; (22 6), or &quot;BBF&quot; (2 2 6).</pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Decode Ways II](https://github.com/openset/leetcode/tree/master/problems/decode-ways-ii) (Hard)
+  1. [Decode Ways II](../decode-ways-ii) (Hard)

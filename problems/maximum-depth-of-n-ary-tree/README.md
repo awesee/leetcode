@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/quad-tree-intersection "Quad Tree Intersection")
+[< Previous](../quad-tree-intersection "Quad Tree Intersection")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/subarray-sum-equals-k "Subarray Sum Equals K")
+[Next >](../subarray-sum-equals-k "Subarray Sum Equals K")
 
 ## [559. Maximum Depth of N-ary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree "N叉树的最大深度")
 
@@ -45,9 +45,9 @@
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Maximum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-binary-tree) (Easy)
+  1. [Maximum Depth of Binary Tree](../maximum-depth-of-binary-tree) (Easy)

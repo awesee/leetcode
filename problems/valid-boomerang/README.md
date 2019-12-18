@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/escape-a-large-maze "Escape a Large Maze")
+[< Previous](../escape-a-large-maze "Escape a Large Maze")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-search-tree-to-greater-sum-tree "Binary Search Tree to Greater Sum Tree")
+[Next >](../binary-search-tree-to-greater-sum-tree "Binary Search Tree to Greater Sum Tree")
 
 ## [1037. Valid Boomerang (Easy)](https://leetcode.com/problems/valid-boomerang "有效的回旋镖")
 
@@ -47,7 +47,7 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

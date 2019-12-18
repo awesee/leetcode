@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/rank-scores "Rank Scores")
+[< Previous](../rank-scores "Rank Scores")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/consecutive-numbers "Consecutive Numbers")
+[Next >](../consecutive-numbers "Consecutive Numbers")
 
 ## [179. Largest Number (Medium)](https://leetcode.com/problems/largest-number "最大数")
 
@@ -29,4 +29,4 @@
 <p><strong>Note:</strong> The result may be very large, so you need to return a string instead of an integer.</p>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Sort](../../tag/sort/README.md)]

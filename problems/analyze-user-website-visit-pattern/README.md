@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-swaps-to-group-all-1s-together "Minimum Swaps to Group All 1's Together")
+[< Previous](../minimum-swaps-to-group-all-1s-together "Minimum Swaps to Group All 1's Together")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/string-transforms-into-another-string "String Transforms Into Another String")
+[Next >](../string-transforms-into-another-string "String Transforms Into Another String")
 
 ## [1152. Analyze User Website Visit Pattern (Medium)](https://leetcode.com/problems/analyze-user-website-visit-pattern "用户网站访问行为分析")
 
@@ -58,9 +58,9 @@ The 3-sequence (&quot;cart&quot;, &quot;maps&quot;, &quot;home&quot;) was visite
 </ol>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

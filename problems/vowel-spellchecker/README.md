@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/univalued-binary-tree "Univalued Binary Tree")
+[< Previous](../univalued-binary-tree "Univalued Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/numbers-with-same-consecutive-differences "Numbers With Same Consecutive Differences")
+[Next >](../numbers-with-same-consecutive-differences "Numbers With Same Consecutive Differences")
 
 ## [966. Vowel Spellchecker (Medium)](https://leetcode.com/problems/vowel-spellchecker "元音拼写检查器")
 
@@ -64,5 +64,5 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]

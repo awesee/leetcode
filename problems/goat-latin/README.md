@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-trees-with-factors "Binary Trees With Factors")
+[< Previous](../binary-trees-with-factors "Binary Trees With Factors")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/friends-of-appropriate-ages "Friends Of Appropriate Ages")
+[Next >](../friends-of-appropriate-ages "Friends Of Appropriate Ages")
 
 ## [824. Goat Latin (Easy)](https://leetcode.com/problems/goat-latin "山羊拉丁文")
 
@@ -56,4 +56,4 @@
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

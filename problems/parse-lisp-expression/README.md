@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/asteroid-collision "Asteroid Collision")
+[< Previous](../asteroid-collision "Asteroid Collision")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sentence-similarity-ii "Sentence Similarity II")
+[Next >](../sentence-similarity-ii "Sentence Similarity II")
 
 ## [736. Parse Lisp Expression (Hard)](https://leetcode.com/problems/parse-lisp-expression "Lisp 语法解析")
 
@@ -75,12 +75,12 @@ of the final x in the add-expression.  That final x will equal 2.
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Ternary Expression Parser](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser) (Medium)
-  1. [Number of Atoms](https://github.com/openset/leetcode/tree/master/problems/number-of-atoms) (Hard)
-  1. [Basic Calculator IV](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iv) (Hard)
+  1. [Ternary Expression Parser](../ternary-expression-parser) (Medium)
+  1. [Number of Atoms](../number-of-atoms) (Hard)
+  1. [Basic Calculator IV](../basic-calculator-iv) (Hard)
 
 ### Hints
 <details>

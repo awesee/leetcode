@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/house-robber-ii "House Robber II")
+[< Previous](../house-robber-ii "House Robber II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/kth-largest-element-in-an-array "Kth Largest Element in an Array")
+[Next >](../kth-largest-element-in-an-array "Kth Largest Element in an Array")
 
 ## [214. Shortest Palindrome (Hard)](https://leetcode.com/problems/shortest-palindrome "最短回文串")
 
@@ -27,9 +27,9 @@
 <strong>Output:</strong> <code>&quot;dcbabcd&quot;</code></pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Longest Palindromic Substring](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-substring) (Medium)
-  1. [Implement strStr()](https://github.com/openset/leetcode/tree/master/problems/implement-strstr) (Easy)
-  1. [Palindrome Pairs](https://github.com/openset/leetcode/tree/master/problems/palindrome-pairs) (Hard)
+  1. [Longest Palindromic Substring](../longest-palindromic-substring) (Medium)
+  1. [Implement strStr()](../implement-strstr) (Easy)
+  1. [Palindrome Pairs](../palindrome-pairs) (Hard)

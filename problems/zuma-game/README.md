@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/max-consecutive-ones-ii "Max Consecutive Ones II")
+[< Previous](../max-consecutive-ones-ii "Max Consecutive Ones II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/robot-room-cleaner "Robot Room Cleaner")
+[Next >](../robot-room-cleaner "Robot Room Cleaner")
 
 ## [488. Zuma Game (Hard)](https://leetcode.com/problems/zuma-game "祖玛游戏")
 
@@ -47,4 +47,4 @@ Find the minimal balls you have to insert to remove all the balls on the table. 
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]

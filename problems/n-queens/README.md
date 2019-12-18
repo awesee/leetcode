@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/powx-n "Pow(x, n)")
+[< Previous](../powx-n "Pow(x, n)")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/n-queens-ii "N-Queens II")
+[Next >](../n-queens-ii "N-Queens II")
 
 ## [51. N-Queens (Hard)](https://leetcode.com/problems/n-queens "N皇后")
 
@@ -38,8 +38,8 @@
 </pre>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [N-Queens II](https://github.com/openset/leetcode/tree/master/problems/n-queens-ii) (Hard)
-  1. [Grid Illumination](https://github.com/openset/leetcode/tree/master/problems/grid-illumination) (Hard)
+  1. [N-Queens II](../n-queens-ii) (Hard)
+  1. [Grid Illumination](../grid-illumination) (Hard)

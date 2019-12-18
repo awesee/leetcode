@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices-ii-subsequence "Arithmetic Slices II - Subsequence")
+[< Previous](../arithmetic-slices-ii-subsequence "Arithmetic Slices II - Subsequence")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-all-numbers-disappeared-in-an-array "Find All Numbers Disappeared in an Array")
+[Next >](../find-all-numbers-disappeared-in-an-array "Find All Numbers Disappeared in an Array")
 
 ## [447. Number of Boomerangs (Easy)](https://leetcode.com/problems/number-of-boomerangs "回旋镖的数量")
 
@@ -31,7 +31,7 @@ The two boomerangs are <b>[[1,0],[0,0],[2,0]]</b> and <b>[[1,0],[2,0],[0,0]]</b>
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Line Reflection](https://github.com/openset/leetcode/tree/master/problems/line-reflection) (Medium)
+  1. [Line Reflection](../line-reflection) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/distribute-candies "Distribute Candies")
+[< Previous](../distribute-candies "Distribute Candies")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/employee-bonus "Employee Bonus")
+[Next >](../employee-bonus "Employee Bonus")
 
 ## [576. Out of Boundary Paths (Medium)](https://leetcode.com/problems/out-of-boundary-paths "出界的路径数")
 
@@ -44,11 +44,11 @@
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Knight Probability in Chessboard](https://github.com/openset/leetcode/tree/master/problems/knight-probability-in-chessboard) (Medium)
+  1. [Knight Probability in Chessboard](../knight-probability-in-chessboard) (Medium)
 
 ### Hints
 <details>

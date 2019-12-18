@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/group-the-people-given-the-group-size-they-belong-to "Group the People Given the Group Size They Belong To")
+[< Previous](../group-the-people-given-the-group-size-they-belong-to "Group the People Given the Group Size They Belong To")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix")
+[Next >](../minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix")
 
 ## [1283. Find the Smallest Divisor Given a Threshold (Medium)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold "使结果不超过阈值的最小除数")
 
@@ -51,7 +51,7 @@ If the divisor is 4 we can get a sum to 7 (1+1+2+3) and if the divisor is 5 the 
 </ul>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

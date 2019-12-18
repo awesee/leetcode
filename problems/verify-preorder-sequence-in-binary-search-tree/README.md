@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/factor-combinations "Factor Combinations")
+[< Previous](../factor-combinations "Factor Combinations")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/paint-house "Paint House")
+[Next >](../paint-house "Paint House")
 
 ## [255. Verify Preorder Sequence in Binary Search Tree (Medium)](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree "验证前序遍历序列二叉搜索树")
 
@@ -40,8 +40,8 @@
 Could you do it using only constant space complexity?</p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Preorder Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-preorder-traversal) (Medium)
+  1. [Binary Tree Preorder Traversal](../binary-tree-preorder-traversal) (Medium)

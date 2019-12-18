@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/split-array-into-consecutive-subsequences "Split Array into Consecutive Subsequences")
+[< Previous](../split-array-into-consecutive-subsequences "Split Array into Consecutive Subsequences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/image-smoother "Image Smoother")
+[Next >](../image-smoother "Image Smoother")
 
 ## [660. Remove 9 (Hard)](https://leetcode.com/problems/remove-9 "移除 9")
 
@@ -28,4 +28,4 @@
 </p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

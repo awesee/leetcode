@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/partition-array-for-maximum-sum "Partition Array for Maximum Sum")
+[< Previous](../partition-array-for-maximum-sum "Partition Array for Maximum Sum")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/customers-who-bought-all-products "Customers Who Bought All Products")
+[Next >](../customers-who-bought-all-products "Customers Who Bought All Products")
 
 ## [1044. Longest Duplicate Substring (Hard)](https://leetcode.com/problems/longest-duplicate-substring "最长重复子串")
 
@@ -41,8 +41,8 @@
 </ol>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

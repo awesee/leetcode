@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/lemonade-change "Lemonade Change")
+[< Previous](../lemonade-change "Lemonade Change")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/shortest-subarray-with-sum-at-least-k "Shortest Subarray with Sum at Least K")
+[Next >](../shortest-subarray-with-sum-at-least-k "Shortest Subarray with Sum at Least K")
 
 ## [861. Score After Flipping Matrix (Medium)](https://leetcode.com/problems/score-after-flipping-matrix "翻转矩阵后的得分")
 
@@ -46,4 +46,4 @@
 </div>
 
 ### Related Topics
-  [[Greedy](https://github.com/openset/leetcode/tree/master/tag/greedy/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

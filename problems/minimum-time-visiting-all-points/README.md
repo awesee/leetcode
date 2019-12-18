@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/print-immutable-linked-list-in-reverse "Print Immutable Linked List in Reverse")
+[< Previous](../print-immutable-linked-list-in-reverse "Print Immutable Linked List in Reverse")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/count-servers-that-communicate "Count Servers that Communicate")
+[Next >](../count-servers-that-communicate "Count Servers that Communicate")
 
 ## [1266. Minimum Time Visiting All Points (Easy)](https://leetcode.com/problems/minimum-time-visiting-all-points "访问所有点的最小时间")
 
@@ -49,8 +49,8 @@ Total time = 7 seconds</pre>
 </ul>
 
 ### Related Topics
-  [[Geometry](https://github.com/openset/leetcode/tree/master/tag/geometry/README.md)]
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Geometry](../../tag/geometry/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

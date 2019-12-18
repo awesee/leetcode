@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/convert-sorted-list-to-binary-search-tree "Convert Sorted List to Binary Search Tree")
+[< Previous](../convert-sorted-list-to-binary-search-tree "Convert Sorted List to Binary Search Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-depth-of-binary-tree "Minimum Depth of Binary Tree")
+[Next >](../minimum-depth-of-binary-tree "Minimum Depth of Binary Tree")
 
 ## [110. Balanced Binary Tree (Easy)](https://leetcode.com/problems/balanced-binary-tree "平衡二叉树")
 
@@ -51,8 +51,8 @@
 <p>Return false.</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Maximum Depth of Binary Tree](https://github.com/openset/leetcode/tree/master/problems/maximum-depth-of-binary-tree) (Easy)
+  1. [Maximum Depth of Binary Tree](../maximum-depth-of-binary-tree) (Easy)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/n-ary-tree-level-order-traversal "N-ary Tree Level Order Traversal")
+[< Previous](../n-ary-tree-level-order-traversal "N-ary Tree Level Order Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/encode-n-ary-tree-to-binary-tree "Encode N-ary Tree to Binary Tree")
+[Next >](../encode-n-ary-tree-to-binary-tree "Encode N-ary Tree to Binary Tree")
 
 ## [430. Flatten a Multilevel Doubly Linked List (Medium)](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list "扁平化多级双向链表")
 
@@ -96,8 +96,8 @@ After flattening the multilevel linked list it becomes:
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Linked List](https://github.com/openset/leetcode/tree/master/tag/linked-list/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
 
 ### Similar Questions
-  1. [Flatten Binary Tree to Linked List](https://github.com/openset/leetcode/tree/master/problems/flatten-binary-tree-to-linked-list) (Medium)
+  1. [Flatten Binary Tree to Linked List](../flatten-binary-tree-to-linked-list) (Medium)

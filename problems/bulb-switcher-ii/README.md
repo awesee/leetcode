@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/second-minimum-node-in-a-binary-tree "Second Minimum Node In a Binary Tree")
+[< Previous](../second-minimum-node-in-a-binary-tree "Second Minimum Node In a Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-longest-increasing-subsequence "Number of Longest Increasing Subsequence")
+[Next >](../number-of-longest-increasing-subsequence "Number of Longest Increasing Subsequence")
 
 ## [672. Bulb Switcher II (Medium)](https://leetcode.com/problems/bulb-switcher-ii "灯泡开关 Ⅱ")
 
@@ -57,7 +57,7 @@
 <p><b>Note:</b> <code>n</code> and <code>m</code> both fit in range [0, 1000].</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Bulb Switcher](https://github.com/openset/leetcode/tree/master/problems/bulb-switcher) (Medium)
+  1. [Bulb Switcher](../bulb-switcher) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/random-pick-index "Random Pick Index")
+[< Previous](../random-pick-index "Random Pick Index")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/nth-digit "Nth Digit")
+[Next >](../nth-digit "Nth Digit")
 
 ## [399. Evaluate Division (Medium)](https://leetcode.com/problems/evaluate-division "除法求值")
 
@@ -32,8 +32,8 @@ queries = [ [&quot;a&quot;, &quot;c&quot;], [&quot;b&quot;, &quot;a&quot;], [&qu
 <p>The input is always valid. You may assume that evaluating the queries will result in no division by zero and there is no contradiction.</p>
 
 ### Related Topics
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Hints
 <details>

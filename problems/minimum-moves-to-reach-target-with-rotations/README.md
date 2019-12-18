@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string-ii "Remove All Adjacent Duplicates in String II")
+[< Previous](../remove-all-adjacent-duplicates-in-string-ii "Remove All Adjacent Duplicates in String II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/queries-quality-and-percentage "Queries Quality and Percentage")
+[Next >](../queries-quality-and-percentage "Queries Quality and Percentage")
 
 ## [1210. Minimum Moves to Reach Target with Rotations (Hard)](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations "穿过迷宫的最少移动次数")
 
@@ -67,7 +67,7 @@
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

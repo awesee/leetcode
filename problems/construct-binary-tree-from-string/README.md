@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/encode-and-decode-tinyurl "Encode and Decode TinyURL")
+[< Previous](../encode-and-decode-tinyurl "Encode and Decode TinyURL")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/complex-number-multiplication "Complex Number Multiplication")
+[Next >](../complex-number-multiplication "Complex Number Multiplication")
 
 ## [536. Construct Binary Tree from String (Medium)](https://leetcode.com/problems/construct-binary-tree-from-string "从字符串生成二叉树")
 
@@ -38,8 +38,8 @@
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Construct String from Binary Tree](https://github.com/openset/leetcode/tree/master/problems/construct-string-from-binary-tree) (Easy)
+  1. [Construct String from Binary Tree](../construct-string-from-binary-tree) (Easy)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-only-letters "Reverse Only Letters")
+[< Previous](../reverse-only-letters "Reverse Only Letters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/complete-binary-tree-inserter "Complete Binary Tree Inserter")
+[Next >](../complete-binary-tree-inserter "Complete Binary Tree Inserter")
 
 ## [918. Maximum Sum Circular Subarray (Medium)](https://leetcode.com/problems/maximum-sum-circular-subarray "环形子数组的最大和")
 
@@ -77,7 +77,7 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

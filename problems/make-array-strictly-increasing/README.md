@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-subarray-sum-with-one-deletion "Maximum Subarray Sum with One Deletion")
+[< Previous](../maximum-subarray-sum-with-one-deletion "Maximum Subarray Sum with One Deletion")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-bounded-blocking-queue "Design Bounded Blocking Queue")
+[Next >](../design-bounded-blocking-queue "Design Bounded Blocking Queue")
 
 ## [1187. Make Array Strictly Increasing (Hard)](https://leetcode.com/problems/make-array-strictly-increasing "使数组严格递增")
 
@@ -52,7 +52,7 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

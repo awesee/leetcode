@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-time-to-build-blocks "Minimum Time to Build Blocks")
+[< Previous](../minimum-time-to-build-blocks "Minimum Time to Build Blocks")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/ugly-number-iii "Ugly Number III")
+[Next >](../ugly-number-iii "Ugly Number III")
 
 ## [1200. Minimum Absolute Difference (Easy)](https://leetcode.com/problems/minimum-absolute-difference "最小绝对差")
 
@@ -52,7 +52,7 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

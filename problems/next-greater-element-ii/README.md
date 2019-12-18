@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/ipo "IPO")
+[< Previous](../ipo "IPO")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/base-7 "Base 7")
+[Next >](../base-7 "Base 7")
 
 ## [503. Next Greater Element II (Medium)](https://leetcode.com/problems/next-greater-element-ii "下一个更大元素 II")
 
@@ -28,8 +28,8 @@ The length of given array won't exceed 10000.
 </p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
+  [[Stack](../../tag/stack/README.md)]
 
 ### Similar Questions
-  1. [Next Greater Element I](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-i) (Easy)
-  1. [Next Greater Element III](https://github.com/openset/leetcode/tree/master/problems/next-greater-element-iii) (Medium)
+  1. [Next Greater Element I](../next-greater-element-i) (Easy)
+  1. [Next Greater Element III](../next-greater-element-iii) (Medium)

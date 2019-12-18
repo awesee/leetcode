@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-vowels-of-a-string "Reverse Vowels of a String")
+[< Previous](../reverse-vowels-of-a-string "Reverse Vowels of a String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/top-k-frequent-elements "Top K Frequent Elements")
+[Next >](../top-k-frequent-elements "Top K Frequent Elements")
 
 ## [346. Moving Average from Data Stream (Easy)](https://leetcode.com/problems/moving-average-from-data-stream "数据流中的移动平均值")
 
@@ -26,5 +26,5 @@ m.next(5) = (10 + 3 + 5) / 3
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Queue](https://github.com/openset/leetcode/tree/master/tag/queue/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Queue](../../tag/queue/README.md)]

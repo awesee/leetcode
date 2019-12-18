@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/average-salary-departments-vs-company "Average Salary: Departments VS Company")
+[< Previous](../average-salary-departments-vs-company "Average Salary: Departments VS Company")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/merge-two-binary-trees "Merge Two Binary Trees")
+[Next >](../merge-two-binary-trees "Merge Two Binary Trees")
 
 ## [616. Add Bold Tag in String (Medium)](https://leetcode.com/problems/add-bold-tag-in-string "给字符串添加加粗标签")
 
@@ -41,8 +41,8 @@ dict = ["aaa","aab","bc"]
 </p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Merge Intervals](https://github.com/openset/leetcode/tree/master/problems/merge-intervals) (Medium)
-  1. [Tag Validator](https://github.com/openset/leetcode/tree/master/problems/tag-validator) (Hard)
+  1. [Merge Intervals](../merge-intervals) (Medium)
+  1. [Tag Validator](../tag-validator) (Hard)

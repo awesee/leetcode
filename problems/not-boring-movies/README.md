@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/biggest-single-number "Biggest Single Number")
+[< Previous](../biggest-single-number "Biggest Single Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/task-scheduler "Task Scheduler")
+[Next >](../task-scheduler "Task Scheduler")
 
 ## [620. Not Boring Movies (Easy)](https://leetcode.com/problems/not-boring-movies "有趣的电影")
 

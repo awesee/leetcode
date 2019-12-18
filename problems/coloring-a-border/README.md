@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/moving-stones-until-consecutive "Moving Stones Until Consecutive")
+[< Previous](../moving-stones-until-consecutive "Moving Stones Until Consecutive")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/uncrossed-lines "Uncrossed Lines")
+[Next >](../uncrossed-lines "Uncrossed Lines")
 
 ## [1034. Coloring A Border (Medium)](https://leetcode.com/problems/coloring-a-border "边框着色")
 
@@ -59,10 +59,10 @@
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Island Perimeter](https://github.com/openset/leetcode/tree/master/problems/island-perimeter) (Easy)
+  1. [Island Perimeter](../island-perimeter) (Easy)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/regions-cut-by-slashes "Regions Cut By Slashes")
+[< Previous](../regions-cut-by-slashes "Regions Cut By Slashes")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/n-repeated-element-in-size-2n-array "N-Repeated Element in Size 2N Array")
+[Next >](../n-repeated-element-in-size-2n-array "N-Repeated Element in Size 2N Array")
 
 ## [960. Delete Columns to Make Sorted III (Hard)](https://leetcode.com/problems/delete-columns-to-make-sorted-iii "删列造序 III")
 
@@ -67,4 +67,4 @@ Note that A[0] &gt; A[1] - the array A isn&#39;t necessarily in lexicographic or
 </ol>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

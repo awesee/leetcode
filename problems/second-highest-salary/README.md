@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/combine-two-tables "Combine Two Tables")
+[< Previous](../combine-two-tables "Combine Two Tables")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/nth-highest-salary "Nth Highest Salary")
+[Next >](../nth-highest-salary "Nth Highest Salary")
 
 ## [176. Second Highest Salary (Easy)](https://leetcode.com/problems/second-highest-salary "第二高的薪水")
 

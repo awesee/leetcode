@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-inorder-and-postorder-traversal "Construct Binary Tree from Inorder and Postorder Traversal")
+[< Previous](../construct-binary-tree-from-inorder-and-postorder-traversal "Construct Binary Tree from Inorder and Postorder Traversal")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/convert-sorted-array-to-binary-search-tree "Convert Sorted Array to Binary Search Tree")
+[Next >](../convert-sorted-array-to-binary-search-tree "Convert Sorted Array to Binary Search Tree")
 
 ## [107. Binary Tree Level Order Traversal II (Easy)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii "二叉树的层次遍历 II")
 
@@ -36,9 +36,9 @@ return its bottom-up level order traversal as:<br />
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Level Order Traversal](https://github.com/openset/leetcode/tree/master/problems/binary-tree-level-order-traversal) (Medium)
-  1. [Average of Levels in Binary Tree](https://github.com/openset/leetcode/tree/master/problems/average-of-levels-in-binary-tree) (Easy)
+  1. [Binary Tree Level Order Traversal](../binary-tree-level-order-traversal) (Medium)
+  1. [Average of Levels in Binary Tree](../average-of-levels-in-binary-tree) (Easy)

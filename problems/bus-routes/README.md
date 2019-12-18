@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/binary-tree-pruning "Binary Tree Pruning")
+[< Previous](../binary-tree-pruning "Binary Tree Pruning")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/ambiguous-coordinates "Ambiguous Coordinates")
+[Next >](../ambiguous-coordinates "Ambiguous Coordinates")
 
 ## [815. Bus Routes (Hard)](https://leetcode.com/problems/bus-routes "公交路线")
 
@@ -35,4 +35,4 @@ The best strategy is take the first bus to the bus stop 7, then take the second 
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/two-city-scheduling "Two City Scheduling")
+[< Previous](../two-city-scheduling "Two City Scheduling")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-sum-of-two-non-overlapping-subarrays "Maximum Sum of Two Non-Overlapping Subarrays")
+[Next >](../maximum-sum-of-two-non-overlapping-subarrays "Maximum Sum of Two Non-Overlapping Subarrays")
 
 ## [1030. Matrix Cells in Distance Order (Easy)](https://leetcode.com/problems/matrix-cells-in-distance-order "距离顺序排列矩阵单元格")
 
@@ -63,4 +63,4 @@ There are other answers that would also be accepted as correct, such as [[1,2],[
 </div>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
+  [[Sort](../../tag/sort/README.md)]

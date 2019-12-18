@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-rotation-with-highest-score "Smallest Rotation with Highest Score")
+[< Previous](../smallest-rotation-with-highest-score "Smallest Rotation with Highest Score")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/similar-rgb-color "Similar RGB Color")
+[Next >](../similar-rgb-color "Similar RGB Color")
 
 ## [799. Champagne Tower (Medium)](https://leetcode.com/problems/champagne-tower "香槟塔")
 

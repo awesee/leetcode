@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/non-decreasing-array "Non-decreasing Array")
+[< Previous](../non-decreasing-array "Non-decreasing Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/beautiful-arrangement-ii "Beautiful Arrangement II")
+[Next >](../beautiful-arrangement-ii "Beautiful Arrangement II")
 
 ## [666. Path Sum IV (Medium)](https://leetcode.com/problems/path-sum-iv "路径和 IV")
 
@@ -56,10 +56,10 @@ The path sum is (3 + 1) = 4.
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Path Sum](https://github.com/openset/leetcode/tree/master/problems/path-sum) (Easy)
-  1. [Path Sum II](https://github.com/openset/leetcode/tree/master/problems/path-sum-ii) (Medium)
-  1. [Binary Tree Maximum Path Sum](https://github.com/openset/leetcode/tree/master/problems/binary-tree-maximum-path-sum) (Hard)
-  1. [Path Sum III](https://github.com/openset/leetcode/tree/master/problems/path-sum-iii) (Easy)
+  1. [Path Sum](../path-sum) (Easy)
+  1. [Path Sum II](../path-sum-ii) (Medium)
+  1. [Binary Tree Maximum Path Sum](../binary-tree-maximum-path-sum) (Hard)
+  1. [Path Sum III](../path-sum-iii) (Easy)

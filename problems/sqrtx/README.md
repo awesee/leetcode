@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/text-justification "Text Justification")
+[< Previous](../text-justification "Text Justification")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/climbing-stairs "Climbing Stairs")
+[Next >](../climbing-stairs "Climbing Stairs")
 
 ## [69. Sqrt(x) (Easy)](https://leetcode.com/problems/sqrtx "x 的平方根")
 
@@ -34,12 +34,12 @@
 </pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Pow(x, n)](https://github.com/openset/leetcode/tree/master/problems/powx-n) (Medium)
-  1. [Valid Perfect Square](https://github.com/openset/leetcode/tree/master/problems/valid-perfect-square) (Easy)
+  1. [Pow(x, n)](../powx-n) (Medium)
+  1. [Valid Perfect Square](../valid-perfect-square) (Easy)
 
 ### Hints
 <details>

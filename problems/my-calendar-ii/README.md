@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/count-different-palindromic-subsequences "Count Different Palindromic Subsequences")
+[< Previous](../count-different-palindromic-subsequences "Count Different Palindromic Subsequences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/my-calendar-iii "My Calendar III")
+[Next >](../my-calendar-iii "My Calendar III")
 
 ## [731. My Calendar II (Medium)](https://leetcode.com/problems/my-calendar-ii "我的日程安排表 II")
 
@@ -50,11 +50,11 @@ the time [40, 50) will be single booked, and the time [50, 55) will be double bo
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Ordered Map](https://github.com/openset/leetcode/tree/master/tag/ordered-map/README.md)]
+  [[Ordered Map](../../tag/ordered-map/README.md)]
 
 ### Similar Questions
-  1. [My Calendar I](https://github.com/openset/leetcode/tree/master/problems/my-calendar-i) (Medium)
-  1. [My Calendar III](https://github.com/openset/leetcode/tree/master/problems/my-calendar-iii) (Hard)
+  1. [My Calendar I](../my-calendar-i) (Medium)
+  1. [My Calendar III](../my-calendar-iii) (Hard)
 
 ### Hints
 <details>

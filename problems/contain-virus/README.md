@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/shortest-completing-word "Shortest Completing Word")
+[< Previous](../shortest-completing-word "Shortest Completing Word")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-corner-rectangles "Number Of Corner Rectangles")
+[Next >](../number-of-corner-rectangles "Number Of Corner Rectangles")
 
 ## [749. Contain Virus (Hard)](https://leetcode.com/problems/contain-virus "隔离病毒")
 
@@ -75,7 +75,7 @@ Notice that walls are only built on the shared boundary of two different cells.
 </p>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximize-sum-of-array-after-k-negations "Maximize Sum Of Array After K Negations")
+[< Previous](../maximize-sum-of-array-after-k-negations "Maximize Sum Of Array After K Negations")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-domino-rotations-for-equal-row "Minimum Domino Rotations For Equal Row")
+[Next >](../minimum-domino-rotations-for-equal-row "Minimum Domino Rotations For Equal Row")
 
 ## [1006. Clumsy Factorial (Medium)](https://leetcode.com/problems/clumsy-factorial "笨阶乘")
 
@@ -49,4 +49,4 @@
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

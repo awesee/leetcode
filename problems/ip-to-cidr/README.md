@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/number-of-corner-rectangles "Number Of Corner Rectangles")
+[< Previous](../number-of-corner-rectangles "Number Of Corner Rectangles")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/open-the-lock "Open the Lock")
+[Next >](../open-the-lock "Open the Lock")
 
 ## [751. IP to CIDR (Easy)](https://leetcode.com/problems/ip-to-cidr "IP 到 CIDR")
 
@@ -63,11 +63,11 @@ that are outside the specified range.
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
-  1. [Restore IP Addresses](https://github.com/openset/leetcode/tree/master/problems/restore-ip-addresses) (Medium)
-  1. [Validate IP Address](https://github.com/openset/leetcode/tree/master/problems/validate-ip-address) (Medium)
+  1. [Restore IP Addresses](../restore-ip-addresses) (Medium)
+  1. [Validate IP Address](../validate-ip-address) (Medium)
 
 ### Hints
 <details>

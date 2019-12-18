@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-number-of-occurrences "Unique Number of Occurrences")
+[< Previous](../unique-number-of-occurrences "Unique Number of Occurrences")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string-ii "Remove All Adjacent Duplicates in String II")
+[Next >](../remove-all-adjacent-duplicates-in-string-ii "Remove All Adjacent Duplicates in String II")
 
 ## [1208. Get Equal Substrings Within Budget (Medium)](https://leetcode.com/problems/get-equal-substrings-within-budget "尽可能使字符串相等")
 
@@ -53,8 +53,8 @@
 </ul>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

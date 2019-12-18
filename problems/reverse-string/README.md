@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/integer-break "Integer Break")
+[< Previous](../integer-break "Integer Break")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reverse-vowels-of-a-string "Reverse Vowels of a String")
+[Next >](../reverse-vowels-of-a-string "Reverse Vowels of a String")
 
 ## [344. Reverse String (Easy)](https://leetcode.com/problems/reverse-string "反转字符串")
 
@@ -38,12 +38,12 @@
 </div>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Reverse Vowels of a String](https://github.com/openset/leetcode/tree/master/problems/reverse-vowels-of-a-string) (Easy)
-  1. [Reverse String II](https://github.com/openset/leetcode/tree/master/problems/reverse-string-ii) (Easy)
+  1. [Reverse Vowels of a String](../reverse-vowels-of-a-string) (Easy)
+  1. [Reverse String II](../reverse-string-ii) (Easy)
 
 ### Hints
 <details>

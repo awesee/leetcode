@@ -19,44 +19,44 @@ LeetCode Problems' Solutions
 
 <table><thead>
 <tr>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#1">[1-50]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#51">[51-100]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#101">[101-150]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#151">[151-200]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#201">[201-250]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#251">[251-300]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/1-300.md#1">[1-50]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/1-300.md#51">[51-100]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/1-300.md#101">[101-150]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/1-300.md#151">[151-200]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/1-300.md#201">[201-250]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/1-300.md#251">[251-300]</a></th>
 </tr>
 <tr>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/301-600.md#301">[301-350]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/301-600.md#351">[351-400]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/301-600.md#401">[401-450]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/301-600.md#451">[451-500]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/301-600.md#501">[501-550]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/301-600.md#551">[551-600]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/301-600.md#301">[301-350]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/301-600.md#351">[351-400]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/301-600.md#401">[401-450]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/301-600.md#451">[451-500]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/301-600.md#501">[501-550]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/301-600.md#551">[551-600]</a></th>
 </tr>
 <tr>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/601-900.md#601">[601-650]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/601-900.md#651">[651-700]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/601-900.md#701">[701-750]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/601-900.md#751">[751-800]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/601-900.md#801">[801-850]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/601-900.md#851">[851-900]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/601-900.md#601">[601-650]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/601-900.md#651">[651-700]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/601-900.md#701">[701-750]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/601-900.md#751">[751-800]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/601-900.md#801">[801-850]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/readme/601-900.md#851">[851-900]</a></th>
 </tr>
 <tr>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#950">[901-950]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#1000">[951-1000]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#1050">[1001-1050]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#1100">[1051-1100]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#1150">[1101-1150]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#1200">[1151-1200]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/README.md#950">[901-950]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/README.md#1000">[951-1000]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/README.md#1050">[1001-1050]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/README.md#1100">[1051-1100]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/README.md#1150">[1101-1150]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/README.md#1200">[1151-1200]</a></th>
 </tr>
 <tr>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#1250">[1201-1250]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#1300">[1251-1300]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#1350">[1301-1350]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#1400">[1351-1400]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#1450">[1401-1450]</a></th>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/README.md#1500">[1451-1500]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/README.md#1250">[1201-1250]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/README.md#1300">[1251-1300]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/README.md#1350">[1301-1350]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/README.md#1400">[1351-1400]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/README.md#1450">[1401-1450]</a></th>
+	<th align="center"><a href="https://github.com/openset/leetcode/tree/master/README.md#1500">[1451-1500]</a></th>
 </tr>
 </thead></table>
 

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/image-overlap "Image Overlap")
+[< Previous](../image-overlap "Image Overlap")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/new-21-game "New 21 Game")
+[Next >](../new-21-game "New 21 Game")
 
 ## [836. Rectangle Overlap (Easy)](https://leetcode.com/problems/rectangle-overlap "矩形重叠")
 
@@ -39,7 +39,7 @@
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
-  1. [Rectangle Area](https://github.com/openset/leetcode/tree/master/problems/rectangle-area) (Medium)
+  1. [Rectangle Area](../rectangle-area) (Medium)

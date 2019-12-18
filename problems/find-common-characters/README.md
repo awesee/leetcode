@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/grid-illumination "Grid Illumination")
+[< Previous](../grid-illumination "Grid Illumination")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/check-if-word-is-valid-after-substitutions "Check If Word Is Valid After Substitutions")
+[Next >](../check-if-word-is-valid-after-substitutions "Check If Word Is Valid After Substitutions")
 
 ## [1002. Find Common Characters (Easy)](https://leetcode.com/problems/find-common-characters "查找常用字符")
 
@@ -46,8 +46,8 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Intersection of Two Arrays II](https://github.com/openset/leetcode/tree/master/problems/intersection-of-two-arrays-ii) (Easy)
+  1. [Intersection of Two Arrays II](../intersection-of-two-arrays-ii) (Easy)

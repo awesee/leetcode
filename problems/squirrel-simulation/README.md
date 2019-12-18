@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/subtree-of-another-tree "Subtree of Another Tree")
+[< Previous](../subtree-of-another-tree "Subtree of Another Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/winning-candidate "Winning Candidate")
+[Next >](../winning-candidate "Winning Candidate")
 
 ## [573. Squirrel Simulation (Medium)](https://leetcode.com/problems/squirrel-simulation "松鼠模拟")
 
@@ -36,7 +36,7 @@ Nuts : [[3,0], [2,5]]
 </ol>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

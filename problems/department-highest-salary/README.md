@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/customers-who-never-order "Customers Who Never Order")
+[< Previous](../customers-who-never-order "Customers Who Never Order")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/department-top-three-salaries "Department Top Three Salaries")
+[Next >](../department-top-three-salaries "Department Top Three Salaries")
 
 ## [184. Department Highest Salary (Medium)](https://leetcode.com/problems/department-highest-salary "部门工资最高的员工")
 

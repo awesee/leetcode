@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/convert-binary-search-tree-to-sorted-doubly-linked-list "Convert Binary Search Tree to Sorted Doubly Linked List")
+[< Previous](../convert-binary-search-tree-to-sorted-doubly-linked-list "Convert Binary Search Tree to Sorted Doubly Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/serialize-and-deserialize-n-ary-tree "Serialize and Deserialize N-ary Tree")
+[Next >](../serialize-and-deserialize-n-ary-tree "Serialize and Deserialize N-ary Tree")
 
 ## [427. Construct Quad Tree (Medium)](https://leetcode.com/problems/construct-quad-tree "建立四叉树")
 

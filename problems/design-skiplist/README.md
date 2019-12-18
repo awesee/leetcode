@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/monthly-transactions-ii "Monthly Transactions II")
+[< Previous](../monthly-transactions-ii "Monthly Transactions II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-number-of-occurrences "Unique Number of Occurrences")
+[Next >](../unique-number-of-occurrences "Unique Number of Occurrences")
 
 ## [1206. Design Skiplist (Hard)](https://leetcode.com/problems/design-skiplist "设计跳表")
 
@@ -60,4 +60,4 @@ skiplist.search(1);   // return false, 1 has already been erased.</pre>
 </ul>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
+  [[Design](../../tag/design/README.md)]

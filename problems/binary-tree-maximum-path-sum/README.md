@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock-iii "Best Time to Buy and Sell Stock III")
+[< Previous](../best-time-to-buy-and-sell-stock-iii "Best Time to Buy and Sell Stock III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/valid-palindrome "Valid Palindrome")
+[Next >](../valid-palindrome "Valid Palindrome")
 
 ## [124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum "二叉树中的最大路径和")
 
@@ -42,11 +42,11 @@
 </pre>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Path Sum](https://github.com/openset/leetcode/tree/master/problems/path-sum) (Easy)
-  1. [Sum Root to Leaf Numbers](https://github.com/openset/leetcode/tree/master/problems/sum-root-to-leaf-numbers) (Medium)
-  1. [Path Sum IV](https://github.com/openset/leetcode/tree/master/problems/path-sum-iv) (Medium)
-  1. [Longest Univalue Path](https://github.com/openset/leetcode/tree/master/problems/longest-univalue-path) (Easy)
+  1. [Path Sum](../path-sum) (Easy)
+  1. [Sum Root to Leaf Numbers](../sum-root-to-leaf-numbers) (Medium)
+  1. [Path Sum IV](../path-sum-iv) (Medium)
+  1. [Longest Univalue Path](../longest-univalue-path) (Easy)

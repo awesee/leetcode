@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/maximum-nesting-depth-of-two-valid-parentheses-strings "Maximum Nesting Depth of Two Valid Parentheses Strings")
+[< Previous](../maximum-nesting-depth-of-two-valid-parentheses-strings "Maximum Nesting Depth of Two Valid Parentheses Strings")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reported-posts "Reported Posts")
+[Next >](../reported-posts "Reported Posts")
 
 ## [1112. Highest Grade For Each Student (Medium)](https://leetcode.com/problems/highest-grade-for-each-student "每位学生的最高成绩")
 

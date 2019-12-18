@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/encode-number "Encode Number")
+[< Previous](../encode-number "Encode Number")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/synonymous-sentences "Synonymous Sentences")
+[Next >](../synonymous-sentences "Synonymous Sentences")
 
 ## [1257. Smallest Common Region (Medium)](https://leetcode.com/problems/smallest-common-region "最小公共区域")
 
@@ -46,11 +46,11 @@ region2 = &quot;New York&quot;
 </ul>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Lowest Common Ancestor of a Binary Search Tree](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-search-tree) (Easy)
-  1. [Lowest Common Ancestor of a Binary Tree](https://github.com/openset/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-tree) (Medium)
+  1. [Lowest Common Ancestor of a Binary Search Tree](../lowest-common-ancestor-of-a-binary-search-tree) (Easy)
+  1. [Lowest Common Ancestor of a Binary Tree](../lowest-common-ancestor-of-a-binary-tree) (Medium)
 
 ### Hints
 <details>

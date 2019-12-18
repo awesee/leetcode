@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-cost-tree-from-leaf-values "Minimum Cost Tree From Leaf Values")
+[< Previous](../minimum-cost-tree-from-leaf-values "Minimum Cost Tree From Leaf Values")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/reported-posts-ii "Reported Posts II")
+[Next >](../reported-posts-ii "Reported Posts II")
 
 ## [1131. Maximum of Absolute Value Expression (Medium)](https://leetcode.com/problems/maximum-of-absolute-value-expression "绝对值表达式的最大值")
 
@@ -41,8 +41,8 @@
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

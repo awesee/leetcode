@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/page-recommendations "Page Recommendations")
+[< Previous](../page-recommendations "Page Recommendations")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-time-visiting-all-points "Minimum Time Visiting All Points")
+[Next >](../minimum-time-visiting-all-points "Minimum Time Visiting All Points")
 
 ## [1265. Print Immutable Linked List in Reverse (Medium)](https://leetcode.com/problems/print-immutable-linked-list-in-reverse "")
 

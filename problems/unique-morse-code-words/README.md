@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/bricks-falling-when-hit "Bricks Falling When Hit")
+[< Previous](../bricks-falling-when-hit "Bricks Falling When Hit")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/split-array-with-same-average "Split Array With Same Average")
+[Next >](../split-array-with-same-average "Split Array With Same Average")
 
 ## [804. Unique Morse Code Words (Easy)](https://leetcode.com/problems/unique-morse-code-words "唯一摩尔斯密码词")
 
@@ -45,4 +45,4 @@ There are 2 different transformations, &quot;--...-.&quot; and &quot;--...--.&qu
 </ul>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-word-abbreviation "Unique Word Abbreviation")
+[< Previous](../unique-word-abbreviation "Unique Word Abbreviation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/word-pattern "Word Pattern")
+[Next >](../word-pattern "Word Pattern")
 
 ## [289. Game of Life (Medium)](https://leetcode.com/problems/game-of-life "生命游戏")
 
@@ -51,7 +51,7 @@
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Set Matrix Zeroes](https://github.com/openset/leetcode/tree/master/problems/set-matrix-zeroes) (Medium)
+  1. [Set Matrix Zeroes](../set-matrix-zeroes) (Medium)

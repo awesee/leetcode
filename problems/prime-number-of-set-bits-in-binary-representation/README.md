@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/special-binary-string "Special Binary String")
+[< Previous](../special-binary-string "Special Binary String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/partition-labels "Partition Labels")
+[Next >](../partition-labels "Partition Labels")
 
 ## [762. Prime Number of Set Bits in Binary Representation (Easy)](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation "二进制表示中质数个计算置位")
 
@@ -45,10 +45,10 @@ Given two integers <code>L</code> and <code>R</code>, find the count of numbers 
 </ol></p>
 
 ### Related Topics
-  [[Bit Manipulation](https://github.com/openset/leetcode/tree/master/tag/bit-manipulation/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
-  1. [Number of 1 Bits](https://github.com/openset/leetcode/tree/master/problems/number-of-1-bits) (Easy)
+  1. [Number of 1 Bits](../number-of-1-bits) (Easy)
 
 ### Hints
 <details>

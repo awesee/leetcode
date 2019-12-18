@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-letter-string "Unique Letter String")
+[< Previous](../unique-letter-string "Unique Letter String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/positions-of-large-groups "Positions of Large Groups")
+[Next >](../positions-of-large-groups "Positions of Large Groups")
 
 ## [829. Consecutive Numbers Sum (Hard)](https://leetcode.com/problems/consecutive-numbers-sum "连续整数求和")
 
@@ -37,4 +37,4 @@
 <p><strong>Note:</strong>&nbsp;<code>1 &lt;= N &lt;= 10 ^ 9</code>.</p>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/construct-string-from-binary-tree "Construct String from Binary Tree")
+[< Previous](../construct-string-from-binary-tree "Construct String from Binary Tree")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/tree-node "Tree Node")
+[Next >](../tree-node "Tree Node")
 
 ## [607. Sales Person (Easy)](https://leetcode.com/problems/sales-person "销售员")
 

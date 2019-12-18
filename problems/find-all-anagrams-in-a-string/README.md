@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/path-sum-iii "Path Sum III")
+[< Previous](../path-sum-iii "Path Sum III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/ternary-expression-parser "Ternary Expression Parser")
+[Next >](../ternary-expression-parser "Ternary Expression Parser")
 
 ## [438. Find All Anagrams in a String (Medium)](https://leetcode.com/problems/find-all-anagrams-in-a-string "找到字符串中所有字母异位词")
 
@@ -47,8 +47,8 @@ The substring with start index = 2 is "ab", which is an anagram of "ab".
 </p>
 
 ### Related Topics
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Valid Anagram](https://github.com/openset/leetcode/tree/master/problems/valid-anagram) (Easy)
-  1. [Permutation in String](https://github.com/openset/leetcode/tree/master/problems/permutation-in-string) (Medium)
+  1. [Valid Anagram](../valid-anagram) (Easy)
+  1. [Permutation in String](../permutation-in-string) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/intersection-of-three-sorted-arrays "Intersection of Three Sorted Arrays")
+[< Previous](../intersection-of-three-sorted-arrays "Intersection of Three Sorted Arrays")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/stepping-numbers "Stepping Numbers")
+[Next >](../stepping-numbers "Stepping Numbers")
 
 ## [1214. Two Sum BSTs (Medium)](https://leetcode.com/problems/two-sum-bsts "查找两棵二叉搜索树之和")
 
@@ -45,10 +45,10 @@
 </ol>
 
 ### Related Topics
-  [[Binary Search Tree](https://github.com/openset/leetcode/tree/master/tag/binary-search-tree/README.md)]
+  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
 
 ### Similar Questions
-  1. [Two Sum IV - Input is a BST](https://github.com/openset/leetcode/tree/master/problems/two-sum-iv-input-is-a-bst) (Easy)
+  1. [Two Sum IV - Input is a BST](../two-sum-iv-input-is-a-bst) (Easy)
 
 ### Hints
 <details>

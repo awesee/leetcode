@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/jewels-and-stones "Jewels and Stones")
+[< Previous](../jewels-and-stones "Jewels and Stones")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sliding-puzzle "Sliding Puzzle")
+[Next >](../sliding-puzzle "Sliding Puzzle")
 
 ## [772. Basic Calculator III (Hard)](https://leetcode.com/problems/basic-calculator-iii "基本计算器 III")
 
@@ -33,10 +33,10 @@
 <p><strong>Note:</strong> <strong>Do not</strong> use the <code>eval</code> built-in library function.</p>
 
 ### Related Topics
-  [[Stack](https://github.com/openset/leetcode/tree/master/tag/stack/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Basic Calculator](https://github.com/openset/leetcode/tree/master/problems/basic-calculator) (Hard)
-  1. [Basic Calculator II](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-ii) (Medium)
-  1. [Basic Calculator IV](https://github.com/openset/leetcode/tree/master/problems/basic-calculator-iv) (Hard)
+  1. [Basic Calculator](../basic-calculator) (Hard)
+  1. [Basic Calculator II](../basic-calculator-ii) (Medium)
+  1. [Basic Calculator IV](../basic-calculator-iv) (Hard)

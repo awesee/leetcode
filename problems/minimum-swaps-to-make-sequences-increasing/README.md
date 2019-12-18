@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/similar-rgb-color "Similar RGB Color")
+[< Previous](../similar-rgb-color "Similar RGB Color")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-eventual-safe-states "Find Eventual Safe States")
+[Next >](../find-eventual-safe-states "Find Eventual Safe States")
 
 ## [801. Minimum Swaps To Make Sequences Increasing (Medium)](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing "使序列递增的最小交换次数")
 
@@ -37,4 +37,4 @@ which are both strictly increasing.
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

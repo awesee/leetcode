@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/array-transformation "Array Transformation")
+[< Previous](../array-transformation "Array Transformation")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/tree-diameter "Tree Diameter")
+[Next >](../tree-diameter "Tree Diameter")
 
 ## [1244. Design A Leaderboard (Medium)](https://leetcode.com/problems/design-a-leaderboard "力扣排行榜")
 
@@ -56,9 +56,9 @@ leaderboard.top(3);           // returns 141 = 51 + 51 + 39;
 </ul>
 
 ### Related Topics
-  [[Sort](https://github.com/openset/leetcode/tree/master/tag/sort/README.md)]
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Sort](../../tag/sort/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

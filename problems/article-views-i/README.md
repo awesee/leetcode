@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/longest-chunked-palindrome-decomposition "Longest Chunked Palindrome Decomposition")
+[< Previous](../longest-chunked-palindrome-decomposition "Longest Chunked Palindrome Decomposition")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/article-views-ii "Article Views II")
+[Next >](../article-views-ii "Article Views II")
 
 ## [1148. Article Views I (Easy)](https://leetcode.com/problems/article-views-i "文章浏览 I")
 

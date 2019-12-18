@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/building-h2o "Building H2O")
+[< Previous](../building-h2o "Building H2O")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/remove-vowels-from-a-string "Remove Vowels from a String")
+[Next >](../remove-vowels-from-a-string "Remove Vowels from a String")
 
 ## [1118. Number of Days in a Month (Easy)](https://leetcode.com/problems/number-of-days-in-a-month "一月有多少天")
 

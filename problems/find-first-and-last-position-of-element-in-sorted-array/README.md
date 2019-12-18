@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/search-in-rotated-sorted-array "Search in Rotated Sorted Array")
+[< Previous](../search-in-rotated-sorted-array "Search in Rotated Sorted Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/search-insert-position "Search Insert Position")
+[Next >](../search-insert-position "Search Insert Position")
 
 ## [34. Find First and Last Position of Element in Sorted Array (Medium)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array "在排序数组中查找元素的第一个和最后一个位置")
 
@@ -30,8 +30,8 @@
 <strong>Output:</strong> [-1,-1]</pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [First Bad Version](https://github.com/openset/leetcode/tree/master/problems/first-bad-version) (Easy)
+  1. [First Bad Version](../first-bad-version) (Easy)

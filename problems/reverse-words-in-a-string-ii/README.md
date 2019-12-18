@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/department-top-three-salaries "Department Top Three Salaries")
+[< Previous](../department-top-three-salaries "Department Top Three Salaries")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/repeated-dna-sequences "Repeated DNA Sequences")
+[Next >](../repeated-dna-sequences "Repeated DNA Sequences")
 
 ## [186. Reverse Words in a String II (Medium)](https://leetcode.com/problems/reverse-words-in-a-string-ii "翻转字符串里的单词 II")
 
@@ -30,8 +30,8 @@
 <p><strong>Follow up:&nbsp;</strong>Could you do it <i>in-place</i> without allocating extra space?</p>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Reverse Words in a String](https://github.com/openset/leetcode/tree/master/problems/reverse-words-in-a-string) (Medium)
-  1. [Rotate Array](https://github.com/openset/leetcode/tree/master/problems/rotate-array) (Easy)
+  1. [Reverse Words in a String](../reverse-words-in-a-string) (Medium)
+  1. [Rotate Array](../rotate-array) (Easy)

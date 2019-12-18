@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/unique-paths "Unique Paths")
+[< Previous](../unique-paths "Unique Paths")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/minimum-path-sum "Minimum Path Sum")
+[Next >](../minimum-path-sum "Minimum Path Sum")
 
 ## [63. Unique Paths II (Medium)](https://leetcode.com/problems/unique-paths-ii "不同路径 II")
 
@@ -41,12 +41,12 @@ There are two ways to reach the bottom-right corner:
 </pre>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Unique Paths](https://github.com/openset/leetcode/tree/master/problems/unique-paths) (Medium)
-  1. [Unique Paths III](https://github.com/openset/leetcode/tree/master/problems/unique-paths-iii) (Hard)
+  1. [Unique Paths](../unique-paths) (Medium)
+  1. [Unique Paths III](../unique-paths-iii) (Hard)
 
 ### Hints
 <details>

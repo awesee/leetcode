@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/verifying-an-alien-dictionary "Verifying an Alien Dictionary")
+[< Previous](../verifying-an-alien-dictionary "Verifying an Alien Dictionary")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/delete-columns-to-make-sorted-ii "Delete Columns to Make Sorted II")
+[Next >](../delete-columns-to-make-sorted-ii "Delete Columns to Make Sorted II")
 
 ## [954. Array of Doubled Pairs (Medium)](https://leetcode.com/problems/array-of-doubled-pairs "二倍数对数组")
 
@@ -72,5 +72,5 @@
 </div>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Hash Table](https://github.com/openset/leetcode/tree/master/tag/hash-table/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]

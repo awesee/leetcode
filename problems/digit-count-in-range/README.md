@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/campus-bikes-ii "Campus Bikes II")
+[< Previous](../campus-bikes-ii "Campus Bikes II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/product-sales-analysis-i "Product Sales Analysis I")
+[Next >](../product-sales-analysis-i "Product Sales Analysis I")
 
 ## [1067. Digit Count in Range (Hard)](https://leetcode.com/problems/digit-count-in-range "范围内的数字计数")
 
@@ -44,11 +44,11 @@ The digit <code>d=3</code> occurs <code>35</code> times in <code>103,113,123,130
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Number of Digit One](https://github.com/openset/leetcode/tree/master/problems/number-of-digit-one) (Hard)
+  1. [Number of Digit One](../number-of-digit-one) (Hard)
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-subsequence-of-distinct-characters "Smallest Subsequence of Distinct Characters")
+[< Previous](../smallest-subsequence-of-distinct-characters "Smallest Subsequence of Distinct Characters")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-ii "Sales Analysis II")
+[Next >](../sales-analysis-ii "Sales Analysis II")
 
 ## [1082. Sales Analysis I (Easy)](https://leetcode.com/problems/sales-analysis-i "销售分析 I ")
 

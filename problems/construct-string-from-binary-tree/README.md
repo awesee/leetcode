@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/can-place-flowers "Can Place Flowers")
+[< Previous](../can-place-flowers "Can Place Flowers")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/sales-person "Sales Person")
+[Next >](../sales-person "Sales Person")
 
 ## [606. Construct String from Binary Tree (Easy)](https://leetcode.com/problems/construct-string-from-binary-tree "根据二叉树创建字符串")
 
@@ -44,9 +44,9 @@
 </p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Construct Binary Tree from String](https://github.com/openset/leetcode/tree/master/problems/construct-binary-tree-from-string) (Medium)
-  1. [Find Duplicate Subtrees](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-subtrees) (Medium)
+  1. [Construct Binary Tree from String](../construct-binary-tree-from-string) (Medium)
+  1. [Find Duplicate Subtrees](../find-duplicate-subtrees) (Medium)

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/friend-circles "Friend Circles")
+[< Previous](../friend-circles "Friend Circles")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/binary-tree-longest-consecutive-sequence-ii "Binary Tree Longest Consecutive Sequence II")
+[Next >](../binary-tree-longest-consecutive-sequence-ii "Binary Tree Longest Consecutive Sequence II")
 
 ## [548. Split Array with Equal Sum (Medium)](https://leetcode.com/problems/split-array-with-equal-sum "将数组分割成和相等的子数组")
 
@@ -40,4 +40,4 @@ sum(k + 1, n - 1) = sum(6, 6) = 1
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]

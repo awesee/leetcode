@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-substrings-between-each-pair-of-parentheses "Reverse Substrings Between Each Pair of Parentheses")
+[< Previous](../reverse-substrings-between-each-pair-of-parentheses "Reverse Substrings Between Each Pair of Parentheses")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/critical-connections-in-a-network "Critical Connections in a Network")
+[Next >](../critical-connections-in-a-network "Critical Connections in a Network")
 
 ## [1191. K-Concatenation Maximum Sum (Medium)](https://leetcode.com/problems/k-concatenation-maximum-sum "K 次串联后最大子数组之和")
 
@@ -51,7 +51,7 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix")
+[< Previous](../minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/iterator-for-combination "Iterator for Combination")
+[Next >](../iterator-for-combination "Iterator for Combination")
 
 ## [1285. Find the Start and End Number of Continuous Ranges (Medium)](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges "")
 

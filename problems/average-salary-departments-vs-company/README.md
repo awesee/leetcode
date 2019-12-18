@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/second-degree-follower "Second Degree Follower")
+[< Previous](../second-degree-follower "Second Degree Follower")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/add-bold-tag-in-string "Add Bold Tag in String")
+[Next >](../add-bold-tag-in-string "Add Bold Tag in String")
 
 ## [615. Average Salary: Departments VS Company (Hard)](https://leetcode.com/problems/average-salary-departments-vs-company "平均工资：部门与公司比较")
 

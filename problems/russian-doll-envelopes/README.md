@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-snake-game "Design Snake Game")
+[< Previous](../design-snake-game "Design Snake Game")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/design-twitter "Design Twitter")
+[Next >](../design-twitter "Design Twitter")
 
 ## [354. Russian Doll Envelopes (Hard)](https://leetcode.com/problems/russian-doll-envelopes "俄罗斯套娃信封问题")
 
@@ -29,8 +29,8 @@ Rotation is not allowed.</p>
 </div>
 
 ### Related Topics
-  [[Binary Search](https://github.com/openset/leetcode/tree/master/tag/binary-search/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Longest Increasing Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-increasing-subsequence) (Medium)
+  1. [Longest Increasing Subsequence](../longest-increasing-subsequence) (Medium)

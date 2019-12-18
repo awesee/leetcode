@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/design-circular-deque "Design Circular Deque")
+[< Previous](../design-circular-deque "Design Circular Deque")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-average-subarray-i "Maximum Average Subarray I")
+[Next >](../maximum-average-subarray-i "Maximum Average Subarray I")
 
 ## [642. Design Search Autocomplete System (Hard)](https://leetcode.com/problems/design-search-autocomplete-system "设计搜索自动补全系统")
 
@@ -73,8 +73,8 @@ The user finished the input, the sentence <code>&quot;i a&quot;</code> should be
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Design](https://github.com/openset/leetcode/tree/master/tag/design/README.md)]
-  [[Trie](https://github.com/openset/leetcode/tree/master/tag/trie/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Trie](../../tag/trie/README.md)]
 
 ### Similar Questions
-  1. [Implement Trie (Prefix Tree)](https://github.com/openset/leetcode/tree/master/problems/implement-trie-prefix-tree) (Medium)
+  1. [Implement Trie (Prefix Tree)](../implement-trie-prefix-tree) (Medium)

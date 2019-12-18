@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/magic-squares-in-grid "Magic Squares In Grid")
+[< Previous](../magic-squares-in-grid "Magic Squares In Grid")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/split-array-into-fibonacci-sequence "Split Array into Fibonacci Sequence")
+[Next >](../split-array-into-fibonacci-sequence "Split Array into Fibonacci Sequence")
 
 ## [841. Keys and Rooms (Medium)](https://leetcode.com/problems/keys-and-rooms "钥匙和房间")
 
@@ -53,5 +53,5 @@ We then go to room 3.  Since we were able to go to every room, we return true.
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](https://github.com/openset/leetcode/tree/master/tag/depth-first-search/README.md)]
-  [[Graph](https://github.com/openset/leetcode/tree/master/tag/graph/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]

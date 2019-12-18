@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/check-if-a-number-is-majority-element-in-a-sorted-array "Check If a Number Is Majority Element in a Sorted Array")
+[< Previous](../check-if-a-number-is-majority-element-in-a-sorted-array "Check If a Number Is Majority Element in a Sorted Array")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/analyze-user-website-visit-pattern "Analyze User Website Visit Pattern")
+[Next >](../analyze-user-website-visit-pattern "Analyze User Website Visit Pattern")
 
 ## [1151. Minimum Swaps to Group All 1's Together (Medium)](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together "最少交换次数来组合所有的 1")
 
@@ -56,8 +56,8 @@ One possible solution that uses 3 swaps is [0,0,0,0,0,1,1,1,1,1,1].
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Sliding Window](https://github.com/openset/leetcode/tree/master/tag/sliding-window/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

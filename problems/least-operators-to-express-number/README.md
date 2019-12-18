@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/minimum-area-rectangle-ii "Minimum Area Rectangle II")
+[< Previous](../minimum-area-rectangle-ii "Minimum Area Rectangle II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/univalued-binary-tree "Univalued Binary Tree")
+[Next >](../univalued-binary-tree "Univalued Binary Tree")
 
 ## [964. Least Operators to Express Number (Hard)](https://leetcode.com/problems/least-operators-to-express-number "表示数字的最少运算符")
 
@@ -71,5 +71,5 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

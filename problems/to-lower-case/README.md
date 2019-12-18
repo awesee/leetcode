@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/insert-into-a-sorted-circular-linked-list "Insert into a Sorted Circular Linked List")
+[< Previous](../insert-into-a-sorted-circular-linked-list "Insert into a Sorted Circular Linked List")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/random-pick-with-blacklist "Random Pick with Blacklist")
+[Next >](../random-pick-with-blacklist "Random Pick with Blacklist")
 
 ## [709. To Lower Case (Easy)](https://leetcode.com/problems/to-lower-case "转换成小写字母")
 
@@ -43,7 +43,7 @@
 </div>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

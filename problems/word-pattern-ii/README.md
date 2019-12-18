@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/word-pattern "Word Pattern")
+[< Previous](../word-pattern "Word Pattern")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/nim-game "Nim Game")
+[Next >](../nim-game "Nim Game")
 
 ## [291. Word Pattern II (Hard)](https://leetcode.com/problems/word-pattern-ii "单词规律 II")
 
@@ -38,7 +38,7 @@
 You may assume both <code>pattern</code> and <code>str</code> contains only lowercase letters.</p>
 
 ### Related Topics
-  [[Backtracking](https://github.com/openset/leetcode/tree/master/tag/backtracking/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Word Pattern](https://github.com/openset/leetcode/tree/master/problems/word-pattern) (Easy)
+  1. [Word Pattern](../word-pattern) (Easy)

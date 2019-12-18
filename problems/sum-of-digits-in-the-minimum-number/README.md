@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sales-analysis-iii "Sales Analysis III")
+[< Previous](../sales-analysis-iii "Sales Analysis III")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/high-five "High Five")
+[Next >](../high-five "High Five")
 
 ## [1085. Sum of Digits in the Minimum Number (Easy)](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number "最小元素各数位之和")
 
@@ -45,10 +45,10 @@ The minimal element is 33, and the sum of those digits is S = 3 + 3 = 6 which is
 </ol>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Add Digits](https://github.com/openset/leetcode/tree/master/problems/add-digits) (Easy)
+  1. [Add Digits](../add-digits) (Easy)
 
 ### Hints
 <details>

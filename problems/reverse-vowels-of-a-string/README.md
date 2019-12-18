@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/reverse-string "Reverse String")
+[< Previous](../reverse-string "Reverse String")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/moving-average-from-data-stream "Moving Average from Data Stream")
+[Next >](../moving-average-from-data-stream "Moving Average from Data Stream")
 
 ## [345. Reverse Vowels of a String (Easy)](https://leetcode.com/problems/reverse-vowels-of-a-string "反转字符串中的元音字母")
 
@@ -34,9 +34,9 @@ The vowels does not include the letter &quot;y&quot;.</p>
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Reverse String](https://github.com/openset/leetcode/tree/master/problems/reverse-string) (Easy)
-  1. [Remove Vowels from a String](https://github.com/openset/leetcode/tree/master/problems/remove-vowels-from-a-string) (Easy)
+  1. [Reverse String](../reverse-string) (Easy)
+  1. [Remove Vowels from a String](../remove-vowels-from-a-string) (Easy)

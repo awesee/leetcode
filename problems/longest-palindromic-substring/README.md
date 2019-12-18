@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/median-of-two-sorted-arrays "Median of Two Sorted Arrays")
+[< Previous](../median-of-two-sorted-arrays "Median of Two Sorted Arrays")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/zigzag-conversion "ZigZag Conversion")
+[Next >](../zigzag-conversion "ZigZag Conversion")
 
 ## [5. Longest Palindromic Substring (Medium)](https://leetcode.com/problems/longest-palindromic-substring "最长回文子串")
 
@@ -29,15 +29,15 @@
 </pre>
 
 ### Related Topics
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Shortest Palindrome](https://github.com/openset/leetcode/tree/master/problems/shortest-palindrome) (Hard)
-  1. [Palindrome Permutation](https://github.com/openset/leetcode/tree/master/problems/palindrome-permutation) (Easy)
-  1. [Palindrome Pairs](https://github.com/openset/leetcode/tree/master/problems/palindrome-pairs) (Hard)
-  1. [Longest Palindromic Subsequence](https://github.com/openset/leetcode/tree/master/problems/longest-palindromic-subsequence) (Medium)
-  1. [Palindromic Substrings](https://github.com/openset/leetcode/tree/master/problems/palindromic-substrings) (Medium)
+  1. [Shortest Palindrome](../shortest-palindrome) (Hard)
+  1. [Palindrome Permutation](../palindrome-permutation) (Easy)
+  1. [Palindrome Pairs](../palindrome-pairs) (Hard)
+  1. [Longest Palindromic Subsequence](../longest-palindromic-subsequence) (Medium)
+  1. [Palindromic Substrings](../palindromic-substrings) (Medium)
 
 ### Hints
 <details>

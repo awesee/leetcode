@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sqrtx "Sqrt(x)")
+[< Previous](../sqrtx "Sqrt(x)")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/simplify-path "Simplify Path")
+[Next >](../simplify-path "Simplify Path")
 
 ## [70. Climbing Stairs (Easy)](https://leetcode.com/problems/climbing-stairs "爬楼梯")
 
@@ -39,12 +39,12 @@
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Min Cost Climbing Stairs](https://github.com/openset/leetcode/tree/master/problems/min-cost-climbing-stairs) (Easy)
-  1. [Fibonacci Number](https://github.com/openset/leetcode/tree/master/problems/fibonacci-number) (Easy)
-  1. [N-th Tribonacci Number](https://github.com/openset/leetcode/tree/master/problems/n-th-tribonacci-number) (Easy)
+  1. [Min Cost Climbing Stairs](../min-cost-climbing-stairs) (Easy)
+  1. [Fibonacci Number](../fibonacci-number) (Easy)
+  1. [N-th Tribonacci Number](../n-th-tribonacci-number) (Easy)
 
 ### Hints
 <details>

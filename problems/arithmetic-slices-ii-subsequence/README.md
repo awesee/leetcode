@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/add-two-numbers-ii "Add Two Numbers II")
+[< Previous](../add-two-numbers-ii "Add Two Numbers II")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/number-of-boomerangs "Number of Boomerangs")
+[Next >](../number-of-boomerangs "Number of Boomerangs")
 
 ## [446. Arithmetic Slices II - Subsequence (Hard)](https://leetcode.com/problems/arithmetic-slices-ii-subsequence "等差数列划分 II - 子序列")
 
@@ -54,7 +54,7 @@ All arithmetic subsequence slices are:
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](https://github.com/openset/leetcode/tree/master/tag/dynamic-programming/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Arithmetic Slices](https://github.com/openset/leetcode/tree/master/problems/arithmetic-slices) (Medium)
+  1. [Arithmetic Slices](../arithmetic-slices) (Medium)

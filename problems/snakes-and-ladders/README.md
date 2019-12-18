@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/smallest-range-i "Smallest Range I")
+[< Previous](../smallest-range-i "Smallest Range I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/smallest-range-ii "Smallest Range II")
+[Next >](../smallest-range-ii "Smallest Range II")
 
 ## [909. Snakes and Ladders (Medium)](https://leetcode.com/problems/snakes-and-ladders "蛇梯棋")
 
@@ -64,4 +64,4 @@ It can be shown that you need at least 4 moves to reach the N*N-th square, so th
 </ol>
 
 ### Related Topics
-  [[Breadth-first Search](https://github.com/openset/leetcode/tree/master/tag/breadth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]

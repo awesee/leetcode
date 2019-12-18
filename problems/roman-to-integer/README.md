@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/integer-to-roman "Integer to Roman")
+[< Previous](../integer-to-roman "Integer to Roman")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/longest-common-prefix "Longest Common Prefix")
+[Next >](../longest-common-prefix "Longest Common Prefix")
 
 ## [13. Roman to Integer (Easy)](https://leetcode.com/problems/roman-to-integer "罗马数字转整数")
 
@@ -69,11 +69,11 @@ M             1000</pre>
 <strong>Explanation:</strong> M = 1000, CM = 900, XC = 90 and IV = 4.</pre>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
-  [[String](https://github.com/openset/leetcode/tree/master/tag/string/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Integer to Roman](https://github.com/openset/leetcode/tree/master/problems/integer-to-roman) (Medium)
+  1. [Integer to Roman](../integer-to-roman) (Medium)
 
 ### Hints
 <details>

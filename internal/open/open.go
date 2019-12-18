@@ -2,6 +2,7 @@
 package open
 
 import (
+	"fmt"
 	"strconv"
 
 	"github.com/openset/leetcode/internal/base"
@@ -31,7 +32,7 @@ func runOpen(cmd *base.Command, args []string) {
 	for _, problem := range problems.StatStatusPairs {
 		if problem.Stat.FrontendQuestionID == id {
 			titleSlug := problem.Stat.QuestionTitleSlug
-			browser.Open("https://github.com/openset/leetcode/tree/master/problems/" + titleSlug)
+			browser.Open(fmt.Sprintf("%s/problems/%s", base.URL, titleSlug))
 			break
 		}
 	}

@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-duplicate-subtrees "Find Duplicate Subtrees")
+[< Previous](../find-duplicate-subtrees "Find Duplicate Subtrees")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/maximum-binary-tree "Maximum Binary Tree")
+[Next >](../maximum-binary-tree "Maximum Binary Tree")
 
 ## [653. Two Sum IV - Input is a BST (Easy)](https://leetcode.com/problems/two-sum-iv-input-is-a-bst "两数之和 IV - 输入 BST")
 
@@ -48,10 +48,10 @@ Target = 28
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Tree](https://github.com/openset/leetcode/tree/master/tag/tree/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Two Sum](https://github.com/openset/leetcode/tree/master/problems/two-sum) (Easy)
-  1. [Two Sum II - Input array is sorted](https://github.com/openset/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted) (Easy)
-  1. [Two Sum III - Data structure design](https://github.com/openset/leetcode/tree/master/problems/two-sum-iii-data-structure-design) (Easy)
-  1. [Two Sum BSTs](https://github.com/openset/leetcode/tree/master/problems/two-sum-bsts) (Medium)
+  1. [Two Sum](../two-sum) (Easy)
+  1. [Two Sum II - Input array is sorted](../two-sum-ii-input-array-is-sorted) (Easy)
+  1. [Two Sum III - Data structure design](../two-sum-iii-data-structure-design) (Easy)
+  1. [Two Sum BSTs](../two-sum-bsts) (Medium)

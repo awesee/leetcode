@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/sum-of-subarray-minimums "Sum of Subarray Minimums")
+[< Previous](../sum-of-subarray-minimums "Sum of Subarray Minimums")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/snakes-and-ladders "Snakes and Ladders")
+[Next >](../snakes-and-ladders "Snakes and Ladders")
 
 ## [908. Smallest Range I (Easy)](https://leetcode.com/problems/smallest-range-i "最小差值 I")
 
@@ -63,4 +63,4 @@
 </div>
 
 ### Related Topics
-  [[Math](https://github.com/openset/leetcode/tree/master/tag/math/README.md)]
+  [[Math](../../tag/math/README.md)]

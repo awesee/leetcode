@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/market-analysis-i "Market Analysis I")
+[< Previous](../market-analysis-i "Market Analysis I")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/find-words-that-can-be-formed-by-characters "Find Words That Can Be Formed by Characters")
+[Next >](../find-words-that-can-be-formed-by-characters "Find Words That Can Be Formed by Characters")
 
 ## [1159. Market Analysis II (Hard)](https://leetcode.com/problems/market-analysis-ii "")
 

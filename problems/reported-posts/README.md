@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/highest-grade-for-each-student "Highest Grade For Each Student")
+[< Previous](../highest-grade-for-each-student "Highest Grade For Each Student")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/print-in-order "Print in Order")
+[Next >](../print-in-order "Print in Order")
 
 ## [1113. Reported Posts (Easy)](https://leetcode.com/problems/reported-posts "")
 

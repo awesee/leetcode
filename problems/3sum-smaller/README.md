@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/add-digits "Add Digits")
+[< Previous](../add-digits "Add Digits")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/single-number-iii "Single Number III")
+[Next >](../single-number-iii "Single Number III")
 
 ## [259. 3Sum Smaller (Medium)](https://leetcode.com/problems/3sum-smaller "较小的三数之和")
 
@@ -26,11 +26,11 @@
 <p><b style="font-family: sans-serif, Arial, Verdana, &quot;Trebuchet MS&quot;;">Follow up:</b> Could you solve it in <i>O</i>(<i>n</i><sup>2</sup>) runtime?</p>
 
 ### Related Topics
-  [[Array](https://github.com/openset/leetcode/tree/master/tag/array/README.md)]
-  [[Two Pointers](https://github.com/openset/leetcode/tree/master/tag/two-pointers/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [3Sum](https://github.com/openset/leetcode/tree/master/problems/3sum) (Medium)
-  1. [3Sum Closest](https://github.com/openset/leetcode/tree/master/problems/3sum-closest) (Medium)
-  1. [Valid Triangle Number](https://github.com/openset/leetcode/tree/master/problems/valid-triangle-number) (Medium)
-  1. [Two Sum Less Than K](https://github.com/openset/leetcode/tree/master/problems/two-sum-less-than-k) (Easy)
+  1. [3Sum](../3sum) (Medium)
+  1. [3Sum Closest](../3sum-closest) (Medium)
+  1. [Valid Triangle Number](../valid-triangle-number) (Medium)
+  1. [Two Sum Less Than K](../two-sum-less-than-k) (Easy)

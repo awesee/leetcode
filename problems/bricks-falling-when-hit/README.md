@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/find-eventual-safe-states "Find Eventual Safe States")
+[< Previous](../find-eventual-safe-states "Find Eventual Safe States")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/unique-morse-code-words "Unique Morse Code Words")
+[Next >](../unique-morse-code-words "Unique Morse Code Words")
 
 ## [803. Bricks Falling When Hit (Hard)](https://leetcode.com/problems/bricks-falling-when-hit "打砖块")
 
@@ -47,4 +47,4 @@ When we erase the brick at (1, 0), the brick at (1, 1) has already disappeared d
 </ul>
 
 ### Related Topics
-  [[Union Find](https://github.com/openset/leetcode/tree/master/tag/union-find/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]

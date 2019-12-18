@@ -5,9 +5,9 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](https://github.com/openset/leetcode/tree/master/problems/game-play-analysis-v "Game Play Analysis V")
+[< Previous](../game-play-analysis-v "Game Play Analysis V")
 　　　　　　　　　　　　　　　　
-[Next >](https://github.com/openset/leetcode/tree/master/problems/two-sum-less-than-k "Two Sum Less Than K")
+[Next >](../two-sum-less-than-k "Two Sum Less Than K")
 
 ## [1098. Unpopular Books (Medium)](https://leetcode.com/problems/unpopular-books "小众书籍")
 
