@@ -27,8 +27,8 @@
 Derive your algorithm&#39;s runtime complexity.</p>
 
 ### Related Topics
-  [[Backtracking](../../tag/backtracking/README.md)]
   [[Minimax](../../tag/minimax/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
   1. [Nim Game](../nim-game) (Easy)

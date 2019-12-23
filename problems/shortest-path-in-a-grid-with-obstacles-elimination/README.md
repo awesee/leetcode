@@ -7,7 +7,7 @@
 
 [< Previous](../maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold "Maximum Side Length of a Square with Sum Less than or Equal to Threshold")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../weather-type-in-each-country "Weather Type in Each Country")
 
 ## [1293. Shortest Path in a Grid with Obstacles Elimination (Hard)](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination "网格中的最短路径")
 
