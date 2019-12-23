@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1298 | [你能从盒子里获得的最大糖果数](../../problems/maximum-candies-you-can-get-from-boxes) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 1293 | [网格中的最短路径](../../problems/shortest-path-in-a-grid-with-obstacles-elimination) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 1284 | [转化为全零矩阵的最少反转次数](../../problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 1263 | [推箱子](../../problems/minimum-moves-to-move-a-box-to-their-target-location) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |

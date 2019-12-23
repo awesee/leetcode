@@ -31,8 +31,8 @@ Explanation: </strong>Given three people living at <code>(0,0)</code>, <code>(0,
 &nbsp;            of 2+2+2=6 is minimal. So return 6.</pre>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Sort](../../tag/sort/README.md)]
 
 ### Similar Questions
   1. [Shortest Distance from All Buildings](../shortest-distance-from-all-buildings) (Hard)

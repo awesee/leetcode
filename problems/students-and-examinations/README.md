@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../subtract-the-product-and-sum-of-digits-of-an-integer "Subtract the Product and Sum of Digits of an Integer")
 
-## [1280. Students and Examinations (Easy)](https://leetcode.com/problems/students-and-examinations "")
+## [1280. Students and Examinations (Easy)](https://leetcode.com/problems/students-and-examinations "学生们参加各科测试的次数")
 
 <p>Table: <code>Students</code></p>
 <pre>

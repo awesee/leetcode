@@ -9,6 +9,7 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1297 | [子串的最大出现次数](../../problems/maximum-number-of-occurrences-of-a-substring) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1290 | [二进制链表转整数](../../problems/convert-binary-number-in-a-linked-list-to-integer) | [[位运算](../bit-manipulation/README.md)] [[链表](../linked-list/README.md)]  | Easy |
 | 1256 | [加密数字](../../problems/encode-number) 🔒 | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1255 | [得分最高的单词集合](../../problems/maximum-score-words-formed-by-letters) | [[位运算](../bit-manipulation/README.md)]  | Hard |

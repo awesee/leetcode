@@ -9,6 +9,8 @@
 
 | # | 题名 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1296 | [划分数组为连续数字的集合](../../problems/divide-array-in-sets-of-k-consecutive-numbers) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1295 | [统计位数为偶数的数字](../../problems/find-numbers-with-even-number-of-digits) | [[数组](../array/README.md)]  | Easy |
 | 1292 | [元素和小于等于阈值的正方形的最大边长](../../problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1287 | [有序数组中出现次数超过25%的元素](../../problems/element-appearing-more-than-25-in-sorted-array) | [[数组](../array/README.md)]  | Easy |
 | 1277 | [统计全为 1 的正方形子矩阵](../../problems/count-square-submatrices-with-all-ones) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

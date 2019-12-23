@@ -42,7 +42,9 @@ func (tag *TagType) SaveContents() {
 		if question.TranslatedTitle == "" {
 			question.TranslatedTitle = question.Title
 		}
-		buf.WriteString(fmt.Sprintf(format, question.frontendID(), question.TranslatedTitle, question.TitleSlug, question.IsPaidOnly.Str(), question.TagsStr(), question.Difficulty))
+		if question.frontendID() > 0 {
+			buf.WriteString(fmt.Sprintf(format, question.frontendID(), question.TranslatedTitle, question.TitleSlug, question.IsPaidOnly.Str(), question.TagsStr(), question.Difficulty))
+		}
 	}
 	filename := filepath.Join("tag", tag.Slug, "README.md")
 	filePutContents(filename, buf.Bytes())

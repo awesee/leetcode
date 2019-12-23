@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../immediate-food-delivery-ii "Immediate Food Delivery II")
 
-## [1173. Immediate Food Delivery I (Easy)](https://leetcode.com/problems/immediate-food-delivery-i "")
+## [1173. Immediate Food Delivery I (Easy)](https://leetcode.com/problems/immediate-food-delivery-i "即时食物配送 I")
 
 <p>Table: <code>Delivery</code></p>
 
