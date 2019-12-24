@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 树状数组
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 493 | [翻转对](../../problems/reverse-pairs) | [[排序](../sort/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
 | 327 | [区间和的个数](../../problems/count-of-range-sum) | [[排序](../sort/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |

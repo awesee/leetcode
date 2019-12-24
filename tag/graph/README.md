@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 图
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1267 | [统计参与通信的服务器](../../problems/count-servers-that-communicate) | [[图](../graph/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1203 | [项目管理](../../problems/sort-items-by-groups-respecting-dependencies) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Hard |

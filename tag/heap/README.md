@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 堆
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1054 | [距离相等的条形码](../../problems/distant-barcodes) | [[堆](../heap/README.md)] [[排序](../sort/README.md)]  | Medium |
 | 1046 | [最后一块石头的重量](../../problems/last-stone-weight) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Easy |

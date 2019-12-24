@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 字典树
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1065 | [字符串的索引对](../../problems/index-pairs-of-a-string) 🔒 | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1032 | [字符流](../../problems/stream-of-characters) | [[字典树](../trie/README.md)]  | Hard |

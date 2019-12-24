@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 回溯算法
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1291 | [顺次数](../../problems/sequential-digits) | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1286 | [字母组合迭代器](../../problems/iterator-for-combination) | [[设计](../design/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |

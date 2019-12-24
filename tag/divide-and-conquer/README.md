@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 分治算法
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1274 | [矩形内船只的数目](../../problems/number-of-ships-in-a-rectangle) 🔒 | [[分治算法](../divide-and-conquer/README.md)]  | Hard |
 | 973 | [最接近原点的 K 个点](../../problems/k-closest-points-to-origin) | [[堆](../heap/README.md)] [[排序](../sort/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Medium |

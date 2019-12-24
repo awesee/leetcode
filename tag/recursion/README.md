@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 递归
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1137 | [第 N 个泰波那契数](../../problems/n-th-tribonacci-number) | [[递归](../recursion/README.md)]  | Easy |
 | 938 | [二叉搜索树的范围和](../../problems/range-sum-of-bst) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |

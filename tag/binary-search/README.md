@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 二分查找
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1292 | [元素和小于等于阈值的正方形的最大边长](../../problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1283 | [使结果不超过阈值的最小除数](../../problems/find-the-smallest-divisor-given-a-threshold) | [[二分查找](../binary-search/README.md)]  | Medium |

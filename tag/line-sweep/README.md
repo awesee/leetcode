@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > Line Sweep
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1288 | [删除被覆盖区间](../../problems/remove-covered-intervals) | [[Line Sweep](../line-sweep/README.md)]  | Medium |
 | 1272 | [删除区间](../../problems/remove-interval) 🔒 | [[数学](../math/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |

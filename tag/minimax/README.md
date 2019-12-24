@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 极小化极大
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 913 | [猫和老鼠](../../problems/cat-and-mouse) | [[广度优先搜索](../breadth-first-search/README.md)] [[极小化极大](../minimax/README.md)]  | Hard |
 | 877 | [石子游戏](../../problems/stone-game) | [[极小化极大](../minimax/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

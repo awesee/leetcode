@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 线段树
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1157 | [子数组中占绝大多数的元素](../../problems/online-majority-element-in-subarray) | [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 850 | [矩形面积 II](../../problems/rectangle-area-ii) | [[线段树](../segment-tree/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Hard |

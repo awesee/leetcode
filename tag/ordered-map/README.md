@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > Ordered Map
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 975 | [奇偶跳](../../problems/odd-even-jump) | [[栈](../stack/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Hard |
 | 855 | [考场就座](../../problems/exam-room) | [[Ordered Map](../ordered-map/README.md)]  | Medium |

@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 数组
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1296 | [划分数组为连续数字的集合](../../problems/divide-array-in-sets-of-k-consecutive-numbers) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1295 | [统计位数为偶数的数字](../../problems/find-numbers-with-even-number-of-digits) | [[数组](../array/README.md)]  | Easy |
