@@ -7,7 +7,7 @@
 
 ## 话题分类
 
-| # | Title | 话题 | | # | Title | 话题 |
+| # | Topic | 话题 | | # | Topic | 话题 |
 | :-: | - | :-: | - | :-: | - | :-: |
 | 1 | [Array](array/README.md) | [数组](https://openset.github.io/tags/array/) | | 2 | [Dynamic Programming](dynamic-programming/README.md) | [动态规划](https://openset.github.io/tags/dynamic-programming/) | 
 | 3 | [Math](math/README.md) | [数学](https://openset.github.io/tags/math/) | | 4 | [String](string/README.md) | [字符串](https://openset.github.io/tags/string/) | 

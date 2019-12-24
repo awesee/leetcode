@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 队列
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 933 | [最近的请求次数](../../problems/number-of-recent-calls) | [[队列](../queue/README.md)]  | Easy |
 | 862 | [和至少为 K 的最短子数组](../../problems/shortest-subarray-with-sum-at-least-k) | [[队列](../queue/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |

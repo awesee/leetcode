@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 树
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1261 | [在受污染的二叉树中查找元素](../../problems/find-elements-in-a-contaminated-binary-tree) | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1257 | [最小公共区域](../../problems/smallest-common-region) 🔒 | [[树](../tree/README.md)]  | Medium |

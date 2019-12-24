@@ -7,6 +7,6 @@
 
 ## [话题分类](../README.md) > 记忆化
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 329 | [矩阵中的最长递增路径](../../problems/longest-increasing-path-in-a-matrix) | [[深度优先搜索](../depth-first-search/README.md)] [[拓扑排序](../topological-sort/README.md)] [[记忆化](../memoization/README.md)]  | Hard |

@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 数学
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1281 | [整数的各位积和之差](../../problems/subtract-the-product-and-sum-of-digits-of-an-integer) | [[数学](../math/README.md)]  | Easy |
 | 1276 | [不浪费原料的汉堡制作方案](../../problems/number-of-burgers-with-no-waste-of-ingredients) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |

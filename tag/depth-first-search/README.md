@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 深度优先搜索
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1273 | [删除树节点](../../problems/delete-tree-nodes) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1254 | [统计封闭岛屿的数目](../../problems/number-of-closed-islands) | [[深度优先搜索](../depth-first-search/README.md)]  | Medium |

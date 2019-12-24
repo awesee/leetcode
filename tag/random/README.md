@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > Random
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 710 | [黑名单中的随机数](../../problems/random-pick-with-blacklist) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[Random](../random/README.md)]  | Hard |
 | 528 | [按权重随机选择](../../problems/random-pick-with-weight) | [[二分查找](../binary-search/README.md)] [[Random](../random/README.md)]  | Medium |

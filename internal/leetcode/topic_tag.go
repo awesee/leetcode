@@ -35,7 +35,7 @@ func (tag *TagType) SaveContents() {
 	var buf bytes.Buffer
 	buf.WriteString(authInfo("tag"))
 	buf.WriteString(fmt.Sprintf("\n## [话题分类](../README.md) > %s\n\n", tag.name()))
-	buf.WriteString("| # | 题名 | 标签 | 难度 |\n")
+	buf.WriteString("| # | 题目 | 标签 | 难度 |\n")
 	buf.WriteString("| :-: | - | - | :-: |\n")
 	format := "| %d | [%s](../../problems/%s)%s | %s | %s |\n"
 	for _, question := range questions {

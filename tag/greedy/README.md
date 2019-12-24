@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 贪心算法
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1296 | [划分数组为连续数字的集合](../../problems/divide-array-in-sets-of-k-consecutive-numbers) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1282 | [用户分组](../../problems/group-the-people-given-the-group-size-they-belong-to) | [[贪心算法](../greedy/README.md)]  | Medium |

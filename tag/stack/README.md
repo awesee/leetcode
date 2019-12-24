@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 栈
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1249 | [移除无效的括号](../../problems/minimum-remove-to-make-valid-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1209 | [删除字符串中的所有相邻重复项 II](../../problems/remove-all-adjacent-duplicates-in-string-ii) | [[栈](../stack/README.md)]  | Medium |

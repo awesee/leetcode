@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 脑筋急转弯
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1227 | [飞机座位分配概率](../../problems/airplane-seat-assignment-probability) | [[脑筋急转弯](../brainteaser/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1033 | [移动石子直到连续](../../problems/moving-stones-until-consecutive) | [[脑筋急转弯](../brainteaser/README.md)]  | Easy |

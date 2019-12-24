@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 动态规划
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1289 | [下降路径最小和  II](../../problems/minimum-falling-path-sum-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1278 | [分割回文串 III](../../problems/palindrome-partitioning-iii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

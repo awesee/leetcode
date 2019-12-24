@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 拓扑排序
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1203 | [项目管理](../../problems/sort-items-by-groups-respecting-dependencies) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Hard |
 | 444 | [序列重建](../../problems/sequence-reconstruction) 🔒 | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Medium |

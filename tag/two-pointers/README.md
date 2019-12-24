@@ -7,7 +7,7 @@
 
 ## [话题分类](../README.md) > 双指针
 
-| # | 题名 | 标签 | 难度 |
+| # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1248 | [统计「优美子数组」](../../problems/count-number-of-nice-subarrays) | [[双指针](../two-pointers/README.md)]  | Medium |
 | 1234 | [替换子串得到平衡字符串](../../problems/replace-the-substring-for-balanced-string) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
