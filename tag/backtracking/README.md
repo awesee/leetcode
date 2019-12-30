@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1307 | [口算难题](../../problems/verbal-arithmetic-puzzle) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1291 | [顺次数](../../problems/sequential-digits) | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1286 | [字母组合迭代器](../../problems/iterator-for-combination) | [[设计](../design/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1258 | [近义词句子](../../problems/synonymous-sentences) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |

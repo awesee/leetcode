@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1305 | [两棵二叉搜索树中的所有元素](../../problems/all-elements-in-two-binary-search-trees) | [[排序](../sort/README.md)] [[树](../tree/README.md)]  | Medium |
+| 1302 | [层数最深叶子节点的和](../../problems/deepest-leaves-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1261 | [在受污染的二叉树中查找元素](../../problems/find-elements-in-a-contaminated-binary-tree) | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1257 | [最小公共区域](../../problems/smallest-common-region) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 1245 | [树的直径](../../problems/tree-diameter) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |

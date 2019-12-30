@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1307 | [口算难题](../../problems/verbal-arithmetic-puzzle) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1281 | [整数的各位积和之差](../../problems/subtract-the-product-and-sum-of-digits-of-an-integer) | [[数学](../math/README.md)]  | Easy |
 | 1276 | [不浪费原料的汉堡制作方案](../../problems/number-of-burgers-with-no-waste-of-ingredients) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1272 | [删除区间](../../problems/remove-interval) 🔒 | [[数学](../math/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
