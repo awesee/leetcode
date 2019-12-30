@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1306 | [跳跃游戏 III](../../problems/jump-game-iii) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1267 | [统计参与通信的服务器](../../problems/count-servers-that-communicate) | [[图](../graph/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1203 | [项目管理](../../problems/sort-items-by-groups-respecting-dependencies) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Hard |
 | 1168 | [水资源分配优化](../../problems/optimize-water-distribution-in-a-village) 🔒 | [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |

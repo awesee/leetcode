@@ -62,6 +62,15 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1307">1307</span> | [Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle "口算难题") | [Go](problems/verbal-arithmetic-puzzle) | Hard |
+| <span id="1306">1306</span> | [Jump Game III](https://leetcode.com/problems/jump-game-iii "跳跃游戏 III") | [Go](problems/jump-game-iii) | Medium |
+| <span id="1305">1305</span> | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees "两棵二叉搜索树中的所有元素") | [Go](problems/all-elements-in-two-binary-search-trees) | Medium |
+| <span id="1304">1304</span> | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero "和为零的N个唯一整数") | [Go](problems/find-n-unique-integers-sum-up-to-zero) | Easy |
+| <span id="1303">1303</span> | [Find the Team Size](https://leetcode.com/problems/find-the-team-size) 🔒 | [MySQL](problems/find-the-team-size) | Easy |
+| <span id="1302">1302</span> | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum "层数最深叶子节点的和") | [Go](problems/deepest-leaves-sum) | Medium |
+| <span id="1301">1301</span> | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score "最大得分的路径数目") | [Go](problems/number-of-paths-with-max-score) | Hard |
+| <span id="1300">1300</span> | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target "转变数组后最接近目标值的数组和") | [Go](problems/sum-of-mutated-array-closest-to-target) | Medium |
+| <span id="1299">1299</span> | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side "将每个元素替换为右侧最大元素") | [Go](problems/replace-elements-with-greatest-element-on-right-side) | Easy |
 | <span id="1298">1298</span> | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes "你能从盒子里获得的最大糖果数") | [Go](problems/maximum-candies-you-can-get-from-boxes) | Hard |
 | <span id="1297">1297</span> | [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring "子串的最大出现次数") | [Go](problems/maximum-number-of-occurrences-of-a-substring) | Medium |
 | <span id="1296">1296</span> | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers "划分数组为连续数字的集合") | [Go](problems/divide-array-in-sets-of-k-consecutive-numbers) | Medium |

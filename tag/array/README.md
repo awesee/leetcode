@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1304 | [和为零的N个唯一整数](../../problems/find-n-unique-integers-sum-up-to-zero) | [[数组](../array/README.md)]  | Easy |
+| 1300 | [转变数组后最接近目标值的数组和](../../problems/sum-of-mutated-array-closest-to-target) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1299 | [将每个元素替换为右侧最大元素](../../problems/replace-elements-with-greatest-element-on-right-side) | [[数组](../array/README.md)]  | Easy |
 | 1296 | [划分数组为连续数字的集合](../../problems/divide-array-in-sets-of-k-consecutive-numbers) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1295 | [统计位数为偶数的数字](../../problems/find-numbers-with-even-number-of-digits) | [[数组](../array/README.md)]  | Easy |
 | 1292 | [元素和小于等于阈值的正方形的最大边长](../../problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

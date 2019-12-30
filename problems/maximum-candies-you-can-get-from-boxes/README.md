@@ -7,7 +7,7 @@
 
 [< Previous](../maximum-number-of-occurrences-of-a-substring "Maximum Number of Occurrences of a Substring")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../replace-elements-with-greatest-element-on-right-side "Replace Elements with Greatest Element on Right Side")
 
 ## [1298. Maximum Candies You Can Get from Boxes (Hard)](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes "你能从盒子里获得的最大糖果数")
 

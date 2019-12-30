@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1301 | [最大得分的路径数目](../../problems/number-of-paths-with-max-score) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1289 | [下降路径最小和  II](../../problems/minimum-falling-path-sum-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1278 | [分割回文串 III](../../problems/palindrome-partitioning-iii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1277 | [统计全为 1 的正方形子矩阵](../../problems/count-square-submatrices-with-all-ones) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

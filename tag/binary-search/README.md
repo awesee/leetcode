@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1300 | [转变数组后最接近目标值的数组和](../../problems/sum-of-mutated-array-closest-to-target) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1292 | [元素和小于等于阈值的正方形的最大边长](../../problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1283 | [使结果不超过阈值的最小除数](../../problems/find-the-smallest-divisor-given-a-threshold) | [[二分查找](../binary-search/README.md)]  | Medium |
 | 1237 | [找出给定方程的正整数解](../../problems/find-positive-integer-solution-for-a-given-equation) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
