@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../combination-sum "Combination Sum")
 
-## [38. Count and Say (Easy)](https://leetcode.com/problems/count-and-say "报数")
+## [38. Count and Say (Easy)](https://leetcode.com/problems/count-and-say "外观数列")
 
 <p>The count-and-say sequence is the sequence of integers with the first five terms as following:</p>
 

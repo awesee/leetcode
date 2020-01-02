@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../print-in-order "Print in Order")
 
-## [1113. Reported Posts (Easy)](https://leetcode.com/problems/reported-posts "")
+## [1113. Reported Posts (Easy)](https://leetcode.com/problems/reported-posts "报告的记录")
 
 <p>Table: <code>Actions</code></p>
 

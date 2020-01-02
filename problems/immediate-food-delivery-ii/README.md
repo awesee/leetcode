@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../prime-arrangements "Prime Arrangements")
 
-## [1174. Immediate Food Delivery II (Medium)](https://leetcode.com/problems/immediate-food-delivery-ii "")
+## [1174. Immediate Food Delivery II (Medium)](https://leetcode.com/problems/immediate-food-delivery-ii "即时食物配送 II")
 
 <p>Table: <code>Delivery</code></p>
 
