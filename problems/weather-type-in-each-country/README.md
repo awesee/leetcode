@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../find-numbers-with-even-number-of-digits "Find Numbers with Even Number of Digits")
 
-## [1294. Weather Type in Each Country (Easy)](https://leetcode.com/problems/weather-type-in-each-country "")
+## [1294. Weather Type in Each Country (Easy)](https://leetcode.com/problems/weather-type-in-each-country "不同国家的天气类型")
 
 <p>Table: <code>Countries</code></p>
 <pre>

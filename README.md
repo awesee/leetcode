@@ -62,6 +62,7 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1308">1308</span> | [Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders) 🔒 | [MySQL](problems/running-total-for-different-genders) | Medium |
 | <span id="1307">1307</span> | [Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle "口算难题") | [Go](problems/verbal-arithmetic-puzzle) | Hard |
 | <span id="1306">1306</span> | [Jump Game III](https://leetcode.com/problems/jump-game-iii "跳跃游戏 III") | [Go](problems/jump-game-iii) | Medium |
 | <span id="1305">1305</span> | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees "两棵二叉搜索树中的所有元素") | [Go](problems/all-elements-in-two-binary-search-trees) | Medium |
@@ -75,7 +76,7 @@ LeetCode Problems' Solutions
 | <span id="1297">1297</span> | [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring "子串的最大出现次数") | [Go](problems/maximum-number-of-occurrences-of-a-substring) | Medium |
 | <span id="1296">1296</span> | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers "划分数组为连续数字的集合") | [Go](problems/divide-array-in-sets-of-k-consecutive-numbers) | Medium |
 | <span id="1295">1295</span> | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits "统计位数为偶数的数字") | [Go](problems/find-numbers-with-even-number-of-digits) | Easy |
-| <span id="1294">1294</span> | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country) 🔒 | [MySQL](problems/weather-type-in-each-country) | Easy |
+| <span id="1294">1294</span> | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country "不同国家的天气类型") 🔒 | [MySQL](problems/weather-type-in-each-country) | Easy |
 | <span id="1293">1293</span> | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination "网格中的最短路径") | [Go](problems/shortest-path-in-a-grid-with-obstacles-elimination) | Hard |
 | <span id="1292">1292</span> | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold "元素和小于等于阈值的正方形的最大边长") | [Go](problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | Medium |
 | <span id="1291">1291</span> | [Sequential Digits](https://leetcode.com/problems/sequential-digits "顺次数") | [Go](problems/sequential-digits) | Medium |
@@ -84,7 +85,7 @@ LeetCode Problems' Solutions
 | <span id="1288">1288</span> | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals "删除被覆盖区间") | [Go](problems/remove-covered-intervals) | Medium |
 | <span id="1287">1287</span> | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array "有序数组中出现次数超过25%的元素") | [Go](problems/element-appearing-more-than-25-in-sorted-array) | Easy |
 | <span id="1286">1286</span> | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination "字母组合迭代器") | [Go](problems/iterator-for-combination) | Medium |
-| <span id="1285">1285</span> | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges) 🔒 | [MySQL](problems/find-the-start-and-end-number-of-continuous-ranges) | Medium |
+| <span id="1285">1285</span> | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges "找到连续区间的开始和结束数字") 🔒 | [MySQL](problems/find-the-start-and-end-number-of-continuous-ranges) | Medium |
 | <span id="1284">1284</span> | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix "转化为全零矩阵的最少反转次数") | [Go](problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) | Hard |
 | <span id="1283">1283</span> | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold "使结果不超过阈值的最小除数") | [Go](problems/find-the-smallest-divisor-given-a-threshold) | Medium |
 | <span id="1282">1282</span> | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to "用户分组") | [Go](problems/group-the-people-given-the-group-size-they-belong-to) | Medium |
@@ -104,7 +105,7 @@ LeetCode Problems' Solutions
 | <span id="1268">1268</span> | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system "搜索推荐系统") | [Go](problems/search-suggestions-system) | Medium |
 | <span id="1267">1267</span> | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate "统计参与通信的服务器") | [Go](problems/count-servers-that-communicate) | Medium |
 | <span id="1266">1266</span> | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points "访问所有点的最小时间") | [Go](problems/minimum-time-visiting-all-points) | Easy |
-| <span id="1265">1265</span> | [Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse) 🔒 | [Go](problems/print-immutable-linked-list-in-reverse) | Medium |
+| <span id="1265">1265</span> | [Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse "逆序打印不可变链表") 🔒 | [Go](problems/print-immutable-linked-list-in-reverse) | Medium |
 | <span id="1264">1264</span> | [Page Recommendations](https://leetcode.com/problems/page-recommendations) 🔒 | [MySQL](problems/page-recommendations) | Medium |
 | <span id="1263">1263</span> | [Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location "推箱子") | [Go](problems/minimum-moves-to-move-a-box-to-their-target-location) | Hard |
 | <span id="1262">1262</span> | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three "可被三整除的最大和") | [Go](problems/greatest-sum-divisible-by-three) | Medium |
@@ -195,7 +196,7 @@ LeetCode Problems' Solutions
 | <span id="1177">1177</span> | [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring "构建回文串检测") | [Go](problems/can-make-palindrome-from-substring) | Medium |
 | <span id="1176">1176</span> | [Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance "健身计划评估") 🔒 | [Go](problems/diet-plan-performance) | Easy |
 | <span id="1175">1175</span> | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements "质数排列") | [Go](problems/prime-arrangements) | Easy |
-| <span id="1174">1174</span> | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii) 🔒 | [MySQL](problems/immediate-food-delivery-ii) | Medium |
+| <span id="1174">1174</span> | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii "即时食物配送 II") 🔒 | [MySQL](problems/immediate-food-delivery-ii) | Medium |
 | <span id="1173">1173</span> | [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i "即时食物配送 I") 🔒 | [MySQL](problems/immediate-food-delivery-i) | Easy |
 | <span id="1172">1172</span> | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks "餐盘栈") | [Go](problems/dinner-plate-stacks) | Hard |
 | <span id="1171">1171</span> | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list "从链表中删去总和值为零的连续节点") | [Go](problems/remove-zero-sum-consecutive-nodes-from-linked-list) | Medium |
@@ -256,7 +257,7 @@ LeetCode Problems' Solutions
 | <span id="1116">1116</span> | [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd "打印零与奇偶数") | [Go](problems/print-zero-even-odd) | Medium |
 | <span id="1115">1115</span> | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately "交替打印FooBar") | [Go](problems/print-foobar-alternately) | Medium |
 | <span id="1114">1114</span> | [Print in Order](https://leetcode.com/problems/print-in-order "按序打印") | [Go](problems/print-in-order) | Easy |
-| <span id="1113">1113</span> | [Reported Posts](https://leetcode.com/problems/reported-posts) 🔒 | [MySQL](problems/reported-posts) | Easy |
+| <span id="1113">1113</span> | [Reported Posts](https://leetcode.com/problems/reported-posts "报告的记录") 🔒 | [MySQL](problems/reported-posts) | Easy |
 | <span id="1112">1112</span> | [Highest Grade For Each Student](https://leetcode.com/problems/highest-grade-for-each-student "每位学生的最高成绩") 🔒 | [MySQL](problems/highest-grade-for-each-student) | Medium |
 | <span id="1111">1111</span> | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings "有效括号的嵌套深度") | [Go](problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | Medium |
 | <span id="1110">1110</span> | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest "删点成林") | [Go](problems/delete-nodes-and-return-forest) | Medium |

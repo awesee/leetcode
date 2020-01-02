@@ -7,7 +7,7 @@
 
 [< Previous](../jump-game-iii "Jump Game III")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../running-total-for-different-genders "Running Total for Different Genders")
 
 ## [1307. Verbal Arithmetic Puzzle (Hard)](https://leetcode.com/problems/verbal-arithmetic-puzzle "口算难题")
 

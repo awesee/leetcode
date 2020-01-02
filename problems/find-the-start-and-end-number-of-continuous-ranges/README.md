@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../iterator-for-combination "Iterator for Combination")
 
-## [1285. Find the Start and End Number of Continuous Ranges (Medium)](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges "")
+## [1285. Find the Start and End Number of Continuous Ranges (Medium)](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges "找到连续区间的开始和结束数字")
 
 <p>Table: <code>Logs</code></p>
 <pre>
