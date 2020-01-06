@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../find-positive-integer-solution-for-a-given-equation "Find Positive Integer Solution for a Given Equation")
 
-## [1236. Web Crawler (Medium)](https://leetcode.com/problems/web-crawler "")
+## [1236. Web Crawler (Medium)](https://leetcode.com/problems/web-crawler "网络爬虫")
 
 <p>Given a url <code>startUrl</code> and an interface <code>HtmlParser</code>, implement a web&nbsp;crawler to crawl all links that are under the&nbsp;<strong>same hostname</strong> as&nbsp;<code>startUrl</code>.&nbsp;</p>
 

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1312 | [让字符串成为回文串的最少插入次数](../../problems/minimum-insertion-steps-to-make-a-string-palindrome) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1301 | [最大得分的路径数目](../../problems/number-of-paths-with-max-score) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1289 | [下降路径最小和  II](../../problems/minimum-falling-path-sum-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1278 | [分割回文串 III](../../problems/palindrome-partitioning-iii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

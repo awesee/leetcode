@@ -60,7 +60,7 @@ Such that: &quot;SIX&quot; + &quot;SEVEN&quot; + &quot;SEVEN&quot; = &quot;TWENT
 
 <ul>
 	<li><code>2 &lt;= words.length &lt;= 5</code></li>
-	<li><code>1 &lt;= words[i].length,&nbsp;results.length&nbsp;&lt;= 7</code></li>
+	<li><code>1 &lt;= words[i].length,&nbsp;result.length&nbsp;&lt;= 7</code></li>
 	<li><code>words[i], result</code>&nbsp;contains only upper case English letters.</li>
 	<li>Number of different characters used on the expression is at most&nbsp;10.</li>
 </ul>

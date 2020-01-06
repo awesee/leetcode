@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../user-activity-for-the-past-30-days-ii "User Activity for the Past 30 Days II")
 
-## [1141. User Activity for the Past 30 Days I (Easy)](https://leetcode.com/problems/user-activity-for-the-past-30-days-i "")
+## [1141. User Activity for the Past 30 Days I (Easy)](https://leetcode.com/problems/user-activity-for-the-past-30-days-i "查询近30天活跃用户数")
 
 <p>Table: <code>Activity</code></p>
 

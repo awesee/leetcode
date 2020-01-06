@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../find-n-unique-integers-sum-up-to-zero "Find N Unique Integers Sum up to Zero")
 
-## [1303. Find the Team Size (Easy)](https://leetcode.com/problems/find-the-team-size "")
+## [1303. Find the Team Size (Easy)](https://leetcode.com/problems/find-the-team-size "求团队人数")
 
 
