@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1311 | [获取你好友已观看的视频](../../problems/get-watched-videos-by-your-friends) | [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1309 | [解码字母到整数映射](../../problems/decrypt-string-from-alphabet-to-integer-mapping) | [[字符串](../string/README.md)]  | Easy |
 | 1297 | [子串的最大出现次数](../../problems/maximum-number-of-occurrences-of-a-substring) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1271 | [十六进制魔术数字](../../problems/hexspeak) 🔒 | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1268 | [搜索推荐系统](../../problems/search-suggestions-system) | [[字符串](../string/README.md)]  | Medium |

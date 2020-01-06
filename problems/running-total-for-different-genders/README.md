@@ -7,7 +7,7 @@
 
 [< Previous](../verbal-arithmetic-puzzle "Verbal Arithmetic Puzzle")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../decrypt-string-from-alphabet-to-integer-mapping "Decrypt String from Alphabet to Integer Mapping")
 
 ## [1308. Running Total for Different Genders (Medium)](https://leetcode.com/problems/running-total-for-different-genders "")
 

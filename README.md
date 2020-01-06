@@ -62,12 +62,16 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1312">1312</span> | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome "让字符串成为回文串的最少插入次数") | [Go](problems/minimum-insertion-steps-to-make-a-string-palindrome) | Hard |
+| <span id="1311">1311</span> | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends "获取你好友已观看的视频") | [Go](problems/get-watched-videos-by-your-friends) | Medium |
+| <span id="1310">1310</span> | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray "子数组异或查询") | [Go](problems/xor-queries-of-a-subarray) | Medium |
+| <span id="1309">1309</span> | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping "解码字母到整数映射") | [Go](problems/decrypt-string-from-alphabet-to-integer-mapping) | Easy |
 | <span id="1308">1308</span> | [Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders) 🔒 | [MySQL](problems/running-total-for-different-genders) | Medium |
 | <span id="1307">1307</span> | [Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle "口算难题") | [Go](problems/verbal-arithmetic-puzzle) | Hard |
 | <span id="1306">1306</span> | [Jump Game III](https://leetcode.com/problems/jump-game-iii "跳跃游戏 III") | [Go](problems/jump-game-iii) | Medium |
 | <span id="1305">1305</span> | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees "两棵二叉搜索树中的所有元素") | [Go](problems/all-elements-in-two-binary-search-trees) | Medium |
 | <span id="1304">1304</span> | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero "和为零的N个唯一整数") | [Go](problems/find-n-unique-integers-sum-up-to-zero) | Easy |
-| <span id="1303">1303</span> | [Find the Team Size](https://leetcode.com/problems/find-the-team-size) 🔒 | [MySQL](problems/find-the-team-size) | Easy |
+| <span id="1303">1303</span> | [Find the Team Size](https://leetcode.com/problems/find-the-team-size "求团队人数") 🔒 | [MySQL](problems/find-the-team-size) | Easy |
 | <span id="1302">1302</span> | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum "层数最深叶子节点的和") | [Go](problems/deepest-leaves-sum) | Medium |
 | <span id="1301">1301</span> | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score "最大得分的路径数目") | [Go](problems/number-of-paths-with-max-score) | Hard |
 | <span id="1300">1300</span> | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target "转变数组后最接近目标值的数组和") | [Go](problems/sum-of-mutated-array-closest-to-target) | Medium |
@@ -100,7 +104,7 @@ LeetCode Problems' Solutions
 | <span id="1273">1273</span> | [Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes "删除树节点") 🔒 | [Go](problems/delete-tree-nodes) | Medium |
 | <span id="1272">1272</span> | [Remove Interval](https://leetcode.com/problems/remove-interval "删除区间") 🔒 | [Go](problems/remove-interval) | Medium |
 | <span id="1271">1271</span> | [Hexspeak](https://leetcode.com/problems/hexspeak "十六进制魔术数字") 🔒 | [Go](problems/hexspeak) | Easy |
-| <span id="1270">1270</span> | [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager) 🔒 | [MySQL](problems/all-people-report-to-the-given-manager) | Medium |
+| <span id="1270">1270</span> | [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager "向公司CEO汇报工作的所有人") 🔒 | [MySQL](problems/all-people-report-to-the-given-manager) | Medium |
 | <span id="1269">1269</span> | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps "停在原地的方案数") | [Go](problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) | Hard |
 | <span id="1268">1268</span> | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system "搜索推荐系统") | [Go](problems/search-suggestions-system) | Medium |
 | <span id="1267">1267</span> | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate "统计参与通信的服务器") | [Go](problems/count-servers-that-communicate) | Medium |
@@ -134,7 +138,7 @@ LeetCode Problems' Solutions
 | <span id="1239">1239</span> | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters "串联字符串的最大长度") | [Go](problems/maximum-length-of-a-concatenated-string-with-unique-characters) | Medium |
 | <span id="1238">1238</span> | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation "循环码排列") | [Go](problems/circular-permutation-in-binary-representation) | Medium |
 | <span id="1237">1237</span> | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation "找出给定方程的正整数解") | [Go](problems/find-positive-integer-solution-for-a-given-equation) | Easy |
-| <span id="1236">1236</span> | [Web Crawler](https://leetcode.com/problems/web-crawler) 🔒 | [Go](problems/web-crawler) | Medium |
+| <span id="1236">1236</span> | [Web Crawler](https://leetcode.com/problems/web-crawler "网络爬虫") 🔒 | [Go](problems/web-crawler) | Medium |
 | <span id="1235">1235</span> | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling "规划兼职工作") | [Go](problems/maximum-profit-in-job-scheduling) | Hard |
 | <span id="1234">1234</span> | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string "替换子串得到平衡字符串") | [Go](problems/replace-the-substring-for-balanced-string) | Medium |
 | <span id="1233">1233</span> | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem "删除子文件夹") | [Go](problems/remove-sub-folders-from-the-filesystem) | Medium |
@@ -229,7 +233,7 @@ LeetCode Problems' Solutions
 | <span id="1144">1144</span> | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag "递减元素使数组呈锯齿状") | [Go](problems/decrease-elements-to-make-array-zigzag) | Medium |
 | <span id="1143">1143</span> | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence "最长公共子序列") | [Go](problems/longest-common-subsequence) | Medium |
 | <span id="1142">1142</span> | [User Activity for the Past 30 Days II](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii "过去30天的用户活动 II") 🔒 | [MySQL](problems/user-activity-for-the-past-30-days-ii) | Easy |
-| <span id="1141">1141</span> | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) 🔒 | [MySQL](problems/user-activity-for-the-past-30-days-i) | Easy |
+| <span id="1141">1141</span> | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i "查询近30天活跃用户数") 🔒 | [MySQL](problems/user-activity-for-the-past-30-days-i) | Easy |
 | <span id="1140">1140</span> | [Stone Game II](https://leetcode.com/problems/stone-game-ii "石子游戏 II") | [Go](problems/stone-game-ii) | Medium |
 | <span id="1139">1139</span> | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square "最大的以 1 为边界的正方形") | [Go](problems/largest-1-bordered-square) | Medium |
 | <span id="1138">1138</span> | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path "字母板上的路径") | [Go](problems/alphabet-board-path) | Medium |
@@ -244,7 +248,7 @@ LeetCode Problems' Solutions
 | <span id="1129">1129</span> | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors "颜色交替的最短路径") | [Go](problems/shortest-path-with-alternating-colors) | Medium |
 | <span id="1128">1128</span> | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs "等价多米诺骨牌对的数量") | [Go](problems/number-of-equivalent-domino-pairs) | Easy |
 | <span id="1127">1127</span> | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform) 🔒 | [MySQL](problems/user-purchase-platform) | Hard |
-| <span id="1126">1126</span> | [Active Businesses](https://leetcode.com/problems/active-businesses) 🔒 | [MySQL](problems/active-businesses) | Medium |
+| <span id="1126">1126</span> | [Active Businesses](https://leetcode.com/problems/active-businesses "查询活跃业务") 🔒 | [MySQL](problems/active-businesses) | Medium |
 | <span id="1125">1125</span> | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team "最小的必要团队") | [Go](problems/smallest-sufficient-team) | Hard |
 | <span id="1124">1124</span> | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval "表现良好的最长时间段") | [Go](problems/longest-well-performing-interval) | Medium |
 | <span id="1123">1123</span> | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves "最深叶节点的最近公共祖先") | [Go](problems/lowest-common-ancestor-of-deepest-leaves) | Medium |

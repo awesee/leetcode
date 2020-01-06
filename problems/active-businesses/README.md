@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../user-purchase-platform "User Purchase Platform")
 
-## [1126. Active Businesses (Medium)](https://leetcode.com/problems/active-businesses "")
+## [1126. Active Businesses (Medium)](https://leetcode.com/problems/active-businesses "查询活跃业务")
 
 <p>Table: <code>Events</code></p>
 

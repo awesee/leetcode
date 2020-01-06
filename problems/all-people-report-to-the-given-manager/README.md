@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../hexspeak "Hexspeak")
 
-## [1270. All People Report to the Given Manager (Medium)](https://leetcode.com/problems/all-people-report-to-the-given-manager "")
+## [1270. All People Report to the Given Manager (Medium)](https://leetcode.com/problems/all-people-report-to-the-given-manager "向公司CEO汇报工作的所有人")
 
 <p>Table: <code>Employees</code></p>
 <pre>

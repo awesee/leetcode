@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1311 | [获取你好友已观看的视频](../../problems/get-watched-videos-by-your-friends) | [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1261 | [在受污染的二叉树中查找元素](../../problems/find-elements-in-a-contaminated-binary-tree) | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1244 | [力扣排行榜](../../problems/design-a-leaderboard) 🔒 | [[排序](../sort/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1224 | [最大相等频率](../../problems/maximum-equal-frequency) | [[哈希表](../hash-table/README.md)]  | Hard |

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1311 | [获取你好友已观看的视频](../../problems/get-watched-videos-by-your-friends) | [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1306 | [跳跃游戏 III](../../problems/jump-game-iii) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1298 | [你能从盒子里获得的最大糖果数](../../problems/maximum-candies-you-can-get-from-boxes) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 1293 | [网格中的最短路径](../../problems/shortest-path-in-a-grid-with-obstacles-elimination) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
@@ -16,7 +17,7 @@
 | 1263 | [推箱子](../../problems/minimum-moves-to-move-a-box-to-their-target-location) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 1245 | [树的直径](../../problems/tree-diameter) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1242 | [多线程网页爬虫](../../problems/web-crawler-multithreaded) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
-| 1236 | [Web Crawler](../../problems/web-crawler) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1236 | [网络爬虫](../../problems/web-crawler) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1210 | [穿过迷宫的最少移动次数](../../problems/minimum-moves-to-reach-target-with-rotations) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 1197 | [进击的骑士](../../problems/minimum-knight-moves) 🔒 | [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1162 | [地图分析](../../problems/as-far-from-land-as-possible) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |

@@ -14,7 +14,7 @@
 | 1254 | [统计封闭岛屿的数目](../../problems/number-of-closed-islands) | [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1245 | [树的直径](../../problems/tree-diameter) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1242 | [多线程网页爬虫](../../problems/web-crawler-multithreaded) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
-| 1236 | [Web Crawler](../../problems/web-crawler) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1236 | [网络爬虫](../../problems/web-crawler) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1203 | [项目管理](../../problems/sort-items-by-groups-respecting-dependencies) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Hard |
 | 1192 | [查找集群内的「关键连接」](../../problems/critical-connections-in-a-network) | [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
 | 1145 | [二叉树着色游戏](../../problems/binary-tree-coloring-game) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
