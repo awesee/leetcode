@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1319 | [连通网络的操作次数](../../problems/number-of-operations-to-make-network-connected) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
 | 1311 | [获取你好友已观看的视频](../../problems/get-watched-videos-by-your-friends) | [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1306 | [跳跃游戏 III](../../problems/jump-game-iii) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1298 | [你能从盒子里获得的最大糖果数](../../problems/maximum-candies-you-can-get-from-boxes) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |

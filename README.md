@@ -62,6 +62,14 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1320">1320</span> | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers "二指输入的的最小距离") | [Go](problems/minimum-distance-to-type-a-word-using-two-fingers) | Hard |
+| <span id="1319">1319</span> | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected "连通网络的操作次数") | [Go](problems/number-of-operations-to-make-network-connected) | Medium |
+| <span id="1318">1318</span> | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c "或运算的最小翻转次数") | [Go](problems/minimum-flips-to-make-a-or-b-equal-to-c) | Medium |
+| <span id="1317">1317</span> | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers "将整数转换为两个无零整数的和") | [Go](problems/convert-integer-to-the-sum-of-two-no-zero-integers) | Easy |
+| <span id="1316">1316</span> | [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings "不同的循环子字符串") | [Go](problems/distinct-echo-substrings) | Hard |
+| <span id="1315">1315</span> | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent "祖父节点值为偶数的节点和") | [Go](problems/sum-of-nodes-with-even-valued-grandparent) | Medium |
+| <span id="1314">1314</span> | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum "矩阵区域和") | [Go](problems/matrix-block-sum) | Medium |
+| <span id="1313">1313</span> | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list "解压缩编码列表") | [Go](problems/decompress-run-length-encoded-list) | Easy |
 | <span id="1312">1312</span> | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome "让字符串成为回文串的最少插入次数") | [Go](problems/minimum-insertion-steps-to-make-a-string-palindrome) | Hard |
 | <span id="1311">1311</span> | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends "获取你好友已观看的视频") | [Go](problems/get-watched-videos-by-your-friends) | Medium |
 | <span id="1310">1310</span> | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray "子数组异或查询") | [Go](problems/xor-queries-of-a-subarray) | Medium |
@@ -95,7 +103,7 @@ LeetCode Problems' Solutions
 | <span id="1282">1282</span> | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to "用户分组") | [Go](problems/group-the-people-given-the-group-size-they-belong-to) | Medium |
 | <span id="1281">1281</span> | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer "整数的各位积和之差") | [Go](problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy |
 | <span id="1280">1280</span> | [Students and Examinations](https://leetcode.com/problems/students-and-examinations "学生们参加各科测试的次数") 🔒 | [MySQL](problems/students-and-examinations) | Easy |
-| <span id="1279">1279</span> | [Traffic Light Controlled Intersection](https://leetcode.com/problems/traffic-light-controlled-intersection) 🔒 | [Go](problems/traffic-light-controlled-intersection) | Easy |
+| <span id="1279">1279</span> | [Traffic Light Controlled Intersection](https://leetcode.com/problems/traffic-light-controlled-intersection "红绿灯路口") 🔒 | [Go](problems/traffic-light-controlled-intersection) | Easy |
 | <span id="1278">1278</span> | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii "分割回文串 III") | [Go](problems/palindrome-partitioning-iii) | Hard |
 | <span id="1277">1277</span> | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones "统计全为 1 的正方形子矩阵") | [Go](problems/count-square-submatrices-with-all-ones) | Medium |
 | <span id="1276">1276</span> | [Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients "不浪费原料的汉堡制作方案") | [Go](problems/number-of-burgers-with-no-waste-of-ingredients) | Medium |
@@ -110,7 +118,7 @@ LeetCode Problems' Solutions
 | <span id="1267">1267</span> | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate "统计参与通信的服务器") | [Go](problems/count-servers-that-communicate) | Medium |
 | <span id="1266">1266</span> | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points "访问所有点的最小时间") | [Go](problems/minimum-time-visiting-all-points) | Easy |
 | <span id="1265">1265</span> | [Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse "逆序打印不可变链表") 🔒 | [Go](problems/print-immutable-linked-list-in-reverse) | Medium |
-| <span id="1264">1264</span> | [Page Recommendations](https://leetcode.com/problems/page-recommendations) 🔒 | [MySQL](problems/page-recommendations) | Medium |
+| <span id="1264">1264</span> | [Page Recommendations](https://leetcode.com/problems/page-recommendations "页面推荐") 🔒 | [MySQL](problems/page-recommendations) | Medium |
 | <span id="1263">1263</span> | [Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location "推箱子") | [Go](problems/minimum-moves-to-move-a-box-to-their-target-location) | Hard |
 | <span id="1262">1262</span> | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three "可被三整除的最大和") | [Go](problems/greatest-sum-divisible-by-three) | Medium |
 | <span id="1261">1261</span> | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree "在受污染的二叉树中查找元素") | [Go](problems/find-elements-in-a-contaminated-binary-tree) | Medium |
@@ -123,7 +131,7 @@ LeetCode Problems' Solutions
 | <span id="1254">1254</span> | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands "统计封闭岛屿的数目") | [Go](problems/number-of-closed-islands) | Medium |
 | <span id="1253">1253</span> | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix "重构 2 行二进制矩阵") | [Go](problems/reconstruct-a-2-row-binary-matrix) | Medium |
 | <span id="1252">1252</span> | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix "奇数值单元格的数目") | [Go](problems/cells-with-odd-values-in-a-matrix) | Easy |
-| <span id="1251">1251</span> | [Average Selling Price](https://leetcode.com/problems/average-selling-price) 🔒 | [MySQL](problems/average-selling-price) | Easy |
+| <span id="1251">1251</span> | [Average Selling Price](https://leetcode.com/problems/average-selling-price "平均售价") 🔒 | [MySQL](problems/average-selling-price) | Easy |
 | <span id="1250">1250</span> | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array "检查「好数组」") | [Go](problems/check-if-it-is-a-good-array) | Hard |
 | <span id="1249">1249</span> | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses "移除无效的括号") | [Go](problems/minimum-remove-to-make-valid-parentheses) | Medium |
 | <span id="1248">1248</span> | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays "统计「优美子数组」") | [Go](problems/count-number-of-nice-subarrays) | Medium |
@@ -162,7 +170,7 @@ LeetCode Problems' Solutions
 | <span id="1215">1215</span> | [Stepping Numbers](https://leetcode.com/problems/stepping-numbers "步进数") 🔒 | [Go](problems/stepping-numbers) | Medium |
 | <span id="1214">1214</span> | [Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts "查找两棵二叉搜索树之和") 🔒 | [Go](problems/two-sum-bsts) | Medium |
 | <span id="1213">1213</span> | [Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays "三个有序数组的交集") 🔒 | [Go](problems/intersection-of-three-sorted-arrays) | Easy |
-| <span id="1212">1212</span> | [Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament) 🔒 | [MySQL](problems/team-scores-in-football-tournament) | Medium |
+| <span id="1212">1212</span> | [Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament "查询球队积分") 🔒 | [MySQL](problems/team-scores-in-football-tournament) | Medium |
 | <span id="1211">1211</span> | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage) 🔒 | [MySQL](problems/queries-quality-and-percentage) | Easy |
 | <span id="1210">1210</span> | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations "穿过迷宫的最少移动次数") | [Go](problems/minimum-moves-to-reach-target-with-rotations) | Hard |
 | <span id="1209">1209</span> | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii "删除字符串中的所有相邻重复项 II") | [Go](problems/remove-all-adjacent-duplicates-in-string-ii) | Medium |
@@ -210,13 +218,13 @@ LeetCode Problems' Solutions
 | <span id="1167">1167</span> | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks "连接棒材的最低费用") 🔒 | [Go](problems/minimum-cost-to-connect-sticks) | Medium |
 | <span id="1166">1166</span> | [Design File System](https://leetcode.com/problems/design-file-system "设计文件系统") 🔒 | [Go](problems/design-file-system) | Medium |
 | <span id="1165">1165</span> | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard "单行键盘") 🔒 | [Go](problems/single-row-keyboard) | Easy |
-| <span id="1164">1164</span> | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date) 🔒 | [MySQL](problems/product-price-at-a-given-date) | Medium |
+| <span id="1164">1164</span> | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date "指定日期的产品价格") 🔒 | [MySQL](problems/product-price-at-a-given-date) | Medium |
 | <span id="1163">1163</span> | [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order "按字典序排在最后的子串") | [Go](problems/last-substring-in-lexicographical-order) | Hard |
 | <span id="1162">1162</span> | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible "地图分析") | [Go](problems/as-far-from-land-as-possible) | Medium |
 | <span id="1161">1161</span> | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree "最大层内元素和") | [Go](problems/maximum-level-sum-of-a-binary-tree) | Medium |
 | <span id="1160">1160</span> | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters "拼写单词") | [Go](problems/find-words-that-can-be-formed-by-characters) | Easy |
 | <span id="1159">1159</span> | [Market Analysis II](https://leetcode.com/problems/market-analysis-ii) 🔒 | [MySQL](problems/market-analysis-ii) | Hard |
-| <span id="1158">1158</span> | [Market Analysis I](https://leetcode.com/problems/market-analysis-i) 🔒 | [MySQL](problems/market-analysis-i) | Medium |
+| <span id="1158">1158</span> | [Market Analysis I](https://leetcode.com/problems/market-analysis-i "市场分析 I") 🔒 | [MySQL](problems/market-analysis-i) | Medium |
 | <span id="1157">1157</span> | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray "子数组中占绝大多数的元素") | [Go](problems/online-majority-element-in-subarray) | Hard |
 | <span id="1156">1156</span> | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring "单字符重复子串的最大长度") | [Go](problems/swap-for-longest-repeated-character-substring) | Medium |
 | <span id="1155">1155</span> | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum "掷骰子的N种方法") | [Go](problems/number-of-dice-rolls-with-target-sum) | Medium |
@@ -247,7 +255,7 @@ LeetCode Problems' Solutions
 | <span id="1130">1130</span> | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values "叶值的最小代价生成树") | [Go](problems/minimum-cost-tree-from-leaf-values) | Medium |
 | <span id="1129">1129</span> | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors "颜色交替的最短路径") | [Go](problems/shortest-path-with-alternating-colors) | Medium |
 | <span id="1128">1128</span> | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs "等价多米诺骨牌对的数量") | [Go](problems/number-of-equivalent-domino-pairs) | Easy |
-| <span id="1127">1127</span> | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform) 🔒 | [MySQL](problems/user-purchase-platform) | Hard |
+| <span id="1127">1127</span> | [User Purchase Platform](https://leetcode.com/problems/user-purchase-platform "用户购买平台") 🔒 | [MySQL](problems/user-purchase-platform) | Hard |
 | <span id="1126">1126</span> | [Active Businesses](https://leetcode.com/problems/active-businesses "查询活跃业务") 🔒 | [MySQL](problems/active-businesses) | Medium |
 | <span id="1125">1125</span> | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team "最小的必要团队") | [Go](problems/smallest-sufficient-team) | Hard |
 | <span id="1124">1124</span> | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval "表现良好的最长时间段") | [Go](problems/longest-well-performing-interval) | Medium |

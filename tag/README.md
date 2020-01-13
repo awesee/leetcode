@@ -27,5 +27,5 @@
 | 31 | [Random](random/README.md) | [Random](https://openset.github.io/tags/random/) | | 32 | [Topological Sort](topological-sort/README.md) | [拓扑排序](https://openset.github.io/tags/topological-sort/) | 
 | 33 | [Brainteaser](brainteaser/README.md) | [脑筋急转弯](https://openset.github.io/tags/brainteaser/) | | 34 | [Geometry](geometry/README.md) | [几何](https://openset.github.io/tags/geometry/) | 
 | 35 | [Binary Search Tree](binary-search-tree/README.md) | [二叉搜索树](https://openset.github.io/tags/binary-search-tree/) | | 36 | [Rejection Sampling](rejection-sampling/README.md) | [Rejection Sampling](https://openset.github.io/tags/rejection-sampling/) | 
-| 37 | [Reservoir Sampling](reservoir-sampling/README.md) | [蓄水池抽样](https://openset.github.io/tags/reservoir-sampling/) | | 38 | [Memoization](memoization/README.md) | [记忆化](https://openset.github.io/tags/memoization/) | 
-| 39 | [Rolling Hash](rolling-hash/README.md) | [Rolling Hash](https://openset.github.io/tags/rolling-hash/) | | 40 | [Suffix Array](suffix-array/README.md) | [Suffix Array](https://openset.github.io/tags/suffix-array/) | 
+| 37 | [Reservoir Sampling](reservoir-sampling/README.md) | [蓄水池抽样](https://openset.github.io/tags/reservoir-sampling/) | | 38 | [Rolling Hash](rolling-hash/README.md) | [Rolling Hash](https://openset.github.io/tags/rolling-hash/) | 
+| 39 | [Memoization](memoization/README.md) | [记忆化](https://openset.github.io/tags/memoization/) | | 40 | [Suffix Array](suffix-array/README.md) | [Suffix Array](https://openset.github.io/tags/suffix-array/) | 

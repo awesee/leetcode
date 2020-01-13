@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../single-row-keyboard "Single-Row Keyboard")
 
-## [1164. Product Price at a Given Date (Medium)](https://leetcode.com/problems/product-price-at-a-given-date "")
+## [1164. Product Price at a Given Date (Medium)](https://leetcode.com/problems/product-price-at-a-given-date "指定日期的产品价格")
 
 <p>Table: <code>Products</code></p>
 

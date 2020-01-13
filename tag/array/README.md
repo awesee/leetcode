@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1313 | [解压缩编码列表](../../problems/decompress-run-length-encoded-list) | [[数组](../array/README.md)]  | Easy |
 | 1304 | [和为零的N个唯一整数](../../problems/find-n-unique-integers-sum-up-to-zero) | [[数组](../array/README.md)]  | Easy |
 | 1300 | [转变数组后最接近目标值的数组和](../../problems/sum-of-mutated-array-closest-to-target) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1299 | [将每个元素替换为右侧最大元素](../../problems/replace-elements-with-greatest-element-on-right-side) | [[数组](../array/README.md)]  | Easy |

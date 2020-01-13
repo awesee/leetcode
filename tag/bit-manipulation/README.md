@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1318 | [或运算的最小翻转次数](../../problems/minimum-flips-to-make-a-or-b-equal-to-c) | [[位运算](../bit-manipulation/README.md)]  | Medium |
 | 1310 | [子数组异或查询](../../problems/xor-queries-of-a-subarray) | [[位运算](../bit-manipulation/README.md)]  | Medium |
 | 1297 | [子串的最大出现次数](../../problems/maximum-number-of-occurrences-of-a-substring) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1290 | [二进制链表转整数](../../problems/convert-binary-number-in-a-linked-list-to-integer) | [[位运算](../bit-manipulation/README.md)] [[链表](../linked-list/README.md)]  | Easy |

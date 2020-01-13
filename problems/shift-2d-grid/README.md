@@ -16,9 +16,9 @@
 <p>In one shift operation:</p>
 
 <ul>
-	<li>Element at <code>grid[i][j]</code> becomes at <code>grid[i][j + 1]</code>.</li>
-	<li>Element at <code>grid[i][n - 1]</code> becomes at <code>grid[i + 1][0]</code>.</li>
-	<li>Element at <code>grid[n - 1][n - 1]</code> becomes at <code>grid[0][0]</code>.</li>
+	<li>Element at <code>grid[i][j]</code> moves to <code>grid[i][j + 1]</code>.</li>
+	<li>Element at <code>grid[i][n - 1]</code> moves to <code>grid[i + 1][0]</code>.</li>
+	<li>Element at <code>grid[m&nbsp;- 1][n - 1]</code> moves to <code>grid[0][0]</code>.</li>
 </ul>
 
 <p>Return the <em>2D grid</em> after applying shift operation <code>k</code> times.</p>

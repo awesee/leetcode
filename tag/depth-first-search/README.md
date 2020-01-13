@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1319 | [连通网络的操作次数](../../problems/number-of-operations-to-make-network-connected) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
+| 1315 | [祖父节点值为偶数的节点和](../../problems/sum-of-nodes-with-even-valued-grandparent) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1302 | [层数最深叶子节点的和](../../problems/deepest-leaves-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1273 | [删除树节点](../../problems/delete-tree-nodes) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1254 | [统计封闭岛屿的数目](../../problems/number-of-closed-islands) | [[深度优先搜索](../depth-first-search/README.md)]  | Medium |

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../intersection-of-three-sorted-arrays "Intersection of Three Sorted Arrays")
 
-## [1212. Team Scores in Football Tournament (Medium)](https://leetcode.com/problems/team-scores-in-football-tournament "")
+## [1212. Team Scores in Football Tournament (Medium)](https://leetcode.com/problems/team-scores-in-football-tournament "查询球队积分")
 
 <p>Table: <code>Teams</code></p>
 

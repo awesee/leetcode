@@ -7,7 +7,7 @@
 
 [< Previous](../get-watched-videos-by-your-friends "Get Watched Videos by Your Friends")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../decompress-run-length-encoded-list "Decompress Run-Length Encoded List")
 
 ## [1312. Minimum Insertion Steps to Make a String Palindrome (Hard)](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome "让字符串成为回文串的最少插入次数")
 

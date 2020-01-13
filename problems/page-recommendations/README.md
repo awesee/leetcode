@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../print-immutable-linked-list-in-reverse "Print Immutable Linked List in Reverse")
 
-## [1264. Page Recommendations (Medium)](https://leetcode.com/problems/page-recommendations "")
+## [1264. Page Recommendations (Medium)](https://leetcode.com/problems/page-recommendations "页面推荐")
 
 <p>Table: <code>Friendship</code></p>
 <pre>

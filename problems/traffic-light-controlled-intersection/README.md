@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../students-and-examinations "Students and Examinations")
 
-## [1279. Traffic Light Controlled Intersection (Easy)](https://leetcode.com/problems/traffic-light-controlled-intersection "")
+## [1279. Traffic Light Controlled Intersection (Easy)](https://leetcode.com/problems/traffic-light-controlled-intersection "红绿灯路口")
 
 There is an intersection of two roads. First road is road A where cars travel from North to South in direction 1 and from South to North in direction 2. Second road is road B where cars travel from West to East in direction 3 and from East to West in direction 4.
 
