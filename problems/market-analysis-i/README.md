@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../market-analysis-ii "Market Analysis II")
 
-## [1158. Market Analysis I (Medium)](https://leetcode.com/problems/market-analysis-i "")
+## [1158. Market Analysis I (Medium)](https://leetcode.com/problems/market-analysis-i "市场分析 I")
 
 <p>Table: <code>Users</code></p>
 

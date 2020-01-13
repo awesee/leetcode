@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../number-of-equivalent-domino-pairs "Number of Equivalent Domino Pairs")
 
-## [1127. User Purchase Platform (Hard)](https://leetcode.com/problems/user-purchase-platform "")
+## [1127. User Purchase Platform (Hard)](https://leetcode.com/problems/user-purchase-platform "用户购买平台")
 
 <p>Table: <code>Spending</code></p>
 

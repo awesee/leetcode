@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../cells-with-odd-values-in-a-matrix "Cells with Odd Values in a Matrix")
 
-## [1251. Average Selling Price (Easy)](https://leetcode.com/problems/average-selling-price "")
+## [1251. Average Selling Price (Easy)](https://leetcode.com/problems/average-selling-price "平均售价")
 
 <p>Table: <code>Prices</code></p>
 

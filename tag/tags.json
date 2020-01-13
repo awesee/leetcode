@@ -185,14 +185,14 @@
 		"TranslatedName": "蓄水池抽样"
 	},
 	{
-		"Name": "Memoization",
-		"Slug": "memoization",
-		"TranslatedName": "记忆化"
-	},
-	{
 		"Name": "Rolling Hash",
 		"Slug": "rolling-hash",
 		"TranslatedName": "Rolling Hash"
+	},
+	{
+		"Name": "Memoization",
+		"Slug": "memoization",
+		"TranslatedName": "记忆化"
 	},
 	{
 		"Name": "Suffix Array",

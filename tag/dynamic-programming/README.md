@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1320 | [二指输入的的最小距离](../../problems/minimum-distance-to-type-a-word-using-two-fingers) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1314 | [矩阵区域和](../../problems/matrix-block-sum) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1312 | [让字符串成为回文串的最少插入次数](../../problems/minimum-insertion-steps-to-make-a-string-palindrome) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1301 | [最大得分的路径数目](../../problems/number-of-paths-with-max-score) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1289 | [下降路径最小和  II](../../problems/minimum-falling-path-sum-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
