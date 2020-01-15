@@ -68,15 +68,16 @@ for (int i = 0; i &lt; len; i++) {
 ### Hints
 <details>
 <summary>Hint 1</summary>
-Try two pointers.
+The problem statement clearly asks us to modify the array in-place and it also says that the element beyond the new length of the array can be anything. Given an element, we need to remove all the occurrences of it from the array. We don't technically need to <b>remove</b> that element per-say, right?
 </details>
 
 <details>
 <summary>Hint 2</summary>
-Did you use the property of "the order of elements can be changed"?
+We can move all the occurrences of this element to the end of the array. Use two pointers!
+<br><img src="https://assets.leetcode.com/uploads/2019/10/20/hint_remove_element.png" width="500"/>
 </details>
 
 <details>
 <summary>Hint 3</summary>
-What happens when the elements to remove are rare?
+Yet another direction of thought is to consider the elements to be removed as non-existent. In a single pass, if we keep copying the visible elements in-place, that should also solve this problem for us.
 </details>

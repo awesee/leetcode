@@ -35,3 +35,26 @@
 
 ### Similar Questions
   1. [Trapping Rain Water](../trapping-rain-water) (Hard)
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+The aim is to maximize the area formed between the vertical lines. The area of any container is calculated using the shorter line as length and the distance between the lines as the width of the rectangle.
+
+<pre>
+Area = length of shorter vertical line * distance between lines
+</pre>
+
+We can definitely get the maximum width container as the outermost lines have the maximum distance between them. However, this container <b>might not be the maximum in size</b> as one of the vertical lines of this container could be really short.
+
+<br>
+<img src="https://assets.leetcode.com/uploads/2019/10/20/hint_water_trap_1.png" width="500"/>
+
+<br>
+<img src="https://assets.leetcode.com/uploads/2019/10/20/hint_water_trap_2.png" width="500"/>
+</details>
+
+<details>
+<summary>Hint 2</summary>
+Start with the maximum width container and go to a shorter width container if there is a vertical line longer than the current containers shorter line. This way we are compromising on the width but we are looking forward to a longer length container.
+</details>

@@ -38,3 +38,19 @@ A solution set is:
   1. [3Sum Closest](../3sum-closest) (Medium)
   1. [4Sum](../4sum) (Medium)
   1. [3Sum Smaller](../3sum-smaller) (Medium)
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+So, we essentially need to find three numbers x, y, and z such that they add up to the given value. If we fix one of the numbers say x, we are left with the two-sum problem at hand!
+</details>
+
+<details>
+<summary>Hint 2</summary>
+For the two-sum problem, if we fix one of the numbers, say <pre>x</pre>, we have to scan the entire array to find the next number<pre>y</pre> which is <pre>value - x</pre> where value is the input parameter. Can we change our array somehow so that this search becomes faster?
+</details>
+
+<details>
+<summary>Hint 3</summary>
+The second train of thought for two-sum is, without changing the array, can we use additional space somehow? Like maybe a hash map to speed up the search?
+</details>
