@@ -13,16 +13,16 @@ type ListNode = kit.ListNode
  * }
  */
 func removeNthFromEnd(head *ListNode, n int) *ListNode {
-	q := []*ListNode{head}
-	for head.Next != nil {
-		q = append(q, head.Next)
+	ans := &ListNode{Next: head}
+	pos := ans
+	for head != nil {
 		head = head.Next
+		if n > 0 {
+			n--
+		} else {
+			pos = pos.Next
+		}
 	}
-	i := len(q) - n
-	if i > 0 {
-		q[i-1].Next = q[i].Next
-	} else {
-		q[0] = q[i].Next
-	}
-	return q[0]
+	pos.Next = pos.Next.Next
+	return ans.Next
 }
