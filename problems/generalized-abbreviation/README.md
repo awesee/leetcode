@@ -26,8 +26,8 @@
 <p>&nbsp;</p>
 
 ### Related Topics
-  [[Backtracking](../../tag/backtracking/README.md)]
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
   1. [Subsets](../subsets) (Medium)

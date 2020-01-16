@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../largest-unique-number "Largest Unique Number")
 
-## [1132. Reported Posts II (Medium)](https://leetcode.com/problems/reported-posts-ii "")
+## [1132. Reported Posts II (Medium)](https://leetcode.com/problems/reported-posts-ii "报告的记录 II")
 
 <p>Table: <code>Actions</code></p>
 

@@ -28,8 +28,8 @@ So you should return 1, because there is only one bulb is on.
 </pre>
 
 ### Related Topics
-  [[Math](../../tag/math/README.md)]
   [[Brainteaser](../../tag/brainteaser/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
   1. [Bulb Switcher II](../bulb-switcher-ii) (Medium)

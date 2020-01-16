@@ -26,11 +26,11 @@ To the right of 1 there is <b>0</b> smaller element.
 </pre>
 
 ### Related Topics
-  [[Binary Search](../../tag/binary-search/README.md)]
-  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
   [[Sort](../../tag/sort/README.md)]
   [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
   [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
   1. [Count of Range Sum](../count-of-range-sum) (Hard)
