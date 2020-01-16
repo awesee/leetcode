@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../check-if-a-number-is-majority-element-in-a-sorted-array "Check If a Number Is Majority Element in a Sorted Array")
 
-## [1149. Article Views II (Medium)](https://leetcode.com/problems/article-views-ii "")
+## [1149. Article Views II (Medium)](https://leetcode.com/problems/article-views-ii "文章浏览 II")
 
 <p>Table: <code>Views</code></p>
 

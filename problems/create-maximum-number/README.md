@@ -47,8 +47,8 @@ k = <code>3</code>
 </pre>
 
 ### Related Topics
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Remove K Digits](../remove-k-digits) (Medium)

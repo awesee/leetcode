@@ -62,6 +62,7 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1321">1321</span> | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth) 🔒 | [MySQL](problems/restaurant-growth) | Medium |
 | <span id="1320">1320</span> | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers "二指输入的的最小距离") | [Go](problems/minimum-distance-to-type-a-word-using-two-fingers) | Hard |
 | <span id="1319">1319</span> | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected "连通网络的操作次数") | [Go](problems/number-of-operations-to-make-network-connected) | Medium |
 | <span id="1318">1318</span> | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c "或运算的最小翻转次数") | [Go](problems/minimum-flips-to-make-a-or-b-equal-to-c) | Medium |
@@ -233,7 +234,7 @@ LeetCode Problems' Solutions
 | <span id="1152">1152</span> | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern "用户网站访问行为分析") 🔒 | [Go](problems/analyze-user-website-visit-pattern) | Medium |
 | <span id="1151">1151</span> | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together "最少交换次数来组合所有的 1") 🔒 | [Go](problems/minimum-swaps-to-group-all-1s-together) | Medium |
 | <span id="1150">1150</span> | [Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array "检查一个数是否在数组中占绝大多数") 🔒 | [Go](problems/check-if-a-number-is-majority-element-in-a-sorted-array) | Easy |
-| <span id="1149">1149</span> | [Article Views II](https://leetcode.com/problems/article-views-ii) 🔒 | [MySQL](problems/article-views-ii) | Medium |
+| <span id="1149">1149</span> | [Article Views II](https://leetcode.com/problems/article-views-ii "文章浏览 II") 🔒 | [MySQL](problems/article-views-ii) | Medium |
 | <span id="1148">1148</span> | [Article Views I](https://leetcode.com/problems/article-views-i "文章浏览 I") 🔒 | [MySQL](problems/article-views-i) | Easy |
 | <span id="1147">1147</span> | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition "段式回文") | [Go](problems/longest-chunked-palindrome-decomposition) | Hard |
 | <span id="1146">1146</span> | [Snapshot Array](https://leetcode.com/problems/snapshot-array "快照数组") | [Go](problems/snapshot-array) | Medium |
@@ -250,7 +251,7 @@ LeetCode Problems' Solutions
 | <span id="1135">1135</span> | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost "最低成本联通所有城市") 🔒 | [Go](problems/connecting-cities-with-minimum-cost) | Medium |
 | <span id="1134">1134</span> | [Armstrong Number](https://leetcode.com/problems/armstrong-number "阿姆斯特朗数") 🔒 | [Go](problems/armstrong-number) | Easy |
 | <span id="1133">1133</span> | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number "最大唯一数") 🔒 | [Go](problems/largest-unique-number) | Easy |
-| <span id="1132">1132</span> | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii) 🔒 | [MySQL](problems/reported-posts-ii) | Medium |
+| <span id="1132">1132</span> | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii "报告的记录 II") 🔒 | [MySQL](problems/reported-posts-ii) | Medium |
 | <span id="1131">1131</span> | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression "绝对值表达式的最大值") | [Go](problems/maximum-of-absolute-value-expression) | Medium |
 | <span id="1130">1130</span> | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values "叶值的最小代价生成树") | [Go](problems/minimum-cost-tree-from-leaf-values) | Medium |
 | <span id="1129">1129</span> | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors "颜色交替的最短路径") | [Go](problems/shortest-path-with-alternating-colors) | Medium |

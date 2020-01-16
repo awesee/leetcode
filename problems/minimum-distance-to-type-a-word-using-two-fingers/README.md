@@ -7,7 +7,7 @@
 
 [< Previous](../number-of-operations-to-make-network-connected "Number of Operations to Make Network Connected")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../restaurant-growth "Restaurant Growth")
 
 ## [1320. Minimum Distance to Type a Word Using Two Fingers (Hard)](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers "二指输入的的最小距离")
 
