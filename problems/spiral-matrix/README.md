@@ -41,3 +41,20 @@
 
 ### Similar Questions
   1. [Spiral Matrix II](../spiral-matrix-ii) (Medium)
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Well for some problems, the best way really is to come up with some algorithms for simulation. Basically, you need to simulate what the problem asks us to do.
+</details>
+
+<details>
+<summary>Hint 2</summary>
+We go boundary by boundary and move inwards. That is the essential operation. First row, last column, last row, first column and then we move inwards by 1 and then repeat. That's all, that is all the simulation that we need.
+</details>
+
+<details>
+<summary>Hint 3</summary>
+Think about when you want to switch the progress on one of the indexes. If you progress on <pre>i</pre> out of <pre>[i, j]</pre>, you'd be shifting in the same column. Similarly, by changing values for <pre>j</pre>, you'd be shifting in the same row.
+Also, keep track of the end of a boundary so that you can move inwards and then keep repeating. It's always best to run the simulation on edge cases like a single column or a single row to see if anything breaks or not.
+</details>
