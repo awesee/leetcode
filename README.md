@@ -62,6 +62,25 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1340">1340</span> | [Jump Game V](https://leetcode.com/problems/jump-game-v "跳跃游戏 V") | [Go](problems/jump-game-v) | Hard |
+| <span id="1339">1339</span> | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree "分裂二叉树的最大乘积") | [Go](problems/maximum-product-of-splitted-binary-tree) | Medium |
+| <span id="1338">1338</span> | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half "数组大小减半") | [Go](problems/reduce-array-size-to-the-half) | Medium |
+| <span id="1337">1337</span> | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix "方阵中战斗力最弱的 K 行") | [Go](problems/the-k-weakest-rows-in-a-matrix) | Easy |
+| <span id="1336">1336</span> | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit) 🔒 | [MySQL](problems/number-of-transactions-per-visit) | Medium |
+| <span id="1335">1335</span> | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule "工作计划的最低难度") | [Go](problems/minimum-difficulty-of-a-job-schedule) | Hard |
+| <span id="1334">1334</span> | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance "阈值距离内邻居最少的城市") | [Go](problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | Medium |
+| <span id="1333">1333</span> | [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance "餐厅过滤器") | [Go](problems/filter-restaurants-by-vegan-friendly-price-and-distance) | Medium |
+| <span id="1332">1332</span> | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences "删除回文子序列") | [Go](problems/remove-palindromic-subsequences) | Easy |
+| <span id="1331">1331</span> | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array "数组序号转换") | [Go](problems/rank-transform-of-an-array) | Easy |
+| <span id="1330">1330</span> | [Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value "翻转子数组得到最大的数组值") | [Go](problems/reverse-subarray-to-maximize-array-value) | Hard |
+| <span id="1329">1329</span> | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally "将矩阵按对角线排序") | [Go](problems/sort-the-matrix-diagonally) | Medium |
+| <span id="1328">1328</span> | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome "破坏回文串") | [Go](problems/break-a-palindrome) | Medium |
+| <span id="1327">1327</span> | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period) 🔒 | [MySQL](problems/list-the-products-ordered-in-a-period) | Easy |
+| <span id="1326">1326</span> | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden "灌溉花园的最少水龙头数目") | [Go](problems/minimum-number-of-taps-to-open-to-water-a-garden) | Hard |
+| <span id="1325">1325</span> | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value "删除给定值的叶子节点") | [Go](problems/delete-leaves-with-a-given-value) | Medium |
+| <span id="1324">1324</span> | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically "竖直打印单词") | [Go](problems/print-words-vertically) | Medium |
+| <span id="1323">1323</span> | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number "6 和 9 组成的最大数字") | [Go](problems/maximum-69-number) | Easy |
+| <span id="1322">1322</span> | [Ads Performance](https://leetcode.com/problems/ads-performance) 🔒 | [MySQL](problems/ads-performance) | Easy |
 | <span id="1321">1321</span> | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth) 🔒 | [MySQL](problems/restaurant-growth) | Medium |
 | <span id="1320">1320</span> | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers "二指输入的的最小距离") | [Go](problems/minimum-distance-to-type-a-word-using-two-fingers) | Hard |
 | <span id="1319">1319</span> | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected "连通网络的操作次数") | [Go](problems/number-of-operations-to-make-network-connected) | Medium |

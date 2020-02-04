@@ -9,6 +9,12 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1338 | [数组大小减半](../../problems/reduce-array-size-to-the-half) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1337 | [方阵中战斗力最弱的 K 行](../../problems/the-k-weakest-rows-in-a-matrix) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
+| 1333 | [餐厅过滤器](../../problems/filter-restaurants-by-vegan-friendly-price-and-distance) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1331 | [数组序号转换](../../problems/rank-transform-of-an-array) | [[数组](../array/README.md)]  | Easy |
+| 1330 | [翻转子数组得到最大的数组值](../../problems/reverse-subarray-to-maximize-array-value) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1329 | [将矩阵按对角线排序](../../problems/sort-the-matrix-diagonally) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1313 | [解压缩编码列表](../../problems/decompress-run-length-encoded-list) | [[数组](../array/README.md)]  | Easy |
 | 1304 | [和为零的N个唯一整数](../../problems/find-n-unique-integers-sum-up-to-zero) | [[数组](../array/README.md)]  | Easy |
 | 1300 | [转变数组后最接近目标值的数组和](../../problems/sum-of-mutated-array-closest-to-target) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1338 | [数组大小减半](../../problems/reduce-array-size-to-the-half) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1326 | [灌溉花园的最少水龙头数目](../../problems/minimum-number-of-taps-to-open-to-water-a-garden) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1296 | [划分数组为连续数字的集合](../../problems/divide-array-in-sets-of-k-consecutive-numbers) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1282 | [用户分组](../../problems/group-the-people-given-the-group-size-they-belong-to) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1276 | [不浪费原料的汉堡制作方案](../../problems/number-of-burgers-with-no-waste-of-ingredients) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |

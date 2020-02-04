@@ -9,6 +9,10 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1340 | [跳跃游戏 V](../../problems/jump-game-v) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1339 | [分裂二叉树的最大乘积](../../problems/maximum-product-of-splitted-binary-tree) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1335 | [工作计划的最低难度](../../problems/minimum-difficulty-of-a-job-schedule) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1326 | [灌溉花园的最少水龙头数目](../../problems/minimum-number-of-taps-to-open-to-water-a-garden) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1320 | [二指输入的的最小距离](../../problems/minimum-distance-to-type-a-word-using-two-fingers) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1314 | [矩阵区域和](../../problems/matrix-block-sum) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1312 | [让字符串成为回文串的最少插入次数](../../problems/minimum-insertion-steps-to-make-a-string-palindrome) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

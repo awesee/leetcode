@@ -7,7 +7,7 @@
 
 [< Previous](../minimum-distance-to-type-a-word-using-two-fingers "Minimum Distance to Type a Word Using Two Fingers")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../ads-performance "Ads Performance")
 
 ## [1321. Restaurant Growth (Medium)](https://leetcode.com/problems/restaurant-growth "")
 

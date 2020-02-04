@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1333 | [餐厅过滤器](../../problems/filter-restaurants-by-vegan-friendly-price-and-distance) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1329 | [将矩阵按对角线排序](../../problems/sort-the-matrix-diagonally) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1305 | [两棵二叉搜索树中的所有元素](../../problems/all-elements-in-two-binary-search-trees) | [[排序](../sort/README.md)] [[树](../tree/README.md)]  | Medium |
 | 1244 | [力扣排行榜](../../problems/design-a-leaderboard) 🔒 | [[排序](../sort/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1235 | [规划兼职工作](../../problems/maximum-profit-in-job-scheduling) | [[排序](../sort/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

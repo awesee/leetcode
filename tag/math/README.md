@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1330 | [翻转子数组得到最大的数组值](../../problems/reverse-subarray-to-maximize-array-value) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1323 | [6 和 9 组成的最大数字](../../problems/maximum-69-number) | [[数学](../math/README.md)]  | Easy |
 | 1317 | [将整数转换为两个无零整数的和](../../problems/convert-integer-to-the-sum-of-two-no-zero-integers) | [[数学](../math/README.md)]  | Easy |
 | 1307 | [口算难题](../../problems/verbal-arithmetic-puzzle) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1281 | [整数的各位积和之差](../../problems/subtract-the-product-and-sum-of-digits-of-an-integer) | [[数学](../math/README.md)]  | Easy |
