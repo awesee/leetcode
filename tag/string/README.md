@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1347 | [制造字母异位词的最小步骤数](../../problems/minimum-number-of-steps-to-make-two-strings-anagram) | [[字符串](../string/README.md)]  | Medium |
 | 1332 | [删除回文子序列](../../problems/remove-palindromic-subsequences) | [[字符串](../string/README.md)]  | Easy |
 | 1328 | [破坏回文串](../../problems/break-a-palindrome) | [[字符串](../string/README.md)]  | Medium |
 | 1324 | [竖直打印单词](../../problems/print-words-vertically) | [[字符串](../string/README.md)]  | Medium |

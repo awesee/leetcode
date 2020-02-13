@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../monthly-transactions-ii "Monthly Transactions II")
 
-## [1204. Last Person to Fit in the Elevator (Medium)](https://leetcode.com/problems/last-person-to-fit-in-the-elevator "")
+## [1204. Last Person to Fit in the Elevator (Medium)](https://leetcode.com/problems/last-person-to-fit-in-the-elevator "最后一个能进入电梯的人")
 
 <p>Table: <code>Queue</code></p>
 

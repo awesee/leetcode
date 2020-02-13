@@ -7,7 +7,7 @@
 
 [< Previous](../maximum-product-of-splitted-binary-tree "Maximum Product of Splitted Binary Tree")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../movie-rating "Movie Rating")
 
 ## [1340. Jump Game V (Hard)](https://leetcode.com/problems/jump-game-v "跳跃游戏 V")
 

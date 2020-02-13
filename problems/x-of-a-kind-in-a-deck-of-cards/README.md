@@ -21,72 +21,53 @@
 </ul>
 
 <p>&nbsp;</p>
-
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-1-1">[1,2,3,4,4,3,2,1]</span>
-<strong>Output: </strong><span id="example-output-1">true
-<strong>Explanation</strong>: Possible partition [1,1],[2,2],[3,3],[4,4]</span>
+<strong>Input:</strong> deck = [1,2,3,4,4,3,2,1]
+<strong>Output:</strong> true
+<strong>Explanation</strong>: Possible partition [1,1],[2,2],[3,3],[4,4].
 </pre>
 
-<div>
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-2-1">[1,1,1,2,2,2,3,3]</span>
-<strong>Output: </strong><span id="example-output-2">false
-</span><span id="example-output-1"><strong>Explanation</strong>: No possible partition.</span>
+<strong>Input:</strong> deck = [1,1,1,2,2,2,3,3]
+<strong>Output:</strong> false&acute;
+<strong>Explanation</strong>: No possible partition.
 </pre>
 
-<div>
 <p><strong>Example 3:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-3-1">[1]</span>
-<strong>Output: </strong><span id="example-output-3">false
-</span><span id="example-output-1"><strong>Explanation</strong>: No possible partition.</span>
+<strong>Input:</strong> deck = [1]
+<strong>Output:</strong> false
+<strong>Explanation</strong>: No possible partition.
 </pre>
 
-<div>
 <p><strong>Example 4:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-4-1">[1,1]</span>
-<strong>Output: </strong><span id="example-output-4">true
-</span><span id="example-output-1"><strong>Explanation</strong>: Possible partition [1,1]</span>
+<strong>Input:</strong> deck = [1,1]
+<strong>Output:</strong> true
+<strong>Explanation</strong>: Possible partition [1,1].
 </pre>
 
-<div>
 <p><strong>Example 5:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-5-1">[1,1,2,2,2,2]</span>
-<strong>Output: </strong><span id="example-output-5">true
-</span><span id="example-output-1"><strong>Explanation</strong>: Possible partition [1,1],[2,2],[2,2]</span>
+<strong>Input:</strong> deck = [1,1,2,2,2,2]
+<strong>Output:</strong> true
+<strong>Explanation</strong>: Possible partition [1,1],[2,2],[2,2].
 </pre>
-</div>
-</div>
-</div>
-</div>
 
-<p><br />
-<strong>Note:</strong></p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<ol>
-	<li><code>1 &lt;= deck.length &lt;= 10000</code></li>
-	<li><code>0 &lt;= deck[i] &lt;&nbsp;10000</code></li>
-</ol>
-
-<div>
-<div>
-<div>
-<div>
-<div>&nbsp;</div>
-</div>
-</div>
-</div>
-</div>
+<ul>
+	<li><code>1 &lt;= deck.length &lt;= 10^4</code></li>
+	<li><code>0 &lt;= deck[i] &lt;&nbsp;10^4</code></li>
+</ul>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
