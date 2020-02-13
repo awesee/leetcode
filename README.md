@@ -62,11 +62,20 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1349">1349</span> | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam "参加考试的最大学生数") | [Go](problems/maximum-students-taking-exam) | Hard |
+| <span id="1348">1348</span> | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency "推文计数") | [Go](problems/tweet-counts-per-frequency) | Medium |
+| <span id="1347">1347</span> | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram "制造字母异位词的最小步骤数") | [Go](problems/minimum-number-of-steps-to-make-two-strings-anagram) | Medium |
+| <span id="1346">1346</span> | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist "检查整数及其两倍数是否存在") | [Go](problems/check-if-n-and-its-double-exist) | Easy |
+| <span id="1345">1345</span> | [Jump Game IV](https://leetcode.com/problems/jump-game-iv "跳跃游戏 IV") | [Go](problems/jump-game-iv) | Hard |
+| <span id="1344">1344</span> | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock "时钟指针的夹角") | [Go](problems/angle-between-hands-of-a-clock) | Medium |
+| <span id="1343">1343</span> | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold "大小为 K 且平均值大于等于阈值的子数组数目") | [Go](problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | Medium |
+| <span id="1342">1342</span> | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero "将数字变成 0 的操作次数") | [Go](problems/number-of-steps-to-reduce-a-number-to-zero) | Easy |
+| <span id="1341">1341</span> | [Movie Rating](https://leetcode.com/problems/movie-rating "电影评分") 🔒 | [MySQL](problems/movie-rating) | Medium |
 | <span id="1340">1340</span> | [Jump Game V](https://leetcode.com/problems/jump-game-v "跳跃游戏 V") | [Go](problems/jump-game-v) | Hard |
 | <span id="1339">1339</span> | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree "分裂二叉树的最大乘积") | [Go](problems/maximum-product-of-splitted-binary-tree) | Medium |
 | <span id="1338">1338</span> | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half "数组大小减半") | [Go](problems/reduce-array-size-to-the-half) | Medium |
 | <span id="1337">1337</span> | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix "方阵中战斗力最弱的 K 行") | [Go](problems/the-k-weakest-rows-in-a-matrix) | Easy |
-| <span id="1336">1336</span> | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit) 🔒 | [MySQL](problems/number-of-transactions-per-visit) | Medium |
+| <span id="1336">1336</span> | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit) 🔒 | [MySQL](problems/number-of-transactions-per-visit) | Hard |
 | <span id="1335">1335</span> | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule "工作计划的最低难度") | [Go](problems/minimum-difficulty-of-a-job-schedule) | Hard |
 | <span id="1334">1334</span> | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance "阈值距离内邻居最少的城市") | [Go](problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | Medium |
 | <span id="1333">1333</span> | [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance "餐厅过滤器") | [Go](problems/filter-restaurants-by-vegan-friendly-price-and-distance) | Medium |
@@ -191,14 +200,14 @@ LeetCode Problems' Solutions
 | <span id="1214">1214</span> | [Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts "查找两棵二叉搜索树之和") 🔒 | [Go](problems/two-sum-bsts) | Medium |
 | <span id="1213">1213</span> | [Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays "三个有序数组的交集") 🔒 | [Go](problems/intersection-of-three-sorted-arrays) | Easy |
 | <span id="1212">1212</span> | [Team Scores in Football Tournament](https://leetcode.com/problems/team-scores-in-football-tournament "查询球队积分") 🔒 | [MySQL](problems/team-scores-in-football-tournament) | Medium |
-| <span id="1211">1211</span> | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage) 🔒 | [MySQL](problems/queries-quality-and-percentage) | Easy |
+| <span id="1211">1211</span> | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage "查询结果的质量和占比") 🔒 | [MySQL](problems/queries-quality-and-percentage) | Easy |
 | <span id="1210">1210</span> | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations "穿过迷宫的最少移动次数") | [Go](problems/minimum-moves-to-reach-target-with-rotations) | Hard |
 | <span id="1209">1209</span> | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii "删除字符串中的所有相邻重复项 II") | [Go](problems/remove-all-adjacent-duplicates-in-string-ii) | Medium |
 | <span id="1208">1208</span> | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget "尽可能使字符串相等") | [Go](problems/get-equal-substrings-within-budget) | Medium |
 | <span id="1207">1207</span> | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences "独一无二的出现次数") | [Go](problems/unique-number-of-occurrences) | Easy |
 | <span id="1206">1206</span> | [Design Skiplist](https://leetcode.com/problems/design-skiplist "设计跳表") | [Go](problems/design-skiplist) | Hard |
 | <span id="1205">1205</span> | [Monthly Transactions II](https://leetcode.com/problems/monthly-transactions-ii "每月交易II") 🔒 | [MySQL](problems/monthly-transactions-ii) | Medium |
-| <span id="1204">1204</span> | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator) 🔒 | [MySQL](problems/last-person-to-fit-in-the-elevator) | Medium |
+| <span id="1204">1204</span> | [Last Person to Fit in the Elevator](https://leetcode.com/problems/last-person-to-fit-in-the-elevator "最后一个能进入电梯的人") 🔒 | [MySQL](problems/last-person-to-fit-in-the-elevator) | Medium |
 | <span id="1203">1203</span> | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies "项目管理") | [Go](problems/sort-items-by-groups-respecting-dependencies) | Hard |
 | <span id="1202">1202</span> | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps "交换字符串中的元素") | [Go](problems/smallest-string-with-swaps) | Medium |
 | <span id="1201">1201</span> | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii "丑数 III") | [Go](problems/ugly-number-iii) | Medium |

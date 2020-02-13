@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1349 | [参加考试的最大学生数](../../problems/maximum-students-taking-exam) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1340 | [跳跃游戏 V](../../problems/jump-game-v) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1339 | [分裂二叉树的最大乘积](../../problems/maximum-product-of-splitted-binary-tree) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1335 | [工作计划的最低难度](../../problems/minimum-difficulty-of-a-job-schedule) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

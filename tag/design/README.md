@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1348 | [推文计数](../../problems/tweet-counts-per-frequency) | [[设计](../design/README.md)]  | Medium |
 | 1286 | [字母组合迭代器](../../problems/iterator-for-combination) | [[设计](../design/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1244 | [力扣排行榜](../../problems/design-a-leaderboard) 🔒 | [[排序](../sort/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1206 | [设计跳表](../../problems/design-skiplist) | [[设计](../design/README.md)]  | Hard |

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../team-scores-in-football-tournament "Team Scores in Football Tournament")
 
-## [1211. Queries Quality and Percentage (Easy)](https://leetcode.com/problems/queries-quality-and-percentage "")
+## [1211. Queries Quality and Percentage (Easy)](https://leetcode.com/problems/queries-quality-and-percentage "查询结果的质量和占比")
 
 <p>Table: <code>Queries</code></p>
 
