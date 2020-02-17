@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1352 | [最后 K 个数的乘积](../../problems/product-of-the-last-k-numbers) | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1351 | [统计有序矩阵中的负数](../../problems/count-negative-numbers-in-a-sorted-matrix) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 1346 | [检查整数及其两倍数是否存在](../../problems/check-if-n-and-its-double-exist) | [[数组](../array/README.md)]  | Easy |
 | 1343 | [大小为 K 且平均值大于等于阈值的子数组数目](../../problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [[数组](../array/README.md)]  | Medium |
 | 1338 | [数组大小减半](../../problems/reduce-array-size-to-the-half) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |

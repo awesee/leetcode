@@ -38,10 +38,10 @@
 <p>&nbsp;</p>
 
 ### Related Topics
+  [[Sort](../../tag/sort/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
-  [[Sort](../../tag/sort/README.md)]
 
 ### Similar Questions
   1. [Intersection of Two Arrays II](../intersection-of-two-arrays-ii) (Easy)

@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1354 | [多次求和构造目标数组](../../problems/construct-target-array-with-multiple-sums) | [[贪心算法](../greedy/README.md)]  | Hard |
+| 1353 | [最多可以参加的会议数目](../../problems/maximum-number-of-events-that-can-be-attended) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[线段树](../segment-tree/README.md)]  | Medium |
 | 1338 | [数组大小减半](../../problems/reduce-array-size-to-the-half) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1326 | [灌溉花园的最少水龙头数目](../../problems/minimum-number-of-taps-to-open-to-water-a-garden) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1296 | [划分数组为连续数字的集合](../../problems/divide-array-in-sets-of-k-consecutive-numbers) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |

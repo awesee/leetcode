@@ -7,7 +7,7 @@
 
 [< Previous](../tweet-counts-per-frequency "Tweet Counts Per Frequency")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../students-with-invalid-departments "Students With Invalid Departments")
 
 ## [1349. Maximum Students Taking Exam (Hard)](https://leetcode.com/problems/maximum-students-taking-exam "参加考试的最大学生数")
 
