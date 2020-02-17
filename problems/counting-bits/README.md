@@ -35,8 +35,8 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Number of 1 Bits](../number-of-1-bits) (Easy)

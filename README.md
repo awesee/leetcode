@@ -62,6 +62,11 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1354">1354</span> | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums "多次求和构造目标数组") | [Go](problems/construct-target-array-with-multiple-sums) | Hard |
+| <span id="1353">1353</span> | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended "最多可以参加的会议数目") | [Go](problems/maximum-number-of-events-that-can-be-attended) | Medium |
+| <span id="1352">1352</span> | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers "最后 K 个数的乘积") | [Go](problems/product-of-the-last-k-numbers) | Medium |
+| <span id="1351">1351</span> | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix "统计有序矩阵中的负数") | [Go](problems/count-negative-numbers-in-a-sorted-matrix) | Easy |
+| <span id="1350">1350</span> | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments) 🔒 | [MySQL](problems/students-with-invalid-departments) | Easy |
 | <span id="1349">1349</span> | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam "参加考试的最大学生数") | [Go](problems/maximum-students-taking-exam) | Hard |
 | <span id="1348">1348</span> | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency "推文计数") | [Go](problems/tweet-counts-per-frequency) | Medium |
 | <span id="1347">1347</span> | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram "制造字母异位词的最小步骤数") | [Go](problems/minimum-number-of-steps-to-make-two-strings-anagram) | Medium |
