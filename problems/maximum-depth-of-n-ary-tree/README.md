@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../quad-tree-intersection "Quad Tree Intersection")
+[< Previous](../logical-or-of-two-binary-grids-represented-as-quad-trees "Logical OR of Two Binary Grids Represented as Quad-Trees")
 　　　　　　　　　　　　　　　　
 [Next >](../subarray-sum-equals-k "Subarray Sum Equals K")
 

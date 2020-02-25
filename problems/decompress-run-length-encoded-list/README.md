@@ -25,7 +25,7 @@
 <strong>Output:</strong> [2,4,4,4]
 <strong>Explanation:</strong> The first pair [1,2] means we have freq = 1 and val = 2 so we generate the array [2].
 The second pair [3,4] means we have freq = 3 and val = 4 so we generate [4,4,4].
-At the end the concatenation [2] + [4,4,4,4] is [2,4,4,4].
+At the end the concatenation [2] + [4,4,4] is [2,4,4,4].
 </pre>
 
 <p>&nbsp;</p>

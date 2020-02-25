@@ -7,7 +7,7 @@
 
 [< Previous](../next-greater-element-iii "Next Greater Element III")
 　　　　　　　　　　　　　　　　
-[Next >](../quad-tree-intersection "Quad Tree Intersection")
+[Next >](../logical-or-of-two-binary-grids-represented-as-quad-trees "Logical OR of Two Binary Grids Represented as Quad-Trees")
 
 ## [557. Reverse Words in a String III (Easy)](https://leetcode.com/problems/reverse-words-in-a-string-iii "反转字符串中的单词 III")
 

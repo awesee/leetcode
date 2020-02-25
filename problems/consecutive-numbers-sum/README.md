@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../unique-letter-string "Unique Letter String")
+[< Previous](../count-unique-characters-of-all-substrings-of-a-given-string "Count Unique Characters of All Substrings of a Given String")
 　　　　　　　　　　　　　　　　
 [Next >](../positions-of-large-groups "Positions of Large Groups")
 
