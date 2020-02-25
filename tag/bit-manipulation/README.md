@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1356 | [根据数字二进制下 1 的数目排序](../../problems/sort-integers-by-the-number-of-1-bits) | [[排序](../sort/README.md)] [[位运算](../bit-manipulation/README.md)]  | Easy |
 | 1342 | [将数字变成 0 的操作次数](../../problems/number-of-steps-to-reduce-a-number-to-zero) | [[位运算](../bit-manipulation/README.md)]  | Easy |
 | 1318 | [或运算的最小翻转次数](../../problems/minimum-flips-to-make-a-or-b-equal-to-c) | [[位运算](../bit-manipulation/README.md)]  | Medium |
 | 1310 | [子数组异或查询](../../problems/xor-queries-of-a-subarray) | [[位运算](../bit-manipulation/README.md)]  | Medium |

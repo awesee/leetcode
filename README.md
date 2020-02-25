@@ -62,6 +62,15 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1363">1363</span> | [Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three "形成三的最大倍数") | [Go](problems/largest-multiple-of-three) | Hard |
+| <span id="1362">1362</span> | [Closest Divisors](https://leetcode.com/problems/closest-divisors "最接近的因数") | [Go](problems/closest-divisors) | Medium |
+| <span id="1361">1361</span> | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes "验证二叉树") | [Go](problems/validate-binary-tree-nodes) | Medium |
+| <span id="1360">1360</span> | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates "日期之间隔几天") | [Go](problems/number-of-days-between-two-dates) | Easy |
+| <span id="1359">1359</span> | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options "有效的快递序列数目") | [Go](problems/count-all-valid-pickup-and-delivery-options) | Hard |
+| <span id="1358">1358</span> | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters "包含所有三种字符的子字符串数目") | [Go](problems/number-of-substrings-containing-all-three-characters) | Medium |
+| <span id="1357">1357</span> | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders "每隔 n 个顾客打折") | [Go](problems/apply-discount-every-n-orders) | Medium |
+| <span id="1356">1356</span> | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits "根据数字二进制下 1 的数目排序") | [Go](problems/sort-integers-by-the-number-of-1-bits) | Easy |
+| <span id="1355">1355</span> | [Activity Participants](https://leetcode.com/problems/activity-participants) 🔒 | [MySQL](problems/activity-participants) | Medium |
 | <span id="1354">1354</span> | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums "多次求和构造目标数组") | [Go](problems/construct-target-array-with-multiple-sums) | Hard |
 | <span id="1353">1353</span> | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended "最多可以参加的会议数目") | [Go](problems/maximum-number-of-events-that-can-be-attended) | Medium |
 | <span id="1352">1352</span> | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers "最后 K 个数的乘积") | [Go](problems/product-of-the-last-k-numbers) | Medium |

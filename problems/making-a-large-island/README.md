@@ -7,7 +7,7 @@
 
 [< Previous](../most-profit-assigning-work "Most Profit Assigning Work")
 　　　　　　　　　　　　　　　　
-[Next >](../unique-letter-string "Unique Letter String")
+[Next >](../count-unique-characters-of-all-substrings-of-a-given-string "Count Unique Characters of All Substrings of a Given String")
 
 ## [827. Making A Large Island (Hard)](https://leetcode.com/problems/making-a-large-island "最大人工岛")
 

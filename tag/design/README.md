@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1357 | [每隔 n 个顾客打折](../../problems/apply-discount-every-n-orders) | [[设计](../design/README.md)]  | Medium |
 | 1352 | [最后 K 个数的乘积](../../problems/product-of-the-last-k-numbers) | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1348 | [推文计数](../../problems/tweet-counts-per-frequency) | [[设计](../design/README.md)]  | Medium |
 | 1286 | [字母组合迭代器](../../problems/iterator-for-combination) | [[设计](../design/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
