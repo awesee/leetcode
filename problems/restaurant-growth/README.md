@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../ads-performance "Ads Performance")
 
-## [1321. Restaurant Growth (Medium)](https://leetcode.com/problems/restaurant-growth "")
+## [1321. Restaurant Growth (Medium)](https://leetcode.com/problems/restaurant-growth "餐馆营业额变化增长")
 
 <p>Table: <code>Customer</code></p>
 <pre>

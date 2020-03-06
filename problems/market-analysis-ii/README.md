@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../find-words-that-can-be-formed-by-characters "Find Words That Can Be Formed by Characters")
 
-## [1159. Market Analysis II (Hard)](https://leetcode.com/problems/market-analysis-ii "")
+## [1159. Market Analysis II (Hard)](https://leetcode.com/problems/market-analysis-ii "市场分析 II")
 
 <p>Table: <code>Users</code></p>
 

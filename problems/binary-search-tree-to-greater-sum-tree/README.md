@@ -36,7 +36,7 @@
 <p>&nbsp;</p>
 </div>
 
-<p><strong>Note:</strong></p>
+<p><strong>Constraints:</strong></p>
 
 <ol>
 	<li>The number of nodes in the tree is between <code>1</code> and <code>100</code>.</li>
@@ -46,7 +46,7 @@
 
 <div>
 <div>
-<div>&nbsp;</div>
+<div><strong>Note:</strong> This question is the same as 538:&nbsp;<a href="https://leetcode.com/problems/convert-bst-to-greater-tree/">https://leetcode.com/problems/convert-bst-to-greater-tree/</a></div>
 </div>
 </div>
 

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1368 | [使网格图至少有一条有效路径的最小代价](../../problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 1345 | [跳跃游戏 IV](../../problems/jump-game-iv) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 1319 | [连通网络的操作次数](../../problems/number-of-operations-to-make-network-connected) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
 | 1311 | [获取你好友已观看的视频](../../problems/get-watched-videos-by-your-friends) | [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |

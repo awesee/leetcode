@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1367 | [二叉树中的列表](../../problems/linked-list-in-binary-tree) | [[树](../tree/README.md)] [[链表](../linked-list/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1363 | [形成三的最大倍数](../../problems/largest-multiple-of-three) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1359 | [有效的快递序列数目](../../problems/count-all-valid-pickup-and-delivery-options) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1349 | [参加考试的最大学生数](../../problems/maximum-students-taking-exam) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

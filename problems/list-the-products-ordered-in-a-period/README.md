@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../break-a-palindrome "Break a Palindrome")
 
-## [1327. List the Products Ordered in a Period (Easy)](https://leetcode.com/problems/list-the-products-ordered-in-a-period "")
+## [1327. List the Products Ordered in a Period (Easy)](https://leetcode.com/problems/list-the-products-ordered-in-a-period "列出指定时间段内所有的下单产品")
 
 SQL Schema
 <p>Table: <code>Products</code></p>

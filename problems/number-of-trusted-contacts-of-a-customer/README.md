@@ -5,10 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../maximum-students-taking-exam "Maximum Students Taking Exam")
+[< Previous](../largest-multiple-of-three "Largest Multiple of Three")
 　　　　　　　　　　　　　　　　
-[Next >](../count-negative-numbers-in-a-sorted-matrix "Count Negative Numbers in a Sorted Matrix")
+[Next >](../how-many-numbers-are-smaller-than-the-current-number "How Many Numbers Are Smaller Than the Current Number")
 
-## [1350. Students With Invalid Departments (Easy)](https://leetcode.com/problems/students-with-invalid-departments "院系无效的学生")
+## [1364. Number of Trusted Contacts of a Customer (Medium)](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer "顾客的可信联系人数量")
 
 

@@ -17,7 +17,7 @@
 
 <p>Eating is not limited by the remaining amounts of spaghetti or stomach space; an infinite supply and an infinite demand are assumed.</p>
 
-<p>Design a discipline of behavior (a concurrent algorithm) such that no philosopher will starve;&nbsp;<i>i.e.</i>, each can forever continue to alternate between eating and thinking, assuming that no philosopher can know when others may want to eat or think.</p>
+<p>Design a discipline of behaviour (a concurrent algorithm) such that no philosopher will starve;&nbsp;<i>i.e.</i>, each can forever continue to alternate between eating and thinking, assuming that no philosopher can know when others may want to eat or think.</p>
 
 <p style="text-align: center"><img alt="" src="https://assets.leetcode.com/uploads/2019/09/24/an_illustration_of_the_dining_philosophers_problem.png" style="width: 400px; height: 415px;" /></p>
 
@@ -31,11 +31,11 @@
 	<li><code>philosopher</code>&nbsp;is the id of the philosopher who wants to eat.</li>
 	<li><code>pickLeftFork</code>&nbsp;and&nbsp;<code>pickRightFork</code>&nbsp;are functions you can call to pick the corresponding forks of that philosopher.</li>
 	<li><code>eat</code>&nbsp;is a function you can call to let the philosopher eat once he has picked&nbsp;both forks.</li>
-	<li><code>putLeftFork</code>&nbsp;and&nbsp;<code>pickRightFork</code>&nbsp;are functions you can call to put down the corresponding forks of that philosopher.</li>
+	<li><code>putLeftFork</code>&nbsp;and&nbsp;<code>putRightFork</code>&nbsp;are functions you can call to put down the corresponding forks of that philosopher.</li>
 	<li>The philosophers are assumed to be thinking as long as they are not asking to eat (the function is not being called with their number).</li>
 </ul>
 
-<p>Five threads, each representing a philosopher, will&nbsp;simultaneously use one object of your class to simulate the process. It is possible that the function will be called for the same philosopher more than once, even before the last call ends.</p>
+<p>Five threads, each representing a philosopher, will&nbsp;simultaneously use one object of your class to simulate the process. The function may be called for the same philosopher more than once, even before the last call ends.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

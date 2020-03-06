@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../valid-perfect-square "Valid Perfect Square")
 
-## [366. Find Leaves of Binary Tree (Medium)](https://leetcode.com/problems/find-leaves-of-binary-tree "寻找完全二叉树的叶子节点")
+## [366. Find Leaves of Binary Tree (Medium)](https://leetcode.com/problems/find-leaves-of-binary-tree "寻找二叉树的叶子节点")
 
 <p>Given a binary tree, collect a tree&#39;s nodes as if you were doing this: Collect and remove all leaves, repeat until the tree is empty.</p>
 

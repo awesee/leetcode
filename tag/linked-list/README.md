@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1367 | [二叉树中的列表](../../problems/linked-list-in-binary-tree) | [[树](../tree/README.md)] [[链表](../linked-list/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1290 | [二进制链表转整数](../../problems/convert-binary-number-in-a-linked-list-to-integer) | [[位运算](../bit-manipulation/README.md)] [[链表](../linked-list/README.md)]  | Easy |
 | 1171 | [从链表中删去总和值为零的连续节点](../../problems/remove-zero-sum-consecutive-nodes-from-linked-list) | [[链表](../linked-list/README.md)]  | Medium |
 | 1019 | [链表中的下一个更大节点](../../problems/next-greater-node-in-linked-list) | [[栈](../stack/README.md)] [[链表](../linked-list/README.md)]  | Medium |

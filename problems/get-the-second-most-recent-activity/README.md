@@ -5,10 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../maximum-students-taking-exam "Maximum Students Taking Exam")
+[< Previous](../minimum-cost-to-make-at-least-one-valid-path-in-a-grid "Minimum Cost to Make at Least One Valid Path in a Grid")
 　　　　　　　　　　　　　　　　
-[Next >](../count-negative-numbers-in-a-sorted-matrix "Count Negative Numbers in a Sorted Matrix")
+Next >
 
-## [1350. Students With Invalid Departments (Easy)](https://leetcode.com/problems/students-with-invalid-departments "院系无效的学生")
+## [1369. Get the Second Most Recent Activity (Hard)](https://leetcode.com/problems/get-the-second-most-recent-activity "")
 
 

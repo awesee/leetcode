@@ -92,7 +92,7 @@
 | 430 | [扁平化多级双向链表](../../problems/flatten-a-multilevel-doubly-linked-list) | [[深度优先搜索](../depth-first-search/README.md)] [[链表](../linked-list/README.md)]  | Medium |
 | 417 | [太平洋大西洋水流问题](../../problems/pacific-atlantic-water-flow) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 394 | [字符串解码](../../problems/decode-string) | [[栈](../stack/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
-| 366 | [寻找完全二叉树的叶子节点](../../problems/find-leaves-of-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 366 | [寻找二叉树的叶子节点](../../problems/find-leaves-of-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 364 | [加权嵌套序列和 II](../../problems/nested-list-weight-sum-ii) 🔒 | [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 339 | [嵌套列表权重和](../../problems/nested-list-weight-sum) 🔒 | [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
 | 337 | [打家劫舍 III](../../problems/house-robber-iii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |

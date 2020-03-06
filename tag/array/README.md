@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1366 | [通过投票对团队排名](../../problems/rank-teams-by-votes) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1365 | [有多少小于当前数字的数字](../../problems/how-many-numbers-are-smaller-than-the-current-number) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 1352 | [最后 K 个数的乘积](../../problems/product-of-the-last-k-numbers) | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1351 | [统计有序矩阵中的负数](../../problems/count-negative-numbers-in-a-sorted-matrix) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 1346 | [检查整数及其两倍数是否存在](../../problems/check-if-n-and-its-double-exist) | [[数组](../array/README.md)]  | Easy |

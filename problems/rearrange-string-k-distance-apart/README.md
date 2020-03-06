@@ -43,9 +43,9 @@
 </pre>
 
 ### Related Topics
-  [[Hash Table](../../tag/hash-table/README.md)]
   [[Heap](../../tag/heap/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Task Scheduler](../task-scheduler) (Medium)

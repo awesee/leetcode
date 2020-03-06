@@ -62,6 +62,12 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1369">1369</span> | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity) 🔒 | [MySQL](problems/get-the-second-most-recent-activity) | Hard |
+| <span id="1368">1368</span> | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid "使网格图至少有一条有效路径的最小代价") | [Go](problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | Hard |
+| <span id="1367">1367</span> | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree "二叉树中的列表") | [Go](problems/linked-list-in-binary-tree) | Medium |
+| <span id="1366">1366</span> | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes "通过投票对团队排名") | [Go](problems/rank-teams-by-votes) | Medium |
+| <span id="1365">1365</span> | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number "有多少小于当前数字的数字") | [Go](problems/how-many-numbers-are-smaller-than-the-current-number) | Easy |
+| <span id="1364">1364</span> | [Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer "顾客的可信联系人数量") 🔒 | [MySQL](problems/number-of-trusted-contacts-of-a-customer) | Medium |
 | <span id="1363">1363</span> | [Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three "形成三的最大倍数") | [Go](problems/largest-multiple-of-three) | Hard |
 | <span id="1362">1362</span> | [Closest Divisors](https://leetcode.com/problems/closest-divisors "最接近的因数") | [Go](problems/closest-divisors) | Medium |
 | <span id="1361">1361</span> | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes "验证二叉树") | [Go](problems/validate-binary-tree-nodes) | Medium |
@@ -75,7 +81,7 @@ LeetCode Problems' Solutions
 | <span id="1353">1353</span> | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended "最多可以参加的会议数目") | [Go](problems/maximum-number-of-events-that-can-be-attended) | Medium |
 | <span id="1352">1352</span> | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers "最后 K 个数的乘积") | [Go](problems/product-of-the-last-k-numbers) | Medium |
 | <span id="1351">1351</span> | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix "统计有序矩阵中的负数") | [Go](problems/count-negative-numbers-in-a-sorted-matrix) | Easy |
-| <span id="1350">1350</span> | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments) 🔒 | [MySQL](problems/students-with-invalid-departments) | Easy |
+| <span id="1350">1350</span> | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments "院系无效的学生") 🔒 | [MySQL](problems/students-with-invalid-departments) | Easy |
 | <span id="1349">1349</span> | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam "参加考试的最大学生数") | [Go](problems/maximum-students-taking-exam) | Hard |
 | <span id="1348">1348</span> | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency "推文计数") | [Go](problems/tweet-counts-per-frequency) | Medium |
 | <span id="1347">1347</span> | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram "制造字母异位词的最小步骤数") | [Go](problems/minimum-number-of-steps-to-make-two-strings-anagram) | Medium |
@@ -89,7 +95,7 @@ LeetCode Problems' Solutions
 | <span id="1339">1339</span> | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree "分裂二叉树的最大乘积") | [Go](problems/maximum-product-of-splitted-binary-tree) | Medium |
 | <span id="1338">1338</span> | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half "数组大小减半") | [Go](problems/reduce-array-size-to-the-half) | Medium |
 | <span id="1337">1337</span> | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix "方阵中战斗力最弱的 K 行") | [Go](problems/the-k-weakest-rows-in-a-matrix) | Easy |
-| <span id="1336">1336</span> | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit) 🔒 | [MySQL](problems/number-of-transactions-per-visit) | Hard |
+| <span id="1336">1336</span> | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit "每次访问的交易次数") 🔒 | [MySQL](problems/number-of-transactions-per-visit) | Hard |
 | <span id="1335">1335</span> | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule "工作计划的最低难度") | [Go](problems/minimum-difficulty-of-a-job-schedule) | Hard |
 | <span id="1334">1334</span> | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance "阈值距离内邻居最少的城市") | [Go](problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | Medium |
 | <span id="1333">1333</span> | [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance "餐厅过滤器") | [Go](problems/filter-restaurants-by-vegan-friendly-price-and-distance) | Medium |
@@ -98,13 +104,13 @@ LeetCode Problems' Solutions
 | <span id="1330">1330</span> | [Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value "翻转子数组得到最大的数组值") | [Go](problems/reverse-subarray-to-maximize-array-value) | Hard |
 | <span id="1329">1329</span> | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally "将矩阵按对角线排序") | [Go](problems/sort-the-matrix-diagonally) | Medium |
 | <span id="1328">1328</span> | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome "破坏回文串") | [Go](problems/break-a-palindrome) | Medium |
-| <span id="1327">1327</span> | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period) 🔒 | [MySQL](problems/list-the-products-ordered-in-a-period) | Easy |
+| <span id="1327">1327</span> | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period "列出指定时间段内所有的下单产品") 🔒 | [MySQL](problems/list-the-products-ordered-in-a-period) | Easy |
 | <span id="1326">1326</span> | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden "灌溉花园的最少水龙头数目") | [Go](problems/minimum-number-of-taps-to-open-to-water-a-garden) | Hard |
 | <span id="1325">1325</span> | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value "删除给定值的叶子节点") | [Go](problems/delete-leaves-with-a-given-value) | Medium |
 | <span id="1324">1324</span> | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically "竖直打印单词") | [Go](problems/print-words-vertically) | Medium |
 | <span id="1323">1323</span> | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number "6 和 9 组成的最大数字") | [Go](problems/maximum-69-number) | Easy |
-| <span id="1322">1322</span> | [Ads Performance](https://leetcode.com/problems/ads-performance) 🔒 | [MySQL](problems/ads-performance) | Easy |
-| <span id="1321">1321</span> | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth) 🔒 | [MySQL](problems/restaurant-growth) | Medium |
+| <span id="1322">1322</span> | [Ads Performance](https://leetcode.com/problems/ads-performance "广告效果") 🔒 | [MySQL](problems/ads-performance) | Easy |
+| <span id="1321">1321</span> | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth "餐馆营业额变化增长") 🔒 | [MySQL](problems/restaurant-growth) | Medium |
 | <span id="1320">1320</span> | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers "二指输入的的最小距离") | [Go](problems/minimum-distance-to-type-a-word-using-two-fingers) | Hard |
 | <span id="1319">1319</span> | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected "连通网络的操作次数") | [Go](problems/number-of-operations-to-make-network-connected) | Medium |
 | <span id="1318">1318</span> | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c "或运算的最小翻转次数") | [Go](problems/minimum-flips-to-make-a-or-b-equal-to-c) | Medium |
@@ -117,7 +123,7 @@ LeetCode Problems' Solutions
 | <span id="1311">1311</span> | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends "获取你好友已观看的视频") | [Go](problems/get-watched-videos-by-your-friends) | Medium |
 | <span id="1310">1310</span> | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray "子数组异或查询") | [Go](problems/xor-queries-of-a-subarray) | Medium |
 | <span id="1309">1309</span> | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping "解码字母到整数映射") | [Go](problems/decrypt-string-from-alphabet-to-integer-mapping) | Easy |
-| <span id="1308">1308</span> | [Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders) 🔒 | [MySQL](problems/running-total-for-different-genders) | Medium |
+| <span id="1308">1308</span> | [Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders "不同性别每日分数总计") 🔒 | [MySQL](problems/running-total-for-different-genders) | Medium |
 | <span id="1307">1307</span> | [Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle "口算难题") | [Go](problems/verbal-arithmetic-puzzle) | Hard |
 | <span id="1306">1306</span> | [Jump Game III](https://leetcode.com/problems/jump-game-iii "跳跃游戏 III") | [Go](problems/jump-game-iii) | Medium |
 | <span id="1305">1305</span> | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees "两棵二叉搜索树中的所有元素") | [Go](problems/all-elements-in-two-binary-search-trees) | Medium |
@@ -266,7 +272,7 @@ LeetCode Problems' Solutions
 | <span id="1162">1162</span> | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible "地图分析") | [Go](problems/as-far-from-land-as-possible) | Medium |
 | <span id="1161">1161</span> | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree "最大层内元素和") | [Go](problems/maximum-level-sum-of-a-binary-tree) | Medium |
 | <span id="1160">1160</span> | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters "拼写单词") | [Go](problems/find-words-that-can-be-formed-by-characters) | Easy |
-| <span id="1159">1159</span> | [Market Analysis II](https://leetcode.com/problems/market-analysis-ii) 🔒 | [MySQL](problems/market-analysis-ii) | Hard |
+| <span id="1159">1159</span> | [Market Analysis II](https://leetcode.com/problems/market-analysis-ii "市场分析 II") 🔒 | [MySQL](problems/market-analysis-ii) | Hard |
 | <span id="1158">1158</span> | [Market Analysis I](https://leetcode.com/problems/market-analysis-i "市场分析 I") 🔒 | [MySQL](problems/market-analysis-i) | Medium |
 | <span id="1157">1157</span> | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray "子数组中占绝大多数的元素") | [Go](problems/online-majority-element-in-subarray) | Hard |
 | <span id="1156">1156</span> | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring "单字符重复子串的最大长度") | [Go](problems/swap-for-longest-repeated-character-substring) | Medium |
