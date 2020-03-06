@@ -13,6 +13,8 @@
 
 <p>Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only <em>distinct</em> numbers from the original list.</p>
 
+<p>Return the linked list sorted as well.</p>
+
 <p><strong>Example 1:</strong></p>
 
 <pre>

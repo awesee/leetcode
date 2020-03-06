@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1367 | [二叉树中的列表](../../problems/linked-list-in-binary-tree) | [[树](../tree/README.md)] [[链表](../linked-list/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1339 | [分裂二叉树的最大乘积](../../problems/maximum-product-of-splitted-binary-tree) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1325 | [删除给定值的叶子节点](../../problems/delete-leaves-with-a-given-value) | [[树](../tree/README.md)]  | Medium |
 | 1315 | [祖父节点值为偶数的节点和](../../problems/sum-of-nodes-with-even-valued-grandparent) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
@@ -93,7 +94,7 @@
 | 428 | [序列化和反序列化 N 叉树](../../problems/serialize-and-deserialize-n-ary-tree) 🔒 | [[树](../tree/README.md)]  | Hard |
 | 426 | [将二叉搜索树转化为排序的双向链表](../../problems/convert-binary-search-tree-to-sorted-doubly-linked-list) 🔒 | [[树](../tree/README.md)] [[链表](../linked-list/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Medium |
 | 404 | [左叶子之和](../../problems/sum-of-left-leaves) | [[树](../tree/README.md)]  | Easy |
-| 366 | [寻找完全二叉树的叶子节点](../../problems/find-leaves-of-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 366 | [寻找二叉树的叶子节点](../../problems/find-leaves-of-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 337 | [打家劫舍 III](../../problems/house-robber-iii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 333 | [最大 BST 子树](../../problems/largest-bst-subtree) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 298 | [二叉树最长连续序列](../../problems/binary-tree-longest-consecutive-sequence) 🔒 | [[树](../tree/README.md)]  | Medium |

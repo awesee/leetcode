@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../decrypt-string-from-alphabet-to-integer-mapping "Decrypt String from Alphabet to Integer Mapping")
 
-## [1308. Running Total for Different Genders (Medium)](https://leetcode.com/problems/running-total-for-different-genders "")
+## [1308. Running Total for Different Genders (Medium)](https://leetcode.com/problems/running-total-for-different-genders "不同性别每日分数总计")
 
 <p>Table: <code>Scores</code></p>
 <pre>

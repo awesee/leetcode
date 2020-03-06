@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../the-k-weakest-rows-in-a-matrix "The K Weakest Rows in a Matrix")
 
-## [1336. Number of Transactions per Visit (Hard)](https://leetcode.com/problems/number-of-transactions-per-visit "")
+## [1336. Number of Transactions per Visit (Hard)](https://leetcode.com/problems/number-of-transactions-per-visit "每次访问的交易次数")
 
 <p>Table: <code>Visits</code></p>
 <pre>

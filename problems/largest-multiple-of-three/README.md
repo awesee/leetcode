@@ -7,7 +7,7 @@
 
 [< Previous](../closest-divisors "Closest Divisors")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../number-of-trusted-contacts-of-a-customer "Number of Trusted Contacts of a Customer")
 
 ## [1363. Largest Multiple of Three (Hard)](https://leetcode.com/problems/largest-multiple-of-three "形成三的最大倍数")
 

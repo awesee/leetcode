@@ -20,6 +20,8 @@
 <b>Output:</b> <code>[24,12,8,6]</code>
 </pre>
 
+<p><strong>Constraint:</strong>&nbsp;It&#39;s guaranteed that the product of the elements of any preffix or suffix of the array (including the whole array) fits in a 32 bit integer.</p>
+
 <p><strong>Note: </strong>Please solve it <strong>without division</strong> and in O(<em>n</em>).</p>
 
 <p><strong>Follow up:</strong><br />

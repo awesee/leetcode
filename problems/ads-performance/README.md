@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../maximum-69-number "Maximum 69 Number")
 
-## [1322. Ads Performance (Easy)](https://leetcode.com/problems/ads-performance "")
+## [1322. Ads Performance (Easy)](https://leetcode.com/problems/ads-performance "广告效果")
 
 <p>Table: <code>Ads</code></p>
 <pre>
