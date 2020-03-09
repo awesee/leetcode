@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1374 | [生成每种字符都是奇数个的字符串](../../problems/generate-a-string-with-characters-that-have-odd-counts) | [[字符串](../string/README.md)]  | Easy |
+| 1371 | [每个元音包含偶数次的最长子字符串](../../problems/find-the-longest-substring-containing-vowels-in-even-counts) | [[字符串](../string/README.md)]  | Medium |
+| 1370 | [上升下降字符串](../../problems/increasing-decreasing-string) | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1358 | [包含所有三种字符的子字符串数目](../../problems/number-of-substrings-containing-all-three-characters) | [[字符串](../string/README.md)]  | Medium |
 | 1347 | [制造字母异位词的最小步骤数](../../problems/minimum-number-of-steps-to-make-two-strings-anagram) | [[字符串](../string/README.md)]  | Medium |
 | 1332 | [删除回文子序列](../../problems/remove-palindromic-subsequences) | [[字符串](../string/README.md)]  | Easy |

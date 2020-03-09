@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../sort-integers-by-the-number-of-1-bits "Sort Integers by The Number of 1 Bits")
 
-## [1355. Activity Participants (Medium)](https://leetcode.com/problems/activity-participants "")
+## [1355. Activity Participants (Medium)](https://leetcode.com/problems/activity-participants "活动参与者")
 
 <p>Table: <code>Friends</code></p>
 <pre>

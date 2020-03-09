@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../consecutive-numbers-sum "Consecutive Numbers Sum")
 
-## [828. Count Unique Characters of All Substrings of a Given String (Hard)](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string "独特字符串")
+## [828. Count Unique Characters of All Substrings of a Given String (Hard)](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string "统计子串中的唯一字符")
 
 <p>Let&#39;s define a function <code>countUniqueChars(s)</code>&nbsp;that returns the number of unique characters on <code>s</code>, for example if <code>s = &quot;LEETCODE&quot;</code>&nbsp;then <code>&quot;L&quot;</code>, <code>&quot;T&quot;</code>,<code>&quot;C&quot;</code>,<code>&quot;O&quot;</code>,<code>&quot;D&quot;</code> are the unique characters since they appear only once in <code>s</code>, therefore&nbsp;<code>countUniqueChars(s) = 5</code>.<br />
 <br />

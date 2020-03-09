@@ -25,7 +25,7 @@
 | 845 | [数组中的最长山脉](../../problems/longest-mountain-in-array) | [[双指针](../two-pointers/README.md)]  | Medium |
 | 844 | [比较含退格的字符串](../../problems/backspace-string-compare) | [[栈](../stack/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 838 | [推多米诺](../../problems/push-dominoes) | [[双指针](../two-pointers/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 828 | [独特字符串](../../problems/count-unique-characters-of-all-substrings-of-a-given-string) | [[双指针](../two-pointers/README.md)]  | Hard |
+| 828 | [统计子串中的唯一字符](../../problems/count-unique-characters-of-all-substrings-of-a-given-string) | [[双指针](../two-pointers/README.md)]  | Hard |
 | 826 | [安排工作以达到最大收益](../../problems/most-profit-assigning-work) | [[双指针](../two-pointers/README.md)]  | Medium |
 | 763 | [划分字母区间](../../problems/partition-labels) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 723 | [粉碎糖果](../../problems/candy-crush) 🔒 | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |

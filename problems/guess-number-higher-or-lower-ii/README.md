@@ -36,8 +36,8 @@ You end up paying $5 + $7 + $9 = $21.
 <p>Given a particular <strong>n &ge; 1</strong>, find out how much money you need to have to guarantee a <b>win</b>.</p>
 
 ### Related Topics
-  [[Minimax](../../tag/minimax/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Minimax](../../tag/minimax/README.md)]
 
 ### Similar Questions
   1. [Flip Game II](../flip-game-ii) (Medium)

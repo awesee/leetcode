@@ -20,8 +20,7 @@
 <p><img src="https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png" style="width: 400px; height: 183px;" /><br />
 <small>Above is a 7 x 3 grid. How many possible unique paths are there?</small></p>
 
-<p><strong>Note:</strong> <em>m</em> and <em>n</em> will be at most 100.</p>
-
+<p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
 <pre>
@@ -38,7 +37,16 @@ From the top-left corner, there are a total of 3 ways to reach the bottom-right 
 
 <pre>
 <strong>Input:</strong> m = 7, n = 3
-<strong>Output:</strong> 28</pre>
+<strong>Output:</strong> 28
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= m, n &lt;= 100</code></li>
+	<li>It&#39;s guaranteed that the answer will be less than or equal to <code>2 * 10 ^ 9</code>.</li>
+</ul>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

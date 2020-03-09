@@ -7,8 +7,8 @@
 
 [< Previous](../minimum-cost-to-make-at-least-one-valid-path-in-a-grid "Minimum Cost to Make at Least One Valid Path in a Grid")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../increasing-decreasing-string "Increasing Decreasing String")
 
-## [1369. Get the Second Most Recent Activity (Hard)](https://leetcode.com/problems/get-the-second-most-recent-activity "")
+## [1369. Get the Second Most Recent Activity (Hard)](https://leetcode.com/problems/get-the-second-most-recent-activity "获取最近第二次的活动")
 
 
