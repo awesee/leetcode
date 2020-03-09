@@ -33,7 +33,12 @@ The minimum absolute difference is 1, which is the difference between 2 and 1 (o
 
 <p>&nbsp;</p>
 
-<p><b>Note:</b> There are at least two nodes in this BST.</p>
+<p><b>Note:</b></p>
+
+<ul>
+	<li>There are at least two nodes in this BST.</li>
+	<li>This question is the same as 783:&nbsp;<a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/">https://leetcode.com/problems/minimum-distance-between-bst-nodes/</a></li>
+</ul>
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]

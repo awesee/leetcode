@@ -62,7 +62,15 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
-| <span id="1369">1369</span> | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity) 🔒 | [MySQL](problems/get-the-second-most-recent-activity) | Hard |
+| <span id="1377">1377</span> | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds "T 秒后青蛙的位置") | [Go](problems/frog-position-after-t-seconds) | Hard |
+| <span id="1376">1376</span> | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees "通知所有员工所需的时间") | [Go](problems/time-needed-to-inform-all-employees) | Medium |
+| <span id="1375">1375</span> | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii "灯泡开关 III") | [Go](problems/bulb-switcher-iii) | Medium |
+| <span id="1374">1374</span> | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts "生成每种字符都是奇数个的字符串") | [Go](problems/generate-a-string-with-characters-that-have-odd-counts) | Easy |
+| <span id="1373">1373</span> | [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree "二叉搜索子树的最大键值和") | [Go](problems/maximum-sum-bst-in-binary-tree) | Hard |
+| <span id="1372">1372</span> | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree "二叉树中的最长交错路径") | [Go](problems/longest-zigzag-path-in-a-binary-tree) | Medium |
+| <span id="1371">1371</span> | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts "每个元音包含偶数次的最长子字符串") | [Go](problems/find-the-longest-substring-containing-vowels-in-even-counts) | Medium |
+| <span id="1370">1370</span> | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string "上升下降字符串") | [Go](problems/increasing-decreasing-string) | Easy |
+| <span id="1369">1369</span> | [Get the Second Most Recent Activity](https://leetcode.com/problems/get-the-second-most-recent-activity "获取最近第二次的活动") 🔒 | [MySQL](problems/get-the-second-most-recent-activity) | Hard |
 | <span id="1368">1368</span> | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid "使网格图至少有一条有效路径的最小代价") | [Go](problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | Hard |
 | <span id="1367">1367</span> | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree "二叉树中的列表") | [Go](problems/linked-list-in-binary-tree) | Medium |
 | <span id="1366">1366</span> | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes "通过投票对团队排名") | [Go](problems/rank-teams-by-votes) | Medium |
@@ -76,7 +84,7 @@ LeetCode Problems' Solutions
 | <span id="1358">1358</span> | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters "包含所有三种字符的子字符串数目") | [Go](problems/number-of-substrings-containing-all-three-characters) | Medium |
 | <span id="1357">1357</span> | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders "每隔 n 个顾客打折") | [Go](problems/apply-discount-every-n-orders) | Medium |
 | <span id="1356">1356</span> | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits "根据数字二进制下 1 的数目排序") | [Go](problems/sort-integers-by-the-number-of-1-bits) | Easy |
-| <span id="1355">1355</span> | [Activity Participants](https://leetcode.com/problems/activity-participants) 🔒 | [MySQL](problems/activity-participants) | Medium |
+| <span id="1355">1355</span> | [Activity Participants](https://leetcode.com/problems/activity-participants "活动参与者") 🔒 | [MySQL](problems/activity-participants) | Medium |
 | <span id="1354">1354</span> | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums "多次求和构造目标数组") | [Go](problems/construct-target-array-with-multiple-sums) | Hard |
 | <span id="1353">1353</span> | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended "最多可以参加的会议数目") | [Go](problems/maximum-number-of-events-that-can-be-attended) | Medium |
 | <span id="1352">1352</span> | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers "最后 K 个数的乘积") | [Go](problems/product-of-the-last-k-numbers) | Medium |

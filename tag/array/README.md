@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1375 | [灯泡开关 III](../../problems/bulb-switcher-iii) | [[数组](../array/README.md)]  | Medium |
 | 1366 | [通过投票对团队排名](../../problems/rank-teams-by-votes) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1365 | [有多少小于当前数字的数字](../../problems/how-many-numbers-are-smaller-than-the-current-number) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 1352 | [最后 K 个数的乘积](../../problems/product-of-the-last-k-numbers) | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Medium |

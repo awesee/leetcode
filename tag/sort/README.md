@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1370 | [上升下降字符串](../../problems/increasing-decreasing-string) | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1366 | [通过投票对团队排名](../../problems/rank-teams-by-votes) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1356 | [根据数字二进制下 1 的数目排序](../../problems/sort-integers-by-the-number-of-1-bits) | [[排序](../sort/README.md)] [[位运算](../bit-manipulation/README.md)]  | Easy |
 | 1353 | [最多可以参加的会议数目](../../problems/maximum-number-of-events-that-can-be-attended) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[线段树](../segment-tree/README.md)]  | Medium |

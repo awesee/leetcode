@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1377 | [T 秒后青蛙的位置](../../problems/frog-position-after-t-seconds) | [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
+| 1376 | [通知所有员工所需的时间](../../problems/time-needed-to-inform-all-employees) | [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1319 | [连通网络的操作次数](../../problems/number-of-operations-to-make-network-connected) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
 | 1315 | [祖父节点值为偶数的节点和](../../problems/sum-of-nodes-with-even-valued-grandparent) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1302 | [层数最深叶子节点的和](../../problems/deepest-leaves-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |

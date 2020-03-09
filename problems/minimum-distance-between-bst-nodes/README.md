@@ -37,6 +37,7 @@ while the minimum difference in this tree is 1, it occurs between node 1 and nod
 <ol>
 	<li>The size of the BST will be between 2 and&nbsp;<code>100</code>.</li>
 	<li>The BST is always valid, each node&#39;s value is an integer, and each node&#39;s value is different.</li>
+	<li>This question is the same as 530:&nbsp;<a href="https://leetcode.com/problems/minimum-absolute-difference-in-bst/">https://leetcode.com/problems/minimum-absolute-difference-in-bst/</a></li>
 </ol>
 
 ### Related Topics

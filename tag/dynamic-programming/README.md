@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1373 | [二叉搜索子树的最大键值和](../../problems/maximum-sum-bst-in-binary-tree) | [[二叉搜索树](../binary-search-tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1372 | [二叉树中的最长交错路径](../../problems/longest-zigzag-path-in-a-binary-tree) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1367 | [二叉树中的列表](../../problems/linked-list-in-binary-tree) | [[树](../tree/README.md)] [[链表](../linked-list/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1363 | [形成三的最大倍数](../../problems/largest-multiple-of-three) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1359 | [有效的快递序列数目](../../problems/count-all-valid-pickup-and-delivery-options) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

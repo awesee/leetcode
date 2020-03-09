@@ -15,6 +15,8 @@
 
 <p>Return the minimum number of students that must move in order for all students to be standing in non-decreasing order of height.</p>
 
+<p>Notice that when a group of students is selected they can reorder in any possible way between themselves and the non selected students&nbsp;remain on their seats.</p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 

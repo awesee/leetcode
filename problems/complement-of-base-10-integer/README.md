@@ -55,6 +55,7 @@
 
 <ol>
 	<li><code>0 &lt;= N &lt; 10^9</code></li>
+	<li>This question is the same as 476:&nbsp;<a href="https://leetcode.com/problems/number-complement/">https://leetcode.com/problems/number-complement/</a></li>
 </ol>
 </div>
 </div>
