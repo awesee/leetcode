@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1383 | [最大的团队表现值](../../problems/maximum-performance-of-a-team) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Hard |
 | 1354 | [多次求和构造目标数组](../../problems/construct-target-array-with-multiple-sums) | [[贪心算法](../greedy/README.md)]  | Hard |
 | 1353 | [最多可以参加的会议数目](../../problems/maximum-number-of-events-that-can-be-attended) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[线段树](../segment-tree/README.md)]  | Medium |
 | 1338 | [数组大小减半](../../problems/reduce-array-size-to-the-half) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |

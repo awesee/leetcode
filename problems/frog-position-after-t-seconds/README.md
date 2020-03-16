@@ -7,7 +7,7 @@
 
 [< Previous](../time-needed-to-inform-all-employees "Time Needed to Inform All Employees")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../replace-employee-id-with-the-unique-identifier "Replace Employee ID With The Unique Identifier")
 
 ## [1377. Frog Position After T Seconds (Hard)](https://leetcode.com/problems/frog-position-after-t-seconds "T 秒后青蛙的位置")
 

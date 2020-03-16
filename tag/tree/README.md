@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1379 | [找出克隆二叉树中的相同节点](../../problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [[树](../tree/README.md)]  | Medium |
 | 1372 | [二叉树中的最长交错路径](../../problems/longest-zigzag-path-in-a-binary-tree) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1367 | [二叉树中的列表](../../problems/linked-list-in-binary-tree) | [[树](../tree/README.md)] [[链表](../linked-list/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1339 | [分裂二叉树的最大乘积](../../problems/maximum-product-of-splitted-binary-tree) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

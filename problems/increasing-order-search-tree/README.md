@@ -44,13 +44,13 @@
 &nbsp;              8
 &nbsp;               \
                  9  </pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
-	<li>The number of nodes in the given tree will be between 1 and 100.</li>
-	<li>Each node will have a unique integer value from 0 to 1000.</li>
-</ol>
+<ul>
+	<li>The number of nodes in the given tree will be between <code>1</code> and <code>100</code>.</li>
+	<li>Each node will have a unique integer value from <code>0</code> to <code>1000</code>.</li>
+</ul>
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
