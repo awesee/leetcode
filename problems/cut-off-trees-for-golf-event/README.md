@@ -19,7 +19,7 @@
 	<li><code>The place with number bigger than 1</code> represents a <code>tree</code> can be walked through, and this positive number represents the tree&#39;s height.</li>
 </ol>
 
-<p>&nbsp;</p>
+<p>In one step you can walk in any of the four directions <code>top</code>, <code>bottom</code>, <code>left</code> and <code>right</code>&nbsp;also when standing in a point which is a tree you can decide whether or not to cut off the tree.</p>
 
 <p>You are asked to cut off <b>all</b> the trees in this forest in the order of tree&#39;s height - always cut off the tree with lowest height first. And after cutting, the original place has the tree will become a grass (value 1).</p>
 
@@ -69,8 +69,13 @@
 </pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><b>Hint</b>: size of the given matrix will not exceed 50x50.</p>
+<ul>
+	<li><code>1 &lt;= forest.length &lt;= 50</code></li>
+	<li><code>1 &lt;= forest[i].length &lt;= 50</code></li>
+	<li><code>0 &lt;= forest[i][j]&nbsp;&lt;= 10^9</code></li>
+</ul>
 
 ### Related Topics
   [[Breadth-first Search](../../tag/breadth-first-search/README.md)]

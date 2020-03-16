@@ -62,6 +62,12 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1383">1383</span> | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team "最大的团队表现值") | [Go](problems/maximum-performance-of-a-team) | Hard |
+| <span id="1382">1382</span> | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree "将二叉搜索树变平衡") | [Go](problems/balance-a-binary-search-tree) | Medium |
+| <span id="1381">1381</span> | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation "设计一个支持增量操作的栈") | [Go](problems/design-a-stack-with-increment-operation) | Medium |
+| <span id="1380">1380</span> | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix "矩阵中的幸运数") | [Go](problems/lucky-numbers-in-a-matrix) | Easy |
+| <span id="1379">1379</span> | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree "找出克隆二叉树中的相同节点") | [Go](problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | Medium |
+| <span id="1378">1378</span> | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier "使用唯一标识码替换员工ID") 🔒 | [MySQL](problems/replace-employee-id-with-the-unique-identifier) | Easy |
 | <span id="1377">1377</span> | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds "T 秒后青蛙的位置") | [Go](problems/frog-position-after-t-seconds) | Hard |
 | <span id="1376">1376</span> | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees "通知所有员工所需的时间") | [Go](problems/time-needed-to-inform-all-employees) | Medium |
 | <span id="1375">1375</span> | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii "灯泡开关 III") | [Go](problems/bulb-switcher-iii) | Medium |

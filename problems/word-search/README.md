@@ -30,6 +30,16 @@ Given word = &quot;<strong>SEE</strong>&quot;, return <strong>true</strong>.
 Given word = &quot;<strong>ABCB</strong>&quot;, return <strong>false</strong>.
 </pre>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>board</code>&nbsp;and <code>word</code> consists only of lowercase and uppercase English letters.</li>
+	<li><code>1 &lt;= board.length &lt;= 200</code></li>
+	<li><code>1 &lt;= board[i].length &lt;= 200</code></li>
+	<li><code>1 &lt;= word.length &lt;= 10^3</code></li>
+</ul>
+
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]

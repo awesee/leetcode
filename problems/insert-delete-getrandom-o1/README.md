@@ -50,9 +50,9 @@ randomSet.getRandom();
 </p>
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Similar Questions
   1. [Insert Delete GetRandom O(1) - Duplicates allowed](../insert-delete-getrandom-o1-duplicates-allowed) (Hard)
