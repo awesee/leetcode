@@ -7,7 +7,7 @@
 
 [< Previous](../balance-a-binary-search-tree "Balance a Binary Search Tree")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../total-sales-amount-by-year "Total Sales Amount by Year")
 
 ## [1383. Maximum Performance of a Team (Hard)](https://leetcode.com/problems/maximum-performance-of-a-team "最大的团队表现值")
 

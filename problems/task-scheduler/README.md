@@ -28,13 +28,12 @@
 </pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><b>Note:</b></p>
-
-<ol>
-	<li>The number of tasks is in the range [1, 10000].</li>
-	<li>The integer n is in the range [0, 100].</li>
-</ol>
+<ul>
+	<li>The number of tasks is in the range <code>[1, 10000]</code>.</li>
+	<li>The integer <code>n</code> is in the range <code>[0, 100]</code>.</li>
+</ul>
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]

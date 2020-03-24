@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1391 | [检查网格中是否存在有效路径](../../problems/check-if-there-is-a-valid-path-in-a-grid) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1377 | [T 秒后青蛙的位置](../../problems/frog-position-after-t-seconds) | [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
 | 1376 | [通知所有员工所需的时间](../../problems/time-needed-to-inform-all-employees) | [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1319 | [连通网络的操作次数](../../problems/number-of-operations-to-make-network-connected) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
