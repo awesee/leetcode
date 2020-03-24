@@ -22,11 +22,11 @@
 <p>Return <code>true</code> if and only if the two given trees with head nodes <code>root1</code> and <code>root2</code> are leaf-similar.</p>
 
 <p>&nbsp;</p>
-
-<p><strong>Note:</strong></p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>Both of the given trees will have between <code>1</code> and <code>100</code> nodes.</li>
+	<li>Both of the given trees will have between <code>1</code> and <code>200</code> nodes.</li>
+	<li>Both of the given trees will have values between <code>0</code> and <code>200</code></li>
 </ul>
 
 ### Related Topics

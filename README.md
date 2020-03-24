@@ -62,6 +62,15 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1392">1392</span> | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix "最长快乐前缀") | [Go](problems/longest-happy-prefix) | Hard |
+| <span id="1391">1391</span> | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid "检查网格中是否存在有效路径") | [Go](problems/check-if-there-is-a-valid-path-in-a-grid) | Medium |
+| <span id="1390">1390</span> | [Four Divisors](https://leetcode.com/problems/four-divisors "四因数") | [Go](problems/four-divisors) | Medium |
+| <span id="1389">1389</span> | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order "按既定顺序创建目标数组") | [Go](problems/create-target-array-in-the-given-order) | Easy |
+| <span id="1388">1388</span> | [Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices "3n 块披萨") | [Go](problems/pizza-with-3n-slices) | Hard |
+| <span id="1387">1387</span> | [Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value "将整数按权重排序") | [Go](problems/sort-integers-by-the-power-value) | Medium |
+| <span id="1386">1386</span> | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation "安排电影院座位") | [Go](problems/cinema-seat-allocation) | Medium |
+| <span id="1385">1385</span> | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays "两个数组间的距离值") | [Go](problems/find-the-distance-value-between-two-arrays) | Easy |
+| <span id="1384">1384</span> | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year "按年度列出销售总额") 🔒 | [MySQL](problems/total-sales-amount-by-year) | Hard |
 | <span id="1383">1383</span> | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team "最大的团队表现值") | [Go](problems/maximum-performance-of-a-team) | Hard |
 | <span id="1382">1382</span> | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree "将二叉搜索树变平衡") | [Go](problems/balance-a-binary-search-tree) | Medium |
 | <span id="1381">1381</span> | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation "设计一个支持增量操作的栈") | [Go](problems/design-a-stack-with-increment-operation) | Medium |

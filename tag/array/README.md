@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1389 | [按既定顺序创建目标数组](../../problems/create-target-array-in-the-given-order) | [[数组](../array/README.md)]  | Easy |
+| 1386 | [安排电影院座位](../../problems/cinema-seat-allocation) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1385 | [两个数组间的距离值](../../problems/find-the-distance-value-between-two-arrays) | [[数组](../array/README.md)]  | Easy |
 | 1380 | [矩阵中的幸运数](../../problems/lucky-numbers-in-a-matrix) | [[数组](../array/README.md)]  | Easy |
 | 1375 | [灯泡开关 III](../../problems/bulb-switcher-iii) | [[数组](../array/README.md)]  | Medium |
 | 1366 | [通过投票对团队排名](../../problems/rank-teams-by-votes) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |

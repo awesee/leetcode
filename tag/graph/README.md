@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1387 | [将整数按权重排序](../../problems/sort-integers-by-the-power-value) | [[排序](../sort/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1361 | [验证二叉树](../../problems/validate-binary-tree-nodes) | [[图](../graph/README.md)]  | Medium |
 | 1334 | [阈值距离内邻居最少的城市](../../problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | [[图](../graph/README.md)]  | Medium |
 | 1306 | [跳跃游戏 III](../../problems/jump-game-iii) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |

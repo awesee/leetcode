@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1390 | [四因数](../../problems/four-divisors) | [[数学](../math/README.md)]  | Medium |
 | 1363 | [形成三的最大倍数](../../problems/largest-multiple-of-three) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1362 | [最接近的因数](../../problems/closest-divisors) | [[数学](../math/README.md)]  | Medium |
 | 1359 | [有效的快递序列数目](../../problems/count-all-valid-pickup-and-delivery-options) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

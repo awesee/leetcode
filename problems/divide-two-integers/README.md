@@ -22,7 +22,7 @@
 <pre>
 <strong>Input:</strong> dividend = 10, divisor = 3
 <strong>Output:</strong> 3
-<strong>Explanation:</strong> 10/3 = truncate(3.33333..) = truncate(3) = 3.
+<strong>Explanation:</strong> 10/3 = truncate(3.33333..) = 3.
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -30,7 +30,7 @@
 <pre>
 <strong>Input:</strong> dividend = 7, divisor = -3
 <strong>Output:</strong> -2
-<strong>Explanation:</strong> 7/-3 = truncate(-2.33333..) = truncate(-2) = 3.
+<strong>Explanation:</strong> 7/-3 = truncate(-2.33333..) = -2.
 </pre>
 
 <p><strong>Note:</strong></p>
