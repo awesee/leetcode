@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1396 | [设计地铁系统](../../problems/design-underground-system) | [[设计](../design/README.md)]  | Medium |
 | 1381 | [设计一个支持增量操作的栈](../../problems/design-a-stack-with-increment-operation) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Medium |
 | 1357 | [每隔 n 个顾客打折](../../problems/apply-discount-every-n-orders) | [[设计](../design/README.md)]  | Medium |
 | 1352 | [最后 K 个数的乘积](../../problems/product-of-the-last-k-numbers) | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Medium |

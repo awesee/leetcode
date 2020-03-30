@@ -7,7 +7,7 @@
 
 [< Previous](../check-if-there-is-a-valid-path-in-a-grid "Check if There is a Valid Path in a Grid")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../capital-gainloss "Capital Gain/Loss")
 
 ## [1392. Longest Happy Prefix (Hard)](https://leetcode.com/problems/longest-happy-prefix "最长快乐前缀")
 

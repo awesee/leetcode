@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1397 | [找到所有好字符串](../../problems/find-all-good-strings) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1388 | [3n 块披萨](../../problems/pizza-with-3n-slices) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1373 | [二叉搜索子树的最大键值和](../../problems/maximum-sum-bst-in-binary-tree) | [[二叉搜索树](../binary-search-tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1372 | [二叉树中的最长交错路径](../../problems/longest-zigzag-path-in-a-binary-tree) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
@@ -174,7 +175,7 @@
 | 198 | [打家劫舍](../../problems/house-robber) | [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 188 | [买卖股票的最佳时机 IV](../../problems/best-time-to-buy-and-sell-stock-iv) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 174 | [地下城游戏](../../problems/dungeon-game) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 152 | [乘积最大子序列](../../problems/maximum-product-subarray) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 152 | [乘积最大子数组](../../problems/maximum-product-subarray) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 140 | [单词拆分 II](../../problems/word-break-ii) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 139 | [单词拆分](../../problems/word-break) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 132 | [分割回文串 II](../../problems/palindrome-partitioning-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
