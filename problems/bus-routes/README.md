@@ -26,11 +26,12 @@ T = 6
 The best strategy is take the first bus to the bus stop 7, then take the second bus to the bus stop 6.
 </pre>
 
-<p><strong>Note: </strong></p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
 	<li><code>1 &lt;= routes.length &lt;= 500</code>.</li>
-	<li><code>1 &lt;= routes[i].length &lt;= 500</code>.</li>
+	<li><code>1 &lt;= routes[i].length &lt;= 10^5</code>.</li>
 	<li><code>0 &lt;= routes[i][j] &lt; 10 ^ 6</code>.</li>
 </ul>
 

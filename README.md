@@ -62,6 +62,11 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1397">1397</span> | [Find All Good Strings](https://leetcode.com/problems/find-all-good-strings "找到所有好字符串") | [Go](problems/find-all-good-strings) | Hard |
+| <span id="1396">1396</span> | [Design Underground System](https://leetcode.com/problems/design-underground-system "设计地铁系统") | [Go](problems/design-underground-system) | Medium |
+| <span id="1395">1395</span> | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams "统计作战单位数") | [Go](problems/count-number-of-teams) | Medium |
+| <span id="1394">1394</span> | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array "找出数组中的幸运数") | [Go](problems/find-lucky-integer-in-an-array) | Easy |
+| <span id="1393">1393</span> | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss) 🔒 | [MySQL](problems/capital-gainloss) | Medium |
 | <span id="1392">1392</span> | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix "最长快乐前缀") | [Go](problems/longest-happy-prefix) | Hard |
 | <span id="1391">1391</span> | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid "检查网格中是否存在有效路径") | [Go](problems/check-if-there-is-a-valid-path-in-a-grid) | Medium |
 | <span id="1390">1390</span> | [Four Divisors](https://leetcode.com/problems/four-divisors "四因数") | [Go](problems/four-divisors) | Medium |
@@ -455,7 +460,7 @@ LeetCode Problems' Solutions
 | <span id="1002">1002</span> | [Find Common Characters](https://leetcode.com/problems/find-common-characters "查找常用字符") | [Go](problems/find-common-characters) | Easy |
 | <span id="1001">1001</span> | [Grid Illumination](https://leetcode.com/problems/grid-illumination "网格照明") | [Go](problems/grid-illumination) | Hard |
 | <span id="1000">1000</span> | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones "合并石头的最低成本") | [Go](problems/minimum-cost-to-merge-stones) | Hard |
-| <span id="999">999</span> | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook "车的可用捕获量") | [Go](problems/available-captures-for-rook) | Easy |
+| <span id="999">999</span> | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook "可以被一步捕获的棋子数") | [Go](problems/available-captures-for-rook) | Easy |
 | <span id="998">998</span> | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii "最大二叉树 II") | [Go](problems/maximum-binary-tree-ii) | Medium |
 | <span id="997">997</span> | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge "找到小镇的法官") | [Go](problems/find-the-town-judge) | Easy |
 | <span id="996">996</span> | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays "正方形数组的数目") | [Go](problems/number-of-squareful-arrays) | Hard |

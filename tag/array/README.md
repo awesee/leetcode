@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1395 | [统计作战单位数](../../problems/count-number-of-teams) | [[数组](../array/README.md)]  | Medium |
+| 1394 | [找出数组中的幸运数](../../problems/find-lucky-integer-in-an-array) | [[数组](../array/README.md)]  | Easy |
 | 1389 | [按既定顺序创建目标数组](../../problems/create-target-array-in-the-given-order) | [[数组](../array/README.md)]  | Easy |
 | 1386 | [安排电影院座位](../../problems/cinema-seat-allocation) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1385 | [两个数组间的距离值](../../problems/find-the-distance-value-between-two-arrays) | [[数组](../array/README.md)]  | Easy |
@@ -84,7 +86,7 @@
 | 1010 | [总持续时间可被 60 整除的歌曲](../../problems/pairs-of-songs-with-total-durations-divisible-by-60) | [[数组](../array/README.md)]  | Easy |
 | 1007 | [行相等的最少多米诺旋转](../../problems/minimum-domino-rotations-for-equal-row) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1002 | [查找常用字符](../../problems/find-common-characters) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
-| 999 | [车的可用捕获量](../../problems/available-captures-for-rook) | [[数组](../array/README.md)]  | Easy |
+| 999 | [可以被一步捕获的棋子数](../../problems/available-captures-for-rook) | [[数组](../array/README.md)]  | Easy |
 | 989 | [数组形式的整数加法](../../problems/add-to-array-form-of-integer) | [[数组](../array/README.md)]  | Easy |
 | 985 | [查询后的偶数和](../../problems/sum-of-even-numbers-after-queries) | [[数组](../array/README.md)]  | Easy |
 | 978 | [最长湍流子数组](../../problems/longest-turbulent-subarray) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
@@ -192,7 +194,7 @@
 | 162 | [寻找峰值](../../problems/find-peak-element) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 154 | [寻找旋转排序数组中的最小值 II](../../problems/find-minimum-in-rotated-sorted-array-ii) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 153 | [寻找旋转排序数组中的最小值](../../problems/find-minimum-in-rotated-sorted-array) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
-| 152 | [乘积最大子序列](../../problems/maximum-product-subarray) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 152 | [乘积最大子数组](../../problems/maximum-product-subarray) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 128 | [最长连续序列](../../problems/longest-consecutive-sequence) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)]  | Hard |
 | 126 | [单词接龙 II](../../problems/word-ladder-ii) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 123 | [买卖股票的最佳时机 III](../../problems/best-time-to-buy-and-sell-stock-iii) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
