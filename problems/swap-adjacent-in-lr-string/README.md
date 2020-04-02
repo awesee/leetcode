@@ -27,12 +27,13 @@ XRLXXRRXL -&gt;
 XRLXXRRLX
 </pre>
 
-<p><strong>Note:</strong></p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<ol>
-	<li><code>1 &lt;= len(start) = len(end) &lt;= 10000</code>.</li>
+<ul>
+	<li><code>1 &lt;= len(start) == len(end) &lt;= 10000</code>.</li>
 	<li>Both start and end will only consist of characters in <code>{&#39;L&#39;, &#39;R&#39;, &#39;X&#39;}</code>.</li>
-</ol>
+</ul>
 
 ### Related Topics
   [[Brainteaser](../../tag/brainteaser/README.md)]

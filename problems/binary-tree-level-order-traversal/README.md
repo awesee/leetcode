@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../binary-tree-zigzag-level-order-traversal "Binary Tree Zigzag Level Order Traversal")
 
-## [102. Binary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal "二叉树的层次遍历")
+## [102. Binary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/binary-tree-level-order-traversal "二叉树的层序遍历")
 
 <p>Given a binary tree, return the <i>level order</i> traversal of its nodes' values. (ie, from left to right, level by level).</p>
 

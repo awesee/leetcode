@@ -45,6 +45,7 @@ Next >
 <ul>
 	<li><code>s1.length == n</code></li>
 	<li><code>s2.length == n</code></li>
+	<li><code>s1 &lt;= s2</code></li>
 	<li><code>1 &lt;= n &lt;= 500</code></li>
 	<li><code>1 &lt;= evil.length &lt;= 50</code></li>
 	<li>All strings consist of lowercase English letters.</li>

@@ -104,7 +104,7 @@
 | 299 | [猜数字游戏](../../problems/bulls-and-cows) | [[哈希表](../hash-table/README.md)]  | Easy |
 | 290 | [单词规律](../../problems/word-pattern) | [[哈希表](../hash-table/README.md)]  | Easy |
 | 288 | [单词的唯一缩写](../../problems/unique-word-abbreviation) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
-| 274 | [H指数](../../problems/h-index) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 274 | [H 指数](../../problems/h-index) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 266 | [回文排列](../../problems/palindrome-permutation) 🔒 | [[哈希表](../hash-table/README.md)]  | Easy |
 | 249 | [移位字符串分组](../../problems/group-shifted-strings) 🔒 | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 246 | [中心对称数](../../problems/strobogrammatic-number) 🔒 | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |

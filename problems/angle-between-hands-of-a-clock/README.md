@@ -11,7 +11,7 @@
 
 ## [1344. Angle Between Hands of a Clock (Medium)](https://leetcode.com/problems/angle-between-hands-of-a-clock "时钟指针的夹角")
 
-<p>Given two numbers, <code>hour</code> and <code>minutes</code>. Return the smaller angle (in sexagesimal units) formed between the <code>hour</code> and the <code>minute</code> hand.</p>
+<p>Given two numbers, <code>hour</code> and <code>minutes</code>. Return the smaller angle (in degrees) formed between the <code>hour</code> and the <code>minute</code> hand.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
