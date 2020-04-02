@@ -74,5 +74,5 @@
 | 111 | [二叉树的最小深度](../../problems/minimum-depth-of-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
 | 107 | [二叉树的层次遍历 II](../../problems/binary-tree-level-order-traversal-ii) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
 | 103 | [二叉树的锯齿形层次遍历](../../problems/binary-tree-zigzag-level-order-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
-| 102 | [二叉树的层次遍历](../../problems/binary-tree-level-order-traversal) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 102 | [二叉树的层序遍历](../../problems/binary-tree-level-order-traversal) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 101 | [对称二叉树](../../problems/symmetric-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |

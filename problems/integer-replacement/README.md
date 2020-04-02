@@ -57,5 +57,5 @@ or
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]

@@ -44,7 +44,7 @@
 | 315 | [计算右侧小于当前元素的个数](../../problems/count-of-smaller-numbers-after-self) | [[排序](../sort/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
 | 296 | [最佳的碰头地点](../../problems/best-meeting-point) 🔒 | [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Hard |
 | 280 | [摆动排序](../../problems/wiggle-sort) 🔒 | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
-| 274 | [H指数](../../problems/h-index) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 274 | [H 指数](../../problems/h-index) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 253 | [会议室 II](../../problems/meeting-rooms-ii) 🔒 | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
 | 252 | [会议室](../../problems/meeting-rooms) 🔒 | [[排序](../sort/README.md)]  | Easy |
 | 242 | [有效的字母异位词](../../problems/valid-anagram) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
