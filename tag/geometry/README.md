@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1401 | [圆和矩形是否有重叠](../../problems/circle-and-rectangle-overlapping) | [[几何](../geometry/README.md)]  | Medium |
 | 1266 | [访问所有点的最小时间](../../problems/minimum-time-visiting-all-points) | [[几何](../geometry/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1232 | [缀点成线](../../problems/check-if-it-is-a-straight-line) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 963 | [最小面积矩形 II](../../problems/minimum-area-rectangle-ii) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1404 | [将二进制表示减到 1 的步骤数](../../problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1392 | [最长快乐前缀](../../problems/longest-happy-prefix) | [[字符串](../string/README.md)]  | Hard |
 | 1374 | [生成每种字符都是奇数个的字符串](../../problems/generate-a-string-with-characters-that-have-odd-counts) | [[字符串](../string/README.md)]  | Easy |
 | 1371 | [每个元音包含偶数次的最长子字符串](../../problems/find-the-longest-substring-containing-vowels-in-even-counts) | [[字符串](../string/README.md)]  | Medium |

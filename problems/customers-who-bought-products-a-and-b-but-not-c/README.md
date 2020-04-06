@@ -5,10 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../longest-happy-prefix "Longest Happy Prefix")
+[< Previous](../find-all-good-strings "Find All Good Strings")
 　　　　　　　　　　　　　　　　
-[Next >](../find-lucky-integer-in-an-array "Find Lucky Integer in an Array")
+[Next >](../count-largest-group "Count Largest Group")
 
-## [1393. Capital Gain/Loss (Medium)](https://leetcode.com/problems/capital-gainloss "股票的资本损益")
+## [1398. Customers Who Bought Products A and B but Not C (Medium)](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c "")
 
 

@@ -145,6 +145,11 @@
 		"TranslatedName": "树状数组"
 	},
 	{
+		"Name": "Geometry",
+		"Slug": "geometry",
+		"TranslatedName": "几何"
+	},
+	{
 		"Name": "Line Sweep",
 		"Slug": "line-sweep",
 		"TranslatedName": "Line Sweep"
@@ -163,11 +168,6 @@
 		"Name": "Brainteaser",
 		"Slug": "brainteaser",
 		"TranslatedName": "脑筋急转弯"
-	},
-	{
-		"Name": "Geometry",
-		"Slug": "geometry",
-		"TranslatedName": "几何"
 	},
 	{
 		"Name": "Binary Search Tree",

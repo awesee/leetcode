@@ -62,11 +62,20 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1406">1406</span> | [Stone Game III](https://leetcode.com/problems/stone-game-iii "石子游戏 III") | [Go](problems/stone-game-iii) | Hard |
+| <span id="1405">1405</span> | [Longest Happy String](https://leetcode.com/problems/longest-happy-string "最长快乐字符串") | [Go](problems/longest-happy-string) | Medium |
+| <span id="1404">1404</span> | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one "将二进制表示减到 1 的步骤数") | [Go](problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | Medium |
+| <span id="1403">1403</span> | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order "非递增顺序的最小子序列") | [Go](problems/minimum-subsequence-in-non-increasing-order) | Easy |
+| <span id="1402">1402</span> | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes "做菜顺序") | [Go](problems/reducing-dishes) | Hard |
+| <span id="1401">1401</span> | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping "圆和矩形是否有重叠") | [Go](problems/circle-and-rectangle-overlapping) | Medium |
+| <span id="1400">1400</span> | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings "构造 K 个回文字符串") | [Go](problems/construct-k-palindrome-strings) | Medium |
+| <span id="1399">1399</span> | [Count Largest Group](https://leetcode.com/problems/count-largest-group "统计最大组的数目") | [Go](problems/count-largest-group) | Easy |
+| <span id="1398">1398</span> | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c) 🔒 | [MySQL](problems/customers-who-bought-products-a-and-b-but-not-c) | Medium |
 | <span id="1397">1397</span> | [Find All Good Strings](https://leetcode.com/problems/find-all-good-strings "找到所有好字符串") | [Go](problems/find-all-good-strings) | Hard |
 | <span id="1396">1396</span> | [Design Underground System](https://leetcode.com/problems/design-underground-system "设计地铁系统") | [Go](problems/design-underground-system) | Medium |
 | <span id="1395">1395</span> | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams "统计作战单位数") | [Go](problems/count-number-of-teams) | Medium |
 | <span id="1394">1394</span> | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array "找出数组中的幸运数") | [Go](problems/find-lucky-integer-in-an-array) | Easy |
-| <span id="1393">1393</span> | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss) 🔒 | [MySQL](problems/capital-gainloss) | Medium |
+| <span id="1393">1393</span> | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss "股票的资本损益") 🔒 | [MySQL](problems/capital-gainloss) | Medium |
 | <span id="1392">1392</span> | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix "最长快乐前缀") | [Go](problems/longest-happy-prefix) | Hard |
 | <span id="1391">1391</span> | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid "检查网格中是否存在有效路径") | [Go](problems/check-if-there-is-a-valid-path-in-a-grid) | Medium |
 | <span id="1390">1390</span> | [Four Divisors](https://leetcode.com/problems/four-divisors "四因数") | [Go](problems/four-divisors) | Medium |
