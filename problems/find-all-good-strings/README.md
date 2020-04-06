@@ -7,7 +7,7 @@
 
 [< Previous](../design-underground-system "Design Underground System")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../customers-who-bought-products-a-and-b-but-not-c "Customers Who Bought Products A and B but Not C")
 
 ## [1397. Find All Good Strings (Hard)](https://leetcode.com/problems/find-all-good-strings "找到所有好字符串")
 

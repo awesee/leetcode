@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1406 | [石子游戏 III](../../problems/stone-game-iii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1405 | [最长快乐字符串](../../problems/longest-happy-string) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1402 | [做菜顺序](../../problems/reducing-dishes) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1397 | [找到所有好字符串](../../problems/find-all-good-strings) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1388 | [3n 块披萨](../../problems/pizza-with-3n-slices) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1373 | [二叉搜索子树的最大键值和](../../problems/maximum-sum-bst-in-binary-tree) | [[二叉搜索树](../binary-search-tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
