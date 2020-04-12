@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1409 | [查询带键的排列](../../problems/queries-on-a-permutation-with-key) | [[数组](../array/README.md)]  | Medium |
 | 1399 | [统计最大组的数目](../../problems/count-largest-group) | [[数组](../array/README.md)]  | Easy |
 | 1395 | [统计作战单位数](../../problems/count-number-of-teams) | [[数组](../array/README.md)]  | Medium |
 | 1394 | [找出数组中的幸运数](../../problems/find-lucky-integer-in-an-array) | [[数组](../array/README.md)]  | Easy |

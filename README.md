@@ -62,6 +62,11 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1411">1411</span> | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid "给 N x 3 网格图涂色的方案数") | [Go](problems/number-of-ways-to-paint-n-3-grid) | Hard |
+| <span id="1410">1410</span> | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser "HTML 实体解析器") | [Go](problems/html-entity-parser) | Medium |
+| <span id="1409">1409</span> | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key "查询带键的排列") | [Go](problems/queries-on-a-permutation-with-key) | Medium |
+| <span id="1408">1408</span> | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array "数组中的字符串匹配") | [Go](problems/string-matching-in-an-array) | Easy |
+| <span id="1407">1407</span> | [Top Travellers](https://leetcode.com/problems/top-travellers) 🔒 | [MySQL](problems/top-travellers) | Easy |
 | <span id="1406">1406</span> | [Stone Game III](https://leetcode.com/problems/stone-game-iii "石子游戏 III") | [Go](problems/stone-game-iii) | Hard |
 | <span id="1405">1405</span> | [Longest Happy String](https://leetcode.com/problems/longest-happy-string "最长快乐字符串") | [Go](problems/longest-happy-string) | Medium |
 | <span id="1404">1404</span> | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one "将二进制表示减到 1 的步骤数") | [Go](problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | Medium |
@@ -70,7 +75,7 @@ LeetCode Problems' Solutions
 | <span id="1401">1401</span> | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping "圆和矩形是否有重叠") | [Go](problems/circle-and-rectangle-overlapping) | Medium |
 | <span id="1400">1400</span> | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings "构造 K 个回文字符串") | [Go](problems/construct-k-palindrome-strings) | Medium |
 | <span id="1399">1399</span> | [Count Largest Group](https://leetcode.com/problems/count-largest-group "统计最大组的数目") | [Go](problems/count-largest-group) | Easy |
-| <span id="1398">1398</span> | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c) 🔒 | [MySQL](problems/customers-who-bought-products-a-and-b-but-not-c) | Medium |
+| <span id="1398">1398</span> | [Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c "购买了产品A和产品B却没有购买产品C的顾客") 🔒 | [MySQL](problems/customers-who-bought-products-a-and-b-but-not-c) | Medium |
 | <span id="1397">1397</span> | [Find All Good Strings](https://leetcode.com/problems/find-all-good-strings "找到所有好字符串") | [Go](problems/find-all-good-strings) | Hard |
 | <span id="1396">1396</span> | [Design Underground System](https://leetcode.com/problems/design-underground-system "设计地铁系统") | [Go](problems/design-underground-system) | Medium |
 | <span id="1395">1395</span> | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams "统计作战单位数") | [Go](problems/count-number-of-teams) | Medium |
@@ -474,7 +479,7 @@ LeetCode Problems' Solutions
 | <span id="997">997</span> | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge "找到小镇的法官") | [Go](problems/find-the-town-judge) | Easy |
 | <span id="996">996</span> | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays "正方形数组的数目") | [Go](problems/number-of-squareful-arrays) | Hard |
 | <span id="995">995</span> | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips "K 连续位的最小翻转次数") | [Go](problems/minimum-number-of-k-consecutive-bit-flips) | Hard |
-| <span id="994">994</span> | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges "腐烂的橘子") | [Go](problems/rotting-oranges) | Easy |
+| <span id="994">994</span> | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges "腐烂的橘子") | [Go](problems/rotting-oranges) | Medium |
 | <span id="993">993</span> | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree "二叉树的堂兄弟节点") | [Go](problems/cousins-in-binary-tree) | Easy |
 | <span id="992">992</span> | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers "K 个不同整数的子数组") | [Go](problems/subarrays-with-k-different-integers) | Hard |
 | <span id="991">991</span> | [Broken Calculator](https://leetcode.com/problems/broken-calculator "坏了的计算器") | [Go](problems/broken-calculator) | Medium |

@@ -7,7 +7,7 @@
 
 [< Previous](../longest-happy-string "Longest Happy String")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../top-travellers "Top Travellers")
 
 ## [1406. Stone Game III (Hard)](https://leetcode.com/problems/stone-game-iii "石子游戏 III")
 

@@ -28,7 +28,7 @@
 | 1129 | [颜色交替的最短路径](../../problems/shortest-path-with-alternating-colors) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1091 | [二进制矩阵中的最短路径](../../problems/shortest-path-in-binary-matrix) | [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1036 | [逃离大迷宫](../../problems/escape-a-large-maze) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
-| 994 | [腐烂的橘子](../../problems/rotting-oranges) | [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
+| 994 | [腐烂的橘子](../../problems/rotting-oranges) | [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 993 | [二叉树的堂兄弟节点](../../problems/cousins-in-binary-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
 | 934 | [最短的桥](../../problems/shortest-bridge) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 913 | [猫和老鼠](../../problems/cat-and-mouse) | [[广度优先搜索](../breadth-first-search/README.md)] [[极小化极大](../minimax/README.md)]  | Hard |
