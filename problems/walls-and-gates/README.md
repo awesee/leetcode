@@ -49,4 +49,4 @@ INF  -1 INF  -1
   1. [Number of Islands](../number-of-islands) (Medium)
   1. [Shortest Distance from All Buildings](../shortest-distance-from-all-buildings) (Hard)
   1. [Robot Room Cleaner](../robot-room-cleaner) (Hard)
-  1. [Rotting Oranges](../rotting-oranges) (Easy)
+  1. [Rotting Oranges](../rotting-oranges) (Medium)

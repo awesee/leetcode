@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../minimum-number-of-k-consecutive-bit-flips "Minimum Number of K Consecutive Bit Flips")
 
-## [994. Rotting Oranges (Easy)](https://leetcode.com/problems/rotting-oranges "腐烂的橘子")
+## [994. Rotting Oranges (Medium)](https://leetcode.com/problems/rotting-oranges "腐烂的橘子")
 
 <p>In a given grid, each cell can have one of three&nbsp;values:</p>
 

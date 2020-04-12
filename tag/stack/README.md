@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1410 | [HTML 实体解析器](../../problems/html-entity-parser) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1381 | [设计一个支持增量操作的栈](../../problems/design-a-stack-with-increment-operation) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Medium |
 | 1249 | [移除无效的括号](../../problems/minimum-remove-to-make-valid-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1209 | [删除字符串中的所有相邻重复项 II](../../problems/remove-all-adjacent-duplicates-in-string-ii) | [[栈](../stack/README.md)]  | Medium |

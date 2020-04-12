@@ -11,9 +11,9 @@
 
 ## [1046. Last Stone Weight (Easy)](https://leetcode.com/problems/last-stone-weight "最后一块石头的重量")
 
-<p>We have a collection of rocks, each rock has a positive integer weight.</p>
+<p>We have a collection of stones, each stone&nbsp;has a positive integer weight.</p>
 
-<p>Each turn, we choose the two <strong>heaviest</strong>&nbsp;rocks&nbsp;and smash them together.&nbsp; Suppose the stones have weights <code>x</code> and <code>y</code> with <code>x &lt;= y</code>.&nbsp; The result of this smash is:</p>
+<p>Each turn, we choose the two <strong>heaviest</strong>&nbsp;stones&nbsp;and smash them together.&nbsp; Suppose the stones have weights <code>x</code> and <code>y</code> with <code>x &lt;= y</code>.&nbsp; The result of this smash is:</p>
 
 <ul>
 	<li>If <code>x == y</code>, both stones are totally destroyed;</li>

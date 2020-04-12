@@ -11,7 +11,7 @@
 
 ## [122. Best Time to Buy and Sell Stock II (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii "买卖股票的最佳时机 II")
 
-<p>Say you have an array for which the <em>i</em><sup>th</sup> element is the price of a given stock on day <em>i</em>.</p>
+<p>Say you have an array <code>prices</code> for which the <em>i</em><sup>th</sup> element is the price of a given stock on day <em>i</em>.</p>
 
 <p>Design an algorithm to find the maximum profit. You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times).</p>
 
@@ -42,6 +42,14 @@
 <strong>Input:</strong> [7,6,4,3,1]
 <strong>Output:</strong> 0
 <strong>Explanation:</strong> In this case, no transaction is done, i.e. max profit = 0.</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= prices.length &lt;= 3 * 10 ^ 4</code></li>
+	<li><code>0 &lt;= prices[i]&nbsp;&lt;= 10 ^ 4</code></li>
+</ul>
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
