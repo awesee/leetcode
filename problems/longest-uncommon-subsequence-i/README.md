@@ -11,33 +11,45 @@
 
 ## [521. Longest Uncommon Subsequence I  (Easy)](https://leetcode.com/problems/longest-uncommon-subsequence-i "最长特殊序列 Ⅰ")
 
-<p>
-Given a group of two strings, you need to find the longest uncommon subsequence of this group of two strings.
-The longest uncommon subsequence is defined as the longest subsequence of one of these strings and this subsequence should not be <b>any</b> subsequence of the other strings.
-</p>
+<p>Given two strings, you need to find the longest uncommon subsequence&nbsp;of this two strings. The longest uncommon subsequence is defined as the longest subsequence of one of these strings and this subsequence should not be <b>any</b> subsequence of the other string.</p>
 
-<p>
-A <b>subsequence</b> is a sequence that can be derived from one sequence by deleting some characters without changing the order of the remaining elements. Trivially, any string is a subsequence of itself and an empty string is a subsequence of any string.
-</p>
+<p>A <b>subsequence</b> is a sequence that can be derived from one sequence by deleting some characters without changing the order of the remaining elements. Trivially, any string is a subsequence of itself and an empty string is a subsequence of any string.</p>
 
-<p>
-The input will be two strings, and the output needs to be the length of the longest uncommon subsequence. If the longest uncommon subsequence doesn't exist, return -1.
-</p>
+<p>The input will be two strings, and the output needs to be the length of the longest uncommon subsequence. If the longest uncommon subsequence doesn&#39;t exist, return -1.</p>
 
-<p><b>Example 1:</b><br />
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+
 <pre>
-<b>Input:</b> "aba", "cdc"
-<b>Output:</b> 3
-<b>Explanation:</b> The longest uncommon subsequence is "aba" (or "cdc"), <br/>because "aba" is a subsequence of "aba", <br/>but not a subsequence of any other strings in the group of two strings. 
+<strong>Input:</strong> a = &quot;aba&quot;, b = &quot;cdc&quot;
+<strong>Output:</strong> 3
+<strong>Explanation:</strong> The longest uncommon subsequence is &quot;aba&quot;, 
+because &quot;aba&quot; is a subsequence of &quot;aba&quot;, 
+but not a subsequence of the other string &quot;cdc&quot;.
+Note that &quot;cdc&quot; can be also a longest uncommon subsequence.
 </pre>
-</p>
 
-<p><b>Note:</b>
-<ol>
-<li>Both strings' lengths will not exceed 100.</li>
-<li>Only letters from a ~ z will appear in input strings. </li>
-</ol>
-</p>
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> a = &quot;aaa&quot;, b = &quot;bbb&quot;
+<strong>Output:</strong> 3
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> a = &quot;aaa&quot;, b = &quot;aaa&quot;
+<strong>Output:</strong> -1
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li>Both strings&#39; lengths will be between <code>[1 - 100]</code>.</li>
+	<li>Only letters from a ~ z will appear in input strings.</li>
+</ul>
 
 ### Related Topics
   [[String](../../tag/string/README.md)]

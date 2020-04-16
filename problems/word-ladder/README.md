@@ -15,7 +15,7 @@
 
 <ol>
 	<li>Only one letter can be changed at a time.</li>
-	<li>Each transformed word must exist in the word list. Note that <em>beginWord</em> is <em>not</em> a transformed word.</li>
+	<li>Each transformed word must exist in the word list.</li>
 </ol>
 
 <p><strong>Note:</strong></p>

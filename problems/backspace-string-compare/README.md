@@ -13,6 +13,8 @@
 
 <p>Given two&nbsp;strings&nbsp;<code>S</code>&nbsp;and <code>T</code>,&nbsp;return if they are equal when both are typed into empty text editors. <code>#</code> means a backspace character.</p>
 
+<p>Note that after&nbsp;backspacing an empty text, the text will continue empty.</p>
+
 <div>
 <p><strong>Example 1:</strong></p>
 
@@ -51,11 +53,11 @@
 
 <p><span><strong>Note</strong>:</span></p>
 
-<ol>
+<ul>
 	<li><code><span>1 &lt;= S.length &lt;= 200</span></code></li>
 	<li><code><span>1 &lt;= T.length &lt;= 200</span></code></li>
 	<li><span><code>S</code>&nbsp;and <code>T</code> only contain&nbsp;lowercase letters and <code>&#39;#&#39;</code> characters.</span></li>
-</ol>
+</ul>
 
 <p><strong>Follow up:</strong></p>
 
