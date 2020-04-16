@@ -13,7 +13,7 @@
 
 <p>In a list of songs, the <code>i</code>-th&nbsp;song has a duration of&nbsp;<code>time[i]</code> seconds.&nbsp;</p>
 
-<p>Return the number of pairs of songs for which their total&nbsp;duration in seconds is divisible by <code>60</code>.&nbsp; Formally, we want the number of&nbsp;indices <code>i &lt; j</code> with <code>(time[i] + time[j]) % 60 == 0</code>.</p>
+<p>Return the number of pairs of songs for which their total&nbsp;duration in seconds is divisible by <code>60</code>.&nbsp; Formally, we want the number of&nbsp;indices <code>i</code>, <code>j</code> such that&nbsp;<code>i &lt; j</code> with <code>(time[i] + time[j]) % 60 == 0</code>.</p>
 
 <p>&nbsp;</p>
 
@@ -42,10 +42,10 @@
 
 <p><strong>Note:</strong></p>
 
-<ol>
+<ul>
 	<li><code>1 &lt;= time.length &lt;= 60000</code></li>
 	<li><code>1 &lt;= time[i] &lt;= 500</code></li>
-</ol>
+</ul>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

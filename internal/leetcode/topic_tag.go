@@ -38,11 +38,13 @@ func (tag *TagType) SaveContents() {
 	buf.WriteString("| # | 题目 | 标签 | 难度 |\n")
 	buf.WriteString("| :-: | - | - | :-: |\n")
 	format := "| %d | [%s](../../problems/%s)%s | %s | %s |\n"
+	preID := 0
 	for _, question := range questions {
 		if question.TranslatedTitle == "" {
 			question.TranslatedTitle = question.Title
 		}
-		if question.frontendID() > 0 {
+		if question.frontendID() > 0 && question.frontendID() != preID {
+			preID = question.frontendID()
 			buf.WriteString(fmt.Sprintf(format, question.frontendID(), question.TranslatedTitle, question.TitleSlug, question.IsPaidOnly.Str(), question.TagsStr(), question.Difficulty))
 		}
 	}
