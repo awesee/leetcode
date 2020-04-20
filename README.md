@@ -62,11 +62,20 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1420">1420</span> | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons "生成数组") | [Go](problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons) | Hard |
+| <span id="1419">1419</span> | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking "数青蛙") | [Go](problems/minimum-number-of-frogs-croaking) | Medium |
+| <span id="1418">1418</span> | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant "点菜展示表") | [Go](problems/display-table-of-food-orders-in-a-restaurant) | Medium |
+| <span id="1417">1417</span> | [Reformat The String](https://leetcode.com/problems/reformat-the-string "重新格式化字符串") | [Go](problems/reformat-the-string) | Easy |
+| <span id="1416">1416</span> | [Restore The Array](https://leetcode.com/problems/restore-the-array "恢复数组") | [Go](problems/restore-the-array) | Hard |
+| <span id="1415">1415</span> | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n "长度为 n 的开心字符串中字典序第 k 小的字符串") | [Go](problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | Medium |
+| <span id="1414">1414</span> | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k "和为 K 的最少斐波那契数字数目") | [Go](problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) | Medium |
+| <span id="1413">1413</span> | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum "逐步求和得到正数的最小值") | [Go](problems/minimum-value-to-get-positive-step-by-step-sum) | Easy |
+| <span id="1412">1412</span> | [Find the Quiet Students in All Exams](https://leetcode.com/problems/find-the-quiet-students-in-all-exams) 🔒 | [MySQL](problems/find-the-quiet-students-in-all-exams) | Hard |
 | <span id="1411">1411</span> | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid "给 N x 3 网格图涂色的方案数") | [Go](problems/number-of-ways-to-paint-n-3-grid) | Hard |
 | <span id="1410">1410</span> | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser "HTML 实体解析器") | [Go](problems/html-entity-parser) | Medium |
 | <span id="1409">1409</span> | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key "查询带键的排列") | [Go](problems/queries-on-a-permutation-with-key) | Medium |
 | <span id="1408">1408</span> | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array "数组中的字符串匹配") | [Go](problems/string-matching-in-an-array) | Easy |
-| <span id="1407">1407</span> | [Top Travellers](https://leetcode.com/problems/top-travellers) 🔒 | [MySQL](problems/top-travellers) | Easy |
+| <span id="1407">1407</span> | [Top Travellers](https://leetcode.com/problems/top-travellers "排名靠前的旅行者") 🔒 | [MySQL](problems/top-travellers) | Easy |
 | <span id="1406">1406</span> | [Stone Game III](https://leetcode.com/problems/stone-game-iii "石子游戏 III") | [Go](problems/stone-game-iii) | Hard |
 | <span id="1405">1405</span> | [Longest Happy String](https://leetcode.com/problems/longest-happy-string "最长快乐字符串") | [Go](problems/longest-happy-string) | Medium |
 | <span id="1404">1404</span> | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one "将二进制表示减到 1 的步骤数") | [Go](problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | Medium |

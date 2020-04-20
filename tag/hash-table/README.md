@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1418 | [点菜展示表](../../problems/display-table-of-food-orders-in-a-restaurant) | [[哈希表](../hash-table/README.md)]  | Medium |
 | 1365 | [有多少小于当前数字的数字](../../problems/how-many-numbers-are-smaller-than-the-current-number) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 1311 | [获取你好友已观看的视频](../../problems/get-watched-videos-by-your-friends) | [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1261 | [在受污染的二叉树中查找元素](../../problems/find-elements-in-a-contaminated-binary-tree) | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |

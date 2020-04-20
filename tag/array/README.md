@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1414 | [和为 K 的最少斐波那契数字数目](../../problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1413 | [逐步求和得到正数的最小值](../../problems/minimum-value-to-get-positive-step-by-step-sum) | [[数组](../array/README.md)]  | Easy |
 | 1409 | [查询带键的排列](../../problems/queries-on-a-permutation-with-key) | [[数组](../array/README.md)]  | Medium |
 | 1399 | [统计最大组的数目](../../problems/count-largest-group) | [[数组](../array/README.md)]  | Easy |
 | 1395 | [统计作战单位数](../../problems/count-number-of-teams) | [[数组](../array/README.md)]  | Medium |
