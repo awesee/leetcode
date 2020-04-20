@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1419 | [数青蛙](../../problems/minimum-number-of-frogs-croaking) | [[字符串](../string/README.md)]  | Medium |
+| 1417 | [重新格式化字符串](../../problems/reformat-the-string) | [[字符串](../string/README.md)]  | Easy |
 | 1410 | [HTML 实体解析器](../../problems/html-entity-parser) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1408 | [数组中的字符串匹配](../../problems/string-matching-in-an-array) | [[字符串](../string/README.md)]  | Easy |
 | 1404 | [将二进制表示减到 1 的步骤数](../../problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../string-matching-in-an-array "String Matching in an Array")
 
-## [1407. Top Travellers (Easy)](https://leetcode.com/problems/top-travellers "")
+## [1407. Top Travellers (Easy)](https://leetcode.com/problems/top-travellers "排名靠前的旅行者")
 
 <p>Table: <code>Users</code></p>
 <pre>

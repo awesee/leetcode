@@ -7,7 +7,7 @@
 
 [< Previous](../html-entity-parser "HTML Entity Parser")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../find-the-quiet-students-in-all-exams "Find the Quiet Students in All Exams")
 
 ## [1411. Number of Ways to Paint N × 3 Grid (Hard)](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid "给 N x 3 网格图涂色的方案数")
 

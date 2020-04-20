@@ -39,6 +39,3 @@ Return:
 ]
 </pre>
 </p>
-
-### Similar Questions
-  1. [Fizz Buzz Multithreaded](../fizz-buzz-multithreaded) (Medium)

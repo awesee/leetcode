@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1414 | [和为 K 的最少斐波那契数字数目](../../problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1405 | [最长快乐字符串](../../problems/longest-happy-string) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1403 | [非递增顺序的最小子序列](../../problems/minimum-subsequence-in-non-increasing-order) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Easy |
 | 1400 | [构造 K 个回文字符串](../../problems/construct-k-palindrome-strings) | [[贪心算法](../greedy/README.md)]  | Medium |

@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1420 | [生成数组](../../problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1416 | [恢复数组](../../problems/restore-the-array) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1411 | [给 N x 3 网格图涂色的方案数](../../problems/number-of-ways-to-paint-n-x-3-grid) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1406 | [石子游戏 III](../../problems/stone-game-iii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1405 | [最长快乐字符串](../../problems/longest-happy-string) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
