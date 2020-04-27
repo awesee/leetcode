@@ -13,7 +13,7 @@
 | 938 | [二叉搜索树的范围和](../../problems/range-sum-of-bst) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 894 | [所有可能的满二叉树](../../problems/all-possible-full-binary-trees) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 794 | [有效的井字游戏](../../problems/valid-tic-tac-toe-state) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
-| 783 | [二叉搜索树结点最小距离](../../problems/minimum-distance-between-bst-nodes) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 783 | [二叉搜索树节点最小距离](../../problems/minimum-distance-between-bst-nodes) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 779 | [第K个语法符号](../../problems/k-th-symbol-in-grammar) | [[递归](../recursion/README.md)]  | Medium |
 | 776 | [拆分二叉搜索树](../../problems/split-bst) 🔒 | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 761 | [特殊的二进制序列](../../problems/special-binary-string) | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Hard |

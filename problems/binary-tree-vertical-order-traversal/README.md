@@ -90,7 +90,8 @@
 </pre>
 
 ### Related Topics
-  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Similar Questions
   1. [Binary Tree Level Order Traversal](../binary-tree-level-order-traversal) (Medium)

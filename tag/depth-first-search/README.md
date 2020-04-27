@@ -102,6 +102,7 @@
 | 332 | [重新安排行程](../../problems/reconstruct-itinerary) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 329 | [矩阵中的最长递增路径](../../problems/longest-increasing-path-in-a-matrix) | [[深度优先搜索](../depth-first-search/README.md)] [[拓扑排序](../topological-sort/README.md)] [[记忆化](../memoization/README.md)]  | Hard |
 | 323 | [无向图中连通分量的数目](../../problems/number-of-connected-components-in-an-undirected-graph) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
+| 314 | [二叉树的垂直遍历](../../problems/binary-tree-vertical-order-traversal) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 301 | [删除无效的括号](../../problems/remove-invalid-parentheses) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 261 | [以图判树](../../problems/graph-valid-tree) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
 | 257 | [二叉树的所有路径](../../problems/binary-tree-paths) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |

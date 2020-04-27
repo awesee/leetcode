@@ -33,6 +33,8 @@
 <ul>
 	<li>You may assume <i>k</i> is always valid, 1 &le; <i>k</i> &le; number of unique elements.</li>
 	<li>Your algorithm&#39;s time complexity <b>must be</b> better than O(<i>n</i> log <i>n</i>), where <i>n</i> is the array&#39;s size.</li>
+	<li>It&#39;s guaranteed that the answer is unique, in other words the set of the top k frequent elements is unique.</li>
+	<li>You can return the answer in any order.</li>
 </ul>
 
 ### Related Topics

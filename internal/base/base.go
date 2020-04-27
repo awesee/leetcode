@@ -114,9 +114,8 @@ func AuthInfo(cmd string) string {
 
 func getFilePath(filename string) string {
 	if dir := filepath.Dir(filename); dir != "" {
-		if err := os.MkdirAll(dir, 0755); err != nil {
-			CheckErr(err)
-		}
+		err := os.MkdirAll(dir, 0755)
+		CheckErr(err)
 	}
 	return filename
 }

@@ -21,21 +21,33 @@
 </ul>
 
 <p>&nbsp;</p>
-
-<p><b>Example:</b></p>
+<p><strong>Example 1:</strong></p>
 
 <pre>
+<strong>Input</strong>
+[&quot;MinStack&quot;,&quot;push&quot;,&quot;push&quot;,&quot;push&quot;,&quot;getMin&quot;,&quot;pop&quot;,&quot;top&quot;,&quot;getMin&quot;]
+[[],[-2],[0],[-3],[],[],[],[]]
+
+<strong>Output</strong>
+[null,null,null,null,-3,null,0,-2]
+
+<strong>Explanation</strong>
 MinStack minStack = new MinStack();
 minStack.push(-2);
 minStack.push(0);
 minStack.push(-3);
-minStack.getMin();   --&gt; Returns -3.
+minStack.getMin(); // return -3
 minStack.pop();
-minStack.top();      --&gt; Returns 0.
-minStack.getMin();   --&gt; Returns -2.
+minStack.top();    // return 0
+minStack.getMin(); // return -2
 </pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li>Methods <code>pop</code>, <code>top</code> and <code>getMin</code> operations will always be called on <strong>non-empty</strong> stacks.</li>
+</ul>
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
