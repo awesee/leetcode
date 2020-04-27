@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../letter-case-permutation "Letter Case Permutation")
 
-## [783. Minimum Distance Between BST Nodes (Easy)](https://leetcode.com/problems/minimum-distance-between-bst-nodes "二叉搜索树结点最小距离")
+## [783. Minimum Distance Between BST Nodes (Easy)](https://leetcode.com/problems/minimum-distance-between-bst-nodes "二叉搜索树节点最小距离")
 
 <p>Given a Binary Search Tree (BST) with the root node <code>root</code>, return&nbsp;the minimum difference between the values of any two different nodes in the tree.</p>
 

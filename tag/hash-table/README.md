@@ -100,7 +100,6 @@
 | 340 | [至多包含 K 个不同字符的最长子串](../../problems/longest-substring-with-at-most-k-distinct-characters) 🔒 | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
 | 336 | [回文对](../../problems/palindrome-pairs) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 325 | [和等于 k 的最长子数组长度](../../problems/maximum-size-subarray-sum-equals-k) 🔒 | [[哈希表](../hash-table/README.md)]  | Medium |
-| 314 | [二叉树的垂直遍历](../../problems/binary-tree-vertical-order-traversal) 🔒 | [[哈希表](../hash-table/README.md)]  | Medium |
 | 311 | [稀疏矩阵的乘法](../../problems/sparse-matrix-multiplication) 🔒 | [[哈希表](../hash-table/README.md)]  | Medium |
 | 299 | [猜数字游戏](../../problems/bulls-and-cows) | [[哈希表](../hash-table/README.md)]  | Easy |
 | 290 | [单词规律](../../problems/word-pattern) | [[哈希表](../hash-table/README.md)]  | Easy |

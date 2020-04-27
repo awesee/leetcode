@@ -62,6 +62,11 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1425">1425</span> | [Constrained Subset Sum](https://leetcode.com/problems/constrained-subset-sum "带限制的子序列和") | [Go](problems/constrained-subset-sum) | Hard |
+| <span id="1424">1424</span> | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii "对角线遍历 II") | [Go](problems/diagonal-traverse-ii) | Medium |
+| <span id="1423">1423</span> | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards "可获得的最大点数") | [Go](problems/maximum-points-you-can-obtain-from-cards) | Medium |
+| <span id="1422">1422</span> | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string "分割字符串的最大得分") | [Go](problems/maximum-score-after-splitting-a-string) | Easy |
+| <span id="1421">1421</span> | [NPV Queries](https://leetcode.com/problems/npv-queries) 🔒 | [MySQL](problems/npv-queries) | Medium |
 | <span id="1420">1420</span> | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons "生成数组") | [Go](problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons) | Hard |
 | <span id="1419">1419</span> | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking "数青蛙") | [Go](problems/minimum-number-of-frogs-croaking) | Medium |
 | <span id="1418">1418</span> | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant "点菜展示表") | [Go](problems/display-table-of-food-orders-in-a-restaurant) | Medium |

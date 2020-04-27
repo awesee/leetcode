@@ -58,6 +58,7 @@
 | 407 | [接雨水 II](../../problems/trapping-rain-water-ii) | [[堆](../heap/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 323 | [无向图中连通分量的数目](../../problems/number-of-connected-components-in-an-undirected-graph) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
 | 317 | [离建筑物最近的距离](../../problems/shortest-distance-from-all-buildings) 🔒 | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 314 | [二叉树的垂直遍历](../../problems/binary-tree-vertical-order-traversal) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 310 | [最小高度树](../../problems/minimum-height-trees) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 301 | [删除无效的括号](../../problems/remove-invalid-parentheses) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 286 | [墙与门](../../problems/walls-and-gates) 🔒 | [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |

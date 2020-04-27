@@ -13,6 +13,8 @@
 
 <p>Given a string containing only digits, restore it by returning all possible valid IP address combinations.</p>
 
+<p>A valid IP address consists of exactly four integers&nbsp;(each integer is between 0 and 255) separated by single points.</p>
+
 <p><strong>Example:</strong></p>
 
 <pre>

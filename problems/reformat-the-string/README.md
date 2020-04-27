@@ -23,7 +23,7 @@
 <pre>
 <strong>Input:</strong> s = &quot;a0b1c2&quot;
 <strong>Output:</strong> &quot;0a1b2c&quot;
-<strong>Explanation:</strong> &quot;0a1b2c&quot; doesn&#39;t have any letter followed by digit or any digit followed by character. &quot;a0b1c2&quot;, &quot;0a1b2c&quot;, &quot;0c2a1b&quot; are also valid permutations.
+<strong>Explanation:</strong> No two adjacent characters have the same type in &quot;0a1b2c&quot;. &quot;a0b1c2&quot;, &quot;0a1b2c&quot;, &quot;0c2a1b&quot; are also valid permutations.
 </pre>
 
 <p><strong>Example 2:</strong></p>

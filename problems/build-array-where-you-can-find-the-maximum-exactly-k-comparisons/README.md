@@ -7,7 +7,7 @@
 
 [< Previous](../minimum-number-of-frogs-croaking "Minimum Number of Frogs Croaking")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../npv-queries "NPV Queries")
 
 ## [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons (Hard)](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons "生成数组")
 

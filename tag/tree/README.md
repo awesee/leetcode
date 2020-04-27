@@ -50,7 +50,7 @@
 | 863 | [二叉树中所有距离为 K 的结点](../../problems/all-nodes-distance-k-in-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 834 | [树中距离之和](../../problems/sum-of-distances-in-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
 | 814 | [二叉树剪枝](../../problems/binary-tree-pruning) | [[树](../tree/README.md)]  | Medium |
-| 783 | [二叉搜索树结点最小距离](../../problems/minimum-distance-between-bst-nodes) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 783 | [二叉搜索树节点最小距离](../../problems/minimum-distance-between-bst-nodes) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 776 | [拆分二叉搜索树](../../problems/split-bst) 🔒 | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 742 | [二叉树最近的叶节点](../../problems/closest-leaf-in-a-binary-tree) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 701 | [二叉搜索树中的插入操作](../../problems/insert-into-a-binary-search-tree) | [[树](../tree/README.md)]  | Medium |
