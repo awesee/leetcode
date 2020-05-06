@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1424 | [对角线遍历 II](../../problems/diagonal-traverse-ii) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1403 | [非递增顺序的最小子序列](../../problems/minimum-subsequence-in-non-increasing-order) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Easy |
 | 1387 | [将整数按权重排序](../../problems/sort-integers-by-the-power-value) | [[排序](../sort/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1383 | [最大的团队表现值](../../problems/maximum-performance-of-a-team) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Hard |
