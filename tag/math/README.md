@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1427 | [Perform String Shifts](../../problems/perform-string-shifts) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1390 | [四因数](../../problems/four-divisors) | [[数学](../math/README.md)]  | Medium |
 | 1363 | [形成三的最大倍数](../../problems/largest-multiple-of-three) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1362 | [最接近的因数](../../problems/closest-divisors) | [[数学](../math/README.md)]  | Medium |

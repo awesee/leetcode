@@ -15,7 +15,7 @@
 
 <p><em>(Recall that a binary search tree&nbsp;is a binary tree where for every <font face="monospace">node</font>, any descendant of <code>node.left</code> has a value <code>&lt;</code>&nbsp;<code>node.val</code>, and any descendant of <code>node.right</code> has a value <code>&gt;</code>&nbsp;<code>node.val</code>.&nbsp; Also recall that a preorder traversal&nbsp;displays the value of the&nbsp;<code>node</code> first, then traverses <code>node.left</code>, then traverses <code>node.right</code>.)</em></p>
 
-<p>&nbsp;</p>
+<p>It&#39;s guaranteed that for the given test cases there is always possible to find a binary search tree with the given requirements.</p>
 
 <p><strong>Example 1:</strong></p>
 
@@ -26,13 +26,13 @@
 </pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong>&nbsp;</p>
-
-<ol>
+<ul>
 	<li><code>1 &lt;= preorder.length &lt;= 100</code></li>
+	<li><code>1 &lt;= preorder[i]&nbsp;&lt;= 10^8</code></li>
 	<li>The values of <code>preorder</code> are distinct.</li>
-</ol>
+</ul>
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]

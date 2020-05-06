@@ -62,7 +62,21 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
-| <span id="1425">1425</span> | [Constrained Subset Sum](https://leetcode.com/problems/constrained-subset-sum "带限制的子序列和") | [Go](problems/constrained-subset-sum) | Hard |
+| <span id="1439">1439</span> | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows "有序矩阵中的第 k 个最小数组和") | [Go](problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) | Hard |
+| <span id="1438">1438</span> | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit "绝对差不超过限制的最长连续子数组") | [Go](problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | Medium |
+| <span id="1437">1437</span> | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away "是否所有 1 都至少相隔 k 个元素") | [Go](problems/check-if-all-1s-are-at-least-length-k-places-away) | Medium |
+| <span id="1436">1436</span> | [Destination City](https://leetcode.com/problems/destination-city "旅行终点站") | [Go](problems/destination-city) | Easy |
+| <span id="1435">1435</span> | [Create a Session Bar Chart](https://leetcode.com/problems/create-a-session-bar-chart) 🔒 | [MySQL](problems/create-a-session-bar-chart) | Easy |
+| <span id="1434">1434</span> | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other "每个人戴不同帽子的方案数") | [Go](problems/number-of-ways-to-wear-different-hats-to-each-other) | Hard |
+| <span id="1433">1433</span> | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string "检查一个字符串是否可以打破另一个字符串") | [Go](problems/check-if-a-string-can-break-another-string) | Medium |
+| <span id="1432">1432</span> | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer "改变一个整数能得到的最大差值") | [Go](problems/max-difference-you-can-get-from-changing-an-integer) | Medium |
+| <span id="1431">1431</span> | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies "拥有最多糖果的孩子") | [Go](problems/kids-with-the-greatest-number-of-candies) | Easy |
+| <span id="1430">1430</span> | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) 🔒 | [Go](problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) | Medium |
+| <span id="1429">1429</span> | [First Unique Number](https://leetcode.com/problems/first-unique-number) 🔒 | [Go](problems/first-unique-number) | Medium |
+| <span id="1428">1428</span> | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one) 🔒 | [Go](problems/leftmost-column-with-at-least-a-one) | Medium |
+| <span id="1427">1427</span> | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts) 🔒 | [Go](problems/perform-string-shifts) | Easy |
+| <span id="1426">1426</span> | [Counting Elements](https://leetcode.com/problems/counting-elements "数元素") 🔒 | [Go](problems/counting-elements) | Easy |
+| <span id="1425">1425</span> | [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum "带限制的子序列和") | [Go](problems/constrained-subsequence-sum) | Hard |
 | <span id="1424">1424</span> | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii "对角线遍历 II") | [Go](problems/diagonal-traverse-ii) | Medium |
 | <span id="1423">1423</span> | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards "可获得的最大点数") | [Go](problems/maximum-points-you-can-obtain-from-cards) | Medium |
 | <span id="1422">1422</span> | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string "分割字符串的最大得分") | [Go](problems/maximum-score-after-splitting-a-string) | Easy |

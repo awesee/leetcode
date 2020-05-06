@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1438 | [绝对差不超过限制的最长连续子数组](../../problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
+| 1423 | [可获得的最大点数](../../problems/maximum-points-you-can-obtain-from-cards) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1208 | [尽可能使字符串相等](../../problems/get-equal-substrings-within-budget) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1176 | [健身计划评估](../../problems/diet-plan-performance) 🔒 | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Easy |
 | 1151 | [最少交换次数来组合所有的 1](../../problems/minimum-swaps-to-group-all-1s-together) 🔒 | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |

@@ -7,7 +7,7 @@
 
 [< Previous](../maximum-points-you-can-obtain-from-cards "Maximum Points You Can Obtain from Cards")
 　　　　　　　　　　　　　　　　
-[Next >](../constrained-subset-sum "Constrained Subset Sum")
+[Next >](../constrained-subsequence-sum "Constrained Subsequence Sum")
 
 ## [1424. Diagonal Traverse II (Medium)](https://leetcode.com/problems/diagonal-traverse-ii "对角线遍历 II")
 

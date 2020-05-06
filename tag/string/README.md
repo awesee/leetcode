@@ -9,6 +9,10 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1436 | [旅行终点站](../../problems/destination-city) | [[字符串](../string/README.md)]  | Easy |
+| 1433 | [检查一个字符串是否可以打破另一个字符串](../../problems/check-if-a-string-can-break-another-string) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1432 | [改变一个整数能得到的最大差值](../../problems/max-difference-you-can-get-from-changing-an-integer) | [[字符串](../string/README.md)]  | Medium |
+| 1422 | [分割字符串的最大得分](../../problems/maximum-score-after-splitting-a-string) | [[字符串](../string/README.md)]  | Easy |
 | 1419 | [数青蛙](../../problems/minimum-number-of-frogs-croaking) | [[字符串](../string/README.md)]  | Medium |
 | 1417 | [重新格式化字符串](../../problems/reformat-the-string) | [[字符串](../string/README.md)]  | Easy |
 | 1410 | [HTML 实体解析器](../../problems/html-entity-parser) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |

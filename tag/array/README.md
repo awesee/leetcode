@@ -9,6 +9,14 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1438 | [绝对差不超过限制的最长连续子数组](../../problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
+| 1437 | [是否所有 1 都至少相隔 k 个元素](../../problems/check-if-all-1s-are-at-least-length-k-places-away) | [[数组](../array/README.md)]  | Medium |
+| 1431 | [拥有最多糖果的孩子](../../problems/kids-with-the-greatest-number-of-candies) | [[数组](../array/README.md)]  | Easy |
+| 1428 | [Leftmost Column with at Least a One](../../problems/leftmost-column-with-at-least-a-one) 🔒 | [[数组](../array/README.md)]  | Medium |
+| 1427 | [Perform String Shifts](../../problems/perform-string-shifts) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1426 | [数元素](../../problems/counting-elements) 🔒 | [[数组](../array/README.md)]  | Easy |
+| 1424 | [对角线遍历 II](../../problems/diagonal-traverse-ii) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1423 | [可获得的最大点数](../../problems/maximum-points-you-can-obtain-from-cards) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1414 | [和为 K 的最少斐波那契数字数目](../../problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1413 | [逐步求和得到正数的最小值](../../problems/minimum-value-to-get-positive-step-by-step-sum) | [[数组](../array/README.md)]  | Easy |
 | 1409 | [查询带键的排列](../../problems/queries-on-a-permutation-with-key) | [[数组](../array/README.md)]  | Medium |
