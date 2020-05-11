@@ -62,6 +62,11 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1444">1444</span> | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza "切披萨的方案数") | [Go](problems/number-of-ways-of-cutting-a-pizza) | Hard |
+| <span id="1443">1443</span> | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree "收集树上所有苹果的最少时间") | [Go](problems/minimum-time-to-collect-all-apples-in-a-tree) | Medium |
+| <span id="1442">1442</span> | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor "形成两个异或相等数组的三元组数目") | [Go](problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | Medium |
+| <span id="1441">1441</span> | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations "用栈操作构建数组") | [Go](problems/build-an-array-with-stack-operations) | Easy |
+| <span id="1440">1440</span> | [Evaluate Boolean Expression](https://leetcode.com/problems/evaluate-boolean-expression) 🔒 | [MySQL](problems/evaluate-boolean-expression) | Medium |
 | <span id="1439">1439</span> | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows "有序矩阵中的第 k 个最小数组和") | [Go](problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) | Hard |
 | <span id="1438">1438</span> | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit "绝对差不超过限制的最长连续子数组") | [Go](problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | Medium |
 | <span id="1437">1437</span> | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away "是否所有 1 都至少相隔 k 个元素") | [Go](problems/check-if-all-1s-are-at-least-length-k-places-away) | Medium |

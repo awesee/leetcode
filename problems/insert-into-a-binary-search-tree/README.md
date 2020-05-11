@@ -49,6 +49,16 @@ And the value to insert: 5
           4
 </pre>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li>The number of nodes in the given tree will be between <code>0</code> and <code>10^4</code>.</li>
+	<li>Each node will have a unique integer value from <code>0</code>&nbsp;to -<code>10^8</code>, inclusive.</li>
+	<li><code>-10^8 &lt;= val &lt;= 10^8</code></li>
+	<li>It&#39;s guaranteed that <code>val</code> does not exist in the original BST.</li>
+</ul>
+
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
 
