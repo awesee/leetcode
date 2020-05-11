@@ -92,4 +92,4 @@
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](../../problems/find-first-and-last-position-of-element-in-sorted-array) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 33 | [搜索旋转排序数组](../../problems/search-in-rotated-sorted-array) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 29 | [两数相除](../../problems/divide-two-integers) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
-| 4 | [寻找两个有序数组的中位数](../../problems/median-of-two-sorted-arrays) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
+| 4 | [寻找两个正序数组的中位数](../../problems/median-of-two-sorted-arrays) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |

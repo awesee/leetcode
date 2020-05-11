@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1442 | [形成两个异或相等数组的三元组数目](../../problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1438 | [绝对差不超过限制的最长连续子数组](../../problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1437 | [是否所有 1 都至少相隔 k 个元素](../../problems/check-if-all-1s-are-at-least-length-k-places-away) | [[数组](../array/README.md)]  | Medium |
 | 1431 | [拥有最多糖果的孩子](../../problems/kids-with-the-greatest-number-of-candies) | [[数组](../array/README.md)]  | Easy |
@@ -254,5 +255,5 @@
 | 16 | [最接近的三数之和](../../problems/3sum-closest) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 15 | [三数之和](../../problems/3sum) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 11 | [盛最多水的容器](../../problems/container-with-most-water) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
-| 4 | [寻找两个有序数组的中位数](../../problems/median-of-two-sorted-arrays) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
+| 4 | [寻找两个正序数组的中位数](../../problems/median-of-two-sorted-arrays) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
 | 1 | [两数之和](../../problems/two-sum) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |

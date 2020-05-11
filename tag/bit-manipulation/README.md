@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1442 | [形成两个异或相等数组的三元组数目](../../problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1434 | [每个人戴不同帽子的方案数](../../problems/number-of-ways-to-wear-different-hats-to-each-other) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1404 | [将二进制表示减到 1 的步骤数](../../problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1356 | [根据数字二进制下 1 的数目排序](../../problems/sort-integers-by-the-number-of-1-bits) | [[排序](../sort/README.md)] [[位运算](../bit-manipulation/README.md)]  | Easy |

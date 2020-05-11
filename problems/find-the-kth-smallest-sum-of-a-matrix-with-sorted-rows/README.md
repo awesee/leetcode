@@ -7,7 +7,7 @@
 
 [< Previous](../longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../evaluate-boolean-expression "Evaluate Boolean Expression")
 
 ## [1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows (Hard)](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows "有序矩阵中的第 k 个最小数组和")
 

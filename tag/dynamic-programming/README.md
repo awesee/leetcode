@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1444 | [切披萨的方案数](../../problems/number-of-ways-of-cutting-a-pizza) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1434 | [每个人戴不同帽子的方案数](../../problems/number-of-ways-to-wear-different-hats-to-each-other) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1425 | [带限制的子序列和](../../problems/constrained-subsequence-sum) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1423 | [可获得的最大点数](../../problems/maximum-points-you-can-obtain-from-cards) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |

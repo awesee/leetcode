@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../longest-palindromic-substring "Longest Palindromic Substring")
 
-## [4. Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays "寻找两个有序数组的中位数")
+## [4. Median of Two Sorted Arrays (Hard)](https://leetcode.com/problems/median-of-two-sorted-arrays "寻找两个正序数组的中位数")
 
 <p>There are two sorted arrays <b>nums1</b> and <b>nums2</b> of size m and n respectively.</p>
 
