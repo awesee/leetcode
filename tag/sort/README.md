@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1452 | [收藏清单](../../problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1451 | [重新排列句子中的单词](../../problems/rearrange-words-in-a-sentence) | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1424 | [对角线遍历 II](../../problems/diagonal-traverse-ii) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1403 | [非递增顺序的最小子序列](../../problems/minimum-subsequence-in-non-increasing-order) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Easy |
 | 1387 | [将整数按权重排序](../../problems/sort-integers-by-the-power-value) | [[排序](../sort/README.md)] [[图](../graph/README.md)]  | Medium |

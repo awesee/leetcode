@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1448 | [统计二叉树中好节点的数目](../../problems/count-good-nodes-in-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1443 | [收集树上所有苹果的最少时间](../../problems/minimum-time-to-collect-all-apples-in-a-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1430 | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](../../problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 1379 | [找出克隆二叉树中的相同节点](../../problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [[树](../tree/README.md)]  | Medium |

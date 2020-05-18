@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1449 | [数位成本和为目标值的最大数字](../../problems/form-largest-integer-with-digits-that-add-up-to-target) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1444 | [切披萨的方案数](../../problems/number-of-ways-of-cutting-a-pizza) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1434 | [每个人戴不同帽子的方案数](../../problems/number-of-ways-to-wear-different-hats-to-each-other) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1425 | [带限制的子序列和](../../problems/constrained-subsequence-sum) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

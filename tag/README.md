@@ -10,20 +10,20 @@
 | # | Topic | 话题 | | # | Topic | 话题 |
 | :-: | - | :-: | - | :-: | - | :-: |
 | 1 | [Array](array/README.md) | [数组](https://openset.github.io/tags/array/) | | 2 | [Dynamic Programming](dynamic-programming/README.md) | [动态规划](https://openset.github.io/tags/dynamic-programming/) | 
-| 3 | [Math](math/README.md) | [数学](https://openset.github.io/tags/math/) | | 4 | [String](string/README.md) | [字符串](https://openset.github.io/tags/string/) | 
-| 5 | [Tree](tree/README.md) | [树](https://openset.github.io/tags/tree/) | | 6 | [Hash Table](hash-table/README.md) | [哈希表](https://openset.github.io/tags/hash-table/) | 
-| 7 | [Depth-first Search](depth-first-search/README.md) | [深度优先搜索](https://openset.github.io/tags/depth-first-search/) | | 8 | [Binary Search](binary-search/README.md) | [二分查找](https://openset.github.io/tags/binary-search/) | 
+| 3 | [String](string/README.md) | [字符串](https://openset.github.io/tags/string/) | | 4 | [Math](math/README.md) | [数学](https://openset.github.io/tags/math/) | 
+| 5 | [Tree](tree/README.md) | [树](https://openset.github.io/tags/tree/) | | 6 | [Depth-first Search](depth-first-search/README.md) | [深度优先搜索](https://openset.github.io/tags/depth-first-search/) | 
+| 7 | [Hash Table](hash-table/README.md) | [哈希表](https://openset.github.io/tags/hash-table/) | | 8 | [Binary Search](binary-search/README.md) | [二分查找](https://openset.github.io/tags/binary-search/) | 
 | 9 | [Greedy](greedy/README.md) | [贪心算法](https://openset.github.io/tags/greedy/) | | 10 | [Breadth-first Search](breadth-first-search/README.md) | [广度优先搜索](https://openset.github.io/tags/breadth-first-search/) | 
 | 11 | [Two Pointers](two-pointers/README.md) | [双指针](https://openset.github.io/tags/two-pointers/) | | 12 | [Stack](stack/README.md) | [栈](https://openset.github.io/tags/stack/) | 
-| 13 | [Backtracking](backtracking/README.md) | [回溯算法](https://openset.github.io/tags/backtracking/) | | 14 | [Design](design/README.md) | [设计](https://openset.github.io/tags/design/) | 
-| 15 | [Sort](sort/README.md) | [排序](https://openset.github.io/tags/sort/) | | 16 | [Bit Manipulation](bit-manipulation/README.md) | [位运算](https://openset.github.io/tags/bit-manipulation/) | 
+| 13 | [Backtracking](backtracking/README.md) | [回溯算法](https://openset.github.io/tags/backtracking/) | | 14 | [Sort](sort/README.md) | [排序](https://openset.github.io/tags/sort/) | 
+| 15 | [Design](design/README.md) | [设计](https://openset.github.io/tags/design/) | | 16 | [Bit Manipulation](bit-manipulation/README.md) | [位运算](https://openset.github.io/tags/bit-manipulation/) | 
 | 17 | [Graph](graph/README.md) | [图](https://openset.github.io/tags/graph/) | | 18 | [Linked List](linked-list/README.md) | [链表](https://openset.github.io/tags/linked-list/) | 
 | 19 | [Heap](heap/README.md) | [堆](https://openset.github.io/tags/heap/) | | 20 | [Union Find](union-find/README.md) | [并查集](https://openset.github.io/tags/union-find/) | 
 | 21 | [Sliding Window](sliding-window/README.md) | [Sliding Window](https://openset.github.io/tags/sliding-window/) | | 22 | [Divide and Conquer](divide-and-conquer/README.md) | [分治算法](https://openset.github.io/tags/divide-and-conquer/) | 
 | 23 | [Trie](trie/README.md) | [字典树](https://openset.github.io/tags/trie/) | | 24 | [Recursion](recursion/README.md) | [递归](https://openset.github.io/tags/recursion/) | 
 | 25 | [Segment Tree](segment-tree/README.md) | [线段树](https://openset.github.io/tags/segment-tree/) | | 26 | [Ordered Map](ordered-map/README.md) | [Ordered Map](https://openset.github.io/tags/ordered-map/) | 
 | 27 | [Queue](queue/README.md) | [队列](https://openset.github.io/tags/queue/) | | 28 | [Minimax](minimax/README.md) | [极小化极大](https://openset.github.io/tags/minimax/) | 
-| 29 | [Binary Indexed Tree](binary-indexed-tree/README.md) | [树状数组](https://openset.github.io/tags/binary-indexed-tree/) | | 30 | [Geometry](geometry/README.md) | [几何](https://openset.github.io/tags/geometry/) | 
+| 29 | [Geometry](geometry/README.md) | [几何](https://openset.github.io/tags/geometry/) | | 30 | [Binary Indexed Tree](binary-indexed-tree/README.md) | [树状数组](https://openset.github.io/tags/binary-indexed-tree/) | 
 | 31 | [Line Sweep](line-sweep/README.md) | [Line Sweep](https://openset.github.io/tags/line-sweep/) | | 32 | [Random](random/README.md) | [Random](https://openset.github.io/tags/random/) | 
 | 33 | [Topological Sort](topological-sort/README.md) | [拓扑排序](https://openset.github.io/tags/topological-sort/) | | 34 | [Brainteaser](brainteaser/README.md) | [脑筋急转弯](https://openset.github.io/tags/brainteaser/) | 
 | 35 | [Binary Search Tree](binary-search-tree/README.md) | [二叉搜索树](https://openset.github.io/tags/binary-search-tree/) | | 36 | [Rejection Sampling](rejection-sampling/README.md) | [Rejection Sampling](https://openset.github.io/tags/rejection-sampling/) | 

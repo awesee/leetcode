@@ -11,27 +11,24 @@
 
 ## [367. Valid Perfect Square (Easy)](https://leetcode.com/problems/valid-perfect-square "有效的完全平方数")
 
-<p>Given a positive integer <i>num</i>, write a function which returns True if <i>num</i> is a perfect square else False.</p>
+<p>Given a <strong>positive</strong> integer <i>num</i>, write a function which returns True if <i>num</i> is a perfect square else False.</p>
 
-<p><b>Note:</b> <b>Do not</b> use any built-in library function such as <code>sqrt</code>.</p>
+<p><b>Follow up:</b> <b>Do not</b> use any built-in library function such as <code>sqrt</code>.</p>
 
+<p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-
-<div>
-<pre>
-<strong>Input: </strong><span id="example-input-1-1">16</span>
-<strong>Output: </strong><span id="example-output-1">true</span>
+<pre><strong>Input:</strong> num = 16
+<strong>Output:</strong> true
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> num = 14
+<strong>Output:</strong> false
 </pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<div>
-<p><strong>Example 2:</strong></p>
-
-<pre>
-<strong>Input: </strong><span id="example-input-2-1">14</span>
-<strong>Output: </strong><span id="example-output-2">false</span>
-</pre>
-</div>
-</div>
+<ul>
+	<li><code>1 &lt;= num &lt;= 2^31 - 1</code></li>
+</ul>
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]

@@ -5,10 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../number-of-ways-to-paint-n-3-grid "Number of Ways to Paint N × 3 Grid")
+[< Previous](../number-of-ways-of-cutting-a-pizza "Number of Ways of Cutting a Pizza")
 　　　　　　　　　　　　　　　　
-[Next >](../minimum-value-to-get-positive-step-by-step-sum "Minimum Value to Get Positive Step by Step Sum")
+[Next >](../consecutive-characters "Consecutive Characters")
 
-## [1412. Find the Quiet Students in All Exams (Hard)](https://leetcode.com/problems/find-the-quiet-students-in-all-exams "查找成绩处于中游的的学生")
+## [1445. Apples & Oranges (Medium)](https://leetcode.com/problems/apples-oranges "")
 
 

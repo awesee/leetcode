@@ -45,24 +45,18 @@
 
 <pre>
 <strong>Input: </strong>root = <span id="example-input-3-1">[1,2,3,null,4]</span>, x = 2, y = 3
-<strong>Output: </strong><span id="example-output-3">false</span></pre>
+<strong>Output: </strong><span id="example-output-3">false</span>
+</pre>
+</div>
+</div>
 
 <p>&nbsp;</p>
-</div>
-</div>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
+<ul>
 	<li>The number of nodes in the tree will be between <code>2</code> and <code>100</code>.</li>
 	<li>Each node has a unique integer value from <code>1</code> to <code>100</code>.</li>
-</ol>
-
-<div>
-<div>
-<div>&nbsp;</div>
-</div>
-</div>
+</ul>
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
