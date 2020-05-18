@@ -9,6 +9,10 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1452 | [收藏清单](../../problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1451 | [重新排列句子中的单词](../../problems/rearrange-words-in-a-sentence) | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1449 | [数位成本和为目标值的最大数字](../../problems/form-largest-integer-with-digits-that-add-up-to-target) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1446 | [连续字符](../../problems/consecutive-characters) | [[字符串](../string/README.md)]  | Easy |
 | 1436 | [旅行终点站](../../problems/destination-city) | [[字符串](../string/README.md)]  | Easy |
 | 1433 | [检查一个字符串是否可以打破另一个字符串](../../problems/check-if-a-string-can-break-another-string) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1432 | [改变一个整数能得到的最大差值](../../problems/max-difference-you-can-get-from-changing-an-integer) | [[字符串](../string/README.md)]  | Medium |

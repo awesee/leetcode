@@ -7,7 +7,7 @@
 
 [< Previous](../minimum-time-to-collect-all-apples-in-a-tree "Minimum Time to Collect All Apples in a Tree")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../apples-oranges "Apples & Oranges")
 
 ## [1444. Number of Ways of Cutting a Pizza (Hard)](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza "切披萨的方案数")
 

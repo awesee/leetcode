@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../maximum-score-after-splitting-a-string "Maximum Score After Splitting a String")
 
-## [1421. NPV Queries (Medium)](https://leetcode.com/problems/npv-queries "")
+## [1421. NPV Queries (Medium)](https://leetcode.com/problems/npv-queries "净现值查询")
 
 

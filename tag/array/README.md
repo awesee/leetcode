@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1450 | [在既定时间做作业的学生人数](../../problems/number-of-students-doing-homework-at-a-given-time) | [[数组](../array/README.md)]  | Easy |
 | 1442 | [形成两个异或相等数组的三元组数目](../../problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1438 | [绝对差不超过限制的最长连续子数组](../../problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1437 | [是否所有 1 都至少相隔 k 个元素](../../problems/check-if-all-1s-are-at-least-length-k-places-away) | [[数组](../array/README.md)]  | Medium |

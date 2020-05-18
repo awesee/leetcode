@@ -10,14 +10,14 @@
 		"TranslatedName": "动态规划"
 	},
 	{
-		"Name": "Math",
-		"Slug": "math",
-		"TranslatedName": "数学"
-	},
-	{
 		"Name": "String",
 		"Slug": "string",
 		"TranslatedName": "字符串"
+	},
+	{
+		"Name": "Math",
+		"Slug": "math",
+		"TranslatedName": "数学"
 	},
 	{
 		"Name": "Tree",
@@ -25,14 +25,14 @@
 		"TranslatedName": "树"
 	},
 	{
-		"Name": "Hash Table",
-		"Slug": "hash-table",
-		"TranslatedName": "哈希表"
-	},
-	{
 		"Name": "Depth-first Search",
 		"Slug": "depth-first-search",
 		"TranslatedName": "深度优先搜索"
+	},
+	{
+		"Name": "Hash Table",
+		"Slug": "hash-table",
+		"TranslatedName": "哈希表"
 	},
 	{
 		"Name": "Binary Search",
@@ -65,14 +65,14 @@
 		"TranslatedName": "回溯算法"
 	},
 	{
-		"Name": "Design",
-		"Slug": "design",
-		"TranslatedName": "设计"
-	},
-	{
 		"Name": "Sort",
 		"Slug": "sort",
 		"TranslatedName": "排序"
+	},
+	{
+		"Name": "Design",
+		"Slug": "design",
+		"TranslatedName": "设计"
 	},
 	{
 		"Name": "Bit Manipulation",
@@ -140,14 +140,14 @@
 		"TranslatedName": "极小化极大"
 	},
 	{
-		"Name": "Binary Indexed Tree",
-		"Slug": "binary-indexed-tree",
-		"TranslatedName": "树状数组"
-	},
-	{
 		"Name": "Geometry",
 		"Slug": "geometry",
 		"TranslatedName": "几何"
+	},
+	{
+		"Name": "Binary Indexed Tree",
+		"Slug": "binary-indexed-tree",
+		"TranslatedName": "树状数组"
 	},
 	{
 		"Name": "Line Sweep",

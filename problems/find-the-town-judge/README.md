@@ -26,60 +26,33 @@
 <p>If the town judge exists and can be identified, return the label of the town judge.&nbsp; Otherwise, return <code>-1</code>.</p>
 
 <p>&nbsp;</p>
-
 <p><strong>Example 1:</strong></p>
-
-<pre>
-<strong>Input: </strong>N = <span id="example-input-1-1">2</span>, trust = <span id="example-input-1-2">[[1,2]]</span>
-<strong>Output: </strong><span id="example-output-1">2</span>
+<pre><strong>Input:</strong> N = 2, trust = [[1,2]]
+<strong>Output:</strong> 2
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> N = 3, trust = [[1,3],[2,3]]
+<strong>Output:</strong> 3
+</pre><p><strong>Example 3:</strong></p>
+<pre><strong>Input:</strong> N = 3, trust = [[1,3],[2,3],[3,1]]
+<strong>Output:</strong> -1
+</pre><p><strong>Example 4:</strong></p>
+<pre><strong>Input:</strong> N = 3, trust = [[1,2],[2,3]]
+<strong>Output:</strong> -1
+</pre><p><strong>Example 5:</strong></p>
+<pre><strong>Input:</strong> N = 4, trust = [[1,3],[1,4],[2,3],[2,4],[4,3]]
+<strong>Output:</strong> 3
 </pre>
-
-<div>
-<p><strong>Example 2:</strong></p>
-
-<pre>
-<strong>Input: </strong>N = <span id="example-input-2-1">3</span>, trust = <span id="example-input-2-2">[[1,3],[2,3]]</span>
-<strong>Output: </strong><span id="example-output-2">3</span>
-</pre>
-
-<div>
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input: </strong>N = <span id="example-input-3-1">3</span>, trust = <span id="example-input-3-2">[[1,3],[2,3],[3,1]]</span>
-<strong>Output: </strong><span id="example-output-3">-1</span>
-</pre>
-
-<div>
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input: </strong>N = <span id="example-input-4-1">3</span>, trust = <span id="example-input-4-2">[[1,2],[2,3]]</span>
-<strong>Output: </strong><span id="example-output-4">-1</span>
-</pre>
-
-<div>
-<p><strong>Example 5:</strong></p>
-
-<pre>
-<strong>Input: </strong>N = <span id="example-input-5-1">4</span>, trust = <span id="example-input-5-2">[[1,3],[1,4],[2,3],[2,4],[4,3]]</span>
-<strong>Output: </strong><span id="example-output-5">3</span></pre>
-
 <p>&nbsp;</p>
-</div>
-</div>
-</div>
-</div>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
+<ul>
 	<li><code>1 &lt;= N &lt;= 1000</code></li>
-	<li><code>trust.length &lt;= 10000</code></li>
+	<li><code>0 &lt;= trust.length &lt;= 10^4</code></li>
+	<li><code>trust[i].length == 2</code></li>
 	<li><code>trust[i]</code> are all different</li>
 	<li><code>trust[i][0] != trust[i][1]</code></li>
 	<li><code>1 &lt;= trust[i][0], trust[i][1] &lt;= N</code></li>
-</ol>
+</ul>
 
 ### Related Topics
   [[Graph](../../tag/graph/README.md)]

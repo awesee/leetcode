@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1447 | [最简分数](../../problems/simplified-fractions) | [[数学](../math/README.md)]  | Medium |
 | 1442 | [形成两个异或相等数组的三元组数目](../../problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1427 | [Perform String Shifts](../../problems/perform-string-shifts) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1390 | [四因数](../../problems/four-divisors) | [[数学](../math/README.md)]  | Medium |
