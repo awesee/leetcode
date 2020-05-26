@@ -13,8 +13,7 @@
 
 <p>Given a binary search tree, write a function <code>kthSmallest</code> to find the <b>k</b>th smallest element in it.</p>
 
-<p><b>Note: </b><br />
-You may assume k is always valid, 1 &le; k &le; BST&#39;s total elements.</p>
+<p>&nbsp;</p>
 
 <p><strong>Example 1:</strong></p>
 
@@ -43,6 +42,14 @@ You may assume k is always valid, 1 &le; k &le; BST&#39;s total elements.</p>
 
 <p><b>Follow up:</b><br />
 What if the BST is modified (insert/delete operations) often and you need to find the kth smallest frequently? How would you optimize the kthSmallest routine?</p>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li>The number of elements of the BST is between <code>1</code> to <code>10^4</code>.</li>
+	<li>You may assume <code>k</code> is always valid, <code>1 &le; k &le; BST&#39;s total elements</code>.</li>
+</ul>
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]

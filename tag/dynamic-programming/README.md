@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1458 | [两个子序列的最大点积](../../problems/max-dot-product-of-two-subsequences) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1449 | [数位成本和为目标值的最大数字](../../problems/form-largest-integer-with-digits-that-add-up-to-target) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1444 | [切披萨的方案数](../../problems/number-of-ways-of-cutting-a-pizza) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1434 | [每个人戴不同帽子的方案数](../../problems/number-of-ways-to-wear-different-hats-to-each-other) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -115,7 +116,7 @@
 | 746 | [使用最小花费爬楼梯](../../problems/min-cost-climbing-stairs) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 741 | [摘樱桃](../../problems/cherry-pickup) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 740 | [删除与获得点数](../../problems/delete-and-earn) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 730 | [统计不同回文子字符串](../../problems/count-different-palindromic-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 730 | [统计不同回文子序列](../../problems/count-different-palindromic-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 727 | [最小窗口子序列](../../problems/minimum-window-subsequence) 🔒 | [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
 | 718 | [最长重复子数组](../../problems/maximum-length-of-repeated-subarray) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 714 | [买卖股票的最佳时机含手续费](../../problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

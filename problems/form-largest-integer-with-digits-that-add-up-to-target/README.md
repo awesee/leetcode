@@ -29,7 +29,7 @@
 <pre>
 <strong>Input:</strong> cost = [4,3,2,5,6,7,2,5,5], target = 9
 <strong>Output:</strong> &quot;7772&quot;
-<strong>Explanation: </strong> The cost to paint the digit &#39;7&#39; is 2, and the digit &#39;2&#39; is 3. Then cost(&quot;7772&quot;) = 2*3+ 3*1 = 9. You could also paint &quot;997&quot;, but &quot;7772&quot; is the largest number.
+<strong>Explanation: </strong> The cost to paint the digit &#39;7&#39; is 2, and the digit &#39;2&#39; is 3. Then cost(&quot;7772&quot;) = 2*3+ 3*1 = 9. You could also paint &quot;977&quot;, but &quot;7772&quot; is the largest number.
 <strong>Digit    cost</strong>
   1  -&gt;   4
   2  -&gt;   3

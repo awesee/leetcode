@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../first-unique-number "First Unique Number")
 
-## [1428. Leftmost Column with at Least a One (Medium)](https://leetcode.com/problems/leftmost-column-with-at-least-a-one "")
+## [1428. Leftmost Column with at Least a One (Medium)](https://leetcode.com/problems/leftmost-column-with-at-least-a-one "至少有一个 1 的最左端列")
 
 
 

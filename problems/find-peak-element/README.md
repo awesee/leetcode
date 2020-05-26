@@ -35,9 +35,7 @@
 &nbsp;            or index number 5 where the peak element is 6.
 </pre>
 
-<p><strong>Note:</strong></p>
-
-<p>Your solution should be in logarithmic complexity.</p>
+<p><strong>Follow up:</strong>&nbsp;Your solution should be in logarithmic complexity.</p>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

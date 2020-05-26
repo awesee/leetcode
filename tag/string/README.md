@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1456 | [定长子串中元音的最大数目](../../problems/maximum-number-of-vowels-in-a-substring-of-given-length) | [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
+| 1455 | [检查单词是否为句中其他单词的前缀](../../problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [[字符串](../string/README.md)]  | Easy |
 | 1452 | [收藏清单](../../problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1451 | [重新排列句子中的单词](../../problems/rearrange-words-in-a-sentence) | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1449 | [数位成本和为目标值的最大数字](../../problems/form-largest-integer-with-digits-that-add-up-to-target) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -95,7 +97,7 @@
 | 761 | [特殊的二进制序列](../../problems/special-binary-string) | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 758 | [字符串中的加粗单词](../../problems/bold-words-in-string) 🔒 | [[字符串](../string/README.md)]  | Easy |
 | 736 | [Lisp 语法解析](../../problems/parse-lisp-expression) | [[字符串](../string/README.md)]  | Hard |
-| 730 | [统计不同回文子字符串](../../problems/count-different-palindromic-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 730 | [统计不同回文子序列](../../problems/count-different-palindromic-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 722 | [删除注释](../../problems/remove-comments) | [[字符串](../string/README.md)]  | Medium |
 | 709 | [转换成小写字母](../../problems/to-lower-case) | [[字符串](../string/README.md)]  | Easy |
 | 696 | [计数二进制子串](../../problems/count-binary-substrings) | [[字符串](../string/README.md)]  | Easy |
