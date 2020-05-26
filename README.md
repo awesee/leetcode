@@ -62,6 +62,11 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1458">1458</span> | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences "两个子序列的最大点积") | [Go](problems/max-dot-product-of-two-subsequences) | Hard |
+| <span id="1457">1457</span> | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree "二叉树中的伪回文路径") | [Go](problems/pseudo-palindromic-paths-in-a-binary-tree) | Medium |
+| <span id="1456">1456</span> | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length "定长子串中元音的最大数目") | [Go](problems/maximum-number-of-vowels-in-a-substring-of-given-length) | Medium |
+| <span id="1455">1455</span> | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence "检查单词是否为句中其他单词的前缀") | [Go](problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy |
+| <span id="1454">1454</span> | [Active Users](https://leetcode.com/problems/active-users) 🔒 | [MySQL](problems/active-users) | Medium |
 | <span id="1453">1453</span> | [Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard "圆形靶内的最大飞镖数量") | [Go](problems/maximum-number-of-darts-inside-of-a-circular-dartboard) | Hard |
 | <span id="1452">1452</span> | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list "收藏清单") | [Go](problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) | Medium |
 | <span id="1451">1451</span> | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence "重新排列句子中的单词") | [Go](problems/rearrange-words-in-a-sentence) | Medium |
@@ -70,7 +75,7 @@ LeetCode Problems' Solutions
 | <span id="1448">1448</span> | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree "统计二叉树中好节点的数目") | [Go](problems/count-good-nodes-in-binary-tree) | Medium |
 | <span id="1447">1447</span> | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions "最简分数") | [Go](problems/simplified-fractions) | Medium |
 | <span id="1446">1446</span> | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters "连续字符") | [Go](problems/consecutive-characters) | Easy |
-| <span id="1445">1445</span> | [Apples & Oranges](https://leetcode.com/problems/apples-oranges) 🔒 | [MySQL](problems/apples-oranges) | Medium |
+| <span id="1445">1445</span> | [Apples & Oranges](https://leetcode.com/problems/apples-oranges "苹果和桔子") 🔒 | [MySQL](problems/apples-oranges) | Medium |
 | <span id="1444">1444</span> | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza "切披萨的方案数") | [Go](problems/number-of-ways-of-cutting-a-pizza) | Hard |
 | <span id="1443">1443</span> | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree "收集树上所有苹果的最少时间") | [Go](problems/minimum-time-to-collect-all-apples-in-a-tree) | Medium |
 | <span id="1442">1442</span> | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor "形成两个异或相等数组的三元组数目") | [Go](problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | Medium |
@@ -87,7 +92,7 @@ LeetCode Problems' Solutions
 | <span id="1431">1431</span> | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies "拥有最多糖果的孩子") | [Go](problems/kids-with-the-greatest-number-of-candies) | Easy |
 | <span id="1430">1430</span> | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) 🔒 | [Go](problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) | Medium |
 | <span id="1429">1429</span> | [First Unique Number](https://leetcode.com/problems/first-unique-number) 🔒 | [Go](problems/first-unique-number) | Medium |
-| <span id="1428">1428</span> | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one) 🔒 | [Go](problems/leftmost-column-with-at-least-a-one) | Medium |
+| <span id="1428">1428</span> | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one "至少有一个 1 的最左端列") 🔒 | [Go](problems/leftmost-column-with-at-least-a-one) | Medium |
 | <span id="1427">1427</span> | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts) 🔒 | [Go](problems/perform-string-shifts) | Easy |
 | <span id="1426">1426</span> | [Counting Elements](https://leetcode.com/problems/counting-elements "数元素") 🔒 | [Go](problems/counting-elements) | Easy |
 | <span id="1425">1425</span> | [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum "带限制的子序列和") | [Go](problems/constrained-subsequence-sum) | Hard |

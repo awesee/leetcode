@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1457 | [二叉树中的伪回文路径](../../problems/pseudo-palindromic-paths-in-a-binary-tree) | [[位运算](../bit-manipulation/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1442 | [形成两个异或相等数组的三元组数目](../../problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1434 | [每个人戴不同帽子的方案数](../../problems/number-of-ways-to-wear-different-hats-to-each-other) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1404 | [将二进制表示减到 1 的步骤数](../../problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |

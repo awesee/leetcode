@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../my-calendar-ii "My Calendar II")
 
-## [730. Count Different Palindromic Subsequences (Hard)](https://leetcode.com/problems/count-different-palindromic-subsequences "统计不同回文子字符串")
+## [730. Count Different Palindromic Subsequences (Hard)](https://leetcode.com/problems/count-different-palindromic-subsequences "统计不同回文子序列")
 
 <p>
 Given a string S, find the number of different non-empty palindromic subsequences in S, and <b>return that number modulo <code>10^9 + 7</code>.</b>

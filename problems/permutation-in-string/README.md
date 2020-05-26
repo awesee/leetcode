@@ -31,13 +31,12 @@
 </pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><b>Note:</b></p>
-
-<ol>
+<ul>
 	<li>The input strings only contain lower case letters.</li>
 	<li>The length of both given strings is in range [1, 10,000].</li>
-</ol>
+</ul>
 
 ### Related Topics
   [[Two Pointers](../../tag/two-pointers/README.md)]
