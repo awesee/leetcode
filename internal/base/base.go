@@ -10,50 +10,13 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
-	"sync"
 )
+
+// URL - base.URL
+const URL = "https://github.com/openset/leetcode/tree/master"
 
 // CmdName - base.CmdName
-const (
-	CmdName = "leetcode"
-	URL     = "https://github.com/openset/leetcode/tree/master"
-)
-
-// base var
-var (
-	Commands []*Command
-	Mutex    sync.Mutex
-)
-
-// Command - base.Command
-type Command struct {
-	Run       func(cmd *Command, args []string)
-	UsageLine string
-	Short     string
-	Long      string
-	Hidden    bool
-}
-
-// Name - base.Name
-func (c *Command) Name() string {
-	name := c.UsageLine
-	if i := strings.Index(name, " "); i > 0 {
-		name = name[0:i]
-	}
-	return name
-}
-
-// Usage - base.Usage
-func (c *Command) Usage() {
-	fmt.Printf("usage: %s %s\n\n", CmdName, c.UsageLine)
-	fmt.Printf("Run '%s help %s' for details.\n", CmdName, c.Name())
-}
-
-// UsageHelp - base.UsageHelp
-func (c *Command) UsageHelp() {
-	fmt.Printf("usage: %s %s\n\n", CmdName, c.UsageLine)
-	fmt.Println(c.Long)
-}
+var CmdName = filepath.Base(os.Args[0])
 
 // Usage - base.Usage
 func Usage() {

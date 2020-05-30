@@ -9,12 +9,13 @@ import (
 	"regexp"
 	"sort"
 	"strconv"
+	"sync"
 
-	"github.com/openset/leetcode/internal/base"
 	"github.com/openset/leetcode/internal/client"
 )
 
 var (
+	mu       sync.Mutex
 	initTags []TagType
 	tagsFile = filepath.Join("tag", "tags.json")
 )
@@ -135,10 +136,10 @@ func GetTopicTag(slug string) (tt TopicTagType) {
 }
 
 func saveTags(tags []TagType) {
-	base.Mutex.Lock()
+	mu.Lock()
+	defer mu.Unlock()
 	tags = append(GetTags(), tags...)
 	filePutContents(tagsFile, jsonEncode(tagsUnique(tags)))
-	base.Mutex.Unlock()
 }
 
 func tagsUnique(tags []TagType) []TagType {
