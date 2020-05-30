@@ -5,6 +5,7 @@ import (
 	"fmt"
 )
 
+// Run - base.Run
 func Run() {
 	flag.Usage = Usage
 	flag.Parse()

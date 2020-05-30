@@ -1,4 +1,3 @@
-// Package base provides base support.
 package base
 
 import (
