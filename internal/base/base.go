@@ -10,7 +10,6 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
-	"sync"
 )
 
 // CmdName - base.CmdName
@@ -19,11 +18,8 @@ const (
 	URL     = "https://github.com/openset/leetcode/tree/master"
 )
 
-// base var
-var (
-	Commands []*Command
-	Mutex    sync.Mutex
-)
+// Commands - base.Commands
+var Commands []*Command
 
 // Command - base.Command
 type Command struct {
