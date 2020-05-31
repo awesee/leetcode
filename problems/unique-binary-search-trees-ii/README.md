@@ -11,7 +11,7 @@
 
 ## [95. Unique Binary Search Trees II (Medium)](https://leetcode.com/problems/unique-binary-search-trees-ii "不同的二叉搜索树 II")
 
-<p>Given an integer <em>n</em>, generate all structurally unique <strong>BST&#39;s</strong> (binary search trees) that store values 1 ...&nbsp;<em>n</em>.</p>
+<p>Given an integer <code>n</code>, generate all structurally unique <strong>BST&#39;s</strong> (binary search trees) that store values 1 ...&nbsp;<em>n</em>.</p>
 
 <p><strong>Example:</strong></p>
 
@@ -34,6 +34,13 @@ The above output corresponds to the 5 unique BST&#39;s shown below:
     /     /       \                 \
    2     1         2                 3
 </pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>0 &lt;= n &lt;= 8</code></li>
+</ul>
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]

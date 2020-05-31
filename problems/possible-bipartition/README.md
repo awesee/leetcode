@@ -52,21 +52,21 @@
 <strong>Input: </strong>N = <span id="example-input-3-1">5</span>, dislikes = <span id="example-input-3-2">[[1,2],[2,3],[3,4],[4,5],[1,5]]</span>
 <strong>Output: </strong><span id="example-output-3">false</span>
 </pre>
+</div>
+</div>
+</div>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
+<ul>
 	<li><code>1 &lt;= N &lt;= 2000</code></li>
 	<li><code>0 &lt;= dislikes.length &lt;= 10000</code></li>
+	<li><code>dislikes[i].length == 2</code></li>
 	<li><code>1 &lt;= dislikes[i][j] &lt;= N</code></li>
 	<li><code>dislikes[i][0] &lt; dislikes[i][1]</code></li>
 	<li>There does not exist <code>i != j</code> for which <code>dislikes[i] == dislikes[j]</code>.</li>
-</ol>
-</div>
-</div>
-</div>
+</ul>
 
 ### Related Topics
   [[Depth-first Search](../../tag/depth-first-search/README.md)]

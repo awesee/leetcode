@@ -59,14 +59,13 @@ Notice you can have extra video after the event ends.
 </pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
+<ul>
 	<li><code>1 &lt;= clips.length &lt;= 100</code></li>
-	<li><code>0 &lt;= clips[i][0], clips[i][1] &lt;= 100</code></li>
+	<li><code>0 &lt;= clips[i][0] &lt;=&nbsp;clips[i][1] &lt;= 100</code></li>
 	<li><code>0 &lt;= T &lt;= 100</code></li>
-</ol>
+</ul>
 
 ### Related Topics
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
