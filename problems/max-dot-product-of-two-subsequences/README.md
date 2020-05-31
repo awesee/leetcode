@@ -7,7 +7,7 @@
 
 [< Previous](../pseudo-palindromic-paths-in-a-binary-tree "Pseudo-Palindromic Paths in a Binary Tree")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../rectangles-area "Rectangles Area")
 
 ## [1458. Max Dot Product of Two Subsequences (Hard)](https://leetcode.com/problems/max-dot-product-of-two-subsequences "两个子序列的最大点积")
 

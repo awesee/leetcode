@@ -54,6 +54,7 @@ Return&nbsp;<code>True</code>&nbsp;if its possible<strong>&nbsp;</strong>otherwi
 	<li><code>1 &lt;= nums[i] &lt;= 10^9</code></li>
 	<li><code>1 &lt;= k &lt;= nums.length</code></li>
 </ul>
+<strong>Note:</strong> This question is the same as&nbsp;846:&nbsp;<a href="https://leetcode.com/problems/hand-of-straights/">https://leetcode.com/problems/hand-of-straights/</a>
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
