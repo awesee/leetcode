@@ -65,7 +65,7 @@ After removing, new nodes become leaf nodes with value (target = 2) (Picture in 
 
 <ul>
 	<li><code>1 &lt;= target&nbsp;&lt;= 1000</code></li>
-	<li>Each tree has at most <code>3000</code> nodes.</li>
+	<li>The&nbsp;given binary tree will have between&nbsp;<code>1</code>&nbsp;and&nbsp;<code>3000</code>&nbsp;nodes.</li>
 	<li>Each node&#39;s value is between <code>[1, 1000]</code>.</li>
 </ul>
 

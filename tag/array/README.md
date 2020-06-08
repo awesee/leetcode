@@ -9,6 +9,11 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1471 | [数组中的 k 个最强值](../../problems/the-k-strongest-values-in-an-array) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1470 | [重新排列数组](../../problems/shuffle-the-array) | [[数组](../array/README.md)]  | Easy |
+| 1465 | [切割后面积最大的蛋糕](../../problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) | [[数组](../array/README.md)]  | Medium |
+| 1464 | [数组中两元素的最大乘积](../../problems/maximum-product-of-two-elements-in-an-array) | [[数组](../array/README.md)]  | Easy |
+| 1460 | [通过翻转子数组使两个数组相等](../../problems/make-two-arrays-equal-by-reversing-sub-arrays) | [[数组](../array/README.md)]  | Easy |
 | 1450 | [在既定时间做作业的学生人数](../../problems/number-of-students-doing-homework-at-a-given-time) | [[数组](../array/README.md)]  | Easy |
 | 1442 | [形成两个异或相等数组的三元组数目](../../problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1438 | [绝对差不超过限制的最长连续子数组](../../problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |

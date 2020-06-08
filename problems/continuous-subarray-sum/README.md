@@ -32,13 +32,12 @@
 </pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><b>Note:</b></p>
-
-<ol>
+<ul>
 	<li>The length of the array won&#39;t exceed 10,000.</li>
 	<li>You may assume the sum of all the numbers is in the range of a signed 32-bit integer.</li>
-</ol>
+</ul>
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
