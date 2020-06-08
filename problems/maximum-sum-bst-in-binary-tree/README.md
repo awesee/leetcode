@@ -68,7 +68,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>Each tree has at most <code>40000</code> nodes..</li>
+	<li>The&nbsp;given binary tree will have between&nbsp;<code>1</code>&nbsp;and&nbsp;<code>40000</code>&nbsp;nodes.</li>
 	<li>Each node&#39;s value is between <code>[-4 * 10^4&nbsp;, 4 * 10^4]</code>.</li>
 </ul>
 

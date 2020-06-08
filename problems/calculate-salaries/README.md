@@ -5,10 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../maximum-number-of-darts-inside-of-a-circular-dartboard "Maximum Number of Darts Inside of a Circular Dartboard")
+[< Previous](../probability-of-a-two-boxes-having-the-same-number-of-distinct-balls "Probability of a Two Boxes Having The Same Number of Distinct Balls")
 　　　　　　　　　　　　　　　　
-[Next >](../check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence "Check If a Word Occurs As a Prefix of Any Word in a Sentence")
+[Next >](../find-all-the-lonely-nodes "Find All The Lonely Nodes")
 
-## [1454. Active Users (Medium)](https://leetcode.com/problems/active-users " 活跃用户")
+## [1468. Calculate Salaries (Medium)](https://leetcode.com/problems/calculate-salaries "")
 
 

@@ -11,9 +11,7 @@
 
 ## [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit (Medium)](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit "绝对差不超过限制的最长连续子数组")
 
-<p>Given an&nbsp;array of integers <code>nums</code> and an&nbsp;integer <code>limit</code>, return the size of the longest continuous subarray such that the absolute difference between any two elements is less than or equal to&nbsp;<code>limit</code><em>.</em></p>
-
-<p>In case there is no subarray satisfying the given condition return 0.</p>
+<p>Given an&nbsp;array of integers <code>nums</code> and an&nbsp;integer <code>limit</code>, return the size of the longest <strong>non-empty</strong> subarray such that the absolute difference between any two elements of this subarray is less than or equal to&nbsp;<code>limit</code><em>.</em></p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

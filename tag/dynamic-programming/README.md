@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1473 | [给房子涂色 III](../../problems/paint-house-iii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1463 | [摘樱桃 II](../../problems/cherry-pickup-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1458 | [两个子序列的最大点积](../../problems/max-dot-product-of-two-subsequences) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1449 | [数位成本和为目标值的最大数字](../../problems/form-largest-integer-with-digits-that-add-up-to-target) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1444 | [切披萨的方案数](../../problems/number-of-ways-of-cutting-a-pizza) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

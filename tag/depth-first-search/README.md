@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1469 | [Find All The Lonely Nodes](../../problems/find-all-the-lonely-nodes) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 1466 | [重新规划路线](../../problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1457 | [二叉树中的伪回文路径](../../problems/pseudo-palindromic-paths-in-a-binary-tree) | [[位运算](../bit-manipulation/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1448 | [统计二叉树中好节点的数目](../../problems/count-good-nodes-in-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1443 | [收集树上所有苹果的最少时间](../../problems/minimum-time-to-collect-all-apples-in-a-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |

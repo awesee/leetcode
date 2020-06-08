@@ -19,15 +19,20 @@
 
 <p>Furthermore, you may assume that the original data does not contain any digits and that digits are only for those repeat numbers, <i>k</i>. For example, there won&#39;t be input like <code>3a</code> or <code>2[4]</code>.</p>
 
-<p><b>Examples:</b></p>
-
-<pre>
-s = &quot;3[a]2[bc]&quot;, return &quot;aaabcbc&quot;.
-s = &quot;3[a2[c]]&quot;, return &quot;accaccacc&quot;.
-s = &quot;2[abc]3[cd]ef&quot;, return &quot;abcabccdcdcdef&quot;.
-</pre>
-
 <p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+<pre><strong>Input:</strong> s = "3[a]2[bc]"
+<strong>Output:</strong> "aaabcbc"
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> s = "3[a2[c]]"
+<strong>Output:</strong> "accaccacc"
+</pre><p><strong>Example 3:</strong></p>
+<pre><strong>Input:</strong> s = "2[abc]3[cd]ef"
+<strong>Output:</strong> "abcabccdcdcdef"
+</pre><p><strong>Example 4:</strong></p>
+<pre><strong>Input:</strong> s = "abc3[cd]xyz"
+<strong>Output:</strong> "abccdcdcdxyz"
+</pre>
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]

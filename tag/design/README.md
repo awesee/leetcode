@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1472 | [设计浏览器历史记录](../../problems/design-browser-history) | [[设计](../design/README.md)]  | Medium |
 | 1429 | [First Unique Number](../../problems/first-unique-number) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1396 | [设计地铁系统](../../problems/design-underground-system) | [[设计](../design/README.md)]  | Medium |
 | 1381 | [设计一个支持增量操作的栈](../../problems/design-a-stack-with-increment-operation) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Medium |

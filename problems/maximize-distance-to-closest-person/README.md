@@ -40,15 +40,16 @@ Thus, the maximum distance to the closest person is 2.</pre>
 If Alex sits in the last seat, the closest person is 3 seats away.
 This is the maximum distance possible, so the answer is 3.
 </pre>
+</div>
+</div>
 
-<p><strong>Note:</strong></p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<ol>
-	<li><code>1 &lt;= seats.length &lt;= 20000</code></li>
+<ul>
+	<li><code>2 &lt;= seats.length &lt;= 20000</code></li>
 	<li><code>seats</code>&nbsp;contains only 0s or 1s, at least one <code>0</code>, and at least one <code>1</code>.</li>
-</ol>
-</div>
-</div>
+</ul>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

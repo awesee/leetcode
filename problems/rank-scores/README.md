@@ -29,14 +29,16 @@
 <p>For example, given the above <code>Scores</code> table, your query should generate the following report (order by highest score):</p>
 
 <pre>
-+-------+------+
-| Score | Rank |
-+-------+------+
-| 4.00  | 1    |
-| 4.00  | 1    |
-| 3.85  | 2    |
-|&nbsp;3.65  | 3    |
-| 3.65  | 3    |
-| 3.50  | 4    |
-+-------+------+
++-------+---------+
+| score | Rank    |
++-------+---------+
+| 4.00  | 1       |
+| 4.00  | 1       |
+| 3.85  | 2       |
+|&nbsp;3.65  | 3       |
+| 3.65  | 3       |
+| 3.50  | 4       |
++-------+---------+
 </pre>
+
+<p><strong>Important Note:</strong>&nbsp;For MySQL solutions, to escape reserved words used as column names, you can use an apostrophe before and after the keyword. For example<strong>&nbsp;`Rank`</strong>.</p>

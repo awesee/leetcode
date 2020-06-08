@@ -7,7 +7,7 @@
 
 [< Previous](../reorder-routes-to-make-all-paths-lead-to-the-city-zero "Reorder Routes to Make All Paths Lead to the City Zero")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../calculate-salaries "Calculate Salaries")
 
 ## [1467. Probability of a Two Boxes Having The Same Number of Distinct Balls (Hard)](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls "两个盒子中球的颜色数相同的概率")
 
