@@ -9,6 +9,13 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1488 | [避免洪水泛滥](../../problems/avoid-flood-in-the-city) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1486 | [数组异或操作](../../problems/xor-operation-in-an-array) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)]  | Easy |
+| 1482 | [制作 m 束花所需的最少天数](../../problems/minimum-number-of-days-to-make-m-bouquets) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1481 | [不同整数的最少数目](../../problems/least-number-of-unique-integers-after-k-removals) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1480 | [一维数组的动态和](../../problems/running-sum-of-1d-array) | [[数组](../array/README.md)]  | Easy |
+| 1476 | [子矩形查询](../../problems/subrectangle-queries) | [[数组](../array/README.md)]  | Medium |
+| 1475 | [商品折扣后的最终价格](../../problems/final-prices-with-a-special-discount-in-a-shop) | [[数组](../array/README.md)]  | Easy |
 | 1471 | [数组中的 k 个最强值](../../problems/the-k-strongest-values-in-an-array) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1470 | [重新排列数组](../../problems/shuffle-the-array) | [[数组](../array/README.md)]  | Easy |
 | 1465 | [切割后面积最大的蛋糕](../../problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) | [[数组](../array/README.md)]  | Medium |
@@ -20,7 +27,7 @@
 | 1437 | [是否所有 1 都至少相隔 k 个元素](../../problems/check-if-all-1s-are-at-least-length-k-places-away) | [[数组](../array/README.md)]  | Medium |
 | 1431 | [拥有最多糖果的孩子](../../problems/kids-with-the-greatest-number-of-candies) | [[数组](../array/README.md)]  | Easy |
 | 1428 | [至少有一个 1 的最左端列](../../problems/leftmost-column-with-at-least-a-one) 🔒 | [[数组](../array/README.md)]  | Medium |
-| 1427 | [Perform String Shifts](../../problems/perform-string-shifts) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1427 | [字符串的左右移](../../problems/perform-string-shifts) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1426 | [数元素](../../problems/counting-elements) 🔒 | [[数组](../array/README.md)]  | Easy |
 | 1424 | [对角线遍历 II](../../problems/diagonal-traverse-ii) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1423 | [可获得的最大点数](../../problems/maximum-points-you-can-obtain-from-cards) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1489 | [找到最小生成树里的关键边和伪关键边](../../problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Hard |
 | 1319 | [连通网络的操作次数](../../problems/number-of-operations-to-make-network-connected) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
 | 1202 | [交换字符串中的元素](../../problems/smallest-string-with-swaps) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1168 | [水资源分配优化](../../problems/optimize-water-distribution-in-a-village) 🔒 | [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |

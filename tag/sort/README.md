@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1481 | [不同整数的最少数目](../../problems/least-number-of-unique-integers-after-k-removals) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1471 | [数组中的 k 个最强值](../../problems/the-k-strongest-values-in-an-array) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1452 | [收藏清单](../../problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1451 | [重新排列句子中的单词](../../problems/rearrange-words-in-a-sentence) | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Medium |

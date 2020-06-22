@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../find-all-the-lonely-nodes "Find All The Lonely Nodes")
 
-## [1468. Calculate Salaries (Medium)](https://leetcode.com/problems/calculate-salaries "")
+## [1468. Calculate Salaries (Medium)](https://leetcode.com/problems/calculate-salaries "计算税后工资")
 
 
