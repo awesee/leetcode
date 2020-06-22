@@ -20,46 +20,24 @@
 <p>Return the minimum integer <code>K</code> such that she can eat all the bananas within <code>H</code> hours.</p>
 
 <p>&nbsp;</p>
-
-<ul>
-</ul>
-
-<div>
 <p><strong>Example 1:</strong></p>
-
-<pre>
-<strong>Input: </strong>piles = <span id="example-input-1-1">[3,6,7,11]</span>, H = <span id="example-input-1-2">8</span>
-<strong>Output: </strong><span id="example-output-1">4</span>
+<pre><strong>Input:</strong> piles = [3,6,7,11], H = 8
+<strong>Output:</strong> 4
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> piles = [30,11,23,4,20], H = 5
+<strong>Output:</strong> 30
+</pre><p><strong>Example 3:</strong></p>
+<pre><strong>Input:</strong> piles = [30,11,23,4,20], H = 6
+<strong>Output:</strong> 23
 </pre>
-
-<div>
-<p><strong>Example 2:</strong></p>
-
-<pre>
-<strong>Input: </strong>piles = <span id="example-input-2-1">[30,11,23,4,20]</span>, H = <span id="example-input-2-2">5</span>
-<strong>Output: </strong><span id="example-output-2">30</span>
-</pre>
-
-<div>
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input: </strong>piles = <span id="example-input-3-1">[30,11,23,4,20]</span>, H = <span id="example-input-3-2">6</span>
-<strong>Output: </strong><span id="example-output-3">23</span>
-</pre>
-
 <p>&nbsp;</p>
-
-<p><strong>Note:</strong></p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
 	<li><code>1 &lt;= piles.length &lt;= 10^4</code></li>
 	<li><code>piles.length &lt;= H &lt;= 10^9</code></li>
 	<li><code>1 &lt;= piles[i] &lt;= 10^9</code></li>
 </ul>
-</div>
-</div>
-</div>
 
 ### Related Topics
   [[Binary Search](../../tag/binary-search/README.md)]

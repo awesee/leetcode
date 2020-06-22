@@ -7,7 +7,7 @@
 
 [< Previous](../design-browser-history "Design Browser History")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../delete-n-nodes-after-m-nodes-of-a-linked-list "Delete N Nodes After M Nodes of a Linked List")
 
 ## [1473. Paint House III (Hard)](https://leetcode.com/problems/paint-house-iii "给房子涂色 III")
 

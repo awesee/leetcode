@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1483 | [树节点的第 K 个祖先](../../problems/kth-ancestor-of-a-tree-node) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1478 | [安排邮筒](../../problems/allocate-mailboxes) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1477 | [找两个和为目标值且不重叠的子数组](../../problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1473 | [给房子涂色 III](../../problems/paint-house-iii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1463 | [摘樱桃 II](../../problems/cherry-pickup-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1458 | [两个子序列的最大点积](../../problems/max-dot-product-of-two-subsequences) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

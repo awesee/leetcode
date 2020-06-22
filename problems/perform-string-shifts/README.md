@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../leftmost-column-with-at-least-a-one "Leftmost Column with at Least a One")
 
-## [1427. Perform String Shifts (Easy)](https://leetcode.com/problems/perform-string-shifts "")
+## [1427. Perform String Shifts (Easy)](https://leetcode.com/problems/perform-string-shifts "字符串的左右移")
 
 
 

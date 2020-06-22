@@ -46,6 +46,14 @@
 <b>Output: </b>[]
 </pre>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>0 &lt;= num.length &lt;= 10</code></li>
+	<li><code>num</code> only contain&nbsp;digits.</li>
+</ul>
+
 ### Related Topics
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
 

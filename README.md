@@ -62,12 +62,28 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1489">1489</span> | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree "找到最小生成树里的关键边和伪关键边") | [Go](problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | Hard |
+| <span id="1488">1488</span> | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city "避免洪水泛滥") | [Go](problems/avoid-flood-in-the-city) | Medium |
+| <span id="1487">1487</span> | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique "保证文件名唯一") | [Go](problems/making-file-names-unique) | Medium |
+| <span id="1486">1486</span> | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array "数组异或操作") | [Go](problems/xor-operation-in-an-array) | Easy |
+| <span id="1485">1485</span> | [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer "克隆含随机指针的二叉树") 🔒 | [Go](problems/clone-binary-tree-with-random-pointer) | Medium |
+| <span id="1484">1484</span> | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) 🔒 | [MySQL](problems/group-sold-products-by-the-date) | Easy |
+| <span id="1483">1483</span> | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node "树节点的第 K 个祖先") | [Go](problems/kth-ancestor-of-a-tree-node) | Hard |
+| <span id="1482">1482</span> | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets "制作 m 束花所需的最少天数") | [Go](problems/minimum-number-of-days-to-make-m-bouquets) | Medium |
+| <span id="1481">1481</span> | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals "不同整数的最少数目") | [Go](problems/least-number-of-unique-integers-after-k-removals) | Medium |
+| <span id="1480">1480</span> | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array "一维数组的动态和") | [Go](problems/running-sum-of-1d-array) | Easy |
+| <span id="1479">1479</span> | [Sales by Day of the Week](https://leetcode.com/problems/sales-by-day-of-the-week) 🔒 | [MySQL](problems/sales-by-day-of-the-week) | Hard |
+| <span id="1478">1478</span> | [Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes "安排邮筒") | [Go](problems/allocate-mailboxes) | Hard |
+| <span id="1477">1477</span> | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum "找两个和为目标值且不重叠的子数组") | [Go](problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | Medium |
+| <span id="1476">1476</span> | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries "子矩形查询") | [Go](problems/subrectangle-queries) | Medium |
+| <span id="1475">1475</span> | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop "商品折扣后的最终价格") | [Go](problems/final-prices-with-a-special-discount-in-a-shop) | Easy |
+| <span id="1474">1474</span> | [Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list "删除链表 M 个节点之后的 N 个节点") 🔒 | [Go](problems/delete-n-nodes-after-m-nodes-of-a-linked-list) | Easy |
 | <span id="1473">1473</span> | [Paint House III](https://leetcode.com/problems/paint-house-iii "给房子涂色 III") | [Go](problems/paint-house-iii) | Hard |
 | <span id="1472">1472</span> | [Design Browser History](https://leetcode.com/problems/design-browser-history "设计浏览器历史记录") | [Go](problems/design-browser-history) | Medium |
 | <span id="1471">1471</span> | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array "数组中的 k 个最强值") | [Go](problems/the-k-strongest-values-in-an-array) | Medium |
 | <span id="1470">1470</span> | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array "重新排列数组") | [Go](problems/shuffle-the-array) | Easy |
 | <span id="1469">1469</span> | [Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes) 🔒 | [Go](problems/find-all-the-lonely-nodes) | Easy |
-| <span id="1468">1468</span> | [Calculate Salaries](https://leetcode.com/problems/calculate-salaries) 🔒 | [MySQL](problems/calculate-salaries) | Medium |
+| <span id="1468">1468</span> | [Calculate Salaries](https://leetcode.com/problems/calculate-salaries "计算税后工资") 🔒 | [MySQL](problems/calculate-salaries) | Medium |
 | <span id="1467">1467</span> | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls "两个盒子中球的颜色数相同的概率") | [Go](problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) | Hard |
 | <span id="1466">1466</span> | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero "重新规划路线") | [Go](problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero) | Medium |
 | <span id="1465">1465</span> | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts "切割后面积最大的蛋糕") | [Go](problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) | Medium |
@@ -108,7 +124,7 @@ LeetCode Problems' Solutions
 | <span id="1430">1430</span> | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) 🔒 | [Go](problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) | Medium |
 | <span id="1429">1429</span> | [First Unique Number](https://leetcode.com/problems/first-unique-number) 🔒 | [Go](problems/first-unique-number) | Medium |
 | <span id="1428">1428</span> | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one "至少有一个 1 的最左端列") 🔒 | [Go](problems/leftmost-column-with-at-least-a-one) | Medium |
-| <span id="1427">1427</span> | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts) 🔒 | [Go](problems/perform-string-shifts) | Easy |
+| <span id="1427">1427</span> | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts "字符串的左右移") 🔒 | [Go](problems/perform-string-shifts) | Easy |
 | <span id="1426">1426</span> | [Counting Elements](https://leetcode.com/problems/counting-elements "数元素") 🔒 | [Go](problems/counting-elements) | Easy |
 | <span id="1425">1425</span> | [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum "带限制的子序列和") | [Go](problems/constrained-subsequence-sum) | Hard |
 | <span id="1424">1424</span> | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii "对角线遍历 II") | [Go](problems/diagonal-traverse-ii) | Medium |

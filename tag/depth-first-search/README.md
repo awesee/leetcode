@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1489 | [找到最小生成树里的关键边和伪关键边](../../problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Hard |
+| 1485 | [克隆含随机指针的二叉树](../../problems/clone-binary-tree-with-random-pointer) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1469 | [Find All The Lonely Nodes](../../problems/find-all-the-lonely-nodes) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
 | 1466 | [重新规划路线](../../problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1457 | [二叉树中的伪回文路径](../../problems/pseudo-palindromic-paths-in-a-binary-tree) | [[位运算](../bit-manipulation/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |

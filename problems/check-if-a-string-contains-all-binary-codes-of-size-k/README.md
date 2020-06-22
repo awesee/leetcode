@@ -13,7 +13,7 @@
 
 <p>Given a binary string <code>s</code> and an integer <code>k</code>.</p>
 
-<p>Return <em>True</em> if all binary codes of length <code>k</code> is a substring of <code>s</code>. Otherwise, return <em>False</em>.</p>
+<p>Return <em>True</em> if every&nbsp;binary code&nbsp;of length <code>k</code> is a substring of <code>s</code>. Otherwise, return <em>False</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

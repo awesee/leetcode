@@ -11,33 +11,42 @@
 
 ## [516. Longest Palindromic Subsequence (Medium)](https://leetcode.com/problems/longest-palindromic-subsequence "最长回文子序列")
 
-<p>
-Given a string s, find the longest palindromic subsequence's length in s. You may assume that the maximum length of s is 1000.
-</p>
+<p>Given a string s, find the longest palindromic subsequence&#39;s length in s. You may assume that the maximum length of s is 1000.</p>
 
-<p><b>Example 1:</b><br>
-Input: 
+<p><b>Example 1:</b><br />
+Input:</p>
+
 <pre>
-"bbbab"
+&quot;bbbab&quot;
 </pre>
-Output: 
+Output:
+
 <pre>
 4
 </pre>
-One possible longest palindromic subsequence is "bbbb".
-</p>
+One possible longest palindromic subsequence is &quot;bbbb&quot;.
 
-<p><b>Example 2:</b><br>
-Input:
+<p>&nbsp;</p>
+
+<p><b>Example 2:</b><br />
+Input:</p>
+
 <pre>
-"cbbd"
+&quot;cbbd&quot;
 </pre>
 Output:
+
 <pre>
 2
 </pre>
-One possible longest palindromic subsequence is "bb".
-</p>
+One possible longest palindromic subsequence is &quot;bb&quot;.
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 1000</code></li>
+	<li><code>s</code> consists only of lowercase English letters.</li>
+</ul>
 
 ### Related Topics
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

@@ -70,14 +70,14 @@
 		"TranslatedName": "排序"
 	},
 	{
-		"Name": "Design",
-		"Slug": "design",
-		"TranslatedName": "设计"
-	},
-	{
 		"Name": "Bit Manipulation",
 		"Slug": "bit-manipulation",
 		"TranslatedName": "位运算"
+	},
+	{
+		"Name": "Design",
+		"Slug": "design",
+		"TranslatedName": "设计"
 	},
 	{
 		"Name": "Graph",

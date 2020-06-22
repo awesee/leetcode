@@ -9,10 +9,11 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1478 | [安排邮筒](../../problems/allocate-mailboxes) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1467 | [两个盒子中球的颜色数相同的概率](../../problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1447 | [最简分数](../../problems/simplified-fractions) | [[数学](../math/README.md)]  | Medium |
 | 1442 | [形成两个异或相等数组的三元组数目](../../problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1427 | [Perform String Shifts](../../problems/perform-string-shifts) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1427 | [字符串的左右移](../../problems/perform-string-shifts) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1390 | [四因数](../../problems/four-divisors) | [[数学](../math/README.md)]  | Medium |
 | 1363 | [形成三的最大倍数](../../problems/largest-multiple-of-three) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1362 | [最接近的因数](../../problems/closest-divisors) | [[数学](../math/README.md)]  | Medium |

@@ -30,7 +30,6 @@
 <p>Return <code>Construct(B)</code>.</p>
 
 <p>&nbsp;</p>
-
 <p><strong>Example 1:</strong></p>
 
 <p><strong><img alt="" src="https://assets.leetcode.com/uploads/2019/02/21/maximum-binary-tree-1-1.png" style="width: 159px; height: 160px;" /><img alt="" src="https://assets.leetcode.com/uploads/2019/02/21/maximum-binary-tree-1-2.png" style="width: 169px; height: 160px;" /></strong></p>
@@ -60,16 +59,15 @@
 <strong>Output: </strong><span id="example-output-3">[5,2,4,null,1,3]
 </span><span id="example-output-1"><strong>Explanation:</strong> A = </span><span>[2,1,5,3], B = </span><span>[2,1,5,3,4]</span>
 </pre>
+</div>
+</div>
 
 <p>&nbsp;</p>
-</div>
-</div>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
+<ul>
 	<li><code>1 &lt;= B.length &lt;= 100</code></li>
-</ol>
+</ul>
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]

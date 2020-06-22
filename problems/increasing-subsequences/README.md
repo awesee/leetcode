@@ -23,14 +23,13 @@
 </pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><b>Note:</b></p>
-
-<ol>
+<ul>
 	<li>The length of the given array will not exceed 15.</li>
 	<li>The range of integer in the given array is [-100,100].</li>
 	<li>The given array may contain duplicates, and two equal integers should also be considered as a special case of increasing sequence.</li>
-</ol>
+</ul>
 
 ### Related Topics
   [[Depth-first Search](../../tag/depth-first-search/README.md)]
