@@ -22,7 +22,7 @@ jobs:
     - name: Cache
       uses: actions/cache@v2
       with:
-        path: ~/*/*/go-build/
+        path: ~/.cache/go-build/
         key: ${{ runner.os }}-go-build
 
     - name: Get dependencies
