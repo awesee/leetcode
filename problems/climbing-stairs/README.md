@@ -15,8 +15,6 @@
 
 <p>Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?</p>
 
-<p><strong>Note:</strong> Given <em>n</em> will be a positive integer.</p>
-
 <p><strong>Example 1:</strong></p>
 
 <pre>
@@ -37,6 +35,13 @@
 2. 1 step + 2 steps
 3. 2 steps + 1 step
 </pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= n &lt;= 45</code></li>
+</ul>
 
 ### Related Topics
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

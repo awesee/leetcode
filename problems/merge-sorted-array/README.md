@@ -30,6 +30,13 @@ nums2 = [2,5,6],       n = 3
 <strong>Output:</strong>&nbsp;[1,2,2,3,5,6]
 </pre>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>-10^9 &lt;= nums1[i], nums2[i] &lt;= 10^9</code></li>
+</ul>
+
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]

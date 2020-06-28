@@ -13,15 +13,18 @@
 
 <p>Design a data structure that supports all following operations in <i>average</i> <b>O(1)</b> time.</p>
 
-<p>
-<ol>
-<li><code>insert(val)</code>: Inserts an item val to the set if not already present.</li>
-<li><code>remove(val)</code>: Removes an item val from the set if present.</li>
-<li><code>getRandom</code>: Returns a random element from current set of elements. Each element must have the <b>same probability</b> of being returned.</li>
-</ol>
-</p>
+<p>&nbsp;</p>
 
-<p><b>Example:</b>
+<ol>
+	<li><code>insert(val)</code>: Inserts an item val to the set if not already present.</li>
+	<li><code>remove(val)</code>: Removes an item val from the set if present.</li>
+	<li><code>getRandom</code>: Returns a random element from current set of elements (it&#39;s guaranteed that at least one element exists when this method is called). Each element must have the <b>same probability</b> of being returned.</li>
+</ol>
+
+<p>&nbsp;</p>
+
+<p><b>Example:</b></p>
+
 <pre>
 // Init an empty set.
 RandomizedSet randomSet = new RandomizedSet();
@@ -47,7 +50,6 @@ randomSet.insert(2);
 // Since 2 is the only number in the set, getRandom always return 2.
 randomSet.getRandom();
 </pre>
-</p>
 
 ### Related Topics
   [[Design](../../tag/design/README.md)]

@@ -46,7 +46,7 @@
 
 <pre>
 <strong>Input: </strong>[20,30,100,110,120]
-<strong>Output: </strong>
+<strong>Output: </strong>3
 <strong>Explanation: </strong>Friend requests are made 110 -&gt; 100, 120 -&gt; 110, 120 -&gt; 100.
 </pre>
 

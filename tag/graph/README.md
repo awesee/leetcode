@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1494 | [并行课程 II](../../problems/parallel-courses-ii) | [[图](../graph/README.md)]  | Hard |
 | 1462 | [课程安排 IV](../../problems/course-schedule-iv) | [[图](../graph/README.md)]  | Medium |
 | 1387 | [将整数按权重排序](../../problems/sort-integers-by-the-power-value) | [[排序](../sort/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1361 | [验证二叉树](../../problems/validate-binary-tree-nodes) | [[图](../graph/README.md)]  | Medium |

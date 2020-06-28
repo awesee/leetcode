@@ -44,8 +44,11 @@ And so on.
 <p><strong>Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> tasks = [&quot;A&quot;,&quot;B&quot;,&quot;C&quot;,&quot;D&quot;,&quot;E&quot;,&quot;A&quot;,&quot;B&quot;,&quot;C&quot;,&quot;D&quot;,&quot;E&quot;], n = 4
-<strong>Output:</strong> 10
+<strong>Input:</strong> tasks = [&quot;A&quot;,&quot;A&quot;,&quot;A&quot;,&quot;A&quot;,&quot;A&quot;,&quot;A&quot;,&quot;B&quot;,&quot;C&quot;,&quot;D&quot;,&quot;E&quot;,&quot;F&quot;,&quot;G&quot;], n = 2
+<strong>Output:</strong> 16
+<strong>Explanation:</strong> 
+One possible solution is
+A -&gt; B -&gt; C -&gt; A -&gt; D -&gt; E -&gt; A -&gt; F -&gt; G -&gt; A -&gt; idle -&gt; idle -&gt; A -&gt; idle -&gt; idle -&gt; A
 </pre>
 
 <p>&nbsp;</p>

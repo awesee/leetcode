@@ -46,6 +46,14 @@
 <strong>Input: </strong>&quot;ZY&quot;
 <strong>Output:</strong> 701
 </pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 7</code></li>
+	<li><code>s</code> consists only of uppercase English letters.</li>
+	<li><code>s</code> is between &quot;A&quot; and &quot;FXSHRXW&quot;.</li>
+</ul>
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]

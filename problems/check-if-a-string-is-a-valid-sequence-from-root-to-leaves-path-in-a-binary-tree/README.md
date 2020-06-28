@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../kids-with-the-greatest-number-of-candies "Kids With the Greatest Number of Candies")
 
-## [1430. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree (Medium)](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree "")
+## [1430. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree (Medium)](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree "判断给定的序列是否是二叉树从根到叶的路径")
 
 
 

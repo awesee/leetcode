@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree "Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree")
 
-## [1429. First Unique Number (Medium)](https://leetcode.com/problems/first-unique-number "")
+## [1429. First Unique Number (Medium)](https://leetcode.com/problems/first-unique-number "第一个唯一数字")
 
 
 

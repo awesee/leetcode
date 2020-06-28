@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../running-sum-of-1d-array "Running Sum of 1d Array")
 
-## [1479. Sales by Day of the Week (Hard)](https://leetcode.com/problems/sales-by-day-of-the-week "")
+## [1479. Sales by Day of the Week (Hard)](https://leetcode.com/problems/sales-by-day-of-the-week "周内每天的销售情况")
 
 

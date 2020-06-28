@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../destination-city "Destination City")
 
-## [1435. Create a Session Bar Chart (Easy)](https://leetcode.com/problems/create-a-session-bar-chart "")
+## [1435. Create a Session Bar Chart (Easy)](https://leetcode.com/problems/create-a-session-bar-chart "制作会话柱状图")
 
 
