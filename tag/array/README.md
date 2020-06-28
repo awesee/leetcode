@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1493 | [删掉一个元素以后全为 1 的最长子数组](../../problems/longest-subarray-of-1s-after-deleting-one-element) | [[数组](../array/README.md)]  | Medium |
+| 1491 | [去掉最低工资和最高工资后的工资平均值](../../problems/average-salary-excluding-the-minimum-and-maximum-salary) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1488 | [避免洪水泛滥](../../problems/avoid-flood-in-the-city) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1486 | [数组异或操作](../../problems/xor-operation-in-an-array) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1482 | [制作 m 束花所需的最少天数](../../problems/minimum-number-of-days-to-make-m-bouquets) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

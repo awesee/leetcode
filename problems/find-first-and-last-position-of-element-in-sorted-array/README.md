@@ -29,6 +29,16 @@
 <strong>Input:</strong> nums = [<code>5,7,7,8,8,10]</code>, target = 6
 <strong>Output:</strong> [-1,-1]</pre>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>0 &lt;= nums.length &lt;= 10^5</code></li>
+	<li><code>-10^9&nbsp;&lt;= nums[i]&nbsp;&lt;= 10^9</code></li>
+	<li><code>nums</code> is a non decreasing array.</li>
+	<li><code>-10^9&nbsp;&lt;= target&nbsp;&lt;= 10^9</code></li>
+</ul>
+
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]

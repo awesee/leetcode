@@ -5,10 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../kth-ancestor-of-a-tree-node "Kth Ancestor of a Tree Node")
+[< Previous](../parallel-courses-ii "Parallel Courses II")
 　　　　　　　　　　　　　　　　
-[Next >](../clone-binary-tree-with-random-pointer "Clone Binary Tree With Random Pointer")
+Next >
 
-## [1484. Group Sold Products By The Date (Easy)](https://leetcode.com/problems/group-sold-products-by-the-date "按日期分组销售产品")
+## [1495. Friendly Movies Streamed Last Month (Easy)](https://leetcode.com/problems/friendly-movies-streamed-last-month "")
 
 

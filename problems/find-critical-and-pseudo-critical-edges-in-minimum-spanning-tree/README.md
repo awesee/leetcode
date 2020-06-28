@@ -7,7 +7,7 @@
 
 [< Previous](../avoid-flood-in-the-city "Avoid Flood in The City")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../clone-n-ary-tree "Clone N-ary Tree")
 
 ## [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree (Hard)](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree "找到最小生成树里的关键边和伪关键边")
 

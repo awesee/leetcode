@@ -5,25 +5,27 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../calculate-salaries "Calculate Salaries")
+[< Previous](../find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree")
 　　　　　　　　　　　　　　　　
-[Next >](../shuffle-the-array "Shuffle the Array")
+[Next >](../average-salary-excluding-the-minimum-and-maximum-salary "Average Salary Excluding the Minimum and Maximum Salary")
 
-## [1469. Find All The Lonely Nodes (Easy)](https://leetcode.com/problems/find-all-the-lonely-nodes "寻找所有的独生节点")
+## [1490. Clone N-ary Tree (Medium)](https://leetcode.com/problems/clone-n-ary-tree "克隆 N 叉树")
 
 
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
   [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>
 <summary>Hint 1</summary>
-Do a simple tree traversal, try to check if the current node is lonely or not.
+Traverse the tree, keep a hashtable with you and create a clone node for each node in the tree.
 </details>
 
 <details>
 <summary>Hint 2</summary>
-Node is lonely if at least one of the left/right pointers is null.
+Start traversing the original tree again and connect each child pointer in the cloned tree the same way as the original tree with the help of the hashtable.
 </details>

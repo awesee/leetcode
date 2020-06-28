@@ -54,21 +54,20 @@
 <strong>Input: </strong>A = <span id="example-input-5-1">&quot;&quot;</span>, B = <span id="example-input-5-2">&quot;aa&quot;</span>
 <strong>Output: </strong><span id="example-output-5">false</span>
 </pre>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong><span>Note:</span></strong></p>
-
-<ol>
+<ul>
 	<li><code>0 &lt;= A.length &lt;= 20000</code></li>
 	<li><code>0 &lt;= B.length &lt;= 20000</code></li>
 	<li><code>A</code> and&nbsp;<code>B</code> consist only of lowercase letters.</li>
-</ol>
-</div>
-</div>
-</div>
-</div>
-</div>
+</ul>
 
 ### Related Topics
   [[String](../../tag/string/README.md)]

@@ -40,9 +40,9 @@
 <strong>Explanation:</strong> A = </span><span>[1,4,2,3], B = </span><span>[1,4,2,3,5]</span>
 </pre>
 
-<div>
-<p><strong>Example 2:<br />
-<img alt="" src="https://assets.leetcode.com/uploads/2019/02/21/maximum-binary-tree-2-1.png" style="width: 180px; height: 160px;" /><img alt="" src="https://assets.leetcode.com/uploads/2019/02/21/maximum-binary-tree-2-2.png" style="width: 214px; height: 160px;" /></strong></p>
+<p><strong>Example 2:</strong></p>
+
+<p><strong><img alt="" src="https://assets.leetcode.com/uploads/2019/02/21/maximum-binary-tree-2-1.png" style="width: 180px; height: 160px;" /><img alt="" src="https://assets.leetcode.com/uploads/2019/02/21/maximum-binary-tree-2-2.png" style="width: 214px; height: 160px;" /></strong></p>
 
 <pre>
 <strong>Input: </strong>root = <span id="example-input-2-1">[5,2,4,null,1]</span>, val = <span id="example-input-2-2">3</span>
@@ -50,17 +50,15 @@
 </span><span id="example-output-1"><strong>Explanation:</strong> A = </span><span>[2,1,5,4], B = </span><span>[2,1,5,4,3]</span>
 </pre>
 
-<div>
-<p><strong>Example 3:<br />
-<img alt="" src="https://assets.leetcode.com/uploads/2019/02/21/maximum-binary-tree-3-1.png" style="width: 180px; height: 160px;" /><img alt="" src="https://assets.leetcode.com/uploads/2019/02/21/maximum-binary-tree-3-2.png" style="width: 201px; height: 160px;" /></strong></p>
+<p><strong>Example 3:</strong></p>
+
+<p><strong><img alt="" src="https://assets.leetcode.com/uploads/2019/02/21/maximum-binary-tree-3-1.png" style="width: 180px; height: 160px;" /><img alt="" src="https://assets.leetcode.com/uploads/2019/02/21/maximum-binary-tree-3-2.png" style="width: 201px; height: 160px;" /></strong></p>
 
 <pre>
 <strong>Input: </strong>root = <span id="example-input-3-1">[5,2,3,null,1]</span>, val = <span id="example-input-3-2">4</span>
 <strong>Output: </strong><span id="example-output-3">[5,2,4,null,1,3]
 </span><span id="example-output-1"><strong>Explanation:</strong> A = </span><span>[2,1,5,3], B = </span><span>[2,1,5,3,4]</span>
 </pre>
-</div>
-</div>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1490 | [克隆 N 叉树](../../problems/clone-n-ary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1391 | [检查网格中是否存在有效路径](../../problems/check-if-there-is-a-valid-path-in-a-grid) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1368 | [使网格图至少有一条有效路径的最小代价](../../problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 1345 | [跳跃游戏 IV](../../problems/jump-game-iv) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |

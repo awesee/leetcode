@@ -9,13 +9,14 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1490 | [克隆 N 叉树](../../problems/clone-n-ary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1485 | [克隆含随机指针的二叉树](../../problems/clone-binary-tree-with-random-pointer) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
-| 1469 | [Find All The Lonely Nodes](../../problems/find-all-the-lonely-nodes) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 1469 | [寻找所有的独生节点](../../problems/find-all-the-lonely-nodes) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
 | 1466 | [重新规划路线](../../problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1457 | [二叉树中的伪回文路径](../../problems/pseudo-palindromic-paths-in-a-binary-tree) | [[位运算](../bit-manipulation/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1448 | [统计二叉树中好节点的数目](../../problems/count-good-nodes-in-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1443 | [收集树上所有苹果的最少时间](../../problems/minimum-time-to-collect-all-apples-in-a-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
-| 1430 | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](../../problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 1430 | [判断给定的序列是否是二叉树从根到叶的路径](../../problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 1379 | [找出克隆二叉树中的相同节点](../../problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [[树](../tree/README.md)]  | Medium |
 | 1372 | [二叉树中的最长交错路径](../../problems/longest-zigzag-path-in-a-binary-tree) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1367 | [二叉树中的列表](../../problems/linked-list-in-binary-tree) | [[树](../tree/README.md)] [[链表](../linked-list/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
