@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1496 | [判断路径是否相交](../../problems/path-crossing) | [[字符串](../string/README.md)]  | Easy |
 | 1487 | [保证文件名唯一](../../problems/making-file-names-unique) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1461 | [检查一个字符串是否包含所有长度为 K 的二进制子串](../../problems/check-if-a-string-contains-all-binary-codes-of-size-k) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1456 | [定长子串中元音的最大数目](../../problems/maximum-number-of-vowels-in-a-substring-of-given-length) | [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |

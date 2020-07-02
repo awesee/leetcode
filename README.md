@@ -62,6 +62,10 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1499">1499</span> | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation "满足不等式的最大值") | [Go](problems/max-value-of-equation) | Hard |
+| <span id="1498">1498</span> | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition "满足条件的子序列数目") | [Go](problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | Medium |
+| <span id="1497">1497</span> | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k "检查数组对是否可以被 k 整除") | [Go](problems/check-if-array-pairs-are-divisible-by-k) | Medium |
+| <span id="1496">1496</span> | [Path Crossing](https://leetcode.com/problems/path-crossing "判断路径是否相交") | [Go](problems/path-crossing) | Easy |
 | <span id="1495">1495</span> | [Friendly Movies Streamed Last Month](https://leetcode.com/problems/friendly-movies-streamed-last-month) 🔒 | [MySQL](problems/friendly-movies-streamed-last-month) | Easy |
 | <span id="1494">1494</span> | [Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii "并行课程 II") | [Go](problems/parallel-courses-ii) | Hard |
 | <span id="1493">1493</span> | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element "删掉一个元素以后全为 1 的最长子数组") | [Go](problems/longest-subarray-of-1s-after-deleting-one-element) | Medium |

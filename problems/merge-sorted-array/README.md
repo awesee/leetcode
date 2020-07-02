@@ -17,7 +17,7 @@
 
 <ul>
 	<li>The number of elements initialized in <em>nums1</em> and <em>nums2</em> are <em>m</em> and <em>n</em> respectively.</li>
-	<li>You may assume that <em>nums1</em> has enough space (size that is greater or equal to <em>m</em> + <em>n</em>) to hold additional elements from <em>nums2</em>.</li>
+	<li>You may assume that <em>nums1</em> has enough space (size that is&nbsp;<strong>equal</strong> to <em>m</em> + <em>n</em>) to hold additional elements from <em>nums2</em>.</li>
 </ul>
 
 <p><strong>Example:</strong></p>
@@ -35,6 +35,8 @@ nums2 = [2,5,6],       n = 3
 
 <ul>
 	<li><code>-10^9 &lt;= nums1[i], nums2[i] &lt;= 10^9</code></li>
+	<li><code>nums1.length == m + n</code></li>
+	<li><code>nums2.length == n</code></li>
 </ul>
 
 ### Related Topics
