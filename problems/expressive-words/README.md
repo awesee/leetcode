@@ -33,8 +33,7 @@ We can&#39;t extend &quot;helo&quot; to get &quot;heeellooo&quot; because the gr
 </pre>
 
 <p>&nbsp;</p>
-
-<p><strong>Notes: </strong></p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
 	<li><code>0 &lt;= len(S) &lt;= 100</code>.</li>
@@ -42,8 +41,6 @@ We can&#39;t extend &quot;helo&quot; to get &quot;heeellooo&quot; because the gr
 	<li><code>0 &lt;= len(words[i]) &lt;= 100</code>.</li>
 	<li><code>S</code> and all words in <code>words</code>&nbsp;consist only of&nbsp;lowercase letters</li>
 </ul>
-
-<p>&nbsp;</p>
 
 ### Related Topics
   [[String](../../tag/string/README.md)]

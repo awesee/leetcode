@@ -11,25 +11,31 @@
 
 ## [413. Arithmetic Slices (Medium)](https://leetcode.com/problems/arithmetic-slices "等差数列划分")
 
-<p>A sequence of number is called arithmetic if it consists of at least three elements and if the difference between any two consecutive elements is the same.</p>
+<p>A sequence of numbers is called arithmetic if it consists of at least three elements and if the difference between any two consecutive elements is the same.</p>
 
-<p>For example, these are arithmetic sequence:</p>
-<pre>1, 3, 5, 7, 9
+<p>For example, these are arithmetic sequences:</p>
+
+<pre>
+1, 3, 5, 7, 9
 7, 7, 7, 7
 3, -1, -5, -9</pre>
 
-<p>The following sequence is not arithmetic.</p> <pre>1, 1, 2, 5, 7</pre> 
-<br/>
+<p>The following sequence is not arithmetic.</p>
 
-<p>A zero-indexed array A consisting of N numbers is given. A slice of that array is any pair of integers (P, Q) such that 0 <= P < Q < N.</p>
+<pre>
+1, 1, 2, 5, 7</pre>
+&nbsp;
 
-<p>A slice (P, Q) of array A is called arithmetic if the sequence:<br/>
-    A[P], A[p + 1], ..., A[Q - 1], A[Q] is arithmetic. In particular, this means that P + 1 < Q.</p>
+<p>A zero-indexed array A consisting of N numbers is given. A slice of that array is any pair of integers (P, Q) such that 0 &lt;= P &lt; Q &lt; N.</p>
 
-<p>The function should return the number of arithmetic slices in the array A. </p>
-<br/>
+<p>A slice (P, Q) of the array A is called arithmetic if the sequence:<br />
+A[P], A[P&nbsp;+ 1], ..., A[Q - 1], A[Q] is arithmetic. In particular, this means that P + 1 &lt; Q.</p>
 
-<p><b>Example:</b>
+<p>The function should return the number of arithmetic slices in the array A.</p>
+&nbsp;
+
+<p><b>Example:</b></p>
+
 <pre>
 A = [1, 2, 3, 4]
 

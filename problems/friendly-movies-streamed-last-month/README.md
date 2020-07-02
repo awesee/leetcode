@@ -7,7 +7,7 @@
 
 [< Previous](../parallel-courses-ii "Parallel Courses II")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../path-crossing "Path Crossing")
 
 ## [1495. Friendly Movies Streamed Last Month (Easy)](https://leetcode.com/problems/friendly-movies-streamed-last-month "")
 
