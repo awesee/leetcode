@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1502 | [判断能否形成等差数列](../../problems/can-make-arithmetic-progression-from-sequence) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1498 | [满足条件的子序列数目](../../problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | [[排序](../sort/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1491 | [去掉最低工资和最高工资后的工资平均值](../../problems/average-salary-excluding-the-minimum-and-maximum-salary) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1481 | [不同整数的最少数目](../../problems/least-number-of-unique-integers-after-k-removals) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1504 | [统计全 1 子矩形](../../problems/count-submatrices-with-all-ones) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1483 | [树节点的第 K 个祖先](../../problems/kth-ancestor-of-a-tree-node) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1478 | [安排邮筒](../../problems/allocate-mailboxes) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1477 | [找两个和为目标值且不重叠的子数组](../../problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | [[动态规划](../dynamic-programming/README.md)]  | Medium |

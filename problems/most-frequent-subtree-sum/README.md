@@ -40,8 +40,8 @@ You may assume the sum of values in any subtree is in the range of 32-bit signed
 </p>
 
 ### Related Topics
-  [[Tree](../../tag/tree/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
   1. [Subtree of Another Tree](../subtree-of-another-tree) (Easy)

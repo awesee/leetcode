@@ -23,6 +23,12 @@
 &nbsp;            excluding <code>11,22,33,44,55,66,77,88,99</code>
 </pre>
 </div>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>0 &lt;= n &lt;= 8</code></li>
+</ul>
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
