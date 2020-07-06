@@ -60,14 +60,14 @@
 		"TranslatedName": "栈"
 	},
 	{
-		"Name": "Backtracking",
-		"Slug": "backtracking",
-		"TranslatedName": "回溯算法"
-	},
-	{
 		"Name": "Sort",
 		"Slug": "sort",
 		"TranslatedName": "排序"
+	},
+	{
+		"Name": "Backtracking",
+		"Slug": "backtracking",
+		"TranslatedName": "回溯算法"
 	},
 	{
 		"Name": "Bit Manipulation",
@@ -150,6 +150,11 @@
 		"TranslatedName": "树状数组"
 	},
 	{
+		"Name": "Brainteaser",
+		"Slug": "brainteaser",
+		"TranslatedName": "脑筋急转弯"
+	},
+	{
 		"Name": "Line Sweep",
 		"Slug": "line-sweep",
 		"TranslatedName": "Line Sweep"
@@ -163,11 +168,6 @@
 		"Name": "Topological Sort",
 		"Slug": "topological-sort",
 		"TranslatedName": "拓扑排序"
-	},
-	{
-		"Name": "Brainteaser",
-		"Slug": "brainteaser",
-		"TranslatedName": "脑筋急转弯"
 	},
 	{
 		"Name": "Binary Search Tree",

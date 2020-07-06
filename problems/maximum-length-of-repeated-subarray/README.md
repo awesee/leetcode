@@ -47,5 +47,5 @@ The repeated subarray with maximum length is [3, 2, 1].
 ### Hints
 <details>
 <summary>Hint 1</summary>
-运用动态规划的方法，dp[i][j] 就是是输入中 A [i:], B[j:] 所对应的答案。
+Use dynamic programming.  dp[i][j] will be the answer for inputs A[i:], B[j:].
 </details>

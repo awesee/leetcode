@@ -18,7 +18,7 @@
 <pre>
 [&quot;.-&quot;,&quot;-...&quot;,&quot;-.-.&quot;,&quot;-..&quot;,&quot;.&quot;,&quot;..-.&quot;,&quot;--.&quot;,&quot;....&quot;,&quot;..&quot;,&quot;.---&quot;,&quot;-.-&quot;,&quot;.-..&quot;,&quot;--&quot;,&quot;-.&quot;,&quot;---&quot;,&quot;.--.&quot;,&quot;--.-&quot;,&quot;.-.&quot;,&quot;...&quot;,&quot;-&quot;,&quot;..-&quot;,&quot;...-&quot;,&quot;.--&quot;,&quot;-..-&quot;,&quot;-.--&quot;,&quot;--..&quot;]</pre>
 
-<p>Now, given a list of words, each word can be written as a concatenation of the Morse code of each letter. For example, &quot;cba&quot; can be written as &quot;-.-..--...&quot;, (which is the concatenation &quot;-.-.&quot; + &quot;-...&quot; + &quot;.-&quot;). We&#39;ll call such a concatenation, the transformation&nbsp;of a word.</p>
+<p>Now, given a list of words, each word can be written as a concatenation of the Morse code of each letter. For example, &quot;cab&quot; can be written as &quot;-.-..--...&quot;, (which is the concatenation &quot;-.-.&quot; + &quot;.-&quot; + &quot;<code>-...</code>&quot;). We&#39;ll call such a concatenation, the transformation&nbsp;of a word.</p>
 
 <p>Return the number of different transformations among all words we have.</p>
 

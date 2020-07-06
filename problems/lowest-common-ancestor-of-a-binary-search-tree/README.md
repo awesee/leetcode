@@ -36,8 +36,7 @@
 </pre>
 
 <p>&nbsp;</p>
-
-<p><strong>Note:</strong></p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
 	<li>All of the nodes&#39; values will be unique.</li>

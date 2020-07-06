@@ -7,7 +7,7 @@
 
 [< Previous](../number-of-subsequences-that-satisfy-the-given-sum-condition "Number of Subsequences That Satisfy the Given Sum Condition")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../design-a-file-sharing-system "Design a File Sharing System")
 
 ## [1499. Max Value of Equation (Hard)](https://leetcode.com/problems/max-value-of-equation "满足不等式的最大值")
 
