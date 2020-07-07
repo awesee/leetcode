@@ -31,6 +31,13 @@ func TestDestCity(t *testing.T) {
 			},
 			want: "Z",
 		},
+		{
+			in: [][]string{
+				{"A", "B"},
+				{"B", "A"},
+			},
+			want: "",
+		},
 	}
 	for _, tt := range tests {
 		got := destCity(tt.in)
