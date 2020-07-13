@@ -7,7 +7,7 @@
 
 [< Previous](../count-submatrices-with-all-ones "Count Submatrices With All Ones")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../find-root-of-n-ary-tree "Find Root of N-Ary Tree")
 
 ## [1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits (Hard)](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits "最多 K 次交换相邻数位后得到的最小整数")
 

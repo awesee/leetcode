@@ -37,7 +37,7 @@ Now we have segments [0,2] + [2,8] + [8,10] which cover the sporting event [0, 1
 <strong>Input: </strong>clips = <span id="example-input-2-1">[[0,1],[1,2]]</span>, T = <span id="example-input-2-2">5</span>
 <strong>Output: </strong><span id="example-output-2">-1</span>
 <strong>Explanation: </strong>
-We can&#39;t cover [0,5] with only [0,1] and [0,2].
+We can&#39;t cover [0,5] with only [0,1] and [1,2].
 </pre>
 
 <p><strong>Example 3:</strong></p>
