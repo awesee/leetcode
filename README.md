@@ -70,6 +70,16 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1515">1515</span> | [Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre "服务中心的最佳位置") | [Go](problems/best-position-for-a-service-centre) | Hard |
+| <span id="1514">1514</span> | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability "概率最大的路径") | [Go](problems/path-with-maximum-probability) | Medium |
+| <span id="1513">1513</span> | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s "仅含 1 的子串数") | [Go](problems/number-of-substrings-with-only-1s) | Medium |
+| <span id="1512">1512</span> | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs "好数对的数目") | [Go](problems/number-of-good-pairs) | Easy |
+| <span id="1511">1511</span> | [Customer Order Frequency](https://leetcode.com/problems/customer-order-frequency) 🔒 | [MySQL](problems/customer-order-frequency) | Easy |
+| <span id="1510">1510</span> | [Stone Game IV](https://leetcode.com/problems/stone-game-iv "石子游戏 IV") | [Go](problems/stone-game-iv) | Hard |
+| <span id="1509">1509</span> | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves "三次操作后最大值与最小值的最小差") | [Go](problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) | Medium |
+| <span id="1508">1508</span> | [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums "子数组和排序后的区间和") | [Go](problems/range-sum-of-sorted-subarray-sums) | Medium |
+| <span id="1507">1507</span> | [Reformat Date](https://leetcode.com/problems/reformat-date "转变日期格式") | [Go](problems/reformat-date) | Easy |
+| <span id="1506">1506</span> | [Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree) 🔒 | [Go](problems/find-root-of-n-ary-tree) | Medium |
 | <span id="1505">1505</span> | [Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits "最多 K 次交换相邻数位后得到的最小整数") | [Go](problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) | Hard |
 | <span id="1504">1504</span> | [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones "统计全 1 子矩形") | [Go](problems/count-submatrices-with-all-ones) | Medium |
 | <span id="1503">1503</span> | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank "所有蚂蚁掉下来前的最后一刻") | [Go](problems/last-moment-before-all-ants-fall-out-of-a-plank) | Medium |

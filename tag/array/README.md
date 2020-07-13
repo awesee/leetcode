@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1512 | [好数对的数目](../../problems/number-of-good-pairs) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1509 | [三次操作后最大值与最小值的最小差](../../problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1508 | [子数组和排序后的区间和](../../problems/range-sum-of-sorted-subarray-sums) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1503 | [所有蚂蚁掉下来前的最后一刻](../../problems/last-moment-before-all-ants-fall-out-of-a-plank) | [[脑筋急转弯](../brainteaser/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1502 | [判断能否形成等差数列](../../problems/can-make-arithmetic-progression-from-sequence) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1500 | [Design a File Sharing System](../../problems/design-a-file-sharing-system) 🔒 | [[数组](../array/README.md)]  | Medium |

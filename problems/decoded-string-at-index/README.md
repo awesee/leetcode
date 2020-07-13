@@ -52,21 +52,21 @@ The decoded string is &quot;hahahaha&quot;.  The 5th letter is &quot;h&quot;.
 <strong>Explanation: </strong>
 The decoded string is &quot;a&quot; repeated 8301530446056247680 times.  The 1st letter is &quot;a&quot;.
 </pre>
+</div>
+</div>
+</div>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
+<ul>
 	<li><code>2 &lt;= S.length &lt;= 100</code></li>
 	<li><code>S</code>&nbsp;will only contain lowercase letters and digits <code>2</code> through <code>9</code>.</li>
 	<li><code>S</code>&nbsp;starts with a letter.</li>
 	<li><code>1 &lt;= K &lt;= 10^9</code></li>
+	<li>It&#39;s guaranteed that <code>K</code>&nbsp;is less than or equal to the length of the decoded string.</li>
 	<li>The decoded string is guaranteed to have less than <code>2^63</code> letters.</li>
-</ol>
-</div>
-</div>
-</div>
+</ul>
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]

@@ -55,14 +55,14 @@
 		"TranslatedName": "双指针"
 	},
 	{
-		"Name": "Stack",
-		"Slug": "stack",
-		"TranslatedName": "栈"
-	},
-	{
 		"Name": "Sort",
 		"Slug": "sort",
 		"TranslatedName": "排序"
+	},
+	{
+		"Name": "Stack",
+		"Slug": "stack",
+		"TranslatedName": "栈"
 	},
 	{
 		"Name": "Backtracking",
@@ -135,14 +135,14 @@
 		"TranslatedName": "队列"
 	},
 	{
-		"Name": "Minimax",
-		"Slug": "minimax",
-		"TranslatedName": "极小化极大"
-	},
-	{
 		"Name": "Geometry",
 		"Slug": "geometry",
 		"TranslatedName": "几何"
+	},
+	{
+		"Name": "Minimax",
+		"Slug": "minimax",
+		"TranslatedName": "极小化极大"
 	},
 	{
 		"Name": "Binary Indexed Tree",

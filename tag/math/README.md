@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1513 | [仅含 1 的子串数](../../problems/number-of-substrings-with-only-1s) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1512 | [好数对的数目](../../problems/number-of-good-pairs) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1497 | [检查数组对是否可以被 k 整除](../../problems/check-if-array-pairs-are-divisible-by-k) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1492 | [n 的第 k 个因子](../../problems/the-kth-factor-of-n) | [[数学](../math/README.md)]  | Medium |
 | 1478 | [安排邮筒](../../problems/allocate-mailboxes) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

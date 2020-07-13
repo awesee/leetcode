@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1513 | [仅含 1 的子串数](../../problems/number-of-substrings-with-only-1s) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1507 | [转变日期格式](../../problems/reformat-date) | [[字符串](../string/README.md)]  | Easy |
 | 1496 | [判断路径是否相交](../../problems/path-crossing) | [[字符串](../string/README.md)]  | Easy |
 | 1487 | [保证文件名唯一](../../problems/making-file-names-unique) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1461 | [检查一个字符串是否包含所有长度为 K 的二进制子串](../../problems/check-if-a-string-contains-all-binary-codes-of-size-k) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |

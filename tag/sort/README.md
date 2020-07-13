@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1509 | [三次操作后最大值与最小值的最小差](../../problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1508 | [子数组和排序后的区间和](../../problems/range-sum-of-sorted-subarray-sums) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1502 | [判断能否形成等差数列](../../problems/can-make-arithmetic-progression-from-sequence) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1498 | [满足条件的子序列数目](../../problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | [[排序](../sort/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1491 | [去掉最低工资和最高工资后的工资平均值](../../problems/average-salary-excluding-the-minimum-and-maximum-salary) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
