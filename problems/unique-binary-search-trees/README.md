@@ -28,6 +28,13 @@
    2     1         2                 3
 </pre>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= n &lt;= 19</code></li>
+</ul>
+
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

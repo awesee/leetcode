@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1519 | [子树中标签相同的节点数](../../problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1490 | [克隆 N 叉树](../../problems/clone-n-ary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1489 | [找到最小生成树里的关键边和伪关键边](../../problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Hard |
 | 1485 | [克隆含随机指针的二叉树](../../problems/clone-binary-tree-with-random-pointer) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |

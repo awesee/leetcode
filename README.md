@@ -70,6 +70,12 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1521">1521</span> | [Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target "找到最接近目标值的函数值") | [Go](problems/find-a-value-of-a-mysterious-function-closest-to-target) | Hard |
+| <span id="1520">1520</span> | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings "最多的不重叠子字符串") | [Go](problems/maximum-number-of-non-overlapping-substrings) | Medium |
+| <span id="1519">1519</span> | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label "子树中标签相同的节点数") | [Go](problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | Medium |
+| <span id="1518">1518</span> | [Water Bottles](https://leetcode.com/problems/water-bottles "换酒问题") | [Go](problems/water-bottles) | Easy |
+| <span id="1517">1517</span> | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails) 🔒 | [MySQL](problems/find-users-with-valid-e-mails) | Easy |
+| <span id="1516">1516</span> | [Move Sub-Tree of N-Ary Tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree) 🔒 | [Go](problems/move-sub-tree-of-n-ary-tree) | Hard |
 | <span id="1515">1515</span> | [Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre "服务中心的最佳位置") | [Go](problems/best-position-for-a-service-centre) | Hard |
 | <span id="1514">1514</span> | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability "概率最大的路径") | [Go](problems/path-with-maximum-probability) | Medium |
 | <span id="1513">1513</span> | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s "仅含 1 的子串数") | [Go](problems/number-of-substrings-with-only-1s) | Medium |

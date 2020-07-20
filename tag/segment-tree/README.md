@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1521 | [找到最接近目标值的函数值](../../problems/find-a-value-of-a-mysterious-function-closest-to-target) | [[位运算](../bit-manipulation/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1353 | [最多可以参加的会议数目](../../problems/maximum-number-of-events-that-can-be-attended) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[线段树](../segment-tree/README.md)]  | Medium |
 | 1157 | [子数组中占绝大多数的元素](../../problems/online-majority-element-in-subarray) | [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 850 | [矩形面积 II](../../problems/rectangle-area-ii) | [[线段树](../segment-tree/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Hard |
