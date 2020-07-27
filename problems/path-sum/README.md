@@ -39,5 +39,5 @@
   1. [Path Sum II](../path-sum-ii) (Medium)
   1. [Binary Tree Maximum Path Sum](../binary-tree-maximum-path-sum) (Hard)
   1. [Sum Root to Leaf Numbers](../sum-root-to-leaf-numbers) (Medium)
-  1. [Path Sum III](../path-sum-iii) (Easy)
+  1. [Path Sum III](../path-sum-iii) (Medium)
   1. [Path Sum IV](../path-sum-iv) (Medium)

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1531 | [压缩字符串 II](../../problems/string-compression-ii) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1510 | [石子游戏 IV](../../problems/stone-game-iv) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1504 | [统计全 1 子矩形](../../problems/count-submatrices-with-all-ones) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1483 | [树节点的第 K 个祖先](../../problems/kth-ancestor-of-a-tree-node) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

@@ -25,12 +25,14 @@ update(1, 2)
 sumRange(0, 2) -&gt; 8
 </pre>
 
-<p><b>Note:</b></p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<ol>
+<ul>
 	<li>The array is only modifiable by the <i>update</i> function.</li>
 	<li>You may assume the number of calls to <i>update</i> and <i>sumRange</i> function is distributed evenly.</li>
-</ol>
+	<li><code>0 &lt;= i &lt;= j &lt;= nums.length - 1</code></li>
+</ul>
 
 ### Related Topics
   [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
