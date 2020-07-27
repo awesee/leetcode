@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1525 | [字符串的好分割数目](../../problems/number-of-good-ways-to-split-a-string) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1521 | [找到最接近目标值的函数值](../../problems/find-a-value-of-a-mysterious-function-closest-to-target) | [[位运算](../bit-manipulation/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1486 | [数组异或操作](../../problems/xor-operation-in-an-array) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1461 | [检查一个字符串是否包含所有长度为 K 的二进制子串](../../problems/check-if-a-string-contains-all-binary-codes-of-size-k) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |

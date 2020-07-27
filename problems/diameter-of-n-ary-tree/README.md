@@ -5,16 +5,21 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits "Minimum Possible Integer After at Most K Adjacent Swaps On Digits")
+[< Previous](../find-a-value-of-a-mysterious-function-closest-to-target "Find a Value of a Mysterious Function Closest to Target")
 　　　　　　　　　　　　　　　　
-[Next >](../reformat-date "Reformat Date")
+[Next >](../count-odd-numbers-in-an-interval-range "Count Odd Numbers in an Interval Range")
 
-## [1506. Find Root of N-Ary Tree (Medium)](https://leetcode.com/problems/find-root-of-n-ary-tree "找到 N 叉树的根节点")
+## [1522. Diameter of N-Ary Tree (Medium)](https://leetcode.com/problems/diameter-of-n-ary-tree "")
 
 
 
 ### Hints
 <details>
 <summary>Hint 1</summary>
-Node with indegree 0 is the root
+For the node i, calculate the height of each of its children and keep the first and second maximum heights (max1_i , max2_i).
+</details>
+
+<details>
+<summary>Hint 2</summary>
+Check all nodes and return max( 2 + max1_i  +  max2_i ).
 </details>

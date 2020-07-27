@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1524 | [和为奇数的子数组数目](../../problems/number-of-sub-arrays-with-odd-sum) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1523 | [在区间范围内统计奇数数目](../../problems/count-odd-numbers-in-an-interval-range) | [[数学](../math/README.md)]  | Easy |
 | 1513 | [仅含 1 的子串数](../../problems/number-of-substrings-with-only-1s) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1512 | [好数对的数目](../../problems/number-of-good-pairs) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1497 | [检查数组对是否可以被 k 整除](../../problems/check-if-array-pairs-are-divisible-by-k) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |

@@ -7,7 +7,7 @@
 
 [< Previous](../path-with-maximum-probability "Path with Maximum Probability")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../move-sub-tree-of-n-ary-tree "Move Sub-Tree of N-Ary Tree")
 
 ## [1515. Best Position for a Service Centre (Hard)](https://leetcode.com/problems/best-position-for-a-service-centre "服务中心的最佳位置")
 

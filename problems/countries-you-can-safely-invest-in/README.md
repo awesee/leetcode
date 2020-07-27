@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../can-make-arithmetic-progression-from-sequence "Can Make Arithmetic Progression From Sequence")
 
-## [1501. Countries You Can Safely Invest In (Medium)](https://leetcode.com/problems/countries-you-can-safely-invest-in "")
+## [1501. Countries You Can Safely Invest In (Medium)](https://leetcode.com/problems/countries-you-can-safely-invest-in "可以放心投资的国家")
 
 

@@ -7,7 +7,7 @@
 
 [< Previous](../maximum-number-of-non-overlapping-substrings "Maximum Number of Non-Overlapping Substrings")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../diameter-of-n-ary-tree "Diameter of N-Ary Tree")
 
 ## [1521. Find a Value of a Mysterious Function Closest to Target (Hard)](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target "找到最接近目标值的函数值")
 

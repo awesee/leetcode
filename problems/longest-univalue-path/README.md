@@ -58,4 +58,4 @@
 ### Similar Questions
   1. [Binary Tree Maximum Path Sum](../binary-tree-maximum-path-sum) (Hard)
   1. [Count Univalue Subtrees](../count-univalue-subtrees) (Medium)
-  1. [Path Sum III](../path-sum-iii) (Easy)
+  1. [Path Sum III](../path-sum-iii) (Medium)

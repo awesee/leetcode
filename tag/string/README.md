@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1531 | [压缩字符串 II](../../problems/string-compression-ii) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1529 | [灯泡开关 IV](../../problems/bulb-switcher-iv) | [[字符串](../string/README.md)]  | Medium |
+| 1525 | [字符串的好分割数目](../../problems/number-of-good-ways-to-split-a-string) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1513 | [仅含 1 的子串数](../../problems/number-of-substrings-with-only-1s) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1507 | [转变日期格式](../../problems/reformat-date) | [[字符串](../string/README.md)]  | Easy |
 | 1496 | [判断路径是否相交](../../problems/path-crossing) | [[字符串](../string/README.md)]  | Easy |

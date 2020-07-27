@@ -45,5 +45,5 @@
 ### Similar Questions
   1. [Path Sum](../path-sum) (Easy)
   1. [Binary Tree Paths](../binary-tree-paths) (Easy)
-  1. [Path Sum III](../path-sum-iii) (Easy)
+  1. [Path Sum III](../path-sum-iii) (Medium)
   1. [Path Sum IV](../path-sum-iv) (Medium)

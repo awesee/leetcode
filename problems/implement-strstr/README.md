@@ -35,6 +35,13 @@
 
 <p>For the purpose of this problem, we will return 0 when <code>needle</code> is an empty string. This is consistent to C&#39;s&nbsp;<a href="http://www.cplusplus.com/reference/cstring/strstr/" target="_blank">strstr()</a> and Java&#39;s&nbsp;<a href="https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#indexOf(java.lang.String)" target="_blank">indexOf()</a>.</p>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>haystack</code> and&nbsp;<code>needle</code> consist only of lowercase English characters.</li>
+</ul>
+
 ### Related Topics
   [[Two Pointers](../../tag/two-pointers/README.md)]
   [[String](../../tag/string/README.md)]

@@ -62,4 +62,4 @@ The path sum is (3 + 1) = 4.
   1. [Path Sum](../path-sum) (Easy)
   1. [Path Sum II](../path-sum-ii) (Medium)
   1. [Binary Tree Maximum Path Sum](../binary-tree-maximum-path-sum) (Hard)
-  1. [Path Sum III](../path-sum-iii) (Easy)
+  1. [Path Sum III](../path-sum-iii) (Medium)

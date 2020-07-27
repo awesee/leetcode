@@ -5,10 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../parallel-courses-ii "Parallel Courses II")
+[< Previous](../minimum-number-of-increments-on-subarrays-to-form-a-target-array "Minimum Number of Increments on Subarrays to Form a Target Array")
 　　　　　　　　　　　　　　　　
-[Next >](../path-crossing "Path Crossing")
+[Next >](../shuffle-string "Shuffle String")
 
-## [1495. Friendly Movies Streamed Last Month (Easy)](https://leetcode.com/problems/friendly-movies-streamed-last-month "上月播放的儿童适宜电影")
+## [1527. Patients With a Condition (Easy)](https://leetcode.com/problems/patients-with-a-condition "")
 
 

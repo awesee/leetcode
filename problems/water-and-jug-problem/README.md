@@ -36,6 +36,14 @@ Output: True
 Input: x = 2, y = 6, z = 5
 Output: False
 </pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>0 &lt;= x &lt;= 10^6</code></li>
+	<li><code>0 &lt;= y&nbsp;&lt;= 10^6</code></li>
+	<li><code>0 &lt;= z&nbsp;&lt;= 10^6</code></li>
+</ul>
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]

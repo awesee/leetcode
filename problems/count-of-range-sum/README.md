@@ -24,6 +24,12 @@ A naive algorithm of <i>O</i>(<i>n</i><sup>2</sup>) is trivial. You MUST do bett
 <strong>Output: </strong>3 
 <strong>Explanation: </strong>The three ranges are : <code>[0,0]</code>, <code>[2,2]</code>, <code>[0,2]</code> and their respective sums are: <code>-2, -1, 2</code>.
 </pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>0 &lt;= nums.length &lt;= 10^4</code></li>
+</ul>
 
 ### Related Topics
   [[Sort](../../tag/sort/README.md)]
