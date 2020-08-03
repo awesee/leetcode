@@ -50,7 +50,7 @@
 
 ### Similar Questions
   1. [Decode String](../decode-string) (Medium)
-  1. [Letter Case Permutation](../letter-case-permutation) (Easy)
+  1. [Letter Case Permutation](../letter-case-permutation) (Medium)
   1. [Brace Expansion II](../brace-expansion-ii) (Hard)
 
 ### Hints

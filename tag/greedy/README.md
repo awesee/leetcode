@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1536 | [排布二进制网格的最少交换次数](../../problems/minimum-swaps-to-arrange-a-binary-grid) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1520 | [最多的不重叠子字符串](../../problems/maximum-number-of-non-overlapping-substrings) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1518 | [换酒问题](../../problems/water-bottles) | [[贪心算法](../greedy/README.md)]  | Easy |
 | 1505 | [最多 K 次交换相邻数位后得到的最小整数](../../problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) | [[贪心算法](../greedy/README.md)]  | Hard |

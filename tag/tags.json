@@ -50,14 +50,14 @@
 		"TranslatedName": "广度优先搜索"
 	},
 	{
-		"Name": "Two Pointers",
-		"Slug": "two-pointers",
-		"TranslatedName": "双指针"
-	},
-	{
 		"Name": "Sort",
 		"Slug": "sort",
 		"TranslatedName": "排序"
+	},
+	{
+		"Name": "Two Pointers",
+		"Slug": "two-pointers",
+		"TranslatedName": "双指针"
 	},
 	{
 		"Name": "Stack",

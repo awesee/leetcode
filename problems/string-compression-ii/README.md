@@ -7,7 +7,7 @@
 
 [< Previous](../number-of-good-leaf-nodes-pairs "Number of Good Leaf Nodes Pairs")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../the-most-recent-three-orders "The Most Recent Three Orders")
 
 ## [1531. String Compression II (Hard)](https://leetcode.com/problems/string-compression-ii "压缩字符串 II")
 

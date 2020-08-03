@@ -30,7 +30,7 @@
 | 1131 | [绝对值表达式的最大值](../../problems/maximum-of-absolute-value-expression) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1125 | [最小的必要团队](../../problems/smallest-sufficient-team) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 898 | [子数组按位或操作](../../problems/bitwise-ors-of-subarrays) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 784 | [字母大小写全排列](../../problems/letter-case-permutation) | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Easy |
+| 784 | [字母大小写全排列](../../problems/letter-case-permutation) | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 762 | [二进制表示中质数个计算置位](../../problems/prime-number-of-set-bits-in-binary-representation) | [[位运算](../bit-manipulation/README.md)]  | Easy |
 | 756 | [金字塔转换矩阵](../../problems/pyramid-transition-matrix) | [[位运算](../bit-manipulation/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 751 | [IP 到 CIDR](../../problems/ip-to-cidr) 🔒 | [[位运算](../bit-manipulation/README.md)]  | Easy |

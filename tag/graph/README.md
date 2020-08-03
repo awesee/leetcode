@@ -34,6 +34,7 @@
 | 990 | [等式方程的可满足性](../../problems/satisfiability-of-equality-equations) | [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
 | 959 | [由斜杠划分区域](../../problems/regions-cut-by-slashes) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
 | 928 | [尽量减少恶意软件的传播 II](../../problems/minimize-malware-spread-ii) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
+| 886 | [可能的二分法](../../problems/possible-bipartition) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 854 | [相似度为 K 的字符串](../../problems/k-similar-strings) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Hard |
 | 841 | [钥匙和房间](../../problems/keys-and-rooms) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 839 | [相似字符串组](../../problems/similar-string-groups) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |

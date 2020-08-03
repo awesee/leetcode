@@ -15,6 +15,8 @@
 
 <p>If the fractional part is repeating, enclose the repeating part in parentheses.</p>
 
+<p>If multiple answers are possible, just return any of them.</p>
+
 <p><strong>Example 1:</strong></p>
 
 <pre>
