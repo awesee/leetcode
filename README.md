@@ -70,6 +70,12 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1537">1537</span> | [Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score "最大得分") | [Go](problems/get-the-maximum-score) | Hard |
+| <span id="1536">1536</span> | [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid "排布二进制网格的最少交换次数") | [Go](problems/minimum-swaps-to-arrange-a-binary-grid) | Medium |
+| <span id="1535">1535</span> | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game "找出数组游戏的赢家") | [Go](problems/find-the-winner-of-an-array-game) | Medium |
+| <span id="1534">1534</span> | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets "统计好三元组") | [Go](problems/count-good-triplets) | Easy |
+| <span id="1533">1533</span> | [Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer) 🔒 | [Go](problems/find-the-index-of-the-large-integer) | Medium |
+| <span id="1532">1532</span> | [The Most Recent Three Orders](https://leetcode.com/problems/the-most-recent-three-orders) 🔒 | [MySQL](problems/the-most-recent-three-orders) | Medium |
 | <span id="1531">1531</span> | [String Compression II](https://leetcode.com/problems/string-compression-ii "压缩字符串 II") | [Go](problems/string-compression-ii) | Hard |
 | <span id="1530">1530</span> | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs "好叶子节点对的数量") | [Go](problems/number-of-good-leaf-nodes-pairs) | Medium |
 | <span id="1529">1529</span> | [Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv "灯泡开关 IV") | [Go](problems/bulb-switcher-iv) | Medium |
@@ -189,7 +195,7 @@ LeetCode Problems' Solutions
 | <span id="1415">1415</span> | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n "长度为 n 的开心字符串中字典序第 k 小的字符串") | [Go](problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | Medium |
 | <span id="1414">1414</span> | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k "和为 K 的最少斐波那契数字数目") | [Go](problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) | Medium |
 | <span id="1413">1413</span> | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum "逐步求和得到正数的最小值") | [Go](problems/minimum-value-to-get-positive-step-by-step-sum) | Easy |
-| <span id="1412">1412</span> | [Find the Quiet Students in All Exams](https://leetcode.com/problems/find-the-quiet-students-in-all-exams "查找成绩处于中游的的学生") 🔒 | [MySQL](problems/find-the-quiet-students-in-all-exams) | Hard |
+| <span id="1412">1412</span> | [Find the Quiet Students in All Exams](https://leetcode.com/problems/find-the-quiet-students-in-all-exams "查找成绩处于中游的学生") 🔒 | [MySQL](problems/find-the-quiet-students-in-all-exams) | Hard |
 | <span id="1411">1411</span> | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid "给 N x 3 网格图涂色的方案数") | [Go](problems/number-of-ways-to-paint-n-3-grid) | Hard |
 | <span id="1410">1410</span> | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser "HTML 实体解析器") | [Go](problems/html-entity-parser) | Medium |
 | <span id="1409">1409</span> | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key "查询带键的排列") | [Go](problems/queries-on-a-permutation-with-key) | Medium |

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../is-graph-bipartite "Is Graph Bipartite?")
 
-## [784. Letter Case Permutation (Easy)](https://leetcode.com/problems/letter-case-permutation "字母大小写全排列")
+## [784. Letter Case Permutation (Medium)](https://leetcode.com/problems/letter-case-permutation "字母大小写全排列")
 
 <p>Given a string S, we can transform every letter individually&nbsp;to be lowercase or uppercase to create another string.&nbsp; Return a list of all possible strings we could create.</p>
 
@@ -25,7 +25,8 @@
 <strong>Output:</strong> [&quot;12345&quot;]
 </pre>
 
-<p><strong>Note:</strong></p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
 	<li><code>S</code> will be a string with length between <code>1</code> and <code>12</code>.</li>

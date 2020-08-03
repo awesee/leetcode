@@ -5,10 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../number-of-ways-to-paint-n-3-grid "Number of Ways to Paint N × 3 Grid")
+[< Previous](../string-compression-ii "String Compression II")
 　　　　　　　　　　　　　　　　
-[Next >](../minimum-value-to-get-positive-step-by-step-sum "Minimum Value to Get Positive Step by Step Sum")
+[Next >](../find-the-index-of-the-large-integer "Find the Index of the Large Integer")
 
-## [1412. Find the Quiet Students in All Exams (Hard)](https://leetcode.com/problems/find-the-quiet-students-in-all-exams "查找成绩处于中游的学生")
+## [1532. The Most Recent Three Orders (Medium)](https://leetcode.com/problems/the-most-recent-three-orders "")
 
 

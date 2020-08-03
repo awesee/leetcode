@@ -39,4 +39,4 @@
 ### Similar Questions
   1. [Subsets II](../subsets-ii) (Medium)
   1. [Generalized Abbreviation](../generalized-abbreviation) (Medium)
-  1. [Letter Case Permutation](../letter-case-permutation) (Easy)
+  1. [Letter Case Permutation](../letter-case-permutation) (Medium)

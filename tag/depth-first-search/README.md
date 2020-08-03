@@ -55,7 +55,7 @@
 | 928 | [尽量减少恶意软件的传播 II](../../problems/minimize-malware-spread-ii) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
 | 924 | [尽量减少恶意软件的传播](../../problems/minimize-malware-spread) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Hard |
 | 897 | [递增顺序查找树](../../problems/increasing-order-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
-| 886 | [可能的二分法](../../problems/possible-bipartition) | [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 886 | [可能的二分法](../../problems/possible-bipartition) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 872 | [叶子相似的树](../../problems/leaf-similar-trees) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
 | 863 | [二叉树中所有距离为 K 的结点](../../problems/all-nodes-distance-k-in-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 851 | [喧闹和富有](../../problems/loud-and-rich) | [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
