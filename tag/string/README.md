@@ -9,6 +9,11 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1545 | [找出第 N 个二进制字符串中的第 K 位](../../problems/find-kth-bit-in-nth-binary-string) | [[字符串](../string/README.md)]  | Medium |
+| 1544 | [整理字符串](../../problems/make-the-string-great) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1542 | [找出最长的超赞子字符串](../../problems/find-longest-awesome-substring) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 1541 | [平衡括号字符串的最少插入次数](../../problems/minimum-insertions-to-balance-a-parentheses-string) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1540 | [K 次操作转变字符串](../../problems/can-convert-string-in-k-moves) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1531 | [压缩字符串 II](../../problems/string-compression-ii) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1529 | [灯泡开关 IV](../../problems/bulb-switcher-iv) | [[字符串](../string/README.md)]  | Medium |
 | 1525 | [字符串的好分割数目](../../problems/number-of-good-ways-to-split-a-string) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |

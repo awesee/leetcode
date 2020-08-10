@@ -70,6 +70,16 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1547">1547</span> | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick "切棍子的最小成本") | [Go](problems/minimum-cost-to-cut-a-stick) | Hard |
+| <span id="1546">1546</span> | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target "和为目标值的最大数目不重叠非空子数组数目") | [Go](problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) | Medium |
+| <span id="1545">1545</span> | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string "找出第 N 个二进制字符串中的第 K 位") | [Go](problems/find-kth-bit-in-nth-binary-string) | Medium |
+| <span id="1544">1544</span> | [Make The String Great](https://leetcode.com/problems/make-the-string-great "整理字符串") | [Go](problems/make-the-string-great) | Easy |
+| <span id="1543">1543</span> | [Fix Product Name Format](https://leetcode.com/problems/fix-product-name-format) 🔒 | [MySQL](problems/fix-product-name-format) | Easy |
+| <span id="1542">1542</span> | [Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring "找出最长的超赞子字符串") | [Go](problems/find-longest-awesome-substring) | Hard |
+| <span id="1541">1541</span> | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string "平衡括号字符串的最少插入次数") | [Go](problems/minimum-insertions-to-balance-a-parentheses-string) | Medium |
+| <span id="1540">1540</span> | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves "K 次操作转变字符串") | [Go](problems/can-convert-string-in-k-moves) | Medium |
+| <span id="1539">1539</span> | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number "第 k 个缺失的正整数") | [Go](problems/kth-missing-positive-number) | Easy |
+| <span id="1538">1538</span> | [Guess the Majority in a Hidden Array](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array) 🔒 | [Go](problems/guess-the-majority-in-a-hidden-array) | Medium |
 | <span id="1537">1537</span> | [Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score "最大得分") | [Go](problems/get-the-maximum-score) | Hard |
 | <span id="1536">1536</span> | [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid "排布二进制网格的最少交换次数") | [Go](problems/minimum-swaps-to-arrange-a-binary-grid) | Medium |
 | <span id="1535">1535</span> | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game "找出数组游戏的赢家") | [Go](problems/find-the-winner-of-an-array-game) | Medium |

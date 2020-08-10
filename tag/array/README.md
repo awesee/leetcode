@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1539 | [第 k 个缺失的正整数](../../problems/kth-missing-positive-number) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 1535 | [找出数组游戏的赢家](../../problems/find-the-winner-of-an-array-game) | [[数组](../array/README.md)]  | Medium |
 | 1534 | [统计好三元组](../../problems/count-good-triplets) | [[数组](../array/README.md)]  | Easy |
 | 1524 | [和为奇数的子数组数目](../../problems/number-of-sub-arrays-with-odd-sum) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |

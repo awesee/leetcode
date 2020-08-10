@@ -50,7 +50,7 @@ The diagram on the right represents the answer.
 <p><strong>Note: </strong></p>
 
 <ul>
-	<li>The binary tree&nbsp;will&nbsp;have&nbsp;at&nbsp;most <code>100 nodes</code>.</li>
+	<li>The binary tree&nbsp;will&nbsp;have&nbsp;at&nbsp;most <code>200 nodes</code>.</li>
 	<li>The value of each node will only be <code>0</code> or <code>1</code>.</li>
 </ul>
 
