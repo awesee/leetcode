@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1547 | [切棍子的最小成本](../../problems/minimum-cost-to-cut-a-stick) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1546 | [和为目标值的最大数目不重叠非空子数组数目](../../problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1537 | [最大得分](../../problems/get-the-maximum-score) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1531 | [压缩字符串 II](../../problems/string-compression-ii) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1510 | [石子游戏 IV](../../problems/stone-game-iv) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

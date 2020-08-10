@@ -7,7 +7,7 @@
 
 [< Previous](../minimum-swaps-to-arrange-a-binary-grid "Minimum Swaps to Arrange a Binary Grid")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../guess-the-majority-in-a-hidden-array "Guess the Majority in a Hidden Array")
 
 ## [1537. Get the Maximum Score (Hard)](https://leetcode.com/problems/get-the-maximum-score "最大得分")
 
