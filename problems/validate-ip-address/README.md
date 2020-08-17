@@ -11,17 +11,21 @@
 
 ## [468. Validate IP Address (Medium)](https://leetcode.com/problems/validate-ip-address "验证IP地址")
 
-<p>Write a function to check whether an input string is a valid IPv4 address or IPv6 address or neither.</p>
+<p>Given a string <code>IP</code>. We need to check If <code>IP</code> is&nbsp;a valid <strong>IPv4</strong> address, valid&nbsp;<strong>IPv6</strong> address or <strong>not a valid IP address</strong>.</p>
 
-<p><b>IPv4</b> addresses are canonically represented in dot-decimal notation, which consists of four decimal numbers, each ranging from 0 to 255, separated by dots (&quot;.&quot;), e.g.,<code>172.16.254.1</code>;</p>
+<p>Return <code>&quot;IPv4&quot;</code> if IP is a valid IPv4 address,&nbsp;<code>&quot;IPv6&quot;</code> if&nbsp;IP is a valid IPv6 address or <code>&quot;Neither&quot;</code> if IP is not a valid IP of any type.</p>
 
-<p>Besides, leading zeros in the IPv4 is invalid. For example, the address <code>172.16.254.01</code> is invalid.</p>
+<p><strong>A valid IPv4</strong> address&nbsp;is an IP in the form <code>&quot;x<sub>1</sub>.x<sub>2</sub>.x<sub>3</sub>.x<sub>4</sub>&quot;</code> where <code>0 &lt;=&nbsp;x<sub><span style="font-size: 10.8333px;">i</span></sub>&nbsp;&lt;= 255</code> and <code>x<sub>i</sub></code> <strong>cannot contain</strong> leading zeros. For example, <code>&quot;192.168.1.1&quot;</code> and&nbsp;<code>&quot;192.168.1.0&quot;</code> are valid IPv4 addresses but <code>&quot;192.168.01.1&quot;</code>, <code>&quot;192.168.1.00&quot;</code>&nbsp;and <code>&quot;192.168@1.1&quot;</code> are invalid IPv4 adresses.</p>
 
-<p><b>IPv6</b> addresses are represented as eight groups of four hexadecimal digits, each group representing 16 bits. The groups are separated by colons (&quot;:&quot;). For example, the address <code>2001:0db8:85a3:0000:0000:8a2e:0370:7334</code> is a valid one. Also, we could omit some leading zeros among four hexadecimal digits and some low-case characters in the address to upper-case ones, so <code>2001:db8:85a3:0:0:8A2E:0370:7334</code> is also a valid IPv6 address(Omit leading zeros and using upper cases).</p>
+<p><strong>A valid IPv6</strong> address&nbsp;is an IP in the form <code>&quot;x<sub>1</sub>:x<sub>2</sub>:x<sub>3</sub>:x<sub>4:</sub>x<sub>5</sub>:x<sub>6</sub>:x<sub>7</sub>:x<sub>8</sub>&quot;</code> where:</p>
 
-<p>However, we don&#39;t replace a consecutive group of zero value with a single empty group using two consecutive colons (::) to pursue simplicity. For example, <code>2001:0db8:85a3::8A2E:0370:7334</code> is an invalid IPv6 address.</p>
+<ul>
+	<li><code>1 &lt;= x<sub>i</sub>.length &lt;= 4</code></li>
+	<li><code>x<sub>i</sub></code> is <strong>hexadecimal string</strong> whcih may contain digits, lower-case English letter (<code>&#39;a&#39;</code> to <code>&#39;f&#39;</code>) <strong>and/or</strong> upper-case English letters (<code>&#39;A&#39;</code> to <code>&#39;F&#39;</code>).</li>
+	<li>Leading zeros are allowed in <code>x<sub>i</sub></code>.</li>
+</ul>
 
-<p>Besides, extra leading zeros in the IPv6 is also invalid. For example, the address <code>02001:0db8:85a3:0000:0000:8a2e:0370:7334</code> is invalid.</p>
+<p>For example,&nbsp;&quot;<code>2001:0db8:85a3:0000:0000:8a2e:0370:7334&quot;</code>&nbsp;and &quot;<code>2001:db8:85a3:0:0:8A2E:0370:7334&quot;</code> are valid IPv6 addresses but &quot;<code>2001:0db8:85a3::8A2E:037j:7334&quot;</code>&nbsp;and &quot;<code>02001:0db8:85a3:0000:0000:8a2e:0370:7334&quot;</code> are invalid IPv6 addresses.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -48,11 +52,25 @@
 <strong>Explanation:</strong> This is neither a IPv4 address nor a IPv6 address.
 </pre>
 
+<p><strong>Example 4:</strong></p>
+
+<pre>
+<strong>Input:</strong> IP = &quot;2001:0db8:85a3:0:0:8A2E:0370:7334:&quot;
+<strong>Output:</strong> &quot;Neither&quot;
+</pre>
+
+<p><strong>Example 5:</strong></p>
+
+<pre>
+<strong>Input:</strong> IP = &quot;1e1.4.5.6&quot;
+<strong>Output:</strong> &quot;Neither&quot;
+</pre>
+
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>IP</code> consists only of English letters, digits and the characters &quot;.&quot; and &quot;:&quot;.</li>
+	<li><code>IP</code> consists only of English letters, digits and the characters <code>&#39;.&#39;</code> and <code>&#39;:&#39;</code>.</li>
 </ul>
 
 ### Related Topics

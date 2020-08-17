@@ -7,7 +7,7 @@
 
 [< Previous](../stepping-numbers "Stepping Numbers")
 　　　　　　　　　　　　　　　　
-[Next >](../play-with-chips "Play with Chips")
+[Next >](../minimum-cost-to-move-chips-to-the-same-position "Minimum Cost to Move Chips to The Same Position")
 
 ## [1216. Valid Palindrome III (Hard)](https://leetcode.com/problems/valid-palindrome-iii "验证回文字符串 III")
 

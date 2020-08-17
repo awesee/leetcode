@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../number-of-good-pairs "Number of Good Pairs")
 
-## [1511. Customer Order Frequency (Easy)](https://leetcode.com/problems/customer-order-frequency "")
+## [1511. Customer Order Frequency (Easy)](https://leetcode.com/problems/customer-order-frequency "消费者下单频率")
 
 

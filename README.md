@@ -70,11 +70,17 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1553">1553</span> | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges "吃掉 N 个橘子的最少天数") | [Go](problems/minimum-number-of-days-to-eat-n-oranges) | Hard |
+| <span id="1552">1552</span> | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls "两球之间的磁力") | [Go](problems/magnetic-force-between-two-balls) | Medium |
+| <span id="1551">1551</span> | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal "使数组中所有元素相等的最小操作数") | [Go](problems/minimum-operations-to-make-array-equal) | Medium |
+| <span id="1550">1550</span> | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds "存在连续三个奇数的数组") | [Go](problems/three-consecutive-odds) | Easy |
+| <span id="1549">1549</span> | [The Most Recent Orders for Each Product](https://leetcode.com/problems/the-most-recent-orders-for-each-product) 🔒 | [MySQL](problems/the-most-recent-orders-for-each-product) | Medium |
+| <span id="1548">1548</span> | [The Most Similar Path in a Graph](https://leetcode.com/problems/the-most-similar-path-in-a-graph) 🔒 | [Go](problems/the-most-similar-path-in-a-graph) | Hard |
 | <span id="1547">1547</span> | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick "切棍子的最小成本") | [Go](problems/minimum-cost-to-cut-a-stick) | Hard |
 | <span id="1546">1546</span> | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target "和为目标值的最大数目不重叠非空子数组数目") | [Go](problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) | Medium |
 | <span id="1545">1545</span> | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string "找出第 N 个二进制字符串中的第 K 位") | [Go](problems/find-kth-bit-in-nth-binary-string) | Medium |
 | <span id="1544">1544</span> | [Make The String Great](https://leetcode.com/problems/make-the-string-great "整理字符串") | [Go](problems/make-the-string-great) | Easy |
-| <span id="1543">1543</span> | [Fix Product Name Format](https://leetcode.com/problems/fix-product-name-format) 🔒 | [MySQL](problems/fix-product-name-format) | Easy |
+| <span id="1543">1543</span> | [Fix Product Name Format](https://leetcode.com/problems/fix-product-name-format "产品名称格式修复") 🔒 | [MySQL](problems/fix-product-name-format) | Easy |
 | <span id="1542">1542</span> | [Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring "找出最长的超赞子字符串") | [Go](problems/find-longest-awesome-substring) | Hard |
 | <span id="1541">1541</span> | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string "平衡括号字符串的最少插入次数") | [Go](problems/minimum-insertions-to-balance-a-parentheses-string) | Medium |
 | <span id="1540">1540</span> | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves "K 次操作转变字符串") | [Go](problems/can-convert-string-in-k-moves) | Medium |
@@ -100,13 +106,13 @@ LeetCode Problems' Solutions
 | <span id="1520">1520</span> | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings "最多的不重叠子字符串") | [Go](problems/maximum-number-of-non-overlapping-substrings) | Hard |
 | <span id="1519">1519</span> | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label "子树中标签相同的节点数") | [Go](problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | Medium |
 | <span id="1518">1518</span> | [Water Bottles](https://leetcode.com/problems/water-bottles "换酒问题") | [Go](problems/water-bottles) | Easy |
-| <span id="1517">1517</span> | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails) 🔒 | [MySQL](problems/find-users-with-valid-e-mails) | Easy |
-| <span id="1516">1516</span> | [Move Sub-Tree of N-Ary Tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree) 🔒 | [Go](problems/move-sub-tree-of-n-ary-tree) | Hard |
+| <span id="1517">1517</span> | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails "查找拥有有效邮箱的用户") 🔒 | [MySQL](problems/find-users-with-valid-e-mails) | Easy |
+| <span id="1516">1516</span> | [Move Sub-Tree of N-Ary Tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree "移动 N 叉树的子树") 🔒 | [Go](problems/move-sub-tree-of-n-ary-tree) | Hard |
 | <span id="1515">1515</span> | [Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre "服务中心的最佳位置") | [Go](problems/best-position-for-a-service-centre) | Hard |
 | <span id="1514">1514</span> | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability "概率最大的路径") | [Go](problems/path-with-maximum-probability) | Medium |
 | <span id="1513">1513</span> | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s "仅含 1 的子串数") | [Go](problems/number-of-substrings-with-only-1s) | Medium |
 | <span id="1512">1512</span> | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs "好数对的数目") | [Go](problems/number-of-good-pairs) | Easy |
-| <span id="1511">1511</span> | [Customer Order Frequency](https://leetcode.com/problems/customer-order-frequency) 🔒 | [MySQL](problems/customer-order-frequency) | Easy |
+| <span id="1511">1511</span> | [Customer Order Frequency](https://leetcode.com/problems/customer-order-frequency "消费者下单频率") 🔒 | [MySQL](problems/customer-order-frequency) | Easy |
 | <span id="1510">1510</span> | [Stone Game IV](https://leetcode.com/problems/stone-game-iv "石子游戏 IV") | [Go](problems/stone-game-iv) | Hard |
 | <span id="1509">1509</span> | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves "三次操作后最大值与最小值的最小差") | [Go](problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) | Medium |
 | <span id="1508">1508</span> | [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums "子数组和排序后的区间和") | [Go](problems/range-sum-of-sorted-subarray-sums) | Medium |
@@ -400,7 +406,7 @@ LeetCode Problems' Solutions
 | <span id="1220">1220</span> | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation "统计元音字母序列的数目") | [Go](problems/count-vowels-permutation) | Hard |
 | <span id="1219">1219</span> | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold "黄金矿工") | [Go](problems/path-with-maximum-gold) | Medium |
 | <span id="1218">1218</span> | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference "最长定差子序列") | [Go](problems/longest-arithmetic-subsequence-of-given-difference) | Medium |
-| <span id="1217">1217</span> | [Play with Chips](https://leetcode.com/problems/play-with-chips "玩筹码") | [Go](problems/play-with-chips) | Easy |
+| <span id="1217">1217</span> | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position "玩筹码") | [Go](problems/minimum-cost-to-move-chips-to-the-same-position) | Easy |
 | <span id="1216">1216</span> | [Valid Palindrome III](https://leetcode.com/problems/valid-palindrome-iii "验证回文字符串 III") 🔒 | [Go](problems/valid-palindrome-iii) | Hard |
 | <span id="1215">1215</span> | [Stepping Numbers](https://leetcode.com/problems/stepping-numbers "步进数") 🔒 | [Go](problems/stepping-numbers) | Medium |
 | <span id="1214">1214</span> | [Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts "查找两棵二叉搜索树之和") 🔒 | [Go](problems/two-sum-bsts) | Medium |

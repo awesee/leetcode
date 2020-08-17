@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1548 | [The Most Similar Path in a Graph](../../problems/the-most-similar-path-in-a-graph) 🔒 | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1514 | [概率最大的路径](../../problems/path-with-maximum-probability) | [[图](../graph/README.md)]  | Medium |
 | 1494 | [并行课程 II](../../problems/parallel-courses-ii) | [[图](../graph/README.md)]  | Hard |
 | 1462 | [课程安排 IV](../../problems/course-schedule-iv) | [[图](../graph/README.md)]  | Medium |

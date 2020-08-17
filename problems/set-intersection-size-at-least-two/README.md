@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../bold-words-in-string "Bold Words in String")
 
-## [757. Set Intersection Size At Least Two (Hard)](https://leetcode.com/problems/set-intersection-size-at-least-two " 设置交集大小至少为2")
+## [757. Set Intersection Size At Least Two (Hard)](https://leetcode.com/problems/set-intersection-size-at-least-two "设置交集大小至少为2")
 
 <p>
 An integer interval <code>[a, b]</code> (for integers <code>a < b</code>) is a set of all consecutive integers from <code>a</code> to <code>b</code>, including <code>a</code> and <code>b</code>.

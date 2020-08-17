@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1551 | [使数组中所有元素相等的最小操作数](../../problems/minimum-operations-to-make-array-equal) | [[数学](../math/README.md)]  | Medium |
 | 1524 | [和为奇数的子数组数目](../../problems/number-of-sub-arrays-with-odd-sum) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1523 | [在区间范围内统计奇数数目](../../problems/count-odd-numbers-in-an-interval-range) | [[数学](../math/README.md)]  | Easy |
 | 1513 | [仅含 1 的子串数](../../problems/number-of-substrings-with-only-1s) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
@@ -44,7 +45,7 @@
 | 1228 | [等差数列中缺失的数字](../../problems/missing-number-in-arithmetic-progression) 🔒 | [[数学](../math/README.md)]  | Easy |
 | 1227 | [飞机座位分配概率](../../problems/airplane-seat-assignment-probability) | [[脑筋急转弯](../brainteaser/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1218 | [最长定差子序列](../../problems/longest-arithmetic-subsequence-of-given-difference) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 1217 | [玩筹码](../../problems/play-with-chips) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1217 | [玩筹码](../../problems/minimum-cost-to-move-chips-to-the-same-position) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1201 | [丑数 III](../../problems/ugly-number-iii) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1199 | [建造街区的最短时间](../../problems/minimum-time-to-build-blocks) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1183 | [矩阵中 1 的最大数量](../../problems/maximum-number-of-ones) 🔒 | [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Hard |

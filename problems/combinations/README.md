@@ -13,10 +13,13 @@
 
 <p>Given two integers <em>n</em> and <em>k</em>, return all possible combinations of <em>k</em> numbers out of 1 ... <em>n</em>.</p>
 
-<p><strong>Example:</strong></p>
+<p>You may return the answer in <strong>any order</strong>.</p>
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong>&nbsp;n = 4, k = 2
+<strong>Input:</strong> n = 4, k = 2
 <strong>Output:</strong>
 [
   [2,4],
@@ -27,6 +30,21 @@
   [1,4],
 ]
 </pre>
+
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 1, k = 1
+<strong>Output:</strong> [[1]]
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= n &lt;= 20</code></li>
+	<li><code>1 &lt;= k &lt;= n</code></li>
+</ul>
 
 ### Related Topics
   [[Backtracking](../../tag/backtracking/README.md)]

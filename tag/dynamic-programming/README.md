@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1553 | [吃掉 N 个橘子的最少天数](../../problems/minimum-number-of-days-to-eat-n-oranges) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1548 | [The Most Similar Path in a Graph](../../problems/the-most-similar-path-in-a-graph) 🔒 | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1547 | [切棍子的最小成本](../../problems/minimum-cost-to-cut-a-stick) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1546 | [和为目标值的最大数目不重叠非空子数组数目](../../problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1537 | [最大得分](../../problems/get-the-maximum-score) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -86,7 +88,7 @@
 | 1049 | [最后一块石头的重量 II](../../problems/last-stone-weight-ii) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1048 | [最长字符串链](../../problems/longest-string-chain) | [[哈希表](../hash-table/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1039 | [多边形三角剖分的最低得分](../../problems/minimum-score-triangulation-of-polygon) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 1027 | [最长等差数列](../../problems/longest-arithmetic-sequence) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1027 | [最长等差数列](../../problems/longest-arithmetic-subsequence) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1025 | [除数博弈](../../problems/divisor-game) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 1024 | [视频拼接](../../problems/video-stitching) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1012 | [至少有 1 位重复的数字](../../problems/numbers-with-repeated-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

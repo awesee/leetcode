@@ -7,7 +7,7 @@
 
 [< Previous](../minimum-size-subarray-sum "Minimum Size Subarray Sum")
 　　　　　　　　　　　　　　　　
-[Next >](../add-and-search-word-data-structure-design "Add and Search Word - Data structure design")
+[Next >](../design-add-and-search-words-data-structure "Design Add and Search Words Data Structure")
 
 ## [210. Course Schedule II (Medium)](https://leetcode.com/problems/course-schedule-ii "课程表 II")
 

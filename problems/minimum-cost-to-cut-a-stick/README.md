@@ -7,7 +7,7 @@
 
 [< Previous](../maximum-number-of-non-overlapping-subarrays-with-sum-equals-target "Maximum Number of Non-Overlapping Subarrays With Sum Equals Target")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../the-most-similar-path-in-a-graph "The Most Similar Path in a Graph")
 
 ## [1547. Minimum Cost to Cut a Stick (Hard)](https://leetcode.com/problems/minimum-cost-to-cut-a-stick "切棍子的最小成本")
 

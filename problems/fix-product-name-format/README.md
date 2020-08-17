@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../make-the-string-great "Make The String Great")
 
-## [1543. Fix Product Name Format (Easy)](https://leetcode.com/problems/fix-product-name-format "")
+## [1543. Fix Product Name Format (Easy)](https://leetcode.com/problems/fix-product-name-format "产品名称格式修复")
 
 

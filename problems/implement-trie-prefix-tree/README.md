@@ -38,7 +38,7 @@ trie.search(&quot;app&quot;);     // returns true
   [[Trie](../../tag/trie/README.md)]
 
 ### Similar Questions
-  1. [Add and Search Word - Data structure design](../add-and-search-word-data-structure-design) (Medium)
+  1. [Design Add and Search Words Data Structure](../design-add-and-search-words-data-structure) (Medium)
   1. [Design Search Autocomplete System](../design-search-autocomplete-system) (Hard)
   1. [Replace Words](../replace-words) (Medium)
   1. [Implement Magic Dictionary](../implement-magic-dictionary) (Medium)

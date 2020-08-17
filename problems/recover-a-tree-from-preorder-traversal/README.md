@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../longest-arithmetic-sequence "Longest Arithmetic Sequence")
+[< Previous](../longest-arithmetic-subsequence "Longest Arithmetic Subsequence")
 　　　　　　　　　　　　　　　　
 [Next >](../two-city-scheduling "Two City Scheduling")
 

@@ -10,7 +10,7 @@
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1530 | [好叶子节点对的数量](../../problems/number-of-good-leaf-nodes-pairs) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
-| 1516 | [Move Sub-Tree of N-Ary Tree](../../problems/move-sub-tree-of-n-ary-tree) 🔒 | [[树](../tree/README.md)]  | Hard |
+| 1516 | [移动 N 叉树的子树](../../problems/move-sub-tree-of-n-ary-tree) 🔒 | [[树](../tree/README.md)]  | Hard |
 | 1490 | [克隆 N 叉树](../../problems/clone-n-ary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1485 | [克隆含随机指针的二叉树](../../problems/clone-binary-tree-with-random-pointer) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1469 | [寻找所有的独生节点](../../problems/find-all-the-lonely-nodes) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |

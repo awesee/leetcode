@@ -5,29 +5,25 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../best-position-for-a-service-centre "Best Position for a Service Centre")
+[< Previous](../minimum-cost-to-cut-a-stick "Minimum Cost to Cut a Stick")
 　　　　　　　　　　　　　　　　
-[Next >](../find-users-with-valid-e-mails "Find Users With Valid E-Mails")
+[Next >](../the-most-recent-orders-for-each-product "The Most Recent Orders for Each Product")
 
-## [1516. Move Sub-Tree of N-Ary Tree (Hard)](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree "移动 N 叉树的子树")
+## [1548. The Most Similar Path in a Graph (Hard)](https://leetcode.com/problems/the-most-similar-path-in-a-graph "")
 
 
 
 ### Related Topics
-  [[Tree](../../tag/tree/README.md)]
+  [[Graph](../../tag/graph/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>
 <summary>Hint 1</summary>
-Disconnect node p from its parent and append it to the children list of node q.
+Create an array dp where dp[i][j] is the min edit distance for the path starting at node i and compared to index j of the targetPath.
 </details>
 
 <details>
 <summary>Hint 2</summary>
-If q was in the sub-tree of node p (case 1), get the parent node of p and replace p in its children list with q.
-</details>
-
-<details>
-<summary>Hint 3</summary>
-If p was the root of the tree, make q the root of the tree.
+Traverse the dp array to obtain a valid answer.
 </details>

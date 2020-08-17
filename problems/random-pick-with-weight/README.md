@@ -11,9 +11,11 @@
 
 ## [528. Random Pick with Weight (Medium)](https://leetcode.com/problems/random-pick-with-weight "按权重随机选择")
 
-<p>Given an array <code>w</code> of positive integers, where <code>w[i]</code> describes the weight of index <code>i</code>(0-indexed), write a function <code>pickIndex</code>&nbsp;which <strong>randomly</strong>&nbsp;picks an index&nbsp;in proportion&nbsp;to its weight.</p>
+<p>Given an array of positive integers w. where <code>w[i]</code> describes the weight of <code>i</code><sup><code>th</code>&nbsp;</sup>index (0-indexed).</p>
 
-<p><em>For example, given an input list of values w = [2, 8], when we pick up a number out of it, the chance is that 8&nbsp;times out of 10 we should pick the number 1&nbsp;as the answer since it&#39;s the second element of the array (w[1] = 8).</em></p>
+<p>We need to call the function&nbsp;<code>pickIndex()</code> which <strong>randomly</strong> returns an integer in the range <code>[0, w.length - 1]</code>.&nbsp;<code>pickIndex()</code>&nbsp;should return the integer&nbsp;proportional to its weight in the <code>w</code> array. For example, for <code>w = [1, 3]</code>, the probability of picking index <code>0</code> is <code>1 / (1 + 3)&nbsp;= 0.25</code> (i.e 25%)&nbsp;while the probability of picking index <code>1</code> is <code>3 / (1 + 3)&nbsp;= 0.75</code> (i.e 75%).</p>
+
+<p>More formally, the probability of picking index <code>i</code> is <code>w[i] / sum(w)</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

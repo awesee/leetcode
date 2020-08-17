@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../add-and-search-word-data-structure-design "Add and Search Word - Data structure design")
+[< Previous](../design-add-and-search-words-data-structure "Design Add and Search Words Data Structure")
 　　　　　　　　　　　　　　　　
 [Next >](../house-robber-ii "House Robber II")
 
