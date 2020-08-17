@@ -7,7 +7,7 @@
 
 [< Previous](../divisor-game "Divisor Game")
 　　　　　　　　　　　　　　　　
-[Next >](../longest-arithmetic-sequence "Longest Arithmetic Sequence")
+[Next >](../longest-arithmetic-subsequence "Longest Arithmetic Subsequence")
 
 ## [1026. Maximum Difference Between Node and Ancestor (Medium)](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor "节点与其祖先之间的最大差值")
 

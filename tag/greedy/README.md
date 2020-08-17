@@ -33,7 +33,7 @@
 | 1247 | [交换字符使得字符串相同](../../problems/minimum-swaps-to-make-strings-equal) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1231 | [分享巧克力](../../problems/divide-chocolate) 🔒 | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1221 | [分割平衡字符串](../../problems/split-a-string-in-balanced-strings) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Easy |
-| 1217 | [玩筹码](../../problems/play-with-chips) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1217 | [玩筹码](../../problems/minimum-cost-to-move-chips-to-the-same-position) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1196 | [最多可以买到的苹果数量](../../problems/how-many-apples-can-you-put-into-the-basket) 🔒 | [[贪心算法](../greedy/README.md)]  | Easy |
 | 1167 | [连接棒材的最低费用](../../problems/minimum-cost-to-connect-sticks) 🔒 | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1111 | [有效括号的嵌套深度](../../problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
@@ -67,7 +67,7 @@
 | 765 | [情侣牵手](../../problems/couples-holding-hands) | [[贪心算法](../greedy/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
 | 763 | [划分字母区间](../../problems/partition-labels) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 759 | [员工空闲时间](../../problems/employee-free-time) 🔒 | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Hard |
-| 757 | [ 设置交集大小至少为2](../../problems/set-intersection-size-at-least-two) | [[贪心算法](../greedy/README.md)]  | Hard |
+| 757 | [设置交集大小至少为2](../../problems/set-intersection-size-at-least-two) | [[贪心算法](../greedy/README.md)]  | Hard |
 | 738 | [单调递增的数字](../../problems/monotone-increasing-digits) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 714 | [买卖股票的最佳时机含手续费](../../problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 659 | [分割数组为连续子序列](../../problems/split-array-into-consecutive-subsequences) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |

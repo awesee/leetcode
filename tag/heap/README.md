@@ -43,4 +43,4 @@
 | 239 | [滑动窗口最大值](../../problems/sliding-window-maximum) | [[堆](../heap/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
 | 218 | [天际线问题](../../problems/the-skyline-problem) | [[堆](../heap/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Hard |
 | 215 | [数组中的第K个最大元素](../../problems/kth-largest-element-in-an-array) | [[堆](../heap/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Medium |
-| 23 | [合并K个排序链表](../../problems/merge-k-sorted-lists) | [[堆](../heap/README.md)] [[链表](../linked-list/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
+| 23 | [合并K个升序链表](../../problems/merge-k-sorted-lists) | [[堆](../heap/README.md)] [[链表](../linked-list/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |

@@ -42,7 +42,7 @@ WordFilter.f(&quot;b&quot;, &quot;&quot;) // returns -1
   [[Trie](../../tag/trie/README.md)]
 
 ### Similar Questions
-  1. [Add and Search Word - Data structure design](../add-and-search-word-data-structure-design) (Medium)
+  1. [Design Add and Search Words Data Structure](../design-add-and-search-words-data-structure) (Medium)
 
 ### Hints
 <details>

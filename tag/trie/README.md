@@ -24,5 +24,5 @@
 | 421 | [数组中两个数的最大异或值](../../problems/maximum-xor-of-two-numbers-in-an-array) | [[位运算](../bit-manipulation/README.md)] [[字典树](../trie/README.md)]  | Medium |
 | 336 | [回文对](../../problems/palindrome-pairs) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 212 | [单词搜索 II](../../problems/word-search-ii) | [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 211 | [添加与搜索单词 - 数据结构设计](../../problems/add-and-search-word-data-structure-design) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 211 | [添加与搜索单词 - 数据结构设计](../../problems/design-add-and-search-words-data-structure) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 208 | [实现 Trie (前缀树)](../../problems/implement-trie-prefix-tree) | [[设计](../design/README.md)] [[字典树](../trie/README.md)]  | Medium |

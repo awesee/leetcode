@@ -18,9 +18,11 @@
 	<li>Left parenthesis&nbsp;<code>&#39;(&#39;</code>&nbsp;must go before the corresponding two&nbsp;consecutive right parenthesis&nbsp;<code>&#39;))&#39;</code>.</li>
 </ul>
 
+<p>In other words, we treat <code>&#39;(&#39;</code> as openning parenthesis and <code>&#39;))&#39;</code> as closing parenthesis.</p>
+
 <p>For example, <code>&quot;())&quot;</code>, <code>&quot;())(())))&quot;</code> and <code>&quot;(())())))&quot;</code> are&nbsp;balanced, <code>&quot;)()&quot;</code>, <code>&quot;()))&quot;</code> and <code>&quot;(()))&quot;</code> are not balanced.</p>
 
-<p>You can insert the characters &#39;(&#39; and &#39;)&#39; at any position of the string to balance it if needed.</p>
+<p>You can insert the characters <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code> at any position of the string to balance it if needed.</p>
 
 <p>Return <em>the minimum number of insertions</em> needed to make <code>s</code> balanced.</p>
 

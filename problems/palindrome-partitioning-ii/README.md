@@ -11,17 +11,40 @@
 
 ## [132. Palindrome Partitioning II (Hard)](https://leetcode.com/problems/palindrome-partitioning-ii "分割回文串 II")
 
-<p>Given a string <em>s</em>, partition <em>s</em> such that every substring of the partition is a palindrome.</p>
+<p>Given a string <code>s</code>, partition <code>s</code> such that every substring of the partition is a palindrome</p>
 
-<p>Return the minimum cuts needed for a palindrome partitioning of <em>s</em>.</p>
+<p>Return <em>the minimum cuts needed</em> for a palindrome partitioning of <code>s</code>.</p>
 
-<p><strong>Example:</strong></p>
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong>&nbsp;&quot;aab&quot;
+<strong>Input:</strong> s = &quot;aab&quot;
 <strong>Output:</strong> 1
 <strong>Explanation:</strong> The palindrome partitioning [&quot;aa&quot;,&quot;b&quot;] could be produced using 1 cut.
 </pre>
+
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> s = &quot;a&quot;
+<strong>Output:</strong> 0
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> s = &quot;ab&quot;
+<strong>Output:</strong> 1
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 2000</code></li>
+	<li><code>s</code> consists of lower-case English letters only.</li>
+</ul>
 
 ### Related Topics
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

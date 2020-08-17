@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../play-with-chips "Play with Chips")
+[< Previous](../minimum-cost-to-move-chips-to-the-same-position "Minimum Cost to Move Chips to The Same Position")
 　　　　　　　　　　　　　　　　
 [Next >](../path-with-maximum-gold "Path with Maximum Gold")
 

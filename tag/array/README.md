@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1552 | [两球之间的磁力](../../problems/magnetic-force-between-two-balls) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1550 | [存在连续三个奇数的数组](../../problems/three-consecutive-odds) | [[数组](../array/README.md)]  | Easy |
 | 1539 | [第 k 个缺失的正整数](../../problems/kth-missing-positive-number) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 1535 | [找出数组游戏的赢家](../../problems/find-the-winner-of-an-array-game) | [[数组](../array/README.md)]  | Medium |
 | 1534 | [统计好三元组](../../problems/count-good-triplets) | [[数组](../array/README.md)]  | Easy |
@@ -86,7 +88,7 @@
 | 1233 | [删除子文件夹](../../problems/remove-sub-folders-from-the-filesystem) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1232 | [缀点成线](../../problems/check-if-it-is-a-straight-line) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1222 | [可以攻击国王的皇后](../../problems/queens-that-can-attack-the-king) | [[数组](../array/README.md)]  | Medium |
-| 1217 | [玩筹码](../../problems/play-with-chips) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1217 | [玩筹码](../../problems/minimum-cost-to-move-chips-to-the-same-position) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1208 | [尽可能使字符串相等](../../problems/get-equal-substrings-within-budget) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1202 | [交换字符串中的元素](../../problems/smallest-string-with-swaps) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1200 | [最小绝对差](../../problems/minimum-absolute-difference) | [[数组](../array/README.md)]  | Easy |
