@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../paint-fence "Paint Fence")
 
-## [275. H-Index II (Medium)](https://leetcode.com/problems/h-index-ii "H指数 II")
+## [275. H-Index II (Medium)](https://leetcode.com/problems/h-index-ii "H 指数 II")
 
 <p>Given an array of citations <strong>sorted&nbsp;in ascending order </strong>(each citation is a non-negative integer) of a researcher, write a function to compute the researcher&#39;s h-index.</p>
 

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1556 | [千位分隔数](../../problems/thousand-separator) | [[字符串](../string/README.md)]  | Easy |
 | 1545 | [找出第 N 个二进制字符串中的第 K 位](../../problems/find-kth-bit-in-nth-binary-string) | [[字符串](../string/README.md)]  | Medium |
 | 1544 | [整理字符串](../../problems/make-the-string-great) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1542 | [找出最长的超赞子字符串](../../problems/find-longest-awesome-substring) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Hard |

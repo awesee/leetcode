@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1560 | [圆形赛道上经过次数最多的扇区](../../problems/most-visited-sector-in-a-circular-track) | [[数组](../array/README.md)]  | Easy |
 | 1552 | [两球之间的磁力](../../problems/magnetic-force-between-two-balls) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1550 | [存在连续三个奇数的数组](../../problems/three-consecutive-odds) | [[数组](../array/README.md)]  | Easy |
 | 1539 | [第 k 个缺失的正整数](../../problems/kth-missing-positive-number) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |

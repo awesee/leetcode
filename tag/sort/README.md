@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1561 | [你可以获得的最大硬币数目](../../problems/maximum-number-of-coins-you-can-get) | [[排序](../sort/README.md)]  | Medium |
 | 1528 | [重新排列字符串](../../problems/shuffle-string) | [[排序](../sort/README.md)]  | Easy |
 | 1509 | [三次操作后最大值与最小值的最小差](../../problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1508 | [子数组和排序后的区间和](../../problems/range-sum-of-sorted-subarray-sums) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |

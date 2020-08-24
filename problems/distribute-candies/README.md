@@ -11,7 +11,7 @@
 
 ## [575. Distribute Candies (Easy)](https://leetcode.com/problems/distribute-candies "分糖果")
 
-<p>You have <code>n</code>&nbsp;<code>candies</code> of&nbsp;different types, the <code>i<sup>th</sup></code> candy is of type <code>candies[i]</code>.</p>
+<p>You have <code>n</code>&nbsp;<code>candies</code>, the <code>i<sup>th</sup></code> candy is of type <code>candies[i]</code>.</p>
 
 <p>You want to distribute the candies equally between a sister and a brother so that each of them gets <code>n / 2</code>&nbsp;candies (<code>n</code> is even). The sister loves to collect different types of candies, so you want to give her the <strong>maximum number of different types</strong> of candies.</p>
 

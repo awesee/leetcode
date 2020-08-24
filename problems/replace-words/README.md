@@ -11,29 +11,42 @@
 
 ## [648. Replace Words (Medium)](https://leetcode.com/problems/replace-words "单词替换")
 
-<p>In English, we have a concept called <code>root</code>, which can be followed by some other words to form another longer word - let&#39;s call this word <code>successor</code>. For example, the root <code>an</code>, followed by <code>other</code>, which can form another word <code>another</code>.</p>
+<p>In English, we have a concept called <strong>root</strong>, which can be followed by some other words to form another longer word - let&#39;s call this word <strong>successor</strong>. For example, when the <strong>root</strong> <code>&quot;an&quot;</code> is&nbsp;followed by the <strong>successor</strong>&nbsp;word&nbsp;&quot;other&quot;, we&nbsp;can form a new word <code>&quot;another&quot;</code>.</p>
 
-<p>Now, given a dictionary consisting of many roots and a sentence. You need to replace all the <code>successor</code> in the sentence with the <code>root</code> forming it. If a <code>successor</code> has many <code>roots</code> can form it, replace it with the root with the shortest length.</p>
+<p>Given a <code>dictionary</code> consisting of many <strong>roots</strong> and a <code>sentence</code>&nbsp;consisting of words spearted by spaces. You need to replace all the <strong>successors</strong> in the sentence with the <strong>root</strong> forming it. If a <strong>successor</strong> can be replaced by more than one <strong>root</strong>,&nbsp;replace it with the <strong>root</strong> with <strong>the shortest length</strong>.</p>
 
-<p>You need to output the sentence after the replacement.</p>
+<p>Return <em>the <code>sentence</code></em> after the replacement.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-
-<pre>
-<strong>Input:</strong> dict = [&quot;cat&quot;,&quot;bat&quot;,&quot;rat&quot;], sentence = &quot;the cattle was rattled by the battery&quot;
-<strong>Output:</strong> &quot;the cat was rat by the bat&quot;
+<pre><strong>Input:</strong> dictionary = ["cat","bat","rat"], sentence = "the cattle was rattled by the battery"
+<strong>Output:</strong> "the cat was rat by the bat"
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> dictionary = ["a","b","c"], sentence = "aadsfasf absbs bbab cadsfafs"
+<strong>Output:</strong> "a a b c"
+</pre><p><strong>Example 3:</strong></p>
+<pre><strong>Input:</strong> dictionary = ["a", "aa", "aaa", "aaaa"], sentence = "a aa a aaaa aaa aaa aaa aaaaaa bbb baba ababa"
+<strong>Output:</strong> "a a a a a a a a bbb baba a"
+</pre><p><strong>Example 4:</strong></p>
+<pre><strong>Input:</strong> dictionary = ["catt","cat","bat","rat"], sentence = "the cattle was rattled by the battery"
+<strong>Output:</strong> "the cat was rat by the bat"
+</pre><p><strong>Example 5:</strong></p>
+<pre><strong>Input:</strong> dictionary = ["ac","ab"], sentence = "it is abnormal that this solution is accepted"
+<strong>Output:</strong> "it is ab that this solution is ac"
 </pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The input will only have lower-case letters.</li>
-	<li><code>1 &lt;= dict.length&nbsp;&lt;= 1000</code></li>
-	<li><code>1 &lt;= dict[i].length &lt;= 100</code></li>
-	<li>1 &lt;= sentence words number &lt;= 1000</li>
-	<li>1 &lt;= sentence words length &lt;= 1000</li>
+	<li><code>1 &lt;= dictionary.length&nbsp;&lt;= 1000</code></li>
+	<li><code>1 &lt;= dictionary[i].length &lt;= 100</code></li>
+	<li><code>dictionary[i]</code>&nbsp;consists of only lower-case letters.</li>
+	<li><code>1 &lt;= sentence.length &lt;= 10^6</code></li>
+	<li><code>sentence</code>&nbsp;consists of only lower-case letters ans spaces.</li>
+	<li>The number of words in&nbsp;<code>sentence</code>&nbsp;is in the range <code>[1, 1000]</code></li>
+	<li>The length of each word in&nbsp;<code>sentence</code>&nbsp;is in the range <code>[1, 1000]</code></li>
+	<li>Each two words in&nbsp;<code>sentence</code>&nbsp;will be separted by exactly one space.</li>
+	<li><code>sentence</code>&nbsp;doesn&#39;t have leading or trailing spaces.</li>
 </ul>
 
 ### Related Topics
