@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1563 | [石子游戏 V](../../problems/stone-game-v) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1553 | [吃掉 N 个橘子的最少天数](../../problems/minimum-number-of-days-to-eat-n-oranges) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1548 | [The Most Similar Path in a Graph](../../problems/the-most-similar-path-in-a-graph) 🔒 | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1547 | [切棍子的最小成本](../../problems/minimum-cost-to-cut-a-stick) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

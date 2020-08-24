@@ -7,7 +7,7 @@
 
 [< Previous](../magnetic-force-between-two-balls "Magnetic Force Between Two Balls")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../strings-differ-by-one-character "Strings Differ by One Character")
 
 ## [1553. Minimum Number of Days to Eat N Oranges (Hard)](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges "吃掉 N 个橘子的最少天数")
 

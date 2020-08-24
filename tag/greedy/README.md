@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1558 | [得到目标数组的最少函数调用次数](../../problems/minimum-numbers-of-function-calls-to-make-target-array) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1540 | [K 次操作转变字符串](../../problems/can-convert-string-in-k-moves) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1536 | [排布二进制网格的最少交换次数](../../problems/minimum-swaps-to-arrange-a-binary-grid) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1520 | [最多的不重叠子字符串](../../problems/maximum-number-of-non-overlapping-substrings) | [[贪心算法](../greedy/README.md)]  | Medium |

@@ -11,9 +11,13 @@
 
 ## [1282. Group the People Given the Group Size They Belong To (Medium)](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to "用户分组")
 
-<p>There are <code>n</code> people whose <strong>IDs</strong> go from <code>0</code> to <code>n - 1</code> and each person belongs <strong>exactly</strong> to one&nbsp;group. Given the array&nbsp;<code>groupSizes</code> of length <code>n</code> telling the group size each person belongs to, return the groups there are and the people&#39;s&nbsp;<strong>IDs</strong> each group includes.</p>
+<p>There are <code>n</code> people, each of them has a <strong>unique ID</strong>&nbsp;from <code>0</code> to <code>n - 1</code> and&nbsp;each person of them belongs to <strong>exactly one group</strong>.</p>
 
-<p>You can return any solution in any order and the same applies for IDs. Also, it is guaranteed that there exists at least one solution.&nbsp;</p>
+<p>Given an integer array&nbsp;<code>groupSizes</code>&nbsp;which indicated that the person with <code>ID = i</code> belongs to a group of&nbsp;<code>groupSize[i]</code>&nbsp;persons.</p>
+
+<p>Return <em>an array of the groups</em> where <code>ans[j]</code> contains the IDs of the <code>j<sup>th</sup></code> group. Each ID should belong&nbsp;to <strong>exactly one group</strong>&nbsp;and each ID should be present in your answer. Also if a person with <code>ID = i</code>&nbsp;belongs to group <code>j</code> in your answer, then <code>ans[j].length == groupSize[i]</code> should be true.</p>
+
+<p>If there is multiple answers, <strong>return any of them</strong>. It is <strong>guaranteed</strong> that there will be at least one valid solution for the given input.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

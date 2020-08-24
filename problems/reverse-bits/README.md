@@ -45,6 +45,13 @@
 
 <p>If this function is called many times, how would you optimize it?</p>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li>The input must be a <strong>binary string</strong> of <code>length = 32</code></li>
+</ul>
+
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
