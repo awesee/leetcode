@@ -125,7 +125,7 @@
 | 199 | [二叉树的右视图](../../problems/binary-tree-right-side-view) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 173 | [二叉搜索树迭代器](../../problems/binary-search-tree-iterator) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
 | 156 | [上下翻转二叉树](../../problems/binary-tree-upside-down) 🔒 | [[树](../tree/README.md)]  | Medium |
-| 145 | [二叉树的后序遍历](../../problems/binary-tree-postorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Hard |
+| 145 | [二叉树的后序遍历](../../problems/binary-tree-postorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Medium |
 | 144 | [二叉树的前序遍历](../../problems/binary-tree-preorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Medium |
 | 129 | [求根到叶子节点数字之和](../../problems/sum-root-to-leaf-numbers) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 124 | [二叉树中的最大路径和](../../problems/binary-tree-maximum-path-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Hard |

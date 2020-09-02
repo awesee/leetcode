@@ -70,6 +70,12 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1569">1569</span> | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst "将子数组重新排序得到同一个二叉查找树的方案数") | [Go](problems/number-of-ways-to-reorder-array-to-get-same-bst) | Hard |
+| <span id="1568">1568</span> | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island "使陆地分离的最少天数") | [Go](problems/minimum-number-of-days-to-disconnect-island) | Hard |
+| <span id="1567">1567</span> | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product "乘积为正数的最长子数组长度") | [Go](problems/maximum-length-of-subarray-with-positive-product) | Medium |
+| <span id="1566">1566</span> | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times "重复至少 K 次且长度为 M 的模式") | [Go](problems/detect-pattern-of-length-m-repeated-k-or-more-times) | Easy |
+| <span id="1565">1565</span> | [Unique Orders and Customers Per Month](https://leetcode.com/problems/unique-orders-and-customers-per-month) 🔒 | [MySQL](problems/unique-orders-and-customers-per-month) | Easy |
+| <span id="1564">1564</span> | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i) 🔒 | [Go](problems/put-boxes-into-the-warehouse-i) | Medium |
 | <span id="1563">1563</span> | [Stone Game V](https://leetcode.com/problems/stone-game-v "石子游戏 V") | [Go](problems/stone-game-v) | Hard |
 | <span id="1562">1562</span> | [Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m "查找大小为 M 的最新分组") | [Go](problems/find-latest-group-of-size-m) | Medium |
 | <span id="1561">1561</span> | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get "你可以获得的最大硬币数目") | [Go](problems/maximum-number-of-coins-you-can-get) | Medium |
@@ -78,8 +84,8 @@ LeetCode Problems' Solutions
 | <span id="1558">1558</span> | [Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array "得到目标数组的最少函数调用次数") | [Go](problems/minimum-numbers-of-function-calls-to-make-target-array) | Medium |
 | <span id="1557">1557</span> | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes "可以到达所有点的最少点数目") | [Go](problems/minimum-number-of-vertices-to-reach-all-nodes) | Medium |
 | <span id="1556">1556</span> | [Thousand Separator](https://leetcode.com/problems/thousand-separator "千位分隔数") | [Go](problems/thousand-separator) | Easy |
-| <span id="1555">1555</span> | [Bank Account Summary](https://leetcode.com/problems/bank-account-summary) 🔒 | [MySQL](problems/bank-account-summary) | Medium |
-| <span id="1554">1554</span> | [Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character) 🔒 | [Go](problems/strings-differ-by-one-character) | Medium |
+| <span id="1555">1555</span> | [Bank Account Summary](https://leetcode.com/problems/bank-account-summary "银行账户概要") 🔒 | [MySQL](problems/bank-account-summary) | Medium |
+| <span id="1554">1554</span> | [Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character "只有一个不同字符的字符串") 🔒 | [Go](problems/strings-differ-by-one-character) | Medium |
 | <span id="1553">1553</span> | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges "吃掉 N 个橘子的最少天数") | [Go](problems/minimum-number-of-days-to-eat-n-oranges) | Hard |
 | <span id="1552">1552</span> | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls "两球之间的磁力") | [Go](problems/magnetic-force-between-two-balls) | Medium |
 | <span id="1551">1551</span> | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal "使数组中所有元素相等的最小操作数") | [Go](problems/minimum-operations-to-make-array-equal) | Medium |
@@ -101,17 +107,17 @@ LeetCode Problems' Solutions
 | <span id="1535">1535</span> | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game "找出数组游戏的赢家") | [Go](problems/find-the-winner-of-an-array-game) | Medium |
 | <span id="1534">1534</span> | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets "统计好三元组") | [Go](problems/count-good-triplets) | Easy |
 | <span id="1533">1533</span> | [Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer) 🔒 | [Go](problems/find-the-index-of-the-large-integer) | Medium |
-| <span id="1532">1532</span> | [The Most Recent Three Orders](https://leetcode.com/problems/the-most-recent-three-orders) 🔒 | [MySQL](problems/the-most-recent-three-orders) | Medium |
+| <span id="1532">1532</span> | [The Most Recent Three Orders](https://leetcode.com/problems/the-most-recent-three-orders "最近的三笔订单") 🔒 | [MySQL](problems/the-most-recent-three-orders) | Medium |
 | <span id="1531">1531</span> | [String Compression II](https://leetcode.com/problems/string-compression-ii "压缩字符串 II") | [Go](problems/string-compression-ii) | Hard |
 | <span id="1530">1530</span> | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs "好叶子节点对的数量") | [Go](problems/number-of-good-leaf-nodes-pairs) | Medium |
 | <span id="1529">1529</span> | [Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv "灯泡开关 IV") | [Go](problems/bulb-switcher-iv) | Medium |
 | <span id="1528">1528</span> | [Shuffle String](https://leetcode.com/problems/shuffle-string "重新排列字符串") | [Go](problems/shuffle-string) | Easy |
-| <span id="1527">1527</span> | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) 🔒 | [MySQL](problems/patients-with-a-condition) | Easy |
+| <span id="1527">1527</span> | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition "患某种疾病的患者") 🔒 | [MySQL](problems/patients-with-a-condition) | Easy |
 | <span id="1526">1526</span> | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array "形成目标数组的子数组最少增加次数") | [Go](problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array) | Hard |
 | <span id="1525">1525</span> | [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string "字符串的好分割数目") | [Go](problems/number-of-good-ways-to-split-a-string) | Medium |
 | <span id="1524">1524</span> | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum "和为奇数的子数组数目") | [Go](problems/number-of-sub-arrays-with-odd-sum) | Medium |
 | <span id="1523">1523</span> | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range "在区间范围内统计奇数数目") | [Go](problems/count-odd-numbers-in-an-interval-range) | Easy |
-| <span id="1522">1522</span> | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree) 🔒 | [Go](problems/diameter-of-n-ary-tree) | Medium |
+| <span id="1522">1522</span> | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree "N 叉树的直径") 🔒 | [Go](problems/diameter-of-n-ary-tree) | Medium |
 | <span id="1521">1521</span> | [Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target "找到最接近目标值的函数值") | [Go](problems/find-a-value-of-a-mysterious-function-closest-to-target) | Hard |
 | <span id="1520">1520</span> | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings "最多的不重叠子字符串") | [Go](problems/maximum-number-of-non-overlapping-substrings) | Hard |
 | <span id="1519">1519</span> | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label "子树中标签相同的节点数") | [Go](problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | Medium |

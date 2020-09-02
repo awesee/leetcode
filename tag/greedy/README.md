@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1568 | [使陆地分离的最少天数](../../problems/minimum-number-of-days-to-disconnect-island) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1567 | [乘积为正数的最长子数组长度](../../problems/maximum-length-of-subarray-with-positive-product) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1564 | [Put Boxes Into the Warehouse I](../../problems/put-boxes-into-the-warehouse-i) 🔒 | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1558 | [得到目标数组的最少函数调用次数](../../problems/minimum-numbers-of-function-calls-to-make-target-array) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1540 | [K 次操作转变字符串](../../problems/can-convert-string-in-k-moves) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1536 | [排布二进制网格的最少交换次数](../../problems/minimum-swaps-to-arrange-a-binary-grid) | [[贪心算法](../greedy/README.md)]  | Medium |
@@ -45,7 +48,7 @@
 | 1055 | [形成字符串的最短路径](../../problems/shortest-way-to-form-string) 🔒 | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1053 | [交换一次的先前排列](../../problems/previous-permutation-with-one-swap) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1046 | [最后一块石头的重量](../../problems/last-stone-weight) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Easy |
-| 1029 | [两地调度](../../problems/two-city-scheduling) | [[贪心算法](../greedy/README.md)]  | Easy |
+| 1029 | [两地调度](../../problems/two-city-scheduling) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1007 | [行相等的最少多米诺旋转](../../problems/minimum-domino-rotations-for-equal-row) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1005 | [K 次取反后最大化的数组和](../../problems/maximize-sum-of-array-after-k-negations) | [[贪心算法](../greedy/README.md)]  | Easy |
 | 995 | [K 连续位的最小翻转次数](../../problems/minimum-number-of-k-consecutive-bit-flips) | [[贪心算法](../greedy/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |

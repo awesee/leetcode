@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../thousand-separator "Thousand Separator")
 
-## [1555. Bank Account Summary (Medium)](https://leetcode.com/problems/bank-account-summary "")
+## [1555. Bank Account Summary (Medium)](https://leetcode.com/problems/bank-account-summary "银行账户概要")
 
 

@@ -43,4 +43,4 @@
 
 ### Similar Questions
   1. [Implement strStr()](../implement-strstr) (Easy)
-  1. [Repeated String Match](../repeated-string-match) (Easy)
+  1. [Repeated String Match](../repeated-string-match) (Medium)

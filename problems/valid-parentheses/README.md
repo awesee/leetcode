@@ -11,7 +11,7 @@
 
 ## [20. Valid Parentheses (Easy)](https://leetcode.com/problems/valid-parentheses "有效的括号")
 
-<p>Given a string containing just the characters <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, <code>&#39;{&#39;</code>, <code>&#39;}&#39;</code>, <code>&#39;[&#39;</code> and <code>&#39;]&#39;</code>, determine if the input string is valid.</p>
+<p>Given a string <code>s</code> containing just the characters <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, <code>&#39;{&#39;</code>, <code>&#39;}&#39;</code>, <code>&#39;[&#39;</code> and <code>&#39;]&#39;</code>, determine if the input string is valid.</p>
 
 <p>An input string is valid if:</p>
 
@@ -20,42 +20,49 @@
 	<li>Open brackets must be closed in the correct order.</li>
 </ol>
 
-<p>Note that an empty string is&nbsp;also considered valid.</p>
-
+<p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> &quot;()&quot;
+<strong>Input:</strong> s = &quot;()&quot;
 <strong>Output:</strong> true
 </pre>
 
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> &quot;()[]{}&quot;
+<strong>Input:</strong> s = &quot;()[]{}&quot;
 <strong>Output:</strong> true
 </pre>
 
 <p><strong>Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> &quot;(]&quot;
+<strong>Input:</strong> s = &quot;(]&quot;
 <strong>Output:</strong> false
 </pre>
 
 <p><strong>Example 4:</strong></p>
 
 <pre>
-<strong>Input:</strong> &quot;([)]&quot;
+<strong>Input:</strong> s = &quot;([)]&quot;
 <strong>Output:</strong> false
 </pre>
 
 <p><strong>Example 5:</strong></p>
 
 <pre>
-<strong>Input:</strong> &quot;{[]}&quot;
+<strong>Input:</strong> s = &quot;{[]}&quot;
 <strong>Output:</strong> true
 </pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>s</code> consists of parentheses only <code>&#39;()[]{}&#39;</code>.</li>
+</ul>
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
