@@ -12,8 +12,8 @@
 | 1 | [Array](array/README.md) | [数组](https://openset.github.io/tags/array/) | | 2 | [Dynamic Programming](dynamic-programming/README.md) | [动态规划](https://openset.github.io/tags/dynamic-programming/) | 
 | 3 | [String](string/README.md) | [字符串](https://openset.github.io/tags/string/) | | 4 | [Math](math/README.md) | [数学](https://openset.github.io/tags/math/) | 
 | 5 | [Tree](tree/README.md) | [树](https://openset.github.io/tags/tree/) | | 6 | [Depth-first Search](depth-first-search/README.md) | [深度优先搜索](https://openset.github.io/tags/depth-first-search/) | 
-| 7 | [Hash Table](hash-table/README.md) | [哈希表](https://openset.github.io/tags/hash-table/) | | 8 | [Binary Search](binary-search/README.md) | [二分查找](https://openset.github.io/tags/binary-search/) | 
-| 9 | [Greedy](greedy/README.md) | [贪心算法](https://openset.github.io/tags/greedy/) | | 10 | [Breadth-first Search](breadth-first-search/README.md) | [广度优先搜索](https://openset.github.io/tags/breadth-first-search/) | 
+| 7 | [Hash Table](hash-table/README.md) | [哈希表](https://openset.github.io/tags/hash-table/) | | 8 | [Greedy](greedy/README.md) | [贪心算法](https://openset.github.io/tags/greedy/) | 
+| 9 | [Binary Search](binary-search/README.md) | [二分查找](https://openset.github.io/tags/binary-search/) | | 10 | [Breadth-first Search](breadth-first-search/README.md) | [广度优先搜索](https://openset.github.io/tags/breadth-first-search/) | 
 | 11 | [Sort](sort/README.md) | [排序](https://openset.github.io/tags/sort/) | | 12 | [Two Pointers](two-pointers/README.md) | [双指针](https://openset.github.io/tags/two-pointers/) | 
 | 13 | [Stack](stack/README.md) | [栈](https://openset.github.io/tags/stack/) | | 14 | [Backtracking](backtracking/README.md) | [回溯算法](https://openset.github.io/tags/backtracking/) | 
 | 15 | [Bit Manipulation](bit-manipulation/README.md) | [位运算](https://openset.github.io/tags/bit-manipulation/) | | 16 | [Design](design/README.md) | [设计](https://openset.github.io/tags/design/) | 

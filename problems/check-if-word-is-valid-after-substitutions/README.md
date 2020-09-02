@@ -11,71 +11,60 @@
 
 ## [1003. Check If Word Is Valid After Substitutions (Medium)](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions "检查替换后的词是否有效")
 
-<p>We are given that the string <code>&quot;abc&quot;</code> is valid.</p>
+<p>We can say that a string is valid if it follows one of the three following cases:</p>
 
-<p>From any valid string <code>V</code>, we may split&nbsp;<code>V</code> into two pieces <code>X</code> and <code>Y</code> such that <code>X + Y</code> (<code>X</code> concatenated with <code>Y</code>) is equal to <code>V</code>.&nbsp; (<code>X</code> or <code>Y</code> may be empty.)&nbsp; Then, <code>X + &quot;abc&quot; + Y</code> is also valid.</p>
+<ul>
+	<li>An empty string <code>&quot;&quot;</code> is valid.</li>
+	<li>The string <code>&quot;abc&quot;</code> is also valid.</li>
+	<li>Any string in the form <code>&quot;a&quot; + str + &quot;bc&quot;</code>, <code>&quot;ab&quot; + str + &quot;c&quot;</code>, <code>str + &quot;abc&quot;</code> or <code>&quot;abc&quot; + str</code> where <code>str</code> is a valid string is also considered a valid string.</li>
+</ul>
 
-<p>If for example <code>S = &quot;abc&quot;</code>, then examples of valid strings are: <code>&quot;abc&quot;, &quot;aabcbc&quot;, &quot;abcabc&quot;, &quot;abcabcababcc&quot;</code>.&nbsp; Examples of <strong>invalid</strong>&nbsp;strings are: <code>&quot;abccba&quot;</code>, <code>&quot;ab&quot;</code>, <code>&quot;cababc&quot;</code>, <code>&quot;bac&quot;</code>.</p>
+<p>For example, <code>&quot;&quot;</code>, <code>&quot;abc&quot;</code>,&nbsp;<code>&quot;aabcbc&quot;</code>,&nbsp;<code>&quot;abcabc&quot;</code> and&nbsp;<code>&quot;abcabcababcc&quot;</code>&nbsp;are all <strong>valid</strong> strings, while&nbsp;<code>&quot;abccba&quot;</code>,&nbsp;<code>&quot;ab&quot;</code>, <code>&quot;cababc&quot;</code> and&nbsp;<code>&quot;bac&quot;</code>&nbsp;are <strong>not valid</strong> strings.</p>
 
-<p>Return <code>true</code> if and only if the given string&nbsp;<code>S</code>&nbsp;is valid.</p>
+<p>Given a string <code>s</code>, return <code>true</code> if it is a valid string, otherwise, return <code>false</code>.</p>
 
 <p>&nbsp;</p>
-
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-1-1">&quot;aabcbc&quot;</span>
-<strong>Output: </strong><span id="example-output-1">true</span>
+<strong>Input:</strong> s = &quot;aabcbc&quot;
+<strong>Output:</strong> true
 <strong>Explanation: </strong>
 We start with the valid string &quot;abc&quot;.
 Then we can insert another &quot;abc&quot; between &quot;a&quot; and &quot;bc&quot;, resulting in &quot;a&quot; + &quot;abc&quot; + &quot;bc&quot; which is &quot;aabcbc&quot;.
 </pre>
 
-<div>
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-2-1">&quot;abcabcababcc&quot;</span>
-<strong>Output: </strong><span id="example-output-2">true</span>
+<strong>Input:</strong> s = &quot;abcabcababcc&quot;
+<strong>Output:</strong> true
 <strong>Explanation: </strong>
 &quot;abcabcabc&quot; is valid after consecutive insertings of &quot;abc&quot;.
 Then we can insert &quot;abc&quot; before the last letter, resulting in &quot;abcabcab&quot; + &quot;abc&quot; + &quot;c&quot; which is &quot;abcabcababcc&quot;.
 </pre>
 
-<div>
 <p><strong>Example 3:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-3-1">&quot;abccba&quot;</span>
-<strong>Output: </strong><span id="example-output-3">false</span>
+<strong>Input:</strong> s = &quot;abccba&quot;
+<strong>Output:</strong> false
 </pre>
 
-<div>
 <p><strong>Example 4:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-4-1">&quot;cababc&quot;</span>
-<strong>Output: </strong><span id="example-output-4">false</span></pre>
+<strong>Input:</strong> s = &quot;cababc&quot;
+<strong>Output:</strong> false
+</pre>
 
 <p>&nbsp;</p>
-</div>
-</div>
-</div>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
-	<li><code>1 &lt;= S.length &lt;= 20000</code></li>
-	<li><code>S[i]</code> is <code>&#39;a&#39;</code>, <code>&#39;b&#39;</code>, or <code>&#39;c&#39;</code></li>
-</ol>
-
-<div>
-<div>
-<div>
-<div>&nbsp;</div>
-</div>
-</div>
-</div>
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 2 * 10<sup>4</sup></code></li>
+	<li><code>s[i]</code> is <code>&#39;a&#39;</code>, <code>&#39;b&#39;</code>, or <code>&#39;c&#39;</code></li>
+</ul>
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]

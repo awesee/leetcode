@@ -35,14 +35,14 @@
 		"TranslatedName": "哈希表"
 	},
 	{
-		"Name": "Binary Search",
-		"Slug": "binary-search",
-		"TranslatedName": "二分查找"
-	},
-	{
 		"Name": "Greedy",
 		"Slug": "greedy",
 		"TranslatedName": "贪心算法"
+	},
+	{
+		"Name": "Binary Search",
+		"Slug": "binary-search",
+		"TranslatedName": "二分查找"
 	},
 	{
 		"Name": "Breadth-first Search",

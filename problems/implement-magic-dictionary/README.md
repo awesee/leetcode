@@ -11,14 +11,14 @@
 
 ## [676. Implement Magic Dictionary (Medium)](https://leetcode.com/problems/implement-magic-dictionary "实现一个魔法字典")
 
-<p>We want to implement a data structure that will be intialized with a list of <strong>distinct</strong> strings, then you will be given another string and you should find if you can change exactly one letter of this string to match any string in the data structure.</p>
+<p>Design a data structure that is initialized with a list of <strong>different</strong> words. Provided a string, you should determine if you can change exactly one character in this string to match any word in the data structure.</p>
 
 <p>Implement the&nbsp;<code>MagicDictionary</code>&nbsp;class:</p>
 
 <ul>
 	<li><code>MagicDictionary()</code>&nbsp;Initializes the object.</li>
 	<li><code>void buildDict(String[]&nbsp;dictionary)</code>&nbsp;Sets the data structure&nbsp;with an array of distinct strings <code>dictionary</code>.</li>
-	<li><code>bool search(String searchWord)</code> Returns <code>true</code> if you can change <strong>exactly one character</strong> in <code>word</code> to match any string in the data structure, otherwise returns <code>false</code>.</li>
+	<li><code>bool search(String searchWord)</code> Returns <code>true</code> if you can change <strong>exactly one character</strong> in <code>searchWord</code> to match any string in the data structure, otherwise returns <code>false</code>.</li>
 </ul>
 
 <p>&nbsp;</p>
@@ -45,12 +45,13 @@ magicDictionary.search(&quot;leetcoded&quot;); // return False
 
 <ul>
 	<li><code>1 &lt;=&nbsp;dictionary.length &lt;= 100</code></li>
-	<li><code>1 &lt;=&nbsp;dictionary[i],length &lt;= 100</code></li>
-	<li><code>dictionary[i]</code> consist of only lower-case English letters.</li>
-	<li>All strings in&nbsp;<code>dictionary</code>&nbsp;are <strong>distinct</strong>.</li>
+	<li><code>1 &lt;=&nbsp;dictionary[i].length &lt;= 100</code></li>
+	<li><code>dictionary[i]</code> consists of only lower-case English letters.</li>
+	<li>All the strings in&nbsp;<code>dictionary</code>&nbsp;are <strong>distinct</strong>.</li>
 	<li><code>1 &lt;=&nbsp;searchWord.length &lt;= 100</code></li>
-	<li><code>searchWord</code>&nbsp;consist of only lower-case English letters.</li>
-	<li>At most <code>100</code> calls will be made to <code>search</code> and <code>buildDict</code>,</li>
+	<li><code>searchWord</code>&nbsp;consists of only lower-case English letters.</li>
+	<li><code>buildDict</code>&nbsp;will be called only once before <code>search</code>.</li>
+	<li>At most <code>100</code> calls will be made to <code>search</code>.</li>
 </ul>
 
 ### Related Topics

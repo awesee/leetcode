@@ -11,11 +11,11 @@
 
 ## [621. Task Scheduler (Medium)](https://leetcode.com/problems/task-scheduler "任务调度器")
 
-<p>You are given a char array representing tasks CPU need to do. It contains capital letters A to Z where each letter represents a different task. Tasks could be done without the original order of the array. Each task is done in one unit of time. For each unit of time, the CPU could complete either one task or just be idle.</p>
+<p>Given a characters array <code>tasks</code>, representing the tasks a CPU needs to do, where each letter represents a different task. Tasks could be done in any order. Each task is done in one unit of time. For each unit of time, the CPU could complete either one task or just be idle.</p>
 
 <p>However, there is a non-negative integer&nbsp;<code>n</code> that represents the cooldown period between&nbsp;two <b>same tasks</b>&nbsp;(the same letter in the array), that is that there must be at least <code>n</code> units of time between any two same tasks.</p>
 
-<p>You need to return the <b>least</b> number of units of times that the CPU will take to finish all the given tasks.</p>
+<p>Return <em>the least number of units of times that the CPU will take to finish all the given tasks</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -55,7 +55,8 @@ A -&gt; B -&gt; C -&gt; A -&gt; D -&gt; E -&gt; A -&gt; F -&gt; G -&gt; A -&gt; 
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of tasks is in the range <code>[1, 10000]</code>.</li>
+	<li><code>1 &lt;= task.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>tasks[i]</code> is upper-case English letter.</li>
 	<li>The integer <code>n</code> is in the range <code>[0, 100]</code>.</li>
 </ul>
 

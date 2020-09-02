@@ -115,7 +115,7 @@
 | 722 | [删除注释](../../problems/remove-comments) | [[字符串](../string/README.md)]  | Medium |
 | 709 | [转换成小写字母](../../problems/to-lower-case) | [[字符串](../string/README.md)]  | Easy |
 | 696 | [计数二进制子串](../../problems/count-binary-substrings) | [[字符串](../string/README.md)]  | Easy |
-| 686 | [重复叠加字符串匹配](../../problems/repeated-string-match) | [[字符串](../string/README.md)]  | Easy |
+| 686 | [重复叠加字符串匹配](../../problems/repeated-string-match) | [[字符串](../string/README.md)]  | Medium |
 | 681 | [最近时刻](../../problems/next-closest-time) 🔒 | [[字符串](../string/README.md)]  | Medium |
 | 680 | [验证回文字符串 Ⅱ](../../problems/valid-palindrome-ii) | [[字符串](../string/README.md)]  | Easy |
 | 678 | [有效的括号字符串](../../problems/valid-parenthesis-string) | [[字符串](../string/README.md)]  | Medium |

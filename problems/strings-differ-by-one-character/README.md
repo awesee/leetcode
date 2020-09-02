@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../bank-account-summary "Bank Account Summary")
 
-## [1554. Strings Differ by One Character (Medium)](https://leetcode.com/problems/strings-differ-by-one-character "")
+## [1554. Strings Differ by One Character (Medium)](https://leetcode.com/problems/strings-differ-by-one-character "只有一个不同字符的字符串")
 
 
 

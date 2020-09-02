@@ -5,10 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../string-compression-ii "String Compression II")
+[< Previous](../put-boxes-into-the-warehouse-i "Put Boxes Into the Warehouse I")
 　　　　　　　　　　　　　　　　
-[Next >](../find-the-index-of-the-large-integer "Find the Index of the Large Integer")
+[Next >](../detect-pattern-of-length-m-repeated-k-or-more-times "Detect Pattern of Length M Repeated K or More Times")
 
-## [1532. The Most Recent Three Orders (Medium)](https://leetcode.com/problems/the-most-recent-three-orders "最近的三笔订单")
+## [1565. Unique Orders and Customers Per Month (Easy)](https://leetcode.com/problems/unique-orders-and-customers-per-month "")
 
 

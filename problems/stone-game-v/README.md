@@ -7,7 +7,7 @@
 
 [< Previous](../find-latest-group-of-size-m "Find Latest Group of Size M")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../put-boxes-into-the-warehouse-i "Put Boxes Into the Warehouse I")
 
 ## [1563. Stone Game V (Hard)](https://leetcode.com/problems/stone-game-v "石子游戏 V")
 

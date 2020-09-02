@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../count-odd-numbers-in-an-interval-range "Count Odd Numbers in an Interval Range")
 
-## [1522. Diameter of N-Ary Tree (Medium)](https://leetcode.com/problems/diameter-of-n-ary-tree "")
+## [1522. Diameter of N-Ary Tree (Medium)](https://leetcode.com/problems/diameter-of-n-ary-tree "N 叉树的直径")
 
 
 

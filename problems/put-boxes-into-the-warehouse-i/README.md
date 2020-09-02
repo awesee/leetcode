@@ -5,10 +5,19 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../string-compression-ii "String Compression II")
+[< Previous](../stone-game-v "Stone Game V")
 　　　　　　　　　　　　　　　　
-[Next >](../find-the-index-of-the-large-integer "Find the Index of the Large Integer")
+[Next >](../unique-orders-and-customers-per-month "Unique Orders and Customers Per Month")
 
-## [1532. The Most Recent Three Orders (Medium)](https://leetcode.com/problems/the-most-recent-three-orders "最近的三笔订单")
+## [1564. Put Boxes Into the Warehouse I (Medium)](https://leetcode.com/problems/put-boxes-into-the-warehouse-i "")
 
 
+
+### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Sort the boxes in ascending order, try to process the box with the smallest height first.
+</details>
