@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../longest-uncommon-subsequence-ii "Longest Uncommon Subsequence II")
 
-## [521. Longest Uncommon Subsequence I  (Easy)](https://leetcode.com/problems/longest-uncommon-subsequence-i "最长特殊序列 Ⅰ")
+## [521. Longest Uncommon Subsequence I (Easy)](https://leetcode.com/problems/longest-uncommon-subsequence-i "最长特殊序列 Ⅰ")
 
 <p>Given two strings, you need to find the longest uncommon subsequence&nbsp;of this two strings. The longest uncommon subsequence is defined as the longest subsequence of one of these strings and this subsequence should not be <b>any</b> subsequence of the other string.</p>
 
@@ -47,8 +47,8 @@ Note that &quot;cdc&quot; can be also a longest uncommon subsequence.
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>Both strings&#39; lengths will be between <code>[1 - 100]</code>.</li>
-	<li>Only letters from a ~ z will appear in input strings.</li>
+	<li><code>1 &lt;= a.length, b.length &lt;= 100</code></li>
+	<li><code>a</code> and <code>b</code> consist of lower-case English letters.</li>
 </ul>
 
 ### Related Topics

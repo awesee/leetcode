@@ -7,7 +7,7 @@
 
 [< Previous](../random-flip-matrix "Random Flip Matrix")
 　　　　　　　　　　　　　　　　
-[Next >](../longest-uncommon-subsequence-i "Longest Uncommon Subsequence I ")
+[Next >](../longest-uncommon-subsequence-i "Longest Uncommon Subsequence I")
 
 ## [520. Detect Capital (Easy)](https://leetcode.com/problems/detect-capital "检测大写字母")
 

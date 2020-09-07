@@ -69,13 +69,13 @@ Notice each digit has it&#39;s own entry in the array.
 </pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><b>Note:</b></p>
-
-<ol>
-	<li>All characters have an ASCII value in <code>[35, 126]</code>.</li>
-	<li><code>1 &lt;= len(chars) &lt;= 1000</code>.</li>
-</ol>
+<ul>
+	<li><code>1 &lt;= chars.length &lt;= 2000</code></li>
+	<li><code>chars[i].length == 1</code></li>
+	<li><code>chars[i]</code> is a lower-case English letter, upper-case English letter, digit or a symbol.</li>
+</ul>
 
 ### Related Topics
   [[String](../../tag/string/README.md)]

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1574 | [删除最短的子数组使剩余数组有序](../../problems/shortest-subarray-to-be-removed-to-make-array-sorted) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1562 | [查找大小为 M 的最新分组](../../problems/find-latest-group-of-size-m) | [[二分查找](../binary-search/README.md)]  | Medium |
 | 1552 | [两球之间的磁力](../../problems/magnetic-force-between-two-balls) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1533 | [Find the Index of the Large Integer](../../problems/find-the-index-of-the-large-integer) 🔒 | [[二分查找](../binary-search/README.md)]  | Medium |

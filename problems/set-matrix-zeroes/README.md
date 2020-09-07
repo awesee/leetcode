@@ -43,7 +43,7 @@
 	<li><code>m == matrix.length</code></li>
 	<li><code>n == matrix[0].length</code></li>
 	<li><code>1 &lt;= m, n &lt;= 200</code></li>
-	<li><code>-10^9 &lt;= matrix[i][j] &lt;= 10^9</code></li>
+	<li><code>-2<sup>31</sup> &lt;= matrix[i][j] &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
 
 ### Related Topics

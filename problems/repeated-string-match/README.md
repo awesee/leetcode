@@ -11,7 +11,7 @@
 
 ## [686. Repeated String Match (Medium)](https://leetcode.com/problems/repeated-string-match "重复叠加字符串匹配")
 
-<p>Given two strings&nbsp;<code>a</code> and <code>b</code>, return the minimum number of times you should repeat the string&nbsp;<code>a</code>&nbsp;so that string&nbsp;<code>b</code>&nbsp;is a substring of it. If it&#39;s impossible for&nbsp;<code>b</code>​​​​​​ to be a substring of&nbsp;<code>a</code> after repeating it, return&nbsp;<code>-1</code>.</p>
+<p>Given two strings&nbsp;<code>a</code> and <code>b</code>, return the minimum number of times you should repeat string&nbsp;<code>a</code>&nbsp;so that string&nbsp;<code>b</code>&nbsp;is a substring of it. If it is&nbsp;impossible for&nbsp;<code>b</code>​​​​​​ to be a substring of&nbsp;<code>a</code> after repeating it, return&nbsp;<code>-1</code>.</p>
 
 <p><strong>Notice:</strong>&nbsp;string&nbsp;<code>&quot;abc&quot;</code>&nbsp;repeated 0 times is&nbsp;<code>&quot;&quot;</code>,&nbsp; repeated 1 time is&nbsp;<code>&quot;abc&quot;</code>&nbsp;and repeated 2 times is&nbsp;<code>&quot;abcabc&quot;</code>.</p>
 

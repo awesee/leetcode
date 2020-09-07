@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1575 | [统计所有可行路径](../../problems/count-all-possible-routes) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1569 | [将子数组重新排序得到同一个二叉查找树的方案数](../../problems/number-of-ways-to-reorder-array-to-get-same-bst) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1563 | [石子游戏 V](../../problems/stone-game-v) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1553 | [吃掉 N 个橘子的最少天数](../../problems/minimum-number-of-days-to-eat-n-oranges) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -89,6 +90,7 @@
 | 1055 | [形成字符串的最短路径](../../problems/shortest-way-to-form-string) 🔒 | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1049 | [最后一块石头的重量 II](../../problems/last-stone-weight-ii) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1048 | [最长字符串链](../../problems/longest-string-chain) | [[哈希表](../hash-table/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1043 | [分隔数组以得到最大和](../../problems/partition-array-for-maximum-sum) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1039 | [多边形三角剖分的最低得分](../../problems/minimum-score-triangulation-of-polygon) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1027 | [最长等差数列](../../problems/longest-arithmetic-subsequence) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1025 | [除数博弈](../../problems/divisor-game) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |

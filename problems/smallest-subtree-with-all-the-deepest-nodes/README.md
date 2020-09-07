@@ -50,7 +50,7 @@ Notice that nodes 5, 3 and 2 contain the deepest nodes in the tree but node 2 is
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the tree will be between in the range <code>[1, 500]</code>.</li>
+	<li>The number of nodes in the tree will be in the range <code>[1, 500]</code>.</li>
 	<li>The values of the nodes in the tree&nbsp;are <strong>unique</strong>.</li>
 </ul>
 

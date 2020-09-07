@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1574 | [删除最短的子数组使剩余数组有序](../../problems/shortest-subarray-to-be-removed-to-make-array-sorted) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1572 | [矩阵对角线元素的和](../../problems/matrix-diagonal-sum) | [[数组](../array/README.md)]  | Easy |
+| 1570 | [Dot Product of Two Sparse Vectors](../../problems/dot-product-of-two-sparse-vectors) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1566 | [重复至少 K 次且长度为 M 的模式](../../problems/detect-pattern-of-length-m-repeated-k-or-more-times) | [[数组](../array/README.md)]  | Easy |
 | 1560 | [圆形赛道上经过次数最多的扇区](../../problems/most-visited-sector-in-a-circular-track) | [[数组](../array/README.md)]  | Easy |
 | 1552 | [两球之间的磁力](../../problems/magnetic-force-between-two-balls) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

@@ -11,9 +11,9 @@
 
 ## [648. Replace Words (Medium)](https://leetcode.com/problems/replace-words "单词替换")
 
-<p>In English, we have a concept called <strong>root</strong>, which can be followed by some other words to form another longer word - let&#39;s call this word <strong>successor</strong>. For example, when the <strong>root</strong> <code>&quot;an&quot;</code> is&nbsp;followed by the <strong>successor</strong>&nbsp;word&nbsp;&quot;other&quot;, we&nbsp;can form a new word <code>&quot;another&quot;</code>.</p>
+<p>In English, we have a concept called <strong>root</strong>, which can be followed by some other word&nbsp;to form another longer word - let&#39;s call this word <strong>successor</strong>. For example, when the <strong>root</strong> <code>&quot;an&quot;</code> is&nbsp;followed by the <strong>successor</strong>&nbsp;word&nbsp;<code>&quot;other&quot;</code>, we&nbsp;can form a new word <code>&quot;another&quot;</code>.</p>
 
-<p>Given a <code>dictionary</code> consisting of many <strong>roots</strong> and a <code>sentence</code>&nbsp;consisting of words spearted by spaces. You need to replace all the <strong>successors</strong> in the sentence with the <strong>root</strong> forming it. If a <strong>successor</strong> can be replaced by more than one <strong>root</strong>,&nbsp;replace it with the <strong>root</strong> with <strong>the shortest length</strong>.</p>
+<p>Given a <code>dictionary</code> consisting of many <strong>roots</strong> and a <code>sentence</code>&nbsp;consisting of words separated by spaces, replace all the <strong>successors</strong> in the sentence with the <strong>root</strong> forming it. If a <strong>successor</strong> can be replaced by more than one <strong>root</strong>,&nbsp;replace it with the <strong>root</strong> that has&nbsp;<strong>the shortest length</strong>.</p>
 
 <p>Return <em>the <code>sentence</code></em> after the replacement.</p>
 
@@ -42,11 +42,11 @@
 	<li><code>1 &lt;= dictionary[i].length &lt;= 100</code></li>
 	<li><code>dictionary[i]</code>&nbsp;consists of only lower-case letters.</li>
 	<li><code>1 &lt;= sentence.length &lt;= 10^6</code></li>
-	<li><code>sentence</code>&nbsp;consists of only lower-case letters ans spaces.</li>
+	<li><code>sentence</code>&nbsp;consists of only lower-case letters and spaces.</li>
 	<li>The number of words in&nbsp;<code>sentence</code>&nbsp;is in the range <code>[1, 1000]</code></li>
 	<li>The length of each word in&nbsp;<code>sentence</code>&nbsp;is in the range <code>[1, 1000]</code></li>
-	<li>Each two words in&nbsp;<code>sentence</code>&nbsp;will be separted by exactly one space.</li>
-	<li><code>sentence</code>&nbsp;doesn&#39;t have leading or trailing spaces.</li>
+	<li>Each two consecutive words in&nbsp;<code>sentence</code>&nbsp;will be separated by exactly one space.</li>
+	<li><code>sentence</code>&nbsp;does not have leading or trailing spaces.</li>
 </ul>
 
 ### Related Topics

@@ -11,7 +11,7 @@
 
 ## [132. Palindrome Partitioning II (Hard)](https://leetcode.com/problems/palindrome-partitioning-ii "分割回文串 II")
 
-<p>Given a string <code>s</code>, partition <code>s</code> such that every substring of the partition is a palindrome</p>
+<p>Given a string <code>s</code>, partition <code>s</code> such that every substring of the partition is a palindrome.</p>
 
 <p>Return <em>the minimum cuts needed</em> for a palindrome partitioning of <code>s</code>.</p>
 

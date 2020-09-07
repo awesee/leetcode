@@ -49,7 +49,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The numner of nodes in <code>head</code> is in the range <code>[0, 2 * 10^4]</code>.</li>
+	<li>The number of nodes in <code>head</code> is in the range <code>[0, 2 * 10<sup>4</sup>]</code>.</li>
 	<li><code>-10^5 &lt;= Node.val &lt;= 10^5</code></li>
 </ul>
 

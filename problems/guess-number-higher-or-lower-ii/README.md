@@ -34,6 +34,12 @@ You end up paying $5 + $7 + $9 = $21.
 </pre>
 
 <p>Given a particular <strong>n &ge; 1</strong>, find out how much money you need to have to guarantee a <b>win</b>.</p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= n &lt;= 200</code></li>
+</ul>
 
 ### Related Topics
   [[Minimax](../../tag/minimax/README.md)]

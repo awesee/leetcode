@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1570 | [Dot Product of Two Sparse Vectors](../../problems/dot-product-of-two-sparse-vectors) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1248 | [统计「优美子数组」](../../problems/count-number-of-nice-subarrays) | [[双指针](../two-pointers/README.md)]  | Medium |
 | 1234 | [替换子串得到平衡字符串](../../problems/replace-the-substring-for-balanced-string) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1213 | [三个有序数组的交集](../../problems/intersection-of-three-sorted-arrays) 🔒 | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
