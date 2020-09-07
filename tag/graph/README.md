@@ -29,7 +29,6 @@
 | 1129 | [颜色交替的最短路径](../../problems/shortest-path-with-alternating-colors) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1102 | [得分最高的路径](../../problems/path-with-maximum-minimum-value) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1059 | [从始点到终点的所有路径](../../problems/all-paths-from-source-lead-to-destination) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
-| 1043 | [分隔数组以得到最大和](../../problems/partition-array-for-maximum-sum) | [[图](../graph/README.md)]  | Medium |
 | 1042 | [不邻接植花](../../problems/flower-planting-with-no-adjacent) | [[图](../graph/README.md)]  | Easy |
 | 997 | [找到小镇的法官](../../problems/find-the-town-judge) | [[图](../graph/README.md)]  | Easy |
 | 996 | [正方形数组的数目](../../problems/number-of-squareful-arrays) | [[图](../graph/README.md)] [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |

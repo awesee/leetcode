@@ -13,7 +13,7 @@
 
 <p>We have <code>n</code> chips, where the position of the <code>i<sup>th</sup></code> chip is <code>position[i]</code>.</p>
 
-<p>We need to move all the chips to <strong>the same position</strong>, In one step, we can change the position of the <code>i<sup>th</sup></code> chip from <code>position[i]</code> to:</p>
+<p>We need to move all the chips to <strong>the same position</strong>. In one step, we can change the position of the <code>i<sup>th</sup></code> chip from <code>position[i]</code> to:</p>
 
 <ul>
 	<li><code>position[i] + 2</code> or <code>position[i] - 2</code> with <code>cost = 0</code>.</li>

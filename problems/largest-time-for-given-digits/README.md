@@ -18,33 +18,26 @@
 <p>Return the answer as a string of length 5.&nbsp; If no valid time can be made, return an empty string.</p>
 
 <p>&nbsp;</p>
-
-<div>
 <p><strong>Example 1:</strong></p>
-
-<pre>
-<strong>Input: </strong><span id="example-input-1-1">[1,2,3,4]</span>
-<strong>Output: </strong><span id="example-output-1">&quot;23:41&quot;</span>
+<pre><strong>Input:</strong> A = [1,2,3,4]
+<strong>Output:</strong> "23:41"
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> A = [5,5,5,5]
+<strong>Output:</strong> ""
+</pre><p><strong>Example 3:</strong></p>
+<pre><strong>Input:</strong> A = [0,0,0,0]
+<strong>Output:</strong> "00:00"
+</pre><p><strong>Example 4:</strong></p>
+<pre><strong>Input:</strong> A = [0,0,1,0]
+<strong>Output:</strong> "10:00"
 </pre>
-
-<div>
-<p><strong>Example 2:</strong></p>
-
-<pre>
-<strong>Input: </strong><span id="example-input-2-1">[5,5,5,5]</span>
-<strong>Output: </strong><span id="example-output-2">&quot;&quot;</span>
-</pre>
-
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong><span>Note:</span></strong></p>
-
-<ol>
-	<li><code>A.length == 4</code></li>
-	<li><code>0 &lt;= A[i] &lt;= 9</code></li>
-</ol>
-</div>
-</div>
+<ul>
+	<li><code>arr.length == 4</code></li>
+	<li><code>0 &lt;= arr[i] &lt;= 9</code></li>
+</ul>
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]

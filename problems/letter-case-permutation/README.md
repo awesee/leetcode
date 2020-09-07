@@ -13,7 +13,7 @@
 
 <p>Given a string S, we can transform every letter individually&nbsp;to be lowercase or uppercase to create another string.</p>
 
-<p>Return <em>a list of all possible strings we could create</em>. You can return the output&nbsp; in <strong>any order</strong>.</p>
+<p>Return <em>a list of all possible strings we could create</em>. You can return the output&nbsp;in <strong>any order</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

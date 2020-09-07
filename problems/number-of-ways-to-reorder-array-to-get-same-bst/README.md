@@ -7,7 +7,7 @@
 
 [< Previous](../minimum-number-of-days-to-disconnect-island "Minimum Number of Days to Disconnect Island")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../dot-product-of-two-sparse-vectors "Dot Product of Two Sparse Vectors")
 
 ## [1569. Number of Ways to Reorder Array to Get Same BST (Hard)](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst "将子数组重新排序得到同一个二叉查找树的方案数")
 

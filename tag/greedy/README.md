@@ -9,7 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1568 | [使陆地分离的最少天数](../../problems/minimum-number-of-days-to-disconnect-island) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1578 | [避免重复字母的最小删除成本](../../problems/minimum-deletion-cost-to-avoid-repeating-letters) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1568 | [使陆地分离的最少天数](../../problems/minimum-number-of-days-to-disconnect-island) | [[贪心算法](../greedy/README.md)]  | Hard |
 | 1567 | [乘积为正数的最长子数组长度](../../problems/maximum-length-of-subarray-with-positive-product) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1564 | [Put Boxes Into the Warehouse I](../../problems/put-boxes-into-the-warehouse-i) 🔒 | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1558 | [得到目标数组的最少函数调用次数](../../problems/minimum-numbers-of-function-calls-to-make-target-array) | [[贪心算法](../greedy/README.md)]  | Medium |

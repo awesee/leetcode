@@ -17,9 +17,9 @@
 
 <ul>
 	<li><code>DinnerPlates(int capacity)</code> Initializes the object with the maximum <code>capacity</code> of the stacks.</li>
-	<li><code>void push(int val)</code>&nbsp;pushes the given positive integer <code>val</code> into the leftmost stack with size less than <code>capacity</code>.</li>
-	<li><code>int pop()</code>&nbsp;returns the value at the top of the rightmost non-empty stack and removes it from that stack, and returns <code>-1</code> if all stacks are empty.</li>
-	<li><code>int popAtStack(int index)</code>&nbsp;returns the value at the top of the stack with the given <code>index</code> and removes it from that stack, and returns -1 if the stack with that&nbsp;given <code>index</code> is empty.</li>
+	<li><code>void push(int val)</code>&nbsp;Pushes the given positive integer <code>val</code> into the leftmost stack with size less than <code>capacity</code>.</li>
+	<li><code>int pop()</code>&nbsp;Returns the value at the top of the rightmost non-empty stack and removes it from that stack, and returns <code>-1</code> if all stacks are empty.</li>
+	<li><code>int popAtStack(int index)</code>&nbsp;Returns the value at the top of the stack with the given <code>index</code> and removes it from that stack, and returns -1 if the stack with that&nbsp;given <code>index</code> is empty.</li>
 </ul>
 
 <p><strong>Example:</strong></p>

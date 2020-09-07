@@ -54,7 +54,7 @@
 | 77 | [组合](../../problems/combinations) | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 60 | [第k个排列](../../problems/permutation-sequence) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 52 | [N皇后 II](../../problems/n-queens-ii) | [[回溯算法](../backtracking/README.md)]  | Hard |
-| 51 | [N皇后](../../problems/n-queens) | [[回溯算法](../backtracking/README.md)]  | Hard |
+| 51 | [N 皇后](../../problems/n-queens) | [[回溯算法](../backtracking/README.md)]  | Hard |
 | 47 | [全排列 II](../../problems/permutations-ii) | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 46 | [全排列](../../problems/permutations) | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 44 | [通配符匹配](../../problems/wildcard-matching) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |

@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1576 | [替换所有的问号](../../problems/replace-all-s-to-avoid-consecutive-repeating-characters) | [[字符串](../string/README.md)]  | Easy |
+| 1573 | [分割字符串的方案数](../../problems/number-of-ways-to-split-a-string) | [[字符串](../string/README.md)]  | Medium |
 | 1556 | [千位分隔数](../../problems/thousand-separator) | [[字符串](../string/README.md)]  | Easy |
 | 1545 | [找出第 N 个二进制字符串中的第 K 位](../../problems/find-kth-bit-in-nth-binary-string) | [[字符串](../string/README.md)]  | Medium |
 | 1544 | [整理字符串](../../problems/make-the-string-great) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Easy |

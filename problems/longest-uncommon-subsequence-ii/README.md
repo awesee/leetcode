@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../longest-uncommon-subsequence-i "Longest Uncommon Subsequence I ")
+[< Previous](../longest-uncommon-subsequence-i "Longest Uncommon Subsequence I")
 　　　　　　　　　　　　　　　　
 [Next >](../continuous-subarray-sum "Continuous Subarray Sum")
 
@@ -41,4 +41,4 @@ The input will be a list of strings, and the output needs to be the length of th
   [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Longest Uncommon Subsequence I ](../longest-uncommon-subsequence-i) (Easy)
+  1. [Longest Uncommon Subsequence I](../longest-uncommon-subsequence-i) (Easy)

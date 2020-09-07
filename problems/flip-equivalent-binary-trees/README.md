@@ -59,7 +59,7 @@
 
 <ul>
 	<li>The number of nodes in each tree is in the range <code>[0, 100]</code>.</li>
-	<li>Each value in each tree will be a <strong>unique&nbsp;integer</strong> in the range <code>[0, 99]</code>.</li>
+	<li>Each tree will have <strong>unique node values</strong> in the range <code>[0, 99]</code>.</li>
 </ul>
 
 ### Related Topics

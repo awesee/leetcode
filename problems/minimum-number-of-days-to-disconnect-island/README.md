@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../number-of-ways-to-reorder-array-to-get-same-bst "Number of Ways to Reorder Array to Get Same BST")
 
-## [1568. Minimum Number of Days to Disconnect Island (Medium)](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island "使陆地分离的最少天数")
+## [1568. Minimum Number of Days to Disconnect Island (Hard)](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island "使陆地分离的最少天数")
 
 <p>Given a 2D&nbsp;<code>grid</code> consisting&nbsp;of <code>1</code>s (land)&nbsp;and <code>0</code>s (water).&nbsp; An <em>island</em> is a maximal 4-directionally (horizontal or vertical) connected group of <code>1</code>s.</p>
 
