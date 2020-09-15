@@ -11,11 +11,11 @@
 
 ## [1578. Minimum Deletion Cost to Avoid Repeating Letters (Medium)](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters "避免重复字母的最小删除成本")
 
-<p>Given a&nbsp;string <code>s</code> and an array of integers <code>cost</code> where <code>cost[i]</code>&nbsp;is the cost of&nbsp;deleting&nbsp;the character <code>i</code>&nbsp;in <code>s</code>.</p>
+<p>Given a&nbsp;string <code>s</code> and an array of integers <code>cost</code> where <code>cost[i]</code>&nbsp;is the cost of deleting the <code>i<sup>th</sup></code> character in <code>s</code>.</p>
 
-<p>Return the minimum cost of deletions&nbsp;such that there are no two identical letters next to each other.</p>
+<p>Return the minimum cost of deletions such that there are no two identical letters next to each other.</p>
 
-<p>Notice that you will delete the chosen characters at the same time, in other words, after deleting a character, the costs of deleting&nbsp;other characters will not change.</p>
+<p>Notice that you will delete the chosen characters at the same time, in other words, after deleting a character, the costs of deleting other characters will not change.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

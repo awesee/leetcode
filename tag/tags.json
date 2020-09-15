@@ -145,14 +145,14 @@
 		"TranslatedName": "极小化极大"
 	},
 	{
-		"Name": "Binary Indexed Tree",
-		"Slug": "binary-indexed-tree",
-		"TranslatedName": "树状数组"
-	},
-	{
 		"Name": "Brainteaser",
 		"Slug": "brainteaser",
 		"TranslatedName": "脑筋急转弯"
+	},
+	{
+		"Name": "Binary Indexed Tree",
+		"Slug": "binary-indexed-tree",
+		"TranslatedName": "树状数组"
 	},
 	{
 		"Name": "Line Sweep",

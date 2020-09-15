@@ -59,8 +59,8 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>s[i] == &#39;0&#39;</code>&nbsp;or&nbsp;<code>s[i] == &#39;1&#39;</code></li>
 	<li><code>3 &lt;= s.length &lt;= 10^5</code></li>
+	<li><code>s[i]</code> is <code>&#39;0&#39;</code>&nbsp;or&nbsp;<code>&#39;1&#39;</code>.</li>
 </ul>
 
 ### Related Topics

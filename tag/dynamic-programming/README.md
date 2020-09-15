@@ -102,7 +102,6 @@
 | 978 | [最长湍流子数组](../../problems/longest-turbulent-subarray) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 975 | [奇偶跳](../../problems/odd-even-jump) | [[栈](../stack/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Hard |
 | 968 | [监控二叉树](../../problems/binary-tree-cameras) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 967 | [连续差相同的数字](../../problems/numbers-with-same-consecutive-differences) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 964 | [表示数字的最少运算符](../../problems/least-operators-to-express-number) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 960 | [删列造序 III](../../problems/delete-columns-to-make-sorted-iii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 956 | [最高的广告牌](../../problems/tallest-billboard) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

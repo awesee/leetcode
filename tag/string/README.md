@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1585 | [检查字符串是否可以通过排序子字符串得到另一个字符串](../../problems/check-if-string-is-transformable-with-substring-sort-operations) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 1576 | [替换所有的问号](../../problems/replace-all-s-to-avoid-consecutive-repeating-characters) | [[字符串](../string/README.md)]  | Easy |
 | 1573 | [分割字符串的方案数](../../problems/number-of-ways-to-split-a-string) | [[字符串](../string/README.md)]  | Medium |
 | 1556 | [千位分隔数](../../problems/thousand-separator) | [[字符串](../string/README.md)]  | Easy |
@@ -143,11 +144,11 @@
 | 536 | [从字符串生成二叉树](../../problems/construct-binary-tree-from-string) 🔒 | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 527 | [单词缩写](../../problems/word-abbreviation) 🔒 | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 522 | [最长特殊序列 II](../../problems/longest-uncommon-subsequence-ii) | [[字符串](../string/README.md)]  | Medium |
-| 521 | [最长特殊序列 Ⅰ](../../problems/longest-uncommon-subsequence-i) | [[字符串](../string/README.md)]  | Easy |
+| 521 | [最长特殊序列 Ⅰ](../../problems/longest-uncommon-subsequence-i) | [[脑筋急转弯](../brainteaser/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 520 | [检测大写字母](../../problems/detect-capital) | [[字符串](../string/README.md)]  | Easy |
 | 468 | [验证IP地址](../../problems/validate-ip-address) | [[字符串](../string/README.md)]  | Medium |
 | 459 | [重复的子字符串](../../problems/repeated-substring-pattern) | [[字符串](../string/README.md)]  | Easy |
-| 443 | [压缩字符串](../../problems/string-compression) | [[字符串](../string/README.md)]  | Easy |
+| 443 | [压缩字符串](../../problems/string-compression) | [[字符串](../string/README.md)]  | Medium |
 | 434 | [字符串中的单词数](../../problems/number-of-segments-in-a-string) | [[字符串](../string/README.md)]  | Easy |
 | 415 | [字符串相加](../../problems/add-strings) | [[字符串](../string/README.md)]  | Easy |
 | 408 | [有效单词缩写](../../problems/valid-word-abbreviation) 🔒 | [[字符串](../string/README.md)]  | Easy |

@@ -7,7 +7,7 @@
 
 [< Previous](../minimum-deletion-cost-to-avoid-repeating-letters "Minimum Deletion Cost to Avoid Repeating Letters")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../put-boxes-into-the-warehouse-ii "Put Boxes Into the Warehouse II")
 
 ## [1579. Remove Max Number of Edges to Keep Graph Fully Traversable (Hard)](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable "保证图可完全遍历")
 

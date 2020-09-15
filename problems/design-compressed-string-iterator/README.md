@@ -53,4 +53,4 @@ iterator.next(); // return ' '
 
 ### Similar Questions
   1. [LRU Cache](../lru-cache) (Medium)
-  1. [String Compression](../string-compression) (Easy)
+  1. [String Compression](../string-compression) (Medium)

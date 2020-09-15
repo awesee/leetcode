@@ -52,7 +52,7 @@
 
 ### Similar Questions
   1. [Encode and Decode Strings](../encode-and-decode-strings) (Medium)
-  1. [String Compression](../string-compression) (Easy)
+  1. [String Compression](../string-compression) (Medium)
 
 ### Hints
 <details>

@@ -81,7 +81,7 @@
 | 964 | [表示数字的最少运算符](../../problems/least-operators-to-express-number) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 963 | [最小面积矩形 II](../../problems/minimum-area-rectangle-ii) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
 | 952 | [按公因数计算最大组件大小](../../problems/largest-component-size-by-common-factor) | [[并查集](../union-find/README.md)] [[数学](../math/README.md)]  | Hard |
-| 949 | [给定数字能组成的最大时间](../../problems/largest-time-for-given-digits) | [[数学](../math/README.md)]  | Easy |
+| 949 | [给定数字能组成的最大时间](../../problems/largest-time-for-given-digits) | [[数学](../math/README.md)]  | Medium |
 | 942 | [增减字符串匹配](../../problems/di-string-match) | [[数学](../math/README.md)]  | Easy |
 | 927 | [三等分](../../problems/three-equal-parts) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 914 | [卡牌分组](../../problems/x-of-a-kind-in-a-deck-of-cards) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |

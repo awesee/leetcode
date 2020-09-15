@@ -11,38 +11,57 @@
 
 ## [967. Numbers With Same Consecutive Differences (Medium)](https://leetcode.com/problems/numbers-with-same-consecutive-differences "连续差相同的数字")
 
-<p>Return all <strong>non-negative</strong> integers of length <code>N</code> such that the absolute difference between every two consecutive digits is <code>K</code>.</p>
+<p>Return all <strong>non-negative</strong> integers of length <code>n</code> such that the absolute difference between every two consecutive digits is <code>k</code>.</p>
 
 <p>Note that <strong>every</strong> number in the answer <strong>must not</strong> have leading zeros <strong>except</strong> for the number <code>0</code> itself. For example, <code>01</code> has one leading zero and is invalid, but <code>0</code> is valid.</p>
 
-<p>You may return the answer in any order.</p>
+<p>You may return the answer in <strong>any order</strong>.</p>
 
 <p>&nbsp;</p>
-
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong>N = <span id="example-input-1-1">3</span>, K = <span id="example-input-1-2">7</span>
-<strong>Output: </strong><span id="example-output-1">[181,292,707,818,929]</span>
+<strong>Input:</strong> n = 3, k = 7
+<strong>Output:</strong> [181,292,707,818,929]
 <strong>Explanation: </strong>Note that 070 is not a valid number, because it has leading zeroes.
 </pre>
 
-<div>
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong>N = <span id="example-input-2-1">2</span>, K = <span id="example-input-2-2">1</span>
-<strong>Output: </strong><span id="example-output-2">[10,12,21,23,32,34,43,45,54,56,65,67,76,78,87,89,98]</span></pre>
+<strong>Input:</strong> n = 2, k = 1
+<strong>Output:</strong> [10,12,21,23,32,34,43,45,54,56,65,67,76,78,87,89,98]
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 2, k = 0
+<strong>Output:</strong> [11,22,33,44,55,66,77,88,99]
+</pre>
+
+<p><strong>Example 4:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 2, k = 1
+<strong>Output:</strong> [10,12,21,23,32,34,43,45,54,56,65,67,76,78,87,89,98]
+</pre>
+
+<p><strong>Example 5:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 2, k = 2
+<strong>Output:</strong> [13,20,24,31,35,42,46,53,57,64,68,75,79,86,97]
+</pre>
 
 <p>&nbsp;</p>
-</div>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
-	<li><code>1 &lt;= N &lt;= 9</code></li>
-	<li><code>0 &lt;= K &lt;= 9</code></li>
-</ol>
+<ul>
+	<li><code>2 &lt;= n &lt;= 9</code></li>
+	<li><code>0 &lt;= k &lt;= 9</code></li>
+</ul>
 
 ### Related Topics
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]

@@ -70,6 +70,12 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1585">1585</span> | [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations "检查字符串是否可以通过排序子字符串得到另一个字符串") | [Go](problems/check-if-string-is-transformable-with-substring-sort-operations) | Hard |
+| <span id="1584">1584</span> | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points "连接所有点的最小费用") | [Go](problems/min-cost-to-connect-all-points) | Medium |
+| <span id="1583">1583</span> | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends "统计不开心的朋友") | [Go](problems/count-unhappy-friends) | Medium |
+| <span id="1582">1582</span> | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix "二进制矩阵中的特殊位置") | [Go](problems/special-positions-in-a-binary-matrix) | Easy |
+| <span id="1581">1581</span> | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) 🔒 | [MySQL](problems/customer-who-visited-but-did-not-make-any-transactions) | Easy |
+| <span id="1580">1580</span> | [Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii) 🔒 | [Go](problems/put-boxes-into-the-warehouse-ii) | Medium |
 | <span id="1579">1579</span> | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable "保证图可完全遍历") | [Go](problems/remove-max-number-of-edges-to-keep-graph-fully-traversable) | Hard |
 | <span id="1578">1578</span> | [Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters "避免重复字母的最小删除成本") | [Go](problems/minimum-deletion-cost-to-avoid-repeating-letters) | Medium |
 | <span id="1577">1577</span> | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers "数的平方等于两数乘积的方法数") | [Go](problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) | Medium |
