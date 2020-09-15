@@ -61,5 +61,5 @@ vector&lt;string&gt; strs2 = decode(encoded_string);
 ### Similar Questions
   1. [Count and Say](../count-and-say) (Easy)
   1. [Serialize and Deserialize Binary Tree](../serialize-and-deserialize-binary-tree) (Hard)
-  1. [String Compression](../string-compression) (Easy)
+  1. [String Compression](../string-compression) (Medium)
   1. [Count Binary Substrings](../count-binary-substrings) (Easy)

@@ -11,13 +11,15 @@
 
 ## [141. Linked List Cycle (Easy)](https://leetcode.com/problems/linked-list-cycle "环形链表")
 
-<p>Given a linked list, determine if it has a cycle in it.</p>
+<p>Given <code>head</code>, the head of a linked list, determine if the linked list has a cycle in it.</p>
 
-<p>To represent a cycle in the given linked list, we use an integer <code>pos</code> which represents the position (0-indexed)&nbsp;in the linked list where the tail connects to. If <code>pos&nbsp;==&nbsp;-1</code>, then there is no cycle in the linked list.</p>
+<p>There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the&nbsp;<code>next</code>&nbsp;pointer. Internally, <code>pos</code>&nbsp;is used to denote the index of the node that&nbsp;tail&#39;s&nbsp;<code>next</code>&nbsp;pointer is connected to.&nbsp;<strong>Note that&nbsp;<code>pos</code>&nbsp;is not passed as a parameter</strong>.</p>
+
+<p>Return&nbsp;<code>true</code><em> if there is a cycle in the linked list</em>. Otherwise, return <code>false</code>.</p>
 
 <p><strong>Follow up:</strong></p>
 
-<p>Can you solve it using <em>O(1)</em> (i.e. constant) memory?</p>
+<p>Can you solve it using <code>O(1)</code> (i.e. constant) memory?</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -25,7 +27,7 @@
 <pre>
 <strong>Input:</strong> head = [3,2,0,-4], pos = 1
 <strong>Output:</strong> true
-<strong>Explanation:</strong> There is a cycle in the linked list, where tail connects to the second node.
+<strong>Explanation:</strong> There is a cycle in the linked list, where the tail connects to the 1st node (0-indexed).
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -33,7 +35,7 @@
 <pre>
 <strong>Input:</strong> head = [1,2], pos = 0
 <strong>Output:</strong> true
-<strong>Explanation:</strong> There is a cycle in the linked list, where tail connects to the first node.
+<strong>Explanation:</strong> There is a cycle in the linked list, where the tail connects to the 0th node.
 </pre>
 
 <p><strong>Example 3:</strong></p>

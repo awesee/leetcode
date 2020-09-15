@@ -62,6 +62,7 @@
 	<li><code>0 &lt;= m &lt;= 1000</code></li>
 	<li><code>0 &lt;= n &lt;= 1000</code></li>
 	<li><code>1 &lt;= m + n &lt;= 2000</code></li>
+	<li><code>-10<sup>6</sup> &lt;= nums1[i], nums2[i] &lt;= 10<sup>6</sup></code></li>
 </ul>
 
 ### Related Topics

@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1585 | [检查字符串是否可以通过排序子字符串得到另一个字符串](../../problems/check-if-string-is-transformable-with-substring-sort-operations) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 1580 | [Put Boxes Into the Warehouse II](../../problems/put-boxes-into-the-warehouse-ii) 🔒 | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1578 | [避免重复字母的最小删除成本](../../problems/minimum-deletion-cost-to-avoid-repeating-letters) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1568 | [使陆地分离的最少天数](../../problems/minimum-number-of-days-to-disconnect-island) | [[贪心算法](../greedy/README.md)]  | Hard |
 | 1567 | [乘积为正数的最长子数组长度](../../problems/maximum-length-of-subarray-with-positive-product) | [[贪心算法](../greedy/README.md)]  | Medium |

@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1583 | [统计不开心的朋友](../../problems/count-unhappy-friends) | [[数组](../array/README.md)]  | Medium |
+| 1582 | [二进制矩阵中的特殊位置](../../problems/special-positions-in-a-binary-matrix) | [[数组](../array/README.md)]  | Easy |
 | 1574 | [删除最短的子数组使剩余数组有序](../../problems/shortest-subarray-to-be-removed-to-make-array-sorted) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1572 | [矩阵对角线元素的和](../../problems/matrix-diagonal-sum) | [[数组](../array/README.md)]  | Easy |
 | 1570 | [Dot Product of Two Sparse Vectors](../../problems/dot-product-of-two-sparse-vectors) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
@@ -25,7 +27,7 @@
 | 1508 | [子数组和排序后的区间和](../../problems/range-sum-of-sorted-subarray-sums) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1503 | [所有蚂蚁掉下来前的最后一刻](../../problems/last-moment-before-all-ants-fall-out-of-a-plank) | [[脑筋急转弯](../brainteaser/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1502 | [判断能否形成等差数列](../../problems/can-make-arithmetic-progression-from-sequence) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
-| 1500 | [Design a File Sharing System](../../problems/design-a-file-sharing-system) 🔒 | [[数组](../array/README.md)]  | Medium |
+| 1500 | [Design a File Sharing System](../../problems/design-a-file-sharing-system) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1499 | [满足不等式的最大值](../../problems/max-value-of-equation) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
 | 1497 | [检查数组对是否可以被 k 整除](../../problems/check-if-array-pairs-are-divisible-by-k) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1493 | [删掉一个元素以后全为 1 的最长子数组](../../problems/longest-subarray-of-1s-after-deleting-one-element) | [[数组](../array/README.md)]  | Medium |
@@ -159,8 +161,8 @@
 | 873 | [最长的斐波那契子序列的长度](../../problems/length-of-longest-fibonacci-subsequence) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 870 | [优势洗牌](../../problems/advantage-shuffle) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 867 | [转置矩阵](../../problems/transpose-matrix) | [[数组](../array/README.md)]  | Easy |
-| 849 | [到最近的人的最大距离](../../problems/maximize-distance-to-closest-person) | [[数组](../array/README.md)]  | Easy |
-| 840 | [矩阵中的幻方](../../problems/magic-squares-in-grid) | [[数组](../array/README.md)]  | Easy |
+| 849 | [到最近的人的最大距离](../../problems/maximize-distance-to-closest-person) | [[数组](../array/README.md)]  | Medium |
+| 840 | [矩阵中的幻方](../../problems/magic-squares-in-grid) | [[数组](../array/README.md)]  | Medium |
 | 835 | [图像重叠](../../problems/image-overlap) | [[数组](../array/README.md)]  | Medium |
 | 832 | [翻转图像](../../problems/flipping-an-image) | [[数组](../array/README.md)]  | Easy |
 | 830 | [较大分组的位置](../../problems/positions-of-large-groups) | [[数组](../array/README.md)]  | Easy |

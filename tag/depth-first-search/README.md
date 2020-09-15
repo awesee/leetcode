@@ -50,6 +50,7 @@
 | 979 | [在二叉树中分配硬币](../../problems/distribute-coins-in-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 971 | [翻转二叉树以匹配先序遍历](../../problems/flip-binary-tree-to-match-preorder-traversal) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 968 | [监控二叉树](../../problems/binary-tree-cameras) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 967 | [连续差相同的数字](../../problems/numbers-with-same-consecutive-differences) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 959 | [由斜杠划分区域](../../problems/regions-cut-by-slashes) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
 | 947 | [移除最多的同行或同列石头](../../problems/most-stones-removed-with-same-row-or-column) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
 | 934 | [最短的桥](../../problems/shortest-bridge) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
