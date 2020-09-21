@@ -24,34 +24,57 @@
 <p>Return the exclusive time of each function, sorted by their function id.</p>
 
 <p>&nbsp;</p>
-
-<p><b>Example 1:</b></p>
-
-<p><b><img alt="" src="https://assets.leetcode.com/uploads/2019/04/05/diag1b.png" style="width: 500px; height: 218px;" /></b></p>
-
+<p><strong>Example 1:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2019/04/05/diag1b.png" style="width: 550px; height: 239px;" />
 <pre>
-<b>Input:</b>
-n = 2
-logs = [&quot;0:start:0&quot;,&quot;1:start:2&quot;,&quot;1:end:5&quot;,&quot;0:end:6&quot;]
-<b>Output: </b>[3, 4]
-<b>Explanation:</b>
+<strong>Input:</strong> n = 2, logs = [&quot;0:start:0&quot;,&quot;1:start:2&quot;,&quot;1:end:5&quot;,&quot;0:end:6&quot;]
+<strong>Output:</strong> [3,4]
+<strong>Explanation:</strong>
 Function 0 starts at the beginning of time 0, then it executes 2 units of time and reaches the end of time 1.
 Now function 1 starts at the beginning of time 2, executes 4 units of time and ends at time 5.
 Function 0 is running again at the beginning of time 6, and also ends at the end of time 6, thus executing for 1 unit of time. 
 So function 0 spends 2 + 1 = 3 units of total time executing, and function 1 spends 4 units of total time executing.
 </pre>
 
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 1, logs = [&quot;0:start:0&quot;,&quot;0:start:2&quot;,&quot;0:end:5&quot;,&quot;0:start:6&quot;,&quot;0:end:6&quot;,&quot;0:end:7&quot;]
+<strong>Output:</strong> [8]
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 2, logs = [&quot;0:start:0&quot;,&quot;0:start:2&quot;,&quot;0:end:5&quot;,&quot;1:start:6&quot;,&quot;1:end:6&quot;,&quot;0:end:7&quot;]
+<strong>Output:</strong> [7,1]
+</pre>
+
+<p><strong>Example 4:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 2, logs = [&quot;0:start:0&quot;,&quot;0:start:2&quot;,&quot;0:end:5&quot;,&quot;1:start:7&quot;,&quot;1:end:7&quot;,&quot;0:end:8&quot;]
+<strong>Output:</strong> [8,1]
+</pre>
+
+<p><strong>Example 5:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 1, logs = [&quot;0:start:0&quot;,&quot;0:end:0&quot;]
+<strong>Output:</strong> [1]
+</pre>
+
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><b>Note:</b></p>
-
-<ol>
+<ul>
 	<li><code>1 &lt;= n &lt;= 100</code></li>
-	<li>Two functions won&#39;t start or end at the same time.</li>
-	<li>Functions will always log when they exit.</li>
-</ol>
-
-<p>&nbsp;</p>
+	<li><code>1 &lt;= logs.length &lt;= 500</code></li>
+	<li><code>0 &lt;= function_id &lt; 100</code></li>
+	<li><code>0 &lt;= timestamp &lt;= 10<sup>9</sup></code></li>
+	<li>Two functions <strong>do not</strong>&nbsp;start or end at the same time.</li>
+	<li>Each function has an <code>&quot;end&quot;</code> log for each <code>&quot;start&quot;</code> log.</li>
+</ul>
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]

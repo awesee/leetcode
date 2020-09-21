@@ -11,17 +11,15 @@
 
 ## [1003. Check If Word Is Valid After Substitutions (Medium)](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions "检查替换后的词是否有效")
 
-<p>We can say that a string is valid if it follows one of the three following cases:</p>
+<p>Given a string <code>s</code>, determine if it is <strong>valid</strong>.</p>
+
+<p>A string <code>s</code> is <strong>valid</strong> if, starting with an empty string <code>t = &quot;&quot;</code>, you can <strong>transform </strong><code>t</code><strong> into </strong><code>s</code> after performing the following operation <strong>any number of times</strong>:</p>
 
 <ul>
-	<li>An empty string <code>&quot;&quot;</code> is valid.</li>
-	<li>The string <code>&quot;abc&quot;</code> is also valid.</li>
-	<li>Any string in the form <code>&quot;a&quot; + str + &quot;bc&quot;</code>, <code>&quot;ab&quot; + str + &quot;c&quot;</code>, <code>str + &quot;abc&quot;</code> or <code>&quot;abc&quot; + str</code> where <code>str</code> is a valid string is also considered a valid string.</li>
+	<li>Insert string <code>&quot;abc&quot;</code> into any position in <code>t</code>. More formally, <code>t</code> becomes <code>t<sub>left</sub> + &quot;abc&quot; + t<sub>right</sub></code>, where <code>t == t<sub>left</sub> + t<sub>right</sub></code>. Note that <code>t<sub>left</sub></code> and <code>t<sub>right</sub></code> may be <strong>empty</strong>.</li>
 </ul>
 
-<p>For example, <code>&quot;&quot;</code>, <code>&quot;abc&quot;</code>,&nbsp;<code>&quot;aabcbc&quot;</code>,&nbsp;<code>&quot;abcabc&quot;</code> and&nbsp;<code>&quot;abcabcababcc&quot;</code>&nbsp;are all <strong>valid</strong> strings, while&nbsp;<code>&quot;abccba&quot;</code>,&nbsp;<code>&quot;ab&quot;</code>, <code>&quot;cababc&quot;</code> and&nbsp;<code>&quot;bac&quot;</code>&nbsp;are <strong>not valid</strong> strings.</p>
-
-<p>Given a string <code>s</code>, return <code>true</code> if it is a valid string, otherwise, return <code>false</code>.</p>
+<p>Return <code>true</code> <em>if </em><code>s</code><em> is a <strong>valid</strong> string, otherwise, return</em> <code>false</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -29,19 +27,18 @@
 <pre>
 <strong>Input:</strong> s = &quot;aabcbc&quot;
 <strong>Output:</strong> true
-<strong>Explanation: </strong>
-We start with the valid string &quot;abc&quot;.
-Then we can insert another &quot;abc&quot; between &quot;a&quot; and &quot;bc&quot;, resulting in &quot;a&quot; + &quot;abc&quot; + &quot;bc&quot; which is &quot;aabcbc&quot;.
-</pre>
+<strong>Explanation:</strong>
+&quot;&quot; -&gt; &quot;<u>abc</u>&quot; -&gt; &quot;a<u>abc</u>bc&quot;
+Thus, &quot;aabcbc&quot; is valid.</pre>
 
 <p><strong>Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> s = &quot;abcabcababcc&quot;
 <strong>Output:</strong> true
-<strong>Explanation: </strong>
-&quot;abcabcabc&quot; is valid after consecutive insertings of &quot;abc&quot;.
-Then we can insert &quot;abc&quot; before the last letter, resulting in &quot;abcabcab&quot; + &quot;abc&quot; + &quot;c&quot; which is &quot;abcabcababcc&quot;.
+<strong>Explanation:</strong>
+&quot;&quot; -&gt; &quot;<u>abc</u>&quot; -&gt; &quot;abc<u>abc</u>&quot; -&gt; &quot;abcabc<u>abc</u>&quot; -&gt; &quot;abcabcab<u>abc</u>c&quot;
+Thus, &quot;abcabcababcc&quot; is valid.
 </pre>
 
 <p><strong>Example 3:</strong></p>
@@ -49,6 +46,7 @@ Then we can insert &quot;abc&quot; before the last letter, resulting in &quot;ab
 <pre>
 <strong>Input:</strong> s = &quot;abccba&quot;
 <strong>Output:</strong> false
+<strong>Explanation:</strong> It is impossible to get &quot;abccba&quot; using the operation.
 </pre>
 
 <p><strong>Example 4:</strong></p>
@@ -56,6 +54,7 @@ Then we can insert &quot;abc&quot; before the last letter, resulting in &quot;ab
 <pre>
 <strong>Input:</strong> s = &quot;cababc&quot;
 <strong>Output:</strong> false
+<strong>Explanation:</strong> It is impossible to get &quot;cababc&quot; using the operation.
 </pre>
 
 <p>&nbsp;</p>
@@ -63,7 +62,7 @@ Then we can insert &quot;abc&quot; before the last letter, resulting in &quot;ab
 
 <ul>
 	<li><code>1 &lt;= s.length &lt;= 2 * 10<sup>4</sup></code></li>
-	<li><code>s[i]</code> is <code>&#39;a&#39;</code>, <code>&#39;b&#39;</code>, or <code>&#39;c&#39;</code></li>
+	<li><code>s</code> consists of letters <code>&#39;a&#39;</code>, <code>&#39;b&#39;</code>, and <code>&#39;c&#39;</code></li>
 </ul>
 
 ### Related Topics

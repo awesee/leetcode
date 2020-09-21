@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1590 | [使数组和能被 P 整除](../../problems/make-sum-divisible-by-p) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1588 | [所有奇数长度子数组的和](../../problems/sum-of-all-odd-length-subarrays) | [[数组](../array/README.md)]  | Easy |
 | 1583 | [统计不开心的朋友](../../problems/count-unhappy-friends) | [[数组](../array/README.md)]  | Medium |
 | 1582 | [二进制矩阵中的特殊位置](../../problems/special-positions-in-a-binary-matrix) | [[数组](../array/README.md)]  | Easy |
 | 1574 | [删除最短的子数组使剩余数组有序](../../problems/shortest-subarray-to-be-removed-to-make-array-sorted) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

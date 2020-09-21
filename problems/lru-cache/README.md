@@ -11,15 +11,18 @@
 
 ## [146. LRU Cache (Medium)](https://leetcode.com/problems/lru-cache "LRU缓存机制")
 
-<p>Design and implement a data structure for <a href="https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU" target="_blank">Least Recently Used (LRU) cache</a>. It should support the following operations: <code>get</code> and <code>put</code>.</p>
+<p>Design a data structure that follows the constraints of a <strong><a href="https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU" target="_blank">Least Recently Used (LRU) cache</a></strong>.</p>
 
-<p><code>get(key)</code> - Get the value (will always be positive) of the key if the key exists in the cache, otherwise return -1.<br />
-<code>put(key, value)</code> - Set or insert the value if the key is not already present. When the cache reached its capacity, it should invalidate the least recently used item before inserting a new item.</p>
+<p>Implement the <code>LRUCache</code> class:</p>
 
-<p>The cache is initialized with a <strong>positive</strong> capacity.</p>
+<ul>
+	<li><code>LRUCache(int capacity)</code> Initialize the LRU cache with <strong>positive</strong> size <code>capacity</code>.</li>
+	<li><code>int get(int key)</code> Return the value of the <code>key</code> if the key exists, otherwise return <code>-1</code>.</li>
+	<li><code>void put(int key, int value)</code>&nbsp;Update the value of the <code>key</code> if the <code>key</code> exists. Otherwise, add the <code>key-value</code> pair to the cache. If the number of keys exceeds the <code>capacity</code> from this operation, <strong>evict</strong> the least recently used key.</li>
+</ul>
 
 <p><b>Follow up:</b><br />
-Could you do both operations in <code>O(1)</code> time complexity?</p>
+Could you do <code>get</code> and <code>put</code> in <code>O(1)</code> time complexity?</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -33,12 +36,12 @@ Could you do both operations in <code>O(1)</code> time complexity?</p>
 
 <strong>Explanation</strong>
 LRUCache lRUCache = new LRUCache(2);
-lRUCache.put(1, 1);
-lRUCache.put(2, 2);
+lRUCache.put(1, 1); // cache is {1=1}
+lRUCache.put(2, 2); // cache is {1=1, 2=2}
 lRUCache.get(1);    // return 1
-lRUCache.put(3, 3); // evicts key 2
+lRUCache.put(3, 3); // LRU key was 2, evicts key 2, cache is {1=1, 3=3}
 lRUCache.get(2);    // returns -1 (not found)
-lRUCache.put(4, 4); // evicts key 1
+lRUCache.put(4, 4); // LRU key was 1, evicts key 1, cache is {4=4, 3=3}
 lRUCache.get(1);    // return -1 (not found)
 lRUCache.get(3);    // return 3
 lRUCache.get(4);    // return 4

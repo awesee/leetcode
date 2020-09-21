@@ -62,9 +62,9 @@ Attend the third event on day 3.
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= events.length &lt;= 10^5</code></li>
+	<li><code>1 &lt;= events.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>events[i].length == 2</code></li>
-	<li><code>1 &lt;= events[i][0] &lt;= events[i][1] &lt;= 10^5</code></li>
+	<li><code>1 &lt;= startDay<sub>i</sub> &lt;= endDay<sub>i</sub> &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 ### Related Topics

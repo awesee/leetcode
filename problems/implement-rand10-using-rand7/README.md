@@ -11,18 +11,16 @@
 
 ## [470. Implement Rand10() Using Rand7() (Medium)](https://leetcode.com/problems/implement-rand10-using-rand7 "用 Rand7() 实现 Rand10()")
 
-<p>Given the <strong>API</strong>&nbsp;<code>rand7</code> which generates a uniform random integer in the range 1 to 7, write a function <code>rand10</code>&nbsp;which generates a uniform random integer in the range 1 to 10. You can only call the API <code>rand7</code>&nbsp;and you shouldn&#39;t call any other API. Please&nbsp;<strong>don&#39;t</strong> use the system&#39;s <code>Math.random()</code>.</p>
+<p>Given the <strong>API</strong> <code>rand7()</code> that generates a uniform random integer in the range <code>[1, 7]</code>, write a function <code>rand10()</code> that generates a uniform random integer in the range <code>[1, 10]</code>. You can only call the API <code>rand7()</code>, and you shouldn&#39;t call any other API. Please <strong>do not</strong> use a language&#39;s built-in random API.</p>
 
-<div>
-<p><strong>Notice that </strong>Each test case has one argument&nbsp;<code>n</code>, the number of times that your implemented function&nbsp;<code>rand10</code> will be called while testing.&nbsp;</p>
+<p>Each test case will have one <strong>internal</strong> argument <code>n</code>, the number of times that your implemented function <code>rand10()</code> will be called while testing. Note that this is <strong>not an argument</strong> passed to <code>rand10()</code>.</p>
 
 <p><strong>Follow up:</strong></p>
 
-<ol>
+<ul>
 	<li>What is the <a href="https://en.wikipedia.org/wiki/Expected_value" target="_blank">expected value</a>&nbsp;for the number of calls to&nbsp;<code>rand7()</code>&nbsp;function?</li>
 	<li>Could you minimize the number of calls to <code>rand7()</code>?</li>
-</ol>
-</div>
+</ul>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

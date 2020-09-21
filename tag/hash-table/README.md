@@ -109,7 +109,7 @@
 | 336 | [回文对](../../problems/palindrome-pairs) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 325 | [和等于 k 的最长子数组长度](../../problems/maximum-size-subarray-sum-equals-k) 🔒 | [[哈希表](../hash-table/README.md)]  | Medium |
 | 311 | [稀疏矩阵的乘法](../../problems/sparse-matrix-multiplication) 🔒 | [[哈希表](../hash-table/README.md)]  | Medium |
-| 299 | [猜数字游戏](../../problems/bulls-and-cows) | [[哈希表](../hash-table/README.md)]  | Easy |
+| 299 | [猜数字游戏](../../problems/bulls-and-cows) | [[哈希表](../hash-table/README.md)]  | Medium |
 | 290 | [单词规律](../../problems/word-pattern) | [[哈希表](../hash-table/README.md)]  | Easy |
 | 288 | [单词的唯一缩写](../../problems/unique-word-abbreviation) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 274 | [H 指数](../../problems/h-index) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |

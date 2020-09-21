@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1595 | [连通两组点的最小成本](../../problems/minimum-cost-to-connect-two-groups-of-points) | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1594 | [矩阵的最大非负积](../../problems/maximum-non-negative-product-in-a-matrix) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1575 | [统计所有可行路径](../../problems/count-all-possible-routes) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1569 | [将子数组重新排序得到同一个二叉查找树的方案数](../../problems/number-of-ways-to-reorder-array-to-get-same-bst) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1563 | [石子游戏 V](../../problems/stone-game-v) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

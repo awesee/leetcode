@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1592 | [重新排列单词间的空格](../../problems/rearrange-spaces-between-words) | [[字符串](../string/README.md)]  | Easy |
 | 1585 | [检查字符串是否可以通过排序子字符串得到另一个字符串](../../problems/check-if-string-is-transformable-with-substring-sort-operations) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 1576 | [替换所有的问号](../../problems/replace-all-s-to-avoid-consecutive-repeating-characters) | [[字符串](../string/README.md)]  | Easy |
 | 1573 | [分割字符串的方案数](../../problems/number-of-ways-to-split-a-string) | [[字符串](../string/README.md)]  | Medium |

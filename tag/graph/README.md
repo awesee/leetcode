@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1595 | [连通两组点的最小成本](../../problems/minimum-cost-to-connect-two-groups-of-points) | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1557 | [可以到达所有点的最少点数目](../../problems/minimum-number-of-vertices-to-reach-all-nodes) | [[图](../graph/README.md)]  | Medium |
 | 1548 | [The Most Similar Path in a Graph](../../problems/the-most-similar-path-in-a-graph) 🔒 | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1514 | [概率最大的路径](../../problems/path-with-maximum-probability) | [[图](../graph/README.md)]  | Medium |
