@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1586 | [Binary Search Tree Iterator II](../../problems/binary-search-tree-iterator-ii) | [[设计](../design/README.md)]  | Medium |
 | 1500 | [Design a File Sharing System](../../problems/design-a-file-sharing-system) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1472 | [设计浏览器历史记录](../../problems/design-browser-history) | [[设计](../design/README.md)]  | Medium |
 | 1429 | [第一个唯一数字](../../problems/first-unique-number) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |

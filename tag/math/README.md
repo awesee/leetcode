@@ -184,7 +184,7 @@
 | 69 | [x 的平方根](../../problems/sqrtx) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 67 | [二进制求和](../../problems/add-binary) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 65 | [有效数字](../../problems/valid-number) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
-| 60 | [第k个排列](../../problems/permutation-sequence) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 60 | [第k个排列](../../problems/permutation-sequence) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 50 | [Pow(x, n)](../../problems/powx-n) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 43 | [字符串相乘](../../problems/multiply-strings) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 29 | [两数相除](../../problems/divide-two-integers) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

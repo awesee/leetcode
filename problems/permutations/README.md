@@ -34,5 +34,5 @@
 ### Similar Questions
   1. [Next Permutation](../next-permutation) (Medium)
   1. [Permutations II](../permutations-ii) (Medium)
-  1. [Permutation Sequence](../permutation-sequence) (Medium)
+  1. [Permutation Sequence](../permutation-sequence) (Hard)
   1. [Combinations](../combinations) (Medium)

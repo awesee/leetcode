@@ -7,7 +7,7 @@
 
 [< Previous](../min-cost-to-connect-all-points "Min Cost to Connect All Points")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../binary-search-tree-iterator-ii "Binary Search Tree Iterator II")
 
 ## [1585. Check If String Is Transformable With Substring Sort Operations (Hard)](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations "检查字符串是否可以通过排序子字符串得到另一个字符串")
 

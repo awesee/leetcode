@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../rotate-list "Rotate List")
 
-## [60. Permutation Sequence (Medium)](https://leetcode.com/problems/permutation-sequence "第k个排列")
+## [60. Permutation Sequence (Hard)](https://leetcode.com/problems/permutation-sequence "第k个排列")
 
 <p>The set <code>[1,2,3,...,<em>n</em>]</code> contains a total of <em>n</em>! unique permutations.</p>
 

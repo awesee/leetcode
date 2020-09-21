@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1594 | [矩阵的最大非负积](../../problems/maximum-non-negative-product-in-a-matrix) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1591 | [奇怪的打印机 II](../../problems/strange-printer-ii) | [[贪心算法](../greedy/README.md)]  | Hard |
+| 1589 | [所有排列中的最大和](../../problems/maximum-sum-obtained-of-any-permutation) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1585 | [检查字符串是否可以通过排序子字符串得到另一个字符串](../../problems/check-if-string-is-transformable-with-substring-sort-operations) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 1580 | [Put Boxes Into the Warehouse II](../../problems/put-boxes-into-the-warehouse-ii) 🔒 | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1578 | [避免重复字母的最小删除成本](../../problems/minimum-deletion-cost-to-avoid-repeating-letters) | [[贪心算法](../greedy/README.md)]  | Medium |

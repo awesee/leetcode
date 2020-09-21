@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1593 | [拆分字符串使唯一子字符串的数目最大](../../problems/split-a-string-into-the-max-number-of-unique-substrings) | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1467 | [两个盒子中球的颜色数相同的概率](../../problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1415 | [长度为 n 的开心字符串中字典序第 k 小的字符串](../../problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1307 | [口算难题](../../problems/verbal-arithmetic-puzzle) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
@@ -52,7 +53,7 @@
 | 79 | [单词搜索](../../problems/word-search) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 78 | [子集](../../problems/subsets) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 77 | [组合](../../problems/combinations) | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 60 | [第k个排列](../../problems/permutation-sequence) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 60 | [第k个排列](../../problems/permutation-sequence) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 52 | [N皇后 II](../../problems/n-queens-ii) | [[回溯算法](../backtracking/README.md)]  | Hard |
 | 51 | [N 皇后](../../problems/n-queens) | [[回溯算法](../backtracking/README.md)]  | Hard |
 | 47 | [全排列 II](../../problems/permutations-ii) | [[回溯算法](../backtracking/README.md)]  | Medium |

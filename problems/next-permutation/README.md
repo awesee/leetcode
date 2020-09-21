@@ -29,5 +29,5 @@
 ### Similar Questions
   1. [Permutations](../permutations) (Medium)
   1. [Permutations II](../permutations-ii) (Medium)
-  1. [Permutation Sequence](../permutation-sequence) (Medium)
+  1. [Permutation Sequence](../permutation-sequence) (Hard)
   1. [Palindrome Permutation II](../palindrome-permutation-ii) (Medium)
