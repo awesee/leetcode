@@ -11,9 +11,9 @@
 
 ## [1248. Count Number of Nice Subarrays (Medium)](https://leetcode.com/problems/count-number-of-nice-subarrays "统计「优美子数组」")
 
-<p>Given an array of integers <code>nums</code> and an integer&nbsp;<code>k</code>. A<em>&nbsp;</em>subarray&nbsp;is called <strong>nice</strong>&nbsp;if there are&nbsp;<code>k</code> odd numbers on it.</p>
+<p>Given an array of integers <code>nums</code> and an integer <code>k</code>. A continuous subarray is called <strong>nice</strong> if there are <code>k</code> odd numbers on it.</p>
 
-<p>Return the number of <strong>nice</strong> sub-arrays.</p>
+<p>Return <em>the number of <strong>nice</strong> sub-arrays</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

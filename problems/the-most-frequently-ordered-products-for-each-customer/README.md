@@ -5,10 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../dot-product-of-two-sparse-vectors "Dot Product of Two Sparse Vectors")
+[< Previous](../minimum-cost-to-connect-two-groups-of-points "Minimum Cost to Connect Two Groups of Points")
 　　　　　　　　　　　　　　　　
-[Next >](../matrix-diagonal-sum "Matrix Diagonal Sum")
+[Next >](../build-binary-expression-tree-from-infix-expression "Build Binary Expression Tree From Infix Expression")
 
-## [1571. Warehouse Manager (Easy)](https://leetcode.com/problems/warehouse-manager "仓库经理")
+## [1596. The Most Frequently Ordered Products for Each Customer (Medium)](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer "")
 
 

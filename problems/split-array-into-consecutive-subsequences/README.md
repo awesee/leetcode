@@ -24,7 +24,6 @@
 You can split them into two consecutive subsequences : 
 1, 2, 3
 3, 4, 5
-
 </pre>
 
 <p><b>Example 2:</b></p>
@@ -36,7 +35,6 @@ You can split them into two consecutive subsequences :
 You can split them into two consecutive subsequences : 
 1, 2, 3, 4, 5
 3, 4, 5
-
 </pre>
 
 <p><b>Example 3:</b></p>

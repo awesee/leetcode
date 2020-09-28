@@ -49,7 +49,7 @@ return: [6.0, 0.5, -1.0, 1.0, -1.0 ]
 	<li><code>equations[i].length == 2</code></li>
 	<li><code>1 &lt;= equations[i][0], equations[i][1] &lt;= 5</code></li>
 	<li><code>values.length ==&nbsp;equations.length</code></li>
-	<li><code>0.0 &lt;= values[i] &lt;= 20.0</code></li>
+	<li><code>0.0 &lt;&nbsp;values[i] &lt;= 20.0</code></li>
 	<li><code>1 &lt;= queries.length &lt;= 20</code></li>
 	<li><code>queries[i].length == 2</code></li>
 	<li><code>1 &lt;= queries[i][0], queries[i][1] &lt;= 5</code></li>

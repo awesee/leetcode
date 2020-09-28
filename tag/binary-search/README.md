@@ -13,7 +13,7 @@
 | 1574 | [删除最短的子数组使剩余数组有序](../../problems/shortest-subarray-to-be-removed-to-make-array-sorted) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1562 | [查找大小为 M 的最新分组](../../problems/find-latest-group-of-size-m) | [[二分查找](../binary-search/README.md)]  | Medium |
 | 1552 | [两球之间的磁力](../../problems/magnetic-force-between-two-balls) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
-| 1533 | [Find the Index of the Large Integer](../../problems/find-the-index-of-the-large-integer) 🔒 | [[二分查找](../binary-search/README.md)]  | Medium |
+| 1533 | [找到最大整数的索引](../../problems/find-the-index-of-the-large-integer) 🔒 | [[二分查找](../binary-search/README.md)]  | Medium |
 | 1521 | [找到最接近目标值的函数值](../../problems/find-a-value-of-a-mysterious-function-closest-to-target) | [[位运算](../bit-manipulation/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1482 | [制作 m 束花所需的最少天数](../../problems/minimum-number-of-days-to-make-m-bouquets) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1351 | [统计有序矩阵中的负数](../../problems/count-negative-numbers-in-a-sorted-matrix) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |

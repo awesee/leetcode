@@ -36,5 +36,5 @@ Could you solve it in <i>O</i>(<i>nk</i>) runtime?</p>
 ### Similar Questions
   1. [Product of Array Except Self](../product-of-array-except-self) (Medium)
   1. [Sliding Window Maximum](../sliding-window-maximum) (Hard)
-  1. [Paint House](../paint-house) (Easy)
+  1. [Paint House](../paint-house) (Medium)
   1. [Paint Fence](../paint-fence) (Easy)

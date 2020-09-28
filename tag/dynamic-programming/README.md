@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1601 | [最多可达成的换楼请求数目](../../problems/maximum-number-of-achievable-transfer-requests) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1595 | [连通两组点的最小成本](../../problems/minimum-cost-to-connect-two-groups-of-points) | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1594 | [矩阵的最大非负积](../../problems/maximum-non-negative-product-in-a-matrix) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1575 | [统计所有可行路径](../../problems/count-all-possible-routes) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -199,7 +200,7 @@
 | 276 | [栅栏涂色](../../problems/paint-fence) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 265 | [粉刷房子 II](../../problems/paint-house-ii) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 264 | [丑数 II](../../problems/ugly-number-ii) | [[堆](../heap/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 256 | [粉刷房子](../../problems/paint-house) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 256 | [粉刷房子](../../problems/paint-house) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 221 | [最大正方形](../../problems/maximal-square) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 213 | [打家劫舍 II](../../problems/house-robber-ii) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 198 | [打家劫舍](../../problems/house-robber) | [[动态规划](../dynamic-programming/README.md)]  | Easy |

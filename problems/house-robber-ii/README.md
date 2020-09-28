@@ -37,7 +37,7 @@
 
 ### Similar Questions
   1. [House Robber](../house-robber) (Easy)
-  1. [Paint House](../paint-house) (Easy)
+  1. [Paint House](../paint-house) (Medium)
   1. [Paint Fence](../paint-fence) (Easy)
   1. [House Robber III](../house-robber-iii) (Medium)
   1. [Non-negative Integers without Consecutive Ones](../non-negative-integers-without-consecutive-ones) (Hard)

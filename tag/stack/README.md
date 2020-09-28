@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1598 | [文件夹操作日志搜集器](../../problems/crawler-log-folder) | [[栈](../stack/README.md)]  | Easy |
 | 1544 | [整理字符串](../../problems/make-the-string-great) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1541 | [平衡括号字符串的最少插入次数](../../problems/minimum-insertions-to-balance-a-parentheses-string) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1441 | [用栈操作构建数组](../../problems/build-an-array-with-stack-operations) | [[栈](../stack/README.md)]  | Easy |
