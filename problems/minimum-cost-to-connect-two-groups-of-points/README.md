@@ -7,7 +7,7 @@
 
 [< Previous](../maximum-non-negative-product-in-a-matrix "Maximum Non Negative Product in a Matrix")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../the-most-frequently-ordered-products-for-each-customer "The Most Frequently Ordered Products for Each Customer")
 
 ## [1595. Minimum Cost to Connect Two Groups of Points (Hard)](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points "连通两组点的最小成本")
 

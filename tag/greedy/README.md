@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1599 | [经营摩天轮的最大利润](../../problems/maximum-profit-of-operating-a-centennial-wheel) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1594 | [矩阵的最大非负积](../../problems/maximum-non-negative-product-in-a-matrix) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1591 | [奇怪的打印机 II](../../problems/strange-printer-ii) | [[贪心算法](../greedy/README.md)]  | Hard |
 | 1589 | [所有排列中的最大和](../../problems/maximum-sum-obtained-of-any-permutation) | [[贪心算法](../greedy/README.md)]  | Medium |
@@ -21,7 +22,7 @@
 | 1558 | [得到目标数组的最少函数调用次数](../../problems/minimum-numbers-of-function-calls-to-make-target-array) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1540 | [K 次操作转变字符串](../../problems/can-convert-string-in-k-moves) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1536 | [排布二进制网格的最少交换次数](../../problems/minimum-swaps-to-arrange-a-binary-grid) | [[贪心算法](../greedy/README.md)]  | Medium |
-| 1520 | [最多的不重叠子字符串](../../problems/maximum-number-of-non-overlapping-substrings) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1520 | [最多的不重叠子字符串](../../problems/maximum-number-of-non-overlapping-substrings) | [[贪心算法](../greedy/README.md)]  | Hard |
 | 1518 | [换酒问题](../../problems/water-bottles) | [[贪心算法](../greedy/README.md)]  | Easy |
 | 1505 | [最多 K 次交换相邻数位后得到的最小整数](../../problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) | [[贪心算法](../greedy/README.md)]  | Hard |
 | 1497 | [检查数组对是否可以被 k 整除](../../problems/check-if-array-pairs-are-divisible-by-k) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |

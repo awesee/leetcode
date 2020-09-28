@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../kth-missing-positive-number "Kth Missing Positive Number")
 
-## [1538. Guess the Majority in a Hidden Array (Medium)](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array "")
+## [1538. Guess the Majority in a Hidden Array (Medium)](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array "找出隐藏数组中出现次数最多的元素")
 
 
 

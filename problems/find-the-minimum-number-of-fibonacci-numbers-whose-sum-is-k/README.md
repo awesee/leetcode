@@ -11,16 +11,16 @@
 
 ## [1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K (Medium)](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k "和为 K 的最少斐波那契数字数目")
 
-<p>Given the number <code>k</code>, <em>return the minimum number of Fibonacci numbers whose sum is equal to </em><code>k</code>, whether a Fibonacci number could be used multiple times.</p>
+<p>Given an integer&nbsp;<code>k</code>, <em>return the minimum number of Fibonacci numbers whose sum is equal to </em><code>k</code>. The same Fibonacci number can be used multiple times.</p>
 
 <p>The Fibonacci numbers are defined as:</p>
 
 <ul>
-	<li>F<sub>1</sub> = 1</li>
-	<li>F<sub>2</sub> = 1</li>
-	<li>F<sub>n</sub> = F<sub>n-1</sub> + F<sub>n-2</sub> , for n &gt; 2.</li>
+	<li><code>F<sub>1</sub> = 1</code></li>
+	<li><code>F<sub>2</sub> = 1</code></li>
+	<li><code>F<sub>n</sub> = F<sub>n-1</sub> + F<sub>n-2</sub></code> for <code>n &gt; 2.</code></li>
 </ul>
-It is guaranteed that for the given constraints we can always find such fibonacci numbers that sum <code>k</code>.
+It is guaranteed that for the given constraints we can always find such Fibonacci numbers that sum up to <code>k</code>.
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 

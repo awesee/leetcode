@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1600 | [皇位继承顺序](../../problems/throne-inheritance) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
+| 1597 | [Build Binary Expression Tree From Infix Expression](../../problems/build-binary-expression-tree-from-infix-expression) | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1530 | [好叶子节点对的数量](../../problems/number-of-good-leaf-nodes-pairs) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1516 | [移动 N 叉树的子树](../../problems/move-sub-tree-of-n-ary-tree) 🔒 | [[树](../tree/README.md)]  | Hard |
 | 1490 | [克隆 N 叉树](../../problems/clone-n-ary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
@@ -90,7 +92,7 @@
 | 549 | [二叉树中最长的连续序列](../../problems/binary-tree-longest-consecutive-sequence-ii) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 545 | [二叉树的边界](../../problems/boundary-of-binary-tree) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 543 | [二叉树的直径](../../problems/diameter-of-binary-tree) | [[树](../tree/README.md)]  | Easy |
-| 538 | [把二叉搜索树转换为累加树](../../problems/convert-bst-to-greater-tree) | [[树](../tree/README.md)]  | Easy |
+| 538 | [把二叉搜索树转换为累加树](../../problems/convert-bst-to-greater-tree) | [[树](../tree/README.md)]  | Medium |
 | 536 | [从字符串生成二叉树](../../problems/construct-binary-tree-from-string) 🔒 | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 530 | [二叉搜索树的最小绝对差](../../problems/minimum-absolute-difference-in-bst) | [[树](../tree/README.md)]  | Easy |
 | 515 | [在每个树行中找最大值](../../problems/find-largest-value-in-each-tree-row) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |

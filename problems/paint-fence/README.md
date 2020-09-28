@@ -43,5 +43,5 @@ n and k are non-negative integers.</p>
 ### Similar Questions
   1. [House Robber](../house-robber) (Easy)
   1. [House Robber II](../house-robber-ii) (Medium)
-  1. [Paint House](../paint-house) (Easy)
+  1. [Paint House](../paint-house) (Medium)
   1. [Paint House II](../paint-house-ii) (Hard)

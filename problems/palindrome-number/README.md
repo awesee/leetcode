@@ -38,7 +38,7 @@
 
 <p><strong>Follow up:</strong></p>
 
-<p>Coud you solve&nbsp;it without converting the integer to a string?</p>
+<p>Could you solve&nbsp;it without converting the integer to a string?</p>
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]

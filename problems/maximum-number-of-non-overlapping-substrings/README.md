@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../find-a-value-of-a-mysterious-function-closest-to-target "Find a Value of a Mysterious Function Closest to Target")
 
-## [1520. Maximum Number of Non-Overlapping Substrings (Medium)](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings "最多的不重叠子字符串")
+## [1520. Maximum Number of Non-Overlapping Substrings (Hard)](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings "最多的不重叠子字符串")
 
 <p>Given a string <code>s</code>&nbsp;of lowercase letters, you need to find the maximum number of <strong>non-empty</strong> substrings of&nbsp;<code>s</code>&nbsp;that meet the following conditions:</p>
 

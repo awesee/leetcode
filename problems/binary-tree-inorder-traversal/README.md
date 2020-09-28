@@ -13,8 +13,6 @@
 
 <p>Given the <code>root</code> of a binary tree, return <em>the inorder traversal of its nodes&#39; values</em>.</p>
 
-<p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p>
-
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/09/15/inorder_1.jpg" style="width: 202px; height: 324px;" />
@@ -58,6 +56,14 @@
 	<li>The number of nodes in the tree is in the range <code>[0, 100]</code>.</li>
 	<li><code>-100 &lt;= Node.val &lt;= 100</code></li>
 </ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Follow up:</strong></p>
+
+<p>Recursive solution is trivial, could you do it iteratively?</p>
+
+<p>&nbsp;</p>
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]

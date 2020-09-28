@@ -17,22 +17,35 @@
 
 <p>Every time you guess wrong, I&#39;ll tell you whether the number is higher or lower.</p>
 
-<p>You call a pre-defined API <code>guess(int num)</code> which returns 3 possible results (<code>-1</code>, <code>1</code>, or <code>0</code>):</p>
+<p>You call a pre-defined API <code>guess(int num)</code> which returns 3 possible results:</p>
 
-<pre>
--1 : My number is lower
- 1 : My number is higher
- 0 : Congrats! You got it!
+<ul>
+	<li><code>-1</code>: My number is lower</li>
+	<li><code>1</code>: My number is higher</li>
+	<li><code>0</code>: Congrats! You got it!</li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+<pre><strong>Input:</strong> n = 10, pick = 6
+<strong>Output:</strong> 6
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> n = 1, pick = 1
+<strong>Output:</strong> 1
+</pre><p><strong>Example 3:</strong></p>
+<pre><strong>Input:</strong> n = 2, pick = 1
+<strong>Output:</strong> 1
+</pre><p><strong>Example 4:</strong></p>
+<pre><strong>Input:</strong> n = 2, pick = 2
+<strong>Output:</strong> 2
 </pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Example :</strong></p>
-
-<div>
-<pre>
-<strong>Input: </strong>n = <span id="example-input-1-1">10</span>, pick = <span id="example-input-1-2">6</span>
-<strong>Output: </strong><span id="example-output-1">6</span>
-</pre>
-</div>
+<ul>
+	<li><code>1 &lt;= n &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>1 &lt;= pick &lt;= n</code></li>
+</ul>
 
 ### Related Topics
   [[Binary Search](../../tag/binary-search/README.md)]

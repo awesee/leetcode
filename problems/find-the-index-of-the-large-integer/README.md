@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../count-good-triplets "Count Good Triplets")
 
-## [1533. Find the Index of the Large Integer (Medium)](https://leetcode.com/problems/find-the-index-of-the-large-integer "")
+## [1533. Find the Index of the Large Integer (Medium)](https://leetcode.com/problems/find-the-index-of-the-large-integer "找到最大整数的索引")
 
 
 

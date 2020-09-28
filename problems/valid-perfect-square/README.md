@@ -36,4 +36,4 @@
 
 ### Similar Questions
   1. [Sqrt(x)](../sqrtx) (Easy)
-  1. [Sum of Square Numbers](../sum-of-square-numbers) (Easy)
+  1. [Sum of Square Numbers](../sum-of-square-numbers) (Medium)

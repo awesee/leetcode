@@ -5,25 +5,25 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../max-value-of-equation "Max Value of Equation")
+[< Previous](../the-most-frequently-ordered-products-for-each-customer "The Most Frequently Ordered Products for Each Customer")
 　　　　　　　　　　　　　　　　
-[Next >](../countries-you-can-safely-invest-in "Countries You Can Safely Invest In")
+[Next >](../crawler-log-folder "Crawler Log Folder")
 
-## [1500. Design a File Sharing System (Medium)](https://leetcode.com/problems/design-a-file-sharing-system "设计文件分享系统")
+## [1597. Build Binary Expression Tree From Infix Expression (Medium)](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression "")
 
 
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
-  [[Array](../../tag/array/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>
 <summary>Hint 1</summary>
-Try to solve it by keeping for each file chunk, the users who have this chunk.
+Convert infix expression to postfix expression.
 </details>
 
 <details>
 <summary>Hint 2</summary>
-Try to solve it by keeping all the users in the system with their owned chunks, and when you request a chunk, check all users for it.
+Build an expression tree from the postfix expression.
 </details>

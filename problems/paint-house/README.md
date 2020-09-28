@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../binary-tree-paths "Binary Tree Paths")
 
-## [256. Paint House (Easy)](https://leetcode.com/problems/paint-house "粉刷房子")
+## [256. Paint House (Medium)](https://leetcode.com/problems/paint-house "粉刷房子")
 
 <p>There are a row of <i>n</i> houses, each house can be painted with one of the three colors: red, blue or green. The cost of painting each house with a certain color is different. You have to paint all the houses such that no two adjacent houses have the same color.</p>
 

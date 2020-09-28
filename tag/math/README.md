@@ -123,7 +123,7 @@
 | 645 | [错误的集合](../../problems/set-mismatch) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |
 | 640 | [求解方程](../../problems/solve-the-equation) | [[数学](../math/README.md)]  | Medium |
 | 634 | [寻找数组的错位排列](../../problems/find-the-derangement-of-an-array) 🔒 | [[数学](../math/README.md)]  | Medium |
-| 633 | [平方数之和](../../problems/sum-of-square-numbers) | [[数学](../math/README.md)]  | Easy |
+| 633 | [平方数之和](../../problems/sum-of-square-numbers) | [[数学](../math/README.md)]  | Medium |
 | 628 | [三个数的最大乘积](../../problems/maximum-product-of-three-numbers) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 625 | [最小因式分解](../../problems/minimum-factorization) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
 | 598 | [范围求和 II](../../problems/range-addition-ii) | [[数学](../math/README.md)]  | Easy |
