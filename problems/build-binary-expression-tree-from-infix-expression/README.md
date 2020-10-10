@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../crawler-log-folder "Crawler Log Folder")
 
-## [1597. Build Binary Expression Tree From Infix Expression (Medium)](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression "")
+## [1597. Build Binary Expression Tree From Infix Expression (Hard)](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression "根据中缀表达式构造二叉表达式树")
 
 
 

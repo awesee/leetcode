@@ -58,7 +58,7 @@
 <ul>
 	<li><code>1 &lt;= coins.length &lt;= 12</code></li>
 	<li><code>1 &lt;= coins[i] &lt;= 2<sup>31</sup> - 1</code></li>
-	<li><code>0 &lt;= amount &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>0 &lt;= amount &lt;= 10<sup>4</sup></code></li>
 </ul>
 
 ### Related Topics

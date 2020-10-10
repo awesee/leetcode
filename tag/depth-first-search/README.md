@@ -66,6 +66,7 @@
 | 834 | [树中距离之和](../../problems/sum-of-distances-in-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
 | 827 | [最大人工岛](../../problems/making-a-large-island) | [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
 | 802 | [找到最终的安全状态](../../problems/find-eventual-safe-states) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
+| 797 | [所有可能的路径](../../problems/all-paths-from-source-to-target) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 785 | [判断二分图](../../problems/is-graph-bipartite) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 778 | [水位上升的泳池中游泳](../../problems/swim-in-rising-water) | [[堆](../heap/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 756 | [金字塔转换矩阵](../../problems/pyramid-transition-matrix) | [[位运算](../bit-manipulation/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |

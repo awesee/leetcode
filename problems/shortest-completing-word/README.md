@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../contain-virus "Contain Virus")
 
-## [748. Shortest Completing Word (Easy)](https://leetcode.com/problems/shortest-completing-word "最短完整词")
+## [748. Shortest Completing Word (Easy)](https://leetcode.com/problems/shortest-completing-word "最短补全词")
 
 <p>Given a string <code>licensePlate</code> and an array of strings <code>words</code>, find the <strong>shortest completing</strong> word in <code>words</code>.</p>
 

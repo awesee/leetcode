@@ -9,7 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1597 | [Build Binary Expression Tree From Infix Expression](../../problems/build-binary-expression-tree-from-infix-expression) | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1604 | [警告一小时内使用相同员工卡大于等于三次的人](../../problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) | [[字符串](../string/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Medium |
+| 1597 | [根据中缀表达式构造二叉表达式树](../../problems/build-binary-expression-tree-from-infix-expression) | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 1592 | [重新排列单词间的空格](../../problems/rearrange-spaces-between-words) | [[字符串](../string/README.md)]  | Easy |
 | 1585 | [检查字符串是否可以通过排序子字符串得到另一个字符串](../../problems/check-if-string-is-transformable-with-substring-sort-operations) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 1576 | [替换所有的问号](../../problems/replace-all-s-to-avoid-consecutive-repeating-characters) | [[字符串](../string/README.md)]  | Easy |
@@ -79,7 +80,7 @@
 | 1106 | [解析布尔表达式](../../problems/parsing-a-boolean-expression) | [[字符串](../string/README.md)]  | Hard |
 | 1100 | [长度为 K 的无重复字符子串](../../problems/find-k-length-substrings-with-no-repeated-characters) 🔒 | [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1096 | [花括号展开 II](../../problems/brace-expansion-ii) | [[字符串](../string/README.md)]  | Hard |
-| 1081 | [不同字符的最小子序列](../../problems/smallest-subsequence-of-distinct-characters) | [[字符串](../string/README.md)]  | Medium |
+| 1081 | [不同字符的最小子序列](../../problems/smallest-subsequence-of-distinct-characters) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1071 | [字符串的最大公因子](../../problems/greatest-common-divisor-of-strings) | [[字符串](../string/README.md)]  | Easy |
 | 1065 | [字符串的索引对](../../problems/index-pairs-of-a-string) 🔒 | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1062 | [最长重复子串](../../problems/longest-repeating-substring) 🔒 | [[字符串](../string/README.md)]  | Medium |
@@ -161,6 +162,7 @@
 | 344 | [反转字符串](../../problems/reverse-string) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 340 | [至多包含 K 个不同字符的最长子串](../../problems/longest-substring-with-at-most-k-distinct-characters) 🔒 | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
 | 336 | [回文对](../../problems/palindrome-pairs) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 316 | [去除重复字母](../../problems/remove-duplicate-letters) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 293 | [翻转游戏](../../problems/flip-game) 🔒 | [[字符串](../string/README.md)]  | Easy |
 | 273 | [整数转换英文表示](../../problems/integer-to-english-words) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 271 | [字符串的编码与解码](../../problems/encode-and-decode-strings) 🔒 | [[字符串](../string/README.md)]  | Medium |

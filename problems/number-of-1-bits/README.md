@@ -11,7 +11,7 @@
 
 ## [191. Number of 1 Bits (Easy)](https://leetcode.com/problems/number-of-1-bits "位1的个数")
 
-<p>Write a function that takes an unsigned integer and return&nbsp;the number of &#39;1&#39;&nbsp;bits it has (also known as the <a href="http://en.wikipedia.org/wiki/Hamming_weight" target="_blank">Hamming weight</a>).</p>
+<p>Write a function that takes an unsigned integer and returns&nbsp;the number of &#39;1&#39;&nbsp;bits it has (also known as the <a href="http://en.wikipedia.org/wiki/Hamming_weight" target="_blank">Hamming weight</a>).</p>
 
 <p>&nbsp;</p>
 
@@ -43,15 +43,13 @@
 <p><strong>Note:</strong></p>
 
 <ul>
-	<li>Note that in some languages such as Java, there is no unsigned integer type. In this case, the input will be given as signed integer type and should not affect your implementation, as the internal binary representation of the integer is the same whether it is signed or unsigned.</li>
-	<li>In Java,&nbsp;the compiler represents the signed integers using <a href="https://en.wikipedia.org/wiki/Two%27s_complement" target="_blank">2&#39;s complement notation</a>. Therefore, in <strong>Example 3</strong>&nbsp;above the input represents the signed integer <code>-3</code>.</li>
+	<li>Note that in some languages such as Java, there is no unsigned integer type. In this case, the input will be given as a signed integer type and should not affect your implementation, as the internal binary representation of the integer is the same, whether it is signed or unsigned.</li>
+	<li>In Java,&nbsp;the compiler represents the signed integers using <a href="https://en.wikipedia.org/wiki/Two%27s_complement" target="_blank">2&#39;s complement notation</a>. Therefore, in <strong>Example 3</strong>&nbsp;above, the input represents the signed integer.&nbsp;<code>-3</code>.</li>
 </ul>
 
 <p>&nbsp;</p>
 
-<p><b>Follow up</b>:</p>
-
-<p>If this function is called many times, how would you optimize it?</p>
+<p><b>Follow up</b>: If this function is called many times, how would you optimize it?</p>
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]

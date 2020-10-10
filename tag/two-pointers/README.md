@@ -9,7 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1570 | [Dot Product of Two Sparse Vectors](../../problems/dot-product-of-two-sparse-vectors) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 1610 | [可见点的最大数目](../../problems/maximum-number-of-visible-points) | [[几何](../geometry/README.md)] [[双指针](../two-pointers/README.md)]  | Hard |
+| 1570 | [两个稀疏向量的点积](../../problems/dot-product-of-two-sparse-vectors) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1248 | [统计「优美子数组」](../../problems/count-number-of-nice-subarrays) | [[双指针](../two-pointers/README.md)]  | Medium |
 | 1234 | [替换子串得到平衡字符串](../../problems/replace-the-substring-for-balanced-string) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1213 | [三个有序数组的交集](../../problems/intersection-of-three-sorted-arrays) 🔒 | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
@@ -33,7 +34,7 @@
 | 713 | [乘积小于K的子数组](../../problems/subarray-product-less-than-k) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 632 | [最小区间](../../problems/smallest-range-covering-elements-from-k-lists) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 567 | [字符串的排列](../../problems/permutation-in-string) | [[双指针](../two-pointers/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 532 | [数组中的K-diff数对](../../problems/k-diff-pairs-in-an-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 532 | [数组中的 k-diff 数对](../../problems/k-diff-pairs-in-an-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 524 | [通过删除字母匹配到字典里最长单词](../../problems/longest-word-in-dictionary-through-deleting) | [[排序](../sort/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 487 | [最大连续1的个数 II](../../problems/max-consecutive-ones-ii) 🔒 | [[双指针](../two-pointers/README.md)]  | Medium |
 | 457 | [环形数组循环](../../problems/circular-array-loop) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |

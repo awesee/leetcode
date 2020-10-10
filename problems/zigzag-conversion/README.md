@@ -24,8 +24,10 @@ Y   I   R
 <p>Write the code that will take a string and make this conversion given a number of rows:</p>
 
 <pre>
-string convert(string s, int numRows);</pre>
+string convert(string s, int numRows);
+</pre>
 
+<p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
 <pre>
@@ -36,14 +38,30 @@ string convert(string s, int numRows);</pre>
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;PAYPALISHIRING&quot;, numRows =&nbsp;4
-<strong>Output:</strong>&nbsp;&quot;PINALSIGYAHRPI&quot;
+<strong>Input:</strong> s = &quot;PAYPALISHIRING&quot;, numRows = 4
+<strong>Output:</strong> &quot;PINALSIGYAHRPI&quot;
 <strong>Explanation:</strong>
-
 P     I    N
 A   L S  I G
 Y A   H R
-P     I</pre>
+P     I
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> s = &quot;A&quot;, numRows = 1
+<strong>Output:</strong> &quot;A&quot;
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 1000</code></li>
+	<li><code>s</code> consists of English letters (lower-case and upper-case), <code>&#39;,&#39;</code> and <code>&#39;.&#39;</code>.</li>
+	<li><code>1 &lt;= numRows &lt;= 1000</code></li>
+</ul>
 
 ### Related Topics
   [[String](../../tag/string/README.md)]

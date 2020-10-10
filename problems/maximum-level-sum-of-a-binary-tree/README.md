@@ -16,14 +16,11 @@
 <p>Return the <strong>smallest</strong> level <code>X</code> such that the sum of all the values of nodes at level <code>X</code> is <strong>maximal</strong>.</p>
 
 <p>&nbsp;</p>
-
 <p><strong>Example 1:</strong></p>
-
-<p><strong><img alt="" src="https://assets.leetcode.com/uploads/2019/05/03/capture.JPG" style="width: 200px; height: 175px;" /></strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2019/05/03/capture.JPG" style="width: 200px; height: 175px;" />
 <pre>
-<strong>Input: </strong><span id="example-input-1-1">[1,7,0,7,-8,null,null]</span>
-<strong>Output: </strong><span id="example-output-1">2</span>
+<strong>Input:</strong> root = [1,7,0,7,-8,null,null]
+<strong>Output:</strong> 2
 <strong>Explanation: </strong>
 Level 1 sum = 1.
 Level 2 sum = 7 + 0 = 7.
@@ -31,17 +28,24 @@ Level 3 sum = 7 + -8 = -1.
 So we return the level with the maximum sum which is level 2.
 </pre>
 
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> root = [989,null,10250,98693,-89388,null,null,null,-32127]
+<strong>Output:</strong> 2
+</pre>
+
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
-	<li>The number of nodes in the given tree is between <code>1</code> and <code>10^4</code>.</li>
-	<li><code>-10^5 &lt;= node.val &lt;= 10^5</code></li>
-</ol>
+<ul>
+	<li>The number of nodes in the tree is in the range <code>[1, 10<sup>4</sup>]</code>.</li>
+	<li><code>-10<sup>5</sup> &lt;= Node.val &lt;=&nbsp;10<sup>5</sup></code></li>
+</ul>
 
 ### Related Topics
-  [[Graph](../../tag/graph/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

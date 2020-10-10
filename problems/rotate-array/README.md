@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../reverse-bits "Reverse Bits")
 
-## [189. Rotate Array (Easy)](https://leetcode.com/problems/rotate-array "旋转数组")
+## [189. Rotate Array (Medium)](https://leetcode.com/problems/rotate-array "旋转数组")
 
 <p>Given an array, rotate the array to the right by <em>k</em> steps, where&nbsp;<em>k</em>&nbsp;is non-negative.</p>
 
@@ -46,9 +46,9 @@ rotate 2 steps to the right: [3,99,-1,-100]
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 2 * 10^4</code></li>
-	<li>It&#39;s guaranteed that <code>nums[i]</code> fits in a 32 bit-signed integer.</li>
-	<li><code>k &gt;= 0</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 2 * 10<sup>4</sup></code></li>
+	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>0 &lt;= k &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 ### Related Topics

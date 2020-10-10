@@ -9,7 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1288 | [删除被覆盖区间](../../problems/remove-covered-intervals) | [[Line Sweep](../line-sweep/README.md)]  | Medium |
+| 1288 | [删除被覆盖区间](../../problems/remove-covered-intervals) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
 | 1272 | [删除区间](../../problems/remove-interval) 🔒 | [[数学](../math/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
 | 1229 | [安排会议日程](../../problems/meeting-scheduler) 🔒 | [[Line Sweep](../line-sweep/README.md)]  | Medium |
 | 850 | [矩形面积 II](../../problems/rectangle-area-ii) | [[线段树](../segment-tree/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Hard |

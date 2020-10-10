@@ -31,6 +31,7 @@
 | 1333 | [餐厅过滤器](../../problems/filter-restaurants-by-vegan-friendly-price-and-distance) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1329 | [将矩阵按对角线排序](../../problems/sort-the-matrix-diagonally) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1305 | [两棵二叉搜索树中的所有元素](../../problems/all-elements-in-two-binary-search-trees) | [[排序](../sort/README.md)] [[树](../tree/README.md)]  | Medium |
+| 1288 | [删除被覆盖区间](../../problems/remove-covered-intervals) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
 | 1244 | [力扣排行榜](../../problems/design-a-leaderboard) 🔒 | [[排序](../sort/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1235 | [规划兼职工作](../../problems/maximum-profit-in-job-scheduling) | [[排序](../sort/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1183 | [矩阵中 1 的最大数量](../../problems/maximum-number-of-ones) 🔒 | [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Hard |
@@ -50,6 +51,7 @@
 | 527 | [单词缩写](../../problems/word-abbreviation) 🔒 | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 524 | [通过删除字母匹配到字典里最长单词](../../problems/longest-word-in-dictionary-through-deleting) | [[排序](../sort/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 493 | [翻转对](../../problems/reverse-pairs) | [[排序](../sort/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
+| 452 | [用最少数量的箭引爆气球](../../problems/minimum-number-of-arrows-to-burst-balloons) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
 | 350 | [两个数组的交集 II](../../problems/intersection-of-two-arrays-ii) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 349 | [两个数组的交集](../../problems/intersection-of-two-arrays) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 327 | [区间和的个数](../../problems/count-of-range-sum) | [[排序](../sort/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |

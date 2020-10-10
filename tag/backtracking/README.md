@@ -27,6 +27,7 @@
 | 996 | [正方形数组的数目](../../problems/number-of-squareful-arrays) | [[图](../graph/README.md)] [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 980 | [不同路径 III](../../problems/unique-paths-iii) | [[深度优先搜索](../depth-first-search/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 842 | [将数组拆分成斐波那契序列](../../problems/split-array-into-fibonacci-sequence) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 797 | [所有可能的路径](../../problems/all-paths-from-source-to-target) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 784 | [字母大小写全排列](../../problems/letter-case-permutation) | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 691 | [贴纸拼词](../../problems/stickers-to-spell-word) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 526 | [优美的排列](../../problems/beautiful-arrangement) | [[回溯算法](../backtracking/README.md)]  | Medium |

@@ -9,26 +9,42 @@
 　　　　　　　　　　　　　　　　
 [Next >](../shortest-distance-from-all-buildings "Shortest Distance from All Buildings")
 
-## [316. Remove Duplicate Letters (Hard)](https://leetcode.com/problems/remove-duplicate-letters "去除重复字母")
+## [316. Remove Duplicate Letters (Medium)](https://leetcode.com/problems/remove-duplicate-letters "去除重复字母")
 
-<p>Given a string which contains only lowercase letters, remove duplicate letters so that every letter appears once and only once. You must make sure your result is the smallest in lexicographical order among all possible results.</p>
+<p>Given a string <code>s</code>, remove duplicate letters so that every letter appears once and only once. You must make sure your result is <strong>the smallest in lexicographical order</strong> among all possible results.</p>
 
-<p><b>Example 1:</b></p>
+<p><strong>Note:</strong> This question is the same as 1081:&nbsp;<a href="https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/" target="_blank">https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/</a></p>
 
-<pre>
-<b>Input:</b> <code>&quot;bcabc&quot;</code>
-<b>Output:</b> <code>&quot;abc&quot;</code>
-</pre>
-
-<p><b>Example 2:</b></p>
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
 
 <pre>
-<b>Input:</b> <code>&quot;cbacdcbc&quot;</code>
-<b>Output:</b> <code>&quot;acdb&quot;</code>
+<strong>Input:</strong> s = &quot;bcabc&quot;
+<strong>Output:</strong> &quot;abc&quot;
 </pre>
 
-<p><strong>Note:</strong> This question is the same as 1081:&nbsp;<a href="https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/">https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/</a></p>
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> s = &quot;cbacdcbc&quot;
+<strong>Output:</strong> &quot;acdb&quot;
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>s</code> consists of lowercase English letters.</li>
+</ul>
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
+  [[String](../../tag/string/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Greedily try to add one missing character. How to check if adding some character will not cause problems ? Use bit-masks to check whether you will be able to complete the sub-sequence if you add the character at some index i.
+</details>

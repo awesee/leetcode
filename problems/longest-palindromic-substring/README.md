@@ -11,12 +11,13 @@
 
 ## [5. Longest Palindromic Substring (Medium)](https://leetcode.com/problems/longest-palindromic-substring "最长回文子串")
 
-<p>Given a string <strong>s</strong>, find the longest palindromic substring in <strong>s</strong>. You may assume that the maximum length of <strong>s</strong> is 1000.</p>
+<p>Given a string <code>s</code>, return&nbsp;<em>the longest palindromic substring</em> in <code>s</code>.</p>
 
+<p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> &quot;babad&quot;
+<strong>Input:</strong> s = &quot;babad&quot;
 <strong>Output:</strong> &quot;bab&quot;
 <strong>Note:</strong> &quot;aba&quot; is also a valid answer.
 </pre>
@@ -24,9 +25,31 @@
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> &quot;cbbd&quot;
+<strong>Input:</strong> s = &quot;cbbd&quot;
 <strong>Output:</strong> &quot;bb&quot;
 </pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> s = &quot;a&quot;
+<strong>Output:</strong> &quot;a&quot;
+</pre>
+
+<p><strong>Example 4:</strong></p>
+
+<pre>
+<strong>Input:</strong> s = &quot;ac&quot;
+<strong>Output:</strong> &quot;a&quot;
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 1000</code></li>
+	<li><code>s</code> consist of only digits and English letters (lower-case and/or upper-case),</li>
+</ul>
 
 ### Related Topics
   [[String](../../tag/string/README.md)]

@@ -44,4 +44,4 @@ The minimum absolute difference is 1, which is the difference between 2 and 1 (o
   [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [K-diff Pairs in an Array](../k-diff-pairs-in-an-array) (Easy)
+  1. [K-diff Pairs in an Array](../k-diff-pairs-in-an-array) (Medium)

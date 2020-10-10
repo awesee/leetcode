@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1602 | [Find Nearest Right Node in Binary Tree](../../problems/find-nearest-right-node-in-binary-tree) 🔒 | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1519 | [子树中标签相同的节点数](../../problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1490 | [克隆 N 叉树](../../problems/clone-n-ary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1391 | [检查网格中是否存在有效路径](../../problems/check-if-there-is-a-valid-path-in-a-grid) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
@@ -27,6 +28,7 @@
 | 1210 | [穿过迷宫的最少移动次数](../../problems/minimum-moves-to-reach-target-with-rotations) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 1197 | [进击的骑士](../../problems/minimum-knight-moves) 🔒 | [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1162 | [地图分析](../../problems/as-far-from-land-as-possible) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
+| 1161 | [最大层内元素和](../../problems/maximum-level-sum-of-a-binary-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1129 | [颜色交替的最短路径](../../problems/shortest-path-with-alternating-colors) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1091 | [二进制矩阵中的最短路径](../../problems/shortest-path-in-binary-matrix) | [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1036 | [逃离大迷宫](../../problems/escape-a-large-maze) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1610 | [可见点的最大数目](../../problems/maximum-number-of-visible-points) | [[几何](../geometry/README.md)] [[双指针](../two-pointers/README.md)]  | Hard |
 | 1515 | [服务中心的最佳位置](../../problems/best-position-for-a-service-centre) | [[几何](../geometry/README.md)]  | Hard |
 | 1453 | [圆形靶内的最大飞镖数量](../../problems/maximum-number-of-darts-inside-of-a-circular-dartboard) | [[几何](../geometry/README.md)]  | Hard |
 | 1401 | [圆和矩形是否有重叠](../../problems/circle-and-rectangle-overlapping) | [[几何](../geometry/README.md)]  | Medium |

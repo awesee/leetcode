@@ -9,8 +9,12 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1612 | [Check If Two Expression Trees are Equivalent](../../problems/check-if-two-expression-trees-are-equivalent) 🔒 | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1609 | [奇偶树](../../problems/even-odd-tree) | [[树](../tree/README.md)]  | Medium |
+| 1602 | [Find Nearest Right Node in Binary Tree](../../problems/find-nearest-right-node-in-binary-tree) 🔒 | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1600 | [皇位继承顺序](../../problems/throne-inheritance) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
-| 1597 | [Build Binary Expression Tree From Infix Expression](../../problems/build-binary-expression-tree-from-infix-expression) | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1597 | [根据中缀表达式构造二叉表达式树](../../problems/build-binary-expression-tree-from-infix-expression) | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 1586 | [二叉搜索树迭代器 II](../../problems/binary-search-tree-iterator-ii) 🔒 | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
 | 1530 | [好叶子节点对的数量](../../problems/number-of-good-leaf-nodes-pairs) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1516 | [移动 N 叉树的子树](../../problems/move-sub-tree-of-n-ary-tree) 🔒 | [[树](../tree/README.md)]  | Hard |
 | 1490 | [克隆 N 叉树](../../problems/clone-n-ary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
@@ -32,6 +36,7 @@
 | 1261 | [在受污染的二叉树中查找元素](../../problems/find-elements-in-a-contaminated-binary-tree) | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1257 | [最小公共区域](../../problems/smallest-common-region) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 1245 | [树的直径](../../problems/tree-diameter) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1161 | [最大层内元素和](../../problems/maximum-level-sum-of-a-binary-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1145 | [二叉树着色游戏](../../problems/binary-tree-coloring-game) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1130 | [叶值的最小代价生成树](../../problems/minimum-cost-tree-from-leaf-values) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1123 | [最深叶节点的最近公共祖先](../../problems/lowest-common-ancestor-of-deepest-leaves) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
@@ -41,7 +46,7 @@
 | 1028 | [从先序遍历还原二叉树](../../problems/recover-a-tree-from-preorder-traversal) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
 | 1026 | [节点与其祖先之间的最大差值](../../problems/maximum-difference-between-node-and-ancestor) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1022 | [从根到叶的二进制数之和](../../problems/sum-of-root-to-leaf-binary-numbers) | [[树](../tree/README.md)]  | Easy |
-| 1008 | [先序遍历构造二叉树](../../problems/construct-binary-search-tree-from-preorder-traversal) | [[树](../tree/README.md)]  | Medium |
+| 1008 | [前序遍历构造二叉搜索树](../../problems/construct-binary-search-tree-from-preorder-traversal) | [[树](../tree/README.md)]  | Medium |
 | 998 | [最大二叉树 II](../../problems/maximum-binary-tree-ii) | [[树](../tree/README.md)]  | Medium |
 | 993 | [二叉树的堂兄弟节点](../../problems/cousins-in-binary-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
 | 988 | [从叶结点开始的最小字符串](../../problems/smallest-string-starting-from-leaf) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |

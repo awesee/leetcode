@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence "Check If a Word Occurs As a Prefix of Any Word in a Sentence")
 
-## [1454. Active Users (Medium)](https://leetcode.com/problems/active-users " 活跃用户")
+## [1454. Active Users (Medium)](https://leetcode.com/problems/active-users "活跃用户")
 
 

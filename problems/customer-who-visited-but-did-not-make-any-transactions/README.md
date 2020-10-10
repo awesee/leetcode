@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../special-positions-in-a-binary-matrix "Special Positions in a Binary Matrix")
 
-## [1581. Customer Who Visited but Did Not Make Any Transactions (Easy)](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions "")
+## [1581. Customer Who Visited but Did Not Make Any Transactions (Easy)](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions "进店却未进行过交易的客户")
 
 

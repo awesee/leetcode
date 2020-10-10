@@ -60,7 +60,7 @@
 | 497 | [非重叠矩形中的随机点](../../problems/random-point-in-non-overlapping-rectangles) | [[二分查找](../binary-search/README.md)] [[Random](../random/README.md)]  | Medium |
 | 493 | [翻转对](../../problems/reverse-pairs) | [[排序](../sort/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
 | 483 | [最小好进制](../../problems/smallest-good-base) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
-| 475 | [供暖器](../../problems/heaters) | [[二分查找](../binary-search/README.md)]  | Easy |
+| 475 | [供暖器](../../problems/heaters) | [[二分查找](../binary-search/README.md)]  | Medium |
 | 454 | [四数相加 II](../../problems/4sum-ii) | [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 441 | [排列硬币](../../problems/arranging-coins) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 436 | [寻找右区间](../../problems/find-right-interval) | [[二分查找](../binary-search/README.md)]  | Medium |

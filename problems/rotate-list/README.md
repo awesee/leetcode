@@ -39,5 +39,5 @@ rotate 4 steps to the right:&nbsp;<code>2-&gt;0-&gt;1-&gt;NULL</code></pre>
   [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
-  1. [Rotate Array](../rotate-array) (Easy)
+  1. [Rotate Array](../rotate-array) (Medium)
   1. [Split Linked List in Parts](../split-linked-list-in-parts) (Medium)

@@ -136,6 +136,7 @@
 | 523 | [连续的子数组和](../../problems/continuous-subarray-sum) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 517 | [超级洗衣机](../../problems/super-washing-machines) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 507 | [完美数](../../problems/perfect-number) | [[数学](../math/README.md)]  | Easy |
+| 492 | [构造矩形](../../problems/construct-the-rectangle) | [[数学](../math/README.md)]  | Easy |
 | 483 | [最小好进制](../../problems/smallest-good-base) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 478 | [在圆内随机生成点](../../problems/generate-random-point-in-a-circle) | [[数学](../math/README.md)] [[Random](../random/README.md)] [[Rejection Sampling](../rejection-sampling/README.md)]  | Medium |
 | 469 | [凸多边形](../../problems/convex-polygon) 🔒 | [[数学](../math/README.md)]  | Medium |

@@ -51,12 +51,8 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>
-	<p><code>1 &lt;= s.length&nbsp;&lt;= 100</code></p>
-	</li>
-	<li>
-	<p><code>s</code> contains&nbsp;only lower case English letters and <code>&#39;?&#39;</code>.</p>
-	</li>
+	<li><code>1 &lt;= s.length&nbsp;&lt;= 100</code></li>
+	<li><code>s</code> contains&nbsp;only lower case English letters and <code>&#39;?&#39;</code>.</li>
 </ul>
 
 ### Related Topics

@@ -9,8 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1612 | [Check If Two Expression Trees are Equivalent](../../problems/check-if-two-expression-trees-are-equivalent) 🔒 | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1577 | [数的平方等于两数乘积的方法数](../../problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1570 | [Dot Product of Two Sparse Vectors](../../problems/dot-product-of-two-sparse-vectors) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 1570 | [两个稀疏向量的点积](../../problems/dot-product-of-two-sparse-vectors) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1539 | [第 k 个缺失的正整数](../../problems/kth-missing-positive-number) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 1512 | [好数对的数目](../../problems/number-of-good-pairs) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1490 | [克隆 N 叉树](../../problems/clone-n-ary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
@@ -60,7 +61,7 @@
 | 771 | [宝石与石头](../../problems/jewels-and-stones) | [[哈希表](../hash-table/README.md)]  | Easy |
 | 770 | [基本计算器 IV](../../problems/basic-calculator-iv) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 760 | [找出变位映射](../../problems/find-anagram-mappings) 🔒 | [[哈希表](../hash-table/README.md)]  | Easy |
-| 748 | [最短完整词](../../problems/shortest-completing-word) | [[哈希表](../hash-table/README.md)]  | Easy |
+| 748 | [最短补全词](../../problems/shortest-completing-word) | [[哈希表](../hash-table/README.md)]  | Easy |
 | 739 | [每日温度](../../problems/daily-temperatures) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 734 | [句子相似性](../../problems/sentence-similarity) 🔒 | [[哈希表](../hash-table/README.md)]  | Easy |
 | 726 | [原子的数量](../../problems/number-of-atoms) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
@@ -77,7 +78,7 @@
 | 648 | [单词替换](../../problems/replace-words) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 645 | [错误的集合](../../problems/set-mismatch) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |
 | 632 | [最小区间](../../problems/smallest-range-covering-elements-from-k-lists) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Hard |
-| 624 | [数组列表中的最大距离](../../problems/maximum-distance-in-arrays) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 624 | [数组列表中的最大距离](../../problems/maximum-distance-in-arrays) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 609 | [在系统中查找重复文件](../../problems/find-duplicate-file-in-system) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 599 | [两个列表的最小索引总和](../../problems/minimum-index-sum-of-two-lists) | [[哈希表](../hash-table/README.md)]  | Easy |
 | 594 | [最长和谐子序列](../../problems/longest-harmonious-subsequence) | [[哈希表](../hash-table/README.md)]  | Easy |
