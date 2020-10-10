@@ -20,6 +20,7 @@
 | 1190 | [反转每对括号间的子串](../../problems/reverse-substrings-between-each-pair-of-parentheses) | [[栈](../stack/README.md)]  | Medium |
 | 1130 | [叶值的最小代价生成树](../../problems/minimum-cost-tree-from-leaf-values) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1124 | [表现良好的最长时间段](../../problems/longest-well-performing-interval) | [[栈](../stack/README.md)]  | Medium |
+| 1081 | [不同字符的最小子序列](../../problems/smallest-subsequence-of-distinct-characters) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1063 | [有效子数组的数目](../../problems/number-of-valid-subarrays) 🔒 | [[栈](../stack/README.md)]  | Hard |
 | 1047 | [删除字符串中的所有相邻重复项](../../problems/remove-all-adjacent-duplicates-in-string) | [[栈](../stack/README.md)]  | Easy |
 | 1021 | [删除最外层的括号](../../problems/remove-outermost-parentheses) | [[栈](../stack/README.md)]  | Easy |
@@ -51,7 +52,7 @@
 | 385 | [迷你语法分析器](../../problems/mini-parser) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 341 | [扁平化嵌套列表迭代器](../../problems/flatten-nested-list-iterator) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Medium |
 | 331 | [验证二叉树的前序序列化](../../problems/verify-preorder-serialization-of-a-binary-tree) | [[栈](../stack/README.md)]  | Medium |
-| 316 | [去除重复字母](../../problems/remove-duplicate-letters) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)]  | Hard |
+| 316 | [去除重复字母](../../problems/remove-duplicate-letters) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 272 | [最接近的二叉搜索树值 II](../../problems/closest-binary-search-tree-value-ii) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Hard |
 | 255 | [验证前序遍历序列二叉搜索树](../../problems/verify-preorder-sequence-in-binary-search-tree) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Medium |
 | 232 | [用栈实现队列](../../problems/implement-queue-using-stacks) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |

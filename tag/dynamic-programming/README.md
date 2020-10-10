@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1611 | [使整数变为 0 的最少操作次数](../../problems/minimum-one-bit-operations-to-make-integers-zero) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1601 | [最多可达成的换楼请求数目](../../problems/maximum-number-of-achievable-transfer-requests) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1595 | [连通两组点的最小成本](../../problems/minimum-cost-to-connect-two-groups-of-points) | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1594 | [矩阵的最大非负积](../../problems/maximum-non-negative-product-in-a-matrix) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
@@ -16,7 +17,7 @@
 | 1569 | [将子数组重新排序得到同一个二叉查找树的方案数](../../problems/number-of-ways-to-reorder-array-to-get-same-bst) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1563 | [石子游戏 V](../../problems/stone-game-v) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1553 | [吃掉 N 个橘子的最少天数](../../problems/minimum-number-of-days-to-eat-n-oranges) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 1548 | [The Most Similar Path in a Graph](../../problems/the-most-similar-path-in-a-graph) 🔒 | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1548 | [图中最相似的路径](../../problems/the-most-similar-path-in-a-graph) 🔒 | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1547 | [切棍子的最小成本](../../problems/minimum-cost-to-cut-a-stick) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1546 | [和为目标值的最大数目不重叠非空子数组数目](../../problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1537 | [最大得分](../../problems/get-the-maximum-score) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

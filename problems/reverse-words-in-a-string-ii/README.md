@@ -34,4 +34,4 @@
 
 ### Similar Questions
   1. [Reverse Words in a String](../reverse-words-in-a-string) (Medium)
-  1. [Rotate Array](../rotate-array) (Easy)
+  1. [Rotate Array](../rotate-array) (Medium)

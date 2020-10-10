@@ -44,7 +44,7 @@ recentCounter.ping(3002);  // requests = [1, <u>100</u>, <u>3001</u>, <u>3002</u
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= t &lt;= 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= t &lt;= 10<sup>9</sup></code></li>
 	<li>Each test case will call <code>ping</code> with <strong>strictly increasing</strong> values of <code>t</code>.</li>
 	<li>At most <code>10<sup>4</sup></code> calls will be made to <code>ping</code>.</li>
 </ul>

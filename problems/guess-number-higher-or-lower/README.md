@@ -13,17 +13,19 @@
 
 <p>We are playing the Guess Game. The game is as follows:</p>
 
-<p>I pick a number from <b>1</b> to <b><i>n</i></b>. You have to guess which number I picked.</p>
+<p>I pick a number from <code>1</code> to <code>n</code>. You have to guess which number I picked.</p>
 
-<p>Every time you guess wrong, I&#39;ll tell you whether the number is higher or lower.</p>
+<p>Every time you guess wrong, I will tell you whether the number I picked is higher or lower than your guess.</p>
 
-<p>You call a pre-defined API <code>guess(int num)</code> which returns 3 possible results:</p>
+<p>You call a pre-defined API <code>int guess(int num)</code>, which returns 3 possible results:</p>
 
 <ul>
-	<li><code>-1</code>: My number is lower</li>
-	<li><code>1</code>: My number is higher</li>
-	<li><code>0</code>: Congrats! You got it!</li>
+	<li><code>-1</code>: The number I picked is lower than your guess (i.e. <code>pick &lt; num</code>).</li>
+	<li><code>1</code>: The number I picked is higher than your guess (i.e. <code>pick &gt; num</code>).</li>
+	<li><code>0</code>: The number I picked is equal to your guess (i.e. <code>pick == num</code>).</li>
 </ul>
+
+<p>Return <em>the number that I picked</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

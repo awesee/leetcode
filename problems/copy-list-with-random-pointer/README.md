@@ -60,7 +60,7 @@
 <ul>
 	<li><code>-10000 &lt;= Node.val &lt;= 10000</code></li>
 	<li><code>Node.random</code> is null or pointing to a node in the linked list.</li>
-	<li>Number of Nodes will not exceed 1000.</li>
+	<li>The number of nodes will not exceed 1000.</li>
 </ul>
 
 ### Related Topics

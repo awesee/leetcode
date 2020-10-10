@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1605 | [给定行和列的和求可行矩阵](../../problems/find-valid-matrix-given-row-and-column-sums) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1599 | [经营摩天轮的最大利润](../../problems/maximum-profit-of-operating-a-centennial-wheel) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1594 | [矩阵的最大非负积](../../problems/maximum-non-negative-product-in-a-matrix) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1591 | [奇怪的打印机 II](../../problems/strange-printer-ii) | [[贪心算法](../greedy/README.md)]  | Hard |
@@ -18,7 +19,7 @@
 | 1578 | [避免重复字母的最小删除成本](../../problems/minimum-deletion-cost-to-avoid-repeating-letters) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1568 | [使陆地分离的最少天数](../../problems/minimum-number-of-days-to-disconnect-island) | [[贪心算法](../greedy/README.md)]  | Hard |
 | 1567 | [乘积为正数的最长子数组长度](../../problems/maximum-length-of-subarray-with-positive-product) | [[贪心算法](../greedy/README.md)]  | Medium |
-| 1564 | [Put Boxes Into the Warehouse I](../../problems/put-boxes-into-the-warehouse-i) 🔒 | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1564 | [把箱子放进仓库里 I](../../problems/put-boxes-into-the-warehouse-i) 🔒 | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1558 | [得到目标数组的最少函数调用次数](../../problems/minimum-numbers-of-function-calls-to-make-target-array) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1540 | [K 次操作转变字符串](../../problems/can-convert-string-in-k-moves) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1536 | [排布二进制网格的最少交换次数](../../problems/minimum-swaps-to-arrange-a-binary-grid) | [[贪心算法](../greedy/README.md)]  | Medium |
@@ -38,6 +39,7 @@
 | 1338 | [数组大小减半](../../problems/reduce-array-size-to-the-half) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1326 | [灌溉花园的最少水龙头数目](../../problems/minimum-number-of-taps-to-open-to-water-a-garden) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1296 | [划分数组为连续数字的集合](../../problems/divide-array-in-sets-of-k-consecutive-numbers) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1288 | [删除被覆盖区间](../../problems/remove-covered-intervals) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
 | 1282 | [用户分组](../../problems/group-the-people-given-the-group-size-they-belong-to) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1276 | [不浪费原料的汉堡制作方案](../../problems/number-of-burgers-with-no-waste-of-ingredients) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1253 | [重构 2 行二进制矩阵](../../problems/reconstruct-a-2-row-binary-matrix) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
@@ -50,6 +52,7 @@
 | 1111 | [有效括号的嵌套深度](../../problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1094 | [拼车](../../problems/car-pooling) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1090 | [受标签影响的最大值](../../problems/largest-values-from-labels) | [[贪心算法](../greedy/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1081 | [不同字符的最小子序列](../../problems/smallest-subsequence-of-distinct-characters) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1058 | [最小化舍入误差以满足目标](../../problems/minimize-rounding-error-to-meet-target) 🔒 | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1057 | [校园自行车分配](../../problems/campus-bikes) 🔒 | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
 | 1055 | [形成字符串的最短路径](../../problems/shortest-way-to-form-string) 🔒 | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
@@ -89,7 +92,7 @@
 | 502 | [IPO](../../problems/ipo) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Hard |
 | 484 | [寻找排列](../../problems/find-permutation) 🔒 | [[贪心算法](../greedy/README.md)]  | Medium |
 | 455 | [分发饼干](../../problems/assign-cookies) | [[贪心算法](../greedy/README.md)]  | Easy |
-| 452 | [用最少数量的箭引爆气球](../../problems/minimum-number-of-arrows-to-burst-balloons) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 452 | [用最少数量的箭引爆气球](../../problems/minimum-number-of-arrows-to-burst-balloons) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
 | 435 | [无重叠区间](../../problems/non-overlapping-intervals) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 406 | [根据身高重建队列](../../problems/queue-reconstruction-by-height) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 402 | [移掉K位数字](../../problems/remove-k-digits) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
@@ -98,7 +101,7 @@
 | 358 | [K 距离间隔重排字符串](../../problems/rearrange-string-k-distance-apart) 🔒 | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
 | 330 | [按要求补齐数组](../../problems/patching-array) | [[贪心算法](../greedy/README.md)]  | Hard |
 | 321 | [拼接最大数](../../problems/create-maximum-number) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 316 | [去除重复字母](../../problems/remove-duplicate-letters) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)]  | Hard |
+| 316 | [去除重复字母](../../problems/remove-duplicate-letters) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 253 | [会议室 II](../../problems/meeting-rooms-ii) 🔒 | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
 | 135 | [分发糖果](../../problems/candy) | [[贪心算法](../greedy/README.md)]  | Hard |
 | 134 | [加油站](../../problems/gas-station) | [[贪心算法](../greedy/README.md)]  | Medium |

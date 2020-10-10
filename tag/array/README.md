@@ -9,13 +9,14 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1608 | [特殊数组的特征值](../../problems/special-array-with-x-elements-greater-than-or-equal-x) | [[数组](../array/README.md)]  | Easy |
 | 1590 | [使数组和能被 P 整除](../../problems/make-sum-divisible-by-p) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1588 | [所有奇数长度子数组的和](../../problems/sum-of-all-odd-length-subarrays) | [[数组](../array/README.md)]  | Easy |
 | 1583 | [统计不开心的朋友](../../problems/count-unhappy-friends) | [[数组](../array/README.md)]  | Medium |
 | 1582 | [二进制矩阵中的特殊位置](../../problems/special-positions-in-a-binary-matrix) | [[数组](../array/README.md)]  | Easy |
 | 1574 | [删除最短的子数组使剩余数组有序](../../problems/shortest-subarray-to-be-removed-to-make-array-sorted) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1572 | [矩阵对角线元素的和](../../problems/matrix-diagonal-sum) | [[数组](../array/README.md)]  | Easy |
-| 1570 | [Dot Product of Two Sparse Vectors](../../problems/dot-product-of-two-sparse-vectors) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 1570 | [两个稀疏向量的点积](../../problems/dot-product-of-two-sparse-vectors) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1566 | [重复至少 K 次且长度为 M 的模式](../../problems/detect-pattern-of-length-m-repeated-k-or-more-times) | [[数组](../array/README.md)]  | Easy |
 | 1560 | [圆形赛道上经过次数最多的扇区](../../problems/most-visited-sector-in-a-circular-track) | [[数组](../array/README.md)]  | Easy |
 | 1552 | [两球之间的磁力](../../problems/magnetic-force-between-two-balls) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
@@ -198,11 +199,11 @@
 | 644 | [最大平均子段和 II](../../problems/maximum-average-subarray-ii) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 643 | [子数组最大平均数 I](../../problems/maximum-average-subarray-i) | [[数组](../array/README.md)]  | Easy |
 | 628 | [三个数的最大乘积](../../problems/maximum-product-of-three-numbers) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
-| 624 | [数组列表中的最大距离](../../problems/maximum-distance-in-arrays) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 624 | [数组列表中的最大距离](../../problems/maximum-distance-in-arrays) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 621 | [任务调度器](../../problems/task-scheduler) | [[贪心算法](../greedy/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)]  | Medium |
 | 611 | [有效三角形的个数](../../problems/valid-triangle-number) | [[数组](../array/README.md)]  | Medium |
 | 605 | [种花问题](../../problems/can-place-flowers) | [[数组](../array/README.md)]  | Easy |
-| 581 | [最短无序连续子数组](../../problems/shortest-unsorted-continuous-subarray) | [[数组](../array/README.md)]  | Easy |
+| 581 | [最短无序连续子数组](../../problems/shortest-unsorted-continuous-subarray) | [[数组](../array/README.md)]  | Medium |
 | 566 | [重塑矩阵](../../problems/reshape-the-matrix) | [[数组](../array/README.md)]  | Easy |
 | 565 | [数组嵌套](../../problems/array-nesting) | [[数组](../array/README.md)]  | Medium |
 | 562 | [矩阵中最长的连续1线段](../../problems/longest-line-of-consecutive-one-in-matrix) 🔒 | [[数组](../array/README.md)]  | Medium |
@@ -210,7 +211,7 @@
 | 560 | [和为K的子数组](../../problems/subarray-sum-equals-k) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 548 | [将数组分割成和相等的子数组](../../problems/split-array-with-equal-sum) 🔒 | [[数组](../array/README.md)]  | Medium |
 | 533 | [孤独像素 II](../../problems/lonely-pixel-ii) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
-| 532 | [数组中的K-diff数对](../../problems/k-diff-pairs-in-an-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 532 | [数组中的 k-diff 数对](../../problems/k-diff-pairs-in-an-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 531 | [孤独像素 I](../../problems/lonely-pixel-i) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
 | 509 | [斐波那契数](../../problems/fibonacci-number) | [[数组](../array/README.md)]  | Easy |
 | 495 | [提莫攻击](../../problems/teemo-attacking) | [[数组](../array/README.md)]  | Medium |
@@ -238,7 +239,7 @@
 | 217 | [存在重复元素](../../problems/contains-duplicate) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 216 | [组合总和 III](../../problems/combination-sum-iii) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 209 | [长度最小的子数组](../../problems/minimum-size-subarray-sum) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
-| 189 | [旋转数组](../../problems/rotate-array) | [[数组](../array/README.md)]  | Easy |
+| 189 | [旋转数组](../../problems/rotate-array) | [[数组](../array/README.md)]  | Medium |
 | 169 | [多数元素](../../problems/majority-element) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Easy |
 | 167 | [两数之和 II - 输入有序数组](../../problems/two-sum-ii-input-array-is-sorted) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 163 | [缺失的区间](../../problems/missing-ranges) 🔒 | [[数组](../array/README.md)]  | Medium |

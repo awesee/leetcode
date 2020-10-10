@@ -70,14 +70,14 @@
 		"TranslatedName": "回溯算法"
 	},
 	{
-		"Name": "Bit Manipulation",
-		"Slug": "bit-manipulation",
-		"TranslatedName": "位运算"
-	},
-	{
 		"Name": "Design",
 		"Slug": "design",
 		"TranslatedName": "设计"
+	},
+	{
+		"Name": "Bit Manipulation",
+		"Slug": "bit-manipulation",
+		"TranslatedName": "位运算"
 	},
 	{
 		"Name": "Graph",
@@ -130,14 +130,14 @@
 		"TranslatedName": "Ordered Map"
 	},
 	{
-		"Name": "Queue",
-		"Slug": "queue",
-		"TranslatedName": "队列"
-	},
-	{
 		"Name": "Geometry",
 		"Slug": "geometry",
 		"TranslatedName": "几何"
+	},
+	{
+		"Name": "Queue",
+		"Slug": "queue",
+		"TranslatedName": "队列"
 	},
 	{
 		"Name": "Minimax",

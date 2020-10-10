@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../the-most-recent-orders-for-each-product "The Most Recent Orders for Each Product")
 
-## [1548. The Most Similar Path in a Graph (Hard)](https://leetcode.com/problems/the-most-similar-path-in-a-graph "")
+## [1548. The Most Similar Path in a Graph (Hard)](https://leetcode.com/problems/the-most-similar-path-in-a-graph "图中最相似的路径")
 
 
 

@@ -11,22 +11,22 @@
 
 ## [22. Generate Parentheses (Medium)](https://leetcode.com/problems/generate-parentheses "括号生成")
 
-<p>
-Given <i>n</i> pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
-</p>
+<p>Given <code>n</code> pairs of parentheses, write a function to <em>generate all combinations of well-formed parentheses</em>.</p>
 
-<p>
-For example, given <i>n</i> = 3, a solution set is:
-</p>
-<pre>
-[
-  "((()))",
-  "(()())",
-  "(())()",
-  "()(())",
-  "()()()"
-]
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+<pre><strong>Input:</strong> n = 3
+<strong>Output:</strong> ["((()))","(()())","(())()","()(())","()()()"]
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> n = 1
+<strong>Output:</strong> ["()"]
 </pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= n &lt;= 8</code></li>
+</ul>
 
 ### Related Topics
   [[String](../../tag/string/README.md)]

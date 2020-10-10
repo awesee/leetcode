@@ -25,7 +25,7 @@
 | 759 | [员工空闲时间](../../problems/employee-free-time) 🔒 | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Hard |
 | 743 | [网络延迟时间](../../problems/network-delay-time) | [[堆](../heap/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 719 | [找出第 k 小的距离对](../../problems/find-k-th-smallest-pair-distance) | [[堆](../heap/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
-| 703 | [数据流中的第K大元素](../../problems/kth-largest-element-in-a-stream) | [[堆](../heap/README.md)]  | Easy |
+| 703 | [数据流中的第K大元素](../../problems/kth-largest-element-in-a-stream) | [[堆](../heap/README.md)] [[设计](../design/README.md)]  | Easy |
 | 692 | [前K个高频单词](../../problems/top-k-frequent-words) | [[堆](../heap/README.md)] [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 659 | [分割数组为连续子序列](../../problems/split-array-into-consecutive-subsequences) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
 | 502 | [IPO](../../problems/ipo) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Hard |

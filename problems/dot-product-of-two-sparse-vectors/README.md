@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../warehouse-manager "Warehouse Manager")
 
-## [1570. Dot Product of Two Sparse Vectors (Medium)](https://leetcode.com/problems/dot-product-of-two-sparse-vectors "")
+## [1570. Dot Product of Two Sparse Vectors (Medium)](https://leetcode.com/problems/dot-product-of-two-sparse-vectors "两个稀疏向量的点积")
 
 
 

@@ -17,10 +17,9 @@
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> start = &quot;X&quot;, end = &quot;L&quot;
-<strong>Output:</strong> false
-<strong>Explanation:</strong>
-We can transform start to end following these steps:
+<strong>Input:</strong> start = &quot;RXXLRXRXL&quot;, end = &quot;XRLXXRRLX&quot;
+<strong>Output:</strong> true
+<strong>Explanation:</strong> We can transform start to end following these steps:
 RXXLRXRXL -&gt;
 XRXLRXRXL -&gt;
 XRLXRXRXL -&gt;
@@ -31,11 +30,25 @@ XRLXXRRLX
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> start = &quot;LLR&quot;, end = &quot;RRL&quot;
+<strong>Input:</strong> start = &quot;X&quot;, end = &quot;L&quot;
 <strong>Output:</strong> false
 </pre>
 
 <p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> start = &quot;LLR&quot;, end = &quot;RRL&quot;
+<strong>Output:</strong> false
+</pre>
+
+<p><strong>Example 4:</strong></p>
+
+<pre>
+<strong>Input:</strong> start = &quot;XL&quot;, end = &quot;LX&quot;
+<strong>Output:</strong> true
+</pre>
+
+<p><strong>Example 5:</strong></p>
 
 <pre>
 <strong>Input:</strong> start = &quot;XLLR&quot;, end = &quot;LXLX&quot;

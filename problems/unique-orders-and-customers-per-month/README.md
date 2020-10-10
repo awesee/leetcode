@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../detect-pattern-of-length-m-repeated-k-or-more-times "Detect Pattern of Length M Repeated K or More Times")
 
-## [1565. Unique Orders and Customers Per Month (Easy)](https://leetcode.com/problems/unique-orders-and-customers-per-month "")
+## [1565. Unique Orders and Customers Per Month (Easy)](https://leetcode.com/problems/unique-orders-and-customers-per-month "按月统计订单数与顾客数")
 
 

@@ -9,26 +9,42 @@
 　　　　　　　　　　　　　　　　
 [Next >](../kill-process "Kill Process")
 
-## [581. Shortest Unsorted Continuous Subarray (Easy)](https://leetcode.com/problems/shortest-unsorted-continuous-subarray "最短无序连续子数组")
+## [581. Shortest Unsorted Continuous Subarray (Medium)](https://leetcode.com/problems/shortest-unsorted-continuous-subarray "最短无序连续子数组")
 
-<p>Given an integer array, you need to find one <b>continuous subarray</b> that if you only sort this subarray in ascending order, then the whole array will be sorted in ascending order, too. </p> 
+<p>Given an integer array <code>nums</code>, you need to find one <b>continuous subarray</b> that if you only sort this subarray in ascending order, then the whole array will be sorted in ascending order.</p>
 
-<p>You need to find the <b>shortest</b> such subarray and output its length.</p>
+<p>Return&nbsp;<em>the shortest such subarray and output its length</em>.</p>
 
-<p><b>Example 1:</b><br />
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+
 <pre>
-<b>Input:</b> [2, 6, 4, 8, 10, 9, 15]
-<b>Output:</b> 5
-<b>Explanation:</b> You need to sort [6, 4, 8, 10, 9] in ascending order to make the whole array sorted in ascending order.
+<strong>Input:</strong> nums = [2,6,4,8,10,9,15]
+<strong>Output:</strong> 5
+<strong>Explanation:</strong> You need to sort [6, 4, 8, 10, 9] in ascending order to make the whole array sorted in ascending order.
 </pre>
-</p>
 
-<p><b>Note:</b><br>
-<ol>
-<li>Then length of the input array is in range [1, 10,000].</li>
-<li>The input array may contain duplicates, so ascending order here means <b><=</b>. </li>
-</ol>
-</p>
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [1,2,3,4]
+<strong>Output:</strong> 0
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [1]
+<strong>Output:</strong> 0
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>-10<sup>5</sup> &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
+</ul>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../unique-orders-and-customers-per-month "Unique Orders and Customers Per Month")
 
-## [1564. Put Boxes Into the Warehouse I (Medium)](https://leetcode.com/problems/put-boxes-into-the-warehouse-i "")
+## [1564. Put Boxes Into the Warehouse I (Medium)](https://leetcode.com/problems/put-boxes-into-the-warehouse-i "把箱子放进仓库里 I")
 
 
 

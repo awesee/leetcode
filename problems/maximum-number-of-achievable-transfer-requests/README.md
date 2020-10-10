@@ -7,7 +7,7 @@
 
 [< Previous](../throne-inheritance "Throne Inheritance")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../find-nearest-right-node-in-binary-tree "Find Nearest Right Node in Binary Tree")
 
 ## [1601. Maximum Number of Achievable Transfer Requests (Hard)](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests "最多可达成的换楼请求数目")
 
