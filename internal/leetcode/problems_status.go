@@ -236,6 +236,11 @@ var problemStatus = map[int]bool{
 	1185: true,
 	1189: true,
 	1221: true,
+	1408: true,
+	1417: true,
+	1422: true,
+	1436: true,
+	1455: true,
 }
 
 // IsSolved - leetcode.IsSolved
