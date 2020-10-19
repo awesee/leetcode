@@ -13,7 +13,9 @@
 
 <p>Given an array&nbsp;of <code>n</code> integers <code>nums</code>, a <strong>132 pattern</strong> is a subsequence of three integers <code>nums[i]</code>, <code>nums[j]</code> and <code>nums[k]</code> such that <code>i &lt; j &lt; k</code> and <code>nums[i] &lt; nums[k] &lt; nums[j]</code>.</p>
 
-<p>Return <em><code>true</code> if there is a <strong>132 pattern</strong> in <code>nums</code>, otherwise return <code>false</code>.</em></p>
+<p>Return <em><code>true</code> if there is a <strong>132 pattern</strong> in <code>nums</code>, otherwise, return <code>false</code>.</em></p>
+
+<p><strong>Follow up: </strong>The <code>O(n^2)</code> is trivial, could you come up with the <code>O(n logn)</code> or the <code>O(n)</code> solution?</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -45,7 +47,7 @@
 
 <ul>
 	<li><code>n == nums.length</code></li>
-	<li><code>1 &lt;= n &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= n &lt;= 10<sup>4</sup></code></li>
 	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
 

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 5544 | [执行操作后字典序最小的字符串](../../problems/lexicographically-smallest-string-after-applying-operations) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1559 | [二维网格图中探测环](../../problems/detect-cycles-in-2d-grid) | [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
 | 1530 | [好叶子节点对的数量](../../problems/number-of-good-leaf-nodes-pairs) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1519 | [子树中标签相同的节点数](../../problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |

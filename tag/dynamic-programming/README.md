@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 5545 | [无矛盾的最佳球队](../../problems/best-team-with-no-conflicts) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1611 | [使整数变为 0 的最少操作次数](../../problems/minimum-one-bit-operations-to-make-integers-zero) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1601 | [最多可达成的换楼请求数目](../../problems/maximum-number-of-achievable-transfer-requests) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1595 | [连通两组点的最小成本](../../problems/minimum-cost-to-connect-two-groups-of-points) | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

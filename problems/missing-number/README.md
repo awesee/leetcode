@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../alien-dictionary "Alien Dictionary")
 
-## [268. Missing Number (Easy)](https://leetcode.com/problems/missing-number "缺失数字")
+## [268. Missing Number (Easy)](https://leetcode.com/problems/missing-number "丢失的数字")
 
 <p>Given an array <code>nums</code> containing <code>n</code> distinct numbers in the range <code>[0, n]</code>, return <em>the only number in the range that is missing from the array.</em></p>
 

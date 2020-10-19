@@ -19,6 +19,8 @@
 
 <p>The <strong>subtree</strong> of a node is tree consisting of that node, plus the set of all descendants of that node.</p>
 
+<p><strong>Note:</strong> This question is the same as 1123: <a href="https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/" target="_blank">https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/</a></p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <img alt="" src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/01/sketch1.png" style="width: 600px; height: 510px;" />
@@ -51,6 +53,7 @@ Notice that nodes 5, 3 and 2 contain the deepest nodes in the tree but node 2 is
 
 <ul>
 	<li>The number of nodes in the tree will be in the range <code>[1, 500]</code>.</li>
+	<li><code>0 &lt;= Node.val &lt;= 500</code></li>
 	<li>The values of the nodes in the tree&nbsp;are <strong>unique</strong>.</li>
 </ul>
 

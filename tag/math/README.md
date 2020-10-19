@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 5128 | [带阈值的图连通性](../../problems/graph-connectivity-with-threshold) | [[并查集](../union-find/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1622 | [奇妙序列](../../problems/fancy-sequence) | [[设计](../design/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1577 | [数的平方等于两数乘积的方法数](../../problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1551 | [使数组中所有元素相等的最小操作数](../../problems/minimum-operations-to-make-array-equal) | [[数学](../math/README.md)]  | Medium |
 | 1524 | [和为奇数的子数组数目](../../problems/number-of-sub-arrays-with-odd-sum) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
@@ -164,7 +166,7 @@
 | 296 | [最佳的碰头地点](../../problems/best-meeting-point) 🔒 | [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Hard |
 | 279 | [完全平方数](../../problems/perfect-squares) | [[广度优先搜索](../breadth-first-search/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 273 | [整数转换英文表示](../../problems/integer-to-english-words) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
-| 268 | [缺失数字](../../problems/missing-number) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 268 | [丢失的数字](../../problems/missing-number) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 264 | [丑数 II](../../problems/ugly-number-ii) | [[堆](../heap/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 263 | [丑数](../../problems/ugly-number) | [[数学](../math/README.md)]  | Easy |
 | 258 | [各位相加](../../problems/add-digits) | [[数学](../math/README.md)]  | Easy |

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1622 | [奇妙序列](../../problems/fancy-sequence) | [[设计](../design/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1603 | [设计停车系统](../../problems/design-parking-system) | [[设计](../design/README.md)]  | Easy |
 | 1600 | [皇位继承顺序](../../problems/throne-inheritance) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
 | 1586 | [二叉搜索树迭代器 II](../../problems/binary-search-tree-iterator-ii) 🔒 | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |

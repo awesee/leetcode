@@ -9,8 +9,12 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 5543 | [两个相同字符之间的最长子字符串](../../problems/largest-substring-between-two-equal-characters) | [[字符串](../string/README.md)]  | Easy |
+| 1618 | [找出适应屏幕的最大字号](../../problems/maximum-font-to-fit-a-sentence-in-a-screen) | [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1616 | [分割两个字符串得到回文串](../../problems/split-two-strings-to-make-palindrome) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1614 | [括号的最大嵌套深度](../../problems/maximum-nesting-depth-of-the-parentheses) | [[字符串](../string/README.md)]  | Easy |
 | 1604 | [警告一小时内使用相同员工卡大于等于三次的人](../../problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) | [[字符串](../string/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Medium |
-| 1597 | [根据中缀表达式构造二叉表达式树](../../problems/build-binary-expression-tree-from-infix-expression) | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 1597 | [根据中缀表达式构造二叉表达式树](../../problems/build-binary-expression-tree-from-infix-expression) 🔒 | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 1592 | [重新排列单词间的空格](../../problems/rearrange-spaces-between-words) | [[字符串](../string/README.md)]  | Easy |
 | 1585 | [检查字符串是否可以通过排序子字符串得到另一个字符串](../../problems/check-if-string-is-transformable-with-substring-sort-operations) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 1576 | [替换所有的问号](../../problems/replace-all-s-to-avoid-consecutive-repeating-characters) | [[字符串](../string/README.md)]  | Easy |

@@ -9,11 +9,11 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1612 | [Check If Two Expression Trees are Equivalent](../../problems/check-if-two-expression-trees-are-equivalent) 🔒 | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1612 | [检查两棵二叉表达式树是否等价](../../problems/check-if-two-expression-trees-are-equivalent) 🔒 | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1609 | [奇偶树](../../problems/even-odd-tree) | [[树](../tree/README.md)]  | Medium |
-| 1602 | [Find Nearest Right Node in Binary Tree](../../problems/find-nearest-right-node-in-binary-tree) 🔒 | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1602 | [找到二叉树中最近的右侧节点](../../problems/find-nearest-right-node-in-binary-tree) 🔒 | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1600 | [皇位继承顺序](../../problems/throne-inheritance) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
-| 1597 | [根据中缀表达式构造二叉表达式树](../../problems/build-binary-expression-tree-from-infix-expression) | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 1597 | [根据中缀表达式构造二叉表达式树](../../problems/build-binary-expression-tree-from-infix-expression) 🔒 | [[树](../tree/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 1586 | [二叉搜索树迭代器 II](../../problems/binary-search-tree-iterator-ii) 🔒 | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
 | 1530 | [好叶子节点对的数量](../../problems/number-of-good-leaf-nodes-pairs) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1516 | [移动 N 叉树的子树](../../problems/move-sub-tree-of-n-ary-tree) 🔒 | [[树](../tree/README.md)]  | Hard |
@@ -72,7 +72,7 @@
 | 742 | [二叉树最近的叶节点](../../problems/closest-leaf-in-a-binary-tree) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 701 | [二叉搜索树中的插入操作](../../problems/insert-into-a-binary-search-tree) | [[树](../tree/README.md)]  | Medium |
 | 700 | [二叉搜索树中的搜索](../../problems/search-in-a-binary-search-tree) | [[树](../tree/README.md)]  | Easy |
-| 687 | [最长同值路径](../../problems/longest-univalue-path) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 687 | [最长同值路径](../../problems/longest-univalue-path) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 685 | [冗余连接 II](../../problems/redundant-connection-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
 | 684 | [冗余连接](../../problems/redundant-connection) | [[树](../tree/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
 | 671 | [二叉树中第二小的节点](../../problems/second-minimum-node-in-a-binary-tree) | [[树](../tree/README.md)]  | Easy |

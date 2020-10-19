@@ -47,4 +47,4 @@ Return 3. The paths that sum to 8 are:
   1. [Path Sum](../path-sum) (Easy)
   1. [Path Sum II](../path-sum-ii) (Medium)
   1. [Path Sum IV](../path-sum-iv) (Medium)
-  1. [Longest Univalue Path](../longest-univalue-path) (Easy)
+  1. [Longest Univalue Path](../longest-univalue-path) (Medium)

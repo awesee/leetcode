@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1620 | [网络信号最好的坐标](../../problems/coordinate-with-maximum-network-quality) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1616 | [分割两个字符串得到回文串](../../problems/split-two-strings-to-make-palindrome) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1605 | [给定行和列的和求可行矩阵](../../problems/find-valid-matrix-given-row-and-column-sums) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1599 | [经营摩天轮的最大利润](../../problems/maximum-profit-of-operating-a-centennial-wheel) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1594 | [矩阵的最大非负积](../../problems/maximum-non-negative-product-in-a-matrix) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
