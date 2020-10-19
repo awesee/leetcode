@@ -52,7 +52,7 @@
 | 338 | [比特位计数](../../problems/counting-bits) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 320 | [列举单词的全部缩写](../../problems/generalized-abbreviation) 🔒 | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 318 | [最大单词长度乘积](../../problems/maximum-product-of-word-lengths) | [[位运算](../bit-manipulation/README.md)]  | Medium |
-| 268 | [缺失数字](../../problems/missing-number) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 268 | [丢失的数字](../../problems/missing-number) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 260 | [只出现一次的数字 III](../../problems/single-number-iii) | [[位运算](../bit-manipulation/README.md)]  | Medium |
 | 231 | [2的幂](../../problems/power-of-two) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Easy |
 | 201 | [数字范围按位与](../../problems/bitwise-and-of-numbers-range) | [[位运算](../bit-manipulation/README.md)]  | Medium |

@@ -58,7 +58,7 @@
 <ul>
 	<li><code>1 &lt;= keyName.length, keyTime.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>keyName.length == keyTime.length</code></li>
-	<li><code>keyTime</code> are in the format <strong>&quot;HH:MM&quot;</strong>.</li>
+	<li><code>keyTime[i]</code>&nbsp;is in the format <strong>&quot;HH:MM&quot;</strong>.</li>
 	<li><code>[keyName[i], keyTime[i]]</code> is <strong>unique</strong>.</li>
 	<li><code>1 &lt;= keyName[i].length &lt;= 10</code></li>
 	<li><code>keyName[i] contains only lowercase English letters.</code></li>

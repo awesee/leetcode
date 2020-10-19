@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../confusing-number-ii "Confusing Number II")
 
-## [1087. Brace Expansion (Medium)](https://leetcode.com/problems/brace-expansion "字母切换")
+## [1087. Brace Expansion (Medium)](https://leetcode.com/problems/brace-expansion "花括号展开")
 
 <p>A string <code>S</code>&nbsp;represents a list of words.</p>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../design-parking-system "Design Parking System")
 
-## [1602. Find Nearest Right Node in Binary Tree (Medium)](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree "")
+## [1602. Find Nearest Right Node in Binary Tree (Medium)](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree "找到二叉树中最近的右侧节点")
 
 
 

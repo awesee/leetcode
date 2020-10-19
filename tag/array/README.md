@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1619 | [删除某些元素后的数组均值](../../problems/mean-of-array-after-removing-some-elements) | [[数组](../array/README.md)]  | Easy |
 | 1608 | [特殊数组的特征值](../../problems/special-array-with-x-elements-greater-than-or-equal-x) | [[数组](../array/README.md)]  | Easy |
 | 1590 | [使数组和能被 P 整除](../../problems/make-sum-divisible-by-p) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1588 | [所有奇数长度子数组的和](../../problems/sum-of-all-odd-length-subarrays) | [[数组](../array/README.md)]  | Easy |
@@ -228,7 +229,7 @@
 | 283 | [移动零](../../problems/move-zeroes) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 280 | [摆动排序](../../problems/wiggle-sort) 🔒 | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 277 | [搜寻名人](../../problems/find-the-celebrity) 🔒 | [[数组](../array/README.md)]  | Medium |
-| 268 | [缺失数字](../../problems/missing-number) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 268 | [丢失的数字](../../problems/missing-number) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 259 | [较小的三数之和](../../problems/3sum-smaller) 🔒 | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 245 | [最短单词距离 III](../../problems/shortest-word-distance-iii) 🔒 | [[数组](../array/README.md)]  | Medium |
 | 243 | [最短单词距离](../../problems/shortest-word-distance) 🔒 | [[数组](../array/README.md)]  | Easy |

@@ -11,7 +11,9 @@
 
 ## [200. Number of Islands (Medium)](https://leetcode.com/problems/number-of-islands "岛屿数量")
 
-<p>Given a 2d grid map of <code>&#39;1&#39;</code>s (land) and <code>&#39;0&#39;</code>s (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.</p>
+<p>Given an <code>m x n</code> 2d <code>grid</code> map of <code>&#39;1&#39;</code>s (land) and <code>&#39;0&#39;</code>s (water), return <em>the number of islands</em>.</p>
+
+<p>An <strong>island</strong> is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -37,6 +39,16 @@
 ]
 <strong>Output:</strong> 3
 </pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>m == grid.length</code></li>
+	<li><code>n == grid[i].length</code></li>
+	<li><code>1 &lt;= m, n &lt;= 300</code></li>
+	<li><code>grid[i][j]</code> is <code>&#39;0&#39;</code> or <code>&#39;1&#39;</code>.</li>
+</ul>
 
 ### Related Topics
   [[Depth-first Search](../../tag/depth-first-search/README.md)]

@@ -33,4 +33,4 @@
 
 ### Similar Questions
   1. [Subtree of Another Tree](../subtree-of-another-tree) (Easy)
-  1. [Longest Univalue Path](../longest-univalue-path) (Easy)
+  1. [Longest Univalue Path](../longest-univalue-path) (Medium)

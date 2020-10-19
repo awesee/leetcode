@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1617 | [统计子树中城市之间最大距离](../../problems/count-subtrees-with-max-distance-between-cities) | [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1593 | [拆分字符串使唯一子字符串的数目最大](../../problems/split-a-string-into-the-max-number-of-unique-substrings) | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1467 | [两个盒子中球的颜色数相同的概率](../../problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1415 | [长度为 n 的开心字符串中字典序第 k 小的字符串](../../problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | [[回溯算法](../backtracking/README.md)]  | Medium |
@@ -21,7 +22,7 @@
 | 1219 | [黄金矿工](../../problems/path-with-maximum-gold) | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1215 | [步进数](../../problems/stepping-numbers) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1088 | [易混淆数 II](../../problems/confusing-number-ii) 🔒 | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 1087 | [字母切换](../../problems/brace-expansion) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 1087 | [花括号展开](../../problems/brace-expansion) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1079 | [活字印刷](../../problems/letter-tile-possibilities) | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1066 | [校园自行车分配 II](../../problems/campus-bikes-ii) 🔒 | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 996 | [正方形数组的数目](../../problems/number-of-squareful-arrays) | [[图](../graph/README.md)] [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |

@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../special-array-with-x-elements-greater-than-or-equal-x "Special Array With X Elements Greater Than or Equal X")
 
-## [1607. Sellers With No Sales (Easy)](https://leetcode.com/problems/sellers-with-no-sales "")
+## [1607. Sellers With No Sales (Easy)](https://leetcode.com/problems/sellers-with-no-sales "没有卖出的卖家")
 
 

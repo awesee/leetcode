@@ -7,9 +7,9 @@
 
 [< Previous](../minimum-one-bit-operations-to-make-integers-zero "Minimum One Bit Operations to Make Integers Zero")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../find-the-missing-ids "Find the Missing IDs")
 
-## [1612. Check If Two Expression Trees are Equivalent (Medium)](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent "")
+## [1612. Check If Two Expression Trees are Equivalent (Medium)](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent "检查两棵二叉表达式树是否等价")
 
 
 

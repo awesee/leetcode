@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../redundant-connection "Redundant Connection")
 
-## [683. K Empty Slots (Hard)](https://leetcode.com/problems/k-empty-slots "K 个空花盆")
+## [683. K Empty Slots (Hard)](https://leetcode.com/problems/k-empty-slots "K 个关闭的灯泡")
 
 <p>You have <code>N</code> bulbs in a row numbered from <code>1</code> to <code>N</code>. Initially, all the bulbs are turned off. We turn on exactly one bulb everyday until all bulbs are on after <code>N</code> days.</p>
 

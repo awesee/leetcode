@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1621 | [大小为 K 的不重叠线段的数目](../../problems/number-of-sets-of-k-non-overlapping-line-segments) | [[递归](../recursion/README.md)]  | Medium |
 | 1137 | [第 N 个泰波那契数](../../problems/n-th-tribonacci-number) | [[递归](../recursion/README.md)]  | Easy |
 | 938 | [二叉搜索树的范围和](../../problems/range-sum-of-bst) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 894 | [所有可能的满二叉树](../../problems/all-possible-full-binary-trees) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
@@ -19,7 +20,7 @@
 | 761 | [特殊的二进制序列](../../problems/special-binary-string) | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 726 | [原子的数量](../../problems/number-of-atoms) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
 | 698 | [划分为k个相等的子集](../../problems/partition-to-k-equal-sum-subsets) | [[递归](../recursion/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 687 | [最长同值路径](../../problems/longest-univalue-path) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 687 | [最长同值路径](../../problems/longest-univalue-path) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 625 | [最小因式分解](../../problems/minimum-factorization) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
 | 544 | [输出比赛匹配对](../../problems/output-contest-matches) 🔒 | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 248 | [中心对称数 III](../../problems/strobogrammatic-number-iii) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Hard |
