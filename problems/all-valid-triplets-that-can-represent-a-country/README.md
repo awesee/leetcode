@@ -5,10 +5,10 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../put-boxes-into-the-warehouse-ii "Put Boxes Into the Warehouse II")
+[< Previous](../fancy-sequence "Fancy Sequence")
 　　　　　　　　　　　　　　　　
-[Next >](../special-positions-in-a-binary-matrix "Special Positions in a Binary Matrix")
+[Next >](../largest-substring-between-two-equal-characters "Largest Substring Between Two Equal Characters")
 
-## [1581. Customer Who Visited but Did Not Make Any Transactions (Easy)](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions "进店却未进行过交易的顾客")
+## [1623. All Valid Triplets That Can Represent a Country (Easy)](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country "")
 
 

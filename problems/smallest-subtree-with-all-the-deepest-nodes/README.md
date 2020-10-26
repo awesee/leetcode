@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../prime-palindrome "Prime Palindrome")
 
-## [865. Smallest Subtree with all the Deepest Nodes (Medium)](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes "具有所有最深结点的最小子树")
+## [865. Smallest Subtree with all the Deepest Nodes (Medium)](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes "具有所有最深节点的最小子树")
 
 <p>Given the <code>root</code> of a binary tree, the depth of each node is <strong>the shortest distance to the root</strong>.</p>
 

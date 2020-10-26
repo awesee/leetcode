@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1632 | [矩阵转换后的秩](../../problems/rank-transform-of-a-matrix) | [[贪心算法](../greedy/README.md)] [[并查集](../union-find/README.md)]  | Hard |
 | 1620 | [网络信号最好的坐标](../../problems/coordinate-with-maximum-network-quality) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1616 | [分割两个字符串得到回文串](../../problems/split-two-strings-to-make-palindrome) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1605 | [给定行和列的和求可行矩阵](../../problems/find-valid-matrix-given-row-and-column-sums) | [[贪心算法](../greedy/README.md)]  | Medium |
