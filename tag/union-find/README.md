@@ -9,7 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 5128 | [带阈值的图连通性](../../problems/graph-connectivity-with-threshold) | [[并查集](../union-find/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1632 | [矩阵转换后的秩](../../problems/rank-transform-of-a-matrix) | [[贪心算法](../greedy/README.md)] [[并查集](../union-find/README.md)]  | Hard |
+| 1631 | [最小体力消耗路径](../../problems/path-with-minimum-effort) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1627 | [带阈值的图连通性](../../problems/graph-connectivity-with-threshold) | [[并查集](../union-find/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1584 | [连接所有点的最小费用](../../problems/min-cost-to-connect-all-points) | [[并查集](../union-find/README.md)]  | Medium |
 | 1579 | [保证图可完全遍历](../../problems/remove-max-number-of-edges-to-keep-graph-fully-traversable) | [[并查集](../union-find/README.md)]  | Hard |
 | 1489 | [找到最小生成树里的关键边和伪关键边](../../problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Hard |

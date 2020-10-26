@@ -9,8 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 5543 | [两个相同字符之间的最长子字符串](../../problems/largest-substring-between-two-equal-characters) | [[字符串](../string/README.md)]  | Easy |
-| 1618 | [找出适应屏幕的最大字号](../../problems/maximum-font-to-fit-a-sentence-in-a-screen) | [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1624 | [两个相同字符之间的最长子字符串](../../problems/largest-substring-between-two-equal-characters) | [[字符串](../string/README.md)]  | Easy |
+| 1618 | [找出适应屏幕的最大字号](../../problems/maximum-font-to-fit-a-sentence-in-a-screen) 🔒 | [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1616 | [分割两个字符串得到回文串](../../problems/split-two-strings-to-make-palindrome) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1614 | [括号的最大嵌套深度](../../problems/maximum-nesting-depth-of-the-parentheses) | [[字符串](../string/README.md)]  | Easy |
 | 1604 | [警告一小时内使用相同员工卡大于等于三次的人](../../problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) | [[字符串](../string/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Medium |

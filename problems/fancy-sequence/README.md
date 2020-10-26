@@ -7,7 +7,7 @@
 
 [< Previous](../number-of-sets-of-k-non-overlapping-line-segments "Number of Sets of K Non-Overlapping Line Segments")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../all-valid-triplets-that-can-represent-a-country "All Valid Triplets That Can Represent a Country")
 
 ## [1622. Fancy Sequence (Hard)](https://leetcode.com/problems/fancy-sequence "奇妙序列")
 
