@@ -49,8 +49,9 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>2 &lt;=&nbsp;height.length &lt;= 3 * 10<sup>4</sup></code></li>
-	<li><code>0 &lt;=&nbsp;height[i] &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>n = height.length</code></li>
+	<li><code>2 &lt;= n &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= height[i] &lt;= 3 * 10<sup>4</sup></code></li>
 </ul>
 
 ### Related Topics

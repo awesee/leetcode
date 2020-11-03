@@ -11,16 +11,17 @@
 
 ## [72. Edit Distance (Hard)](https://leetcode.com/problems/edit-distance "编辑距离")
 
-<p>Given two words <em>word1</em> and <em>word2</em>, find the minimum number of operations required to convert <em>word1</em> to <em>word2</em>.</p>
+<p>Given two strings <code>word1</code> and <code>word2</code>, return <em>the minimum number of operations required to convert <code>word1</code> to <code>word2</code></em>.</p>
 
-<p>You have the following 3 operations permitted on a word:</p>
+<p>You have the following three operations permitted on a word:</p>
 
-<ol>
+<ul>
 	<li>Insert a character</li>
 	<li>Delete a character</li>
 	<li>Replace a character</li>
-</ol>
+</ul>
 
+<p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
 <pre>
@@ -44,6 +45,14 @@ enention -&gt; exention (replace &#39;n&#39; with &#39;x&#39;)
 exention -&gt; exection (replace &#39;n&#39; with &#39;c&#39;)
 exection -&gt; execution (insert &#39;u&#39;)
 </pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>0 &lt;= word1.length, word2.length &lt;= 500</code></li>
+	<li><code>word1</code> and <code>word2</code> consist of lowercase English letters.</li>
+</ul>
 
 ### Related Topics
   [[String](../../tag/string/README.md)]

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1641 | [统计字典序元音字符串的数目](../../problems/count-sorted-vowel-strings) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1627 | [带阈值的图连通性](../../problems/graph-connectivity-with-threshold) | [[并查集](../union-find/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1622 | [奇妙序列](../../problems/fancy-sequence) | [[设计](../design/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1590 | [使数组和能被 P 整除](../../problems/make-sum-divisible-by-p) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
@@ -146,6 +147,7 @@
 | 462 | [最少移动次数使数组元素相等 II](../../problems/minimum-moves-to-equal-array-elements-ii) | [[数学](../math/README.md)]  | Medium |
 | 458 | [可怜的小猪](../../problems/poor-pigs) | [[数学](../math/README.md)]  | Hard |
 | 453 | [最小移动次数使数组元素相等](../../problems/minimum-moves-to-equal-array-elements) | [[数学](../math/README.md)]  | Easy |
+| 447 | [回旋镖的数量](../../problems/number-of-boomerangs) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
 | 441 | [排列硬币](../../problems/arranging-coins) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 423 | [从英文中重建数字](../../problems/reconstruct-original-digits-from-english) | [[数学](../math/README.md)]  | Medium |
 | 413 | [等差数列划分](../../problems/arithmetic-slices) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
@@ -188,7 +190,7 @@
 | 69 | [x 的平方根](../../problems/sqrtx) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 67 | [二进制求和](../../problems/add-binary) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 65 | [有效数字](../../problems/valid-number) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
-| 60 | [第k个排列](../../problems/permutation-sequence) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 60 | [排列序列](../../problems/permutation-sequence) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 50 | [Pow(x, n)](../../problems/powx-n) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 43 | [字符串相乘](../../problems/multiply-strings) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 29 | [两数相除](../../problems/divide-two-integers) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

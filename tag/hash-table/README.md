@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1638 | [统计只差一个字符的子串数目](../../problems/count-substrings-that-differ-by-one-character) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1612 | [检查两棵二叉表达式树是否等价](../../problems/check-if-two-expression-trees-are-equivalent) 🔒 | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1590 | [使数组和能被 P 整除](../../problems/make-sum-divisible-by-p) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1577 | [数的平方等于两数乘积的方法数](../../problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
@@ -93,7 +94,7 @@
 | 463 | [岛屿的周长](../../problems/island-perimeter) | [[哈希表](../hash-table/README.md)]  | Easy |
 | 454 | [四数相加 II](../../problems/4sum-ii) | [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 451 | [根据字符出现频率排序](../../problems/sort-characters-by-frequency) | [[堆](../heap/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
-| 447 | [回旋镖的数量](../../problems/number-of-boomerangs) | [[哈希表](../hash-table/README.md)]  | Easy |
+| 447 | [回旋镖的数量](../../problems/number-of-boomerangs) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
 | 438 | [找到字符串中所有字母异位词](../../problems/find-all-anagrams-in-a-string) | [[哈希表](../hash-table/README.md)]  | Medium |
 | 409 | [最长回文串](../../problems/longest-palindrome) | [[哈希表](../hash-table/README.md)]  | Easy |
 | 389 | [找不同](../../problems/find-the-difference) | [[位运算](../bit-manipulation/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |

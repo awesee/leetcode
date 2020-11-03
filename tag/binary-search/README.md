@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1642 | [可以到达的最远建筑](../../problems/furthest-building-you-can-reach) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1631 | [最小体力消耗路径](../../problems/path-with-minimum-effort) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1618 | [找出适应屏幕的最大字号](../../problems/maximum-font-to-fit-a-sentence-in-a-screen) 🔒 | [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1590 | [使数组和能被 P 整除](../../problems/make-sum-divisible-by-p) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

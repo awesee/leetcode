@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1642 | [可以到达的最远建筑](../../problems/furthest-building-you-can-reach) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1439 | [有序矩阵中的第 k 个最小数组和](../../problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) | [[堆](../heap/README.md)]  | Hard |
 | 1054 | [距离相等的条形码](../../problems/distant-barcodes) | [[堆](../heap/README.md)] [[排序](../sort/README.md)]  | Medium |
 | 1046 | [最后一块石头的重量](../../problems/last-stone-weight) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Easy |

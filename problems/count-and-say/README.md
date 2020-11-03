@@ -11,23 +11,18 @@
 
 ## [38. Count and Say (Easy)](https://leetcode.com/problems/count-and-say "外观数列")
 
-<p>The count-and-say sequence is the sequence of integers with the first five terms as following:</p>
+<p>The <strong>count-and-say</strong> sequence is a sequence of digit strings defined by the recursive formula:</p>
 
-<pre>
-1.     1
-2.     11
-3.     21
-4.     1211
-5.     111221
-</pre>
+<ul>
+	<li><code>countAndSay(1) = &quot;1&quot;</code></li>
+	<li><code>countAndSay(n)</code> is the way you would &quot;say&quot; the digit string from <code>countAndSay(n-1)</code>, which is then converted into a different digit string.</li>
+</ul>
 
-<p><code>1</code> is read off as <code>&quot;one 1&quot;</code> or <code>11</code>.<br />
-<code>11</code> is read off as <code>&quot;two 1s&quot;</code> or <code>21</code>.<br />
-<code>21</code> is read off as <code>&quot;one 2</code>, then <code>one 1&quot;</code> or <code>1211</code>.</p>
+<p>To determine how you &quot;say&quot; a digit string, split it into the <strong>minimal</strong> number of groups so that each group is a contiguous section all of the <strong>same character.</strong> Then for each group, say the number of characters, then say the character. To convert the saying into a digit string, replace the counts with a number and concatenate every saying.</p>
 
-<p>Given an integer <code>n</code>, generate the <code>n<sup>th</sup></code> term of the count-and-say sequence. You can do so recursively, in other words from the previous member&nbsp;read off the digits, counting the number of digits in groups of the same digit.</p>
-
-<p>Note: Each term of the sequence of integers will be represented as a string.</p>
+<p>For example, the saying and conversion for digit string <code>&quot;3322251&quot;</code>:</p>
+<img alt="" src="https://assets.leetcode.com/uploads/2020/10/23/countandsay.jpg" style="width: 581px; height: 172px;" />
+<p>Given a positive integer <code>n</code>, return <em>the </em><code>n<sup>th</sup></code><em> term of the <strong>count-and-say</strong> sequence</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -43,7 +38,11 @@
 <pre>
 <strong>Input:</strong> n = 4
 <strong>Output:</strong> &quot;1211&quot;
-<strong>Explanation:</strong> For n = 3 the term was &quot;21&quot; in which we have two groups &quot;2&quot; and &quot;1&quot;, &quot;2&quot; can be read as &quot;12&quot; which means frequency = 1 and value = 2, the same way &quot;1&quot; is read as &quot;11&quot;, so the answer is the concatenation of &quot;12&quot; and &quot;11&quot; which is &quot;1211&quot;.
+<strong>Explanation:</strong>
+countAndSay(1) = &quot;1&quot;
+countAndSay(2) = say &quot;1&quot; = one 1 = &quot;11&quot;
+countAndSay(3) = say &quot;11&quot; = two 1&#39;s = &quot;21&quot;
+countAndSay(4) = say &quot;21&quot; = one 2 + one 1 = &quot;12&quot; + &quot;11&quot; = &quot;1211&quot;
 </pre>
 
 <p>&nbsp;</p>

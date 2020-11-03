@@ -130,7 +130,7 @@
 | 129 | [求根到叶子节点数字之和](../../problems/sum-root-to-leaf-numbers) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 124 | [二叉树中的最大路径和](../../problems/binary-tree-maximum-path-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
 | 117 | [填充每个节点的下一个右侧节点指针 II](../../problems/populating-next-right-pointers-in-each-node-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
-| 116 | [填充每个节点的下一个右侧节点指针](../../problems/populating-next-right-pointers-in-each-node) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 116 | [填充每个节点的下一个右侧节点指针](../../problems/populating-next-right-pointers-in-each-node) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 114 | [二叉树展开为链表](../../problems/flatten-binary-tree-to-linked-list) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 113 | [路径总和 II](../../problems/path-sum-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 112 | [路径总和](../../problems/path-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |

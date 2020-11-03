@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1638 | [统计只差一个字符的子串数目](../../problems/count-substrings-that-differ-by-one-character) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1065 | [字符串的索引对](../../problems/index-pairs-of-a-string) 🔒 | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1032 | [字符流](../../problems/stream-of-characters) | [[字典树](../trie/README.md)]  | Hard |
 | 1023 | [驼峰式匹配](../../problems/camelcase-matching) | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Medium |

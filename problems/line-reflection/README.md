@@ -33,7 +33,7 @@
 
 ### Similar Questions
   1. [Max Points on a Line](../max-points-on-a-line) (Hard)
-  1. [Number of Boomerangs](../number-of-boomerangs) (Easy)
+  1. [Number of Boomerangs](../number-of-boomerangs) (Medium)
 
 ### Hints
 <details>

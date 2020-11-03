@@ -17,10 +17,6 @@
 
 <p><strong>Notice</strong> that you <strong>should not modify</strong> the linked list.</p>
 
-<p><strong>Follow up:</strong></p>
-
-<p>Can you solve it using <code>O(1)</code> (i.e. constant) memory?</p>
-
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png" style="height: 145px; width: 450px;" />
@@ -54,6 +50,9 @@
 	<li><code>-10<sup>5</sup> &lt;= Node.val &lt;= 10<sup>5</sup></code></li>
 	<li><code>pos</code> is <code>-1</code> or a <strong>valid index</strong> in the linked-list.</li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> Can you solve it using <code>O(1)</code> (i.e. constant) memory?</p>
 
 ### Related Topics
   [[Linked List](../../tag/linked-list/README.md)]

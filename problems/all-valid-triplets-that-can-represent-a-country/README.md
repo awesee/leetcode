@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../largest-substring-between-two-equal-characters "Largest Substring Between Two Equal Characters")
 
-## [1623. All Valid Triplets That Can Represent a Country (Easy)](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country "")
+## [1623. All Valid Triplets That Can Represent a Country (Easy)](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country "三人国家代表队")
 
 

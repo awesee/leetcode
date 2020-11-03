@@ -67,9 +67,9 @@ The sister has two different kinds of candies, the brother has only one kind of 
 
 <ul>
 	<li><code>n == candies.length</code></li>
-	<li><code>2 &lt;= n &lt;= 10^4</code></li>
+	<li><code>2 &lt;= n &lt;= 10<sup>4</sup></code></li>
 	<li><code>n</code>&nbsp;is even.</li>
-	<li><code>-10^5 &lt;= candies[i] &lt;= 10^5</code></li>
+	<li><code>-10<sup>5</sup> &lt;= candies[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 ### Related Topics

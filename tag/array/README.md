@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1640 | [能否连接形成数组](../../problems/check-array-formation-through-concatenation) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
+| 1636 | [按照频率将数组升序排序](../../problems/sort-array-by-increasing-frequency) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1629 | [按键持续时间最长的键](../../problems/slowest-key) | [[数组](../array/README.md)]  | Easy |
 | 1619 | [删除某些元素后的数组均值](../../problems/mean-of-array-after-removing-some-elements) | [[数组](../array/README.md)]  | Easy |
 | 1608 | [特殊数组的特征值](../../problems/special-array-with-x-elements-greater-than-or-equal-x) | [[数组](../array/README.md)]  | Easy |
@@ -236,7 +238,7 @@
 | 243 | [最短单词距离](../../problems/shortest-word-distance) 🔒 | [[数组](../array/README.md)]  | Easy |
 | 238 | [除自身以外数组的乘积](../../problems/product-of-array-except-self) | [[数组](../array/README.md)]  | Medium |
 | 229 | [求众数 II](../../problems/majority-element-ii) | [[数组](../array/README.md)]  | Medium |
-| 228 | [汇总区间](../../problems/summary-ranges) | [[数组](../array/README.md)]  | Medium |
+| 228 | [汇总区间](../../problems/summary-ranges) | [[数组](../array/README.md)]  | Easy |
 | 219 | [存在重复元素 II](../../problems/contains-duplicate-ii) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 217 | [存在重复元素](../../problems/contains-duplicate) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 216 | [组合总和 III](../../problems/combination-sum-iii) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |

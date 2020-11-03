@@ -9,7 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1628 | [Design an Expression Tree With Evaluate Function](../../problems/design-an-expression-tree-with-evaluate-function) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
+| 1628 | [设计带解析函数的表达式树](../../problems/design-an-expression-tree-with-evaluate-function) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
 | 1622 | [奇妙序列](../../problems/fancy-sequence) | [[设计](../design/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1603 | [设计停车系统](../../problems/design-parking-system) | [[设计](../design/README.md)]  | Easy |
 | 1600 | [皇位继承顺序](../../problems/throne-inheritance) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
