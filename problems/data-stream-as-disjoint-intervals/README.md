@@ -34,6 +34,6 @@
   [[Ordered Map](../../tag/ordered-map/README.md)]
 
 ### Similar Questions
-  1. [Summary Ranges](../summary-ranges) (Medium)
+  1. [Summary Ranges](../summary-ranges) (Easy)
   1. [Find Right Interval](../find-right-interval) (Medium)
   1. [Range Module](../range-module) (Hard)

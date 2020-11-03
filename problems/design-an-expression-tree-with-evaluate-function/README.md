@@ -7,9 +7,9 @@
 
 [< Previous](../graph-connectivity-with-threshold "Graph Connectivity With Threshold")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../slowest-key "Slowest Key")
 
-## [1628. Design an Expression Tree With Evaluate Function (Medium)](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function "")
+## [1628. Design an Expression Tree With Evaluate Function (Medium)](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function "设计带解析函数的表达式树")
 
 
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../hamming-distance "Hamming Distance")
 
-## [460. LFU Cache (Hard)](https://leetcode.com/problems/lfu-cache "LFU缓存")
+## [460. LFU Cache (Hard)](https://leetcode.com/problems/lfu-cache "LFU 缓存")
 
 <p>Design and implement a data structure for <a href="https://en.wikipedia.org/wiki/Least_frequently_used" target="_blank">Least Frequently Used (LFU)</a> cache.</p>
 

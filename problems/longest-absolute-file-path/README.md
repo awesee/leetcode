@@ -11,15 +11,29 @@
 
 ## [388. Longest Absolute File Path (Medium)](https://leetcode.com/problems/longest-absolute-file-path "文件的最长绝对路径")
 
-<p>Suppose we have the file system represented in the following picture:</p>
+<p>Suppose we have a file system that stores both files and directories. An example of one system is represented in the following picture:</p>
 
 <p><img alt="" src="https://assets.leetcode.com/uploads/2020/08/28/mdir.jpg" style="width: 681px; height: 322px;" /></p>
 
-<p>We will represent the file system as a string where <code>&quot;\n\t&quot;</code> mean a subdirectory of the main directory, <code>&quot;\n\t\t&quot;</code> means a subdirectory of the subdirectory of the main directory and so on. Each folder will be represented as a string of letters <strong>and/or</strong> digits. Each file will be in the form <code>&quot;s1.s2&quot;</code> where <code>s1</code> and <code>s2</code> are strings of letters <strong>and/or</strong> digits.</p>
+<p>Here, we have <code>dir</code> as the only directory in the root. <code>dir</code> contains two subdirectories, <code>subdir1</code> and <code>subdir2</code>. <code>subdir1</code> contains a file <code>file1.ext</code> and subdirectory <code>subsubdir1</code>. <code>subdir2</code> contains a subdirectory <code>subsubdir2</code>, which contains a file <code>file2.ext</code>.</p>
 
-<p>For example, the file system above is represented as&nbsp;<code>&quot;dir\n\tsubdir1\n\t\tfile1.ext\n\t\tsubsubdir1\n\tsubdir2\n\t\tsubsubdir2\n\t\t\tfile2.ext&quot;</code>.</p>
+<p>In text form, it looks like this (with ⟶ representing the tab character):</p>
 
-<p>Given a string <code>input</code> representing the file system in the explained&nbsp;format, return the length of the longest absolute path to <strong>a file</strong> in the abstracted file system. If there is no file in the system, return <code>0</code>.</p>
+<pre>
+dir
+⟶ subdir1
+⟶ ⟶ file1.ext
+⟶ ⟶ subsubdir1
+⟶ subdir2
+⟶ ⟶ subsubdir2
+⟶ ⟶ ⟶ file2.ext
+</pre>
+
+<p>If we were to write this representation in code, it will look like this: <code>&quot;dir\n\tsubdir1\n\t\tfile1.ext\n\t\tsubsubdir1\n\tsubdir2\n\t\tsubsubdir2\n\t\t\tfile2.ext&quot;</code>. Note that the <code>&#39;\n&#39;</code> and <code>&#39;\t&#39;</code> are the new-line and tab characters.</p>
+
+<p>Every file and directory has a unique <strong>absolute path</strong> in the file system, which is the order of directories that must be opened to reach the file/directory itself, all concatenated by <code>&#39;/&#39;s</code>. Using the above example, the <strong>absolute path</strong> to <code>file2.ext</code> is <code>&quot;dir/subdir2/subsubdir2/file2.ext&quot;</code>. Each directory name consists of letters, digits, and/or spaces. Each file name is of the form <code>name.extension</code>, where <code>name</code> and <code>extension</code> consist of letters, digits, and/or spaces.</p>
+
+<p>Given a string <code>input</code> representing the file system in the explained format, return <em>the length of the <strong>longest absolute path</strong> to a <strong>file</strong> in the abstracted file system</em>. If there is no file in the system, return <code>0</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -27,8 +41,7 @@
 <pre>
 <strong>Input:</strong> input = &quot;dir\n\tsubdir1\n\tsubdir2\n\t\tfile.ext&quot;
 <strong>Output:</strong> 20
-<strong>Explanation:</strong> We have only one file and its path is &quot;dir/subdir2/file.ext&quot; of length 20.
-The path &quot;dir/subdir1&quot; doesn&#39;t contain any files.
+<strong>Explanation:</strong> We have only one file, and the absolute path is &quot;dir/subdir2/file.ext&quot; of length 20.
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -39,7 +52,7 @@ The path &quot;dir/subdir1&quot; doesn&#39;t contain any files.
 <strong>Explanation:</strong> We have two files:
 &quot;dir/subdir1/file1.ext&quot; of length 21
 &quot;dir/subdir2/subsubdir2/file2.ext&quot; of length 32.
-We return 32 since it is the longest path.
+We return 32 since it is the longest absolute path to a file.
 </pre>
 
 <p><strong>Example 3:</strong></p>
@@ -47,7 +60,16 @@ We return 32 since it is the longest path.
 <pre>
 <strong>Input:</strong> input = &quot;a&quot;
 <strong>Output:</strong> 0
-<strong>Explanation:</strong> We don&#39;t have any files.
+<strong>Explanation:</strong> We do not have any files, just a single directory named &quot;a&quot;.
+</pre>
+
+<p><strong>Example 4:</strong></p>
+
+<pre>
+<strong>Input:</strong> input = &quot;file1.txt\nfile2.txt\nlongfile.txt&quot;
+<strong>Output:</strong> 12
+<strong>Explanation:</strong> There are 3 files at the root directory.
+Since the absolute path for anything at the root directory is just the name itself, the answer is &quot;longfile.txt&quot; with length 12.
 </pre>
 
 <p>&nbsp;</p>
@@ -55,5 +77,5 @@ We return 32 since it is the longest path.
 
 <ul>
 	<li><code>1 &lt;= input.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>input</code>&nbsp;may contain lower-case or upper-case English letters, a new line character <code>&#39;\n&#39;</code>, a tab character <code>&#39;\t&#39;</code>,&nbsp;a dot <code>&#39;.&#39;</code>, a space <code>&#39; &#39;</code>&nbsp;or digits.</li>
+	<li><code>input</code> may contain lowercase or uppercase English letters, a new line character <code>&#39;\n&#39;</code>, a tab character <code>&#39;\t&#39;</code>, a dot <code>&#39;.&#39;</code>, a space <code>&#39; &#39;</code>, and digits.</li>
 </ul>

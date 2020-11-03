@@ -24,4 +24,4 @@
   [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Summary Ranges](../summary-ranges) (Medium)
+  1. [Summary Ranges](../summary-ranges) (Easy)

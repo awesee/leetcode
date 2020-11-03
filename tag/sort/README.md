@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1640 | [能否连接形成数组](../../problems/check-array-formation-through-concatenation) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
+| 1637 | [两点之间不包含任何点的最宽垂直面积](../../problems/widest-vertical-area-between-two-points-containing-no-points) | [[排序](../sort/README.md)]  | Medium |
+| 1636 | [按照频率将数组升序排序](../../problems/sort-array-by-increasing-frequency) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1630 | [等差子数组](../../problems/arithmetic-subarrays) | [[排序](../sort/README.md)]  | Medium |
 | 1561 | [你可以获得的最大硬币数目](../../problems/maximum-number-of-coins-you-can-get) | [[排序](../sort/README.md)]  | Medium |
 | 1528 | [重新排列字符串](../../problems/shuffle-string) | [[排序](../sort/README.md)]  | Easy |

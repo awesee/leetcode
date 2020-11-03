@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1643 | [第 K 条最小指令](../../problems/kth-smallest-instructions) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1641 | [统计字典序元音字符串的数目](../../problems/count-sorted-vowel-strings) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 1639 | [通过给定词典构造目标字符串的方案数](../../problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1626 | [无矛盾的最佳球队](../../problems/best-team-with-no-conflicts) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1621 | [大小为 K 的不重叠线段的数目](../../problems/number-of-sets-of-k-non-overlapping-line-segments) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1611 | [使整数变为 0 的最少操作次数](../../problems/minimum-one-bit-operations-to-make-integers-zero) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -131,6 +134,7 @@
 | 813 | [最大平均值和的分组](../../problems/largest-sum-of-averages) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 808 | [分汤](../../problems/soup-servings) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 801 | [使序列递增的最小交换次数](../../problems/minimum-swaps-to-make-sequences-increasing) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 799 | [香槟塔](../../problems/champagne-tower) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 790 | [多米诺和托米诺平铺](../../problems/domino-and-tromino-tiling) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 787 | [K 站中转内最便宜的航班](../../problems/cheapest-flights-within-k-stops) | [[堆](../heap/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 764 | [最大加号标志](../../problems/largest-plus-sign) | [[动态规划](../dynamic-programming/README.md)]  | Medium |

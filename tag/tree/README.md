@@ -9,7 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1628 | [Design an Expression Tree With Evaluate Function](../../problems/design-an-expression-tree-with-evaluate-function) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
+| 1628 | [设计带解析函数的表达式树](../../problems/design-an-expression-tree-with-evaluate-function) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
 | 1612 | [检查两棵二叉表达式树是否等价](../../problems/check-if-two-expression-trees-are-equivalent) 🔒 | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1609 | [奇偶树](../../problems/even-odd-tree) | [[树](../tree/README.md)]  | Medium |
 | 1602 | [找到二叉树中最近的右侧节点](../../problems/find-nearest-right-node-in-binary-tree) 🔒 | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
@@ -138,7 +138,7 @@
 | 129 | [求根到叶子节点数字之和](../../problems/sum-root-to-leaf-numbers) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 124 | [二叉树中的最大路径和](../../problems/binary-tree-maximum-path-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
 | 117 | [填充每个节点的下一个右侧节点指针 II](../../problems/populating-next-right-pointers-in-each-node-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
-| 116 | [填充每个节点的下一个右侧节点指针](../../problems/populating-next-right-pointers-in-each-node) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 116 | [填充每个节点的下一个右侧节点指针](../../problems/populating-next-right-pointers-in-each-node) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 114 | [二叉树展开为链表](../../problems/flatten-binary-tree-to-linked-list) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 113 | [路径总和 II](../../problems/path-sum-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 112 | [路径总和](../../problems/path-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |

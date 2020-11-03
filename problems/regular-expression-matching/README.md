@@ -66,8 +66,9 @@
 <ul>
 	<li><code>0 &lt;= s.length&nbsp;&lt;= 20</code></li>
 	<li><code>0 &lt;= p.length&nbsp;&lt;= 30</code></li>
-	<li><code>s</code>&nbsp;contains only lowercase English letters.</li>
-	<li><code>p</code>&nbsp;contains only lowercase English letters, <code>&#39;.&#39;</code>, and&nbsp;<code>&#39;*&#39;</code>.</li>
+	<li><code>s</code> contains only lowercase English letters.</li>
+	<li><code>p</code> contains only lowercase English letters, <code>&#39;.&#39;</code>, and&nbsp;<code>&#39;*&#39;</code>.</li>
+	<li>It is guaranteed for each appearance of the character <code>&#39;*&#39;</code>, there will be a previous valid character to match.</li>
 </ul>
 
 ### Related Topics

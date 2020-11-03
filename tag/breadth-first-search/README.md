@@ -78,6 +78,7 @@
 | 130 | [被围绕的区域](../../problems/surrounded-regions) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
 | 127 | [单词接龙](../../problems/word-ladder) | [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 126 | [单词接龙 II](../../problems/word-ladder-ii) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 116 | [填充每个节点的下一个右侧节点指针](../../problems/populating-next-right-pointers-in-each-node) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 111 | [二叉树的最小深度](../../problems/minimum-depth-of-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
 | 107 | [二叉树的层次遍历 II](../../problems/binary-tree-level-order-traversal-ii) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
 | 103 | [二叉树的锯齿形层次遍历](../../problems/binary-tree-zigzag-level-order-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |

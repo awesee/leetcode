@@ -175,6 +175,11 @@
 		"TranslatedName": "二叉搜索树"
 	},
 	{
+		"Name": "Rolling Hash",
+		"Slug": "rolling-hash",
+		"TranslatedName": "Rolling Hash"
+	},
+	{
 		"Name": "Rejection Sampling",
 		"Slug": "rejection-sampling",
 		"TranslatedName": "Rejection Sampling"
@@ -183,11 +188,6 @@
 		"Name": "Reservoir Sampling",
 		"Slug": "reservoir-sampling",
 		"TranslatedName": "蓄水池抽样"
-	},
-	{
-		"Name": "Rolling Hash",
-		"Slug": "rolling-hash",
-		"TranslatedName": "Rolling Hash"
 	},
 	{
 		"Name": "Memoization",
