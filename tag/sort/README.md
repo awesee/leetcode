@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1648 | [销售价值减少的颜色球](../../problems/sell-diminishing-valued-colored-balls) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1647 | [字符频次唯一的最小删除次数](../../problems/minimum-deletions-to-make-character-frequencies-unique) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
 | 1640 | [能否连接形成数组](../../problems/check-array-formation-through-concatenation) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1637 | [两点之间不包含任何点的最宽垂直面积](../../problems/widest-vertical-area-between-two-points-containing-no-points) | [[排序](../sort/README.md)]  | Medium |
 | 1636 | [按照频率将数组升序排序](../../problems/sort-array-by-increasing-frequency) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
@@ -41,6 +43,7 @@
 | 1183 | [矩阵中 1 的最大数量](../../problems/maximum-number-of-ones) 🔒 | [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1152 | [用户网站访问行为分析](../../problems/analyze-user-website-visit-pattern) 🔒 | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1122 | [数组的相对排序](../../problems/relative-sort-array) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
+| 1099 | [小于 K 的两数之和](../../problems/two-sum-less-than-k) 🔒 | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 1086 | [前五科的均分](../../problems/high-five) 🔒 | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 1057 | [校园自行车分配](../../problems/campus-bikes) 🔒 | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
 | 1054 | [距离相等的条形码](../../problems/distant-barcodes) | [[堆](../heap/README.md)] [[排序](../sort/README.md)]  | Medium |

@@ -11,35 +11,33 @@
 
 ## [326. Power of Three (Easy)](https://leetcode.com/problems/power-of-three "3的幂")
 
-<p>Given an integer, write a function to determine if it is a power of three.</p>
+<p>Given an integer <code>n</code>, return <em><code>true</code> if it is a power of three. Otherwise, return <code>false</code></em>.</p>
 
-<p><b>Example 1:</b></p>
+<p>An integer <code>n</code> is a power of three, if there exists an integer <code>x</code> such that <code>n == x<sup>3</sup></code>.</p>
 
-<pre>
-<strong>Input:</strong> 27
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+<pre><strong>Input:</strong> n = 27
 <strong>Output:</strong> true
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> n = 0
+<strong>Output:</strong> false
+</pre><p><strong>Example 3:</strong></p>
+<pre><strong>Input:</strong> n = 9
+<strong>Output:</strong> true
+</pre><p><strong>Example 4:</strong></p>
+<pre><strong>Input:</strong> n = 45
+<strong>Output:</strong> false
 </pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><b>Example 2:</b></p>
+<ul>
+	<li><code>-2<sup>31</sup> &lt;= n &lt;= 2<sup>31</sup> - 1</code></li>
+</ul>
 
-<pre>
-<strong>Input:</strong> 0
-<strong>Output:</strong> false</pre>
-
-<p><b>Example 3:</b></p>
-
-<pre>
-<strong>Input:</strong> 9
-<strong>Output:</strong> true</pre>
-
-<p><b>Example 4:</b></p>
-
-<pre>
-<strong>Input:</strong> 45
-<strong>Output:</strong> false</pre>
-
-<p><b>Follow up:</b><br />
-Could you do it without using any loop / recursion?</p>
+<p>&nbsp;</p>
+<b>Follow up:&nbsp;</b>Could you do it without using any loop / recursion?
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]

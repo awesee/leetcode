@@ -13,6 +13,8 @@
 
 <p>Given an integer array&nbsp;<code>nums</code>, return <em>the number of longest increasing subsequences.</em></p>
 
+<p><strong>Notice</strong> that the sequence has to be <strong>strictly</strong> increasing.</p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 

@@ -44,7 +44,9 @@ In this case it&#39;s not possible to get a pair sum less that 15.
 </ol>
 
 ### Related Topics
+  [[Sort](../../tag/sort/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
   1. [Two Sum](../two-sum) (Easy)
