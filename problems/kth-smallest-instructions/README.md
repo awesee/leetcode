@@ -7,7 +7,7 @@
 
 [< Previous](../furthest-building-you-can-reach "Furthest Building You Can Reach")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../lowest-common-ancestor-of-a-binary-tree-ii "Lowest Common Ancestor of a Binary Tree II")
 
 ## [1643. Kth Smallest Instructions (Hard)](https://leetcode.com/problems/kth-smallest-instructions "第 K 条最小指令")
 

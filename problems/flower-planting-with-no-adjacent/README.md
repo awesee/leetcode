@@ -9,27 +9,43 @@
 　　　　　　　　　　　　　　　　
 [Next >](../partition-array-for-maximum-sum "Partition Array for Maximum Sum")
 
-## [1042. Flower Planting With No Adjacent (Easy)](https://leetcode.com/problems/flower-planting-with-no-adjacent "不邻接植花")
+## [1042. Flower Planting With No Adjacent (Medium)](https://leetcode.com/problems/flower-planting-with-no-adjacent "不邻接植花")
 
-<p>You have <code>n</code> gardens, labeled from&nbsp;<code>1</code> to <code>n</code>, and an array <code>paths</code> where&nbsp;<code>paths[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> describes the existence of a bidirectional path from garden <code>x<sub>i</sub></code> to garden <code>y<sub>i</sub></code>. In each garden, you want to plant one of 4 types of flowers.</p>
+<p>You have <code>n</code> gardens, labeled from <code>1</code> to <code>n</code>, and an array <code>paths</code> where <code>paths[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> describes a bidirectional path between garden <code>x<sub>i</sub></code> to garden <code>y<sub>i</sub></code>. In each garden, you want to plant one of 4 types of flowers.</p>
 
-<p>There is no garden that has more than three paths coming into or leaving it.</p>
+<p>All gardens have <strong>at most 3</strong> paths coming into or leaving it.</p>
 
-<p>Your task is to choose a flower type for each garden such that,&nbsp;for any two gardens connected by a path, they have different types of flowers.</p>
+<p>Your task is to choose a flower type for each garden such that, for any two gardens connected by a path, they have different types of flowers.</p>
 
-<p>Return <strong>any</strong> such a choice as an array <code>answer</code>, where&nbsp;<code>answer[i]</code> is the type of flower&nbsp;planted in the <code>(i+1)<sup>th</sup></code> garden.&nbsp; The flower types are denoted&nbsp;<font face="monospace">1</font>, <font face="monospace">2</font>, <font face="monospace">3</font>, or <font face="monospace">4</font>.&nbsp; It is guaranteed an answer exists.</p>
+<p>Return <em><strong>any</strong> such a choice as an array </em><code>answer</code><em>, where </em><code>answer[i]</code><em> is the type of flower planted in the </em><code>(i+1)<sup>th</sup></code><em> garden. The flower types are denoted </em><code>1</code><em>, </em><code>2</code><em>, </em><code>3</code><em>, or </em><code>4</code><em>. It is guaranteed an answer exists.</em></p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<pre><strong>Input:</strong> n = 3, paths = [[1,2],[2,3],[3,1]]
+
+<pre>
+<strong>Input:</strong> n = 3, paths = [[1,2],[2,3],[3,1]]
 <strong>Output:</strong> [1,2,3]
-</pre><p><strong>Example 2:</strong></p>
-<pre><strong>Input:</strong> n = 4, paths = [[1,2],[3,4]]
+<strong>Explanation:</strong>
+Gardens 1 and 2 have different types.
+Gardens 2 and 3 have different types.
+Gardens 3 and 1 have different types.
+Hence, [1,2,3] is a valid answer. Other valid answers include [1,2,4], [1,4,2], and [3,2,1].
+</pre>
+
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 4, paths = [[1,2],[3,4]]
 <strong>Output:</strong> [1,2,1,2]
-</pre><p><strong>Example 3:</strong></p>
-<pre><strong>Input:</strong> n = 4, paths = [[1,2],[2,3],[3,4],[4,1],[1,3],[2,4]]
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 4, paths = [[1,2],[2,3],[3,4],[4,1],[1,3],[2,4]]
 <strong>Output:</strong> [1,2,3,4]
 </pre>
+
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
@@ -39,7 +55,7 @@
 	<li><code>paths[i].length == 2</code></li>
 	<li><code>1 &lt;= x<sub>i</sub>, y<sub>i</sub> &lt;= n</code></li>
 	<li><code>x<sub>i</sub> != y<sub>i</sub></code></li>
-	<li>No garden has <strong>four or more</strong> paths coming into or leaving it.</li>
+	<li>Every garden has <strong>at most 3</strong> paths coming into or leaving it.</li>
 </ul>
 
 ### Related Topics

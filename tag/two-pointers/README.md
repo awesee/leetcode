@@ -15,6 +15,7 @@
 | 1248 | [统计「优美子数组」](../../problems/count-number-of-nice-subarrays) | [[双指针](../two-pointers/README.md)]  | Medium |
 | 1234 | [替换子串得到平衡字符串](../../problems/replace-the-substring-for-balanced-string) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1213 | [三个有序数组的交集](../../problems/intersection-of-three-sorted-arrays) 🔒 | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 1099 | [小于 K 的两数之和](../../problems/two-sum-less-than-k) 🔒 | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 1093 | [大样本统计](../../problems/statistics-from-a-large-sample) | [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1004 | [最大连续1的个数 III](../../problems/max-consecutive-ones-iii) | [[双指针](../two-pointers/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 992 | [K 个不同整数的子数组](../../problems/subarrays-with-k-different-integers) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |

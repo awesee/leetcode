@@ -38,7 +38,7 @@ Total cost is 1.
 <pre>
 <strong>Input:</strong> position = [2,2,2,3,3]
 <strong>Output:</strong> 2
-<strong>Explanation:</strong> We can move the two chips at poistion 3 to position 2. Each move has cost = 1. The total cost = 2.
+<strong>Explanation:</strong> We can move the two chips at position  3 to position 2. Each move has cost = 1. The total cost = 2.
 </pre>
 
 <p><strong>Example 3:</strong></p>

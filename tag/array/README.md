@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1646 | [获取生成数组中的最大值](../../problems/get-maximum-in-generated-array) | [[数组](../array/README.md)]  | Easy |
 | 1640 | [能否连接形成数组](../../problems/check-array-formation-through-concatenation) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1636 | [按照频率将数组升序排序](../../problems/sort-array-by-increasing-frequency) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1629 | [按键持续时间最长的键](../../problems/slowest-key) | [[数组](../array/README.md)]  | Easy |
@@ -123,7 +124,7 @@
 | 1128 | [等价多米诺骨牌对的数量](../../problems/number-of-equivalent-domino-pairs) | [[数组](../array/README.md)]  | Easy |
 | 1122 | [数组的相对排序](../../problems/relative-sort-array) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1109 | [航班预订统计](../../problems/corporate-flight-bookings) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1099 | [小于 K 的两数之和](../../problems/two-sum-less-than-k) 🔒 | [[数组](../array/README.md)]  | Easy |
+| 1099 | [小于 K 的两数之和](../../problems/two-sum-less-than-k) 🔒 | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 1089 | [复写零](../../problems/duplicate-zeros) | [[数组](../array/README.md)]  | Easy |
 | 1086 | [前五科的均分](../../problems/high-five) 🔒 | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 1085 | [最小元素各数位之和](../../problems/sum-of-digits-in-the-minimum-number) 🔒 | [[数组](../array/README.md)]  | Easy |

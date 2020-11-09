@@ -21,6 +21,7 @@
 | 698 | [划分为k个相等的子集](../../problems/partition-to-k-equal-sum-subsets) | [[递归](../recursion/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 687 | [最长同值路径](../../problems/longest-univalue-path) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 625 | [最小因式分解](../../problems/minimum-factorization) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
+| 563 | [二叉树的坡度](../../problems/binary-tree-tilt) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 544 | [输出比赛匹配对](../../problems/output-contest-matches) 🔒 | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 248 | [中心对称数 III](../../problems/strobogrammatic-number-iii) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Hard |
 | 247 | [中心对称数 II](../../problems/strobogrammatic-number-ii) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |

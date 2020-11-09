@@ -70,6 +70,12 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1649">1649</span> | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions "通过指令创建有序数组") | [Go](problems/create-sorted-array-through-instructions) | Hard |
+| <span id="1648">1648</span> | [Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls "销售价值减少的颜色球") | [Go](problems/sell-diminishing-valued-colored-balls) | Medium |
+| <span id="1647">1647</span> | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique "字符频次唯一的最小删除次数") | [Go](problems/minimum-deletions-to-make-character-frequencies-unique) | Medium |
+| <span id="1646">1646</span> | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array "获取生成数组中的最大值") | [Go](problems/get-maximum-in-generated-array) | Easy |
+| <span id="1645">1645</span> | [Hopper Company Queries II](https://leetcode.com/problems/hopper-company-queries-ii) 🔒 | [MySQL](problems/hopper-company-queries-ii) | Hard |
+| <span id="1644">1644</span> | [Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii) 🔒 | [Go](problems/lowest-common-ancestor-of-a-binary-tree-ii) | Medium |
 | <span id="1643">1643</span> | [Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions "第 K 条最小指令") | [Go](problems/kth-smallest-instructions) | Hard |
 | <span id="1642">1642</span> | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach "可以到达的最远建筑") | [Go](problems/furthest-building-you-can-reach) | Medium |
 | <span id="1641">1641</span> | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings "统计字典序元音字符串的数目") | [Go](problems/count-sorted-vowel-strings) | Medium |
