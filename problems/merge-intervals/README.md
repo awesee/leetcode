@@ -11,8 +11,9 @@
 
 ## [56. Merge Intervals (Medium)](https://leetcode.com/problems/merge-intervals "合并区间")
 
-<p>Given a collection of intervals, merge all overlapping intervals.</p>
+<p>Given an array&nbsp;of <code>intervals</code>&nbsp;where <code>intervals[i] = [start<sub>i</sub>, end<sub>i</sub>]</code>, merge all overlapping intervals, and return <em>an array of the non-overlapping intervals that cover all the intervals in the input</em>.</p>
 
+<p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
 <pre>
@@ -26,15 +27,16 @@
 <pre>
 <strong>Input:</strong> intervals = [[1,4],[4,5]]
 <strong>Output:</strong> [[1,5]]
-<strong>Explanation:</strong> Intervals [1,4] and [4,5] are considered overlapping.</pre>
-
-<p><strong>NOTE:</strong>&nbsp;input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.</p>
+<strong>Explanation:</strong> Intervals [1,4] and [4,5] are considered overlapping.
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>intervals[i][0] &lt;= intervals[i][1]</code></li>
+	<li><code>1 &lt;= intervals.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>intervals[i].length == 2</code></li>
+	<li><code>0 &lt;= start<sub>i</sub> &lt;= end<sub>i</sub> &lt;= 10<sup>4</sup></code></li>
 </ul>
 
 ### Related Topics

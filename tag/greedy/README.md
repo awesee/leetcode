@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1657 | [确定两个字符串是否接近](../../problems/determine-if-two-strings-are-close) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1653 | [使字符串平衡的最少删除次数](../../problems/minimum-deletions-to-make-string-balanced) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1648 | [销售价值减少的颜色球](../../problems/sell-diminishing-valued-colored-balls) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1647 | [字符频次唯一的最小删除次数](../../problems/minimum-deletions-to-make-character-frequencies-unique) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
 | 1632 | [矩阵转换后的秩](../../problems/rank-transform-of-a-matrix) | [[贪心算法](../greedy/README.md)] [[并查集](../union-find/README.md)]  | Hard |

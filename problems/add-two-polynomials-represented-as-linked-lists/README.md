@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../hopper-company-queries-i "Hopper Company Queries I")
 
-## [1634. Add Two Polynomials Represented as Linked Lists (Medium)](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists "")
+## [1634. Add Two Polynomials Represented as Linked Lists (Medium)](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists "求两个多项式链表的和")
 
 
 

@@ -29,7 +29,7 @@
 <code>&quot;-+3&quot;</code> =&gt; <code>false</code><br />
 <code>&quot;95a54e53&quot;</code> =&gt; <code>false</code></p>
 
-<p><strong>Note:</strong> It is intended for the problem statement to be ambiguous. You should gather all requirements up front before implementing one. However, here is a list of characters that can be in a valid decimal number:</p>
+<p><strong>Note:</strong> It is intended for the problem statement to be ambiguous. It would be best if you gathered all requirements up front before implementing one. However, here is a list of characters that can be in a valid decimal number:</p>
 
 <ul>
 	<li>Numbers 0-9</li>
@@ -40,8 +40,21 @@
 
 <p>Of course, the context of these characters also matters in the input.</p>
 
-<p><strong>Update (2015-02-10):</strong><br />
-The signature of the <code>C++</code> function had been updated. If you still see your function signature accepts a <code>const char *</code> argument, please click the reload button to reset your code definition.</p>
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+<pre><strong>Input:</strong> s = "0"
+<strong>Output:</strong> true
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> s = "3"
+<strong>Output:</strong> true
+</pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 20</code></li>
+	<li><code>s</code> consists of only English letters, digits, space <code>&#39; &#39;</code>, plus <code>&#39;+&#39;</code>, minus <code>&#39;-&#39;</code>, or dot <code>&#39;.&#39;</code>.</li>
+</ul>
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]

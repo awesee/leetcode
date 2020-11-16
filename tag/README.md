@@ -15,7 +15,7 @@
 | 7 | [Hash Table](hash-table/README.md) | [哈希表](https://openset.github.io/tags/hash-table/) | | 8 | [Greedy](greedy/README.md) | [贪心算法](https://openset.github.io/tags/greedy/) | 
 | 9 | [Binary Search](binary-search/README.md) | [二分查找](https://openset.github.io/tags/binary-search/) | | 10 | [Breadth-first Search](breadth-first-search/README.md) | [广度优先搜索](https://openset.github.io/tags/breadth-first-search/) | 
 | 11 | [Sort](sort/README.md) | [排序](https://openset.github.io/tags/sort/) | | 12 | [Two Pointers](two-pointers/README.md) | [双指针](https://openset.github.io/tags/two-pointers/) | 
-| 13 | [Stack](stack/README.md) | [栈](https://openset.github.io/tags/stack/) | | 14 | [Backtracking](backtracking/README.md) | [回溯算法](https://openset.github.io/tags/backtracking/) | 
+| 13 | [Backtracking](backtracking/README.md) | [回溯算法](https://openset.github.io/tags/backtracking/) | | 14 | [Stack](stack/README.md) | [栈](https://openset.github.io/tags/stack/) | 
 | 15 | [Design](design/README.md) | [设计](https://openset.github.io/tags/design/) | | 16 | [Bit Manipulation](bit-manipulation/README.md) | [位运算](https://openset.github.io/tags/bit-manipulation/) | 
 | 17 | [Graph](graph/README.md) | [图](https://openset.github.io/tags/graph/) | | 18 | [Linked List](linked-list/README.md) | [链表](https://openset.github.io/tags/linked-list/) | 
 | 19 | [Heap](heap/README.md) | [堆](https://openset.github.io/tags/heap/) | | 20 | [Union Find](union-find/README.md) | [并查集](https://openset.github.io/tags/union-find/) | 
