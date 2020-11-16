@@ -70,12 +70,22 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1659">1659</span> | [Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness "最大化网格幸福感") | [Go](problems/maximize-grid-happiness) | Hard |
+| <span id="1658">1658</span> | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero "将 x 减到 0 的最小操作数") | [Go](problems/minimum-operations-to-reduce-x-to-zero) | Medium |
+| <span id="1657">1657</span> | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close "确定两个字符串是否接近") | [Go](problems/determine-if-two-strings-are-close) | Medium |
+| <span id="1656">1656</span> | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream "设计有序流") | [Go](problems/design-an-ordered-stream) | Easy |
+| <span id="1655">1655</span> | [Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers "分配重复整数") | [Go](problems/distribute-repeating-integers) | Hard |
+| <span id="1654">1654</span> | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home "到家的最少跳跃次数") | [Go](problems/minimum-jumps-to-reach-home) | Medium |
+| <span id="1653">1653</span> | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced "使字符串平衡的最少删除次数") | [Go](problems/minimum-deletions-to-make-string-balanced) | Medium |
+| <span id="1652">1652</span> | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb "拆炸弹") | [Go](problems/defuse-the-bomb) | Easy |
+| <span id="1651">1651</span> | [Hopper Company Queries III](https://leetcode.com/problems/hopper-company-queries-iii) 🔒 | [MySQL](problems/hopper-company-queries-iii) | Hard |
+| <span id="1650">1650</span> | [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii) 🔒 | [Go](problems/lowest-common-ancestor-of-a-binary-tree-iii) | Medium |
 | <span id="1649">1649</span> | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions "通过指令创建有序数组") | [Go](problems/create-sorted-array-through-instructions) | Hard |
 | <span id="1648">1648</span> | [Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls "销售价值减少的颜色球") | [Go](problems/sell-diminishing-valued-colored-balls) | Medium |
 | <span id="1647">1647</span> | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique "字符频次唯一的最小删除次数") | [Go](problems/minimum-deletions-to-make-character-frequencies-unique) | Medium |
 | <span id="1646">1646</span> | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array "获取生成数组中的最大值") | [Go](problems/get-maximum-in-generated-array) | Easy |
 | <span id="1645">1645</span> | [Hopper Company Queries II](https://leetcode.com/problems/hopper-company-queries-ii) 🔒 | [MySQL](problems/hopper-company-queries-ii) | Hard |
-| <span id="1644">1644</span> | [Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii) 🔒 | [Go](problems/lowest-common-ancestor-of-a-binary-tree-ii) | Medium |
+| <span id="1644">1644</span> | [Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii "二叉树的最近公共祖先 II") 🔒 | [Go](problems/lowest-common-ancestor-of-a-binary-tree-ii) | Medium |
 | <span id="1643">1643</span> | [Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions "第 K 条最小指令") | [Go](problems/kth-smallest-instructions) | Hard |
 | <span id="1642">1642</span> | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach "可以到达的最远建筑") | [Go](problems/furthest-building-you-can-reach) | Medium |
 | <span id="1641">1641</span> | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings "统计字典序元音字符串的数目") | [Go](problems/count-sorted-vowel-strings) | Medium |
@@ -85,7 +95,7 @@ LeetCode Problems' Solutions
 | <span id="1637">1637</span> | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points "两点之间不包含任何点的最宽垂直面积") | [Go](problems/widest-vertical-area-between-two-points-containing-no-points) | Medium |
 | <span id="1636">1636</span> | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency "按照频率将数组升序排序") | [Go](problems/sort-array-by-increasing-frequency) | Easy |
 | <span id="1635">1635</span> | [Hopper Company Queries I](https://leetcode.com/problems/hopper-company-queries-i) 🔒 | [MySQL](problems/hopper-company-queries-i) | Hard |
-| <span id="1634">1634</span> | [Add Two Polynomials Represented as Linked Lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists) 🔒 | [Go](problems/add-two-polynomials-represented-as-linked-lists) | Medium |
+| <span id="1634">1634</span> | [Add Two Polynomials Represented as Linked Lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists "求两个多项式链表的和") 🔒 | [Go](problems/add-two-polynomials-represented-as-linked-lists) | Medium |
 | <span id="1633">1633</span> | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest "各赛事的用户注册率") 🔒 | [MySQL](problems/percentage-of-users-attended-a-contest) | Easy |
 | <span id="1632">1632</span> | [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix "矩阵转换后的秩") | [Go](problems/rank-transform-of-a-matrix) | Hard |
 | <span id="1631">1631</span> | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort "最小体力消耗路径") | [Go](problems/path-with-minimum-effort) | Medium |

@@ -60,14 +60,14 @@
 		"TranslatedName": "双指针"
 	},
 	{
-		"Name": "Stack",
-		"Slug": "stack",
-		"TranslatedName": "栈"
-	},
-	{
 		"Name": "Backtracking",
 		"Slug": "backtracking",
 		"TranslatedName": "回溯算法"
+	},
+	{
+		"Name": "Stack",
+		"Slug": "stack",
+		"TranslatedName": "栈"
 	},
 	{
 		"Name": "Design",

@@ -11,7 +11,7 @@
 
 ## [79. Word Search (Medium)](https://leetcode.com/problems/word-search "单词搜索")
 
-<p>Given a 2D board and a word, find if the word exists in the grid.</p>
+<p>Given an&nbsp;<code>m x n</code> <code>board</code> and a <code>word</code>, find if the word exists in the grid.</p>
 
 <p>The word can be constructed from letters of sequentially adjacent cells, where &quot;adjacent&quot; cells are horizontally or vertically neighboring. The same letter cell may not be used more than once.</p>
 
@@ -41,10 +41,11 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
+	<li><code>m == board.length</code></li>
+	<li><code>n = board[i].length</code></li>
+	<li><code>1 &lt;= m, n &lt;= 200</code></li>
+	<li><code>1 &lt;= word.length &lt;= 10<sup>3</sup></code></li>
 	<li><code>board</code>&nbsp;and <code>word</code> consists only of lowercase and uppercase English letters.</li>
-	<li><code>1 &lt;= board.length &lt;= 200</code></li>
-	<li><code>1 &lt;= board[i].length &lt;= 200</code></li>
-	<li><code>1 &lt;= word.length &lt;= 10^3</code></li>
 </ul>
 
 ### Related Topics

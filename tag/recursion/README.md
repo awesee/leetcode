@@ -10,7 +10,7 @@
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1137 | [第 N 个泰波那契数](../../problems/n-th-tribonacci-number) | [[递归](../recursion/README.md)]  | Easy |
-| 938 | [二叉搜索树的范围和](../../problems/range-sum-of-bst) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 938 | [二叉搜索树的范围和](../../problems/range-sum-of-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 894 | [所有可能的满二叉树](../../problems/all-possible-full-binary-trees) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 794 | [有效的井字游戏](../../problems/valid-tic-tac-toe-state) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
 | 783 | [二叉搜索树节点最小距离](../../problems/minimum-distance-between-bst-nodes) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |

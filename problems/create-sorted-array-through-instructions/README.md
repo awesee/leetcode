@@ -7,7 +7,7 @@
 
 [< Previous](../sell-diminishing-valued-colored-balls "Sell Diminishing-Valued Colored Balls")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../lowest-common-ancestor-of-a-binary-tree-iii "Lowest Common Ancestor of a Binary Tree III")
 
 ## [1649. Create Sorted Array through Instructions (Hard)](https://leetcode.com/problems/create-sorted-array-through-instructions "通过指令创建有序数组")
 

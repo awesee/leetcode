@@ -9,7 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1644 | [Lowest Common Ancestor of a Binary Tree II](../../problems/lowest-common-ancestor-of-a-binary-tree-ii) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 1650 | [Lowest Common Ancestor of a Binary Tree III](../../problems/lowest-common-ancestor-of-a-binary-tree-iii) 🔒 | [[树](../tree/README.md)]  | Medium |
+| 1644 | [二叉树的最近公共祖先 II](../../problems/lowest-common-ancestor-of-a-binary-tree-ii) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 1628 | [设计带解析函数的表达式树](../../problems/design-an-expression-tree-with-evaluate-function) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
 | 1612 | [检查两棵二叉表达式树是否等价](../../problems/check-if-two-expression-trees-are-equivalent) 🔒 | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1609 | [奇偶树](../../problems/even-odd-tree) | [[树](../tree/README.md)]  | Medium |
@@ -59,7 +60,7 @@
 | 965 | [单值二叉树](../../problems/univalued-binary-tree) | [[树](../tree/README.md)]  | Easy |
 | 958 | [二叉树的完全性检验](../../problems/check-completeness-of-a-binary-tree) | [[树](../tree/README.md)]  | Medium |
 | 951 | [翻转等价二叉树](../../problems/flip-equivalent-binary-trees) | [[树](../tree/README.md)]  | Medium |
-| 938 | [二叉搜索树的范围和](../../problems/range-sum-of-bst) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 938 | [二叉搜索树的范围和](../../problems/range-sum-of-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 919 | [完全二叉树插入器](../../problems/complete-binary-tree-inserter) | [[树](../tree/README.md)]  | Medium |
 | 897 | [递增顺序查找树](../../problems/increasing-order-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
 | 894 | [所有可能的满二叉树](../../problems/all-possible-full-binary-trees) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |

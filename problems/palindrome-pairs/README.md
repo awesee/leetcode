@@ -42,7 +42,7 @@
 
 <ul>
 	<li><code>1 &lt;= words.length &lt;= 5000</code></li>
-	<li><code>0 &lt;= words[i] &lt;= 300</code></li>
+	<li><code>0 &lt;= words[i].length &lt;= 300</code></li>
 	<li><code>words[i]</code> consists of lower-case English letters.</li>
 </ul>
 

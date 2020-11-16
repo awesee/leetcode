@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1659 | [最大化网格幸福感](../../problems/maximize-grid-happiness) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 1655 | [分配重复整数](../../problems/distribute-repeating-integers) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 1654 | [到家的最少跳跃次数](../../problems/minimum-jumps-to-reach-home) | [[广度优先搜索](../breadth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1643 | [第 K 条最小指令](../../problems/kth-smallest-instructions) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1641 | [统计字典序元音字符串的数目](../../problems/count-sorted-vowel-strings) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1639 | [通过给定词典构造目标字符串的方案数](../../problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

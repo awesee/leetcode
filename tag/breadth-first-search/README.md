@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1654 | [到家的最少跳跃次数](../../problems/minimum-jumps-to-reach-home) | [[广度优先搜索](../breadth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1625 | [执行操作后字典序最小的字符串](../../problems/lexicographically-smallest-string-after-applying-operations) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1602 | [找到二叉树中最近的右侧节点](../../problems/find-nearest-right-node-in-binary-tree) 🔒 | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1519 | [子树中标签相同的节点数](../../problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |

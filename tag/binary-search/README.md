@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1642 | [可以到达的最远建筑](../../problems/furthest-building-you-can-reach) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1631 | [最小体力消耗路径](../../problems/path-with-minimum-effort) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1618 | [找出适应屏幕的最大字号](../../problems/maximum-font-to-fit-a-sentence-in-a-screen) 🔒 | [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
