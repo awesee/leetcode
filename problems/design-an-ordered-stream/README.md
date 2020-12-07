@@ -11,20 +11,15 @@
 
 ## [1656. Design an Ordered Stream (Easy)](https://leetcode.com/problems/design-an-ordered-stream "设计有序流")
 
-<p>There are <code>n</code> <code>(id, value)</code> pairs, where <code>id</code> is an integer between <code>1</code> and <code>n</code> and <code>value</code> is a string. No two pairs have the same <code>id</code>.</p>
+<p>There is a stream of <code>n</code> <code>(id, value)</code> pairs arriving in an <strong>arbitrary</strong> order, where <code>id</code> is an integer between <code>1</code> and <code>n</code> and <code>value</code> is a string. No two pairs have the same <code>id</code>.</p>
 
-<p>Design a stream that takes the <code>n</code> pairs in an <strong>arbitrary</strong> order, and returns the values over several calls in <strong>increasing order of their ids</strong>.</p>
+<p>Design a stream that returns the values in <strong>increasing order of their IDs</strong> by returning a <strong>chunk</strong> (list) of values after each insertion. The concatenation of all the <strong>chunks</strong> should result in a list of the sorted values.</p>
 
 <p>Implement the <code>OrderedStream</code> class:</p>
 
 <ul>
-	<li><code>OrderedStream(int n)</code> Constructs the stream to take <code>n</code> values and sets a current <code>ptr</code> to <code>1</code>.</li>
-	<li><code>String[] insert(int id, String value)</code> Stores the new <code>(id, value)</code> pair in the stream. After storing the pair:
-	<ul>
-		<li>If the stream has stored a pair with <code>id = ptr</code>, then find the <strong>longest contiguous incrementing sequence</strong> of ids starting with <code>id = ptr</code> and return a list of the values associated with those ids <strong>in order</strong>. Then, update <code>ptr</code> to the last <code>id + 1</code>.</li>
-		<li>Otherwise, return an empty list.</li>
-	</ul>
-	</li>
+	<li><code>OrderedStream(int n)</code> Constructs the stream to take <code>n</code> values.</li>
+	<li><code>String[] insert(int id, String value)</code> Inserts the pair <code>(id, value</code><code>)</code> into the stream, then returns the <strong>largest possible chunk</strong> of currently inserted values that appear next in the order.</li>
 </ul>
 
 <p>&nbsp;</p>
@@ -40,12 +35,16 @@
 [null, [], [&quot;aaaaa&quot;], [&quot;bbbbb&quot;, &quot;ccccc&quot;], [], [&quot;ddddd&quot;, &quot;eeeee&quot;]]
 
 <strong>Explanation</strong>
-OrderedStream os= new OrderedStream(5);
+// Note that the values ordered by ID is [&quot;aaaaa&quot;, &quot;bbbbb&quot;, &quot;ccccc&quot;, &quot;ddddd&quot;, &quot;eeeee&quot;].
+OrderedStream os = new OrderedStream(5);
 os.insert(3, &quot;ccccc&quot;); // Inserts (3, &quot;ccccc&quot;), returns [].
 os.insert(1, &quot;aaaaa&quot;); // Inserts (1, &quot;aaaaa&quot;), returns [&quot;aaaaa&quot;].
 os.insert(2, &quot;bbbbb&quot;); // Inserts (2, &quot;bbbbb&quot;), returns [&quot;bbbbb&quot;, &quot;ccccc&quot;].
 os.insert(5, &quot;eeeee&quot;); // Inserts (5, &quot;eeeee&quot;), returns [].
 os.insert(4, &quot;ddddd&quot;); // Inserts (4, &quot;ddddd&quot;), returns [&quot;ddddd&quot;, &quot;eeeee&quot;].
+// Concatentating all the chunks returned:
+// [] + [&quot;aaaaa&quot;] + [&quot;bbbbb&quot;, &quot;ccccc&quot;] + [] + [&quot;ddddd&quot;, &quot;eeeee&quot;] = [&quot;aaaaa&quot;, &quot;bbbbb&quot;, &quot;ccccc&quot;, &quot;ddddd&quot;, &quot;eeeee&quot;]
+// The resulting order is the same as the order above.
 </pre>
 
 <p>&nbsp;</p>

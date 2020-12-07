@@ -55,8 +55,9 @@ index 0 -&gt; index 4 -&gt; index 1 -&gt; index 3
 </ul>
 
 ### Related Topics
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
   [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
-  [[Graph](../../tag/graph/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
 
 ### Hints
 <details>

@@ -51,6 +51,7 @@
 | 976 | [三角形的最大周长](../../problems/largest-perimeter-triangle) | [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Easy |
 | 973 | [最接近原点的 K 个点](../../problems/k-closest-points-to-origin) | [[堆](../heap/README.md)] [[排序](../sort/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Medium |
 | 969 | [煎饼排序](../../problems/pancake-sorting) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
+| 948 | [令牌放置](../../problems/bag-of-tokens) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 922 | [按奇偶排序数组 II](../../problems/sort-array-by-parity-ii) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
 | 853 | [车队](../../problems/car-fleet) | [[排序](../sort/README.md)]  | Medium |
 | 767 | [重构字符串](../../problems/reorganize-string) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Medium |

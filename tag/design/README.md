@@ -9,8 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1670 | [设计前中后队列](../../problems/design-front-middle-back-queue) | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Medium |
 | 1656 | [设计有序流](../../problems/design-an-ordered-stream) | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Easy |
-| 1628 | [设计带解析函数的表达式树](../../problems/design-an-expression-tree-with-evaluate-function) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
+| 1628 | [设计带解析函数的表达式树](../../problems/design-an-expression-tree-with-evaluate-function) 🔒 | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
 | 1622 | [奇妙序列](../../problems/fancy-sequence) | [[设计](../design/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1603 | [设计停车系统](../../problems/design-parking-system) | [[设计](../design/README.md)]  | Easy |
 | 1600 | [皇位继承顺序](../../problems/throne-inheritance) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
@@ -66,4 +67,4 @@
 | 173 | [二叉搜索树迭代器](../../problems/binary-search-tree-iterator) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
 | 170 | [两数之和 III - 数据结构设计](../../problems/two-sum-iii-data-structure-design) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 155 | [最小栈](../../problems/min-stack) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
-| 146 | [LRU缓存机制](../../problems/lru-cache) | [[设计](../design/README.md)]  | Medium |
+| 146 | [LRU 缓存机制](../../problems/lru-cache) | [[设计](../design/README.md)]  | Medium |

@@ -22,6 +22,7 @@
 | 992 | [K 个不同整数的子数组](../../problems/subarrays-with-k-different-integers) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
 | 986 | [区间列表的交集](../../problems/interval-list-intersections) | [[双指针](../two-pointers/README.md)]  | Medium |
 | 977 | [有序数组的平方](../../problems/squares-of-a-sorted-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 948 | [令牌放置](../../problems/bag-of-tokens) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 930 | [和相同的二元子数组](../../problems/binary-subarrays-with-sum) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 925 | [长按键入](../../problems/long-pressed-name) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 923 | [三数之和的多种可能](../../problems/3sum-with-multiplicity) | [[双指针](../two-pointers/README.md)]  | Medium |

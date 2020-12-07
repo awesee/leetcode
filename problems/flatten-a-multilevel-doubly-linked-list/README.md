@@ -91,8 +91,8 @@ After flattening the multilevel linked list it becomes:
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>Number of Nodes will not exceed 1000.</li>
-	<li><code>1 &lt;= Node.val &lt;= 10^5</code></li>
+	<li>The number of Nodes will not exceed <code>1000</code>.</li>
+	<li><code>1 &lt;= Node.val &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 ### Related Topics

@@ -48,7 +48,7 @@ The total minimum cost is 10 + 30 + 50 + 20 = 110 to have half the people interv
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>2n == costs.length</code></li>
+	<li><code>2 * n == costs.length</code></li>
 	<li><code>2 &lt;= costs.length &lt;= 100</code></li>
 	<li><code>costs.length</code> is even.</li>
 	<li><code>1 &lt;= aCost<sub>i</sub>, bCost<sub>i</sub> &lt;= 1000</code></li>

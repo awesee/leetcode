@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1671 | [得到山形数组的最少删除次数](../../problems/minimum-number-of-removals-to-make-mountain-array) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1664 | [生成平衡数组的方案数](../../problems/ways-to-make-a-fair-array) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1659 | [最大化网格幸福感](../../problems/maximize-grid-happiness) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1655 | [分配重复整数](../../problems/distribute-repeating-integers) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1654 | [到家的最少跳跃次数](../../problems/minimum-jumps-to-reach-home) | [[广度优先搜索](../breadth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
@@ -240,3 +242,4 @@
 | 32 | [最长有效括号](../../problems/longest-valid-parentheses) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 10 | [正则表达式匹配](../../problems/regular-expression-matching) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 5 | [最长回文子串](../../problems/longest-palindromic-substring) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1 | [01 背包问题](../../problems/07MoiZ) | [[动态规划](../dynamic-programming/README.md)]  | Easy |

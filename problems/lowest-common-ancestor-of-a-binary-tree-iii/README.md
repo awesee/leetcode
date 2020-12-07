@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../hopper-company-queries-iii "Hopper Company Queries III")
 
-## [1650. Lowest Common Ancestor of a Binary Tree III (Medium)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii "")
+## [1650. Lowest Common Ancestor of a Binary Tree III (Medium)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii "二叉树的最近公共祖先 III")
 
 
 

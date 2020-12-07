@@ -21,7 +21,7 @@
 | 1521 | [找到最接近目标值的函数值](../../problems/find-a-value-of-a-mysterious-function-closest-to-target) | [[位运算](../bit-manipulation/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1482 | [制作 m 束花所需的最少天数](../../problems/minimum-number-of-days-to-make-m-bouquets) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1351 | [统计有序矩阵中的负数](../../problems/count-negative-numbers-in-a-sorted-matrix) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
-| 1337 | [方阵中战斗力最弱的 K 行](../../problems/the-k-weakest-rows-in-a-matrix) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
+| 1337 | [矩阵中战斗力最弱的 K 行](../../problems/the-k-weakest-rows-in-a-matrix) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 1300 | [转变数组后最接近目标值的数组和](../../problems/sum-of-mutated-array-closest-to-target) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1292 | [元素和小于等于阈值的正方形的最大边长](../../problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1283 | [使结果不超过阈值的最小除数](../../problems/find-the-smallest-divisor-given-a-threshold) | [[二分查找](../binary-search/README.md)]  | Medium |
@@ -60,6 +60,7 @@
 | 668 | [乘法表中第k小的数](../../problems/kth-smallest-number-in-multiplication-table) | [[二分查找](../binary-search/README.md)]  | Hard |
 | 658 | [找到 K 个最接近的元素](../../problems/find-k-closest-elements) | [[二分查找](../binary-search/README.md)]  | Medium |
 | 644 | [最大平均子段和 II](../../problems/maximum-average-subarray-ii) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 540 | [有序数组中的单一元素](../../problems/single-element-in-a-sorted-array) | [[二分查找](../binary-search/README.md)]  | Medium |
 | 528 | [按权重随机选择](../../problems/random-pick-with-weight) | [[二分查找](../binary-search/README.md)] [[Random](../random/README.md)]  | Medium |
 | 497 | [非重叠矩形中的随机点](../../problems/random-point-in-non-overlapping-rectangles) | [[二分查找](../binary-search/README.md)] [[Random](../random/README.md)]  | Medium |
 | 493 | [翻转对](../../problems/reverse-pairs) | [[排序](../sort/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |

@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1670 | [设计前中后队列](../../problems/design-front-middle-back-queue) | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 1669 | [合并两个链表](../../problems/merge-in-between-linked-lists) | [[链表](../linked-list/README.md)]  | Medium |
 | 1634 | [求两个多项式链表的和](../../problems/add-two-polynomials-represented-as-linked-lists) 🔒 | [[链表](../linked-list/README.md)]  | Medium |
 | 1474 | [删除链表 M 个节点之后的 N 个节点](../../problems/delete-n-nodes-after-m-nodes-of-a-linked-list) 🔒 | [[链表](../linked-list/README.md)]  | Easy |
 | 1367 | [二叉树中的列表](../../problems/linked-list-in-binary-tree) | [[树](../tree/README.md)] [[链表](../linked-list/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

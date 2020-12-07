@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1672 | [最富有客户的资产总量](../../problems/richest-customer-wealth) | [[数组](../array/README.md)]  | Easy |
 | 1656 | [设计有序流](../../problems/design-an-ordered-stream) | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1652 | [拆炸弹](../../problems/defuse-the-bomb) | [[数组](../array/README.md)]  | Easy |
 | 1646 | [获取生成数组中的最大值](../../problems/get-maximum-in-generated-array) | [[数组](../array/README.md)]  | Easy |
@@ -82,7 +83,7 @@
 | 1346 | [检查整数及其两倍数是否存在](../../problems/check-if-n-and-its-double-exist) | [[数组](../array/README.md)]  | Easy |
 | 1343 | [大小为 K 且平均值大于等于阈值的子数组数目](../../problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | [[数组](../array/README.md)]  | Medium |
 | 1338 | [数组大小减半](../../problems/reduce-array-size-to-the-half) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
-| 1337 | [方阵中战斗力最弱的 K 行](../../problems/the-k-weakest-rows-in-a-matrix) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
+| 1337 | [矩阵中战斗力最弱的 K 行](../../problems/the-k-weakest-rows-in-a-matrix) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 1333 | [餐厅过滤器](../../problems/filter-restaurants-by-vegan-friendly-price-and-distance) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1331 | [数组序号转换](../../problems/rank-transform-of-an-array) | [[数组](../array/README.md)]  | Easy |
 | 1330 | [翻转子数组得到最大的数组值](../../problems/reverse-subarray-to-maximize-array-value) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
@@ -142,7 +143,7 @@
 | 1014 | [最佳观光组合](../../problems/best-sightseeing-pair) | [[数组](../array/README.md)]  | Medium |
 | 1013 | [将数组分成和相等的三个部分](../../problems/partition-array-into-three-parts-with-equal-sum) | [[数组](../array/README.md)]  | Easy |
 | 1011 | [在 D 天内送达包裹的能力](../../problems/capacity-to-ship-packages-within-d-days) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
-| 1010 | [总持续时间可被 60 整除的歌曲](../../problems/pairs-of-songs-with-total-durations-divisible-by-60) | [[数组](../array/README.md)]  | Easy |
+| 1010 | [总持续时间可被 60 整除的歌曲](../../problems/pairs-of-songs-with-total-durations-divisible-by-60) | [[数组](../array/README.md)]  | Medium |
 | 1007 | [行相等的最少多米诺旋转](../../problems/minimum-domino-rotations-for-equal-row) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1002 | [查找常用字符](../../problems/find-common-characters) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 999 | [可以被一步捕获的棋子数](../../problems/available-captures-for-rook) | [[数组](../array/README.md)]  | Easy |
@@ -209,7 +210,7 @@
 | 624 | [数组列表中的最大距离](../../problems/maximum-distance-in-arrays) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 621 | [任务调度器](../../problems/task-scheduler) | [[贪心算法](../greedy/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)]  | Medium |
 | 611 | [有效三角形的个数](../../problems/valid-triangle-number) | [[数组](../array/README.md)]  | Medium |
-| 605 | [种花问题](../../problems/can-place-flowers) | [[数组](../array/README.md)]  | Easy |
+| 605 | [种花问题](../../problems/can-place-flowers) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
 | 581 | [最短无序连续子数组](../../problems/shortest-unsorted-continuous-subarray) | [[数组](../array/README.md)]  | Medium |
 | 566 | [重塑矩阵](../../problems/reshape-the-matrix) | [[数组](../array/README.md)]  | Easy |
 | 565 | [数组嵌套](../../problems/array-nesting) | [[数组](../array/README.md)]  | Medium |

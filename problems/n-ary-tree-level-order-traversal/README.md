@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../flatten-a-multilevel-doubly-linked-list "Flatten a Multilevel Doubly Linked List")
 
-## [429. N-ary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/n-ary-tree-level-order-traversal "N叉树的层序遍历")
+## [429. N-ary Tree Level Order Traversal (Medium)](https://leetcode.com/problems/n-ary-tree-level-order-traversal "N 叉树的层序遍历")
 
 <p>Given an n-ary tree, return the <i>level order</i> traversal of its nodes&#39; values.</p>
 
@@ -39,7 +39,7 @@
 
 <ul>
 	<li>The height of the n-ary tree is less than or equal to <code>1000</code></li>
-	<li>The total number of nodes is between <code>[0,&nbsp;10^4]</code></li>
+	<li>The total number of nodes is between <code>[0, 10<sup>4</sup>]</code></li>
 </ul>
 
 ### Related Topics
