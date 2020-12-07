@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../customer-who-visited-but-did-not-make-any-transactions "Customer Who Visited but Did Not Make Any Transactions")
 
-## [1580. Put Boxes Into the Warehouse II (Medium)](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii "")
+## [1580. Put Boxes Into the Warehouse II (Medium)](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii "把箱子放进仓库里 II")
 
 
 

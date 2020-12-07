@@ -11,11 +11,11 @@
 
 ## [1377. Frog Position After T Seconds (Hard)](https://leetcode.com/problems/frog-position-after-t-seconds "T 秒后青蛙的位置")
 
-<p>Given an undirected tree&nbsp;consisting of <code>n</code> vertices numbered from 1 to <code>n</code>. A frog starts jumping&nbsp;from the <strong>vertex 1</strong>. In one second, the frog&nbsp;jumps from its&nbsp;current&nbsp;vertex to another <strong>unvisited</strong> vertex if they are directly connected. The frog can not jump back to a visited vertex.&nbsp;In case the frog can jump to several vertices it jumps randomly to one of them with the same probability, otherwise, when the frog can not jump to any unvisited vertex it jumps forever on the same vertex.&nbsp;</p>
+<p>Given an undirected tree consisting of <code>n</code> vertices numbered from <code>1</code> to <code>n</code>. A frog starts jumping from <strong>vertex 1</strong>. In one second, the frog jumps from its current vertex to another <strong>unvisited</strong> vertex if they are directly connected. The frog can not jump back to a visited vertex. In case the frog can jump to several vertices, it jumps randomly to one of them with the same probability. Otherwise, when the frog can not jump to any unvisited vertex, it jumps forever on the same vertex.</p>
 
-<p>The edges of the undirected tree&nbsp;are given in the array <code>edges</code>, where <code>edges[i] = [from<sub>i</sub>, to<sub>i</sub>]</code> means that exists an edge connecting directly the vertices <code>from<sub>i</sub></code> and <code>to<sub>i</sub></code>.</p>
+<p>The edges of the undirected tree are given in the array <code>edges</code>, where <code>edges[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> means that exists an edge connecting the vertices <code>a<sub>i</sub></code> and <code>b<sub>i</sub></code>.</p>
 
-<p><em>Return the probability that after <code>t</code> seconds the frog is on the vertex <code><font face="monospace">target</font></code>.</em></p>
+<p><em>Return the probability that after <code>t</code> seconds the frog is on the vertex <code>target</code>.</em></p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -50,12 +50,12 @@
 
 <ul>
 	<li><code>1 &lt;= n &lt;= 100</code></li>
-	<li><code>edges.length == n-1</code></li>
+	<li><code>edges.length == n - 1</code></li>
 	<li><code>edges[i].length == 2</code></li>
-	<li><code>1 &lt;= edges[i][0], edges[i][1] &lt;= n</code></li>
+	<li><code>1 &lt;= a<sub>i</sub>, b<sub>i</sub> &lt;= n</code></li>
 	<li><code>1 &lt;= t&nbsp;&lt;= 50</code></li>
 	<li><code>1 &lt;= target&nbsp;&lt;= n</code></li>
-	<li>Answers within <code>10^-5</code> of the actual value will be accepted as correct.</li>
+	<li>Answers within <code>10<sup>-5</sup></code> of the actual value will be accepted as correct.</li>
 </ul>
 
 ### Related Topics

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../insertion-sort-list "Insertion Sort List")
 
-## [146. LRU Cache (Medium)](https://leetcode.com/problems/lru-cache "LRU缓存机制")
+## [146. LRU Cache (Medium)](https://leetcode.com/problems/lru-cache "LRU 缓存机制")
 
 <p>Design a data structure that follows the constraints of a <strong><a href="https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU" target="_blank">Least Recently Used (LRU) cache</a></strong>.</p>
 

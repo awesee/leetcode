@@ -41,7 +41,7 @@
 
 <ul>
 	<li><code>1 &lt;= graph.length &lt;= 100</code></li>
-	<li><code>0 &lt;= graphp[i].length &lt; 100</code></li>
+	<li><code>0 &lt;= graph[i].length &lt; 100</code></li>
 	<li><code>0 &lt;= graph[i][j] &lt;= graph.length - 1</code></li>
 	<li><code>graph[i][j] != i</code></li>
 	<li>All the values of <code>graph[i]</code> are <strong>unique</strong>.</li>

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../reduce-array-size-to-the-half "Reduce Array Size to The Half")
 
-## [1337. The K Weakest Rows in a Matrix (Easy)](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix "方阵中战斗力最弱的 K 行")
+## [1337. The K Weakest Rows in a Matrix (Easy)](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix "矩阵中战斗力最弱的 K 行")
 
 <p>Given a <code>m&nbsp;* n</code>&nbsp;matrix <code>mat</code> of <em>ones</em>&nbsp;(representing soldiers) and <em>zeros</em>&nbsp;(representing civilians), return the indexes of the <code>k</code> weakest rows in the matrix ordered from the weakest to the strongest.</p>
 

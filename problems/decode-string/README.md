@@ -33,6 +33,15 @@
 <pre><strong>Input:</strong> s = "abc3[cd]xyz"
 <strong>Output:</strong> "abccdcdcdxyz"
 </pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 30</code></li>
+	<li><code>s</code> consists of lowercase English letters, digits, and square brackets <code>&#39;[]&#39;</code>.</li>
+	<li><code>s</code> is guaranteed to be <strong>a valid</strong> input.</li>
+	<li>All the integers in <code>s</code> are in the range <code>[1, 300]</code>.</li>
+</ul>
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]

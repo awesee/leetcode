@@ -7,7 +7,7 @@ insert into Teams (team_id, team_name) values ('30', 'Atlanta FC');
 insert into Teams (team_id, team_name) values ('40', 'Chicago FC');
 insert into Teams (team_id, team_name) values ('50', 'Toronto FC');
 Truncate table Matches;
-insert into Matches (match_id, host_team, guest_team, host_goals, guest_goals) values ('1', '10', '20', '30', '0');
+insert into Matches (match_id, host_team, guest_team, host_goals, guest_goals) values ('1', '10', '20', '3', '0');
 insert into Matches (match_id, host_team, guest_team, host_goals, guest_goals) values ('2', '30', '10', '2', '2');
 insert into Matches (match_id, host_team, guest_team, host_goals, guest_goals) values ('3', '10', '50', '5', '1');
 insert into Matches (match_id, host_team, guest_team, host_goals, guest_goals) values ('4', '20', '30', '1', '0');

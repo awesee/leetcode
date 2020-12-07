@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1678 | [设计 Goal 解析器](../../problems/goal-parser-interpretation) | [[字符串](../string/README.md)]  | Easy |
+| 1668 | [最大重复子字符串](../../problems/maximum-repeating-substring) | [[字符串](../string/README.md)]  | Easy |
+| 1662 | [检查两个字符串数组是否相等](../../problems/check-if-two-string-arrays-are-equivalent) | [[字符串](../string/README.md)]  | Easy |
 | 1653 | [使字符串平衡的最少删除次数](../../problems/minimum-deletions-to-make-string-balanced) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1638 | [统计只差一个字符的子串数目](../../problems/count-substrings-that-differ-by-one-character) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1624 | [两个相同字符之间的最长子字符串](../../problems/largest-substring-between-two-equal-characters) | [[字符串](../string/README.md)]  | Easy |
@@ -173,7 +176,7 @@
 | 273 | [整数转换英文表示](../../problems/integer-to-english-words) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 271 | [字符串的编码与解码](../../problems/encode-and-decode-strings) 🔒 | [[字符串](../string/README.md)]  | Medium |
 | 249 | [移位字符串分组](../../problems/group-shifted-strings) 🔒 | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 227 | [基本计算器 II](../../problems/basic-calculator-ii) | [[字符串](../string/README.md)]  | Medium |
+| 227 | [基本计算器 II](../../problems/basic-calculator-ii) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 214 | [最短回文串](../../problems/shortest-palindrome) | [[字符串](../string/README.md)]  | Hard |
 | 186 | [翻转字符串里的单词 II](../../problems/reverse-words-in-a-string-ii) 🔒 | [[字符串](../string/README.md)]  | Medium |
 | 165 | [比较版本号](../../problems/compare-version-numbers) | [[字符串](../string/README.md)]  | Medium |
@@ -205,7 +208,7 @@
 | 28 | [实现 strStr()](../../problems/implement-strstr) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 22 | [括号生成](../../problems/generate-parentheses) | [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 20 | [有效的括号](../../problems/valid-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Easy |
-| 17 | [电话号码的字母组合](../../problems/letter-combinations-of-a-phone-number) | [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 17 | [电话号码的字母组合](../../problems/letter-combinations-of-a-phone-number) | [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 14 | [最长公共前缀](../../problems/longest-common-prefix) | [[字符串](../string/README.md)]  | Easy |
 | 13 | [罗马数字转整数](../../problems/roman-to-integer) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 12 | [整数转罗马数字](../../problems/integer-to-roman) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |

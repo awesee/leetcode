@@ -30,3 +30,6 @@
 	<li><code>1 &lt;= nums.length &lt;= 10^5</code></li>
 	<li><code>0 &lt;= nums[i]&nbsp;&lt;= 10^5</code></li>
 </ul>
+
+### Related Topics
+  [[Binary Search](../../tag/binary-search/README.md)]

@@ -20,7 +20,6 @@
 | 1387 | [将整数按权重排序](../../problems/sort-integers-by-the-power-value) | [[排序](../sort/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1361 | [验证二叉树](../../problems/validate-binary-tree-nodes) | [[图](../graph/README.md)]  | Medium |
 | 1334 | [阈值距离内邻居最少的城市](../../problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) | [[图](../graph/README.md)]  | Medium |
-| 1306 | [跳跃游戏 III](../../problems/jump-game-iii) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1267 | [统计参与通信的服务器](../../problems/count-servers-that-communicate) | [[图](../graph/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1203 | [项目管理](../../problems/sort-items-by-groups-respecting-dependencies) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Hard |
 | 1168 | [水资源分配优化](../../problems/optimize-water-distribution-in-a-village) 🔒 | [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |

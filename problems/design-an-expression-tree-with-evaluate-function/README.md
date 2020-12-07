@@ -30,10 +30,10 @@ Implement the Node class using NumericNode and OperatorNode classes.
 
 <details>
 <summary>Hint 3</summary>
-NumericNode only maintains the value, and evaluate returns this value.
+NumericNode only maintains the value and evaluate returns this value.
 </details>
 
 <details>
 <summary>Hint 4</summary>
-OperatorNode Maintains the left and right nodes representing the the left and right operands, and the evaluate function applies the operator to them.
+OperatorNode Maintains the left and right nodes representing the left and right operands, and the evaluate function applies the operator to them.
 </details>

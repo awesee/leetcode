@@ -11,9 +11,9 @@
 
 ## [925. Long Pressed Name (Easy)](https://leetcode.com/problems/long-pressed-name "长按键入")
 
-<p>Your friend is typing his <code>name</code>&nbsp;into a keyboard.&nbsp; Sometimes, when typing a character <code>c</code>, the key might get <em>long pressed</em>, and the character will be typed 1 or more times.</p>
+<p>Your friend is typing his <code>name</code> into a keyboard. Sometimes, when typing a character <code>c</code>, the key might get <em>long pressed</em>, and the character will be typed 1 or more times.</p>
 
-<p>You examine the <code>typed</code>&nbsp;characters of the keyboard.&nbsp; Return <code>True</code> if it is possible that it was your friends name, with some characters (possibly none) being long pressed.</p>
+<p>You examine the <code>typed</code> characters of the keyboard. Return <code>True</code> if it is possible that it was your friends name, with some characters (possibly none) being long pressed.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -53,7 +53,7 @@
 <ul>
 	<li><code>1 &lt;= name.length &lt;= 1000</code></li>
 	<li><code>1 &lt;= typed.length &lt;= 1000</code></li>
-	<li>The characters of <code>name</code> and <code>typed</code> are lowercase letters.</li>
+	<li><code>name</code> and <code>typed</code> contain only lowercase English letters.</li>
 </ul>
 
 ### Related Topics

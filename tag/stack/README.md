@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1673 | [找出最具竞争力的子序列](../../problems/find-the-most-competitive-subsequence) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
 | 1598 | [文件夹操作日志搜集器](../../problems/crawler-log-folder) | [[栈](../stack/README.md)]  | Easy |
 | 1544 | [整理字符串](../../problems/make-the-string-great) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1541 | [平衡括号字符串的最少插入次数](../../problems/minimum-insertions-to-balance-a-parentheses-string) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
@@ -56,6 +57,7 @@
 | 272 | [最接近的二叉搜索树值 II](../../problems/closest-binary-search-tree-value-ii) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Hard |
 | 255 | [验证前序遍历序列二叉搜索树](../../problems/verify-preorder-sequence-in-binary-search-tree) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Medium |
 | 232 | [用栈实现队列](../../problems/implement-queue-using-stacks) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
+| 227 | [基本计算器 II](../../problems/basic-calculator-ii) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 225 | [用队列实现栈](../../problems/implement-stack-using-queues) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
 | 224 | [基本计算器](../../problems/basic-calculator) | [[栈](../stack/README.md)] [[数学](../math/README.md)]  | Hard |
 | 173 | [二叉搜索树迭代器](../../problems/binary-search-tree-iterator) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |

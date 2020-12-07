@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1679 | [K 和数对的最大数目](../../problems/max-number-of-k-sum-pairs) | [[哈希表](../hash-table/README.md)]  | Medium |
 | 1638 | [统计只差一个字符的子串数目](../../problems/count-substrings-that-differ-by-one-character) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1612 | [检查两棵二叉表达式树是否等价](../../problems/check-if-two-expression-trees-are-equivalent) 🔒 | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1590 | [使数组和能被 P 整除](../../problems/make-sum-divisible-by-p) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

@@ -7,7 +7,7 @@
 
 [< Previous](../minimum-operations-to-reduce-x-to-zero "Minimum Operations to Reduce X to Zero")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../correct-a-binary-tree "Correct a Binary Tree")
 
 ## [1659. Maximize Grid Happiness (Hard)](https://leetcode.com/problems/maximize-grid-happiness "最大化网格幸福感")
 

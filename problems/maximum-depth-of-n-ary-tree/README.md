@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../subarray-sum-equals-k "Subarray Sum Equals K")
 
-## [559. Maximum Depth of N-ary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree "N叉树的最大深度")
+## [559. Maximum Depth of N-ary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-n-ary-tree "N 叉树的最大深度")
 
 <p>Given a n-ary tree, find its maximum depth.</p>
 
@@ -41,7 +41,7 @@
 
 <ul>
 	<li>The depth of the n-ary tree is less than or equal to <code>1000</code>.</li>
-	<li>The total number of nodes is between <code>[0,&nbsp;10^4]</code>.</li>
+	<li>The total number of nodes is between <code>[0,&nbsp;10<sup>4</sup>]</code>.</li>
 </ul>
 
 ### Related Topics

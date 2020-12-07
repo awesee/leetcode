@@ -9,8 +9,10 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1306 | [跳跃游戏 III](../../problems/jump-game-iii) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 1137 | [第 N 个泰波那契数](../../problems/n-th-tribonacci-number) | [[递归](../recursion/README.md)]  | Easy |
 | 938 | [二叉搜索树的范围和](../../problems/range-sum-of-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 897 | [递增顺序查找树](../../problems/increasing-order-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 894 | [所有可能的满二叉树](../../problems/all-possible-full-binary-trees) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 794 | [有效的井字游戏](../../problems/valid-tic-tac-toe-state) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
 | 783 | [二叉搜索树节点最小距离](../../problems/minimum-distance-between-bst-nodes) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
@@ -23,5 +25,9 @@
 | 625 | [最小因式分解](../../problems/minimum-factorization) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
 | 563 | [二叉树的坡度](../../problems/binary-tree-tilt) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 544 | [输出比赛匹配对](../../problems/output-contest-matches) 🔒 | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 395 | [至少有K个重复字符的最长子串](../../problems/longest-substring-with-at-least-k-repeating-characters) | [[递归](../recursion/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 248 | [中心对称数 III](../../problems/strobogrammatic-number-iii) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Hard |
 | 247 | [中心对称数 II](../../problems/strobogrammatic-number-ii) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
+| 104 | [二叉树的最大深度](../../problems/maximum-depth-of-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 98 | [验证二叉搜索树](../../problems/validate-binary-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Medium |
+| 17 | [电话号码的字母组合](../../problems/letter-combinations-of-a-phone-number) | [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |

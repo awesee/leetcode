@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1681 | [最小不兼容性](../../problems/minimum-incompatibility) | [[贪心算法](../greedy/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1659 | [最大化网格幸福感](../../problems/maximize-grid-happiness) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1655 | [分配重复整数](../../problems/distribute-repeating-integers) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1641 | [统计字典序元音字符串的数目](../../problems/count-sorted-vowel-strings) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
@@ -68,5 +69,5 @@
 | 39 | [组合总和](../../problems/combination-sum) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 37 | [解数独](../../problems/sudoku-solver) | [[哈希表](../hash-table/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 22 | [括号生成](../../problems/generate-parentheses) | [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 17 | [电话号码的字母组合](../../problems/letter-combinations-of-a-phone-number) | [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 17 | [电话号码的字母组合](../../problems/letter-combinations-of-a-phone-number) | [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 10 | [正则表达式匹配](../../problems/regular-expression-matching) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
