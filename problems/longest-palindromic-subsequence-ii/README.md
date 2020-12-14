@@ -5,25 +5,25 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../minimum-initial-energy-to-finish-tasks "Minimum Initial Energy to Finish Tasks")
+[< Previous](../minimum-incompatibility "Minimum Incompatibility")
 　　　　　　　　　　　　　　　　
-[Next >](../fix-names-in-a-table "Fix Names in a Table")
+[Next >](../invalid-tweets "Invalid Tweets")
 
-## [1666. Change the Root of a Binary Tree (Medium)](https://leetcode.com/problems/change-the-root-of-a-binary-tree "改变二叉树的根节点")
+## [1682. Longest Palindromic Subsequence II (Medium)](https://leetcode.com/problems/longest-palindromic-subsequence-ii "")
 
 
 
 ### Related Topics
-  [[Tree](../../tag/tree/README.md)]
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>
 <summary>Hint 1</summary>
-Start traversing from the leaf. Always go up till you reach the root.
+As with any good dp problem that uses palindromes, try building the palindrome from the edges
 </details>
 
 <details>
 <summary>Hint 2</summary>
-Change pointers as asked, make the current node's parent its left child, and make the left child the right one if needed.
+The prime point is to check that no two adjacent characters are equal, so save the past character while building the palindrome.
 </details>

@@ -14,6 +14,7 @@
 | 938 | [二叉搜索树的范围和](../../problems/range-sum-of-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 897 | [递增顺序查找树](../../problems/increasing-order-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 894 | [所有可能的满二叉树](../../problems/all-possible-full-binary-trees) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
+| 865 | [具有所有最深节点的最小子树](../../problems/smallest-subtree-with-all-the-deepest-nodes) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 794 | [有效的井字游戏](../../problems/valid-tic-tac-toe-state) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
 | 783 | [二叉搜索树节点最小距离](../../problems/minimum-distance-between-bst-nodes) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 779 | [第K个语法符号](../../problems/k-th-symbol-in-grammar) | [[递归](../recursion/README.md)]  | Medium |
@@ -26,6 +27,7 @@
 | 563 | [二叉树的坡度](../../problems/binary-tree-tilt) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 544 | [输出比赛匹配对](../../problems/output-contest-matches) 🔒 | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 395 | [至少有K个重复字符的最长子串](../../problems/longest-substring-with-at-least-k-repeating-characters) | [[递归](../recursion/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
+| 369 | [给单链表加一](../../problems/plus-one-linked-list) 🔒 | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Medium |
 | 248 | [中心对称数 III](../../problems/strobogrammatic-number-iii) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Hard |
 | 247 | [中心对称数 II](../../problems/strobogrammatic-number-ii) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
 | 104 | [二叉树的最大深度](../../problems/maximum-depth-of-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |

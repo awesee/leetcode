@@ -9,3 +9,5 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 478 | [在圆内随机生成点](../../problems/generate-random-point-in-a-circle) | [[数学](../math/README.md)] [[Random](../random/README.md)] [[Rejection Sampling](../rejection-sampling/README.md)]  | Medium |
+| 470 | [用 Rand7() 实现 Rand10()](../../problems/implement-rand10-using-rand7) | [[Random](../random/README.md)] [[Rejection Sampling](../rejection-sampling/README.md)]  | Medium |

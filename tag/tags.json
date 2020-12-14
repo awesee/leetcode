@@ -60,14 +60,14 @@
 		"TranslatedName": "双指针"
 	},
 	{
-		"Name": "Stack",
-		"Slug": "stack",
-		"TranslatedName": "栈"
-	},
-	{
 		"Name": "Backtracking",
 		"Slug": "backtracking",
 		"TranslatedName": "回溯算法"
+	},
+	{
+		"Name": "Stack",
+		"Slug": "stack",
+		"TranslatedName": "栈"
 	},
 	{
 		"Name": "Design",
@@ -175,14 +175,14 @@
 		"TranslatedName": "二叉搜索树"
 	},
 	{
-		"Name": "Rolling Hash",
-		"Slug": "rolling-hash",
-		"TranslatedName": "Rolling Hash"
-	},
-	{
 		"Name": "",
 		"Slug": "dequeue",
 		"TranslatedName": ""
+	},
+	{
+		"Name": "Rolling Hash",
+		"Slug": "rolling-hash",
+		"TranslatedName": "Rolling Hash"
 	},
 	{
 		"Name": "Rejection Sampling",

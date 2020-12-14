@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1685 | [有序数组中差绝对值之和](../../problems/sum-of-absolute-differences-in-a-sorted-array) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1680 | [连接连续二进制数字](../../problems/concatenation-of-consecutive-binary-numbers) | [[数学](../math/README.md)]  | Medium |
 | 1648 | [销售价值减少的颜色球](../../problems/sell-diminishing-valued-colored-balls) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1641 | [统计字典序元音字符串的数目](../../problems/count-sorted-vowel-strings) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |

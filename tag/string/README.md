@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1684 | [统计一致字符串的数目](../../problems/count-the-number-of-consistent-strings) | [[字符串](../string/README.md)]  | Easy |
+| 1682 | [Longest Palindromic Subsequence II](../../problems/longest-palindromic-subsequence-ii) 🔒 | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1678 | [设计 Goal 解析器](../../problems/goal-parser-interpretation) | [[字符串](../string/README.md)]  | Easy |
 | 1668 | [最大重复子字符串](../../problems/maximum-repeating-substring) | [[字符串](../string/README.md)]  | Easy |
 | 1662 | [检查两个字符串数组是否相等](../../problems/check-if-two-string-arrays-are-equivalent) | [[字符串](../string/README.md)]  | Easy |

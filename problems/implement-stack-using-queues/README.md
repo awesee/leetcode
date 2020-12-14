@@ -29,8 +29,6 @@
 	<li>Depending on your language, the queue may not be supported natively. You may simulate a queue using a list or deque (double-ended queue), as long as you use only a queue&#39;s standard operations.</li>
 </ul>
 
-<p><strong>Follow-up:</strong> Can you implement the stack such that each operation is <strong><a href="https://en.wikipedia.org/wiki/Amortized_analysis" target="_blank">amortized</a></strong> <code>O(1)</code> time complexity? In other words, performing <code>n</code> operations will take overall <code>O(n)</code> time even if one of those operations may take longer.</p>
-
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
@@ -58,6 +56,9 @@ myStack.empty(); // return False
 	<li>At most <code>100</code>&nbsp;calls will be made to <code>push</code>, <code>pop</code>, <code>top</code>, and <code>empty</code>.</li>
 	<li>All the calls to <code>pop</code> and <code>top</code> are valid.</li>
 </ul>
+
+<p>&nbsp;</p>
+<strong>Follow-up:</strong> Can you implement the stack such that each operation is <strong><a href="https://en.wikipedia.org/wiki/Amortized_analysis" target="_blank">amortized</a></strong> <code>O(1)</code> time complexity? In other words, performing <code>n</code> operations will take overall <code>O(n)</code> time even if one of those operations may take longer.
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]

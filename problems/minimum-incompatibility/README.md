@@ -7,7 +7,7 @@
 
 [< Previous](../concatenation-of-consecutive-binary-numbers "Concatenation of Consecutive Binary Numbers")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../longest-palindromic-subsequence-ii "Longest Palindromic Subsequence II")
 
 ## [1681. Minimum Incompatibility (Hard)](https://leetcode.com/problems/minimum-incompatibility "最小不兼容性")
 

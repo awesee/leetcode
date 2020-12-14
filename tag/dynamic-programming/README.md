@@ -9,6 +9,10 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1691 | [堆叠长方体的最大高度](../../problems/maximum-height-by-stacking-cuboids) | [[排序](../sort/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1690 | [石子游戏 VII](../../problems/stone-game-vii) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1687 | [从仓库到码头运输箱子](../../problems/delivering-boxes-from-storage-to-ports) | [[线段树](../segment-tree/README.md)] [[双指针](../two-pointers/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1682 | [Longest Palindromic Subsequence II](../../problems/longest-palindromic-subsequence-ii) 🔒 | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1671 | [得到山形数组的最少删除次数](../../problems/minimum-number-of-removals-to-make-mountain-array) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1664 | [生成平衡数组的方案数](../../problems/ways-to-make-a-fair-array) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1659 | [最大化网格幸福感](../../problems/maximize-grid-happiness) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
@@ -222,6 +226,7 @@
 | 140 | [单词拆分 II](../../problems/word-break-ii) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 139 | [单词拆分](../../problems/word-break) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 132 | [分割回文串 II](../../problems/palindrome-partitioning-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 131 | [分割回文串](../../problems/palindrome-partitioning) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 123 | [买卖股票的最佳时机 III](../../problems/best-time-to-buy-and-sell-stock-iii) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 121 | [买卖股票的最佳时机](../../problems/best-time-to-buy-and-sell-stock) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 120 | [三角形最小路径和](../../problems/triangle) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1688 | [比赛中的配对次数](../../problems/count-of-matches-in-tournament) | [[回溯算法](../backtracking/README.md)]  | Easy |
 | 1681 | [最小不兼容性](../../problems/minimum-incompatibility) | [[贪心算法](../greedy/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1659 | [最大化网格幸福感](../../problems/maximize-grid-happiness) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1655 | [分配重复整数](../../problems/distribute-repeating-integers) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
@@ -51,7 +52,7 @@
 | 212 | [单词搜索 II](../../problems/word-search-ii) | [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 211 | [添加与搜索单词 - 数据结构设计](../../problems/design-add-and-search-words-data-structure) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 140 | [单词拆分 II](../../problems/word-break-ii) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 131 | [分割回文串](../../problems/palindrome-partitioning) | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 131 | [分割回文串](../../problems/palindrome-partitioning) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 126 | [单词接龙 II](../../problems/word-ladder-ii) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 93 | [复原IP地址](../../problems/restore-ip-addresses) | [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 90 | [子集 II](../../problems/subsets-ii) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
