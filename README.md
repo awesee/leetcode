@@ -70,6 +70,16 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1691">1691</span> | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids "堆叠长方体的最大高度") | [Go](problems/maximum-height-by-stacking-cuboids) | Hard |
+| <span id="1690">1690</span> | [Stone Game VII](https://leetcode.com/problems/stone-game-vii "石子游戏 VII") | [Go](problems/stone-game-vii) | Medium |
+| <span id="1689">1689</span> | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers "十-二进制数的最少数目") | [Go](problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium |
+| <span id="1688">1688</span> | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament "比赛中的配对次数") | [Go](problems/count-of-matches-in-tournament) | Easy |
+| <span id="1687">1687</span> | [Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports "从仓库到码头运输箱子") | [Go](problems/delivering-boxes-from-storage-to-ports) | Hard |
+| <span id="1686">1686</span> | [Stone Game VI](https://leetcode.com/problems/stone-game-vi "石子游戏 VI") | [Go](problems/stone-game-vi) | Medium |
+| <span id="1685">1685</span> | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array "有序数组中差绝对值之和") | [Go](problems/sum-of-absolute-differences-in-a-sorted-array) | Medium |
+| <span id="1684">1684</span> | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings "统计一致字符串的数目") | [Go](problems/count-the-number-of-consistent-strings) | Easy |
+| <span id="1683">1683</span> | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) 🔒 | [MySQL](problems/invalid-tweets) | Easy |
+| <span id="1682">1682</span> | [Longest Palindromic Subsequence II](https://leetcode.com/problems/longest-palindromic-subsequence-ii) 🔒 | [Go](problems/longest-palindromic-subsequence-ii) | Medium |
 | <span id="1681">1681</span> | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility "最小不兼容性") | [Go](problems/minimum-incompatibility) | Hard |
 | <span id="1680">1680</span> | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers "连接连续二进制数字") | [Go](problems/concatenation-of-consecutive-binary-numbers) | Medium |
 | <span id="1679">1679</span> | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs "K 和数对的最大数目") | [Go](problems/max-number-of-k-sum-pairs) | Medium |
@@ -85,7 +95,7 @@ LeetCode Problems' Solutions
 | <span id="1669">1669</span> | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists "合并两个链表") | [Go](problems/merge-in-between-linked-lists) | Medium |
 | <span id="1668">1668</span> | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring "最大重复子字符串") | [Go](problems/maximum-repeating-substring) | Easy |
 | <span id="1667">1667</span> | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table) 🔒 | [MySQL](problems/fix-names-in-a-table) | Easy |
-| <span id="1666">1666</span> | [Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree) 🔒 | [Go](problems/change-the-root-of-a-binary-tree) | Medium |
+| <span id="1666">1666</span> | [Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree "改变二叉树的根节点") 🔒 | [Go](problems/change-the-root-of-a-binary-tree) | Medium |
 | <span id="1665">1665</span> | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks "完成所有任务的最少初始能量") | [Go](problems/minimum-initial-energy-to-finish-tasks) | Hard |
 | <span id="1664">1664</span> | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array "生成平衡数组的方案数") | [Go](problems/ways-to-make-a-fair-array) | Medium |
 | <span id="1663">1663</span> | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value "具有给定数值的最小字符串") | [Go](problems/smallest-string-with-a-given-numeric-value) | Medium |

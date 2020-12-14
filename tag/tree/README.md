@@ -10,7 +10,7 @@
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1676 | [Lowest Common Ancestor of a Binary Tree IV](../../problems/lowest-common-ancestor-of-a-binary-tree-iv) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
-| 1666 | [Change the Root of a Binary Tree](../../problems/change-the-root-of-a-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 1666 | [改变二叉树的根节点](../../problems/change-the-root-of-a-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1660 | [纠正二叉树](../../problems/correct-a-binary-tree) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 1650 | [二叉树的最近公共祖先 III](../../problems/lowest-common-ancestor-of-a-binary-tree-iii) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 1644 | [二叉树的最近公共祖先 II](../../problems/lowest-common-ancestor-of-a-binary-tree-ii) 🔒 | [[树](../tree/README.md)]  | Medium |
@@ -69,7 +69,7 @@
 | 894 | [所有可能的满二叉树](../../problems/all-possible-full-binary-trees) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 889 | [根据前序和后序遍历构造二叉树](../../problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [[树](../tree/README.md)]  | Medium |
 | 872 | [叶子相似的树](../../problems/leaf-similar-trees) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
-| 865 | [具有所有最深节点的最小子树](../../problems/smallest-subtree-with-all-the-deepest-nodes) | [[树](../tree/README.md)]  | Medium |
+| 865 | [具有所有最深节点的最小子树](../../problems/smallest-subtree-with-all-the-deepest-nodes) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 863 | [二叉树中所有距离为 K 的结点](../../problems/all-nodes-distance-k-in-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 834 | [树中距离之和](../../problems/sum-of-distances-in-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
 | 814 | [二叉树剪枝](../../problems/binary-tree-pruning) | [[树](../tree/README.md)]  | Medium |

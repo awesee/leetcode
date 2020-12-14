@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1687 | [从仓库到码头运输箱子](../../problems/delivering-boxes-from-storage-to-ports) | [[线段树](../segment-tree/README.md)] [[双指针](../two-pointers/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1616 | [分割两个字符串得到回文串](../../problems/split-two-strings-to-make-palindrome) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1610 | [可见点的最大数目](../../problems/maximum-number-of-visible-points) | [[几何](../geometry/README.md)] [[双指针](../two-pointers/README.md)]  | Hard |

@@ -9,23 +9,3 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1274 | [矩形内船只的数目](../../problems/number-of-ships-in-a-rectangle) 🔒 | [[分治算法](../divide-and-conquer/README.md)]  | Hard |
-| 973 | [最接近原点的 K 个点](../../problems/k-closest-points-to-origin) | [[堆](../heap/README.md)] [[排序](../sort/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Medium |
-| 932 | [漂亮数组](../../problems/beautiful-array) | [[分治算法](../divide-and-conquer/README.md)]  | Medium |
-| 903 | [DI 序列的有效排列](../../problems/valid-permutations-for-di-sequence) | [[分治算法](../divide-and-conquer/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 514 | [自由之路](../../problems/freedom-trail) | [[深度优先搜索](../depth-first-search/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 493 | [翻转对](../../problems/reverse-pairs) | [[排序](../sort/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
-| 426 | [将二叉搜索树转化为排序的双向链表](../../problems/convert-binary-search-tree-to-sorted-doubly-linked-list) 🔒 | [[树](../tree/README.md)] [[链表](../linked-list/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Medium |
-| 395 | [至少有K个重复字符的最长子串](../../problems/longest-substring-with-at-least-k-repeating-characters) | [[递归](../recursion/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 327 | [区间和的个数](../../problems/count-of-range-sum) | [[排序](../sort/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
-| 315 | [计算右侧小于当前元素的个数](../../problems/count-of-smaller-numbers-after-self) | [[排序](../sort/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
-| 312 | [戳气球](../../problems/burst-balloons) | [[分治算法](../divide-and-conquer/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 282 | [给表达式添加运算符](../../problems/expression-add-operators) | [[分治算法](../divide-and-conquer/README.md)]  | Hard |
-| 241 | [为运算表达式设计优先级](../../problems/different-ways-to-add-parentheses) | [[分治算法](../divide-and-conquer/README.md)]  | Medium |
-| 240 | [搜索二维矩阵 II](../../problems/search-a-2d-matrix-ii) | [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Medium |
-| 218 | [天际线问题](../../problems/the-skyline-problem) | [[堆](../heap/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Hard |
-| 215 | [数组中的第K个最大元素](../../problems/kth-largest-element-in-an-array) | [[堆](../heap/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Medium |
-| 169 | [多数元素](../../problems/majority-element) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Easy |
-| 53 | [最大子序和](../../problems/maximum-subarray) | [[数组](../array/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
-| 23 | [合并K个升序链表](../../problems/merge-k-sorted-lists) | [[堆](../heap/README.md)] [[链表](../linked-list/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
-| 4 | [寻找两个正序数组的中位数](../../problems/median-of-two-sorted-arrays) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |

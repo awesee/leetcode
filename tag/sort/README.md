@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1691 | [堆叠长方体的最大高度](../../problems/maximum-height-by-stacking-cuboids) | [[排序](../sort/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1648 | [销售价值减少的颜色球](../../problems/sell-diminishing-valued-colored-balls) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1647 | [字符频次唯一的最小删除次数](../../problems/minimum-deletions-to-make-character-frequencies-unique) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
 | 1640 | [能否连接形成数组](../../problems/check-array-formation-through-concatenation) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
