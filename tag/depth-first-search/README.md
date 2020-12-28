@@ -55,7 +55,7 @@
 | 979 | [在二叉树中分配硬币](../../problems/distribute-coins-in-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 971 | [翻转二叉树以匹配先序遍历](../../problems/flip-binary-tree-to-match-preorder-traversal) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 968 | [监控二叉树](../../problems/binary-tree-cameras) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 967 | [连续差相同的数字](../../problems/numbers-with-same-consecutive-differences) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 967 | [连续差相同的数字](../../problems/numbers-with-same-consecutive-differences) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 959 | [由斜杠划分区域](../../problems/regions-cut-by-slashes) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
 | 947 | [移除最多的同行或同列石头](../../problems/most-stones-removed-with-same-row-or-column) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
 | 938 | [二叉搜索树的范围和](../../problems/range-sum-of-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
@@ -135,14 +135,14 @@
 | 131 | [分割回文串](../../problems/palindrome-partitioning) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 130 | [被围绕的区域](../../problems/surrounded-regions) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
 | 129 | [求根到叶子节点数字之和](../../problems/sum-root-to-leaf-numbers) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
-| 124 | [二叉树中的最大路径和](../../problems/binary-tree-maximum-path-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
+| 124 | [二叉树中的最大路径和](../../problems/binary-tree-maximum-path-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Hard |
 | 117 | [填充每个节点的下一个右侧节点指针 II](../../problems/populating-next-right-pointers-in-each-node-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 116 | [填充每个节点的下一个右侧节点指针](../../problems/populating-next-right-pointers-in-each-node) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 114 | [二叉树展开为链表](../../problems/flatten-binary-tree-to-linked-list) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 113 | [路径总和 II](../../problems/path-sum-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 112 | [路径总和](../../problems/path-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
 | 111 | [二叉树的最小深度](../../problems/minimum-depth-of-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
-| 110 | [平衡二叉树](../../problems/balanced-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 110 | [平衡二叉树](../../problems/balanced-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 109 | [有序链表转换二叉搜索树](../../problems/convert-sorted-list-to-binary-search-tree) | [[深度优先搜索](../depth-first-search/README.md)] [[链表](../linked-list/README.md)]  | Medium |
 | 108 | [将有序数组转换为二叉搜索树](../../problems/convert-sorted-array-to-binary-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
 | 106 | [从中序与后序遍历序列构造二叉树](../../problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |

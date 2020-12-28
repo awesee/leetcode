@@ -70,6 +70,22 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1707">1707</span> | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array "与数组中元素的最大异或值") | [Go](problems/maximum-xor-with-an-element-from-array) | Hard |
+| <span id="1706">1706</span> | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall "球会落何处") | [Go](problems/where-will-the-ball-fall) | Medium |
+| <span id="1705">1705</span> | [Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples "吃苹果的最大数目") | [Go](problems/maximum-number-of-eaten-apples) | Medium |
+| <span id="1704">1704</span> | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike "判断字符串的两半是否相似") | [Go](problems/determine-if-string-halves-are-alike) | Easy |
+| <span id="1703">1703</span> | [Minimum Adjacent Swaps for K Consecutive Ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones "得到连续 K 个 1 的最少相邻交换次数") | [Go](problems/minimum-adjacent-swaps-for-k-consecutive-ones) | Hard |
+| <span id="1702">1702</span> | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change "修改后的最大二进制字符串") | [Go](problems/maximum-binary-string-after-change) | Medium |
+| <span id="1701">1701</span> | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time "平均等待时间") | [Go](problems/average-waiting-time) | Medium |
+| <span id="1700">1700</span> | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch "无法吃午餐的学生数量") | [Go](problems/number-of-students-unable-to-eat-lunch) | Easy |
+| <span id="1699">1699</span> | [Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons) 🔒 | [MySQL](problems/number-of-calls-between-two-persons) | Medium |
+| <span id="1698">1698</span> | [Number of Distinct Substrings in a String](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string) 🔒 | [Go](problems/number-of-distinct-substrings-in-a-string) | Medium |
+| <span id="1697">1697</span> | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths "检查边长度限制的路径是否存在") | [Go](problems/checking-existence-of-edge-length-limited-paths) | Hard |
+| <span id="1696">1696</span> | [Jump Game VI](https://leetcode.com/problems/jump-game-vi "跳跃游戏 VI") | [Go](problems/jump-game-vi) | Medium |
+| <span id="1695">1695</span> | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value "删除子数组的最大得分") | [Go](problems/maximum-erasure-value) | Medium |
+| <span id="1694">1694</span> | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number "重新格式化电话号码") | [Go](problems/reformat-phone-number) | Easy |
+| <span id="1693">1693</span> | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) 🔒 | [MySQL](problems/daily-leads-and-partners) | Easy |
+| <span id="1692">1692</span> | [Count Ways to Distribute Candies](https://leetcode.com/problems/count-ways-to-distribute-candies) 🔒 | [Go](problems/count-ways-to-distribute-candies) | Hard |
 | <span id="1691">1691</span> | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids "堆叠长方体的最大高度") | [Go](problems/maximum-height-by-stacking-cuboids) | Hard |
 | <span id="1690">1690</span> | [Stone Game VII](https://leetcode.com/problems/stone-game-vii "石子游戏 VII") | [Go](problems/stone-game-vii) | Medium |
 | <span id="1689">1689</span> | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers "十-二进制数的最少数目") | [Go](problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium |

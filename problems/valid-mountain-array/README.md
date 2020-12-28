@@ -11,15 +11,15 @@
 
 ## [941. Valid Mountain Array (Easy)](https://leetcode.com/problems/valid-mountain-array "有效的山脉数组")
 
-<p>Given an array of integers&nbsp;<code>arr</code>, return <em><code>true</code> if and only if it is a valid mountain array</em>.</p>
+<p>Given an array of integers <code>arr</code>, return <em><code>true</code> if and only if it is a valid mountain array</em>.</p>
 
 <p>Recall that arr is a mountain array if and only if:</p>
 
 <ul>
 	<li><code>arr.length &gt;= 3</code></li>
-	<li>There exists some <code>i</code> with&nbsp;<code>0 &lt; i&nbsp;&lt; arr.length - 1</code>&nbsp;such that:
+	<li>There exists some <code>i</code> with <code>0 &lt; i &lt; arr.length - 1</code> such that:
 	<ul>
-		<li><code>arr[0] &lt; arr[1] &lt; ... &lt; arr[i - 1] &lt; A[i] </code></li>
+		<li><code>arr[0] &lt; arr[1] &lt; ... &lt; arr[i - 1] &lt; arr[i] </code></li>
 		<li><code>arr[i] &gt; arr[i + 1] &gt; ... &gt; arr[arr.length - 1]</code></li>
 	</ul>
 	</li>

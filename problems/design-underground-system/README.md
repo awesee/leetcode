@@ -11,30 +11,30 @@
 
 ## [1396. Design Underground System (Medium)](https://leetcode.com/problems/design-underground-system "设计地铁系统")
 
-<p>Implement the class <code>UndergroundSystem</code> that supports three methods:</p>
-
-<p>1.<code>&nbsp;checkIn(int id, string stationName, int t)</code></p>
+<p>Implement the <code>UndergroundSystem</code> class:</p>
 
 <ul>
-	<li>A customer with id card equal to <code>id</code>, gets in the station <code>stationName</code> at time <code>t</code>.</li>
-	<li>A customer&nbsp;can only be checked into one place at a time.</li>
+	<li><code>void checkIn(int id, string stationName, int t)</code>
+	<ul>
+		<li>A customer with a card id equal to <code>id</code>, gets in the station <code>stationName</code> at time <code>t</code>.</li>
+		<li>A customer can only be checked into one place at a time.</li>
+	</ul>
+	</li>
+	<li><code>void checkOut(int id, string stationName, int t)</code>
+	<ul>
+		<li>A customer with a card id equal to <code>id</code>, gets out from the station <code>stationName</code> at time <code>t</code>.</li>
+	</ul>
+	</li>
+	<li><code>double getAverageTime(string startStation, string endStation)</code>
+	<ul>
+		<li>Returns the average time to travel between the <code>startStation</code> and the <code>endStation</code>.</li>
+		<li>The average time is computed from all the previous traveling from <code>startStation</code> to <code>endStation</code> that happened <strong>directly</strong>.</li>
+		<li>Call to <code>getAverageTime</code> is always valid.</li>
+	</ul>
+	</li>
 </ul>
 
-<p>2.<code>&nbsp;checkOut(int id, string stationName, int t)</code></p>
-
-<ul>
-	<li>A customer with id card equal to <code>id</code>, gets out from the station <code>stationName</code> at time <code>t</code>.</li>
-</ul>
-
-<p>3.&nbsp;<code>getAverageTime(string startStation, string endStation)</code>&nbsp;</p>
-
-<ul>
-	<li>Returns the average time to travel between the <code>startStation</code> and the <code>endStation</code>.</li>
-	<li>The average time is computed from all the previous traveling from <code>startStation</code> to <code>endStation</code> that happened <strong>directly</strong>.</li>
-	<li>Call to <code>getAverageTime</code> is always valid.</li>
-</ul>
-
-<p>You can assume all calls to <code>checkIn</code> and <code>checkOut</code> methods are consistent. That is, if a customer gets in at time <strong>t<sub>1</sub></strong> at some station, then it gets out at time <strong>t<sub>2</sub></strong> with <strong>t<sub>2</sub> &gt; t<sub>1</sub></strong>.&nbsp;All events happen in chronological order.</p>
+<p>You can assume all calls to <code>checkIn</code> and <code>checkOut</code> methods are consistent. If a customer gets in at time <strong>t<sub>1</sub></strong> at some station, they get out at time <strong>t<sub>2</sub></strong> with <strong>t<sub>2</sub> &gt; t<sub>1</sub></strong>. All events happen in chronological order.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -90,11 +90,11 @@ undergroundSystem.getAverageTime(&quot;Leyton&quot;, &quot;Paradise&quot;); // r
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>There will be at most <code><font face="monospace">20000</font></code>&nbsp;operations.</li>
-	<li><code>1 &lt;= id, t &lt;= 10^6</code></li>
-	<li>All strings consist of uppercase, lowercase English letters and digits.</li>
-	<li><code>1 &lt;=&nbsp;stationName.length &lt;= 10</code></li>
-	<li>Answers within&nbsp;<code>10^-5</code>&nbsp;of the actual value will be accepted as correct.</li>
+	<li>There will be at most <code>20000</code> operations.</li>
+	<li><code>1 &lt;= id, t &lt;= 10<sup>6</sup></code></li>
+	<li>All strings consist of uppercase and lowercase English letters, and digits.</li>
+	<li><code>1 &lt;= stationName.length &lt;= 10</code></li>
+	<li>Answers within <code>10<sup>-5</sup></code> of the actual value will be accepted as correct.</li>
 </ul>
 
 ### Related Topics

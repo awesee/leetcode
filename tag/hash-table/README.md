@@ -109,7 +109,7 @@
 | 350 | [两个数组的交集 II](../../problems/intersection-of-two-arrays-ii) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 349 | [两个数组的交集](../../problems/intersection-of-two-arrays) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 347 | [前 K 个高频元素](../../problems/top-k-frequent-elements) | [[堆](../heap/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
-| 340 | [至多包含 K 个不同字符的最长子串](../../problems/longest-substring-with-at-most-k-distinct-characters) 🔒 | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
+| 340 | [至多包含 K 个不同字符的最长子串](../../problems/longest-substring-with-at-most-k-distinct-characters) 🔒 | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 336 | [回文对](../../problems/palindrome-pairs) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 325 | [和等于 k 的最长子数组长度](../../problems/maximum-size-subarray-sum-equals-k) 🔒 | [[哈希表](../hash-table/README.md)]  | Medium |
 | 311 | [稀疏矩阵的乘法](../../problems/sparse-matrix-multiplication) 🔒 | [[哈希表](../hash-table/README.md)]  | Medium |

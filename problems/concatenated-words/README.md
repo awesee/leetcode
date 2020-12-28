@@ -11,27 +11,36 @@
 
 ## [472. Concatenated Words (Hard)](https://leetcode.com/problems/concatenated-words "连接词")
 
-Given a list of words (<b>without duplicates</b>), please write a program that returns all concatenated words in the given list of words.
+<p>Given a list of words (<strong>without duplicates</strong>), please write a program that returns all concatenated words in the given list of words.</p>
+
 <p>A concatenated word is defined as a string that is comprised entirely of at least two shorter words in the given array.</p>
 
-<p><b>Example:</b><br />
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+
 <pre>
-<b>Input:</b> ["cat","cats","catsdogcats","dog","dogcatsdog","hippopotamuses","rat","ratcatdogcat"]
+<strong>Input:</strong> words = [&quot;cat&quot;,&quot;cats&quot;,&quot;catsdogcats&quot;,&quot;dog&quot;,&quot;dogcatsdog&quot;,&quot;hippopotamuses&quot;,&quot;rat&quot;,&quot;ratcatdogcat&quot;]
+<strong>Output:</strong> [&quot;catsdogcats&quot;,&quot;dogcatsdog&quot;,&quot;ratcatdogcat&quot;]
+<strong>Explanation:</strong> &quot;catsdogcats&quot; can be concatenated by &quot;cats&quot;, &quot;dog&quot; and &quot;cats&quot;; 
+&quot;dogcatsdog&quot; can be concatenated by &quot;dog&quot;, &quot;cats&quot; and &quot;dog&quot;; 
+&quot;ratcatdogcat&quot; can be concatenated by &quot;rat&quot;, &quot;cat&quot;, &quot;dog&quot; and &quot;cat&quot;.</pre>
 
-<b>Output:</b> ["catsdogcats","dogcatsdog","ratcatdogcat"]
+<p><strong>Example 2:</strong></p>
 
-<b>Explanation:</b> "catsdogcats" can be concatenated by "cats", "dog" and "cats"; <br> "dogcatsdog" can be concatenated by "dog", "cats" and "dog"; <br>"ratcatdogcat" can be concatenated by "rat", "cat", "dog" and "cat".
+<pre>
+<strong>Input:</strong> words = [&quot;cat&quot;,&quot;dog&quot;,&quot;catdog&quot;]
+<strong>Output:</strong> [&quot;catdog&quot;]
 </pre>
-</p>
 
-<p><b>Note:</b><br>
-<ol>
-<li>The number of elements of the given array will not exceed <code>10,000 </code>
-<li>The length sum of elements in the given array will not exceed <code>600,000</code>. </li>
-<li>All the input string will only include lower case letters.</li>
-<li>The returned elements order does not matter. </li>
-</ol>
-</p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= words.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= words[i].length &lt;= 1000</code></li>
+	<li><code>words[i]</code> consists of only lowercase English letters.</li>
+	<li><code>0 &lt;= sum(words[i].length) &lt;= 6 * 10<sup>5</sup></code></li>
+</ul>
 
 ### Related Topics
   [[Depth-first Search](../../tag/depth-first-search/README.md)]

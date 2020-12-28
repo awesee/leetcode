@@ -66,4 +66,4 @@ wordList = [&quot;hot&quot;,&quot;dot&quot;,&quot;dog&quot;,&quot;lot&quot;,&quo
   [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
-  1. [Word Ladder](../word-ladder) (Medium)
+  1. [Word Ladder](../word-ladder) (Hard)

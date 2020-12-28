@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../remove-invalid-parentheses "Remove Invalid Parentheses")
 
-## [300. Longest Increasing Subsequence (Medium)](https://leetcode.com/problems/longest-increasing-subsequence "最长上升子序列")
+## [300. Longest Increasing Subsequence (Medium)](https://leetcode.com/problems/longest-increasing-subsequence "最长递增子序列")
 
 <p>Given an integer array <code>nums</code>, return the length of the longest strictly increasing subsequence.</p>
 

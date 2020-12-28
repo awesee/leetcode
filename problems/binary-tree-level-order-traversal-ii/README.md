@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../convert-sorted-array-to-binary-search-tree "Convert Sorted Array to Binary Search Tree")
 
-## [107. Binary Tree Level Order Traversal II (Easy)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii "二叉树的层次遍历 II")
+## [107. Binary Tree Level Order Traversal II (Easy)](https://leetcode.com/problems/binary-tree-level-order-traversal-ii "二叉树的层序遍历 II")
 
 <p>Given a binary tree, return the <i>bottom-up level order</i> traversal of its nodes' values. (ie, from left to right, level by level from leaf to root).</p>
 

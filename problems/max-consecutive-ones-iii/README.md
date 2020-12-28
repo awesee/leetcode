@@ -55,7 +55,7 @@ Bolded numbers were flipped from 0 to 1.  The longest subarray is underlined.
   [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions
-  1. [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters) (Medium)
   1. [Longest Repeating Character Replacement](../longest-repeating-character-replacement) (Medium)
   1. [Max Consecutive Ones](../max-consecutive-ones) (Easy)
   1. [Max Consecutive Ones II](../max-consecutive-ones-ii) (Medium)

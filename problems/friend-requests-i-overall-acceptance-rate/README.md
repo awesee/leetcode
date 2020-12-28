@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../range-addition-ii "Range Addition II")
 
-## [597. Friend Requests I: Overall Acceptance Rate (Easy)](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate "好友申请 I ：总体通过率")
+## [597. Friend Requests I: Overall Acceptance Rate (Easy)](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate "好友申请 I：总体通过率")
 
 In social network like Facebook or Twitter, people send friend requests and accept others&rsquo; requests as well. Now given two tables as below:
 <p>&nbsp;</p>

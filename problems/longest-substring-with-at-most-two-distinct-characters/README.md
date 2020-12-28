@@ -36,5 +36,5 @@
 ### Similar Questions
   1. [Longest Substring Without Repeating Characters](../longest-substring-without-repeating-characters) (Medium)
   1. [Sliding Window Maximum](../sliding-window-maximum) (Hard)
-  1. [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters) (Medium)
   1. [Subarrays with K Different Integers](../subarrays-with-k-different-integers) (Hard)

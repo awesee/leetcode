@@ -56,5 +56,5 @@ The substring &quot;BBBB&quot; has the longest repeating letters, which is 4.
   [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions
-  1. [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters) (Medium)
   1. [Max Consecutive Ones III](../max-consecutive-ones-iii) (Medium)

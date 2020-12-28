@@ -7,7 +7,7 @@
 
 [< Previous](../stone-game-vii "Stone Game VII")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../count-ways-to-distribute-candies "Count Ways to Distribute Candies")
 
 ## [1691. Maximum Height by Stacking Cuboids  (Hard)](https://leetcode.com/problems/maximum-height-by-stacking-cuboids "堆叠长方体的最大高度")
 
