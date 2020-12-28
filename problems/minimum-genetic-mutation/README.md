@@ -68,4 +68,4 @@ return: 3
 <p>&nbsp;</p>
 
 ### Similar Questions
-  1. [Word Ladder](../word-ladder) (Medium)
+  1. [Word Ladder](../word-ladder) (Hard)

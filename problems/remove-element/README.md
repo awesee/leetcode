@@ -11,9 +11,9 @@
 
 ## [27. Remove Element (Easy)](https://leetcode.com/problems/remove-element "移除元素")
 
-<p>Given an array <em>nums</em> and a value <em>val</em>, remove all instances of that value <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> and return the new length.</p>
+<p>Given an array <em>nums</em> and a value <code>val</code>, remove all instances of that value <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> and return the new length.</p>
 
-<p>Do not allocate extra space for another array, you must do this by <strong>modifying the input array <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank">in-place</a></strong> with O(1) extra memory.</p>
+<p>Do not allocate extra space for another array, you must do this by <strong>modifying the input array <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank">in-place</a></strong> with <code>O(1)</code> extra memory.</p>
 
 <p>The order of elements can be changed. It doesn&#39;t matter what you leave beyond the new length.</p>
 
@@ -42,7 +42,7 @@ for (int i = 0; i &lt; len; i++) {
 <strong>Input:</strong> nums = [3,2,2,3], val = 3
 <strong>Output:</strong> 2, nums = [2,2]
 <strong>Explanation:</strong> Your function should return length = <strong>2</strong>, with the first two elements of <em>nums</em> being <strong>2</strong>.
-It doesn&#39;t matter what you leave beyond the returned length. For example if you return 2 with nums = [2,2,3,3] or nums = [2,3,0,0], your answer will be accepted.
+It doesn&#39;t matter what you leave beyond the returned length. For example if you return 2 with nums = [2,2,3,3] or nums = [2,2,0,0], your answer will be accepted.
 </pre>
 
 <p><strong>Example 2:</strong></p>

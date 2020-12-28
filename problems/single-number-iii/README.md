@@ -42,8 +42,9 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 30000</code></li>
-	<li>&nbsp;Each integer in <code>nums</code> will appear twice, only two integers will appear once.</li>
+	<li><code>2 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
+	<li>Each integer in <code>nums</code> will appear twice, only two integers will appear once.</li>
 </ul>
 
 ### Related Topics

@@ -44,7 +44,7 @@ One longest palindrome that can be built is &quot;dccaccd&quot;, whose length is
 
 <ul>
 	<li><code>1 &lt;= s.length &lt;= 2000</code></li>
-	<li><code>s</code> consits of lower-case <strong>and/or</strong> upper-case English&nbsp;letters only.</li>
+	<li><code>s</code> consists of lowercase <strong>and/or</strong> uppercase English&nbsp;letters only.</li>
 </ul>
 
 ### Related Topics

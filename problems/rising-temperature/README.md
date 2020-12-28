@@ -52,5 +52,5 @@ Result table:
 | 4  |
 +----+
 In 2015-01-02, temperature was higher than the previous day (10 -&gt; 25).
-In 2015-01-04, temperature was higher than the previous day (30 -&gt; 20).
+In 2015-01-04, temperature was higher than the previous day (20 -&gt; 30).
 </pre>

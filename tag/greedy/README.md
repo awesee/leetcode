@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1705 | [吃苹果的最大数目](../../problems/maximum-number-of-eaten-apples) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
+| 1702 | [修改后的最大二进制字符串](../../problems/maximum-binary-string-after-change) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1689 | [十-二进制数的最少数目](../../problems/partitioning-into-minimum-number-of-deci-binary-numbers) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1686 | [石子游戏 VI](../../problems/stone-game-vi) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1685 | [有序数组中差绝对值之和](../../problems/sum-of-absolute-differences-in-a-sorted-array) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1705 | [吃苹果的最大数目](../../problems/maximum-number-of-eaten-apples) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
 | 1675 | [数组的最小偏移量](../../problems/minimize-deviation-in-array) | [[堆](../heap/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Hard |
 | 1642 | [可以到达的最远建筑](../../problems/furthest-building-you-can-reach) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1439 | [有序矩阵中的第 k 个最小数组和](../../problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) | [[堆](../heap/README.md)]  | Hard |

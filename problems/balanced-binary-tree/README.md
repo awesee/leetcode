@@ -52,6 +52,7 @@
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
   [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
 
 ### Similar Questions
   1. [Maximum Depth of Binary Tree](../maximum-depth-of-binary-tree) (Easy)

@@ -11,7 +11,7 @@
 
 ## [55. Jump Game (Medium)](https://leetcode.com/problems/jump-game "跳跃游戏")
 
-<p>Given an array of non-negative integers, you are initially positioned at the first index of the array.</p>
+<p>Given an array of non-negative integers <code>nums</code>, you are initially positioned at the <strong>first index</strong> of the array.</p>
 
 <p>Each element in the array represents your maximum jump length at that position.</p>
 
@@ -38,8 +38,8 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 3 * 10^4</code></li>
-	<li><code>0 &lt;= nums[i][j] &lt;= 10^5</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 ### Related Topics

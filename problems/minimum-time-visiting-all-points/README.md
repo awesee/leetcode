@@ -11,13 +11,20 @@
 
 ## [1266. Minimum Time Visiting All Points (Easy)](https://leetcode.com/problems/minimum-time-visiting-all-points "访问所有点的最小时间")
 
-<p>On a plane there are <code>n</code> points with integer coordinates <code>points[i] = [xi, yi]</code>. Your task is to find the minimum time in seconds to visit all points.</p>
+<p>On a 2D plane, there are <code>n</code> points with integer coordinates <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code>. Return <em>the <strong>minimum time</strong> in seconds to visit all the points in the order given by </em><code>points</code>.</p>
 
-<p>You can move according to the next rules:</p>
+<p>You can move according to these rules:</p>
 
 <ul>
-	<li>In one second always you can either move vertically, horizontally by one unit or diagonally (it means to move one unit vertically and one unit horizontally in one second).</li>
+	<li>In <code>1</code> second, you can either:
+	<ul>
+		<li>move vertically by one&nbsp;unit,</li>
+		<li>move horizontally by one unit, or</li>
+		<li>move diagonally <code>sqrt(2)</code> units (in other words, move one unit vertically then one unit horizontally in <code>1</code> second).</li>
+	</ul>
+	</li>
 	<li>You have to visit the points in the same order as they appear in the array.</li>
+	<li>You are allowed to pass through points that appear later in the order, but these do not count as visits.</li>
 </ul>
 
 <p>&nbsp;</p>

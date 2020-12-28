@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1695 | [删除子数组的最大得分](../../problems/maximum-erasure-value) | [[双指针](../two-pointers/README.md)]  | Medium |
 | 1687 | [从仓库到码头运输箱子](../../problems/delivering-boxes-from-storage-to-ports) | [[线段树](../segment-tree/README.md)] [[双指针](../two-pointers/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1616 | [分割两个字符串得到回文串](../../problems/split-two-strings-to-make-palindrome) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
@@ -49,6 +50,7 @@
 | 349 | [两个数组的交集](../../problems/intersection-of-two-arrays) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 345 | [反转字符串中的元音字母](../../problems/reverse-vowels-of-a-string) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 344 | [反转字符串](../../problems/reverse-string) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 340 | [至多包含 K 个不同字符的最长子串](../../problems/longest-substring-with-at-most-k-distinct-characters) 🔒 | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 287 | [寻找重复数](../../problems/find-the-duplicate-number) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 283 | [移动零](../../problems/move-zeroes) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 259 | [较小的三数之和](../../problems/3sum-smaller) 🔒 | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |

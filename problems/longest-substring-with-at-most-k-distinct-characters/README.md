@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../flatten-nested-list-iterator "Flatten Nested List Iterator")
 
-## [340. Longest Substring with At Most K Distinct Characters (Hard)](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters "至多包含 K 个不同字符的最长子串")
+## [340. Longest Substring with At Most K Distinct Characters (Medium)](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters "至多包含 K 个不同字符的最长子串")
 
 <p>Given a string, find the length of the longest substring T that contains at most <i>k</i> distinct characters.</p>
 
@@ -32,6 +32,7 @@
 
 ### Related Topics
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
   [[String](../../tag/string/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
 

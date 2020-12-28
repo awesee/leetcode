@@ -19,7 +19,7 @@
 | 15 | [Design](design/README.md) | [设计](https://openset.github.io/tags/design/) | | 16 | [Bit Manipulation](bit-manipulation/README.md) | [位运算](https://openset.github.io/tags/bit-manipulation/) | 
 | 17 | [Graph](graph/README.md) | [图](https://openset.github.io/tags/graph/) | | 18 | [Linked List](linked-list/README.md) | [链表](https://openset.github.io/tags/linked-list/) | 
 | 19 | [Heap](heap/README.md) | [堆](https://openset.github.io/tags/heap/) | | 20 | [Union Find](union-find/README.md) | [并查集](https://openset.github.io/tags/union-find/) | 
-| 21 | [Sliding Window](sliding-window/README.md) | [Sliding Window](https://openset.github.io/tags/sliding-window/) | | 22 | [Recursion](recursion/README.md) | [递归](https://openset.github.io/tags/recursion/) | 
+| 21 | [Recursion](recursion/README.md) | [递归](https://openset.github.io/tags/recursion/) | | 22 | [Sliding Window](sliding-window/README.md) | [Sliding Window](https://openset.github.io/tags/sliding-window/) | 
 | 23 | [Divide and Conquer](divide-and-conquer/README.md) | [分治算法](https://openset.github.io/tags/divide-and-conquer/) | | 24 | [Trie](trie/README.md) | [字典树](https://openset.github.io/tags/trie/) | 
 | 25 | [Segment Tree](segment-tree/README.md) | [线段树](https://openset.github.io/tags/segment-tree/) | | 26 | [Ordered Map](ordered-map/README.md) | [Ordered Map](https://openset.github.io/tags/ordered-map/) | 
 | 27 | [Geometry](geometry/README.md) | [几何](https://openset.github.io/tags/geometry/) | | 28 | [Queue](queue/README.md) | [队列](https://openset.github.io/tags/queue/) | 
@@ -27,6 +27,6 @@
 | 31 | [Brainteaser](brainteaser/README.md) | [脑筋急转弯](https://openset.github.io/tags/brainteaser/) | | 32 | [Line Sweep](line-sweep/README.md) | [Line Sweep](https://openset.github.io/tags/line-sweep/) | 
 | 33 | [Random](random/README.md) | [Random](https://openset.github.io/tags/random/) | | 34 | [Topological Sort](topological-sort/README.md) | [拓扑排序](https://openset.github.io/tags/topological-sort/) | 
 | 35 | [Binary Search Tree](binary-search-tree/README.md) | [二叉搜索树](https://openset.github.io/tags/binary-search-tree/) | | 36 | [](dequeue/README.md) | [](https://openset.github.io/tags/dequeue/) | 
-| 37 | [Rolling Hash](rolling-hash/README.md) | [Rolling Hash](https://openset.github.io/tags/rolling-hash/) | | 38 | [Rejection Sampling](rejection-sampling/README.md) | [Rejection Sampling](https://openset.github.io/tags/rejection-sampling/) | 
-| 39 | [Reservoir Sampling](reservoir-sampling/README.md) | [蓄水池抽样](https://openset.github.io/tags/reservoir-sampling/) | | 40 | [Suffix Array](suffix-array/README.md) | [Suffix Array](https://openset.github.io/tags/suffix-array/) | 
+| 37 | [Rolling Hash](rolling-hash/README.md) | [Rolling Hash](https://openset.github.io/tags/rolling-hash/) | | 38 | [Suffix Array](suffix-array/README.md) | [Suffix Array](https://openset.github.io/tags/suffix-array/) | 
+| 39 | [Rejection Sampling](rejection-sampling/README.md) | [Rejection Sampling](https://openset.github.io/tags/rejection-sampling/) | | 40 | [Reservoir Sampling](reservoir-sampling/README.md) | [蓄水池抽样](https://openset.github.io/tags/reservoir-sampling/) | 
 | 41 | [Memoization](memoization/README.md) | [记忆化](https://openset.github.io/tags/memoization/) | | 42 | [](oop/README.md) | [](https://openset.github.io/tags/oop/) | 

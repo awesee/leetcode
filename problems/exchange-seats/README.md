@@ -12,13 +12,12 @@
 ## [626. Exchange Seats (Medium)](https://leetcode.com/problems/exchange-seats "换座位")
 
 <p>Mary is a teacher in a middle school and she has a table <code>seat</code> storing students&#39; names and their corresponding seat ids.</p>
-The column <b>id</b> is continuous increment.
 
-<p>&nbsp;</p>
-Mary wants to change seats for the adjacent students.
+<p>The column <b>id</b> is continuous increment.</p>
 
-<p>&nbsp;</p>
-Can you write a SQL query to output the result for Mary?
+<p>Mary wants to change seats for the adjacent students.</p>
+
+<p>Can you write a SQL query to output the result for Mary?</p>
 
 <p>&nbsp;</p>
 
@@ -33,9 +32,8 @@ Can you write a SQL query to output the result for Mary?
 |    5    | Jeames  |
 +---------+---------+
 </pre>
-For the sample input, the output is:
 
-<p>&nbsp;</p>
+<p>For the sample input, the output is:</p>
 
 <pre>
 +---------+---------+
@@ -49,5 +47,6 @@ For the sample input, the output is:
 +---------+---------+
 </pre>
 
-<p><b>Note:</b><br />
-If the number of students is odd, there is no need to change the last one&#39;s seat.</p>
+<p><b>Note:</b></p>
+
+<p>If the number of students is odd, there is no need to change the last one&#39;s seat.</p>

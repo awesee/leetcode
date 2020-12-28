@@ -53,4 +53,4 @@
 ### Similar Questions
   1. [Longest Substring Without Repeating Characters](../longest-substring-without-repeating-characters) (Medium)
   1. [Longest Substring with At Most Two Distinct Characters](../longest-substring-with-at-most-two-distinct-characters) (Medium)
-  1. [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters) (Medium)

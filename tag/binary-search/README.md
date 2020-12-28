@@ -82,7 +82,7 @@
 | 327 | [区间和的个数](../../problems/count-of-range-sum) | [[排序](../sort/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
 | 315 | [计算右侧小于当前元素的个数](../../problems/count-of-smaller-numbers-after-self) | [[排序](../sort/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
 | 302 | [包含全部黑色像素的最小矩形](../../problems/smallest-rectangle-enclosing-black-pixels) 🔒 | [[二分查找](../binary-search/README.md)]  | Hard |
-| 300 | [最长上升子序列](../../problems/longest-increasing-subsequence) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 300 | [最长递增子序列](../../problems/longest-increasing-subsequence) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 287 | [寻找重复数](../../problems/find-the-duplicate-number) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 278 | [第一个错误的版本](../../problems/first-bad-version) | [[二分查找](../binary-search/README.md)]  | Easy |
 | 275 | [H 指数 II](../../problems/h-index-ii) | [[二分查找](../binary-search/README.md)]  | Medium |

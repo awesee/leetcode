@@ -62,5 +62,5 @@ Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence an
 
 ### Similar Questions
   1. [Longest Substring with At Most Two Distinct Characters](../longest-substring-with-at-most-two-distinct-characters) (Medium)
-  1. [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters) (Hard)
+  1. [Longest Substring with At Most K Distinct Characters](../longest-substring-with-at-most-k-distinct-characters) (Medium)
   1. [Subarrays with K Different Integers](../subarrays-with-k-different-integers) (Hard)

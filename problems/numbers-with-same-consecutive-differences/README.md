@@ -13,7 +13,7 @@
 
 <p>Return all <strong>non-negative</strong> integers of length <code>n</code> such that the absolute difference between every two consecutive digits is <code>k</code>.</p>
 
-<p>Note that <strong>every</strong> number in the answer <strong>must not</strong> have leading zeros <strong>except</strong> for the number <code>0</code> itself. For example, <code>01</code> has one leading zero and is invalid, but <code>0</code> is valid.</p>
+<p>Note that <strong>every</strong> number in the answer <strong>must not</strong> have leading zeros. For example, <code>01</code> has one leading zero and is invalid.</p>
 
 <p>You may return the answer in <strong>any order</strong>.</p>
 
@@ -65,3 +65,5 @@
 ### Related Topics
   [[Depth-first Search](../../tag/depth-first-search/README.md)]
   [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]

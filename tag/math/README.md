@@ -149,7 +149,7 @@
 | 469 | [凸多边形](../../problems/convex-polygon) 🔒 | [[数学](../math/README.md)]  | Medium |
 | 462 | [最少移动次数使数组元素相等 II](../../problems/minimum-moves-to-equal-array-elements-ii) | [[数学](../math/README.md)]  | Medium |
 | 458 | [可怜的小猪](../../problems/poor-pigs) | [[数学](../math/README.md)]  | Hard |
-| 453 | [最小移动次数使数组元素相等](../../problems/minimum-moves-to-equal-array-elements) | [[数学](../math/README.md)]  | Easy |
+| 453 | [最小操作次数使数组元素相等](../../problems/minimum-moves-to-equal-array-elements) | [[数学](../math/README.md)]  | Easy |
 | 447 | [回旋镖的数量](../../problems/number-of-boomerangs) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
 | 441 | [排列硬币](../../problems/arranging-coins) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 423 | [从英文中重建数字](../../problems/reconstruct-original-digits-from-english) | [[数学](../math/README.md)]  | Medium |
