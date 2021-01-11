@@ -44,11 +44,11 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= m &lt;= n &lt;= 3*10^4</code></li>
+	<li><code>1 &lt;= m &lt;= n &lt;= 3 * 10<sup>4</sup></code></li>
 	<li><code>group.length == beforeItems.length == n</code></li>
-	<li><code>-1 &lt;= group[i] &lt;= m-1</code></li>
-	<li><code>0 &lt;= beforeItems[i].length &lt;= n-1</code></li>
-	<li><code>0 &lt;= beforeItems[i][j] &lt;= n-1</code></li>
+	<li><code>-1 &lt;= group[i] &lt;= m - 1</code></li>
+	<li><code>0 &lt;= beforeItems[i].length &lt;= n - 1</code></li>
+	<li><code>0 &lt;= beforeItems[i][j] &lt;= n - 1</code></li>
 	<li><code>i != beforeItems[i][j]</code></li>
 	<li><code>beforeItems[i]&nbsp;</code>does not contain&nbsp;duplicates elements.</li>
 </ul>

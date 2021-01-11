@@ -11,7 +11,7 @@
 
 ## [21. Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists "合并两个有序链表")
 
-<p>Merge two sorted linked lists and return it as a new <strong>sorted</strong> list. The new list should be made by splicing together the nodes of the first two lists.</p>
+<p>Merge two sorted linked lists and return it as a <strong>sorted</strong> list. The list should be made by splicing together the nodes of the first two lists.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -45,6 +45,7 @@
 </ul>
 
 ### Related Topics
+  [[Recursion](../../tag/recursion/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
 
 ### Similar Questions

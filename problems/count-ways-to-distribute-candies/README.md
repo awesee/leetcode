@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../daily-leads-and-partners "Daily Leads and Partners")
 
-## [1692. Count Ways to Distribute Candies (Hard)](https://leetcode.com/problems/count-ways-to-distribute-candies "")
+## [1692. Count Ways to Distribute Candies (Hard)](https://leetcode.com/problems/count-ways-to-distribute-candies "计算分配糖果的不同方式")
 
 
 

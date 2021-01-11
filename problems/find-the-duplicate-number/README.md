@@ -13,16 +13,7 @@
 
 <p>Given an array of integers <code>nums</code> containing&nbsp;<code>n + 1</code> integers where each integer is in the range <code>[1, n]</code> inclusive.</p>
 
-<p>There is only <strong>one duplicate number</strong> in <code>nums</code>, return <em>this&nbsp;duplicate number</em>.</p>
-
-<p><b>Follow-ups:</b></p>
-
-<ol>
-	<li>How can we prove that at least one duplicate number must exist in <code>nums</code>?&nbsp;</li>
-	<li>Can you solve the problem <strong>without</strong>&nbsp;modifying&nbsp;the array <code>nums</code>?</li>
-	<li>Can you solve the problem using&nbsp;only constant, <code>O(1)</code> extra space?</li>
-	<li>Can you solve the problem with runtime complexity less than <code>O(n<sup>2</sup>)</code>?</li>
-</ol>
+<p>There is only <strong>one repeated number</strong> in <code>nums</code>, return <em>this&nbsp;repeated&nbsp;number</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -46,6 +37,16 @@
 	<li><code>nums.length == n + 1</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= n</code></li>
 	<li>All the integers in <code>nums</code> appear only <strong>once</strong> except for <strong>precisely one integer</strong> which appears <strong>two or more</strong> times.</li>
+</ul>
+
+<p>&nbsp;</p>
+<p><b>Follow up:</b></p>
+
+<ul>
+	<li>How can we prove that at least one duplicate number must exist in <code>nums</code>?</li>
+	<li>Can you solve the problem <strong>without</strong> modifying the array <code>nums</code>?</li>
+	<li>Can you solve the problem using only constant, <code>O(1)</code> extra space?</li>
+	<li>Can you solve the problem with runtime complexity less than <code>O(n<sup>2</sup>)</code>?</li>
 </ul>
 
 ### Related Topics

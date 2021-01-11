@@ -9,6 +9,12 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1722 | [执行交换操作后的最小汉明距离](../../problems/minimize-hamming-distance-after-swap-operations) | [[贪心算法](../greedy/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
+| 1717 | [删除子字符串的最大得分](../../problems/maximum-score-from-removing-substrings) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1716 | [计算力扣银行的钱](../../problems/calculate-money-in-leetcode-bank) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1713 | [得到子序列的最少操作次数](../../problems/minimum-operations-to-make-a-subsequence) | [[贪心算法](../greedy/README.md)]  | Hard |
+| 1710 | [卡车上的最大单元数](../../problems/maximum-units-on-a-truck) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Easy |
+| 1708 | [Largest Subarray Length K](../../problems/largest-subarray-length-k) 🔒 | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1705 | [吃苹果的最大数目](../../problems/maximum-number-of-eaten-apples) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
 | 1702 | [修改后的最大二进制字符串](../../problems/maximum-binary-string-after-change) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1689 | [十-二进制数的最少数目](../../problems/partitioning-into-minimum-number-of-deci-binary-numbers) | [[贪心算法](../greedy/README.md)]  | Medium |

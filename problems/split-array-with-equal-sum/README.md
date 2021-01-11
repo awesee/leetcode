@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../friend-circles "Friend Circles")
+[< Previous](../number-of-provinces "Number of Provinces")
 　　　　　　　　　　　　　　　　
 [Next >](../binary-tree-longest-consecutive-sequence-ii "Binary Tree Longest Consecutive Sequence II")
 

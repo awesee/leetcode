@@ -9,11 +9,12 @@
 　　　　　　　　　　　　　　　　
 [Next >](../number-of-calls-between-two-persons "Number of Calls Between Two Persons")
 
-## [1698. Number of Distinct Substrings in a String (Medium)](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string "")
+## [1698. Number of Distinct Substrings in a String (Medium)](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string "字符串的不同子字符串个数")
 
 
 
 ### Related Topics
+  [[Trie](../../tag/trie/README.md)]
   [[String](../../tag/string/README.md)]
 
 ### Hints

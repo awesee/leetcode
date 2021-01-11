@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../products-worth-over-invoices "Product's Worth Over Invoices")
 
-## [1676. Lowest Common Ancestor of a Binary Tree IV (Medium)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv "")
+## [1676. Lowest Common Ancestor of a Binary Tree IV (Medium)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv "二叉树的最近公共祖先 IV")
 
 
 

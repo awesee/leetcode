@@ -11,10 +11,9 @@
 
 ## [7. Reverse Integer (Easy)](https://leetcode.com/problems/reverse-integer "整数反转")
 
-<p>Given a 32-bit signed integer, reverse digits of an integer.</p>
+<p>Given a <strong>32-bit</strong> signed integer, reverse digits of an integer.</p>
 
-<p><strong>Note:</strong><br />
-Assume we are dealing with an environment that could only store integers within the 32-bit signed integer range: [&minus;2<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>&minus; 1]. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.</p>
+<p><strong>Note:</strong> Assume we are dealing with an environment that could only store integers within the <strong>32-bit</strong> signed integer range: <code>[&minus;2<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>&minus; 1]</code>. For this problem, assume that your function returns <code>0</code> when the reversed integer overflows.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

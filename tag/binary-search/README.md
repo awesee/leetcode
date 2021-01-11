@@ -9,7 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1712 | [将数组分成三个子数组的方案数](../../problems/ways-to-split-array-into-three-subarrays) | [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1649 | [通过指令创建有序数组](../../problems/create-sorted-array-through-instructions) | [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Hard |
 | 1642 | [可以到达的最远建筑](../../problems/furthest-building-you-can-reach) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1631 | [最小体力消耗路径](../../problems/path-with-minimum-effort) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1618 | [找出适应屏幕的最大字号](../../problems/maximum-font-to-fit-a-sentence-in-a-screen) 🔒 | [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
@@ -59,7 +61,7 @@
 | 702 | [搜索长度未知的有序数组](../../problems/search-in-a-sorted-array-of-unknown-size) 🔒 | [[二分查找](../binary-search/README.md)]  | Medium |
 | 668 | [乘法表中第k小的数](../../problems/kth-smallest-number-in-multiplication-table) | [[二分查找](../binary-search/README.md)]  | Hard |
 | 658 | [找到 K 个最接近的元素](../../problems/find-k-closest-elements) | [[二分查找](../binary-search/README.md)]  | Medium |
-| 644 | [最大平均子段和 II](../../problems/maximum-average-subarray-ii) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 644 | [子数组最大平均数 II](../../problems/maximum-average-subarray-ii) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 540 | [有序数组中的单一元素](../../problems/single-element-in-a-sorted-array) | [[二分查找](../binary-search/README.md)]  | Medium |
 | 528 | [按权重随机选择](../../problems/random-pick-with-weight) | [[二分查找](../binary-search/README.md)] [[Random](../random/README.md)]  | Medium |
 | 497 | [非重叠矩形中的随机点](../../problems/random-point-in-non-overlapping-rectangles) | [[二分查找](../binary-search/README.md)] [[Random](../random/README.md)]  | Medium |

@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1723 | [完成所有工作的最短时间](../../problems/find-minimum-time-to-finish-all-jobs) | [[递归](../recursion/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 1718 | [构建字典序最大的可行序列](../../problems/construct-the-lexicographically-largest-valid-sequence) | [[递归](../recursion/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1688 | [比赛中的配对次数](../../problems/count-of-matches-in-tournament) | [[回溯算法](../backtracking/README.md)]  | Easy |
 | 1681 | [最小不兼容性](../../problems/minimum-incompatibility) | [[贪心算法](../greedy/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1659 | [最大化网格幸福感](../../problems/maximize-grid-happiness) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
@@ -37,7 +39,7 @@
 | 797 | [所有可能的路径](../../problems/all-paths-from-source-to-target) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 784 | [字母大小写全排列](../../problems/letter-case-permutation) | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 691 | [贴纸拼词](../../problems/stickers-to-spell-word) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 526 | [优美的排列](../../problems/beautiful-arrangement) | [[回溯算法](../backtracking/README.md)]  | Medium |
+| 526 | [优美的排列](../../problems/beautiful-arrangement) | [[深度优先搜索](../depth-first-search/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 425 | [单词方块](../../problems/word-squares) 🔒 | [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 411 | [最短特异单词缩写](../../problems/minimum-unique-word-abbreviation) 🔒 | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 401 | [二进制手表](../../problems/binary-watch) | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Easy |

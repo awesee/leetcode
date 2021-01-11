@@ -25,7 +25,7 @@
 <strong>Output:</strong> [[3,0],
          [1,7]]
 <strong>Explanation:</strong>
-0th row: 3 + 0 = 0 == rowSum[0]
+0th row: 3 + 0 = 3 == rowSum[0]
 1st row: 1 + 7 = 8 == rowSum[1]
 0th column: 3 + 1 = 4 == colSum[0]
 1st column: 0 + 7 = 7 == colSum[1]
