@@ -47,8 +47,8 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The&nbsp;given binary tree will have between <code>1</code> and <code>10^5</code> nodes.</li>
-	<li>Node values are digits from <code>1</code> to <code>9</code>.</li>
+	<li>The number of nodes in the tree is in the range <code>[1, 10<sup>5</sup>]</code>.</li>
+	<li><code>1 &lt;= Node.val &lt;= 9</code></li>
 </ul>
 
 ### Related Topics

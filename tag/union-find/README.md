@@ -9,3 +9,40 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1722 | [执行交换操作后的最小汉明距离](../../problems/minimize-hamming-distance-after-swap-operations) | [[贪心算法](../greedy/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
+| 1697 | [检查边长度限制的路径是否存在](../../problems/checking-existence-of-edge-length-limited-paths) | [[排序](../sort/README.md)] [[并查集](../union-find/README.md)]  | Hard |
+| 1632 | [矩阵转换后的秩](../../problems/rank-transform-of-a-matrix) | [[贪心算法](../greedy/README.md)] [[并查集](../union-find/README.md)]  | Hard |
+| 1631 | [最小体力消耗路径](../../problems/path-with-minimum-effort) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1627 | [带阈值的图连通性](../../problems/graph-connectivity-with-threshold) | [[并查集](../union-find/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1584 | [连接所有点的最小费用](../../problems/min-cost-to-connect-all-points) | [[并查集](../union-find/README.md)]  | Medium |
+| 1579 | [保证图可完全遍历](../../problems/remove-max-number-of-edges-to-keep-graph-fully-traversable) | [[并查集](../union-find/README.md)]  | Hard |
+| 1489 | [找到最小生成树里的关键边和伪关键边](../../problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Hard |
+| 1319 | [连通网络的操作次数](../../problems/number-of-operations-to-make-network-connected) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
+| 1202 | [交换字符串中的元素](../../problems/smallest-string-with-swaps) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1168 | [水资源分配优化](../../problems/optimize-water-distribution-in-a-village) 🔒 | [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
+| 1135 | [最低成本联通所有城市](../../problems/connecting-cities-with-minimum-cost) 🔒 | [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
+| 1102 | [得分最高的路径](../../problems/path-with-maximum-minimum-value) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
+| 1101 | [彼此熟识的最早时间](../../problems/the-earliest-moment-when-everyone-become-friends) 🔒 | [[并查集](../union-find/README.md)]  | Medium |
+| 1061 | [按字典序排列最小的等效字符串](../../problems/lexicographically-smallest-equivalent-string) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
+| 990 | [等式方程的可满足性](../../problems/satisfiability-of-equality-equations) | [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
+| 959 | [由斜杠划分区域](../../problems/regions-cut-by-slashes) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
+| 952 | [按公因数计算最大组件大小](../../problems/largest-component-size-by-common-factor) | [[并查集](../union-find/README.md)] [[数学](../math/README.md)]  | Hard |
+| 947 | [移除最多的同行或同列石头](../../problems/most-stones-removed-with-same-row-or-column) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
+| 928 | [尽量减少恶意软件的传播 II](../../problems/minimize-malware-spread-ii) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
+| 924 | [尽量减少恶意软件的传播](../../problems/minimize-malware-spread) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Hard |
+| 839 | [相似字符串组](../../problems/similar-string-groups) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
+| 803 | [打砖块](../../problems/bricks-falling-when-hit) | [[并查集](../union-find/README.md)]  | Hard |
+| 778 | [水位上升的泳池中游泳](../../problems/swim-in-rising-water) | [[堆](../heap/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 765 | [情侣牵手](../../problems/couples-holding-hands) | [[贪心算法](../greedy/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
+| 737 | [句子相似性 II](../../problems/sentence-similarity-ii) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
+| 721 | [账户合并](../../problems/accounts-merge) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
+| 685 | [冗余连接 II](../../problems/redundant-connection-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
+| 684 | [冗余连接](../../problems/redundant-connection) | [[树](../tree/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
+| 547 | [省份数量](../../problems/number-of-provinces) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
+| 399 | [除法求值](../../problems/evaluate-division) | [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
+| 323 | [无向图中连通分量的数目](../../problems/number-of-connected-components-in-an-undirected-graph) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
+| 305 | [岛屿数量 II](../../problems/number-of-islands-ii) 🔒 | [[并查集](../union-find/README.md)]  | Hard |
+| 261 | [以图判树](../../problems/graph-valid-tree) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
+| 200 | [岛屿数量](../../problems/number-of-islands) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
+| 130 | [被围绕的区域](../../problems/surrounded-regions) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
+| 128 | [最长连续序列](../../problems/longest-consecutive-sequence) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)]  | Hard |

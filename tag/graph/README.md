@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1719 | [重构一棵树的方案数](../../problems/number-of-ways-to-reconstruct-a-tree) | [[树](../tree/README.md)] [[图](../graph/README.md)]  | Hard |
 | 1631 | [最小体力消耗路径](../../problems/path-with-minimum-effort) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1615 | [最大网络秩](../../problems/maximal-network-rank) | [[图](../graph/README.md)]  | Medium |
 | 1595 | [连通两组点的最小成本](../../problems/minimum-cost-to-connect-two-groups-of-points) | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

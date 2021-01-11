@@ -11,16 +11,18 @@
 
 ## [91. Decode Ways (Medium)](https://leetcode.com/problems/decode-ways "解码方法")
 
-<p>A message containing letters from <code>A-Z</code> is being encoded to numbers using the following mapping:</p>
+<p>A message containing letters from <code>A-Z</code> can be <strong>encoded</strong> into numbers using the following mapping:</p>
 
 <pre>
-&#39;A&#39; -&gt; 1
-&#39;B&#39; -&gt; 2
+&#39;A&#39; -&gt; &quot;1&quot;
+&#39;B&#39; -&gt; &quot;2&quot;
 ...
-&#39;Z&#39; -&gt; 26
+&#39;Z&#39; -&gt; &quot;26&quot;
 </pre>
 
-<p>Given a <strong>non-empty</strong> string containing only digits, determine the total number of ways to decode it.</p>
+<p>To <strong>decode</strong> an encoded message, all the digits must be mapped back into letters using the reverse of the mapping above (there may be multiple ways). For example, <code>&quot;111&quot;</code> can have each of its <code>&quot;1&quot;</code>s be mapped into <code>&#39;A&#39;</code>s to make <code>&quot;AAA&quot;</code>, or it could be mapped to <code>&quot;11&quot;</code> and <code>&quot;1&quot;</code> (<code>&#39;K&#39;</code> and <code>&#39;A&#39;</code> respectively) to make <code>&quot;KA&quot;</code>. Note that <code>&quot;06&quot;</code> cannot be mapped into <code>&#39;F&#39;</code> since <code>&quot;6&quot;</code> is different from <code>&quot;06&quot;</code>.</p>
+
+<p>Given a <strong>non-empty</strong> string <code>num</code> containing only digits, return <em>the <strong>number</strong> of ways to <strong>decode</strong> it</em>.</p>
 
 <p>The answer is guaranteed to fit in a <strong>32-bit</strong> integer.</p>
 
@@ -30,7 +32,7 @@
 <pre>
 <strong>Input:</strong> s = &quot;12&quot;
 <strong>Output:</strong> 2
-<strong>Explanation:</strong> It could be decoded as &quot;AB&quot; (1 2) or &quot;L&quot; (12).
+<strong>Explanation:</strong> &quot;12&quot; could be decoded as &quot;AB&quot; (1 2) or &quot;L&quot; (12).
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -38,7 +40,7 @@
 <pre>
 <strong>Input:</strong> s = &quot;226&quot;
 <strong>Output:</strong> 3
-<strong>Explanation:</strong> It could be decoded as &quot;BZ&quot; (2 26), &quot;VF&quot; (22 6), or &quot;BBF&quot; (2 2 6).
+<strong>Explanation:</strong> &quot;226&quot; could be decoded as &quot;BZ&quot; (2 26), &quot;VF&quot; (22 6), or &quot;BBF&quot; (2 2 6).
 </pre>
 
 <p><strong>Example 3:</strong></p>
@@ -46,7 +48,8 @@
 <pre>
 <strong>Input:</strong> s = &quot;0&quot;
 <strong>Output:</strong> 0
-<strong>Explanation:</strong> There is no character that is mapped to a number starting with &#39;0&#39;. We cannot ignore a zero when we face it while decoding. So, each &#39;0&#39; should be part of &quot;10&quot; --&gt; &#39;J&#39; or &quot;20&quot; --&gt; &#39;T&#39;.
+<strong>Explanation:</strong> There is no character that is mapped to a number starting with 0. The only valid mappings with 0 are &#39;J&#39; -&gt; &quot;10&quot; and &#39;T&#39; -&gt; &quot;20&quot;.
+Since there is no character, there are no valid ways to decode this since all digits need to be mapped.
 </pre>
 
 <p><strong>Example 4:</strong></p>

@@ -11,7 +11,7 @@
 
 ## [124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum "二叉树中的最大路径和")
 
-<p>Given a <strong>non-empty</strong> binary tree, find the maximum path sum.</p>
+<p>Given the <code>root</code> of a binary tree, return <em>the maximum path sum</em>.</p>
 
 <p>For this problem, a path is defined as any node sequence from some starting node to any node in the tree along the parent-child connections. The path must contain <strong>at least one node</strong> and does not need to go through the root.</p>
 
@@ -34,7 +34,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the tree is in the range <code>[0, 3 * 10<sup>4</sup>]</code>.</li>
+	<li>The number of nodes in the tree is in the range <code>[1, 3 * 10<sup>4</sup>]</code>.</li>
 	<li><code>-1000 &lt;= Node.val &lt;= 1000</code></li>
 </ul>
 

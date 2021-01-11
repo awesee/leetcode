@@ -48,6 +48,13 @@ Ball b4 is dropped at column 4 and will get stuck on the box between column 2 an
 <strong>Explanation:</strong> The ball gets stuck against the left wall.
 </pre>
 
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> grid = [[1,1,1,1,1,1],[-1,-1,-1,-1,-1,-1],[1,1,1,1,1,1],[-1,-1,-1,-1,-1,-1]]
+<strong>Output:</strong> [0,1,2,3,4,-1]
+</pre>
+
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

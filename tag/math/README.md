@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1716 | [计算力扣银行的钱](../../problems/calculate-money-in-leetcode-bank) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1685 | [有序数组中差绝对值之和](../../problems/sum-of-absolute-differences-in-a-sorted-array) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1680 | [连接连续二进制数字](../../problems/concatenation-of-consecutive-binary-numbers) | [[数学](../math/README.md)]  | Medium |
 | 1648 | [销售价值减少的颜色球](../../problems/sell-diminishing-valued-colored-balls) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Medium |
@@ -154,7 +155,7 @@
 | 441 | [排列硬币](../../problems/arranging-coins) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 423 | [从英文中重建数字](../../problems/reconstruct-original-digits-from-english) | [[数学](../math/README.md)]  | Medium |
 | 413 | [等差数列划分](../../problems/arithmetic-slices) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 400 | [第N个数字](../../problems/nth-digit) | [[数学](../math/README.md)]  | Medium |
+| 400 | [第 N 位数字](../../problems/nth-digit) | [[数学](../math/README.md)]  | Medium |
 | 397 | [整数替换](../../problems/integer-replacement) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Medium |
 | 396 | [旋转函数](../../problems/rotate-function) | [[数学](../math/README.md)]  | Medium |
 | 372 | [超级次方](../../problems/super-pow) | [[数学](../math/README.md)]  | Medium |
@@ -202,4 +203,4 @@
 | 9 | [回文数](../../problems/palindrome-number) | [[数学](../math/README.md)]  | Easy |
 | 8 | [字符串转换整数 (atoi)](../../problems/string-to-integer-atoi) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 7 | [整数反转](../../problems/reverse-integer) | [[数学](../math/README.md)]  | Easy |
-| 2 | [两数相加](../../problems/add-two-numbers) | [[链表](../linked-list/README.md)] [[数学](../math/README.md)]  | Medium |
+| 2 | [两数相加](../../problems/add-two-numbers) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[数学](../math/README.md)]  | Medium |

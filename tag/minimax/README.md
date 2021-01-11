@@ -9,3 +9,11 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 913 | [猫和老鼠](../../problems/cat-and-mouse) | [[广度优先搜索](../breadth-first-search/README.md)] [[极小化极大](../minimax/README.md)]  | Hard |
+| 877 | [石子游戏](../../problems/stone-game) | [[极小化极大](../minimax/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 843 | [猜猜这个单词](../../problems/guess-the-word) | [[极小化极大](../minimax/README.md)]  | Hard |
+| 486 | [预测赢家](../../problems/predict-the-winner) | [[极小化极大](../minimax/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 464 | [我能赢吗](../../problems/can-i-win) | [[极小化极大](../minimax/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 375 | [猜数字大小 II](../../problems/guess-number-higher-or-lower-ii) | [[极小化极大](../minimax/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 294 | [翻转游戏 II](../../problems/flip-game-ii) 🔒 | [[极小化极大](../minimax/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 292 | [Nim 游戏](../../problems/nim-game) | [[脑筋急转弯](../brainteaser/README.md)] [[极小化极大](../minimax/README.md)]  | Easy |

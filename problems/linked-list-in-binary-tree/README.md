@@ -49,9 +49,9 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= node.val&nbsp;&lt;= 100</code>&nbsp;for each node in the linked list and binary tree.</li>
-	<li>The given linked list will contain between&nbsp;<code>1</code>&nbsp;and <code>100</code>&nbsp;nodes.</li>
-	<li>The given binary tree will contain between&nbsp;<code>1</code>&nbsp;and&nbsp;<code>2500</code>&nbsp;nodes.</li>
+	<li>The number of nodes in the tree will be in the range <code>[1, 2500]</code>.</li>
+	<li>The number of nodes in the list will be in the range <code>[1, 100]</code>.</li>
+	<li><code>1 &lt;= Node.val&nbsp;&lt;= 100</code>&nbsp;for each node in the linked list and binary tree.</li>
 </ul>
 
 ### Related Topics

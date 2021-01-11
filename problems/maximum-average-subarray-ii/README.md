@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../set-mismatch "Set Mismatch")
 
-## [644. Maximum Average Subarray II (Hard)](https://leetcode.com/problems/maximum-average-subarray-ii "最大平均子段和 II")
+## [644. Maximum Average Subarray II (Hard)](https://leetcode.com/problems/maximum-average-subarray-ii "子数组最大平均数 II")
 
 <p>
 Given an array consisting of <code>n</code> integers, find the contiguous subarray whose <b>length is greater than or equal to</b> <code>k</code> that has the maximum average value. And you need to output the maximum average value.

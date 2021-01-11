@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1712 | [将数组分成三个子数组的方案数](../../problems/ways-to-split-array-into-three-subarrays) | [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1711 | [大餐计数](../../problems/count-good-meals) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1695 | [删除子数组的最大得分](../../problems/maximum-erasure-value) | [[双指针](../two-pointers/README.md)]  | Medium |
 | 1687 | [从仓库到码头运输箱子](../../problems/delivering-boxes-from-storage-to-ports) | [[线段树](../segment-tree/README.md)] [[双指针](../two-pointers/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

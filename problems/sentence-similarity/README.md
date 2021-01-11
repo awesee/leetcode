@@ -38,7 +38,7 @@
   [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Friend Circles](../friend-circles) (Medium)
+  1. [Number of Provinces](../number-of-provinces) (Medium)
   1. [Accounts Merge](../accounts-merge) (Medium)
   1. [Sentence Similarity II](../sentence-similarity-ii) (Medium)
 

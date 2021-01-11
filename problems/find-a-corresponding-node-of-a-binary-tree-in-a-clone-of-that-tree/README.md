@@ -69,3 +69,6 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]

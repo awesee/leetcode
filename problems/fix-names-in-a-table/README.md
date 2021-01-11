@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../maximum-repeating-substring "Maximum Repeating Substring")
 
-## [1667. Fix Names in a Table (Easy)](https://leetcode.com/problems/fix-names-in-a-table "")
+## [1667. Fix Names in a Table (Easy)](https://leetcode.com/problems/fix-names-in-a-table "修复表中的名字")
 
 

@@ -9,7 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1676 | [Lowest Common Ancestor of a Binary Tree IV](../../problems/lowest-common-ancestor-of-a-binary-tree-iv) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 1719 | [重构一棵树的方案数](../../problems/number-of-ways-to-reconstruct-a-tree) | [[树](../tree/README.md)] [[图](../graph/README.md)]  | Hard |
+| 1676 | [二叉树的最近公共祖先 IV](../../problems/lowest-common-ancestor-of-a-binary-tree-iv) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1666 | [改变二叉树的根节点](../../problems/change-the-root-of-a-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1660 | [纠正二叉树](../../problems/correct-a-binary-tree) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 1650 | [二叉树的最近公共祖先 III](../../problems/lowest-common-ancestor-of-a-binary-tree-iii) 🔒 | [[树](../tree/README.md)]  | Medium |
@@ -31,7 +32,7 @@
 | 1448 | [统计二叉树中好节点的数目](../../problems/count-good-nodes-in-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1443 | [收集树上所有苹果的最少时间](../../problems/minimum-time-to-collect-all-apples-in-a-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1430 | [判断给定的序列是否是二叉树从根到叶的路径](../../problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) 🔒 | [[树](../tree/README.md)]  | Medium |
-| 1379 | [找出克隆二叉树中的相同节点](../../problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [[树](../tree/README.md)]  | Medium |
+| 1379 | [找出克隆二叉树中的相同节点](../../problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 1372 | [二叉树中的最长交错路径](../../problems/longest-zigzag-path-in-a-binary-tree) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1367 | [二叉树中的列表](../../problems/linked-list-in-binary-tree) | [[树](../tree/README.md)] [[链表](../linked-list/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1339 | [分裂二叉树的最大乘积](../../problems/maximum-product-of-splitted-binary-tree) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

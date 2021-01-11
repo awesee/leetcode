@@ -55,7 +55,7 @@ The sixth event occurs at timestamp = 20190301 and after 0 and 3 become friends 
   [[Union Find](../../tag/union-find/README.md)]
 
 ### Similar Questions
-  1. [Friend Circles](../friend-circles) (Medium)
+  1. [Number of Provinces](../number-of-provinces) (Medium)
 
 ### Hints
 <details>

@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../reformat-phone-number "Reformat Phone Number")
 
-## [1693. Daily Leads and Partners (Easy)](https://leetcode.com/problems/daily-leads-and-partners "")
+## [1693. Daily Leads and Partners (Easy)](https://leetcode.com/problems/daily-leads-and-partners "每天的领导和合伙人")
 
 

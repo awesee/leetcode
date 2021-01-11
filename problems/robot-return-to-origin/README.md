@@ -60,4 +60,4 @@
   [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Friend Circles](../friend-circles) (Medium)
+  1. [Number of Provinces](../number-of-provinces) (Medium)

@@ -11,9 +11,7 @@
 
 ## [53. Maximum Subarray (Easy)](https://leetcode.com/problems/maximum-subarray "最大子序和")
 
-<p>Given an integer array <code>nums</code>, find the contiguous subarray&nbsp;(containing at least one number) which has the largest sum and return <em>its sum</em>.</p>
-
-<p><strong>Follow up:</strong>&nbsp;If you have figured out the <code>O(n)</code> solution, try coding another solution using the <strong>divide and conquer</strong> approach, which is more subtle.</p>
+<p>Given an integer array <code>nums</code>, find the contiguous subarray (containing at least one number) which has the largest sum and return <em>its sum</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -48,17 +46,20 @@
 <p><strong>Example 5:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [-2147483647]
-<strong>Output:</strong> -2147483647
+<strong>Input:</strong> nums = [-100000]
+<strong>Output:</strong> -100000
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 2 * 10<sup>4</sup></code></li>
-	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>-10<sup>5</sup> &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
+
+<p>&nbsp;</p>
+<strong>Follow up:</strong> If you have figured out the <code>O(n)</code> solution, try coding another solution using the <strong>divide and conquer</strong> approach, which is more subtle.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

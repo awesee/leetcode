@@ -13,8 +13,6 @@
 
 <p>Given a&nbsp;linked list, swap every two adjacent nodes and return its head.</p>
 
-<p>You may <strong>not</strong> modify the values in the list&#39;s nodes. Only nodes itself may be changed.</p>
-
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/swap_ex1.jpg" style="width: 422px; height: 222px;" />
@@ -44,6 +42,9 @@
 	<li>The number of nodes in the&nbsp;list&nbsp;is in the range <code>[0, 100]</code>.</li>
 	<li><code>0 &lt;= Node.val &lt;= 100</code></li>
 </ul>
+
+<p>&nbsp;</p>
+<strong>Follow up:</strong> Can you solve the problem without&nbsp;modifying the values in the list&#39;s nodes? (i.e., Only nodes themselves may be changed.)
 
 ### Related Topics
   [[Recursion](../../tag/recursion/README.md)]

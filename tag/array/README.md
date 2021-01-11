@@ -9,13 +9,15 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1711 | [大餐计数](../../problems/count-good-meals) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 1708 | [Largest Subarray Length K](../../problems/largest-subarray-length-k) 🔒 | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1701 | [平均等待时间](../../problems/average-waiting-time) | [[数组](../array/README.md)]  | Medium |
 | 1700 | [无法吃午餐的学生数量](../../problems/number-of-students-unable-to-eat-lunch) | [[数组](../array/README.md)]  | Easy |
 | 1672 | [最富有客户的资产总量](../../problems/richest-customer-wealth) | [[数组](../array/README.md)]  | Easy |
 | 1656 | [设计有序流](../../problems/design-an-ordered-stream) | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1652 | [拆炸弹](../../problems/defuse-the-bomb) | [[数组](../array/README.md)]  | Easy |
 | 1646 | [获取生成数组中的最大值](../../problems/get-maximum-in-generated-array) | [[数组](../array/README.md)]  | Easy |
-| 1640 | [能否连接形成数组](../../problems/check-array-formation-through-concatenation) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
+| 1640 | [能否连接形成数组](../../problems/check-array-formation-through-concatenation) | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 1636 | [按照频率将数组升序排序](../../problems/sort-array-by-increasing-frequency) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1629 | [按键持续时间最长的键](../../problems/slowest-key) | [[数组](../array/README.md)]  | Easy |
 | 1619 | [删除某些元素后的数组均值](../../problems/mean-of-array-after-removing-some-elements) | [[数组](../array/README.md)]  | Easy |
@@ -206,7 +208,7 @@
 | 667 | [优美的排列 II](../../problems/beautiful-arrangement-ii) | [[数组](../array/README.md)]  | Medium |
 | 665 | [非递减数列](../../problems/non-decreasing-array) | [[数组](../array/README.md)]  | Easy |
 | 661 | [图片平滑器](../../problems/image-smoother) | [[数组](../array/README.md)]  | Easy |
-| 644 | [最大平均子段和 II](../../problems/maximum-average-subarray-ii) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 644 | [子数组最大平均数 II](../../problems/maximum-average-subarray-ii) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 643 | [子数组最大平均数 I](../../problems/maximum-average-subarray-i) | [[数组](../array/README.md)]  | Easy |
 | 628 | [三个数的最大乘积](../../problems/maximum-product-of-three-numbers) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 624 | [数组列表中的最大距离](../../problems/maximum-distance-in-arrays) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |

@@ -11,9 +11,7 @@
 
 ## [1351. Count Negative Numbers in a Sorted Matrix (Easy)](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix "统计有序矩阵中的负数")
 
-<p>Given a <code>m&nbsp;* n</code>&nbsp;matrix <code>grid</code>&nbsp;which is sorted in non-increasing order both row-wise and column-wise.&nbsp;</p>
-
-<p>Return the number of <strong>negative</strong> numbers in&nbsp;<code>grid</code>.</p>
+<p>Given a <code>m x n</code> matrix <code>grid</code> which is sorted in non-increasing order both row-wise and column-wise, return <em>the number of <strong>negative</strong> numbers in</em> <code>grid</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -54,6 +52,9 @@
 	<li><code>1 &lt;= m, n &lt;= 100</code></li>
 	<li><code>-100 &lt;= grid[i][j] &lt;= 100</code></li>
 </ul>
+
+<p>&nbsp;</p>
+<strong>Follow up:</strong> Could you find an <code>O(n + m)</code> solution?
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

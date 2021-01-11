@@ -39,7 +39,7 @@
   [[Union Find](../../tag/union-find/README.md)]
 
 ### Similar Questions
-  1. [Friend Circles](../friend-circles) (Medium)
+  1. [Number of Provinces](../number-of-provinces) (Medium)
   1. [Accounts Merge](../accounts-merge) (Medium)
   1. [Sentence Similarity](../sentence-similarity) (Easy)
 

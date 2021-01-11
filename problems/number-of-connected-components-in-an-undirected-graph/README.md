@@ -49,4 +49,4 @@ You can assume that no duplicate edges will appear in <code>edges</code>. Since 
 ### Similar Questions
   1. [Number of Islands](../number-of-islands) (Medium)
   1. [Graph Valid Tree](../graph-valid-tree) (Medium)
-  1. [Friend Circles](../friend-circles) (Medium)
+  1. [Number of Provinces](../number-of-provinces) (Medium)
