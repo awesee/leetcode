@@ -37,6 +37,6 @@ Among them, only integer 3 disobeys the rule (two consecutive ones) and the othe
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [House Robber](../house-robber) (Easy)
+  1. [House Robber](../house-robber) (Medium)
   1. [House Robber II](../house-robber-ii) (Medium)
   1. [Ones and Zeroes](../ones-and-zeroes) (Medium)

@@ -50,5 +50,5 @@
 | 24 | [两两交换链表中的节点](../../problems/swap-nodes-in-pairs) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Medium |
 | 23 | [合并K个升序链表](../../problems/merge-k-sorted-lists) | [[堆](../heap/README.md)] [[链表](../linked-list/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
 | 21 | [合并两个有序链表](../../problems/merge-two-sorted-lists) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Easy |
-| 19 | [删除链表的倒数第N个节点](../../problems/remove-nth-node-from-end-of-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 19 | [删除链表的倒数第 N 个结点](../../problems/remove-nth-node-from-end-of-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 2 | [两数相加](../../problems/add-two-numbers) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[数学](../math/README.md)]  | Medium |

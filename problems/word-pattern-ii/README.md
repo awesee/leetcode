@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../nim-game "Nim Game")
 
-## [291. Word Pattern II (Hard)](https://leetcode.com/problems/word-pattern-ii "单词规律 II")
+## [291. Word Pattern II (Medium)](https://leetcode.com/problems/word-pattern-ii "单词规律 II")
 
 <p>Given a <code>pattern</code> and a string <code>str</code>, find if <code>str</code> follows the same pattern.</p>
 

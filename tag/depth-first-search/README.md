@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1740 | [Find Distance in a Binary Tree](../../problems/find-distance-in-a-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
+| 1730 | [Shortest Path to Get Food](../../problems/shortest-path-to-get-food) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1722 | [执行交换操作后的最小汉明距离](../../problems/minimize-hamming-distance-after-swap-operations) | [[贪心算法](../greedy/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
 | 1676 | [二叉树的最近公共祖先 IV](../../problems/lowest-common-ancestor-of-a-binary-tree-iv) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1666 | [改变二叉树的根节点](../../problems/change-the-root-of-a-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
@@ -121,7 +123,7 @@
 | 394 | [字符串解码](../../problems/decode-string) | [[栈](../stack/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 366 | [寻找二叉树的叶子节点](../../problems/find-leaves-of-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 364 | [加权嵌套序列和 II](../../problems/nested-list-weight-sum-ii) 🔒 | [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
-| 339 | [嵌套列表权重和](../../problems/nested-list-weight-sum) 🔒 | [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 339 | [嵌套列表权重和](../../problems/nested-list-weight-sum) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
 | 337 | [打家劫舍 III](../../problems/house-robber-iii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 332 | [重新安排行程](../../problems/reconstruct-itinerary) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 329 | [矩阵中的最长递增路径](../../problems/longest-increasing-path-in-a-matrix) | [[深度优先搜索](../depth-first-search/README.md)] [[拓扑排序](../topological-sort/README.md)] [[记忆化](../memoization/README.md)]  | Hard |
@@ -130,6 +132,7 @@
 | 301 | [删除无效的括号](../../problems/remove-invalid-parentheses) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 261 | [以图判树](../../problems/graph-valid-tree) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
 | 257 | [二叉树的所有路径](../../problems/binary-tree-paths) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 211 | [添加与搜索单词 - 数据结构设计](../../problems/design-add-and-search-words-data-structure) | [[深度优先搜索](../depth-first-search/README.md)] [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 210 | [课程表 II](../../problems/course-schedule-ii) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Medium |
 | 207 | [课程表](../../problems/course-schedule) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Medium |
 | 200 | [岛屿数量](../../problems/number-of-islands) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |

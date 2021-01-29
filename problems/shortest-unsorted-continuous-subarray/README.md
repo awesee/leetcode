@@ -13,7 +13,7 @@
 
 <p>Given an integer array <code>nums</code>, you need to find one <b>continuous subarray</b> that if you only sort this subarray in ascending order, then the whole array will be sorted in ascending order.</p>
 
-<p>Return&nbsp;<em>the shortest such subarray and output its length</em>.</p>
+<p>Return <em>the shortest such subarray and output its length</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -45,6 +45,9 @@
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>-10<sup>5</sup> &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
+
+<p>&nbsp;</p>
+<strong>Follow up:</strong> Can you solve it in <code>O(n)</code> time complexity?
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

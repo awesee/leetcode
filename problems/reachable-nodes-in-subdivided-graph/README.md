@@ -11,58 +11,53 @@
 
 ## [882. Reachable Nodes In Subdivided Graph (Hard)](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph "细分图中的可到达结点")
 
-<p>Starting with an&nbsp;<strong>undirected</strong> graph (the &quot;original graph&quot;) with nodes from <code>0</code> to <code>N-1</code>, subdivisions are made to some of the edges.</p>
+<p>You are given an undirected graph (the <strong>&quot;original graph&quot;</strong>) with <code>n</code> nodes labeled from <code>0</code> to <code>n - 1</code>, subdivisions are made to some of the edges.</p>
 
-<p>The graph is given as follows: <code>edges[k]</code> is a list of integer pairs <code>(i, j, n)</code> such that <code>(i, j)</code> is an edge of the original graph,</p>
+<p>The graph is given as an array of <code>edges</code> where <code>edges[i] = [u<sub>i</sub>, v<sub>i</sub>, cnt<sub>i</sub>]</code> indicates that there is an edge between nodes <code>u<sub>i</sub></code> and <code>v<sub>i</sub></code> in the original graph, and <code>cnt<sub>i</sub></code> is the total number of new nodes on that edge.</p>
 
-<p>and <code>n</code> is the total number of <strong>new</strong> nodes on that edge.&nbsp;</p>
+<p>Then, the edge <code>[u<sub>i</sub>, v<sub>i</sub>]</code> is deleted from the original graph, and <code>cnt<sub>i</sub></code> new nodes <code>(x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>cnt<sub>i</sub></sub>)</code> are added to the original graph, and <code>cnt<sub>i</sub> + 1</code> new edges <code>(u<sub>i</sub>, x<sub>1</sub>), (x<sub>1</sub>, x<sub>2</sub>), (x<sub>2</sub>, x<sub>3</sub>), ..., (x<sub>cnt<sub>i</sub> - 1 </sub>, x<sub>cnt<sub>i</sub></sub>), (x<sub>cnt<sub>i</sub></sub>, v<sub>i</sub>)</code> are added to the original graph.</p>
 
-<p>Then, the edge <code>(i, j)</code> is deleted from the original graph,&nbsp;<code>n</code>&nbsp;new nodes <code>(x_1, x_2, ..., x_n)</code> are added to the original graph,</p>
+<p>Now, you start at node <code>0</code> from the original graph, and in each move, you travel along one edge.</p>
 
-<p>and <code>n+1</code> new&nbsp;edges <code>(i, x_1), (x_1, x_2), (x_2, x_3), ..., (x_{n-1}, x_n), (x_n, j)</code>&nbsp;are added to the original&nbsp;graph.</p>
-
-<p>Now, you start at node <code>0</code>&nbsp;from the original graph, and in each move, you travel along one&nbsp;edge.&nbsp;</p>
-
-<p>Return how many nodes you can reach in at most <code>M</code> moves.</p>
+<p>Return the number of nodes you can reach in at most <code>maxMoves</code> moves.</p>
 
 <p>&nbsp;</p>
-
 <p><strong>Example 1:</strong></p>
-
+<img alt="" src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/08/01/origfinal.png" style="width: 600px; height: 247px;" />
 <pre>
-<strong>Input: </strong><code>edges </code>= <span id="example-input-1-1">[[0,1,10],[0,2,1],[1,2,2]]</span>, M = <span id="example-input-1-2">6</span>, N = <span id="example-input-1-3">3</span>
-<strong>Output: </strong><span id="example-output-1">13</span>
-<strong>Explanation: </strong>
-The nodes that are reachable in the final graph after M = 6 moves are indicated below.
-<span><img alt="" src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/08/01/origfinal.png" style="width: 487px; height: 200px;" /></span>
+<strong>Input:</strong> edges = [[0,1,10],[0,2,1],[1,2,2]], maxMoves = 6, n = 3
+<strong>Output:</strong> 13
+<strong>Explanation:</strong> The nodes that are reachable in the final graph after maxMoves = 6 moves are indicated above.
 </pre>
 
-<div>
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong><code>edges </code>= <span id="example-input-2-1">[[0,1,4],[1,2,6],[0,2,8],[1,3,1]]</span>, M = <span id="example-input-2-2">10</span>, N = <span id="example-input-2-3">4</span>
-<strong>Output: </strong><span id="example-output-2">23</span></pre>
+<strong>Input:</strong> edges = [[0,1,4],[1,2,6],[0,2,8],[1,3,1]], maxMoves = 10, n = 4
+<strong>Output:</strong> 23
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> edges = [[1,2,4],[1,4,5],[1,3,1],[2,3,4],[3,4,5]], maxMoves = 17, n = 5
+<strong>Output:</strong> 1
+<strong>Explanation:</strong> The graph is disconnected, you can only reach node 0
+</pre>
 
 <p>&nbsp;</p>
-</div>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
-	<li><code>0 &lt;= edges.length &lt;= 10000</code></li>
-	<li><code>0 &lt;= edges[i][0] &lt;&nbsp;edges[i][1] &lt; N</code></li>
-	<li>There does not exist any&nbsp;<code>i != j</code> for which <code>edges[i][0] == edges[j][0]</code> and <code>edges[i][1] == edges[j][1]</code>.</li>
-	<li>The original graph&nbsp;has no parallel edges.</li>
-	<li><code>0 &lt;= edges[i][2] &lt;= 10000</code></li>
-	<li><code>0 &lt;= M &lt;= 10^9</code></li>
-	<li><code><font face="monospace">1 &lt;= N &lt;= 3000</font></code></li>
-	<li>A reachable node is a node that can be travelled to&nbsp;using at most&nbsp;M moves starting from&nbsp;node 0.</li>
-</ol>
-
-<div>
-<div>&nbsp;</div>
-</div>
+<ul>
+	<li><code>0 &lt;= edges.length &lt;= min(n * (n - 1) / 2, 10<sup>4</sup>)</code></li>
+	<li><code>edges[i].length == 3</code></li>
+	<li><code>0 &lt;= u<sub>i</sub> &lt;&nbsp;v<sub>i</sub> &lt; n</code></li>
+	<li>There are <strong>no multiple edges</strong> in the graph.</li>
+	<li><code>0 &lt;= cnt<sub>i</sub> &lt;= 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= maxMoves &lt;= 10<sup>9</sup></code></li>
+	<li><code><font face="monospace">1 &lt;= n &lt;= 3000</font></code></li>
+</ul>
 
 ### Related Topics
   [[Heap](../../tag/heap/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1499 | [满足不等式的最大值](../../problems/max-value-of-equation) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
 | 1498 | [满足条件的子序列数目](../../problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | [[排序](../sort/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1456 | [定长子串中元音的最大数目](../../problems/maximum-number-of-vowels-in-a-substring-of-given-length) | [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |

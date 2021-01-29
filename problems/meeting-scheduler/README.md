@@ -47,6 +47,8 @@
 </ul>
 
 ### Related Topics
+  [[Sort](../../tag/sort/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Line Sweep](../../tag/line-sweep/README.md)]
 
 ### Hints

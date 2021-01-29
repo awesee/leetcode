@@ -9,8 +9,12 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1738 | [找出第 K 大的异或坐标值](../../problems/find-kth-largest-xor-coordinate-value) | [[数组](../array/README.md)]  | Medium |
+| 1733 | [需要教语言的最少人数](../../problems/minimum-number-of-people-to-teach) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1732 | [找到最高海拔](../../problems/find-the-highest-altitude) | [[数组](../array/README.md)]  | Easy |
+| 1726 | [同积元组](../../problems/tuple-with-same-product) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1711 | [大餐计数](../../problems/count-good-meals) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
-| 1708 | [Largest Subarray Length K](../../problems/largest-subarray-length-k) 🔒 | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
+| 1708 | [长度为 K 的最大子数组](../../problems/largest-subarray-length-k) 🔒 | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1701 | [平均等待时间](../../problems/average-waiting-time) | [[数组](../array/README.md)]  | Medium |
 | 1700 | [无法吃午餐的学生数量](../../problems/number-of-students-unable-to-eat-lunch) | [[数组](../array/README.md)]  | Easy |
 | 1672 | [最富有客户的资产总量](../../problems/richest-customer-wealth) | [[数组](../array/README.md)]  | Easy |
@@ -62,7 +66,7 @@
 | 1450 | [在既定时间做作业的学生人数](../../problems/number-of-students-doing-homework-at-a-given-time) | [[数组](../array/README.md)]  | Easy |
 | 1442 | [形成两个异或相等数组的三元组数目](../../problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1438 | [绝对差不超过限制的最长连续子数组](../../problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 1437 | [是否所有 1 都至少相隔 k 个元素](../../problems/check-if-all-1s-are-at-least-length-k-places-away) | [[数组](../array/README.md)]  | Medium |
+| 1437 | [是否所有 1 都至少相隔 k 个元素](../../problems/check-if-all-1s-are-at-least-length-k-places-away) | [[数组](../array/README.md)]  | Easy |
 | 1431 | [拥有最多糖果的孩子](../../problems/kids-with-the-greatest-number-of-candies) | [[数组](../array/README.md)]  | Easy |
 | 1428 | [至少有一个 1 的最左端列](../../problems/leftmost-column-with-at-least-a-one) 🔒 | [[数组](../array/README.md)]  | Medium |
 | 1427 | [字符串的左右移](../../problems/perform-string-shifts) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
@@ -118,7 +122,7 @@
 | 1184 | [公交站间的距离](../../problems/distance-between-bus-stops) | [[数组](../array/README.md)]  | Easy |
 | 1177 | [构建回文串检测](../../problems/can-make-palindrome-from-substring) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1176 | [健身计划评估](../../problems/diet-plan-performance) 🔒 | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Easy |
-| 1170 | [比较字符串最小字母出现频次](../../problems/compare-strings-by-frequency-of-the-smallest-character) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1170 | [比较字符串最小字母出现频次](../../problems/compare-strings-by-frequency-of-the-smallest-character) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1169 | [查询无效交易](../../problems/invalid-transactions) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1160 | [拼写单词](../../problems/find-words-that-can-be-formed-by-characters) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 1157 | [子数组中占绝大多数的元素](../../problems/online-majority-element-in-subarray) | [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
@@ -254,7 +258,7 @@
 | 189 | [旋转数组](../../problems/rotate-array) | [[数组](../array/README.md)]  | Medium |
 | 169 | [多数元素](../../problems/majority-element) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Easy |
 | 167 | [两数之和 II - 输入有序数组](../../problems/two-sum-ii-input-array-is-sorted) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
-| 163 | [缺失的区间](../../problems/missing-ranges) 🔒 | [[数组](../array/README.md)]  | Medium |
+| 163 | [缺失的区间](../../problems/missing-ranges) 🔒 | [[数组](../array/README.md)]  | Easy |
 | 162 | [寻找峰值](../../problems/find-peak-element) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 154 | [寻找旋转排序数组中的最小值 II](../../problems/find-minimum-in-rotated-sorted-array-ii) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 153 | [寻找旋转排序数组中的最小值](../../problems/find-minimum-in-rotated-sorted-array) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
@@ -285,14 +289,14 @@
 | 63 | [不同路径 II](../../problems/unique-paths-ii) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 62 | [不同路径](../../problems/unique-paths) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 59 | [螺旋矩阵 II](../../problems/spiral-matrix-ii) | [[数组](../array/README.md)]  | Medium |
-| 57 | [插入区间](../../problems/insert-interval) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Hard |
+| 57 | [插入区间](../../problems/insert-interval) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 56 | [合并区间](../../problems/merge-intervals) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 55 | [跳跃游戏](../../problems/jump-game) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 54 | [螺旋矩阵](../../problems/spiral-matrix) | [[数组](../array/README.md)]  | Medium |
 | 53 | [最大子序和](../../problems/maximum-subarray) | [[数组](../array/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 48 | [旋转图像](../../problems/rotate-image) | [[数组](../array/README.md)]  | Medium |
 | 45 | [跳跃游戏 II](../../problems/jump-game-ii) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Hard |
-| 42 | [接雨水](../../problems/trapping-rain-water) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Hard |
+| 42 | [接雨水](../../problems/trapping-rain-water) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 41 | [缺失的第一个正数](../../problems/first-missing-positive) | [[数组](../array/README.md)]  | Hard |
 | 40 | [组合总和 II](../../problems/combination-sum-ii) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 39 | [组合总和](../../problems/combination-sum) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |

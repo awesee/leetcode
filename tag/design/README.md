@@ -62,7 +62,7 @@
 | 244 | [最短单词距离 II](../../problems/shortest-word-distance-ii) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 232 | [用栈实现队列](../../problems/implement-queue-using-stacks) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
 | 225 | [用队列实现栈](../../problems/implement-stack-using-queues) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
-| 211 | [添加与搜索单词 - 数据结构设计](../../problems/design-add-and-search-words-data-structure) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 211 | [添加与搜索单词 - 数据结构设计](../../problems/design-add-and-search-words-data-structure) | [[深度优先搜索](../depth-first-search/README.md)] [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 208 | [实现 Trie (前缀树)](../../problems/implement-trie-prefix-tree) | [[设计](../design/README.md)] [[字典树](../trie/README.md)]  | Medium |
 | 173 | [二叉搜索树迭代器](../../problems/binary-search-tree-iterator) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
 | 170 | [两数之和 III - 数据结构设计](../../problems/two-sum-iii-data-structure-design) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |

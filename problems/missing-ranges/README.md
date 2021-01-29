@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../maximum-gap "Maximum Gap")
 
-## [163. Missing Ranges (Medium)](https://leetcode.com/problems/missing-ranges "缺失的区间")
+## [163. Missing Ranges (Easy)](https://leetcode.com/problems/missing-ranges "缺失的区间")
 
 <p>Given a sorted integer array <strong><em>nums</em></strong>, where the range of elements are in the <strong>inclusive range</strong><b><strong> </strong>[<i>lower</i>, <i>upper</i>]</b>, return its missing ranges.</p>
 

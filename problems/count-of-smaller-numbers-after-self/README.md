@@ -11,7 +11,7 @@
 
 ## [315. Count of Smaller Numbers After Self (Hard)](https://leetcode.com/problems/count-of-smaller-numbers-after-self "计算右侧小于当前元素的个数")
 
-<p>You are given an integer array <i>nums</i> and you have to return a new <i>counts</i> array. The <i>counts</i> array has the property where <code>counts[i]</code> is the number of smaller elements to the right of <code>nums[i]</code>.</p>
+<p>You are given an integer array <code>nums</code> and you have to return a new <code>counts</code> array. The <code>counts</code> array has the property where <code>counts[i]</code> is the number of smaller elements to the right of <code>nums[i]</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -26,12 +26,26 @@ To the right of 6 there is <b>1</b> smaller element (1).
 To the right of 1 there is <b>0</b> smaller element.
 </pre>
 
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [-1]
+<strong>Output:</strong> [0]
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [-1,-1]
+<strong>Output:</strong> [0,0]
+</pre>
+
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= nums.length &lt;= 10^5</code></li>
-	<li><code>-10^4&nbsp;&lt;= nums[i] &lt;= 10^4</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
 
 ### Related Topics

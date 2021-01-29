@@ -11,8 +11,8 @@
 
 ## [1296. Divide Array in Sets of K Consecutive Numbers (Medium)](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers "划分数组为连续数字的集合")
 
-<p>Given an array of integers&nbsp;<code>nums</code>&nbsp;and a positive integer&nbsp;<code>k</code>, find whether it&#39;s possible to divide this array into&nbsp;sets of <code>k</code> consecutive numbers<br />
-Return&nbsp;<code>True</code>&nbsp;if its possible<strong>&nbsp;</strong>otherwise&nbsp;return&nbsp;<code>False</code>.</p>
+<p>Given an array of integers <code>nums</code> and a positive integer <code>k</code>, find whether it&#39;s possible to divide this array into sets of <code>k</code> consecutive numbers<br />
+Return <code>True</code> if it is possible.<strong> </strong>Otherwise, return <code>False</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -50,11 +50,12 @@ Return&nbsp;<code>True</code>&nbsp;if its possible<strong>&nbsp;</strong>otherwi
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 10^5</code></li>
-	<li><code>1 &lt;= nums[i] &lt;= 10^9</code></li>
-	<li><code>1 &lt;= k &lt;= nums.length</code></li>
+	<li><code>1 &lt;= k &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
-<strong>Note:</strong> This question is the same as&nbsp;846:&nbsp;<a href="https://leetcode.com/problems/hand-of-straights/">https://leetcode.com/problems/hand-of-straights/</a>
+
+<p>&nbsp;</p>
+<strong>Note:</strong> This question is the same as&nbsp;846:&nbsp;<a href="https://leetcode.com/problems/hand-of-straights/" target="_blank">https://leetcode.com/problems/hand-of-straights/</a>
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]

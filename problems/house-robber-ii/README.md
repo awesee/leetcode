@@ -52,7 +52,7 @@ Total amount you can rob = 1 + 3 = 4.
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [House Robber](../house-robber) (Easy)
+  1. [House Robber](../house-robber) (Medium)
   1. [Paint House](../paint-house) (Medium)
   1. [Paint Fence](../paint-fence) (Easy)
   1. [House Robber III](../house-robber-iii) (Medium)

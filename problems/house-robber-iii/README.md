@@ -49,5 +49,5 @@
   [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [House Robber](../house-robber) (Easy)
+  1. [House Robber](../house-robber) (Medium)
   1. [House Robber II](../house-robber-ii) (Medium)

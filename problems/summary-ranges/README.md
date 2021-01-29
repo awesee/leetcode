@@ -81,5 +81,5 @@
   [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Missing Ranges](../missing-ranges) (Medium)
+  1. [Missing Ranges](../missing-ranges) (Easy)
   1. [Data Stream as Disjoint Intervals](../data-stream-as-disjoint-intervals) (Hard)

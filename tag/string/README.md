@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1737 | [满足三条件之一需改变的最少字符数](../../problems/change-minimum-characters-to-satisfy-one-of-three-conditions) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1736 | [替换隐藏数字得到的最晚时间](../../problems/latest-time-by-replacing-hidden-digits) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1704 | [判断字符串的两半是否相似](../../problems/determine-if-string-halves-are-alike) | [[字符串](../string/README.md)]  | Easy |
 | 1698 | [字符串的不同子字符串个数](../../problems/number-of-distinct-substrings-in-a-string) 🔒 | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1694 | [重新格式化电话号码](../../problems/reformat-phone-number) | [[字符串](../string/README.md)]  | Easy |
@@ -83,7 +85,7 @@
 | 1181 | [前后拼接](../../problems/before-and-after-puzzle) 🔒 | [[字符串](../string/README.md)]  | Medium |
 | 1180 | [统计只含单一字母的子串](../../problems/count-substrings-with-only-one-distinct-letter) 🔒 | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1177 | [构建回文串检测](../../problems/can-make-palindrome-from-substring) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 1170 | [比较字符串最小字母出现频次](../../problems/compare-strings-by-frequency-of-the-smallest-character) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1170 | [比较字符串最小字母出现频次](../../problems/compare-strings-by-frequency-of-the-smallest-character) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1169 | [查询无效交易](../../problems/invalid-transactions) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1165 | [单行键盘](../../problems/single-row-keyboard) 🔒 | [[字符串](../string/README.md)]  | Easy |
 | 1163 | [按字典序排在最后的子串](../../problems/last-substring-in-lexicographical-order) | [[字符串](../string/README.md)]  | Hard |

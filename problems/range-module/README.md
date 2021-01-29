@@ -45,7 +45,7 @@
 
 ### Similar Questions
   1. [Merge Intervals](../merge-intervals) (Medium)
-  1. [Insert Interval](../insert-interval) (Hard)
+  1. [Insert Interval](../insert-interval) (Medium)
   1. [Data Stream as Disjoint Intervals](../data-stream-as-disjoint-intervals) (Hard)
 
 ### Hints

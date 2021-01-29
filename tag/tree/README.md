@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1740 | [Find Distance in a Binary Tree](../../problems/find-distance-in-a-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
 | 1719 | [重构一棵树的方案数](../../problems/number-of-ways-to-reconstruct-a-tree) | [[树](../tree/README.md)] [[图](../graph/README.md)]  | Hard |
 | 1676 | [二叉树的最近公共祖先 IV](../../problems/lowest-common-ancestor-of-a-binary-tree-iv) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1666 | [改变二叉树的根节点](../../problems/change-the-root-of-a-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
@@ -83,7 +84,7 @@
 | 685 | [冗余连接 II](../../problems/redundant-connection-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
 | 684 | [冗余连接](../../problems/redundant-connection) | [[树](../tree/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
 | 671 | [二叉树中第二小的节点](../../problems/second-minimum-node-in-a-binary-tree) | [[树](../tree/README.md)]  | Easy |
-| 669 | [修剪二叉搜索树](../../problems/trim-a-binary-search-tree) | [[树](../tree/README.md)]  | Easy |
+| 669 | [修剪二叉搜索树](../../problems/trim-a-binary-search-tree) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 666 | [路径和 IV](../../problems/path-sum-iv) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 663 | [均匀树划分](../../problems/equal-tree-partition) 🔒 | [[树](../tree/README.md)]  | Medium |
 | 662 | [二叉树最大宽度](../../problems/maximum-width-of-binary-tree) | [[树](../tree/README.md)]  | Medium |

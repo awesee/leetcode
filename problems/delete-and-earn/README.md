@@ -55,7 +55,7 @@ Then, delete 3 again to earn 3 points, and 3 again to earn 3 points.
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [House Robber](../house-robber) (Easy)
+  1. [House Robber](../house-robber) (Medium)
 
 ### Hints
 <details>

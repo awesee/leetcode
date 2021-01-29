@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1734 | [解码异或后的排列](../../problems/decode-xored-permutation) | [[位运算](../bit-manipulation/README.md)]  | Medium |
 | 1720 | [解码异或后的数组](../../problems/decode-xored-array) | [[位运算](../bit-manipulation/README.md)]  | Easy |
 | 1707 | [与数组中元素的最大异或值](../../problems/maximum-xor-with-an-element-from-array) | [[位运算](../bit-manipulation/README.md)] [[字典树](../trie/README.md)]  | Hard |
 | 1611 | [使整数变为 0 的最少操作次数](../../problems/minimum-one-bit-operations-to-make-integers-zero) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

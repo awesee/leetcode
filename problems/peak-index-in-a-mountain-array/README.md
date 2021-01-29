@@ -23,7 +23,7 @@
 	</li>
 </ul>
 
-<p>Given an integer array arr that is <strong>guaranteed</strong> to be&nbsp;a mountain, return any&nbsp;<code>i</code>&nbsp;such that&nbsp;<code>arr[0] &lt; arr[1] &lt; ... arr[i - 1] &lt; arr[i] &gt; arr[i + 1] &gt; ... &gt; arr[arr.length - 1]</code>.</p>
+<p>Given an integer array <code>arr</code> that is <strong>guaranteed</strong> to be&nbsp;a mountain, return any&nbsp;<code>i</code>&nbsp;such that&nbsp;<code>arr[0] &lt; arr[1] &lt; ... arr[i - 1] &lt; arr[i] &gt; arr[i + 1] &gt; ... &gt; arr[arr.length - 1]</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -50,6 +50,9 @@
 	<li><code>0 &lt;= arr[i] &lt;= 10<sup>6</sup></code></li>
 	<li><code>arr</code> is <strong>guaranteed</strong> to be a mountain array.</li>
 </ul>
+
+<p>&nbsp;</p>
+<strong>Follow up:</strong> Finding the <code>O(n)</code> is straightforward, could you find an <code>O(log(n))</code> solution?
 
 ### Related Topics
   [[Binary Search](../../tag/binary-search/README.md)]

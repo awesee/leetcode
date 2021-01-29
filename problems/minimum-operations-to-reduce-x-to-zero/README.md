@@ -52,14 +52,15 @@
   [[Greedy](../../tag/greedy/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>
 <summary>Hint 1</summary>
-Think in reverse instead of finding the minimum prefix + suffix find the maximum subarray
+Think in reverse; instead of finding the minimum prefix + suffix, find the maximum subarray.
 </details>
 
 <details>
 <summary>Hint 2</summary>
-to find the maximum subarray a is standard and can be done greedily
+Finding the maximum subarray is standard and can be done greedily.
 </details>

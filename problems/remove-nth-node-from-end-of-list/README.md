@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../valid-parentheses "Valid Parentheses")
 
-## [19. Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list "删除链表的倒数第N个节点")
+## [19. Remove Nth Node From End of List (Medium)](https://leetcode.com/problems/remove-nth-node-from-end-of-list "删除链表的倒数第 N 个结点")
 
 <p>Given the <code>head</code> of a linked list, remove the <code>n<sup>th</sup></code> node from the end of the list and return its head.</p>
 

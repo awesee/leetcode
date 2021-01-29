@@ -11,9 +11,9 @@
 
 ## [78. Subsets (Medium)](https://leetcode.com/problems/subsets "子集")
 
-<p>Given an&nbsp;integer array&nbsp;<code>nums</code>, return <em>all possible subsets (the power set)</em>.</p>
+<p>Given an integer array <code>nums</code> of <strong>unique</strong> elements, return <em>all possible subsets (the power set)</em>.</p>
 
-<p>The solution set must not contain duplicate subsets.</p>
+<p>The solution set <strong>must not</strong> contain duplicate subsets. Return the solution in <strong>any order</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

@@ -130,14 +130,14 @@
 		"TranslatedName": "Ordered Map"
 	},
 	{
-		"Name": "Geometry",
-		"Slug": "geometry",
-		"TranslatedName": "几何"
-	},
-	{
 		"Name": "Queue",
 		"Slug": "queue",
 		"TranslatedName": "队列"
+	},
+	{
+		"Name": "Geometry",
+		"Slug": "geometry",
+		"TranslatedName": "几何"
 	},
 	{
 		"Name": "Minimax",

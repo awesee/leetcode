@@ -9,8 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1739 | [放置盒子](../../problems/building-boxes) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1712 | [将数组分成三个子数组的方案数](../../problems/ways-to-split-array-into-three-subarrays) | [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
-| 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1649 | [通过指令创建有序数组](../../problems/create-sorted-array-through-instructions) | [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Hard |
 | 1642 | [可以到达的最远建筑](../../problems/furthest-building-you-can-reach) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1631 | [最小体力消耗路径](../../problems/path-with-minimum-effort) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
@@ -27,12 +28,13 @@
 | 1300 | [转变数组后最接近目标值的数组和](../../problems/sum-of-mutated-array-closest-to-target) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1292 | [元素和小于等于阈值的正方形的最大边长](../../problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1283 | [使结果不超过阈值的最小除数](../../problems/find-the-smallest-divisor-given-a-threshold) | [[二分查找](../binary-search/README.md)]  | Medium |
-| 1237 | [找出给定方程的正整数解](../../problems/find-positive-integer-solution-for-a-given-equation) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
+| 1237 | [找出给定方程的正整数解](../../problems/find-positive-integer-solution-for-a-given-equation) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1235 | [规划兼职工作](../../problems/maximum-profit-in-job-scheduling) | [[排序](../sort/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1231 | [分享巧克力](../../problems/divide-chocolate) 🔒 | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1201 | [丑数 III](../../problems/ugly-number-iii) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1198 | [找出所有行中最小公共元素](../../problems/find-smallest-common-element-in-all-rows) 🔒 | [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1182 | [与目标颜色间的最短距离](../../problems/shortest-distance-to-target-color) 🔒 | [[二分查找](../binary-search/README.md)]  | Medium |
+| 1170 | [比较字符串最小字母出现频次](../../problems/compare-strings-by-frequency-of-the-smallest-character) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1157 | [子数组中占绝大多数的元素](../../problems/online-majority-element-in-subarray) | [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1150 | [检查一个数是否在数组中占绝大多数](../../problems/check-if-a-number-is-majority-element-in-a-sorted-array) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 1111 | [有效括号的嵌套深度](../../problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

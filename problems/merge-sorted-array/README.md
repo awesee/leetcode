@@ -13,7 +13,7 @@
 
 <p>Given two sorted integer arrays <code>nums1</code> and <code>nums2</code>, merge <code>nums2</code> into <code>nums1</code> as one sorted array.</p>
 
-<p>The number of elements initialized in <code>nums1</code> and <code>nums2</code> are <code>m</code> and <code>n</code> respectively. You may assume that <code>nums1</code> has enough space (size that is&nbsp;equal to <code>m + n</code>) to hold additional elements from <code>nums2</code>.</p>
+<p>The number of elements initialized in <code>nums1</code> and <code>nums2</code> are <code>m</code> and <code>n</code> respectively. You may assume that <code>nums1</code> has a size equal to <code>m + n</code> such that it has enough space to hold additional elements from <code>nums2</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -27,10 +27,10 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= n, m &lt;= 200</code></li>
-	<li><code>1 &lt;= n + m &lt;= 200</code></li>
 	<li><code>nums1.length == m + n</code></li>
 	<li><code>nums2.length == n</code></li>
+	<li><code>0 &lt;= m, n &lt;= 200</code></li>
+	<li><code>1 &lt;= m + n &lt;= 200</code></li>
 	<li><code>-10<sup>9</sup> &lt;= nums1[i], nums2[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
 

@@ -22,7 +22,7 @@
 | 21 | [Recursion](recursion/README.md) | [递归](https://openset.github.io/tags/recursion/) | | 22 | [Sliding Window](sliding-window/README.md) | [Sliding Window](https://openset.github.io/tags/sliding-window/) | 
 | 23 | [Divide and Conquer](divide-and-conquer/README.md) | [分治算法](https://openset.github.io/tags/divide-and-conquer/) | | 24 | [Trie](trie/README.md) | [字典树](https://openset.github.io/tags/trie/) | 
 | 25 | [Segment Tree](segment-tree/README.md) | [线段树](https://openset.github.io/tags/segment-tree/) | | 26 | [Ordered Map](ordered-map/README.md) | [Ordered Map](https://openset.github.io/tags/ordered-map/) | 
-| 27 | [Geometry](geometry/README.md) | [几何](https://openset.github.io/tags/geometry/) | | 28 | [Queue](queue/README.md) | [队列](https://openset.github.io/tags/queue/) | 
+| 27 | [Queue](queue/README.md) | [队列](https://openset.github.io/tags/queue/) | | 28 | [Geometry](geometry/README.md) | [几何](https://openset.github.io/tags/geometry/) | 
 | 29 | [Minimax](minimax/README.md) | [极小化极大](https://openset.github.io/tags/minimax/) | | 30 | [Binary Indexed Tree](binary-indexed-tree/README.md) | [树状数组](https://openset.github.io/tags/binary-indexed-tree/) | 
 | 31 | [Brainteaser](brainteaser/README.md) | [脑筋急转弯](https://openset.github.io/tags/brainteaser/) | | 32 | [Line Sweep](line-sweep/README.md) | [Line Sweep](https://openset.github.io/tags/line-sweep/) | 
 | 33 | [Random](random/README.md) | [Random](https://openset.github.io/tags/random/) | | 34 | [Topological Sort](topological-sort/README.md) | [拓扑排序](https://openset.github.io/tags/topological-sort/) | 
