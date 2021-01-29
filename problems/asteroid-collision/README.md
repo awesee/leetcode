@@ -23,7 +23,7 @@
 <pre>
 <strong>Input:</strong> asteroids = [5,10,-5]
 <strong>Output:</strong> [5,10]
-<b>Explanation:</b> The 10 and -5 collide resulting in 10.  The 5 and 10 never collide.
+<b>Explanation:</b> The 10 and -5 collide resulting in 10. The 5 and 10 never collide.
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -54,7 +54,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= asteroids &lt;= 10<sup>4</sup></code></li>
+	<li><code>2 &lt;= asteroids &lt;= 10<sup>4</sup></code></li>
 	<li><code>-1000 &lt;= asteroids[i] &lt;= 1000</code></li>
 	<li><code>asteroids[i] != 0</code></li>
 </ul>

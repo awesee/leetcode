@@ -55,8 +55,9 @@ Since there is no character, there are no valid ways to decode this since all di
 <p><strong>Example 4:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;1&quot;
-<strong>Output:</strong> 1
+<strong>Input:</strong> s = &quot;06&quot;
+<strong>Output:</strong> 0
+<strong>Explanation:</strong> &quot;06&quot; cannot be mapped to &quot;F&quot; because the zero at the beginning of the string can&#39;t make a valid character.&nbsp;
 </pre>
 
 <p>&nbsp;</p>

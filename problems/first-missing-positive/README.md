@@ -11,9 +11,7 @@
 
 ## [41. First Missing Positive (Hard)](https://leetcode.com/problems/first-missing-positive "缺失的第一个正数")
 
-<p>Given an unsorted integer array <code>nums</code>, find the smallest missing&nbsp;positive integer.</p>
-
-<p><strong>Follow up:</strong>&nbsp;Could you implement an&nbsp;algorithm that runs in <code>O(n)</code> time and uses constant extra space.?</p>
+<p>Given an unsorted integer array <code>nums</code>, find the smallest missing positive integer.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -33,6 +31,9 @@
 	<li><code>0 &lt;= nums.length &lt;= 300</code></li>
 	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> Could you implement an algorithm that runs in <code>O(n)</code> time and uses constant extra space?</p>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

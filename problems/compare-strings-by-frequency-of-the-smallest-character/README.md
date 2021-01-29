@@ -9,11 +9,13 @@
 　　　　　　　　　　　　　　　　
 [Next >](../remove-zero-sum-consecutive-nodes-from-linked-list "Remove Zero Sum Consecutive Nodes from Linked List")
 
-## [1170. Compare Strings by Frequency of the Smallest Character (Easy)](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character "比较字符串最小字母出现频次")
+## [1170. Compare Strings by Frequency of the Smallest Character (Medium)](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character "比较字符串最小字母出现频次")
 
-<p>Let&#39;s define a function <code>f(s)</code> over a non-empty string <code>s</code>, which calculates the frequency of the smallest character in <code>s</code>. For example,&nbsp;if <code>s = &quot;dcce&quot;</code> then <code>f(s) = 2</code> because the smallest character is <code>&quot;c&quot;</code> and its frequency is 2.</p>
+<p>Let the function <code>f(s)</code> be the <strong>frequency of the lexicographically smallest character</strong> in a non-empty string <code>s</code>. For example, if <code>s = &quot;dcce&quot;</code> then <code>f(s) = 2</code> because the lexicographically smallest character is <code>&#39;c&#39;</code>, which has a frequency of 2.</p>
 
-<p>Now, given string arrays <code>queries</code>&nbsp;and <code>words</code>, return an integer array <code>answer</code>, where each <code>answer[i]</code>&nbsp;is the number of words such that <code>f(queries[i])</code>&nbsp;&lt; <code>f(W)</code>, where <code>W</code>&nbsp;is a word in <code>words</code>.</p>
+<p>You are given an array of strings <code>words</code> and another array of query strings <code>queries</code>. For each query <code>queries[i]</code>, count the <strong>number of words</strong> in <code>words</code> such that <code>f(queries[i])</code> &lt; <code>f(W)</code> for each <code>W</code> in <code>words</code>.</p>
+
+<p>Return <em>an integer array </em><code>answer</code><em>, where each </em><code>answer[i]</code><em> is the answer to the </em><code>i<sup>th</sup></code><em> query</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -39,12 +41,13 @@
 	<li><code>1 &lt;= queries.length &lt;= 2000</code></li>
 	<li><code>1 &lt;= words.length &lt;= 2000</code></li>
 	<li><code>1 &lt;= queries[i].length, words[i].length &lt;= 10</code></li>
-	<li><code>queries[i][j]</code>, <code>words[i][j]</code> are English lowercase letters.</li>
+	<li><code>queries[i][j]</code>, <code>words[i][j]</code> consist of lowercase English letters.</li>
 </ul>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

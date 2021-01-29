@@ -11,7 +11,7 @@
 
 ## [329. Longest Increasing Path in a Matrix (Hard)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix "矩阵中的最长递增路径")
 
-<p>Given an <code>m x n</code> <code>matrix</code>, return <em>the length of the longest increasing path in </em><code>matrix</code>.</p>
+<p>Given an <code>m x n</code> integers <code>matrix</code>, return <em>the length of the longest increasing path in </em><code>matrix</code>.</p>
 
 <p>From each cell, you can either move in four directions: left, right, up, or down. You <strong>may not</strong> move <strong>diagonally</strong> or move <strong>outside the boundary</strong> (i.e., wrap-around is not allowed).</p>
 
@@ -25,7 +25,7 @@
 </pre>
 
 <p><strong>Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/01/05/grid2.jpg" style="width: 242px; height: 242px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2021/01/27/tmp-grid.jpg" style="width: 253px; height: 253px;" />
 <pre>
 <strong>Input:</strong> matrix = [[3,4,5],[3,2,6],[2,2,1]]
 <strong>Output:</strong> 4

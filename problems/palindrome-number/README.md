@@ -11,9 +11,9 @@
 
 ## [9. Palindrome Number (Easy)](https://leetcode.com/problems/palindrome-number "回文数")
 
-<p>Determine whether an integer is a palindrome. An integer&nbsp;is&nbsp;a&nbsp;palindrome when it&nbsp;reads the same backward as forward.</p>
+<p>Given an integer <code>x</code>, return <code>true</code> if <code>x</code> is palindrome integer.</p>
 
-<p><strong>Follow up:</strong> Could you solve&nbsp;it without converting the integer to a string?</p>
+<p>An integer is a <strong>palindrome</strong> when it reads the same backward as forward. For example, <code>121</code> is palindrome while <code>123</code> is not.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -52,6 +52,9 @@
 <ul>
 	<li><code>-2<sup>31</sup>&nbsp;&lt;= x &lt;= 2<sup>31</sup>&nbsp;- 1</code></li>
 </ul>
+
+<p>&nbsp;</p>
+<strong>Follow up:</strong> Could you solve it without converting the integer to a string?
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]

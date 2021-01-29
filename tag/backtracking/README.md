@@ -48,12 +48,12 @@
 | 320 | [列举单词的全部缩写](../../problems/generalized-abbreviation) 🔒 | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 306 | [累加数](../../problems/additive-number) | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 294 | [翻转游戏 II](../../problems/flip-game-ii) 🔒 | [[极小化极大](../minimax/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 291 | [单词规律 II](../../problems/word-pattern-ii) 🔒 | [[回溯算法](../backtracking/README.md)]  | Hard |
+| 291 | [单词规律 II](../../problems/word-pattern-ii) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 267 | [回文排列 II](../../problems/palindrome-permutation-ii) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 254 | [因子的组合](../../problems/factor-combinations) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
 | 216 | [组合总和 III](../../problems/combination-sum-iii) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 212 | [单词搜索 II](../../problems/word-search-ii) | [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 211 | [添加与搜索单词 - 数据结构设计](../../problems/design-add-and-search-words-data-structure) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 211 | [添加与搜索单词 - 数据结构设计](../../problems/design-add-and-search-words-data-structure) | [[深度优先搜索](../depth-first-search/README.md)] [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 140 | [单词拆分 II](../../problems/word-break-ii) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 131 | [分割回文串](../../problems/palindrome-partitioning) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 126 | [单词接龙 II](../../problems/word-ladder-ii) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |

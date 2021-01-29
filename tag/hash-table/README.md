@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1726 | [同积元组](../../problems/tuple-with-same-product) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1711 | [大餐计数](../../problems/count-good-meals) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1679 | [K 和数对的最大数目](../../problems/max-number-of-k-sum-pairs) | [[哈希表](../hash-table/README.md)]  | Medium |
 | 1640 | [能否连接形成数组](../../problems/check-array-formation-through-concatenation) | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
@@ -29,6 +30,7 @@
 | 1261 | [在受污染的二叉树中查找元素](../../problems/find-elements-in-a-contaminated-binary-tree) | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1244 | [力扣排行榜](../../problems/design-a-leaderboard) 🔒 | [[排序](../sort/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1224 | [最大相等频率](../../problems/maximum-equal-frequency) | [[哈希表](../hash-table/README.md)]  | Hard |
+| 1218 | [最长定差子序列](../../problems/longest-arithmetic-subsequence-of-given-difference) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1213 | [三个有序数组的交集](../../problems/intersection-of-three-sorted-arrays) 🔒 | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 1207 | [独一无二的出现次数](../../problems/unique-number-of-occurrences) | [[哈希表](../hash-table/README.md)]  | Easy |
 | 1198 | [找出所有行中最小公共元素](../../problems/find-smallest-common-element-in-all-rows) 🔒 | [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

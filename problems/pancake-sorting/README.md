@@ -11,18 +11,18 @@
 
 ## [969. Pancake Sorting (Medium)](https://leetcode.com/problems/pancake-sorting "煎饼排序")
 
-<p>Given an array of integers&nbsp;<code>arr</code>, sort the array by performing a series of <strong>pancake flips</strong>.</p>
+<p>Given an array of integers <code>arr</code>, sort the array by performing a series of <strong>pancake flips</strong>.</p>
 
 <p>In one pancake flip we do the following steps:</p>
 
 <ul>
 	<li>Choose an integer <code>k</code> where <code>1 &lt;= k &lt;= arr.length</code>.</li>
-	<li>Reverse the sub-array <code>arr[1...k]</code>.</li>
+	<li>Reverse the sub-array <code>arr[0...k-1]</code> (<strong>0-indexed</strong>).</li>
 </ul>
 
-<p>For example, if <code>arr = [3,2,1,4]</code> and we performed a pancake flip choosing <code>k = 3</code>, we reverse the sub-array <code>[3,2,1]</code>, so <code>arr = [<strong>1,2,3</strong>,4]</code> after the pancake flip at <code>k = 3</code>.</p>
+<p>For example, if <code>arr = [3,2,1,4]</code> and we performed a pancake flip choosing <code>k = 3</code>, we reverse the sub-array <code>[3,2,1]</code>, so <code>arr = [<u>1</u>,<u>2</u>,<u>3</u>,4]</code> after the pancake flip at <code>k = 3</code>.</p>
 
-<p>Return <em>the <code>k</code>-values corresponding to a sequence of pancake flips that sort <code>arr</code></em>.&nbsp;Any valid answer that sorts the array within <code>10 * arr.length</code> flips will be judged as correct.</p>
+<p>Return <em>an array of the </em><code>k</code><em>-values corresponding to a sequence of pancake flips that sort </em><code>arr</code>. Any valid answer that sorts the array within <code>10 * arr.length</code> flips will be judged as correct.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -33,11 +33,10 @@
 <strong>Explanation: </strong>
 We perform 4 pancake flips, with k values 4, 2, 4, and 3.
 Starting state: arr = [3, 2, 4, 1]
-After 1st flip (k = 4): arr = [<strong>1, 4, 2, 3</strong>]
-After 2nd flip (k = 2): arr = [<strong>4, 1</strong>, 2, 3]
-After 3rd flip (k = 4): arr = [<strong>3, 2, 1, 4</strong>]
-After 4th flip (k = 3): arr = [<strong>1, 2, 3</strong>, 4], which is sorted.
-Notice that we return an array of the chosen k values of the pancake flips.
+After 1st flip (k = 4): arr = [<u>1</u>, <u>4</u>, <u>2</u>, <u>3</u>]
+After 2nd flip (k = 2): arr = [<u>4</u>, <u>1</u>, 2, 3]
+After 3rd flip (k = 4): arr = [<u>3</u>, <u>2</u>, <u>1</u>, <u>4</u>]
+After 4th flip (k = 3): arr = [<u>1</u>, <u>2</u>, <u>3</u>, 4], which is sorted.
 </pre>
 
 <p><strong>Example 2:</strong></p>

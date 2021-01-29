@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit")
 
-## [1437. Check If All 1's Are at Least Length K Places Away (Medium)](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away "是否所有 1 都至少相隔 k 个元素")
+## [1437. Check If All 1's Are at Least Length K Places Away (Easy)](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away "是否所有 1 都至少相隔 k 个元素")
 
 <p>Given an array <code>nums</code> of 0s and 1s and an integer <code>k</code>, return <code>True</code> if all 1&#39;s are at least <code>k</code> places away from each other, otherwise return <code>False</code>.</p>
 
@@ -51,9 +51,9 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 10^5</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= k &lt;= nums.length</code></li>
-	<li><code>nums[i]</code>&nbsp;is&nbsp;<code>0</code>&nbsp;or&nbsp;<code>1</code></li>
+	<li><code>nums[i]</code> is <code>0</code> or <code>1</code></li>
 </ul>
 
 ### Related Topics

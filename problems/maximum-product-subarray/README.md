@@ -34,7 +34,7 @@
 
 ### Similar Questions
   1. [Maximum Subarray](../maximum-subarray) (Easy)
-  1. [House Robber](../house-robber) (Easy)
+  1. [House Robber](../house-robber) (Medium)
   1. [Product of Array Except Self](../product-of-array-except-self) (Medium)
   1. [Maximum Product of Three Numbers](../maximum-product-of-three-numbers) (Easy)
   1. [Subarray Product Less Than K](../subarray-product-less-than-k) (Medium)

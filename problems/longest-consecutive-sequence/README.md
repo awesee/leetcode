@@ -13,8 +13,6 @@
 
 <p>Given an unsorted array of integers <code>nums</code>, return <em>the length of the longest consecutive elements sequence.</em></p>
 
-<p><strong>Follow up:</strong>&nbsp;Could you implement the <code>O(n)</code> solution?&nbsp;</p>
-
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
@@ -38,6 +36,9 @@
 	<li><code>0 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
+
+<p>&nbsp;</p>
+<strong>Follow up:</strong> Could you implement the <code>O(n)</code> solution?
 
 ### Related Topics
   [[Union Find](../../tag/union-find/README.md)]

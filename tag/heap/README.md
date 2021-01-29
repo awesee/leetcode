@@ -11,12 +11,13 @@
 | :-: | - | - | :-: |
 | 1705 | [吃苹果的最大数目](../../problems/maximum-number-of-eaten-apples) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
 | 1675 | [数组的最小偏移量](../../problems/minimize-deviation-in-array) | [[堆](../heap/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Hard |
+| 1673 | [找出最具竞争力的子序列](../../problems/find-the-most-competitive-subsequence) | [[栈](../stack/README.md)] [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[队列](../queue/README.md)]  | Medium |
 | 1642 | [可以到达的最远建筑](../../problems/furthest-building-you-can-reach) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1439 | [有序矩阵中的第 k 个最小数组和](../../problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) | [[堆](../heap/README.md)]  | Hard |
 | 1054 | [距离相等的条形码](../../problems/distant-barcodes) | [[堆](../heap/README.md)] [[排序](../sort/README.md)]  | Medium |
 | 1046 | [最后一块石头的重量](../../problems/last-stone-weight) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Easy |
 | 973 | [最接近原点的 K 个点](../../problems/k-closest-points-to-origin) | [[堆](../heap/README.md)] [[排序](../sort/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Medium |
-| 882 | [细分图中的可到达结点](../../problems/reachable-nodes-in-subdivided-graph) | [[堆](../heap/README.md)]  | Hard |
+| 882 | [细分图中的可到达结点](../../problems/reachable-nodes-in-subdivided-graph) | [[堆](../heap/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 871 | [最低加油次数](../../problems/minimum-number-of-refueling-stops) | [[堆](../heap/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 864 | [获取所有钥匙的最短路径](../../problems/shortest-path-to-get-all-keys) | [[堆](../heap/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 857 | [雇佣 K 名工人的最低成本](../../problems/minimum-cost-to-hire-k-workers) | [[堆](../heap/README.md)]  | Hard |

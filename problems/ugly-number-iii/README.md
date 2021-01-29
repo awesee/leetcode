@@ -11,9 +11,9 @@
 
 ## [1201. Ugly Number III (Medium)](https://leetcode.com/problems/ugly-number-iii "丑数 III")
 
-<p>Write a program to find the&nbsp;<code>n</code>-th ugly number.</p>
+<p>Given four integers <code>n</code>, <code>a</code>, <code>b</code>, and <code>c</code>, return the <code>n<sup>th</sup></code> ugly number.</p>
 
-<p>Ugly numbers are<strong>&nbsp;positive integers</strong>&nbsp;which are divisible by&nbsp;<code>a</code>&nbsp;<strong>or</strong>&nbsp;<code>b</code>&nbsp;<strong>or</strong> <code>c</code>.</p>
+<p>Ugly numbers are <strong>positive integers</strong> that are divisible by <code>a</code>, <code>b</code>, or <code>c</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -50,9 +50,9 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n, a, b, c &lt;= 10^9</code></li>
-	<li><code>1 &lt;= a * b * c &lt;= 10^18</code></li>
-	<li>It&#39;s guaranteed that the result will be in range&nbsp;<code>[1,&nbsp;2 * 10^9]</code></li>
+	<li><code>1 &lt;= n, a, b, c &lt;= 10<sup>9</sup></code></li>
+	<li><code>1 &lt;= a * b * c &lt;= 10<sup>18</sup></code></li>
+	<li>It is guaranteed that the result will be in range <code>[1, 2 * 10<sup>9</sup>]</code>.</li>
 </ul>
 
 ### Related Topics

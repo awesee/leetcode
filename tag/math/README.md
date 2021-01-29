@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1739 | [放置盒子](../../problems/building-boxes) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 1735 | [生成乘积数组的方案数](../../problems/count-ways-to-make-array-with-product) | [[数学](../math/README.md)]  | Hard |
 | 1716 | [计算力扣银行的钱](../../problems/calculate-money-in-leetcode-bank) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1685 | [有序数组中差绝对值之和](../../problems/sum-of-absolute-differences-in-a-sorted-array) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1680 | [连接连续二进制数字](../../problems/concatenation-of-consecutive-binary-numbers) | [[数学](../math/README.md)]  | Medium |
@@ -48,12 +50,12 @@
 | 1253 | [重构 2 行二进制矩阵](../../problems/reconstruct-a-2-row-binary-matrix) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1250 | [检查「好数组」](../../problems/check-if-it-is-a-good-array) | [[数学](../math/README.md)]  | Hard |
 | 1238 | [循环码排列](../../problems/circular-permutation-in-binary-representation) | [[数学](../math/README.md)]  | Medium |
-| 1237 | [找出给定方程的正整数解](../../problems/find-positive-integer-solution-for-a-given-equation) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
+| 1237 | [找出给定方程的正整数解](../../problems/find-positive-integer-solution-for-a-given-equation) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1232 | [缀点成线](../../problems/check-if-it-is-a-straight-line) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1230 | [抛掷硬币](../../problems/toss-strange-coins) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1228 | [等差数列中缺失的数字](../../problems/missing-number-in-arithmetic-progression) 🔒 | [[数学](../math/README.md)]  | Easy |
 | 1227 | [飞机座位分配概率](../../problems/airplane-seat-assignment-probability) | [[脑筋急转弯](../brainteaser/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 1218 | [最长定差子序列](../../problems/longest-arithmetic-subsequence-of-given-difference) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1218 | [最长定差子序列](../../problems/longest-arithmetic-subsequence-of-given-difference) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1217 | [玩筹码](../../problems/minimum-cost-to-move-chips-to-the-same-position) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1201 | [丑数 III](../../problems/ugly-number-iii) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1199 | [建造街区的最短时间](../../problems/minimum-time-to-build-blocks) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

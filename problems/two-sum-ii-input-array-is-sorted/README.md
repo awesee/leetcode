@@ -11,16 +11,11 @@
 
 ## [167. Two Sum II - Input array is sorted (Easy)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted "两数之和 II - 输入有序数组")
 
-<p>Given an array of integers that is already <strong><em>sorted in ascending order</em></strong>, find two numbers such that they add up to a specific target number.</p>
+<p>Given an array of integers <code>numbers</code> that is already <strong><em>sorted in ascending order</em></strong>, find two numbers such that they add up to a specific <code>target</code> number.</p>
 
-<p>The function twoSum should return indices of the two numbers such that they add up to the target, where index1 must be less than index2.</p>
+<p>Return the indices of the two numbers (<strong>1-indexed</strong>) as an integer array <code>answer</code> of size <code>2</code>, where <code>1 &lt;= answer[0] &lt; answer[1] &lt;= numbers.length</code>.</p>
 
-<p><strong>Note:</strong></p>
-
-<ul>
-	<li>Your returned answers (both index1 and index2) are not zero-based.</li>
-	<li>You may assume that each input would have <em>exactly</em> one solution and you may not use the <em>same</em> element twice.</li>
-</ul>
+<p>You may assume that each input would have <strong>exactly one solution</strong> and you <strong>may not</strong> use the same element twice.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -49,10 +44,11 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>2 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
-	<li><code>-1000 &lt;= nums[i] &lt;= 1000</code></li>
-	<li><code>nums</code>&nbsp;is sorted in <strong>increasing order</strong>.</li>
+	<li><code>2 &lt;= numbers.length &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>-1000 &lt;= numbers[i] &lt;= 1000</code></li>
+	<li><code>numbers</code> is sorted in <strong>increasing order</strong>.</li>
 	<li><code>-1000 &lt;= target &lt;= 1000</code></li>
+	<li><strong>Only one valid answer exists.</strong></li>
 </ul>
 
 ### Related Topics

@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../count-the-number-of-consistent-strings "Count the Number of Consistent Strings")
 
-## [1683. Invalid Tweets (Easy)](https://leetcode.com/problems/invalid-tweets "")
+## [1683. Invalid Tweets (Easy)](https://leetcode.com/problems/invalid-tweets "无效的推文")
 
 

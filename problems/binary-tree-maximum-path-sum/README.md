@@ -11,9 +11,11 @@
 
 ## [124. Binary Tree Maximum Path Sum (Hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum "二叉树中的最大路径和")
 
-<p>Given the <code>root</code> of a binary tree, return <em>the maximum path sum</em>.</p>
+<p>A <strong>path</strong> in a binary tree is a sequence of nodes where each pair of adjacent nodes in the sequence has an edge connecting them. A node can only appear in the sequence <strong>at most once</strong>. Note that the path does not need to pass through the root.</p>
 
-<p>For this problem, a path is defined as any node sequence from some starting node to any node in the tree along the parent-child connections. The path must contain <strong>at least one node</strong> and does not need to go through the root.</p>
+<p>The <strong>path sum</strong> of a path is the sum of the node&#39;s values in the path.</p>
+
+<p>Given the <code>root</code> of a binary tree, return <em>the maximum <strong>path sum</strong> of any path</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -21,6 +23,7 @@
 <pre>
 <strong>Input:</strong> root = [1,2,3]
 <strong>Output:</strong> 6
+<strong>Explanation:</strong> The optimal path is 2 -&gt; 1 -&gt; 3 with a path sum of 2 + 1 + 3 = 6.
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -28,6 +31,7 @@
 <pre>
 <strong>Input:</strong> root = [-10,9,20,null,null,15,7]
 <strong>Output:</strong> 42
+<strong>Explanation:</strong> The optimal path is 15 -&gt; 20 -&gt; 7 with a path sum of 15 + 20 + 7 = 42.
 </pre>
 
 <p>&nbsp;</p>

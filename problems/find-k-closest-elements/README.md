@@ -11,7 +11,7 @@
 
 ## [658. Find K Closest Elements (Medium)](https://leetcode.com/problems/find-k-closest-elements "找到 K 个最接近的元素")
 
-<p>Given a <strong>sorted</strong> integer&nbsp;array <code>arr</code>, two integers <code>k</code> and <code>x</code>, return the <code>k</code> closest integers to <code>x</code> in the array. The result should also be sorted in ascending order.</p>
+<p>Given a <strong>sorted</strong> integer array <code>arr</code>, two integers <code>k</code> and <code>x</code>, return the <code>k</code> closest integers to <code>x</code> in the array. The result should also be sorted in ascending order.</p>
 
 <p>An integer <code>a</code> is closer to <code>x</code> than an integer <code>b</code> if:</p>
 
@@ -33,8 +33,9 @@
 
 <ul>
 	<li><code>1 &lt;= k &lt;= arr.length</code></li>
-	<li><code>1 &lt;= arr.length&nbsp;&lt;= 10<sup>4</sup></code></li>
-	<li>Absolute value of elements in the array and <code>x</code> will not exceed <code>10<sup>4</sup></code></li>
+	<li><code>1 &lt;= arr.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>arr</code> is sorted in <strong>ascending</strong> order.</li>
+	<li><code>-10<sup>4</sup> &lt;= arr[i], x &lt;= 10<sup>4</sup></code></li>
 </ul>
 
 ### Related Topics

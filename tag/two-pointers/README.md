@@ -13,12 +13,13 @@
 | 1711 | [大餐计数](../../problems/count-good-meals) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1695 | [删除子数组的最大得分](../../problems/maximum-erasure-value) | [[双指针](../two-pointers/README.md)]  | Medium |
 | 1687 | [从仓库到码头运输箱子](../../problems/delivering-boxes-from-storage-to-ports) | [[线段树](../segment-tree/README.md)] [[双指针](../two-pointers/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1616 | [分割两个字符串得到回文串](../../problems/split-two-strings-to-make-palindrome) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1610 | [可见点的最大数目](../../problems/maximum-number-of-visible-points) | [[几何](../geometry/README.md)] [[双指针](../two-pointers/README.md)]  | Hard |
 | 1570 | [两个稀疏向量的点积](../../problems/dot-product-of-two-sparse-vectors) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1248 | [统计「优美子数组」](../../problems/count-number-of-nice-subarrays) | [[双指针](../two-pointers/README.md)]  | Medium |
 | 1234 | [替换子串得到平衡字符串](../../problems/replace-the-substring-for-balanced-string) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1229 | [安排会议日程](../../problems/meeting-scheduler) 🔒 | [[排序](../sort/README.md)] [[双指针](../two-pointers/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
 | 1213 | [三个有序数组的交集](../../problems/intersection-of-three-sorted-arrays) 🔒 | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 1099 | [小于 K 的两数之和](../../problems/two-sum-less-than-k) 🔒 | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 1093 | [大样本统计](../../problems/statistics-from-a-large-sample) | [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
@@ -69,12 +70,12 @@
 | 76 | [最小覆盖子串](../../problems/minimum-window-substring) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
 | 75 | [颜色分类](../../problems/sort-colors) | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 61 | [旋转链表](../../problems/rotate-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
-| 42 | [接雨水](../../problems/trapping-rain-water) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Hard |
+| 42 | [接雨水](../../problems/trapping-rain-water) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 30 | [串联所有单词的子串](../../problems/substring-with-concatenation-of-all-words) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 28 | [实现 strStr()](../../problems/implement-strstr) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 27 | [移除元素](../../problems/remove-element) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 26 | [删除排序数组中的重复项](../../problems/remove-duplicates-from-sorted-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
-| 19 | [删除链表的倒数第N个节点](../../problems/remove-nth-node-from-end-of-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 19 | [删除链表的倒数第 N 个结点](../../problems/remove-nth-node-from-end-of-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 18 | [四数之和](../../problems/4sum) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 16 | [最接近的三数之和](../../problems/3sum-closest) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 15 | [三数之和](../../problems/3sum) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |

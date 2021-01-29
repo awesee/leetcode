@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1728 | [猫和老鼠 II](../../problems/cat-and-mouse-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1724 | [Checking Existence of Edge Length Limited Paths II](../../problems/checking-existence-of-edge-length-limited-paths-ii) 🔒 | [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1706 | [球会落何处](../../problems/where-will-the-ball-fall) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1692 | [计算分配糖果的不同方式](../../problems/count-ways-to-distribute-candies) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1691 | [堆叠长方体的最大高度](../../problems/maximum-height-by-stacking-cuboids) | [[排序](../sort/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -87,7 +89,7 @@
 | 1227 | [飞机座位分配概率](../../problems/airplane-seat-assignment-probability) | [[脑筋急转弯](../brainteaser/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1223 | [掷骰子模拟](../../problems/dice-roll-simulation) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1220 | [统计元音字母序列的数目](../../problems/count-vowels-permutation) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 1218 | [最长定差子序列](../../problems/longest-arithmetic-subsequence-of-given-difference) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1218 | [最长定差子序列](../../problems/longest-arithmetic-subsequence-of-given-difference) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1216 | [验证回文字符串 III](../../problems/valid-palindrome-iii) 🔒 | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1199 | [建造街区的最短时间](../../problems/minimum-time-to-build-blocks) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1191 | [K 次串联后最大子数组之和](../../problems/k-concatenation-maximum-sum) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
@@ -221,7 +223,7 @@
 | 256 | [粉刷房子](../../problems/paint-house) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 221 | [最大正方形](../../problems/maximal-square) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 213 | [打家劫舍 II](../../problems/house-robber-ii) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 198 | [打家劫舍](../../problems/house-robber) | [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 198 | [打家劫舍](../../problems/house-robber) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 188 | [买卖股票的最佳时机 IV](../../problems/best-time-to-buy-and-sell-stock-iv) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 174 | [地下城游戏](../../problems/dungeon-game) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 152 | [乘积最大子数组](../../problems/maximum-product-subarray) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
@@ -246,6 +248,7 @@
 | 62 | [不同路径](../../problems/unique-paths) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 53 | [最大子序和](../../problems/maximum-subarray) | [[数组](../array/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 44 | [通配符匹配](../../problems/wildcard-matching) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 42 | [接雨水](../../problems/trapping-rain-water) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 32 | [最长有效括号](../../problems/longest-valid-parentheses) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 10 | [正则表达式匹配](../../problems/regular-expression-matching) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 5 | [最长回文子串](../../problems/longest-palindromic-substring) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

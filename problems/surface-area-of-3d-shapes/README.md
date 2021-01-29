@@ -11,11 +11,13 @@
 
 ## [892. Surface Area of 3D Shapes (Easy)](https://leetcode.com/problems/surface-area-of-3d-shapes "三维形体的表面积")
 
-<p>You are given an <code>n&nbsp;x&nbsp;n</code>&nbsp;<code>grid</code>&nbsp;where we&nbsp;can place some&nbsp;<code>1 x 1 x&nbsp;1</code>&nbsp;cubes.</p>
+<p>You are given an <code>n x n</code> <code>grid</code> where you have placed some <code>1 x 1 x 1</code> cubes. Each value <code>v = grid[i][j]</code> represents a tower of <code>v</code> cubes placed on top of cell <code>(i, j)</code>.</p>
 
-<p>Each value&nbsp;<code>v = grid[i][j]</code>&nbsp;represents a tower of&nbsp;<code>v</code>&nbsp;cubes placed on top of the <code>grid</code> cell&nbsp;<code>(i, j)</code>.</p>
+<p>After placing these cubes, you have decided to glue any directly adjacent cubes to each other, forming several irregular 3D shapes.</p>
 
 <p>Return <em>the total surface area of the resulting shapes</em>.</p>
+
+<p><strong>Note:</strong> The bottom face of each shape counts toward its surface area.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

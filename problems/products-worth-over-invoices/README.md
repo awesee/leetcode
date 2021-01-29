@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../goal-parser-interpretation "Goal Parser Interpretation")
 
-## [1677. Product's Worth Over Invoices (Easy)](https://leetcode.com/problems/products-worth-over-invoices "")
+## [1677. Product's Worth Over Invoices (Easy)](https://leetcode.com/problems/products-worth-over-invoices "发票中的产品金额")
 
 

@@ -9,12 +9,17 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1737 | [满足三条件之一需改变的最少字符数](../../problems/change-minimum-characters-to-satisfy-one-of-three-conditions) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1736 | [替换隐藏数字得到的最晚时间](../../problems/latest-time-by-replacing-hidden-digits) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1733 | [需要教语言的最少人数](../../problems/minimum-number-of-people-to-teach) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1727 | [重新排列后的最大子矩阵](../../problems/largest-submatrix-with-rearrangements) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
+| 1725 | [可以形成最大正方形的矩形数目](../../problems/number-of-rectangles-that-can-form-the-largest-square) | [[贪心算法](../greedy/README.md)]  | Easy |
 | 1722 | [执行交换操作后的最小汉明距离](../../problems/minimize-hamming-distance-after-swap-operations) | [[贪心算法](../greedy/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
 | 1717 | [删除子字符串的最大得分](../../problems/maximum-score-from-removing-substrings) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1716 | [计算力扣银行的钱](../../problems/calculate-money-in-leetcode-bank) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1713 | [得到子序列的最少操作次数](../../problems/minimum-operations-to-make-a-subsequence) | [[贪心算法](../greedy/README.md)]  | Hard |
 | 1710 | [卡车上的最大单元数](../../problems/maximum-units-on-a-truck) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Easy |
-| 1708 | [Largest Subarray Length K](../../problems/largest-subarray-length-k) 🔒 | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
+| 1708 | [长度为 K 的最大子数组](../../problems/largest-subarray-length-k) 🔒 | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1705 | [吃苹果的最大数目](../../problems/maximum-number-of-eaten-apples) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
 | 1702 | [修改后的最大二进制字符串](../../problems/maximum-binary-string-after-change) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1689 | [十-二进制数的最少数目](../../problems/partitioning-into-minimum-number-of-deci-binary-numbers) | [[贪心算法](../greedy/README.md)]  | Medium |
@@ -22,11 +27,11 @@
 | 1685 | [有序数组中差绝对值之和](../../problems/sum-of-absolute-differences-in-a-sorted-array) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1681 | [最小不兼容性](../../problems/minimum-incompatibility) | [[贪心算法](../greedy/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1674 | [使数组互补的最少操作次数](../../problems/minimum-moves-to-make-array-complementary) | [[贪心算法](../greedy/README.md)]  | Medium |
-| 1673 | [找出最具竞争力的子序列](../../problems/find-the-most-competitive-subsequence) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
+| 1673 | [找出最具竞争力的子序列](../../problems/find-the-most-competitive-subsequence) | [[栈](../stack/README.md)] [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[队列](../queue/README.md)]  | Medium |
 | 1665 | [完成所有任务的最少初始能量](../../problems/minimum-initial-energy-to-finish-tasks) | [[贪心算法](../greedy/README.md)]  | Hard |
 | 1664 | [生成平衡数组的方案数](../../problems/ways-to-make-a-fair-array) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1663 | [具有给定数值的最小字符串](../../problems/smallest-string-with-a-given-numeric-value) | [[贪心算法](../greedy/README.md)]  | Medium |
-| 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1657 | [确定两个字符串是否接近](../../problems/determine-if-two-strings-are-close) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1653 | [使字符串平衡的最少删除次数](../../problems/minimum-deletions-to-make-string-balanced) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1648 | [销售价值减少的颜色球](../../problems/sell-diminishing-valued-colored-balls) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Medium |

@@ -7,7 +7,7 @@
 
 [< Previous](../minimize-hamming-distance-after-swap-operations "Minimize Hamming Distance After Swap Operations")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../checking-existence-of-edge-length-limited-paths-ii "Checking Existence of Edge Length Limited Paths II")
 
 ## [1723. Find Minimum Time to Finish All Jobs (Hard)](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs "完成所有工作的最短时间")
 

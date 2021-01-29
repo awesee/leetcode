@@ -61,4 +61,4 @@
 
 ### Similar Questions
   1. [Isomorphic Strings](../isomorphic-strings) (Easy)
-  1. [Word Pattern II](../word-pattern-ii) (Hard)
+  1. [Word Pattern II](../word-pattern-ii) (Medium)
