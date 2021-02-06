@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../shortest-path-to-get-food "Shortest Path to Get Food")
 
-## [1729. Find Followers Count (Easy)](https://leetcode.com/problems/find-followers-count "")
+## [1729. Find Followers Count (Easy)](https://leetcode.com/problems/find-followers-count "求关注者的数量")
 
 

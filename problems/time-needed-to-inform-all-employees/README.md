@@ -11,13 +11,13 @@
 
 ## [1376. Time Needed to Inform All Employees (Medium)](https://leetcode.com/problems/time-needed-to-inform-all-employees "通知所有员工所需的时间")
 
-<p>A company has <code>n</code> employees with a unique ID for each employee from <code>0</code> to <code>n - 1</code>. The head of the company has is the one with <code>headID</code>.</p>
+<p>A company has <code>n</code> employees with a unique ID for each employee from <code>0</code> to <code>n - 1</code>. The head of the company is the one with <code>headID</code>.</p>
 
-<p>Each employee has one&nbsp;direct manager given in the <code>manager</code> array where <code>manager[i]</code> is the direct manager of the <code>i-th</code> employee,&nbsp;<code>manager[headID] = -1</code>. Also it&#39;s guaranteed that the subordination relationships have a tree structure.</p>
+<p>Each employee has one direct manager given in the <code>manager</code> array where <code>manager[i]</code> is the direct manager of the <code>i-th</code> employee, <code>manager[headID] = -1</code>. Also, it is guaranteed that the subordination relationships have a tree structure.</p>
 
-<p>The head of the company wants to inform all the employees of the company of an urgent piece of news. He will inform his direct subordinates and they will inform their subordinates and so on until all employees know about the urgent news.</p>
+<p>The head of the company wants to inform all the company employees of an urgent piece of news. He will inform his direct subordinates, and they will inform their subordinates, and so on until all employees know about the urgent news.</p>
 
-<p>The <code>i-th</code> employee needs <code>informTime[i]</code> minutes to inform all of his direct subordinates (i.e After informTime[i] minutes, all his direct subordinates can start spreading the news).</p>
+<p>The <code>i-th</code> employee needs <code>informTime[i]</code> minutes to inform all of his direct subordinates (i.e., After informTime[i] minutes, all his direct subordinates can start spreading the news).</p>
 
 <p>Return <em>the number of minutes</em> needed to inform all the employees about the urgent news.</p>
 
@@ -74,14 +74,14 @@ The third minute they will inform the rest of employees.
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n &lt;= 10^5</code></li>
+	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= headID &lt; n</code></li>
 	<li><code>manager.length == n</code></li>
 	<li><code>0 &lt;= manager[i] &lt; n</code></li>
 	<li><code>manager[headID] == -1</code></li>
-	<li><code>informTime.length&nbsp;== n</code></li>
+	<li><code>informTime.length == n</code></li>
 	<li><code>0 &lt;= informTime[i] &lt;= 1000</code></li>
-	<li><code>informTime[i] == 0</code> if employee <code>i</code> has&nbsp;no subordinates.</li>
+	<li><code>informTime[i] == 0</code> if employee <code>i</code> has no subordinates.</li>
 	<li>It is <strong>guaranteed</strong> that all the employees can be informed.</li>
 </ul>
 

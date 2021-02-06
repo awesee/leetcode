@@ -11,11 +11,20 @@
 
 ## [71. Simplify Path (Medium)](https://leetcode.com/problems/simplify-path "简化路径")
 
-<p>Given an <strong>absolute path</strong> for a file (Unix-style), simplify it. Or in other words, convert it to the <strong>canonical path</strong>.</p>
+<p>Given a string <code>path</code>, which is an <strong>absolute path</strong> (starting with a slash <code>&#39;/&#39;</code>) to a file or directory in a Unix-style file system, convert it to the simplified <strong>canonical path</strong>.</p>
 
-<p>In a UNIX-style file system, a period <code>&#39;.&#39;</code>&nbsp;refers to the current directory. Furthermore, a double period <code>&#39;..&#39;</code>&nbsp;moves the directory up a level.</p>
+<p>In a Unix-style file system, a period <code>&#39;.&#39;</code> refers to the current directory, a double period <code>&#39;..&#39;</code> refers to the directory up a level, and any multiple consecutive slashes (i.e. <code>&#39;//&#39;</code>) are treated as a single slash <code>&#39;/&#39;</code>. For this problem, any other format of periods such as <code>&#39;...&#39;</code> are treated as file/directory names.</p>
 
-<p>Note that the returned canonical path must always begin&nbsp;with a slash <code>&#39;/&#39;</code>, and there must be only a single slash <code>&#39;/&#39;</code>&nbsp;between two directory names.&nbsp;The last directory name (if it exists) <b>must not</b>&nbsp;end with a trailing <code>&#39;/&#39;</code>. Also, the canonical path must be the <strong>shortest</strong> string&nbsp;representing the absolute path.</p>
+<p>The <strong>canonical path</strong> should have the following format:</p>
+
+<ul>
+	<li>The path starts with a single slash <code>&#39;/&#39;</code>.</li>
+	<li>Any two directories are separated by a single slash <code>&#39;/&#39;</code>.</li>
+	<li>The path does not end with a trailing <code>&#39;/&#39;</code>.</li>
+	<li>The path only contains the directories on the path from the root directory to the target file or directory (i.e., no period <code>&#39;.&#39;</code> or double period <code>&#39;..&#39;</code>)</li>
+</ul>
+
+<p>Return <em>the simplified <strong>canonical path</strong></em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -55,7 +64,7 @@
 <ul>
 	<li><code>1 &lt;= path.length &lt;= 3000</code></li>
 	<li><code>path</code> consists of English letters, digits, period <code>&#39;.&#39;</code>, slash <code>&#39;/&#39;</code> or <code>&#39;_&#39;</code>.</li>
-	<li><code>path</code> is a valid Unix path.</li>
+	<li><code>path</code> is a valid absolute Unix path.</li>
 </ul>
 
 ### Related Topics

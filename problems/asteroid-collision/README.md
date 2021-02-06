@@ -54,7 +54,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>2 &lt;= asteroids &lt;= 10<sup>4</sup></code></li>
+	<li><code>2 &lt;= asteroids.length&nbsp;&lt;= 10<sup>4</sup></code></li>
 	<li><code>-1000 &lt;= asteroids[i] &lt;= 1000</code></li>
 	<li><code>asteroids[i] != 0</code></li>
 </ul>

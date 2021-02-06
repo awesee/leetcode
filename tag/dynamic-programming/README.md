@@ -9,8 +9,10 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1746 | [Maximum Subarray Sum After One Operation](../../problems/maximum-subarray-sum-after-one-operation) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1745 | [回文串分割 IV](../../problems/palindrome-partitioning-iv) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1728 | [猫和老鼠 II](../../problems/cat-and-mouse-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 1724 | [Checking Existence of Edge Length Limited Paths II](../../problems/checking-existence-of-edge-length-limited-paths-ii) 🔒 | [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1724 | [检查边长度限制的路径是否存在 II](../../problems/checking-existence-of-edge-length-limited-paths-ii) 🔒 | [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1706 | [球会落何处](../../problems/where-will-the-ball-fall) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1692 | [计算分配糖果的不同方式](../../problems/count-ways-to-distribute-candies) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1691 | [堆叠长方体的最大高度](../../problems/maximum-height-by-stacking-cuboids) | [[排序](../sort/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -45,7 +47,7 @@
 | 1483 | [树节点的第 K 个祖先](../../problems/kth-ancestor-of-a-tree-node) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1478 | [安排邮筒](../../problems/allocate-mailboxes) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1477 | [找两个和为目标值且不重叠的子数组](../../problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 1473 | [给房子涂色 III](../../problems/paint-house-iii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1473 | [粉刷房子 III](../../problems/paint-house-iii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1463 | [摘樱桃 II](../../problems/cherry-pickup-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1458 | [两个子序列的最大点积](../../problems/max-dot-product-of-two-subsequences) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1449 | [数位成本和为目标值的最大数字](../../problems/form-largest-integer-with-digits-that-add-up-to-target) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -252,4 +254,3 @@
 | 32 | [最长有效括号](../../problems/longest-valid-parentheses) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 10 | [正则表达式匹配](../../problems/regular-expression-matching) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 5 | [最长回文子串](../../problems/longest-palindromic-substring) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 1 | [01 背包问题](../../problems/07MoiZ) | [[动态规划](../dynamic-programming/README.md)]  | Easy |

@@ -11,62 +11,49 @@
 
 ## [971. Flip Binary Tree To Match Preorder Traversal (Medium)](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal "翻转二叉树以匹配先序遍历")
 
-<p>Given a binary tree with <code>N</code> nodes, each node has a different value from&nbsp;<code>{1, ..., N}</code>.</p>
+<p>You are given the <code>root</code> of a binary tree with <code>n</code> nodes, each node has a different value from <code>1</code> to <code>n</code>. You are also given a sequence of <code>n</code> values <code>voyage</code>, reported by a preorder traversal starting from the <code>root</code>.</p>
 
-<p>A node in this binary tree can be <em>flipped</em>&nbsp;by swapping the left child and the right child of that node.</p>
+<p>A node in this binary tree can be <strong>flipped</strong> by swapping its left child and its right child.</p>
 
-<p>Consider the sequence of&nbsp;<code>N</code> values reported by a preorder traversal starting from the root.&nbsp; Call such a sequence of <code>N</code> values the&nbsp;<em>voyage</em>&nbsp;of the tree.</p>
+<p>Flip <strong>the least number of nodes</strong> in the tree so that the preorder traversal of the tree matches <code>voyage</code>.</p>
 
-<p>(Recall that a <em>preorder traversal</em>&nbsp;of a node means we report the current node&#39;s value, then preorder-traverse the left child, then preorder-traverse the right child.)</p>
+<p>Return <em>a list of the values of all nodes flipped</em>. You may return the answer in <strong>any order</strong>. If we cannot <strong>flip</strong> the nodes in the tree to obtain <code>voyage</code>, return the list <code>[-1]</code>.</p>
 
-<p>Our goal is to flip the <strong>least number</strong> of nodes in the tree so that the voyage of the tree matches the <code>voyage</code> we are given.</p>
-
-<p>If we can do so, then return a&nbsp;list&nbsp;of the values of all nodes flipped.&nbsp; You may return the answer in any order.</p>
-
-<p>If we cannot do so, then return the list <code>[-1]</code>.</p>
+<p>The <strong>preorder traversal</strong> of a node means we report the current node&#39;s value, then preorder-traverse the left child, then preorder-traverse the right child.</p>
 
 <p>&nbsp;</p>
-
-<div>
 <p><strong>Example 1:</strong></p>
-
-<p><strong><img alt="" src="https://assets.leetcode.com/uploads/2019/01/02/1219-01.png" style="width: 88px; height: 120px;" /></strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2019/01/02/1219-01.png" style="width: 150px; height: 205px;" />
 <pre>
-<strong>Input: </strong>root = <span id="example-input-1-1">[1,2]</span>, voyage = <span id="example-input-1-2">[2,1]</span>
-<strong>Output: </strong><span id="example-output-1">[-1]</span>
+<strong>Input:</strong> root = [1,2], voyage = [2,1]
+<strong>Output:</strong> [-1]
 </pre>
 
-<div>
 <p><strong>Example 2:</strong></p>
-
-<p><strong><img alt="" src="https://assets.leetcode.com/uploads/2019/01/02/1219-02.png" style="width: 127px; height: 120px;" /></strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2019/01/02/1219-02.png" style="width: 150px; height: 142px;" />
 <pre>
-<strong>Input: </strong>root = <span id="example-input-2-1">[1,2,3]</span>, voyage = <span id="example-input-2-2">[1,3,2]</span>
-<strong>Output: </strong><span id="example-output-2">[1]</span>
+<strong>Input:</strong> root = [1,2,3], voyage = [1,3,2]
+<strong>Output:</strong> [1]
 </pre>
 
-<div>
 <p><strong>Example 3:</strong></p>
-
-<p><strong><img alt="" src="https://assets.leetcode.com/uploads/2019/01/02/1219-02.png" style="width: 127px; height: 120px;" /></strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2019/01/02/1219-02.png" style="width: 150px; height: 142px;" />
 <pre>
-<strong>Input: </strong>root = <span id="example-input-3-1">[1,2,3]</span>, voyage = <span id="example-input-3-2">[1,2,3]</span>
-<strong>Output: </strong><span id="example-output-3">[]</span>
+<strong>Input:</strong> root = [1,2,3], voyage = [1,2,3]
+<strong>Output:</strong> []
 </pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong><span>Note:</span></strong></p>
-
-<ol>
-	<li><code>1 &lt;= N &lt;= 100</code></li>
-</ol>
-</div>
-</div>
-</div>
+<ul>
+	<li>The number of nodes in the tree is <code>n</code>.</li>
+	<li><code>n == voyage.length</code></li>
+	<li><code>1 &lt;= n &lt;= 100</code></li>
+	<li><code>1 &lt;= Node.val, voyage[i] &lt;= n</code></li>
+	<li>All the values of the tree are <strong>unique</strong>.</li>
+	<li>All the values of <code>voyage</code> are <strong>unique</strong>.</li>
+</ul>
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]

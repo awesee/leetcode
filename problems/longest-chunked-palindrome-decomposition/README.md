@@ -11,13 +11,15 @@
 
 ## [1147. Longest Chunked Palindrome Decomposition (Hard)](https://leetcode.com/problems/longest-chunked-palindrome-decomposition "段式回文")
 
-<p>Return the largest possible <code>k</code>&nbsp;such that there exists&nbsp;<code>a_1, a_2, ..., a_k</code>&nbsp;such that:</p>
+<p>You are given a string <code>text</code>. You should split it to k substrings <code>(subtext<sub>1</sub>, subtext<sub>2</sub>, ..., subtext<sub>k</sub>)</code> such that:</p>
 
 <ul>
-	<li>Each <code>a_i</code> is a non-empty string;</li>
-	<li>Their concatenation <code>a_1 + a_2 + ... + a_k</code> is equal to <code>text</code>;</li>
-	<li>For all <code>1 &lt;= i &lt;= k</code>,&nbsp;&nbsp;<code>a_i = a_{k+1 - i}</code>.</li>
+	<li><code>subtext<sub>i</sub></code> is a <strong>non-empty</strong> string.</li>
+	<li>The concatenation of all the substrings is equal to <code>text</code> (i.e., <code>subtext<sub>1</sub> + subtext<sub>2</sub> + ... + subtext<sub>k</sub> == text</code>).</li>
+	<li><code>subtext<sub>i</sub> == subtext<sub>k - i + 1</sub></code> for all valid values of <code>i</code> (i.e., <code>1 &lt;= i &lt;= k</code>).</li>
 </ul>
+
+<p>Return the largest possible value of <code>k</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -56,8 +58,8 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>text</code> consists only of lowercase English characters.</li>
 	<li><code>1 &lt;= text.length &lt;= 1000</code></li>
+	<li><code>text</code> consists only of lowercase English characters.</li>
 </ul>
 
 ### Related Topics

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../cherry-pickup-ii "Cherry Pickup II")
 
-## [1462. Course Schedule IV (Medium)](https://leetcode.com/problems/course-schedule-iv "课程安排 IV")
+## [1462. Course Schedule IV (Medium)](https://leetcode.com/problems/course-schedule-iv "课程表 IV")
 
 <p>There are a total of <code>n</code> courses you have to take, labeled from <code>0</code> to <code>n-1</code>.</p>
 

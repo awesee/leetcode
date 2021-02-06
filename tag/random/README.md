@@ -9,3 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 710 | [黑名单中的随机数](../../problems/random-pick-with-blacklist) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[Random](../random/README.md)]  | Hard |
+| 528 | [按权重随机选择](../../problems/random-pick-with-weight) | [[二分查找](../binary-search/README.md)] [[Random](../random/README.md)]  | Medium |
+| 519 | [随机翻转矩阵](../../problems/random-flip-matrix) | [[Random](../random/README.md)]  | Medium |
+| 497 | [非重叠矩形中的随机点](../../problems/random-point-in-non-overlapping-rectangles) | [[二分查找](../binary-search/README.md)] [[Random](../random/README.md)]  | Medium |
+| 478 | [在圆内随机生成点](../../problems/generate-random-point-in-a-circle) | [[数学](../math/README.md)] [[Random](../random/README.md)] [[Rejection Sampling](../rejection-sampling/README.md)]  | Medium |
+| 470 | [用 Rand7() 实现 Rand10()](../../problems/implement-rand10-using-rand7) | [[Random](../random/README.md)] [[Rejection Sampling](../rejection-sampling/README.md)]  | Medium |
