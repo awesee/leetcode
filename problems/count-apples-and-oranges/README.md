@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../calculate-money-in-leetcode-bank "Calculate Money in Leetcode Bank")
 
-## [1715. Count Apples and Oranges (Medium)](https://leetcode.com/problems/count-apples-and-oranges "")
+## [1715. Count Apples and Oranges (Medium)](https://leetcode.com/problems/count-apples-and-oranges "苹果和橘子的个数")
 
 

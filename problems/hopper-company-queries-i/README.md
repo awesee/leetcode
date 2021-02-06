@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../sort-array-by-increasing-frequency "Sort Array by Increasing Frequency")
 
-## [1635. Hopper Company Queries I (Hard)](https://leetcode.com/problems/hopper-company-queries-i "")
+## [1635. Hopper Company Queries I (Hard)](https://leetcode.com/problems/hopper-company-queries-i "Hopper 公司查询 I")
 
 

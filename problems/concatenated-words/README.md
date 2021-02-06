@@ -11,9 +11,9 @@
 
 ## [472. Concatenated Words (Hard)](https://leetcode.com/problems/concatenated-words "连接词")
 
-<p>Given a list of words (<strong>without duplicates</strong>), please write a program that returns all concatenated words in the given list of words.</p>
+<p>Given an array of strings <code>words</code> (<strong>without duplicates</strong>), return <em>all the <strong>concatenated words</strong> in the given list of</em> <code>words</code>.</p>
 
-<p>A concatenated word is defined as a string that is comprised entirely of at least two shorter words in the given array.</p>
+<p>A <strong>concatenated word</strong> is defined as a string that is comprised entirely of at least two shorter words in the given array.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

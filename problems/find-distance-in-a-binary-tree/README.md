@@ -7,9 +7,9 @@
 
 [< Previous](../building-boxes "Building Boxes")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../find-total-time-spent-by-each-employee "Find Total Time Spent by Each Employee")
 
-## [1740. Find Distance in a Binary Tree (Easy)](https://leetcode.com/problems/find-distance-in-a-binary-tree "")
+## [1740. Find Distance in a Binary Tree (Medium)](https://leetcode.com/problems/find-distance-in-a-binary-tree "找到二叉树中的距离")
 
 
 

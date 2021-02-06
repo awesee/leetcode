@@ -25,7 +25,7 @@
 | Request_at  | date     |     
 +-------------+----------+
 Id is the primary key for this table.
-The table holds all taxi trips. Each trip has a unique Id, while Client_Id and Driver_Id are both foreign keys to the Users_Id at the Users table.
+The table holds all taxi trips. Each trip has a unique Id, while Client_Id and Driver_Id are foreign keys to the Users_Id at the Users table.
 Status is an ENUM type of (&lsquo;completed&rsquo;, &lsquo;cancelled_by_driver&rsquo;, &lsquo;cancelled_by_client&rsquo;).
 </pre>
 
@@ -48,9 +48,9 @@ Status is an ENUM type of (&lsquo;Yes&rsquo;, &lsquo;No&rsquo;).
 
 <p>&nbsp;</p>
 
-<p>Write a SQL query to find the cancellation rate of requests made by unbanned users (both client and driver must be unbanned) between <code>&quot;2013-10-01&quot;</code> and <code>&quot;2013-10-01&quot;</code>.</p>
+<p>Write a SQL query to find the <strong>cancellation rate</strong> of requests with unbanned users (<strong>both client and driver must not be banned</strong>) each day between <code>&quot;2013-10-01&quot;</code> and <code>&quot;2013-10-03&quot;</code>.</p>
 
-<p>The <strong>cancellation rate</strong> is computed by dividing the number of canceled (by client or driver) requests made by unbanned users by the total number of requests made by unbanned users.</p>
+<p>The <strong>cancellation rate</strong> is computed by dividing the number of canceled (by client or driver) requests with unbanned users by the total number of requests with unbanned users on that day.</p>
 
 <p>Return the result table in any order. Round <code>Cancellation Rate</code> to <strong>two decimal</strong> points.</p>
 
@@ -97,4 +97,20 @@ Result table:
 | 2013-10-02 | 0.00              |
 | 2013-10-03 | 0.50              |
 +------------+-------------------+
+
+On 2013-10-01:
+  - There were 4 requests in total, 2 of which were canceled.
+  - However, the request with Id=2 was made by a banned client (User_Id=2), so it is ignored in the calculation.
+  - Hence there are 3 unbanned requests in total, 1 of which was canceled.
+  - The Cancellation Rate is (1 / 3) = 0.33
+On 2013-10-02:
+  - There were 3 requests in total, 0 of which were canceled.
+  - The request with Id=6 was made by a banned client, so it is ignored.
+  - Hence there are 2 unbanned requests in total, 0 of which were canceled.
+  - The Cancellation Rate is (0 / 2) = 0.00
+On 2013-10-03:
+  - There were 3 requests in total, 1 of which was canceled.
+  - The request with Id=8 was made by a banned client, so it is ignored.
+  - Hence there are 2 unbanned request in total, 1 of which were canceled.
+  - The Cancellation Rate is (1 / 2) = 0.50
 </pre>

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../delete-n-nodes-after-m-nodes-of-a-linked-list "Delete N Nodes After M Nodes of a Linked List")
 
-## [1473. Paint House III (Hard)](https://leetcode.com/problems/paint-house-iii "给房子涂色 III")
+## [1473. Paint House III (Hard)](https://leetcode.com/problems/paint-house-iii "粉刷房子 III")
 
 <p>There is&nbsp;a row of&nbsp;<code>m</code>&nbsp;houses in a small city, each house must be painted with one of the&nbsp;<code>n</code>&nbsp;colors (labeled from 1 to <code>n</code>), some houses that has been painted last summer should not be painted again.</p>
 

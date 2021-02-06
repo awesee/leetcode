@@ -20,9 +20,16 @@
 &#39;Z&#39; -&gt; &quot;26&quot;
 </pre>
 
-<p>To <strong>decode</strong> an encoded message, all the digits must be mapped back into letters using the reverse of the mapping above (there may be multiple ways). For example, <code>&quot;111&quot;</code> can have each of its <code>&quot;1&quot;</code>s be mapped into <code>&#39;A&#39;</code>s to make <code>&quot;AAA&quot;</code>, or it could be mapped to <code>&quot;11&quot;</code> and <code>&quot;1&quot;</code> (<code>&#39;K&#39;</code> and <code>&#39;A&#39;</code> respectively) to make <code>&quot;KA&quot;</code>. Note that <code>&quot;06&quot;</code> cannot be mapped into <code>&#39;F&#39;</code> since <code>&quot;6&quot;</code> is different from <code>&quot;06&quot;</code>.</p>
+<p>To <strong>decode</strong> an encoded message, all the digits must be grouped then mapped back into letters using the reverse of the mapping above (there may be multiple ways). For example, <code>&quot;11106&quot;</code> can be mapped into:</p>
 
-<p>Given a <strong>non-empty</strong> string <code>num</code> containing only digits, return <em>the <strong>number</strong> of ways to <strong>decode</strong> it</em>.</p>
+<ul>
+	<li><code>&quot;AAJF&quot;</code> with the grouping <code>(1 1 10 6)</code></li>
+	<li><code>&quot;KJF&quot;</code> with the grouping <code>(11 10 6)</code></li>
+</ul>
+
+<p>Note that the grouping <code>(1 11 06)</code> is invalid because <code>&quot;06&quot;</code> cannot be mapped into <code>&#39;F&#39;</code> since <code>&quot;6&quot;</code> is different from <code>&quot;06&quot;</code>.</p>
+
+<p>Given a string <code>s</code> containing only digits, return <em>the <strong>number</strong> of ways to <strong>decode</strong> it</em>.</p>
 
 <p>The answer is guaranteed to fit in a <strong>32-bit</strong> integer.</p>
 
@@ -48,8 +55,9 @@
 <pre>
 <strong>Input:</strong> s = &quot;0&quot;
 <strong>Output:</strong> 0
-<strong>Explanation:</strong> There is no character that is mapped to a number starting with 0. The only valid mappings with 0 are &#39;J&#39; -&gt; &quot;10&quot; and &#39;T&#39; -&gt; &quot;20&quot;.
-Since there is no character, there are no valid ways to decode this since all digits need to be mapped.
+<strong>Explanation:</strong> There is no character that is mapped to a number starting with 0.
+The only valid mappings with 0 are &#39;J&#39; -&gt; &quot;10&quot; and &#39;T&#39; -&gt; &quot;20&quot;, neither of which start with 0.
+Hence, there are no valid ways to decode this since all digits need to be mapped.
 </pre>
 
 <p><strong>Example 4:</strong></p>
@@ -57,7 +65,7 @@ Since there is no character, there are no valid ways to decode this since all di
 <pre>
 <strong>Input:</strong> s = &quot;06&quot;
 <strong>Output:</strong> 0
-<strong>Explanation:</strong> &quot;06&quot; cannot be mapped to &quot;F&quot; because the zero at the beginning of the string can&#39;t make a valid character.&nbsp;
+<strong>Explanation:</strong> &quot;06&quot; cannot be mapped to &quot;F&quot; because of the leading zero (&quot;6&quot; is different from &quot;06&quot;).
 </pre>
 
 <p>&nbsp;</p>

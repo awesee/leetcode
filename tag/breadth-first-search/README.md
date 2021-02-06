@@ -9,3 +9,87 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1740 | [找到二叉树中的距离](../../problems/find-distance-in-a-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1730 | [获取食物的最短路径](../../problems/shortest-path-to-get-food) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
+| 1654 | [到家的最少跳跃次数](../../problems/minimum-jumps-to-reach-home) | [[广度优先搜索](../breadth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1625 | [执行操作后字典序最小的字符串](../../problems/lexicographically-smallest-string-after-applying-operations) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1602 | [找到二叉树中最近的右侧节点](../../problems/find-nearest-right-node-in-binary-tree) 🔒 | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1519 | [子树中标签相同的节点数](../../problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1490 | [克隆 N 叉树](../../problems/clone-n-ary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1391 | [检查网格中是否存在有效路径](../../problems/check-if-there-is-a-valid-path-in-a-grid) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1379 | [找出克隆二叉树中的相同节点](../../problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)]  | Medium |
+| 1368 | [使网格图至少有一条有效路径的最小代价](../../problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 1345 | [跳跃游戏 IV](../../problems/jump-game-iv) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 1319 | [连通网络的操作次数](../../problems/number-of-operations-to-make-network-connected) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
+| 1311 | [获取你好友已观看的视频](../../problems/get-watched-videos-by-your-friends) | [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1306 | [跳跃游戏 III](../../problems/jump-game-iii) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)]  | Medium |
+| 1298 | [你能从盒子里获得的最大糖果数](../../problems/maximum-candies-you-can-get-from-boxes) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 1293 | [网格中的最短路径](../../problems/shortest-path-in-a-grid-with-obstacles-elimination) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 1284 | [转化为全零矩阵的最少反转次数](../../problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 1263 | [推箱子](../../problems/minimum-moves-to-move-a-box-to-their-target-location) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 1245 | [树的直径](../../problems/tree-diameter) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1242 | [多线程网页爬虫](../../problems/web-crawler-multithreaded) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1236 | [网络爬虫](../../problems/web-crawler) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1210 | [穿过迷宫的最少移动次数](../../problems/minimum-moves-to-reach-target-with-rotations) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 1197 | [进击的骑士](../../problems/minimum-knight-moves) 🔒 | [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1162 | [地图分析](../../problems/as-far-from-land-as-possible) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
+| 1161 | [最大层内元素和](../../problems/maximum-level-sum-of-a-binary-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1129 | [颜色交替的最短路径](../../problems/shortest-path-with-alternating-colors) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
+| 1091 | [二进制矩阵中的最短路径](../../problems/shortest-path-in-binary-matrix) | [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 1036 | [逃离大迷宫](../../problems/escape-a-large-maze) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 994 | [腐烂的橘子](../../problems/rotting-oranges) | [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 993 | [二叉树的堂兄弟节点](../../problems/cousins-in-binary-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
+| 987 | [二叉树的垂序遍历](../../problems/vertical-order-traversal-of-a-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
+| 967 | [连续差相同的数字](../../problems/numbers-with-same-consecutive-differences) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 934 | [最短的桥](../../problems/shortest-bridge) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 913 | [猫和老鼠](../../problems/cat-and-mouse) | [[广度优先搜索](../breadth-first-search/README.md)] [[极小化极大](../minimax/README.md)]  | Hard |
+| 909 | [蛇梯棋](../../problems/snakes-and-ladders) | [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 882 | [细分图中的可到达结点](../../problems/reachable-nodes-in-subdivided-graph) | [[堆](../heap/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 865 | [具有所有最深节点的最小子树](../../problems/smallest-subtree-with-all-the-deepest-nodes) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)]  | Medium |
+| 864 | [获取所有钥匙的最短路径](../../problems/shortest-path-to-get-all-keys) | [[堆](../heap/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 863 | [二叉树中所有距离为 K 的结点](../../problems/all-nodes-distance-k-in-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 854 | [相似度为 K 的字符串](../../problems/k-similar-strings) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Hard |
+| 847 | [访问所有节点的最短路径](../../problems/shortest-path-visiting-all-nodes) | [[广度优先搜索](../breadth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 827 | [最大人工岛](../../problems/making-a-large-island) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 815 | [公交路线](../../problems/bus-routes) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 787 | [K 站中转内最便宜的航班](../../problems/cheapest-flights-within-k-stops) | [[堆](../heap/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 785 | [判断二分图](../../problems/is-graph-bipartite) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
+| 773 | [滑动谜题](../../problems/sliding-puzzle) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 752 | [打开转盘锁](../../problems/open-the-lock) | [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 743 | [网络延迟时间](../../problems/network-delay-time) | [[堆](../heap/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
+| 690 | [员工的重要性](../../problems/employee-importance) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 675 | [为高尔夫比赛砍树](../../problems/cut-off-trees-for-golf-event) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 559 | [N 叉树的最大深度](../../problems/maximum-depth-of-n-ary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
+| 542 | [01 矩阵](../../problems/01-matrix) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 529 | [扫雷游戏](../../problems/minesweeper) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 515 | [在每个树行中找最大值](../../problems/find-largest-value-in-each-tree-row) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 513 | [找树左下角的值](../../problems/find-bottom-left-tree-value) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 505 | [迷宫 II](../../problems/the-maze-ii) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 499 | [迷宫 III](../../problems/the-maze-iii) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 490 | [迷宫](../../problems/the-maze) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 429 | [N 叉树的层序遍历](../../problems/n-ary-tree-level-order-traversal) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 417 | [太平洋大西洋水流问题](../../problems/pacific-atlantic-water-flow) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 407 | [接雨水 II](../../problems/trapping-rain-water-ii) | [[堆](../heap/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 339 | [嵌套列表权重和](../../problems/nested-list-weight-sum) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
+| 323 | [无向图中连通分量的数目](../../problems/number-of-connected-components-in-an-undirected-graph) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
+| 317 | [离建筑物最近的距离](../../problems/shortest-distance-from-all-buildings) 🔒 | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 314 | [二叉树的垂直遍历](../../problems/binary-tree-vertical-order-traversal) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 310 | [最小高度树](../../problems/minimum-height-trees) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
+| 301 | [删除无效的括号](../../problems/remove-invalid-parentheses) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 286 | [墙与门](../../problems/walls-and-gates) 🔒 | [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 279 | [完全平方数](../../problems/perfect-squares) | [[广度优先搜索](../breadth-first-search/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 261 | [以图判树](../../problems/graph-valid-tree) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
+| 210 | [课程表 II](../../problems/course-schedule-ii) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Medium |
+| 207 | [课程表](../../problems/course-schedule) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Medium |
+| 200 | [岛屿数量](../../problems/number-of-islands) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
+| 199 | [二叉树的右视图](../../problems/binary-tree-right-side-view) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 133 | [克隆图](../../problems/clone-graph) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
+| 130 | [被围绕的区域](../../problems/surrounded-regions) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
+| 127 | [单词接龙](../../problems/word-ladder) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
+| 126 | [单词接龙 II](../../problems/word-ladder-ii) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 116 | [填充每个节点的下一个右侧节点指针](../../problems/populating-next-right-pointers-in-each-node) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 111 | [二叉树的最小深度](../../problems/minimum-depth-of-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
+| 107 | [二叉树的层序遍历 II](../../problems/binary-tree-level-order-traversal-ii) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
+| 103 | [二叉树的锯齿形层序遍历](../../problems/binary-tree-zigzag-level-order-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 102 | [二叉树的层序遍历](../../problems/binary-tree-level-order-traversal) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 101 | [对称二叉树](../../problems/symmetric-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |

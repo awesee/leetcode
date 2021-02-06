@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../the-number-of-employees-which-report-to-each-employee "The Number of Employees Which Report to Each Employee")
 
-## [1730. Shortest Path to Get Food (Medium)](https://leetcode.com/problems/shortest-path-to-get-food "")
+## [1730. Shortest Path to Get Food (Medium)](https://leetcode.com/problems/shortest-path-to-get-food "获取食物的最短路径")
 
 
 

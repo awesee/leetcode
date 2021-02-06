@@ -23,7 +23,7 @@
 <pre>
 <strong>Input:</strong> n = 3, k = 7
 <strong>Output:</strong> [181,292,707,818,929]
-<strong>Explanation: </strong>Note that 070 is not a valid number, because it has leading zeroes.
+<strong>Explanation:</strong> Note that 070 is not a valid number, because it has leading zeroes.
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -41,13 +41,6 @@
 </pre>
 
 <p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 2, k = 1
-<strong>Output:</strong> [10,12,21,23,32,34,43,45,54,56,65,67,76,78,87,89,98]
-</pre>
-
-<p><strong>Example 5:</strong></p>
 
 <pre>
 <strong>Input:</strong> n = 2, k = 2

@@ -38,9 +38,8 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= strs.length &lt;= 100</code></li>
-	<li><code>1 &lt;= strs[i].length &lt;= 1000</code></li>
-	<li><code>sum(strs[i].length) &lt;= 2 * 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= strs.length &lt;= 300</code></li>
+	<li><code>1 &lt;= strs[i].length &lt;= 300</code></li>
 	<li><code>strs[i]</code> consists of lowercase letters only.</li>
 	<li>All words in <code>strs</code> have the same length and are anagrams of each other.</li>
 </ul>
