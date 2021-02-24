@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../valid-tic-tac-toe-state "Valid Tic-Tac-Toe State")
 
-## [793. Preimage Size of Factorial Zeroes Function (Hard)](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function "阶乘函数后K个零")
+## [793. Preimage Size of Factorial Zeroes Function (Hard)](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function "阶乘函数后 K 个零")
 
 <p>Let <code>f(x)</code> be the number of zeroes at the end of <code>x!</code>. (Recall that <code>x! = 1 * 2 * 3 * ... * x</code>, and by convention, <code>0! = 1</code>.)</p>
 

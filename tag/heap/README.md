@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1760 | [袋子里最少数目的球](../../problems/minimum-limit-of-balls-in-a-bag) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1753 | [移除石子的最大得分](../../problems/maximum-score-from-removing-stones) | [[堆](../heap/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1705 | [吃苹果的最大数目](../../problems/maximum-number-of-eaten-apples) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
 | 1675 | [数组的最小偏移量](../../problems/minimize-deviation-in-array) | [[堆](../heap/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Hard |
 | 1673 | [找出最具竞争力的子序列](../../problems/find-the-most-competitive-subsequence) | [[栈](../stack/README.md)] [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[队列](../queue/README.md)]  | Medium |
@@ -35,7 +37,7 @@
 | 502 | [IPO](../../problems/ipo) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Hard |
 | 451 | [根据字符出现频率排序](../../problems/sort-characters-by-frequency) | [[堆](../heap/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 407 | [接雨水 II](../../problems/trapping-rain-water-ii) | [[堆](../heap/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
-| 378 | [有序矩阵中第K小的元素](../../problems/kth-smallest-element-in-a-sorted-matrix) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 378 | [有序矩阵中第 K 小的元素](../../problems/kth-smallest-element-in-a-sorted-matrix) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 373 | [查找和最小的K对数字](../../problems/find-k-pairs-with-smallest-sums) | [[堆](../heap/README.md)]  | Medium |
 | 358 | [K 距离间隔重排字符串](../../problems/rearrange-string-k-distance-apart) 🔒 | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
 | 355 | [设计推特](../../problems/design-twitter) | [[堆](../heap/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |

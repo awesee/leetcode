@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1760 | [袋子里最少数目的球](../../problems/minimum-limit-of-balls-in-a-bag) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1751 | [最多可以参加的会议数目 II](../../problems/maximum-number-of-events-that-can-be-attended-ii) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1739 | [放置盒子](../../problems/building-boxes) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1712 | [将数组分成三个子数组的方案数](../../problems/ways-to-split-array-into-three-subarrays) | [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
@@ -51,7 +53,7 @@
 | 875 | [爱吃香蕉的珂珂](../../problems/koko-eating-bananas) | [[二分查找](../binary-search/README.md)]  | Medium |
 | 862 | [和至少为 K 的最短子数组](../../problems/shortest-subarray-with-sum-at-least-k) | [[队列](../queue/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 852 | [山脉数组的峰顶索引](../../problems/peak-index-in-a-mountain-array) | [[二分查找](../binary-search/README.md)]  | Easy |
-| 793 | [阶乘函数后K个零](../../problems/preimage-size-of-factorial-zeroes-function) | [[二分查找](../binary-search/README.md)]  | Hard |
+| 793 | [阶乘函数后 K 个零](../../problems/preimage-size-of-factorial-zeroes-function) | [[二分查找](../binary-search/README.md)]  | Hard |
 | 786 | [第 K 个最小的素数分数](../../problems/k-th-smallest-prime-fraction) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 778 | [水位上升的泳池中游泳](../../problems/swim-in-rising-water) | [[堆](../heap/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 774 | [最小化去加油站的最大距离](../../problems/minimize-max-distance-to-gas-station) 🔒 | [[二分查找](../binary-search/README.md)]  | Hard |
@@ -75,7 +77,7 @@
 | 436 | [寻找右区间](../../problems/find-right-interval) | [[二分查找](../binary-search/README.md)]  | Medium |
 | 410 | [分割数组的最大值](../../problems/split-array-largest-sum) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 392 | [判断子序列](../../problems/is-subsequence) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
-| 378 | [有序矩阵中第K小的元素](../../problems/kth-smallest-element-in-a-sorted-matrix) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 378 | [有序矩阵中第 K 小的元素](../../problems/kth-smallest-element-in-a-sorted-matrix) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 374 | [猜数字大小](../../problems/guess-number-higher-or-lower) | [[二分查找](../binary-search/README.md)]  | Easy |
 | 367 | [有效的完全平方数](../../problems/valid-perfect-square) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 363 | [矩形区域不超过 K 的最大数值和](../../problems/max-sum-of-rectangle-no-larger-than-k) | [[队列](../queue/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

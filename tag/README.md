@@ -29,4 +29,5 @@
 | 35 | [Binary Search Tree](binary-search-tree/README.md) | [二叉搜索树](https://openset.github.io/tags/binary-search-tree/) | | 36 | [](dequeue/README.md) | [](https://openset.github.io/tags/dequeue/) | 
 | 37 | [Rolling Hash](rolling-hash/README.md) | [Rolling Hash](https://openset.github.io/tags/rolling-hash/) | | 38 | [Suffix Array](suffix-array/README.md) | [Suffix Array](https://openset.github.io/tags/suffix-array/) | 
 | 39 | [Rejection Sampling](rejection-sampling/README.md) | [Rejection Sampling](https://openset.github.io/tags/rejection-sampling/) | | 40 | [Reservoir Sampling](reservoir-sampling/README.md) | [蓄水池抽样](https://openset.github.io/tags/reservoir-sampling/) | 
-| 41 | [Memoization](memoization/README.md) | [记忆化](https://openset.github.io/tags/memoization/) | | 42 | [](oop/README.md) | [](https://openset.github.io/tags/oop/) | 
+| 41 | [](meet-in-the-middle/README.md) | [](https://openset.github.io/tags/meet-in-the-middle/) | | 42 | [Memoization](memoization/README.md) | [记忆化](https://openset.github.io/tags/memoization/) | 
+| 43 | [](oop/README.md) | [](https://openset.github.io/tags/oop/) | 

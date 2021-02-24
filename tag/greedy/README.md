@@ -9,6 +9,13 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1769 | [移动所有球到每个盒子所需的最小操作数](../../problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1764 | [通过连接另一个数组的子数组得到一个数组](../../problems/form-array-by-concatenating-subarrays-of-another-array) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1762 | [Buildings With an Ocean View](../../problems/buildings-with-an-ocean-view) 🔒 | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1759 | [统计同构子字符串的数目](../../problems/count-number-of-homogenous-substrings) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1758 | [生成交替二进制字符串的最少操作数](../../problems/minimum-changes-to-make-alternating-binary-string) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
+| 1754 | [构造字典序最大的合并字符串](../../problems/largest-merge-of-two-strings) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1749 | [任意子数组和的绝对值的最大值](../../problems/maximum-absolute-sum-of-any-subarray) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1743 | [从相邻元素对还原数组](../../problems/restore-the-array-from-adjacent-pairs) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1737 | [满足三条件之一需改变的最少字符数](../../problems/change-minimum-characters-to-satisfy-one-of-three-conditions) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1736 | [替换隐藏数字得到的最晚时间](../../problems/latest-time-by-replacing-hidden-digits) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Easy |

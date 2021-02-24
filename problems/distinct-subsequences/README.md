@@ -11,11 +11,11 @@
 
 ## [115. Distinct Subsequences (Hard)](https://leetcode.com/problems/distinct-subsequences "不同的子序列")
 
-<p>Given two strings <code>s</code> and <code>t</code>, return <em>the&nbsp;number of distinct subsequences of <code>s</code> which equals <code>t</code></em>.</p>
+<p>Given two strings <code>s</code> and <code>t</code>, return <em>the number of distinct subsequences of <code>s</code> which equals <code>t</code></em>.</p>
 
-<p>A string&#39;s <strong>subsequence</strong> is a new string formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e., <code>&quot;ACE&quot;</code> is a subsequence of <code>&quot;ABCDE&quot;</code> while <code>&quot;AEC&quot;</code> is not).</p>
+<p>A string&#39;s <strong>subsequence</strong> is a new string formed from the original string by deleting some (can be none) of the characters without disturbing the remaining characters&#39; relative positions. (i.e., <code>&quot;ACE&quot;</code> is a subsequence of <code>&quot;ABCDE&quot;</code> while <code>&quot;AEC&quot;</code> is not).</p>
 
-<p>It&#39;s guaranteed the answer fits on a 32-bit signed integer.</p>
+<p>It is guaranteed the answer fits on a 32-bit signed integer.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

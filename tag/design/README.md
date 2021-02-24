@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1756 | [Design Most Recently Used Queue](../../problems/design-most-recently-used-queue) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1670 | [设计前中后队列](../../problems/design-front-middle-back-queue) | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Medium |
 | 1656 | [设计有序流](../../problems/design-an-ordered-stream) | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1628 | [设计带解析函数的表达式树](../../problems/design-an-expression-tree-with-evaluate-function) 🔒 | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
@@ -50,7 +51,7 @@
 | 359 | [日志速率限制器](../../problems/logger-rate-limiter) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 355 | [设计推特](../../problems/design-twitter) | [[堆](../heap/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 353 | [贪吃蛇](../../problems/design-snake-game) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Medium |
-| 348 | [判定井字棋胜负](../../problems/design-tic-tac-toe) 🔒 | [[设计](../design/README.md)]  | Medium |
+| 348 | [设计井字棋](../../problems/design-tic-tac-toe) 🔒 | [[设计](../design/README.md)]  | Medium |
 | 346 | [数据流中的移动平均值](../../problems/moving-average-from-data-stream) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Easy |
 | 341 | [扁平化嵌套列表迭代器](../../problems/flatten-nested-list-iterator) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Medium |
 | 297 | [二叉树的序列化与反序列化](../../problems/serialize-and-deserialize-binary-tree) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Hard |

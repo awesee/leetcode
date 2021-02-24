@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../intersection-of-two-arrays "Intersection of Two Arrays")
 
-## [348. Design Tic-Tac-Toe (Medium)](https://leetcode.com/problems/design-tic-tac-toe "判定井字棋胜负")
+## [348. Design Tic-Tac-Toe (Medium)](https://leetcode.com/problems/design-tic-tac-toe "设计井字棋")
 
 <p>Design a Tic-tac-toe game that is played between two players on a <i>n</i> x <i>n</i> grid.
 </p>

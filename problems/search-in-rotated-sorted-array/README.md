@@ -11,11 +11,11 @@
 
 ## [33. Search in Rotated Sorted Array (Medium)](https://leetcode.com/problems/search-in-rotated-sorted-array "搜索旋转排序数组")
 
-<p>You are given an integer array <code>nums</code> sorted in ascending order (with <strong>distinct</strong> values), and an integer <code>target</code>.</p>
+<p>There is an integer array <code>nums</code> sorted in ascending order (with <strong>distinct</strong> values).</p>
 
-<p>Suppose that <code>nums</code> is rotated at some pivot unknown to you beforehand (i.e., <code>[0,1,2,4,5,6,7]</code> might become <code>[4,5,6,7,0,1,2]</code>).</p>
+<p>Prior to being passed to your function, <code>nums</code> is <strong>rotated</strong> at an unknown pivot index <code>k</code> (<code>0 &lt;= k &lt; nums.length</code>) such that the resulting array is <code>[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]</code> (<strong>0-indexed</strong>). For example, <code>[0,1,2,4,5,6,7]</code> might be rotated at pivot index <code>3</code> and become <code>[4,5,6,7,0,1,2]</code>.</p>
 
-<p><em>If <code>target</code> is found in the array return its index, otherwise, return <code>-1</code>.</em></p>
+<p>Given the array <code>nums</code> <strong>after</strong> the rotation and an integer <code>target</code>, return <em>the index of </em><code>target</code><em> if it is in </em><code>nums</code><em>, or </em><code>-1</code><em> if it is not in </em><code>nums</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -38,6 +38,9 @@
 	<li><code>nums</code> is guaranteed to be rotated at some pivot.</li>
 	<li><code>-10<sup>4</sup> &lt;= target &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+<p>&nbsp;</p>
+<strong>Follow up:</strong> Can you achieve this in <code>O(log n)</code> time complexity?
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

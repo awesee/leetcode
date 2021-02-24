@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../binary-tree-inorder-traversal "Binary Tree Inorder Traversal")
 
-## [93. Restore IP Addresses (Medium)](https://leetcode.com/problems/restore-ip-addresses "复原IP地址")
+## [93. Restore IP Addresses (Medium)](https://leetcode.com/problems/restore-ip-addresses "复原 IP 地址")
 
 <p>Given a string <code>s</code> containing only digits, return all possible valid IP addresses that can be obtained from <code>s</code>. You can return them in <strong>any</strong> order.</p>
 

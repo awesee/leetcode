@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1750 | [删除字符串两端相同字符后的最短长度](../../problems/minimum-length-of-string-after-deleting-similar-ends) | [[双指针](../two-pointers/README.md)]  | Medium |
 | 1712 | [将数组分成三个子数组的方案数](../../problems/ways-to-split-array-into-three-subarrays) | [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1711 | [大餐计数](../../problems/count-good-meals) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1695 | [删除子数组的最大得分](../../problems/maximum-erasure-value) | [[双指针](../two-pointers/README.md)]  | Medium |

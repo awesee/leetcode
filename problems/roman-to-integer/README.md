@@ -92,19 +92,5 @@ M             1000</pre>
 ### Hints
 <details>
 <summary>Hint 1</summary>
-I - 1</br>
-V - 5</br>
-X - 10</br>
-L - 50</br>
-C - 100</br>
-D - 500</br>
-M - 1000</br>
-</details>
-
-<details>
-<summary>Hint 2</summary>
-<b>Rules:</b></br>
-* If I comes before V or X, subtract 1 eg: IV = 4 and IX = 9</br>
-* If X comes before L or C, subtract 10 eg: XL = 40 and XC = 90</br>
-* If C comes before D or M, subtract 100 eg: CD = 400 and CM = 900</br>
+Problem is simpler to solve by working the string from back to front and using a map.
 </details>

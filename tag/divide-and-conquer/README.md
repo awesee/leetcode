@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1755 | [最接近目标值的子序列和](../../problems/closest-subsequence-sum) | [[分治算法](../divide-and-conquer/README.md)]  | Hard |
 | 1274 | [矩形内船只的数目](../../problems/number-of-ships-in-a-rectangle) 🔒 | [[分治算法](../divide-and-conquer/README.md)]  | Hard |
 | 973 | [最接近原点的 K 个点](../../problems/k-closest-points-to-origin) | [[堆](../heap/README.md)] [[排序](../sort/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Medium |
 | 932 | [漂亮数组](../../problems/beautiful-array) | [[分治算法](../divide-and-conquer/README.md)]  | Medium |

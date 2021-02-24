@@ -11,11 +11,11 @@
 
 ## [81. Search in Rotated Sorted Array II (Medium)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii "搜索旋转排序数组 II")
 
-<p>You are given an integer array <code>nums</code> sorted in ascending order (not necessarily <strong>distinct</strong> values), and an integer <code>target</code>.</p>
+<p>There is an integer array <code>nums</code> sorted in non-decreasing order (not necessarily with <strong>distinct</strong> values).</p>
 
-<p>Suppose that <code>nums</code> is rotated at some pivot unknown to you beforehand (i.e., <code>[0,1,2,4,4,4,5,6,6,7]</code> might become <code>[4,5,6,6,7,0,1,2,4,4]</code>).</p>
+<p>Before being passed to your function, <code>nums</code> is <strong>rotated</strong> at an unknown pivot index <code>k</code> (<code>0 &lt;= k &lt; nums.length</code>) such that the resulting array is <code>[nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]]</code> (<strong>0-indexed</strong>). For example, <code>[0,1,2,4,4,4,5,6,6,7]</code> might be rotated at pivot index <code>5</code> and become <code>[4,5,6,6,7,0,1,2,4,4]</code>.</p>
 
-<p><em>If <code>target</code> is found in the array return its index, otherwise, return <code>-1</code>.</em></p>
+<p>Given the array <code>nums</code> <strong>after</strong> the rotation and an integer <code>target</code>, return <code>true</code><em> if </em><code>target</code><em> is in </em><code>nums</code><em>, or </em><code>false</code><em> if it is not in </em><code>nums</code><em>.</em></p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -36,7 +36,7 @@
 </ul>
 
 <p>&nbsp;</p>
-<strong>Follow up: </strong>This problem is the same as <a href="/problems/search-in-rotated-sorted-array/description/" target="_blank">Search in Rotated Sorted Array</a>, where <code>nums</code> may contain <strong>duplicates</strong>. Would this affect the run-time complexity? How and why?
+<strong>Follow up:</strong> This problem is the same as <a href="/problems/search-in-rotated-sorted-array/description/" target="_blank">Search in Rotated Sorted Array</a>, where <code>nums</code> may contain <strong>duplicates</strong>. Would this affect the runtime complexity? How and why?
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

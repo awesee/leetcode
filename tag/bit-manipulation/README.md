@@ -44,7 +44,7 @@
 | 476 | [数字的补数](../../problems/number-complement) | [[位运算](../bit-manipulation/README.md)]  | Easy |
 | 461 | [汉明距离](../../problems/hamming-distance) | [[位运算](../bit-manipulation/README.md)]  | Easy |
 | 421 | [数组中两个数的最大异或值](../../problems/maximum-xor-of-two-numbers-in-an-array) | [[位运算](../bit-manipulation/README.md)] [[字典树](../trie/README.md)]  | Medium |
-| 411 | [最短特异单词缩写](../../problems/minimum-unique-word-abbreviation) 🔒 | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 411 | [最短独占单词缩写](../../problems/minimum-unique-word-abbreviation) 🔒 | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 405 | [数字转换为十六进制数](../../problems/convert-a-number-to-hexadecimal) | [[位运算](../bit-manipulation/README.md)]  | Easy |
 | 401 | [二进制手表](../../problems/binary-watch) | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Easy |
 | 397 | [整数替换](../../problems/integer-replacement) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Medium |

@@ -11,37 +11,41 @@
 
 ## [524. Longest Word in Dictionary through Deleting (Medium)](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting "通过删除字母匹配到字典里最长单词")
 
-<p>
-Given a string and a string dictionary, find the longest string in the dictionary that can be formed by deleting some characters of the given string. If there are more than one possible results, return the longest word with the smallest lexicographical order. If there is no possible result, return the empty string.
-</p>
-<p><b>Example 1:</b><br>
+<p>Given a string and a string dictionary, find the longest string in the dictionary that can be formed by deleting some characters of the given string. If there are more than one possible results, return the longest word with the smallest lexicographical order. If there is no possible result, return the empty string.</p>
+
+<p><strong>Example 1:</strong></p>
+
 <pre>
 <b>Input:</b>
-s = "abpcplea", d = ["ale","apple","monkey","plea"]
+s = &quot;abpcplea&quot;, d = [&quot;ale&quot;,&quot;apple&quot;,&quot;monkey&quot;,&quot;plea&quot;]
 
 <b>Output:</b> 
-"apple"
+&quot;apple&quot;
 </pre>
-</p>
 
-</p>
-<p><b>Example 2:</b><br>
+<p>&nbsp;</p>
+
+<p><strong>Example 2:</strong></p>
+
 <pre>
 <b>Input:</b>
-s = "abpcplea", d = ["a","b","c"]
+s = &quot;abpcplea&quot;, d = [&quot;a&quot;,&quot;b&quot;,&quot;c&quot;]
 
 <b>Output:</b> 
-"a"
+&quot;a&quot;
 </pre>
-</p>
 
-<p><b>Note:</b><br>
+<p>&nbsp;</p>
+
+<p><b>Note:</b></p>
+
 <ol>
-<li>All the strings in the input will only contain lower-case letters.</li>
-<li>The size of the dictionary won't exceed 1,000.</li>
-<li>The length of all the strings in the input won't exceed 1,000.</li>
+	<li>All the strings in the input will only contain lower-case letters.</li>
+	<li>The size of the dictionary won&#39;t exceed 1,000.</li>
+	<li>The length of all the strings in the input won&#39;t exceed 1,000.</li>
 </ol>
-</p>
+
+<p>&nbsp;</p>
 
 ### Related Topics
   [[Sort](../../tag/sort/README.md)]
