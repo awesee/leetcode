@@ -175,9 +175,9 @@
 		"TranslatedName": "二叉搜索树"
 	},
 	{
-		"Name": "",
+		"Name": "Dequeue",
 		"Slug": "dequeue",
-		"TranslatedName": ""
+		"TranslatedName": "Dequeue"
 	},
 	{
 		"Name": "Rolling Hash",
@@ -200,9 +200,9 @@
 		"TranslatedName": "蓄水池抽样"
 	},
 	{
-		"Name": "",
+		"Name": "Meet In The Middle",
 		"Slug": "meet-in-the-middle",
-		"TranslatedName": ""
+		"TranslatedName": "Meet In The Middle"
 	},
 	{
 		"Name": "Memoization",
@@ -210,8 +210,8 @@
 		"TranslatedName": "记忆化"
 	},
 	{
-		"Name": "",
+		"Name": "OOP",
 		"Slug": "oop",
-		"TranslatedName": ""
+		"TranslatedName": "OOP"
 	}
 ]

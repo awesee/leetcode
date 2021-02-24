@@ -9,3 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1288 | [删除被覆盖区间](../../problems/remove-covered-intervals) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
+| 1272 | [删除区间](../../problems/remove-interval) 🔒 | [[数学](../math/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
+| 1229 | [安排会议日程](../../problems/meeting-scheduler) 🔒 | [[排序](../sort/README.md)] [[双指针](../two-pointers/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
+| 850 | [矩形面积 II](../../problems/rectangle-area-ii) | [[线段树](../segment-tree/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Hard |
+| 391 | [完美矩形](../../problems/perfect-rectangle) | [[Line Sweep](../line-sweep/README.md)]  | Hard |
+| 218 | [天际线问题](../../problems/the-skyline-problem) | [[堆](../heap/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Hard |
