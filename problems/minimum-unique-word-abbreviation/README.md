@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../fizz-buzz "Fizz Buzz")
 
-## [411. Minimum Unique Word Abbreviation (Hard)](https://leetcode.com/problems/minimum-unique-word-abbreviation "最短特异单词缩写")
+## [411. Minimum Unique Word Abbreviation (Hard)](https://leetcode.com/problems/minimum-unique-word-abbreviation "最短独占单词缩写")
 
 <p>A string such as <code>"word"</code> contains the following abbreviations:</p>
 

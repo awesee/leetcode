@@ -19,3 +19,4 @@
 | 363 | [矩形区域不超过 K 的最大数值和](../../problems/max-sum-of-rectangle-no-larger-than-k) | [[队列](../queue/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 353 | [贪吃蛇](../../problems/design-snake-game) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Medium |
 | 346 | [数据流中的移动平均值](../../problems/moving-average-from-data-stream) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Easy |
+| 199 | [二叉树的右视图](../../problems/binary-tree-right-side-view) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)] [[队列](../queue/README.md)]  | Medium |

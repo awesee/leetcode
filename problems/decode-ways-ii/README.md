@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../solve-the-equation "Solve the Equation")
 
-## [639. Decode Ways II (Hard)](https://leetcode.com/problems/decode-ways-ii "解码方法 2")
+## [639. Decode Ways II (Hard)](https://leetcode.com/problems/decode-ways-ii "解码方法 II")
 
 <p>A message containing letters from <code>A-Z</code> can be <strong>encoded</strong> into numbers using the following mapping:</p>
 

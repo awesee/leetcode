@@ -26,7 +26,8 @@
 | 29 | [Minimax](minimax/README.md) | [极小化极大](https://openset.github.io/tags/minimax/) | | 30 | [Binary Indexed Tree](binary-indexed-tree/README.md) | [树状数组](https://openset.github.io/tags/binary-indexed-tree/) | 
 | 31 | [Brainteaser](brainteaser/README.md) | [脑筋急转弯](https://openset.github.io/tags/brainteaser/) | | 32 | [Line Sweep](line-sweep/README.md) | [Line Sweep](https://openset.github.io/tags/line-sweep/) | 
 | 33 | [Random](random/README.md) | [Random](https://openset.github.io/tags/random/) | | 34 | [Topological Sort](topological-sort/README.md) | [拓扑排序](https://openset.github.io/tags/topological-sort/) | 
-| 35 | [Binary Search Tree](binary-search-tree/README.md) | [二叉搜索树](https://openset.github.io/tags/binary-search-tree/) | | 36 | [](dequeue/README.md) | [](https://openset.github.io/tags/dequeue/) | 
+| 35 | [Binary Search Tree](binary-search-tree/README.md) | [二叉搜索树](https://openset.github.io/tags/binary-search-tree/) | | 36 | [Dequeue](dequeue/README.md) | [Dequeue](https://openset.github.io/tags/dequeue/) | 
 | 37 | [Rolling Hash](rolling-hash/README.md) | [Rolling Hash](https://openset.github.io/tags/rolling-hash/) | | 38 | [Suffix Array](suffix-array/README.md) | [Suffix Array](https://openset.github.io/tags/suffix-array/) | 
 | 39 | [Rejection Sampling](rejection-sampling/README.md) | [Rejection Sampling](https://openset.github.io/tags/rejection-sampling/) | | 40 | [Reservoir Sampling](reservoir-sampling/README.md) | [蓄水池抽样](https://openset.github.io/tags/reservoir-sampling/) | 
-| 41 | [Memoization](memoization/README.md) | [记忆化](https://openset.github.io/tags/memoization/) | | 42 | [](oop/README.md) | [](https://openset.github.io/tags/oop/) | 
+| 41 | [Meet In The Middle](meet-in-the-middle/README.md) | [Meet In The Middle](https://openset.github.io/tags/meet-in-the-middle/) | | 42 | [Memoization](memoization/README.md) | [记忆化](https://openset.github.io/tags/memoization/) | 
+| 43 | [OOP](oop/README.md) | [OOP](https://openset.github.io/tags/oop/) | 

@@ -7,7 +7,7 @@
 
 [< Previous](../maximum-subarray-sum-after-one-operation "Maximum Subarray Sum After One Operation")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../sum-of-unique-elements "Sum of Unique Elements")
 
 ## [1747. Leetflex Banned Accounts (Medium)](https://leetcode.com/problems/leetflex-banned-accounts "")
 

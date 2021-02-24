@@ -11,7 +11,7 @@
 
 ## [1656. Design an Ordered Stream (Easy)](https://leetcode.com/problems/design-an-ordered-stream "设计有序流")
 
-<p>There is a stream of <code>n</code> <code>(id, value)</code> pairs arriving in an <strong>arbitrary</strong> order, where <code>id</code> is an integer between <code>1</code> and <code>n</code> and <code>value</code> is a string. No two pairs have the same <code>id</code>.</p>
+<p>There is a stream of <code>n</code> <code>(idKey, value)</code> pairs arriving in an <strong>arbitrary</strong> order, where <code>idKey</code> is an integer between <code>1</code> and <code>n</code> and <code>value</code> is a string. No two pairs have the same <code>id</code>.</p>
 
 <p>Design a stream that returns the values in <strong>increasing order of their IDs</strong> by returning a <strong>chunk</strong> (list) of values after each insertion. The concatenation of all the <strong>chunks</strong> should result in a list of the sorted values.</p>
 
@@ -19,7 +19,7 @@
 
 <ul>
 	<li><code>OrderedStream(int n)</code> Constructs the stream to take <code>n</code> values.</li>
-	<li><code>String[] insert(int id, String value)</code> Inserts the pair <code>(id, value</code><code>)</code> into the stream, then returns the <strong>largest possible chunk</strong> of currently inserted values that appear next in the order.</li>
+	<li><code>String[] insert(int idKey, String value)</code> Inserts the pair <code>(idKey, value)</code> into the stream, then returns the <strong>largest possible chunk</strong> of currently inserted values that appear next in the order.</li>
 </ul>
 
 <p>&nbsp;</p>

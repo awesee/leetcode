@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../design-phone-directory "Design Phone Directory")
 
-## [378. Kth Smallest Element in a Sorted Matrix (Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix "有序矩阵中第K小的元素")
+## [378. Kth Smallest Element in a Sorted Matrix (Medium)](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix "有序矩阵中第 K 小的元素")
 
 <p>Given an <code>n x n</code> <code>matrix</code> where each of the rows and columns are sorted in ascending order, return <em>the</em> <code>k<sup>th</sup></code> <em>smallest element in the matrix</em>.</p>
 
@@ -21,7 +21,7 @@
 <pre>
 <strong>Input:</strong> matrix = [[1,5,9],[10,11,13],[12,13,15]], k = 8
 <strong>Output:</strong> 13
-<strong>Explanation:</strong> The elements in the matrix are [1,5,9,10,11,12,13,<u><strong>13</strong></u>,15], and the 8<sup>th</sup> largest number is 13
+<strong>Explanation:</strong> The elements in the matrix are [1,5,9,10,11,12,13,<u><strong>13</strong></u>,15], and the 8<sup>th</sup> smallest number is 13
 </pre>
 
 <p><strong>Example 2:</strong></p>

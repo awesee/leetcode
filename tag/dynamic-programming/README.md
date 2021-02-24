@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1771 | [由子序列构造的最长回文串的长度](../../problems/maximize-palindrome-length-from-subsequences) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1770 | [执行乘法运算的最大分数](../../problems/maximum-score-from-performing-multiplication-operations) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1751 | [最多可以参加的会议数目 II](../../problems/maximum-number-of-events-that-can-be-attended-ii) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1746 | [Maximum Subarray Sum After One Operation](../../problems/maximum-subarray-sum-after-one-operation) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1745 | [回文串分割 IV](../../problems/palindrome-partitioning-iv) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1728 | [猫和老鼠 II](../../problems/cat-and-mouse-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -173,7 +176,7 @@
 | 650 | [只有两个键的键盘](../../problems/2-keys-keyboard) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 647 | [回文子串](../../problems/palindromic-substrings) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 646 | [最长数对链](../../problems/maximum-length-of-pair-chain) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 639 | [解码方法 2](../../problems/decode-ways-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 639 | [解码方法 II](../../problems/decode-ways-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 638 | [大礼包](../../problems/shopping-offers) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 629 | [K个逆序对数组](../../problems/k-inverse-pairs-array) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 600 | [不含连续1的非负整数](../../problems/non-negative-integers-without-consecutive-ones) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

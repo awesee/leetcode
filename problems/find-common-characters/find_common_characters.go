@@ -1,5 +1,7 @@
 package problem1002
 
+import "fmt"
+
 func commonChars(A []string) []string {
 	ans, m, l := make([]string, 0), make([][26]int, len(A)), len(A)
 	for i, str := range A {
@@ -19,7 +21,7 @@ func commonChars(A []string) []string {
 				}
 			}
 			if c >= 0 {
-				ans = append(ans, string(i+'a'))
+				ans = append(ans, fmt.Sprintf("%c", i+'a'))
 			}
 		}
 	}
