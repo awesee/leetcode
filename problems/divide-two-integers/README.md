@@ -17,11 +17,7 @@
 
 <p>The integer division should truncate toward zero, which means losing its fractional part. For example, <code>truncate(8.345) = 8</code> and <code>truncate(-2.7335) = -2</code>.</p>
 
-<p><strong>Note:</strong></p>
-
-<ul>
-	<li>Assume we are dealing with an environment that could only store integers within the 32-bit signed integer range: [&minus;2<sup>31</sup>, &nbsp;2<sup>31</sup> &minus; 1]. For this problem, assume that your function <strong>returns 2<sup>31</sup> &minus; 1 when the division result&nbsp;overflows</strong>.</li>
-</ul>
+<p><strong>Note: </strong>Assume we are dealing with an environment that could only store integers within the <strong>32-bit</strong> signed integer range: <code>[&minus;2<sup>31</sup>, 2<sup>31</sup> &minus; 1]</code>. For this problem, assume that your function <strong>returns </strong><code>2<sup>31</sup> &minus; 1</code><strong> when the division result overflows</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -58,7 +54,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>-2<sup>31</sup> &lt;= dividend,&nbsp;divisor &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>-2<sup>31</sup> &lt;= dividend, divisor &lt;= 2<sup>31</sup> - 1</code></li>
 	<li><code>divisor != 0</code></li>
 </ul>
 

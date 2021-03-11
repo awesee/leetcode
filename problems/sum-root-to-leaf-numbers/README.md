@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../surrounded-regions "Surrounded Regions")
 
-## [129. Sum Root to Leaf Numbers (Medium)](https://leetcode.com/problems/sum-root-to-leaf-numbers "求根到叶子节点数字之和")
+## [129. Sum Root to Leaf Numbers (Medium)](https://leetcode.com/problems/sum-root-to-leaf-numbers "求根节点到叶节点数字之和")
 
 <p>You are given the <code>root</code> of a binary tree containing digits from <code>0</code> to <code>9</code> only.</p>
 

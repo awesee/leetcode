@@ -11,11 +11,11 @@
 
 ## [123. Best Time to Buy and Sell Stock III (Hard)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii "买卖股票的最佳时机 III")
 
-<p>Say you have an array for which the <em>i</em><sup>th</sup> element is the price of a given stock on day <em>i</em>.</p>
+<p>You are given an array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day.</p>
 
-<p>Design an algorithm to find the maximum profit. You may complete at most <em>two</em> transactions.</p>
+<p>Find the maximum profit you can achieve. You may complete <strong>at most two transactions</strong>.</p>
 
-<p><strong>Note:&nbsp;</strong>You may not engage in multiple transactions at the same time (i.e., you must sell the stock before you buy again).</p>
+<p><strong>Note:</strong> You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again).</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -54,8 +54,8 @@ Note that you cannot buy on day 1, buy on day 2 and sell them later, as you are 
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;=&nbsp;prices.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>0 &lt;=&nbsp;prices[i] &lt;=&nbsp;10<sup>5</sup></code></li>
+	<li><code>1 &lt;= prices.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>0 &lt;= prices[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 ### Related Topics

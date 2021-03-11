@@ -20,7 +20,7 @@
 
 <p>Notice that <strong>rotating</strong> an array <code>[a[0], a[1], a[2], ..., a[n-1]]</code> 1 time results in the array <code>[a[n-1], a[0], a[1], a[2], ..., a[n-2]]</code>.</p>
 
-<p>Given the sorted rotated array <code>nums</code>, return <em>the minimum element of this array</em>.</p>
+<p>Given the sorted rotated array <code>nums</code> of <strong>unique</strong> elements, return <em>the minimum element of this array</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

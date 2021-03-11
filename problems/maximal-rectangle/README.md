@@ -55,7 +55,7 @@
 
 <ul>
 	<li><code>rows == matrix.length</code></li>
-	<li><code>cols == matrix.length</code></li>
+	<li><code>cols == matrix[i].length</code></li>
 	<li><code>0 &lt;= row, cols &lt;= 200</code></li>
 	<li><code>matrix[i][j]</code> is <code>&#39;0&#39;</code> or <code>&#39;1&#39;</code>.</li>
 </ul>

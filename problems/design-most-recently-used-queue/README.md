@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../recyclable-and-low-fat-products "Recyclable and Low Fat Products")
 
-## [1756. Design Most Recently Used Queue (Medium)](https://leetcode.com/problems/design-most-recently-used-queue "")
+## [1756. Design Most Recently Used Queue (Medium)](https://leetcode.com/problems/design-most-recently-used-queue "设计最近使用（MRU）队列")
 
 
 

@@ -7,7 +7,7 @@
 
 [< Previous](../maximum-score-from-performing-multiplication-operations "Maximum Score from Performing Multiplication Operations")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../sort-features-by-popularity "Sort Features by Popularity")
 
 ## [1771. Maximize Palindrome Length From Subsequences (Hard)](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences "由子序列构造的最长回文串的长度")
 

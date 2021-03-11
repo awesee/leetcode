@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1781 | [所有子字符串美丽值之和](../../problems/sum-of-beauty-of-all-substrings) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1773 | [统计匹配检索规则的物品数量](../../problems/count-items-matching-a-rule) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1768 | [交替合并字符串](../../problems/merge-strings-alternately) | [[字符串](../string/README.md)]  | Easy |
 | 1763 | [最长的美好子字符串](../../problems/longest-nice-substring) | [[字符串](../string/README.md)]  | Easy |
 | 1759 | [统计同构子字符串的数目](../../problems/count-number-of-homogenous-substrings) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |

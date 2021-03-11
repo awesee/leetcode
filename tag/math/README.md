@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1780 | [判断一个数字是否可以表示成三的幂的和](../../problems/check-if-number-is-a-sum-of-powers-of-three) | [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 1776 | [车队 II](../../problems/car-fleet-ii) | [[数学](../math/README.md)]  | Hard |
 | 1766 | [互质树](../../problems/tree-of-coprimes) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1753 | [移除石子的最大得分](../../problems/maximum-score-from-removing-stones) | [[堆](../heap/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1744 | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](../../problems/can-you-eat-your-favorite-candy-on-your-favorite-day) | [[数学](../math/README.md)]  | Medium |

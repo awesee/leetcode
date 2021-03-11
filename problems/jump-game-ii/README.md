@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../permutations "Permutations")
 
-## [45. Jump Game II (Hard)](https://leetcode.com/problems/jump-game-ii "跳跃游戏 II")
+## [45. Jump Game II (Medium)](https://leetcode.com/problems/jump-game-ii "跳跃游戏 II")
 
 <p>Given an array of non-negative integers <code>nums</code>, you are initially positioned at the first index of the array.</p>
 
@@ -39,7 +39,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= nums.length &lt;= 1000</code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
 

@@ -39,7 +39,6 @@ words[2] = &quot;bell&quot;, the substring of s starting from indices[2] = 5 to 
 <strong>Input:</strong> words = [&quot;t&quot;]
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> A valid encoding would be s = &quot;t#&quot; and indices = [0].
-
 </pre>
 
 <p>&nbsp;</p>

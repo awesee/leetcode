@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1772 | [按受欢迎程度排列功能](../../problems/sort-features-by-popularity) 🔒 | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1727 | [重新排列后的最大子矩阵](../../problems/largest-submatrix-with-rearrangements) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
 | 1710 | [卡车上的最大单元数](../../problems/maximum-units-on-a-truck) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Easy |
 | 1697 | [检查边长度限制的路径是否存在](../../problems/checking-existence-of-edge-length-limited-paths) | [[排序](../sort/README.md)] [[并查集](../union-find/README.md)]  | Hard |

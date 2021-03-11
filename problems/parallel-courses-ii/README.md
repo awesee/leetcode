@@ -11,11 +11,11 @@
 
 ## [1494. Parallel Courses II (Hard)](https://leetcode.com/problems/parallel-courses-ii "并行课程 II")
 
-<p>Given the integer <code>n</code> representing the number of courses at some university labeled from <code>1</code> to <code>n</code>, and the array <code>dependencies</code> where <code>dependencies[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> &nbsp;represents a prerequisite relationship, that is, the course <code>x<sub>i</sub></code>&nbsp;must be taken before the course <code>y<sub>i</sub></code>. &nbsp;Also, you are given the&nbsp;integer <code>k</code>.</p>
+<p>Given the integer <code>n</code> representing the number of courses at some university labeled from <code>1</code> to <code>n</code>, and the array <code>dependencies</code> where <code>dependencies[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> represents a prerequisite relationship, that is, the course <code>x<sub>i</sub></code> must be taken before the course <code>y<sub>i</sub></code>. Also, you are given the integer <code>k</code>.</p>
 
 <p>In one semester you can take <strong>at most</strong> <code>k</code> courses as long as you have taken all the prerequisites for the courses you are taking.</p>
 
-<p><em>Return the minimum number of semesters to take all courses</em>.&nbsp;It is guaranteed that you can take all courses in some way.</p>
+<p><em>Return the minimum number of semesters to take all courses</em>. It is guaranteed that you can take all courses in some way.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -51,9 +51,9 @@
 <ul>
 	<li><code>1 &lt;= n &lt;= 15</code></li>
 	<li><code>1 &lt;= k &lt;= n</code></li>
-	<li><code>0 &lt;=&nbsp;dependencies.length &lt;= n * (n-1) / 2</code></li>
+	<li><code>0 &lt;= dependencies.length &lt;= n * (n-1) / 2</code></li>
 	<li><code>dependencies[i].length == 2</code></li>
-	<li><code>1 &lt;= x<sub>i</sub>, y<sub>i</sub>&nbsp;&lt;= n</code></li>
+	<li><code>1 &lt;= x<sub>i</sub>, y<sub>i</sub> &lt;= n</code></li>
 	<li><code>x<sub>i</sub> != y<sub>i</sub></code></li>
 	<li>All prerequisite relationships are distinct, that is, <code>dependencies[i] != dependencies[j]</code>.</li>
 	<li>The given graph is a directed acyclic graph.</li>

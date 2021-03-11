@@ -13,7 +13,7 @@
 
 <p>Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.</p>
 
-<p>According to the <a href="https://en.wikipedia.org/wiki/Lowest_common_ancestor" target="_blank">definition of LCA on Wikipedia</a>: &ldquo;The lowest common ancestor is defined between two nodes p&nbsp;and q&nbsp;as the lowest node in T that has both p&nbsp;and q&nbsp;as descendants (where we allow <b>a node to be a descendant of itself</b>).&rdquo;</p>
+<p>According to the <a href="https://en.wikipedia.org/wiki/Lowest_common_ancestor" target="_blank">definition of LCA on Wikipedia</a>: &ldquo;The lowest common ancestor is defined between two nodes <code>p</code> and <code>q</code> as the lowest node in <code>T</code> that has both <code>p</code> and <code>q</code> as descendants (where we allow <b>a node to be a descendant of itself</b>).&rdquo;</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -47,7 +47,7 @@
 	<li><code>-10<sup>9</sup> &lt;= Node.val &lt;= 10<sup>9</sup></code></li>
 	<li>All <code>Node.val</code> are <strong>unique</strong>.</li>
 	<li><code>p != q</code></li>
-	<li><code>p</code> and <code>q</code> will&nbsp;exist in the tree.</li>
+	<li><code>p</code> and <code>q</code> will exist in the tree.</li>
 </ul>
 
 ### Related Topics

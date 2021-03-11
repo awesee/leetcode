@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../minimum-changes-to-make-alternating-binary-string "Minimum Changes To Make Alternating Binary String")
 
-## [1757. Recyclable and Low Fat Products (Easy)](https://leetcode.com/problems/recyclable-and-low-fat-products "")
+## [1757. Recyclable and Low Fat Products (Easy)](https://leetcode.com/problems/recyclable-and-low-fat-products "可回收且低脂的产品")
 
 

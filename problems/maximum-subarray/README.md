@@ -32,22 +32,8 @@
 <p><strong>Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [0]
-<strong>Output:</strong> 0
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> nums = [-1]
-<strong>Output:</strong> -1
-</pre>
-
-<p><strong>Example 5:</strong></p>
-
-<pre>
-<strong>Input:</strong> nums = [-100000]
-<strong>Output:</strong> -100000
+<strong>Input:</strong> nums = [5,4,-1,7,8]
+<strong>Output:</strong> 23
 </pre>
 
 <p>&nbsp;</p>

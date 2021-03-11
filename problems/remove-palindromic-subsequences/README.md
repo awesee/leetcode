@@ -11,7 +11,7 @@
 
 ## [1332. Remove Palindromic Subsequences (Easy)](https://leetcode.com/problems/remove-palindromic-subsequences "删除回文子序列")
 
-<p>Given a string <code>s</code> consisting only of&nbsp;letters&nbsp;<code>&#39;a&#39;</code> and <code>&#39;b&#39;</code>. In a single step you can remove one&nbsp;palindromic <strong>subsequence</strong>&nbsp;from <code>s</code>.</p>
+<p>Given a string <code>s</code> consisting only of letters <code>&#39;a&#39;</code> and <code>&#39;b&#39;</code>. In a single step you can remove one palindromic <strong>subsequence</strong> from <code>s</code>.</p>
 
 <p>Return the minimum number of steps to make the given string empty.</p>
 
@@ -46,19 +46,12 @@ Remove palindromic subsequence &quot;a&quot; then &quot;bb&quot;.
 Remove palindromic subsequence &quot;baab&quot; then &quot;b&quot;.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;&quot;
-<strong>Output:</strong> 0
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= s.length &lt;= 1000</code></li>
-	<li><code>s</code> only consists of letters &#39;a&#39; and &#39;b&#39;</li>
+	<li><code>1 &lt;= s.length &lt;= 1000</code></li>
+	<li><code>s[i]</code> is either <code>&#39;a&#39;</code> or <code>&#39;b&#39;</code>.</li>
 </ul>
 
 ### Related Topics

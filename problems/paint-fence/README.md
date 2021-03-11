@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../find-the-celebrity "Find the Celebrity")
 
-## [276. Paint Fence (Easy)](https://leetcode.com/problems/paint-fence "栅栏涂色")
+## [276. Paint Fence (Medium)](https://leetcode.com/problems/paint-fence "栅栏涂色")
 
 <p>There is a fence with n posts, each post can be painted with one of the k colors.</p>
 

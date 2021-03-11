@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1786 | [从第一个节点出发到最后一个节点的受限路径数](../../problems/number-of-restricted-paths-from-first-to-last-node) | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1782 | [统计点对的数目](../../problems/count-pairs-of-nodes) | [[图](../graph/README.md)]  | Hard |
+| 1778 | [Shortest Path in a Hidden Grid](../../problems/shortest-path-in-a-hidden-grid) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1765 | [地图中的最高点](../../problems/map-of-highest-peak) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1761 | [一个图中连通三元组的最小度数](../../problems/minimum-degree-of-a-connected-trio-in-a-graph) | [[图](../graph/README.md)]  | Hard |
 | 1730 | [获取食物的最短路径](../../problems/shortest-path-to-get-food) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
@@ -30,7 +33,7 @@
 | 1168 | [水资源分配优化](../../problems/optimize-water-distribution-in-a-village) 🔒 | [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
 | 1162 | [地图分析](../../problems/as-far-from-land-as-possible) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1153 | [字符串转化](../../problems/string-transforms-into-another-string) 🔒 | [[图](../graph/README.md)]  | Hard |
-| 1136 | [平行课程](../../problems/parallel-courses) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1136 | [平行课程](../../problems/parallel-courses) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1135 | [最低成本联通所有城市](../../problems/connecting-cities-with-minimum-cost) 🔒 | [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1129 | [颜色交替的最短路径](../../problems/shortest-path-with-alternating-colors) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1102 | [得分最高的路径](../../problems/path-with-maximum-minimum-value) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |

@@ -11,35 +11,27 @@
 
 ## [516. Longest Palindromic Subsequence (Medium)](https://leetcode.com/problems/longest-palindromic-subsequence "最长回文子序列")
 
-<p>Given a string s, find the longest palindromic subsequence&#39;s length in s. You may assume that the maximum length of s is 1000.</p>
+<p>Given a string <code>s</code>, find <em>the longest palindromic <strong>subsequence</strong>&#39;s length in</em> <code>s</code>.</p>
 
-<p><b>Example 1:</b><br />
-Input:</p>
-
-<pre>
-&quot;bbbab&quot;
-</pre>
-Output:
-
-<pre>
-4
-</pre>
-One possible longest palindromic subsequence is &quot;bbbb&quot;.
+<p>A <strong>subsequence</strong> is a sequence that can be derived from another sequence by deleting some or no elements without changing the order of the remaining elements.</p>
 
 <p>&nbsp;</p>
-
-<p><b>Example 2:</b><br />
-Input:</p>
+<p><strong>Example 1:</strong></p>
 
 <pre>
-&quot;cbbd&quot;
+<strong>Input:</strong> s = &quot;bbbab&quot;
+<strong>Output:</strong> 4
+<strong>Explanation:</strong> One possible longest palindromic subsequence is &quot;bbbb&quot;.
 </pre>
-Output:
+
+<p><strong>Example 2:</strong></p>
 
 <pre>
-2
+<strong>Input:</strong> s = &quot;cbbd&quot;
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> One possible longest palindromic subsequence is &quot;bb&quot;.
 </pre>
-One possible longest palindromic subsequence is &quot;bb&quot;.
+
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

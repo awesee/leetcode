@@ -11,15 +11,17 @@
 
 ## [1093. Statistics from a Large Sample (Medium)](https://leetcode.com/problems/statistics-from-a-large-sample "大样本统计")
 
-<p>We sampled integers between <code>0</code> and <code>255</code>, and stored the results in an array <code>count</code>:&nbsp; <code>count[k]</code> is the number of integers we sampled equal to <code>k</code>.</p>
+<p>We sampled integers in the range <code>[0, 255]</code> and stored the results in an array count where <code>count[k]</code> is the number of integers we sampled equal to <code>k</code>.</p>
 
-<p>Return the minimum, maximum, mean, median, and mode of the sample respectively, as an array of <strong>floating point numbers</strong>.&nbsp; The mode is guaranteed to be unique.</p>
+<p>Return <em>the minimum, maximum, mean, median, and mode of the sample respectively, as an array of floating-point numbers</em>. Answers within <code>10<sup>-5</sup></code> of the actual answer will be considered accepted.</p>
 
-<p><em>(Recall that the median of a sample is:</em></p>
+<p>The mode is guaranteed to be unique.</p>
+
+<p>The <strong>median of a sample</strong> is:</p>
 
 <ul>
-	<li><em>The middle element, if the elements of the sample were sorted and the number of elements is odd;</em></li>
-	<li><em>The average of the middle two elements, if the elements of the sample were sorted and the number of elements is even.)</em></li>
+	<li>The middle element, if the elements of the sample were sorted and the number of elements is odd, or</li>
+	<li>The average of the middle two elements, if the elements of the sample were sorted and the number of elements is even.</li>
 </ul>
 
 <p>&nbsp;</p>
@@ -33,12 +35,12 @@
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
-<ol>
+<ul>
 	<li><code>count.length == 256</code></li>
-	<li><code>1 &lt;= sum(count) &lt;= 10^9</code></li>
-	<li>The mode of the sample that count represents is unique.</li>
-	<li>Answers within <code>10^-5</code> of the true value will be accepted as correct.</li>
-</ol>
+	<li><code>0 &lt;= count[i] &lt;= 256</code></li>
+	<li><code>1 &lt;= sum(count) &lt;= 10<sup>9</sup></code></li>
+	<li>The mode of the sample that <code>count</code> represents is <strong>unique</strong>.</li>
+</ul>
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]

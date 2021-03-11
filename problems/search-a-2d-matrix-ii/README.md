@@ -11,7 +11,7 @@
 
 ## [240. Search a 2D Matrix II (Medium)](https://leetcode.com/problems/search-a-2d-matrix-ii "搜索二维矩阵 II")
 
-<p>Write an efficient algorithm that searches for a <code>target</code> value in an <code>m x n</code>&nbsp;integer <code>matrix</code>. The <code>matrix</code> has the following properties:</p>
+<p>Write an efficient algorithm that searches for a <code>target</code> value in an <code>m x n</code> integer <code>matrix</code>. The <code>matrix</code> has the following properties:</p>
 
 <ul>
 	<li>Integers in each row are sorted in ascending from left to right.</li>
