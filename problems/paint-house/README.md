@@ -34,4 +34,4 @@ All costs are positive integers.</p>
   1. [House Robber](../house-robber) (Medium)
   1. [House Robber II](../house-robber-ii) (Medium)
   1. [Paint House II](../paint-house-ii) (Hard)
-  1. [Paint Fence](../paint-fence) (Easy)
+  1. [Paint Fence](../paint-fence) (Medium)

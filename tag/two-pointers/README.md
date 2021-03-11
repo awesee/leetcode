@@ -47,7 +47,7 @@
 | 532 | [数组中的 k-diff 数对](../../problems/k-diff-pairs-in-an-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 524 | [通过删除字母匹配到字典里最长单词](../../problems/longest-word-in-dictionary-through-deleting) | [[排序](../sort/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 487 | [最大连续1的个数 II](../../problems/max-consecutive-ones-ii) 🔒 | [[双指针](../two-pointers/README.md)]  | Medium |
-| 457 | [环形数组循环](../../problems/circular-array-loop) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 457 | [环形数组是否存在循环](../../problems/circular-array-loop) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 424 | [替换后的最长重复字符](../../problems/longest-repeating-character-replacement) | [[双指针](../two-pointers/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 360 | [有序转化数组](../../problems/sort-transformed-array) 🔒 | [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 350 | [两个数组的交集 II](../../problems/intersection-of-two-arrays-ii) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |

@@ -9,9 +9,14 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1788 | [Maximize the Beauty of the Garden](../../problems/maximize-the-beauty-of-the-garden) 🔒 | [[贪心算法](../greedy/README.md)]  | Hard |
+| 1785 | [构成特定和需要添加的最少元素](../../problems/minimum-elements-to-add-to-form-a-given-sum) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1784 | [检查二进制字符串字段](../../problems/check-if-binary-string-has-at-most-one-segment-of-ones) | [[贪心算法](../greedy/README.md)]  | Easy |
+| 1775 | [通过最少操作次数使数组的和相等](../../problems/equal-sum-arrays-with-minimum-number-of-operations) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1774 | [最接近目标价格的甜点成本](../../problems/closest-dessert-cost) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1769 | [移动所有球到每个盒子所需的最小操作数](../../problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1764 | [通过连接另一个数组的子数组得到一个数组](../../problems/form-array-by-concatenating-subarrays-of-another-array) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
-| 1762 | [Buildings With an Ocean View](../../problems/buildings-with-an-ocean-view) 🔒 | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1762 | [能看到海景的建筑物](../../problems/buildings-with-an-ocean-view) 🔒 | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1759 | [统计同构子字符串的数目](../../problems/count-number-of-homogenous-substrings) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1758 | [生成交替二进制字符串的最少操作数](../../problems/minimum-changes-to-make-alternating-binary-string) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1754 | [构造字典序最大的合并字符串](../../problems/largest-merge-of-two-strings) | [[贪心算法](../greedy/README.md)]  | Medium |
@@ -146,5 +151,5 @@
 | 134 | [加油站](../../problems/gas-station) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 122 | [买卖股票的最佳时机 II](../../problems/best-time-to-buy-and-sell-stock-ii) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
 | 55 | [跳跃游戏](../../problems/jump-game) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
-| 45 | [跳跃游戏 II](../../problems/jump-game-ii) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Hard |
+| 45 | [跳跃游戏 II](../../problems/jump-game-ii) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 44 | [通配符匹配](../../problems/wildcard-matching) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |

@@ -30,14 +30,14 @@
 		"TranslatedName": "深度优先搜索"
 	},
 	{
-		"Name": "Hash Table",
-		"Slug": "hash-table",
-		"TranslatedName": "哈希表"
-	},
-	{
 		"Name": "Greedy",
 		"Slug": "greedy",
 		"TranslatedName": "贪心算法"
+	},
+	{
+		"Name": "Hash Table",
+		"Slug": "hash-table",
+		"TranslatedName": "哈希表"
 	},
 	{
 		"Name": "Binary Search",
@@ -95,14 +95,14 @@
 		"TranslatedName": "堆"
 	},
 	{
-		"Name": "Union Find",
-		"Slug": "union-find",
-		"TranslatedName": "并查集"
-	},
-	{
 		"Name": "Recursion",
 		"Slug": "recursion",
 		"TranslatedName": "递归"
+	},
+	{
+		"Name": "Union Find",
+		"Slug": "union-find",
+		"TranslatedName": "并查集"
 	},
 	{
 		"Name": "Sliding Window",

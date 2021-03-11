@@ -47,4 +47,4 @@
   [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Jump Game II](../jump-game-ii) (Hard)
+  1. [Jump Game II](../jump-game-ii) (Medium)

@@ -55,7 +55,7 @@
 ### Similar Questions
   1. [Multiply Strings](../multiply-strings) (Medium)
   1. [Add Binary](../add-binary) (Easy)
-  1. [Sum of Two Integers](../sum-of-two-integers) (Easy)
+  1. [Sum of Two Integers](../sum-of-two-integers) (Medium)
   1. [Add Strings](../add-strings) (Easy)
   1. [Add Two Numbers II](../add-two-numbers-ii) (Medium)
   1. [Add to Array-Form of Integer](../add-to-array-form-of-integer) (Easy)

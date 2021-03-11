@@ -11,13 +11,15 @@
 
 ## [1143. Longest Common Subsequence (Medium)](https://leetcode.com/problems/longest-common-subsequence "最长公共子序列")
 
-<p>Given two strings <code>text1</code> and <code>text2</code>, return the length of their longest common subsequence.</p>
+<p>Given two strings <code>text1</code> and <code>text2</code>, return <em>the length of their longest <strong>common subsequence</strong>. </em>If there is no <strong>common subsequence</strong>, return <code>0</code>.</p>
 
-<p>A <em>subsequence</em> of a string is a new string generated from the original string with some characters(can be none) deleted without changing the relative order of the remaining characters. (eg, &quot;ace&quot; is a subsequence of &quot;abcde&quot; while &quot;aec&quot; is not).&nbsp;A <em>common subsequence</em>&nbsp;of two strings is a subsequence that is common to both strings.</p>
+<p>A <strong>subsequence</strong> of a string is a new string generated from the original string with some characters (can be none) deleted without changing the relative order of the remaining characters.</p>
 
-<p>&nbsp;</p>
+<ul>
+	<li>For example, <code>&quot;ace&quot;</code> is a subsequence of <code>&quot;abcde&quot;</code>.</li>
+</ul>
 
-<p>If there is no common subsequence, return 0.</p>
+<p>A <strong>common subsequence</strong> of two strings is a subsequence that is common to both strings.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -48,9 +50,8 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= text1.length &lt;= 1000</code></li>
-	<li><code>1 &lt;= text2.length &lt;= 1000</code></li>
-	<li>The input strings consist of lowercase English characters only.</li>
+	<li><code>1 &lt;= text1.length, text2.length &lt;= 1000</code></li>
+	<li><code>text1</code> and <code>text2</code> consist of only lowercase English characters.</li>
 </ul>
 
 ### Related Topics

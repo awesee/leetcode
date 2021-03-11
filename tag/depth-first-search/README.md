@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1778 | [Shortest Path in a Hidden Grid](../../problems/shortest-path-in-a-hidden-grid) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1766 | [互质树](../../problems/tree-of-coprimes) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1740 | [找到二叉树中的距离](../../problems/find-distance-in-a-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1730 | [获取食物的最短路径](../../problems/shortest-path-to-get-food) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
@@ -44,7 +45,7 @@
 | 1203 | [项目管理](../../problems/sort-items-by-groups-respecting-dependencies) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Hard |
 | 1192 | [查找集群内的「关键连接」](../../problems/critical-connections-in-a-network) | [[深度优先搜索](../depth-first-search/README.md)]  | Hard |
 | 1145 | [二叉树着色游戏](../../problems/binary-tree-coloring-game) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
-| 1136 | [平行课程](../../problems/parallel-courses) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1136 | [平行课程](../../problems/parallel-courses) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1123 | [最深叶节点的最近公共祖先](../../problems/lowest-common-ancestor-of-deepest-leaves) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1110 | [删点成林](../../problems/delete-nodes-and-return-forest) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 1102 | [得分最高的路径](../../problems/path-with-maximum-minimum-value) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
@@ -129,7 +130,7 @@
 | 366 | [寻找二叉树的叶子节点](../../problems/find-leaves-of-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 364 | [加权嵌套序列和 II](../../problems/nested-list-weight-sum-ii) 🔒 | [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 339 | [嵌套列表权重和](../../problems/nested-list-weight-sum) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
-| 337 | [打家劫舍 III](../../problems/house-robber-iii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 337 | [打家劫舍 III](../../problems/house-robber-iii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 332 | [重新安排行程](../../problems/reconstruct-itinerary) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 329 | [矩阵中的最长递增路径](../../problems/longest-increasing-path-in-a-matrix) | [[深度优先搜索](../depth-first-search/README.md)] [[拓扑排序](../topological-sort/README.md)] [[记忆化](../memoization/README.md)]  | Hard |
 | 323 | [无向图中连通分量的数目](../../problems/number-of-connected-components-in-an-undirected-graph) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
@@ -145,7 +146,7 @@
 | 133 | [克隆图](../../problems/clone-graph) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 131 | [分割回文串](../../problems/palindrome-partitioning) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 130 | [被围绕的区域](../../problems/surrounded-regions) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
-| 129 | [求根到叶子节点数字之和](../../problems/sum-root-to-leaf-numbers) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
+| 129 | [求根节点到叶节点数字之和](../../problems/sum-root-to-leaf-numbers) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 124 | [二叉树中的最大路径和](../../problems/binary-tree-maximum-path-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Hard |
 | 117 | [填充每个节点的下一个右侧节点指针 II](../../problems/populating-next-right-pointers-in-each-node-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 116 | [填充每个节点的下一个右侧节点指针](../../problems/populating-next-right-pointers-in-each-node) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |

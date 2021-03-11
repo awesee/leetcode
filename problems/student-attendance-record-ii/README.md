@@ -11,35 +11,49 @@
 
 ## [552. Student Attendance Record II (Hard)](https://leetcode.com/problems/student-attendance-record-ii "学生出勤记录 II")
 
-<p>Given a positive integer <b>n</b>, return the number of all possible attendance records with length n, which will be regarded as rewardable. The answer may be very large, return it after mod 10<sup>9</sup> + 7.</p>
+<p>Given an integer <code>n</code>, return <em>the number of all possible attendance records with length</em> <code>n</code>, which will be regarded as rewardable. The answer may be very large, return it modulo <code>10<sup>9</sup> + 7</code>.</p>
 
 <p>A student attendance record is a string that only contains the following three characters:</p>
 
-<p>
-<ol>
-<li><b>'A'</b> : Absent. </li>
-<li><b>'L'</b> : Late.</li>
-<li> <b>'P'</b> : Present. </li>
-</ol>
-</p>
+<ul>
+	<li><code>&#39;A&#39;</code>: Absent.</li>
+	<li><code>&#39;L&#39;</code>: Late.</li>
+	<li><code>&#39;P&#39;</code>: Present.</li>
+</ul>
 
-<p>
-A record is regarded as rewardable if it doesn't contain <b>more than one 'A' (absent)</b> or <b>more than two continuous 'L' (late)</b>.</p>
+<p>A record is regarded as rewardable if it does not contain more than one <code>&#39;A&#39;</code> (absent) or more than two consecutive <code>&#39;L&#39;</code> (late).</p>
 
-<p><b>Example 1:</b><br />
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+
 <pre>
-<b>Input:</b> n = 2
-<b>Output:</b> 8 
-<b>Explanation:</b>
-There are 8 records with length 2 will be regarded as rewardable:
-"PP" , "AP", "PA", "LP", "PL", "AL", "LA", "LL"
-Only "AA" won't be regarded as rewardable owing to more than one absent times. 
+<strong>Input:</strong> n = 2
+<strong>Output:</strong> 8
+<strong>Explanation:</strong> There are 8 records with length 2 will be regarded as rewardable:
+&quot;PP&quot; , &quot;AP&quot;, &quot;PA&quot;, &quot;LP&quot;, &quot;PL&quot;, &quot;AL&quot;, &quot;LA&quot;, &quot;LL&quot;
+Only &quot;AA&quot; won&#39;t be regarded as rewardable owing to more than one absent time.
 </pre>
-</p>
 
-<p><b>Note:</b>
-The value of <b>n</b> won't exceed 100,000.
-</p>
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 1
+<strong>Output:</strong> 3
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 10101
+<strong>Output:</strong> 183236316
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
+</ul>
 
 ### Related Topics
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

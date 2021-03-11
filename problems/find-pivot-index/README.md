@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../split-linked-list-in-parts "Split Linked List in Parts")
 
-## [724. Find Pivot Index (Easy)](https://leetcode.com/problems/find-pivot-index "寻找数组的中心索引")
+## [724. Find Pivot Index (Easy)](https://leetcode.com/problems/find-pivot-index "寻找数组的中心下标")
 
 <p>Given an array of integers <code>nums</code>, calculate the <strong>pivot index</strong> of this array.</p>
 

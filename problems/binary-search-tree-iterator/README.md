@@ -11,7 +11,7 @@
 
 ## [173. Binary Search Tree Iterator (Medium)](https://leetcode.com/problems/binary-search-tree-iterator "二叉搜索树迭代器")
 
-<p>Implement the <code>BSTIterator</code> class that represents an iterator over&nbsp;the <strong><a href="https://en.wikipedia.org/wiki/Tree_traversal#In-order_(LNR)">in-order traversal</a></strong>&nbsp;of&nbsp;a binary search tree (BST):</p>
+<p>Implement the <code>BSTIterator</code> class that represents an iterator over the <strong><a href="https://en.wikipedia.org/wiki/Tree_traversal#In-order_(LNR)" target="_blank">in-order traversal</a></strong> of a binary search tree (BST):</p>
 
 <ul>
 	<li><code>BSTIterator(TreeNode root)</code> Initializes an object of the <code>BSTIterator</code> class. The <code>root</code> of the BST is given as part of the constructor. The pointer should be initialized to a non-existent number smaller than any element in the BST.</li>
@@ -21,7 +21,7 @@
 
 <p>Notice that by initializing the pointer to a non-existent smallest number, the first call to <code>next()</code> will return the smallest element in the BST.</p>
 
-<p>You may assume that <code>next()</code>&nbsp;calls will always be valid. That is, there will be at least a next number in the in-order traversal&nbsp;when <code>next()</code>&nbsp;is called.</p>
+<p>You may assume that <code>next()</code> calls will always be valid. That is, there will be at least a next number in the in-order traversal when <code>next()</code> is called.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

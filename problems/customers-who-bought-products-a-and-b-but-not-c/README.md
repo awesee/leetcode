@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../count-largest-group "Count Largest Group")
 
-## [1398. Customers Who Bought Products A and B but Not C (Medium)](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c "购买了产品A和产品B却没有购买产品C的顾客")
+## [1398. Customers Who Bought Products A and B but Not C (Medium)](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c "购买了产品 A 和产品 B 却没有购买产品 C 的顾客")
 
 <p>Table: <code>Customers</code></p>
 <pre>

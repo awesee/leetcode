@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../n-ary-tree-postorder-traversal "N-ary Tree Postorder Traversal")
 
-## [589. N-ary Tree Preorder Traversal (Easy)](https://leetcode.com/problems/n-ary-tree-preorder-traversal "N叉树的前序遍历")
+## [589. N-ary Tree Preorder Traversal (Easy)](https://leetcode.com/problems/n-ary-tree-preorder-traversal "N 叉树的前序遍历")
 
 <p>Given an n-ary tree, return the <i>preorder</i> traversal of its nodes&#39; values.</p>
 

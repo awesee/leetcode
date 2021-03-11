@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../longest-nice-substring "Longest Nice Substring")
 
-## [1762. Buildings With an Ocean View (Medium)](https://leetcode.com/problems/buildings-with-an-ocean-view "")
+## [1762. Buildings With an Ocean View (Medium)](https://leetcode.com/problems/buildings-with-an-ocean-view "能看到海景的建筑物")
 
 
 

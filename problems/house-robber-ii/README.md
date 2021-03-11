@@ -54,7 +54,7 @@ Total amount you can rob = 1 + 3 = 4.
 ### Similar Questions
   1. [House Robber](../house-robber) (Medium)
   1. [Paint House](../paint-house) (Medium)
-  1. [Paint Fence](../paint-fence) (Easy)
+  1. [Paint Fence](../paint-fence) (Medium)
   1. [House Robber III](../house-robber-iii) (Medium)
   1. [Non-negative Integers without Consecutive Ones](../non-negative-integers-without-consecutive-ones) (Hard)
   1. [Coin Path](../coin-path) (Hard)

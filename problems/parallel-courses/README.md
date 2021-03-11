@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../n-th-tribonacci-number "N-th Tribonacci Number")
 
-## [1136. Parallel Courses (Hard)](https://leetcode.com/problems/parallel-courses "平行课程")
+## [1136. Parallel Courses (Medium)](https://leetcode.com/problems/parallel-courses "平行课程")
 
 <p>There are <code>N</code> courses, labelled from 1 to <code>N</code>.</p>
 
@@ -62,40 +62,15 @@ No course can be studied because they depend on each other.
 ### Hints
 <details>
 <summary>Hint 1</summary>
-Try to think of it as a graph problem.
+Try to think of it as a graph problem. It will be impossible to study all the courses if the graph had a cycle.
 </details>
 
 <details>
 <summary>Hint 2</summary>
-When will be impossible to study all the courses?
+The graph is a directed acyclic graph (DAG). The answer is the longes path in this DAG.
 </details>
 
 <details>
 <summary>Hint 3</summary>
-What if the directed graph has a cycle?
-</details>
-
-<details>
-<summary>Hint 4</summary>
-If you build a graph using the relations, what would be the graph type?
-</details>
-
-<details>
-<summary>Hint 5</summary>
-So the graph is a directed acyclic graph (DAG).
-</details>
-
-<details>
-<summary>Hint 6</summary>
-Imagine having a long path in the DAG, what can you say about the answer then?
-</details>
-
-<details>
-<summary>Hint 7</summary>
-How to find the longest path in a DAG?
-</details>
-
-<details>
-<summary>Hint 8</summary>
-We can use DP in order to solve this.
+You can use DP to find the longest path in the DAG.
 </details>

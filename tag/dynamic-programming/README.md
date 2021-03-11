@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1787 | [使所有区间的异或结果为零](../../problems/make-the-xor-of-all-segments-equal-to-zero) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1786 | [从第一个节点出发到最后一个节点的受限路径数](../../problems/number-of-restricted-paths-from-first-to-last-node) | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1771 | [由子序列构造的最长回文串的长度](../../problems/maximize-palindrome-length-from-subsequences) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1770 | [执行乘法运算的最大分数](../../problems/maximum-score-from-performing-multiplication-operations) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1751 | [最多可以参加的会议数目 II](../../problems/maximum-number-of-events-that-can-be-attended-ii) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -60,7 +62,7 @@
 | 1423 | [可获得的最大点数](../../problems/maximum-points-you-can-obtain-from-cards) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
 | 1420 | [生成数组](../../problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1416 | [恢复数组](../../problems/restore-the-array) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 1411 | [给 N x 3 网格图涂色的方案数](../../problems/number-of-ways-to-paint-n-x-3-grid) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1411 | [给 N x 3 网格图涂色的方案数](../../problems/number-of-ways-to-paint-n-3-grid) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1406 | [石子游戏 III](../../problems/stone-game-iii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1405 | [最长快乐字符串](../../problems/longest-happy-string) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1402 | [做菜顺序](../../problems/reducing-dishes) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -105,7 +107,7 @@
 | 1143 | [最长公共子序列](../../problems/longest-common-subsequence) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1140 | [石子游戏 II](../../problems/stone-game-ii) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1139 | [最大的以 1 为边界的正方形](../../problems/largest-1-bordered-square) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 1136 | [平行课程](../../problems/parallel-courses) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1136 | [平行课程](../../problems/parallel-courses) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1130 | [叶值的最小代价生成树](../../problems/minimum-cost-tree-from-leaf-values) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1125 | [最小的必要团队](../../problems/smallest-sufficient-team) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1105 | [填充书架](../../problems/filling-bookcase-shelves) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
@@ -214,6 +216,7 @@
 | 351 | [安卓系统手势解锁](../../problems/android-unlock-patterns) 🔒 | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 343 | [整数拆分](../../problems/integer-break) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 338 | [比特位计数](../../problems/counting-bits) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 337 | [打家劫舍 III](../../problems/house-robber-iii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 322 | [零钱兑换](../../problems/coin-change) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 321 | [拼接最大数](../../problems/create-maximum-number) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 312 | [戳气球](../../problems/burst-balloons) | [[分治算法](../divide-and-conquer/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -222,7 +225,7 @@
 | 303 | [区域和检索 - 数组不可变](../../problems/range-sum-query-immutable) | [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 300 | [最长递增子序列](../../problems/longest-increasing-subsequence) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 279 | [完全平方数](../../problems/perfect-squares) | [[广度优先搜索](../breadth-first-search/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 276 | [栅栏涂色](../../problems/paint-fence) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 276 | [栅栏涂色](../../problems/paint-fence) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 265 | [粉刷房子 II](../../problems/paint-house-ii) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 264 | [丑数 II](../../problems/ugly-number-ii) | [[堆](../heap/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 256 | [粉刷房子](../../problems/paint-house) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Medium |

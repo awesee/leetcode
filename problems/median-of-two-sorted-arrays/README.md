@@ -13,8 +13,6 @@
 
 <p>Given two sorted arrays <code>nums1</code> and <code>nums2</code> of size <code>m</code> and <code>n</code> respectively, return <strong>the median</strong> of the two sorted arrays.</p>
 
-<p><strong>Follow up:</strong> The overall run time complexity should be <code>O(log (m+n))</code>.</p>
-
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
@@ -64,6 +62,9 @@
 	<li><code>1 &lt;= m + n &lt;= 2000</code></li>
 	<li><code>-10<sup>6</sup> &lt;= nums1[i], nums2[i] &lt;= 10<sup>6</sup></code></li>
 </ul>
+
+<p>&nbsp;</p>
+<strong>Follow up:</strong> The overall run time complexity should be <code>O(log (m+n))</code>.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

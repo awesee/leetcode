@@ -37,7 +37,7 @@
 </ul>
 
 <p>&nbsp;</p>
-<b>Follow up:&nbsp;</b>Could you do it without using any loop / recursion?
+<strong>Follow up:</strong> Could you solve it without loops/recursion?
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]

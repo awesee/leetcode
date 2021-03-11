@@ -50,7 +50,7 @@
 | 397 | [整数替换](../../problems/integer-replacement) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Medium |
 | 393 | [UTF-8 编码验证](../../problems/utf-8-validation) | [[位运算](../bit-manipulation/README.md)]  | Medium |
 | 389 | [找不同](../../problems/find-the-difference) | [[位运算](../bit-manipulation/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
-| 371 | [两整数之和](../../problems/sum-of-two-integers) | [[位运算](../bit-manipulation/README.md)]  | Easy |
+| 371 | [两整数之和](../../problems/sum-of-two-integers) | [[位运算](../bit-manipulation/README.md)]  | Medium |
 | 342 | [4的幂](../../problems/power-of-four) | [[位运算](../bit-manipulation/README.md)]  | Easy |
 | 338 | [比特位计数](../../problems/counting-bits) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 320 | [列举单词的全部缩写](../../problems/generalized-abbreviation) 🔒 | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |

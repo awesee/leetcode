@@ -11,11 +11,11 @@
 
 ## [188. Best Time to Buy and Sell Stock IV (Hard)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv "买卖股票的最佳时机 IV")
 
-<p>You are given&nbsp;an integer array <code>prices</code> where <code>prices[i]</code>&nbsp;is the price of a given stock on the <code>i<sup>th</sup></code> day.</p>
+<p>You are given an integer array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day, and an integer <code>k</code>.</p>
 
-<p>Design an algorithm to find the maximum profit. You may complete at most <code>k</code> transactions.</p>
+<p>Find the maximum profit you can achieve. You may complete at most <code>k</code> transactions.</p>
 
-<p><strong>Notice</strong> that you may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again).</p>
+<p><strong>Note:</strong> You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again).</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
