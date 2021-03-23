@@ -11,9 +11,7 @@
 
 ## [552. Student Attendance Record II (Hard)](https://leetcode.com/problems/student-attendance-record-ii "学生出勤记录 II")
 
-<p>Given an integer <code>n</code>, return <em>the number of all possible attendance records with length</em> <code>n</code>, which will be regarded as rewardable. The answer may be very large, return it modulo <code>10<sup>9</sup> + 7</code>.</p>
-
-<p>A student attendance record is a string that only contains the following three characters:</p>
+<p>An attendance record for a student can be represented as a string where each character signifies whether the student was absent, late, or present on that day. The record only contains the following three characters:</p>
 
 <ul>
 	<li><code>&#39;A&#39;</code>: Absent.</li>
@@ -21,7 +19,14 @@
 	<li><code>&#39;P&#39;</code>: Present.</li>
 </ul>
 
-<p>A record is regarded as rewardable if it does not contain more than one <code>&#39;A&#39;</code> (absent) or more than two consecutive <code>&#39;L&#39;</code> (late).</p>
+<p>Any student is eligible for an attendance award if they meet <strong>both</strong> of the following criteria:</p>
+
+<ul>
+	<li>The student was absent (<code>&#39;A&#39;</code>) for <strong>strictly</strong> fewer than 2 days <strong>total</strong>.</li>
+	<li>The student was <strong>never</strong> late (<code>&#39;L&#39;</code>) for 3 or more <strong>consecutive</strong> days.</li>
+</ul>
+
+<p>Given an integer <code>n</code>, return <em>the <strong>number</strong> of possible attendance records of length</em> <code>n</code><em> that make a student eligible for an attendance award. The answer may be very large, so return it <strong>modulo</strong> </em><code>10<sup>9</sup> + 7</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -29,9 +34,9 @@
 <pre>
 <strong>Input:</strong> n = 2
 <strong>Output:</strong> 8
-<strong>Explanation:</strong> There are 8 records with length 2 will be regarded as rewardable:
-&quot;PP&quot; , &quot;AP&quot;, &quot;PA&quot;, &quot;LP&quot;, &quot;PL&quot;, &quot;AL&quot;, &quot;LA&quot;, &quot;LL&quot;
-Only &quot;AA&quot; won&#39;t be regarded as rewardable owing to more than one absent time.
+<strong>Explanation:</strong> There are 8 records with length 2 that are eligible for an award:
+&quot;PP&quot;, &quot;AP&quot;, &quot;PA&quot;, &quot;LP&quot;, &quot;PL&quot;, &quot;AL&quot;, &quot;LA&quot;, &quot;LL&quot;
+Only &quot;AA&quot; is not eligible because there are 2 absences (there need to be fewer than 2).
 </pre>
 
 <p><strong>Example 2:</strong></p>

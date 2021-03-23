@@ -31,7 +31,7 @@ Since the researcher has 3 papers with at least 3 citations each and the remaini
 
 <pre>
 <strong>Input:</strong> citations = [1,2,100]
-<strong>Output:</strong> 0
+<strong>Output:</strong> 2
 </pre>
 
 <p>&nbsp;</p>

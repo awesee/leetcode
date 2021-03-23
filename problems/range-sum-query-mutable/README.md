@@ -16,9 +16,9 @@
 <p>Implement the <code>NumArray</code> class:</p>
 
 <ul>
-	<li><code>NumArray(int[] nums)</code> Initializes the object with the integer array <code>nums</code>.</li>
-	<li><code>void update(int index, int val)</code> Updates the value of <code>nums[index]</code> to be <code>val</code>.</li>
-	<li><code>int sumRange(int left, int right)</code> Returns the sum of the subarray <code>nums[left, right]</code> (i.e., <code>nums[left] + nums[left + 1], ..., nums[right]</code>).</li>
+	<li><code>NumArray(int[] nums)</code> initializes the object with the integer array <code>nums</code>.</li>
+	<li><code>void update(int index, int val)</code> updates the value of <code>nums[index]</code> to be <code>val</code>.</li>
+	<li><code>int sumRange(int left, int right)</code> returns the sum of the subarray <code>nums[left, right]</code> (i.e., <code>nums[left] + nums[left + 1], ..., nums[right]</code>).</li>
 </ul>
 
 <p>&nbsp;</p>

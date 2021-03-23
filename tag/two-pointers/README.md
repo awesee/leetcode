@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1800 | [最大升序子数组和](../../problems/maximum-ascending-subarray-sum) | [[双指针](../two-pointers/README.md)]  | Easy |
 | 1750 | [删除字符串两端相同字符后的最短长度](../../problems/minimum-length-of-string-after-deleting-similar-ends) | [[双指针](../two-pointers/README.md)]  | Medium |
 | 1712 | [将数组分成三个子数组的方案数](../../problems/ways-to-split-array-into-three-subarrays) | [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1711 | [大餐计数](../../problems/count-good-meals) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
@@ -49,7 +50,7 @@
 | 487 | [最大连续1的个数 II](../../problems/max-consecutive-ones-ii) 🔒 | [[双指针](../two-pointers/README.md)]  | Medium |
 | 457 | [环形数组是否存在循环](../../problems/circular-array-loop) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 424 | [替换后的最长重复字符](../../problems/longest-repeating-character-replacement) | [[双指针](../two-pointers/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 360 | [有序转化数组](../../problems/sort-transformed-array) 🔒 | [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 360 | [有序转化数组](../../problems/sort-transformed-array) 🔒 | [[排序](../sort/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 350 | [两个数组的交集 II](../../problems/intersection-of-two-arrays-ii) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 349 | [两个数组的交集](../../problems/intersection-of-two-arrays) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 345 | [反转字符串中的元音字母](../../problems/reverse-vowels-of-a-string) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
@@ -75,7 +76,7 @@
 | 30 | [串联所有单词的子串](../../problems/substring-with-concatenation-of-all-words) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 28 | [实现 strStr()](../../problems/implement-strstr) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 27 | [移除元素](../../problems/remove-element) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
-| 26 | [删除排序数组中的重复项](../../problems/remove-duplicates-from-sorted-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 26 | [删除有序数组中的重复项](../../problems/remove-duplicates-from-sorted-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 19 | [删除链表的倒数第 N 个结点](../../problems/remove-nth-node-from-end-of-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 18 | [四数之和](../../problems/4sum) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 16 | [最接近的三数之和](../../problems/3sum-closest) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |

@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1801 | [积压订单中的订单总数](../../problems/number-of-orders-in-the-backlog) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
+| 1792 | [最大平均通过率](../../problems/maximum-average-pass-ratio) | [[堆](../heap/README.md)]  | Medium |
 | 1760 | [袋子里最少数目的球](../../problems/minimum-limit-of-balls-in-a-bag) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1753 | [移除石子的最大得分](../../problems/maximum-score-from-removing-stones) | [[堆](../heap/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1705 | [吃苹果的最大数目](../../problems/maximum-number-of-eaten-apples) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |

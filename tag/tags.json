@@ -85,14 +85,14 @@
 		"TranslatedName": "图"
 	},
 	{
-		"Name": "Linked List",
-		"Slug": "linked-list",
-		"TranslatedName": "链表"
-	},
-	{
 		"Name": "Heap",
 		"Slug": "heap",
 		"TranslatedName": "堆"
+	},
+	{
+		"Name": "Linked List",
+		"Slug": "linked-list",
+		"TranslatedName": "链表"
 	},
 	{
 		"Name": "Recursion",

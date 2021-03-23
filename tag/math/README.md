@@ -169,7 +169,7 @@
 | 368 | [最大整除子集](../../problems/largest-divisible-subset) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 367 | [有效的完全平方数](../../problems/valid-perfect-square) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 365 | [水壶问题](../../problems/water-and-jug-problem) | [[数学](../math/README.md)]  | Medium |
-| 360 | [有序转化数组](../../problems/sort-transformed-array) 🔒 | [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 360 | [有序转化数组](../../problems/sort-transformed-array) 🔒 | [[排序](../sort/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 357 | [计算各个位数不同的数字个数](../../problems/count-numbers-with-unique-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 356 | [直线镜像](../../problems/line-reflection) 🔒 | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
 | 343 | [整数拆分](../../problems/integer-break) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

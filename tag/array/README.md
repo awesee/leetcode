@@ -314,7 +314,7 @@
 | 33 | [搜索旋转排序数组](../../problems/search-in-rotated-sorted-array) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 31 | [下一个排列](../../problems/next-permutation) | [[数组](../array/README.md)]  | Medium |
 | 27 | [移除元素](../../problems/remove-element) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
-| 26 | [删除排序数组中的重复项](../../problems/remove-duplicates-from-sorted-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 26 | [删除有序数组中的重复项](../../problems/remove-duplicates-from-sorted-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 18 | [四数之和](../../problems/4sum) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 16 | [最接近的三数之和](../../problems/3sum-closest) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 15 | [三数之和](../../problems/3sum) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |

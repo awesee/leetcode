@@ -11,7 +11,7 @@
 
 ## [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit (Medium)](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit "绝对差不超过限制的最长连续子数组")
 
-<p>Given an&nbsp;array of integers <code>nums</code> and an&nbsp;integer <code>limit</code>, return the size of the longest <strong>non-empty</strong> subarray such that the absolute difference between any two elements of this subarray is less than or equal to&nbsp;<code>limit</code><em>.</em></p>
+<p>Given an array of integers <code>nums</code> and an integer <code>limit</code>, return the size of the longest <strong>non-empty</strong> subarray such that the absolute difference between any two elements of this subarray is less than or equal to <code>limit</code><em>.</em></p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -52,9 +52,9 @@ Therefore, the size of the longest subarray is 2.
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 10^5</code></li>
-	<li><code>1 &lt;= nums[i] &lt;= 10^9</code></li>
-	<li><code>0 &lt;= limit &lt;= 10^9</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
+	<li><code>0 &lt;= limit &lt;= 10<sup>9</sup></code></li>
 </ul>
 
 ### Related Topics

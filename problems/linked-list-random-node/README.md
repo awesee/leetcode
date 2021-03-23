@@ -15,7 +15,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/16/getrand-linked-list.jpg" style="width: 302px; height: 62px;" />
 <pre>
 <strong>Input</strong>
 [&quot;Solution&quot;, &quot;getRandom&quot;, &quot;getRandom&quot;, &quot;getRandom&quot;, &quot;getRandom&quot;, &quot;getRandom&quot;]
@@ -37,7 +37,7 @@ solution.getRandom(); // return 3
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the linked list will be in the range <code>[1, 10<sup>4</sup>]</code></li>
+	<li>The number of nodes in the linked list will be in the range <code>[1, 10<sup>4</sup>]</code>.</li>
 	<li><code>-10<sup>4</sup> &lt;= Node.val &lt;= 10<sup>4</sup></code></li>
 	<li>At most <code>10<sup>4</sup></code> calls will be made to <code>getRandom</code>.</li>
 </ul>

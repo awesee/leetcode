@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../remove-element "Remove Element")
 
-## [26. Remove Duplicates from Sorted Array (Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-array "删除排序数组中的重复项")
+## [26. Remove Duplicates from Sorted Array (Easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-array "删除有序数组中的重复项")
 
 <p>Given a sorted array <em>nums</em>, remove the duplicates <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> such that each element appears only <em>once</em> and returns the new length.</p>
 
