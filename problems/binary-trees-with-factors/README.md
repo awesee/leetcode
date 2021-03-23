@@ -38,4 +38,5 @@
 <ul>
 	<li><code>1 &lt;= arr.length &lt;= 1000</code></li>
 	<li><code>2 &lt;= arr[i] &lt;= 10<sup>9</sup></code></li>
+	<li>All the values of <code>arr</code> are <strong>unique</strong>.</li>
 </ul>

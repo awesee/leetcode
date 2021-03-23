@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1799 | [N 次操作后的最大分数和](../../problems/maximize-score-after-n-operations) | [[递归](../recursion/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1787 | [使所有区间的异或结果为零](../../problems/make-the-xor-of-all-segments-equal-to-zero) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1786 | [从第一个节点出发到最后一个节点的受限路径数](../../problems/number-of-restricted-paths-from-first-to-last-node) | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1771 | [由子序列构造的最长回文串的长度](../../problems/maximize-palindrome-length-from-subsequences) | [[动态规划](../dynamic-programming/README.md)]  | Hard |

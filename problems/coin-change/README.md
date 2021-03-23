@@ -11,7 +11,9 @@
 
 ## [322. Coin Change (Medium)](https://leetcode.com/problems/coin-change "零钱兑换")
 
-<p>You are given coins of different denominations and a total amount of money <i>amount</i>. Write a function to compute the fewest number of coins that you need to make up that amount. If that amount of money cannot be made up by any combination of the coins, return <code>-1</code>.</p>
+<p>You are given an integer array <code>coins</code> representing&nbsp;coins of different denominations and an integer <code>amount</code>&nbsp;representing a total amount of money.</p>
+
+<p>Return <em>the fewest number of coins that you need to make up that amount</em>. If that amount of money cannot be made up by any combination of the coins, return <code>-1</code>.</p>
 
 <p>You may assume that you have an infinite number of each kind of coin.</p>
 

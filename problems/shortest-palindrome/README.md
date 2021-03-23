@@ -11,7 +11,9 @@
 
 ## [214. Shortest Palindrome (Hard)](https://leetcode.com/problems/shortest-palindrome "最短回文串")
 
-<p>Given a string <em><b>s</b></em>, you can convert it to a palindrome by adding characters in front of it. Find and return the shortest palindrome you can find by performing this transformation.</p>
+<p>You are given a string <code>s</code>. You can convert <code>s</code> to a palindrome by adding characters in front of it.</p>
+
+<p>Return <em>the shortest palindrome you can find by performing this transformation</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

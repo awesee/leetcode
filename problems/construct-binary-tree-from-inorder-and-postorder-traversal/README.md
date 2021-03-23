@@ -25,7 +25,7 @@
 
 <pre>
 <strong>Input:</strong> inorder = [-1], postorder = [-1]
-<strong>Output:</strong> []
+<strong>Output:</strong> [-1]
 </pre>
 
 <p>&nbsp;</p>

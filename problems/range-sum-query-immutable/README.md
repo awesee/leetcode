@@ -11,13 +11,13 @@
 
 ## [303. Range Sum Query - Immutable (Easy)](https://leetcode.com/problems/range-sum-query-immutable "区域和检索 - 数组不可变")
 
-<p>Given an integer array <code>nums</code>, find the sum of the elements between indices <code>i</code> and <code>j</code> <code>(i &le; j)</code>, inclusive.</p>
+<p>Given an integer array <code>nums</code>, find the sum of the elements between indices <code>left</code> and <code>right</code> inclusive, where <code>(left &lt;= right)</code>.</p>
 
-<p>Implement the&nbsp;<code>NumArray</code> class:</p>
+<p>Implement the <code>NumArray</code> class:</p>
 
 <ul>
-	<li><code>NumArray(int[] nums)</code> Initializes the object with the integer array <code>nums</code>.</li>
-	<li><code>int sumRange(int i, int j)</code> Return the sum of the elements of the <code>nums</code> array in the range <code>[i, j]</code> inclusive (i.e., <code>sum(nums[i], nums[i + 1], ... , nums[j])</code>)</li>
+	<li><code>NumArray(int[] nums)</code> initializes the object with the integer array <code>nums</code>.</li>
+	<li><code>int sumRange(int left, int right)</code> returns the sum of the elements of the <code>nums</code> array in the range <code>[left, right]</code> inclusive (i.e., <code>sum(nums[left], nums[left + 1], ... , nums[right])</code>).</li>
 </ul>
 
 <p>&nbsp;</p>
@@ -41,9 +41,9 @@ numArray.sumRange(0, 5); // return -3 ((-2) + 0 + 3 + (-5) + 2 + (-1))
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>-10<sup>5</sup>&nbsp;&lt;= nums[i] &lt;=&nbsp;10<sup>5</sup></code></li>
-	<li><code>0 &lt;= i &lt;= j &lt; nums.length</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>-10<sup>5</sup> &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
+	<li><code>0 &lt;= left &lt;= right &lt; nums.length</code></li>
 	<li>At most <code>10<sup>4</sup></code> calls will be made to <code>sumRange</code>.</li>
 </ul>
 

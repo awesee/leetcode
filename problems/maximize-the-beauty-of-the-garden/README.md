@@ -7,7 +7,7 @@
 
 [< Previous](../make-the-xor-of-all-segments-equal-to-zero "Make the XOR of All Segments Equal to Zero")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../primary-department-for-each-employee "Primary Department for Each Employee")
 
 ## [1788. Maximize the Beauty of the Garden (Hard)](https://leetcode.com/problems/maximize-the-beauty-of-the-garden "")
 

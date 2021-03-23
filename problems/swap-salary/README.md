@@ -57,6 +57,6 @@ Result table:
 | 3  | C    | f   | 5500   |
 | 4  | D    | m   | 500    |
 +----+------+-----+--------+
-(1, A) and (2, C) were changed from &#39;m&#39; to &#39;f&#39;.
+(1, A) and (3, C) were changed from &#39;m&#39; to &#39;f&#39;.
 (2, B) and (4, D) were changed from &#39;f&#39; to &#39;m&#39;.
 </pre>

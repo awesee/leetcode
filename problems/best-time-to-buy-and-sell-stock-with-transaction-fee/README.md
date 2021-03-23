@@ -42,8 +42,9 @@ The total profit is ((8 - 1) - 2) + ((9 - 4) - 2) = 8.
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt; prices.length &lt;= 5 * 10<sup>4</sup></code></li>
-	<li><code>0 &lt; prices[i], fee &lt; 5 * 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= prices.length &lt;= 5 * 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= prices[i] &lt; 5 * 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= fee &lt; 5 * 10<sup>4</sup></code></li>
 </ul>
 
 ### Related Topics

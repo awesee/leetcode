@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1803 | [统计异或值在范围内的数对有多少](../../problems/count-pairs-with-xor-in-a-range) | [[字典树](../trie/README.md)]  | Hard |
 | 1707 | [与数组中元素的最大异或值](../../problems/maximum-xor-with-an-element-from-array) | [[位运算](../bit-manipulation/README.md)] [[字典树](../trie/README.md)]  | Hard |
 | 1698 | [字符串的不同子字符串个数](../../problems/number-of-distinct-substrings-in-a-string) 🔒 | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1638 | [统计只差一个字符的子串数目](../../problems/count-substrings-that-differ-by-one-character) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |

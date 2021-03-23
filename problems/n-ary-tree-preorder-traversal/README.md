@@ -11,15 +11,9 @@
 
 ## [589. N-ary Tree Preorder Traversal (Easy)](https://leetcode.com/problems/n-ary-tree-preorder-traversal "N 叉树的前序遍历")
 
-<p>Given an n-ary tree, return the <i>preorder</i> traversal of its nodes&#39; values.</p>
+<p>Given the <code>root</code> of an n-ary tree, return <em>the preorder traversal of its nodes&#39; values</em>.</p>
 
-<p><em>Nary-Tree input serialization&nbsp;is represented in their level order traversal, each group of children is separated by the null value (See examples).</em></p>
-
-<p>&nbsp;</p>
-
-<p><strong>Follow up:</strong></p>
-
-<p>Recursive solution is trivial, could you do it iteratively?</p>
+<p>Nary-Tree input serialization is represented in their level order traversal. Each group of children is separated by the null value (See examples)</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -44,9 +38,13 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The height of the n-ary tree is less than or equal to <code>1000</code></li>
-	<li>The total number of nodes is between <code>[0,&nbsp;10^4]</code></li>
+	<li>The number of nodes in the tree is in the range <code>[0, 10<sup>4</sup>]</code>.</li>
+	<li><code>0 &lt;= Node.val &lt;= 10<sup>4</sup></code></li>
+	<li>The height of the n-ary tree is less than or equal to <code>1000</code>.</li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p>
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
