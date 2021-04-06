@@ -9,3 +9,14 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1673 | [找出最具竞争力的子序列](../../problems/find-the-most-competitive-subsequence) | [[栈](../stack/README.md)] [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[队列](../queue/README.md)]  | Medium |
+| 933 | [最近的请求次数](../../problems/number-of-recent-calls) | [[队列](../queue/README.md)]  | Easy |
+| 862 | [和至少为 K 的最短子数组](../../problems/shortest-subarray-with-sum-at-least-k) | [[队列](../queue/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 641 | [设计循环双端队列](../../problems/design-circular-deque) | [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Medium |
+| 622 | [设计循环队列](../../problems/design-circular-queue) | [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Medium |
+| 621 | [任务调度器](../../problems/task-scheduler) | [[贪心算法](../greedy/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)]  | Medium |
+| 582 | [杀掉进程](../../problems/kill-process) 🔒 | [[树](../tree/README.md)] [[队列](../queue/README.md)]  | Medium |
+| 363 | [矩形区域不超过 K 的最大数值和](../../problems/max-sum-of-rectangle-no-larger-than-k) | [[队列](../queue/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 353 | [贪吃蛇](../../problems/design-snake-game) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Medium |
+| 346 | [数据流中的移动平均值](../../problems/moving-average-from-data-stream) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Easy |
+| 199 | [二叉树的右视图](../../problems/binary-tree-right-side-view) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)] [[队列](../queue/README.md)]  | Medium |
