@@ -47,7 +47,7 @@
 | 591 | [标签验证器](../../problems/tag-validator) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 503 | [下一个更大元素 II](../../problems/next-greater-element-ii) | [[栈](../stack/README.md)]  | Medium |
 | 496 | [下一个更大元素 I](../../problems/next-greater-element-i) | [[栈](../stack/README.md)]  | Easy |
-| 456 | [132模式](../../problems/132-pattern) | [[栈](../stack/README.md)]  | Medium |
+| 456 | [132 模式](../../problems/132-pattern) | [[栈](../stack/README.md)]  | Medium |
 | 439 | [三元表达式解析器](../../problems/ternary-expression-parser) 🔒 | [[栈](../stack/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 402 | [移掉K位数字](../../problems/remove-k-digits) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
 | 394 | [字符串解码](../../problems/decode-string) | [[栈](../stack/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |

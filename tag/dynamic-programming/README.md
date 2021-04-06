@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1815 | [得到新鲜甜甜圈的最多组数](../../problems/maximum-number-of-groups-getting-fresh-donuts) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1799 | [N 次操作后的最大分数和](../../problems/maximize-score-after-n-operations) | [[递归](../recursion/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1787 | [使所有区间的异或结果为零](../../problems/make-the-xor-of-all-segments-equal-to-zero) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1786 | [从第一个节点出发到最后一个节点的受限路径数](../../problems/number-of-restricted-paths-from-first-to-last-node) | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
@@ -244,7 +245,7 @@
 | 121 | [买卖股票的最佳时机](../../problems/best-time-to-buy-and-sell-stock) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 120 | [三角形最小路径和](../../problems/triangle) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 115 | [不同的子序列](../../problems/distinct-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 97 | [交错字符串](../../problems/interleaving-string) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 97 | [交错字符串](../../problems/interleaving-string) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 96 | [不同的二叉搜索树](../../problems/unique-binary-search-trees) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 95 | [不同的二叉搜索树 II](../../problems/unique-binary-search-trees-ii) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 91 | [解码方法](../../problems/decode-ways) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

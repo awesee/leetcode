@@ -47,7 +47,7 @@ As shown below, there are 5 ways you can generate &quot;bag&quot; from S.
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= s.length, t.length &lt;= 1000</code></li>
+	<li><code>1 &lt;= s.length, t.length &lt;= 1000</code></li>
 	<li><code>s</code> and <code>t</code> consist of English letters.</li>
 </ul>
 

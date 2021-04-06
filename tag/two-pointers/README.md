@@ -68,7 +68,7 @@
 | 125 | [验证回文串](../../problems/valid-palindrome) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 88 | [合并两个有序数组](../../problems/merge-sorted-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 86 | [分隔链表](../../problems/partition-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
-| 80 | [删除排序数组中的重复项 II](../../problems/remove-duplicates-from-sorted-array-ii) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 80 | [删除有序数组中的重复项 II](../../problems/remove-duplicates-from-sorted-array-ii) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 76 | [最小覆盖子串](../../problems/minimum-window-substring) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
 | 75 | [颜色分类](../../problems/sort-colors) | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 61 | [旋转链表](../../problems/rotate-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |

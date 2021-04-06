@@ -13,9 +13,9 @@
 
 <p>You are given a 2D array of integers <code>envelopes</code> where <code>envelopes[i] = [w<sub>i</sub>, h<sub>i</sub>]</code> represents the width and the height of an envelope.</p>
 
-<p>One envelope can fit into another if and only if both the width and height of one envelope is greater than the width and height of the other envelope.</p>
+<p>One envelope can fit into another if and only if both the width and height of one envelope are greater than the other envelope&#39;s width and height.</p>
 
-<p>Return <em>the maximum number of envelopes can you Russian doll (i.e., put one inside the other)</em>.</p>
+<p>Return <em>the maximum number of envelopes you can Russian doll (i.e., put one inside the other)</em>.</p>
 
 <p><strong>Note:</strong> You cannot rotate an envelope.</p>
 

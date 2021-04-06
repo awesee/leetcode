@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../search-in-rotated-sorted-array-ii "Search in Rotated Sorted Array II")
 
-## [80. Remove Duplicates from Sorted Array II (Medium)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii "删除排序数组中的重复项 II")
+## [80. Remove Duplicates from Sorted Array II (Medium)](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii "删除有序数组中的重复项 II")
 
 <p>Given a sorted array <em>nums</em>, remove the duplicates <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> such that duplicates appeared at most&nbsp;<em>twice</em> and return the new length.</p>
 

@@ -16,11 +16,11 @@
 | 9 | [Binary Search](binary-search/README.md) | [二分查找](https://openset.github.io/tags/binary-search/) | | 10 | [Breadth-first Search](breadth-first-search/README.md) | [广度优先搜索](https://openset.github.io/tags/breadth-first-search/) | 
 | 11 | [Sort](sort/README.md) | [排序](https://openset.github.io/tags/sort/) | | 12 | [Two Pointers](two-pointers/README.md) | [双指针](https://openset.github.io/tags/two-pointers/) | 
 | 13 | [Backtracking](backtracking/README.md) | [回溯算法](https://openset.github.io/tags/backtracking/) | | 14 | [Stack](stack/README.md) | [栈](https://openset.github.io/tags/stack/) | 
-| 15 | [Design](design/README.md) | [设计](https://openset.github.io/tags/design/) | | 16 | [Bit Manipulation](bit-manipulation/README.md) | [位运算](https://openset.github.io/tags/bit-manipulation/) | 
-| 17 | [Graph](graph/README.md) | [图](https://openset.github.io/tags/graph/) | | 18 | [Heap](heap/README.md) | [堆](https://openset.github.io/tags/heap/) | 
+| 15 | [Design](design/README.md) | [设计](https://openset.github.io/tags/design/) | | 16 | [Graph](graph/README.md) | [图](https://openset.github.io/tags/graph/) | 
+| 17 | [Bit Manipulation](bit-manipulation/README.md) | [位运算](https://openset.github.io/tags/bit-manipulation/) | | 18 | [Heap](heap/README.md) | [堆](https://openset.github.io/tags/heap/) | 
 | 19 | [Linked List](linked-list/README.md) | [链表](https://openset.github.io/tags/linked-list/) | | 20 | [Recursion](recursion/README.md) | [递归](https://openset.github.io/tags/recursion/) | 
 | 21 | [Union Find](union-find/README.md) | [并查集](https://openset.github.io/tags/union-find/) | | 22 | [Sliding Window](sliding-window/README.md) | [Sliding Window](https://openset.github.io/tags/sliding-window/) | 
-| 23 | [Divide and Conquer](divide-and-conquer/README.md) | [分治算法](https://openset.github.io/tags/divide-and-conquer/) | | 24 | [Trie](trie/README.md) | [字典树](https://openset.github.io/tags/trie/) | 
+| 23 | [Trie](trie/README.md) | [字典树](https://openset.github.io/tags/trie/) | | 24 | [Divide and Conquer](divide-and-conquer/README.md) | [分治算法](https://openset.github.io/tags/divide-and-conquer/) | 
 | 25 | [Segment Tree](segment-tree/README.md) | [线段树](https://openset.github.io/tags/segment-tree/) | | 26 | [Ordered Map](ordered-map/README.md) | [Ordered Map](https://openset.github.io/tags/ordered-map/) | 
 | 27 | [Queue](queue/README.md) | [队列](https://openset.github.io/tags/queue/) | | 28 | [Geometry](geometry/README.md) | [几何](https://openset.github.io/tags/geometry/) | 
 | 29 | [Minimax](minimax/README.md) | [极小化极大](https://openset.github.io/tags/minimax/) | | 30 | [Binary Indexed Tree](binary-indexed-tree/README.md) | [树状数组](https://openset.github.io/tags/binary-indexed-tree/) | 

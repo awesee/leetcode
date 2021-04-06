@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1810 | [Minimum Path Cost in a Hidden Grid](../../problems/minimum-path-cost-in-a-hidden-grid) 🔒 | [[堆](../heap/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1791 | [找出星型图的中心节点](../../problems/find-center-of-star-graph) | [[图](../graph/README.md)]  | Medium |
 | 1786 | [从第一个节点出发到最后一个节点的受限路径数](../../problems/number-of-restricted-paths-from-first-to-last-node) | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1782 | [统计点对的数目](../../problems/count-pairs-of-nodes) | [[图](../graph/README.md)]  | Hard |

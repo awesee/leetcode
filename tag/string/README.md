@@ -9,6 +9,12 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1816 | [截断句子](../../problems/truncate-sentence) | [[字符串](../string/README.md)]  | Easy |
+| 1813 | [句子相似性 III](../../problems/sentence-similarity-iii) | [[字符串](../string/README.md)]  | Medium |
+| 1812 | [判断国际象棋棋盘中一个格子的颜色](../../problems/determine-color-of-a-chessboard-square) | [[字符串](../string/README.md)]  | Easy |
+| 1807 | [替换字符串中的括号内容](../../problems/evaluate-the-bracket-pairs-of-a-string) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1805 | [字符串中不同整数的数目](../../problems/number-of-different-integers-in-a-string) | [[字符串](../string/README.md)]  | Easy |
+| 1804 | [Implement Trie II (Prefix Tree)](../../problems/implement-trie-ii-prefix-tree) 🔒 | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1796 | [字符串中第二大的数字](../../problems/second-largest-digit-in-a-string) | [[字符串](../string/README.md)]  | Easy |
 | 1794 | [Count Pairs of Equal Substrings With Minimum Difference](../../problems/count-pairs-of-equal-substrings-with-minimum-difference) 🔒 | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1790 | [仅执行一次字符串交换能否使两个字符串相等](../../problems/check-if-one-string-swap-can-make-strings-equal) | [[字符串](../string/README.md)]  | Easy |
@@ -204,7 +210,7 @@
 | 126 | [单词接龙 II](../../problems/word-ladder-ii) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 125 | [验证回文串](../../problems/valid-palindrome) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 115 | [不同的子序列](../../problems/distinct-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 97 | [交错字符串](../../problems/interleaving-string) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 97 | [交错字符串](../../problems/interleaving-string) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 93 | [复原 IP 地址](../../problems/restore-ip-addresses) | [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 91 | [解码方法](../../problems/decode-ways) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 87 | [扰乱字符串](../../problems/scramble-string) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

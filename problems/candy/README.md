@@ -46,7 +46,7 @@ The third child gets 1 candy because it satisfies the above two conditions.
 <ul>
 	<li><code>n == ratings.length</code></li>
 	<li><code>1 &lt;= n &lt;= 2 * 10<sup>4</sup></code></li>
-	<li><code>1 &lt;= ratings[i] &lt;= 2 * 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= ratings[i] &lt;= 2 * 10<sup>4</sup></code></li>
 </ul>
 
 ### Related Topics

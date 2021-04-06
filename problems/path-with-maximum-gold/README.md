@@ -11,16 +11,16 @@
 
 ## [1219. Path with Maximum Gold (Medium)](https://leetcode.com/problems/path-with-maximum-gold "黄金矿工")
 
-<p>In a gold mine <code>grid</code>&nbsp;of size <code>m * n</code>,&nbsp;each cell in this mine has an integer representing the amount of gold&nbsp;in that cell,&nbsp;<code>0</code> if it is empty.</p>
+<p>In a gold mine <code>grid</code> of size <code>m x n</code>, each cell in this mine has an integer representing the amount of gold in that cell, <code>0</code> if it is empty.</p>
 
-<p>Return the maximum amount of gold you&nbsp;can collect under the conditions:</p>
+<p>Return the maximum amount of gold you can collect under the conditions:</p>
 
 <ul>
 	<li>Every time you are located in a cell you will collect all the gold in that cell.</li>
-	<li>From your position you can walk one step to the left, right, up or down.</li>
+	<li>From your position, you can walk one step to the left, right, up, or down.</li>
 	<li>You can&#39;t visit the same cell more than once.</li>
-	<li>Never visit a cell with&nbsp;<code>0</code> gold.</li>
-	<li>You can start and stop collecting gold from&nbsp;<strong>any </strong>position in the grid that has some gold.</li>
+	<li>Never visit a cell with <code>0</code> gold.</li>
+	<li>You can start and stop collecting gold from <strong>any </strong>position in the grid that has some gold.</li>
 </ul>
 
 <p>&nbsp;</p>
@@ -54,9 +54,11 @@ Path to get the maximum gold, 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5 -&gt; 6 -&gt; 7.
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= grid.length,&nbsp;grid[i].length &lt;= 15</code></li>
+	<li><code>m == grid.length</code></li>
+	<li><code>n == grid[i].length</code></li>
+	<li><code>1 &lt;= m, n &lt;= 15</code></li>
 	<li><code>0 &lt;= grid[i][j] &lt;= 100</code></li>
-	<li>There are at most <strong>25&nbsp;</strong>cells containing gold.</li>
+	<li>There are at most <strong>25 </strong>cells containing gold.</li>
 </ul>
 
 ### Related Topics

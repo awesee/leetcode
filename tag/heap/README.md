@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1810 | [Minimum Path Cost in a Hidden Grid](../../problems/minimum-path-cost-in-a-hidden-grid) 🔒 | [[堆](../heap/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1801 | [积压订单中的订单总数](../../problems/number-of-orders-in-the-backlog) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
 | 1792 | [最大平均通过率](../../problems/maximum-average-pass-ratio) | [[堆](../heap/README.md)]  | Medium |
 | 1760 | [袋子里最少数目的球](../../problems/minimum-limit-of-balls-in-a-bag) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

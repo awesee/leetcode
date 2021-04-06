@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1817 | [查找用户活跃分钟数](../../problems/finding-the-users-active-minutes) | [[哈希表](../hash-table/README.md)]  | Medium |
+| 1814 | [统计一个数组中好对子的数目](../../problems/count-nice-pairs-in-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1807 | [替换字符串中的括号内容](../../problems/evaluate-the-bracket-pairs-of-a-string) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1797 | [设计一个验证系统](../../problems/design-authentication-manager) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1781 | [所有子字符串美丽值之和](../../problems/sum-of-beauty-of-all-substrings) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1772 | [按受欢迎程度排列功能](../../problems/sort-features-by-popularity) 🔒 | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |

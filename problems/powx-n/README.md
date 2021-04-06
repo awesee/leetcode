@@ -11,7 +11,7 @@
 
 ## [50. Pow(x, n) (Medium)](https://leetcode.com/problems/powx-n "Pow(x, n)")
 
-<p>Implement <a href="http://www.cplusplus.com/reference/valarray/pow/" target="_blank">pow(<em>x</em>, <em>n</em>)</a>, which calculates&nbsp;<em>x</em> raised to the power <em>n</em> (i.e. x<sup><span style="font-size:10.8333px">n</span></sup>).</p>
+<p>Implement <a href="http://www.cplusplus.com/reference/valarray/pow/" target="_blank">pow(x, n)</a>, which calculates <code>x</code> raised to the power <code>n</code> (i.e., <code>x<sup>n</sup></code>).</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

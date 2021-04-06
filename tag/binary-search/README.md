@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1818 | [绝对差值和](../../problems/minimum-absolute-sum-difference) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1802 | [有界数组中指定下标处的最大值](../../problems/maximum-value-at-a-given-index-in-a-bounded-array) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1760 | [袋子里最少数目的球](../../problems/minimum-limit-of-balls-in-a-bag) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1751 | [最多可以参加的会议数目 II](../../problems/maximum-number-of-events-that-can-be-attended-ii) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

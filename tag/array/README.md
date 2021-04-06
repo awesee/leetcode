@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1814 | [统计一个数组中好对子的数目](../../problems/count-nice-pairs-in-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1806 | [还原排列的最少操作步数](../../problems/minimum-number-of-operations-to-reinitialize-a-permutation) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1779 | [找到最近的有相同 X 或 Y 坐标的点](../../problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) | [[数组](../array/README.md)]  | Easy |
 | 1773 | [统计匹配检索规则的物品数量](../../problems/count-items-matching-a-rule) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1769 | [移动所有球到每个盒子所需的最小操作数](../../problems/minimum-number-of-operations-to-move-all-balls-to-each-box) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
@@ -287,7 +289,7 @@
 | 85 | [最大矩形](../../problems/maximal-rectangle) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 84 | [柱状图中最大的矩形](../../problems/largest-rectangle-in-histogram) | [[栈](../stack/README.md)] [[数组](../array/README.md)]  | Hard |
 | 81 | [搜索旋转排序数组 II](../../problems/search-in-rotated-sorted-array-ii) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
-| 80 | [删除排序数组中的重复项 II](../../problems/remove-duplicates-from-sorted-array-ii) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 80 | [删除有序数组中的重复项 II](../../problems/remove-duplicates-from-sorted-array-ii) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 79 | [单词搜索](../../problems/word-search) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 78 | [子集](../../problems/subsets) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 75 | [颜色分类](../../problems/sort-colors) | [[排序](../sort/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
