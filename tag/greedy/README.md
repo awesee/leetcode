@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1818 | [绝对差值和](../../problems/minimum-absolute-sum-difference) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1806 | [还原排列的最少操作步数](../../problems/minimum-number-of-operations-to-reinitialize-a-permutation) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1802 | [有界数组中指定下标处的最大值](../../problems/maximum-value-at-a-given-index-in-a-bounded-array) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1801 | [积压订单中的订单总数](../../problems/number-of-orders-in-the-backlog) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
 | 1798 | [你能构造出连续值的最大数目](../../problems/maximum-number-of-consecutive-values-you-can-make) | [[贪心算法](../greedy/README.md)]  | Medium |

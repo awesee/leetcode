@@ -78,6 +78,22 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1819">1819</span> | [Number of Different Subsequences GCDs](https://leetcode.com/problems/number-of-different-subsequences-gcds "序列中不同最大公约数的数目") | [Go](problems/number-of-different-subsequences-gcds) | Hard |
+| <span id="1818">1818</span> | [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference "绝对差值和") | [Go](problems/minimum-absolute-sum-difference) | Medium |
+| <span id="1817">1817</span> | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes "查找用户活跃分钟数") | [Go](problems/finding-the-users-active-minutes) | Medium |
+| <span id="1816">1816</span> | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence "截断句子") | [Go](problems/truncate-sentence) | Easy |
+| <span id="1815">1815</span> | [Maximum Number of Groups Getting Fresh Donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts "得到新鲜甜甜圈的最多组数") | [Go](problems/maximum-number-of-groups-getting-fresh-donuts) | Hard |
+| <span id="1814">1814</span> | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array "统计一个数组中好对子的数目") | [Go](problems/count-nice-pairs-in-an-array) | Medium |
+| <span id="1813">1813</span> | [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii "句子相似性 III") | [Go](problems/sentence-similarity-iii) | Medium |
+| <span id="1812">1812</span> | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square "判断国际象棋棋盘中一个格子的颜色") | [Go](problems/determine-color-of-a-chessboard-square) | Easy |
+| <span id="1811">1811</span> | [Find Interview Candidates](https://leetcode.com/problems/find-interview-candidates) 🔒 | [MySQL](problems/find-interview-candidates) | Medium |
+| <span id="1810">1810</span> | [Minimum Path Cost in a Hidden Grid](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid) 🔒 | [Go](problems/minimum-path-cost-in-a-hidden-grid) | Medium |
+| <span id="1809">1809</span> | [Ad-Free Sessions](https://leetcode.com/problems/ad-free-sessions) 🔒 | [MySQL](problems/ad-free-sessions) | Easy |
+| <span id="1808">1808</span> | [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors "好因子的最大数目") | [Go](problems/maximize-number-of-nice-divisors) | Hard |
+| <span id="1807">1807</span> | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string "替换字符串中的括号内容") | [Go](problems/evaluate-the-bracket-pairs-of-a-string) | Medium |
+| <span id="1806">1806</span> | [Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation "还原排列的最少操作步数") | [Go](problems/minimum-number-of-operations-to-reinitialize-a-permutation) | Medium |
+| <span id="1805">1805</span> | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string "字符串中不同整数的数目") | [Go](problems/number-of-different-integers-in-a-string) | Easy |
+| <span id="1804">1804</span> | [Implement Trie II (Prefix Tree)](https://leetcode.com/problems/implement-trie-ii-prefix-tree) 🔒 | [Go](problems/implement-trie-ii-prefix-tree) | Medium |
 | <span id="1803">1803</span> | [Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range "统计异或值在范围内的数对有多少") | [Go](problems/count-pairs-with-xor-in-a-range) | Hard |
 | <span id="1802">1802</span> | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array "有界数组中指定下标处的最大值") | [Go](problems/maximum-value-at-a-given-index-in-a-bounded-array) | Medium |
 | <span id="1801">1801</span> | [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog "积压订单中的订单总数") | [Go](problems/number-of-orders-in-the-backlog) | Medium |

@@ -7,7 +7,7 @@
 
 [< Previous](../maximum-value-at-a-given-index-in-a-bounded-array "Maximum Value at a Given Index in a Bounded Array")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../implement-trie-ii-prefix-tree "Implement Trie II (Prefix Tree)")
 
 ## [1803. Count Pairs With XOR in a Range (Hard)](https://leetcode.com/problems/count-pairs-with-xor-in-a-range "统计异或值在范围内的数对有多少")
 

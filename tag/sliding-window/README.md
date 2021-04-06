@@ -9,30 +9,3 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 1499 | [满足不等式的最大值](../../problems/max-value-of-equation) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
-| 1498 | [满足条件的子序列数目](../../problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | [[排序](../sort/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 1456 | [定长子串中元音的最大数目](../../problems/maximum-number-of-vowels-in-a-substring-of-given-length) | [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 1438 | [绝对差不超过限制的最长连续子数组](../../problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 1423 | [可获得的最大点数](../../problems/maximum-points-you-can-obtain-from-cards) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 1208 | [尽可能使字符串相等](../../problems/get-equal-substrings-within-budget) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 1176 | [健身计划评估](../../problems/diet-plan-performance) 🔒 | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Easy |
-| 1151 | [最少交换次数来组合所有的 1](../../problems/minimum-swaps-to-group-all-1s-together) 🔒 | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 1100 | [长度为 K 的无重复字符子串](../../problems/find-k-length-substrings-with-no-repeated-characters) 🔒 | [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 1074 | [元素和为目标值的子矩阵数量](../../problems/number-of-submatrices-that-sum-to-target) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
-| 1052 | [爱生气的书店老板](../../problems/grumpy-bookstore-owner) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 1040 | [移动石子直到连续 II](../../problems/moving-stones-until-consecutive-ii) | [[数组](../array/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 1004 | [最大连续1的个数 III](../../problems/max-consecutive-ones-iii) | [[双指针](../two-pointers/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 995 | [K 连续位的最小翻转次数](../../problems/minimum-number-of-k-consecutive-bit-flips) | [[贪心算法](../greedy/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
-| 992 | [K 个不同整数的子数组](../../problems/subarrays-with-k-different-integers) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
-| 978 | [最长湍流子数组](../../problems/longest-turbulent-subarray) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 727 | [最小窗口子序列](../../problems/minimum-window-subsequence) 🔒 | [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
-| 567 | [字符串的排列](../../problems/permutation-in-string) | [[双指针](../two-pointers/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 480 | [滑动窗口中位数](../../problems/sliding-window-median) | [[Sliding Window](../sliding-window/README.md)]  | Hard |
-| 424 | [替换后的最长重复字符](../../problems/longest-repeating-character-replacement) | [[双指针](../two-pointers/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 395 | [至少有 K 个重复字符的最长子串](../../problems/longest-substring-with-at-least-k-repeating-characters) | [[递归](../recursion/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 340 | [至多包含 K 个不同字符的最长子串](../../problems/longest-substring-with-at-most-k-distinct-characters) 🔒 | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 239 | [滑动窗口最大值](../../problems/sliding-window-maximum) | [[堆](../heap/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
-| 159 | [至多包含两个不同字符的最长子串](../../problems/longest-substring-with-at-most-two-distinct-characters) 🔒 | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 76 | [最小覆盖子串](../../problems/minimum-window-substring) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
-| 3 | [无重复字符的最长子串](../../problems/longest-substring-without-repeating-characters) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
