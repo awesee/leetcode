@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1834 | [单线程 CPU](../../problems/single-threaded-cpu) | [[堆](../heap/README.md)]  | Medium |
+| 1825 | [求出 MK 平均值](../../problems/finding-mk-average) | [[堆](../heap/README.md)] [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Hard |
 | 1810 | [Minimum Path Cost in a Hidden Grid](../../problems/minimum-path-cost-in-a-hidden-grid) 🔒 | [[堆](../heap/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1801 | [积压订单中的订单总数](../../problems/number-of-orders-in-the-backlog) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
 | 1792 | [最大平均通过率](../../problems/maximum-average-pass-ratio) | [[堆](../heap/README.md)]  | Medium |

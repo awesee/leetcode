@@ -13,15 +13,14 @@
 
 <p>Given an array of integers <code>nums</code> and an integer <code>k</code>, return <em>the number of <b>unique</b> k-diff pairs in the array</em>.</p>
 
-<p>A <b>k-diff</b> pair is&nbsp;an integer pair <code>(nums[i], nums[j])</code>, where the following are true:</p>
+<p>A <strong>k-diff</strong> pair is an integer pair <code>(nums[i], nums[j])</code>, where the following are true:</p>
 
 <ul>
-	<li><code>0 &lt;= i, j &lt; nums.length</code></li>
-	<li><code>i != j</code></li>
+	<li><code>0 &lt;= i &lt; j &lt; nums.length</code></li>
 	<li><code>|nums[i] - nums[j]| == k</code></li>
 </ul>
 
-<p><strong>Notice</strong>&nbsp;that <code>|val|</code> denotes the absolute value of <code>val</code>.</p>
+<p><strong>Notice</strong> that <code>|val|</code> denotes the absolute value of <code>val</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

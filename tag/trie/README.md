@@ -9,7 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1804 | [Implement Trie II (Prefix Tree)](../../problems/implement-trie-ii-prefix-tree) 🔒 | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1804 | [实现 Trie （前缀树） II](../../problems/implement-trie-ii-prefix-tree) 🔒 | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1803 | [统计异或值在范围内的数对有多少](../../problems/count-pairs-with-xor-in-a-range) | [[字典树](../trie/README.md)]  | Hard |
 | 1707 | [与数组中元素的最大异或值](../../problems/maximum-xor-with-an-element-from-array) | [[位运算](../bit-manipulation/README.md)] [[字典树](../trie/README.md)]  | Hard |
 | 1698 | [字符串的不同子字符串个数](../../problems/number-of-distinct-substrings-in-a-string) 🔒 | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Medium |

@@ -43,6 +43,9 @@
 	<li><code>0 &lt;= nums[i] &lt;= 1000</code></li>
 </ul>
 
+<p>&nbsp;</p>
+<p><strong>Follow Up:</strong> Could you solve it in-place?</p>
+
 ### Related Topics
   [[Sort](../../tag/sort/README.md)]
   [[Array](../../tag/array/README.md)]

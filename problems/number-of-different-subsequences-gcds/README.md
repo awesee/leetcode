@@ -7,7 +7,7 @@
 
 [< Previous](../minimum-absolute-sum-difference "Minimum Absolute Sum Difference")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../maximum-number-of-accepted-invitations "Maximum Number of Accepted Invitations")
 
 ## [1819. Number of Different Subsequences GCDs (Hard)](https://leetcode.com/problems/number-of-different-subsequences-gcds "序列中不同最大公约数的数目")
 

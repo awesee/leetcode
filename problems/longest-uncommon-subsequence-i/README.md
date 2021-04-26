@@ -11,13 +11,15 @@
 
 ## [521. Longest Uncommon Subsequence I (Easy)](https://leetcode.com/problems/longest-uncommon-subsequence-i "最长特殊序列 Ⅰ")
 
-<p>Given two strings <code>a</code>&nbsp;and <code>b</code>, find the length of the&nbsp;<strong>longest uncommon subsequence</strong>&nbsp;between them.</p>
+<p>Given two strings <code>a</code> and <code>b</code>, return <em>the length of the <strong>longest uncommon subsequence</strong> between </em><code>a</code> <em>and</em> <code>b</code>. If the longest uncommon subsequence does not exist, return <code>-1</code>.</p>
 
-<p>A&nbsp;<b>subsequence</b>&nbsp;of&nbsp;a string&nbsp;<code>s</code>&nbsp;is a string that can be obtained after deleting any number of characters from <code>s</code>. For example, <code>&quot;abc&quot;</code>&nbsp;is a subsequence of <code>&quot;aebdc&quot;</code>&nbsp;because you can delete the underlined characters in&nbsp;<code>&quot;a<u>e</u>b<u>d</u>c&quot;</code>&nbsp;to get <code>&quot;abc&quot;</code>. Other subsequences of&nbsp;<code>&quot;aebdc&quot;</code>&nbsp;include&nbsp;<code>&quot;aebdc&quot;</code>,&nbsp;<code>&quot;aeb&quot;</code>,&nbsp;and&nbsp;<code>&quot;&quot;</code>&nbsp;(empty string).</p>
+<p>An <strong>uncommon subsequence</strong> between two strings is a string that is a <strong>subsequence of one but not the other</strong>.</p>
 
-<p>An&nbsp;<strong>uncommon subsequence</strong>&nbsp;between two strings&nbsp;is a string that is a <strong>subsequence of one&nbsp;but not the other</strong>.</p>
+<p>A <strong>subsequence</strong> of a string <code>s</code> is a string that can be obtained after deleting any number of characters from <code>s</code>.</p>
 
-<p>Return <em>the length of the <strong>longest uncommon subsequence</strong>&nbsp;between <code>a</code>&nbsp;and <code>b</code></em>. If the longest uncommon subsequence doesn&#39;t exist, return <code>-1</code>.</p>
+<ul>
+	<li>For example, <code>&quot;abc&quot;</code> is a subsequence of <code>&quot;aebdc&quot;</code> because you can delete the underlined characters in <code>&quot;a<u>e</u>b<u>d</u>c&quot;</code> to get <code>&quot;abc&quot;</code>. Other subsequences of <code>&quot;aebdc&quot;</code> include <code>&quot;aebdc&quot;</code>, <code>&quot;aeb&quot;</code>, and <code>&quot;&quot;</code> (empty string).</li>
+</ul>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

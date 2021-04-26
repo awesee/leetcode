@@ -75,14 +75,14 @@
 		"TranslatedName": "设计"
 	},
 	{
-		"Name": "Graph",
-		"Slug": "graph",
-		"TranslatedName": "图"
-	},
-	{
 		"Name": "Bit Manipulation",
 		"Slug": "bit-manipulation",
 		"TranslatedName": "位运算"
+	},
+	{
+		"Name": "Graph",
+		"Slug": "graph",
+		"TranslatedName": "图"
 	},
 	{
 		"Name": "Heap",

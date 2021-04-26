@@ -30,6 +30,7 @@ The number of elements in the given matrix will not exceed 10,000.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

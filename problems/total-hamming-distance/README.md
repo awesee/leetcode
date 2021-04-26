@@ -13,27 +13,34 @@
 
 <p>The <a href="https://en.wikipedia.org/wiki/Hamming_distance" target="_blank">Hamming distance</a> between two integers is the number of positions at which the corresponding bits are different.</p>
 
-<p>Now your job is to find the total Hamming distance between all pairs of the given numbers.</p>
+<p>Given an integer array <code>nums</code>, return <em>the sum of <strong>Hamming distances</strong> between all the pairs of the integers in</em> <code>nums</code>.</p>
 
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
 
-<p><b>Example:</b><br />
 <pre>
-<b>Input:</b> 4, 14, 2
-
-<b>Output:</b> 6
-
-<b>Explanation:</b> In binary representation, the 4 is 0100, 14 is 1110, and 2 is 0010 (just
-showing the four bits relevant in this case). So the answer will be:
+<strong>Input:</strong> nums = [4,14,2]
+<strong>Output:</strong> 6
+<strong>Explanation:</strong> In binary representation, the 4 is 0100, 14 is 1110, and 2 is 0010 (just
+showing the four bits relevant in this case).
+The answer will be:
 HammingDistance(4, 14) + HammingDistance(4, 2) + HammingDistance(14, 2) = 2 + 2 + 2 = 6.
 </pre>
-</p>
 
-<p><b>Note:</b><br>
-<ol>
-<li>Elements of the given array are in the range of <code>0 </code> to <code>10^9</code>
-<li>Length of the array will not exceed <code>10^4</code>. </li>
-</ol>
-</p>
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [4,14,4]
+<strong>Output:</strong> 4
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>0 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
+</ul>
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]

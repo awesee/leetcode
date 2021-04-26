@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../check-if-binary-string-has-at-most-one-segment-of-ones "Check if Binary String Has at Most One Segment of Ones")
 
-## [1783. Grand Slam Titles (Medium)](https://leetcode.com/problems/grand-slam-titles "")
+## [1783. Grand Slam Titles (Medium)](https://leetcode.com/problems/grand-slam-titles "大满贯数量")
 
 

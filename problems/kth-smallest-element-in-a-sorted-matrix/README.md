@@ -39,7 +39,7 @@
 	<li><code>n == matrix[i].length</code></li>
 	<li><code>1 &lt;= n &lt;= 300</code></li>
 	<li><code>-10<sup>9</sup> &lt;= matrix[i][j] &lt;= 10<sup>9</sup></code></li>
-	<li>All the rows and columns of <code>matrix</code> are <strong>guaranteed</strong> to be sorted in <strong>non-degreasing order</strong>.</li>
+	<li>All the rows and columns of <code>matrix</code> are <strong>guaranteed</strong> to be sorted in <strong>non-decreasing order</strong>.</li>
 	<li><code>1 &lt;= k &lt;= n<sup>2</sup></code></li>
 </ul>
 

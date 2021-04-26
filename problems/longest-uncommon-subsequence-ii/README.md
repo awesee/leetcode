@@ -11,31 +11,32 @@
 
 ## [522. Longest Uncommon Subsequence II (Medium)](https://leetcode.com/problems/longest-uncommon-subsequence-ii "最长特殊序列 II")
 
-<p>
-Given a list of strings, you need to find the longest uncommon subsequence among them. The longest uncommon subsequence is defined as the longest subsequence of one of these strings and this subsequence should not be <b>any</b> subsequence of the other strings.
-</p>
+<p>Given an array of strings <code>strs</code>, return <em>the length of the <strong>longest uncommon subsequence</strong> between them</em>. If the longest uncommon subsequence does not exist, return <code>-1</code>.</p>
 
-<p>
-A <b>subsequence</b> is a sequence that can be derived from one sequence by deleting some characters without changing the order of the remaining elements. Trivially, any string is a subsequence of itself and an empty string is a subsequence of any string.
-</p>
+<p>An <strong>uncommon subsequence</strong> between an array of strings is a string that is a <strong>subsequence of one string but not the others</strong>.</p>
 
-<p>
-The input will be a list of strings, and the output needs to be the length of the longest uncommon subsequence. If the longest uncommon subsequence doesn't exist, return -1.
-</p>
+<p>A <strong>subsequence</strong> of a string <code>s</code> is a string that can be obtained after deleting any number of characters from <code>s</code>.</p>
 
-<p><b>Example 1:</b><br />
-<pre>
-<b>Input:</b> "aba", "cdc", "eae"
-<b>Output:</b> 3
+<ul>
+	<li>For example, <code>&quot;abc&quot;</code> is a subsequence of <code>&quot;aebdc&quot;</code> because you can delete the underlined characters in <code>&quot;a<u>e</u>b<u>d</u>c&quot;</code> to get <code>&quot;abc&quot;</code>. Other subsequences of <code>&quot;aebdc&quot;</code> include <code>&quot;aebdc&quot;</code>, <code>&quot;aeb&quot;</code>, and <code>&quot;&quot;</code> (empty string).</li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+<pre><strong>Input:</strong> strs = ["aba","cdc","eae"]
+<strong>Output:</strong> 3
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> strs = ["aaa","aaa","aa"]
+<strong>Output:</strong> -1
 </pre>
-</p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><b>Note:</b>
-<ol>
-<li>All the given strings' lengths will not exceed 10.</li>
-<li>The length of the given list will be in the range of [2, 50].</li>
-</ol>
-</p>
+<ul>
+	<li><code>1 &lt;= strs.length &lt;= 50</code></li>
+	<li><code>1 &lt;= strs[i].length &lt;= 10</code></li>
+	<li><code>strs[i]</code> consists of lowercase English letters.</li>
+</ul>
 
 ### Related Topics
   [[String](../../tag/string/README.md)]

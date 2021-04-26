@@ -11,9 +11,9 @@
 
 ## [264. Ugly Number II (Medium)](https://leetcode.com/problems/ugly-number-ii "丑数 II")
 
-<p>Given an integer <code>n</code>, return <em>the</em> <code>n<sup>th</sup></code> <em><strong>ugly number</strong></em>.</p>
+<p>An <strong>ugly number</strong> is a positive integer whose prime factors are limited to <code>2</code>, <code>3</code>, and <code>5</code>.</p>
 
-<p><strong>Ugly number</strong> is a positive number whose prime factors only include <code>2</code>, <code>3</code>, and/or <code>5</code>.</p>
+<p>Given an integer <code>n</code>, return <em>the</em> <code>n<sup>th</sup></code> <em><strong>ugly number</strong></em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -29,7 +29,7 @@
 <pre>
 <strong>Input:</strong> n = 1
 <strong>Output:</strong> 1
-<strong>Explanation:</strong> 1 is typically treated as an ugly number.
+<strong>Explanation:</strong> 1 has no prime factors, therefore all of its prime factors are limited to 2, 3, and 5.
 </pre>
 
 <p>&nbsp;</p>

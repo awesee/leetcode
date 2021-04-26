@@ -11,9 +11,9 @@
 
 ## [1201. Ugly Number III (Medium)](https://leetcode.com/problems/ugly-number-iii "丑数 III")
 
-<p>Given four integers <code>n</code>, <code>a</code>, <code>b</code>, and <code>c</code>, return the <code>n<sup>th</sup></code> ugly number.</p>
+<p>An <strong>ugly number</strong> is a positive integer that is divisible by <code>a</code>, <code>b</code>, or <code>c</code>.</p>
 
-<p>Ugly numbers are <strong>positive integers</strong> that are divisible by <code>a</code>, <code>b</code>, or <code>c</code>.</p>
+<p>Given four integers <code>n</code>, <code>a</code>, <code>b</code>, and <code>c</code>, return the <code>n<sup>th</sup></code> <strong>ugly number</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
