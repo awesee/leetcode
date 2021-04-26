@@ -9,6 +9,10 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1833 | [雪糕的最大数量](../../problems/maximum-ice-cream-bars) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1827 | [最少操作使数组递增](../../problems/minimum-operations-to-make-the-array-increasing) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
+| 1826 | [Faulty Sensor](../../problems/faulty-sensor) 🔒 | [[数组](../array/README.md)]  | Easy |
+| 1823 | [找出游戏的获胜者](../../problems/find-the-winner-of-the-circular-game) | [[数组](../array/README.md)]  | Medium |
 | 1814 | [统计一个数组中好对子的数目](../../problems/count-nice-pairs-in-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1806 | [还原排列的最少操作步数](../../problems/minimum-number-of-operations-to-reinitialize-a-permutation) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1779 | [找到最近的有相同 X 或 Y 坐标的点](../../problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) | [[数组](../array/README.md)]  | Easy |
@@ -233,11 +237,11 @@
 | 581 | [最短无序连续子数组](../../problems/shortest-unsorted-continuous-subarray) | [[数组](../array/README.md)]  | Medium |
 | 566 | [重塑矩阵](../../problems/reshape-the-matrix) | [[数组](../array/README.md)]  | Easy |
 | 565 | [数组嵌套](../../problems/array-nesting) | [[数组](../array/README.md)]  | Medium |
-| 562 | [矩阵中最长的连续1线段](../../problems/longest-line-of-consecutive-one-in-matrix) 🔒 | [[数组](../array/README.md)]  | Medium |
+| 562 | [矩阵中最长的连续1线段](../../problems/longest-line-of-consecutive-one-in-matrix) 🔒 | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 561 | [数组拆分 I](../../problems/array-partition-i) | [[数组](../array/README.md)]  | Easy |
 | 560 | [和为K的子数组](../../problems/subarray-sum-equals-k) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 548 | [将数组分割成和相等的子数组](../../problems/split-array-with-equal-sum) 🔒 | [[数组](../array/README.md)]  | Medium |
-| 533 | [孤独像素 II](../../problems/lonely-pixel-ii) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
+| 533 | [孤独像素 II](../../problems/lonely-pixel-ii) 🔒 | [[数组](../array/README.md)]  | Medium |
 | 532 | [数组中的 k-diff 数对](../../problems/k-diff-pairs-in-an-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 531 | [孤独像素 I](../../problems/lonely-pixel-i) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
 | 509 | [斐波那契数](../../problems/fibonacci-number) | [[数组](../array/README.md)]  | Easy |

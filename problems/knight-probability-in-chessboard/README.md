@@ -11,40 +11,41 @@
 
 ## [688. Knight Probability in Chessboard (Medium)](https://leetcode.com/problems/knight-probability-in-chessboard "“马”在棋盘上的概率")
 
-<p>On an <code>N</code>x<code>N</code> chessboard, a knight starts at the <code>r</code>-th row and <code>c</code>-th column and attempts to make exactly <code>K</code> moves. The rows and columns are 0 indexed, so the top-left square is <code>(0, 0)</code>, and the bottom-right square is <code>(N-1, N-1)</code>.</p>
+<p>On an <code>n x n</code> chessboard, a knight starts at the cell <code>(row, column)</code> and attempts to make exactly <code>k</code> moves. The rows and columns are <strong>0-indexed</strong>, so the top-left cell is <code>(0, 0)</code>, and the bottom-right cell is <code>(n - 1, n - 1)</code>.</p>
 
-<p>A chess knight has 8 possible moves it can make, as illustrated below. Each move is two squares in a cardinal direction, then one square in an orthogonal direction.</p>
-
-<p>&nbsp;</p>
-
-<p><img src="https://assets.leetcode.com/uploads/2018/10/12/knight.png" style="width: 200px; height: 200px;" /></p>
-
-<p>&nbsp;</p>
-
+<p>A chess knight has eight possible moves it can make, as illustrated below. Each move is two cells in a cardinal direction, then one cell in an orthogonal direction.</p>
+<img src="https://assets.leetcode.com/uploads/2018/10/12/knight.png" style="width: 300px; height: 300px;" />
 <p>Each time the knight is to move, it chooses one of eight possible moves uniformly at random (even if the piece would go off the chessboard) and moves there.</p>
 
-<p>The knight continues moving until it has made exactly <code>K</code> moves or has moved off the chessboard. Return the probability that the knight remains on the board after it has stopped moving.</p>
+<p>The knight continues moving until it has made exactly <code>k</code> moves or has moved off the chessboard.</p>
+
+<p>Return <em>the probability that the knight remains on the board after it has stopped moving</em>.</p>
 
 <p>&nbsp;</p>
-
-<p><b>Example:</b></p>
+<p><strong>Example 1:</strong></p>
 
 <pre>
-<b>Input:</b> 3, 2, 0, 0
-<b>Output:</b> 0.0625
-<b>Explanation:</b> There are two moves (to (1,2), (2,1)) that will keep the knight on the board.
+<strong>Input:</strong> n = 3, k = 2, row = 0, column = 0
+<strong>Output:</strong> 0.06250
+<strong>Explanation:</strong> There are two moves (to (1,2), (2,1)) that will keep the knight on the board.
 From each of those positions, there are also two moves that will keep the knight on the board.
 The total probability the knight stays on the board is 0.0625.
 </pre>
 
-<p>&nbsp;</p>
+<p><strong>Example 2:</strong></p>
 
-<p><b>Note:</b></p>
+<pre>
+<strong>Input:</strong> n = 1, k = 0, row = 0, column = 0
+<strong>Output:</strong> 1.00000
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>N</code> will be between 1 and 25.</li>
-	<li><code>K</code> will be between 0 and 100.</li>
-	<li>The knight always initially starts on the board.</li>
+	<li><code>1 &lt;= n &lt;= 25</code></li>
+	<li><code>0 &lt;= k &lt;= 100</code></li>
+	<li><code>0 &lt;= row, column &lt;= n</code></li>
 </ul>
 
 ### Related Topics

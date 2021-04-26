@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1836 | [Remove Duplicates From an Unsorted Linked List](../../problems/remove-duplicates-from-an-unsorted-linked-list) 🔒 | [[链表](../linked-list/README.md)]  | Medium |
 | 1721 | [交换链表中的节点](../../problems/swapping-nodes-in-a-linked-list) | [[链表](../linked-list/README.md)]  | Medium |
 | 1670 | [设计前中后队列](../../problems/design-front-middle-back-queue) | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Medium |
 | 1669 | [合并两个链表](../../problems/merge-in-between-linked-lists) | [[链表](../linked-list/README.md)]  | Medium |

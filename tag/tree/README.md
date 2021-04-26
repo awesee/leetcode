@@ -69,7 +69,7 @@
 | 951 | [翻转等价二叉树](../../problems/flip-equivalent-binary-trees) | [[树](../tree/README.md)]  | Medium |
 | 938 | [二叉搜索树的范围和](../../problems/range-sum-of-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 919 | [完全二叉树插入器](../../problems/complete-binary-tree-inserter) | [[树](../tree/README.md)]  | Medium |
-| 897 | [递增顺序查找树](../../problems/increasing-order-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 897 | [递增顺序搜索树](../../problems/increasing-order-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 894 | [所有可能的满二叉树](../../problems/all-possible-full-binary-trees) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 889 | [根据前序和后序遍历构造二叉树](../../problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [[树](../tree/README.md)]  | Medium |
 | 872 | [叶子相似的树](../../problems/leaf-similar-trees) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |

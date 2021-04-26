@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1837 | [K 进制表示下的各位数字总和](../../problems/sum-of-digits-in-base-k) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1829 | [每个查询的最大异或值](../../problems/maximum-xor-for-each-query) | [[位运算](../bit-manipulation/README.md)]  | Medium |
 | 1734 | [解码异或后的排列](../../problems/decode-xored-permutation) | [[位运算](../bit-manipulation/README.md)]  | Medium |
 | 1720 | [解码异或后的数组](../../problems/decode-xored-array) | [[位运算](../bit-manipulation/README.md)]  | Easy |
 | 1707 | [与数组中元素的最大异或值](../../problems/maximum-xor-with-an-element-from-array) | [[位运算](../bit-manipulation/README.md)] [[字典树](../trie/README.md)]  | Hard |

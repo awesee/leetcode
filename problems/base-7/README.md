@@ -11,22 +11,19 @@
 
 ## [504. Base 7 (Easy)](https://leetcode.com/problems/base-7 "七进制数")
 
-<p>Given an integer, return its base 7 string representation.</p>
+<p>Given an integer <code>num</code>, return <em>a string of its <strong>base 7</strong> representation</em>.</p>
 
-<p><b>Example 1:</b><br />
-<pre>
-<b>Input:</b> 100
-<b>Output:</b> "202"
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+<pre><strong>Input:</strong> num = 100
+<strong>Output:</strong> "202"
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> num = -7
+<strong>Output:</strong> "-10"
 </pre>
-</p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><b>Example 2:</b><br />
-<pre>
-<b>Input:</b> -7
-<b>Output:</b> "-10"
-</pre>
-</p>
-
-<p><b>Note:</b>
-The input will be in range of [-1e7, 1e7].
-</p>
+<ul>
+	<li><code>-10<sup>7</sup> &lt;= num &lt;= 10<sup>7</sup></code></li>
+</ul>

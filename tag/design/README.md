@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1825 | [求出 MK 平均值](../../problems/finding-mk-average) | [[堆](../heap/README.md)] [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Hard |
 | 1797 | [设计一个验证系统](../../problems/design-authentication-manager) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1756 | [设计最近使用（MRU）队列](../../problems/design-most-recently-used-queue) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1670 | [设计前中后队列](../../problems/design-front-middle-back-queue) | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Medium |

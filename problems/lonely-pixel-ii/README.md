@@ -52,7 +52,6 @@ Rule 2, the rows have black pixel at column C = 1 are row 0, row 1 and row 2. Th
 </p>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
   [[Array](../../tag/array/README.md)]
 
 ### Similar Questions

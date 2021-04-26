@@ -9,12 +9,15 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1839 | [所有元音按顺序排布的最长子字符串](../../problems/longest-substring-of-all-vowels-in-order) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1832 | [判断句子是否为全字母句](../../problems/check-if-the-sentence-is-pangram) | [[字符串](../string/README.md)]  | Easy |
+| 1830 | [使字符串有序的最少操作次数](../../problems/minimum-number-of-operations-to-make-string-sorted) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 1816 | [截断句子](../../problems/truncate-sentence) | [[字符串](../string/README.md)]  | Easy |
 | 1813 | [句子相似性 III](../../problems/sentence-similarity-iii) | [[字符串](../string/README.md)]  | Medium |
 | 1812 | [判断国际象棋棋盘中一个格子的颜色](../../problems/determine-color-of-a-chessboard-square) | [[字符串](../string/README.md)]  | Easy |
 | 1807 | [替换字符串中的括号内容](../../problems/evaluate-the-bracket-pairs-of-a-string) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1805 | [字符串中不同整数的数目](../../problems/number-of-different-integers-in-a-string) | [[字符串](../string/README.md)]  | Easy |
-| 1804 | [Implement Trie II (Prefix Tree)](../../problems/implement-trie-ii-prefix-tree) 🔒 | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1804 | [实现 Trie （前缀树） II](../../problems/implement-trie-ii-prefix-tree) 🔒 | [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1796 | [字符串中第二大的数字](../../problems/second-largest-digit-in-a-string) | [[字符串](../string/README.md)]  | Easy |
 | 1794 | [Count Pairs of Equal Substrings With Minimum Difference](../../problems/count-pairs-of-equal-substrings-with-minimum-difference) 🔒 | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1790 | [仅执行一次字符串交换能否使两个字符串相等](../../problems/check-if-one-string-swap-can-make-strings-equal) | [[字符串](../string/README.md)]  | Easy |

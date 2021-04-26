@@ -39,5 +39,5 @@
   [[Depth-first Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Nested List Weight Sum](../nested-list-weight-sum) (Easy)
+  1. [Nested List Weight Sum](../nested-list-weight-sum) (Medium)
   1. [Array Nesting](../array-nesting) (Medium)

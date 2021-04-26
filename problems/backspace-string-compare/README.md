@@ -11,63 +11,53 @@
 
 ## [844. Backspace String Compare (Easy)](https://leetcode.com/problems/backspace-string-compare "比较含退格的字符串")
 
-<p>Given two&nbsp;strings&nbsp;<code>S</code>&nbsp;and <code>T</code>,&nbsp;return if they are equal when both are typed into empty text editors. <code>#</code> means a backspace character.</p>
+<p>Given two strings <code>s</code> and <code>t</code>, return <code>true</code> <em>if they are equal when both are typed into empty text editors</em>. <code>&#39;#&#39;</code> means a backspace character.</p>
 
-<p>Note that after&nbsp;backspacing an empty text, the text will continue empty.</p>
+<p>Note that after backspacing an empty text, the text will continue empty.</p>
 
-<div>
+<p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong>S = <span id="example-input-1-1">&quot;ab#c&quot;</span>, T = <span id="example-input-1-2">&quot;ad#c&quot;</span>
-<strong>Output: </strong><span id="example-output-1">true
-</span><span><strong>Explanation</strong>: Both S and T become &quot;ac&quot;.</span>
+<strong>Input:</strong> s = &quot;ab#c&quot;, t = &quot;ad#c&quot;
+<strong>Output:</strong> true
+<strong>Explanation:</strong> Both s and t become &quot;ac&quot;.
 </pre>
 
-<div>
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong>S = <span id="example-input-2-1">&quot;ab##&quot;</span>, T = <span id="example-input-2-2">&quot;c#d#&quot;</span>
-<strong>Output: </strong><span id="example-output-2">true
-</span><span><strong>Explanation</strong>: Both S and T become &quot;&quot;.</span>
+<strong>Input:</strong> s = &quot;ab##&quot;, t = &quot;c#d#&quot;
+<strong>Output:</strong> true
+<strong>Explanation:</strong> Both s and t become &quot;&quot;.
 </pre>
 
-<div>
 <p><strong>Example 3:</strong></p>
 
 <pre>
-<strong>Input: </strong>S = <span id="example-input-3-1">&quot;a##c&quot;</span>, T = <span id="example-input-3-2">&quot;#a#c&quot;</span>
-<strong>Output: </strong><span id="example-output-3">true
-</span><span><strong>Explanation</strong>: Both S and T become &quot;c&quot;.</span>
+<strong>Input:</strong> s = &quot;a##c&quot;, t = &quot;#a#c&quot;
+<strong>Output:</strong> true
+<strong>Explanation:</strong> Both s and t become &quot;c&quot;.
 </pre>
 
-<div>
 <p><strong>Example 4:</strong></p>
 
 <pre>
-<strong>Input: </strong>S = <span id="example-input-4-1">&quot;a#c&quot;</span>, T = <span id="example-input-4-2">&quot;b&quot;</span>
-<strong>Output: </strong><span id="example-output-4">false
-</span><span><strong>Explanation</strong>: S becomes &quot;c&quot; while T becomes &quot;b&quot;.</span>
+<strong>Input:</strong> s = &quot;a#c&quot;, t = &quot;b&quot;
+<strong>Output:</strong> false
+<strong>Explanation:</strong> s becomes &quot;c&quot; while t becomes &quot;b&quot;.
 </pre>
 
-<p><span><strong>Note</strong>:</span></p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code><span>1 &lt;= S.length &lt;= 200</span></code></li>
-	<li><code><span>1 &lt;= T.length &lt;= 200</span></code></li>
-	<li><span><code>S</code>&nbsp;and <code>T</code> only contain&nbsp;lowercase letters and <code>&#39;#&#39;</code> characters.</span></li>
+	<li><code><span>1 &lt;= s.length, t.length &lt;= 200</span></code></li>
+	<li><span><code>s</code>&nbsp;and <code>t</code> only contain&nbsp;lowercase letters and <code>&#39;#&#39;</code> characters.</span></li>
 </ul>
 
-<p><strong>Follow up:</strong></p>
-
-<ul>
-	<li>Can you solve it in <code>O(N)</code> time and <code>O(1)</code> space?</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> Can you solve it in <code>O(n)</code> time and <code>O(1)</code> space?</p>
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]

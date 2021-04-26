@@ -13,7 +13,11 @@
 
 <p>Given two strings <code>a</code> and <code>b</code>, return <code>true</code><em> if you can swap two letters in </em><code>a</code><em> so the result is equal to </em><code>b</code><em>, otherwise, return </em><code>false</code><em>.</em></p>
 
-<p>Swapping letters is defined as taking two indices <code>i</code> and <code>j</code> (0-indexed) such that <code>i != j</code> and swapping the characters at <code>a[i]</code> and <code>b[j]</code>. For example, swapping at indices <code>0</code> and <code>2</code> in <code>&quot;abcd&quot;</code> results in <code>&quot;cbad&quot;</code>.</p>
+<p>Swapping letters is defined as taking two indices <code>i</code> and <code>j</code> (0-indexed) such that <code>i != j</code> and swapping the characters at <code>a[i]</code> and <code>a[j]</code>.</p>
+
+<ul>
+	<li>For example, swapping at indices <code>0</code> and <code>2</code> in <code>&quot;abcd&quot;</code> results in <code>&quot;cbad&quot;</code>.</li>
+</ul>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

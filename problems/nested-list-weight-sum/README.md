@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../longest-substring-with-at-most-k-distinct-characters "Longest Substring with At Most K Distinct Characters")
 
-## [339. Nested List Weight Sum (Easy)](https://leetcode.com/problems/nested-list-weight-sum "嵌套列表权重和")
+## [339. Nested List Weight Sum (Medium)](https://leetcode.com/problems/nested-list-weight-sum "嵌套列表权重和")
 
 <p>Given a nested list of integers, return the sum of all integers in the list weighted by their depth.</p>
 

@@ -11,9 +11,9 @@
 
 ## [263. Ugly Number (Easy)](https://leetcode.com/problems/ugly-number "丑数")
 
-<p>Given an integer <code>n</code>, return <code>true</code> <em>if</em> <code>n</code> <em>is an <strong>ugly number</strong></em>.</p>
+<p>An <strong>ugly number</strong> is a positive integer whose prime factors are limited to <code>2</code>, <code>3</code>, and <code>5</code>.</p>
 
-<p><strong>Ugly number</strong> is a positive number whose prime factors only include <code>2</code>, <code>3</code>, and/or <code>5</code>.</p>
+<p>Given an integer <code>n</code>, return <code>true</code> <em>if</em> <code>n</code> <em>is an <strong>ugly number</strong></em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -36,7 +36,7 @@
 <pre>
 <strong>Input:</strong> n = 14
 <strong>Output:</strong> false
-<strong>Explanation:</strong> 14 is not ugly since it includes another prime factor 7.
+<strong>Explanation:</strong> 14 is not ugly since it includes the prime factor 7.
 </pre>
 
 <p><strong>Example 4:</strong></p>
@@ -44,7 +44,7 @@
 <pre>
 <strong>Input:</strong> n = 1
 <strong>Output:</strong> true
-<strong>Explanation:</strong> 1 is typically treated as an ugly number.
+<strong>Explanation:</strong> 1 has no prime factors, therefore all of its prime factors are limited to 2, 3, and 5.
 </pre>
 
 <p>&nbsp;</p>

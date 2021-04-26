@@ -18,7 +18,7 @@
 	<li><code>s[i] == &#39;D&#39;</code> if <code>perm[i] &gt; perm[i + 1]</code>.</li>
 </ul>
 
-<p>Given a string <code>s</code>, reconstruct the permutation perm and return it. If there are multiple valid permutations perm, return <strong>any of them</strong>.</p>
+<p>Given a string <code>s</code>, reconstruct the permutation <code>perm</code> and return it. If there are multiple valid permutations perm, return <strong>any of them</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

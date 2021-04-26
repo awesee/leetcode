@@ -43,6 +43,6 @@ S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
   [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Nested List Weight Sum](../nested-list-weight-sum) (Easy)
+  1. [Nested List Weight Sum](../nested-list-weight-sum) (Medium)
   1. [Flatten Nested List Iterator](../flatten-nested-list-iterator) (Medium)
   1. [Nested List Weight Sum II](../nested-list-weight-sum-ii) (Medium)

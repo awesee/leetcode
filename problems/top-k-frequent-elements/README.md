@@ -25,7 +25,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.legth &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>k</code> is in the range <code>[1, the number of unique elements in the array]</code>.</li>
 	<li>It is <strong>guaranteed</strong> that the answer is <strong>unique</strong>.</li>
 </ul>

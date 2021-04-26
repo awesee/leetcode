@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1840 | [最高建筑高度](../../problems/maximum-building-height) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1818 | [绝对差值和](../../problems/minimum-absolute-sum-difference) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1802 | [有界数组中指定下标处的最大值](../../problems/maximum-value-at-a-given-index-in-a-bounded-array) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1760 | [袋子里最少数目的球](../../problems/minimum-limit-of-balls-in-a-bag) | [[堆](../heap/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

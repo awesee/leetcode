@@ -11,7 +11,7 @@
 
 ## [1189. Maximum Number of Balloons (Easy)](https://leetcode.com/problems/maximum-number-of-balloons "“气球” 的最大数量")
 
-<p>Given a string&nbsp;<code>text</code>, you want to use the characters of&nbsp;<code>text</code>&nbsp;to form as many instances of the word <strong>&quot;balloon&quot;</strong> as possible.</p>
+<p>Given a string <code>text</code>, you want to use the characters of <code>text</code> to form as many instances of the word <strong>&quot;balloon&quot;</strong> as possible.</p>
 
 <p>You can use each character in <code>text</code> <strong>at most once</strong>. Return the maximum number of instances that can be formed.</p>
 
@@ -45,8 +45,8 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= text.length &lt;= 10^4</code></li>
-	<li><code>text</code>&nbsp;consists of lower case English letters only.</li>
+	<li><code>1 &lt;= text.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>text</code> consists of lower case English letters only.</li>
 </ul>
 
 ### Related Topics

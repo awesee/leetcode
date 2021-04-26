@@ -41,4 +41,4 @@ Employee 1 has importance value 5, and he has two direct subordinates: employee 
   [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
-  1. [Nested List Weight Sum](../nested-list-weight-sum) (Easy)
+  1. [Nested List Weight Sum](../nested-list-weight-sum) (Medium)

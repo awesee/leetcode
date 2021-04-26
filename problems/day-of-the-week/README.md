@@ -43,7 +43,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The given dates are valid&nbsp;dates between the years <code>1971</code> and <code>2100</code>.</li>
+	<li>The given dates are valid dates between the years <code>1971</code> and <code>2100</code>.</li>
 </ul>
 
 ### Related Topics

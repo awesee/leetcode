@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1840 | [最高建筑高度](../../problems/maximum-building-height) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 1838 | [最高频元素的频数](../../problems/frequency-of-the-most-frequent-element) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1827 | [最少操作使数组递增](../../problems/minimum-operations-to-make-the-array-increasing) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1818 | [绝对差值和](../../problems/minimum-absolute-sum-difference) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1806 | [还原排列的最少操作步数](../../problems/minimum-number-of-operations-to-reinitialize-a-permutation) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1802 | [有界数组中指定下标处的最大值](../../problems/maximum-value-at-a-given-index-in-a-bounded-array) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

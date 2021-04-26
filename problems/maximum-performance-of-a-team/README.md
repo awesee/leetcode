@@ -11,9 +11,13 @@
 
 ## [1383. Maximum Performance of a Team (Hard)](https://leetcode.com/problems/maximum-performance-of-a-team "最大的团队表现值")
 
-<p>There are <code>n</code> engineers numbered from 1 to <code>n</code>&nbsp;and&nbsp;two arrays: <code>speed</code>&nbsp;and <code>efficiency</code>, where <code>speed[i]</code> and <code>efficiency[i]</code> represent the speed and efficiency for the i-th engineer respectively. <em>Return the maximum <strong>performance</strong> of a team composed of&nbsp;at most&nbsp;<code>k</code>&nbsp;engineers, since the answer can be a huge number, return this modulo&nbsp;10^9 + 7.</em></p>
+<p>You are given two integers <code>n</code> and <code>k</code> and two integer arrays <code>speed</code> and <code>efficiency</code> both of length <code>n</code>. There are <code>n</code> engineers numbered from <code>1</code> to <code>n</code>. <code>speed[i]</code> and <code>efficiency[i]</code> represent the speed and efficiency of the <code>i<sup>th</sup></code> engineer respectively.</p>
 
-<p>The <strong>performance</strong> of a team is the sum of their engineers&#39; speeds multiplied by the minimum efficiency among&nbsp;their engineers.&nbsp;</p>
+<p>Choose <strong>at most</strong> <code>k</code> different engineers out of the <code>n</code> engineers to form a team with the maximum <strong>performance</strong>.</p>
+
+<p>The performance of a team is the sum of their engineers&#39; speeds multiplied by the minimum efficiency among their engineers.</p>
+
+<p>Return <em>the maximum performance of this team</em>. Since the answer can be a huge number, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -45,12 +49,11 @@ We have the maximum performance of the team by selecting engineer 2 (with speed=
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n &lt;= 10^5</code></li>
+	<li><code>1 &lt;= &lt;= k &lt;= n &lt;= 10<sup>5</sup></code></li>
 	<li><code>speed.length == n</code></li>
 	<li><code>efficiency.length == n</code></li>
-	<li><code>1 &lt;= speed[i] &lt;= 10^5</code></li>
-	<li><code>1 &lt;= efficiency[i] &lt;= 10^8</code></li>
-	<li><code>1 &lt;= k &lt;= n</code></li>
+	<li><code>1 &lt;= speed[i] &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= efficiency[i] &lt;= 10<sup>8</sup></code></li>
 </ul>
 
 ### Related Topics
@@ -65,5 +68,5 @@ Keep track of the engineers by their efficiency in decreasing order.
 
 <details>
 <summary>Hint 2</summary>
-For each engineer's efficiency take the K highest speeds among the engineers previously tracked.
+Starting from one engineer, to build a team, it suffices to bring K-1 more engineers who have higher efficiencies as well as high speeds.
 </details>

@@ -71,7 +71,7 @@
 | 934 | [最短的桥](../../problems/shortest-bridge) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 928 | [尽量减少恶意软件的传播 II](../../problems/minimize-malware-spread-ii) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
 | 924 | [尽量减少恶意软件的传播](../../problems/minimize-malware-spread) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Hard |
-| 897 | [递增顺序查找树](../../problems/increasing-order-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
+| 897 | [递增顺序搜索树](../../problems/increasing-order-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
 | 886 | [可能的二分法](../../problems/possible-bipartition) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 872 | [叶子相似的树](../../problems/leaf-similar-trees) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
 | 865 | [具有所有最深节点的最小子树](../../problems/smallest-subtree-with-all-the-deepest-nodes) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)]  | Medium |
@@ -108,7 +108,6 @@
 | 546 | [移除盒子](../../problems/remove-boxes) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 542 | [01 矩阵](../../problems/01-matrix) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 538 | [把二叉搜索树转换为累加树](../../problems/convert-bst-to-greater-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
-| 533 | [孤独像素 II](../../problems/lonely-pixel-ii) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
 | 531 | [孤独像素 I](../../problems/lonely-pixel-i) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
 | 529 | [扫雷游戏](../../problems/minesweeper) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 526 | [优美的排列](../../problems/beautiful-arrangement) | [[深度优先搜索](../depth-first-search/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
@@ -130,7 +129,7 @@
 | 394 | [字符串解码](../../problems/decode-string) | [[栈](../stack/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 366 | [寻找二叉树的叶子节点](../../problems/find-leaves-of-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 364 | [加权嵌套序列和 II](../../problems/nested-list-weight-sum-ii) 🔒 | [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
-| 339 | [嵌套列表权重和](../../problems/nested-list-weight-sum) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
+| 339 | [嵌套列表权重和](../../problems/nested-list-weight-sum) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 337 | [打家劫舍 III](../../problems/house-robber-iii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 332 | [重新安排行程](../../problems/reconstruct-itinerary) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 329 | [矩阵中的最长递增路径](../../problems/longest-increasing-path-in-a-matrix) | [[深度优先搜索](../depth-first-search/README.md)] [[拓扑排序](../topological-sort/README.md)] [[记忆化](../memoization/README.md)]  | Hard |

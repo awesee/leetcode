@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../sum-of-unique-elements "Sum of Unique Elements")
 
-## [1747. Leetflex Banned Accounts (Medium)](https://leetcode.com/problems/leetflex-banned-accounts "")
+## [1747. Leetflex Banned Accounts (Medium)](https://leetcode.com/problems/leetflex-banned-accounts "应该被禁止的Leetflex账户")
 
 

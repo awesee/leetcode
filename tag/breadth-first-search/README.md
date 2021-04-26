@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1824 | [最少侧跳次数](../../problems/minimum-sideway-jumps) | [[广度优先搜索](../breadth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1778 | [Shortest Path in a Hidden Grid](../../problems/shortest-path-in-a-hidden-grid) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1766 | [互质树](../../problems/tree-of-coprimes) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1765 | [地图中的最高点](../../problems/map-of-highest-peak) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
@@ -73,7 +74,7 @@
 | 429 | [N 叉树的层序遍历](../../problems/n-ary-tree-level-order-traversal) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 417 | [太平洋大西洋水流问题](../../problems/pacific-atlantic-water-flow) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 407 | [接雨水 II](../../problems/trapping-rain-water-ii) | [[堆](../heap/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
-| 339 | [嵌套列表权重和](../../problems/nested-list-weight-sum) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
+| 339 | [嵌套列表权重和](../../problems/nested-list-weight-sum) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 323 | [无向图中连通分量的数目](../../problems/number-of-connected-components-in-an-undirected-graph) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
 | 317 | [离建筑物最近的距离](../../problems/shortest-distance-from-all-buildings) 🔒 | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 314 | [二叉树的垂直遍历](../../problems/binary-tree-vertical-order-traversal) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1824 | [最少侧跳次数](../../problems/minimum-sideway-jumps) | [[广度优先搜索](../breadth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1815 | [得到新鲜甜甜圈的最多组数](../../problems/maximum-number-of-groups-getting-fresh-donuts) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1799 | [N 次操作后的最大分数和](../../problems/maximize-score-after-n-operations) | [[递归](../recursion/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1787 | [使所有区间的异或结果为零](../../problems/make-the-xor-of-all-segments-equal-to-zero) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -16,7 +17,7 @@
 | 1771 | [由子序列构造的最长回文串的长度](../../problems/maximize-palindrome-length-from-subsequences) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1770 | [执行乘法运算的最大分数](../../problems/maximum-score-from-performing-multiplication-operations) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1751 | [最多可以参加的会议数目 II](../../problems/maximum-number-of-events-that-can-be-attended-ii) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 1746 | [Maximum Subarray Sum After One Operation](../../problems/maximum-subarray-sum-after-one-operation) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1746 | [经过一次操作后的最大子数组和](../../problems/maximum-subarray-sum-after-one-operation) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1745 | [回文串分割 IV](../../problems/palindrome-partitioning-iv) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1728 | [猫和老鼠 II](../../problems/cat-and-mouse-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1724 | [检查边长度限制的路径是否存在 II](../../problems/checking-existence-of-edge-length-limited-paths-ii) 🔒 | [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -186,6 +187,7 @@
 | 600 | [不含连续1的非负整数](../../problems/non-negative-integers-without-consecutive-ones) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 576 | [出界的路径数](../../problems/out-of-boundary-paths) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 568 | [最大休假天数](../../problems/maximum-vacation-days) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 562 | [矩阵中最长的连续1线段](../../problems/longest-line-of-consecutive-one-in-matrix) 🔒 | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 552 | [学生出勤记录 II](../../problems/student-attendance-record-ii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 546 | [移除盒子](../../problems/remove-boxes) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 523 | [连续的子数组和](../../problems/continuous-subarray-sum) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

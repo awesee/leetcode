@@ -11,35 +11,39 @@
 
 ## [537. Complex Number Multiplication (Medium)](https://leetcode.com/problems/complex-number-multiplication "复数乘法")
 
-<p>
-Given two strings representing two <a href = "https://en.wikipedia.org/wiki/Complex_number">complex numbers</a>.</p>
+<p>A <a href="https://en.wikipedia.org/wiki/Complex_number" target="_blank">complex number</a> can be represented as a string on the form <code>&quot;<strong>real</strong>+<strong>imaginary</strong>i&quot;</code> where:</p>
 
-<p>
-You need to return a string representing their multiplication. Note i<sup>2</sup> = -1 according to the definition.
-</p>
+<ul>
+	<li><code>real</code> is the real part and is an integer in the range <code>[-100, 100]</code>.</li>
+	<li><code>imaginary</code> is the imaginary part and is an integer in the range <code>[-100, 100]</code>.</li>
+	<li><code>i<sup>2</sup> == -1</code>.</li>
+</ul>
 
-<p><b>Example 1:</b><br />
+<p>Given two complex numbers <code>num1</code> and <code>num2</code> as strings, return <em>a string of the complex number that represents their multiplications</em>.</p>
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+
 <pre>
-<b>Input:</b> "1+1i", "1+1i"
-<b>Output:</b> "0+2i"
-<b>Explanation:</b> (1 + i) * (1 + i) = 1 + i<sup>2</sup> + 2 * i = 2i, and you need convert it to the form of 0+2i.
+<strong>Input:</strong> num1 = &quot;1+1i&quot;, num2 = &quot;1+1i&quot;
+<strong>Output:</strong> &quot;0+2i&quot;
+<strong>Explanation:</strong> (1 + i) * (1 + i) = 1 + i2 + 2 * i = 2i, and you need convert it to the form of 0+2i.
 </pre>
-</p>
 
-<p><b>Example 2:</b><br />
+<p><strong>Example 2:</strong></p>
+
 <pre>
-<b>Input:</b> "1+-1i", "1+-1i"
-<b>Output:</b> "0+-2i"
-<b>Explanation:</b> (1 - i) * (1 - i) = 1 + i<sup>2</sup> - 2 * i = -2i, and you need convert it to the form of 0+-2i.
+<strong>Input:</strong> num1 = &quot;1+-1i&quot;, num2 = &quot;1+-1i&quot;
+<strong>Output:</strong> &quot;0+-2i&quot;
+<strong>Explanation:</strong> (1 - i) * (1 - i) = 1 + i2 - 2 * i = -2i, and you need convert it to the form of 0+-2i.
 </pre>
-</p>
 
-<p><b>Note:</b>
-<ol>
-<li>The input strings will not have extra blank.</li>
-<li>The input strings will be given in the form of <b>a+bi</b>, where the integer <b>a</b> and <b>b</b> will both belong to the range of [-100, 100]. And <b>the output should be also in this form</b>.</li>
-</ol>
-</p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>num1</code> and <code>num2</code> are valid complex numbers.</li>
+</ul>
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]

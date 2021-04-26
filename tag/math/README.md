@@ -9,6 +9,11 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1837 | [K 进制表示下的各位数字总和](../../problems/sum-of-digits-in-base-k) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1835 | [所有数对按位与结果的异或和](../../problems/find-xor-sum-of-all-pairs-bitwise-and) | [[数学](../math/README.md)]  | Hard |
+| 1830 | [使字符串有序的最少操作次数](../../problems/minimum-number-of-operations-to-make-string-sorted) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 1828 | [统计一个圆中点的数目](../../problems/queries-on-number-of-points-inside-a-circle) | [[数学](../math/README.md)]  | Medium |
+| 1822 | [数组元素积的符号](../../problems/sign-of-the-product-of-an-array) | [[数学](../math/README.md)]  | Easy |
 | 1819 | [序列中不同最大公约数的数目](../../problems/number-of-different-subsequences-gcds) | [[数学](../math/README.md)]  | Hard |
 | 1808 | [好因子的最大数目](../../problems/maximize-number-of-nice-divisors) | [[数学](../math/README.md)]  | Hard |
 | 1780 | [判断一个数字是否可以表示成三的幂的和](../../problems/check-if-number-is-a-sum-of-powers-of-three) | [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |

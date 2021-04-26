@@ -11,49 +11,36 @@
 
 ## [542. 01 Matrix (Medium)](https://leetcode.com/problems/01-matrix "01 矩阵")
 
-<p>Given a matrix consists of 0 and 1, find the distance of the nearest 0 for each cell.</p>
+<p>Given an <code>m x n</code> binary matrix <code>mat</code>, return <em>the distance of the nearest </em><code>0</code><em> for each cell</em>.</p>
 
-<p>The distance between two adjacent cells is 1.</p>
+<p>The distance between two adjacent cells is <code>1</code>.</p>
 
 <p>&nbsp;</p>
-
-<p><b>Example 1: </b></p>
-
+<p><strong>Example 1:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2021/04/24/01-1-grid.jpg" style="width: 253px; height: 253px;" />
 <pre>
-<strong>Input:</strong>
-[[0,0,0],
- [0,1,0],
- [0,0,0]]
-
-<strong>Output:</strong>
-[[0,0,0],
-&nbsp;[0,1,0],
-&nbsp;[0,0,0]]
+<strong>Input:</strong> mat = [[0,0,0],[0,1,0],[0,0,0]]
+<strong>Output:</strong> [[0,0,0],[0,1,0],[0,0,0]]
 </pre>
 
-<p><b>Example 2: </b></p>
-
+<p><strong>Example 2:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2021/04/24/01-2-grid.jpg" style="width: 253px; height: 253px;" />
 <pre>
-<b>Input:</b>
-[[0,0,0],
- [0,1,0],
- [1,1,1]]
-
-<strong>Output:</strong>
-[[0,0,0],
- [0,1,0],
- [1,2,1]]
+<strong>Input:</strong> mat = [[0,0,0],[0,1,0],[1,1,1]]
+<strong>Output:</strong> [[0,0,0],[0,1,0],[1,2,1]]
 </pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><b>Note:</b></p>
-
-<ol>
-	<li>The number of elements of the given matrix will not exceed 10,000.</li>
-	<li>There are at least one 0 in the given matrix.</li>
-	<li>The cells are adjacent in only four directions: up, down, left and right.</li>
-</ol>
+<ul>
+	<li><code>m == mat.length</code></li>
+	<li><code>n == mat[i].length</code></li>
+	<li><code>1 &lt;= m, n &lt;= 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= m * n &lt;= 10<sup>4</sup></code></li>
+	<li><code>mat[i][j]</code> is either <code>0</code> or <code>1</code>.</li>
+	<li>There is at least one <code>0</code> in <code>mat</code>.</li>
+</ul>
 
 ### Related Topics
   [[Depth-first Search](../../tag/depth-first-search/README.md)]
