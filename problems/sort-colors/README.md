@@ -15,6 +15,8 @@
 
 <p>We will use the integers <code>0</code>, <code>1</code>, and <code>2</code> to represent the color red, white, and blue, respectively.</p>
 
+<p>You must solve this problem without using the library&#39;s sort function.</p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <pre><strong>Input:</strong> nums = [2,0,2,1,1,0]
@@ -39,12 +41,7 @@
 </ul>
 
 <p>&nbsp;</p>
-<p><strong>Follow up:</strong></p>
-
-<ul>
-	<li>Could you solve this problem without using the library&#39;s sort function?</li>
-	<li>Could you come up with a one-pass algorithm using only <code>O(1)</code> constant space?</li>
-</ul>
+<p><strong>Follow up:</strong>&nbsp;Could you come up with a one-pass algorithm using only&nbsp;constant extra space?</p>
 
 ### Related Topics
   [[Sort](../../tag/sort/README.md)]

@@ -11,20 +11,20 @@
 
 ## [1529. Bulb Switcher IV (Medium)](https://leetcode.com/problems/bulb-switcher-iv "灯泡开关 IV")
 
-<p>There is a room with <code>n</code>&nbsp;bulbs, numbered from <code>0</code> to&nbsp;<code>n-1</code>,&nbsp;arranged in a row from left to right. Initially all the bulbs are <strong>turned off</strong>.</p>
+<p>There is a room with <code>n</code> bulbs, numbered from <code>0</code> to <code>n - 1</code>, arranged in a row from left to right. Initially, all the bulbs are <strong>turned off</strong>.</p>
 
-<p>Your task is to obtain the configuration represented by <code>target</code> where&nbsp;<code>target[i]</code> is &#39;1&#39; if the i-th bulb is turned on and is &#39;0&#39; if it is turned off.</p>
+<p>Your task is to obtain the configuration represented by <code>target</code> where <code>target[i]</code> is <code>&#39;1&#39;</code> if the <code>i<sup>th</sup></code> bulb is turned on and is <code>&#39;0&#39;</code> if it is turned off.</p>
 
-<p>You have a switch&nbsp;to flip the state of the bulb,&nbsp;a flip operation is defined as follows:</p>
+<p>You have a switch to flip the state of the bulb, a flip operation is defined as follows:</p>
 
 <ul>
-	<li>Choose <strong>any</strong> bulb (index&nbsp;<code>i</code>)&nbsp;of your current configuration.</li>
-	<li>Flip each bulb from index&nbsp;<code>i</code> to&nbsp;<code>n-1</code>.</li>
+	<li>Choose <strong>any</strong> bulb (index <code>i</code>) of your current configuration.</li>
+	<li>Flip each bulb from index <code>i</code> to index <code>n - 1</code>.</li>
 </ul>
 
-<p>When any bulb is flipped it means that if it is 0 it changes to 1 and if it is 1 it changes to 0.</p>
+<p>When any bulb is flipped it means that if it is <code>&#39;0&#39;</code> it changes to <code>&#39;1&#39;</code> and if it is <code>&#39;1&#39;</code> it changes to <code>&#39;0&#39;</code>.</p>
 
-<p>Return the <strong>minimum</strong> number of flips required to form <code>target</code>.</p>
+<p>Return <em>the <strong>minimum</strong> number of flips required to form</em> <code>target</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -64,8 +64,8 @@ We need at least 3 flip operations to form target.</pre>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= target.length &lt;= 10^5</code></li>
-	<li><code>target[i] == &#39;0&#39;</code>&nbsp;or <code>target[i] == &#39;1&#39;</code></li>
+	<li><code>1 &lt;= target.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>target[i]</code> is either <code>&#39;0&#39;</code> or <code>&#39;1&#39;</code>.</li>
 </ul>
 
 ### Related Topics

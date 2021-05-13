@@ -11,16 +11,16 @@
 
 ## [710. Random Pick with Blacklist (Hard)](https://leetcode.com/problems/random-pick-with-blacklist "黑名单中的随机数")
 
-<p>Given a blacklist&nbsp;<code>B</code> containing unique integers&nbsp;from <code>[0, N)</code>, write a function to return a uniform random integer from <code>[0, N)</code> which is <strong>NOT</strong>&nbsp;in <code>B</code>.</p>
+<p>Given a blacklist <code>blacklist</code> containing unique integers from <code>[0, n)</code>, write a function to return a uniform random integer from <code>[0, n)</code> which is <strong>NOT</strong> in <code>blacklist</code>.</p>
 
 <p>Optimize it such that it minimizes the call to system&rsquo;s <code>Math.random()</code>.</p>
 
 <p><strong>Note:</strong></p>
 
 <ol>
-	<li><code>1 &lt;= N &lt;= 1000000000</code></li>
-	<li><code>0 &lt;= B.length &lt; min(100000, N)</code></li>
-	<li><code>[0, N)</code>&nbsp;does NOT include N. See <a href="https://en.wikipedia.org/wiki/Interval_(mathematics)" target="_blank">interval notation</a>.</li>
+	<li><code>1 &lt;= n &lt;= 1000000000</code></li>
+	<li><code>0 &lt;= blacklist.length &lt; min(100000, n)</code></li>
+	<li><code>[0, n)</code> does NOT include n. See <a href="https://en.wikipedia.org/wiki/Interval_(mathematics)" target="_blank">interval notation</a>.</li>
 </ol>
 
 <p><strong>Example 1:</strong></p>
@@ -61,7 +61,7 @@
 
 <p><strong>Explanation of Input Syntax:</strong></p>
 
-<p>The input is two lists:&nbsp;the subroutines called&nbsp;and their&nbsp;arguments.&nbsp;<code>Solution</code>&#39;s&nbsp;constructor has two arguments,&nbsp;<code>N</code> and the blacklist <code>B</code>. <code>pick</code> has no arguments.&nbsp;Arguments&nbsp;are&nbsp;always wrapped with a list, even if there aren&#39;t any.</p>
+<p>The input is two lists: the subroutines called and their arguments. <code>Solution</code>&#39;s constructor has two arguments, <code>n</code> and the blacklist <code>blacklist</code>. <code>pick</code> has no arguments. Arguments are always wrapped with a list, even if there aren&#39;t any.</p>
 
 ### Related Topics
   [[Sort](../../tag/sort/README.md)]

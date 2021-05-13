@@ -68,7 +68,7 @@ bSTIterator.hasNext(); // return False
   [[Design](../../tag/design/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Medium)
+  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Easy)
   1. [Flatten 2D Vector](../flatten-2d-vector) (Medium)
   1. [Zigzag Iterator](../zigzag-iterator) (Medium)
   1. [Peeking Iterator](../peeking-iterator) (Medium)

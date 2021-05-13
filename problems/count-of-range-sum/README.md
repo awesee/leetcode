@@ -37,11 +37,9 @@
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
-	<li><code>-3 * 10<sup>4</sup> &lt;= lower &lt;= upper &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>-10<sup>5</sup> &lt;= lower &lt;= upper &lt;= 10<sup>5</sup></code></li>
+	<li>The answer is <strong>guaranteed</strong> to fit in a <strong>32-bit</strong> integer.</li>
 </ul>
-
-<p>&nbsp;</p>
-<strong>Follow up:</strong> A naive algorithm of <code>O(n<sup>2</sup>)</code> is trivial, Could you do better than that?
 
 ### Related Topics
   [[Sort](../../tag/sort/README.md)]

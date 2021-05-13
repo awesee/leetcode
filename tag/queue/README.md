@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1856 | [子数组最小乘积的最大值](../../problems/maximum-subarray-min-product) | [[排序](../sort/README.md)] [[并查集](../union-find/README.md)] [[队列](../queue/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1825 | [求出 MK 平均值](../../problems/finding-mk-average) | [[堆](../heap/README.md)] [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Hard |
 | 1673 | [找出最具竞争力的子序列](../../problems/find-the-most-competitive-subsequence) | [[栈](../stack/README.md)] [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[队列](../queue/README.md)]  | Medium |
 | 933 | [最近的请求次数](../../problems/number-of-recent-calls) | [[队列](../queue/README.md)]  | Easy |

@@ -40,4 +40,4 @@
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Medium)
+  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Easy)

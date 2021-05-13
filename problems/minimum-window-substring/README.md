@@ -11,7 +11,7 @@
 
 ## [76. Minimum Window Substring (Hard)](https://leetcode.com/problems/minimum-window-substring "最小覆盖子串")
 
-<p>Given two strings <code>s</code> and <code>t</code>, return <em>the minimum window in <code>s</code> which will contain all the characters in <code>t</code></em>. If there is no such window in <code>s</code> that covers all characters in <code>t</code>, return <em>the empty string <code>&quot;&quot;</code></em>.</p>
+<p>Given two strings <code>s</code> and <code>t</code>&nbsp;of lengths&nbsp;<code>m</code>&nbsp;and <code>n</code>&nbsp;respectively, return <em>the minimum window in <code>s</code> which will contain all the characters in <code>t</code></em>. If there is no such window in <code>s</code> that covers all characters in <code>t</code>, return <em>the empty string <code>&quot;&quot;</code></em>.</p>
 
 <p><strong>Note</strong> that If there is such a window, it is&nbsp;guaranteed that there will always be only one unique minimum window in <code>s</code>.</p>
 
@@ -27,12 +27,14 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= s.length, t.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>m == s.length</code></li>
+	<li><code>n == t.length</code></li>
+	<li><code>1 &lt;= m, n&nbsp;&lt;= 10<sup>5</sup></code></li>
 	<li><code>s</code> and <code>t</code> consist of English letters.</li>
 </ul>
 
 <p>&nbsp;</p>
-<strong>Follow up:</strong> Could you find an algorithm that runs in <code>O(n)</code> time?
+<strong>Follow up:</strong> Could you find an algorithm that runs in <code>O(m + n)</code> time?
 
 ### Related Topics
   [[Hash Table](../../tag/hash-table/README.md)]

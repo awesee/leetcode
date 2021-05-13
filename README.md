@@ -78,6 +78,23 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="1857">1857</span> | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph "有向图中最大颜色值") | [Go](problems/largest-color-value-in-a-directed-graph) | Hard |
+| <span id="1856">1856</span> | [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product "子数组最小乘积的最大值") | [Go](problems/maximum-subarray-min-product) | Medium |
+| <span id="1855">1855</span> | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values "下标对中的最大距离") | [Go](problems/maximum-distance-between-a-pair-of-values) | Medium |
+| <span id="1854">1854</span> | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year "人口最多的年份") | [Go](problems/maximum-population-year) | Easy |
+| <span id="1853">1853</span> | [Convert Date Format](https://leetcode.com/problems/convert-date-format) 🔒 | [MySQL](problems/convert-date-format) | Easy |
+| <span id="1852">1852</span> | [Distinct Numbers in Each Subarray](https://leetcode.com/problems/distinct-numbers-in-each-subarray) 🔒 | [Go](problems/distinct-numbers-in-each-subarray) | Medium |
+| <span id="1851">1851</span> | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query "包含每个查询的最小区间") | [Go](problems/minimum-interval-to-include-each-query) | Hard |
+| <span id="1850">1850</span> | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number "邻位交换的最小次数") | [Go](problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number) | Medium |
+| <span id="1849">1849</span> | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values "将字符串拆分为递减的连续值") | [Go](problems/splitting-a-string-into-descending-consecutive-values) | Medium |
+| <span id="1848">1848</span> | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element "到目标元素的最小距离") | [Go](problems/minimum-distance-to-the-target-element) | Easy |
+| <span id="1847">1847</span> | [Closest Room](https://leetcode.com/problems/closest-room "最近的房间") | [Go](problems/closest-room) | Hard |
+| <span id="1846">1846</span> | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging "减小和重新排列数组后的最大元素") | [Go](problems/maximum-element-after-decreasing-and-rearranging) | Medium |
+| <span id="1845">1845</span> | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager "座位预约管理系统") | [Go](problems/seat-reservation-manager) | Medium |
+| <span id="1844">1844</span> | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters "将所有数字用字符替换") | [Go](problems/replace-all-digits-with-characters) | Easy |
+| <span id="1843">1843</span> | [Suspicious Bank Accounts](https://leetcode.com/problems/suspicious-bank-accounts) 🔒 | [MySQL](problems/suspicious-bank-accounts) | Medium |
+| <span id="1842">1842</span> | [Next Palindrome Using Same Digits](https://leetcode.com/problems/next-palindrome-using-same-digits) 🔒 | [Go](problems/next-palindrome-using-same-digits) | Hard |
+| <span id="1841">1841</span> | [League Statistics](https://leetcode.com/problems/league-statistics) 🔒 | [MySQL](problems/league-statistics) | Medium |
 | <span id="1840">1840</span> | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height "最高建筑高度") | [Go](problems/maximum-building-height) | Hard |
 | <span id="1839">1839</span> | [Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order "所有元音按顺序排布的最长子字符串") | [Go](problems/longest-substring-of-all-vowels-in-order) | Medium |
 | <span id="1838">1838</span> | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element "最高频元素的频数") | [Go](problems/frequency-of-the-most-frequent-element) | Medium |
@@ -124,7 +141,7 @@ LeetCode Problems' Solutions
 | <span id="1797">1797</span> | [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager "设计一个验证系统") | [Go](problems/design-authentication-manager) | Medium |
 | <span id="1796">1796</span> | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string "字符串中第二大的数字") | [Go](problems/second-largest-digit-in-a-string) | Easy |
 | <span id="1795">1795</span> | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) 🔒 | [MySQL](problems/rearrange-products-table) | Easy |
-| <span id="1794">1794</span> | [Count Pairs of Equal Substrings With Minimum Difference](https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference) 🔒 | [Go](problems/count-pairs-of-equal-substrings-with-minimum-difference) | Medium |
+| <span id="1794">1794</span> | [Count Pairs of Equal Substrings With Minimum Difference](https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference "统计距离最小的子串对个数") 🔒 | [Go](problems/count-pairs-of-equal-substrings-with-minimum-difference) | Medium |
 | <span id="1793">1793</span> | [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray "好子数组的最大分数") | [Go](problems/maximum-score-of-a-good-subarray) | Hard |
 | <span id="1792">1792</span> | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio "最大平均通过率") | [Go](problems/maximum-average-pass-ratio) | Medium |
 | <span id="1791">1791</span> | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph "找出星型图的中心节点") | [Go](problems/find-center-of-star-graph) | Medium |

@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1854 | [人口最多的年份](../../problems/maximum-population-year) | [[数组](../array/README.md)]  | Easy |
+| 1852 | [Distinct Numbers in Each Subarray](../../problems/distinct-numbers-in-each-subarray) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
+| 1848 | [到目标元素的最小距离](../../problems/minimum-distance-to-the-target-element) | [[数组](../array/README.md)]  | Easy |
 | 1833 | [雪糕的最大数量](../../problems/maximum-ice-cream-bars) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1827 | [最少操作使数组递增](../../problems/minimum-operations-to-make-the-array-increasing) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1826 | [Faulty Sensor](../../problems/faulty-sensor) 🔒 | [[数组](../array/README.md)]  | Easy |

@@ -20,6 +20,11 @@
 		"TranslatedName": "数学"
 	},
 	{
+		"Name": "Greedy",
+		"Slug": "greedy",
+		"TranslatedName": "贪心算法"
+	},
+	{
 		"Name": "Tree",
 		"Slug": "tree",
 		"TranslatedName": "树"
@@ -28,11 +33,6 @@
 		"Name": "Depth-first Search",
 		"Slug": "depth-first-search",
 		"TranslatedName": "深度优先搜索"
-	},
-	{
-		"Name": "Greedy",
-		"Slug": "greedy",
-		"TranslatedName": "贪心算法"
 	},
 	{
 		"Name": "Hash Table",
@@ -140,6 +140,11 @@
 		"TranslatedName": "几何"
 	},
 	{
+		"Name": "Line Sweep",
+		"Slug": "line-sweep",
+		"TranslatedName": "Line Sweep"
+	},
+	{
 		"Name": "Minimax",
 		"Slug": "minimax",
 		"TranslatedName": "极小化极大"
@@ -155,9 +160,14 @@
 		"TranslatedName": "脑筋急转弯"
 	},
 	{
-		"Name": "Line Sweep",
-		"Slug": "line-sweep",
-		"TranslatedName": "Line Sweep"
+		"Name": "Topological Sort",
+		"Slug": "topological-sort",
+		"TranslatedName": "拓扑排序"
+	},
+	{
+		"Name": "Dequeue",
+		"Slug": "dequeue",
+		"TranslatedName": "Dequeue"
 	},
 	{
 		"Name": "Random",
@@ -165,19 +175,9 @@
 		"TranslatedName": "Random"
 	},
 	{
-		"Name": "Topological Sort",
-		"Slug": "topological-sort",
-		"TranslatedName": "拓扑排序"
-	},
-	{
 		"Name": "Binary Search Tree",
 		"Slug": "binary-search-tree",
 		"TranslatedName": "二叉搜索树"
-	},
-	{
-		"Name": "Dequeue",
-		"Slug": "dequeue",
-		"TranslatedName": "Dequeue"
 	},
 	{
 		"Name": "Rolling Hash",

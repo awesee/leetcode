@@ -11,13 +11,13 @@
 
 ## [982. Triples with Bitwise AND Equal To Zero (Hard)](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero "按位与为零的三元组")
 
-<p>Given an array of integers <code>A</code>, find the number of&nbsp;triples of indices (i, j, k)&nbsp;such that:</p>
+<p>Given an array of integers <code>nums</code>, find the number of&nbsp;triples of indices (i, j, k)&nbsp;such that:</p>
 
 <ul>
-	<li><code>0 &lt;= i &lt; A.length</code></li>
-	<li><code>0 &lt;= j &lt; A.length</code></li>
-	<li><code>0 &lt;= k &lt; A.length</code></li>
-	<li><code>A[i]&nbsp;&amp; A[j]&nbsp;&amp; A[k] == 0</code>, where <code>&amp;</code>&nbsp;represents the bitwise-AND operator.</li>
+	<li><code>0 &lt;= i &lt; nums.length</code></li>
+	<li><code>0 &lt;= j &lt; nums.length</code></li>
+	<li><code>0 &lt;= k &lt; nums.length</code></li>
+	<li><code>nums[i]&nbsp;&amp; nums[j]&nbsp;&amp; nums[k] == 0</code>, where <code>&amp;</code>&nbsp;represents the bitwise-AND operator.</li>
 </ul>
 
 <p>&nbsp;</p>
@@ -25,7 +25,7 @@
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-1-1">[2,1,3]</span>
+<strong>Input: </strong>nums = <span id="example-input-1-1">[2,1,3]</span>
 <strong>Output: </strong><span id="example-output-1">12</span>
 <strong>Explanation: </strong>We could choose the following i, j, k triples:
 (i=0, j=0, k=1) : 2 &amp; 2 &amp; 1
@@ -47,8 +47,8 @@
 <p><strong>Note:</strong></p>
 
 <ol>
-	<li><code><font face="monospace">1 &lt;= A.length &lt;= 1000</font></code></li>
-	<li><code>0 &lt;= A[i] &lt; 2^16</code></li>
+	<li><code><font face="monospace">1 &lt;= nums.length &lt;= 1000</font></code></li>
+	<li><code>0 &lt;= nums[i] &lt; 2<sup>16</sup></code></li>
 </ol>
 
 ### Related Topics

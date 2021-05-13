@@ -11,37 +11,39 @@
 
 ## [664. Strange Printer (Hard)](https://leetcode.com/problems/strange-printer "奇怪的打印机")
 
-<p>
-There is a strange printer with the following two special requirements:
+<p>There is a strange printer with the following two special properties:</p>
 
-<ol>
-<li>The printer can only print a sequence of the same character each time.</li>
-<li>At each turn, the printer can print new characters starting from and ending at any places, and will cover the original existing characters.</li>
-</ol>
+<ul>
+	<li>The printer can only print a sequence of <strong>the same character</strong> each time.</li>
+	<li>At each turn, the printer can print new characters starting from and ending at any place and will cover the original existing characters.</li>
+</ul>
 
-</p>
+<p>Given a string <code>s</code>, return <em>the minimum number of turns the printer needed to print it</em>.</p>
 
-<p>
-Given a string consists of lower English letters only, your job is to count the minimum number of turns the printer needed in order to print it.
-</p>
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
 
-<p><b>Example 1:</b><br />
 <pre>
-<b>Input:</b> "aaabbb"
-<b>Output:</b> 2
-<b>Explanation:</b> Print "aaa" first and then print "bbb".
+<strong>Input:</strong> s = &quot;aaabbb&quot;
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> Print &quot;aaa&quot; first and then print &quot;bbb&quot;.
 </pre>
-</p>
 
-<p><b>Example 2:</b><br />
+<p><strong>Example 2:</strong></p>
+
 <pre>
-<b>Input:</b> "aba"
-<b>Output:</b> 2
-<b>Explanation:</b> Print "aaa" first and then print "b" from the second place of the string, which will cover the existing character 'a'.
+<strong>Input:</strong> s = &quot;aba&quot;
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> Print &quot;aaa&quot; first and then print &quot;b&quot; from the second place of the string, which will cover the existing character &#39;a&#39;.
 </pre>
-</p>
 
-<p><b>Hint</b>: Length of the given string will not exceed 100.</p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 100</code></li>
+	<li><code>s</code> consists of lowercase English letters.</li>
+</ul>
 
 ### Related Topics
   [[Depth-first Search](../../tag/depth-first-search/README.md)]

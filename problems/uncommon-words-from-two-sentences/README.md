@@ -11,7 +11,7 @@
 
 ## [884. Uncommon Words from Two Sentences (Easy)](https://leetcode.com/problems/uncommon-words-from-two-sentences "两句话中的不常见单词")
 
-<p>We are given two sentences <code>A</code> and <code>B</code>.&nbsp; (A <em>sentence</em>&nbsp;is a string of space separated words.&nbsp; Each <em>word</em> consists only of lowercase letters.)</p>
+<p>We are given two sentences <code>s1</code> and <code>s2</code>.&nbsp; (A <em>sentence</em>&nbsp;is a string of space separated words.&nbsp; Each <em>word</em> consists only of lowercase letters.)</p>
 
 <p>A word is <em>uncommon</em>&nbsp;if it appears exactly once in one of the sentences, and does not appear in the other sentence.</p>
 
@@ -28,7 +28,7 @@
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong>A = <span id="example-input-1-1">&quot;this apple is sweet&quot;</span>, B = <span id="example-input-1-2">&quot;this apple is sour&quot;</span>
+<strong>Input: </strong>s1 = <span id="example-input-1-1">&quot;this apple is sweet&quot;</span>, s2 = <span id="example-input-1-2">&quot;this apple is sour&quot;</span>
 <strong>Output: </strong><span id="example-output-1">[&quot;sweet&quot;,&quot;sour&quot;]</span>
 </pre>
 
@@ -36,7 +36,7 @@
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong>A = <span id="example-input-2-1">&quot;apple apple&quot;</span>, B = <span id="example-input-2-2">&quot;banana&quot;</span>
+<strong>Input: </strong>s1 = <span id="example-input-2-1">&quot;apple apple&quot;</span>, s2 = <span id="example-input-2-2">&quot;banana&quot;</span>
 <strong>Output: </strong><span id="example-output-2">[&quot;banana&quot;]</span>
 </pre>
 
@@ -45,9 +45,9 @@
 <p><strong>Note:</strong></p>
 
 <ol>
-	<li><code>0 &lt;= A.length &lt;= 200</code></li>
-	<li><code>0 &lt;= B.length &lt;= 200</code></li>
-	<li><code>A</code> and <code>B</code> both contain only spaces and lowercase letters.</li>
+	<li><code>0 &lt;= s1.length &lt;= 200</code></li>
+	<li><code>0 &lt;= s2.length &lt;= 200</code></li>
+	<li><code>s1</code> and <code>s2</code> both contain only spaces and lowercase letters.</li>
 </ol>
 </div>
 </div>

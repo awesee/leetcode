@@ -15,6 +15,8 @@
 
 <p>The integer division should truncate toward zero.</p>
 
+<p><b data-stringify-type="bold">Note:&nbsp;</b>You are not allowed to use any built-in function which evaluates strings as mathematical expressions, such as&nbsp;<code data-stringify-type="code">eval()</code>.</p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <pre><strong>Input:</strong> s = "3+2*2"

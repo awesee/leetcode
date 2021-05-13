@@ -17,6 +17,8 @@
 
 <p>If there are several possible values for <code>h</code>, the maximum one is taken as the <code>h</code><strong>-index</strong>.</p>
 
+<p>You must write an algorithm that runs in logarithmic time.</p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
@@ -43,9 +45,6 @@ Since the researcher has 3 papers with at least 3 citations each and the remaini
 	<li><code>0 &lt;= citations[i] &lt;= 1000</code></li>
 	<li><code>citations</code> is sorted in <strong>ascending order</strong>.</li>
 </ul>
-
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong> Could you solve it in logarithmic time complexity?</p>
 
 ### Related Topics
   [[Binary Search](../../tag/binary-search/README.md)]

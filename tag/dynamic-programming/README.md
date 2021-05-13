@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1857 | [有向图中最大颜色值](../../problems/largest-color-value-in-a-directed-graph) | [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1856 | [子数组最小乘积的最大值](../../problems/maximum-subarray-min-product) | [[排序](../sort/README.md)] [[并查集](../union-find/README.md)] [[队列](../queue/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1824 | [最少侧跳次数](../../problems/minimum-sideway-jumps) | [[广度优先搜索](../breadth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1815 | [得到新鲜甜甜圈的最多组数](../../problems/maximum-number-of-groups-getting-fresh-donuts) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1799 | [N 次操作后的最大分数和](../../problems/maximize-score-after-n-operations) | [[递归](../recursion/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
@@ -164,7 +166,7 @@
 | 750 | [角矩形的数量](../../problems/number-of-corner-rectangles) 🔒 | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 746 | [使用最小花费爬楼梯](../../problems/min-cost-climbing-stairs) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 741 | [摘樱桃](../../problems/cherry-pickup) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 740 | [删除与获得点数](../../problems/delete-and-earn) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 740 | [删除并获得点数](../../problems/delete-and-earn) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 730 | [统计不同回文子序列](../../problems/count-different-palindromic-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 727 | [最小窗口子序列](../../problems/minimum-window-subsequence) 🔒 | [[动态规划](../dynamic-programming/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
 | 718 | [最长重复子数组](../../problems/maximum-length-of-repeated-subarray) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

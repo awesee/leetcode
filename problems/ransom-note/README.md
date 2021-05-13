@@ -11,9 +11,9 @@
 
 ## [383. Ransom Note (Easy)](https://leetcode.com/problems/ransom-note "赎金信")
 
-<p>Given an arbitrary ransom note string and another string containing letters from all the magazines, write a function that will return true if the ransom note can be constructed from the magazines ; otherwise, it will return false.</p>
+<p>Given two stings <code>ransomNote</code> and <code>magazine</code>, return <code>true</code> if <code>ransomNote</code> can be constructed from <code>magazine</code> and <code>false</code> otherwise.</p>
 
-<p>Each letter in the magazine string can only be used once in your ransom note.</p>
+<p>Each letter in <code>magazine</code> can only be used once in <code>ransomNote</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -30,7 +30,8 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>You may assume that both strings contain only lowercase letters.</li>
+	<li><code>1 &lt;= ransomNote.length, magazine.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>ransomNote</code> and <code>magazine</code> consist of lowercase English letters.</li>
 </ul>
 
 ### Related Topics

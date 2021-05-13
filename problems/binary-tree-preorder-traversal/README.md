@@ -65,6 +65,6 @@
   [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Medium)
+  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Easy)
   1. [Verify Preorder Sequence in Binary Search Tree](../verify-preorder-sequence-in-binary-search-tree) (Medium)
   1. [N-ary Tree Preorder Traversal](../n-ary-tree-preorder-traversal) (Easy)

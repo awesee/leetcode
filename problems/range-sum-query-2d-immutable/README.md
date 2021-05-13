@@ -11,13 +11,17 @@
 
 ## [304. Range Sum Query 2D - Immutable (Medium)](https://leetcode.com/problems/range-sum-query-2d-immutable "二维区域和检索 - 矩阵不可变")
 
-<p>Given a 2D matrix <code>matrix</code>, find the sum of the elements inside the rectangle defined by its upper left corner <code>(row1, col1)</code> and lower right corner <code>(row2, col2)</code>.</p>
+<p>Given a 2D matrix <code>matrix</code>, handle multiple queries of the following type:</p>
+
+<ol>
+	<li>Calculate the <strong>sum</strong> of the elements of <code>matrix</code> inside the rectangle defined by its <strong>upper left corner</strong> <code>(row1, col1)</code> and <strong>lower right corner</strong> <code>(row2, col2)</code>.</li>
+</ol>
 
 <p>Implement the NumMatrix class:</p>
 
 <ul>
-	<li><code>NumMatrix(int[][] matrix)</code> initializes the object with the integer matrix <code>matrix</code>.</li>
-	<li><code>int sumRegion(int row1, int col1, int row2, int col2)</code> returns the sum of the elements of the <code>matrix</code> array inside the rectangle defined by its upper left corner <code>(row1, col1)</code> and lower right corner <code>(row2, col2)</code>.</li>
+	<li><code>NumMatrix(int[][] matrix)</code> Initializes the object with the integer matrix <code>matrix</code>.</li>
+	<li><code>int sumRegion(int row1, int col1, int row2, int col2)</code> Returns the <strong>sum</strong> of the elements of <code>matrix</code> inside the rectangle defined by its <strong>upper left corner</strong> <code>(row1, col1)</code> and <strong>lower right corner</strong> <code>(row2, col2)</code>.</li>
 </ul>
 
 <p>&nbsp;</p>
@@ -32,9 +36,9 @@
 
 <strong>Explanation</strong>
 NumMatrix numMatrix = new NumMatrix([[3, 0, 1, 4, 2], [5, 6, 3, 2, 1], [1, 2, 0, 1, 5], [4, 1, 0, 1, 7], [1, 0, 3, 0, 5]]);
-numMatrix.sumRegion(2, 1, 4, 3); // return 8 (i.e sum of the red rectangele).
-numMatrix.sumRegion(1, 1, 2, 2); // return 11 (i.e sum of the green rectangele).
-numMatrix.sumRegion(1, 2, 2, 4); // return 12 (i.e sum of the blue rectangele).
+numMatrix.sumRegion(2, 1, 4, 3); // return 8 (i.e sum of the red rectangle)
+numMatrix.sumRegion(1, 1, 2, 2); // return 11 (i.e sum of the green rectangle)
+numMatrix.sumRegion(1, 2, 2, 4); // return 12 (i.e sum of the blue rectangle)
 </pre>
 
 <p>&nbsp;</p>

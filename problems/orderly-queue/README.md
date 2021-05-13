@@ -11,9 +11,9 @@
 
 ## [899. Orderly Queue (Hard)](https://leetcode.com/problems/orderly-queue "有序队列")
 
-<p>A string <code>S</code> of lowercase letters is given.&nbsp; Then, we may make any number of <em>moves</em>.</p>
+<p>A string <code>s</code> of lowercase letters is given.&nbsp; Then, we may make any number of <em>moves</em>.</p>
 
-<p>In each move, we&nbsp;choose one&nbsp;of the first <code>K</code> letters (starting from the left), remove it,&nbsp;and place it at the end of the string.</p>
+<p>In each move, we&nbsp;choose one&nbsp;of the first <code>k</code> letters (starting from the left), remove it,&nbsp;and place it at the end of the string.</p>
 
 <p>Return the lexicographically smallest string we could have after any number of moves.</p>
 
@@ -23,7 +23,7 @@
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong>S = <span id="example-input-1-1">&quot;cba&quot;</span>, K = <span id="example-input-1-2">1</span>
+<strong>Input: </strong>s = <span id="example-input-1-1">&quot;cba&quot;</span>, k = <span id="example-input-1-2">1</span>
 <strong>Output: </strong><span id="example-output-1">&quot;acb&quot;</span>
 <strong>Explanation: </strong>
 In the first move, we move the 1st character (&quot;c&quot;) to the end, obtaining the string &quot;bac&quot;.
@@ -34,7 +34,7 @@ In the second move, we move the 1st character (&quot;b&quot;) to the end, obtain
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong>S = <span id="example-input-2-1">&quot;baaca&quot;</span>, K = <span id="example-input-2-2">3</span>
+<strong>Input: </strong>s = <span id="example-input-2-1">&quot;baaca&quot;</span>, k = <span id="example-input-2-2">3</span>
 <strong>Output: </strong><span id="example-output-2">&quot;aaabc&quot;</span>
 <strong>Explanation: </strong>
 In the first move, we move the 1st character (&quot;b&quot;) to the end, obtaining the string &quot;aacab&quot;.
@@ -46,8 +46,8 @@ In the second move, we move the 3rd character (&quot;c&quot;) to the end, obtain
 <p><strong>Note:</strong></p>
 
 <ol>
-	<li><code>1 &lt;= K &lt;= S.length&nbsp;&lt;= 1000</code></li>
-	<li><code>S</code>&nbsp;consists of lowercase letters only.</li>
+	<li><code>1 &lt;= k &lt;= s.length&nbsp;&lt;= 1000</code></li>
+	<li><code>s</code>&nbsp;consists of lowercase letters only.</li>
 </ol>
 </div>
 </div>

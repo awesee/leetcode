@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1856 | [子数组最小乘积的最大值](../../problems/maximum-subarray-min-product) | [[排序](../sort/README.md)] [[并查集](../union-find/README.md)] [[队列](../queue/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1855 | [下标对中的最大距离](../../problems/maximum-distance-between-a-pair-of-values) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1847 | [最近的房间](../../problems/closest-room) | [[排序](../sort/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1840 | [最高建筑高度](../../problems/maximum-building-height) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1818 | [绝对差值和](../../problems/minimum-absolute-sum-difference) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1802 | [有界数组中指定下标处的最大值](../../problems/maximum-value-at-a-given-index-in-a-bounded-array) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

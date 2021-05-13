@@ -17,6 +17,8 @@
 
 <p>Given the array <code>nums</code> <strong>after</strong> the rotation and an integer <code>target</code>, return <em>the index of </em><code>target</code><em> if it is in </em><code>nums</code><em>, or </em><code>-1</code><em> if it is not in </em><code>nums</code>.</p>
 
+<p>You must&nbsp;write an algorithm with&nbsp;<code>O(log n)</code> runtime complexity.</p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <pre><strong>Input:</strong> nums = [4,5,6,7,0,1,2], target = 0
@@ -38,9 +40,6 @@
 	<li><code>nums</code> is guaranteed to be rotated at some pivot.</li>
 	<li><code>-10<sup>4</sup> &lt;= target &lt;= 10<sup>4</sup></code></li>
 </ul>
-
-<p>&nbsp;</p>
-<strong>Follow up:</strong> Can you achieve this in <code>O(log n)</code> time complexity?
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

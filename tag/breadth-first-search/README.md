@@ -61,6 +61,7 @@
 | 773 | [滑动谜题](../../problems/sliding-puzzle) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 752 | [打开转盘锁](../../problems/open-the-lock) | [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 743 | [网络延迟时间](../../problems/network-delay-time) | [[堆](../heap/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
+| 694 | [不同岛屿的数量](../../problems/number-of-distinct-islands) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 690 | [员工的重要性](../../problems/employee-importance) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 675 | [为高尔夫比赛砍树](../../problems/cut-off-trees-for-golf-event) | [[广度优先搜索](../breadth-first-search/README.md)]  | Hard |
 | 559 | [N 叉树的最大深度](../../problems/maximum-depth-of-n-ary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |

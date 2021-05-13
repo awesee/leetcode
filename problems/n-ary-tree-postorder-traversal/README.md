@@ -46,6 +46,6 @@
   [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Postorder Traversal](../binary-tree-postorder-traversal) (Medium)
+  1. [Binary Tree Postorder Traversal](../binary-tree-postorder-traversal) (Easy)
   1. [N-ary Tree Level Order Traversal](../n-ary-tree-level-order-traversal) (Medium)
   1. [N-ary Tree Preorder Traversal](../n-ary-tree-preorder-traversal) (Easy)

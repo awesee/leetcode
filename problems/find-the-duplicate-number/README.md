@@ -33,7 +33,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>2 &lt;= n &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>2 &lt;= n &lt;= 10<sup>5</sup></code></li>
 	<li><code>nums.length == n + 1</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= n</code></li>
 	<li>All the integers in <code>nums</code> appear only <strong>once</strong> except for <strong>precisely one integer</strong> which appears <strong>two or more</strong> times.</li>

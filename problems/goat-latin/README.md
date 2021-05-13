@@ -11,7 +11,7 @@
 
 ## [824. Goat Latin (Easy)](https://leetcode.com/problems/goat-latin "山羊拉丁文")
 
-<p>A sentence <code>S</code> is given, composed of words separated by spaces. Each word consists of lowercase and uppercase letters only.</p>
+<p>A sentence <code>sentence</code> is given, composed of words separated by spaces. Each word consists of lowercase and uppercase letters only.</p>
 
 <p>We would like to convert the sentence to &quot;<em>Goat Latin&quot;</em>&nbsp;(a made-up language similar to Pig Latin.)</p>
 
@@ -28,21 +28,21 @@
 	For example,&nbsp;the first word gets <code>&quot;a&quot;</code> added to the end, the second word gets <code>&quot;aa&quot;</code> added to the end and so on.</li>
 </ul>
 
-<p>Return the&nbsp;final sentence representing the conversion from <code>S</code>&nbsp;to Goat&nbsp;Latin.&nbsp;</p>
+<p>Return the&nbsp;final sentence representing the conversion from <code>sentence</code>&nbsp;to Goat&nbsp;Latin.&nbsp;</p>
 
 <p>&nbsp;</p>
 
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong>&quot;I speak Goat Latin&quot;
+<strong>Input: </strong>sentence = &quot;I speak Goat Latin&quot;
 <strong>Output: </strong>&quot;Imaa peaksmaaa oatGmaaaa atinLmaaaaa&quot;
 </pre>
 
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong>&quot;The quick brown fox jumped over the lazy dog&quot;
+<strong>Input: </strong>sentence = &quot;The quick brown fox jumped over the lazy dog&quot;
 <strong>Output: </strong>&quot;heTmaa uickqmaaa rownbmaaaa oxfmaaaaa umpedjmaaaaaa overmaaaaaaa hetmaaaaaaaa azylmaaaaaaaaa ogdmaaaaaaaaaa&quot;
 </pre>
 
@@ -51,8 +51,8 @@
 <p>Notes:</p>
 
 <ul>
-	<li><code>S</code> contains only uppercase, lowercase and spaces.&nbsp;Exactly one space between each word.</li>
-	<li><code>1 &lt;= S.length &lt;= 150</code>.</li>
+	<li><code>sentence</code> contains only uppercase, lowercase and spaces.&nbsp;Exactly one space between each word.</li>
+	<li><code>1 &lt;= sentence.length &lt;= 150</code>.</li>
 </ul>
 
 ### Related Topics

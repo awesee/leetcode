@@ -9,6 +9,10 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1855 | [下标对中的最大距离](../../problems/maximum-distance-between-a-pair-of-values) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1850 | [邻位交换的最小次数](../../problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1846 | [减小和重新排列数组后的最大元素](../../problems/maximum-element-after-decreasing-and-rearranging) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
+| 1842 | [Next Palindrome Using Same Digits](../../problems/next-palindrome-using-same-digits) | [[贪心算法](../greedy/README.md)]  | Hard |
 | 1840 | [最高建筑高度](../../problems/maximum-building-height) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1838 | [最高频元素的频数](../../problems/frequency-of-the-most-frequent-element) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1827 | [最少操作使数组递增](../../problems/minimum-operations-to-make-the-array-increasing) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
@@ -17,7 +21,7 @@
 | 1802 | [有界数组中指定下标处的最大值](../../problems/maximum-value-at-a-given-index-in-a-bounded-array) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1801 | [积压订单中的订单总数](../../problems/number-of-orders-in-the-backlog) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
 | 1798 | [你能构造出连续值的最大数目](../../problems/maximum-number-of-consecutive-values-you-can-make) | [[贪心算法](../greedy/README.md)]  | Medium |
-| 1794 | [Count Pairs of Equal Substrings With Minimum Difference](../../problems/count-pairs-of-equal-substrings-with-minimum-difference) 🔒 | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1794 | [统计距离最小的子串对个数](../../problems/count-pairs-of-equal-substrings-with-minimum-difference) 🔒 | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1793 | [好子数组的最大分数](../../problems/maximum-score-of-a-good-subarray) | [[贪心算法](../greedy/README.md)]  | Hard |
 | 1788 | [Maximize the Beauty of the Garden](../../problems/maximize-the-beauty-of-the-garden) 🔒 | [[贪心算法](../greedy/README.md)]  | Hard |
 | 1785 | [构成特定和需要添加的最少元素](../../problems/minimum-elements-to-add-to-form-a-given-sum) | [[贪心算法](../greedy/README.md)]  | Medium |

@@ -44,6 +44,6 @@
   [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Medium)
+  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Easy)
   1. [Binary Search Tree Iterator](../binary-search-tree-iterator) (Medium)
   1. [Inorder Successor in BST II](../inorder-successor-in-bst-ii) (Medium)

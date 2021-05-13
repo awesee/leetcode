@@ -7,7 +7,7 @@
 
 [< Previous](../longest-substring-of-all-vowels-in-order "Longest Substring Of All Vowels in Order")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../league-statistics "League Statistics")
 
 ## [1840. Maximum Building Height (Hard)](https://leetcode.com/problems/maximum-building-height "最高建筑高度")
 

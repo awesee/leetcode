@@ -42,7 +42,7 @@ Assume that the BST is balanced, could you solve it in less than <i>O</i>(<i>n</
   [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Medium)
+  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Easy)
   1. [Closest Binary Search Tree Value](../closest-binary-search-tree-value) (Easy)
 
 ### Hints

@@ -13,6 +13,8 @@
 
 <p>Given a string <code>s</code> representing an expression, implement a basic calculator to evaluate it.</p>
 
+<p><b data-stringify-type="bold">Note:&nbsp;</b>You are not allowed to use any built-in function which evaluates strings as mathematical expressions, such as&nbsp;<code data-stringify-type="code">eval()</code>.</p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1852 | [Distinct Numbers in Each Subarray](../../problems/distinct-numbers-in-each-subarray) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
 | 1817 | [查找用户活跃分钟数](../../problems/finding-the-users-active-minutes) | [[哈希表](../hash-table/README.md)]  | Medium |
 | 1814 | [统计一个数组中好对子的数目](../../problems/count-nice-pairs-in-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1807 | [替换字符串中的括号内容](../../problems/evaluate-the-bracket-pairs-of-a-string) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
@@ -85,7 +86,7 @@
 | 710 | [黑名单中的随机数](../../problems/random-pick-with-blacklist) | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[Random](../random/README.md)]  | Hard |
 | 706 | [设计哈希映射](../../problems/design-hashmap) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 705 | [设计哈希集合](../../problems/design-hashset) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
-| 694 | [不同岛屿的数量](../../problems/number-of-distinct-islands) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 694 | [不同岛屿的数量](../../problems/number-of-distinct-islands) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 692 | [前K个高频单词](../../problems/top-k-frequent-words) | [[堆](../heap/README.md)] [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 690 | [员工的重要性](../../problems/employee-importance) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 676 | [实现一个魔法字典](../../problems/implement-magic-dictionary) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
@@ -145,7 +146,7 @@
 | 149 | [直线上最多的点数](../../problems/max-points-on-a-line) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Hard |
 | 138 | [复制带随机指针的链表](../../problems/copy-list-with-random-pointer) | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)]  | Medium |
 | 136 | [只出现一次的数字](../../problems/single-number) | [[位运算](../bit-manipulation/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
-| 94 | [二叉树的中序遍历](../../problems/binary-tree-inorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 94 | [二叉树的中序遍历](../../problems/binary-tree-inorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 85 | [最大矩形](../../problems/maximal-rectangle) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 76 | [最小覆盖子串](../../problems/minimum-window-substring) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Hard |
 | 49 | [字母异位词分组](../../problems/group-anagrams) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
