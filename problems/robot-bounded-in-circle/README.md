@@ -51,7 +51,7 @@ When repeating these instructions, the robot remains in the circle of radius 2 c
 
 <ul>
 	<li><code>1 &lt;= instructions.length &lt;= 100</code></li>
-	<li><code>instructions[i]</code>&nbsp;is&nbsp;<code>&#39;G&#39;</code>, <code>&#39;L&#39;</code> or, <code>&#39;R&#39;</code>.</li>
+	<li><code>instructions[i]</code> is <code>&#39;G&#39;</code>, <code>&#39;L&#39;</code> or, <code>&#39;R&#39;</code>.</li>
 </ul>
 
 ### Related Topics

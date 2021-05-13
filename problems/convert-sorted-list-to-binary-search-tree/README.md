@@ -50,7 +50,7 @@
 
 <ul>
 	<li>The number of nodes in <code>head</code> is in the range <code>[0, 2 * 10<sup>4</sup>]</code>.</li>
-	<li><code>-10^5 &lt;= Node.val &lt;= 10^5</code></li>
+	<li><code>-10<sup>5</sup> &lt;= Node.val &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 ### Related Topics

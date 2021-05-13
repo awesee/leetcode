@@ -15,12 +15,7 @@
 
 <p><em>k</em> is a positive integer and is less than or equal to the length of the linked list. If the number of nodes is not a multiple of <em>k</em> then left-out nodes, in the end, should remain as it is.</p>
 
-<p><strong>Follow up:</strong></p>
-
-<ul>
-	<li>Could you solve the problem in <code>O(1)</code> extra memory space?</li>
-	<li>You may not alter the values in the list&#39;s nodes, only nodes itself may be changed.</li>
-</ul>
+<p>You may&nbsp;not alter the values in the list&#39;s nodes, only nodes themselves may be changed.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -60,6 +55,9 @@
 	<li><code>0 &lt;= Node.val &lt;= 1000</code></li>
 	<li><code>1 &lt;= k &lt;= sz</code></li>
 </ul>
+
+<p>&nbsp;</p>
+<strong>Follow-up:</strong> Can you solve the problem in O(1) extra memory space?
 
 ### Related Topics
   [[Linked List](../../tag/linked-list/README.md)]

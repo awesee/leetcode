@@ -95,7 +95,7 @@
 | 721 | [账户合并](../../problems/accounts-merge) | [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
 | 711 | [不同岛屿的数量 II](../../problems/number-of-distinct-islands-ii) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
 | 695 | [岛屿的最大面积](../../problems/max-area-of-island) | [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
-| 694 | [不同岛屿的数量](../../problems/number-of-distinct-islands) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 694 | [不同岛屿的数量](../../problems/number-of-distinct-islands) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 690 | [员工的重要性](../../problems/employee-importance) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 685 | [冗余连接 II](../../problems/redundant-connection-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
 | 679 | [24 点游戏](../../problems/24-game) | [[深度优先搜索](../depth-first-search/README.md)]  | Hard |

@@ -11,14 +11,14 @@
 
 ## [930. Binary Subarrays With Sum (Medium)](https://leetcode.com/problems/binary-subarrays-with-sum "和相同的二元子数组")
 
-<p>In an array <code>A</code> of <code>0</code>s and <code>1</code>s, how many <strong>non-empty</strong> subarrays have sum <code>S</code>?</p>
+<p>In an array <code>nums</code> of <code>0</code>s and <code>1</code>s, how many <strong>non-empty</strong> subarrays have sum <code>goal</code>?</p>
 
 <p>&nbsp;</p>
 
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong>A = <span id="example-input-1-1">[1,0,1,0,1]</span>, S = <span id="example-input-1-2">2</span>
+<strong>Input: </strong>nums = <span id="example-input-1-1">[1,0,1,0,1]</span>, goal = <span id="example-input-1-2">2</span>
 <strong>Output: </strong><span id="example-output-1">4</span>
 <strong>Explanation: </strong>
 The 4 subarrays are bolded below:
@@ -33,9 +33,9 @@ The 4 subarrays are bolded below:
 <p><strong>Note:</strong></p>
 
 <ol>
-	<li><code>A.length &lt;= 30000</code></li>
-	<li><code>0 &lt;= S &lt;= A.length</code></li>
-	<li><code>A[i]</code>&nbsp;is either <code>0</code>&nbsp;or <code>1</code>.</li>
+	<li><code>nums.length &lt;= 30000</code></li>
+	<li><code>0 &lt;= goal &lt;= nums.length</code></li>
+	<li><code>nums[i]</code>&nbsp;is either <code>0</code>&nbsp;or <code>1</code>.</li>
 </ol>
 
 ### Related Topics

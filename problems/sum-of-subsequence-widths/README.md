@@ -11,13 +11,13 @@
 
 ## [891. Sum of Subsequence Widths (Hard)](https://leetcode.com/problems/sum-of-subsequence-widths "子序列宽度之和")
 
-<p>Given an array of integers <code>A</code>, consider all non-empty subsequences of <code>A</code>.</p>
+<p>Given an array of integers <code>nums</code>, consider all non-empty subsequences of <code>nums</code>.</p>
 
-<p>For any sequence S, let the&nbsp;<em>width</em>&nbsp;of S be the difference between the maximum and minimum element of S.</p>
+<p>For any sequence <code>seq</code>, let the&nbsp;<em>width</em>&nbsp;of <code>seq</code> be the difference between the maximum and minimum element of <code>seq</code>.</p>
 
-<p>Return the sum of the widths of all subsequences of A.&nbsp;</p>
+<p>Return the sum of the widths of all subsequences of <code>nums</code>.&nbsp;</p>
 
-<p>As the answer may be very large, <strong>return the answer modulo 10^9 + 7</strong>.</p>
+<p>As the answer may be very large, <strong>return the answer modulo </strong><code>10<sup>9</sup> + 7</code>.</p>
 
 <div>
 <p>&nbsp;</p>
@@ -25,7 +25,7 @@
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-1-1">[2,1,3]</span>
+<strong>Input: </strong>nums = <span id="example-input-1-1">[2,1,3]</span>
 <strong>Output: </strong><span id="example-output-1">6</span>
 <strong>Explanation:
 </strong>Subsequences are [1], [2], [3], [2,1], [2,3], [1,3], [2,1,3].
@@ -38,8 +38,8 @@ The sum of these widths is 6.
 <p><strong>Note:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= A.length &lt;= 20000</code></li>
-	<li><code>1 &lt;= A[i] &lt;= 20000</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 20000</code></li>
+	<li><code>1 &lt;= nums[i] &lt;= 20000</code></li>
 </ul>
 </div>
 

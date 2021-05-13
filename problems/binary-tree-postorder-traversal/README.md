@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../lru-cache "LRU Cache")
 
-## [145. Binary Tree Postorder Traversal (Medium)](https://leetcode.com/problems/binary-tree-postorder-traversal "二叉树的后序遍历")
+## [145. Binary Tree Postorder Traversal (Easy)](https://leetcode.com/problems/binary-tree-postorder-traversal "二叉树的后序遍历")
 
 <p>Given the <code>root</code> of a&nbsp;binary tree, return <em>the postorder traversal of its nodes&#39; values</em>.</p>
 
@@ -58,17 +58,12 @@
 </ul>
 
 <p>&nbsp;</p>
-
-<p><strong>Follow up:</strong></p>
-
-<p>Recursive solution is trivial, could you do it iteratively?</p>
-
-<p>&nbsp;</p>
+<strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
   [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Medium)
+  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Easy)
   1. [N-ary Tree Postorder Traversal](../n-ary-tree-postorder-traversal) (Easy)

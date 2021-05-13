@@ -20,14 +20,13 @@ XX  &lt;- &quot;L&quot; tromino
 X
 </pre>
 
-<p>Given N, how many ways are there to tile a 2 x N board? <strong>Return your answer modulo 10^9 + 7</strong>.</p>
+<p>Given <code>n</code>, how many ways are there to tile a <code>2 x n</code> board? <strong>Return your answer modulo </strong><code>10<sup>9</sup> + 7</code>.</p>
 
 <p>(In a tiling, every square must be covered by a tile. Two tilings are different if and only if there are two 4-directionally adjacent cells on the board such that exactly one of the tilings has both squares occupied by a tile.)</p>
 
-
 <pre>
 <strong>Example:</strong>
-<strong>Input:</strong> 3
+<strong>Input:</strong> n = 3
 <strong>Output:</strong> 5
 <strong>Explanation:</strong> 
 The five different ways are listed below, different letters indicates different tiles:
@@ -37,7 +36,7 @@ XYZ YYZ XZZ XYY XXY</pre>
 <p><strong>Note:</strong></p>
 
 <ul>
-	<li>N&nbsp; will be in range <code>[1, 1000]</code>.</li>
+	<li><code>n</code> will be in range <code>[1, 1000]</code>.</li>
 </ul>
 
 <p>&nbsp;</p>

@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1856 | [子数组最小乘积的最大值](../../problems/maximum-subarray-min-product) | [[排序](../sort/README.md)] [[并查集](../union-find/README.md)] [[队列](../queue/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1847 | [最近的房间](../../problems/closest-room) | [[排序](../sort/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 1846 | [减小和重新排列数组后的最大元素](../../problems/maximum-element-after-decreasing-and-rearranging) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
 | 1833 | [雪糕的最大数量](../../problems/maximum-ice-cream-bars) | [[排序](../sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1772 | [按受欢迎程度排列功能](../../problems/sort-features-by-popularity) 🔒 | [[排序](../sort/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1727 | [重新排列后的最大子矩阵](../../problems/largest-submatrix-with-rearrangements) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |

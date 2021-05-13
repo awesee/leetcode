@@ -68,13 +68,3 @@ It is always optimal to buy the least expensive ice cream bar first.
 <summary>Hint 2</summary>
 Sort the prices so that the cheapest ice cream bar comes first.
 </details>
-
-<details>
-<summary>Hint 3</summary>
-It is always optimal to buy the least expensive ice cream bar first.
-</details>
-
-<details>
-<summary>Hint 4</summary>
-Sort the prices so that the cheapest ice cream bar comes first.
-</details>

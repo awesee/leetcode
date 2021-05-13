@@ -13,6 +13,8 @@
 
 <p>Given an unsorted integer array <code>nums</code>, find the smallest missing positive integer.</p>
 
+<p>You must implement&nbsp;an algorithm that runs in <code>O(n)</code> time and uses constant extra space.</p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <pre><strong>Input:</strong> nums = [1,2,0]
@@ -28,12 +30,9 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 300</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 5 * 10<sup>5</sup></code></li>
 	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
-
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong> Could you implement an algorithm that runs in <code>O(n)</code> time and uses constant extra space?</p>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

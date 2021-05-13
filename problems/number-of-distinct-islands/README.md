@@ -50,6 +50,7 @@ The length of each dimension in the given <code>grid</code> does not exceed 50.
 
 ### Related Topics
   [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions

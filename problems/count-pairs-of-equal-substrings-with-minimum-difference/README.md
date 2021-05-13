@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../rearrange-products-table "Rearrange Products Table")
 
-## [1794. Count Pairs of Equal Substrings With Minimum Difference (Medium)](https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference "")
+## [1794. Count Pairs of Equal Substrings With Minimum Difference (Medium)](https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference "统计距离最小的子串对个数")
 
 
 

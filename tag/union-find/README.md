@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1856 | [子数组最小乘积的最大值](../../problems/maximum-subarray-min-product) | [[排序](../sort/README.md)] [[并查集](../union-find/README.md)] [[队列](../queue/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1724 | [检查边长度限制的路径是否存在 II](../../problems/checking-existence-of-edge-length-limited-paths-ii) 🔒 | [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1722 | [执行交换操作后的最小汉明距离](../../problems/minimize-hamming-distance-after-swap-operations) | [[贪心算法](../greedy/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
 | 1697 | [检查边长度限制的路径是否存在](../../problems/checking-existence-of-edge-length-limited-paths) | [[排序](../sort/README.md)] [[并查集](../union-find/README.md)]  | Hard |

@@ -11,7 +11,7 @@
 
 ## [997. Find the Town Judge (Easy)](https://leetcode.com/problems/find-the-town-judge "找到小镇的法官")
 
-<p>In a town, there are <code>N</code> people labelled from&nbsp;<code>1</code> to <code>N</code>.&nbsp; There is a rumor that one of these people is secretly the town judge.</p>
+<p>In a town, there are <code>n</code> people labelled from&nbsp;<code>1</code> to <code>n</code>.&nbsp; There is a rumor that one of these people is secretly the town judge.</p>
 
 <p>If the&nbsp;town judge exists, then:</p>
 
@@ -27,31 +27,50 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<pre><strong>Input:</strong> N = 2, trust = [[1,2]]
+
+<pre>
+<strong>Input:</strong> n = 2, trust = [[1,2]]
 <strong>Output:</strong> 2
-</pre><p><strong>Example 2:</strong></p>
-<pre><strong>Input:</strong> N = 3, trust = [[1,3],[2,3]]
-<strong>Output:</strong> 3
-</pre><p><strong>Example 3:</strong></p>
-<pre><strong>Input:</strong> N = 3, trust = [[1,3],[2,3],[3,1]]
-<strong>Output:</strong> -1
-</pre><p><strong>Example 4:</strong></p>
-<pre><strong>Input:</strong> N = 3, trust = [[1,2],[2,3]]
-<strong>Output:</strong> -1
-</pre><p><strong>Example 5:</strong></p>
-<pre><strong>Input:</strong> N = 4, trust = [[1,3],[1,4],[2,3],[2,4],[4,3]]
+</pre>
+
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 3, trust = [[1,3],[2,3]]
 <strong>Output:</strong> 3
 </pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 3, trust = [[1,3],[2,3],[3,1]]
+<strong>Output:</strong> -1
+</pre>
+
+<p><strong>Example 4:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 3, trust = [[1,2],[2,3]]
+<strong>Output:</strong> -1
+</pre>
+
+<p><strong>Example 5:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 4, trust = [[1,3],[1,4],[2,3],[2,4],[4,3]]
+<strong>Output:</strong> 3
+</pre>
+
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= N &lt;= 1000</code></li>
-	<li><code>0 &lt;= trust.length &lt;= 10^4</code></li>
+	<li><code>1 &lt;= n &lt;= 1000</code></li>
+	<li><code>0 &lt;= trust.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>trust[i].length == 2</code></li>
 	<li><code>trust[i]</code> are all different</li>
 	<li><code>trust[i][0] != trust[i][1]</code></li>
-	<li><code>1 &lt;= trust[i][0], trust[i][1] &lt;= N</code></li>
+	<li><code>1 &lt;= trust[i][0], trust[i][1] &lt;= n</code></li>
 </ul>
 
 ### Related Topics

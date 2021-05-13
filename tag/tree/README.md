@@ -142,7 +142,7 @@
 | 199 | [二叉树的右视图](../../problems/binary-tree-right-side-view) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)] [[队列](../queue/README.md)]  | Medium |
 | 173 | [二叉搜索树迭代器](../../problems/binary-search-tree-iterator) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
 | 156 | [上下翻转二叉树](../../problems/binary-tree-upside-down) 🔒 | [[树](../tree/README.md)]  | Medium |
-| 145 | [二叉树的后序遍历](../../problems/binary-tree-postorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Medium |
+| 145 | [二叉树的后序遍历](../../problems/binary-tree-postorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Easy |
 | 144 | [二叉树的前序遍历](../../problems/binary-tree-preorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Medium |
 | 129 | [求根节点到叶节点数字之和](../../problems/sum-root-to-leaf-numbers) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
 | 124 | [二叉树中的最大路径和](../../problems/binary-tree-maximum-path-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Hard |
@@ -166,4 +166,4 @@
 | 98 | [验证二叉搜索树](../../problems/validate-binary-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Medium |
 | 96 | [不同的二叉搜索树](../../problems/unique-binary-search-trees) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 95 | [不同的二叉搜索树 II](../../problems/unique-binary-search-trees-ii) | [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 94 | [二叉树的中序遍历](../../problems/binary-tree-inorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 94 | [二叉树的中序遍历](../../problems/binary-tree-inorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |

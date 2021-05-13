@@ -11,32 +11,33 @@
 
 ## [670. Maximum Swap (Medium)](https://leetcode.com/problems/maximum-swap "最大交换")
 
-<p>
-Given a non-negative integer, you could swap two digits <b>at most</b> once to get the maximum valued number. Return the maximum valued number you could get.
-</p>
+<p>You are given an integer <code>num</code>. You can swap two digits at most once to get the maximum valued number.</p>
 
-<p><b>Example 1:</b><br />
+<p>Return <em>the maximum valued number you can get</em>.</p>
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+
 <pre>
-<b>Input:</b> 2736
-<b>Output:</b> 7236
-<b>Explanation:</b> Swap the number 2 and the number 7.
+<strong>Input:</strong> num = 2736
+<strong>Output:</strong> 7236
+<strong>Explanation:</strong> Swap the number 2 and the number 7.
 </pre>
-</p>
 
-<p><b>Example 2:</b><br />
+<p><strong>Example 2:</strong></p>
+
 <pre>
-<b>Input:</b> 9973
-<b>Output:</b> 9973
-<b>Explanation:</b> No swap.
+<strong>Input:</strong> num = 9973
+<strong>Output:</strong> 9973
+<strong>Explanation:</strong> No swap.
 </pre>
-</p>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><b>Note:</b><br>
-<ol>
-<li>The given number is in the range [0, 10<sup>8</sup>]</li>
-</ol>
-</p>
+<ul>
+	<li><code>0 &lt;= num &lt;= 10<sup>8</sup></code></li>
+</ul>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

@@ -34,6 +34,9 @@
 	<li><code>-10<sup>9</sup> &lt;= nums1[i], nums2[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
 
+<p>&nbsp;</p>
+<strong>Follow up:&nbsp;</strong>Can you come up with an algorithm that runs in&nbsp;<code>O(m + n)</code>&nbsp;time?
+
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]

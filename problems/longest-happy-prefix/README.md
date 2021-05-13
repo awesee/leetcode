@@ -11,11 +11,9 @@
 
 ## [1392. Longest Happy Prefix (Hard)](https://leetcode.com/problems/longest-happy-prefix "最长快乐前缀")
 
-<p>A string is called a&nbsp;<em>happy prefix</em>&nbsp;if is a <strong>non-empty</strong> prefix which is also a suffix (excluding itself).</p>
+<p>A string is called a <strong>happy prefix</strong> if is a <strong>non-empty</strong> prefix which is also a suffix (excluding itself).</p>
 
-<p>Given a string <code>s</code>. Return the <strong>longest happy prefix</strong>&nbsp;of <code>s</code>&nbsp;.</p>
-
-<p>Return an empty string if no such prefix exists.</p>
+<p>Given a string <code>s</code>, return <em>the <strong>longest happy prefix</strong> of</em> <code>s</code>. Return an empty string <code>&quot;&quot;</code> if no such prefix exists.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -52,7 +50,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= s.length &lt;= 10^5</code></li>
+	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>s</code> contains only lowercase English letters.</li>
 </ul>
 

@@ -23,11 +23,7 @@
 <p>The compressed string&nbsp;<code>s</code> <strong>should not be returned separately</strong>, but instead be stored&nbsp;<strong>in the input character array&nbsp;<code>chars</code></strong>. Note that group lengths that are 10 or longer will be split into multiple characters in&nbsp;<code>chars</code>.</p>
 
 <p>After you are done <b>modifying the input array</b>, return <em>the new length of the array</em>.</p>
-&nbsp;
-
-<p><b>Follow up:</b><br />
-Could you solve it using only <code>O(1)</code> extra space?</p>
-
+You must write an algorithm that uses only constant extra space.
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 

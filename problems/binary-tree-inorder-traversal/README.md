@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../unique-binary-search-trees-ii "Unique Binary Search Trees II")
 
-## [94. Binary Tree Inorder Traversal (Medium)](https://leetcode.com/problems/binary-tree-inorder-traversal "二叉树的中序遍历")
+## [94. Binary Tree Inorder Traversal (Easy)](https://leetcode.com/problems/binary-tree-inorder-traversal "二叉树的中序遍历")
 
 <p>Given the <code>root</code> of a binary tree, return <em>the inorder traversal of its nodes&#39; values</em>.</p>
 
@@ -58,12 +58,7 @@
 </ul>
 
 <p>&nbsp;</p>
-
-<p><strong>Follow up:</strong></p>
-
-<p>Recursive solution is trivial, could you do it iteratively?</p>
-
-<p>&nbsp;</p>
+<strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
@@ -73,7 +68,7 @@
 ### Similar Questions
   1. [Validate Binary Search Tree](../validate-binary-search-tree) (Medium)
   1. [Binary Tree Preorder Traversal](../binary-tree-preorder-traversal) (Medium)
-  1. [Binary Tree Postorder Traversal](../binary-tree-postorder-traversal) (Medium)
+  1. [Binary Tree Postorder Traversal](../binary-tree-postorder-traversal) (Easy)
   1. [Binary Search Tree Iterator](../binary-search-tree-iterator) (Medium)
   1. [Kth Smallest Element in a BST](../kth-smallest-element-in-a-bst) (Medium)
   1. [Closest Binary Search Tree Value II](../closest-binary-search-tree-value-ii) (Hard)

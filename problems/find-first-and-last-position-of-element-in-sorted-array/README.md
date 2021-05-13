@@ -15,7 +15,7 @@
 
 <p>If <code>target</code> is not found in the array, return <code>[-1, -1]</code>.</p>
 
-<p><strong>Follow up:</strong>&nbsp;Could you write an algorithm with&nbsp;<code>O(log n)</code> runtime complexity?</p>
+<p>You must&nbsp;write an algorithm with&nbsp;<code>O(log n)</code> runtime complexity.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

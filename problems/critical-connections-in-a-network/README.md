@@ -11,9 +11,9 @@
 
 ## [1192. Critical Connections in a Network (Hard)](https://leetcode.com/problems/critical-connections-in-a-network "查找集群内的「关键连接」")
 
-<p>There are&nbsp;<code>n</code> servers numbered from&nbsp;<code>0</code>&nbsp;to&nbsp;<code>n-1</code> connected by&nbsp;undirected server-to-server <code>connections</code> forming a network where <code>connections[i] = [a, b]</code>&nbsp;represents a connection between servers <code>a</code>&nbsp;and <code>b</code>. Any server can reach any other server directly or indirectly through the network.</p>
+<p>There are <code>n</code> servers numbered from <code>0</code> to <code>n - 1</code> connected by undirected server-to-server <code>connections</code> forming a network where <code>connections[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> represents a connection between servers <code>a<sub>i</sub></code> and <code>b<sub>i</sub></code>. Any server can reach other servers directly or indirectly through the network.</p>
 
-<p>A <em>critical connection</em>&nbsp;is a connection that, if removed, will make some server unable to reach some other server.</p>
+<p>A <em>critical connection</em> is a connection that, if removed, will make some servers unable to reach some other server.</p>
 
 <p>Return all critical connections in the network in any order.</p>
 
@@ -32,9 +32,10 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n &lt;= 10^5</code></li>
-	<li><code>n-1 &lt;= connections.length &lt;= 10^5</code></li>
-	<li><code>connections[i][0] != connections[i][1]</code></li>
+	<li><code>2 &lt;= n &lt;= 10<sup>5</sup></code></li>
+	<li><code>n - 1 &lt;= connections.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>0 &lt;= a<sub>i</sub>, b<sub>i</sub> &lt;= n - 1</code></li>
+	<li><code>a<sub>i</sub> != b<sub>i</sub></code></li>
 	<li>There are no repeated connections.</li>
 </ul>
 

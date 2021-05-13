@@ -39,7 +39,7 @@
 	<li><code>1 &lt;= words.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>0 &lt;= words[i].length &lt;= 1000</code></li>
 	<li><code>words[i]</code> consists of only lowercase English letters.</li>
-	<li><code>0 &lt;= sum(words[i].length) &lt;= 6 * 10<sup>5</sup></code></li>
+	<li><code>0 &lt;= sum(words[i].length) &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 ### Related Topics

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1855 | [下标对中的最大距离](../../problems/maximum-distance-between-a-pair-of-values) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1839 | [所有元音按顺序排布的最长子字符串](../../problems/longest-substring-of-all-vowels-in-order) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1800 | [最大升序子数组和](../../problems/maximum-ascending-subarray-sum) | [[双指针](../two-pointers/README.md)]  | Easy |
 | 1750 | [删除字符串两端相同字符后的最短长度](../../problems/minimum-length-of-string-after-deleting-similar-ends) | [[双指针](../two-pointers/README.md)]  | Medium |

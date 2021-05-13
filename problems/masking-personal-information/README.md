@@ -11,7 +11,7 @@
 
 ## [831. Masking Personal Information (Medium)](https://leetcode.com/problems/masking-personal-information "隐藏个人信息")
 
-<p>We are given a&nbsp;personal information string <code>S</code>, which may represent&nbsp;either <strong>an email address</strong> or <strong>a phone number.</strong></p>
+<p>We are given a&nbsp;personal information string <code>s</code>, which may represent&nbsp;either <strong>an email address</strong> or <strong>a phone number.</strong></p>
 
 <p>We would like to mask this&nbsp;personal information according to the&nbsp;following rules:</p>
 
@@ -48,7 +48,7 @@
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong>&quot;LeetCode@LeetCode.com&quot;
+<strong>Input: </strong>s = &quot;LeetCode@LeetCode.com&quot;
 <strong>Output: </strong>&quot;l*****e@leetcode.com&quot;
 <strong>Explanation:&nbsp;</strong>All names are converted to lowercase, and the letters between the
 &nbsp;            first and last letter of the first name is replaced by 5 asterisks.
@@ -58,7 +58,7 @@
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong>&quot;AB@qq.com&quot;
+<strong>Input: </strong>s = &quot;AB@qq.com&quot;
 <strong>Output: </strong>&quot;a*****b@qq.com&quot;
 <strong>Explanation:&nbsp;</strong>There must be 5 asterisks between the first and last letter 
 &nbsp;            of the first name &quot;ab&quot;. Therefore, &quot;ab&quot; -&gt; &quot;a*****b&quot;.
@@ -67,7 +67,7 @@
 <p><strong>Example 3:</strong></p>
 
 <pre>
-<strong>Input: </strong>&quot;1(234)567-890&quot;
+<strong>Input: </strong>s = &quot;1(234)567-890&quot;
 <strong>Output: </strong>&quot;***-***-7890&quot;
 <strong>Explanation:</strong>&nbsp;10 digits in the phone number, which means all digits make up the local number.
 </pre>
@@ -75,7 +75,7 @@
 <p><strong>Example 4:</strong></p>
 
 <pre>
-<strong>Input: </strong>&quot;86-(10)12345678&quot;
+<strong>Input: </strong>s = &quot;86-(10)12345678&quot;
 <strong>Output: </strong>&quot;+**-***-***-5678&quot;
 <strong>Explanation:</strong>&nbsp;12 digits, 2 digits for country code and 10 digits for local number. 
 </pre>
@@ -83,7 +83,7 @@
 <p><strong>Notes:</strong></p>
 
 <ol>
-	<li><code>S.length&nbsp;&lt;=&nbsp;40</code>.</li>
+	<li><code>s.length&nbsp;&lt;=&nbsp;40</code>.</li>
 	<li>Emails have length at least 8.</li>
 	<li>Phone numbers have length at least 10.</li>
 </ol>

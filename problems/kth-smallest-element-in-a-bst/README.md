@@ -45,7 +45,7 @@
   [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Medium)
+  1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Easy)
   1. [Second Minimum Node In a Binary Tree](../second-minimum-node-in-a-binary-tree) (Easy)
 
 ### Hints

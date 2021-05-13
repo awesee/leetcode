@@ -11,7 +11,7 @@
 
 ## [974. Subarray Sums Divisible by K (Medium)](https://leetcode.com/problems/subarray-sums-divisible-by-k "和可被 K 整除的子数组")
 
-<p>Given an array <code>A</code> of integers, return the number of (contiguous, non-empty) subarrays that have a sum divisible by <code>K</code>.</p>
+<p>Given an array <code>nums</code> of integers, return the number of (contiguous, non-empty) subarrays that have a sum divisible by <code>k</code>.</p>
 
 <p>&nbsp;</p>
 
@@ -19,9 +19,9 @@
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong>A = <span id="example-input-1-1">[4,5,0,-2,-3,1]</span>, K = <span id="example-input-1-2">5</span>
+<strong>Input: </strong>nums = <span id="example-input-1-1">[4,5,0,-2,-3,1]</span>, k = <span id="example-input-1-2">5</span>
 <strong>Output: </strong><span id="example-output-1">7</span>
-<strong>Explanation: </strong>There are 7 subarrays with a sum divisible by K = 5:
+<strong>Explanation: </strong>There are 7 subarrays with a sum divisible by k = 5:
 [4, 5, 0, -2, -3, 1], [5], [5, 0], [5, 0, -2, -3], [0], [0, -2, -3], [-2, -3]
 </pre>
 
@@ -30,9 +30,9 @@
 <p><strong>Note:</strong></p>
 
 <ol>
-	<li><code>1 &lt;= A.length &lt;= 30000</code></li>
-	<li><code>-10000 &lt;= A[i] &lt;= 10000</code></li>
-	<li><code>2 &lt;= K &lt;= 10000</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 30000</code></li>
+	<li><code>-10000 &lt;= nums[i] &lt;= 10000</code></li>
+	<li><code>2 &lt;= k &lt;= 10000</code></li>
 </ol>
 </div>
 
