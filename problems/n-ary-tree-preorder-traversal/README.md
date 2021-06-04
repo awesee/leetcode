@@ -50,6 +50,6 @@
   [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Preorder Traversal](../binary-tree-preorder-traversal) (Medium)
+  1. [Binary Tree Preorder Traversal](../binary-tree-preorder-traversal) (Easy)
   1. [N-ary Tree Level Order Traversal](../n-ary-tree-level-order-traversal) (Medium)
   1. [N-ary Tree Postorder Traversal](../n-ary-tree-postorder-traversal) (Easy)

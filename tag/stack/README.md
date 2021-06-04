@@ -65,7 +65,7 @@
 | 155 | [最小栈](../../problems/min-stack) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
 | 150 | [逆波兰表达式求值](../../problems/evaluate-reverse-polish-notation) | [[栈](../stack/README.md)]  | Medium |
 | 145 | [二叉树的后序遍历](../../problems/binary-tree-postorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Easy |
-| 144 | [二叉树的前序遍历](../../problems/binary-tree-preorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Medium |
+| 144 | [二叉树的前序遍历](../../problems/binary-tree-preorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Easy |
 | 103 | [二叉树的锯齿形层序遍历](../../problems/binary-tree-zigzag-level-order-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 94 | [二叉树的中序遍历](../../problems/binary-tree-inorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 85 | [最大矩形](../../problems/maximal-rectangle) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

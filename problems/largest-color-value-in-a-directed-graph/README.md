@@ -7,7 +7,7 @@
 
 [< Previous](../maximum-subarray-min-product "Maximum Subarray Min-Product")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../longest-word-with-all-prefixes "Longest Word With All Prefixes")
 
 ## [1857. Largest Color Value in a Directed Graph (Hard)](https://leetcode.com/problems/largest-color-value-in-a-directed-graph "有向图中最大颜色值")
 

@@ -53,5 +53,6 @@
 <ul>
 	<li><code>1 &lt;= coins.length &lt;= 300</code></li>
 	<li><code>1 &lt;= coins[i] &lt;= 5000</code></li>
+	<li>All the values of <code>coins</code> are <strong>unique</strong>.</li>
 	<li><code>0 &lt;= amount &lt;= 5000</code></li>
 </ul>

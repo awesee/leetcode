@@ -68,7 +68,7 @@ You must write an algorithm that uses only constant extra space.
   [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [Count and Say](../count-and-say) (Easy)
+  1. [Count and Say](../count-and-say) (Medium)
   1. [Encode and Decode Strings](../encode-and-decode-strings) (Medium)
   1. [Design Compressed String Iterator](../design-compressed-string-iterator) (Easy)
 

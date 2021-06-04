@@ -11,9 +11,7 @@
 
 ## [421. Maximum XOR of Two Numbers in an Array (Medium)](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array "数组中两个数的最大异或值")
 
-<p>Given an integer array <code>nums</code>, return <em>the maximum result of <code>nums[i] XOR nums[j]</code></em>, where <code>0 &le; i &le; j &lt; n</code>.</p>
-
-<p><strong>Follow up:</strong> Could you do this in <code>O(n)</code> runtime?</p>
+<p>Given an integer array <code>nums</code>, return <em>the maximum result of </em><code>nums[i] XOR nums[j]</code>, where <code>0 &lt;= i &lt;= j &lt; n</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -55,7 +53,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 2 * 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= nums.length &lt;= 2 * 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
 

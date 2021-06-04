@@ -25,14 +25,14 @@
 		"TranslatedName": "贪心算法"
 	},
 	{
-		"Name": "Tree",
-		"Slug": "tree",
-		"TranslatedName": "树"
-	},
-	{
 		"Name": "Depth-first Search",
 		"Slug": "depth-first-search",
 		"TranslatedName": "深度优先搜索"
+	},
+	{
+		"Name": "Tree",
+		"Slug": "tree",
+		"TranslatedName": "树"
 	},
 	{
 		"Name": "Hash Table",
@@ -65,14 +65,14 @@
 		"TranslatedName": "回溯算法"
 	},
 	{
-		"Name": "Stack",
-		"Slug": "stack",
-		"TranslatedName": "栈"
-	},
-	{
 		"Name": "Design",
 		"Slug": "design",
 		"TranslatedName": "设计"
+	},
+	{
+		"Name": "Stack",
+		"Slug": "stack",
+		"TranslatedName": "栈"
 	},
 	{
 		"Name": "Bit Manipulation",
@@ -120,14 +120,14 @@
 		"TranslatedName": "分治算法"
 	},
 	{
-		"Name": "Segment Tree",
-		"Slug": "segment-tree",
-		"TranslatedName": "线段树"
-	},
-	{
 		"Name": "Ordered Map",
 		"Slug": "ordered-map",
 		"TranslatedName": "Ordered Map"
+	},
+	{
+		"Name": "Segment Tree",
+		"Slug": "segment-tree",
+		"TranslatedName": "线段树"
 	},
 	{
 		"Name": "Queue",
@@ -145,14 +145,14 @@
 		"TranslatedName": "Line Sweep"
 	},
 	{
-		"Name": "Minimax",
-		"Slug": "minimax",
-		"TranslatedName": "极小化极大"
-	},
-	{
 		"Name": "Binary Indexed Tree",
 		"Slug": "binary-indexed-tree",
 		"TranslatedName": "树状数组"
+	},
+	{
+		"Name": "Minimax",
+		"Slug": "minimax",
+		"TranslatedName": "极小化极大"
 	},
 	{
 		"Name": "Brainteaser",

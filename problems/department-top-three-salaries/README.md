@@ -11,9 +11,50 @@
 
 ## [185. Department Top Three Salaries (Hard)](https://leetcode.com/problems/department-top-three-salaries "部门工资前三高的所有员工")
 
-<p>The <code>Employee</code> table holds all employees. Every employee has an Id, and there is also a column for the department Id.</p>
+<p>Table: <code>Employee</code></p>
 
 <pre>
++--------------+---------+
+| Column Name  | Type    |
++--------------+---------+
+| Id           | int     |
+| Name         | varchar |
+| Salary       | int     |
+| DepartmentId | int     |
++--------------+---------+
+Id is the primary key for this table.
+Each row contains the ID, name, salary, and department of one employee.
+</pre>
+
+<p>&nbsp;</p>
+
+<p>Table: <code>Department</code></p>
+
+<pre>
++-------------+---------+
+| Column Name | Type    |
++-------------+---------+
+| Id          | int     |
+| Name        | varchar |
++-------------+---------+
+Id is the primary key for this table.
+Each row contains the ID and the name of one department.
+</pre>
+
+<p>&nbsp;</p>
+
+<p>A company&#39;s executives are interested in seeing who earns the most money in each of the company&#39;s departments. A <strong>high earner</strong> in a department is an employee who has a salary in the <strong>top three unique</strong> salaries for that department.</p>
+
+<p>Write an SQL query to find the employees who are <strong>high earners</strong> in each of the departments.</p>
+
+<p>Return the result table <strong>in any order</strong>.</p>
+
+<p>The query result format is in the following example:</p>
+
+<p>&nbsp;</p>
+
+<pre>
+Employee table:
 +----+-------+--------+--------------+
 | Id | Name  | Salary | DepartmentId |
 +----+-------+--------+--------------+
@@ -25,34 +66,33 @@
 | 6  | Randy | 85000  | 1            |
 | 7  | Will  | 70000  | 1            |
 +----+-------+--------+--------------+
-</pre>
 
-<p>The <code>Department</code> table holds all departments of the company.</p>
+Department table:
++----+-------+
+| Id | Name  |
++----+-------+
+| 1  | IT    |
+| 2  | Sales |
++----+-------+
 
-<pre>
-+----+----------+
-| Id | Name     |
-+----+----------+
-| 1  | IT       |
-| 2  | Sales    |
-+----+----------+
-</pre>
-
-<p>Write a SQL query to find employees who earn the top three salaries in each of the department. For the above tables, your SQL query should return the following rows (order of rows does not matter).</p>
-
-<pre>
+Result table:
 +------------+----------+--------+
 | Department | Employee | Salary |
 +------------+----------+--------+
 | IT         | Max      | 90000  |
-| IT         | Randy    | 85000  |
 | IT         | Joe      | 85000  |
+| IT         | Randy    | 85000  |
 | IT         | Will     | 70000  |
 | Sales      | Henry    | 80000  |
 | Sales      | Sam      | 60000  |
 +------------+----------+--------+
-</pre>
 
-<p><strong>Explanation:</strong></p>
+In the IT department:
+- Max earns the highest unique salary
+- Both Randy and Joe earn the second-highest unique salary
+- Will earns the third-highest unique salary
 
-<p>In IT department, Max earns the highest salary, both Randy and Joe earn the second highest salary, and Will earns the third highest salary. There are only two employees in the Sales department, Henry earns the highest salary while Sam earns the second highest salary.</p>
+In the Sales department:
+- Henry earns the highest salary
+- Sam earns the second-highest salary
+- There is no third-highest salary as there are only two employees</pre>

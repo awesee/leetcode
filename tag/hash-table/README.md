@@ -9,7 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1852 | [Distinct Numbers in Each Subarray](../../problems/distinct-numbers-in-each-subarray) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
+| 1865 | [找出和为指定值的下标对](../../problems/finding-pairs-with-a-certain-sum) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Medium |
+| 1858 | [Longest Word With All Prefixes](../../problems/longest-word-with-all-prefixes) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1852 | [Distinct Numbers in Each Subarray](../../problems/distinct-numbers-in-each-subarray) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
 | 1817 | [查找用户活跃分钟数](../../problems/finding-the-users-active-minutes) | [[哈希表](../hash-table/README.md)]  | Medium |
 | 1814 | [统计一个数组中好对子的数目](../../problems/count-nice-pairs-in-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1807 | [替换字符串中的括号内容](../../problems/evaluate-the-bracket-pairs-of-a-string) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
@@ -113,7 +115,7 @@
 | 389 | [找不同](../../problems/find-the-difference) | [[位运算](../bit-manipulation/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 387 | [字符串中的第一个唯一字符](../../problems/first-unique-character-in-a-string) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 381 | [O(1) 时间插入、删除和获取随机元素 - 允许重复](../../problems/insert-delete-getrandom-o1-duplicates-allowed) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
-| 380 | [常数时间插入、删除和获取随机元素](../../problems/insert-delete-getrandom-o1) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 380 | [O(1) 时间插入、删除和获取随机元素](../../problems/insert-delete-getrandom-o1) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 359 | [日志速率限制器](../../problems/logger-rate-limiter) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 358 | [K 距离间隔重排字符串](../../problems/rearrange-string-k-distance-apart) 🔒 | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
 | 356 | [直线镜像](../../problems/line-reflection) 🔒 | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |

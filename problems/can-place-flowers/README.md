@@ -38,5 +38,5 @@
   [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
-  1. [Teemo Attacking](../teemo-attacking) (Medium)
+  1. [Teemo Attacking](../teemo-attacking) (Easy)
   1. [Asteroid Collision](../asteroid-collision) (Medium)

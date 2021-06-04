@@ -47,7 +47,7 @@
   1. [Insert Interval](../insert-interval) (Medium)
   1. [Meeting Rooms](../meeting-rooms) (Easy)
   1. [Meeting Rooms II](../meeting-rooms-ii) (Medium)
-  1. [Teemo Attacking](../teemo-attacking) (Medium)
+  1. [Teemo Attacking](../teemo-attacking) (Easy)
   1. [Add Bold Tag in String](../add-bold-tag-in-string) (Medium)
   1. [Range Module](../range-module) (Hard)
   1. [Employee Free Time](../employee-free-time) (Hard)

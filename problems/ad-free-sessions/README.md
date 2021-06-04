@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../minimum-path-cost-in-a-hidden-grid "Minimum Path Cost in a Hidden Grid")
 
-## [1809. Ad-Free Sessions (Easy)](https://leetcode.com/problems/ad-free-sessions "")
+## [1809. Ad-Free Sessions (Easy)](https://leetcode.com/problems/ad-free-sessions "没有广告的剧集")
 
 

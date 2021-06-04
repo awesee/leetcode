@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../binary-tree-postorder-traversal "Binary Tree Postorder Traversal")
 
-## [144. Binary Tree Preorder Traversal (Medium)](https://leetcode.com/problems/binary-tree-preorder-traversal "二叉树的前序遍历")
+## [144. Binary Tree Preorder Traversal (Easy)](https://leetcode.com/problems/binary-tree-preorder-traversal "二叉树的前序遍历")
 
 <p>Given the <code>root</code> of a binary tree, return <em>the preorder traversal of its nodes&#39; values</em>.</p>
 

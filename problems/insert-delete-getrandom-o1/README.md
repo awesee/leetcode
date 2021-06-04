@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../insert-delete-getrandom-o1-duplicates-allowed "Insert Delete GetRandom O(1) - Duplicates allowed")
 
-## [380. Insert Delete GetRandom O(1) (Medium)](https://leetcode.com/problems/insert-delete-getrandom-o1 "常数时间插入、删除和获取随机元素")
+## [380. Insert Delete GetRandom O(1) (Medium)](https://leetcode.com/problems/insert-delete-getrandom-o1 "O(1) 时间插入、删除和获取随机元素")
 
 <p>Implement the <code>RandomizedSet</code> class:</p>
 

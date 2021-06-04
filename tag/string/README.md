@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1880 | [检查某单词是否等于两单词之和](../../problems/check-if-word-equals-summation-of-two-words) | [[字符串](../string/README.md)]  | Easy |
+| 1876 | [长度为三且各字符不同的子字符串](../../problems/substrings-of-size-three-with-distinct-characters) | [[字符串](../string/README.md)]  | Easy |
+| 1859 | [将句子排序](../../problems/sorting-the-sentence) | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1850 | [邻位交换的最小次数](../../problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1849 | [将字符串拆分为递减的连续值](../../problems/splitting-a-string-into-descending-consecutive-values) | [[递归](../recursion/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1844 | [将所有数字用字符替换](../../problems/replace-all-digits-with-characters) | [[字符串](../string/README.md)]  | Easy |
@@ -152,7 +155,7 @@
 | 770 | [基本计算器 IV](../../problems/basic-calculator-iv) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 767 | [重构字符串](../../problems/reorganize-string) | [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 761 | [特殊的二进制序列](../../problems/special-binary-string) | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Hard |
-| 758 | [字符串中的加粗单词](../../problems/bold-words-in-string) 🔒 | [[字符串](../string/README.md)]  | Easy |
+| 758 | [字符串中的加粗单词](../../problems/bold-words-in-string) 🔒 | [[字符串](../string/README.md)]  | Medium |
 | 736 | [Lisp 语法解析](../../problems/parse-lisp-expression) | [[字符串](../string/README.md)]  | Hard |
 | 730 | [统计不同回文子序列](../../problems/count-different-palindromic-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 722 | [删除注释](../../problems/remove-comments) | [[字符串](../string/README.md)]  | Medium |
@@ -230,7 +233,7 @@
 | 49 | [字母异位词分组](../../problems/group-anagrams) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 44 | [通配符匹配](../../problems/wildcard-matching) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 43 | [字符串相乘](../../problems/multiply-strings) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 38 | [外观数列](../../problems/count-and-say) | [[字符串](../string/README.md)]  | Easy |
+| 38 | [外观数列](../../problems/count-and-say) | [[字符串](../string/README.md)]  | Medium |
 | 32 | [最长有效括号](../../problems/longest-valid-parentheses) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 30 | [串联所有单词的子串](../../problems/substring-with-concatenation-of-all-words) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 28 | [实现 strStr()](../../problems/implement-strstr) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |

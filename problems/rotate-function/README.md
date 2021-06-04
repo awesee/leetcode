@@ -47,7 +47,7 @@ So the maximum value of F(0), F(1), F(2), F(3) is F(3) = 26.
 
 <ul>
 	<li><code>n == nums.length</code></li>
-	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= n &lt;= 3 * 10<sup>4</sup></code></li>
 	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
 

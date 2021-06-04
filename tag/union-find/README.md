@@ -47,4 +47,4 @@
 | 261 | [以图判树](../../problems/graph-valid-tree) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
 | 200 | [岛屿数量](../../problems/number-of-islands) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
 | 130 | [被围绕的区域](../../problems/surrounded-regions) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)]  | Medium |
-| 128 | [最长连续序列](../../problems/longest-consecutive-sequence) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)]  | Hard |
+| 128 | [最长连续序列](../../problems/longest-consecutive-sequence) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)]  | Medium |

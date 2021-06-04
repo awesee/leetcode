@@ -11,11 +11,11 @@
 
 ## [167. Two Sum II - Input array is sorted (Easy)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted "两数之和 II - 输入有序数组")
 
-<p>Given an array of integers <code>numbers</code> that is already <strong><em>sorted in ascending order</em></strong>, find two numbers such that they add up to a specific <code>target</code> number.</p>
+<p>Given an array of integers <code>numbers</code> that is already <strong><em>sorted in non-decreasing order</em></strong>, find two numbers such that they add up to a specific <code>target</code> number.</p>
 
-<p>Return the indices of the two numbers (<strong>1-indexed</strong>) as an integer array <code>answer</code> of size <code>2</code>, where <code>1 &lt;= answer[0] &lt; answer[1] &lt;= numbers.length</code>.</p>
+<p>Return<em> the indices of the two numbers (<strong>1-indexed</strong>) as an integer array </em><code>answer</code><em> of size </em><code>2</code><em>, where </em><code>1 &lt;= answer[0] &lt; answer[1] &lt;= numbers.length</code>.</p>
 
-<p>You may assume that each input would have <strong>exactly one solution</strong> and you <strong>may not</strong> use the same element twice.</p>
+<p>The tests are generated such that there is <strong>exactly one solution</strong>. You <strong>may not</strong> use the same element twice.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -46,9 +46,9 @@
 <ul>
 	<li><code>2 &lt;= numbers.length &lt;= 3 * 10<sup>4</sup></code></li>
 	<li><code>-1000 &lt;= numbers[i] &lt;= 1000</code></li>
-	<li><code>numbers</code> is sorted in <strong>increasing order</strong>.</li>
+	<li><code>numbers</code> is sorted in <strong>non-decreasing order</strong>.</li>
 	<li><code>-1000 &lt;= target &lt;= 1000</code></li>
-	<li><strong>Only one valid answer exists.</strong></li>
+	<li>The tests are generated such that there is <strong>exactly one solution</strong>.</li>
 </ul>
 
 ### Related Topics

@@ -11,26 +11,30 @@
 
 ## [728. Self Dividing Numbers (Easy)](https://leetcode.com/problems/self-dividing-numbers "自除数")
 
-<p>
-A <i>self-dividing number</i> is a number that is divisible by every digit it contains.
-</p><p>
-For example, 128 is a self-dividing number because <code>128 % 1 == 0</code>, <code>128 % 2 == 0</code>, and <code>128 % 8 == 0</code>.
-</p><p>
-Also, a self-dividing number is not allowed to contain the digit zero.
-</p><p>
-Given a lower and upper number bound, output a list of every possible self dividing number, including the bounds if possible.
-</p>
-<p><b>Example 1:</b><br />
-<pre>
-<b>Input:</b> 
-left = 1, right = 22
-<b>Output:</b> [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 15, 22]
-</pre>
-</p>
+<p>A <strong>self-dividing number</strong> is a number that is divisible by every digit it contains.</p>
 
-<p><b>Note:</b>
-<li>The boundaries of each input argument are <code>1 <= left <= right <= 10000</code>.</li>
-</p>
+<ul>
+	<li>For example, <code>128</code> is <strong>a self-dividing number</strong> because <code>128 % 1 == 0</code>, <code>128 % 2 == 0</code>, and <code>128 % 8 == 0</code>.</li>
+</ul>
+
+<p>A <strong>self-dividing number</strong> is not allowed to contain the digit zero.</p>
+
+<p>Given two integers <code>left</code> and <code>right</code>, return <em>a list of all the <strong>self-dividing numbers</strong> in the range</em> <code>[left, right]</code>.</p>
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+<pre><strong>Input:</strong> left = 1, right = 22
+<strong>Output:</strong> [1,2,3,4,5,6,7,8,9,11,12,15,22]
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> left = 47, right = 85
+<strong>Output:</strong> [48,55,66,77]
+</pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= left &lt;= right &lt;= 10<sup>4</sup></code></li>
+</ul>
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]

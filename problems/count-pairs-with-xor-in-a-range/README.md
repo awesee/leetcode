@@ -60,7 +60,7 @@
 ### Hints
 <details>
 <summary>Hint 1</summary>
-Let's note that we can count all pairs with XOR ≤ K, so the answer would be to subtract the number of pairs with XOR ≤ high from the number of pairs withs XOR < low.
+Let's note that we can count all pairs with XOR ≤ K, so the answer would be to subtract the number of pairs withs XOR < low from the number of pairs with XOR ≤ high.
 </details>
 
 <details>

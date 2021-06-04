@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../second-largest-digit-in-a-string "Second Largest Digit in a String")
 
-## [1795. Rearrange Products Table (Easy)](https://leetcode.com/problems/rearrange-products-table "")
+## [1795. Rearrange Products Table (Easy)](https://leetcode.com/problems/rearrange-products-table "每个产品在不同商店的价格")
 
 

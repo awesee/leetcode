@@ -11,7 +11,7 @@
 
 ## [1017. Convert to Base -2 (Medium)](https://leetcode.com/problems/convert-to-base-2 "负二进制转换")
 
-<p>Given a number <code>N</code>, return a string consisting of <code>&quot;0&quot;</code>s and <code>&quot;1&quot;</code>s&nbsp;that represents its value in base <code><strong>-2</strong></code>&nbsp;(negative two).</p>
+<p>Given a number <code>n</code>, return a string consisting of <code>&quot;0&quot;</code>s and <code>&quot;1&quot;</code>s&nbsp;that represents its value in base <code><strong>-2</strong></code>&nbsp;(negative two).</p>
 
 <p>The returned string must have no leading zeroes, unless the string is <code>&quot;0&quot;</code>.</p>
 
@@ -21,7 +21,7 @@
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-1-1">2</span>
+<strong>Input: </strong>n = <span id="example-input-1-1">2</span>
 <strong>Output: </strong><span id="example-output-1">&quot;110&quot;
 <strong>Explantion:</strong> (-2) ^ 2 + (-2) ^ 1 = 2</span>
 </pre>
@@ -30,7 +30,7 @@
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-2-1">3</span>
+<strong>Input: </strong>n = <span id="example-input-2-1">3</span>
 <strong>Output: </strong><span id="example-output-2">&quot;111&quot;
 </span><span id="example-output-1"><strong>Explantion:</strong> (-2) ^ 2 + (-2) ^ 1 + (-2) ^ 0</span><span> = 3</span>
 </pre>
@@ -39,7 +39,7 @@
 <p><strong>Example 3:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-3-1">4</span>
+<strong>Input: </strong>n = <span id="example-input-3-1">4</span>
 <strong>Output: </strong><span id="example-output-3">&quot;100&quot;
 </span><span id="example-output-1"><strong>Explantion:</strong> (-2) ^ 2 = 4</span>
 </pre>
@@ -49,7 +49,7 @@
 <p><strong><span>Note:</span></strong></p>
 
 <ol>
-	<li><span><code>0 &lt;= N &lt;= 10^9</code></span></li>
+	<li><span><code>0 &lt;= n &lt;= 10<sup>9</sup></code></span></li>
 </ol>
 </div>
 </div>
