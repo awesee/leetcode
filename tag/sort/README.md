@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1877 | [数组中最大数对和的最小值](../../problems/minimize-maximum-pair-sum-in-array) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
+| 1859 | [将句子排序](../../problems/sorting-the-sentence) | [[排序](../sort/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1856 | [子数组最小乘积的最大值](../../problems/maximum-subarray-min-product) | [[排序](../sort/README.md)] [[并查集](../union-find/README.md)] [[队列](../queue/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1847 | [最近的房间](../../problems/closest-room) | [[排序](../sort/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1846 | [减小和重新排列数组后的最大元素](../../problems/maximum-element-after-decreasing-and-rearranging) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |

@@ -39,7 +39,7 @@
 	<li><code>m == heights.length</code></li>
 	<li><code>n == heights[i].length</code></li>
 	<li><code>1 &lt;= m, n &lt;= 200</code></li>
-	<li><code>1 &lt;= heights[i][j] &lt;= 10<sup>5</sup></code></li>
+	<li><code>0 &lt;= heights[i][j] &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 ### Related Topics

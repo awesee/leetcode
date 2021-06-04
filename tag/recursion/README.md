@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1863 | [找出所有子集的异或总和再求和](../../problems/sum-of-all-subset-xor-totals) | [[递归](../recursion/README.md)] [[回溯算法](../backtracking/README.md)]  | Easy |
 | 1849 | [将字符串拆分为递减的连续值](../../problems/splitting-a-string-into-descending-consecutive-values) | [[递归](../recursion/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 1799 | [N 次操作后的最大分数和](../../problems/maximize-score-after-n-operations) | [[递归](../recursion/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
 | 1780 | [判断一个数字是否可以表示成三的幂的和](../../problems/check-if-number-is-a-sum-of-powers-of-three) | [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |

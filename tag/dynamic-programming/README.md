@@ -9,6 +9,11 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1884 | [鸡蛋掉落-两枚鸡蛋](../../problems/egg-drop-with-2-eggs-and-n-floors) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1883 | [准时抵达会议现场的最小跳过休息次数](../../problems/minimum-skips-to-arrive-at-meeting-on-time) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1879 | [两个数组最小的异或值之和](../../problems/minimum-xor-sum-of-two-arrays) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1872 | [石子游戏 VIII](../../problems/stone-game-viii) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1866 | [恰有 K 根木棍可以看到的排列数目](../../problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1857 | [有向图中最大颜色值](../../problems/largest-color-value-in-a-directed-graph) | [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1856 | [子数组最小乘积的最大值](../../problems/maximum-subarray-min-product) | [[排序](../sort/README.md)] [[并查集](../union-find/README.md)] [[队列](../queue/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1824 | [最少侧跳次数](../../problems/minimum-sideway-jumps) | [[广度优先搜索](../breadth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
@@ -49,7 +54,7 @@
 | 1553 | [吃掉 N 个橘子的最少天数](../../problems/minimum-number-of-days-to-eat-n-oranges) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1548 | [图中最相似的路径](../../problems/the-most-similar-path-in-a-graph) 🔒 | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1547 | [切棍子的最小成本](../../problems/minimum-cost-to-cut-a-stick) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 1546 | [和为目标值的最大数目不重叠非空子数组数目](../../problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1546 | [和为目标值且不重叠的非空子数组的最大数目](../../problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1537 | [最大得分](../../problems/get-the-maximum-score) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1531 | [压缩字符串 II](../../problems/string-compression-ii) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1510 | [石子游戏 IV](../../problems/stone-game-iv) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -221,7 +226,7 @@
 | 354 | [俄罗斯套娃信封问题](../../problems/russian-doll-envelopes) | [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 351 | [安卓系统手势解锁](../../problems/android-unlock-patterns) 🔒 | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
 | 343 | [整数拆分](../../problems/integer-break) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 338 | [比特位计数](../../problems/counting-bits) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 338 | [比特位计数](../../problems/counting-bits) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 337 | [打家劫舍 III](../../problems/house-robber-iii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 322 | [零钱兑换](../../problems/coin-change) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 321 | [拼接最大数](../../problems/create-maximum-number) | [[贪心算法](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

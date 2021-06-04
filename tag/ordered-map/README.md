@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1865 | [找出和为指定值的下标对](../../problems/finding-pairs-with-a-certain-sum) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Medium |
 | 1675 | [数组的最小偏移量](../../problems/minimize-deviation-in-array) | [[堆](../heap/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Hard |
 | 1649 | [通过指令创建有序数组](../../problems/create-sorted-array-through-instructions) | [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[二分查找](../binary-search/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Hard |
 | 1606 | [找到处理最多请求的服务器](../../problems/find-servers-that-handled-most-number-of-requests) | [[Ordered Map](../ordered-map/README.md)]  | Hard |

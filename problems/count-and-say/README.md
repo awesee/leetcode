@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../combination-sum "Combination Sum")
 
-## [38. Count and Say (Easy)](https://leetcode.com/problems/count-and-say "外观数列")
+## [38. Count and Say (Medium)](https://leetcode.com/problems/count-and-say "外观数列")
 
 <p>The <strong>count-and-say</strong> sequence is a sequence of digit strings defined by the recursive formula:</p>
 

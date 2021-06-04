@@ -9,10 +9,15 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1881 | [插入后的最大值](../../problems/maximum-value-after-insertion) | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1877 | [数组中最大数对和的最小值](../../problems/minimize-maximum-pair-sum-in-array) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
+| 1874 | [Minimize Product Sum of Two Arrays](../../problems/minimize-product-sum-of-two-arrays) 🔒 | [[贪心算法](../greedy/README.md)]  | Medium |
+| 1871 | [跳跃游戏 VII](../../problems/jump-game-vii) | [[贪心算法](../greedy/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
+| 1864 | [构成交替字符串需要的最小交换次数](../../problems/minimum-number-of-swaps-to-make-the-binary-string-alternating) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1855 | [下标对中的最大距离](../../problems/maximum-distance-between-a-pair-of-values) | [[贪心算法](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1850 | [邻位交换的最小次数](../../problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1846 | [减小和重新排列数组后的最大元素](../../problems/maximum-element-after-decreasing-and-rearranging) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)]  | Medium |
-| 1842 | [Next Palindrome Using Same Digits](../../problems/next-palindrome-using-same-digits) | [[贪心算法](../greedy/README.md)]  | Hard |
+| 1842 | [Next Palindrome Using Same Digits](../../problems/next-palindrome-using-same-digits) 🔒 | [[贪心算法](../greedy/README.md)]  | Hard |
 | 1840 | [最高建筑高度](../../problems/maximum-building-height) | [[贪心算法](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1838 | [最高频元素的频数](../../problems/frequency-of-the-most-frequent-element) | [[贪心算法](../greedy/README.md)]  | Medium |
 | 1827 | [最少操作使数组递增](../../problems/minimum-operations-to-make-the-array-increasing) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |

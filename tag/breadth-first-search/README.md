@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1871 | [跳跃游戏 VII](../../problems/jump-game-vii) | [[贪心算法](../greedy/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
 | 1824 | [最少侧跳次数](../../problems/minimum-sideway-jumps) | [[广度优先搜索](../breadth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1778 | [Shortest Path in a Hidden Grid](../../problems/shortest-path-in-a-hidden-grid) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 1766 | [互质树](../../problems/tree-of-coprimes) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数学](../math/README.md)]  | Hard |

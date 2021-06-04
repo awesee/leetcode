@@ -30,8 +30,9 @@ int len = removeDuplicates(nums);
 // any modification to <strong>nums</strong> in your function would be known by the caller.
 // using the length returned by your function, it prints the first <strong>len</strong> elements.
 for (int i = 0; i &lt; len; i++) {
-&nbsp; &nbsp; print(nums[i]);
-}</pre>
+    print(nums[i]);
+}
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

@@ -36,7 +36,7 @@
 <strong>Input: </strong><span id="example-input-1-1">[17,13,11,2,3,5,7]</span>
 <strong>Output: </strong><span id="example-output-1">[2,13,3,11,5,17,7]</span>
 <strong>Explanation: </strong>
-We get the deck in the order [17,13,11,2,3,5,7] (this order doesn't matter), and reorder it.
+We get the deck in the order [17,13,11,2,3,5,7] (this order doesn&#39;t matter), and reorder it.
 After reordering, the deck starts as [2,13,3,11,5,17,7], where 2 is the top of the deck.
 We reveal 2, and move 13 to the bottom.  The deck is now [3,11,5,17,7,13].
 We reveal 3, and move 11 to the bottom.  The deck is now [5,17,7,13,11].
@@ -54,9 +54,9 @@ Since all the cards revealed are in increasing order, the answer is correct.
 <p><strong>Note:</strong></p>
 
 <ol>
-	<li><code>1 &lt;= A.length &lt;= 1000</code></li>
-	<li><code>1 &lt;= A[i] &lt;= 10^6</code></li>
-	<li><code>A[i] != A[j]</code>&nbsp;for all&nbsp;<code>i != j</code></li>
+	<li><code>1 &lt;= deck.length &lt;= 1000</code></li>
+	<li><code>1 &lt;= deck[i] &lt;= 10^6</code></li>
+	<li><code>deck[i] != deck[j]</code>&nbsp;for all&nbsp;<code>i != j</code></li>
 </ol>
 </div>
 </div>

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1882 | [使用服务器处理任务](../../problems/process-tasks-using-servers) | [[堆](../heap/README.md)]  | Medium |
 | 1845 | [座位预约管理系统](../../problems/seat-reservation-manager) | [[堆](../heap/README.md)] [[设计](../design/README.md)]  | Medium |
 | 1834 | [单线程 CPU](../../problems/single-threaded-cpu) | [[堆](../heap/README.md)]  | Medium |
 | 1825 | [求出 MK 平均值](../../problems/finding-mk-average) | [[堆](../heap/README.md)] [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Hard |

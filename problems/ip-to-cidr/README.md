@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../open-the-lock "Open the Lock")
 
-## [751. IP to CIDR (Easy)](https://leetcode.com/problems/ip-to-cidr "IP 到 CIDR")
+## [751. IP to CIDR (Medium)](https://leetcode.com/problems/ip-to-cidr "IP 到 CIDR")
 
 <p>
 Given a start IP address <code>ip</code> and a number of ips we need to cover <code>n</code>, return a representation of the range as a list (of smallest possible length) of CIDR blocks.

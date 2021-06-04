@@ -13,6 +13,8 @@
 
 <p>Given an array of integers <code>nums</code> which is sorted in ascending order, and an integer <code>target</code>, write a function to search <code>target</code> in <code>nums</code>. If <code>target</code> exists, then return its index. Otherwise, return <code>-1</code>.</p>
 
+<p>You must&nbsp;write an algorithm with&nbsp;<code>O(log n)</code>&nbsp;runtime complexity.</p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 

@@ -44,4 +44,4 @@ Could you do it using only constant space complexity?</p>
   [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Binary Tree Preorder Traversal](../binary-tree-preorder-traversal) (Medium)
+  1. [Binary Tree Preorder Traversal](../binary-tree-preorder-traversal) (Easy)

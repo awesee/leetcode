@@ -26,7 +26,7 @@
 <p><strong>Example 2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/04/28/subtree2-tree.jpg" style="width: 502px; height: 458px;" />
 <pre>
-<strong>Input:</strong> root = [3,4,5,1,2,null,null,0], subRoot = [4,1,2]
+<strong>Input:</strong> root = [3,4,5,1,2,null,null,null,null,0], subRoot = [4,1,2]
 <strong>Output:</strong> false
 </pre>
 

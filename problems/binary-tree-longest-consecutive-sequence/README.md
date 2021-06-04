@@ -53,5 +53,5 @@ Explanation: </strong>Longest consecutive sequence path is <code>2-3</code><span
   [[Tree](../../tag/tree/README.md)]
 
 ### Similar Questions
-  1. [Longest Consecutive Sequence](../longest-consecutive-sequence) (Hard)
+  1. [Longest Consecutive Sequence](../longest-consecutive-sequence) (Medium)
   1. [Binary Tree Longest Consecutive Sequence II](../binary-tree-longest-consecutive-sequence-ii) (Medium)

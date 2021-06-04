@@ -13,6 +13,8 @@
 
 <p>Given an integer array <code>nums</code>, return <em>the maximum difference between two successive elements in its sorted form</em>. If the array contains less than two elements, return <code>0</code>.</p>
 
+<p>You must write an algorithm that runs in linear time and uses linear extra space.</p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
@@ -37,9 +39,6 @@
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
-
-<p>&nbsp;</p>
-<strong>Follow up:</strong> Could you solve it in linear time/space?
 
 ### Related Topics
   [[Sort](../../tag/sort/README.md)]

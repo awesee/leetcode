@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../employee-free-time "Employee Free Time")
 
-## [758. Bold Words in String (Easy)](https://leetcode.com/problems/bold-words-in-string "字符串中的加粗单词")
+## [758. Bold Words in String (Medium)](https://leetcode.com/problems/bold-words-in-string "字符串中的加粗单词")
 
 <p>
 Given a set of keywords <code>words</code> and a string <code>S</code>, make all appearances of all keywords in <code>S</code> bold.  Any letters between <code>&lt;b&gt;</code> and <code>&lt;/b&gt;</code> tags become bold.

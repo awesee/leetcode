@@ -61,7 +61,7 @@
 ### Similar Questions
   1. [Reverse Bits](../reverse-bits) (Easy)
   1. [Power of Two](../power-of-two) (Easy)
-  1. [Counting Bits](../counting-bits) (Medium)
+  1. [Counting Bits](../counting-bits) (Easy)
   1. [Binary Watch](../binary-watch) (Easy)
   1. [Hamming Distance](../hamming-distance) (Easy)
   1. [Binary Number with Alternating Bits](../binary-number-with-alternating-bits) (Easy)

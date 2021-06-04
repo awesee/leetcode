@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../minimum-cost-to-cut-a-stick "Minimum Cost to Cut a Stick")
 
-## [1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target (Medium)](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target "和为目标值的最大数目不重叠非空子数组数目")
+## [1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target (Medium)](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target "和为目标值且不重叠的非空子数组的最大数目")
 
 <p>Given an array <code>nums</code> and an integer <code><font face="monospace">target</font></code>.</p>
 

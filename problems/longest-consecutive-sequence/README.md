@@ -9,9 +9,11 @@
 　　　　　　　　　　　　　　　　
 [Next >](../sum-root-to-leaf-numbers "Sum Root to Leaf Numbers")
 
-## [128. Longest Consecutive Sequence (Hard)](https://leetcode.com/problems/longest-consecutive-sequence "最长连续序列")
+## [128. Longest Consecutive Sequence (Medium)](https://leetcode.com/problems/longest-consecutive-sequence "最长连续序列")
 
 <p>Given an unsorted array of integers <code>nums</code>, return <em>the length of the longest consecutive elements sequence.</em></p>
+
+<p>You must write an algorithm that runs in&nbsp;<code>O(n)</code>&nbsp;time.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -33,12 +35,9 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
-
-<p>&nbsp;</p>
-<strong>Follow up:</strong> Could you implement the <code>O(n)</code> solution?
 
 ### Related Topics
   [[Union Find](../../tag/union-find/README.md)]

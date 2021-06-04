@@ -75,4 +75,4 @@
   [[String](../../tag/string/README.md)]
 
 ### Similar Questions
-  1. [IP to CIDR](../ip-to-cidr) (Easy)
+  1. [IP to CIDR](../ip-to-cidr) (Medium)

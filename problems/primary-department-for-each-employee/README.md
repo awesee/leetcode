@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../check-if-one-string-swap-can-make-strings-equal "Check if One String Swap Can Make Strings Equal")
 
-## [1789. Primary Department for Each Employee (Easy)](https://leetcode.com/problems/primary-department-for-each-employee "")
+## [1789. Primary Department for Each Employee (Easy)](https://leetcode.com/problems/primary-department-for-each-employee "员工的直属部门")
 
 

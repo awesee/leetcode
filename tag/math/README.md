@@ -9,6 +9,11 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1884 | [鸡蛋掉落-两枚鸡蛋](../../problems/egg-drop-with-2-eggs-and-n-floors) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1878 | [矩阵中最大的三个菱形和](../../problems/get-biggest-three-rhombus-sums-in-a-grid) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1870 | [准时到达的列车最小时速](../../problems/minimum-speed-to-arrive-on-time) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1862 | [向下取整数对和](../../problems/sum-of-floored-pairs) | [[数学](../math/README.md)]  | Hard |
+| 1860 | [增长的内存泄露](../../problems/incremental-memory-leak) | [[数学](../math/README.md)]  | Medium |
 | 1837 | [K 进制表示下的各位数字总和](../../problems/sum-of-digits-in-base-k) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1835 | [所有数对按位与结果的异或和](../../problems/find-xor-sum-of-all-pairs-bitwise-and) | [[数学](../math/README.md)]  | Hard |
 | 1830 | [使字符串有序的最少操作次数](../../problems/minimum-number-of-operations-to-make-string-sorted) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
@@ -195,7 +200,7 @@
 | 247 | [中心对称数 II](../../problems/strobogrammatic-number-ii) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
 | 246 | [中心对称数](../../problems/strobogrammatic-number) 🔒 | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |
 | 233 | [数字 1 的个数](../../problems/number-of-digit-one) | [[数学](../math/README.md)]  | Hard |
-| 231 | [2的幂](../../problems/power-of-two) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Easy |
+| 231 | [2 的幂](../../problems/power-of-two) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Easy |
 | 224 | [基本计算器](../../problems/basic-calculator) | [[栈](../stack/README.md)] [[数学](../math/README.md)]  | Hard |
 | 223 | [矩形面积](../../problems/rectangle-area) | [[数学](../math/README.md)]  | Medium |
 | 204 | [计数质数](../../problems/count-primes) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |

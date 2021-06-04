@@ -11,15 +11,18 @@
 
 ## [655. Print Binary Tree (Medium)](https://leetcode.com/problems/print-binary-tree "输出二叉树")
 
-<p>Print a binary tree in an <code>m x n</code> 2D string array following these rules:</p>
+<p>Given the <code>root</code> of a binary tree, construct a <strong>0-indexed</strong> <code>m x n</code> string matrix <code>res</code> that represents a <strong>formatted layout</strong> of the tree. The formatted layout matrix should be constructed using the following rules:</p>
 
 <ul>
-	<li>The row numbers <code>m</code> should be equal to the height of the given binary tree.</li>
-	<li>The column number <code>n</code> should always be an odd number.</li>
-	<li>The root node&#39;s value (in string format) should be put in the exact middle of the first row it can be put. The column and the row where the root node belongs will separate the rest space into two parts (<strong>left-bottom part and right-bottom part</strong>). You should print the left subtree in the left-bottom part and print the right subtree in the right-bottom part. The left-bottom part and the right-bottom part should have the same size. Even if one subtree is none while the other is not, you don&#39;t need to print anything for the none subtree but still need to leave the space as large as that for the other subtree. However, if two subtrees are none, then you don&#39;t need to leave space for both of them.</li>
-	<li>Each unused space should contain an empty string <code>&quot;&quot;</code>.</li>
-	<li>Print the subtrees following the same rules.</li>
+	<li>The <strong>height</strong> of the tree is <code>height</code>&nbsp;and the number of rows <code>m</code> should be equal to <code>height + 1</code>.</li>
+	<li>The number of columns <code>n</code> should be equal to <code>2<sup>height+1</sup> - 1</code>.</li>
+	<li>Place the <strong>root node</strong> in the <strong>middle</strong> of the <strong>top row</strong> (more formally, at location <code>res[0][(n-1)/2]</code>).</li>
+	<li>For each node that has been placed in the matrix at position <code>res[r][c]</code>, place its <strong>left child</strong> at <code>res[r+1][c-2<sup>height-r-1</sup>]</code> and its <strong>right child</strong> at <code>res[r+1][c+2<sup>height-r-1</sup>]</code>.</li>
+	<li>Continue this process until all the nodes in the tree have been placed.</li>
+	<li>Any empty cells should contain the empty string <code>&quot;&quot;</code>.</li>
 </ul>
+
+<p>Return <em>the constructed matrix </em><code>res</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

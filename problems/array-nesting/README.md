@@ -13,7 +13,7 @@
 
 <p>You are given an integer array <code>nums</code> of length <code>n</code> where <code>nums</code> is a permutation of the numbers in the range <code>[0, n - 1]</code>.</p>
 
-<p>You should build a set <code>s[k] = {nums[k], nums[nums[i]], nums[nums[nums[k]]], ... }</code> subjected to the following rule:</p>
+<p>You should build a set <code>s[k] = {nums[k], nums[nums[k]], nums[nums[nums[k]]], ... }</code> subjected to the following rule:</p>
 
 <ul>
 	<li>The first element in <code>s[k]</code> starts with the selection of the element <code>nums[k]</code> of <code>index = k</code>.</li>

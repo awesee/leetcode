@@ -67,7 +67,7 @@
 
 ### Similar Questions
   1. [Validate Binary Search Tree](../validate-binary-search-tree) (Medium)
-  1. [Binary Tree Preorder Traversal](../binary-tree-preorder-traversal) (Medium)
+  1. [Binary Tree Preorder Traversal](../binary-tree-preorder-traversal) (Easy)
   1. [Binary Tree Postorder Traversal](../binary-tree-postorder-traversal) (Easy)
   1. [Binary Search Tree Iterator](../binary-search-tree-iterator) (Medium)
   1. [Kth Smallest Element in a BST](../kth-smallest-element-in-a-bst) (Medium)

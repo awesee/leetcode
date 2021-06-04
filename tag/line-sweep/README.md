@@ -9,7 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1852 | [Distinct Numbers in Each Subarray](../../problems/distinct-numbers-in-each-subarray) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
+| 1871 | [跳跃游戏 VII](../../problems/jump-game-vii) | [[贪心算法](../greedy/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
+| 1852 | [Distinct Numbers in Each Subarray](../../problems/distinct-numbers-in-each-subarray) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
 | 1851 | [包含每个查询的最小区间](../../problems/minimum-interval-to-include-each-query) | [[Line Sweep](../line-sweep/README.md)]  | Hard |
 | 1288 | [删除被覆盖区间](../../problems/remove-covered-intervals) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
 | 1272 | [删除区间](../../problems/remove-interval) 🔒 | [[数学](../math/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |

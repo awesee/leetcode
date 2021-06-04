@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1865 | [找出和为指定值的下标对](../../problems/finding-pairs-with-a-certain-sum) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Medium |
 | 1845 | [座位预约管理系统](../../problems/seat-reservation-manager) | [[堆](../heap/README.md)] [[设计](../design/README.md)]  | Medium |
 | 1825 | [求出 MK 平均值](../../problems/finding-mk-average) | [[堆](../heap/README.md)] [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Hard |
 | 1797 | [设计一个验证系统](../../problems/design-authentication-manager) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
@@ -48,7 +49,7 @@
 | 460 | [LFU 缓存](../../problems/lfu-cache) | [[设计](../design/README.md)]  | Hard |
 | 432 | [全 O(1) 的数据结构](../../problems/all-oone-data-structure) | [[设计](../design/README.md)]  | Hard |
 | 381 | [O(1) 时间插入、删除和获取随机元素 - 允许重复](../../problems/insert-delete-getrandom-o1-duplicates-allowed) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
-| 380 | [常数时间插入、删除和获取随机元素](../../problems/insert-delete-getrandom-o1) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 380 | [O(1) 时间插入、删除和获取随机元素](../../problems/insert-delete-getrandom-o1) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 379 | [电话目录管理系统](../../problems/design-phone-directory) 🔒 | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Medium |
 | 362 | [敲击计数器](../../problems/design-hit-counter) 🔒 | [[设计](../design/README.md)]  | Medium |
 | 359 | [日志速率限制器](../../problems/logger-rate-limiter) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |

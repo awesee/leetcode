@@ -11,53 +11,60 @@
 
 ## [744. Find Smallest Letter Greater Than Target (Easy)](https://leetcode.com/problems/find-smallest-letter-greater-than-target "寻找比目标字母大的最小字母")
 
-<p>
-Given a list of sorted characters <code>letters</code> containing only lowercase letters, and given a target letter <code>target</code>, find the smallest element in the list that is larger than the given target.
-</p><p>
-Letters also wrap around.  For example, if the target is <code>target = 'z'</code> and <code>letters = ['a', 'b']</code>, the answer is <code>'a'</code>.
-</p>
+<p>Given a characters array <code>letters</code> that is sorted in <strong>non-decreasing</strong> order and a character <code>target</code>, return <em>the smallest character in the array that is larger than </em><code>target</code>.</p>
 
-<p><b>Examples:</b><br />
+<p><strong>Note</strong> that the letters wrap around.</p>
+
+<ul>
+	<li>For example, if <code>target == &#39;z&#39;</code> and <code>letters == [&#39;a&#39;, &#39;b&#39;]</code>, the answer is <code>&#39;a&#39;</code>.</li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+
 <pre>
-<b>Input:</b>
-letters = ["c", "f", "j"]
-target = "a"
-<b>Output:</b> "c"
-
-<b>Input:</b>
-letters = ["c", "f", "j"]
-target = "c"
-<b>Output:</b> "f"
-
-<b>Input:</b>
-letters = ["c", "f", "j"]
-target = "d"
-<b>Output:</b> "f"
-
-<b>Input:</b>
-letters = ["c", "f", "j"]
-target = "g"
-<b>Output:</b> "j"
-
-<b>Input:</b>
-letters = ["c", "f", "j"]
-target = "j"
-<b>Output:</b> "c"
-
-<b>Input:</b>
-letters = ["c", "f", "j"]
-target = "k"
-<b>Output:</b> "c"
+<strong>Input:</strong> letters = [&quot;c&quot;,&quot;f&quot;,&quot;j&quot;], target = &quot;a&quot;
+<strong>Output:</strong> &quot;c&quot;
 </pre>
-</p>
 
-<p><b>Note:</b><br>
-<ol>
-<li><code>letters</code> has a length in range <code>[2, 10000]</code>.</li>
-<li><code>letters</code> consists of lowercase letters, and contains at least 2 unique letters.</li>
-<li><code>target</code> is a lowercase letter.</li>
-</ol>
-</p>
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> letters = [&quot;c&quot;,&quot;f&quot;,&quot;j&quot;], target = &quot;c&quot;
+<strong>Output:</strong> &quot;f&quot;
+</pre>
+
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> letters = [&quot;c&quot;,&quot;f&quot;,&quot;j&quot;], target = &quot;d&quot;
+<strong>Output:</strong> &quot;f&quot;
+</pre>
+
+<p><strong>Example 4:</strong></p>
+
+<pre>
+<strong>Input:</strong> letters = [&quot;c&quot;,&quot;f&quot;,&quot;j&quot;], target = &quot;g&quot;
+<strong>Output:</strong> &quot;j&quot;
+</pre>
+
+<p><strong>Example 5:</strong></p>
+
+<pre>
+<strong>Input:</strong> letters = [&quot;c&quot;,&quot;f&quot;,&quot;j&quot;], target = &quot;j&quot;
+<strong>Output:</strong> &quot;c&quot;
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>2 &lt;= letters.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>letters[i]</code> is a lowercase English letter.</li>
+	<li><code>letters</code> is sorted in <strong>non-decreasing</strong> order.</li>
+	<li><code>letters</code> contains at least two different characters.</li>
+	<li><code>target</code> is a lowercase English letter.</li>
+</ul>
 
 ### Related Topics
   [[Binary Search](../../tag/binary-search/README.md)]

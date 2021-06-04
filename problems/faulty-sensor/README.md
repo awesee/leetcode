@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../minimum-operations-to-make-the-array-increasing "Minimum Operations to Make the Array Increasing")
 
-## [1826. Faulty Sensor (Easy)](https://leetcode.com/problems/faulty-sensor "")
+## [1826. Faulty Sensor (Easy)](https://leetcode.com/problems/faulty-sensor "有缺陷的传感器")
 
 
 

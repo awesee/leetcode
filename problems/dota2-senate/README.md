@@ -63,4 +63,4 @@ And in round 2, the third senator can just announce the victory since he is the 
   [[Greedy](../../tag/greedy/README.md)]
 
 ### Similar Questions
-  1. [Teemo Attacking](../teemo-attacking) (Medium)
+  1. [Teemo Attacking](../teemo-attacking) (Easy)

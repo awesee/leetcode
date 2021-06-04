@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../implement-queue-using-stacks "Implement Queue using Stacks")
 
-## [231. Power of Two (Easy)](https://leetcode.com/problems/power-of-two "2的幂")
+## [231. Power of Two (Easy)](https://leetcode.com/problems/power-of-two "2 的幂")
 
 <p>Given an integer <code>n</code>, return <em><code>true</code> if it is a power of two. Otherwise, return <code>false</code></em>.</p>
 
