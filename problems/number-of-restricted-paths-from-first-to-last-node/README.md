@@ -55,7 +55,10 @@
 
 ### Related Topics
   [[Graph](../../tag/graph/README.md)]
+  [[Topological Sort](../../tag/topological-sort/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Shortest Path](../../tag/shortest-path/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

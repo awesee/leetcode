@@ -12,3 +12,6 @@
 ## [1789. Primary Department for Each Employee (Easy)](https://leetcode.com/problems/primary-department-for-each-employee "员工的直属部门")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

@@ -58,7 +58,9 @@ Total score = 5 + 4 + 5 + 5 = 19.</pre>
 </ul>
 
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

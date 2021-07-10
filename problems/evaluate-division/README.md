@@ -61,8 +61,12 @@ return: [6.0, 0.5, -1.0, 1.0, -1.0 ]
 </ul>
 
 ### Related Topics
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
   [[Graph](../../tag/graph/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Shortest Path](../../tag/shortest-path/README.md)]
 
 ### Hints
 <details>

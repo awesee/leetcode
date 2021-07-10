@@ -29,4 +29,7 @@ Given a list of 24-hour clock time points in <strong>&quot;HH:MM&quot;</strong> 
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]

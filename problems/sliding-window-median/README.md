@@ -55,7 +55,10 @@ Window position                Median
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Find Median from Data Stream](../find-median-from-data-stream) (Hard)

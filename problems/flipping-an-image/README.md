@@ -56,3 +56,6 @@ Then invert the image: [[1,1,0,0],[0,1,1,0],[0,0,0,1],[1,0,1,0]]
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]

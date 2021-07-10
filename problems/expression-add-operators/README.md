@@ -40,7 +40,9 @@
 </ul>
 
 ### Related Topics
-  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
   1. [Evaluate Reverse Polish Notation](../evaluate-reverse-polish-notation) (Medium)

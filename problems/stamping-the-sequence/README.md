@@ -56,5 +56,7 @@
 </ol>
 
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
+  [[Queue](../../tag/queue/README.md)]
   [[String](../../tag/string/README.md)]

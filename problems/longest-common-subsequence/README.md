@@ -55,6 +55,7 @@
 </ul>
 
 ### Related Topics
+  [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints

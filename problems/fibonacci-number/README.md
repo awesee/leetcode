@@ -53,7 +53,10 @@ F(n) = F(n - 1) + F(n - 2), for n &gt; 1.
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Climbing Stairs](../climbing-stairs) (Easy)

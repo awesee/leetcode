@@ -50,6 +50,10 @@
 </ul>
 
 ### Related Topics
+  [[Trie](../../tag/trie/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
 

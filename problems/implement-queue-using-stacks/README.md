@@ -62,6 +62,7 @@ myQueue.empty(); // return false
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
   [[Design](../../tag/design/README.md)]
+  [[Queue](../../tag/queue/README.md)]
 
 ### Similar Questions
   1. [Implement Stack using Queues](../implement-stack-using-queues) (Easy)

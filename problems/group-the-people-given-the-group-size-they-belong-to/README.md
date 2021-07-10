@@ -49,7 +49,8 @@ Other possible solutions are [[2,1,6],[5],[0,4,3]] and [[5],[0,6,2],[4,3,1]].
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

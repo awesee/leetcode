@@ -55,6 +55,7 @@ Note that you cannot buy on day 1, buy on day 2 and sell them later, as you are 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Best Time to Buy and Sell Stock](../best-time-to-buy-and-sell-stock) (Easy)

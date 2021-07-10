@@ -59,4 +59,4 @@ Hence, answer = [10,25]
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
-  [[Math](../../tag/math/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]

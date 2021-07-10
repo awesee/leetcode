@@ -49,9 +49,7 @@ Note that &quot;ea&quot; is not a valid string since &#39;e&#39; comes after &#3
 </ul>
 
 ### Related Topics
-  [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
-  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints
 <details>

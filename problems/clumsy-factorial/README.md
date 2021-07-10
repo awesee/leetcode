@@ -49,4 +49,6 @@
 </ol>
 
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]

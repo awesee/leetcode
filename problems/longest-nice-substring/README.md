@@ -56,7 +56,10 @@ As there are multiple longest nice substrings, return &quot;dD&quot; since it oc
 </ul>
 
 ### Related Topics
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

@@ -49,7 +49,12 @@
 </ul>
 
 ### Related Topics
+  [[Queue](../../tag/queue/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
+  [[Monotonic Queue](../../tag/monotonic-queue/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

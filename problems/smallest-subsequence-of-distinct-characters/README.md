@@ -42,6 +42,7 @@
   [[Stack](../../tag/stack/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Hints
 <details>

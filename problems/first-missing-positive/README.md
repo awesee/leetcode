@@ -36,6 +36,7 @@
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Missing Number](../missing-number) (Easy)

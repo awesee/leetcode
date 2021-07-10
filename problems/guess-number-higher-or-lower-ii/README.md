@@ -76,8 +76,9 @@ The worst case is that you pay $1.
 </ul>
 
 ### Related Topics
-  [[Minimax](../../tag/minimax/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Game Theory](../../tag/game-theory/README.md)]
 
 ### Similar Questions
   1. [Flip Game II](../flip-game-ii) (Medium)

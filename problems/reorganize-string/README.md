@@ -11,37 +11,33 @@
 
 ## [767. Reorganize String (Medium)](https://leetcode.com/problems/reorganize-string "重构字符串")
 
-<p>Given a string <code>s</code>, check if the letters can be rearranged so that two characters that are adjacent to each other are not the same.</p>
+<p>Given a string <code>s</code>, rearrange the characters of <code>s</code> so that any two adjacent characters are not the same.</p>
 
-<p>If possible, output any possible result.&nbsp; If not possible, return the empty string.</p>
-
-<p><strong>Example 1:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;aab&quot;
-<strong>Output:</strong> &quot;aba&quot;
-</pre>
-
-<p><strong>Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;aaab&quot;
-<strong>Output:</strong> &quot;&quot;
-</pre>
-
-<p><strong>Note:</strong></p>
-
-<ul>
-	<li><code>s</code> will consist of lowercase letters and have length in range <code>[1, 500]</code>.</li>
-</ul>
+<p>Return <em>any possible rearrangement of</em> <code>s</code> <em>or return</em> <code>&quot;&quot;</code> <em>if not possible</em>.</p>
 
 <p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+<pre><strong>Input:</strong> s = "aab"
+<strong>Output:</strong> "aba"
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> s = "aaab"
+<strong>Output:</strong> ""
+</pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 500</code></li>
+	<li><code>s</code> consists of lowercase English letters.</li>
+</ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
-  [[Sort](../../tag/sort/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Counting](../../tag/counting/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Rearrange String k Distance Apart](../rearrange-string-k-distance-apart) (Hard)

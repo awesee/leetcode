@@ -59,6 +59,8 @@
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Single Number](../single-number) (Easy)

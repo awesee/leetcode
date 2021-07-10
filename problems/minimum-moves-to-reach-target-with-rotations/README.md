@@ -67,7 +67,9 @@
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Hints
 <details>

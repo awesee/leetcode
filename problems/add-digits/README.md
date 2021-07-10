@@ -44,6 +44,8 @@ Since 2 has only one digit, return it.
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[Number Theory](../../tag/number-theory/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Similar Questions
   1. [Happy Number](../happy-number) (Easy)

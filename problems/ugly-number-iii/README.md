@@ -59,6 +59,7 @@
 ### Related Topics
   [[Math](../../tag/math/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Number Theory](../../tag/number-theory/README.md)]
 
 ### Hints
 <details>

@@ -53,6 +53,7 @@ The minimum score is 144.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints

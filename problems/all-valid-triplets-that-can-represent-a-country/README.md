@@ -12,3 +12,6 @@
 ## [1623. All Valid Triplets That Can Represent a Country (Easy)](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country "三人国家代表队")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

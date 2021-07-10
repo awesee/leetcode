@@ -39,6 +39,7 @@
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
   1. [Pow(x, n)](../powx-n) (Medium)

@@ -66,6 +66,7 @@ Note that the solution remains the same since 5 and 6 are in the same location a
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]

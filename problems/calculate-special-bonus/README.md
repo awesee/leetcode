@@ -9,6 +9,9 @@
 　　　　　　　　　　　　　　　　
 [Next >](../minimize-product-sum-of-two-arrays "Minimize Product Sum of Two Arrays")
 
-## [1873. Calculate Special Bonus (Easy)](https://leetcode.com/problems/calculate-special-bonus "")
+## [1873. Calculate Special Bonus (Easy)](https://leetcode.com/problems/calculate-special-bonus "计算特殊奖金")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

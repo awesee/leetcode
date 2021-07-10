@@ -58,7 +58,9 @@ Therefore, the array containing the result is [2,1,2,1].
 </ul>
 
 ### Related Topics
+  [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

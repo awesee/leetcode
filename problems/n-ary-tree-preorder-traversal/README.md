@@ -47,7 +47,9 @@
 <p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p>
 
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
   [[Tree](../../tag/tree/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
 
 ### Similar Questions
   1. [Binary Tree Preorder Traversal](../binary-tree-preorder-traversal) (Easy)

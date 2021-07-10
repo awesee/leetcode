@@ -37,7 +37,10 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Unique Binary Search Trees II](../unique-binary-search-trees-ii) (Medium)

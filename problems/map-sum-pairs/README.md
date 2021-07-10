@@ -48,4 +48,7 @@ mapSum.sum(&quot;ap&quot;);           // return 5 (<u>ap</u>ple + <u>ap</u>p = 3
 </ul>
 
 ### Related Topics
+  [[Design](../../tag/design/README.md)]
   [[Trie](../../tag/trie/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]

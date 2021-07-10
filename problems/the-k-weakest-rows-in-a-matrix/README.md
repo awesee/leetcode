@@ -77,6 +77,9 @@ The rows ordered from weakest to strongest are [0,2,3,1].
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

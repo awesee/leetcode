@@ -64,8 +64,11 @@ The maximum total value is 3 + 2 + 5 + 4 + 3 + 2 = 19.
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
-  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

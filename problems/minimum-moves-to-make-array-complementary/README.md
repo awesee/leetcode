@@ -58,7 +58,9 @@ Therefore, nums[i] + nums[n-1-i] = 4 for every i, so nums is complementary.
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Hints
 <details>

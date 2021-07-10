@@ -60,4 +60,6 @@
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]

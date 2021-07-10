@@ -47,7 +47,8 @@ There are no other valid combinations.
 <pre>
 <strong>Input:</strong> k = 4, n = 1
 <strong>Output:</strong> []
-<strong>Explanation:</strong> There are no valid combinations. [1,2,1] is not valid because 1 is used twice.
+<strong>Explanation:</strong> There are no valid combinations.
+Using 4 different numbers in the range [1,9], the smallest sum we can get is 1+2+3+4 = 10 and since 10 &gt; 1, there are no valid combination.
 </pre>
 
 <p><strong>Example 4:</strong></p>
@@ -65,7 +66,7 @@ There are no other valid combinations.
 <strong>Output:</strong> [[1,2,3,4,5,6,7,8,9]]
 <strong>Explanation:</strong>
 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = 45
-​​​​​​​There are no other valid combinations.
+There are no other valid combinations.
 </pre>
 
 <p>&nbsp;</p>

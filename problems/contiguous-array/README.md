@@ -39,7 +39,9 @@
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Similar Questions
   1. [Maximum Size Subarray Sum Equals k](../maximum-size-subarray-sum-equals-k) (Medium)

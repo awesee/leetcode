@@ -65,6 +65,7 @@ Note that the cargo must be shipped in the order given, so using a ship of capac
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
 

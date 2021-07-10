@@ -66,7 +66,9 @@ Number of Permutations of (1,2,3,4) = 24.
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Bitmask](../../tag/bitmask/README.md)]
 
 ### Hints
 <details>

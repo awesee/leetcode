@@ -39,6 +39,7 @@
 
 ### Related Topics
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
   1. [Word Pattern](../word-pattern) (Easy)

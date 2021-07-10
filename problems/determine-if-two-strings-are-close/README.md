@@ -77,7 +77,9 @@ Apply Operation 2: &quot;<u>baa</u>ccc&quot; -&gt; &quot;<u>abb</u>ccc&quot;
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

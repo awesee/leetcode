@@ -64,10 +64,11 @@
 <p>The input is two lists: the subroutines called and their arguments. <code>Solution</code>&#39;s constructor has two arguments, <code>n</code> and the blacklist <code>blacklist</code>. <code>pick</code> has no arguments. Arguments are always wrapped with a list, even if there aren&#39;t any.</p>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
-  [[Random](../../tag/random/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Randomized](../../tag/randomized/README.md)]
 
 ### Similar Questions
   1. [Random Pick Index](../random-pick-index) (Medium)

@@ -51,3 +51,6 @@
 <p><strong>Explanation:</strong></p>
 
 <p>Max and Jim both have&nbsp;the highest salary in the IT department and Henry has the highest salary in the Sales department.</p>
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

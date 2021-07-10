@@ -12,3 +12,6 @@
 ## [1783. Grand Slam Titles (Medium)](https://leetcode.com/problems/grand-slam-titles "大满贯数量")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

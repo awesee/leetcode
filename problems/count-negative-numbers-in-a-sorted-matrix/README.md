@@ -59,6 +59,7 @@
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Hints
 <details>

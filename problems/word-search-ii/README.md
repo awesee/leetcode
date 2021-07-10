@@ -46,7 +46,10 @@
 
 ### Related Topics
   [[Trie](../../tag/trie/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Similar Questions
   1. [Word Search](../word-search) (Medium)

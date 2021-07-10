@@ -53,6 +53,7 @@ This is an invalid order (P1,D2,P2,D1) because Pickup 2 is after of Delivery 2.
 ### Related Topics
   [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Combinatorics](../../tag/combinatorics/README.md)]
 
 ### Hints
 <details>

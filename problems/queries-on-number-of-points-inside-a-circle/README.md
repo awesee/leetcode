@@ -56,6 +56,8 @@ queries[0] is green, queries[1] is red, queries[2] is blue, and queries[3] is pu
 <p><strong>Follow up:</strong> Could you find the answer for each query in better complexity than <code>O(n)</code>?</p>
 
 ### Related Topics
+  [[Geometry](../../tag/geometry/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
 
 ### Hints

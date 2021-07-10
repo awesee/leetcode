@@ -73,7 +73,10 @@ Although we have two 1s in the input, we should only return the number of <stron
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Minimum Absolute Difference in BST](../minimum-absolute-difference-in-bst) (Easy)

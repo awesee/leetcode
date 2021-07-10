@@ -47,17 +47,25 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>&nbsp;<code>1 &lt;= nums.length, k &lt;= 10<sup>5</sup></code></li>
-	<li><code>-10<sup>4</sup>&nbsp;&lt;= nums[i]&nbsp;&lt;= 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= nums.length, k &lt;= 10<sup>5</sup></code></li>
+	<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+### Related Topics
+  [[Queue](../../tag/queue/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
+  [[Monotonic Queue](../../tag/monotonic-queue/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>
 <summary>Hint 1</summary>
-Let dp[i] be "the maximum score to reach the end starting at index i". The answer for dp[i] is nums[i] + min{dp[i+j]} for 1 <= j <= k. That gives an O(n*k) solution.
+Let dp[i] be "the maximum score to reach the end starting at index i". The answer for dp[i] is nums[i] + max{dp[i+j]} for 1 <= j <= k. That gives an O(n*k) solution.
 </details>
 
 <details>
 <summary>Hint 2</summary>
-Instead of checking every j for every i, keep track of the smallest dp[i] values in a heap and calculate dp[i] from right to left. When the smallest value in the heap is out of bounds of the current index, remove it and keep checking.
+Instead of checking every j for every i, keep track of the largest dp[i] values in a heap and calculate dp[i] from right to left. When the largest value in the heap is out of bounds of the current index, remove it and keep checking.
 </details>

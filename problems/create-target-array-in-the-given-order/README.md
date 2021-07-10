@@ -71,6 +71,7 @@ nums       index     target
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

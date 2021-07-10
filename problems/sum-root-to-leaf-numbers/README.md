@@ -58,7 +58,8 @@ Therefore, sum = 495 + 491 + 40 = <code>1026</code>.
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Path Sum](../path-sum) (Easy)

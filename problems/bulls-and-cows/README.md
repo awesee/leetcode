@@ -72,3 +72,5 @@ Note that only one of the two unmatched 1s is counted as a cow since the non-bul
 
 ### Related Topics
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Counting](../../tag/counting/README.md)]

@@ -7,7 +7,7 @@
 
 [< Previous](../process-tasks-using-servers "Process Tasks Using Servers")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../egg-drop-with-2-eggs-and-n-floors "Egg Drop With 2 Eggs and N Floors")
 
 ## [1883. Minimum Skips to Arrive at Meeting On Time (Hard)](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time "准时抵达会议现场的最小跳过休息次数")
 
@@ -69,6 +69,7 @@ You can skip the first and third rest to arrive in ((7/2 + <u>0</u>) + (3/2 + 0)
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints

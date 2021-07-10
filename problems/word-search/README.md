@@ -54,6 +54,7 @@
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Similar Questions
   1. [Word Search II](../word-search-ii) (Hard)

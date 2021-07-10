@@ -47,8 +47,10 @@
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Similar Questions
   1. [Search a 2D Matrix](../search-a-2d-matrix) (Medium)

@@ -48,8 +48,9 @@ There are two possible trees.  The first has non-leaf node sum 36, and the secon
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
-  [[Tree](../../tag/tree/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Hints
 <details>

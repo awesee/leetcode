@@ -44,12 +44,15 @@ Note the bottom corner is not colored 2, because it is not 4-directionally conne
 	<li><code>n == image[i].length</code></li>
 	<li><code>1 &lt;= m, n &lt;= 50</code></li>
 	<li><code>0 &lt;= image[i][j], newColor &lt; 2<sup>16</sup></code></li>
-	<li><code>0 &lt;= sr &lt;= m</code></li>
-	<li><code>0 &lt;= sc &lt;= n</code></li>
+	<li><code>0 &lt;= sr &lt;&nbsp;m</code></li>
+	<li><code>0 &lt;= sc &lt;&nbsp;n</code></li>
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Similar Questions
   1. [Island Perimeter](../island-perimeter) (Easy)

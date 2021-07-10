@@ -96,8 +96,11 @@ So the total number of trips is 2 + 2 + 2 + 2 + 3 + 3 = 14.
 
 ### Related Topics
   [[Segment Tree](../../tag/segment-tree/README.md)]
-  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Queue](../../tag/queue/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Monotonic Queue](../../tag/monotonic-queue/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

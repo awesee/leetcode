@@ -47,8 +47,9 @@
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
   1. [Valid Parentheses](../valid-parentheses) (Easy)

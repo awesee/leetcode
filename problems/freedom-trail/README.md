@@ -54,6 +54,7 @@ So the final output is 4.
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
-  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

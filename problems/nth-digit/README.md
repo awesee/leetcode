@@ -38,3 +38,4 @@
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]

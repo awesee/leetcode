@@ -59,7 +59,9 @@
 
 ### Related Topics
   [[Trie](../../tag/trie/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
   [[String](../../tag/string/README.md)]
+  [[String Matching](../../tag/string-matching/README.md)]
 
 ### Hints
 <details>

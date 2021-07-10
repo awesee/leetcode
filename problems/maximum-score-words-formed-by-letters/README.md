@@ -61,6 +61,11 @@ Letter &quot;e&quot; can only be used once.</pre>
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
+  [[Bitmask](../../tag/bitmask/README.md)]
 
 ### Hints
 <details>

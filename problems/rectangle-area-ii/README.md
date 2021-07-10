@@ -44,4 +44,6 @@
 
 ### Related Topics
   [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
   [[Line Sweep](../../tag/line-sweep/README.md)]

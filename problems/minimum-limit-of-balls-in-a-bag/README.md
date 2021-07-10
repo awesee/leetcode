@@ -68,7 +68,7 @@ The bag with the most number of balls has 2 balls, so your penalty is 2 an you s
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints

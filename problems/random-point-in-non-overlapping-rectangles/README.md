@@ -59,8 +59,12 @@
 </div>
 
 ### Related Topics
+  [[Reservoir Sampling](../../tag/reservoir-sampling/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
-  [[Random](../../tag/random/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
+  [[Randomized](../../tag/randomized/README.md)]
 
 ### Similar Questions
   1. [Random Pick with Weight](../random-pick-with-weight) (Medium)

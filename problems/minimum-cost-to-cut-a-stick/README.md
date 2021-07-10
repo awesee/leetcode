@@ -52,6 +52,7 @@ There are much ordering with total cost &lt;= 25, for example, the order [4, 6, 
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints

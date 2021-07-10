@@ -45,7 +45,8 @@
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
   1. [Encode String with Shortest Length](../encode-string-with-shortest-length) (Hard)

@@ -84,7 +84,8 @@ Total number of candies collected = 7 + 4 + 5 = 16 candy.
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

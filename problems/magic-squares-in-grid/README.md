@@ -62,3 +62,5 @@ In total, there is only one magic square inside the given grid.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]

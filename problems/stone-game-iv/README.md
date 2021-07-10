@@ -67,7 +67,9 @@ If Alice starts removing 1 stone, Bob will remove 4 stones then Alice only can r
 </ul>
 
 ### Related Topics
+  [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Game Theory](../../tag/game-theory/README.md)]
 
 ### Hints
 <details>

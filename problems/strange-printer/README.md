@@ -46,7 +46,7 @@
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions

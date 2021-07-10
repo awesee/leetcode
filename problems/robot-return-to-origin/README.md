@@ -58,6 +58,7 @@
 
 ### Related Topics
   [[String](../../tag/string/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Similar Questions
   1. [Number of Provinces](../number-of-provinces) (Medium)

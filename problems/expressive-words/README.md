@@ -43,4 +43,6 @@ We can&#39;t extend &quot;helo&quot; to get &quot;heeellooo&quot; because the gr
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
   [[String](../../tag/string/README.md)]

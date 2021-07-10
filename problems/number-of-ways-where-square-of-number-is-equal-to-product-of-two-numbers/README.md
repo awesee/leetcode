@@ -64,8 +64,10 @@ Type 2: (3,0,1).  nums2[3]^2 = nums1[0] * nums1[1].
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Hints
 <details>

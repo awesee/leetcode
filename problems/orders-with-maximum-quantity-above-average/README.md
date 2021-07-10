@@ -12,3 +12,6 @@
 ## [1867. Orders With Maximum Quantity Above Average (Medium)](https://leetcode.com/problems/orders-with-maximum-quantity-above-average "")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

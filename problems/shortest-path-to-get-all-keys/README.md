@@ -51,5 +51,5 @@
 </div>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]

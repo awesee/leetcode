@@ -12,3 +12,6 @@
 ## [1731. The Number of Employees Which Report to Each Employee (Easy)](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee "每位经理的下属员工数量")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

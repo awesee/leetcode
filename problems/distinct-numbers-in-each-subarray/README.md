@@ -9,14 +9,14 @@
 　　　　　　　　　　　　　　　　
 [Next >](../convert-date-format "Convert Date Format")
 
-## [1852. Distinct Numbers in Each Subarray (Medium)](https://leetcode.com/problems/distinct-numbers-in-each-subarray "")
+## [1852. Distinct Numbers in Each Subarray (Medium)](https://leetcode.com/problems/distinct-numbers-in-each-subarray "每个子数组的数字种类数")
 
 
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
-  [[Line Sweep](../../tag/line-sweep/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

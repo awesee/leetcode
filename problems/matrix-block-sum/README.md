@@ -45,7 +45,9 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Hints
 <details>

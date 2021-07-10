@@ -57,7 +57,11 @@ Islands in gray are closed because they are completely surrounded by water (grou
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Hints
 <details>

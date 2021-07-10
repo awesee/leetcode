@@ -50,4 +50,9 @@
 <strong>Follow up:</strong> Can you solve it in <code>O(n)</code> time complexity?
 
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]

@@ -12,3 +12,6 @@
 ## [1549. The Most Recent Orders for Each Product (Medium)](https://leetcode.com/problems/the-most-recent-orders-for-each-product "每件商品的最新订单")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

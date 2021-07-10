@@ -11,10 +11,13 @@
 
 ## [769. Max Chunks To Make Sorted (Medium)](https://leetcode.com/problems/max-chunks-to-make-sorted "最多能完成排序的块")
 
-<p>Given an array <code>arr</code> that is a permutation of <code>[0, 1, ..., arr.length - 1]</code>, we split the array into some number of &quot;chunks&quot; (partitions), and individually sort each chunk.&nbsp; After concatenating them,&nbsp;the result equals the sorted array.</p>
+<p>You are given an integer array <code>arr</code> of length <code>n</code> that represents a permutation of the integers in the range <code>[0, n - 1]</code>.</p>
 
-<p>What is the most number of chunks we could have made?</p>
+<p>We split <code>arr</code> into some number of <strong>chunks</strong> (i.e., partitions), and individually sort each chunk. After concatenating them, the result should equal the sorted array.</p>
 
+<p>Return <em>the largest number of chunks we can make to sort the array</em>.</p>
+
+<p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
 <pre>
@@ -35,17 +38,22 @@ We can split into two chunks, such as [1, 0], [2, 3, 4].
 However, splitting into [1, 0], [2], [3], [4] is the highest number of chunks possible.
 </pre>
 
-<p><strong>Note:</strong></p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>arr</code> will have length in range <code>[1, 10]</code>.</li>
-	<li><code>arr[i]</code> will be a permutation of <code>[0, 1, ..., arr.length - 1]</code>.</li>
+	<li><code>n == arr.length</code></li>
+	<li><code>1 &lt;= n &lt;= 10</code></li>
+	<li><code>0 &lt;= arr[i] &lt; n</code></li>
+	<li>All the elements of <code>arr</code> are <strong>unique</strong>.</li>
 </ul>
 
-<p>&nbsp;</p>
-
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Similar Questions
   1. [Max Chunks To Make Sorted II](../max-chunks-to-make-sorted-ii) (Hard)

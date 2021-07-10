@@ -62,7 +62,9 @@ Path to get the maximum gold, 1 -&gt; 2 -&gt; 3 -&gt; 4 -&gt; 5 -&gt; 6 -&gt; 7.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Hints
 <details>

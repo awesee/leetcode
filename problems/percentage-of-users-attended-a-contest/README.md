@@ -12,3 +12,6 @@
 ## [1633. Percentage of Users Attended a Contest (Easy)](https://leetcode.com/problems/percentage-of-users-attended-a-contest "各赛事的用户注册率")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

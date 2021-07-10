@@ -52,6 +52,7 @@
 ### Related Topics
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Counting](../../tag/counting/README.md)]
 
 ### Hints
 <details>

@@ -70,6 +70,7 @@ The difficulty of the schedule = 6 + 1 = 7
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints

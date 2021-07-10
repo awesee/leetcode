@@ -67,8 +67,9 @@ Finally, the backlog has (1000000000-3) sell orders with price 7, and (999999995
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

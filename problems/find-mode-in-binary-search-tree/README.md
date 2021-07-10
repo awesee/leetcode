@@ -51,6 +51,9 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Validate Binary Search Tree](../validate-binary-search-tree) (Medium)

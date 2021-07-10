@@ -66,6 +66,7 @@ AB -&gt; 28
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
   1. [Excel Sheet Column Title](../excel-sheet-column-title) (Easy)

@@ -65,7 +65,9 @@
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Interactive](../../tag/interactive/README.md)]
 
 ### Hints
 <details>

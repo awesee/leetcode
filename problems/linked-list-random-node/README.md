@@ -52,6 +52,9 @@ solution.getRandom(); // return 3
 
 ### Related Topics
   [[Reservoir Sampling](../../tag/reservoir-sampling/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Randomized](../../tag/randomized/README.md)]
 
 ### Similar Questions
   1. [Random Pick Index](../random-pick-index) (Medium)

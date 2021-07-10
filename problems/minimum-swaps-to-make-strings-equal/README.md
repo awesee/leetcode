@@ -58,6 +58,7 @@ Note that you can&#39;t swap s1[0] and s1[1] to make s1 equal to &quot;yx&quot;,
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
 
 ### Hints

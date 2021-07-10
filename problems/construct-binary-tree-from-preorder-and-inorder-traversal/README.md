@@ -43,8 +43,10 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Construct Binary Tree from Inorder and Postorder Traversal](../construct-binary-tree-from-inorder-and-postorder-traversal) (Medium)

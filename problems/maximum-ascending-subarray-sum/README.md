@@ -58,7 +58,7 @@
 </ul>
 
 ### Related Topics
-  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

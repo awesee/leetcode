@@ -52,6 +52,7 @@ Both numbers with value 2 are both considered as second maximum.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Kth Largest Element in an Array](../kth-largest-element-in-an-array) (Medium)

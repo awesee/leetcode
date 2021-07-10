@@ -9,67 +9,100 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1865 | [找出和为指定值的下标对](../../problems/finding-pairs-with-a-certain-sum) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Medium |
-| 1845 | [座位预约管理系统](../../problems/seat-reservation-manager) | [[堆](../heap/README.md)] [[设计](../design/README.md)]  | Medium |
-| 1825 | [求出 MK 平均值](../../problems/finding-mk-average) | [[堆](../heap/README.md)] [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Hard |
+| 1912 | [设计电影租借系统](../../problems/design-movie-rental-system) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
+| 1865 | [找出和为指定值的下标对](../../problems/finding-pairs-with-a-certain-sum) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1845 | [座位预约管理系统](../../problems/seat-reservation-manager) | [[设计](../design/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 1825 | [求出 MK 平均值](../../problems/finding-mk-average) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
+| 1804 | [实现 Trie （前缀树） II](../../problems/implement-trie-ii-prefix-tree) 🔒 | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1797 | [设计一个验证系统](../../problems/design-authentication-manager) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
-| 1756 | [设计最近使用（MRU）队列](../../problems/design-most-recently-used-queue) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Medium |
-| 1670 | [设计前中后队列](../../problems/design-front-middle-back-queue) | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Medium |
-| 1656 | [设计有序流](../../problems/design-an-ordered-stream) | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Easy |
-| 1628 | [设计带解析函数的表达式树](../../problems/design-an-expression-tree-with-evaluate-function) 🔒 | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
-| 1622 | [奇妙序列](../../problems/fancy-sequence) | [[设计](../design/README.md)] [[数学](../math/README.md)]  | Hard |
-| 1603 | [设计停车系统](../../problems/design-parking-system) | [[设计](../design/README.md)]  | Easy |
-| 1600 | [皇位继承顺序](../../problems/throne-inheritance) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
-| 1586 | [二叉搜索树迭代器 II](../../problems/binary-search-tree-iterator-ii) 🔒 | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
-| 1500 | [设计文件分享系统](../../problems/design-a-file-sharing-system) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Medium |
-| 1472 | [设计浏览器历史记录](../../problems/design-browser-history) | [[设计](../design/README.md)]  | Medium |
-| 1429 | [第一个唯一数字](../../problems/first-unique-number) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
-| 1396 | [设计地铁系统](../../problems/design-underground-system) | [[设计](../design/README.md)]  | Medium |
-| 1381 | [设计一个支持增量操作的栈](../../problems/design-a-stack-with-increment-operation) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Medium |
-| 1357 | [每隔 n 个顾客打折](../../problems/apply-discount-every-n-orders) | [[设计](../design/README.md)]  | Medium |
-| 1352 | [最后 K 个数的乘积](../../problems/product-of-the-last-k-numbers) | [[设计](../design/README.md)] [[数组](../array/README.md)]  | Medium |
-| 1348 | [推文计数](../../problems/tweet-counts-per-frequency) | [[设计](../design/README.md)]  | Medium |
-| 1286 | [字母组合迭代器](../../problems/iterator-for-combination) | [[设计](../design/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1244 | [力扣排行榜](../../problems/design-a-leaderboard) 🔒 | [[排序](../sort/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
-| 1206 | [设计跳表](../../problems/design-skiplist) | [[设计](../design/README.md)]  | Hard |
-| 1172 | [餐盘栈](../../problems/dinner-plate-stacks) | [[设计](../design/README.md)]  | Hard |
-| 1166 | [设计文件系统](../../problems/design-file-system) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
-| 716 | [最大栈](../../problems/max-stack) 🔒 | [[设计](../design/README.md)]  | Easy |
+| 1756 | [设计最近使用（MRU）队列](../../problems/design-most-recently-used-queue) 🔒 | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)]  | Medium |
+| 1670 | [设计前中后队列](../../problems/design-front-middle-back-queue) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)] [[数据流](../data-stream/README.md)]  | Medium |
+| 1656 | [设计有序流](../../problems/design-an-ordered-stream) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数据流](../data-stream/README.md)]  | Easy |
+| 1628 | [设计带解析函数的表达式树](../../problems/design-an-expression-tree-with-evaluate-function) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)] [[数学](../math/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 1622 | [奇妙序列](../../problems/fancy-sequence) | [[设计](../design/README.md)] [[线段树](../segment-tree/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1603 | [设计停车系统](../../problems/design-parking-system) | [[设计](../design/README.md)] [[计数](../counting/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 1600 | [皇位继承顺序](../../problems/throne-inheritance) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1586 | [二叉搜索树迭代器 II](../../problems/binary-search-tree-iterator-ii) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[二叉树](../binary-tree/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
+| 1570 | [两个稀疏向量的点积](../../problems/dot-product-of-two-sparse-vectors) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 1500 | [设计文件分享系统](../../problems/design-a-file-sharing-system) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[数据流](../data-stream/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 1483 | [树节点的第 K 个祖先](../../problems/kth-ancestor-of-a-tree-node) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[设计](../design/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1476 | [子矩形查询](../../problems/subrectangle-queries) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 1472 | [设计浏览器历史记录](../../problems/design-browser-history) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)] [[数据流](../data-stream/README.md)] [[双向链表](../doubly-linked-list/README.md)]  | Medium |
+| 1429 | [第一个唯一数字](../../problems/first-unique-number) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数据流](../data-stream/README.md)]  | Medium |
+| 1396 | [设计地铁系统](../../problems/design-underground-system) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1381 | [设计一个支持增量操作的栈](../../problems/design-a-stack-with-increment-operation) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1357 | [每隔 n 个顾客打折](../../problems/apply-discount-every-n-orders) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1352 | [最后 K 个数的乘积](../../problems/product-of-the-last-k-numbers) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[数据流](../data-stream/README.md)]  | Medium |
+| 1348 | [推文计数](../../problems/tweet-counts-per-frequency) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[有序集合](../ordered-set/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 1286 | [字母组合迭代器](../../problems/iterator-for-combination) | [[设计](../design/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
+| 1261 | [在受污染的二叉树中查找元素](../../problems/find-elements-in-a-contaminated-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[设计](../design/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 1244 | [力扣排行榜](../../problems/design-a-leaderboard) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 1206 | [设计跳表](../../problems/design-skiplist) | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Hard |
+| 1172 | [餐盘栈](../../problems/dinner-plate-stacks) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
+| 1166 | [设计文件系统](../../problems/design-file-system) 🔒 | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1157 | [子数组中占绝大多数的元素](../../problems/online-majority-element-in-subarray) | [[设计](../design/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 1146 | [快照数组](../../problems/snapshot-array) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1032 | [字符流](../../problems/stream-of-characters) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[数据流](../data-stream/README.md)]  | Hard |
+| 981 | [基于时间的键值存储](../../problems/time-based-key-value-store) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 933 | [最近的请求次数](../../problems/number-of-recent-calls) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数据流](../data-stream/README.md)]  | Easy |
+| 919 | [完全二叉树插入器](../../problems/complete-binary-tree-inserter) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[设计](../design/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 911 | [在线选举](../../problems/online-election) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 901 | [股票价格跨度](../../problems/online-stock-span) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[数据流](../data-stream/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 900 | [RLE 迭代器](../../problems/rle-iterator) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[计数](../counting/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
+| 895 | [最大频率栈](../../problems/maximum-frequency-stack) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)]  | Hard |
+| 855 | [考场就座](../../problems/exam-room) | [[设计](../design/README.md)] [[有序集合](../ordered-set/README.md)]  | Medium |
+| 745 | [前缀和后缀搜索](../../problems/prefix-and-suffix-search) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 732 | [我的日程安排表 III](../../problems/my-calendar-iii) | [[设计](../design/README.md)] [[线段树](../segment-tree/README.md)] [[有序集合](../ordered-set/README.md)]  | Hard |
+| 731 | [我的日程安排表 II](../../problems/my-calendar-ii) | [[设计](../design/README.md)] [[线段树](../segment-tree/README.md)] [[有序集合](../ordered-set/README.md)]  | Medium |
+| 729 | [我的日程安排表 I](../../problems/my-calendar-i) | [[设计](../design/README.md)] [[线段树](../segment-tree/README.md)] [[有序集合](../ordered-set/README.md)]  | Medium |
+| 716 | [最大栈](../../problems/max-stack) 🔒 | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[链表](../linked-list/README.md)] [[双向链表](../doubly-linked-list/README.md)] [[有序集合](../ordered-set/README.md)]  | Easy |
+| 715 | [Range 模块](../../problems/range-module) | [[设计](../design/README.md)] [[线段树](../segment-tree/README.md)] [[有序集合](../ordered-set/README.md)]  | Hard |
 | 707 | [设计链表](../../problems/design-linked-list) | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Medium |
-| 706 | [设计哈希映射](../../problems/design-hashmap) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
-| 705 | [设计哈希集合](../../problems/design-hashset) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
-| 703 | [数据流中的第 K 大元素](../../problems/kth-largest-element-in-a-stream) | [[堆](../heap/README.md)] [[设计](../design/README.md)]  | Easy |
-| 642 | [设计搜索自动补全系统](../../problems/design-search-autocomplete-system) 🔒 | [[设计](../design/README.md)] [[字典树](../trie/README.md)]  | Hard |
-| 641 | [设计循环双端队列](../../problems/design-circular-deque) | [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Medium |
-| 635 | [设计日志存储系统](../../problems/design-log-storage-system) 🔒 | [[设计](../design/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 631 | [设计 Excel 求和公式](../../problems/design-excel-sum-formula) 🔒 | [[设计](../design/README.md)]  | Hard |
-| 622 | [设计循环队列](../../problems/design-circular-queue) | [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Medium |
-| 604 | [迭代压缩字符串](../../problems/design-compressed-string-iterator) 🔒 | [[设计](../design/README.md)]  | Easy |
-| 588 | [设计内存文件系统](../../problems/design-in-memory-file-system) 🔒 | [[设计](../design/README.md)]  | Hard |
-| 460 | [LFU 缓存](../../problems/lfu-cache) | [[设计](../design/README.md)]  | Hard |
-| 432 | [全 O(1) 的数据结构](../../problems/all-oone-data-structure) | [[设计](../design/README.md)]  | Hard |
-| 381 | [O(1) 时间插入、删除和获取随机元素 - 允许重复](../../problems/insert-delete-getrandom-o1-duplicates-allowed) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
-| 380 | [O(1) 时间插入、删除和获取随机元素](../../problems/insert-delete-getrandom-o1) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
-| 379 | [电话目录管理系统](../../problems/design-phone-directory) 🔒 | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Medium |
-| 362 | [敲击计数器](../../problems/design-hit-counter) 🔒 | [[设计](../design/README.md)]  | Medium |
+| 706 | [设计哈希映射](../../problems/design-hashmap) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[哈希函数](../hash-function/README.md)]  | Easy |
+| 705 | [设计哈希集合](../../problems/design-hashset) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[哈希函数](../hash-function/README.md)]  | Easy |
+| 703 | [数据流中的第 K 大元素](../../problems/kth-largest-element-in-a-stream) | [[树](../tree/README.md)] [[设计](../design/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[二叉树](../binary-tree/README.md)] [[数据流](../data-stream/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Easy |
+| 677 | [键值映射](../../problems/map-sum-pairs) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 676 | [实现一个魔法字典](../../problems/implement-magic-dictionary) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 642 | [设计搜索自动补全系统](../../problems/design-search-autocomplete-system) 🔒 | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[字符串](../string/README.md)] [[数据流](../data-stream/README.md)]  | Hard |
+| 641 | [设计循环双端队列](../../problems/design-circular-deque) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 635 | [设计日志存储系统](../../problems/design-log-storage-system) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[有序集合](../ordered-set/README.md)]  | Medium |
+| 631 | [设计 Excel 求和公式](../../problems/design-excel-sum-formula) 🔒 | [[图](../graph/README.md)] [[设计](../design/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Hard |
+| 622 | [设计循环队列](../../problems/design-circular-queue) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 604 | [迭代压缩字符串](../../problems/design-compressed-string-iterator) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[迭代器](../iterator/README.md)]  | Easy |
+| 588 | [设计内存文件系统](../../problems/design-in-memory-file-system) 🔒 | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 535 | [TinyURL 的加密与解密](../../problems/encode-and-decode-tinyurl) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[哈希函数](../hash-function/README.md)]  | Medium |
+| 460 | [LFU 缓存](../../problems/lfu-cache) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双向链表](../doubly-linked-list/README.md)]  | Hard |
+| 449 | [序列化和反序列化二叉搜索树](../../problems/serialize-and-deserialize-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[设计](../design/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[字符串](../string/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 432 | [全 O(1) 的数据结构](../../problems/all-oone-data-structure) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双向链表](../doubly-linked-list/README.md)]  | Hard |
+| 431 | [将 N 叉树编码为二叉树](../../problems/encode-n-ary-tree-to-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[设计](../design/README.md)] [[二叉树](../binary-tree/README.md)]  | Hard |
+| 381 | [O(1) 时间插入、删除和获取随机元素 - 允许重复](../../problems/insert-delete-getrandom-o1-duplicates-allowed) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Hard |
+| 380 | [O(1) 时间插入、删除和获取随机元素](../../problems/insert-delete-getrandom-o1) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Medium |
+| 379 | [电话目录管理系统](../../problems/design-phone-directory) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 362 | [敲击计数器](../../problems/design-hit-counter) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 359 | [日志速率限制器](../../problems/logger-rate-limiter) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
-| 355 | [设计推特](../../problems/design-twitter) | [[堆](../heap/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
-| 353 | [贪吃蛇](../../problems/design-snake-game) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Medium |
-| 348 | [设计井字棋](../../problems/design-tic-tac-toe) 🔒 | [[设计](../design/README.md)]  | Medium |
-| 346 | [数据流中的移动平均值](../../problems/moving-average-from-data-stream) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Easy |
-| 341 | [扁平化嵌套列表迭代器](../../problems/flatten-nested-list-iterator) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Medium |
-| 297 | [二叉树的序列化与反序列化](../../problems/serialize-and-deserialize-binary-tree) | [[树](../tree/README.md)] [[设计](../design/README.md)]  | Hard |
-| 295 | [数据流的中位数](../../problems/find-median-from-data-stream) | [[堆](../heap/README.md)] [[设计](../design/README.md)]  | Hard |
-| 288 | [单词的唯一缩写](../../problems/unique-word-abbreviation) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
-| 284 | [顶端迭代器](../../problems/peeking-iterator) | [[设计](../design/README.md)]  | Medium |
-| 281 | [锯齿迭代器](../../problems/zigzag-iterator) 🔒 | [[设计](../design/README.md)]  | Medium |
-| 251 | [展开二维向量](../../problems/flatten-2d-vector) 🔒 | [[设计](../design/README.md)]  | Medium |
-| 244 | [最短单词距离 II](../../problems/shortest-word-distance-ii) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
-| 232 | [用栈实现队列](../../problems/implement-queue-using-stacks) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
-| 225 | [用队列实现栈](../../problems/implement-stack-using-queues) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
-| 211 | [添加与搜索单词 - 数据结构设计](../../problems/design-add-and-search-words-data-structure) | [[深度优先搜索](../depth-first-search/README.md)] [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 208 | [实现 Trie (前缀树)](../../problems/implement-trie-prefix-tree) | [[设计](../design/README.md)] [[字典树](../trie/README.md)]  | Medium |
-| 173 | [二叉搜索树迭代器](../../problems/binary-search-tree-iterator) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
-| 170 | [两数之和 III - 数据结构设计](../../problems/two-sum-iii-data-structure-design) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 355 | [设计推特](../../problems/design-twitter) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 353 | [贪吃蛇](../../problems/design-snake-game) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 352 | [将数据流变为多个不相交区间](../../problems/data-stream-as-disjoint-intervals) | [[设计](../design/README.md)] [[二分查找](../binary-search/README.md)] [[有序集合](../ordered-set/README.md)]  | Hard |
+| 348 | [设计井字棋](../../problems/design-tic-tac-toe) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 346 | [数据流中的移动平均值](../../problems/moving-average-from-data-stream) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[数据流](../data-stream/README.md)]  | Easy |
+| 341 | [扁平化嵌套列表迭代器](../../problems/flatten-nested-list-iterator) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[设计](../design/README.md)] [[队列](../queue/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
+| 308 | [二维区域和检索 - 可变](../../problems/range-sum-query-2d-mutable) 🔒 | [[设计](../design/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
+| 307 | [区域和检索 - 数组可修改](../../problems/range-sum-query-mutable) | [[设计](../design/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)]  | Medium |
+| 304 | [二维区域和检索 - 矩阵不可变](../../problems/range-sum-query-2d-immutable) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 303 | [区域和检索 - 数组不可变](../../problems/range-sum-query-immutable) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Easy |
+| 297 | [二叉树的序列化与反序列化](../../problems/serialize-and-deserialize-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[设计](../design/README.md)] [[字符串](../string/README.md)] [[二叉树](../binary-tree/README.md)]  | Hard |
+| 295 | [数据流的中位数](../../problems/find-median-from-data-stream) | [[设计](../design/README.md)] [[双指针](../two-pointers/README.md)] [[数据流](../data-stream/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
+| 288 | [单词的唯一缩写](../../problems/unique-word-abbreviation) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 284 | [顶端迭代器](../../problems/peeking-iterator) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
+| 281 | [锯齿迭代器](../../problems/zigzag-iterator) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
+| 271 | [字符串的编码与解码](../../problems/encode-and-decode-strings) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 251 | [展开二维向量](../../problems/flatten-2d-vector) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
+| 244 | [最短单词距离 II](../../problems/shortest-word-distance-ii) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 232 | [用栈实现队列](../../problems/implement-queue-using-stacks) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Easy |
+| 225 | [用队列实现栈](../../problems/implement-stack-using-queues) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Easy |
+| 211 | [添加与搜索单词 - 数据结构设计](../../problems/design-add-and-search-words-data-structure) | [[深度优先搜索](../depth-first-search/README.md)] [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 208 | [实现 Trie (前缀树)](../../problems/implement-trie-prefix-tree) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 173 | [二叉搜索树迭代器](../../problems/binary-search-tree-iterator) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[二叉树](../binary-tree/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
+| 170 | [两数之和 III - 数据结构设计](../../problems/two-sum-iii-data-structure-design) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[数据流](../data-stream/README.md)]  | Easy |
 | 155 | [最小栈](../../problems/min-stack) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
-| 146 | [LRU 缓存机制](../../problems/lru-cache) | [[设计](../design/README.md)]  | Medium |
+| 146 | [LRU 缓存机制](../../problems/lru-cache) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双向链表](../doubly-linked-list/README.md)]  | Medium |

@@ -57,4 +57,5 @@
 </ul>
 
 ### Related Topics
-  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Enumeration](../../tag/enumeration/README.md)]

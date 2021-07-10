@@ -59,8 +59,9 @@ Query = [2,5]: Room number 3 is the only room with a size of at least 5. The ans
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

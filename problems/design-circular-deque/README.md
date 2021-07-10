@@ -57,6 +57,8 @@ circularDeque.getFront();			// return 4
 ### Related Topics
   [[Design](../../tag/design/README.md)]
   [[Queue](../../tag/queue/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
 
 ### Similar Questions
   1. [Design Circular Queue](../design-circular-queue) (Medium)

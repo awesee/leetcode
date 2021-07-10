@@ -60,8 +60,9 @@ From the top-left corner, there are a total of 3 ways to reach the bottom-right 
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Combinatorics](../../tag/combinatorics/README.md)]
 
 ### Similar Questions
   1. [Unique Paths II](../unique-paths-ii) (Medium)

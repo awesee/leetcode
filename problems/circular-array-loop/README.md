@@ -75,4 +75,5 @@ Every nums[seq[j]] must be either all positive or all negative.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]

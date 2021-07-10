@@ -46,5 +46,8 @@ AddressId is the primary key column for this table.
 FirstName, LastName, City, State
 </pre>
 
+### Related Topics
+  [[Database](../../tag/database/README.md)]
+
 ### Similar Questions
   1. [Employee Bonus](../employee-bonus) (Easy)

@@ -68,7 +68,7 @@
 </ul>
 
 ### Related Topics
-  [[Math](../../tag/math/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints

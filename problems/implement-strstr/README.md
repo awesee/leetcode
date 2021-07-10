@@ -43,6 +43,7 @@
 ### Related Topics
   [[Two Pointers](../../tag/two-pointers/README.md)]
   [[String](../../tag/string/README.md)]
+  [[String Matching](../../tag/string-matching/README.md)]
 
 ### Similar Questions
   1. [Shortest Palindrome](../shortest-palindrome) (Hard)

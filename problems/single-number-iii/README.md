@@ -49,6 +49,7 @@
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
   1. [Single Number](../single-number) (Easy)

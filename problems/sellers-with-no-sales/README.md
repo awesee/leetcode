@@ -12,3 +12,6 @@
 ## [1607. Sellers With No Sales (Easy)](https://leetcode.com/problems/sellers-with-no-sales "没有卖出的卖家")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

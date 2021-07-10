@@ -59,6 +59,7 @@ Total number of squares = 6 + 1 = <b>7</b>.
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Hints
 <details>

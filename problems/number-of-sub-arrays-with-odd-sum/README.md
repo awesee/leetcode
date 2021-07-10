@@ -68,6 +68,8 @@ All sub-arrays have even sum and the answer is 0.
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Hints
 <details>

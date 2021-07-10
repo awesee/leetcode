@@ -55,6 +55,7 @@ twitter.getNewsFeed(1);  // User 1&#39;s news feed should return a list with 1 t
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
   [[Design](../../tag/design/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]

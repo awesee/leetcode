@@ -46,7 +46,10 @@ snapshotArr.get(0,0);  // Get the value of array[0] with snap_id = 0, return 5</
 </ul>
 
 ### Related Topics
+  [[Design](../../tag/design/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

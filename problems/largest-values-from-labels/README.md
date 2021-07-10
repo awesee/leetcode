@@ -76,7 +76,10 @@
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Counting](../../tag/counting/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

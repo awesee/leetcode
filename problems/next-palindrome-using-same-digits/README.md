@@ -9,12 +9,13 @@
 　　　　　　　　　　　　　　　　
 [Next >](../suspicious-bank-accounts "Suspicious Bank Accounts")
 
-## [1842. Next Palindrome Using Same Digits (Hard)](https://leetcode.com/problems/next-palindrome-using-same-digits "")
+## [1842. Next Palindrome Using Same Digits (Hard)](https://leetcode.com/problems/next-palindrome-using-same-digits "下个由相同数字构成的回文串")
 
 
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

@@ -45,8 +45,10 @@
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Longest Increasing Subsequence](../longest-increasing-subsequence) (Medium)

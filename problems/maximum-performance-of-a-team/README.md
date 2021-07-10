@@ -49,7 +49,7 @@ We have the maximum performance of the team by selecting engineer 2 (with speed=
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= &lt;= k &lt;= n &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= k &lt;= n &lt;= 10<sup>5</sup></code></li>
 	<li><code>speed.length == n</code></li>
 	<li><code>efficiency.length == n</code></li>
 	<li><code>1 &lt;= speed[i] &lt;= 10<sup>5</sup></code></li>
@@ -58,7 +58,9 @@ We have the maximum performance of the team by selecting engineer 2 (with speed=
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
-  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

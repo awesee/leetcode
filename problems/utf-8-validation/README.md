@@ -65,6 +65,7 @@ But the second continuation byte does not start with 10, so it is invalid.
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

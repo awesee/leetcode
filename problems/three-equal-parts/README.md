@@ -46,6 +46,5 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
-  [[Binary Search](../../tag/binary-search/README.md)]

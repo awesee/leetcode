@@ -12,3 +12,6 @@
 ## [1571. Warehouse Manager (Easy)](https://leetcode.com/problems/warehouse-manager "仓库经理")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

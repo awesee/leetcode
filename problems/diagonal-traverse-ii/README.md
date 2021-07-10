@@ -56,8 +56,9 @@ Given a list of lists of integers,&nbsp;<code>nums</code>,&nbsp;return all eleme
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

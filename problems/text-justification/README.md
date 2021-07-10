@@ -79,3 +79,4 @@ Note that the second line is also left-justified becase it contains only one wor
 
 ### Related Topics
   [[String](../../tag/string/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]

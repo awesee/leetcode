@@ -62,8 +62,10 @@ Number of valid subsequences (63 - 2 = 61).
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
-  [[Sliding Window](../../tag/sliding-window/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

@@ -63,8 +63,9 @@ The maximum height of stacked cuboids is 6 * 17 = 102.
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

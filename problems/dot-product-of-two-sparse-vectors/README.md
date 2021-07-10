@@ -14,6 +14,7 @@
 
 
 ### Related Topics
+  [[Design](../../tag/design/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]

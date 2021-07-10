@@ -36,9 +36,11 @@
 <strong>Follow-up:</strong> Could you solve the problem in linear time and in <code>O(1)</code> space?
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Counting](../../tag/counting/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Majority Element II](../majority-element-ii) (Medium)

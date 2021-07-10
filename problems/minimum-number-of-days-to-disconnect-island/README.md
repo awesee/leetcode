@@ -75,7 +75,11 @@ Change land grid[1][1] and grid[0][2] to water and get 2 disconnected island.
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+  [[Strongly Connected Component](../../tag/strongly-connected-component/README.md)]
 
 ### Hints
 <details>

@@ -52,6 +52,7 @@
 
 ### Related Topics
   [[String](../../tag/string/README.md)]
+  [[String Matching](../../tag/string-matching/README.md)]
 
 ### Hints
 <details>

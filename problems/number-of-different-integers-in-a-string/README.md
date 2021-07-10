@@ -53,6 +53,7 @@ the leading zeros are ignored when comparing their decimal values.
 </ul>
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
 
 ### Hints

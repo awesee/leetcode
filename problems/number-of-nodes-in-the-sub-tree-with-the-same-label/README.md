@@ -75,8 +75,9 @@ The sub-tree of node 0 contains nodes 0, 1, 2 and 3, all with label &#39;b&#39;,
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

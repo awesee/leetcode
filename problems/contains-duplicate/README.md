@@ -35,6 +35,7 @@
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Contains Duplicate II](../contains-duplicate-ii) (Easy)

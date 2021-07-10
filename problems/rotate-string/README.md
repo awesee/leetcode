@@ -30,3 +30,7 @@
 <ul>
 	<li><code>s</code> and <code>goal</code> will have length at most <code>100</code>.</li>
 </ul>
+
+### Related Topics
+  [[String](../../tag/string/README.md)]
+  [[String Matching](../../tag/string-matching/README.md)]

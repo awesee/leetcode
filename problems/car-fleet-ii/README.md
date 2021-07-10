@@ -48,7 +48,11 @@
 </ul>
 
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

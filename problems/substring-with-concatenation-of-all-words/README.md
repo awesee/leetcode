@@ -52,8 +52,8 @@ The output order does not matter, returning [9,0] is fine too.
 
 ### Related Topics
   [[Hash Table](../../tag/hash-table/README.md)]
-  [[Two Pointers](../../tag/two-pointers/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions
   1. [Minimum Window Substring](../minimum-window-substring) (Hard)

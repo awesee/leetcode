@@ -58,5 +58,7 @@ In total, this is 29523 integers that can be written using the digits array.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

@@ -66,6 +66,9 @@ bSTIterator.hasNext(); // return False
   [[Stack](../../tag/stack/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Design](../../tag/design/README.md)]
+  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
+  [[Iterator](../../tag/iterator/README.md)]
 
 ### Similar Questions
   1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Easy)

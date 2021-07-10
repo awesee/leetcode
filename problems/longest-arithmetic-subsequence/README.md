@@ -52,4 +52,7 @@ The longest arithmetic subsequence is [20,15,10,5].
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

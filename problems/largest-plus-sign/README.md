@@ -11,79 +11,41 @@
 
 ## [764. Largest Plus Sign (Medium)](https://leetcode.com/problems/largest-plus-sign "最大加号标志")
 
-<p>In a 2D <code>grid</code> from <code>(0, 0)</code> to <code>(n-1, n-1)</code>, every cell contains a <code>1</code>, except those cells in the given list <code>mines</code> which are <code>0</code>. What is the largest axis-aligned plus sign of <code>1</code>s contained in the grid? Return the order of the plus sign. If there is none, return <code>0</code>.</p>
+<p>You are given an integer <code>n</code>. You have an <code>n x n</code> binary grid <code>grid</code> with all values initially <code>1</code>&#39;s except for some indices given in the array <code>mines</code>. The <code>i<sup>th</sup></code> element of the array <code>mines</code> is defined as <code>mines[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> where <code>grid[x<sub>i</sub>][y<sub>i</sub>] == 0</code>.</p>
 
-<p>An &quot;<i>axis-aligned plus sign of <code>1</code>s</i> of order <code>k</code>&quot; has some center <code>grid[x][y] = 1</code> along with 4 arms of length <code>k-1</code> going up, down, left, and right, and made of <code>1</code>s. This is demonstrated in the diagrams below. Note that there could be <code>0</code>s or <code>1</code>s beyond the arms of the plus sign, only the relevant area of the plus sign is checked for <code>1</code>s.</p>
+<p>Return <em>the order of the largest <strong>axis-aligned</strong> plus sign of </em>1<em>&#39;s contained in </em><code>grid</code>. If there is none, return <code>0</code>.</p>
 
-<p><b>Examples of Axis-Aligned Plus Signs of Order </b>k<b>:</b></p>
-
-<pre>
-Order 1:
-000
-0<b>1</b>0
-000
-
-Order 2:
-00000
-00<b>1</b>00
-0<b>111</b>0
-00<b>1</b>00
-00000
-
-Order 3:
-0000000
-000<b>1</b>000
-000<b>1</b>000
-0<b>11111</b>0
-000<b>1</b>000
-000<b>1</b>000
-0000000
-</pre>
-
-<p><b>Example 1:</b></p>
-
-<pre>
-<b>Input:</b> n = 5, mines = [[4, 2]]
-<b>Output:</b> 2
-<b>Explanation:</b>
-11111
-11111
-1<b>1</b>111
-<b>111</b>11
-1<b>1</b>011
-In the above grid, the largest plus sign can only be order 2.  One of them is marked in bold.
-</pre>
-
-<p><b>Example 2:</b></p>
-
-<pre>
-<b>Input:</b> n = 2, mines = []
-<b>Output:</b> 1
-<b>Explanation:</b>
-There is no plus sign of order 2, but there is of order 1.
-</pre>
-
-<p><b>Example 3:</b></p>
-
-<pre>
-<b>Input:</b> n = 1, mines = [[0, 0]]
-<b>Output:</b> 0
-<b>Explanation:</b>
-There is no plus sign, so return 0.
-</pre>
-
-<p><b>Note:</b></p>
-
-<ol>
-	<li><code>n</code> will be an integer in the range <code>[1, 500]</code>.</li>
-	<li><code>mines</code> will have length at most <code>5000</code>.</li>
-	<li><code>mines[i]</code> will be length 2 and consist of integers in the range <code>[0, n-1]</code>.</li>
-	<li><i>(Additionally, programs submitted in C, C++, or C# will be judged with a slightly smaller time limit.)</i></li>
-</ol>
+<p>An <strong>axis-aligned plus sign</strong> of <code>1</code>&#39;s of order <code>k</code> has some center <code>grid[r][c] == 1</code> along with four arms of length <code>k - 1</code> going up, down, left, and right, and made of <code>1</code>&#39;s. Note that there could be <code>0</code>&#39;s or <code>1</code>&#39;s beyond the arms of the plus sign, only the relevant area of the plus sign is checked for <code>1</code>&#39;s.</p>
 
 <p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2021/06/13/plus1-grid.jpg" style="width: 404px; height: 405px;" />
+<pre>
+<strong>Input:</strong> n = 5, mines = [[4,2]]
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> In the above grid, the largest plus sign can only be of order 2. One of them is shown.
+</pre>
+
+<p><strong>Example 2:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2021/06/13/plus2-grid.jpg" style="width: 84px; height: 85px;" />
+<pre>
+<strong>Input:</strong> n = 1, mines = [[0,0]]
+<strong>Output:</strong> 0
+<strong>Explanation:</strong> There is no plus sign, so return 0.
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= n &lt;= 500</code></li>
+	<li><code>1 &lt;= mines.length &lt;= 5000</code></li>
+	<li><code>0 &lt;= x<sub>i</sub>, y<sub>i</sub> &lt; n</code></li>
+	<li>All the pairs <code>(x<sub>i</sub>, y<sub>i</sub>)</code> are <strong>unique</strong>.</li>
+</ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions

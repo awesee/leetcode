@@ -56,7 +56,6 @@ Note that &quot;cdc&quot; is also a longest uncommon subsequence.
 </ul>
 
 ### Related Topics
-  [[Brainteaser](../../tag/brainteaser/README.md)]
   [[String](../../tag/string/README.md)]
 
 ### Similar Questions

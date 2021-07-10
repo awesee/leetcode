@@ -63,6 +63,8 @@
 
 ### Related Topics
   [[Graph](../../tag/graph/README.md)]
+  [[Shortest Path](../../tag/shortest-path/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

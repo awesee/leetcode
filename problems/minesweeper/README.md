@@ -58,11 +58,13 @@
 	<li><code>1 &lt;= m, n &lt;= 50</code></li>
 	<li><code>board[i][j]</code> is either <code>&#39;M&#39;</code>, <code>&#39;E&#39;</code>, <code>&#39;B&#39;</code>, or a digit from <code>&#39;1&#39;</code> to <code>&#39;8&#39;</code>.</li>
 	<li><code>click.length == 2</code></li>
-	<li><code>0 &lt;= click<sub>r</sub> &lt;= m</code></li>
-	<li><code>0 &lt;= click<sub>c</sub> &lt;= n</code></li>
+	<li><code>0 &lt;= click<sub>r</sub> &lt; m</code></li>
+	<li><code>0 &lt;= click<sub>c</sub> &lt; n</code></li>
 	<li><code>board[click<sub>r</sub>][click<sub>c</sub>]</code> is either <code>&#39;M&#39;</code> or <code>&#39;E&#39;</code>.</li>
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]

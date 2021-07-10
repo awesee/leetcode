@@ -12,3 +12,6 @@
 ## [1543. Fix Product Name Format (Easy)](https://leetcode.com/problems/fix-product-name-format "产品名称格式修复")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

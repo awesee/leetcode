@@ -41,7 +41,11 @@
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [3Sum Smaller](../3sum-smaller) (Medium)

@@ -57,8 +57,9 @@ summaryRanges.getIntervals(); // return [[1, 3], [6, 7]]
 <p><strong>Follow up:</strong> What if there are lots of merges and the number of disjoint intervals is small compared to the size of the data stream?</p>
 
 ### Related Topics
+  [[Design](../../tag/design/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
-  [[Ordered Map](../../tag/ordered-map/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
 
 ### Similar Questions
   1. [Summary Ranges](../summary-ranges) (Easy)

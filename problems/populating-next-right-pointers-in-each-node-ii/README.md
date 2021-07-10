@@ -56,7 +56,9 @@ struct Node {
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Populating Next Right Pointers in Each Node](../populating-next-right-pointers-in-each-node) (Medium)

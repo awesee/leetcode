@@ -12,3 +12,6 @@
 ## [1843. Suspicious Bank Accounts (Medium)](https://leetcode.com/problems/suspicious-bank-accounts "")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

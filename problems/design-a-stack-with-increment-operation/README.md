@@ -61,6 +61,7 @@ customStack.pop();                            // return -1 --&gt; Stack is empty
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
   [[Design](../../tag/design/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

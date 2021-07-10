@@ -38,3 +38,6 @@ Id is the primary key column for this table.
 <p><strong>Note:</strong></p>
 
 <p>Your output is the whole <code>Person</code>&nbsp;table after executing your sql. Use <code>delete</code> statement.</p>
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

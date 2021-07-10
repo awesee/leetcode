@@ -55,8 +55,10 @@ magicDictionary.search(&quot;leetcoded&quot;); // return False
 </ul>
 
 ### Related Topics
+  [[Design](../../tag/design/README.md)]
   [[Trie](../../tag/trie/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
   1. [Implement Trie (Prefix Tree)](../implement-trie-prefix-tree) (Medium)

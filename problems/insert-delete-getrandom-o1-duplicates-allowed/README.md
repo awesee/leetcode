@@ -20,6 +20,8 @@
 	<li><code>int getRandom()</code> Returns a random element from the current multiset of elements (it&#39;s guaranteed that at least one element exists when this method is called). The probability of each element being returned is <strong>linearly related</strong> to the number of same values the multiset contains.</li>
 </ul>
 
+<p>You must implement the functions of the class such that each function works in&nbsp;<strong>average</strong>&nbsp;<code>O(1)</code>&nbsp;time complexity.</p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
@@ -45,17 +47,16 @@ randomizedCollection.getRandom(); // getRandom should return 1 and 2 both equall
 
 <ul>
 	<li><code>-2<sup>31</sup> &lt;= val &lt;= 2<sup>31</sup> - 1</code></li>
-	<li>At most <code>10<sup>5</sup></code> calls will be made to <code>insert</code>, <code>remove</code>, and <code>getRandom</code>.</li>
+	<li>At most <code>2 * 10<sup>5</sup></code>&nbsp; calls will be made to <code>insert</code>, <code>remove</code>, and <code>getRandom</code>.</li>
 	<li>There will be <strong>at least one</strong> element in the data structure when <code>getRandom</code> is called.</li>
 </ul>
-
-<p>&nbsp;</p>
-<strong>Follow up:</strong> Could you implement the functions of the class with each function works in <strong>average</strong> <code>O(1)</code> time?
 
 ### Related Topics
   [[Design](../../tag/design/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Randomized](../../tag/randomized/README.md)]
 
 ### Similar Questions
   1. [Insert Delete GetRandom O(1)](../insert-delete-getrandom-o1) (Medium)

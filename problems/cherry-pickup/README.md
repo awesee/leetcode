@@ -60,7 +60,9 @@ The total number of cherries picked up is 5, and this is the maximum possible.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Similar Questions
   1. [Minimum Path Sum](../minimum-path-sum) (Medium)

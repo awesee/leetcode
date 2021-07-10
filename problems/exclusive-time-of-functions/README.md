@@ -91,3 +91,4 @@ So function 0 spends 2 + 4 + 1 = 7 units of total time executing, and function 1
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[Array](../../tag/array/README.md)]

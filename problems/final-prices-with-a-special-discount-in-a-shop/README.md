@@ -52,7 +52,9 @@ For items 3 and 4 you will not receive any discount at all.
 </ul>
 
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Hints
 <details>

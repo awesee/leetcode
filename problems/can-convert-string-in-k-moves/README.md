@@ -61,7 +61,7 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
 
 ### Hints

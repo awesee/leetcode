@@ -42,6 +42,9 @@
 </ul>
 
 ### Related Topics
+  [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
+  [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions

@@ -69,8 +69,8 @@ Attend the third event on day 3.
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
-  [[Sort](../../tag/sort/README.md)]
-  [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

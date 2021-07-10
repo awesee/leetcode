@@ -47,9 +47,10 @@ solution.randPoint(); // return [0.36572, 0.17248]
 </ul>
 
 ### Related Topics
+  [[Geometry](../../tag/geometry/README.md)]
   [[Math](../../tag/math/README.md)]
-  [[Random](../../tag/random/README.md)]
   [[Rejection Sampling](../../tag/rejection-sampling/README.md)]
+  [[Randomized](../../tag/randomized/README.md)]
 
 ### Similar Questions
   1. [Random Point in Non-overlapping Rectangles](../random-point-in-non-overlapping-rectangles) (Medium)

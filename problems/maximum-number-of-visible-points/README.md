@@ -63,7 +63,10 @@
 
 ### Related Topics
   [[Geometry](../../tag/geometry/README.md)]
-  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

@@ -53,10 +53,10 @@ wordDictionary.search(&quot;b..&quot;); // return True
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Design](../../tag/design/README.md)]
   [[Trie](../../tag/trie/README.md)]
-  [[Backtracking](../../tag/backtracking/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
   1. [Implement Trie (Prefix Tree)](../implement-trie-prefix-tree) (Medium)

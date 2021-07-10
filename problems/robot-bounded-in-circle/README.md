@@ -56,6 +56,8 @@ When repeating these instructions, the robot remains in the circle of radius 2 c
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

@@ -12,3 +12,6 @@
 ## [1468. Calculate Salaries (Medium)](https://leetcode.com/problems/calculate-salaries "计算税后工资")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

@@ -50,3 +50,6 @@
 <p><b>Note:</b></p>
 
 <p>If the number of students is odd, there is no need to change the last one&#39;s seat.</p>
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

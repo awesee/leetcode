@@ -64,4 +64,5 @@
 
 ### Related Topics
   [[Union Find](../../tag/union-find/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]

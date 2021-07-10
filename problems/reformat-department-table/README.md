@@ -55,3 +55,6 @@ Result table:
 
 Note that the result table has 13 columns (1 for the department id + 12 for the months).
 </pre>
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

@@ -52,6 +52,7 @@ The maximum number is 9969.
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
   [[Math](../../tag/math/README.md)]
 
 ### Hints

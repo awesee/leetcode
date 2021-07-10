@@ -61,7 +61,11 @@ For the table 12: James, Ratesh and Amadeus order &quot;Fried Chicken&quot;.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

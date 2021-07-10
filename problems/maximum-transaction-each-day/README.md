@@ -9,6 +9,9 @@
 　　　　　　　　　　　　　　　　
 [Next >](../check-if-the-sentence-is-pangram "Check if the Sentence Is Pangram")
 
-## [1831. Maximum Transaction Each Day (Medium)](https://leetcode.com/problems/maximum-transaction-each-day "")
+## [1831. Maximum Transaction Each Day (Medium)](https://leetcode.com/problems/maximum-transaction-each-day "每天的最大交易")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

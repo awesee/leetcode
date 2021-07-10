@@ -12,3 +12,6 @@
 ## [1613. Find the Missing IDs (Medium)](https://leetcode.com/problems/find-the-missing-ids "找到遗失的ID")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

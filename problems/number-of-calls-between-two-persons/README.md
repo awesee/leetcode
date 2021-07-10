@@ -12,3 +12,6 @@
 ## [1699. Number of Calls Between Two Persons (Medium)](https://leetcode.com/problems/number-of-calls-between-two-persons "两人之间的通话次数")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

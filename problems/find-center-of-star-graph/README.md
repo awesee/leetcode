@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../maximum-average-pass-ratio "Maximum Average Pass Ratio")
 
-## [1791. Find Center of Star Graph (Medium)](https://leetcode.com/problems/find-center-of-star-graph "找出星型图的中心节点")
+## [1791. Find Center of Star Graph (Easy)](https://leetcode.com/problems/find-center-of-star-graph "找出星型图的中心节点")
 
 <p>There is an undirected <strong>star</strong> graph consisting of <code>n</code> nodes labeled from <code>1</code> to <code>n</code>. A star graph is a graph where there is one <strong>center</strong> node and <strong>exactly</strong> <code>n - 1</code> edges that connect the center node with every other node.</p>
 

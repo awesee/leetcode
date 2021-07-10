@@ -57,7 +57,8 @@
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

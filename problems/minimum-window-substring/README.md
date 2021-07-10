@@ -58,7 +58,6 @@ Since the largest window of s only has one &#39;a&#39;, return empty string.
 
 ### Related Topics
   [[Hash Table](../../tag/hash-table/README.md)]
-  [[Two Pointers](../../tag/two-pointers/README.md)]
   [[String](../../tag/string/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
 

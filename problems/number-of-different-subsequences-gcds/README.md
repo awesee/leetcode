@@ -53,7 +53,10 @@ The different GCDs are 6, 10, 3, 2, and 1.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Counting](../../tag/counting/README.md)]
+  [[Number Theory](../../tag/number-theory/README.md)]
 
 ### Hints
 <details>

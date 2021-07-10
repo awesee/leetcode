@@ -41,5 +41,7 @@
 </ul>
 
 ### Related Topics
-  [[Random](../../tag/random/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Rejection Sampling](../../tag/rejection-sampling/README.md)]
+  [[Probability and Statistics](../../tag/probability-and-statistics/README.md)]
+  [[Randomized](../../tag/randomized/README.md)]

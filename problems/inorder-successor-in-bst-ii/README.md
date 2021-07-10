@@ -11,70 +11,12 @@
 
 ## [510. Inorder Successor in BST II (Medium)](https://leetcode.com/problems/inorder-successor-in-bst-ii "二叉搜索树中的中序后继 II")
 
-<p>Given a binary search tree and a node in it, find the in-order successor of that node in the BST.</p>
 
-<p>The successor of a node <code>p</code> is the node with the smallest key greater than <code>p.val</code>.</p>
-
-<p>You will have direct access to the node but not to the root of the tree. Each node will have a reference to its parent node.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2019/01/23/285_example_1.PNG" style="width: 122px; height: 117px;" />
-<pre>
-<strong>Input: </strong>
-root = <span id="example-input-1-1">{&quot;$id&quot;:&quot;1&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;2&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;1&quot;},&quot;right&quot;:null,&quot;val&quot;:1},&quot;parent&quot;:null,&quot;right&quot;:{&quot;$id&quot;:&quot;3&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;1&quot;},&quot;right&quot;:null,&quot;val&quot;:3},&quot;val&quot;:2}</span>
-p = <span id="example-input-1-2">1</span>
-<strong>Output: </strong><span id="example-output-1">2</span>
-<strong>Explanation: </strong>1&#39;s in-order successor node is 2. Note that both p and the return value is of Node type.
-</pre>
-
-<p><strong>Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2019/01/23/285_example_2.PNG" style="width: 246px; height: 229px;" />
-<pre>
-<strong>Input: </strong>
-root = <span id="example-input-2-1">{&quot;$id&quot;:&quot;1&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;2&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;3&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;4&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;3&quot;},&quot;right&quot;:null,&quot;val&quot;:1},&quot;parent&quot;:{&quot;$ref&quot;:&quot;2&quot;},&quot;right&quot;:null,&quot;val&quot;:2},&quot;parent&quot;:{&quot;$ref&quot;:&quot;1&quot;},&quot;right&quot;:{&quot;$id&quot;:&quot;5&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;2&quot;},&quot;right&quot;:null,&quot;val&quot;:4},&quot;val&quot;:3},&quot;parent&quot;:null,&quot;right&quot;:{&quot;$id&quot;:&quot;6&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;1&quot;},&quot;right&quot;:null,&quot;val&quot;:6},&quot;val&quot;:5}</span>
-p = <span id="example-input-2-2">6</span>
-<strong>Output: </strong><span id="example-output-2">null</span>
-<strong>Explanation: </strong>There is no in-order successor of the current node, so the answer is <code>null</code>.
-</pre>
-
-<p><strong>Example 3:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2019/02/02/285_example_34.PNG" style="width: 438px; height: 335px;" />
-<pre>
-<strong>Input: </strong>
-root = <span id="example-input-2-1">{&quot;$id&quot;:&quot;1&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;2&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;3&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;4&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;3&quot;},&quot;right&quot;:null,&quot;val&quot;:2},&quot;parent&quot;:{&quot;$ref&quot;:&quot;2&quot;},&quot;right&quot;:{&quot;$id&quot;:&quot;5&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;3&quot;},&quot;right&quot;:null,&quot;val&quot;:4},&quot;val&quot;:3},&quot;parent&quot;:{&quot;$ref&quot;:&quot;1&quot;},&quot;right&quot;:{&quot;$id&quot;:&quot;6&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;2&quot;},&quot;right&quot;:{&quot;$id&quot;:&quot;7&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;8&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;7&quot;},&quot;right&quot;:null,&quot;val&quot;:9},&quot;parent&quot;:{&quot;$ref&quot;:&quot;6&quot;},&quot;right&quot;:null,&quot;val&quot;:13},&quot;val&quot;:7},&quot;val&quot;:6},&quot;parent&quot;:null,&quot;right&quot;:{&quot;$id&quot;:&quot;9&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;10&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;9&quot;},&quot;right&quot;:null,&quot;val&quot;:17},&quot;parent&quot;:{&quot;$ref&quot;:&quot;1&quot;},&quot;right&quot;:{&quot;$id&quot;:&quot;11&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;9&quot;},&quot;right&quot;:null,&quot;val&quot;:20},&quot;val&quot;:18},&quot;val&quot;:15}</span>
-p = <span id="example-input-2-2">15</span>
-<strong>Output: </strong><span id="example-output-2">17</span>
-</pre>
-
-<p><strong>Example 4:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2019/02/02/285_example_34.PNG" style="width: 438px; height: 335px;" />
-<pre>
-<strong>Input: </strong>
-root = <span id="example-input-2-1">{&quot;$id&quot;:&quot;1&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;2&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;3&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;4&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;3&quot;},&quot;right&quot;:null,&quot;val&quot;:2},&quot;parent&quot;:{&quot;$ref&quot;:&quot;2&quot;},&quot;right&quot;:{&quot;$id&quot;:&quot;5&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;3&quot;},&quot;right&quot;:null,&quot;val&quot;:4},&quot;val&quot;:3},&quot;parent&quot;:{&quot;$ref&quot;:&quot;1&quot;},&quot;right&quot;:{&quot;$id&quot;:&quot;6&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;2&quot;},&quot;right&quot;:{&quot;$id&quot;:&quot;7&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;8&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;7&quot;},&quot;right&quot;:null,&quot;val&quot;:9},&quot;parent&quot;:{&quot;$ref&quot;:&quot;6&quot;},&quot;right&quot;:null,&quot;val&quot;:13},&quot;val&quot;:7},&quot;val&quot;:6},&quot;parent&quot;:null,&quot;right&quot;:{&quot;$id&quot;:&quot;9&quot;,&quot;left&quot;:{&quot;$id&quot;:&quot;10&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;9&quot;},&quot;right&quot;:null,&quot;val&quot;:17},&quot;parent&quot;:{&quot;$ref&quot;:&quot;1&quot;},&quot;right&quot;:{&quot;$id&quot;:&quot;11&quot;,&quot;left&quot;:null,&quot;parent&quot;:{&quot;$ref&quot;:&quot;9&quot;},&quot;right&quot;:null,&quot;val&quot;:20},&quot;val&quot;:18},&quot;val&quot;:15}</span>
-p = <span id="example-input-2-2">13</span>
-<strong>Output: </strong><span id="example-output-2">15</span>
-</pre>
-
-<p>&nbsp;</p>
-
-<p><strong>Note:</strong></p>
-
-<ol>
-	<li>If the given node has no in-order successor in the tree, return <code>null</code>.</li>
-	<li>It&#39;s guaranteed that the values of the tree are unique.</li>
-	<li>Remember that we are using the <code>Node</code> type instead of <code>TreeNode</code> type so their string representation are different.</li>
-</ol>
-
-<p>&nbsp;</p>
-
-<p><strong>Follow up:</strong></p>
-
-<p>Could you solve&nbsp;it without&nbsp;looking up any of the&nbsp;node&#39;s values?</p>
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Inorder Successor in BST](../inorder-successor-in-bst) (Medium)

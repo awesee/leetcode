@@ -46,5 +46,8 @@ day 1
 	<li>Could you write it in one-line using <a href="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-4.html">Unix pipes</a>?</li>
 </ul>
 
+### Related Topics
+  [[Shell](../../tag/shell/README.md)]
+
 ### Similar Questions
   1. [Top K Frequent Elements](../top-k-frequent-elements) (Medium)

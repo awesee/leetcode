@@ -56,7 +56,6 @@ Notice that the answer must be a substring, &quot;pwke&quot; is a subsequence an
 
 ### Related Topics
   [[Hash Table](../../tag/hash-table/README.md)]
-  [[Two Pointers](../../tag/two-pointers/README.md)]
   [[String](../../tag/string/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
 

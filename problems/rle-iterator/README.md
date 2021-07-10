@@ -57,4 +57,7 @@ but the second term did not exist. Since the last term exhausted does not exist,
 </ul>
 
 ### Related Topics
+  [[Design](../../tag/design/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Counting](../../tag/counting/README.md)]
+  [[Iterator](../../tag/iterator/README.md)]

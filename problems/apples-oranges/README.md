@@ -12,3 +12,6 @@
 ## [1445. Apples & Oranges (Medium)](https://leetcode.com/problems/apples-oranges "苹果和桔子")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

@@ -27,3 +27,6 @@
 <ul>
 	<li><code>-10<sup>7</sup> &lt;= num &lt;= 10<sup>7</sup></code></li>
 </ul>
+
+### Related Topics
+  [[Math](../../tag/math/README.md)]

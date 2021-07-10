@@ -60,3 +60,6 @@
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[Counting](../../tag/counting/README.md)]
+  [[Enumeration](../../tag/enumeration/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]

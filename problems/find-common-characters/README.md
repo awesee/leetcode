@@ -48,6 +48,7 @@
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
   1. [Intersection of Two Arrays II](../intersection-of-two-arrays-ii) (Easy)

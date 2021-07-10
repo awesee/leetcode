@@ -12,3 +12,6 @@
 ## [1421. NPV Queries (Medium)](https://leetcode.com/problems/npv-queries "净现值查询")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

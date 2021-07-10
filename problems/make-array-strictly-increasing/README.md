@@ -52,6 +52,8 @@
 <p>&nbsp;</p>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints

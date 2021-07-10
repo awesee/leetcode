@@ -31,8 +31,10 @@
 </ul>
 
 ### Related Topics
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Similar Questions
   1. [Add Two Numbers](../add-two-numbers) (Medium)

@@ -49,6 +49,8 @@
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints

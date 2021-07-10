@@ -15,6 +15,8 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Hints
 <details>

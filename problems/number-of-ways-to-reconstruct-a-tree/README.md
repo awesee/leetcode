@@ -76,6 +76,7 @@
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
   [[Graph](../../tag/graph/README.md)]
+  [[Topological Sort](../../tag/topological-sort/README.md)]
 
 ### Hints
 <details>

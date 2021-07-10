@@ -65,7 +65,8 @@
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

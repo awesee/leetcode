@@ -54,4 +54,5 @@ or 7 -&gt; 6 -&gt; 3 -&gt; 2 -&gt; 1
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
-  [[Math](../../tag/math/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

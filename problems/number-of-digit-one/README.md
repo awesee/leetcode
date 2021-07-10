@@ -32,11 +32,13 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= n &lt;= 2 * 10<sup>9</sup></code></li>
+	<li><code>0 &lt;= n &lt;= 10<sup>9</sup></code></li>
 </ul>
 
 ### Related Topics
+  [[Recursion](../../tag/recursion/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Factorial Trailing Zeroes](../factorial-trailing-zeroes) (Easy)

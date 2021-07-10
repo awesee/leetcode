@@ -96,8 +96,9 @@ After flattening the multilevel linked list it becomes:
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
+  [[Doubly-Linked List](../../tag/doubly-linked-list/README.md)]
 
 ### Similar Questions
   1. [Flatten Binary Tree to Linked List](../flatten-binary-tree-to-linked-list) (Medium)

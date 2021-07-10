@@ -49,3 +49,5 @@ push(5), pop() -&gt; 5, pop() -&gt; 3, pop() -&gt; 2, pop() -&gt; 1
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]

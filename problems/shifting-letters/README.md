@@ -41,4 +41,5 @@ After shifting the first 3 letters of S by 9, we have &quot;rpl&quot;, the answe
 </ol>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]

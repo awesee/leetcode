@@ -63,8 +63,9 @@ It is impossible to go beyond building 4 because you do not have any more bricks
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
-  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

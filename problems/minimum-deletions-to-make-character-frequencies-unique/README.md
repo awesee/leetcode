@@ -53,7 +53,8 @@ Note that we only care about characters that are still in the string at the end 
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
-  [[Sort](../../tag/sort/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

@@ -52,7 +52,10 @@ myHashSet.contains(2); // return False, (already removed)</pre>
 
 ### Related Topics
   [[Design](../../tag/design/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
+  [[Hash Function](../../tag/hash-function/README.md)]
 
 ### Similar Questions
   1. [Design HashMap](../design-hashmap) (Easy)

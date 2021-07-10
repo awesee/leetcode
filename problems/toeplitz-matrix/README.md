@@ -56,6 +56,7 @@ The diagonal &quot;[1, 2]&quot; has different elements.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Similar Questions
   1. [Valid Word Square](../valid-word-square) (Easy)

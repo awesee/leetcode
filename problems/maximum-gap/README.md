@@ -36,9 +36,12 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Bucket Sort](../../tag/bucket-sort/README.md)]
+  [[Radix Sort](../../tag/radix-sort/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]

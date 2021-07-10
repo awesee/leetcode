@@ -46,8 +46,11 @@
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Ugly Number II](../ugly-number-ii) (Medium)

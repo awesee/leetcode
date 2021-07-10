@@ -49,9 +49,9 @@ In the second step, move from index 3 to index 5.
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
-  [[Line Sweep](../../tag/line-sweep/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Hints
 <details>

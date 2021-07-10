@@ -56,6 +56,7 @@ Step 4) 1 is odd; subtract 1 and obtain 0.
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

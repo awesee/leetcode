@@ -12,3 +12,6 @@
 ## [1459. Rectangles Area (Medium)](https://leetcode.com/problems/rectangles-area "矩形面积")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

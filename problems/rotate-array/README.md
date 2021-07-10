@@ -54,6 +54,8 @@ rotate 2 steps to the right: [3,99,-1,-100]
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
   1. [Rotate List](../rotate-list) (Medium)

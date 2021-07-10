@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../same-tree "Same Tree")
 
-## [99. Recover Binary Search Tree (Hard)](https://leetcode.com/problems/recover-binary-search-tree "恢复二叉搜索树")
+## [99. Recover Binary Search Tree (Medium)](https://leetcode.com/problems/recover-binary-search-tree "恢复二叉搜索树")
 
 <p>You are given the <code>root</code> of a binary search tree (BST), where exactly two nodes of the tree were swapped by mistake. <em>Recover the tree without changing its structure</em>.</p>
 
@@ -42,4 +42,6 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]

@@ -63,7 +63,8 @@
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
   [[Tree](../../tag/tree/README.md)]
-  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Validate Binary Search Tree](../validate-binary-search-tree) (Medium)

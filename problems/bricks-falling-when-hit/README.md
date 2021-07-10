@@ -80,3 +80,5 @@ Hence the result is [0,0].
 
 ### Related Topics
   [[Union Find](../../tag/union-find/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]

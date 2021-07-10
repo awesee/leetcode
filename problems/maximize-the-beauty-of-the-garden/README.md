@@ -9,12 +9,14 @@
 　　　　　　　　　　　　　　　　
 [Next >](../primary-department-for-each-employee "Primary Department for Each Employee")
 
-## [1788. Maximize the Beauty of the Garden (Hard)](https://leetcode.com/problems/maximize-the-beauty-of-the-garden "")
+## [1788. Maximize the Beauty of the Garden (Hard)](https://leetcode.com/problems/maximize-the-beauty-of-the-garden "最大化花园的美观度")
 
 
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Hints
 <details>

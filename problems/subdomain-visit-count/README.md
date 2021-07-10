@@ -50,4 +50,6 @@ We will visit &quot;google.mail.com&quot; 900 times, &quot;yahoo.com&quot; 50 ti
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]

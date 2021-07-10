@@ -39,6 +39,7 @@
 </ul>
 
 ### Related Topics
+  [[Geometry](../../tag/geometry/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Math](../../tag/math/README.md)]
 

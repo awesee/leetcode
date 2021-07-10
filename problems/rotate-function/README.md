@@ -21,6 +21,8 @@
 
 <p>Return <em>the maximum value of</em> <code>F(0), F(1), ..., F(n-1)</code>.</p>
 
+<p>The test cases are generated so that the answer fits in a <strong>32-bit</strong> integer.</p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
@@ -47,9 +49,10 @@ So the maximum value of F(0), F(1), F(2), F(3) is F(3) = 26.
 
 <ul>
 	<li><code>n == nums.length</code></li>
-	<li><code>1 &lt;= n &lt;= 3 * 10<sup>4</sup></code></li>
-	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
+	<li><code>-100 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

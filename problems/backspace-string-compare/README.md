@@ -62,3 +62,5 @@
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]

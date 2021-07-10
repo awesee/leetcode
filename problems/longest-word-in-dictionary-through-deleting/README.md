@@ -39,8 +39,10 @@
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Longest Word in Dictionary](../longest-word-in-dictionary) (Easy)

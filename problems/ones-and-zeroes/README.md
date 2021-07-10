@@ -47,6 +47,8 @@ Other valid but smaller subsets include {&quot;0001&quot;, &quot;1&quot;} and {&
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions

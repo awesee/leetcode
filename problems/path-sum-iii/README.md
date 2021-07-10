@@ -42,6 +42,8 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Path Sum](../path-sum) (Easy)

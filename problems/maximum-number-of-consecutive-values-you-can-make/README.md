@@ -61,6 +61,7 @@ You can make 8 consecutive integer values starting from 0.</pre>
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

@@ -59,4 +59,6 @@ The digit-logs have a relative order of &quot;dig1 8 1 5 1&quot;, &quot;dig2 3 6
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]

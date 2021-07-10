@@ -39,7 +39,11 @@
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Guess Number Higher or Lower](../guess-number-higher-or-lower) (Easy)

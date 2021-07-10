@@ -62,4 +62,4 @@
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]

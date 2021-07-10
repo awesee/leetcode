@@ -50,8 +50,8 @@ To take course 1 you should have finished course 0, and to take course 0 you sho
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Graph](../../tag/graph/README.md)]
   [[Topological Sort](../../tag/topological-sort/README.md)]
 

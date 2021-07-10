@@ -63,7 +63,8 @@ Number of water bottles you can&nbsp;drink: 15 + 3 + 1 = 19.
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

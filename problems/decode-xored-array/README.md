@@ -47,6 +47,7 @@
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

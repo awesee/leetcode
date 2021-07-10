@@ -56,3 +56,5 @@ The total minimum cost is 10 + 30 + 50 + 20 = 110 to have half the people interv
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]

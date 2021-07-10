@@ -56,8 +56,10 @@ numArray.sumRange(0, 2); // return 1 + 2 + 5 = 8
 </ul>
 
 ### Related Topics
+  [[Design](../../tag/design/README.md)]
   [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
   [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
   1. [Range Sum Query - Immutable](../range-sum-query-immutable) (Easy)

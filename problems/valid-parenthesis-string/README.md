@@ -42,7 +42,10 @@
 </ul>
 
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Special Binary String](../special-binary-string) (Hard)

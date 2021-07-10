@@ -47,8 +47,8 @@
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
-  [[Hash Table](../../tag/hash-table/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Two Sum](../two-sum) (Easy)

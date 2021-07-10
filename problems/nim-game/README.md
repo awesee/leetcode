@@ -58,7 +58,8 @@ In all outcomes, your friend wins.
 
 ### Related Topics
   [[Brainteaser](../../tag/brainteaser/README.md)]
-  [[Minimax](../../tag/minimax/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Game Theory](../../tag/game-theory/README.md)]
 
 ### Similar Questions
   1. [Flip Game II](../flip-game-ii) (Medium)

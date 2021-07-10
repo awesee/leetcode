@@ -55,7 +55,10 @@ numMatrix.sumRegion(1, 2, 2, 4); // return 12 (i.e sum of the blue rectangle)
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Similar Questions
   1. [Range Sum Query - Immutable](../range-sum-query-immutable) (Easy)

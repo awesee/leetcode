@@ -35,3 +35,6 @@ Explanation: 99 x 91 = 9009, 9009 % 1337 = 987
 <ul>
 	<li><code>1 &lt;= n &lt;= 8</code></li>
 </ul>
+
+### Related Topics
+  [[Math](../../tag/math/README.md)]

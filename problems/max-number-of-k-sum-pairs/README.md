@@ -47,7 +47,10 @@ There are no more pairs that sum up to 6, hence a total of 1 operation.</pre>
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

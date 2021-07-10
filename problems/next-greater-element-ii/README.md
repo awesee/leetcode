@@ -43,6 +43,8 @@ The second 1&#39;s next greater number needs to search circularly, which is also
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Similar Questions
   1. [Next Greater Element I](../next-greater-element-i) (Easy)

@@ -12,3 +12,6 @@
 ## [1841. League Statistics (Medium)](https://leetcode.com/problems/league-statistics "")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

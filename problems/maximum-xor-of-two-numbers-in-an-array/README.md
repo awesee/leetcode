@@ -60,3 +60,5 @@
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Trie](../../tag/trie/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]

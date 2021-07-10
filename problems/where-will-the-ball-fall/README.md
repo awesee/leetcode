@@ -66,7 +66,11 @@ Ball b4 is dropped at column 4 and will get stuck on the box between column 2 an
 </ul>
 
 ### Related Topics
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

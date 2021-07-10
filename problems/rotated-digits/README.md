@@ -33,4 +33,5 @@ Note that 1 and 10 are not good numbers, since they remain unchanged after rotat
 </ul>
 
 ### Related Topics
-  [[String](../../tag/string/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

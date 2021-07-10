@@ -65,6 +65,7 @@ In total, you spent $17 and covered all the days of your travel.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions

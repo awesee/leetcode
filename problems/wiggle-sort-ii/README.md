@@ -44,7 +44,10 @@
 <strong>Follow Up:</strong> Can you do it in <code>O(n)</code> time and/or <strong>in-place</strong> with <code>O(1)</code> extra space?
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Quickselect](../../tag/quickselect/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Sort Colors](../sort-colors) (Medium)

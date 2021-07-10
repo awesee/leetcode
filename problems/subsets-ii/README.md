@@ -32,6 +32,7 @@
 </ul>
 
 ### Related Topics
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
 

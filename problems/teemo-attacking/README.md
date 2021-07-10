@@ -50,6 +50,7 @@ Ashe is poisoned for seconds 1, 2, and 3, which is 3 seconds in total.</pre>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Similar Questions
   1. [Merge Intervals](../merge-intervals) (Medium)

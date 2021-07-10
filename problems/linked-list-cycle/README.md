@@ -55,6 +55,7 @@
 <p><strong>Follow up:</strong> Can you solve it using <code>O(1)</code> (i.e. constant) memory?</p>
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
 

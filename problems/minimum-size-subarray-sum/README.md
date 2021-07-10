@@ -50,8 +50,9 @@
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
-  [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions
   1. [Minimum Window Substring](../minimum-window-substring) (Hard)

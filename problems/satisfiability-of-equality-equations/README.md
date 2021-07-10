@@ -82,3 +82,5 @@
 ### Related Topics
   [[Union Find](../../tag/union-find/README.md)]
   [[Graph](../../tag/graph/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]

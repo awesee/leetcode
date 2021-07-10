@@ -41,8 +41,8 @@
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

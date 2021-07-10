@@ -47,5 +47,6 @@
 <p><strong>Follow Up:</strong> Could you solve it in-place?</p>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]

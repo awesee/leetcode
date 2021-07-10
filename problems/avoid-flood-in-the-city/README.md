@@ -93,8 +93,11 @@ After that, it will rain over lakes [1,2]. It&#39;s easy to prove that no matter
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

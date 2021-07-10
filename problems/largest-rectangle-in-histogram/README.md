@@ -41,6 +41,7 @@ The largest rectangle is shown in the red area, which has an area = 10 units.
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Similar Questions
   1. [Maximal Rectangle](../maximal-rectangle) (Hard)

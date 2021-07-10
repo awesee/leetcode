@@ -57,7 +57,8 @@ Note that square 2 only brushes the right side of square 1, which does not count
 
 ### Related Topics
   [[Segment Tree](../../tag/segment-tree/README.md)]
-  [[Ordered Map](../../tag/ordered-map/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
 
 ### Similar Questions
   1. [The Skyline Problem](../the-skyline-problem) (Hard)

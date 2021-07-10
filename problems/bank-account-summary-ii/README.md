@@ -12,3 +12,6 @@
 ## [1587. Bank Account Summary II (Easy)](https://leetcode.com/problems/bank-account-summary-ii "银行账户概要 II")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

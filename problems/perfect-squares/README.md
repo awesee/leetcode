@@ -40,7 +40,7 @@
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 

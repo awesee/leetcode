@@ -43,7 +43,10 @@ So the maximum possible sum is 4.</pre>
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Counting Sort](../../tag/counting-sort/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

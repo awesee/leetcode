@@ -44,8 +44,10 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Enumeration](../../tag/enumeration/README.md)]
+  [[Number Theory](../../tag/number-theory/README.md)]
 
 ### Similar Questions
   1. [Ugly Number](../ugly-number) (Easy)

@@ -56,3 +56,7 @@
 	<li>All the values of <code>coins</code> are <strong>unique</strong>.</li>
 	<li><code>0 &lt;= amount &lt;= 5000</code></li>
 </ul>
+
+### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

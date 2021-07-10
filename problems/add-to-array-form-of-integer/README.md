@@ -64,6 +64,7 @@
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
   1. [Add Two Numbers](../add-two-numbers) (Medium)

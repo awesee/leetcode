@@ -40,8 +40,8 @@
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
-  [[Graph](../../tag/graph/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
   1. [Couples Holding Hands](../couples-holding-hands) (Hard)

@@ -47,6 +47,7 @@ Since the researcher has 3 papers with at least 3 citations each and the remaini
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions

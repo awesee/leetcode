@@ -13,8 +13,6 @@
 
 <p>Given the <code>head</code> of a linked list, remove the <code>n<sup>th</sup></code> node from the end of the list and return its head.</p>
 
-<p><strong>Follow up:</strong>&nbsp;Could you do this in one pass?</p>
-
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/remove_ex1.jpg" style="width: 542px; height: 222px;" />
@@ -46,6 +44,9 @@
 	<li><code>0 &lt;= Node.val &lt;= 100</code></li>
 	<li><code>1 &lt;= n &lt;= sz</code></li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> Could you do this in one pass?</p>
 
 ### Related Topics
   [[Linked List](../../tag/linked-list/README.md)]

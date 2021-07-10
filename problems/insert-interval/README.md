@@ -64,7 +64,6 @@
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[Array](../../tag/array/README.md)]
 
 ### Similar Questions

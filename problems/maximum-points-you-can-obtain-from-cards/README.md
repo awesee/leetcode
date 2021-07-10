@@ -70,7 +70,7 @@
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints

@@ -52,8 +52,11 @@
 <strong>Follow up:</strong> Can you flatten the tree in-place (with <code>O(1)</code> extra space)?
 
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
   [[Tree](../../tag/tree/README.md)]
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Flatten a Multilevel Doubly Linked List](../flatten-a-multilevel-doubly-linked-list) (Medium)

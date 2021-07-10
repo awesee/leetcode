@@ -60,4 +60,6 @@ Note that strs[0] &gt; strs[1] - the array strs is not necessarily in lexicograp
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

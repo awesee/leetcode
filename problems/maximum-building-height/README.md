@@ -66,8 +66,8 @@ We can build the buildings with heights [0,1,2,3,3,4,4,5,4,3], and the tallest b
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
-  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

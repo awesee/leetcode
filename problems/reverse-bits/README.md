@@ -50,6 +50,7 @@
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
 
 ### Similar Questions
   1. [Reverse Integer](../reverse-integer) (Easy)

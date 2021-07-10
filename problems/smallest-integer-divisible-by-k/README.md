@@ -50,6 +50,7 @@
 </ul>
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Math](../../tag/math/README.md)]
 
 ### Hints

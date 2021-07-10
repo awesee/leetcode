@@ -12,3 +12,6 @@
 ## [1683. Invalid Tweets (Easy)](https://leetcode.com/problems/invalid-tweets "无效的推文")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

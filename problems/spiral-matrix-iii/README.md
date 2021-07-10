@@ -61,4 +61,6 @@
 </div>
 
 ### Related Topics
-  [[Math](../../tag/math/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]

@@ -42,7 +42,9 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
-  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Binary Tree Inorder Traversal](../binary-tree-inorder-traversal) (Easy)

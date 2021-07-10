@@ -46,6 +46,7 @@ Then 4 is the first bad version.
 
 ### Related Topics
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Interactive](../../tag/interactive/README.md)]
 
 ### Similar Questions
   1. [Find First and Last Position of Element in Sorted Array](../find-first-and-last-position-of-element-in-sorted-array) (Medium)

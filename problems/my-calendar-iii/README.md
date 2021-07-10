@@ -51,8 +51,9 @@ myCalendarThree.book(25, 55); // return 3
 </ul>
 
 ### Related Topics
+  [[Design](../../tag/design/README.md)]
   [[Segment Tree](../../tag/segment-tree/README.md)]
-  [[Ordered Map](../../tag/ordered-map/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
 
 ### Similar Questions
   1. [My Calendar I](../my-calendar-i) (Medium)

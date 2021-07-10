@@ -11,7 +11,7 @@
 
 ## [387. First Unique Character in a String (Easy)](https://leetcode.com/problems/first-unique-character-in-a-string "字符串中的第一个唯一字符")
 
-<p>Given a string <code>s</code>, return <em>the first non-repeating character in it and return its index</em>. If it does not exist, return <code>-1</code>.</p>
+<p>Given a string <code>s</code>, <em>find the first non-repeating character in it and return its index</em>. If it does not exist, return <code>-1</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -33,8 +33,10 @@
 </ul>
 
 ### Related Topics
+  [[Queue](../../tag/queue/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Counting](../../tag/counting/README.md)]
 
 ### Similar Questions
   1. [Sort Characters By Frequency](../sort-characters-by-frequency) (Medium)

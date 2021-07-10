@@ -61,7 +61,9 @@
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [First Missing Positive](../first-missing-positive) (Hard)

@@ -33,8 +33,9 @@
 <p><strong>Follow up:</strong> What if the inputs contain Unicode characters? How would you adapt your solution to such a case?</p>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Group Anagrams](../group-anagrams) (Medium)

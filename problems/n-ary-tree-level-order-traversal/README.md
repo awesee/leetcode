@@ -44,7 +44,7 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
 
 ### Similar Questions
   1. [Binary Tree Level Order Traversal](../binary-tree-level-order-traversal) (Medium)

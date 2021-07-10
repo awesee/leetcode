@@ -78,5 +78,7 @@ number of jumps.
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
-  [[Ordered Map](../../tag/ordered-map/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]

@@ -46,4 +46,7 @@ This continues for 3 more queries at time 15, 24, and 8.
 </div>
 
 ### Related Topics
+  [[Design](../../tag/design/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]

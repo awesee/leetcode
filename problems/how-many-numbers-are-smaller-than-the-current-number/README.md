@@ -54,6 +54,8 @@ For nums[4]=3 there exist three smaller numbers than it (1, 2 and 2).
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Counting](../../tag/counting/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

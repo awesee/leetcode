@@ -58,7 +58,9 @@ Flip nums[5],nums[6],nums[7]: nums becomes [1,1,1,1,1,1,1,1]
 </ol>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions

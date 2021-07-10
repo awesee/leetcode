@@ -52,6 +52,7 @@ The index of value 6 is 1, so we return 1.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

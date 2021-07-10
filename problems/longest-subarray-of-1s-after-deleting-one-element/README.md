@@ -62,7 +62,9 @@
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

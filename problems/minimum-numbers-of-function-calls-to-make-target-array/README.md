@@ -73,6 +73,7 @@ Total of operations: 2 + 1 = 3.
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

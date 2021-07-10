@@ -53,6 +53,7 @@
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Counting](../../tag/counting/README.md)]
 
 ### Hints
 <details>

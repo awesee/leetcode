@@ -9,217 +9,311 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1884 | [鸡蛋掉落-两枚鸡蛋](../../problems/egg-drop-with-2-eggs-and-n-floors) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 1878 | [矩阵中最大的三个菱形和](../../problems/get-biggest-three-rhombus-sums-in-a-grid) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1870 | [准时到达的列车最小时速](../../problems/minimum-speed-to-arrive-on-time) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
-| 1862 | [向下取整数对和](../../problems/sum-of-floored-pairs) | [[数学](../math/README.md)]  | Hard |
-| 1860 | [增长的内存泄露](../../problems/incremental-memory-leak) | [[数学](../math/README.md)]  | Medium |
-| 1837 | [K 进制表示下的各位数字总和](../../problems/sum-of-digits-in-base-k) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Easy |
-| 1835 | [所有数对按位与结果的异或和](../../problems/find-xor-sum-of-all-pairs-bitwise-and) | [[数学](../math/README.md)]  | Hard |
-| 1830 | [使字符串有序的最少操作次数](../../problems/minimum-number-of-operations-to-make-string-sorted) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
-| 1828 | [统计一个圆中点的数目](../../problems/queries-on-number-of-points-inside-a-circle) | [[数学](../math/README.md)]  | Medium |
-| 1822 | [数组元素积的符号](../../problems/sign-of-the-product-of-an-array) | [[数学](../math/README.md)]  | Easy |
-| 1819 | [序列中不同最大公约数的数目](../../problems/number-of-different-subsequences-gcds) | [[数学](../math/README.md)]  | Hard |
-| 1808 | [好因子的最大数目](../../problems/maximize-number-of-nice-divisors) | [[数学](../math/README.md)]  | Hard |
-| 1780 | [判断一个数字是否可以表示成三的幂的和](../../problems/check-if-number-is-a-sum-of-powers-of-three) | [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1776 | [车队 II](../../problems/car-fleet-ii) | [[数学](../math/README.md)]  | Hard |
+| 1922 | [统计好数字的数目](../../problems/count-good-numbers) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1916 | [统计为蚁群构筑房间的不同顺序](../../problems/count-ways-to-build-rooms-in-an-ant-colony) | [[树](../tree/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
+| 1908 | [Game of Nim](../../problems/game-of-nim) 🔒 | [[位运算](../bit-manipulation/README.md)] [[脑筋急转弯](../brainteaser/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 1904 | [你完成的完整对局数](../../problems/the-number-of-full-rounds-you-have-played) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1903 | [字符串中的最大奇数](../../problems/largest-odd-number-in-string) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1896 | [反转表达式值的最少操作次数](../../problems/minimum-cost-to-change-the-final-value-of-expression) | [[栈](../stack/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1884 | [鸡蛋掉落-两枚鸡蛋](../../problems/egg-drop-with-2-eggs-and-n-floors) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1878 | [矩阵中最大的三个菱形和](../../problems/get-biggest-three-rhombus-sums-in-a-grid) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)] [[前缀和](../prefix-sum/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 1872 | [石子游戏 VIII](../../problems/stone-game-viii) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
+| 1866 | [恰有 K 根木棍可以看到的排列数目](../../problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
+| 1862 | [向下取整数对和](../../problems/sum-of-floored-pairs) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
+| 1840 | [最高建筑高度](../../problems/maximum-building-height) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1837 | [K 进制表示下的各位数字总和](../../problems/sum-of-digits-in-base-k) | [[数学](../math/README.md)]  | Easy |
+| 1835 | [所有数对按位与结果的异或和](../../problems/find-xor-sum-of-all-pairs-bitwise-and) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1830 | [使字符串有序的最少操作次数](../../problems/minimum-number-of-operations-to-make-string-sorted) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
+| 1828 | [统计一个圆中点的数目](../../problems/queries-on-number-of-points-inside-a-circle) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1823 | [找出游戏的获胜者](../../problems/find-the-winner-of-the-circular-game) | [[递归](../recursion/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 1822 | [数组元素积的符号](../../problems/sign-of-the-product-of-an-array) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1819 | [序列中不同最大公约数的数目](../../problems/number-of-different-subsequences-gcds) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[数论](../number-theory/README.md)]  | Hard |
+| 1814 | [统计一个数组中好对子的数目](../../problems/count-nice-pairs-in-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)]  | Medium |
+| 1812 | [判断国际象棋棋盘中一个格子的颜色](../../problems/determine-color-of-a-chessboard-square) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1808 | [好因子的最大数目](../../problems/maximize-number-of-nice-divisors) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1806 | [还原排列的最少操作步数](../../problems/minimum-number-of-operations-to-reinitialize-a-permutation) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 1799 | [N 次操作后的最大分数和](../../problems/maximize-score-after-n-operations) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)] [[数论](../number-theory/README.md)]  | Hard |
+| 1780 | [判断一个数字是否可以表示成三的幂的和](../../problems/check-if-number-is-a-sum-of-powers-of-three) | [[数学](../math/README.md)]  | Medium |
+| 1776 | [车队 II](../../problems/car-fleet-ii) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[单调栈](../monotonic-stack/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
 | 1766 | [互质树](../../problems/tree-of-coprimes) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数学](../math/README.md)]  | Hard |
-| 1753 | [移除石子的最大得分](../../problems/maximum-score-from-removing-stones) | [[堆](../heap/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1744 | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](../../problems/can-you-eat-your-favorite-candy-on-your-favorite-day) | [[数学](../math/README.md)]  | Medium |
-| 1739 | [放置盒子](../../problems/building-boxes) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
-| 1735 | [生成乘积数组的方案数](../../problems/count-ways-to-make-array-with-product) | [[数学](../math/README.md)]  | Hard |
-| 1716 | [计算力扣银行的钱](../../problems/calculate-money-in-leetcode-bank) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Easy |
-| 1685 | [有序数组中差绝对值之和](../../problems/sum-of-absolute-differences-in-a-sorted-array) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1680 | [连接连续二进制数字](../../problems/concatenation-of-consecutive-binary-numbers) | [[数学](../math/README.md)]  | Medium |
-| 1648 | [销售价值减少的颜色球](../../problems/sell-diminishing-valued-colored-balls) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1641 | [统计字典序元音字符串的数目](../../problems/count-sorted-vowel-strings) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1627 | [带阈值的图连通性](../../problems/graph-connectivity-with-threshold) | [[并查集](../union-find/README.md)] [[数学](../math/README.md)]  | Hard |
-| 1622 | [奇妙序列](../../problems/fancy-sequence) | [[设计](../design/README.md)] [[数学](../math/README.md)]  | Hard |
-| 1590 | [使数组和能被 P 整除](../../problems/make-sum-divisible-by-p) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
-| 1577 | [数的平方等于两数乘积的方法数](../../problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1759 | [统计同构子字符串的数目](../../problems/count-number-of-homogenous-substrings) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1753 | [移除石子的最大得分](../../problems/maximum-score-from-removing-stones) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 1742 | [盒子中小球的最大数量](../../problems/maximum-number-of-balls-in-a-box) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)]  | Easy |
+| 1739 | [放置盒子](../../problems/building-boxes) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 1735 | [生成乘积数组的方案数](../../problems/count-ways-to-make-array-with-product) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1728 | [猫和老鼠 II](../../problems/cat-and-mouse-ii) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[记忆化搜索](../memoization/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Hard |
+| 1716 | [计算力扣银行的钱](../../problems/calculate-money-in-leetcode-bank) | [[数学](../math/README.md)]  | Easy |
+| 1690 | [石子游戏 VII](../../problems/stone-game-vii) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 1688 | [比赛中的配对次数](../../problems/count-of-matches-in-tournament) | [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 1686 | [石子游戏 VI](../../problems/stone-game-vi) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[博弈](../game-theory/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 1685 | [有序数组中差绝对值之和](../../problems/sum-of-absolute-differences-in-a-sorted-array) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 1680 | [连接连续二进制数字](../../problems/concatenation-of-consecutive-binary-numbers) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 1648 | [销售价值减少的颜色球](../../problems/sell-diminishing-valued-colored-balls) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 1643 | [第 K 条最小指令](../../problems/kth-smallest-instructions) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
+| 1634 | [求两个多项式链表的和](../../problems/add-two-polynomials-represented-as-linked-lists) 🔒 | [[链表](../linked-list/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 1628 | [设计带解析函数的表达式树](../../problems/design-an-expression-tree-with-evaluate-function) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)] [[数学](../math/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 1627 | [带阈值的图连通性](../../problems/graph-connectivity-with-threshold) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1622 | [奇妙序列](../../problems/fancy-sequence) | [[设计](../design/README.md)] [[线段树](../segment-tree/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1621 | [大小为 K 的不重叠线段的数目](../../problems/number-of-sets-of-k-non-overlapping-line-segments) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1610 | [可见点的最大数目](../../problems/maximum-number-of-visible-points) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Hard |
+| 1577 | [数的平方等于两数乘积的方法数](../../problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 1573 | [分割字符串的方案数](../../problems/number-of-ways-to-split-a-string) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1569 | [将子数组重新排序得到同一个二叉查找树的方案数](../../problems/number-of-ways-to-reorder-array-to-get-same-bst) | [[树](../tree/README.md)] [[并查集](../union-find/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[记忆化搜索](../memoization/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[分治](../divide-and-conquer/README.md)] [[动态规划](../dynamic-programming/README.md)] [[二叉树](../binary-tree/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
+| 1563 | [石子游戏 V](../../problems/stone-game-v) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Hard |
+| 1561 | [你可以获得的最大硬币数目](../../problems/maximum-number-of-coins-you-can-get) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[博弈](../game-theory/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1551 | [使数组中所有元素相等的最小操作数](../../problems/minimum-operations-to-make-array-equal) | [[数学](../math/README.md)]  | Medium |
-| 1524 | [和为奇数的子数组数目](../../problems/number-of-sub-arrays-with-odd-sum) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1538 | [找出隐藏数组中出现次数最多的元素](../../problems/guess-the-majority-in-a-hidden-array) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)] [[交互](../interactive/README.md)]  | Medium |
+| 1524 | [和为奇数的子数组数目](../../problems/number-of-sub-arrays-with-odd-sum) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1523 | [在区间范围内统计奇数数目](../../problems/count-odd-numbers-in-an-interval-range) | [[数学](../math/README.md)]  | Easy |
+| 1518 | [换酒问题](../../problems/water-bottles) | [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 1515 | [服务中心的最佳位置](../../problems/best-position-for-a-service-centre) | [[几何](../geometry/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Hard |
 | 1513 | [仅含 1 的子串数](../../problems/number-of-substrings-with-only-1s) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 1512 | [好数对的数目](../../problems/number-of-good-pairs) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |
-| 1497 | [检查数组对是否可以被 k 整除](../../problems/check-if-array-pairs-are-divisible-by-k) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1512 | [好数对的数目](../../problems/number-of-good-pairs) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)]  | Easy |
+| 1510 | [石子游戏 IV](../../problems/stone-game-iv) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Hard |
+| 1493 | [删掉一个元素以后全为 1 的最长子数组](../../problems/longest-subarray-of-1s-after-deleting-one-element) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
 | 1492 | [n 的第 k 个因子](../../problems/the-kth-factor-of-n) | [[数学](../math/README.md)]  | Medium |
-| 1478 | [安排邮筒](../../problems/allocate-mailboxes) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 1467 | [两个盒子中球的颜色数相同的概率](../../problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 1486 | [数组异或操作](../../problems/xor-operation-in-an-array) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1478 | [安排邮筒](../../problems/allocate-mailboxes) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[排序](../sorting/README.md)]  | Hard |
+| 1467 | [两个盒子中球的颜色数相同的概率](../../problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[组合数学](../combinatorics/README.md)] [[概率与统计](../probability-and-statistics/README.md)]  | Hard |
+| 1453 | [圆形靶内的最大飞镖数量](../../problems/maximum-number-of-darts-inside-of-a-circular-dartboard) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1447 | [最简分数](../../problems/simplified-fractions) | [[数学](../math/README.md)]  | Medium |
-| 1442 | [形成两个异或相等数组的三元组数目](../../problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1427 | [字符串的左右移](../../problems/perform-string-shifts) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
-| 1390 | [四因数](../../problems/four-divisors) | [[数学](../math/README.md)]  | Medium |
-| 1363 | [形成三的最大倍数](../../problems/largest-multiple-of-three) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1442 | [形成两个异或相等数组的三元组数目](../../problems/count-triplets-that-can-form-two-arrays-of-equal-xor) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 1432 | [改变一个整数能得到的最大差值](../../problems/max-difference-you-can-get-from-changing-an-integer) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1427 | [字符串的左右移](../../problems/perform-string-shifts) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1406 | [石子游戏 III](../../problems/stone-game-iii) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Hard |
+| 1401 | [圆和矩形是否有重叠](../../problems/circle-and-rectangle-overlapping) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1399 | [统计最大组的数目](../../problems/count-largest-group) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1390 | [四因数](../../problems/four-divisors) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1362 | [最接近的因数](../../problems/closest-divisors) | [[数学](../math/README.md)]  | Medium |
-| 1359 | [有效的快递序列数目](../../problems/count-all-valid-pickup-and-delivery-options) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1360 | [日期之间隔几天](../../problems/number-of-days-between-two-dates) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1359 | [有效的快递序列数目](../../problems/count-all-valid-pickup-and-delivery-options) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
+| 1352 | [最后 K 个数的乘积](../../problems/product-of-the-last-k-numbers) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[数据流](../data-stream/README.md)]  | Medium |
 | 1344 | [时钟指针的夹角](../../problems/angle-between-hands-of-a-clock) | [[数学](../math/README.md)]  | Medium |
-| 1330 | [翻转子数组得到最大的数组值](../../problems/reverse-subarray-to-maximize-array-value) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
-| 1323 | [6 和 9 组成的最大数字](../../problems/maximum-69-number) | [[数学](../math/README.md)]  | Easy |
+| 1342 | [将数字变成 0 的操作次数](../../problems/number-of-steps-to-reduce-a-number-to-zero) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1330 | [翻转子数组得到最大的数组值](../../problems/reverse-subarray-to-maximize-array-value) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1323 | [6 和 9 组成的最大数字](../../problems/maximum-69-number) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1317 | [将整数转换为两个无零整数的和](../../problems/convert-integer-to-the-sum-of-two-no-zero-integers) | [[数学](../math/README.md)]  | Easy |
-| 1307 | [口算难题](../../problems/verbal-arithmetic-puzzle) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 1307 | [口算难题](../../problems/verbal-arithmetic-puzzle) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 1304 | [和为零的N个唯一整数](../../problems/find-n-unique-integers-sum-up-to-zero) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1290 | [二进制链表转整数](../../problems/convert-binary-number-in-a-linked-list-to-integer) | [[链表](../linked-list/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1281 | [整数的各位积和之差](../../problems/subtract-the-product-and-sum-of-digits-of-an-integer) | [[数学](../math/README.md)]  | Easy |
-| 1276 | [不浪费原料的汉堡制作方案](../../problems/number-of-burgers-with-no-waste-of-ingredients) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1272 | [删除区间](../../problems/remove-interval) 🔒 | [[数学](../math/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
+| 1276 | [不浪费原料的汉堡制作方案](../../problems/number-of-burgers-with-no-waste-of-ingredients) | [[数学](../math/README.md)]  | Medium |
 | 1271 | [十六进制魔术数字](../../problems/hexspeak) 🔒 | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1266 | [访问所有点的最小时间](../../problems/minimum-time-visiting-all-points) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1259 | [不相交的握手](../../problems/handshakes-that-dont-cross) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 1256 | [加密数字](../../problems/encode-number) 🔒 | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1253 | [重构 2 行二进制矩阵](../../problems/reconstruct-a-2-row-binary-matrix) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1250 | [检查「好数组」](../../problems/check-if-it-is-a-good-array) | [[数学](../math/README.md)]  | Hard |
-| 1238 | [循环码排列](../../problems/circular-permutation-in-binary-representation) | [[数学](../math/README.md)]  | Medium |
-| 1237 | [找出给定方程的正整数解](../../problems/find-positive-integer-solution-for-a-given-equation) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1256 | [加密数字](../../problems/encode-number) 🔒 | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1252 | [奇数值单元格的数目](../../problems/cells-with-odd-values-in-a-matrix) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 1250 | [检查「好数组」](../../problems/check-if-it-is-a-good-array) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[数论](../number-theory/README.md)]  | Hard |
+| 1248 | [统计「优美子数组」](../../problems/count-number-of-nice-subarrays) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
+| 1247 | [交换字符使得字符串相同](../../problems/minimum-swaps-to-make-strings-equal) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1238 | [循环码排列](../../problems/circular-permutation-in-binary-representation) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 1237 | [找出给定方程的正整数解](../../problems/find-positive-integer-solution-for-a-given-equation) | [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[交互](../interactive/README.md)]  | Medium |
 | 1232 | [缀点成线](../../problems/check-if-it-is-a-straight-line) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
-| 1230 | [抛掷硬币](../../problems/toss-strange-coins) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 1228 | [等差数列中缺失的数字](../../problems/missing-number-in-arithmetic-progression) 🔒 | [[数学](../math/README.md)]  | Easy |
-| 1227 | [飞机座位分配概率](../../problems/airplane-seat-assignment-probability) | [[脑筋急转弯](../brainteaser/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 1218 | [最长定差子序列](../../problems/longest-arithmetic-subsequence-of-given-difference) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 1217 | [玩筹码](../../problems/minimum-cost-to-move-chips-to-the-same-position) | [[贪心算法](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
-| 1201 | [丑数 III](../../problems/ugly-number-iii) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
-| 1199 | [建造街区的最短时间](../../problems/minimum-time-to-build-blocks) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 1183 | [矩阵中 1 的最大数量](../../problems/maximum-number-of-ones) 🔒 | [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1230 | [抛掷硬币](../../problems/toss-strange-coins) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[概率与统计](../probability-and-statistics/README.md)]  | Medium |
+| 1228 | [等差数列中缺失的数字](../../problems/missing-number-in-arithmetic-progression) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1227 | [飞机座位分配概率](../../problems/airplane-seat-assignment-probability) | [[脑筋急转弯](../brainteaser/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[概率与统计](../probability-and-statistics/README.md)]  | Medium |
+| 1217 | [玩筹码](../../problems/minimum-cost-to-move-chips-to-the-same-position) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1201 | [丑数 III](../../problems/ugly-number-iii) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[数论](../number-theory/README.md)]  | Medium |
+| 1199 | [建造街区的最短时间](../../problems/minimum-time-to-build-blocks) 🔒 | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
+| 1185 | [一周中的第几天](../../problems/day-of-the-week) | [[数学](../math/README.md)]  | Easy |
 | 1180 | [统计只含单一字母的子串](../../problems/count-substrings-with-only-one-distinct-letter) 🔒 | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1175 | [质数排列](../../problems/prime-arrangements) | [[数学](../math/README.md)]  | Easy |
-| 1154 | [一年中的第几天](../../problems/day-of-the-year) | [[数学](../math/README.md)]  | Easy |
+| 1154 | [一年中的第几天](../../problems/day-of-the-year) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1140 | [石子游戏 II](../../problems/stone-game-ii) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 1137 | [第 N 个泰波那契数](../../problems/n-th-tribonacci-number) | [[记忆化搜索](../memoization/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 1134 | [阿姆斯特朗数](../../problems/armstrong-number) 🔒 | [[数学](../math/README.md)]  | Easy |
-| 1131 | [绝对值表达式的最大值](../../problems/maximum-of-absolute-value-expression) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1121 | [将数组分成几个递增序列](../../problems/divide-array-into-increasing-sequences) 🔒 | [[数学](../math/README.md)]  | Hard |
-| 1109 | [航班预订统计](../../problems/corporate-flight-bookings) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1104 | [二叉树寻路](../../problems/path-in-zigzag-labelled-binary-tree) | [[树](../tree/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1103 | [分糖果 II](../../problems/distribute-candies-to-people) | [[数学](../math/README.md)]  | Easy |
-| 1093 | [大样本统计](../../problems/statistics-from-a-large-sample) | [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
-| 1088 | [易混淆数 II](../../problems/confusing-number-ii) 🔒 | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 1073 | [负二进制数相加](../../problems/adding-two-negabinary-numbers) | [[数学](../math/README.md)]  | Medium |
+| 1131 | [绝对值表达式的最大值](../../problems/maximum-of-absolute-value-expression) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1118 | [一月有多少天](../../problems/number-of-days-in-a-month) 🔒 | [[数学](../math/README.md)]  | Easy |
+| 1104 | [二叉树寻路](../../problems/path-in-zigzag-labelled-binary-tree) | [[树](../tree/README.md)] [[数学](../math/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 1103 | [分糖果 II](../../problems/distribute-candies-to-people) | [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 1093 | [大样本统计](../../problems/statistics-from-a-large-sample) | [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)] [[概率与统计](../probability-and-statistics/README.md)]  | Medium |
+| 1088 | [易混淆数 II](../../problems/confusing-number-ii) 🔒 | [[数学](../math/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 1085 | [最小元素各数位之和](../../problems/sum-of-digits-in-the-minimum-number) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1073 | [负二进制数相加](../../problems/adding-two-negabinary-numbers) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1071 | [字符串的最大公因子](../../problems/greatest-common-divisor-of-strings) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1067 | [范围内的数字计数](../../problems/digit-count-in-range) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 1058 | [最小化舍入误差以满足目标](../../problems/minimize-rounding-error-to-meet-target) 🔒 | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1058 | [最小化舍入误差以满足目标](../../problems/minimize-rounding-error-to-meet-target) 🔒 | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1056 | [易混淆数](../../problems/confusing-number) 🔒 | [[数学](../math/README.md)]  | Easy |
-| 1041 | [困于环中的机器人](../../problems/robot-bounded-in-circle) | [[数学](../math/README.md)]  | Medium |
-| 1037 | [有效的回旋镖](../../problems/valid-boomerang) | [[数学](../math/README.md)]  | Easy |
-| 1025 | [除数博弈](../../problems/divisor-game) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 1041 | [困于环中的机器人](../../problems/robot-bounded-in-circle) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 1040 | [移动石子直到连续 II](../../problems/moving-stones-until-consecutive-ii) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 1037 | [有效的回旋镖](../../problems/valid-boomerang) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1033 | [移动石子直到连续](../../problems/moving-stones-until-consecutive) | [[脑筋急转弯](../brainteaser/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1030 | [距离顺序排列矩阵单元格](../../problems/matrix-cells-in-distance-order) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)] [[排序](../sorting/README.md)]  | Easy |
+| 1025 | [除数博弈](../../problems/divisor-game) | [[脑筋急转弯](../brainteaser/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Easy |
 | 1017 | [负二进制转换](../../problems/convert-to-base-2) | [[数学](../math/README.md)]  | Medium |
-| 1015 | [可被 K 整除的最小整数](../../problems/smallest-integer-divisible-by-k) | [[数学](../math/README.md)]  | Medium |
+| 1015 | [可被 K 整除的最小整数](../../problems/smallest-integer-divisible-by-k) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1012 | [至少有 1 位重复的数字](../../problems/numbers-with-repeated-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 1009 | [十进制整数的反码](../../problems/complement-of-base-10-integer) | [[数学](../math/README.md)]  | Easy |
-| 1006 | [笨阶乘](../../problems/clumsy-factorial) | [[数学](../math/README.md)]  | Medium |
-| 996 | [正方形数组的数目](../../problems/number-of-squareful-arrays) | [[图](../graph/README.md)] [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 991 | [坏了的计算器](../../problems/broken-calculator) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
-| 976 | [三角形的最大周长](../../problems/largest-perimeter-triangle) | [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Easy |
-| 972 | [相等的有理数](../../problems/equal-rational-numbers) | [[数学](../math/README.md)]  | Hard |
+| 1006 | [笨阶乘](../../problems/clumsy-factorial) | [[栈](../stack/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 996 | [正方形数组的数目](../../problems/number-of-squareful-arrays) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |
+| 991 | [坏了的计算器](../../problems/broken-calculator) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
+| 989 | [数组形式的整数加法](../../problems/add-to-array-form-of-integer) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 976 | [三角形的最大周长](../../problems/largest-perimeter-triangle) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Easy |
+| 973 | [最接近原点的 K 个点](../../problems/k-closest-points-to-origin) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[分治](../divide-and-conquer/README.md)] [[快速选择](../quickselect/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 972 | [相等的有理数](../../problems/equal-rational-numbers) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 970 | [强整数](../../problems/powerful-integers) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
 | 964 | [表示数字的最少运算符](../../problems/least-operators-to-express-number) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 963 | [最小面积矩形 II](../../problems/minimum-area-rectangle-ii) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
-| 952 | [按公因数计算最大组件大小](../../problems/largest-component-size-by-common-factor) | [[并查集](../union-find/README.md)] [[数学](../math/README.md)]  | Hard |
-| 949 | [给定数字能组成的最大时间](../../problems/largest-time-for-given-digits) | [[数学](../math/README.md)]  | Medium |
-| 942 | [增减字符串匹配](../../problems/di-string-match) | [[数学](../math/README.md)]  | Easy |
-| 927 | [三等分](../../problems/three-equal-parts) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
-| 914 | [卡牌分组](../../problems/x-of-a-kind-in-a-deck-of-cards) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
-| 910 | [最小差值 II](../../problems/smallest-range-ii) | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
-| 908 | [最小差值 I](../../problems/smallest-range-i) | [[数学](../math/README.md)]  | Easy |
-| 906 | [超级回文数](../../problems/super-palindromes) | [[数学](../math/README.md)]  | Hard |
-| 902 | [最大为 N 的数字组合](../../problems/numbers-at-most-n-given-digit-set) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 899 | [有序队列](../../problems/orderly-queue) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
-| 892 | [三维形体的表面积](../../problems/surface-area-of-3d-shapes) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Easy |
-| 891 | [子序列宽度之和](../../problems/sum-of-subsequence-widths) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 963 | [最小面积矩形 II](../../problems/minimum-area-rectangle-ii) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 957 | [N 天后的牢房](../../problems/prison-cells-after-n-days) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
+| 952 | [按公因数计算最大组件大小](../../problems/largest-component-size-by-common-factor) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 942 | [增减字符串匹配](../../problems/di-string-match) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 939 | [最小面积矩形](../../problems/minimum-area-rectangle) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 932 | [漂亮数组](../../problems/beautiful-array) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[分治](../divide-and-conquer/README.md)]  | Medium |
+| 927 | [三等分](../../problems/three-equal-parts) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 920 | [播放列表的数量](../../problems/number-of-music-playlists) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
+| 914 | [卡牌分组](../../problems/x-of-a-kind-in-a-deck-of-cards) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[数论](../number-theory/README.md)]  | Easy |
+| 913 | [猫和老鼠](../../problems/cat-and-mouse) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[记忆化搜索](../memoization/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Hard |
+| 910 | [最小差值 II](../../problems/smallest-range-ii) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 908 | [最小差值 I](../../problems/smallest-range-i) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 906 | [超级回文数](../../problems/super-palindromes) | [[数学](../math/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
+| 902 | [最大为 N 的数字组合](../../problems/numbers-at-most-n-given-digit-set) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 899 | [有序队列](../../problems/orderly-queue) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Hard |
+| 892 | [三维形体的表面积](../../problems/surface-area-of-3d-shapes) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)]  | Easy |
+| 891 | [子序列宽度之和](../../problems/sum-of-subsequence-widths) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Hard |
 | 887 | [鸡蛋掉落](../../problems/super-egg-drop) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 885 | [螺旋矩阵 III](../../problems/spiral-matrix-iii) | [[数学](../math/README.md)]  | Medium |
-| 883 | [三维形体投影面积](../../problems/projection-area-of-3d-shapes) | [[数学](../math/README.md)]  | Easy |
+| 883 | [三维形体投影面积](../../problems/projection-area-of-3d-shapes) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)]  | Easy |
 | 878 | [第 N 个神奇数字](../../problems/nth-magical-number) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
-| 877 | [石子游戏](../../problems/stone-game) | [[极小化极大](../minimax/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 869 | [重新排序得到 2 的幂](../../problems/reordered-power-of-2) | [[数学](../math/README.md)]  | Medium |
-| 868 | [二进制间距](../../problems/binary-gap) | [[数学](../math/README.md)]  | Easy |
+| 877 | [石子游戏](../../problems/stone-game) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 869 | [重新排序得到 2 的幂](../../problems/reordered-power-of-2) | [[数学](../math/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 868 | [二进制间距](../../problems/binary-gap) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Easy |
 | 866 | [回文素数](../../problems/prime-palindrome) | [[数学](../math/README.md)]  | Medium |
-| 858 | [镜面反射](../../problems/mirror-reflection) | [[数学](../math/README.md)]  | Medium |
-| 836 | [矩形重叠](../../problems/rectangle-overlap) | [[数学](../math/README.md)]  | Easy |
-| 829 | [连续整数求和](../../problems/consecutive-numbers-sum) | [[数学](../math/README.md)]  | Hard |
-| 812 | [最大三角形面积](../../problems/largest-triangle-area) | [[数学](../math/README.md)]  | Easy |
-| 810 | [黑板异或游戏](../../problems/chalkboard-xor-game) | [[数学](../math/README.md)]  | Hard |
-| 805 | [数组的均值分割](../../problems/split-array-with-same-average) | [[数学](../math/README.md)]  | Hard |
-| 800 | [相似 RGB 颜色](../../problems/similar-rgb-color) 🔒 | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
-| 794 | [有效的井字游戏](../../problems/valid-tic-tac-toe-state) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
-| 789 | [逃脱阻碍者](../../problems/escape-the-ghosts) | [[数学](../math/README.md)]  | Medium |
-| 782 | [变为棋盘](../../problems/transform-to-chessboard) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
-| 781 | [森林中的兔子](../../problems/rabbits-in-forest) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
+| 858 | [镜面反射](../../problems/mirror-reflection) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
+| 843 | [猜猜这个单词](../../problems/guess-the-word) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[博弈](../game-theory/README.md)] [[交互](../interactive/README.md)]  | Hard |
+| 840 | [矩阵中的幻方](../../problems/magic-squares-in-grid) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 837 | [新21点](../../problems/new-21-game) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[滑动窗口](../sliding-window/README.md)] [[概率与统计](../probability-and-statistics/README.md)]  | Medium |
+| 836 | [矩形重叠](../../problems/rectangle-overlap) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Easy |
+| 829 | [连续整数求和](../../problems/consecutive-numbers-sum) | [[数学](../math/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
+| 812 | [最大三角形面积](../../problems/largest-triangle-area) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 810 | [黑板异或游戏](../../problems/chalkboard-xor-game) | [[位运算](../bit-manipulation/README.md)] [[脑筋急转弯](../brainteaser/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[博弈](../game-theory/README.md)]  | Hard |
+| 808 | [分汤](../../problems/soup-servings) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[概率与统计](../probability-and-statistics/README.md)]  | Medium |
+| 805 | [数组的均值分割](../../problems/split-array-with-same-average) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |
+| 800 | [相似 RGB 颜色](../../problems/similar-rgb-color) 🔒 | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[枚举](../enumeration/README.md)]  | Easy |
+| 793 | [阶乘函数后 K 个零](../../problems/preimage-size-of-factorial-zeroes-function) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 789 | [逃脱阻碍者](../../problems/escape-the-ghosts) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 788 | [旋转数字](../../problems/rotated-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 782 | [变为棋盘](../../problems/transform-to-chessboard) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
+| 781 | [森林中的兔子](../../problems/rabbits-in-forest) | [[贪心](../greedy/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
 | 780 | [到达终点](../../problems/reaching-points) | [[数学](../math/README.md)]  | Hard |
+| 779 | [第K个语法符号](../../problems/k-th-symbol-in-grammar) | [[位运算](../bit-manipulation/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
 | 775 | [全局倒置与局部倒置](../../problems/global-and-local-inversions) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
-| 754 | [到达终点数字](../../problems/reach-a-number) | [[数学](../math/README.md)]  | Medium |
-| 753 | [破解保险箱](../../problems/cracking-the-safe) | [[深度优先搜索](../depth-first-search/README.md)] [[数学](../math/README.md)]  | Hard |
+| 772 | [基本计算器 III](../../problems/basic-calculator-iii) 🔒 | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 770 | [基本计算器 IV](../../problems/basic-calculator-iv) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 762 | [二进制表示中质数个计算置位](../../problems/prime-number-of-set-bits-in-binary-representation) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Easy |
+| 754 | [到达终点数字](../../problems/reach-a-number) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 750 | [角矩形的数量](../../problems/number-of-corner-rectangles) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 738 | [单调递增的数字](../../problems/monotone-increasing-digits) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
 | 728 | [自除数](../../problems/self-dividing-numbers) | [[数学](../math/README.md)]  | Easy |
-| 672 | [灯泡开关 Ⅱ](../../problems/bulb-switcher-ii) | [[数学](../math/README.md)]  | Medium |
-| 670 | [最大交换](../../problems/maximum-swap) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 710 | [黑名单中的随机数](../../problems/random-pick-with-blacklist) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)] [[随机化](../randomized/README.md)]  | Hard |
+| 679 | [24 点游戏](../../problems/24-game) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 672 | [灯泡开关 Ⅱ](../../problems/bulb-switcher-ii) | [[位运算](../bit-manipulation/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数学](../math/README.md)]  | Medium |
+| 670 | [最大交换](../../problems/maximum-swap) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
+| 667 | [优美的排列 II](../../problems/beautiful-arrangement-ii) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 660 | [移除 9](../../problems/remove-9) 🔒 | [[数学](../math/README.md)]  | Hard |
-| 651 | [4键键盘](../../problems/4-keys-keyboard) 🔒 | [[贪心算法](../greedy/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 645 | [错误的集合](../../problems/set-mismatch) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |
-| 640 | [求解方程](../../problems/solve-the-equation) | [[数学](../math/README.md)]  | Medium |
-| 634 | [寻找数组的错位排列](../../problems/find-the-derangement-of-an-array) 🔒 | [[数学](../math/README.md)]  | Medium |
-| 633 | [平方数之和](../../problems/sum-of-square-numbers) | [[数学](../math/README.md)]  | Medium |
-| 628 | [三个数的最大乘积](../../problems/maximum-product-of-three-numbers) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
-| 625 | [最小因式分解](../../problems/minimum-factorization) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
-| 598 | [范围求和 II](../../problems/range-addition-ii) | [[数学](../math/README.md)]  | Easy |
-| 593 | [有效的正方形](../../problems/valid-square) | [[数学](../math/README.md)]  | Medium |
-| 592 | [分数加减运算](../../problems/fraction-addition-and-subtraction) | [[数学](../math/README.md)]  | Medium |
-| 573 | [松鼠模拟](../../problems/squirrel-simulation) 🔒 | [[数学](../math/README.md)]  | Medium |
-| 553 | [最优除法](../../problems/optimal-division) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 537 | [复数乘法](../../problems/complex-number-multiplication) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 535 | [TinyURL 的加密与解密](../../problems/encode-and-decode-tinyurl) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
-| 523 | [连续的子数组和](../../problems/continuous-subarray-sum) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 517 | [超级洗衣机](../../problems/super-washing-machines) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 651 | [4键键盘](../../problems/4-keys-keyboard) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 650 | [只有两个键的键盘](../../problems/2-keys-keyboard) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 640 | [求解方程](../../problems/solve-the-equation) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 634 | [寻找数组的错位排列](../../problems/find-the-derangement-of-an-array) 🔒 | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 633 | [平方数之和](../../problems/sum-of-square-numbers) | [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 628 | [三个数的最大乘积](../../problems/maximum-product-of-three-numbers) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Easy |
+| 625 | [最小因式分解](../../problems/minimum-factorization) 🔒 | [[贪心](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
+| 598 | [范围求和 II](../../problems/range-addition-ii) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 593 | [有效的正方形](../../problems/valid-square) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
+| 592 | [分数加减运算](../../problems/fraction-addition-and-subtraction) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 587 | [安装栅栏](../../problems/erect-the-fence) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 573 | [松鼠模拟](../../problems/squirrel-simulation) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 564 | [寻找最近的回文数](../../problems/find-the-closest-palindrome) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 556 | [下一个更大元素 III](../../problems/next-greater-element-iii) | [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 553 | [最优除法](../../problems/optimal-division) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 539 | [最小时间差](../../problems/minimum-time-difference) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 537 | [复数乘法](../../problems/complex-number-multiplication) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 528 | [按权重随机选择](../../problems/random-pick-with-weight) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[随机化](../randomized/README.md)]  | Medium |
+| 523 | [连续的子数组和](../../problems/continuous-subarray-sum) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 519 | [随机翻转矩阵](../../problems/random-flip-matrix) | [[水塘抽样](../reservoir-sampling/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Medium |
+| 509 | [斐波那契数](../../problems/fibonacci-number) | [[递归](../recursion/README.md)] [[记忆化搜索](../memoization/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 507 | [完美数](../../problems/perfect-number) | [[数学](../math/README.md)]  | Easy |
+| 504 | [七进制数](../../problems/base-7) | [[数学](../math/README.md)]  | Easy |
+| 497 | [非重叠矩形中的随机点](../../problems/random-point-in-non-overlapping-rectangles) | [[水塘抽样](../reservoir-sampling/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[有序集合](../ordered-set/README.md)] [[前缀和](../prefix-sum/README.md)] [[随机化](../randomized/README.md)]  | Medium |
 | 492 | [构造矩形](../../problems/construct-the-rectangle) | [[数学](../math/README.md)]  | Easy |
+| 486 | [预测赢家](../../problems/predict-the-winner) | [[递归](../recursion/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
 | 483 | [最小好进制](../../problems/smallest-good-base) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
-| 478 | [在圆内随机生成点](../../problems/generate-random-point-in-a-circle) | [[数学](../math/README.md)] [[Random](../random/README.md)] [[Rejection Sampling](../rejection-sampling/README.md)]  | Medium |
-| 469 | [凸多边形](../../problems/convex-polygon) 🔒 | [[数学](../math/README.md)]  | Medium |
-| 462 | [最少移动次数使数组元素相等 II](../../problems/minimum-moves-to-equal-array-elements-ii) | [[数学](../math/README.md)]  | Medium |
-| 458 | [可怜的小猪](../../problems/poor-pigs) | [[数学](../math/README.md)]  | Hard |
-| 453 | [最小操作次数使数组元素相等](../../problems/minimum-moves-to-equal-array-elements) | [[数学](../math/README.md)]  | Easy |
-| 447 | [回旋镖的数量](../../problems/number-of-boomerangs) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
+| 479 | [最大回文数乘积](../../problems/largest-palindrome-product) | [[数学](../math/README.md)]  | Hard |
+| 478 | [在圆内随机生成点](../../problems/generate-random-point-in-a-circle) | [[几何](../geometry/README.md)] [[数学](../math/README.md)] [[拒绝采样](../rejection-sampling/README.md)] [[随机化](../randomized/README.md)]  | Medium |
+| 477 | [汉明距离总和](../../problems/total-hamming-distance) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 470 | [用 Rand7() 实现 Rand10()](../../problems/implement-rand10-using-rand7) | [[数学](../math/README.md)] [[拒绝采样](../rejection-sampling/README.md)] [[概率与统计](../probability-and-statistics/README.md)] [[随机化](../randomized/README.md)]  | Medium |
+| 469 | [凸多边形](../../problems/convex-polygon) 🔒 | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
+| 464 | [我能赢吗](../../problems/can-i-win) | [[位运算](../bit-manipulation/README.md)] [[记忆化搜索](../memoization/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 462 | [最少移动次数使数组元素相等 II](../../problems/minimum-moves-to-equal-array-elements-ii) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 458 | [可怜的小猪](../../problems/poor-pigs) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
+| 453 | [最小操作次数使数组元素相等](../../problems/minimum-moves-to-equal-array-elements) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 447 | [回旋镖的数量](../../problems/number-of-boomerangs) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
+| 445 | [两数相加 II](../../problems/add-two-numbers-ii) | [[栈](../stack/README.md)] [[链表](../linked-list/README.md)] [[数学](../math/README.md)]  | Medium |
 | 441 | [排列硬币](../../problems/arranging-coins) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
-| 423 | [从英文中重建数字](../../problems/reconstruct-original-digits-from-english) | [[数学](../math/README.md)]  | Medium |
-| 413 | [等差数列划分](../../problems/arithmetic-slices) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 400 | [第 N 位数字](../../problems/nth-digit) | [[数学](../math/README.md)]  | Medium |
-| 397 | [整数替换](../../problems/integer-replacement) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Medium |
-| 396 | [旋转函数](../../problems/rotate-function) | [[数学](../math/README.md)]  | Medium |
-| 372 | [超级次方](../../problems/super-pow) | [[数学](../math/README.md)]  | Medium |
-| 368 | [最大整除子集](../../problems/largest-divisible-subset) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 423 | [从英文中重建数字](../../problems/reconstruct-original-digits-from-english) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 415 | [字符串相加](../../problems/add-strings) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 412 | [Fizz Buzz](../../problems/fizz-buzz) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 405 | [数字转换为十六进制数](../../problems/convert-a-number-to-hexadecimal) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Easy |
+| 400 | [第 N 位数字](../../problems/nth-digit) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 398 | [随机数索引](../../problems/random-pick-index) | [[水塘抽样](../reservoir-sampling/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Medium |
+| 396 | [旋转函数](../../problems/rotate-function) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 390 | [消除游戏](../../problems/elimination-game) | [[数学](../math/README.md)]  | Medium |
+| 384 | [打乱数组](../../problems/shuffle-an-array) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Medium |
+| 382 | [链表随机节点](../../problems/linked-list-random-node) | [[水塘抽样](../reservoir-sampling/README.md)] [[链表](../linked-list/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Medium |
+| 381 | [O(1) 时间插入、删除和获取随机元素 - 允许重复](../../problems/insert-delete-getrandom-o1-duplicates-allowed) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Hard |
+| 380 | [O(1) 时间插入、删除和获取随机元素](../../problems/insert-delete-getrandom-o1) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Medium |
+| 375 | [猜数字大小 II](../../problems/guess-number-higher-or-lower-ii) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 372 | [超级次方](../../problems/super-pow) | [[数学](../math/README.md)] [[分治](../divide-and-conquer/README.md)]  | Medium |
+| 371 | [两整数之和](../../problems/sum-of-two-integers) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Medium |
+| 369 | [给单链表加一](../../problems/plus-one-linked-list) 🔒 | [[链表](../linked-list/README.md)] [[数学](../math/README.md)]  | Medium |
+| 368 | [最大整除子集](../../problems/largest-divisible-subset) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 367 | [有效的完全平方数](../../problems/valid-perfect-square) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
-| 365 | [水壶问题](../../problems/water-and-jug-problem) | [[数学](../math/README.md)]  | Medium |
-| 360 | [有序转化数组](../../problems/sort-transformed-array) 🔒 | [[排序](../sort/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
-| 357 | [计算各个位数不同的数字个数](../../problems/count-numbers-with-unique-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 356 | [直线镜像](../../problems/line-reflection) 🔒 | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
+| 365 | [水壶问题](../../problems/water-and-jug-problem) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数学](../math/README.md)]  | Medium |
+| 360 | [有序转化数组](../../problems/sort-transformed-array) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 357 | [计算各个位数不同的数字个数](../../problems/count-numbers-with-unique-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 356 | [直线镜像](../../problems/line-reflection) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
 | 343 | [整数拆分](../../problems/integer-break) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 335 | [路径交叉](../../problems/self-crossing) | [[数学](../math/README.md)]  | Hard |
-| 326 | [3的幂](../../problems/power-of-three) | [[数学](../math/README.md)]  | Easy |
+| 342 | [4的幂](../../problems/power-of-four) | [[位运算](../bit-manipulation/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Easy |
+| 335 | [路径交叉](../../problems/self-crossing) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 326 | [3的幂](../../problems/power-of-three) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Easy |
 | 319 | [灯泡开关](../../problems/bulb-switcher) | [[脑筋急转弯](../brainteaser/README.md)] [[数学](../math/README.md)]  | Medium |
-| 313 | [超级丑数](../../problems/super-ugly-number) | [[堆](../heap/README.md)] [[数学](../math/README.md)]  | Medium |
-| 296 | [最佳的碰头地点](../../problems/best-meeting-point) 🔒 | [[排序](../sort/README.md)] [[数学](../math/README.md)]  | Hard |
+| 313 | [超级丑数](../../problems/super-ugly-number) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 296 | [最佳的碰头地点](../../problems/best-meeting-point) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)] [[排序](../sorting/README.md)]  | Hard |
+| 294 | [翻转游戏 II](../../problems/flip-game-ii) 🔒 | [[记忆化搜索](../memoization/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 292 | [Nim 游戏](../../problems/nim-game) | [[脑筋急转弯](../brainteaser/README.md)] [[数学](../math/README.md)] [[博弈](../game-theory/README.md)]  | Easy |
+| 282 | [给表达式添加运算符](../../problems/expression-add-operators) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
 | 279 | [完全平方数](../../problems/perfect-squares) | [[广度优先搜索](../breadth-first-search/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 273 | [整数转换英文表示](../../problems/integer-to-english-words) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
-| 268 | [丢失的数字](../../problems/missing-number) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
-| 264 | [丑数 II](../../problems/ugly-number-ii) | [[堆](../heap/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 273 | [整数转换英文表示](../../problems/integer-to-english-words) | [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 268 | [丢失的数字](../../problems/missing-number) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Easy |
+| 264 | [丑数 II](../../problems/ugly-number-ii) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 263 | [丑数](../../problems/ugly-number) | [[数学](../math/README.md)]  | Easy |
-| 258 | [各位相加](../../problems/add-digits) | [[数学](../math/README.md)]  | Easy |
-| 248 | [中心对称数 III](../../problems/strobogrammatic-number-iii) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Hard |
-| 247 | [中心对称数 II](../../problems/strobogrammatic-number-ii) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
-| 246 | [中心对称数](../../problems/strobogrammatic-number) 🔒 | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |
-| 233 | [数字 1 的个数](../../problems/number-of-digit-one) | [[数学](../math/README.md)]  | Hard |
-| 231 | [2 的幂](../../problems/power-of-two) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Easy |
-| 224 | [基本计算器](../../problems/basic-calculator) | [[栈](../stack/README.md)] [[数学](../math/README.md)]  | Hard |
-| 223 | [矩形面积](../../problems/rectangle-area) | [[数学](../math/README.md)]  | Medium |
-| 204 | [计数质数](../../problems/count-primes) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |
-| 202 | [快乐数](../../problems/happy-number) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Easy |
+| 258 | [各位相加](../../problems/add-digits) | [[数学](../math/README.md)] [[数论](../number-theory/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 241 | [为运算表达式设计优先级](../../problems/different-ways-to-add-parentheses) | [[递归](../recursion/README.md)] [[记忆化搜索](../memoization/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 233 | [数字 1 的个数](../../problems/number-of-digit-one) | [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 231 | [2 的幂](../../problems/power-of-two) | [[位运算](../bit-manipulation/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Easy |
+| 227 | [基本计算器 II](../../problems/basic-calculator-ii) | [[栈](../stack/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 224 | [基本计算器](../../problems/basic-calculator) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 223 | [矩形面积](../../problems/rectangle-area) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
+| 204 | [计数质数](../../problems/count-primes) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[枚举](../enumeration/README.md)] [[数论](../number-theory/README.md)]  | Easy |
+| 202 | [快乐数](../../problems/happy-number) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 189 | [旋转数组](../../problems/rotate-array) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 172 | [阶乘后的零](../../problems/factorial-trailing-zeroes) | [[数学](../math/README.md)]  | Easy |
-| 171 | [Excel表列序号](../../problems/excel-sheet-column-number) | [[数学](../math/README.md)]  | Easy |
-| 168 | [Excel表列名称](../../problems/excel-sheet-column-title) | [[数学](../math/README.md)]  | Easy |
-| 166 | [分数到小数](../../problems/fraction-to-recurring-decimal) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
-| 149 | [直线上最多的点数](../../problems/max-points-on-a-line) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Hard |
+| 171 | [Excel表列序号](../../problems/excel-sheet-column-number) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 168 | [Excel表列名称](../../problems/excel-sheet-column-title) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 166 | [分数到小数](../../problems/fraction-to-recurring-decimal) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 150 | [逆波兰表达式求值](../../problems/evaluate-reverse-polish-notation) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 149 | [直线上最多的点数](../../problems/max-points-on-a-line) | [[几何](../geometry/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Hard |
+| 96 | [不同的二叉搜索树](../../problems/unique-binary-search-trees) | [[树](../tree/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 89 | [格雷编码](../../problems/gray-code) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 70 | [爬楼梯](../../problems/climbing-stairs) | [[记忆化搜索](../memoization/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 69 | [x 的平方根](../../problems/sqrtx) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
-| 67 | [二进制求和](../../problems/add-binary) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
-| 65 | [有效数字](../../problems/valid-number) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
-| 60 | [排列序列](../../problems/permutation-sequence) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 50 | [Pow(x, n)](../../problems/powx-n) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
-| 43 | [字符串相乘](../../problems/multiply-strings) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 29 | [两数相除](../../problems/divide-two-integers) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
-| 13 | [罗马数字转整数](../../problems/roman-to-integer) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
-| 12 | [整数转罗马数字](../../problems/integer-to-roman) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 67 | [二进制求和](../../problems/add-binary) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 66 | [加一](../../problems/plus-one) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 62 | [不同路径](../../problems/unique-paths) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Medium |
+| 60 | [排列序列](../../problems/permutation-sequence) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Hard |
+| 50 | [Pow(x, n)](../../problems/powx-n) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
+| 48 | [旋转图像](../../problems/rotate-image) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 43 | [字符串相乘](../../problems/multiply-strings) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 29 | [两数相除](../../problems/divide-two-integers) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)]  | Medium |
+| 13 | [罗马数字转整数](../../problems/roman-to-integer) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 12 | [整数转罗马数字](../../problems/integer-to-roman) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 9 | [回文数](../../problems/palindrome-number) | [[数学](../math/README.md)]  | Easy |
-| 8 | [字符串转换整数 (atoi)](../../problems/string-to-integer-atoi) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 7 | [整数反转](../../problems/reverse-integer) | [[数学](../math/README.md)]  | Easy |
 | 2 | [两数相加](../../problems/add-two-numbers) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[数学](../math/README.md)]  | Medium |

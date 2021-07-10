@@ -52,6 +52,7 @@ The string is now alternating.
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

@@ -53,3 +53,6 @@ Note that (for example) S.next(75) returned 4, because the last 4 prices
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Data Stream](../../tag/data-stream/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]

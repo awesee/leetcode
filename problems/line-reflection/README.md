@@ -11,23 +11,10 @@
 
 ## [356. Line Reflection (Medium)](https://leetcode.com/problems/line-reflection "直线镜像")
 
-<p>Given n points on a 2D plane, find if there is such a line parallel to y-axis that reflect the given points.</p>
 
-<p><strong>Example 1:</strong></p>
-
-<pre>
-<strong>Input: </strong><span id="example-input-1-1">[[1,1],[-1,1]]</span>
-<strong>Output: </strong><span id="example-output-1">true</span>
-</pre>
-
-<div>
-<p><strong>Example 2:</strong></p>
-
-<pre>
-<strong>Input: </strong><span id="example-input-2-1">[[1,1],[-1,-1]]</span>
-<strong>Output: </strong><span id="example-output-2">false</span></pre>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Math](../../tag/math/README.md)]
 

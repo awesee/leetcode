@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../path-sum-iv "Path Sum IV")
 
-## [665. Non-decreasing Array (Easy)](https://leetcode.com/problems/non-decreasing-array "非递减数列")
+## [665. Non-decreasing Array (Medium)](https://leetcode.com/problems/non-decreasing-array "非递减数列")
 
 <p>Given an array <code>nums</code> with <code>n</code> integers, your task is to check if it could become non-decreasing by modifying <strong>at most one element</strong>.</p>
 

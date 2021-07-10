@@ -49,6 +49,9 @@ solution.pick(3); // It should return either index 2, 3, or 4 randomly. Each ind
 
 ### Related Topics
   [[Reservoir Sampling](../../tag/reservoir-sampling/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Randomized](../../tag/randomized/README.md)]
 
 ### Similar Questions
   1. [Linked List Random Node](../linked-list-random-node) (Medium)

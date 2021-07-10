@@ -81,7 +81,10 @@ Probability = 18 / 60 = 0.3
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Combinatorics](../../tag/combinatorics/README.md)]
+  [[Probability and Statistics](../../tag/probability-and-statistics/README.md)]
 
 ### Hints
 <details>

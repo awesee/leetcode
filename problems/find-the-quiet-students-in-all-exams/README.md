@@ -12,3 +12,6 @@
 ## [1412. Find the Quiet Students in All Exams (Hard)](https://leetcode.com/problems/find-the-quiet-students-in-all-exams "查找成绩处于中游的学生")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

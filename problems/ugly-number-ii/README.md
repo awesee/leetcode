@@ -40,9 +40,10 @@
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Merge k Sorted Lists](../merge-k-sorted-lists) (Hard)

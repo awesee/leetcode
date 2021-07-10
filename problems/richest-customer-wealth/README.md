@@ -57,6 +57,7 @@ The 2nd customer is the richest with a wealth of 10.</pre>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Hints
 <details>

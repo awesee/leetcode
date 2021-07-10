@@ -45,6 +45,8 @@
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

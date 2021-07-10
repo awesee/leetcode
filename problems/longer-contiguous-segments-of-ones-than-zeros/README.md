@@ -62,8 +62,7 @@ The segment of 1s is not longer, so return false.
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
-  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

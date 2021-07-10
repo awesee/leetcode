@@ -63,8 +63,11 @@ productOfNumbers.getProduct(2); // return 32. The product of the last 2 numbers 
 </ul>
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Queue](../../tag/queue/README.md)]
+  [[Data Stream](../../tag/data-stream/README.md)]
 
 ### Hints
 <details>

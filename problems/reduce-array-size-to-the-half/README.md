@@ -11,9 +11,9 @@
 
 ## [1338. Reduce Array Size to The Half (Medium)](https://leetcode.com/problems/reduce-array-size-to-the-half "数组大小减半")
 
-<p>Given an array <code>arr</code>.&nbsp; You can choose a set of integers and remove all the occurrences of these integers in the array.</p>
+<p>You are given an integer array <code>arr</code>. You can choose a set of integers and remove all the occurrences of these integers in the array.</p>
 
-<p>Return <em>the minimum size of the set</em> so that <strong>at least</strong> half of the integers of the array are removed.</p>
+<p>Return <em>the minimum size of the set so that <strong>at least</strong> half of the integers of the array are removed</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -59,14 +59,17 @@ Choosing set {2,7} is not possible as it will make the new array [3,3,3,3,5,5,5]
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= arr.length &lt;= 10^5</code></li>
+	<li><code>1 &lt;= arr.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>arr.length</code> is even.</li>
-	<li><code>1 &lt;= arr[i] &lt;= 10^5</code></li>
+	<li><code>1 &lt;= arr[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

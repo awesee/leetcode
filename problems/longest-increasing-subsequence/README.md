@@ -50,6 +50,7 @@
 <p><b>Follow up:</b>&nbsp;Can you come up with an algorithm that runs in&nbsp;<code>O(n log(n))</code> time complexity?</p>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 

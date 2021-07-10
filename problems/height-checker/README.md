@@ -61,6 +61,8 @@ All indices match.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Counting Sort](../../tag/counting-sort/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

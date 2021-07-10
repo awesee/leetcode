@@ -55,7 +55,6 @@ For k = 7 we can use 2 + 5 = 7.</pre>
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
-  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

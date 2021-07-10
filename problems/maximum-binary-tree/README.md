@@ -56,7 +56,12 @@
 </ul>
 
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
   [[Tree](../../tag/tree/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Similar Questions
   1. [Maximum Binary Tree II](../maximum-binary-tree-ii) (Medium)

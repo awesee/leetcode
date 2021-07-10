@@ -43,3 +43,8 @@ The closest occurrence of &#39;e&#39; for index 8 is at index 6, so the distance
 	<li><code>s[i]</code> and <code>c</code> are lowercase English letters.</li>
 	<li>It is guaranteed that <code>c</code> occurs at least once in <code>s</code>.</li>
 </ul>
+
+### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[String](../../tag/string/README.md)]

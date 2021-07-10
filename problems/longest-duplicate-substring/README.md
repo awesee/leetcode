@@ -32,8 +32,12 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Suffix Array](../../tag/suffix-array/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
+  [[Hash Function](../../tag/hash-function/README.md)]
+  [[Rolling Hash](../../tag/rolling-hash/README.md)]
 
 ### Hints
 <details>

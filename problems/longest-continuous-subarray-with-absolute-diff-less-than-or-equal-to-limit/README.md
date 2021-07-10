@@ -58,8 +58,12 @@ Therefore, the size of the longest subarray is 2.
 </ul>
 
 ### Related Topics
+  [[Queue](../../tag/queue/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
+  [[Monotonic Queue](../../tag/monotonic-queue/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

@@ -44,9 +44,9 @@
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
-  [[Heap](../../tag/heap/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
-  [[Queue](../../tag/queue/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Hints
 <details>

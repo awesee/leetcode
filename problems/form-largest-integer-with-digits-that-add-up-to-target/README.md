@@ -75,7 +75,7 @@
 </ul>
 
 ### Related Topics
-  [[String](../../tag/string/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints

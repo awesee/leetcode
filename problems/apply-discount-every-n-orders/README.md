@@ -64,6 +64,8 @@ cashier.getBill([2,3,5],[5,3,2]);                    // return 2500.0
 
 ### Related Topics
   [[Design](../../tag/design/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

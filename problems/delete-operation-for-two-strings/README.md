@@ -41,6 +41,7 @@
 
 ### Related Topics
   [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Edit Distance](../edit-distance) (Hard)

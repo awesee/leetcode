@@ -44,6 +44,7 @@ This demonstrated that taking the first 5 was a winning move for Alex, so we ret
 </ul>
 
 ### Related Topics
-  [[Minimax](../../tag/minimax/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Game Theory](../../tag/game-theory/README.md)]

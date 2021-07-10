@@ -37,6 +37,7 @@ The answer is the sum of divisors of 21 only.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
 
 ### Hints

@@ -63,9 +63,13 @@
 </ul>
 
 ### Related Topics
-  [[Recursion](../../tag/recursion/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Bitmask](../../tag/bitmask/README.md)]
+  [[Number Theory](../../tag/number-theory/README.md)]
 
 ### Hints
 <details>

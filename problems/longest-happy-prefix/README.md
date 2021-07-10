@@ -56,6 +56,9 @@
 
 ### Related Topics
   [[String](../../tag/string/README.md)]
+  [[String Matching](../../tag/string-matching/README.md)]
+  [[Hash Function](../../tag/hash-function/README.md)]
+  [[Rolling Hash](../../tag/rolling-hash/README.md)]
 
 ### Hints
 <details>

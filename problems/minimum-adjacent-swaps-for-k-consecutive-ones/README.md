@@ -50,7 +50,10 @@
 </ul>
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

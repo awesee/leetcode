@@ -55,3 +55,4 @@ In the second move, we move the 3rd character (&quot;c&quot;) to the end, obtain
 ### Related Topics
   [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]

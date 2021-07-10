@@ -41,6 +41,7 @@
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
 
 ### Similar Questions

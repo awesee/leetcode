@@ -67,9 +67,10 @@ obj.calculateMKAverage(); // The last 3 elements are [5,5,5].
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
   [[Design](../../tag/design/README.md)]
   [[Queue](../../tag/queue/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

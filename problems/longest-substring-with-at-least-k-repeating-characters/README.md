@@ -40,6 +40,7 @@
 </ul>
 
 ### Related Topics
-  [[Recursion](../../tag/recursion/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]

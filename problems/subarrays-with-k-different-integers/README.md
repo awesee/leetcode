@@ -46,8 +46,9 @@
 </ol>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
-  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Counting](../../tag/counting/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions

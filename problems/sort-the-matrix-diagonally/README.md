@@ -41,8 +41,9 @@
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

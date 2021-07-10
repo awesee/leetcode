@@ -68,9 +68,9 @@ The underlined portions are the substrings that are chosen from s and t.
 </ul>
 
 ### Related Topics
-  [[Trie](../../tag/trie/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

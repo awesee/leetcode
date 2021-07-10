@@ -59,6 +59,7 @@ The second frog could yell later &quot;cr<strong>c</strong>oak<strong>roak</stro
 
 ### Related Topics
   [[String](../../tag/string/README.md)]
+  [[Counting](../../tag/counting/README.md)]
 
 ### Hints
 <details>

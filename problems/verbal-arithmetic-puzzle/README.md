@@ -66,7 +66,9 @@ Such that: &quot;SIX&quot; + &quot;SEVEN&quot; + &quot;SEVEN&quot; = &quot;TWENT
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints

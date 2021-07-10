@@ -52,6 +52,8 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Lowest Common Ancestor of a Binary Search Tree](../lowest-common-ancestor-of-a-binary-search-tree) (Easy)

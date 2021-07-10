@@ -9,67 +9,112 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1703 | [得到连续 K 个 1 的最少相邻交换次数](../../problems/minimum-adjacent-swaps-for-k-consecutive-ones) | [[栈](../stack/README.md)]  | Hard |
-| 1673 | [找出最具竞争力的子序列](../../problems/find-the-most-competitive-subsequence) | [[栈](../stack/README.md)] [[堆](../heap/README.md)] [[贪心算法](../greedy/README.md)] [[队列](../queue/README.md)]  | Medium |
-| 1598 | [文件夹操作日志搜集器](../../problems/crawler-log-folder) | [[栈](../stack/README.md)]  | Easy |
+| 1896 | [反转表达式值的最少操作次数](../../problems/minimum-cost-to-change-the-final-value-of-expression) | [[栈](../stack/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1856 | [子数组最小乘积的最大值](../../problems/maximum-subarray-min-product) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 1793 | [好子数组的最大分数](../../problems/maximum-score-of-a-good-subarray) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
+| 1776 | [车队 II](../../problems/car-fleet-ii) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[单调栈](../monotonic-stack/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
+| 1762 | [能看到海景的建筑物](../../problems/buildings-with-an-ocean-view) 🔒 | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 1756 | [设计最近使用（MRU）队列](../../problems/design-most-recently-used-queue) 🔒 | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)]  | Medium |
+| 1717 | [删除子字符串的最大得分](../../problems/maximum-score-from-removing-substrings) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1700 | [无法吃午餐的学生数量](../../problems/number-of-students-unable-to-eat-lunch) | [[栈](../stack/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 1673 | [找出最具竞争力的子序列](../../problems/find-the-most-competitive-subsequence) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 1653 | [使字符串平衡的最少删除次数](../../problems/minimum-deletions-to-make-string-balanced) | [[栈](../stack/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1628 | [设计带解析函数的表达式树](../../problems/design-an-expression-tree-with-evaluate-function) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)] [[数学](../math/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 1614 | [括号的最大嵌套深度](../../problems/maximum-nesting-depth-of-the-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1598 | [文件夹操作日志搜集器](../../problems/crawler-log-folder) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1597 | [根据中缀表达式构造二叉表达式树](../../problems/build-binary-expression-tree-from-infix-expression) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[字符串](../string/README.md)] [[二叉树](../binary-tree/README.md)]  | Hard |
+| 1586 | [二叉搜索树迭代器 II](../../problems/binary-search-tree-iterator-ii) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[二叉树](../binary-tree/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
+| 1574 | [删除最短的子数组使剩余数组有序](../../problems/shortest-subarray-to-be-removed-to-make-array-sorted) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 1544 | [整理字符串](../../problems/make-the-string-great) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Easy |
-| 1541 | [平衡括号字符串的最少插入次数](../../problems/minimum-insertions-to-balance-a-parentheses-string) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 1441 | [用栈操作构建数组](../../problems/build-an-array-with-stack-operations) | [[栈](../stack/README.md)]  | Easy |
-| 1410 | [HTML 实体解析器](../../problems/html-entity-parser) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 1381 | [设计一个支持增量操作的栈](../../problems/design-a-stack-with-increment-operation) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Medium |
+| 1541 | [平衡括号字符串的最少插入次数](../../problems/minimum-insertions-to-balance-a-parentheses-string) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1526 | [形成目标数组的子数组最少增加次数](../../problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
+| 1504 | [统计全 1 子矩形](../../problems/count-submatrices-with-all-ones) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[矩阵](../matrix/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 1475 | [商品折扣后的最终价格](../../problems/final-prices-with-a-special-discount-in-a-shop) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Easy |
+| 1472 | [设计浏览器历史记录](../../problems/design-browser-history) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)] [[数据流](../data-stream/README.md)] [[双向链表](../doubly-linked-list/README.md)]  | Medium |
+| 1441 | [用栈操作构建数组](../../problems/build-an-array-with-stack-operations) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 1381 | [设计一个支持增量操作的栈](../../problems/design-a-stack-with-increment-operation) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[数组](../array/README.md)]  | Medium |
+| 1265 | [逆序打印不可变链表](../../problems/print-immutable-linked-list-in-reverse) 🔒 | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1249 | [移除无效的括号](../../problems/minimum-remove-to-make-valid-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 1209 | [删除字符串中的所有相邻重复项 II](../../problems/remove-all-adjacent-duplicates-in-string-ii) | [[栈](../stack/README.md)]  | Medium |
-| 1190 | [反转每对括号间的子串](../../problems/reverse-substrings-between-each-pair-of-parentheses) | [[栈](../stack/README.md)]  | Medium |
-| 1130 | [叶值的最小代价生成树](../../problems/minimum-cost-tree-from-leaf-values) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 1124 | [表现良好的最长时间段](../../problems/longest-well-performing-interval) | [[栈](../stack/README.md)]  | Medium |
-| 1081 | [不同字符的最小子序列](../../problems/smallest-subsequence-of-distinct-characters) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 1063 | [有效子数组的数目](../../problems/number-of-valid-subarrays) 🔒 | [[栈](../stack/README.md)]  | Hard |
-| 1047 | [删除字符串中的所有相邻重复项](../../problems/remove-all-adjacent-duplicates-in-string) | [[栈](../stack/README.md)]  | Easy |
-| 1021 | [删除最外层的括号](../../problems/remove-outermost-parentheses) | [[栈](../stack/README.md)]  | Easy |
-| 1019 | [链表中的下一个更大节点](../../problems/next-greater-node-in-linked-list) | [[栈](../stack/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 1214 | [查找两棵二叉搜索树之和](../../problems/two-sum-bsts) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 1209 | [删除字符串中的所有相邻重复项 II](../../problems/remove-all-adjacent-duplicates-in-string-ii) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1190 | [反转每对括号间的子串](../../problems/reverse-substrings-between-each-pair-of-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1172 | [餐盘栈](../../problems/dinner-plate-stacks) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
+| 1130 | [叶值的最小代价生成树](../../problems/minimum-cost-tree-from-leaf-values) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[动态规划](../dynamic-programming/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 1124 | [表现良好的最长时间段](../../problems/longest-well-performing-interval) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 1111 | [有效括号的嵌套深度](../../problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1106 | [解析布尔表达式](../../problems/parsing-a-boolean-expression) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 1096 | [花括号展开 II](../../problems/brace-expansion-ii) | [[栈](../stack/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 1081 | [不同字符的最小子序列](../../problems/smallest-subsequence-of-distinct-characters) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 1063 | [有效子数组的数目](../../problems/number-of-valid-subarrays) 🔒 | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
+| 1047 | [删除字符串中的所有相邻重复项](../../problems/remove-all-adjacent-duplicates-in-string) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1021 | [删除最外层的括号](../../problems/remove-outermost-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1019 | [链表中的下一个更大节点](../../problems/next-greater-node-in-linked-list) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 1008 | [前序遍历构造二叉搜索树](../../problems/construct-binary-search-tree-from-preorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[数组](../array/README.md)] [[二叉树](../binary-tree/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 1006 | [笨阶乘](../../problems/clumsy-factorial) | [[栈](../stack/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 1003 | [检查替换后的词是否有效](../../problems/check-if-word-is-valid-after-substitutions) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 975 | [奇偶跳](../../problems/odd-even-jump) | [[栈](../stack/README.md)] [[动态规划](../dynamic-programming/README.md)] [[Ordered Map](../ordered-map/README.md)]  | Hard |
-| 946 | [验证栈序列](../../problems/validate-stack-sequences) | [[栈](../stack/README.md)]  | Medium |
-| 921 | [使括号有效的最少添加](../../problems/minimum-add-to-make-parentheses-valid) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
-| 907 | [子数组的最小值之和](../../problems/sum-of-subarray-minimums) | [[栈](../stack/README.md)] [[数组](../array/README.md)]  | Medium |
-| 901 | [股票价格跨度](../../problems/online-stock-span) | [[栈](../stack/README.md)]  | Medium |
-| 895 | [最大频率栈](../../problems/maximum-frequency-stack) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
-| 880 | [索引处的解码字符串](../../problems/decoded-string-at-index) | [[栈](../stack/README.md)]  | Medium |
+| 975 | [奇偶跳](../../problems/odd-even-jump) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[有序集合](../ordered-set/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
+| 962 | [最大宽度坡](../../problems/maximum-width-ramp) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 946 | [验证栈序列](../../problems/validate-stack-sequences) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 936 | [戳印序列](../../problems/stamping-the-sequence) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[队列](../queue/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 921 | [使括号有效的最少添加](../../problems/minimum-add-to-make-parentheses-valid) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 907 | [子数组的最小值之和](../../problems/sum-of-subarray-minimums) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 901 | [股票价格跨度](../../problems/online-stock-span) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[数据流](../data-stream/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 897 | [递增顺序搜索树](../../problems/increasing-order-search-tree) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[二叉树](../binary-tree/README.md)]  | Easy |
+| 895 | [最大频率栈](../../problems/maximum-frequency-stack) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)]  | Hard |
+| 880 | [索引处的解码字符串](../../problems/decoded-string-at-index) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 856 | [括号的分数](../../problems/score-of-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 844 | [比较含退格的字符串](../../problems/backspace-string-compare) | [[栈](../stack/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
-| 772 | [基本计算器 III](../../problems/basic-calculator-iii) 🔒 | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Hard |
-| 770 | [基本计算器 IV](../../problems/basic-calculator-iv) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
-| 739 | [每日温度](../../problems/daily-temperatures) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
-| 735 | [行星碰撞](../../problems/asteroid-collision) | [[栈](../stack/README.md)]  | Medium |
-| 726 | [原子的数量](../../problems/number-of-atoms) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
-| 682 | [棒球比赛](../../problems/baseball-game) | [[栈](../stack/README.md)]  | Easy |
-| 636 | [函数的独占时间](../../problems/exclusive-time-of-functions) | [[栈](../stack/README.md)]  | Medium |
+| 844 | [比较含退格的字符串](../../problems/backspace-string-compare) | [[栈](../stack/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 772 | [基本计算器 III](../../problems/basic-calculator-iii) 🔒 | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 770 | [基本计算器 IV](../../problems/basic-calculator-iv) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 769 | [最多能完成排序的块](../../problems/max-chunks-to-make-sorted) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 768 | [最多能完成排序的块 II](../../problems/max-chunks-to-make-sorted-ii) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
+| 739 | [每日温度](../../problems/daily-temperatures) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 736 | [Lisp 语法解析](../../problems/parse-lisp-expression) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 735 | [行星碰撞](../../problems/asteroid-collision) | [[栈](../stack/README.md)] [[数组](../array/README.md)]  | Medium |
+| 726 | [原子的数量](../../problems/number-of-atoms) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 716 | [最大栈](../../problems/max-stack) 🔒 | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[链表](../linked-list/README.md)] [[双向链表](../doubly-linked-list/README.md)] [[有序集合](../ordered-set/README.md)]  | Easy |
+| 682 | [棒球比赛](../../problems/baseball-game) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 678 | [有效的括号字符串](../../problems/valid-parenthesis-string) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 654 | [最大二叉树](../../problems/maximum-binary-tree) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[数组](../array/README.md)] [[分治](../divide-and-conquer/README.md)] [[二叉树](../binary-tree/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 636 | [函数的独占时间](../../problems/exclusive-time-of-functions) | [[栈](../stack/README.md)] [[数组](../array/README.md)]  | Medium |
 | 591 | [标签验证器](../../problems/tag-validator) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Hard |
-| 503 | [下一个更大元素 II](../../problems/next-greater-element-ii) | [[栈](../stack/README.md)]  | Medium |
-| 496 | [下一个更大元素 I](../../problems/next-greater-element-i) | [[栈](../stack/README.md)]  | Easy |
-| 456 | [132 模式](../../problems/132-pattern) | [[栈](../stack/README.md)]  | Medium |
-| 439 | [三元表达式解析器](../../problems/ternary-expression-parser) 🔒 | [[栈](../stack/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
-| 402 | [移掉K位数字](../../problems/remove-k-digits) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)]  | Medium |
-| 394 | [字符串解码](../../problems/decode-string) | [[栈](../stack/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Medium |
-| 385 | [迷你语法分析器](../../problems/mini-parser) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 341 | [扁平化嵌套列表迭代器](../../problems/flatten-nested-list-iterator) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Medium |
-| 331 | [验证二叉树的前序序列化](../../problems/verify-preorder-serialization-of-a-binary-tree) | [[栈](../stack/README.md)]  | Medium |
-| 316 | [去除重复字母](../../problems/remove-duplicate-letters) | [[栈](../stack/README.md)] [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 272 | [最接近的二叉搜索树值 II](../../problems/closest-binary-search-tree-value-ii) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Hard |
-| 255 | [验证前序遍历序列二叉搜索树](../../problems/verify-preorder-sequence-in-binary-search-tree) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Medium |
-| 232 | [用栈实现队列](../../problems/implement-queue-using-stacks) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
-| 227 | [基本计算器 II](../../problems/basic-calculator-ii) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 225 | [用队列实现栈](../../problems/implement-stack-using-queues) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
-| 224 | [基本计算器](../../problems/basic-calculator) | [[栈](../stack/README.md)] [[数学](../math/README.md)]  | Hard |
-| 173 | [二叉搜索树迭代器](../../problems/binary-search-tree-iterator) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)]  | Medium |
+| 590 | [N 叉树的后序遍历](../../problems/n-ary-tree-postorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 589 | [N 叉树的前序遍历](../../problems/n-ary-tree-preorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
+| 581 | [最短无序连续子数组](../../problems/shortest-unsorted-continuous-subarray) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 503 | [下一个更大元素 II](../../problems/next-greater-element-ii) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 496 | [下一个更大元素 I](../../problems/next-greater-element-i) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Easy |
+| 484 | [寻找排列](../../problems/find-permutation) 🔒 | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 456 | [132 模式](../../problems/132-pattern) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[有序集合](../ordered-set/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 445 | [两数相加 II](../../problems/add-two-numbers-ii) | [[栈](../stack/README.md)] [[链表](../linked-list/README.md)] [[数学](../math/README.md)]  | Medium |
+| 439 | [三元表达式解析器](../../problems/ternary-expression-parser) 🔒 | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 426 | [将二叉搜索树转化为排序的双向链表](../../problems/convert-binary-search-tree-to-sorted-doubly-linked-list) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[链表](../linked-list/README.md)] [[二叉树](../binary-tree/README.md)] [[双向链表](../doubly-linked-list/README.md)]  | Medium |
+| 402 | [移掉 K 位数字](../../problems/remove-k-digits) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 394 | [字符串解码](../../problems/decode-string) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 388 | [文件的最长绝对路径](../../problems/longest-absolute-file-path) | [[栈](../stack/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 385 | [迷你语法分析器](../../problems/mini-parser) | [[栈](../stack/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 364 | [加权嵌套序列和 II](../../problems/nested-list-weight-sum-ii) 🔒 | [[栈](../stack/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
+| 341 | [扁平化嵌套列表迭代器](../../problems/flatten-nested-list-iterator) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[设计](../design/README.md)] [[队列](../queue/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
+| 331 | [验证二叉树的前序序列化](../../problems/verify-preorder-serialization-of-a-binary-tree) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[字符串](../string/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 321 | [拼接最大数](../../problems/create-maximum-number) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
+| 316 | [去除重复字母](../../problems/remove-duplicate-letters) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 272 | [最接近的二叉搜索树值 II](../../problems/closest-binary-search-tree-value-ii) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[双指针](../two-pointers/README.md)] [[二叉树](../binary-tree/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
+| 255 | [验证前序遍历序列二叉搜索树](../../problems/verify-preorder-sequence-in-binary-search-tree) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[递归](../recursion/README.md)] [[二叉树](../binary-tree/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 234 | [回文链表](../../problems/palindrome-linked-list) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 232 | [用栈实现队列](../../problems/implement-queue-using-stacks) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Easy |
+| 227 | [基本计算器 II](../../problems/basic-calculator-ii) | [[栈](../stack/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 225 | [用队列实现栈](../../problems/implement-stack-using-queues) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[队列](../queue/README.md)]  | Easy |
+| 224 | [基本计算器](../../problems/basic-calculator) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 173 | [二叉搜索树迭代器](../../problems/binary-search-tree-iterator) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[二叉树](../binary-tree/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
 | 155 | [最小栈](../../problems/min-stack) | [[栈](../stack/README.md)] [[设计](../design/README.md)]  | Easy |
-| 150 | [逆波兰表达式求值](../../problems/evaluate-reverse-polish-notation) | [[栈](../stack/README.md)]  | Medium |
-| 145 | [二叉树的后序遍历](../../problems/binary-tree-postorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Easy |
-| 144 | [二叉树的前序遍历](../../problems/binary-tree-preorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)]  | Easy |
-| 103 | [二叉树的锯齿形层序遍历](../../problems/binary-tree-zigzag-level-order-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
-| 94 | [二叉树的中序遍历](../../problems/binary-tree-inorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
-| 85 | [最大矩形](../../problems/maximal-rectangle) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 84 | [柱状图中最大的矩形](../../problems/largest-rectangle-in-histogram) | [[栈](../stack/README.md)] [[数组](../array/README.md)]  | Hard |
+| 150 | [逆波兰表达式求值](../../problems/evaluate-reverse-polish-notation) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 145 | [二叉树的后序遍历](../../problems/binary-tree-postorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Easy |
+| 144 | [二叉树的前序遍历](../../problems/binary-tree-preorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Easy |
+| 143 | [重排链表](../../problems/reorder-list) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 114 | [二叉树展开为链表](../../problems/flatten-binary-tree-to-linked-list) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[链表](../linked-list/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 94 | [二叉树的中序遍历](../../problems/binary-tree-inorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Easy |
+| 85 | [最大矩形](../../problems/maximal-rectangle) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[矩阵](../matrix/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
+| 84 | [柱状图中最大的矩形](../../problems/largest-rectangle-in-histogram) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
 | 71 | [简化路径](../../problems/simplify-path) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 42 | [接雨水](../../problems/trapping-rain-water) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 42 | [接雨水](../../problems/trapping-rain-water) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[动态规划](../dynamic-programming/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
+| 32 | [最长有效括号](../../problems/longest-valid-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 20 | [有效的括号](../../problems/valid-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Easy |

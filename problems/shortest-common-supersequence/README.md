@@ -38,6 +38,7 @@ The answer provided is the shortest such string that satisfies these properties.
 </ol>
 
 ### Related Topics
+  [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints

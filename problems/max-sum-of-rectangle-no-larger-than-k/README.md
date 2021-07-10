@@ -46,6 +46,8 @@
 <p><strong>Follow up:</strong> What if the number of rows is much larger than the number of columns?</p>
 
 ### Related Topics
-  [[Queue](../../tag/queue/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]

@@ -47,3 +47,6 @@
 
 <p><b>Note:</b><br />
 The students should not be counted duplicate in each course.</p>
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

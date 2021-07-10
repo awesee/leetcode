@@ -9,12 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1871 | [跳跃游戏 VII](../../problems/jump-game-vii) | [[贪心算法](../greedy/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
-| 1852 | [Distinct Numbers in Each Subarray](../../problems/distinct-numbers-in-each-subarray) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
-| 1851 | [包含每个查询的最小区间](../../problems/minimum-interval-to-include-each-query) | [[Line Sweep](../line-sweep/README.md)]  | Hard |
-| 1288 | [删除被覆盖区间](../../problems/remove-covered-intervals) | [[贪心算法](../greedy/README.md)] [[排序](../sort/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
-| 1272 | [删除区间](../../problems/remove-interval) 🔒 | [[数学](../math/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
-| 1229 | [安排会议日程](../../problems/meeting-scheduler) 🔒 | [[排序](../sort/README.md)] [[双指针](../two-pointers/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Medium |
-| 850 | [矩形面积 II](../../problems/rectangle-area-ii) | [[线段树](../segment-tree/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Hard |
-| 391 | [完美矩形](../../problems/perfect-rectangle) | [[Line Sweep](../line-sweep/README.md)]  | Hard |
-| 218 | [天际线问题](../../problems/the-skyline-problem) | [[堆](../heap/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[Line Sweep](../line-sweep/README.md)]  | Hard |
+| 1851 | [包含每个查询的最小区间](../../problems/minimum-interval-to-include-each-query) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)] [[扫描线](../line-sweep/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
+| 850 | [矩形面积 II](../../problems/rectangle-area-ii) | [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[有序集合](../ordered-set/README.md)] [[扫描线](../line-sweep/README.md)]  | Hard |
+| 391 | [完美矩形](../../problems/perfect-rectangle) | [[数组](../array/README.md)] [[扫描线](../line-sweep/README.md)]  | Hard |
+| 218 | [天际线问题](../../problems/the-skyline-problem) | [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[分治](../divide-and-conquer/README.md)] [[有序集合](../ordered-set/README.md)] [[扫描线](../line-sweep/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |

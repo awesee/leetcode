@@ -56,7 +56,10 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Hints
 <details>

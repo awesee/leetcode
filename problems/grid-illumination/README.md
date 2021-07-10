@@ -62,6 +62,7 @@ The 1<sup>st</sup>&nbsp;query asks if the lamp at grid[1][0] is illuminated or n
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions

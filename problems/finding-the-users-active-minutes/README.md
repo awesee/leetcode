@@ -56,6 +56,7 @@ Hence, answer[1] = 1, answer[2] = 1, and the remaining values are 0.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints

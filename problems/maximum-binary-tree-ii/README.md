@@ -69,6 +69,7 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Maximum Binary Tree](../maximum-binary-tree) (Medium)

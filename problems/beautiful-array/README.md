@@ -47,4 +47,6 @@
 </div>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]

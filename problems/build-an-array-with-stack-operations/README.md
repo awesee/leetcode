@@ -69,6 +69,8 @@ Read number 3 and automatically push in the array -&gt; [1,3]
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

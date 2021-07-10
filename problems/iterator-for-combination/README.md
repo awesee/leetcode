@@ -51,7 +51,9 @@ itr.hasNext(); // return False
 
 ### Related Topics
   [[Design](../../tag/design/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Iterator](../../tag/iterator/README.md)]
 
 ### Hints
 <details>

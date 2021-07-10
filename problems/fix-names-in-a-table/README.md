@@ -12,3 +12,6 @@
 ## [1667. Fix Names in a Table (Easy)](https://leetcode.com/problems/fix-names-in-a-table "修复表中的名字")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

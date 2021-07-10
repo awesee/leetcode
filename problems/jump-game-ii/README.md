@@ -46,6 +46,7 @@
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Jump Game](../jump-game) (Medium)

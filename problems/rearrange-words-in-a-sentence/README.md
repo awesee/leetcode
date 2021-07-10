@@ -61,8 +61,8 @@ Output is ordered by length and the new first word starts with capital letter.
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

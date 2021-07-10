@@ -76,8 +76,9 @@ Any permutation of [11,8,6,6,7] is <strong>accepted</strong>.
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

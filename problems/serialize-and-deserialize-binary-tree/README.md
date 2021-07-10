@@ -56,7 +56,11 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Design](../../tag/design/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Encode and Decode Strings](../encode-and-decode-strings) (Medium)

@@ -46,7 +46,10 @@
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
+  [[Trie](../../tag/trie/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Is Subsequence](../is-subsequence) (Easy)

@@ -66,8 +66,10 @@ Minimum total distance from each houses to nearest mailboxes is |2-3| + |3-3| + 
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

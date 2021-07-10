@@ -105,3 +105,9 @@ Explanation is shown in the photo below:
 	<li><code>n == grid.length == grid[i].length</code></li>
 	<li><code>n == 2^x</code> where <code>0 &lt;= x &lt;= 6</code></li>
 </ul>
+
+### Related Topics
+  [[Tree](../../tag/tree/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]

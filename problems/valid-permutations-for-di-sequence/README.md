@@ -52,5 +52,4 @@ The 5 valid permutations of (0, 1, 2, 3) are:
 </div>
 
 ### Related Topics
-  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

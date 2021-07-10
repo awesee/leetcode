@@ -65,9 +65,8 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
-  [[Sort](../../tag/sort/README.md)]
-  [[Line Sweep](../../tag/line-sweep/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

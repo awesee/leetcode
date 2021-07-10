@@ -74,15 +74,18 @@ Remember that both play optimally so here Alice will choose the scenario that ma
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Game Theory](../../tag/game-theory/README.md)]
 
 ### Hints
 <details>
 <summary>Hint 1</summary>
-The game can be mapped to minmax game. Alex tries to maximize the total score and Lee tries to minimize it.
+The game can be mapped to minmax game. Alice tries to maximize the total score and Bob tries to minimize it.
 </details>
 
 <details>
 <summary>Hint 2</summary>
-Use dynamic programming to simulate the game. If the total score was 0 the game is "Tie", and if it has positive value then "Alex" wins, otherwise "Lee" wins.
+Use dynamic programming to simulate the game. If the total score was 0 the game is "Tie", and if it has positive value then "Alice" wins, otherwise "Bob" wins.
 </details>

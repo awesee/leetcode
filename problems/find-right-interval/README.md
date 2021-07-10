@@ -56,7 +56,9 @@ The right interval for [2,3] is [3,4] since start<sub>2</sub> = 3 is the smalles
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Data Stream as Disjoint Intervals](../data-stream-as-disjoint-intervals) (Hard)

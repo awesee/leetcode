@@ -49,6 +49,7 @@
 </ul>
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
 
 ### Hints

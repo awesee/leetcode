@@ -62,6 +62,8 @@ Please notice that another valid answer is [5,2,6,null,4,null,7] and it&#39;s al
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Split BST](../split-bst) (Medium)

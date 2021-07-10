@@ -75,6 +75,7 @@ Since &quot;steps&quot; is the only word containing all the letters, that is the
 
 ### Related Topics
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

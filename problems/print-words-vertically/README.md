@@ -55,7 +55,9 @@ Each word would be put on only one column and that in one column there will be o
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

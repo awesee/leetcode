@@ -9,11 +9,12 @@
 　　　　　　　　　　　　　　　　
 [Next >](../sum-of-digits-in-base-k "Sum of Digits in Base K")
 
-## [1836. Remove Duplicates From an Unsorted Linked List (Medium)](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list "")
+## [1836. Remove Duplicates From an Unsorted Linked List (Medium)](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list "从未排序的链表中移除重复元素")
 
 
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
 
 ### Hints

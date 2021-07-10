@@ -49,6 +49,7 @@ Total amount you can rob = 1 + 3 = 4.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions

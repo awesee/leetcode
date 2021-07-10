@@ -60,6 +60,7 @@ The total cost was 25, and this is the minimum possible.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions

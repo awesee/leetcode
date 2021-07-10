@@ -51,6 +51,8 @@ Maximum length is 4.
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints

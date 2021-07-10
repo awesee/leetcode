@@ -9,73 +9,81 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1863 | [找出所有子集的异或总和再求和](../../problems/sum-of-all-subset-xor-totals) | [[递归](../recursion/README.md)] [[回溯算法](../backtracking/README.md)]  | Easy |
-| 1849 | [将字符串拆分为递减的连续值](../../problems/splitting-a-string-into-descending-consecutive-values) | [[递归](../recursion/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1799 | [N 次操作后的最大分数和](../../problems/maximize-score-after-n-operations) | [[递归](../recursion/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 1780 | [判断一个数字是否可以表示成三的幂的和](../../problems/check-if-number-is-a-sum-of-powers-of-three) | [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1723 | [完成所有工作的最短时间](../../problems/find-minimum-time-to-finish-all-jobs) | [[递归](../recursion/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 1718 | [构建字典序最大的可行序列](../../problems/construct-the-lexicographically-largest-valid-sequence) | [[递归](../recursion/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1688 | [比赛中的配对次数](../../problems/count-of-matches-in-tournament) | [[回溯算法](../backtracking/README.md)]  | Easy |
-| 1681 | [最小不兼容性](../../problems/minimum-incompatibility) | [[贪心算法](../greedy/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 1659 | [最大化网格幸福感](../../problems/maximize-grid-happiness) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 1655 | [分配重复整数](../../problems/distribute-repeating-integers) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 1641 | [统计字典序元音字符串的数目](../../problems/count-sorted-vowel-strings) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1617 | [统计子树中城市之间最大距离](../../problems/count-subtrees-with-max-distance-between-cities) | [[回溯算法](../backtracking/README.md)]  | Hard |
-| 1593 | [拆分字符串使唯一子字符串的数目最大](../../problems/split-a-string-into-the-max-number-of-unique-substrings) | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1467 | [两个盒子中球的颜色数相同的概率](../../problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 1415 | [长度为 n 的开心字符串中字典序第 k 小的字符串](../../problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1307 | [口算难题](../../problems/verbal-arithmetic-puzzle) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 1291 | [顺次数](../../problems/sequential-digits) | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1286 | [字母组合迭代器](../../problems/iterator-for-combination) | [[设计](../design/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1258 | [近义词句子](../../problems/synonymous-sentences) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1240 | [铺瓷砖](../../problems/tiling-a-rectangle-with-the-fewest-squares) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 1239 | [串联字符串的最大长度](../../problems/maximum-length-of-a-concatenated-string-with-unique-characters) | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1219 | [黄金矿工](../../problems/path-with-maximum-gold) | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1215 | [步进数](../../problems/stepping-numbers) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1088 | [易混淆数 II](../../problems/confusing-number-ii) 🔒 | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 1087 | [花括号展开](../../problems/brace-expansion) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1079 | [活字印刷](../../problems/letter-tile-possibilities) | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1066 | [校园自行车分配 II](../../problems/campus-bikes-ii) 🔒 | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 996 | [正方形数组的数目](../../problems/number-of-squareful-arrays) | [[图](../graph/README.md)] [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 980 | [不同路径 III](../../problems/unique-paths-iii) | [[深度优先搜索](../depth-first-search/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 967 | [连续差相同的数字](../../problems/numbers-with-same-consecutive-differences) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 842 | [将数组拆分成斐波那契序列](../../problems/split-array-into-fibonacci-sequence) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 797 | [所有可能的路径](../../problems/all-paths-from-source-to-target) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 784 | [字母大小写全排列](../../problems/letter-case-permutation) | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 691 | [贴纸拼词](../../problems/stickers-to-spell-word) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 526 | [优美的排列](../../problems/beautiful-arrangement) | [[深度优先搜索](../depth-first-search/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 425 | [单词方块](../../problems/word-squares) 🔒 | [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 411 | [最短独占单词缩写](../../problems/minimum-unique-word-abbreviation) 🔒 | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 401 | [二进制手表](../../problems/binary-watch) | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Easy |
-| 357 | [计算各个位数不同的数字个数](../../problems/count-numbers-with-unique-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 351 | [安卓系统手势解锁](../../problems/android-unlock-patterns) 🔒 | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 320 | [列举单词的全部缩写](../../problems/generalized-abbreviation) 🔒 | [[位运算](../bit-manipulation/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 306 | [累加数](../../problems/additive-number) | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 294 | [翻转游戏 II](../../problems/flip-game-ii) 🔒 | [[极小化极大](../minimax/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 291 | [单词规律 II](../../problems/word-pattern-ii) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 267 | [回文排列 II](../../problems/palindrome-permutation-ii) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 254 | [因子的组合](../../problems/factor-combinations) 🔒 | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 216 | [组合总和 III](../../problems/combination-sum-iii) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 212 | [单词搜索 II](../../problems/word-search-ii) | [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 211 | [添加与搜索单词 - 数据结构设计](../../problems/design-add-and-search-words-data-structure) | [[深度优先搜索](../depth-first-search/README.md)] [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 140 | [单词拆分 II](../../problems/word-break-ii) | [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 131 | [分割回文串](../../problems/palindrome-partitioning) | [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 126 | [单词接龙 II](../../problems/word-ladder-ii) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 93 | [复原 IP 地址](../../problems/restore-ip-addresses) | [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 90 | [子集 II](../../problems/subsets-ii) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 89 | [格雷编码](../../problems/gray-code) | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 79 | [单词搜索](../../problems/word-search) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 78 | [子集](../../problems/subsets) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 77 | [组合](../../problems/combinations) | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 60 | [排列序列](../../problems/permutation-sequence) | [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 52 | [N皇后 II](../../problems/n-queens-ii) | [[回溯算法](../backtracking/README.md)]  | Hard |
-| 51 | [N 皇后](../../problems/n-queens) | [[回溯算法](../backtracking/README.md)]  | Hard |
-| 47 | [全排列 II](../../problems/permutations-ii) | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 46 | [全排列](../../problems/permutations) | [[回溯算法](../backtracking/README.md)]  | Medium |
-| 44 | [通配符匹配](../../problems/wildcard-matching) | [[贪心算法](../greedy/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 40 | [组合总和 II](../../problems/combination-sum-ii) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 39 | [组合总和](../../problems/combination-sum) | [[数组](../array/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 37 | [解数独](../../problems/sudoku-solver) | [[哈希表](../hash-table/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 22 | [括号生成](../../problems/generate-parentheses) | [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 17 | [电话号码的字母组合](../../problems/letter-combinations-of-a-phone-number) | [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 10 | [正则表达式匹配](../../problems/regular-expression-matching) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
+| 1863 | [找出所有子集的异或总和再求和](../../problems/sum-of-all-subset-xor-totals) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Easy |
+| 1849 | [将字符串拆分为递减的连续值](../../problems/splitting-a-string-into-descending-consecutive-values) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 1820 | [最多邀请的个数](../../problems/maximum-number-of-accepted-invitations) 🔒 | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 1799 | [N 次操作后的最大分数和](../../problems/maximize-score-after-n-operations) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)] [[数论](../number-theory/README.md)]  | Hard |
+| 1774 | [最接近目标价格的甜点成本](../../problems/closest-dessert-cost) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 1723 | [完成所有工作的最短时间](../../problems/find-minimum-time-to-finish-all-jobs) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |
+| 1718 | [构建字典序最大的可行序列](../../problems/construct-the-lexicographically-largest-valid-sequence) | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 1655 | [分配重复整数](../../problems/distribute-repeating-integers) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |
+| 1593 | [拆分字符串使唯一子字符串的数目最大](../../problems/split-a-string-into-the-max-number-of-unique-substrings) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 1467 | [两个盒子中球的颜色数相同的概率](../../problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[组合数学](../combinatorics/README.md)] [[概率与统计](../probability-and-statistics/README.md)]  | Hard |
+| 1415 | [长度为 n 的开心字符串中字典序第 k 小的字符串](../../problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 1307 | [口算难题](../../problems/verbal-arithmetic-puzzle) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 1286 | [字母组合迭代器](../../problems/iterator-for-combination) | [[设计](../design/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
+| 1258 | [近义词句子](../../problems/synonymous-sentences) 🔒 | [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 1255 | [得分最高的单词集合](../../problems/maximum-score-words-formed-by-letters) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |
+| 1240 | [铺瓷砖](../../problems/tiling-a-rectangle-with-the-fewest-squares) | [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 1239 | [串联字符串的最大长度](../../problems/maximum-length-of-a-concatenated-string-with-unique-characters) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 1238 | [循环码排列](../../problems/circular-permutation-in-binary-representation) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 1219 | [黄金矿工](../../problems/path-with-maximum-gold) | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 1215 | [步进数](../../problems/stepping-numbers) 🔒 | [[广度优先搜索](../breadth-first-search/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 1096 | [花括号展开 II](../../problems/brace-expansion-ii) | [[栈](../stack/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 1088 | [易混淆数 II](../../problems/confusing-number-ii) 🔒 | [[数学](../math/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 1087 | [花括号展开](../../problems/brace-expansion) 🔒 | [[广度优先搜索](../breadth-first-search/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 1079 | [活字印刷](../../problems/letter-tile-possibilities) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 1066 | [校园自行车分配 II](../../problems/campus-bikes-ii) 🔒 | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
+| 996 | [正方形数组的数目](../../problems/number-of-squareful-arrays) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |
+| 980 | [不同路径 III](../../problems/unique-paths-iii) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
+| 967 | [连续差相同的数字](../../problems/numbers-with-same-consecutive-differences) | [[广度优先搜索](../breadth-first-search/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 842 | [将数组拆分成斐波那契序列](../../problems/split-array-into-fibonacci-sequence) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 816 | [模糊坐标](../../problems/ambiguous-coordinates) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 797 | [所有可能的路径](../../problems/all-paths-from-source-to-target) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 784 | [字母大小写全排列](../../problems/letter-case-permutation) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 698 | [划分为k个相等的子集](../../problems/partition-to-k-equal-sum-subsets) | [[位运算](../bit-manipulation/README.md)] [[记忆化搜索](../memoization/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
+| 691 | [贴纸拼词](../../problems/stickers-to-spell-word) | [[位运算](../bit-manipulation/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |
+| 679 | [24 点游戏](../../problems/24-game) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 638 | [大礼包](../../problems/shopping-offers) | [[位运算](../bit-manipulation/README.md)] [[记忆化搜索](../memoization/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
+| 526 | [优美的排列](../../problems/beautiful-arrangement) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
+| 494 | [目标和](../../problems/target-sum) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 491 | [递增子序列](../../problems/increasing-subsequences) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 489 | [扫地机器人](../../problems/robot-room-cleaner) 🔒 | [[回溯](../backtracking/README.md)] [[交互](../interactive/README.md)]  | Hard |
+| 488 | [祖玛游戏](../../problems/zuma-game) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 473 | [火柴拼正方形](../../problems/matchsticks-to-square) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
+| 465 | [最优账单平衡](../../problems/optimal-account-balancing) 🔒 | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 425 | [单词方块](../../problems/word-squares) 🔒 | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 411 | [最短独占单词缩写](../../problems/minimum-unique-word-abbreviation) 🔒 | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 401 | [二进制手表](../../problems/binary-watch) | [[位运算](../bit-manipulation/README.md)] [[回溯](../backtracking/README.md)]  | Easy |
+| 357 | [计算各个位数不同的数字个数](../../problems/count-numbers-with-unique-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 351 | [安卓系统手势解锁](../../problems/android-unlock-patterns) 🔒 | [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 320 | [列举单词的全部缩写](../../problems/generalized-abbreviation) 🔒 | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 306 | [累加数](../../problems/additive-number) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 301 | [删除无效的括号](../../problems/remove-invalid-parentheses) | [[广度优先搜索](../breadth-first-search/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 294 | [翻转游戏 II](../../problems/flip-game-ii) 🔒 | [[记忆化搜索](../memoization/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 291 | [单词规律 II](../../problems/word-pattern-ii) 🔒 | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 282 | [给表达式添加运算符](../../problems/expression-add-operators) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 267 | [回文排列 II](../../problems/palindrome-permutation-ii) 🔒 | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 254 | [因子的组合](../../problems/factor-combinations) 🔒 | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 216 | [组合总和 III](../../problems/combination-sum-iii) | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 212 | [单词搜索 II](../../problems/word-search-ii) | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
+| 140 | [单词拆分 II](../../problems/word-break-ii) | [[字典树](../trie/README.md)] [[记忆化搜索](../memoization/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 131 | [分割回文串](../../problems/palindrome-partitioning) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 126 | [单词接龙 II](../../problems/word-ladder-ii) | [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 113 | [路径总和 II](../../problems/path-sum-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[回溯](../backtracking/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 95 | [不同的二叉搜索树 II](../../problems/unique-binary-search-trees-ii) | [[树](../tree/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 93 | [复原 IP 地址](../../problems/restore-ip-addresses) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 90 | [子集 II](../../problems/subsets-ii) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 89 | [格雷编码](../../problems/gray-code) | [[位运算](../bit-manipulation/README.md)] [[数学](../math/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 79 | [单词搜索](../../problems/word-search) | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 78 | [子集](../../problems/subsets) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 77 | [组合](../../problems/combinations) | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 52 | [N皇后 II](../../problems/n-queens-ii) | [[回溯](../backtracking/README.md)]  | Hard |
+| 51 | [N 皇后](../../problems/n-queens) | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 47 | [全排列 II](../../problems/permutations-ii) | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 46 | [全排列](../../problems/permutations) | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 40 | [组合总和 II](../../problems/combination-sum-ii) | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 39 | [组合总和](../../problems/combination-sum) | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 37 | [解数独](../../problems/sudoku-solver) | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
+| 22 | [括号生成](../../problems/generate-parentheses) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 17 | [电话号码的字母组合](../../problems/letter-combinations-of-a-phone-number) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |

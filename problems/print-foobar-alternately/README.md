@@ -49,6 +49,9 @@ class FooBar {
 <strong>Explanation:</strong> &quot;foobar&quot; is being output 2 times.
 </pre>
 
+### Related Topics
+  [[Concurrency](../../tag/concurrency/README.md)]
+
 ### Similar Questions
   1. [Print in Order](../print-in-order) (Easy)
   1. [Print Zero Even Odd](../print-zero-even-odd) (Medium)

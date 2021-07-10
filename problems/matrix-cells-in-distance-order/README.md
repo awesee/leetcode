@@ -63,4 +63,8 @@ There are other answers that would also be accepted as correct, such as [[1,2],[
 </div>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
+  [[Geometry](../../tag/geometry/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
