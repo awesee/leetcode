@@ -42,6 +42,10 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
+  [[String Matching](../../tag/string-matching/README.md)]
+  [[Hash Function](../../tag/hash-function/README.md)]
 
 ### Similar Questions
   1. [Count Univalue Subtrees](../count-univalue-subtrees) (Medium)

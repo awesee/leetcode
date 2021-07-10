@@ -51,6 +51,7 @@ The strings are the same, so return true.</pre>
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]
 
 ### Hints

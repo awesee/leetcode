@@ -60,3 +60,4 @@ The number of positions that have a 1 in both images is 3. (Shown in red)
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]

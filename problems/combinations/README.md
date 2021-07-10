@@ -47,6 +47,7 @@
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions

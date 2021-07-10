@@ -44,7 +44,9 @@ T_4 = 1 + 1 + 2 = 4
 </ul>
 
 ### Related Topics
-  [[Recursion](../../tag/recursion/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Climbing Stairs](../climbing-stairs) (Easy)

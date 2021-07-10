@@ -22,10 +22,10 @@
 	{
 		"Name": "Greedy",
 		"Slug": "greedy",
-		"TranslatedName": "贪心算法"
+		"TranslatedName": "贪心"
 	},
 	{
-		"Name": "Depth-first Search",
+		"Name": "Depth-First Search",
 		"Slug": "depth-first-search",
 		"TranslatedName": "深度优先搜索"
 	},
@@ -45,7 +45,7 @@
 		"TranslatedName": "二分查找"
 	},
 	{
-		"Name": "Breadth-first Search",
+		"Name": "Breadth-First Search",
 		"Slug": "breadth-first-search",
 		"TranslatedName": "广度优先搜索"
 	},
@@ -62,7 +62,7 @@
 	{
 		"Name": "Backtracking",
 		"Slug": "backtracking",
-		"TranslatedName": "回溯算法"
+		"TranslatedName": "回溯"
 	},
 	{
 		"Name": "Design",
@@ -107,7 +107,7 @@
 	{
 		"Name": "Sliding Window",
 		"Slug": "sliding-window",
-		"TranslatedName": "Sliding Window"
+		"TranslatedName": "滑动窗口"
 	},
 	{
 		"Name": "Trie",
@@ -117,7 +117,7 @@
 	{
 		"Name": "Divide and Conquer",
 		"Slug": "divide-and-conquer",
-		"TranslatedName": "分治算法"
+		"TranslatedName": "分治"
 	},
 	{
 		"Name": "Ordered Map",
@@ -142,7 +142,7 @@
 	{
 		"Name": "Line Sweep",
 		"Slug": "line-sweep",
-		"TranslatedName": "Line Sweep"
+		"TranslatedName": "扫描线"
 	},
 	{
 		"Name": "Binary Indexed Tree",
@@ -182,22 +182,22 @@
 	{
 		"Name": "Rolling Hash",
 		"Slug": "rolling-hash",
-		"TranslatedName": "Rolling Hash"
+		"TranslatedName": "滚动哈希"
 	},
 	{
 		"Name": "Suffix Array",
 		"Slug": "suffix-array",
-		"TranslatedName": "Suffix Array"
+		"TranslatedName": "后缀数组"
 	},
 	{
 		"Name": "Rejection Sampling",
 		"Slug": "rejection-sampling",
-		"TranslatedName": "Rejection Sampling"
+		"TranslatedName": "拒绝采样"
 	},
 	{
 		"Name": "Reservoir Sampling",
 		"Slug": "reservoir-sampling",
-		"TranslatedName": "蓄水池抽样"
+		"TranslatedName": "水塘抽样"
 	},
 	{
 		"Name": "Meet In The Middle",
@@ -207,11 +207,181 @@
 	{
 		"Name": "Memoization",
 		"Slug": "memoization",
-		"TranslatedName": "记忆化"
+		"TranslatedName": "记忆化搜索"
 	},
 	{
 		"Name": "OOP",
 		"Slug": "oop",
 		"TranslatedName": "OOP"
+	},
+	{
+		"Name": "Sorting",
+		"Slug": "sorting",
+		"TranslatedName": "排序"
+	},
+	{
+		"Name": "Heap (Priority Queue)",
+		"Slug": "heap-priority-queue",
+		"TranslatedName": "堆（优先队列）"
+	},
+	{
+		"Name": "Ordered Set",
+		"Slug": "ordered-set",
+		"TranslatedName": "有序集合"
+	},
+	{
+		"Name": "Hash Function",
+		"Slug": "hash-function",
+		"TranslatedName": "哈希函数"
+	},
+	{
+		"Name": "String Matching",
+		"Slug": "string-matching",
+		"TranslatedName": "字符串匹配"
+	},
+	{
+		"Name": "Randomized",
+		"Slug": "randomized",
+		"TranslatedName": "随机化"
+	},
+	{
+		"Name": "Prefix Sum",
+		"Slug": "prefix-sum",
+		"TranslatedName": "前缀和"
+	},
+	{
+		"Name": "Probability and Statistics",
+		"Slug": "probability-and-statistics",
+		"TranslatedName": "概率与统计"
+	},
+	{
+		"Name": "Simulation",
+		"Slug": "simulation",
+		"TranslatedName": "模拟"
+	},
+	{
+		"Name": "Monotonic Queue",
+		"Slug": "monotonic-queue",
+		"TranslatedName": "单调队列"
+	},
+	{
+		"Name": "Data Stream",
+		"Slug": "data-stream",
+		"TranslatedName": "数据流"
+	},
+	{
+		"Name": "Counting",
+		"Slug": "counting",
+		"TranslatedName": "计数"
+	},
+	{
+		"Name": "Matrix",
+		"Slug": "matrix",
+		"TranslatedName": "矩阵"
+	},
+	{
+		"Name": "Iterator",
+		"Slug": "iterator",
+		"TranslatedName": "迭代器"
+	},
+	{
+		"Name": "Quickselect",
+		"Slug": "quickselect",
+		"TranslatedName": "快速选择"
+	},
+	{
+		"Name": "Merge Sort",
+		"Slug": "merge-sort",
+		"TranslatedName": "归并排序"
+	},
+	{
+		"Name": "Binary Tree",
+		"Slug": "binary-tree",
+		"TranslatedName": "二叉树"
+	},
+	{
+		"Name": "Combinatorics",
+		"Slug": "combinatorics",
+		"TranslatedName": "组合数学"
+	},
+	{
+		"Name": "Shortest Path",
+		"Slug": "shortest-path",
+		"TranslatedName": "最短路"
+	},
+	{
+		"Name": "Interactive",
+		"Slug": "interactive",
+		"TranslatedName": "交互"
+	},
+	{
+		"Name": "Bucket Sort",
+		"Slug": "bucket-sort",
+		"TranslatedName": "桶排序"
+	},
+	{
+		"Name": "Counting Sort",
+		"Slug": "counting-sort",
+		"TranslatedName": "计数排序"
+	},
+	{
+		"Name": "Radix Sort",
+		"Slug": "radix-sort",
+		"TranslatedName": "基数排序"
+	},
+	{
+		"Name": "Monotonic Stack",
+		"Slug": "monotonic-stack",
+		"TranslatedName": "单调栈"
+	},
+	{
+		"Name": "Minimum Spanning Tree",
+		"Slug": "minimum-spanning-tree",
+		"TranslatedName": "最小生成树"
+	},
+	{
+		"Name": "Strongly Connected Component",
+		"Slug": "strongly-connected-component",
+		"TranslatedName": "强连通分量"
+	},
+	{
+		"Name": "Game Theory",
+		"Slug": "game-theory",
+		"TranslatedName": "博弈"
+	},
+	{
+		"Name": "Bitmask",
+		"Slug": "bitmask",
+		"TranslatedName": "状态压缩"
+	},
+	{
+		"Name": "Concurrency",
+		"Slug": "concurrency",
+		"TranslatedName": "多线程"
+	},
+	{
+		"Name": "Doubly-Linked List",
+		"Slug": "doubly-linked-list",
+		"TranslatedName": "双向链表"
+	},
+	{
+		"Name": "Enumeration",
+		"Slug": "enumeration",
+		"TranslatedName": "枚举"
+	},
+	{
+		"Name": "Number Theory",
+		"Slug": "number-theory",
+		"TranslatedName": "数论"
+	},
+	{
+		"Name": "Biconnected Component",
+		"Slug": "biconnected-component",
+		"TranslatedName": "双连通分量"
+	},
+	{
+		"Name": "Eulerian Circuit",
+		"Slug": "eulerian-circuit",
+		"TranslatedName": "欧拉回路"
 	}
 ]

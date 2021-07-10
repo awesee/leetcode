@@ -49,8 +49,11 @@ We could return these lists in any order, for example the answer [[&#39;Mary&#39
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
   1. [Redundant Connection](../redundant-connection) (Medium)

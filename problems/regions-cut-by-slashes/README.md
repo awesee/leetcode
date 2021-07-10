@@ -66,6 +66,7 @@
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
   [[Graph](../../tag/graph/README.md)]

@@ -69,8 +69,10 @@ The grid happiness is 90 + 80 + 90 = 260.
 </ul>
 
 ### Related Topics
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
-  [[Backtracking](../../tag/backtracking/README.md)]
+  [[Bitmask](../../tag/bitmask/README.md)]
 
 ### Hints
 <details>

@@ -55,6 +55,7 @@
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints

@@ -40,6 +40,7 @@
 </ul>
 
 ### Related Topics
+  [[Geometry](../../tag/geometry/README.md)]
   [[Math](../../tag/math/README.md)]
 
 ### Similar Questions

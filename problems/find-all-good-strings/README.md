@@ -52,7 +52,9 @@
 </ul>
 
 ### Related Topics
+  [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[String Matching](../../tag/string-matching/README.md)]
 
 ### Hints
 <details>

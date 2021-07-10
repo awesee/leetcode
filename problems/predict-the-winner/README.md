@@ -47,8 +47,11 @@ Finally, player 1 has more score (234) than player 2 (12), so you need to return
 </ul>
 
 ### Related Topics
-  [[Minimax](../../tag/minimax/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Game Theory](../../tag/game-theory/README.md)]
 
 ### Similar Questions
   1. [Can I Win](../can-i-win) (Medium)

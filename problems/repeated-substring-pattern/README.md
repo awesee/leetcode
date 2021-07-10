@@ -47,6 +47,7 @@
 
 ### Related Topics
   [[String](../../tag/string/README.md)]
+  [[String Matching](../../tag/string-matching/README.md)]
 
 ### Similar Questions
   1. [Implement strStr()](../implement-strstr) (Easy)

@@ -70,6 +70,8 @@ Now we have segments [0,2] + [2,8] + [8,10] which cover the sporting event [0, 1
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints

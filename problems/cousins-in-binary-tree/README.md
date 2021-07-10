@@ -60,7 +60,9 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Binary Tree Level Order Traversal](../binary-tree-level-order-traversal) (Medium)

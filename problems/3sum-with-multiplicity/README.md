@@ -50,4 +50,8 @@ and two 2s from [2,2,2,2] in 6 ways.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Counting](../../tag/counting/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]

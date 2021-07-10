@@ -12,3 +12,6 @@
 ## [1875. Group Employees of the Same Salary (Medium)](https://leetcode.com/problems/group-employees-of-the-same-salary "")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

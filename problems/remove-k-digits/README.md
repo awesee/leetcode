@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../frog-jump "Frog Jump")
 
-## [402. Remove K Digits (Medium)](https://leetcode.com/problems/remove-k-digits "移掉K位数字")
+## [402. Remove K Digits (Medium)](https://leetcode.com/problems/remove-k-digits "移掉 K 位数字")
 
 <p>Given string num representing a non-negative integer <code>num</code>, and an integer <code>k</code>, return <em>the smallest possible integer after removing</em> <code>k</code> <em>digits from</em> <code>num</code>.</p>
 
@@ -50,6 +50,8 @@
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Similar Questions
   1. [Create Maximum Number](../create-maximum-number) (Hard)

@@ -61,12 +61,13 @@ The total score is 50 + 15 - 9 + 4 + 42 = 102.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>
 <summary>Hint 1</summary>
-At first glance, the solution seems to be greedy, but if you try to greedily take the largest value from the begging or the end, this will not be optimal.
+At first glance, the solution seems to be greedy, but if you try to greedily take the largest value from the beginning or the end, this will not be optimal.
 </details>
 
 <details>
@@ -76,5 +77,5 @@ You should try all scenarios but this will be costy.
 
 <details>
 <summary>Hint 3</summary>
-Memoizing the pre-visited states while trying all the possible scenarios will reduce the complexity, and hence dp is the perfect choice here.
+Memoizing the pre-visited states while trying all the possible scenarios will reduce the complexity, and hence dp is a perfect choice here.
 </details>

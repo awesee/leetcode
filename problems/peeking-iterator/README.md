@@ -56,6 +56,8 @@ peekingIterator.hasNext(); // return False
 
 ### Related Topics
   [[Design](../../tag/design/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Iterator](../../tag/iterator/README.md)]
 
 ### Similar Questions
   1. [Binary Search Tree Iterator](../binary-search-tree-iterator) (Medium)

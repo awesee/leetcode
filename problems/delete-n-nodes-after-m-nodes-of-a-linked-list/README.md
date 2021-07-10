@@ -15,3 +15,9 @@
 
 ### Related Topics
   [[Linked List](../../tag/linked-list/README.md)]
+
+### Hints
+<details>
+<summary>Hint 1</summary>
+Traverse the Linked List, each time you need to delete the next n nodes connect the nodes previous deleting with the next node after deleting.
+</details>

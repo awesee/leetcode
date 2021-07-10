@@ -37,7 +37,7 @@
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
-  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
   1. [Single Number II](../single-number-ii) (Medium)

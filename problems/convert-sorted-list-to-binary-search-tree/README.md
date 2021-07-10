@@ -54,8 +54,11 @@
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Convert Sorted Array to Binary Search Tree](../convert-sorted-array-to-binary-search-tree) (Easy)

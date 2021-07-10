@@ -61,6 +61,7 @@ These boxes are placed in the corner of the room, where the corner is on the bac
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
   [[Math](../../tag/math/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
 

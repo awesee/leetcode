@@ -55,8 +55,11 @@ The edges 2, 3, 4, and 5 are only part of some MSTs, therefore they are consider
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
+  [[Graph](../../tag/graph/README.md)]
+  [[Minimum Spanning Tree](../../tag/minimum-spanning-tree/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Strongly Connected Component](../../tag/strongly-connected-component/README.md)]
 
 ### Hints
 <details>

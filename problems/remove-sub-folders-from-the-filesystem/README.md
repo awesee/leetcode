@@ -53,6 +53,7 @@
 </ul>
 
 ### Related Topics
+  [[Trie](../../tag/trie/README.md)]
   [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]
 

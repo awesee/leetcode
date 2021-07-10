@@ -75,6 +75,8 @@
 
 ### Related Topics
   [[Graph](../../tag/graph/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Find the Celebrity](../find-the-celebrity) (Medium)

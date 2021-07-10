@@ -30,6 +30,10 @@
 	<li>The given dates are valid&nbsp;dates between the years <code>1971</code> and <code>2100</code>.</li>
 </ul>
 
+### Related Topics
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

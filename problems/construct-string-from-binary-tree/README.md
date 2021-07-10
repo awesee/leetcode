@@ -42,7 +42,9 @@ Explanation: Almost the same as the first example, except we cannot omit the fir
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Construct Binary Tree from String](../construct-binary-tree-from-string) (Medium)

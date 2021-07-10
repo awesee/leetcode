@@ -59,7 +59,7 @@ Where &quot;^&quot; corresponds to bitwise XOR operator.
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
-  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

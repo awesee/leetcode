@@ -61,6 +61,7 @@ They share a common elements nums[4] (0-indexed).
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[String Matching](../../tag/string-matching/README.md)]
 
 ### Hints
 <details>

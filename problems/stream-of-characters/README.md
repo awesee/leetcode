@@ -51,7 +51,11 @@ streamChecker.query(&#39;l&#39;);          // return true, because &#39;kl&#39; 
 </ul>
 
 ### Related Topics
+  [[Design](../../tag/design/README.md)]
   [[Trie](../../tag/trie/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Data Stream](../../tag/data-stream/README.md)]
 
 ### Hints
 <details>

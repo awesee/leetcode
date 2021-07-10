@@ -11,7 +11,7 @@
 
 ## [576. Out of Boundary Paths (Medium)](https://leetcode.com/problems/out-of-boundary-paths "出界的路径数")
 
-<p>There is an <code>m x n</code> grid with a ball. The ball is initially at the position <code>[startRow, startColumn]</code>. You are allowed to move the ball to one of the four adjacent four cells in the grid (possibly out of the grid crossing the grid boundary). You can apply <strong>at most</strong> <code>maxMove</code> moves to the ball.</p>
+<p>There is an <code>m x n</code> grid with a ball. The ball is initially at the position <code>[startRow, startColumn]</code>. You are allowed to move the ball to one of the four adjacent cells in the grid (possibly out of the grid crossing the grid boundary). You can apply <strong>at most</strong> <code>maxMove</code> moves to the ball.</p>
 
 <p>Given the five integers <code>m</code>, <code>n</code>, <code>maxMove</code>, <code>startRow</code>, <code>startColumn</code>, return the number of paths to move the ball out of the grid boundary. Since the answer can be very large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
 
@@ -36,12 +36,11 @@
 <ul>
 	<li><code>1 &lt;= m, n &lt;= 50</code></li>
 	<li><code>0 &lt;= maxMove &lt;= 50</code></li>
-	<li><code>0 &lt;= startRow &lt;= m</code></li>
-	<li><code>0 &lt;= startColumn &lt;= n</code></li>
+	<li><code>0 &lt;= startRow &lt; m</code></li>
+	<li><code>0 &lt;= startColumn &lt; n</code></li>
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
@@ -50,15 +49,17 @@
 ### Hints
 <details>
 <summary>Hint 1</summary>
-WIll traversing every path is fesaible? There are many possible paths for a small matrix. Try to optimize it.
+Is traversing every path feasible? There are many possible paths for a small matrix. Try to optimize it.
 </details>
 
 <details>
 <summary>Hint 2</summary>
-Can we use some space to store the number of paths and updating them after every move?
+Can we use some space to store the number of paths and update them after every move?
 </details>
 
 <details>
 <summary>Hint 3</summary>
-One obvious thing: ball will go out of boundary only by crossing it. Also, there is only one possible way ball can go out of boundary from boundary cell except corner cells. From corner cell ball can go out in two different ways. Can you use this thing to solve the problem?
+One obvious thing: the ball will go out of the boundary only by crossing it. Also, there is only one possible way the ball can go out of the boundary from the boundary cell except for corner cells. From the corner cell, the ball can go out in two different ways.
+
+Can you use this thing to solve the problem?
 </details>

@@ -45,6 +45,7 @@ After sorting, it becomes [0,1,9,16,100].
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Merge Sorted Array](../merge-sorted-array) (Easy)

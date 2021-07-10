@@ -63,6 +63,10 @@
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

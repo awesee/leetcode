@@ -11,15 +11,18 @@
 
 ## [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts (Medium)](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts "切割后面积最大的蛋糕")
 
-<p>Given a rectangular cake with height <code>h</code> and width <code>w</code>, and two arrays of integers <code>horizontalCuts</code> and <code>verticalCuts</code> where <code>horizontalCuts[i]</code> is the distance from the top of the rectangular cake to the <code>ith</code> horizontal cut&nbsp;and similarly, <code>verticalCuts[j]</code> is the distance from the&nbsp;left of the rectangular cake to the <code>jth</code>&nbsp;vertical cut.</p>
+<p>You are given a rectangular cake of size <code>h x w</code> and two arrays of integers <code>horizontalCuts</code> and <code>verticalCuts</code> where:</p>
 
-<p><em>Return the maximum area of a piece of cake after you cut at each horizontal and vertical position provided in the arrays <code>horizontalCuts</code> and <code>verticalCuts</code>.&nbsp;</em>Since the answer can be a huge number, return this modulo 10^9 + 7.</p>
+<ul>
+	<li><code>horizontalCuts[i]</code> is the distance from the top of the rectangular cake to the <code>i<sup>th</sup></code> horizontal cut and similarly, and</li>
+	<li><code>verticalCuts[j]</code> is the distance from the left of the rectangular cake to the <code>j<sup>th</sup></code> vertical cut.</li>
+</ul>
+
+<p>Return <em>the maximum area of a piece of cake after you cut at each horizontal and vertical position provided in the arrays</em> <code>horizontalCuts</code> <em>and</em> <code>verticalCuts</code>. Since the answer can be a large number, return this <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-
-<p><img alt="" src="https://assets.leetcode.com/uploads/2020/05/14/leetcode_max_area_2.png" style="width: 300px; height: 320px;" /></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2020/05/14/leetcode_max_area_2.png" style="width: 225px; height: 240px;" />
 <pre>
 <strong>Input:</strong> h = 5, w = 4, horizontalCuts = [1,2,4], verticalCuts = [1,3]
 <strong>Output:</strong> 4 
@@ -27,9 +30,7 @@
 </pre>
 
 <p><strong>Example 2:</strong></p>
-
-<p><strong><img alt="" src="https://assets.leetcode.com/uploads/2020/05/14/leetcode_max_area_3.png" style="width: 300px; height: 320px;" /></strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2020/05/14/leetcode_max_area_3.png" style="width: 225px; height: 240px;" />
 <pre>
 <strong>Input:</strong> h = 5, w = 4, horizontalCuts = [3,1], verticalCuts = [1]
 <strong>Output:</strong> 6
@@ -47,17 +48,19 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>2 &lt;= h,&nbsp;w &lt;= 10^9</code></li>
-	<li><code>1 &lt;=&nbsp;horizontalCuts.length &lt;&nbsp;min(h, 10^5)</code></li>
-	<li><code>1 &lt;=&nbsp;verticalCuts.length &lt; min(w, 10^5)</code></li>
-	<li><code>1 &lt;=&nbsp;horizontalCuts[i] &lt; h</code></li>
-	<li><code>1 &lt;=&nbsp;verticalCuts[i] &lt; w</code></li>
-	<li>It is guaranteed that all elements in&nbsp;<code>horizontalCuts</code>&nbsp;are distinct.</li>
-	<li>It is guaranteed that all elements in <code>verticalCuts</code>&nbsp;are distinct.</li>
+	<li><code>2 &lt;= h, w &lt;= 10<sup>9</sup></code></li>
+	<li><code>1 &lt;= horizontalCuts.length &lt;= min(h - 1, 10<sup>5</sup>)</code></li>
+	<li><code>1 &lt;= verticalCuts.length &lt;= min(w - 1, 10<sup>5</sup>)</code></li>
+	<li><code>1 &lt;= horizontalCuts[i] &lt; h</code></li>
+	<li><code>1 &lt;= verticalCuts[i] &lt; w</code></li>
+	<li>All the elements in <code>horizontalCuts</code> are distinct.</li>
+	<li>All the elements in <code>verticalCuts</code> are distinct.</li>
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

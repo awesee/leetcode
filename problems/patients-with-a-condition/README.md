@@ -12,3 +12,6 @@
 ## [1527. Patients With a Condition (Easy)](https://leetcode.com/problems/patients-with-a-condition "患某种疾病的患者")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

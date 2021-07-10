@@ -82,6 +82,7 @@ Notice that the &quot;a&quot;s not in a bracket pair are not evaluated.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
 

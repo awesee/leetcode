@@ -50,7 +50,9 @@
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Number Theory](../../tag/number-theory/README.md)]
 
 ### Hints
 <details>

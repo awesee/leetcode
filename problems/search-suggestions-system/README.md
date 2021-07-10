@@ -66,6 +66,8 @@ After typing mou, mous and mouse the system suggests [&quot;mouse&quot;,&quot;mo
 </ul>
 
 ### Related Topics
+  [[Trie](../../tag/trie/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]
 
 ### Hints

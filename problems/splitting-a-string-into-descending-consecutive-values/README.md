@@ -68,7 +68,6 @@ The values are in descending order with adjacent values differing by 1.
 </ul>
 
 ### Related Topics
-  [[Recursion](../../tag/recursion/README.md)]
   [[String](../../tag/string/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
 

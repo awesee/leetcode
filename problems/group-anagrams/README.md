@@ -38,6 +38,7 @@
 ### Related Topics
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Valid Anagram](../valid-anagram) (Easy)

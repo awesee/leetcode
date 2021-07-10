@@ -65,8 +65,9 @@ Any height assignment that has a maximum height of 2 while still meeting the rul
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
-  [[Graph](../../tag/graph/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Hints
 <details>

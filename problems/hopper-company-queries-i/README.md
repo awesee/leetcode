@@ -12,3 +12,6 @@
 ## [1635. Hopper Company Queries I (Hard)](https://leetcode.com/problems/hopper-company-queries-i "Hopper 公司查询 I")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

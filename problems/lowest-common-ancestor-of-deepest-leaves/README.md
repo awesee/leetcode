@@ -60,7 +60,10 @@ Note that nodes 6, 0, and 8 are also leaf nodes, but the depth of them is 2, but
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Hints
 <details>

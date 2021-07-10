@@ -94,7 +94,9 @@ subrectangleQueries.getValue(2, 2); // return 20
 </ul>
 
 ### Related Topics
+  [[Design](../../tag/design/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Hints
 <details>

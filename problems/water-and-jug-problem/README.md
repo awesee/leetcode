@@ -54,4 +54,6 @@
 </ul>
 
 ### Related Topics
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Math](../../tag/math/README.md)]

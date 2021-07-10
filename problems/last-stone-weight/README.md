@@ -45,8 +45,8 @@ we combine 1 and 1 to get 0 so the array converts to [1] then that&#39;s the val
 </ol>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

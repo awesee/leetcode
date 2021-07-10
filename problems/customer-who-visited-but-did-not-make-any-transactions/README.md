@@ -12,3 +12,6 @@
 ## [1581. Customer Who Visited but Did Not Make Any Transactions (Easy)](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions "进店却未进行过交易的顾客")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

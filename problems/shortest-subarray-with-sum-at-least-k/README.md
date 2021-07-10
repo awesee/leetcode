@@ -59,4 +59,9 @@
 
 ### Related Topics
   [[Queue](../../tag/queue/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
+  [[Monotonic Queue](../../tag/monotonic-queue/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]

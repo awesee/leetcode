@@ -108,3 +108,7 @@ The resulting matrix is of size 1*1 with also zero.
 	<li><code>quadTree1</code> and <code>quadTree2</code> are both <strong>valid</strong> Quad-Trees each representing a <code>n * n</code> grid.</li>
 	<li><code>n == 2^x</code> where <code>0 &lt;= x &lt;= 9</code>.</li>
 </ul>
+
+### Related Topics
+  [[Tree](../../tag/tree/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]

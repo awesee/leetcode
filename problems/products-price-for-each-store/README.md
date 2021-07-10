@@ -12,3 +12,6 @@
 ## [1777. Product's Price for Each Store (Easy)](https://leetcode.com/problems/products-price-for-each-store "每家商店的产品价格")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

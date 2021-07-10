@@ -51,5 +51,7 @@ where the largest sum among the two subarrays is only 18.
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

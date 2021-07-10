@@ -57,6 +57,8 @@
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Similar Questions
   1. [Solve the Equation](../solve-the-equation) (Medium)

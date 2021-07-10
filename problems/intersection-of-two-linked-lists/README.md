@@ -65,7 +65,9 @@ Explanation: The two lists do not intersect, so return null.
 <strong>Follow up:</strong> Could you write a solution that runs in <code>O(n)</code> time and use only <code>O(1)</code> memory?
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
   1. [Minimum Index Sum of Two Lists](../minimum-index-sum-of-two-lists) (Easy)

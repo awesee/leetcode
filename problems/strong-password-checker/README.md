@@ -47,3 +47,8 @@
 	<li><code>1 &lt;= password.length &lt;= 50</code></li>
 	<li><code>password</code> consists of letters, digits, dot&nbsp;<code>&#39;.&#39;</code> or exclamation mark <code>&#39;!&#39;</code>.</li>
 </ul>
+
+### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]

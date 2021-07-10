@@ -50,12 +50,10 @@
 	<li><code>1 &lt;= k &lt;= m + n</code></li>
 </ul>
 
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong> Try to optimize your time and space complexity.</p>
-
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Similar Questions
   1. [Remove K Digits](../remove-k-digits) (Medium)

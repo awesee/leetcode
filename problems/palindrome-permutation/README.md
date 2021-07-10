@@ -11,25 +11,12 @@
 
 ## [266. Palindrome Permutation (Easy)](https://leetcode.com/problems/palindrome-permutation "回文排列")
 
-<p>Given a string, determine if a permutation of the string could form a palindrome.</p>
 
-<p><strong>Example 1:</strong></p>
-
-<pre><strong>Input:</strong> <code>&quot;code&quot;</code>
-<strong>Output:</strong> false</pre>
-
-<p><strong>Example 2:</strong></p>
-
-<pre><strong>Input:</strong> <code>&quot;aab&quot;</code>
-<strong>Output:</strong> true</pre>
-
-<p><strong>Example 3:</strong></p>
-
-<pre><strong>Input:</strong> <code>&quot;carerac&quot;</code>
-<strong>Output:</strong> true</pre>
 
 ### Related Topics
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
   1. [Longest Palindromic Substring](../longest-palindromic-substring) (Medium)

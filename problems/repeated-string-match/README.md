@@ -56,6 +56,7 @@
 
 ### Related Topics
   [[String](../../tag/string/README.md)]
+  [[String Matching](../../tag/string-matching/README.md)]
 
 ### Similar Questions
   1. [Repeated Substring Pattern](../repeated-substring-pattern) (Easy)

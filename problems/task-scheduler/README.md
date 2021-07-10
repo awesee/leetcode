@@ -62,8 +62,11 @@ A -&gt; B -&gt; C -&gt; A -&gt; D -&gt; E -&gt; A -&gt; F -&gt; G -&gt; A -&gt; 
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
-  [[Queue](../../tag/queue/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Counting](../../tag/counting/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Rearrange String k Distance Apart](../rearrange-string-k-distance-apart) (Hard)

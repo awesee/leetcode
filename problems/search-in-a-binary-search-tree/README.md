@@ -42,6 +42,8 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Closest Binary Search Tree Value](../closest-binary-search-tree-value) (Easy)

@@ -65,6 +65,8 @@ Hence, nums = [0,1,1,2,1,3,2,3], and the maximum is 3.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

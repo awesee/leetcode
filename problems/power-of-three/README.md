@@ -40,6 +40,7 @@
 <strong>Follow up:</strong> Could you solve it without loops/recursion?
 
 ### Related Topics
+  [[Recursion](../../tag/recursion/README.md)]
   [[Math](../../tag/math/README.md)]
 
 ### Similar Questions

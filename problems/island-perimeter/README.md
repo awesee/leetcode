@@ -51,7 +51,10 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Similar Questions
   1. [Max Area of Island](../max-area-of-island) (Medium)

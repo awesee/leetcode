@@ -50,3 +50,8 @@
 	<li><code>0 &lt;= score[i] &lt;= 10<sup>6</sup></code></li>
 	<li>All the values in <code>score</code> are <strong>unique</strong>.</li>
 </ul>
+
+### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]

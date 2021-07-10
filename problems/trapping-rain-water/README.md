@@ -43,6 +43,7 @@
   [[Array](../../tag/array/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Similar Questions
   1. [Container With Most Water](../container-with-most-water) (Medium)

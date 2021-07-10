@@ -45,6 +45,8 @@ The substring with start index = 2 is &quot;ab&quot;, which is an anagram of &qu
 
 ### Related Topics
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions
   1. [Valid Anagram](../valid-anagram) (Easy)

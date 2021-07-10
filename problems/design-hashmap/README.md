@@ -54,7 +54,10 @@ myHashMap.get(2);    // return -1 (i.e., not found), The map is now [[1,1]]
 
 ### Related Topics
   [[Design](../../tag/design/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
+  [[Hash Function](../../tag/hash-function/README.md)]
 
 ### Similar Questions
   1. [Design HashSet](../design-hashset) (Easy)

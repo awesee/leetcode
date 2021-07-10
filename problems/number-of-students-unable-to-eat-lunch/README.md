@@ -60,7 +60,10 @@ Hence all students are able to eat.
 </ul>
 
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
+  [[Queue](../../tag/queue/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

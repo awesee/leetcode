@@ -11,28 +11,33 @@
 
 ## [762. Prime Number of Set Bits in Binary Representation (Easy)](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation "二进制表示中质数个计算置位")
 
-<p>Given two integers <code>left</code> and <code>right</code>, find the count of numbers in the range <code>[left, right]</code> (inclusive) having a prime number of set bits in their binary representation.</p>
+<p>Given two integers <code>left</code> and <code>right</code>, return <em>the count of numbers in the inclusive range </em><code>[left, right]</code><em> having a prime number of set bits in their binary representation</em>.</p>
 
-<p>(Recall that the number of set bits an integer has is the number of <code>1</code>s present when written in binary. For example, <code>21</code> written in binary is <code>10101</code> which has 3 set bits. Also, 1 is not a prime.)</p>
+<p>Recall that the number of set bits an integer has is the number of <code>1</code>&#39;s present when written in binary.</p>
 
-<p><b>Example 1:</b></p>
+<ul>
+	<li>For example, <code>21</code> written in binary is <code>10101</code> which has <code>3</code> set bits.</li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
 
 <pre>
-<b>Input:</b> left = 6, right = 10
-<b>Output:</b> 4
-<b>Explanation:</b>
+<strong>Input:</strong> left = 6, right = 10
+<strong>Output:</strong> 4
+<strong>Explanation:</strong>
 6 -&gt; 110 (2 set bits, 2 is prime)
 7 -&gt; 111 (3 set bits, 3 is prime)
 9 -&gt; 1001 (2 set bits , 2 is prime)
 10-&gt;1010 (2 set bits , 2 is prime)
 </pre>
 
-<p><b>Example 2:</b></p>
+<p><strong>Example 2:</strong></p>
 
 <pre>
-<b>Input:</b> left = 10, right = 15
-<b>Output:</b> 5
-<b>Explanation:</b>
+<strong>Input:</strong> left = 10, right = 15
+<strong>Output:</strong> 5
+<strong>Explanation:</strong>
 10 -&gt; 1010 (2 set bits, 2 is prime)
 11 -&gt; 1011 (3 set bits, 3 is prime)
 12 -&gt; 1100 (2 set bits, 2 is prime)
@@ -41,15 +46,17 @@
 15 -&gt; 1111 (4 set bits, 4 is not prime)
 </pre>
 
-<p><b>Note:</b></p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<ol>
-	<li><code>left, right</code> will be integers <code>left &lt;= right</code> in the range <code>[1, 10^6]</code>.</li>
-	<li><code>right - left</code> will be at most 10000.</li>
-</ol>
+<ul>
+	<li><code>1 &lt;= left &lt;= right &lt;= 10<sup>6</sup></code></li>
+	<li><code>0 &lt;= right - left &lt;= 10<sup>4</sup></code></li>
+</ul>
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
   1. [Number of 1 Bits](../number-of-1-bits) (Easy)

@@ -70,6 +70,7 @@ Operation 2: i=4, j=4. Swap s[3] and s[4] to get s=&quot;aaaab&quot;, then rever
 ### Related Topics
   [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Combinatorics](../../tag/combinatorics/README.md)]
 
 ### Hints
 <details>

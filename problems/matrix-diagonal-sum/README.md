@@ -55,6 +55,7 @@ Notice that element mat[1][1] = 5 is counted only once.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Hints
 <details>

@@ -47,4 +47,7 @@
 </ul>
 
 ### Related Topics
-  [[Ordered Map](../../tag/ordered-map/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]

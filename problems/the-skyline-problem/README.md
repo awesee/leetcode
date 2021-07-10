@@ -56,11 +56,13 @@ Figure B shows the skyline formed by those buildings. The red points in figure B
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
   [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
   [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
   [[Line Sweep](../../tag/line-sweep/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Falling Squares](../falling-squares) (Hard)

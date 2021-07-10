@@ -60,8 +60,11 @@ Swap s[0] and s[1], s = &quot;abc&quot;
 </ul>
 
 ### Related Topics
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
-  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

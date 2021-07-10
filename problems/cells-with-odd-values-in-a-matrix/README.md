@@ -56,6 +56,8 @@ The final matrix is [[1,3,1],[1,3,1]], which contains 6 odd numbers.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

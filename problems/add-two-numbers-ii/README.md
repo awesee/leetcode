@@ -50,7 +50,9 @@
 <p><strong>Follow up:</strong>&nbsp;Could you solve it without reversing the input lists?</p>
 
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
   1. [Add Two Numbers](../add-two-numbers) (Medium)

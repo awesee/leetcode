@@ -43,6 +43,7 @@ Total amount you can rob = 2 + 9 + 1 = 12.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions

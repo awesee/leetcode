@@ -51,8 +51,10 @@
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Math](../../tag/math/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Similar Questions
   1. [Subarray Sum Equals K](../subarray-sum-equals-k) (Medium)

@@ -72,7 +72,8 @@ No other coordinate has higher quality.</pre>
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Enumeration](../../tag/enumeration/README.md)]
 
 ### Hints
 <details>

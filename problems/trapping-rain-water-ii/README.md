@@ -42,8 +42,10 @@ The total volume of water trapped is 4.
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Trapping Rain Water](../trapping-rain-water) (Hard)

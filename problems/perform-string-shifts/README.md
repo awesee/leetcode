@@ -16,6 +16,7 @@
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

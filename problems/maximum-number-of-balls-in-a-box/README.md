@@ -58,7 +58,9 @@ Box 10 has the most number of balls with 2 balls.
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Counting](../../tag/counting/README.md)]
 
 ### Hints
 <details>

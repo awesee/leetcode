@@ -46,7 +46,7 @@
 </ul>
 
 ### Related Topics
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Graph](../../tag/graph/README.md)]
 
 ### Hints

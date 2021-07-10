@@ -11,20 +11,12 @@
 
 ## [247. Strobogrammatic Number II (Medium)](https://leetcode.com/problems/strobogrammatic-number-ii "中心对称数 II")
 
-<p>A strobogrammatic number is a number that looks the same when rotated 180 degrees (looked at upside down).</p>
 
-<p>Find all strobogrammatic numbers that are of length = n.</p>
-
-<p><b>Example:</b></p>
-
-<pre>
-<b>Input:</b>  n = 2
-<b>Output:</b> <code>[&quot;11&quot;,&quot;69&quot;,&quot;88&quot;,&quot;96&quot;]</code>
-</pre>
 
 ### Related Topics
   [[Recursion](../../tag/recursion/README.md)]
-  [[Math](../../tag/math/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
   1. [Strobogrammatic Number](../strobogrammatic-number) (Easy)

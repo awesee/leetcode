@@ -71,7 +71,8 @@
 </ul>
 
 ### Related Topics
-  [[Recursion](../../tag/recursion/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints

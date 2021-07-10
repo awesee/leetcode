@@ -52,6 +52,7 @@ s[0] = {nums[0], nums[5], nums[6], nums[2]} = {5, 6, 2, 0}
 </ul>
 
 ### Related Topics
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Array](../../tag/array/README.md)]
 
 ### Similar Questions

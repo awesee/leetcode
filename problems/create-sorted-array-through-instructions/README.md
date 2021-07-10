@@ -79,8 +79,11 @@ The total cost is 0 + 0 + 0 + 0 + 1 + 0 + 1 + 0 + 2 = 4.
 ### Related Topics
   [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
   [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
-  [[Ordered Map](../../tag/ordered-map/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Merge Sort](../../tag/merge-sort/README.md)]
 
 ### Hints
 <details>

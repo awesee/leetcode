@@ -9,11 +9,12 @@
 　　　　　　　　　　　　　　　　
 [Next >](../longer-contiguous-segments-of-ones-than-zeros "Longer Contiguous Segments of Ones than Zeros")
 
-## [1868. Product of Two Run-Length Encoded Arrays (Medium)](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays "")
+## [1868. Product of Two Run-Length Encoded Arrays (Medium)](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays "两个行程编码数组的积")
 
 
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Hints

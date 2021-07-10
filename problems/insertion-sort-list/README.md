@@ -47,8 +47,8 @@
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Sort List](../sort-list) (Medium)

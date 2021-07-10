@@ -37,11 +37,15 @@
 
 <ul>
 	<li><code>1 &lt;= matchsticks.length &lt;= 15</code></li>
-	<li><code>0 &lt;= matchsticks[i] &lt;= 10<sup>9</sup></code></li>
+	<li><code>1 &lt;= matchsticks[i] &lt;= 10<sup>8</sup></code></li>
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
+  [[Bitmask](../../tag/bitmask/README.md)]
 
 ### Hints
 <details>

@@ -61,5 +61,4 @@ Your position goes from 0 --&gt; 1 --&gt; 3 --&gt; 7 --&gt; 7 --&gt; 6.
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

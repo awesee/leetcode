@@ -41,6 +41,7 @@
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
   1. [Permutations](../permutations) (Medium)

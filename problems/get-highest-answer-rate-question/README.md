@@ -11,36 +11,10 @@
 
 ## [578. Get Highest Answer Rate Question (Medium)](https://leetcode.com/problems/get-highest-answer-rate-question "查询回答率最高的问题")
 
-<p>Get the highest answer rate question from a table <code>survey_log</code> with these columns: <b>uid</b>, <b>action</b>, <b>question_id</b>, <b>answer_id</b>, <b>q_num</b>, <b>timestamp</b>.</p>
 
-<p>uid means user id; action has these kind of values: &quot;show&quot;, &quot;answer&quot;, &quot;skip&quot;; answer_id is not null when action column is &quot;answer&quot;, while is null for &quot;show&quot; and &quot;skip&quot;; q_num is the numeral order of the question in current session.</p>
 
-<p>Write a sql query to identify the question which has the highest answer rate.</p>
-
-<p><b>Example:</b></p>
-
-<pre><b>Input:</b>
-+------+-----------+--------------+------------+-----------+------------+
-| uid  | action    | question_id  | answer_id  | q_num     | timestamp  |
-+------+-----------+--------------+------------+-----------+------------+
-| 5    | show      | 285          | null       | 1         | 123        |
-| 5    | answer    | 285          | 124124     | 1         | 124        |
-| 5    | show      | 369          | null       | 2         | 125        |
-| 5    | skip      | 369          | null       | 2         | 126        |
-+------+-----------+--------------+------------+-----------+------------+
-<b>Output:</b>
-+-------------+
-| survey_log  |
-+-------------+
-|    285      |
-+-------------+
-<b>Explanation:</b>
-question 285 has answer rate 1/1, while question 369 has 0/1 answer rate, so output 285.
-</pre>
-
-<p>&nbsp;</p>
-
-<p><b>Note:</b> The highest answer rate meaning is: answer number&#39;s ratio in show number in the same question.</p>
+### Related Topics
+  [[Database](../../tag/database/README.md)]
 
 ### Hints
 <details>

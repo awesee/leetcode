@@ -53,7 +53,9 @@
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints

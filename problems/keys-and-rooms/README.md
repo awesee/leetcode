@@ -53,5 +53,6 @@ We then go to room 3.  Since we were able to go to every room, we return true.
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Graph](../../tag/graph/README.md)]

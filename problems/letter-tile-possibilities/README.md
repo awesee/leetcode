@@ -47,6 +47,7 @@
 </ul>
 
 ### Related Topics
+  [[String](../../tag/string/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints

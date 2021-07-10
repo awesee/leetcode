@@ -62,7 +62,8 @@
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
-  [[Math](../../tag/math/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Hints
 <details>

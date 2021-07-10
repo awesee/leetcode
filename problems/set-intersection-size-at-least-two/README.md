@@ -45,3 +45,5 @@ Thus, we output the size of this set, which is 3.
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]

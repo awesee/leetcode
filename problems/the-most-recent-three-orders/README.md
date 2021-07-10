@@ -12,3 +12,6 @@
 ## [1532. The Most Recent Three Orders (Medium)](https://leetcode.com/problems/the-most-recent-three-orders "最近的三笔订单")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

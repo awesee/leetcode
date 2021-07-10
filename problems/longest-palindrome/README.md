@@ -48,7 +48,9 @@ One longest palindrome that can be built is &quot;dccaccd&quot;, whose length is
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
   1. [Palindrome Permutation](../palindrome-permutation) (Easy)

@@ -70,8 +70,11 @@ Window position                Max
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
+  [[Queue](../../tag/queue/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
+  [[Monotonic Queue](../../tag/monotonic-queue/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Minimum Window Substring](../minimum-window-substring) (Hard)

@@ -62,4 +62,7 @@ Since all the cards revealed are in increasing order, the answer is correct.
 </div>
 
 ### Related Topics
+  [[Queue](../../tag/queue/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]

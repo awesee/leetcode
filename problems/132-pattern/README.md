@@ -51,3 +51,7 @@
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]

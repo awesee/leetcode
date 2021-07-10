@@ -48,3 +48,7 @@ So we will choose the smallest k, which is 0.
 	<li><code>nums</code> will have length at most <code>20000</code>.</li>
 	<li><code>nums[i]</code> will be in the range <code>[0, nums.length]</code>.</li>
 </ul>
+
+### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]

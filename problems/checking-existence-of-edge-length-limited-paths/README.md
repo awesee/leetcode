@@ -52,8 +52,10 @@ For the second query, there is a path (0 -&gt; 1 -&gt; 2) of two edges with dist
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
+  [[Graph](../../tag/graph/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

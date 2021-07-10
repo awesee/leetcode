@@ -47,4 +47,5 @@ There are 7 possible schemes: (0), (1), (2), (0,1), (0,2), (1,2), and (0,1,2).</
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

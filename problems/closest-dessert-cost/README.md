@@ -84,7 +84,9 @@ Total: 3 + 4 + 10 + 0 = 17. You cannot make a dessert with a total cost of 18.
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints
 <details>

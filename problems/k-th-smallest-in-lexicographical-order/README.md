@@ -35,3 +35,6 @@
 <ul>
 	<li><code>1 &lt;= k &lt;= n &lt;= 10<sup>9</sup></code></li>
 </ul>
+
+### Related Topics
+  [[Trie](../../tag/trie/README.md)]

@@ -78,8 +78,9 @@ After steps 4, 5 and 6 of the second iteration, result = &quot;abccbaabccba&quot
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Counting](../../tag/counting/README.md)]
 
 ### Hints
 <details>

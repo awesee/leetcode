@@ -50,4 +50,6 @@ recentCounter.ping(3002);  // requests = [1, <u>100</u>, <u>3001</u>, <u>3002</u
 </ul>
 
 ### Related Topics
+  [[Design](../../tag/design/README.md)]
   [[Queue](../../tag/queue/README.md)]
+  [[Data Stream](../../tag/data-stream/README.md)]

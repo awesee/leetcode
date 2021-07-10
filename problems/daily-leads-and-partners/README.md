@@ -12,3 +12,6 @@
 ## [1693. Daily Leads and Partners (Easy)](https://leetcode.com/problems/daily-leads-and-partners "每天的领导和合伙人")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

@@ -54,7 +54,8 @@ Total number of matches = 7 + 3 + 2 + 1 = 13.
 </ul>
 
 ### Related Topics
-  [[Backtracking](../../tag/backtracking/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

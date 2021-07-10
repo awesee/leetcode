@@ -50,7 +50,10 @@ The score difference is 18 - 12 = 6.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Game Theory](../../tag/game-theory/README.md)]
 
 ### Hints
 <details>

@@ -44,6 +44,7 @@
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Similar Questions
   1. [Unique Paths](../unique-paths) (Medium)

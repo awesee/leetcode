@@ -60,5 +60,5 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
-  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[String](../../tag/string/README.md)]

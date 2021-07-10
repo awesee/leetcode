@@ -75,6 +75,7 @@ Hence, there are a total of (6 * 2) + (3 * 1) = 12 + 3 = 15 ways to decode &quot
 </ul>
 
 ### Related Topics
+  [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions

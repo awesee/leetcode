@@ -59,8 +59,8 @@ Average salary excluding minimum and maximum salary is (2000)/1= 2000
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

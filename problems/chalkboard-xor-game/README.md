@@ -38,4 +38,8 @@ If Alice erases 2 first, now nums becomes [1, 1]. The bitwise XOR of all the ele
 <p>&nbsp;</p>
 
 ### Related Topics
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Brainteaser](../../tag/brainteaser/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Game Theory](../../tag/game-theory/README.md)]

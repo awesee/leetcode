@@ -47,11 +47,16 @@ We only want the closest k = 1 points from the origin, so the answer is just [[-
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
-  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Geometry](../../tag/geometry/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Quickselect](../../tag/quickselect/README.md)]
 
 ### Similar Questions
   1. [Kth Largest Element in an Array](../kth-largest-element-in-an-array) (Medium)
   1. [Top K Frequent Elements](../top-k-frequent-elements) (Medium)
   1. [Top K Frequent Words](../top-k-frequent-words) (Medium)
+  1. [Find Nearest Point That Has the Same X or Y Coordinate](../find-nearest-point-that-has-the-same-x-or-y-coordinate) (Easy)

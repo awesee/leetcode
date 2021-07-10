@@ -12,3 +12,6 @@
 ## [1741. Find Total Time Spent by Each Employee (Easy)](https://leetcode.com/problems/find-total-time-spent-by-each-employee "查找每个员工花费的总时间")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

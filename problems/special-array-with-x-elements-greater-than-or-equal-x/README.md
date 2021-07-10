@@ -63,6 +63,8 @@ x cannot be greater since there are only 2 numbers in nums.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

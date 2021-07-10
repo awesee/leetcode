@@ -54,6 +54,7 @@ We can see that both sectors 1 and 2 are visited twice and they are the most vis
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

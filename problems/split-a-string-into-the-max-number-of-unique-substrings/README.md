@@ -55,6 +55,8 @@
 </ul>
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints

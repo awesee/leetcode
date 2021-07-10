@@ -60,8 +60,8 @@ Sum of every tilt : 0 + 0 + 0 + 2 + 7 + 6 = 15
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
-  [[Recursion](../../tag/recursion/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Hints
 <details>

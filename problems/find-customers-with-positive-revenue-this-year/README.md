@@ -12,3 +12,6 @@
 ## [1821. Find Customers With Positive Revenue this Year (Easy)](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year "寻找今年具有正收入的客户")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

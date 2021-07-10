@@ -48,6 +48,7 @@ There is not other value of n that has at most 5 prime factors and more nice div
 </ul>
 
 ### Related Topics
+  [[Recursion](../../tag/recursion/README.md)]
   [[Math](../../tag/math/README.md)]
 
 ### Hints

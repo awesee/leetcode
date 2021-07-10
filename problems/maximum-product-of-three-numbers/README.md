@@ -35,6 +35,7 @@
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Maximum Product Subarray](../maximum-product-subarray) (Medium)

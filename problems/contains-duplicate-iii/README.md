@@ -35,8 +35,11 @@
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
-  [[Ordered Map](../../tag/ordered-map/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Bucket Sort](../../tag/bucket-sort/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions
   1. [Contains Duplicate](../contains-duplicate) (Easy)

@@ -9,14 +9,13 @@
 　　　　　　　　　　　　　　　　
 [Next >](../sorting-the-sentence "Sorting the Sentence")
 
-## [1858. Longest Word With All Prefixes (Medium)](https://leetcode.com/problems/longest-word-with-all-prefixes "")
+## [1858. Longest Word With All Prefixes (Medium)](https://leetcode.com/problems/longest-word-with-all-prefixes "包含所有前缀的最长单词")
 
 
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Trie](../../tag/trie/README.md)]
-  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

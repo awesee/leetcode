@@ -44,6 +44,7 @@ For example, in &quot;abbaca&quot; we could remove &quot;bb&quot; since the lett
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

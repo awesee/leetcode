@@ -60,5 +60,6 @@ The nodes that are reachable are highlighted in yellow.
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]
+  [[Shortest Path](../../tag/shortest-path/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]

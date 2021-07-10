@@ -74,6 +74,7 @@
 <div id="vidyowebrtcscreenshare_is_installed">&nbsp;</div>
 
 ### Related Topics
+  [[String](../../tag/string/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints

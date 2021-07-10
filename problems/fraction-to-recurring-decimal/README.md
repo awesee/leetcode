@@ -47,6 +47,7 @@
 ### Related Topics
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

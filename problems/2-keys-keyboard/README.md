@@ -47,6 +47,7 @@ In step 3, we use Paste operation to get &#39;AAA&#39;.
 </ul>
 
 ### Related Topics
+  [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions

@@ -7,7 +7,7 @@
 
 [< Previous](../smallest-string-with-swaps "Smallest String With Swaps")
 　　　　　　　　　　　　　　　　
-[Next >](../last-person-to-fit-in-the-elevator "Last Person to Fit in the Elevator")
+[Next >](../last-person-to-fit-in-the-bus "Last Person to Fit in the Bus")
 
 ## [1203. Sort Items by Groups Respecting Dependencies (Hard)](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies "项目管理")
 
@@ -54,7 +54,8 @@
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Graph](../../tag/graph/README.md)]
   [[Topological Sort](../../tag/topological-sort/README.md)]
 

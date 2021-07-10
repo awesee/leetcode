@@ -62,6 +62,8 @@
 
 ### Related Topics
   [[Geometry](../../tag/geometry/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

@@ -46,7 +46,10 @@ We calculate the floor of the division for every pair of indices in the array th
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Hints
 <details>

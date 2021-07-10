@@ -46,6 +46,7 @@
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Similar Questions
   1. [Search a 2D Matrix II](../search-a-2d-matrix-ii) (Medium)

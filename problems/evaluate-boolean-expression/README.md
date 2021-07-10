@@ -12,3 +12,6 @@
 ## [1440. Evaluate Boolean Expression (Medium)](https://leetcode.com/problems/evaluate-boolean-expression "计算布尔表达式的值")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

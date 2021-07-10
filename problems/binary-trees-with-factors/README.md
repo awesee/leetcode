@@ -40,3 +40,8 @@
 	<li><code>2 &lt;= arr[i] &lt;= 10<sup>9</sup></code></li>
 	<li>All the values of <code>arr</code> are <strong>unique</strong>.</li>
 </ul>
+
+### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

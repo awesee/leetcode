@@ -39,6 +39,7 @@
 
 ### Related Topics
   [[Linked List](../../tag/linked-list/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Similar Questions
   1. [Remove Duplicates from Sorted List](../remove-duplicates-from-sorted-list) (Easy)

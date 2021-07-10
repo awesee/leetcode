@@ -68,4 +68,5 @@ There aren&#39;t any adjacent pairs of 1&#39;s in the binary representation of 8
 </ul>
 
 ### Related Topics
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Math](../../tag/math/README.md)]

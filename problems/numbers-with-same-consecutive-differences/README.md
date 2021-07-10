@@ -56,7 +56,5 @@
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
-  [[Recursion](../../tag/recursion/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]

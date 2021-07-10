@@ -46,8 +46,8 @@
 </ul>
 
 ### Related Topics
+  [[Recursion](../../tag/recursion/README.md)]
   [[Math](../../tag/math/README.md)]
-  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions
   1. [Next Permutation](../next-permutation) (Medium)

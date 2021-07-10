@@ -12,3 +12,6 @@
 ## [1501. Countries You Can Safely Invest In (Medium)](https://leetcode.com/problems/countries-you-can-safely-invest-in "可以放心投资的国家")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

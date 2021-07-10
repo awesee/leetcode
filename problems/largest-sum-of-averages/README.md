@@ -39,4 +39,5 @@ That partition would lead to a score of 5 + 2 + 6 = 13, which is worse.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

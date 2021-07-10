@@ -54,7 +54,8 @@ The total number of units will be = (1 * 3) + (2 * 2) + (1 * 1) = 8.
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
-  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

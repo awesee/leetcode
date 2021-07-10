@@ -73,4 +73,5 @@ The furthest point away from the origin is (1, 8), which is 1<sup>2</sup> + 8<su
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]

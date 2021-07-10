@@ -50,7 +50,6 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Math](../../tag/math/README.md)]
 
 ### Hints

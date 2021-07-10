@@ -76,7 +76,9 @@ x=5, y=1 -&gt; f(5, 1) = 5 * 1 = 5.
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Interactive](../../tag/interactive/README.md)]
 
 ### Hints
 <details>

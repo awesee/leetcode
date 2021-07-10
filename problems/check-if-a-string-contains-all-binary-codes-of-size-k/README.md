@@ -65,7 +65,10 @@
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Hash Function](../../tag/hash-function/README.md)]
+  [[Rolling Hash](../../tag/rolling-hash/README.md)]
 
 ### Hints
 <details>

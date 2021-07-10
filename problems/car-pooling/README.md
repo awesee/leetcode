@@ -73,7 +73,11 @@
 </ol>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Meeting Rooms II](../meeting-rooms-ii) (Medium)

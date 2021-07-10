@@ -73,7 +73,6 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[String](../../tag/string/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
 

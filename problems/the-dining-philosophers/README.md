@@ -57,3 +57,6 @@ output[i] = [a, b, c] (three integers)
 <ul>
 	<li><code>1 &lt;= n &lt;= 60</code></li>
 </ul>
+
+### Related Topics
+  [[Concurrency](../../tag/concurrency/README.md)]

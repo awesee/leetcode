@@ -64,7 +64,8 @@ We can achieve all the requests. </pre>
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Enumeration](../../tag/enumeration/README.md)]
 
 ### Hints
 <details>

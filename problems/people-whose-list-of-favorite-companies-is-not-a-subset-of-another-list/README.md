@@ -55,7 +55,8 @@ Other lists of favorite companies are not a subset of another list, therefore, t
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
 
 ### Hints

@@ -61,7 +61,11 @@ On the other hand if we choose this arrangement (1, <strong>2</strong>, 8), (2, 
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Game Theory](../../tag/game-theory/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

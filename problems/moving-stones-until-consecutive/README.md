@@ -70,6 +70,7 @@
 
 ### Related Topics
   [[Brainteaser](../../tag/brainteaser/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

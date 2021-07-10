@@ -74,7 +74,8 @@ We have now a = 9 and b = 1 and max difference = 8
 </ul>
 
 ### Related Topics
-  [[String](../../tag/string/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

@@ -46,7 +46,10 @@
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Longest Increasing Subsequence](../longest-increasing-subsequence) (Medium)

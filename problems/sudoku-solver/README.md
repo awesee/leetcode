@@ -45,8 +45,9 @@
 </ul>
 
 ### Related Topics
-  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Similar Questions
   1. [Valid Sudoku](../valid-sudoku) (Medium)

@@ -42,6 +42,7 @@
 ### Related Topics
   [[Union Find](../../tag/union-find/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Binary Tree Longest Consecutive Sequence](../binary-tree-longest-consecutive-sequence) (Medium)

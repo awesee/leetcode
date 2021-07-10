@@ -77,6 +77,7 @@ Friends 0 and 2 are happy.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

@@ -43,6 +43,7 @@ Also, &quot;00110011&quot; is not a valid substring because all the 0&#39;s (and
 </ul>
 
 ### Related Topics
+  [[Two Pointers](../../tag/two-pointers/README.md)]
   [[String](../../tag/string/README.md)]
 
 ### Similar Questions

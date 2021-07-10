@@ -50,8 +50,12 @@ Note that &#39;A&#39; and &#39;a&#39; are treated as two different characters.
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Bucket Sort](../../tag/bucket-sort/README.md)]
+  [[Counting](../../tag/counting/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Top K Frequent Elements](../top-k-frequent-elements) (Medium)

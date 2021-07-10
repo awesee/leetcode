@@ -54,7 +54,10 @@ Explanation:</strong> Increment the first element three times and the second ele
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

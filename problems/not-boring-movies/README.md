@@ -58,3 +58,6 @@ Result table:
 +----+------------+-------------+--------+
 
 We have three movies with odd-numbered ID: 1, 3, and 5. The movie with ID = 3 is boring so we don&#39;t include it in the answer.</pre>
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

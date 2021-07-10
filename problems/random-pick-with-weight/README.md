@@ -69,8 +69,10 @@ and so on.
 </ul>
 
 ### Related Topics
+  [[Math](../../tag/math/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
-  [[Random](../../tag/random/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
+  [[Randomized](../../tag/randomized/README.md)]
 
 ### Similar Questions
   1. [Random Pick Index](../random-pick-index) (Medium)

@@ -46,7 +46,9 @@ All the adjacent element differ by one bit. Another valid permutation is [3,1,0,
 </ul>
 
 ### Related Topics
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints
 <details>

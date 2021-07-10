@@ -12,3 +12,6 @@
 ## [1495. Friendly Movies Streamed Last Month (Easy)](https://leetcode.com/problems/friendly-movies-streamed-last-month "上月播放的儿童适宜电影")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

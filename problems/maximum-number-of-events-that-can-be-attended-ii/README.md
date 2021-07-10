@@ -57,6 +57,7 @@ Notice that you cannot attend any other event as they overlap, and that you do <
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 

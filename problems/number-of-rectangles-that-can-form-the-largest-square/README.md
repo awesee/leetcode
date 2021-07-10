@@ -47,7 +47,7 @@ The largest possible square is of length 5, and you can get it out of 3 rectangl
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

@@ -77,6 +77,7 @@
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[String](../../tag/string/README.md)]
 
 ### Hints

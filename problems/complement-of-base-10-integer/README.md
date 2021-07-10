@@ -62,7 +62,7 @@
 </div>
 
 ### Related Topics
-  [[Math](../../tag/math/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Hints
 <details>

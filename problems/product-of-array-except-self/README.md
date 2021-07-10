@@ -39,6 +39,7 @@
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Similar Questions
   1. [Trapping Rain Water](../trapping-rain-water) (Hard)

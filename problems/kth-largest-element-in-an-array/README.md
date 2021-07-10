@@ -32,8 +32,11 @@
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Quickselect](../../tag/quickselect/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Wiggle Sort II](../wiggle-sort-ii) (Medium)

@@ -60,4 +60,7 @@ Day 7: [0, 0, 1, 1, 0, 0, 0, 0]
 </ul>
 
 ### Related Topics
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Math](../../tag/math/README.md)]

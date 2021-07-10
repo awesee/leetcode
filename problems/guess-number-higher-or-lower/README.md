@@ -51,6 +51,7 @@
 
 ### Related Topics
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Interactive](../../tag/interactive/README.md)]
 
 ### Similar Questions
   1. [First Bad Version](../first-bad-version) (Easy)

@@ -11,7 +11,7 @@
 
 ## [225. Implement Stack using Queues (Easy)](https://leetcode.com/problems/implement-stack-using-queues "用队列实现栈")
 
-<p>Implement a last in first out (LIFO) stack using only two queues. The implemented stack should support all the functions of a normal queue (<code>push</code>, <code>top</code>, <code>pop</code>, and <code>empty</code>).</p>
+<p>Implement a last-in-first-out (LIFO) stack using only two queues. The implemented stack should support all the functions of a normal stack (<code>push</code>, <code>top</code>, <code>pop</code>, and <code>empty</code>).</p>
 
 <p>Implement the <code>MyStack</code> class:</p>
 
@@ -25,8 +25,8 @@
 <p><b>Notes:</b></p>
 
 <ul>
-	<li>You must use <strong>only</strong> standard operations of a queue, which means only <code>push to back</code>, <code>peek/pop from front</code>, <code>size</code>, and <code>is empty</code> operations are valid.</li>
-	<li>Depending on your language, the queue may not be supported natively. You may simulate a queue using a list or deque (double-ended queue), as long as you use only a queue&#39;s standard operations.</li>
+	<li>You must use <strong>only</strong> standard operations of a queue, which means that only <code>push to back</code>, <code>peek/pop from front</code>, <code>size</code> and <code>is empty</code> operations are valid.</li>
+	<li>Depending on your language, the queue may not be supported natively. You may simulate a queue using a list or deque (double-ended queue) as long as you use only a queue&#39;s standard operations.</li>
 </ul>
 
 <p>&nbsp;</p>
@@ -58,11 +58,12 @@ myStack.empty(); // return False
 </ul>
 
 <p>&nbsp;</p>
-<p><strong>Follow-up:</strong> Can you implement the stack such that each operation is <strong><a href="https://en.wikipedia.org/wiki/Amortized_analysis" target="_blank">amortized</a></strong> <code>O(1)</code> time complexity? In other words, performing <code>n</code> operations will take overall <code>O(n)</code> time even if one of those operations may take longer. You can use more than two queues.</p>
+<p><strong>Follow-up:</strong> Can you implement the stack using only one queue?</p>
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
   [[Design](../../tag/design/README.md)]
+  [[Queue](../../tag/queue/README.md)]
 
 ### Similar Questions
   1. [Implement Queue using Stacks](../implement-queue-using-stacks) (Easy)

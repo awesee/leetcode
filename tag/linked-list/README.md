@@ -9,47 +9,61 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1836 | [Remove Duplicates From an Unsorted Linked List](../../problems/remove-duplicates-from-an-unsorted-linked-list) 🔒 | [[链表](../linked-list/README.md)]  | Medium |
-| 1721 | [交换链表中的节点](../../problems/swapping-nodes-in-a-linked-list) | [[链表](../linked-list/README.md)]  | Medium |
-| 1670 | [设计前中后队列](../../problems/design-front-middle-back-queue) | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 1836 | [从未排序的链表中移除重复元素](../../problems/remove-duplicates-from-an-unsorted-linked-list) 🔒 | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 1721 | [交换链表中的节点](../../problems/swapping-nodes-in-a-linked-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 1670 | [设计前中后队列](../../problems/design-front-middle-back-queue) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)] [[数据流](../data-stream/README.md)]  | Medium |
 | 1669 | [合并两个链表](../../problems/merge-in-between-linked-lists) | [[链表](../linked-list/README.md)]  | Medium |
-| 1634 | [求两个多项式链表的和](../../problems/add-two-polynomials-represented-as-linked-lists) 🔒 | [[链表](../linked-list/README.md)]  | Medium |
+| 1634 | [求两个多项式链表的和](../../problems/add-two-polynomials-represented-as-linked-lists) 🔒 | [[链表](../linked-list/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1474 | [删除链表 M 个节点之后的 N 个节点](../../problems/delete-n-nodes-after-m-nodes-of-a-linked-list) 🔒 | [[链表](../linked-list/README.md)]  | Easy |
-| 1367 | [二叉树中的列表](../../problems/linked-list-in-binary-tree) | [[树](../tree/README.md)] [[链表](../linked-list/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 1290 | [二进制链表转整数](../../problems/convert-binary-number-in-a-linked-list-to-integer) | [[位运算](../bit-manipulation/README.md)] [[链表](../linked-list/README.md)]  | Easy |
-| 1171 | [从链表中删去总和值为零的连续节点](../../problems/remove-zero-sum-consecutive-nodes-from-linked-list) | [[链表](../linked-list/README.md)]  | Medium |
-| 1019 | [链表中的下一个更大节点](../../problems/next-greater-node-in-linked-list) | [[栈](../stack/README.md)] [[链表](../linked-list/README.md)]  | Medium |
-| 876 | [链表的中间结点](../../problems/middle-of-the-linked-list) | [[链表](../linked-list/README.md)]  | Easy |
-| 817 | [链表组件](../../problems/linked-list-components) | [[链表](../linked-list/README.md)]  | Medium |
+| 1472 | [设计浏览器历史记录](../../problems/design-browser-history) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)] [[数据流](../data-stream/README.md)] [[双向链表](../doubly-linked-list/README.md)]  | Medium |
+| 1367 | [二叉树中的列表](../../problems/linked-list-in-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[链表](../linked-list/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 1290 | [二进制链表转整数](../../problems/convert-binary-number-in-a-linked-list-to-integer) | [[链表](../linked-list/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1265 | [逆序打印不可变链表](../../problems/print-immutable-linked-list-in-reverse) 🔒 | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 1206 | [设计跳表](../../problems/design-skiplist) | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Hard |
+| 1171 | [从链表中删去总和值为零的连续节点](../../problems/remove-zero-sum-consecutive-nodes-from-linked-list) | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 1019 | [链表中的下一个更大节点](../../problems/next-greater-node-in-linked-list) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 876 | [链表的中间结点](../../problems/middle-of-the-linked-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 817 | [链表组件](../../problems/linked-list-components) | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)]  | Medium |
 | 725 | [分隔链表](../../problems/split-linked-list-in-parts) | [[链表](../linked-list/README.md)]  | Medium |
+| 716 | [最大栈](../../problems/max-stack) 🔒 | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[链表](../linked-list/README.md)] [[双向链表](../doubly-linked-list/README.md)] [[有序集合](../ordered-set/README.md)]  | Easy |
 | 708 | [循环有序列表的插入](../../problems/insert-into-a-sorted-circular-linked-list) 🔒 | [[链表](../linked-list/README.md)]  | Medium |
 | 707 | [设计链表](../../problems/design-linked-list) | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Medium |
-| 445 | [两数相加 II](../../problems/add-two-numbers-ii) | [[链表](../linked-list/README.md)]  | Medium |
-| 430 | [扁平化多级双向链表](../../problems/flatten-a-multilevel-doubly-linked-list) | [[深度优先搜索](../depth-first-search/README.md)] [[链表](../linked-list/README.md)]  | Medium |
-| 426 | [将二叉搜索树转化为排序的双向链表](../../problems/convert-binary-search-tree-to-sorted-doubly-linked-list) 🔒 | [[树](../tree/README.md)] [[链表](../linked-list/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Medium |
-| 379 | [电话目录管理系统](../../problems/design-phone-directory) 🔒 | [[设计](../design/README.md)] [[链表](../linked-list/README.md)]  | Medium |
-| 369 | [给单链表加一](../../problems/plus-one-linked-list) 🔒 | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 706 | [设计哈希映射](../../problems/design-hashmap) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[哈希函数](../hash-function/README.md)]  | Easy |
+| 705 | [设计哈希集合](../../problems/design-hashset) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[哈希函数](../hash-function/README.md)]  | Easy |
+| 641 | [设计循环双端队列](../../problems/design-circular-deque) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 622 | [设计循环队列](../../problems/design-circular-queue) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 460 | [LFU 缓存](../../problems/lfu-cache) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双向链表](../doubly-linked-list/README.md)]  | Hard |
+| 445 | [两数相加 II](../../problems/add-two-numbers-ii) | [[栈](../stack/README.md)] [[链表](../linked-list/README.md)] [[数学](../math/README.md)]  | Medium |
+| 432 | [全 O(1) 的数据结构](../../problems/all-oone-data-structure) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双向链表](../doubly-linked-list/README.md)]  | Hard |
+| 430 | [扁平化多级双向链表](../../problems/flatten-a-multilevel-doubly-linked-list) | [[深度优先搜索](../depth-first-search/README.md)] [[链表](../linked-list/README.md)] [[双向链表](../doubly-linked-list/README.md)]  | Medium |
+| 426 | [将二叉搜索树转化为排序的双向链表](../../problems/convert-binary-search-tree-to-sorted-doubly-linked-list) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[链表](../linked-list/README.md)] [[二叉树](../binary-tree/README.md)] [[双向链表](../doubly-linked-list/README.md)]  | Medium |
+| 382 | [链表随机节点](../../problems/linked-list-random-node) | [[水塘抽样](../reservoir-sampling/README.md)] [[链表](../linked-list/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Medium |
+| 379 | [电话目录管理系统](../../problems/design-phone-directory) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 369 | [给单链表加一](../../problems/plus-one-linked-list) 🔒 | [[链表](../linked-list/README.md)] [[数学](../math/README.md)]  | Medium |
+| 355 | [设计推特](../../problems/design-twitter) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 328 | [奇偶链表](../../problems/odd-even-linked-list) | [[链表](../linked-list/README.md)]  | Medium |
 | 237 | [删除链表中的节点](../../problems/delete-node-in-a-linked-list) | [[链表](../linked-list/README.md)]  | Easy |
-| 234 | [回文链表](../../problems/palindrome-linked-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
-| 206 | [反转链表](../../problems/reverse-linked-list) | [[链表](../linked-list/README.md)]  | Easy |
-| 203 | [移除链表元素](../../problems/remove-linked-list-elements) | [[链表](../linked-list/README.md)]  | Easy |
-| 160 | [相交链表](../../problems/intersection-of-two-linked-lists) | [[链表](../linked-list/README.md)]  | Easy |
-| 148 | [排序链表](../../problems/sort-list) | [[排序](../sort/README.md)] [[链表](../linked-list/README.md)]  | Medium |
-| 147 | [对链表进行插入排序](../../problems/insertion-sort-list) | [[排序](../sort/README.md)] [[链表](../linked-list/README.md)]  | Medium |
-| 143 | [重排链表](../../problems/reorder-list) | [[链表](../linked-list/README.md)]  | Medium |
-| 142 | [环形链表 II](../../problems/linked-list-cycle-ii) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
-| 141 | [环形链表](../../problems/linked-list-cycle) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 234 | [回文链表](../../problems/palindrome-linked-list) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 206 | [反转链表](../../problems/reverse-linked-list) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Easy |
+| 203 | [移除链表元素](../../problems/remove-linked-list-elements) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Easy |
+| 160 | [相交链表](../../problems/intersection-of-two-linked-lists) | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 148 | [排序链表](../../problems/sort-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)] [[分治](../divide-and-conquer/README.md)] [[排序](../sorting/README.md)] [[归并排序](../merge-sort/README.md)]  | Medium |
+| 147 | [对链表进行插入排序](../../problems/insertion-sort-list) | [[链表](../linked-list/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 146 | [LRU 缓存机制](../../problems/lru-cache) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双向链表](../doubly-linked-list/README.md)]  | Medium |
+| 143 | [重排链表](../../problems/reorder-list) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 142 | [环形链表 II](../../problems/linked-list-cycle-ii) | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 141 | [环形链表](../../problems/linked-list-cycle) | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 138 | [复制带随机指针的链表](../../problems/copy-list-with-random-pointer) | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)]  | Medium |
-| 109 | [有序链表转换二叉搜索树](../../problems/convert-sorted-list-to-binary-search-tree) | [[深度优先搜索](../depth-first-search/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 114 | [二叉树展开为链表](../../problems/flatten-binary-tree-to-linked-list) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[链表](../linked-list/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 109 | [有序链表转换二叉搜索树](../../problems/convert-sorted-list-to-binary-search-tree) | [[树](../tree/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[链表](../linked-list/README.md)] [[分治](../divide-and-conquer/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
 | 92 | [反转链表 II](../../problems/reverse-linked-list-ii) | [[链表](../linked-list/README.md)]  | Medium |
 | 86 | [分隔链表](../../problems/partition-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 83 | [删除排序链表中的重复元素](../../problems/remove-duplicates-from-sorted-list) | [[链表](../linked-list/README.md)]  | Easy |
-| 82 | [删除排序链表中的重复元素 II](../../problems/remove-duplicates-from-sorted-list-ii) | [[链表](../linked-list/README.md)]  | Medium |
+| 82 | [删除排序链表中的重复元素 II](../../problems/remove-duplicates-from-sorted-list-ii) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 61 | [旋转链表](../../problems/rotate-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
-| 25 | [K 个一组翻转链表](../../problems/reverse-nodes-in-k-group) | [[链表](../linked-list/README.md)]  | Hard |
+| 25 | [K 个一组翻转链表](../../problems/reverse-nodes-in-k-group) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Hard |
 | 24 | [两两交换链表中的节点](../../problems/swap-nodes-in-pairs) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Medium |
-| 23 | [合并K个升序链表](../../problems/merge-k-sorted-lists) | [[堆](../heap/README.md)] [[链表](../linked-list/README.md)] [[分治算法](../divide-and-conquer/README.md)]  | Hard |
+| 23 | [合并K个升序链表](../../problems/merge-k-sorted-lists) | [[链表](../linked-list/README.md)] [[分治](../divide-and-conquer/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)] [[归并排序](../merge-sort/README.md)]  | Hard |
 | 21 | [合并两个有序链表](../../problems/merge-two-sorted-lists) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Easy |
 | 19 | [删除链表的倒数第 N 个结点](../../problems/remove-nth-node-from-end-of-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 2 | [两数相加](../../problems/add-two-numbers) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[数学](../math/README.md)]  | Medium |

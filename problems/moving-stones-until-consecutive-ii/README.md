@@ -71,7 +71,9 @@ Notice we cannot move 10 -&gt; 2 to finish the game, because that would be an il
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
-  [[Sliding Window](../../tag/sliding-window/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

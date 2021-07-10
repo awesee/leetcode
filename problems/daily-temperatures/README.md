@@ -34,7 +34,8 @@
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
-  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Similar Questions
   1. [Next Greater Element I](../next-greater-element-i) (Easy)

@@ -12,3 +12,6 @@
 ## [1484. Group Sold Products By The Date (Easy)](https://leetcode.com/problems/group-sold-products-by-the-date "按日期分组销售产品")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

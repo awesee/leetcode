@@ -59,6 +59,7 @@ So the average waiting time = (2 + 6 + 4 + 1) / 4 = 3.25.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

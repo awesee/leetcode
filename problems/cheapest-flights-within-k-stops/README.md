@@ -50,9 +50,12 @@ The cheapest price from city <code>0</code> to city <code>2</code> with at most 
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Shortest Path](../../tag/shortest-path/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Maximum Vacation Days](../maximum-vacation-days) (Hard)

@@ -43,7 +43,8 @@ The substring &quot;BBBB&quot; has the longest repeating letters, which is 4.
 </ul>
 
 ### Related Topics
-  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions

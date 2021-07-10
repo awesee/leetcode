@@ -40,7 +40,9 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Subtree of Another Tree](../subtree-of-another-tree) (Easy)

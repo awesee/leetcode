@@ -52,8 +52,10 @@ We cannot form the target &quot;basicbasic&quot; from cutting letters from the g
 </ul>
 
 ### Related Topics
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Bitmask](../../tag/bitmask/README.md)]
 
 ### Similar Questions
   1. [Ransom Note](../ransom-note) (Easy)

@@ -57,6 +57,8 @@ The binary representation of [0,1,3,2] is [00,01,11,10].
 </ul>
 
 ### Related Topics
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Similar Questions

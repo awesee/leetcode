@@ -12,3 +12,6 @@
 ## [1651. Hopper Company Queries III (Hard)](https://leetcode.com/problems/hopper-company-queries-iii "")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

@@ -39,3 +39,6 @@ Line 10
 <div class="spoilers"><b>Note:</b><br />
 1. If the file contains less than 10 lines, what should you output?<br />
 2. There&#39;s at least three different solutions. Try to explore all possibilities.</div>
+
+### Related Topics
+  [[Shell](../../tag/shell/README.md)]

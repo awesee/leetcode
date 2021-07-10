@@ -50,4 +50,7 @@ It can be shown with 5 or less moves that it is impossible for the array to have
 </div>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Counting](../../tag/counting/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]

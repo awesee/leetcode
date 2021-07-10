@@ -71,4 +71,6 @@ The other two groups are [&quot;xyzz&quot;, &quot;zzxy&quot;] and [&quot;zzyx&qu
 </div>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]

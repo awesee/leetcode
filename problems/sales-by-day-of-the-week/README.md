@@ -12,3 +12,6 @@
 ## [1479. Sales by Day of the Week (Hard)](https://leetcode.com/problems/sales-by-day-of-the-week "周内每天的销售情况")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

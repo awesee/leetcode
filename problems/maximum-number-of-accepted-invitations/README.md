@@ -9,12 +9,14 @@
 　　　　　　　　　　　　　　　　
 [Next >](../find-customers-with-positive-revenue-this-year "Find Customers With Positive Revenue this Year")
 
-## [1820. Maximum Number of Accepted Invitations (Medium)](https://leetcode.com/problems/maximum-number-of-accepted-invitations "")
+## [1820. Maximum Number of Accepted Invitations (Medium)](https://leetcode.com/problems/maximum-number-of-accepted-invitations "最多邀请的个数")
 
 
 
 ### Related Topics
-  [[Graph](../../tag/graph/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Hints
 <details>

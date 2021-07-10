@@ -40,7 +40,9 @@
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]
+  [[Biconnected Component](../../tag/biconnected-component/README.md)]
 
 ### Hints
 <details>

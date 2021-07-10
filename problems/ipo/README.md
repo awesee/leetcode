@@ -55,5 +55,7 @@ Therefore, output the final maximized capital, which is 0 + 1 + 3 = 4.
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]

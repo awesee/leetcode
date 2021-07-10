@@ -41,12 +41,14 @@
 <ul>
 	<li><code>n == graph.length</code></li>
 	<li><code>1 &lt;= n &lt;= 10<sup>4</sup></code></li>
-	<li><code>0 &lt;= graph[i].legnth &lt;= n</code></li>
+	<li><code>0 &lt;= graph[i].length &lt;= n</code></li>
 	<li><code>graph[i]</code> is sorted in a strictly increasing order.</li>
 	<li>The graph may contain self-loops.</li>
 	<li>The number of edges in the graph will be in the range <code>[1, 4 * 10<sup>4</sup>]</code>.</li>
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Graph](../../tag/graph/README.md)]
+  [[Topological Sort](../../tag/topological-sort/README.md)]

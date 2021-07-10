@@ -11,38 +11,42 @@
 
 ## [754. Reach a Number (Medium)](https://leetcode.com/problems/reach-a-number "到达终点数字")
 
-<p>
-You are standing at position <code>0</code> on an infinite number line.  There is a goal at position <code>target</code>.
-</p><p>
-On each move, you can either go left or right.  During the <i>n</i>-th move (starting from 1), you take <i>n</i> steps.
-</p><p>
-Return the minimum number of steps required to reach the destination.
-</p>
+<p>You are standing at position <code>0</code> on an infinite number line. There is a goal at position <code>target</code>.</p>
 
-<p><b>Example 1:</b><br />
+<p>On each move, you can either go left or right. During the <code>n<sup>th</sup></code> move (starting from <code>n == 1</code>), you take <code>n</code> steps.</p>
+
+<p>Return <em>the minimum number of steps required to reach the destination</em>.</p>
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+
 <pre>
-<b>Input:</b> target = 3
-<b>Output:</b> 2
-<b>Explanation:</b>
-On the first move we step from 0 to 1.
-On the second step we step from 1 to 3.
+<strong>Input:</strong> target = 2
+<strong>Output:</strong> 3
+<strong>Explanation:</strong>
+On the first move, we step from 0 to 1.
+On the second move, we step  from 1 to -1.
+On the third move, we step from -1 to 2.
 </pre>
-</p>
 
-<p><b>Example 2:</b><br />
+<p><strong>Example 2:</strong></p>
+
 <pre>
-<b>Input:</b> target = 2
-<b>Output:</b> 3
-<b>Explanation:</b>
-On the first move we step from 0 to 1.
-On the second move we step  from 1 to -1.
-On the third move we step from -1 to 2.
+<strong>Input:</strong> target = 3
+<strong>Output:</strong> 2
+<strong>Explanation:</strong>
+On the first move, we step from 0 to 1.
+On the second step, we step from 1 to 3.
 </pre>
-</p>
 
-<p><b>Note:</b><br>
-<li><code>target</code> will be a non-zero integer in the range <code>[-10^9, 10^9]</code>.</li>
-</p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>-10<sup>9</sup> &lt;= target &lt;= 10<sup>9</sup></code></li>
+	<li><code>target != 0</code></li>
+</ul>
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]

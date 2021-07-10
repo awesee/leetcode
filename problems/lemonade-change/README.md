@@ -80,3 +80,4 @@ Since not every customer received correct change, the answer is false.
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]

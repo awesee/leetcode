@@ -35,6 +35,8 @@ The five points are show in the figure below. The red triangle is the largest.
 <p>&nbsp;</p>
 
 ### Related Topics
+  [[Geometry](../../tag/geometry/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
 
 ### Similar Questions

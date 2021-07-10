@@ -56,6 +56,7 @@ Clearly the destination city is &quot;A&quot;.
 </ul>
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
 
 ### Hints

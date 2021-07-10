@@ -45,6 +45,7 @@ The earlier year between them is 1960.</pre>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Counting](../../tag/counting/README.md)]
 
 ### Hints
 <details>

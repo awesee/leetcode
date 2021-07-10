@@ -53,9 +53,10 @@ Then the 1<sup>st</sup> smallest distance pair is (1,1), and its distance is 0.
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Find K Pairs with Smallest Sums](../find-k-pairs-with-smallest-sums) (Medium)

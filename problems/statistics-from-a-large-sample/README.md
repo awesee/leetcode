@@ -68,6 +68,7 @@ The mode is 1 as it appears the most in the sample.
 ### Related Topics
   [[Math](../../tag/math/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Probability and Statistics](../../tag/probability-and-statistics/README.md)]
 
 ### Hints
 <details>

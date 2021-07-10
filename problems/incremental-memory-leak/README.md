@@ -51,7 +51,7 @@
 </ul>
 
 ### Related Topics
-  [[Math](../../tag/math/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

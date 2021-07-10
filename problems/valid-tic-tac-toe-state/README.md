@@ -67,8 +67,8 @@ Explanation: Players take turns making moves.
 </ul>
 
 ### Related Topics
-  [[Recursion](../../tag/recursion/README.md)]
-  [[Math](../../tag/math/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
   1. [Design Tic-Tac-Toe](../design-tic-tac-toe) (Medium)

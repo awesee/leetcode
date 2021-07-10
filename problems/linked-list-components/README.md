@@ -49,4 +49,5 @@ nums = [0, 3, 1, 4]
 </ul>
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]

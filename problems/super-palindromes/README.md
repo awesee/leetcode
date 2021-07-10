@@ -45,3 +45,4 @@ Note that 676 is not a superpalindrome: 26 * 26 = 676, but 26 is not a palindrom
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[Enumeration](../../tag/enumeration/README.md)]

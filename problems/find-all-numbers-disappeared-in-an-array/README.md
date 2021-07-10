@@ -35,6 +35,7 @@
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [First Missing Positive](../first-missing-positive) (Hard)

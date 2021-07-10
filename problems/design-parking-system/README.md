@@ -49,6 +49,8 @@ parkingSystem.addCar(1); // return false because there is no available slot for 
 
 ### Related Topics
   [[Design](../../tag/design/README.md)]
+  [[Counting](../../tag/counting/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

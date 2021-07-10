@@ -53,7 +53,8 @@
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Kth Smallest Element in a Sorted Matrix](../kth-smallest-element-in-a-sorted-matrix) (Medium)

@@ -55,3 +55,4 @@ Explanation: The two patches can be [2, 4].
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]

@@ -31,7 +31,7 @@
 </ul>
 
 ### Related Topics
-  [[Backtracking](../../tag/backtracking/README.md)]
+  [[Enumeration](../../tag/enumeration/README.md)]
 
 ### Hints
 <details>

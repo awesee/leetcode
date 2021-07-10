@@ -75,3 +75,5 @@ The total sum is 5 + -2 + -4 + 9 + 5 + 14 = 27.
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]

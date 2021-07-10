@@ -39,4 +39,6 @@ Since &quot;d&quot; does not appear in order, it can be at any position in the r
 </ul>
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]

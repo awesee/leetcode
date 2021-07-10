@@ -59,6 +59,8 @@
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
   1. [Valid Perfect Square](../valid-perfect-square) (Easy)

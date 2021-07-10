@@ -9,44 +9,44 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1863 | [找出所有子集的异或总和再求和](../../problems/sum-of-all-subset-xor-totals) | [[递归](../recursion/README.md)] [[回溯算法](../backtracking/README.md)]  | Easy |
-| 1849 | [将字符串拆分为递减的连续值](../../problems/splitting-a-string-into-descending-consecutive-values) | [[递归](../recursion/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1799 | [N 次操作后的最大分数和](../../problems/maximize-score-after-n-operations) | [[递归](../recursion/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 1780 | [判断一个数字是否可以表示成三的幂的和](../../problems/check-if-number-is-a-sum-of-powers-of-three) | [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1723 | [完成所有工作的最短时间](../../problems/find-minimum-time-to-finish-all-jobs) | [[递归](../recursion/README.md)] [[回溯算法](../backtracking/README.md)]  | Hard |
-| 1718 | [构建字典序最大的可行序列](../../problems/construct-the-lexicographically-largest-valid-sequence) | [[递归](../recursion/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 1379 | [找出克隆二叉树中的相同节点](../../problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)]  | Medium |
-| 1306 | [跳跃游戏 III](../../problems/jump-game-iii) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)]  | Medium |
-| 1137 | [第 N 个泰波那契数](../../problems/n-th-tribonacci-number) | [[递归](../recursion/README.md)]  | Easy |
-| 1038 | [把二叉搜索树转换为累加树](../../problems/binary-search-tree-to-greater-sum-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
-| 967 | [连续差相同的数字](../../problems/numbers-with-same-consecutive-differences) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
-| 938 | [二叉搜索树的范围和](../../problems/range-sum-of-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
-| 897 | [递增顺序搜索树](../../problems/increasing-order-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
-| 894 | [所有可能的满二叉树](../../problems/all-possible-full-binary-trees) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
-| 865 | [具有所有最深节点的最小子树](../../problems/smallest-subtree-with-all-the-deepest-nodes) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)]  | Medium |
-| 794 | [有效的井字游戏](../../problems/valid-tic-tac-toe-state) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
-| 783 | [二叉搜索树节点最小距离](../../problems/minimum-distance-between-bst-nodes) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
-| 779 | [第K个语法符号](../../problems/k-th-symbol-in-grammar) | [[递归](../recursion/README.md)]  | Medium |
-| 776 | [拆分二叉搜索树](../../problems/split-bst) 🔒 | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
+| 1922 | [统计好数字的数目](../../problems/count-good-numbers) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1823 | [找出游戏的获胜者](../../problems/find-the-winner-of-the-circular-game) | [[递归](../recursion/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 1808 | [好因子的最大数目](../../problems/maximize-number-of-nice-divisors) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1545 | [找出第 N 个二进制字符串中的第 K 位](../../problems/find-kth-bit-in-nth-binary-string) | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1265 | [逆序打印不可变链表](../../problems/print-immutable-linked-list-in-reverse) 🔒 | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 1106 | [解析布尔表达式](../../problems/parsing-a-boolean-expression) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 894 | [所有可能的满二叉树](../../problems/all-possible-full-binary-trees) | [[树](../tree/README.md)] [[递归](../recursion/README.md)] [[记忆化搜索](../memoization/README.md)] [[动态规划](../dynamic-programming/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 779 | [第K个语法符号](../../problems/k-th-symbol-in-grammar) | [[位运算](../bit-manipulation/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
+| 776 | [拆分二叉搜索树](../../problems/split-bst) 🔒 | [[树](../tree/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[递归](../recursion/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 772 | [基本计算器 III](../../problems/basic-calculator-iii) 🔒 | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 770 | [基本计算器 IV](../../problems/basic-calculator-iv) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 761 | [特殊的二进制序列](../../problems/special-binary-string) | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Hard |
-| 726 | [原子的数量](../../problems/number-of-atoms) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
-| 698 | [划分为k个相等的子集](../../problems/partition-to-k-equal-sum-subsets) | [[递归](../recursion/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 687 | [最长同值路径](../../problems/longest-univalue-path) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
-| 669 | [修剪二叉搜索树](../../problems/trim-a-binary-search-tree) | [[树](../tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
-| 625 | [最小因式分解](../../problems/minimum-factorization) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
-| 563 | [二叉树的坡度](../../problems/binary-tree-tilt) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
-| 544 | [输出比赛匹配对](../../problems/output-contest-matches) 🔒 | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 538 | [把二叉搜索树转换为累加树](../../problems/convert-bst-to-greater-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[递归](../recursion/README.md)]  | Medium |
-| 395 | [至少有 K 个重复字符的最长子串](../../problems/longest-substring-with-at-least-k-repeating-characters) | [[递归](../recursion/README.md)] [[分治算法](../divide-and-conquer/README.md)] [[Sliding Window](../sliding-window/README.md)]  | Medium |
-| 369 | [给单链表加一](../../problems/plus-one-linked-list) 🔒 | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Medium |
-| 248 | [中心对称数 III](../../problems/strobogrammatic-number-iii) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Hard |
-| 247 | [中心对称数 II](../../problems/strobogrammatic-number-ii) 🔒 | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
-| 199 | [二叉树的右视图](../../problems/binary-tree-right-side-view) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[递归](../recursion/README.md)] [[队列](../queue/README.md)]  | Medium |
-| 124 | [二叉树中的最大路径和](../../problems/binary-tree-maximum-path-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Hard |
-| 110 | [平衡二叉树](../../problems/balanced-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
-| 104 | [二叉树的最大深度](../../problems/maximum-depth-of-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Easy |
-| 98 | [验证二叉搜索树](../../problems/validate-binary-search-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)]  | Medium |
+| 736 | [Lisp 语法解析](../../problems/parse-lisp-expression) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 544 | [输出比赛匹配对](../../problems/output-contest-matches) 🔒 | [[递归](../recursion/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 509 | [斐波那契数](../../problems/fibonacci-number) | [[递归](../recursion/README.md)] [[记忆化搜索](../memoization/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 486 | [预测赢家](../../problems/predict-the-winner) | [[递归](../recursion/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 439 | [三元表达式解析器](../../problems/ternary-expression-parser) 🔒 | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 394 | [字符串解码](../../problems/decode-string) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 344 | [反转字符串](../../problems/reverse-string) | [[递归](../recursion/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 342 | [4的幂](../../problems/power-of-four) | [[位运算](../bit-manipulation/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Easy |
+| 326 | [3的幂](../../problems/power-of-three) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Easy |
+| 273 | [整数转换英文表示](../../problems/integer-to-english-words) | [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 255 | [验证前序遍历序列二叉搜索树](../../problems/verify-preorder-sequence-in-binary-search-tree) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[递归](../recursion/README.md)] [[二叉树](../binary-tree/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 248 | [中心对称数 III](../../problems/strobogrammatic-number-iii) 🔒 | [[递归](../recursion/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 247 | [中心对称数 II](../../problems/strobogrammatic-number-ii) 🔒 | [[递归](../recursion/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 241 | [为运算表达式设计优先级](../../problems/different-ways-to-add-parentheses) | [[递归](../recursion/README.md)] [[记忆化搜索](../memoization/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 234 | [回文链表](../../problems/palindrome-linked-list) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
+| 233 | [数字 1 的个数](../../problems/number-of-digit-one) | [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 231 | [2 的幂](../../problems/power-of-two) | [[位运算](../bit-manipulation/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Easy |
+| 224 | [基本计算器](../../problems/basic-calculator) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 206 | [反转链表](../../problems/reverse-linked-list) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Easy |
+| 203 | [移除链表元素](../../problems/remove-linked-list-elements) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Easy |
+| 143 | [重排链表](../../problems/reorder-list) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 60 | [排列序列](../../problems/permutation-sequence) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Hard |
+| 50 | [Pow(x, n)](../../problems/powx-n) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
+| 44 | [通配符匹配](../../problems/wildcard-matching) | [[贪心](../greedy/README.md)] [[递归](../recursion/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 25 | [K 个一组翻转链表](../../problems/reverse-nodes-in-k-group) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Hard |
 | 24 | [两两交换链表中的节点](../../problems/swap-nodes-in-pairs) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Medium |
 | 21 | [合并两个有序链表](../../problems/merge-two-sorted-lists) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)]  | Easy |
-| 17 | [电话号码的字母组合](../../problems/letter-combinations-of-a-phone-number) | [[深度优先搜索](../depth-first-search/README.md)] [[递归](../recursion/README.md)] [[字符串](../string/README.md)] [[回溯算法](../backtracking/README.md)]  | Medium |
+| 10 | [正则表达式匹配](../../problems/regular-expression-matching) | [[递归](../recursion/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 2 | [两数相加](../../problems/add-two-numbers) | [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[数学](../math/README.md)]  | Medium |

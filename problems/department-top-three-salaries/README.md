@@ -96,3 +96,6 @@ In the Sales department:
 - Henry earns the highest salary
 - Sam earns the second-highest salary
 - There is no third-highest salary as there are only two employees</pre>
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

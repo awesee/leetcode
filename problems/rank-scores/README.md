@@ -42,3 +42,6 @@
 </pre>
 
 <p><strong>Important Note:</strong>&nbsp;For MySQL solutions, to escape reserved words used as column names, you can use an apostrophe before and after the keyword. For example<strong>&nbsp;`Rank`</strong>.</p>
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

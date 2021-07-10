@@ -41,7 +41,9 @@ Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
 </ul>
 
 ### Related Topics
-  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions

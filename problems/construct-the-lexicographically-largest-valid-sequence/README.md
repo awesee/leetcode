@@ -49,7 +49,7 @@
 </ul>
 
 ### Related Topics
-  [[Recursion](../../tag/recursion/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
 
 ### Hints

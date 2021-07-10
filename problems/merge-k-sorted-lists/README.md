@@ -58,9 +58,10 @@ merging them into one sorted list:
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Merge Sort](../../tag/merge-sort/README.md)]
 
 ### Similar Questions
   1. [Merge Two Sorted Lists](../merge-two-sorted-lists) (Easy)

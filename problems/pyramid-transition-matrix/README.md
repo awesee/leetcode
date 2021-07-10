@@ -58,4 +58,5 @@ Note that there could be allowed triples (A, B, C) and (A, B, D) with C != D.
 
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]

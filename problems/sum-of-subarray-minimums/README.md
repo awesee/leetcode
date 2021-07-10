@@ -43,3 +43,5 @@ Sum is 17.
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]

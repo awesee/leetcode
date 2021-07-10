@@ -47,7 +47,6 @@ Their respective sums are 4, 8, 8, and 16, all of which are powers of 2.
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
-  [[Two Pointers](../../tag/two-pointers/README.md)]
 
 ### Hints
 <details>

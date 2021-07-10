@@ -50,8 +50,11 @@ The second beautiful arrangement is [2,1]:
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Bitmask](../../tag/bitmask/README.md)]
 
 ### Similar Questions
   1. [Beautiful Arrangement II](../beautiful-arrangement-ii) (Medium)

@@ -9,12 +9,27 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1610 | [可见点的最大数目](../../problems/maximum-number-of-visible-points) | [[几何](../geometry/README.md)] [[双指针](../two-pointers/README.md)]  | Hard |
-| 1515 | [服务中心的最佳位置](../../problems/best-position-for-a-service-centre) | [[几何](../geometry/README.md)]  | Hard |
-| 1453 | [圆形靶内的最大飞镖数量](../../problems/maximum-number-of-darts-inside-of-a-circular-dartboard) | [[几何](../geometry/README.md)]  | Hard |
-| 1401 | [圆和矩形是否有重叠](../../problems/circle-and-rectangle-overlapping) | [[几何](../geometry/README.md)]  | Medium |
-| 1266 | [访问所有点的最小时间](../../problems/minimum-time-visiting-all-points) | [[几何](../geometry/README.md)] [[数组](../array/README.md)]  | Easy |
+| 1828 | [统计一个圆中点的数目](../../problems/queries-on-number-of-points-inside-a-circle) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1610 | [可见点的最大数目](../../problems/maximum-number-of-visible-points) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Hard |
+| 1515 | [服务中心的最佳位置](../../problems/best-position-for-a-service-centre) | [[几何](../geometry/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Hard |
+| 1453 | [圆形靶内的最大飞镖数量](../../problems/maximum-number-of-darts-inside-of-a-circular-dartboard) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1401 | [圆和矩形是否有重叠](../../problems/circle-and-rectangle-overlapping) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
+| 1266 | [访问所有点的最小时间](../../problems/minimum-time-visiting-all-points) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1232 | [缀点成线](../../problems/check-if-it-is-a-straight-line) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
-| 963 | [最小面积矩形 II](../../problems/minimum-area-rectangle-ii) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
-| 892 | [三维形体的表面积](../../problems/surface-area-of-3d-shapes) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Easy |
-| 587 | [安装栅栏](../../problems/erect-the-fence) | [[几何](../geometry/README.md)]  | Hard |
+| 1037 | [有效的回旋镖](../../problems/valid-boomerang) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1030 | [距离顺序排列矩阵单元格](../../problems/matrix-cells-in-distance-order) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)] [[排序](../sorting/README.md)]  | Easy |
+| 973 | [最接近原点的 K 个点](../../problems/k-closest-points-to-origin) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[分治](../divide-and-conquer/README.md)] [[快速选择](../quickselect/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 963 | [最小面积矩形 II](../../problems/minimum-area-rectangle-ii) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 939 | [最小面积矩形](../../problems/minimum-area-rectangle) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 892 | [三维形体的表面积](../../problems/surface-area-of-3d-shapes) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)]  | Easy |
+| 883 | [三维形体投影面积](../../problems/projection-area-of-3d-shapes) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)]  | Easy |
+| 858 | [镜面反射](../../problems/mirror-reflection) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
+| 836 | [矩形重叠](../../problems/rectangle-overlap) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Easy |
+| 812 | [最大三角形面积](../../problems/largest-triangle-area) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 593 | [有效的正方形](../../problems/valid-square) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
+| 587 | [安装栅栏](../../problems/erect-the-fence) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 478 | [在圆内随机生成点](../../problems/generate-random-point-in-a-circle) | [[几何](../geometry/README.md)] [[数学](../math/README.md)] [[拒绝采样](../rejection-sampling/README.md)] [[随机化](../randomized/README.md)]  | Medium |
+| 469 | [凸多边形](../../problems/convex-polygon) 🔒 | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
+| 335 | [路径交叉](../../problems/self-crossing) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 223 | [矩形面积](../../problems/rectangle-area) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
+| 149 | [直线上最多的点数](../../problems/max-points-on-a-line) | [[几何](../geometry/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Hard |

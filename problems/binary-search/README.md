@@ -13,7 +13,7 @@
 
 <p>Given an array of integers <code>nums</code> which is sorted in ascending order, and an integer <code>target</code>, write a function to search <code>target</code> in <code>nums</code>. If <code>target</code> exists, then return its index. Otherwise, return <code>-1</code>.</p>
 
-<p>You must&nbsp;write an algorithm with&nbsp;<code>O(log n)</code>&nbsp;runtime complexity.</p>
+<p>You must write an algorithm with <code>O(log n)</code> runtime complexity.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -37,12 +37,13 @@
 
 <ul>
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>-9999 &lt;= nums[i], target &lt;= 9999</code></li>
+	<li><code>-10<sup>4</sup> &lt; nums[i], target &lt; 10<sup>4</sup></code></li>
 	<li>All the integers in <code>nums</code> are <strong>unique</strong>.</li>
-	<li><code>nums</code> is sorted in an ascending order.</li>
+	<li><code>nums</code> is sorted in ascending order.</li>
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions

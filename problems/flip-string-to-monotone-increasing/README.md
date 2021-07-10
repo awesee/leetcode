@@ -59,4 +59,5 @@
 </div>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

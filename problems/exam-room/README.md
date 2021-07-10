@@ -45,7 +45,8 @@ seat() -&gt; 5, the student sits at the last seat number 5.</span>
 </ol>
 
 ### Related Topics
-  [[Ordered Map](../../tag/ordered-map/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
 
 ### Similar Questions
   1. [Maximize Distance to Closest Person](../maximize-distance-to-closest-person) (Medium)

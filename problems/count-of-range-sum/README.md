@@ -42,11 +42,13 @@
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
   [[Segment Tree](../../tag/segment-tree/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Merge Sort](../../tag/merge-sort/README.md)]
 
 ### Similar Questions
   1. [Count of Smaller Numbers After Self](../count-of-smaller-numbers-after-self) (Hard)

@@ -12,3 +12,6 @@
 ## [1729. Find Followers Count (Easy)](https://leetcode.com/problems/find-followers-count "求关注者的数量")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

@@ -63,6 +63,7 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Merge Two Sorted Lists](../merge-two-sorted-lists) (Easy)

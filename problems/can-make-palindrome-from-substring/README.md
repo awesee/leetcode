@@ -46,8 +46,10 @@ queries[4] :&nbsp;substring = &quot;abcda&quot;,&nbsp;could be changed to &quot;
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Hints
 <details>

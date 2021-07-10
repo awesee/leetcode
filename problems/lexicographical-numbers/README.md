@@ -29,3 +29,7 @@
 <ul>
 	<li><code>1 &lt;= n &lt;= 5 * 10<sup>4</sup></code></li>
 </ul>
+
+### Related Topics
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Trie](../../tag/trie/README.md)]

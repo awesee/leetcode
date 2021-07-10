@@ -60,11 +60,10 @@
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
-  [[Union Find](../../tag/union-find/README.md)]
-  [[Queue](../../tag/queue/README.md)]
-  [[Binary Search](../../tag/binary-search/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Hints
 <details>

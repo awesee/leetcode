@@ -38,7 +38,9 @@ The falling path with the smallest sum is&nbsp;[1,5,7], so the answer is&nbsp;13
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
 
 ### Hints
 <details>

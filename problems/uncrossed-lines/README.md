@@ -64,6 +64,7 @@ We cannot draw 3 uncrossed lines, because the line from nums1[1]=4 to nums2[2]=4
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
   1. [Edit Distance](../edit-distance) (Hard)

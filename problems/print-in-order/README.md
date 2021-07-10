@@ -44,5 +44,8 @@ public class Foo {
 <strong>Explanation:</strong> The input [1,3,2] means thread A calls first(), thread B calls third(), and thread C calls second(). &quot;firstsecondthird&quot; is the correct output.
 </pre>
 
+### Related Topics
+  [[Concurrency](../../tag/concurrency/README.md)]
+
 ### Similar Questions
   1. [Print FooBar Alternately](../print-foobar-alternately) (Medium)

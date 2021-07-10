@@ -43,3 +43,6 @@ Note that the two extra dashes are not needed and can be removed.
 	<li><code>s</code> consists of English letters, digits, and dashes <code>&#39;-&#39;</code>.</li>
 	<li><code>1 &lt;= k &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+### Related Topics
+  [[String](../../tag/string/README.md)]

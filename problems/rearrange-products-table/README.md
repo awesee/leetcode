@@ -12,3 +12,6 @@
 ## [1795. Rearrange Products Table (Easy)](https://leetcode.com/problems/rearrange-products-table "每个产品在不同商店的价格")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

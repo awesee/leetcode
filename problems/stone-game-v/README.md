@@ -53,7 +53,10 @@ The last round Alice has only one choice to divide the row which is [2], [3]. Bo
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Game Theory](../../tag/game-theory/README.md)]
 
 ### Hints
 <details>

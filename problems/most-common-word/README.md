@@ -48,4 +48,5 @@ and that &quot;hit&quot; isn&#39;t the answer even though it occurs more because
 </ul>
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]

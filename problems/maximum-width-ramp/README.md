@@ -55,4 +55,6 @@ The maximum width ramp is achieved at (i, j) = (2, 9): nums[2] = 1 and nums[9] =
 </div>
 
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]

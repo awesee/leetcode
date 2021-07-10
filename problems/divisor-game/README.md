@@ -49,8 +49,10 @@
 </ul>
 
 ### Related Topics
+  [[Brainteaser](../../tag/brainteaser/README.md)]
   [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Game Theory](../../tag/game-theory/README.md)]
 
 ### Hints
 <details>

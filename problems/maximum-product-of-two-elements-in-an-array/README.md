@@ -46,6 +46,8 @@ Given the array of integers <code>nums</code>, you will choose two different ind
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

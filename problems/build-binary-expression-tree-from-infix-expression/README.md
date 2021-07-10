@@ -14,8 +14,10 @@
 
 
 ### Related Topics
+  [[Stack](../../tag/stack/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Hints
 <details>

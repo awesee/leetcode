@@ -42,6 +42,7 @@
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions
   1. [Maximum Average Subarray II](../maximum-average-subarray-ii) (Hard)

@@ -15,7 +15,9 @@
 
 ### Related Topics
   [[Design](../../tag/design/README.md)]
-  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Data Stream](../../tag/data-stream/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

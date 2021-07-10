@@ -47,6 +47,7 @@
   [[Brainteaser](../../tag/brainteaser/README.md)]
   [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Probability and Statistics](../../tag/probability-and-statistics/README.md)]
 
 ### Hints
 <details>

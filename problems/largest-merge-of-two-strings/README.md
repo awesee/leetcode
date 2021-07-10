@@ -62,6 +62,8 @@
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

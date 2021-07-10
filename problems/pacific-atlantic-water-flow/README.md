@@ -11,15 +11,17 @@
 
 ## [417. Pacific Atlantic Water Flow (Medium)](https://leetcode.com/problems/pacific-atlantic-water-flow "太平洋大西洋水流问题")
 
-<p>You are given an <code>m x n</code> integer matrix <code>heights</code> representing the height of each unit cell in a continent. The <strong>Pacific ocean</strong> touches the continent&#39;s left and top edges, and the A<strong>tlantic ocean</strong> touches the continent&#39;s right and bottom edges.</p>
+<p>There is an <code>m x n</code> rectangular island that borders both the <strong>Pacific Ocean</strong> and <strong>Atlantic Ocean</strong>. The <strong>Pacific Ocean</strong> touches the island&#39;s left and top edges, and the <strong>Atlantic Ocean</strong> touches the island&#39;s right and bottom edges.</p>
 
-<p>Water can only flow in four directions: up, down, left, and right. Water flows from a cell to an adjacent one with an equal or lower height.</p>
+<p>The island is partitioned into a grid of square cells. You are given an <code>m x n</code> integer matrix <code>heights</code> where <code>heights[r][c]</code> represents the <strong>height above sea level</strong> of the cell at coordinate <code>(r, c)</code>.</p>
 
-<p>Return <em>a list of grid coordinates where water can flow to both the Pacific and Atlantic oceans</em>.</p>
+<p>The island receives a lot of rain, and the rain water can flow to neighboring cells directly north, south, east, and west if the neighboring cell&#39;s height is <strong>less than or equal to</strong> the current cell&#39;s height. Water can flow from any cell adjacent to an ocean into the ocean.</p>
+
+<p>Return <em>a <strong>2D list</strong> of grid coordinates </em><code>result</code><em> where </em><code>result[i] = [r<sub>i</sub>, c<sub>i</sub>]</code><em> denotes that rain water can flow from cell </em><code>(r<sub>i</sub>, c<sub>i</sub>)</code><em> to <strong>both</strong> the Pacific and Atlantic oceans</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/03/26/ocean-grid.jpg" style="width: 573px; height: 573px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2021/06/08/waterflow-grid.jpg" style="width: 573px; height: 573px;" />
 <pre>
 <strong>Input:</strong> heights = [[1,2,2,3,5],[3,2,3,4,4],[2,4,5,3,1],[6,7,1,4,5],[5,1,1,2,4]]
 <strong>Output:</strong> [[0,4],[1,3],[1,4],[2,2],[3,0],[3,1],[4,0]]
@@ -37,11 +39,13 @@
 
 <ul>
 	<li><code>m == heights.length</code></li>
-	<li><code>n == heights[i].length</code></li>
+	<li><code>n == heights[r].length</code></li>
 	<li><code>1 &lt;= m, n &lt;= 200</code></li>
-	<li><code>0 &lt;= heights[i][j] &lt;= 10<sup>5</sup></code></li>
+	<li><code>0 &lt;= heights[r][c] &lt;= 10<sup>5</sup></code></li>
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]

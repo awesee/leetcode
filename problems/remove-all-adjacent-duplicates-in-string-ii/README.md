@@ -53,6 +53,7 @@ Finally delete &quot;ddd&quot;, get &quot;aa&quot;</pre>
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

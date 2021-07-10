@@ -58,5 +58,5 @@ It&#39;s impossible to make all three washing machines have the same number of d
 </ul>
 
 ### Related Topics
-  [[Math](../../tag/math/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]

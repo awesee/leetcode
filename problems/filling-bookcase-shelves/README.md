@@ -42,6 +42,7 @@ Notice that book number 2 does not have to be on the first shelf.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints

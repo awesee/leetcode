@@ -9,6 +9,9 @@
 　　　　　　　　　　　　　　　　
 [Next >](../determine-color-of-a-chessboard-square "Determine Color of a Chessboard Square")
 
-## [1811. Find Interview Candidates (Medium)](https://leetcode.com/problems/find-interview-candidates "")
+## [1811. Find Interview Candidates (Medium)](https://leetcode.com/problems/find-interview-candidates "寻找面试候选人")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

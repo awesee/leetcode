@@ -12,3 +12,6 @@
 ## [1454. Active Users (Medium)](https://leetcode.com/problems/active-users "活跃用户")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

@@ -52,6 +52,8 @@
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Search in a Binary Search Tree](../search-in-a-binary-search-tree) (Easy)

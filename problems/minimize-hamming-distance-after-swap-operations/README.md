@@ -59,9 +59,9 @@ The Hamming distance of source and target is 2 as they differ in 2 positions: in
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

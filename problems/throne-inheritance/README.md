@@ -82,7 +82,9 @@ t.getInheritanceOrder(); // return [&quot;king&quot;, &quot;andy&quot;, &quot;ma
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Design](../../tag/design/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

@@ -63,8 +63,9 @@
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
   [[Array](../../tag/array/README.md)]
-  [[Hash Table](../../tag/hash-table/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Similar Questions
   1. [Largest Rectangle in Histogram](../largest-rectangle-in-histogram) (Hard)

@@ -60,6 +60,8 @@
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
   1. [Basic Calculator](../basic-calculator) (Hard)

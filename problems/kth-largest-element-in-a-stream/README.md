@@ -52,8 +52,12 @@ kthLargest.add(4);   // return 8
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
+  [[Tree](../../tag/tree/README.md)]
   [[Design](../../tag/design/README.md)]
+  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
+  [[Data Stream](../../tag/data-stream/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Kth Largest Element in an Array](../kth-largest-element-in-an-array) (Medium)

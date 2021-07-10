@@ -9,5 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 398 | [随机数索引](../../problems/random-pick-index) | [[蓄水池抽样](../reservoir-sampling/README.md)]  | Medium |
-| 382 | [链表随机节点](../../problems/linked-list-random-node) | [[蓄水池抽样](../reservoir-sampling/README.md)]  | Medium |
+| 519 | [随机翻转矩阵](../../problems/random-flip-matrix) | [[水塘抽样](../reservoir-sampling/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Medium |
+| 497 | [非重叠矩形中的随机点](../../problems/random-point-in-non-overlapping-rectangles) | [[水塘抽样](../reservoir-sampling/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[有序集合](../ordered-set/README.md)] [[前缀和](../prefix-sum/README.md)] [[随机化](../randomized/README.md)]  | Medium |
+| 398 | [随机数索引](../../problems/random-pick-index) | [[水塘抽样](../reservoir-sampling/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Medium |
+| 382 | [链表随机节点](../../problems/linked-list-random-node) | [[水塘抽样](../reservoir-sampling/README.md)] [[链表](../linked-list/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Medium |

@@ -45,6 +45,7 @@ Explanation: The [1,3,2] has three different positive integers ranging from 1 to
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
   1. [Beautiful Arrangement](../beautiful-arrangement) (Medium)

@@ -12,3 +12,6 @@
 ## [1747. Leetflex Banned Accounts (Medium)](https://leetcode.com/problems/leetflex-banned-accounts "应该被禁止的Leetflex账户")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

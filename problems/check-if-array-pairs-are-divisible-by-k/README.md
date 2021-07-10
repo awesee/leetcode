@@ -68,9 +68,9 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
-  [[Math](../../tag/math/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Counting](../../tag/counting/README.md)]
 
 ### Hints
 <details>

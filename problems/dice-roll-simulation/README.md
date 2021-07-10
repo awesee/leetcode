@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../maximum-equal-frequency "Maximum Equal Frequency")
 
-## [1223. Dice Roll Simulation (Medium)](https://leetcode.com/problems/dice-roll-simulation "掷骰子模拟")
+## [1223. Dice Roll Simulation (Hard)](https://leetcode.com/problems/dice-roll-simulation "掷骰子模拟")
 
 <p>A die simulator generates a random number from 1 to 6 for each roll.&nbsp;You introduced a constraint to the generator such that it cannot roll the number <code>i</code> more than <code>rollMax[i]</code> (1-indexed) <strong>consecutive</strong> times.&nbsp;</p>
 
@@ -50,6 +50,7 @@
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints

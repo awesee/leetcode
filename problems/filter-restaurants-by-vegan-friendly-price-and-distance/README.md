@@ -61,8 +61,8 @@ After filter restaurants with veganFriendly = 1, maxPrice = 50 and maxDistance =
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

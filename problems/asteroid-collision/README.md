@@ -61,6 +61,7 @@
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
   1. [Can Place Flowers](../can-place-flowers) (Easy)

@@ -35,6 +35,7 @@
 ### Related Topics
   [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Similar Questions
   1. [Add Two Numbers](../add-two-numbers) (Medium)

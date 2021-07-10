@@ -62,8 +62,8 @@
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

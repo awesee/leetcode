@@ -56,6 +56,7 @@ On the fourth turn, ans[0] += 4, and the final array is [5,2,3].
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
 <details>

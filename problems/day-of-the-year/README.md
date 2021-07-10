@@ -54,6 +54,7 @@
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

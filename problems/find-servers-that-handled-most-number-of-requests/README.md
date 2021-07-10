@@ -83,7 +83,10 @@ Server 0 handled two requests, while servers 1 and 2 handled one request each. H
 </ul>
 
 ### Related Topics
-  [[Ordered Map](../../tag/ordered-map/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

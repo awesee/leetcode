@@ -61,6 +61,8 @@ The city 0 has 1 neighboring city at a distanceThreshold = 2.
 
 ### Related Topics
   [[Graph](../../tag/graph/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Shortest Path](../../tag/shortest-path/README.md)]
 
 ### Hints
 <details>

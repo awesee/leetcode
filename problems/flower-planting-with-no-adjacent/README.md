@@ -59,6 +59,8 @@ Hence, [1,2,3] is a valid answer. Other valid answers include [1,2,4], [1,4,2], 
 </ul>
 
 ### Related Topics
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Graph](../../tag/graph/README.md)]
 
 ### Hints

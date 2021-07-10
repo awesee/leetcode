@@ -49,5 +49,9 @@
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you implement a solution that runs in <code>O(n)</code> time complexity and <code>O(1)</code> space complexity?
 
+### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+
 ### Similar Questions
   1. [Longest Increasing Subsequence](../longest-increasing-subsequence) (Medium)

@@ -11,32 +11,14 @@
 
 ## [270. Closest Binary Search Tree Value (Easy)](https://leetcode.com/problems/closest-binary-search-tree-value "最接近的二叉搜索树值")
 
-<p>Given a non-empty binary search tree and a target value, find the value in the BST that is closest to the target.</p>
 
-<p><b>Note:</b></p>
-
-<ul>
-	<li>Given target value is a floating point.</li>
-	<li>You are guaranteed to have only one unique value in the BST that is closest to the target.</li>
-</ul>
-
-<p><strong>Example:</strong></p>
-
-<pre>
-<strong>Input:</strong> root = [4,2,5,1,3], target = 3.714286
-
-    4
-   / \
-  2   5
- / \
-1   3
-
-<strong>Output:</strong> 4
-</pre>
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Count Complete Tree Nodes](../count-complete-tree-nodes) (Medium)

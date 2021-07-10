@@ -63,8 +63,10 @@
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Similar Questions
   1. [Top K Frequent Elements](../top-k-frequent-elements) (Medium)

@@ -56,8 +56,12 @@ Same with other integers chosen by the first player, the second player will alwa
 </ul>
 
 ### Related Topics
-  [[Minimax](../../tag/minimax/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Bitmask](../../tag/bitmask/README.md)]
+  [[Game Theory](../../tag/game-theory/README.md)]
 
 ### Similar Questions
   1. [Flip Game II](../flip-game-ii) (Medium)

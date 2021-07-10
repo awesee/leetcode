@@ -65,7 +65,10 @@ q.popFront();     // return -1 -&gt; [] (The queue is empty)
 
 ### Related Topics
   [[Design](../../tag/design/README.md)]
+  [[Queue](../../tag/queue/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
+  [[Data Stream](../../tag/data-stream/README.md)]
 
 ### Hints
 <details>

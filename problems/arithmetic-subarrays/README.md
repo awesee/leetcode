@@ -61,7 +61,8 @@ In the 2<sup>nd</sup> query, the subarray is <code>[5,9,3,7]. This</code> can be
 </ul>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

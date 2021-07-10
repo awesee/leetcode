@@ -45,7 +45,9 @@ Only two moves are needed (remember each move increments or decrements one eleme
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
   1. [Best Meeting Point](../best-meeting-point) (Hard)

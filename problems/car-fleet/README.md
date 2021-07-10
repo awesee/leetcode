@@ -52,4 +52,5 @@ Note that no other cars meet these fleets before the destination, so the answer 
 </ol>
 
 ### Related Topics
-  [[Sort](../../tag/sort/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]

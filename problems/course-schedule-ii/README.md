@@ -57,8 +57,8 @@ So one correct course order is [0,1,2,3]. Another correct ordering is [0,2,1,3].
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
-  [[Breadth-first Search](../../tag/breadth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Graph](../../tag/graph/README.md)]
   [[Topological Sort](../../tag/topological-sort/README.md)]
 

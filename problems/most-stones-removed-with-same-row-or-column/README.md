@@ -62,5 +62,6 @@ Stones [0,0] and [1,1] cannot be removed since they do not share a row/column wi
 </ul>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
+  [[Graph](../../tag/graph/README.md)]

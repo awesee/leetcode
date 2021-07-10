@@ -72,4 +72,5 @@ All 3 columns are not sorted, so you will delete all 3.
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[String](../../tag/string/README.md)]

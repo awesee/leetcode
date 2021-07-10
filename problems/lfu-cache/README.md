@@ -25,6 +25,8 @@
 
 <p>When a key is first inserted into the cache, its <strong>use counter</strong> is set to <code>1</code> (due to the <code>put</code> operation). The <strong>use counter</strong> for a key in the cache is incremented either a <code>get</code> or <code>put</code> operation is called on it.</p>
 
+<p>The functions&nbsp;<code data-stringify-type="code">get</code>&nbsp;and&nbsp;<code data-stringify-type="code">put</code>&nbsp;must each run in <code>O(1)</code> average time complexity.</p>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
@@ -61,15 +63,20 @@ lfu.get(4);      // return 4
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= capacity, key, value &lt;= 10<sup>4</sup></code></li>
-	<li>At most <code>10<sup>5</sup></code> calls will be made to <code>get</code> and <code>put</code>.</li>
+	<li><code>0 &lt;= capacity&nbsp;&lt;= 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= key &lt;= 10<sup>5</sup></code></li>
+	<li><code>0 &lt;= value &lt;= 10<sup>9</sup></code></li>
+	<li>At most <code>2 * 10<sup>5</sup></code>&nbsp;calls will be made to <code>get</code> and <code>put</code>.</li>
 </ul>
 
 <p>&nbsp;</p>
-<strong>Follow up:</strong> Could you do both operations in <code>O(1)</code> time complexity?<span style="display: none;">&nbsp;</span>
+<span style="display: none;">&nbsp;</span>
 
 ### Related Topics
   [[Design](../../tag/design/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
+  [[Doubly-Linked List](../../tag/doubly-linked-list/README.md)]
 
 ### Similar Questions
   1. [LRU Cache](../lru-cache) (Medium)

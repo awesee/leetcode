@@ -9,12 +9,14 @@
 　　　　　　　　　　　　　　　　
 [Next >](../group-employees-of-the-same-salary "Group Employees of the Same Salary")
 
-## [1874. Minimize Product Sum of Two Arrays (Medium)](https://leetcode.com/problems/minimize-product-sum-of-two-arrays "")
+## [1874. Minimize Product Sum of Two Arrays (Medium)](https://leetcode.com/problems/minimize-product-sum-of-two-arrays "两个数组的最小乘积和")
 
 
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

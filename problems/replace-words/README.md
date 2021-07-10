@@ -51,7 +51,9 @@
 
 ### Related Topics
   [[Trie](../../tag/trie/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Similar Questions
   1. [Implement Trie (Prefix Tree)](../implement-trie-prefix-tree) (Medium)

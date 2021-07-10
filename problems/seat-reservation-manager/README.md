@@ -55,8 +55,8 @@ seatManager.unreserve(5); // Unreserve seat 5, so now the available seats are [5
 </ul>
 
 ### Related Topics
-  [[Heap](../../tag/heap/README.md)]
   [[Design](../../tag/design/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

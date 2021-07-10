@@ -46,6 +46,7 @@
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
   1. [Remove K Digits](../remove-k-digits) (Medium)

@@ -48,6 +48,7 @@ So [2,2,3,1,4,2] is the shortest subarray, therefore returning 6.
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Maximum Subarray](../maximum-subarray) (Easy)

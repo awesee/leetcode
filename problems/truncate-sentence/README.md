@@ -60,6 +60,7 @@ Hence, you should return &quot;What is the solution&quot;.</pre>
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]
 
 ### Hints

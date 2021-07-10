@@ -60,4 +60,6 @@ freqStack.pop();   // return 4, as 4, 5 and 7 is the most frequent, but 4 is clo
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]
+  [[Design](../../tag/design/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]

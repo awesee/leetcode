@@ -56,4 +56,8 @@ We made 5 calls to master.guess and one of them was the secret, so we pass the t
 </ul>
 
 ### Related Topics
-  [[Minimax](../../tag/minimax/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Game Theory](../../tag/game-theory/README.md)]
+  [[Interactive](../../tag/interactive/README.md)]

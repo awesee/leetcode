@@ -52,7 +52,9 @@ numArray.sumRange(0, 5); // return (-2) + 0 + 3 + (-5) + 2 + (-1) = -3
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Similar Questions
   1. [Range Sum Query 2D - Immutable](../range-sum-query-2d-immutable) (Medium)

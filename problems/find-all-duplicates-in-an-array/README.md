@@ -38,6 +38,7 @@
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Find All Numbers Disappeared in an Array](../find-all-numbers-disappeared-in-an-array) (Easy)

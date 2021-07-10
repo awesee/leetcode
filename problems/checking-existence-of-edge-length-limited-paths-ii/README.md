@@ -16,7 +16,7 @@
 ### Related Topics
   [[Union Find](../../tag/union-find/README.md)]
   [[Graph](../../tag/graph/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Minimum Spanning Tree](../../tag/minimum-spanning-tree/README.md)]
 
 ### Hints
 <details>

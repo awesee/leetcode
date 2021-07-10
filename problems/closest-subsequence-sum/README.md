@@ -55,7 +55,11 @@ The absolute difference is abs(-4 - (-5)) = abs(1) = 1, which is the minimum.
 </ul>
 
 ### Related Topics
-  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Bitmask](../../tag/bitmask/README.md)]
 
 ### Hints
 <details>

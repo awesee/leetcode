@@ -60,6 +60,7 @@ Notice that the vowel o is counted twice.
 
 ### Related Topics
   [[String](../../tag/string/README.md)]
+  [[Counting](../../tag/counting/README.md)]
 
 ### Hints
 <details>

@@ -57,4 +57,7 @@ The other answers can be filled out with similar reasoning.
 </ol>
 
 ### Related Topics
-  [[Depth-first Search](../../tag/depth-first-search/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]
+  [[Topological Sort](../../tag/topological-sort/README.md)]
+  [[Array](../../tag/array/README.md)]

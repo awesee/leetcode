@@ -70,6 +70,8 @@ Notice that there is a unique path between every pair of points.
 
 ### Related Topics
   [[Union Find](../../tag/union-find/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Minimum Spanning Tree](../../tag/minimum-spanning-tree/README.md)]
 
 ### Hints
 <details>
