@@ -11,19 +11,19 @@
 
 ## [997. Find the Town Judge (Easy)](https://leetcode.com/problems/find-the-town-judge "找到小镇的法官")
 
-<p>In a town, there are <code>n</code> people labelled from&nbsp;<code>1</code> to <code>n</code>.&nbsp; There is a rumor that one of these people is secretly the town judge.</p>
+<p>In a town, there are <code>n</code> people labeled from <code>1</code> to <code>n</code>. There is a rumor that one of these people is secretly the town judge.</p>
 
-<p>If the&nbsp;town judge exists, then:</p>
+<p>If the town judge exists, then:</p>
 
 <ol>
 	<li>The town judge trusts nobody.</li>
 	<li>Everybody (except for the town judge) trusts the town judge.</li>
-	<li>There is exactly one person that satisfies properties 1 and 2.</li>
+	<li>There is exactly one person that satisfies properties <strong>1</strong> and <strong>2</strong>.</li>
 </ol>
 
-<p>You are given <code>trust</code>, an array of pairs <code>trust[i] = [a, b]</code> representing that the person labelled <code>a</code> trusts the person labelled <code>b</code>.</p>
+<p>You are given an array <code>trust</code> where <code>trust[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> representing that the person labeled <code>a<sub>i</sub></code> trusts the person labeled <code>b<sub>i</sub></code>.</p>
 
-<p>If the town judge exists and can be identified, return the label of the town judge.&nbsp; Otherwise, return <code>-1</code>.</p>
+<p>Return <em>the label of the town judge if the town judge exists and can be identified, or return </em><code>-1</code><em> otherwise</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -68,9 +68,9 @@
 	<li><code>1 &lt;= n &lt;= 1000</code></li>
 	<li><code>0 &lt;= trust.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>trust[i].length == 2</code></li>
-	<li><code>trust[i]</code> are all different</li>
-	<li><code>trust[i][0] != trust[i][1]</code></li>
-	<li><code>1 &lt;= trust[i][0], trust[i][1] &lt;= n</code></li>
+	<li>All the pairs of <code>trust</code> are <strong>unique</strong>.</li>
+	<li><code>a<sub>i</sub> != b<sub>i</sub></code></li>
+	<li><code>1 &lt;= a<sub>i</sub>, b<sub>i</sub> &lt;= n</code></li>
 </ul>
 
 ### Related Topics

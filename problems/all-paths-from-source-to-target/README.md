@@ -11,9 +11,9 @@
 
 ## [797. All Paths From Source to Target (Medium)](https://leetcode.com/problems/all-paths-from-source-to-target "所有可能的路径")
 
-<p>Given a directed&nbsp;acyclic graph (<strong>DAG</strong>) of <code>n</code> nodes labeled from 0 to n - 1,&nbsp;find all possible paths from node <code>0</code> to node <code>n - 1</code>, and return them in any order.</p>
+<p>Given a directed acyclic graph (<strong>DAG</strong>) of <code>n</code> nodes labeled from <code>0</code> to <code>n - 1</code>, find all possible paths from node <code>0</code> to node <code>n - 1</code> and return them in <strong>any order</strong>.</p>
 
-<p>The graph is given as follows:&nbsp;<code>graph[i]</code> is a list of all nodes you can visit from node <code>i</code>&nbsp;(i.e., there is a directed edge from node <code>i</code> to node <code>graph[i][j]</code>).</p>
+<p>The graph is given as follows: <code>graph[i]</code> is a list of all nodes you can visit from node <code>i</code> (i.e., there is a directed edge from node <code>i</code> to node <code>graph[i][j]</code>).</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -60,6 +60,7 @@
 	<li><code>2 &lt;= n &lt;= 15</code></li>
 	<li><code>0 &lt;= graph[i][j] &lt; n</code></li>
 	<li><code>graph[i][j] != i</code> (i.e., there will be no self-loops).</li>
+	<li>All the elements of <code>graph[i]</code> are <strong>unique</strong>.</li>
 	<li>The input graph is <strong>guaranteed</strong> to be a <strong>DAG</strong>.</li>
 </ul>
 

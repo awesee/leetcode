@@ -11,23 +11,40 @@
 | :-: | - | :-: | - | :-: | - | :-: |
 | 1 | [Array](array/README.md) | [数组](https://openset.github.io/tags/array/) | | 2 | [Dynamic Programming](dynamic-programming/README.md) | [动态规划](https://openset.github.io/tags/dynamic-programming/) | 
 | 3 | [String](string/README.md) | [字符串](https://openset.github.io/tags/string/) | | 4 | [Math](math/README.md) | [数学](https://openset.github.io/tags/math/) | 
-| 5 | [Greedy](greedy/README.md) | [贪心算法](https://openset.github.io/tags/greedy/) | | 6 | [Depth-first Search](depth-first-search/README.md) | [深度优先搜索](https://openset.github.io/tags/depth-first-search/) | 
+| 5 | [Greedy](greedy/README.md) | [贪心](https://openset.github.io/tags/greedy/) | | 6 | [Depth-First Search](depth-first-search/README.md) | [深度优先搜索](https://openset.github.io/tags/depth-first-search/) | 
 | 7 | [Tree](tree/README.md) | [树](https://openset.github.io/tags/tree/) | | 8 | [Hash Table](hash-table/README.md) | [哈希表](https://openset.github.io/tags/hash-table/) | 
-| 9 | [Binary Search](binary-search/README.md) | [二分查找](https://openset.github.io/tags/binary-search/) | | 10 | [Breadth-first Search](breadth-first-search/README.md) | [广度优先搜索](https://openset.github.io/tags/breadth-first-search/) | 
+| 9 | [Binary Search](binary-search/README.md) | [二分查找](https://openset.github.io/tags/binary-search/) | | 10 | [Breadth-First Search](breadth-first-search/README.md) | [广度优先搜索](https://openset.github.io/tags/breadth-first-search/) | 
 | 11 | [Sort](sort/README.md) | [排序](https://openset.github.io/tags/sort/) | | 12 | [Two Pointers](two-pointers/README.md) | [双指针](https://openset.github.io/tags/two-pointers/) | 
-| 13 | [Backtracking](backtracking/README.md) | [回溯算法](https://openset.github.io/tags/backtracking/) | | 14 | [Design](design/README.md) | [设计](https://openset.github.io/tags/design/) | 
+| 13 | [Backtracking](backtracking/README.md) | [回溯](https://openset.github.io/tags/backtracking/) | | 14 | [Design](design/README.md) | [设计](https://openset.github.io/tags/design/) | 
 | 15 | [Stack](stack/README.md) | [栈](https://openset.github.io/tags/stack/) | | 16 | [Bit Manipulation](bit-manipulation/README.md) | [位运算](https://openset.github.io/tags/bit-manipulation/) | 
 | 17 | [Graph](graph/README.md) | [图](https://openset.github.io/tags/graph/) | | 18 | [Heap](heap/README.md) | [堆](https://openset.github.io/tags/heap/) | 
 | 19 | [Linked List](linked-list/README.md) | [链表](https://openset.github.io/tags/linked-list/) | | 20 | [Recursion](recursion/README.md) | [递归](https://openset.github.io/tags/recursion/) | 
-| 21 | [Union Find](union-find/README.md) | [并查集](https://openset.github.io/tags/union-find/) | | 22 | [Sliding Window](sliding-window/README.md) | [Sliding Window](https://openset.github.io/tags/sliding-window/) | 
-| 23 | [Trie](trie/README.md) | [字典树](https://openset.github.io/tags/trie/) | | 24 | [Divide and Conquer](divide-and-conquer/README.md) | [分治算法](https://openset.github.io/tags/divide-and-conquer/) | 
+| 21 | [Union Find](union-find/README.md) | [并查集](https://openset.github.io/tags/union-find/) | | 22 | [Sliding Window](sliding-window/README.md) | [滑动窗口](https://openset.github.io/tags/sliding-window/) | 
+| 23 | [Trie](trie/README.md) | [字典树](https://openset.github.io/tags/trie/) | | 24 | [Divide and Conquer](divide-and-conquer/README.md) | [分治](https://openset.github.io/tags/divide-and-conquer/) | 
 | 25 | [Ordered Map](ordered-map/README.md) | [Ordered Map](https://openset.github.io/tags/ordered-map/) | | 26 | [Segment Tree](segment-tree/README.md) | [线段树](https://openset.github.io/tags/segment-tree/) | 
 | 27 | [Queue](queue/README.md) | [队列](https://openset.github.io/tags/queue/) | | 28 | [Geometry](geometry/README.md) | [几何](https://openset.github.io/tags/geometry/) | 
-| 29 | [Line Sweep](line-sweep/README.md) | [Line Sweep](https://openset.github.io/tags/line-sweep/) | | 30 | [Binary Indexed Tree](binary-indexed-tree/README.md) | [树状数组](https://openset.github.io/tags/binary-indexed-tree/) | 
+| 29 | [Line Sweep](line-sweep/README.md) | [扫描线](https://openset.github.io/tags/line-sweep/) | | 30 | [Binary Indexed Tree](binary-indexed-tree/README.md) | [树状数组](https://openset.github.io/tags/binary-indexed-tree/) | 
 | 31 | [Minimax](minimax/README.md) | [极小化极大](https://openset.github.io/tags/minimax/) | | 32 | [Brainteaser](brainteaser/README.md) | [脑筋急转弯](https://openset.github.io/tags/brainteaser/) | 
 | 33 | [Topological Sort](topological-sort/README.md) | [拓扑排序](https://openset.github.io/tags/topological-sort/) | | 34 | [Dequeue](dequeue/README.md) | [Dequeue](https://openset.github.io/tags/dequeue/) | 
 | 35 | [Random](random/README.md) | [Random](https://openset.github.io/tags/random/) | | 36 | [Binary Search Tree](binary-search-tree/README.md) | [二叉搜索树](https://openset.github.io/tags/binary-search-tree/) | 
-| 37 | [Rolling Hash](rolling-hash/README.md) | [Rolling Hash](https://openset.github.io/tags/rolling-hash/) | | 38 | [Suffix Array](suffix-array/README.md) | [Suffix Array](https://openset.github.io/tags/suffix-array/) | 
-| 39 | [Rejection Sampling](rejection-sampling/README.md) | [Rejection Sampling](https://openset.github.io/tags/rejection-sampling/) | | 40 | [Reservoir Sampling](reservoir-sampling/README.md) | [蓄水池抽样](https://openset.github.io/tags/reservoir-sampling/) | 
-| 41 | [Meet In The Middle](meet-in-the-middle/README.md) | [Meet In The Middle](https://openset.github.io/tags/meet-in-the-middle/) | | 42 | [Memoization](memoization/README.md) | [记忆化](https://openset.github.io/tags/memoization/) | 
-| 43 | [OOP](oop/README.md) | [OOP](https://openset.github.io/tags/oop/) | 
+| 37 | [Rolling Hash](rolling-hash/README.md) | [滚动哈希](https://openset.github.io/tags/rolling-hash/) | | 38 | [Suffix Array](suffix-array/README.md) | [后缀数组](https://openset.github.io/tags/suffix-array/) | 
+| 39 | [Rejection Sampling](rejection-sampling/README.md) | [拒绝采样](https://openset.github.io/tags/rejection-sampling/) | | 40 | [Reservoir Sampling](reservoir-sampling/README.md) | [水塘抽样](https://openset.github.io/tags/reservoir-sampling/) | 
+| 41 | [Meet In The Middle](meet-in-the-middle/README.md) | [Meet In The Middle](https://openset.github.io/tags/meet-in-the-middle/) | | 42 | [Memoization](memoization/README.md) | [记忆化搜索](https://openset.github.io/tags/memoization/) | 
+| 43 | [OOP](oop/README.md) | [OOP](https://openset.github.io/tags/oop/) | | 44 | [Sorting](sorting/README.md) | [排序](https://openset.github.io/tags/sorting/) | 
+| 45 | [Heap (Priority Queue)](heap-priority-queue/README.md) | [堆（优先队列）](https://openset.github.io/tags/heap-priority-queue/) | | 46 | [Ordered Set](ordered-set/README.md) | [有序集合](https://openset.github.io/tags/ordered-set/) | 
+| 47 | [Hash Function](hash-function/README.md) | [哈希函数](https://openset.github.io/tags/hash-function/) | | 48 | [String Matching](string-matching/README.md) | [字符串匹配](https://openset.github.io/tags/string-matching/) | 
+| 49 | [Randomized](randomized/README.md) | [随机化](https://openset.github.io/tags/randomized/) | | 50 | [Prefix Sum](prefix-sum/README.md) | [前缀和](https://openset.github.io/tags/prefix-sum/) | 
+| 51 | [Probability and Statistics](probability-and-statistics/README.md) | [概率与统计](https://openset.github.io/tags/probability-and-statistics/) | | 52 | [Simulation](simulation/README.md) | [模拟](https://openset.github.io/tags/simulation/) | 
+| 53 | [Monotonic Queue](monotonic-queue/README.md) | [单调队列](https://openset.github.io/tags/monotonic-queue/) | | 54 | [Data Stream](data-stream/README.md) | [数据流](https://openset.github.io/tags/data-stream/) | 
+| 55 | [Counting](counting/README.md) | [计数](https://openset.github.io/tags/counting/) | | 56 | [Matrix](matrix/README.md) | [矩阵](https://openset.github.io/tags/matrix/) | 
+| 57 | [Iterator](iterator/README.md) | [迭代器](https://openset.github.io/tags/iterator/) | | 58 | [Quickselect](quickselect/README.md) | [快速选择](https://openset.github.io/tags/quickselect/) | 
+| 59 | [Merge Sort](merge-sort/README.md) | [归并排序](https://openset.github.io/tags/merge-sort/) | | 60 | [Binary Tree](binary-tree/README.md) | [二叉树](https://openset.github.io/tags/binary-tree/) | 
+| 61 | [Combinatorics](combinatorics/README.md) | [组合数学](https://openset.github.io/tags/combinatorics/) | | 62 | [Shortest Path](shortest-path/README.md) | [最短路](https://openset.github.io/tags/shortest-path/) | 
+| 63 | [Interactive](interactive/README.md) | [交互](https://openset.github.io/tags/interactive/) | | 64 | [Bucket Sort](bucket-sort/README.md) | [桶排序](https://openset.github.io/tags/bucket-sort/) | 
+| 65 | [Counting Sort](counting-sort/README.md) | [计数排序](https://openset.github.io/tags/counting-sort/) | | 66 | [Radix Sort](radix-sort/README.md) | [基数排序](https://openset.github.io/tags/radix-sort/) | 
+| 67 | [Monotonic Stack](monotonic-stack/README.md) | [单调栈](https://openset.github.io/tags/monotonic-stack/) | | 68 | [Minimum Spanning Tree](minimum-spanning-tree/README.md) | [最小生成树](https://openset.github.io/tags/minimum-spanning-tree/) | 
+| 69 | [Strongly Connected Component](strongly-connected-component/README.md) | [强连通分量](https://openset.github.io/tags/strongly-connected-component/) | | 70 | [Game Theory](game-theory/README.md) | [博弈](https://openset.github.io/tags/game-theory/) | 
+| 71 | [Bitmask](bitmask/README.md) | [状态压缩](https://openset.github.io/tags/bitmask/) | | 72 | [Concurrency](concurrency/README.md) | [多线程](https://openset.github.io/tags/concurrency/) | 
+| 73 | [Doubly-Linked List](doubly-linked-list/README.md) | [双向链表](https://openset.github.io/tags/doubly-linked-list/) | | 74 | [Enumeration](enumeration/README.md) | [枚举](https://openset.github.io/tags/enumeration/) | 
+| 75 | [Number Theory](number-theory/README.md) | [数论](https://openset.github.io/tags/number-theory/) | | 76 | [Biconnected Component](biconnected-component/README.md) | [双连通分量](https://openset.github.io/tags/biconnected-component/) | 
+| 77 | [Eulerian Circuit](eulerian-circuit/README.md) | [欧拉回路](https://openset.github.io/tags/eulerian-circuit/) | 

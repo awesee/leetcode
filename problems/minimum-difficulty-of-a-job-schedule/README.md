@@ -21,7 +21,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/01/16/untitled.png" style="width: 365px; height: 230px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2020/01/16/untitled.png" style="width: 365px; height: 370px;" />
 <pre>
 <strong>Input:</strong> jobDifficulty = [6,5,4,3,2,1], d = 2
 <strong>Output:</strong> 7
@@ -65,7 +65,7 @@ The difficulty of the schedule = 6 + 1 = 7
 
 <ul>
 	<li><code>1 &lt;= jobDifficulty.length &lt;= 300</code></li>
-	<li><code>0 &lt;=&nbsp;jobDifficulty[i] &lt;= 1000</code></li>
+	<li><code>0 &lt;= jobDifficulty[i] &lt;= 1000</code></li>
 	<li><code>1 &lt;= d &lt;= 10</code></li>
 </ul>
 

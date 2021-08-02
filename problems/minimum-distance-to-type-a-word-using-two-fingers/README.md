@@ -11,13 +11,18 @@
 
 ## [1320. Minimum Distance to Type a Word Using Two Fingers (Hard)](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers "二指输入的的最小距离")
 
-<p><img alt="" src="https://assets.leetcode.com/uploads/2020/01/02/leetcode_keyboard.png" style="width: 417px; height: 250px;" /></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2020/01/02/leetcode_keyboard.png" style="width: 349px; height: 209px;" />
+<p>You have a keyboard layout as shown above in the <strong>X-Y</strong> plane, where each English uppercase letter is located at some coordinate.</p>
 
-<p>You have a keyboard layout as shown above in the XY plane, where each English uppercase letter is located at some coordinate, for example, the letter <strong>A</strong> is located at coordinate <strong>(0,0)</strong>, the letter <strong>B</strong> is located at coordinate <strong>(0,1)</strong>, the letter <strong>P</strong> is located at coordinate <strong>(2,3)</strong> and the letter <strong>Z</strong> is located at coordinate <strong>(4,1)</strong>.</p>
+<ul>
+	<li>For example, the letter <code>&#39;A&#39;</code> is located at coordinate <code>(0, 0)</code>, the letter <code>&#39;B&#39;</code> is located at coordinate <code>(0, 1)</code>, the letter <code>&#39;P&#39;</code> is located at coordinate <code>(2, 3)</code> and the letter <code>&#39;Z&#39;</code> is located at coordinate <code>(4, 1)</code>.</li>
+</ul>
 
-<p>Given the string <code>word</code>, return the minimum total distance to type such string using only two&nbsp;fingers. The distance between coordinates <strong>(x<sub>1</sub>,y<sub>1</sub>)</strong> and <strong>(x<sub>2</sub>,y<sub>2</sub>)</strong> is <strong>|x<sub>1</sub> - x<sub>2</sub>| + |y<sub>1</sub> - y<sub>2</sub>|</strong>.&nbsp;</p>
+<p>Given the string <code>word</code>, return <em>the minimum total <strong>distance</strong> to type such string using only two fingers</em>.</p>
 
-<p>Note that the initial positions of your two&nbsp;fingers are considered free so don&#39;t count towards your total distance, also your two&nbsp;fingers do not have to start at the first letter or the first two&nbsp;letters.</p>
+<p>The <strong>distance</strong> between coordinates <code>(x<sub>1</sub>, y<sub>1</sub>)</code> and <code>(x<sub>2</sub>, y<sub>2</sub>)</code> is <code>|x<sub>1</sub> - x<sub>2</sub>| + |y<sub>1</sub> - y<sub>2</sub>|</code>.</p>
+
+<p><strong>Note</strong> that the initial positions of your two fingers are considered free so do not count towards your total distance, also your two fingers do not have to start at the first letter or the first two letters.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -68,7 +73,7 @@ Total distance = 6
 
 <ul>
 	<li><code>2 &lt;= word.length &lt;= 300</code></li>
-	<li>Each <code data-stringify-type="code">word[i]</code>&nbsp;is an English uppercase letter.</li>
+	<li><code>word</code> consists of uppercase English letters.</li>
 </ul>
 
 ### Related Topics

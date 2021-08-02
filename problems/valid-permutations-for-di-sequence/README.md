@@ -11,26 +11,29 @@
 
 ## [903. Valid Permutations for DI Sequence (Hard)](https://leetcode.com/problems/valid-permutations-for-di-sequence "DI 序列的有效排列")
 
-<p>We are given <code>s</code>, a length <code>n</code> string of characters from the set <code>{&#39;D&#39;, &#39;I&#39;}</code>. (These letters stand for &quot;decreasing&quot; and &quot;increasing&quot;.)</p>
-
-<p>A&nbsp;<em>valid permutation</em>&nbsp;is a permutation <code>p[0], p[1], ..., p[n]</code> of integers&nbsp;<code>{0, 1, ..., n}</code>, such that for all <code>i</code>:</p>
+<p>You are given a string <code>s</code> of length <code>n</code> where <code>s[i]</code> is either:</p>
 
 <ul>
-	<li>If <code>s[i] == &#39;D&#39;</code>, then <code>p[i] &gt; p[i+1]</code>, and;</li>
-	<li>If <code>s[i] == &#39;I&#39;</code>, then <code>p[i] &lt; p[i+1]</code>.</li>
+	<li><code>&#39;D&#39;</code> means decreasing, or</li>
+	<li><code>&#39;I&#39;</code> means increasing.</li>
 </ul>
 
-<p>How many valid permutations are there?&nbsp; Since the answer may be large, <strong>return your answer modulo </strong><code>10<sup>9</sup> + 7</code>.</p>
+<p>A permutation <code>perm</code> of <code>n + 1</code> integers of all the integers in the range <code>[0, n]</code> is called a <strong>valid permutation</strong> if for all valid <code>i</code>:</p>
+
+<ul>
+	<li>If <code>s[i] == &#39;D&#39;</code>, then <code>perm[i] &gt; perm[i + 1]</code>, and</li>
+	<li>If <code>s[i] == &#39;I&#39;</code>, then <code>perm[i] &lt; perm[i + 1]</code>.</li>
+</ul>
+
+<p>Return <em>the number of <strong>valid permutations</strong> </em><code>perm</code>. Since the answer may be large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
 
 <p>&nbsp;</p>
-
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong>s = <span id="example-input-1-1">&quot;DID&quot;</span>
-<strong>Output: </strong><span id="example-output-1">5</span>
-<strong>Explanation: </strong>
-The 5 valid permutations of (0, 1, 2, 3) are:
+<strong>Input:</strong> s = &quot;DID&quot;
+<strong>Output:</strong> 5
+<strong>Explanation:</strong> The 5 valid permutations of (0, 1, 2, 3) are:
 (1, 0, 3, 2)
 (2, 0, 3, 1)
 (2, 1, 3, 0)
@@ -38,18 +41,21 @@ The 5 valid permutations of (0, 1, 2, 3) are:
 (3, 1, 2, 0)
 </pre>
 
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> s = &quot;D&quot;
+<strong>Output:</strong> 1
+</pre>
+
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
-	<li><code>1 &lt;= s.length &lt;= 200</code></li>
-	<li><code>s</code> consists only of characters from the set <code>{&#39;D&#39;, &#39;I&#39;}</code>.</li>
-</ol>
-
-<div>
-<p>&nbsp;</p>
-</div>
+<ul>
+	<li><code>n == s.length</code></li>
+	<li><code>1 &lt;= n &lt;= 200</code></li>
+	<li><code>s[i]</code> is either <code>&#39;I&#39;</code> or <code>&#39;D&#39;</code>.</li>
+</ul>
 
 ### Related Topics
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

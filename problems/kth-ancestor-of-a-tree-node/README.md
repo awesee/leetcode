@@ -51,12 +51,12 @@ treeAncestor.getKthAncestor(6, 3); // returns -1 because there is no such ancest
 </ul>
 
 ### Related Topics
+  [[Binary Search](../../tag/binary-search/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Design](../../tag/design/README.md)]
-  [[Binary Search](../../tag/binary-search/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

@@ -11,20 +11,20 @@
 
 ## [68. Text Justification (Hard)](https://leetcode.com/problems/text-justification "文本左右对齐")
 
-<p>Given an array of words and a width&nbsp;<em>maxWidth</em>, format the text such that each line has exactly <em>maxWidth</em> characters and is fully (left and right) justified.</p>
+<p>Given an array of strings <code>words</code> and a width <code>maxWidth</code>, format the text such that each line has exactly <code>maxWidth</code> characters and is fully (left and right) justified.</p>
 
-<p>You should pack your words in a greedy approach; that is, pack as many words as you can in each line. Pad extra spaces <code>&#39; &#39;</code> when necessary so that each line has exactly <em>maxWidth</em> characters.</p>
+<p>You should pack your words in a greedy approach; that is, pack as many words as you can in each line. Pad extra spaces <code>&#39; &#39;</code> when necessary so that each line has exactly <code>maxWidth</code> characters.</p>
 
-<p>Extra spaces between words should be distributed as evenly as possible. If the number of spaces on a line do not divide evenly between words, the empty slots on the left will be assigned more spaces than the slots on the right.</p>
+<p>Extra spaces between words should be distributed as evenly as possible. If the number of spaces on a line does not divide evenly between words, the empty slots on the left will be assigned more spaces than the slots on the right.</p>
 
-<p>For the last line of text, it should be left justified and no <strong>extra</strong> space is inserted between words.</p>
+<p>For the last line of text, it should be left-justified and no extra space is inserted between words.</p>
 
 <p><strong>Note:</strong></p>
 
 <ul>
-	<li>A word is defined as a character sequence consisting&nbsp;of non-space characters only.</li>
-	<li>Each word&#39;s length is&nbsp;guaranteed to be greater than 0 and not exceed <em>maxWidth</em>.</li>
-	<li>The input array <code>words</code>&nbsp;contains at least one word.</li>
+	<li>A word is defined as a character sequence consisting of non-space characters only.</li>
+	<li>Each word&#39;s length is guaranteed to be greater than 0 and not exceed maxWidth.</li>
+	<li>The input array <code>words</code> contains at least one word.</li>
 </ul>
 
 <p>&nbsp;</p>

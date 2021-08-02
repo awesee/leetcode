@@ -11,43 +11,35 @@
 
 ## [945. Minimum Increment to Make Array Unique (Medium)](https://leetcode.com/problems/minimum-increment-to-make-array-unique "使数组唯一的最小增量")
 
-<p>Given an array of integers nums, a <em>move</em> consists of choosing any <code>nums[i]</code>, and incrementing it by <code>1</code>.</p>
+<p>You are given an integer array <code>nums</code>. In one move, you can pick an index <code>i</code> where <code>0 &lt;= i &lt; nums.length</code> and increment <code>nums[i]</code> by <code>1</code>.</p>
 
-<p>Return the least number of moves to make every value in <code>nums</code> unique.</p>
+<p>Return <em>the minimum number of moves to make every value in </em><code>nums</code><em> <strong>unique</strong></em>.</p>
 
 <p>&nbsp;</p>
-
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong>nums = <span id="example-input-1-1">[1,2,2]</span>
-<strong>Output: </strong><span id="example-output-1">1</span>
-<strong>Explanation: </strong> After 1 move, the array could be [1, 2, 3].
+<strong>Input:</strong> nums = [1,2,2]
+<strong>Output:</strong> 1
+<strong>Explanation:</strong> After 1 move, the array could be [1, 2, 3].
 </pre>
 
-<div>
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong>nums = <span id="example-input-2-1">[3,2,1,2,1,7]</span>
-<strong>Output: </strong><span id="example-output-2">6</span>
-<strong>Explanation: </strong> After 6 moves, the array could be [3, 4, 1, 2, 5, 7].
+<strong>Input:</strong> nums = [3,2,1,2,1,7]
+<strong>Output:</strong> 6
+<strong>Explanation:</strong> After 6 moves, the array could be [3, 4, 1, 2, 5, 7].
 It can be shown with 5 or less moves that it is impossible for the array to have all unique values.
 </pre>
 
 <p>&nbsp;</p>
-</div>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
-	<li><code>0 &lt;= nums.length &lt;= 40000</code></li>
-	<li><code>0 &lt;= nums[i] &lt; 40000</code></li>
-</ol>
-
-<div>
-<div>&nbsp;</div>
-</div>
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>0 &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
+</ul>
 
 ### Related Topics
   [[Greedy](../../tag/greedy/README.md)]

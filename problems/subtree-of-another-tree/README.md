@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../squirrel-simulation "Squirrel Simulation")
 
-## [572. Subtree of Another Tree (Easy)](https://leetcode.com/problems/subtree-of-another-tree "另一个树的子树")
+## [572. Subtree of Another Tree (Easy)](https://leetcode.com/problems/subtree-of-another-tree "另一棵树的子树")
 
 <p>Given the roots of two binary trees <code>root</code> and <code>subRoot</code>, return <code>true</code> if there is a subtree of <code>root</code> with the same structure and node values of<code> subRoot</code> and <code>false</code> otherwise.</p>
 

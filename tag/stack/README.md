@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1944 | [队列中可以看到的人数](../../problems/number-of-visible-people-in-a-queue) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
 | 1896 | [反转表达式值的最少操作次数](../../problems/minimum-cost-to-change-the-final-value-of-expression) | [[栈](../stack/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1856 | [子数组最小乘积的最大值](../../problems/maximum-subarray-min-product) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 1793 | [好子数组的最大分数](../../problems/maximum-score-of-a-good-subarray) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |

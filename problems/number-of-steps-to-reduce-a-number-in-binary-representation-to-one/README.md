@@ -11,18 +11,18 @@
 
 ## [1404. Number of Steps to Reduce a Number in Binary Representation to One (Medium)](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one "将二进制表示减到 1 的步骤数")
 
-<p>Given a number&nbsp;<code>s</code> in their binary representation. Return the number of steps to reduce it to 1 under the following rules:</p>
+<p>Given the binary representation of an integer as a string <code>s</code>, return <em>the number of steps to reduce it to </em><code>1</code><em> under the following rules</em>:</p>
 
 <ul>
 	<li>
-	<p>If the current number is even, you have to divide it by 2.</p>
+	<p>If the current number is even, you have to divide it by <code>2</code>.</p>
 	</li>
 	<li>
-	<p>If the current number is odd, you have to add 1 to it.</p>
+	<p>If the current number is odd, you have to add <code>1</code> to it.</p>
 	</li>
 </ul>
 
-<p>It&#39;s guaranteed that you can always reach to one for all testcases.</p>
+<p>It is guaranteed that you can always reach one for all test cases.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

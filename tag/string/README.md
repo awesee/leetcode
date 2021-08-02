@@ -9,6 +9,12 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1948 | [删除系统中的重复文件夹](../../problems/delete-duplicate-folders-in-system) | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[哈希函数](../hash-function/README.md)]  | Hard |
+| 1946 | [子字符串突变后可能得到的最大整数](../../problems/largest-number-after-mutating-substring) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1945 | [字符串转化后的各位数字之和](../../problems/sum-of-digits-of-string-after-convert) | [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 1941 | [检查是否所有字符出现次数相同](../../problems/check-if-all-characters-have-equal-number-of-occurrences) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
+| 1935 | [可以输入的最大单词数](../../problems/maximum-number-of-words-you-can-type) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1930 | [长度为 3 的不同回文子序列](../../problems/unique-length-3-palindromic-subsequences) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1915 | [最美子字符串的数目](../../problems/number-of-wonderful-substrings) | [[位运算](../bit-manipulation/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1910 | [删除一个字符串中所有出现的给定子字符串](../../problems/remove-all-occurrences-of-a-substring) | [[字符串](../string/README.md)]  | Medium |
 | 1904 | [你完成的完整对局数](../../problems/the-number-of-full-rounds-you-have-played) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
@@ -231,7 +237,7 @@
 | 917 | [仅仅反转字母](../../problems/reverse-only-letters) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 916 | [单词子集](../../problems/word-subsets) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 899 | [有序队列](../../problems/orderly-queue) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Hard |
-| 893 | [特殊等价字符串组](../../problems/groups-of-special-equivalent-strings) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 893 | [特殊等价字符串组](../../problems/groups-of-special-equivalent-strings) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 890 | [查找和替换模式](../../problems/find-and-replace-pattern) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 884 | [两句话中的不常见单词](../../problems/uncommon-words-from-two-sentences) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 880 | [索引处的解码字符串](../../problems/decoded-string-at-index) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
@@ -412,7 +418,7 @@
 | 187 | [重复的DNA序列](../../problems/repeated-dna-sequences) | [[位运算](../bit-manipulation/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[滑动窗口](../sliding-window/README.md)] [[哈希函数](../hash-function/README.md)] [[滚动哈希](../rolling-hash/README.md)]  | Medium |
 | 186 | [翻转字符串里的单词 II](../../problems/reverse-words-in-a-string-ii) 🔒 | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 179 | [最大数](../../problems/largest-number) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Medium |
-| 171 | [Excel表列序号](../../problems/excel-sheet-column-number) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 171 | [Excel 表列序号](../../problems/excel-sheet-column-number) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 168 | [Excel表列名称](../../problems/excel-sheet-column-title) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 166 | [分数到小数](../../problems/fraction-to-recurring-decimal) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 165 | [比较版本号](../../problems/compare-version-numbers) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |

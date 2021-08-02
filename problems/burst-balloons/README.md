@@ -44,7 +44,7 @@ coins =  3*1*5    +   3*5*8   +  1*3*8  + 1*8*1 = 167</pre>
 </ul>
 
 ### Related Topics
-  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions

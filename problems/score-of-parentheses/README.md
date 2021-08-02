@@ -11,52 +11,38 @@
 
 ## [856. Score of Parentheses (Medium)](https://leetcode.com/problems/score-of-parentheses "括号的分数")
 
-<p>Given a balanced parentheses string <code>s</code>, compute the score of the string based on the following rule:</p>
+<p>Given a balanced parentheses string <code>s</code>, return <em>the <strong>score</strong> of the string</em>.</p>
+
+<p>The <strong>score</strong> of a balanced parentheses string is based on the following rule:</p>
 
 <ul>
-	<li><code>()</code> has score 1</li>
-	<li><code>AB</code> has score <code>A + B</code>, where A and B are balanced parentheses strings.</li>
-	<li><code>(A)</code> has score <code>2 * A</code>, where A is a balanced parentheses string.</li>
+	<li><code>&quot;()&quot;</code> has score <code>1</code>.</li>
+	<li><code>AB</code> has score <code>A + B</code>, where <code>A</code> and <code>B</code> are balanced parentheses strings.</li>
+	<li><code>(A)</code> has score <code>2 * A</code>, where <code>A</code> is a balanced parentheses string.</li>
 </ul>
 
 <p>&nbsp;</p>
-
 <p><strong>Example 1:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;()&quot;
+<pre><strong>Input:</strong> s = "()"
 <strong>Output:</strong> 1
-</pre>
-
-<p><strong>Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;(())&quot;
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> s = "(())"
 <strong>Output:</strong> 2
-</pre>
-
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;()()&quot;
+</pre><p><strong>Example 3:</strong></p>
+<pre><strong>Input:</strong> s = "()()"
 <strong>Output:</strong> 2
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;(()(()))&quot;
+</pre><p><strong>Example 4:</strong></p>
+<pre><strong>Input:</strong> s = "(()(()))"
 <strong>Output:</strong> 6
 </pre>
-
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
-	<li><code>s</code> is a balanced parentheses string, containing only <code>(</code> and <code>)</code>.</li>
+<ul>
 	<li><code>2 &lt;= s.length &lt;= 50</code></li>
-</ol>
+	<li><code>s</code> consists of only <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>.</li>
+	<li><code>s</code> is a balanced parentheses string.</li>
+</ul>
 
 ### Related Topics
   [[Stack](../../tag/stack/README.md)]

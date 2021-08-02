@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1948 | [删除系统中的重复文件夹](../../problems/delete-duplicate-folders-in-system) | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[哈希函数](../hash-function/README.md)]  | Hard |
 | 1858 | [包含所有前缀的最长单词](../../problems/longest-word-with-all-prefixes) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[字典树](../trie/README.md)]  | Medium |
 | 1804 | [实现 Trie （前缀树） II](../../problems/implement-trie-ii-prefix-tree) 🔒 | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1803 | [统计异或值在范围内的数对有多少](../../problems/count-pairs-with-xor-in-a-range) | [[位运算](../bit-manipulation/README.md)] [[字典树](../trie/README.md)] [[数组](../array/README.md)]  | Hard |

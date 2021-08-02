@@ -11,13 +11,9 @@
 
 ## [1416. Restore The Array (Hard)](https://leetcode.com/problems/restore-the-array "恢复数组")
 
-<p>A program was supposed to print an array of integers. The program forgot to print whitespaces and the array is printed as a string of digits and all we know is that all integers in the array were in the range&nbsp;<code>[1, k]</code>&nbsp;and there are no leading zeros in the array.</p>
+<p>A program was supposed to print an array of integers. The program forgot to print whitespaces and the array is printed as a string of digits <code>s</code> and all we know is that all integers in the array were in the range <code>[1, k]</code> and there are no leading zeros in the array.</p>
 
-<p>Given the string <code>s</code> and the integer <code>k</code>. There can be multiple ways to restore the array.</p>
-
-<p>Return <em>the number of possible array</em> that can be printed as a string <code>s</code>&nbsp;using the mentioned program.</p>
-
-<p>The number of ways could be very large so return it <strong>modulo</strong> <code>10^9 + 7</code></p>
+<p>Given the string <code>s</code> and the integer <code>k</code>, return <em>the number of the possible arrays that can be printed as </em><code>s</code><em> using the mentioned program</em>. Since the answer may be very large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -63,9 +59,9 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= s.length &lt;= 10^5</code>.</li>
-	<li><code>s</code> consists of only digits and doesn&#39;t contain leading zeros.</li>
-	<li><code>1 &lt;= k &lt;= 10^9</code>.</li>
+	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>s</code> consists of only digits and does not contain leading zeros.</li>
+	<li><code>1 &lt;= k &lt;= 10<sup>9</sup></code></li>
 </ul>
 
 ### Related Topics

@@ -11,7 +11,7 @@
 
 ## [10. Regular Expression Matching (Hard)](https://leetcode.com/problems/regular-expression-matching "正则表达式匹配")
 
-<p>Given an input string (<code>s</code>) and a pattern (<code>p</code>), implement regular expression matching with support for <code>&#39;.&#39;</code> and <code>&#39;*&#39;</code> where:<code>&nbsp;</code></p>
+<p>Given an input string <code>s</code>&nbsp;and a pattern <code>p</code>, implement regular expression matching with support for <code>&#39;.&#39;</code> and <code>&#39;*&#39;</code> where:</p>
 
 <ul>
 	<li><code>&#39;.&#39;</code> Matches any single character.​​​​</li>
@@ -64,8 +64,8 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= s.length&nbsp;&lt;= 20</code></li>
-	<li><code>0 &lt;= p.length&nbsp;&lt;= 30</code></li>
+	<li><code>1 &lt;= s.length&nbsp;&lt;= 20</code></li>
+	<li><code>1 &lt;= p.length&nbsp;&lt;= 30</code></li>
 	<li><code>s</code> contains only lowercase English letters.</li>
 	<li><code>p</code> contains only lowercase English letters, <code>&#39;.&#39;</code>, and&nbsp;<code>&#39;*&#39;</code>.</li>
 	<li>It is guaranteed for each appearance of the character <code>&#39;*&#39;</code>, there will be a previous valid character to match.</li>

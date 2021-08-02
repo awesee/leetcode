@@ -5,10 +5,11 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](../README.md) > 回溯算法
+## [话题分类](../README.md) > 回溯
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1947 | [最大兼容性评分和](../../problems/maximum-compatibility-score-sum) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
 | 1863 | [找出所有子集的异或总和再求和](../../problems/sum-of-all-subset-xor-totals) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Easy |
 | 1849 | [将字符串拆分为递减的连续值](../../problems/splitting-a-string-into-descending-consecutive-values) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 1820 | [最多邀请的个数](../../problems/maximum-number-of-accepted-invitations) 🔒 | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)] [[矩阵](../matrix/README.md)]  | Medium |

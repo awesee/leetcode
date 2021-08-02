@@ -11,13 +11,13 @@
 
 ## [1373. Maximum Sum BST in Binary Tree (Hard)](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree "二叉搜索子树的最大键值和")
 
-<p>Given a <strong>binary tree</strong> <code>root</code>, the task is to return the maximum sum of all keys of <strong>any</strong>&nbsp;sub-tree which is also a Binary Search Tree (BST).</p>
+<p>Given a <strong>binary tree</strong> <code>root</code>, return <em>the maximum sum of all keys of <strong>any</strong> sub-tree which is also a Binary Search Tree (BST)</em>.</p>
 
 <p>Assume a BST is defined as follows:</p>
 
 <ul>
-	<li>The left subtree of a node contains only nodes with keys&nbsp;<strong>less than</strong>&nbsp;the node&#39;s key.</li>
-	<li>The right subtree of a node contains only nodes with keys&nbsp;<strong>greater than</strong>&nbsp;the node&#39;s key.</li>
+	<li>The left subtree of a node contains only nodes with keys <strong>less than</strong> the node&#39;s key.</li>
+	<li>The right subtree of a node contains only nodes with keys <strong>greater than</strong> the node&#39;s key.</li>
 	<li>Both the left and right subtrees must also be binary search trees.</li>
 </ul>
 
@@ -68,8 +68,8 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The&nbsp;given binary tree will have between&nbsp;<code>1</code>&nbsp;and&nbsp;<code>40000</code>&nbsp;nodes.</li>
-	<li>Each node&#39;s value is between <code>[-4 * 10^4&nbsp;, 4 * 10^4]</code>.</li>
+	<li>The number of nodes in the tree is in the range <code>[1, 4 * 10<sup>4</sup>]</code>.</li>
+	<li><code>-4 * 10<sup>4</sup> &lt;= Node.val &lt;= 4 * 10<sup>4</sup></code></li>
 </ul>
 
 ### Related Topics

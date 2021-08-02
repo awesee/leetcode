@@ -44,7 +44,7 @@
 <p><strong>Follow up:</strong></p>
 
 <ul>
-	<li>A straight forward solution using <code><em>O(mn)</em></code> space is probably a bad idea.</li>
+	<li>A straightforward solution using <code>O(mn)</code> space is probably a bad idea.</li>
 	<li>A simple improvement uses <code>O(m + n)</code> space, but still not the best solution.</li>
 	<li>Could you devise a constant space solution?</li>
 </ul>

@@ -36,6 +36,7 @@ Nuts : [[3,0], [2,5]]
 </ol>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
 
 ### Hints

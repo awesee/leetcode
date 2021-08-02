@@ -9,6 +9,11 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1948 | [删除系统中的重复文件夹](../../problems/delete-duplicate-folders-in-system) | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[哈希函数](../hash-function/README.md)]  | Hard |
+| 1941 | [检查是否所有字符出现次数相同](../../problems/check-if-all-characters-have-equal-number-of-occurrences) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
+| 1935 | [可以输入的最大单词数](../../problems/maximum-number-of-words-you-can-type) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1932 | [合并多棵二叉搜索树](../../problems/merge-bsts-to-create-single-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Hard |
+| 1930 | [长度为 3 的不同回文子序列](../../problems/unique-length-3-palindromic-subsequences) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1915 | [最美子字符串的数目](../../problems/number-of-wonderful-substrings) | [[位运算](../bit-manipulation/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1912 | [设计电影租借系统](../../problems/design-movie-rental-system) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
 | 1906 | [查询差绝对值的最小值](../../problems/minimum-absolute-difference-queries) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
@@ -173,7 +178,7 @@
 | 911 | [在线选举](../../problems/online-election) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 904 | [水果成篮](../../problems/fruit-into-baskets) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
 | 895 | [最大频率栈](../../problems/maximum-frequency-stack) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)]  | Hard |
-| 893 | [特殊等价字符串组](../../problems/groups-of-special-equivalent-strings) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 893 | [特殊等价字符串组](../../problems/groups-of-special-equivalent-strings) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 890 | [查找和替换模式](../../problems/find-and-replace-pattern) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 889 | [根据前序和后序遍历构造二叉树](../../problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [[树](../tree/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[分治](../divide-and-conquer/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
 | 888 | [公平的糖果棒交换](../../problems/fair-candy-swap) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)]  | Easy |

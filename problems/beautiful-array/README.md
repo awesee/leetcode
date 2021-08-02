@@ -11,40 +11,29 @@
 
 ## [932. Beautiful Array (Medium)](https://leetcode.com/problems/beautiful-array "漂亮数组")
 
-<p>For some fixed <code>n</code>, an array <code>nums</code> is <em>beautiful</em> if it is a permutation of the integers <code>1, 2, ..., n</code>, such that:</p>
+<p>An array <code>nums</code> of length <code>n</code> is <strong>beautiful</strong> if:</p>
 
-<p>For every <code>i &lt; j</code>, there is <strong>no</strong>&nbsp;<code>k</code> with <code>i &lt; k &lt; j</code>&nbsp;such that <code>nums[k] * 2 = nums[i] + nums[j]</code>.</p>
+<ul>
+	<li><code>nums</code> is a permutation of the integers in the range <code>[1, n]</code>.</li>
+	<li>For every <code>0 &lt;= i &lt; j &lt; n</code>, there is no index <code>k</code> with <code>i &lt; k &lt; j</code> where <code>2 * nums[k] == nums[i] + nums[j]</code>.</li>
+</ul>
 
-<p>Given <code>n</code>, return <strong>any</strong> beautiful array <code>nums</code>.&nbsp; (It is guaranteed that one exists.)</p>
+<p>Given the integer <code>n</code>, return <em>any <strong>beautiful</strong> array </em><code>nums</code><em> of length </em><code>n</code>. There will be at least one valid answer for the given <code>n</code>.</p>
 
 <p>&nbsp;</p>
-
 <p><strong>Example 1:</strong></p>
-
-<pre>
-<strong>Input: </strong>n = <span id="example-input-1-1">4</span>
-<strong>Output: </strong><span id="example-output-1">[2,1,4,3]</span>
+<pre><strong>Input:</strong> n = 4
+<strong>Output:</strong> [2,1,4,3]
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> n = 5
+<strong>Output:</strong> [3,1,2,5,4]
 </pre>
-
-<div>
-<p><strong>Example 2:</strong></p>
-
-<pre>
-<strong>Input: </strong>n = <span id="example-input-2-1">5</span>
-<strong>Output: </strong><span>[3,1,2,5,4]</span></pre>
-
 <p>&nbsp;</p>
-</div>
-
-<p><strong>Note:</strong></p>
+<p><strong>Constraints:</strong></p>
 
 <ul>
 	<li><code>1 &lt;= n &lt;= 1000</code></li>
 </ul>
-
-<div>
-<div>&nbsp;</div>
-</div>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
