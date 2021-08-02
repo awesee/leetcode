@@ -43,7 +43,8 @@ In this case, it is not possible to rotate the dominoes to make one row of value
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>2 &lt;= tops.length == bottoms.length &lt;= 2 * 10<sup>4</sup></code></li>
+	<li><code>2 &lt;= tops.length &lt;= 2 * 10<sup>4</sup></code></li>
+	<li><code>bottoms.length == tops.length</code></li>
 	<li><code>1 &lt;= tops[i], bottoms[i] &lt;= 6</code></li>
 </ul>
 

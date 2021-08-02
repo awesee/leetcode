@@ -5,10 +5,12 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-## [话题分类](../README.md) > 贪心算法
+## [话题分类](../README.md) > 贪心
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1946 | [子字符串突变后可能得到的最大整数](../../problems/largest-number-after-mutating-substring) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1927 | [求和游戏](../../problems/sum-game) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
 | 1921 | [消灭怪物的最大数量](../../problems/eliminate-maximum-number-of-monsters) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1903 | [字符串中的最大奇数](../../problems/largest-odd-number-in-string) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1899 | [合并若干三元组以形成目标三元组](../../problems/merge-triplets-to-form-target-triplet) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |

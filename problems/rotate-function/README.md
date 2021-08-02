@@ -40,7 +40,7 @@ So the maximum value of F(0), F(1), F(2), F(3) is F(3) = 26.
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [1000000007]
+<strong>Input:</strong> nums = [100]
 <strong>Output:</strong> 0
 </pre>
 

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../find-nearest-point-that-has-the-same-x-or-y-coordinate "Find Nearest Point That Has the Same X or Y Coordinate")
 
-## [1778. Shortest Path in a Hidden Grid (Medium)](https://leetcode.com/problems/shortest-path-in-a-hidden-grid "")
+## [1778. Shortest Path in a Hidden Grid (Medium)](https://leetcode.com/problems/shortest-path-in-a-hidden-grid "未知网格中的最短路径")
 
 
 

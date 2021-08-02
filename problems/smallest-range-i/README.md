@@ -11,56 +11,47 @@
 
 ## [908. Smallest Range I (Easy)](https://leetcode.com/problems/smallest-range-i "最小差值 I")
 
-<p>Given an array <code>nums</code> of integers, for each integer <code>nums[i]</code> we may choose any <code>x</code> with <code>-k &lt;= x &lt;= k</code>, and add <code>x</code> to <code>nums[i]</code>.</p>
+<p>You are given an integer array <code>nums</code> and an integer <code>k</code>.</p>
 
-<p>After this process, we have some array <code>result</code>.</p>
+<p>In one operation, you can choose any index <code>i</code> where <code>0 &lt;= i &lt; nums.length</code> and change <code>nums[i]</code> to <code>nums[i] + x</code> where <code>x</code> is an integer from the range <code>[-k, k]</code>. You can apply this operation <strong>at most once</strong> for each index <code>i</code>.</p>
 
-<p>Return the smallest possible difference between the maximum value of <code>result</code>&nbsp;and the minimum value of <code>result</code>.</p>
+<p>The <strong>score</strong> of <code>nums</code> is the difference between the maximum and minimum elements in <code>nums</code>.</p>
+
+<p>Return <em>the minimum <strong>score</strong> of </em><code>nums</code><em> after applying the mentioned operation at most once for each index in it</em>.</p>
 
 <p>&nbsp;</p>
-
-<ol>
-</ol>
-
-<div>
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong>nums = <span id="example-input-1-1">[1]</span>, k = <span id="example-input-1-2">0</span>
-<strong>Output: </strong><span id="example-output-1">0
-<strong>Explanation</strong>: result = [1]</span>
+<strong>Input:</strong> nums = [1], k = 0
+<strong>Output:</strong> 0
+<strong>Explanation:</strong> The score is max(nums) - min(nums) = 1 - 1 = 0.
 </pre>
 
-<div>
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong>nums = <span id="example-input-2-1">[0,10]</span>, k = <span id="example-input-2-2">2</span>
-<strong>Output: </strong><span id="example-output-2">6
-</span><span id="example-output-1"><strong>Explanation</strong>: result = [2,8]</span>
+<strong>Input:</strong> nums = [0,10], k = 2
+<strong>Output:</strong> 6
+<strong>Explanation:</strong> Change nums to be [2, 8]. The score is max(nums) - min(nums) = 8 - 2 = 6.
 </pre>
 
-<div>
 <p><strong>Example 3:</strong></p>
 
 <pre>
-<strong>Input: </strong>nums = <span id="example-input-3-1">[1,3,6]</span>, k = <span id="example-input-3-2">3</span>
-<strong>Output: </strong><span id="example-output-3">0
-</span><span id="example-output-1"><strong>Explanation</strong>: result = [3,3,3] or result = [4,4,4]</span>
+<strong>Input:</strong> nums = [1,3,6], k = 3
+<strong>Output:</strong> 0
+<strong>Explanation:</strong> Change nums to be [4, 4, 4]. The score is max(nums) - min(nums) = 4 - 4 = 0.
 </pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
-	<li><code>1 &lt;= nums.length &lt;= 10000</code></li>
-	<li><code>0 &lt;= nums[i] &lt;= 10000</code></li>
-	<li><code>0 &lt;= k &lt;= 10000</code></li>
-</ol>
-</div>
-</div>
-</div>
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= k &lt;= 10<sup>4</sup></code></li>
+</ul>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]

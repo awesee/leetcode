@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1954 | [收集足够苹果的最小花园周长](../../problems/minimum-garden-perimeter-to-collect-enough-apples) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1932 | [合并多棵二叉搜索树](../../problems/merge-bsts-to-create-single-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Hard |
 | 1923 | [最长公共子路径](../../problems/longest-common-subpath) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[后缀数组](../suffix-array/README.md)] [[哈希函数](../hash-function/README.md)] [[滚动哈希](../rolling-hash/README.md)]  | Hard |
 | 1918 | [Kth Smallest Subarray Sum](../../problems/kth-smallest-subarray-sum) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
 | 1901 | [找出顶峰元素 II](../../problems/find-a-peak-element-ii) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治](../divide-and-conquer/README.md)] [[矩阵](../matrix/README.md)]  | Medium |

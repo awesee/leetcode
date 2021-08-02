@@ -9,6 +9,14 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1948 | [删除系统中的重复文件夹](../../problems/delete-duplicate-folders-in-system) | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[哈希函数](../hash-function/README.md)]  | Hard |
+| 1947 | [最大兼容性评分和](../../problems/maximum-compatibility-score-sum) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
+| 1946 | [子字符串突变后可能得到的最大整数](../../problems/largest-number-after-mutating-substring) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1944 | [队列中可以看到的人数](../../problems/number-of-visible-people-in-a-queue) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
+| 1943 | [描述绘画结果](../../problems/describe-the-painting) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 1942 | [最小未被占据椅子的编号](../../problems/the-number-of-the-smallest-unoccupied-chair) | [[数组](../array/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 1929 | [数组串联](../../problems/concatenation-of-array) | [[数组](../array/README.md)]  | Easy |
+| 1926 | [迷宫中离入口最近的出口](../../problems/nearest-exit-from-entrance-in-maze) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1923 | [最长公共子路径](../../problems/longest-common-subpath) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[后缀数组](../suffix-array/README.md)] [[哈希函数](../hash-function/README.md)] [[滚动哈希](../rolling-hash/README.md)]  | Hard |
 | 1921 | [消灭怪物的最大数量](../../problems/eliminate-maximum-number-of-monsters) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1920 | [基于排列构建数组](../../problems/build-array-from-permutation) | [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Easy |
@@ -522,7 +530,7 @@
 | 900 | [RLE 迭代器](../../problems/rle-iterator) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[计数](../counting/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
 | 898 | [子数组按位或操作](../../problems/bitwise-ors-of-subarrays) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 896 | [单调数列](../../problems/monotonic-array) | [[数组](../array/README.md)]  | Easy |
-| 893 | [特殊等价字符串组](../../problems/groups-of-special-equivalent-strings) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 893 | [特殊等价字符串组](../../problems/groups-of-special-equivalent-strings) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 892 | [三维形体的表面积](../../problems/surface-area-of-3d-shapes) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)]  | Easy |
 | 891 | [子序列宽度之和](../../problems/sum-of-subsequence-widths) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Hard |
 | 890 | [查找和替换模式](../../problems/find-and-replace-pattern) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
@@ -676,7 +684,7 @@
 | 555 | [分割连接字符串](../../problems/split-concatenated-strings) 🔒 | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 554 | [砖墙](../../problems/brick-wall) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 553 | [最优除法](../../problems/optimal-division) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 548 | [将数组分割成和相等的子数组](../../problems/split-array-with-equal-sum) 🔒 | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 548 | [将数组分割成和相等的子数组](../../problems/split-array-with-equal-sum) 🔒 | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
 | 546 | [移除盒子](../../problems/remove-boxes) | [[记忆化搜索](../memoization/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 542 | [01 矩阵](../../problems/01-matrix) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 540 | [有序数组中的单一元素](../../problems/single-element-in-a-sorted-array) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

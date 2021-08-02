@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../find-interview-candidates "Find Interview Candidates")
 
-## [1810. Minimum Path Cost in a Hidden Grid (Medium)](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid "")
+## [1810. Minimum Path Cost in a Hidden Grid (Medium)](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid "隐藏网格下的最小消耗路径")
 
 
 

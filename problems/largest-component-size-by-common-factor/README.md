@@ -11,56 +11,45 @@
 
 ## [952. Largest Component Size by Common Factor (Hard)](https://leetcode.com/problems/largest-component-size-by-common-factor "按公因数计算最大组件大小")
 
-<p>Given a non-empty&nbsp;array of unique positive integers <code>nums</code>, consider the following graph:</p>
+<p>You are given an integer array of unique positive integers <code>nums</code>. Consider the following graph:</p>
 
 <ul>
-	<li>There are <code>nums.length</code> nodes, labelled <code>nums[0]</code> to <code>nums[nums.length - 1];</code></li>
-	<li>There is an edge between <code>nums[i]</code> and <code>nums[j]</code>&nbsp;if and only if&nbsp;<code>nums[i]</code> and <code>nums[j]</code> share a common factor greater than 1.</li>
+	<li>There are <code>nums.length</code> nodes, labeled <code>nums[0]</code> to <code>nums[nums.length - 1]</code>,</li>
+	<li>There is an undirected edge between <code>nums[i]</code> and <code>nums[j]</code> if <code>nums[i]</code> and <code>nums[j]</code> share a common factor greater than <code>1</code>.</li>
 </ul>
 
-<p>Return the size of the largest connected component in the graph.</p>
+<p>Return <em>the size of the largest connected component in the graph</em>.</p>
 
 <p>&nbsp;</p>
-
-<ol>
-</ol>
-
-<div>
 <p><strong>Example 1:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2018/12/01/ex1.png" style="width: 500px; height: 97px;" />
 <pre>
-<strong>Input: </strong>nums = <span id="example-input-1-1">[4,6,15,35]</span>
-<strong>Output: </strong><span id="example-output-1">4</span>
-<span><img alt="" src="https://assets.leetcode.com/uploads/2018/12/01/ex1.png" style="width: 257px; height: 50px;" /></span>
+<strong>Input:</strong> nums = [4,6,15,35]
+<strong>Output:</strong> 4
 </pre>
 
-<div>
 <p><strong>Example 2:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2018/12/01/ex2.png" style="width: 500px; height: 85px;" />
 <pre>
-<strong>Input: </strong>nums = <span id="example-input-2-1">[20,50,9,63]</span>
-<strong>Output: </strong><span id="example-output-2">2</span>
-<span><img alt="" src="https://assets.leetcode.com/uploads/2018/12/01/ex2.png" style="width: 293px; height: 50px;" /></span>
+<strong>Input:</strong> nums = [20,50,9,63]
+<strong>Output:</strong> 2
 </pre>
 
-<div>
 <p><strong>Example 3:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2018/12/01/ex3.png" style="width: 500px; height: 260px;" />
 <pre>
-<strong>Input: </strong>nums = <span id="example-input-3-1">[2,3,6,7,4,12,21,39]</span>
-<strong>Output: </strong><span id="example-output-3">8</span>
-<span><img alt="" src="https://assets.leetcode.com/uploads/2018/12/01/ex3.png" style="width: 346px; height: 180px;" /></span>
+<strong>Input:</strong> nums = [2,3,6,7,4,12,21,39]
+<strong>Output:</strong> 8
 </pre>
 
-<p><strong>Note:</strong></p>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<ol>
-	<li><code>1 &lt;= nums.length &lt;= 20000</code></li>
-	<li><code>1 &lt;= nums[i] &lt;= 100000</code></li>
-</ol>
-</div>
-</div>
-</div>
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 2 * 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
+	<li>All the values of <code>nums</code> are <strong>unique</strong>.</li>
+</ul>
 
 ### Related Topics
   [[Union Find](../../tag/union-find/README.md)]

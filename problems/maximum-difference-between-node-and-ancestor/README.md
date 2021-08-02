@@ -11,9 +11,9 @@
 
 ## [1026. Maximum Difference Between Node and Ancestor (Medium)](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor "节点与其祖先之间的最大差值")
 
-<p>Given the <code>root</code> of a binary tree, find the maximum value <code>V</code> for which there exist <strong>different</strong> nodes <code>A</code> and <code>B</code> where <code>V = |A.val - B.val|</code>&nbsp;and <code>A</code> is an ancestor of <code>B</code>.</p>
+<p>Given the <code>root</code> of a binary tree, find the maximum value <code>v</code> for which there exist <strong>different</strong> nodes <code>a</code> and <code>b</code> where <code>v = |a.val - b.val|</code> and <code>a</code> is an ancestor of <code>b</code>.</p>
 
-<p>A node <code>A</code> is an ancestor of <code>B</code> if either: any child of <code>A</code> is equal to <code>B</code>, or any child of <code>A</code> is an ancestor of <code>B</code>.</p>
+<p>A node <code>a</code> is an ancestor of <code>b</code> if either: any child of <code>a</code> is equal to <code>b</code>&nbsp;or any child of <code>a</code> is an ancestor of <code>b</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -39,7 +39,7 @@ Among all possible differences, the maximum value of 7 is obtained by |8 - 1| = 
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the tree&nbsp;is in the range <code>[2, 5000]</code>.</li>
+	<li>The number of nodes in the tree is in the range <code>[2, 5000]</code>.</li>
 	<li><code>0 &lt;= Node.val &lt;= 10<sup>5</sup></code></li>
 </ul>
 

@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1954 | [收集足够苹果的最小花园周长](../../problems/minimum-garden-perimeter-to-collect-enough-apples) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1927 | [求和游戏](../../problems/sum-game) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 1925 | [统计平方和三元组的数目](../../problems/count-square-sum-triples) | [[数学](../math/README.md)] [[枚举](../enumeration/README.md)]  | Easy |
 | 1922 | [统计好数字的数目](../../problems/count-good-numbers) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1916 | [统计为蚁群构筑房间的不同顺序](../../problems/count-ways-to-build-rooms-in-an-ant-colony) | [[树](../tree/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
 | 1908 | [Game of Nim](../../problems/game-of-nim) 🔒 | [[位运算](../bit-manipulation/README.md)] [[脑筋急转弯](../brainteaser/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
@@ -189,7 +192,7 @@
 | 800 | [相似 RGB 颜色](../../problems/similar-rgb-color) 🔒 | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[枚举](../enumeration/README.md)]  | Easy |
 | 793 | [阶乘函数后 K 个零](../../problems/preimage-size-of-factorial-zeroes-function) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 789 | [逃脱阻碍者](../../problems/escape-the-ghosts) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
-| 788 | [旋转数字](../../problems/rotated-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 788 | [旋转数字](../../problems/rotated-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 782 | [变为棋盘](../../problems/transform-to-chessboard) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
 | 781 | [森林中的兔子](../../problems/rabbits-in-forest) | [[贪心](../greedy/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
 | 780 | [到达终点](../../problems/reaching-points) | [[数学](../math/README.md)]  | Hard |
@@ -295,7 +298,7 @@
 | 202 | [快乐数](../../problems/happy-number) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 189 | [旋转数组](../../problems/rotate-array) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 172 | [阶乘后的零](../../problems/factorial-trailing-zeroes) | [[数学](../math/README.md)]  | Easy |
-| 171 | [Excel表列序号](../../problems/excel-sheet-column-number) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 171 | [Excel 表列序号](../../problems/excel-sheet-column-number) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 168 | [Excel表列名称](../../problems/excel-sheet-column-title) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 166 | [分数到小数](../../problems/fraction-to-recurring-decimal) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 150 | [逆波兰表达式求值](../../problems/evaluate-reverse-polish-notation) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |

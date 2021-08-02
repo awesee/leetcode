@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1947 | [最大兼容性评分和](../../problems/maximum-compatibility-score-sum) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
+| 1931 | [用三种不同颜色为网格涂色](../../problems/painting-a-grid-with-three-different-colors) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1928 | [规定时间内到达终点的最小花费](../../problems/minimum-cost-to-reach-destination-in-time) | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1916 | [统计为蚁群构筑房间的不同顺序](../../problems/count-ways-to-build-rooms-in-an-ant-colony) | [[树](../tree/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
 | 1911 | [最大子序列交替和](../../problems/maximum-alternating-subsequence-sum) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1908 | [Game of Nim](../../problems/game-of-nim) 🔒 | [[位运算](../bit-manipulation/README.md)] [[脑筋急转弯](../brainteaser/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
@@ -199,7 +202,7 @@
 | 801 | [使序列递增的最小交换次数](../../problems/minimum-swaps-to-make-sequences-increasing) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 799 | [香槟塔](../../problems/champagne-tower) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 790 | [多米诺和托米诺平铺](../../problems/domino-and-tromino-tiling) | [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 788 | [旋转数字](../../problems/rotated-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 788 | [旋转数字](../../problems/rotated-digits) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 787 | [K 站中转内最便宜的航班](../../problems/cheapest-flights-within-k-stops) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)] [[最短路](../shortest-path/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 764 | [最大加号标志](../../problems/largest-plus-sign) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 750 | [角矩形的数量](../../problems/number-of-corner-rectangles) 🔒 | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[矩阵](../matrix/README.md)]  | Medium |

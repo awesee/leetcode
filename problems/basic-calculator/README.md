@@ -37,14 +37,6 @@
 <strong>Output:</strong> 23
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;+48 + -48&quot;
-<strong>Output:</strong> 0
-<strong>Explanation:</strong>&nbsp;Numbers can have multiple digits and start with +/-.
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
@@ -52,6 +44,8 @@
 	<li><code>1 &lt;= s.length &lt;= 3&nbsp;* 10<sup>5</sup></code></li>
 	<li><code>s</code> consists of digits, <code>&#39;+&#39;</code>, <code>&#39;-&#39;</code>, <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, and <code>&#39; &#39;</code>.</li>
 	<li><code>s</code> represents a valid expression.</li>
+	<li><code>&#39;+&#39;</code> is not used as a unary operation.</li>
+	<li><code>&#39;-&#39;</code> could be used as a unary operation but it has to be followed by parentheses.</li>
 	<li>Every number and running calculation will fit in a signed 32-bit integer.</li>
 </ul>
 

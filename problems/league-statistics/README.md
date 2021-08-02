@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../next-palindrome-using-same-digits "Next Palindrome Using Same Digits")
 
-## [1841. League Statistics (Medium)](https://leetcode.com/problems/league-statistics "")
+## [1841. League Statistics (Medium)](https://leetcode.com/problems/league-statistics "联赛信息统计")
 
 
 

@@ -9,3 +9,5 @@ insert into Employee (Id, Month, Salary) values ('1', '3', '40');
 insert into Employee (Id, Month, Salary) values ('3', '3', '60');
 insert into Employee (Id, Month, Salary) values ('1', '4', '60');
 insert into Employee (Id, Month, Salary) values ('3', '4', '70');
+insert into Employee (Id, Month, Salary) values ('1', '7', '90');
+insert into Employee (Id, Month, Salary) values ('1', '8', '90');

@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../build-array-from-permutation "Build Array from Permutation")
 
-## [1919. Leetcodify Similar Friends (Hard)](https://leetcode.com/problems/leetcodify-similar-friends "")
+## [1919. Leetcodify Similar Friends (Hard)](https://leetcode.com/problems/leetcodify-similar-friends "兴趣相同的朋友")
 
 

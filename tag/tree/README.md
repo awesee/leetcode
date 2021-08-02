@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1932 | [合并多棵二叉搜索树](../../problems/merge-bsts-to-create-single-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Hard |
 | 1916 | [统计为蚁群构筑房间的不同顺序](../../problems/count-ways-to-build-rooms-in-an-ant-colony) | [[树](../tree/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
 | 1902 | [Depth of BST Given Insertion Order](../../problems/depth-of-bst-given-insertion-order) 🔒 | [[树](../tree/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[二叉树](../binary-tree/README.md)] [[有序集合](../ordered-set/README.md)]  | Medium |
 | 1766 | [互质树](../../problems/tree-of-coprimes) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数学](../math/README.md)]  | Hard |
@@ -114,7 +115,7 @@
 | 590 | [N 叉树的后序遍历](../../problems/n-ary-tree-postorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
 | 589 | [N 叉树的前序遍历](../../problems/n-ary-tree-preorder-traversal) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)]  | Easy |
 | 582 | [杀掉进程](../../problems/kill-process) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
-| 572 | [另一个树的子树](../../problems/subtree-of-another-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二叉树](../binary-tree/README.md)] [[字符串匹配](../string-matching/README.md)] [[哈希函数](../hash-function/README.md)]  | Easy |
+| 572 | [另一棵树的子树](../../problems/subtree-of-another-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二叉树](../binary-tree/README.md)] [[字符串匹配](../string-matching/README.md)] [[哈希函数](../hash-function/README.md)]  | Easy |
 | 563 | [二叉树的坡度](../../problems/binary-tree-tilt) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Easy |
 | 559 | [N 叉树的最大深度](../../problems/maximum-depth-of-n-ary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Easy |
 | 558 | [四叉树交集](../../problems/logical-or-of-two-binary-grids-represented-as-quad-trees) | [[树](../tree/README.md)] [[分治](../divide-and-conquer/README.md)]  | Medium |

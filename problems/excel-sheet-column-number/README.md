@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../factorial-trailing-zeroes "Factorial Trailing Zeroes")
 
-## [171. Excel Sheet Column Number (Easy)](https://leetcode.com/problems/excel-sheet-column-number "Excel表列序号")
+## [171. Excel Sheet Column Number (Easy)](https://leetcode.com/problems/excel-sheet-column-number "Excel 表列序号")
 
 <p>Given a string <code>columnTitle</code> that represents the column title as appear in an Excel sheet, return <em>its corresponding column number</em>.</p>
 
