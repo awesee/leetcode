@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1985 | [找出数组中的第 K 大整数](../../problems/find-the-kth-largest-integer-in-the-array) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[分治](../divide-and-conquer/README.md)] [[快速选择](../quickselect/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 1982 | [从子集的和还原数组](../../problems/find-array-given-subset-sums) | [[数组](../array/README.md)] [[分治](../divide-and-conquer/README.md)]  | Hard |
 | 1901 | [找出顶峰元素 II](../../problems/find-a-peak-element-ii) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治](../divide-and-conquer/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1738 | [找出第 K 大的异或坐标值](../../problems/find-kth-largest-xor-coordinate-value) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[分治](../divide-and-conquer/README.md)] [[矩阵](../matrix/README.md)] [[前缀和](../prefix-sum/README.md)] [[快速选择](../quickselect/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 1649 | [通过指令创建有序数组](../../problems/create-sorted-array-through-instructions) | [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治](../divide-and-conquer/README.md)] [[有序集合](../ordered-set/README.md)] [[归并排序](../merge-sort/README.md)]  | Hard |

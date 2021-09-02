@@ -49,5 +49,5 @@
 
 ### Similar Questions
   1. [Best Time to Buy and Sell Stock](../best-time-to-buy-and-sell-stock) (Easy)
-  1. [Best Time to Buy and Sell Stock II](../best-time-to-buy-and-sell-stock-ii) (Easy)
+  1. [Best Time to Buy and Sell Stock II](../best-time-to-buy-and-sell-stock-ii) (Medium)
   1. [Best Time to Buy and Sell Stock III](../best-time-to-buy-and-sell-stock-iii) (Hard)

@@ -9,12 +9,16 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1979 | [找出数组的最大公约数](../../problems/find-greatest-common-divisor-of-array) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1969 | [数组元素的最小非零乘积](../../problems/minimum-non-zero-product-of-the-array-elements) | [[贪心](../greedy/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1954 | [收集足够苹果的最小花园周长](../../problems/minimum-garden-perimeter-to-collect-enough-apples) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 1952 | [三除数](../../problems/three-divisors) | [[数学](../math/README.md)]  | Easy |
 | 1927 | [求和游戏](../../problems/sum-game) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
 | 1925 | [统计平方和三元组的数目](../../problems/count-square-sum-triples) | [[数学](../math/README.md)] [[枚举](../enumeration/README.md)]  | Easy |
+| 1924 | [Erect the Fence II](../../problems/erect-the-fence-ii) 🔒 | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1922 | [统计好数字的数目](../../problems/count-good-numbers) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1916 | [统计为蚁群构筑房间的不同顺序](../../problems/count-ways-to-build-rooms-in-an-ant-colony) | [[树](../tree/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
-| 1908 | [Game of Nim](../../problems/game-of-nim) 🔒 | [[位运算](../bit-manipulation/README.md)] [[脑筋急转弯](../brainteaser/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 1908 | [Nim 游戏 II](../../problems/game-of-nim) 🔒 | [[位运算](../bit-manipulation/README.md)] [[脑筋急转弯](../brainteaser/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
 | 1904 | [你完成的完整对局数](../../problems/the-number-of-full-rounds-you-have-played) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1903 | [字符串中的最大奇数](../../problems/largest-odd-number-in-string) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1896 | [反转表达式值的最少操作次数](../../problems/minimum-cost-to-change-the-final-value-of-expression) | [[栈](../stack/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -140,7 +144,7 @@
 | 1041 | [困于环中的机器人](../../problems/robot-bounded-in-circle) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 1040 | [移动石子直到连续 II](../../problems/moving-stones-until-consecutive-ii) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1037 | [有效的回旋镖](../../problems/valid-boomerang) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Easy |
-| 1033 | [移动石子直到连续](../../problems/moving-stones-until-consecutive) | [[脑筋急转弯](../brainteaser/README.md)] [[数学](../math/README.md)]  | Easy |
+| 1033 | [移动石子直到连续](../../problems/moving-stones-until-consecutive) | [[脑筋急转弯](../brainteaser/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1030 | [距离顺序排列矩阵单元格](../../problems/matrix-cells-in-distance-order) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)] [[排序](../sorting/README.md)]  | Easy |
 | 1025 | [除数博弈](../../problems/divisor-game) | [[脑筋急转弯](../brainteaser/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Easy |
 | 1017 | [负二进制转换](../../problems/convert-to-base-2) | [[数学](../math/README.md)]  | Medium |

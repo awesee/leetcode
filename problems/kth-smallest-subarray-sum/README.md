@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../leetcodify-similar-friends "Leetcodify Similar Friends")
 
-## [1918. Kth Smallest Subarray Sum (Medium)](https://leetcode.com/problems/kth-smallest-subarray-sum "")
+## [1918. Kth Smallest Subarray Sum (Medium)](https://leetcode.com/problems/kth-smallest-subarray-sum "第 K 小的子序列和")
 
 
 

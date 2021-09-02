@@ -9,10 +9,12 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1970 | [你能穿过矩阵的最后一天](../../problems/last-day-where-you-can-still-cross) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
+| 1964 | [找出到每个位置为止最长的有效障碍赛跑路线](../../problems/find-the-longest-valid-obstacle-course-at-each-position) | [[树状数组](../binary-indexed-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1954 | [收集足够苹果的最小花园周长](../../problems/minimum-garden-perimeter-to-collect-enough-apples) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1932 | [合并多棵二叉搜索树](../../problems/merge-bsts-to-create-single-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Hard |
 | 1923 | [最长公共子路径](../../problems/longest-common-subpath) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[后缀数组](../suffix-array/README.md)] [[哈希函数](../hash-function/README.md)] [[滚动哈希](../rolling-hash/README.md)]  | Hard |
-| 1918 | [Kth Smallest Subarray Sum](../../problems/kth-smallest-subarray-sum) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
+| 1918 | [第 K 小的子序列和](../../problems/kth-smallest-subarray-sum) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
 | 1901 | [找出顶峰元素 II](../../problems/find-a-peak-element-ii) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治](../divide-and-conquer/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1898 | [可移除字符的最大数目](../../problems/maximum-number-of-removable-characters) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1894 | [找到需要补充粉笔的学生编号](../../problems/find-the-student-that-will-replace-the-chalk) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[模拟](../simulation/README.md)]  | Medium |

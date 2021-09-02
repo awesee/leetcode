@@ -65,7 +65,7 @@ Now we have segments [0,2] + [2,8] + [8,10] which cover the sporting event [0, 1
 
 <ul>
 	<li><code>1 &lt;= clips.length &lt;= 100</code></li>
-	<li><code>0 &lt;= clips[i][0] &lt;= clips[i][1] &lt;= 100</code></li>
+	<li><code>0 &lt;= start<sub>i</sub> &lt;= end<sub>i</sub> &lt;= 100</code></li>
 	<li><code>1 &lt;= time &lt;= 100</code></li>
 </ul>
 

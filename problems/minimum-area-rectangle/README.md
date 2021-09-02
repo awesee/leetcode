@@ -17,14 +17,14 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img src="https://assets.leetcode.com/uploads/2021/07/29/image.png" style="width: 500px; height: 451px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2021/08/03/rec1.JPG" style="width: 500px; height: 447px;" />
 <pre>
 <strong>Input:</strong> points = [[1,1],[1,3],[3,1],[3,3],[2,2]]
 <strong>Output:</strong> 4
 </pre>
 
 <p><strong>Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/07/29/2.JPG" style="width: 500px; height: 378px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2021/08/03/rec2.JPG" style="width: 500px; height: 477px;" />
 <pre>
 <strong>Input:</strong> points = [[1,1],[1,3],[3,1],[3,3],[4,1],[4,3]]
 <strong>Output:</strong> 2

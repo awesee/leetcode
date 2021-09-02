@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1976 | [到达目的地的方案数](../../problems/number-of-ways-to-arrive-at-destination) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)] [[最短路](../shortest-path/README.md)]  | Medium |
 | 1786 | [从第一个节点出发到最后一个节点的受限路径数](../../problems/number-of-restricted-paths-from-first-to-last-node) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)] [[最短路](../shortest-path/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 1514 | [概率最大的路径](../../problems/path-with-maximum-probability) | [[图](../graph/README.md)] [[最短路](../shortest-path/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 1368 | [使网格图至少有一条有效路径的最小代价](../../problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[最短路](../shortest-path/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |

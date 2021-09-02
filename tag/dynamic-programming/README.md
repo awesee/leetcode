@@ -9,12 +9,19 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1987 | [不同的好子序列数目](../../problems/number-of-unique-good-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1986 | [完成任务的最少工作时间段](../../problems/minimum-number-of-work-sessions-to-finish-the-tasks) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
+| 1981 | [最小化目标值与所选元素的差](../../problems/minimize-the-difference-between-target-and-chosen-elements) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 1977 | [划分数字的方案数](../../problems/number-of-ways-to-separate-numbers) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[后缀数组](../suffix-array/README.md)]  | Hard |
+| 1976 | [到达目的地的方案数](../../problems/number-of-ways-to-arrive-at-destination) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)] [[最短路](../shortest-path/README.md)]  | Medium |
+| 1959 | [K 次调整数组大小浪费的最小总空间](../../problems/minimum-total-space-wasted-with-k-resizing-operations) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1955 | [统计特殊子序列的数目](../../problems/count-number-of-special-subsequences) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1947 | [最大兼容性评分和](../../problems/maximum-compatibility-score-sum) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
 | 1931 | [用三种不同颜色为网格涂色](../../problems/painting-a-grid-with-three-different-colors) | [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1928 | [规定时间内到达终点的最小花费](../../problems/minimum-cost-to-reach-destination-in-time) | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1916 | [统计为蚁群构筑房间的不同顺序](../../problems/count-ways-to-build-rooms-in-an-ant-colony) | [[树](../tree/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
 | 1911 | [最大子序列交替和](../../problems/maximum-alternating-subsequence-sum) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 1908 | [Game of Nim](../../problems/game-of-nim) 🔒 | [[位运算](../bit-manipulation/README.md)] [[脑筋急转弯](../brainteaser/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 1908 | [Nim 游戏 II](../../problems/game-of-nim) 🔒 | [[位运算](../bit-manipulation/README.md)] [[脑筋急转弯](../brainteaser/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
 | 1900 | [最佳运动员的比拼回合](../../problems/the-earliest-and-latest-rounds-where-players-compete) | [[记忆化搜索](../memoization/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1896 | [反转表达式值的最少操作次数](../../problems/minimum-cost-to-change-the-final-value-of-expression) | [[栈](../stack/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1884 | [鸡蛋掉落-两枚鸡蛋](../../problems/egg-drop-with-2-eggs-and-n-floors) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
@@ -304,7 +311,7 @@
 | 131 | [分割回文串](../../problems/palindrome-partitioning) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 124 | [二叉树中的最大路径和](../../problems/binary-tree-maximum-path-sum) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[二叉树](../binary-tree/README.md)]  | Hard |
 | 123 | [买卖股票的最佳时机 III](../../problems/best-time-to-buy-and-sell-stock-iii) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 122 | [买卖股票的最佳时机 II](../../problems/best-time-to-buy-and-sell-stock-ii) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
+| 122 | [买卖股票的最佳时机 II](../../problems/best-time-to-buy-and-sell-stock-ii) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 121 | [买卖股票的最佳时机](../../problems/best-time-to-buy-and-sell-stock) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 120 | [三角形最小路径和](../../problems/triangle) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 119 | [杨辉三角 II](../../problems/pascals-triangle-ii) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |

@@ -33,7 +33,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= strs.length &lt;= 50</code></li>
+	<li><code>2 &lt;= strs.length &lt;= 50</code></li>
 	<li><code>1 &lt;= strs[i].length &lt;= 10</code></li>
 	<li><code>strs[i]</code> consists of lowercase English letters.</li>
 </ul>

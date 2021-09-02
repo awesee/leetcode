@@ -39,6 +39,9 @@
 	<li><code>1 &lt;= n &lt;= 10<sup>4</sup></code></li>
 </ul>
 
+### Related Topics
+  [[Math](../../tag/math/README.md)]
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1985 | [找出数组中的第 K 大整数](../../problems/find-the-kth-largest-integer-in-the-array) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[分治](../divide-and-conquer/README.md)] [[快速选择](../quickselect/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 1984 | [学生分数的最小差值](../../problems/minimum-difference-between-highest-and-lowest-of-k-scores) | [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Easy |
+| 1968 | [构造元素不等于两相邻元素平均值的数组](../../problems/array-with-elements-not-equal-to-average-of-neighbors) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1921 | [消灭怪物的最大数量](../../problems/eliminate-maximum-number-of-monsters) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1913 | [两个数对之间的最大乘积差](../../problems/maximum-product-difference-between-two-pairs) | [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Easy |
 | 1889 | [装包裹的最小浪费空间](../../problems/minimum-space-wasted-from-packaging) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[排序](../sorting/README.md)]  | Hard |

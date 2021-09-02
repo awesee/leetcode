@@ -53,7 +53,7 @@ The total profit is ((8 - 1) - 2) + ((9 - 4) - 2) = 8.
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Similar Questions
-  1. [Best Time to Buy and Sell Stock II](../best-time-to-buy-and-sell-stock-ii) (Easy)
+  1. [Best Time to Buy and Sell Stock II](../best-time-to-buy-and-sell-stock-ii) (Medium)
 
 ### Hints
 <details>

@@ -27,7 +27,7 @@ A <strong>subsequence</strong> of a string is a new string that is formed from t
 <pre>
 <strong>Input:</strong> s = &quot;aba&quot;
 <strong>Output:</strong> 6
-<strong>Explanation:</strong> The 7 distinct subsequences are &quot;a&quot;, &quot;b&quot;, &quot;c&quot;, &quot;ab&quot;, &quot;ac&quot;, &quot;bc&quot;, and &quot;abc&quot;.
+<strong>Explanation:</strong> The 6 distinct subsequences are &quot;a&quot;, &quot;b&quot;, &quot;ab&quot;, &quot;aa&quot;, &quot;ba&quot;, and &quot;aba&quot;.
 </pre>
 
 <p><strong>Example 3:</strong></p>

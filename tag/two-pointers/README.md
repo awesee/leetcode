@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1963 | [使字符串平衡的最小交换次数](../../problems/minimum-number-of-swaps-to-make-the-string-balanced) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1877 | [数组中最大数对和的最小值](../../problems/minimize-maximum-pair-sum-in-array) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1871 | [跳跃游戏 VII](../../problems/jump-game-vii) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1868 | [两个行程编码数组的积](../../problems/product-of-two-run-length-encoded-arrays) 🔒 | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |

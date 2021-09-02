@@ -11,39 +11,50 @@
 
 ## [911. Online Election (Medium)](https://leetcode.com/problems/online-election "在线选举")
 
-<p>In an election, the <code>i</code>-th&nbsp;vote was cast for <code>persons[i]</code> at time <code>times[i]</code>.</p>
+<p>You are given two integer arrays <code>persons</code> and <code>times</code>. In an election, the <code>i<sup>th</sup></code> vote was cast for <code>persons[i]</code> at time <code>times[i]</code>.</p>
 
-<p>Now, we would like to implement the following query function: <code>TopVotedCandidate.q(int t)</code> will return the number of the person that was leading the election at time <code>t</code>.&nbsp;&nbsp;</p>
+<p>For each query at a time <code>t</code>, find the person that was leading the election at time <code>t</code>. Votes cast at time <code>t</code> will count towards our query. In the case of a tie, the most recent vote (among tied candidates) wins.</p>
 
-<p>Votes cast at time <code>t</code> will count towards our query.&nbsp; In the case of a tie, the most recent vote (among tied candidates) wins.</p>
+<p>Implement the <code>TopVotedCandidate</code> class:</p>
+
+<ul>
+	<li><code>TopVotedCandidate(int[] persons, int[] times)</code> Initializes the object with the <code>persons</code> and <code>times</code> arrays.</li>
+	<li><code>int q(int t)</code> Returns the number of the person that was leading the election at time <code>t</code> according to the mentioned rules.</li>
+</ul>
 
 <p>&nbsp;</p>
-
-<div>
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-1-1">[&quot;TopVotedCandidate&quot;,&quot;q&quot;,&quot;q&quot;,&quot;q&quot;,&quot;q&quot;,&quot;q&quot;,&quot;q&quot;]</span>, <span id="example-input-1-2">[[[0,1,1,0,0,1,0],[0,5,10,15,20,25,30]],[3],[12],[25],[15],[24],[8]]</span>
-<strong>Output: </strong><span id="example-output-1">[null,0,1,1,0,0,1]</span>
-<strong>Explanation: </strong>
-At time 3, the votes are [0], and 0 is leading.
-At time 12, the votes are [0,1,1], and 1 is leading.
-At time 25, the votes are [0,1,1,0,0,1], and 1 is leading (as ties go to the most recent vote.)
-This continues for 3 more queries at time 15, 24, and 8.
+<strong>Input</strong>
+[&quot;TopVotedCandidate&quot;, &quot;q&quot;, &quot;q&quot;, &quot;q&quot;, &quot;q&quot;, &quot;q&quot;, &quot;q&quot;]
+[[[0, 1, 1, 0, 0, 1, 0], [0, 5, 10, 15, 20, 25, 30]], [3], [12], [25], [15], [24], [8]]
+<strong>Output</strong>
+[null, 0, 1, 1, 0, 0, 1]
+
+<strong>Explanation</strong>
+TopVotedCandidate topVotedCandidate = new TopVotedCandidate([0, 1, 1, 0, 0, 1, 0], [0, 5, 10, 15, 20, 25, 30]);
+topVotedCandidate.q(3); // return 0, At time 3, the votes are [0], and 0 is leading.
+topVotedCandidate.q(12); // return 1, At time 12, the votes are [0,1,1], and 1 is leading.
+topVotedCandidate.q(25); // return 1, At time 25, the votes are [0,1,1,0,0,1], and 1 is leading (as ties go to the most recent vote.)
+topVotedCandidate.q(15); // return 0
+topVotedCandidate.q(24); // return 0
+topVotedCandidate.q(8); // return 1
+
 </pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong>Note:</strong></p>
-
-<ol>
-	<li><code>1 &lt;= persons.length = times.length &lt;= 5000</code></li>
-	<li><code>0 &lt;= persons[i] &lt;= persons.length</code></li>
-	<li><code>times</code>&nbsp;is a strictly increasing array with all elements in <code>[0, 10^9]</code>.</li>
-	<li><code>TopVotedCandidate.q</code> is called at most <code>10000</code> times per test case.</li>
-	<li><code>TopVotedCandidate.q(int t)</code> is always called with <code>t &gt;= times[0]</code>.</li>
-</ol>
-</div>
+<ul>
+	<li><code>1 &lt;= persons.length &lt;= 5000</code></li>
+	<li><code>times.length == persons.length</code></li>
+	<li><code>0 &lt;= persons[i] &lt; persons.length</code></li>
+	<li><code>0 &lt;= times[i] &lt;= 10<sup>9</sup></code></li>
+	<li><code>times</code> is sorted in a strictly increasing order.</li>
+	<li><code>times[0] &lt;= t &lt;= 10<sup>9</sup></code></li>
+	<li>At most <code>10<sup>4</sup></code> calls will be made to <code>q</code>.</li>
+</ul>
 
 ### Related Topics
   [[Design](../../tag/design/README.md)]

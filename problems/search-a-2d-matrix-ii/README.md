@@ -40,7 +40,7 @@
 	<li><code>m == matrix.length</code></li>
 	<li><code>n == matrix[i].length</code></li>
 	<li><code>1 &lt;= n, m &lt;= 300</code></li>
-	<li><code>-10<sup>9</sup> &lt;= matix[i][j] &lt;= 10<sup>9</sup></code></li>
+	<li><code>-10<sup>9</sup> &lt;= matrix[i][j] &lt;= 10<sup>9</sup></code></li>
 	<li>All the integers in each row are <strong>sorted</strong> in ascending order.</li>
 	<li>All the integers in each column are <strong>sorted</strong> in ascending order.</li>
 	<li><code>-10<sup>9</sup> &lt;= target &lt;= 10<sup>9</sup></code></li>

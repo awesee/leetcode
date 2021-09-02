@@ -67,6 +67,10 @@ Thus, one milestone in project 0 will remain unfinished.
 	<li><code>1 &lt;= milestones[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
 
+### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

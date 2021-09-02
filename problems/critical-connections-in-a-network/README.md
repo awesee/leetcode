@@ -19,13 +19,18 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-
-<p><strong><img alt="" src="https://assets.leetcode.com/uploads/2019/09/03/1537_ex1_2.png" style="width: 198px; height: 248px;" /></strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2019/09/03/1537_ex1_2.png" style="width: 198px; height: 248px;" />
 <pre>
 <strong>Input:</strong> n = 4, connections = [[0,1],[1,2],[2,0],[1,3]]
 <strong>Output:</strong> [[1,3]]
 <strong>Explanation:</strong> [[3,1]] is also accepted.
+</pre>
+
+<p><strong>Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 2, connections = [[0,1]]
+<strong>Output:</strong> [[0,1]]
 </pre>
 
 <p>&nbsp;</p>
