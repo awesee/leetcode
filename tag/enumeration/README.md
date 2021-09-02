@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1958 | [检查操作是否合法](../../problems/check-if-move-is-legal) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1925 | [统计平方和三元组的数目](../../problems/count-square-sum-triples) | [[数学](../math/README.md)] [[枚举](../enumeration/README.md)]  | Easy |
 | 1620 | [网络信号最好的坐标](../../problems/coordinate-with-maximum-network-quality) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)]  | Medium |
 | 1617 | [统计子树中城市之间最大距离](../../problems/count-subtrees-with-max-distance-between-cities) | [[位运算](../bit-manipulation/README.md)] [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)] [[枚举](../enumeration/README.md)]  | Hard |

@@ -64,6 +64,6 @@ Note that you cannot buy on day 1, buy on day 2 and sell them later, as you are 
 
 ### Similar Questions
   1. [Best Time to Buy and Sell Stock](../best-time-to-buy-and-sell-stock) (Easy)
-  1. [Best Time to Buy and Sell Stock II](../best-time-to-buy-and-sell-stock-ii) (Easy)
+  1. [Best Time to Buy and Sell Stock II](../best-time-to-buy-and-sell-stock-ii) (Medium)
   1. [Best Time to Buy and Sell Stock IV](../best-time-to-buy-and-sell-stock-iv) (Hard)
   1. [Maximum Sum of 3 Non-Overlapping Subarrays](../maximum-sum-of-3-non-overlapping-subarrays) (Hard)

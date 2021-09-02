@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../remove-one-element-to-make-the-array-strictly-increasing "Remove One Element to Make the Array Strictly Increasing")
 
-## [1908. Game of Nim (Medium)](https://leetcode.com/problems/game-of-nim "")
+## [1908. Game of Nim (Medium)](https://leetcode.com/problems/game-of-nim "Nim 游戏 II")
 
 
 

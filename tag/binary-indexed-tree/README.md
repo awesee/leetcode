@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1964 | [找出到每个位置为止最长的有效障碍赛跑路线](../../problems/find-the-longest-valid-obstacle-course-at-each-position) | [[树状数组](../binary-indexed-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1649 | [通过指令创建有序数组](../../problems/create-sorted-array-through-instructions) | [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治](../divide-and-conquer/README.md)] [[有序集合](../ordered-set/README.md)] [[归并排序](../merge-sort/README.md)]  | Hard |
 | 1505 | [最多 K 次交换相邻数位后得到的最小整数](../../problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) | [[贪心](../greedy/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 1409 | [查询带键的排列](../../problems/queries-on-a-permutation-with-key) | [[树状数组](../binary-indexed-tree/README.md)] [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Medium |

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1924 | [Erect the Fence II](../../problems/erect-the-fence-ii) 🔒 | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1828 | [统计一个圆中点的数目](../../problems/queries-on-number-of-points-inside-a-circle) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1610 | [可见点的最大数目](../../problems/maximum-number-of-visible-points) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Hard |
 | 1515 | [服务中心的最佳位置](../../problems/best-position-for-a-service-centre) | [[几何](../geometry/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Hard |

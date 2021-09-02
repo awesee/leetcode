@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1985 | [找出数组中的第 K 大整数](../../problems/find-the-kth-largest-integer-in-the-array) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[分治](../divide-and-conquer/README.md)] [[快速选择](../quickselect/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 1738 | [找出第 K 大的异或坐标值](../../problems/find-kth-largest-xor-coordinate-value) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[分治](../divide-and-conquer/README.md)] [[矩阵](../matrix/README.md)] [[前缀和](../prefix-sum/README.md)] [[快速选择](../quickselect/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 973 | [最接近原点的 K 个点](../../problems/k-closest-points-to-origin) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[分治](../divide-and-conquer/README.md)] [[快速选择](../quickselect/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 347 | [前 K 个高频元素](../../problems/top-k-frequent-elements) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[分治](../divide-and-conquer/README.md)] [[桶排序](../bucket-sort/README.md)] [[计数](../counting/README.md)] [[快速选择](../quickselect/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |

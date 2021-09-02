@@ -13,9 +13,9 @@
 
 <p>Given a 2D matrix <code>matrix</code>, handle multiple queries of the following type:</p>
 
-<ol>
+<ul>
 	<li>Calculate the <strong>sum</strong> of the elements of <code>matrix</code> inside the rectangle defined by its <strong>upper left corner</strong> <code>(row1, col1)</code> and <strong>lower right corner</strong> <code>(row2, col2)</code>.</li>
-</ol>
+</ul>
 
 <p>Implement the NumMatrix class:</p>
 

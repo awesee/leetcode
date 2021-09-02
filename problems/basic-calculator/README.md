@@ -45,7 +45,8 @@
 	<li><code>s</code> consists of digits, <code>&#39;+&#39;</code>, <code>&#39;-&#39;</code>, <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, and <code>&#39; &#39;</code>.</li>
 	<li><code>s</code> represents a valid expression.</li>
 	<li><code>&#39;+&#39;</code> is not used as a unary operation.</li>
-	<li><code>&#39;-&#39;</code> could be used as a unary operation but it has to be followed by parentheses.</li>
+	<li><code>&#39;-&#39;</code> could be used as a unary operation but it has to be inside parentheses.</li>
+	<li>There will be no two consecutive operators in the input.</li>
 	<li>Every number and running calculation will fit in a signed 32-bit integer.</li>
 </ul>
 

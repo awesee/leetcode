@@ -45,7 +45,7 @@
 | 1041 | [困于环中的机器人](../../problems/robot-bounded-in-circle) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 1006 | [笨阶乘](../../problems/clumsy-factorial) | [[栈](../stack/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 999 | [可以被一步捕获的棋子数](../../problems/available-captures-for-rook) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Easy |
-| 985 | [查询后的偶数和](../../problems/sum-of-even-numbers-after-queries) | [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 985 | [查询后的偶数和](../../problems/sum-of-even-numbers-after-queries) | [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 950 | [按递增顺序显示卡牌](../../problems/reveal-cards-in-increasing-order) | [[队列](../queue/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 946 | [验证栈序列](../../problems/validate-stack-sequences) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 885 | [螺旋矩阵 III](../../problems/spiral-matrix-iii) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Medium |

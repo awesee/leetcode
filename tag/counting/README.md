@@ -10,6 +10,7 @@
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 1941 | [检查是否所有字符出现次数相同](../../problems/check-if-all-characters-have-equal-number-of-occurrences) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
+| 1940 | [排序数组之间的最长公共子序列](../../problems/longest-common-subsequence-between-sorted-arrays) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)]  | Medium |
 | 1897 | [重新分配字符使所有字符串都相等](../../problems/redistribute-characters-to-make-all-strings-equal) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
 | 1876 | [长度为三且各字符不同的子字符串](../../problems/substrings-of-size-three-with-distinct-characters) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Easy |
 | 1857 | [有向图中最大颜色值](../../problems/largest-color-value-in-a-directed-graph) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[记忆化搜索](../memoization/README.md)] [[哈希表](../hash-table/README.md)] [[动态规划](../dynamic-programming/README.md)] [[计数](../counting/README.md)]  | Hard |

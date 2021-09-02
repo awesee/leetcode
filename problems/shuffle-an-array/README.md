@@ -16,7 +16,7 @@
 <p>Implement the <code>Solution</code> class:</p>
 
 <ul>
-	<li><code>Solution(int[] nums)</code> Initializes the object with the integer array nums.</li>
+	<li><code>Solution(int[] nums)</code> Initializes the object with the integer array <code>nums</code>.</li>
 	<li><code>int[] reset()</code> Resets the array to its original configuration and returns it.</li>
 	<li><code>int[] shuffle()</code> Returns a random shuffling of the array.</li>
 </ul>

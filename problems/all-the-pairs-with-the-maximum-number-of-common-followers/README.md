@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../three-divisors "Three Divisors")
 
-## [1951. All the Pairs With the Maximum Number of Common Followers (Medium)](https://leetcode.com/problems/all-the-pairs-with-the-maximum-number-of-common-followers "")
+## [1951. All the Pairs With the Maximum Number of Common Followers (Medium)](https://leetcode.com/problems/all-the-pairs-with-the-maximum-number-of-common-followers "查询具有最多共同关注者的所有两两结对组")
 
 

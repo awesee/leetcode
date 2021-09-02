@@ -9,7 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 1918 | [Kth Smallest Subarray Sum](../../problems/kth-smallest-subarray-sum) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
+| 1918 | [第 K 小的子序列和](../../problems/kth-smallest-subarray-sum) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
 | 1876 | [长度为三且各字符不同的子字符串](../../problems/substrings-of-size-three-with-distinct-characters) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Easy |
 | 1852 | [每个子数组的数字种类数](../../problems/distinct-numbers-in-each-subarray) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
 | 1839 | [所有元音按顺序排布的最长子字符串](../../problems/longest-substring-of-all-vowels-in-order) | [[字符串](../string/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |

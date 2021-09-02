@@ -11,6 +11,7 @@
 | :-: | - | - | :-: |
 | 1948 | [删除系统中的重复文件夹](../../problems/delete-duplicate-folders-in-system) | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[哈希函数](../hash-function/README.md)]  | Hard |
 | 1941 | [检查是否所有字符出现次数相同](../../problems/check-if-all-characters-have-equal-number-of-occurrences) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
+| 1940 | [排序数组之间的最长公共子序列](../../problems/longest-common-subsequence-between-sorted-arrays) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)]  | Medium |
 | 1935 | [可以输入的最大单词数](../../problems/maximum-number-of-words-you-can-type) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1932 | [合并多棵二叉搜索树](../../problems/merge-bsts-to-create-single-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Hard |
 | 1930 | [长度为 3 的不同回文子序列](../../problems/unique-length-3-palindromic-subsequences) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
@@ -193,7 +194,7 @@
 | 819 | [最常见的单词](../../problems/most-common-word) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 817 | [链表组件](../../problems/linked-list-components) | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)]  | Medium |
 | 815 | [公交路线](../../problems/bus-routes) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
-| 811 | [子域名访问计数](../../problems/subdomain-visit-count) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 811 | [子域名访问计数](../../problems/subdomain-visit-count) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 804 | [唯一摩尔斯密码词](../../problems/unique-morse-code-words) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 792 | [匹配子序列的单词数](../../problems/number-of-matching-subsequences) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 791 | [自定义字符串排序](../../problems/custom-sort-string) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Medium |

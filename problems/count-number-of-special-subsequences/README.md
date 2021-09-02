@@ -7,7 +7,7 @@
 
 [< Previous](../minimum-garden-perimeter-to-collect-enough-apples "Minimum Garden Perimeter to Collect Enough Apples")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../minimum-time-for-k-virus-variants-to-spread "Minimum Time For K Virus Variants to Spread")
 
 ## [1955. Count Number of Special Subsequences (Hard)](https://leetcode.com/problems/count-number-of-special-subsequences "统计特殊子序列的数目")
 
@@ -28,7 +28,7 @@ Next >
 <pre>
 <strong>Input:</strong> nums = [0,1,2,2]
 <strong>Output:</strong> 3
-<strong>Explanation:</strong> The special subsequences are [<u>0</u>,<u>1</u>,<u>2</u>,2], [<u>0</u>,<u>1</u>,2,<u>2</u>], and [<u>0</u>,<u>1</u>,<u>2</u>,<u>2</u>].
+<strong>Explanation:</strong> The special subsequences are bolded [<strong><u>0</u></strong>,<strong><u>1</u></strong>,<strong><u>2</u></strong>,2], [<strong><u>0</u></strong>,<strong><u>1</u></strong>,2,<strong><u>2</u></strong>], and [<strong><u>0</u></strong>,<strong><u>1</u></strong>,<strong><u>2</u></strong>,<strong><u>2</u></strong>].
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -44,14 +44,14 @@ Next >
 <pre>
 <strong>Input:</strong> nums = [0,1,2,0,1,2]
 <strong>Output:</strong> 7
-<strong>Explanation:</strong> The special subsequences are:
-- [<u>0</u>,<u>1</u>,<u>2</u>,0,1,2]
-- [<u>0</u>,<u>1</u>,2,0,1,<u>2</u>]
-- [<u>0</u>,<u>1</u>,<u>2</u>,0,1,<u>2</u>]
-- [<u>0</u>,<u>1</u>,2,0,<u>1</u>,<u>2</u>]
-- [<u>0</u>,1,2,<u>0</u>,<u>1</u>,<u>2</u>]
-- [<u>0</u>,1,2,0,<u>1</u>,<u>2</u>]
-- [0,1,2,<u>0</u>,<u>1</u>,<u>2</u>]
+<strong>Explanation:</strong> The special subsequences are bolded:
+- [<strong><u>0</u></strong>,<strong><u>1</u></strong>,<strong><u>2</u></strong>,0,1,2]
+- [<strong><u>0</u></strong>,<strong><u>1</u></strong>,2,0,1,<strong><u>2</u></strong>]
+- [<strong><u>0</u></strong>,<strong><u>1</u></strong>,<strong><u>2</u></strong>,0,1,<strong><u>2</u></strong>]
+- [<strong><u>0</u></strong>,<strong><u>1</u></strong>,2,0,<strong><u>1</u></strong>,<strong><u>2</u></strong>]
+- [<strong><u>0</u></strong>,1,2,<strong><u>0</u></strong>,<strong><u>1</u></strong>,<strong><u>2</u></strong>]
+- [<strong><u>0</u></strong>,1,2,0,<strong><u>1</u></strong>,<strong><u>2</u></strong>]
+- [0,1,2,<strong><u>0</u></strong>,<strong><u>1</u></strong>,<strong><u>2</u></strong>]
 </pre>
 
 <p>&nbsp;</p>
@@ -61,6 +61,10 @@ Next >
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 2</code></li>
 </ul>
+
+### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
 ### Hints
 <details>

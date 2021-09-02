@@ -11,9 +11,9 @@
 
 ## [567. Permutation in String (Medium)](https://leetcode.com/problems/permutation-in-string "字符串的排列")
 
-<p>Given two strings <code>s1</code> and <code>s2</code>, return true if <code>s2</code> contains the permutation of <code>s1</code>.</p>
+<p>Given two strings <code>s1</code> and <code>s2</code>, return <code>true</code><em> if </em><code>s2</code><em> contains a permutation of </em><code>s1</code><em>, or </em><code>false</code><em> otherwise</em>.</p>
 
-<p>In other words, one of <code>s1</code>&#39;s permutations is the substring of <code>s2</code>.</p>
+<p>In other words, return <code>true</code> if one of <code>s1</code>&#39;s permutations is the substring of <code>s2</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

@@ -13,6 +13,13 @@
 
 <p>Given a singly linked list, return a random node&#39;s value from the linked list. Each node must have the <strong>same probability</strong> of being chosen.</p>
 
+<p>Implement the <code>Solution</code> class:</p>
+
+<ul>
+	<li><code>Solution(ListNode head)</code> Initializes the object with the integer array nums.</li>
+	<li><code>int getRandom()</code> Chooses a node randomly from the list and returns its value. All the nodes of the list should be equally likely to be choosen.</li>
+</ul>
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/03/16/getrand-linked-list.jpg" style="width: 302px; height: 62px;" />

@@ -49,7 +49,7 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 
 ### Similar Questions
   1. [Maximum Subarray](../maximum-subarray) (Easy)
-  1. [Best Time to Buy and Sell Stock II](../best-time-to-buy-and-sell-stock-ii) (Easy)
+  1. [Best Time to Buy and Sell Stock II](../best-time-to-buy-and-sell-stock-ii) (Medium)
   1. [Best Time to Buy and Sell Stock III](../best-time-to-buy-and-sell-stock-iii) (Hard)
   1. [Best Time to Buy and Sell Stock IV](../best-time-to-buy-and-sell-stock-iv) (Hard)
   1. [Best Time to Buy and Sell Stock with Cooldown](../best-time-to-buy-and-sell-stock-with-cooldown) (Medium)

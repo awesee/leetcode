@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1976 | [到达目的地的方案数](../../problems/number-of-ways-to-arrive-at-destination) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)] [[最短路](../shortest-path/README.md)]  | Medium |
 | 1916 | [统计为蚁群构筑房间的不同顺序](../../problems/count-ways-to-build-rooms-in-an-ant-colony) | [[树](../tree/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
 | 1857 | [有向图中最大颜色值](../../problems/largest-color-value-in-a-directed-graph) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[记忆化搜索](../memoization/README.md)] [[哈希表](../hash-table/README.md)] [[动态规划](../dynamic-programming/README.md)] [[计数](../counting/README.md)]  | Hard |
 | 1786 | [从第一个节点出发到最后一个节点的受限路径数](../../problems/number-of-restricted-paths-from-first-to-last-node) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)] [[最短路](../shortest-path/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |

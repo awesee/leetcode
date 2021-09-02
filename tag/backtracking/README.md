@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1986 | [完成任务的最少工作时间段](../../problems/minimum-number-of-work-sessions-to-finish-the-tasks) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
+| 1980 | [找出不同的二进制字符串](../../problems/find-unique-binary-string) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 1947 | [最大兼容性评分和](../../problems/maximum-compatibility-score-sum) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
 | 1863 | [找出所有子集的异或总和再求和](../../problems/sum-of-all-subset-xor-totals) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Easy |
 | 1849 | [将字符串拆分为递减的连续值](../../problems/splitting-a-string-into-descending-consecutive-values) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |

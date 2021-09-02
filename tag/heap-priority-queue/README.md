@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1985 | [找出数组中的第 K 大整数](../../problems/find-the-kth-largest-integer-in-the-array) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[分治](../divide-and-conquer/README.md)] [[快速选择](../quickselect/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 1962 | [移除石子使总数最小](../../problems/remove-stones-to-minimize-the-total) | [[数组](../array/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 1942 | [最小未被占据椅子的编号](../../problems/the-number-of-the-smallest-unoccupied-chair) | [[数组](../array/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 1912 | [设计电影租借系统](../../problems/design-movie-rental-system) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
 | 1882 | [使用服务器处理任务](../../problems/process-tasks-using-servers) | [[数组](../array/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |

@@ -13,6 +13,11 @@
 
 
 
+### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Counting](../../tag/counting/README.md)]
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

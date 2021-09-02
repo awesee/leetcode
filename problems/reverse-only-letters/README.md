@@ -11,57 +11,34 @@
 
 ## [917. Reverse Only Letters (Easy)](https://leetcode.com/problems/reverse-only-letters "仅仅反转字母")
 
-<p>Given a string <code>s</code>, return the &quot;reversed&quot; string where all characters that are not a letter&nbsp;stay in the same place, and all letters reverse their positions.</p>
+<p>Given a string <code>s</code>, reverse the string according to the following rules:</p>
+
+<ul>
+	<li>All the characters that are not English letters remain in the same position.</li>
+	<li>All the English letters (lowercase or uppercase) should be reversed.</li>
+</ul>
+
+<p>Return <code>s</code><em> after reversing it</em>.</p>
 
 <p>&nbsp;</p>
-
-<div>
-<div>
-<div>
-<ol>
-</ol>
-</div>
-</div>
-</div>
-
-<div>
 <p><strong>Example 1:</strong></p>
-
-<pre>
-<strong>Input: </strong>s = <span id="example-input-1-1">&quot;ab-cd&quot;</span>
-<strong>Output: </strong><span id="example-output-1">&quot;dc-ba&quot;</span>
+<pre><strong>Input:</strong> s = "ab-cd"
+<strong>Output:</strong> "dc-ba"
+</pre><p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> s = "a-bC-dEf-ghIj"
+<strong>Output:</strong> "j-Ih-gfE-dCba"
+</pre><p><strong>Example 3:</strong></p>
+<pre><strong>Input:</strong> s = "Test1ng-Leet=code-Q!"
+<strong>Output:</strong> "Qedo1ct-eeLg=ntse-T!"
 </pre>
-
-<div>
-<p><strong>Example 2:</strong></p>
-
-<pre>
-<strong>Input: </strong>s = <span id="example-input-2-1">&quot;a-bC-dEf-ghIj&quot;</span>
-<strong>Output: </strong><span id="example-output-2">&quot;j-Ih-gfE-dCba&quot;</span>
-</pre>
-
-<div>
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input: </strong>s = <span id="example-input-3-1">&quot;Test1ng-Leet=code-Q!&quot;</span>
-<strong>Output: </strong><span id="example-output-3">&quot;Qedo1ct-eeLg=ntse-T!&quot;</span>
-</pre>
-
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<div>
-<p><strong><span>Note:</span></strong></p>
-
-<ol>
-	<li><code>s.length &lt;= 100</code></li>
-	<li><code>33 &lt;= s[i].ASCIIcode &lt;= 122</code>&nbsp;</li>
-	<li><code>s</code> doesn&#39;t contain <code>\</code> or <code>&quot;</code></li>
-</ol>
-</div>
-</div>
-</div>
-</div>
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 100</code></li>
+	<li><code>s</code> consists of characters with ASCII values in the range <code>[33, 122]</code>.</li>
+	<li><code>s</code> does not contain <code>&#39;\&quot;&#39;</code> or <code>&#39;\\&#39;</code>.</li>
+</ul>
 
 ### Related Topics
   [[Two Pointers](../../tag/two-pointers/README.md)]

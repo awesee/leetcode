@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1986 | [完成任务的最少工作时间段](../../problems/minimum-number-of-work-sessions-to-finish-the-tasks) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
 | 1947 | [最大兼容性评分和](../../problems/maximum-compatibility-score-sum) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
 | 1879 | [两个数组最小的异或值之和](../../problems/minimum-xor-sum-of-two-arrays) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |
 | 1815 | [得到新鲜甜甜圈的最多组数](../../problems/maximum-number-of-groups-getting-fresh-donuts) | [[位运算](../bit-manipulation/README.md)] [[记忆化搜索](../memoization/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |

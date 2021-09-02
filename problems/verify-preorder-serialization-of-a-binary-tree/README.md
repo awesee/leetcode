@@ -43,7 +43,7 @@
 
 <ul>
 	<li><code>1 &lt;= preorder.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>preoder</code> consist of integers in the range <code>[0, 100]</code> and <code>&#39;#&#39;</code> separated by commas <code>&#39;,&#39;</code>.</li>
+	<li><code>preorder</code> consist of integers in the range <code>[0, 100]</code> and <code>&#39;#&#39;</code> separated by commas <code>&#39;,&#39;</code>.</li>
 </ul>
 
 ### Related Topics

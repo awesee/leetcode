@@ -9,11 +9,22 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1987 | [不同的好子序列数目](../../problems/number-of-unique-good-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1985 | [找出数组中的第 K 大整数](../../problems/find-the-kth-largest-integer-in-the-array) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[分治](../divide-and-conquer/README.md)] [[快速选择](../quickselect/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 1980 | [找出不同的二进制字符串](../../problems/find-unique-binary-string) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 1977 | [划分数字的方案数](../../problems/number-of-ways-to-separate-numbers) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[后缀数组](../suffix-array/README.md)]  | Hard |
+| 1974 | [使用特殊打字机键入单词的最少时间](../../problems/minimum-time-to-type-word-using-special-typewriter) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1967 | [作为子字符串出现在单词中的字符串数目](../../problems/number-of-strings-that-appear-as-substrings-in-word) | [[字符串](../string/README.md)]  | Easy |
+| 1963 | [使字符串平衡的最小交换次数](../../problems/minimum-number-of-swaps-to-make-the-string-balanced) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1961 | [检查字符串是否为数组前缀](../../problems/check-if-string-is-a-prefix-of-array) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1960 | [两个回文子字符串长度的最大乘积](../../problems/maximum-product-of-the-length-of-two-palindromic-substrings) | [[字符串](../string/README.md)] [[哈希函数](../hash-function/README.md)] [[滚动哈希](../rolling-hash/README.md)]  | Hard |
+| 1957 | [删除字符使字符串变好](../../problems/delete-characters-to-make-fancy-string) | [[字符串](../string/README.md)]  | Easy |
 | 1948 | [删除系统中的重复文件夹](../../problems/delete-duplicate-folders-in-system) | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[哈希函数](../hash-function/README.md)]  | Hard |
 | 1946 | [子字符串突变后可能得到的最大整数](../../problems/largest-number-after-mutating-substring) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1945 | [字符串转化后的各位数字之和](../../problems/sum-of-digits-of-string-after-convert) | [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 1941 | [检查是否所有字符出现次数相同](../../problems/check-if-all-characters-have-equal-number-of-occurrences) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
 | 1935 | [可以输入的最大单词数](../../problems/maximum-number-of-words-you-can-type) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1933 | [判断字符串是否可分解为值均等的子串](../../problems/check-if-string-is-decomposable-into-value-equal-substrings) 🔒 | [[字符串](../string/README.md)]  | Easy |
 | 1930 | [长度为 3 的不同回文子序列](../../problems/unique-length-3-palindromic-subsequences) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1915 | [最美子字符串的数目](../../problems/number-of-wonderful-substrings) | [[位运算](../bit-manipulation/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1910 | [删除一个字符串中所有出现的给定子字符串](../../problems/remove-all-occurrences-of-a-substring) | [[字符串](../string/README.md)]  | Medium |
@@ -259,7 +270,7 @@
 | 820 | [单词的压缩编码](../../problems/short-encoding-of-words) | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 819 | [最常见的单词](../../problems/most-common-word) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 816 | [模糊坐标](../../problems/ambiguous-coordinates) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
-| 811 | [子域名访问计数](../../problems/subdomain-visit-count) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 811 | [子域名访问计数](../../problems/subdomain-visit-count) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 809 | [情感丰富的文字](../../problems/expressive-words) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 806 | [写字符串需要的行数](../../problems/number-of-lines-to-write-string) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 804 | [唯一摩尔斯密码词](../../problems/unique-morse-code-words) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
