@@ -15,3 +15,6 @@
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Average Salary: Departments VS Company](../average-salary-departments-vs-company) (Hard)

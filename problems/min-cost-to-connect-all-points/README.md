@@ -69,8 +69,8 @@ Notice that there is a unique path between every pair of points.
 </ul>
 
 ### Related Topics
-  [[Union Find](../../tag/union-find/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
   [[Minimum Spanning Tree](../../tag/minimum-spanning-tree/README.md)]
 
 ### Hints

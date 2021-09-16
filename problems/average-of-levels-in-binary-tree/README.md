@@ -16,7 +16,7 @@ Given the <code>root</code> of a binary tree, return <em>the average value of th
 <p><strong>Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/03/09/avg1-tree.jpg" style="width: 277px; height: 302px;" />
 <pre>
-<strong>Input:</strong> root = [3,9,20,null,15,7]
+<strong>Input:</strong> root = [3,9,20,null,null,15,7]
 <strong>Output:</strong> [3.00000,14.50000,11.00000]
 Explanation: The average value of nodes on level 0 is 3, on level 1 is 14.5, and on level 2 is 11.
 Hence return [3, 14.5, 11].

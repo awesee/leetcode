@@ -78,6 +78,22 @@ LeetCode Problems' Solutions
 
 | # | Title | Solution | Difficulty |
 | :-: | - | - | :-: |
+| <span id="2004">2004</span> | [The Number of Seniors and Juniors to Join the Company](https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company) 🔒 | [MySQL](problems/the-number-of-seniors-and-juniors-to-join-the-company) | Hard |
+| <span id="2003">2003</span> | [Smallest Missing Genetic Value in Each Subtree](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree "每棵子树内缺失的最小基因值") | [Go](problems/smallest-missing-genetic-value-in-each-subtree) | Hard |
+| <span id="2002">2002</span> | [Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences "两个回文子序列长度的最大乘积") | [Go](problems/maximum-product-of-the-length-of-two-palindromic-subsequences) | Medium |
+| <span id="2001">2001</span> | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles "可互换矩形的组数") | [Go](problems/number-of-pairs-of-interchangeable-rectangles) | Medium |
+| <span id="2000">2000</span> | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word "反转单词前缀") | [Go](problems/reverse-prefix-of-word) | Easy |
+| <span id="1999">1999</span> | [Smallest Greater Multiple Made of Two Digits](https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits) 🔒 | [Go](problems/smallest-greater-multiple-made-of-two-digits) | Medium |
+| <span id="1998">1998</span> | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array "数组的最大公因数排序") | [Go](problems/gcd-sort-of-an-array) | Hard |
+| <span id="1997">1997</span> | [First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms "访问完所有房间的第一天") | [Go](problems/first-day-where-you-have-been-in-all-the-rooms) | Medium |
+| <span id="1996">1996</span> | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game "游戏中弱角色的数量") | [Go](problems/the-number-of-weak-characters-in-the-game) | Medium |
+| <span id="1995">1995</span> | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets "统计特殊四元组") | [Go](problems/count-special-quadruplets) | Easy |
+| <span id="1994">1994</span> | [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets "好子集的数目") | [Go](problems/the-number-of-good-subsets) | Hard |
+| <span id="1993">1993</span> | [Operations on Tree](https://leetcode.com/problems/operations-on-tree "树上的操作") | [Go](problems/operations-on-tree) | Medium |
+| <span id="1992">1992</span> | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland "找到所有的农场组") | [Go](problems/find-all-groups-of-farmland) | Medium |
+| <span id="1991">1991</span> | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array "找到数组的中间位置") | [Go](problems/find-the-middle-index-in-array) | Easy |
+| <span id="1990">1990</span> | [Count the Number of Experiments](https://leetcode.com/problems/count-the-number-of-experiments) 🔒 | [MySQL](problems/count-the-number-of-experiments) | Medium |
+| <span id="1989">1989</span> | [Maximum Number of People That Can Be Caught in Tag](https://leetcode.com/problems/maximum-number-of-people-that-can-be-caught-in-tag) 🔒 | [Go](problems/maximum-number-of-people-that-can-be-caught-in-tag) | Medium |
 | <span id="1988">1988</span> | [Find Cutoff Score for Each School](https://leetcode.com/problems/find-cutoff-score-for-each-school) 🔒 | [MySQL](problems/find-cutoff-score-for-each-school) | Medium |
 | <span id="1987">1987</span> | [Number of Unique Good Subsequences](https://leetcode.com/problems/number-of-unique-good-subsequences "不同的好子序列数目") | [Go](problems/number-of-unique-good-subsequences) | Hard |
 | <span id="1986">1986</span> | [Minimum Number of Work Sessions to Finish the Tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks "完成任务的最少工作时间段") | [Go](problems/minimum-number-of-work-sessions-to-finish-the-tasks) | Medium |

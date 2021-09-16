@@ -52,8 +52,11 @@ Finally delete &quot;ddd&quot;, get &quot;aa&quot;</pre>
 </ul>
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+
+### Similar Questions
+  1. [Remove All Adjacent Duplicates In String](../remove-all-adjacent-duplicates-in-string) (Easy)
 
 ### Hints
 <details>

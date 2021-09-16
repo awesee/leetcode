@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1993 | [树上的操作](../../problems/operations-on-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
+| 1992 | [找到所有的农场组](../../problems/find-all-groups-of-farmland) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 1971 | [Find if Path Exists in Graph](../../problems/find-if-path-exists-in-graph) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Easy |
 | 1970 | [你能穿过矩阵的最后一天](../../problems/last-day-where-you-can-still-cross) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
 | 1926 | [迷宫中离入口最近的出口](../../problems/nearest-exit-from-entrance-in-maze) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1905 | [统计子岛屿](../../problems/count-sub-islands) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |

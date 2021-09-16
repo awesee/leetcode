@@ -52,8 +52,8 @@ numArray.sumRange(0, 5); // return (-2) + 0 + 3 + (-5) + 2 + (-1) = -3
 </ul>
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Design](../../tag/design/README.md)]
   [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Similar Questions

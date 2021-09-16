@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1995 | [统计特殊四元组](../../problems/count-special-quadruplets) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)]  | Easy |
 | 1958 | [检查操作是否合法](../../problems/check-if-move-is-legal) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1925 | [统计平方和三元组的数目](../../problems/count-square-sum-triples) | [[数学](../math/README.md)] [[枚举](../enumeration/README.md)]  | Easy |
 | 1620 | [网络信号最好的坐标](../../problems/coordinate-with-maximum-network-quality) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)]  | Medium |

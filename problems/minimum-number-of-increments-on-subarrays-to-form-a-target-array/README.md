@@ -65,10 +65,10 @@ The answer is guaranteed to fit within the range of a 32-bit signed integer.
 </ul>
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Hints

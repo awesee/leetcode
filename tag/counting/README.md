@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2001 | [可互换矩形的组数](../../problems/number-of-pairs-of-interchangeable-rectangles) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[数论](../number-theory/README.md)]  | Medium |
 | 1941 | [检查是否所有字符出现次数相同](../../problems/check-if-all-characters-have-equal-number-of-occurrences) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
 | 1940 | [排序数组之间的最长公共子序列](../../problems/longest-common-subsequence-between-sorted-arrays) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)]  | Medium |
 | 1897 | [重新分配字符使所有字符串都相等](../../problems/redistribute-characters-to-make-all-strings-equal) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |

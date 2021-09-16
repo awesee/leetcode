@@ -44,6 +44,9 @@
   [[Array](../../tag/array/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
+### Similar Questions
+  1. [Arithmetic Subarrays](../arithmetic-subarrays) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

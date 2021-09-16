@@ -66,10 +66,10 @@ The sorted array by bits is [0,1,2,4,8,3,5,6,7]
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Array](../../tag/array/README.md)]
-  [[Counting](../../tag/counting/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
+  [[Counting](../../tag/counting/README.md)]
 
 ### Hints
 <details>

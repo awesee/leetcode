@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2003 | [每棵子树内缺失的最小基因值](../../problems/smallest-missing-genetic-value-in-each-subtree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1993 | [树上的操作](../../problems/operations-on-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1932 | [合并多棵二叉搜索树](../../problems/merge-bsts-to-create-single-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Hard |
 | 1916 | [统计为蚁群构筑房间的不同顺序](../../problems/count-ways-to-build-rooms-in-an-ant-colony) | [[树](../tree/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
 | 1902 | [Depth of BST Given Insertion Order](../../problems/depth-of-bst-given-insertion-order) 🔒 | [[树](../tree/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[二叉树](../binary-tree/README.md)] [[有序集合](../ordered-set/README.md)]  | Medium |

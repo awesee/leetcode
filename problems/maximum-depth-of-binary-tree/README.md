@@ -62,3 +62,4 @@
   1. [Balanced Binary Tree](../balanced-binary-tree) (Easy)
   1. [Minimum Depth of Binary Tree](../minimum-depth-of-binary-tree) (Easy)
   1. [Maximum Depth of N-ary Tree](../maximum-depth-of-n-ary-tree) (Easy)
+  1. [Time Needed to Inform All Employees](../time-needed-to-inform-all-employees) (Medium)

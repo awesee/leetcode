@@ -93,10 +93,13 @@ startUrl = &quot;http://news.google.com&quot;
 </ul>
 
 ### Related Topics
+  [[String](../../tag/string/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
-  [[String](../../tag/string/README.md)]
   [[Interactive](../../tag/interactive/README.md)]
+
+### Similar Questions
+  1. [Web Crawler Multithreaded](../web-crawler-multithreaded) (Medium)
 
 ### Hints
 <details>

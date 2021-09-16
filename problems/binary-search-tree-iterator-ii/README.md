@@ -21,6 +21,9 @@
   [[Binary Tree](../../tag/binary-tree/README.md)]
   [[Iterator](../../tag/iterator/README.md)]
 
+### Similar Questions
+  1. [Binary Search Tree Iterator](../binary-search-tree-iterator) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

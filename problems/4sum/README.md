@@ -54,3 +54,4 @@
   1. [Two Sum](../two-sum) (Easy)
   1. [3Sum](../3sum) (Medium)
   1. [4Sum II](../4sum-ii) (Medium)
+  1. [Count Special Quadruplets](../count-special-quadruplets) (Easy)

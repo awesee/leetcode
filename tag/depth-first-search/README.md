@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2003 | [每棵子树内缺失的最小基因值](../../problems/smallest-missing-genetic-value-in-each-subtree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1992 | [找到所有的农场组](../../problems/find-all-groups-of-farmland) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 1971 | [Find if Path Exists in Graph](../../problems/find-if-path-exists-in-graph) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Easy |
 | 1970 | [你能穿过矩阵的最后一天](../../problems/last-day-where-you-can-still-cross) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
 | 1932 | [合并多棵二叉搜索树](../../problems/merge-bsts-to-create-single-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Hard |
 | 1905 | [统计子岛屿](../../problems/count-sub-islands) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |

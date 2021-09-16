@@ -46,11 +46,11 @@
 </ul>
 
 ### Related Topics
-  [[Recursion](../../tag/recursion/README.md)]
-  [[Memoization](../../tag/memoization/README.md)]
   [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]
 
 ### Similar Questions
   1. [Unique Binary Search Trees II](../unique-binary-search-trees-ii) (Medium)

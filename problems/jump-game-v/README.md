@@ -79,6 +79,9 @@ Similarly You cannot jump from index 3 to index 2 or index 1.
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
+### Similar Questions
+  1. [Jump Game VII](../jump-game-vii) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

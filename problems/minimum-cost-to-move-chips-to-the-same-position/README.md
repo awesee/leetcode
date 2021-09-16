@@ -57,9 +57,12 @@ Total cost is 1.
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+
+### Similar Questions
+  1. [Minimum Number of Operations to Move All Balls to Each Box](../minimum-number-of-operations-to-move-all-balls-to-each-box) (Medium)
 
 ### Hints
 <details>

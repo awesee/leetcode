@@ -27,10 +27,10 @@
 Derive your algorithm&#39;s runtime complexity.</p>
 
 ### Related Topics
-  [[Memoization](../../tag/memoization/README.md)]
   [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]
   [[Game Theory](../../tag/game-theory/README.md)]
 
 ### Similar Questions

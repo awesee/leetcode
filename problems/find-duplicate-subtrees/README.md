@@ -57,3 +57,4 @@
   1. [Serialize and Deserialize Binary Tree](../serialize-and-deserialize-binary-tree) (Hard)
   1. [Serialize and Deserialize BST](../serialize-and-deserialize-bst) (Medium)
   1. [Construct String from Binary Tree](../construct-string-from-binary-tree) (Easy)
+  1. [Delete Duplicate Folders in System](../delete-duplicate-folders-in-system) (Hard)

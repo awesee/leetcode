@@ -63,8 +63,11 @@
 
 ### Related Topics
   [[Graph](../../tag/graph/README.md)]
-  [[Shortest Path](../../tag/shortest-path/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Shortest Path](../../tag/shortest-path/README.md)]
+
+### Similar Questions
+  1. [Number of Ways to Arrive at Destination](../number-of-ways-to-arrive-at-destination) (Medium)
 
 ### Hints
 <details>

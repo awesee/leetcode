@@ -56,9 +56,9 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Hints

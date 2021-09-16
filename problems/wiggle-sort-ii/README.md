@@ -46,10 +46,11 @@
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
-  [[Quickselect](../../tag/quickselect/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
+  [[Quickselect](../../tag/quickselect/README.md)]
 
 ### Similar Questions
   1. [Sort Colors](../sort-colors) (Medium)
   1. [Kth Largest Element in an Array](../kth-largest-element-in-an-array) (Medium)
   1. [Wiggle Sort](../wiggle-sort) (Medium)
+  1. [Array With Elements Not Equal to Average of Neighbors](../array-with-elements-not-equal-to-average-of-neighbors) (Medium)

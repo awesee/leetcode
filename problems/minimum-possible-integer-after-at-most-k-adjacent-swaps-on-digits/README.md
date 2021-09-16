@@ -66,10 +66,10 @@
 </ul>
 
 ### Related Topics
+  [[String](../../tag/string/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
   [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
   [[Segment Tree](../../tag/segment-tree/README.md)]
-  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

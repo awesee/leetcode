@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1996 | [游戏中弱角色的数量](../../problems/the-number-of-weak-characters-in-the-game) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 1975 | [最大方阵和](../../problems/maximum-matrix-sum) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1974 | [使用特殊打字机键入单词的最少时间](../../problems/minimum-time-to-type-word-using-special-typewriter) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1969 | [数组元素的最小非零乘积](../../problems/minimum-non-zero-product-of-the-array-elements) | [[贪心](../greedy/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |

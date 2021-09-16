@@ -14,10 +14,10 @@
 
 
 ### Related Topics
+  [[Math](../../tag/math/README.md)]
   [[Stack](../../tag/stack/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Design](../../tag/design/README.md)]
-  [[Math](../../tag/math/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Hints

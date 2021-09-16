@@ -110,5 +110,5 @@ The resulting matrix is of size 1*1 with also zero.
 </ul>
 
 ### Related Topics
-  [[Tree](../../tag/tree/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Tree](../../tag/tree/README.md)]

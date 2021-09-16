@@ -47,3 +47,6 @@
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+
+### Similar Questions
+  1. [Minimum Sideway Jumps](../minimum-sideway-jumps) (Medium)

@@ -70,17 +70,18 @@ Window position                Max
 </ul>
 
 ### Related Topics
-  [[Queue](../../tag/queue/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Queue](../../tag/queue/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
-  [[Monotonic Queue](../../tag/monotonic-queue/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Monotonic Queue](../../tag/monotonic-queue/README.md)]
 
 ### Similar Questions
   1. [Minimum Window Substring](../minimum-window-substring) (Hard)
   1. [Min Stack](../min-stack) (Easy)
   1. [Longest Substring with At Most Two Distinct Characters](../longest-substring-with-at-most-two-distinct-characters) (Medium)
   1. [Paint House II](../paint-house-ii) (Hard)
+  1. [Jump Game VI](../jump-game-vi) (Medium)
 
 ### Hints
 <details>

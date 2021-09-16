@@ -90,6 +90,10 @@ The third minute they will inform the rest of employees.
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
 
+### Similar Questions
+  1. [Maximum Depth of Binary Tree](../maximum-depth-of-binary-tree) (Easy)
+  1. [Binary Tree Maximum Path Sum](../binary-tree-maximum-path-sum) (Hard)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>
