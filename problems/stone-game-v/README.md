@@ -58,6 +58,15 @@ The last round Alice has only one choice to divide the row which is [2], [3]. Bo
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Game Theory](../../tag/game-theory/README.md)]
 
+### Similar Questions
+  1. [Stone Game](../stone-game) (Medium)
+  1. [Stone Game II](../stone-game-ii) (Medium)
+  1. [Stone Game III](../stone-game-iii) (Hard)
+  1. [Stone Game IV](../stone-game-iv) (Hard)
+  1. [Stone Game VI](../stone-game-vi) (Medium)
+  1. [Stone Game VII](../stone-game-vii) (Medium)
+  1. [Stone Game VIII](../stone-game-viii) (Hard)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

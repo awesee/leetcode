@@ -14,10 +14,15 @@
 
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
-  [[Hash Table](../../tag/hash-table/README.md)]
+
+### Similar Questions
+  1. [Clone Graph](../clone-graph) (Medium)
+  1. [Copy List with Random Pointer](../copy-list-with-random-pointer) (Medium)
+  1. [Clone Binary Tree With Random Pointer](../clone-binary-tree-with-random-pointer) (Medium)
 
 ### Hints
 <details>

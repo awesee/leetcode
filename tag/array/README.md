@@ -9,6 +9,14 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2001 | [可互换矩形的组数](../../problems/number-of-pairs-of-interchangeable-rectangles) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[数论](../number-theory/README.md)]  | Medium |
+| 1998 | [数组的最大公因数排序](../../problems/gcd-sort-of-an-array) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Hard |
+| 1997 | [访问完所有房间的第一天](../../problems/first-day-where-you-have-been-in-all-the-rooms) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1996 | [游戏中弱角色的数量](../../problems/the-number-of-weak-characters-in-the-game) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 1995 | [统计特殊四元组](../../problems/count-special-quadruplets) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)]  | Easy |
+| 1994 | [好子集的数目](../../problems/the-number-of-good-subsets) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |
+| 1992 | [找到所有的农场组](../../problems/find-all-groups-of-farmland) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 1991 | [找到数组的中间位置](../../problems/find-the-middle-index-in-array) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Easy |
 | 1986 | [完成任务的最少工作时间段](../../problems/minimum-number-of-work-sessions-to-finish-the-tasks) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
 | 1985 | [找出数组中的第 K 大整数](../../problems/find-the-kth-largest-integer-in-the-array) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[分治](../divide-and-conquer/README.md)] [[快速选择](../quickselect/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 1984 | [学生分数的最小差值](../../problems/minimum-difference-between-highest-and-lowest-of-k-scores) | [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Easy |
@@ -213,7 +221,7 @@
 | 1591 | [奇怪的打印机 II](../../problems/strange-printer-ii) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
 | 1590 | [使数组和能被 P 整除](../../problems/make-sum-divisible-by-p) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1589 | [所有排列中的最大和](../../problems/maximum-sum-obtained-of-any-permutation) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)] [[排序](../sorting/README.md)]  | Medium |
-| 1588 | [所有奇数长度子数组的和](../../problems/sum-of-all-odd-length-subarrays) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Easy |
+| 1588 | [所有奇数长度子数组的和](../../problems/sum-of-all-odd-length-subarrays) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[前缀和](../prefix-sum/README.md)]  | Easy |
 | 1584 | [连接所有点的最小费用](../../problems/min-cost-to-connect-all-points) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[最小生成树](../minimum-spanning-tree/README.md)]  | Medium |
 | 1583 | [统计不开心的朋友](../../problems/count-unhappy-friends) | [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 1582 | [二进制矩阵中的特殊位置](../../problems/special-positions-in-a-binary-matrix) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Easy |
@@ -699,7 +707,7 @@
 | 565 | [数组嵌套](../../problems/array-nesting) | [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)]  | Medium |
 | 562 | [矩阵中最长的连续1线段](../../problems/longest-line-of-consecutive-one-in-matrix) 🔒 | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 561 | [数组拆分 I](../../problems/array-partition-i) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[计数排序](../counting-sort/README.md)] [[排序](../sorting/README.md)]  | Easy |
-| 560 | [和为K的子数组](../../problems/subarray-sum-equals-k) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 560 | [和为 K 的子数组](../../problems/subarray-sum-equals-k) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 555 | [分割连接字符串](../../problems/split-concatenated-strings) 🔒 | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 554 | [砖墙](../../problems/brick-wall) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 553 | [最优除法](../../problems/optimal-division) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

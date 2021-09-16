@@ -14,19 +14,24 @@
 
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
-  [[Hash Table](../../tag/hash-table/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
+
+### Similar Questions
+  1. [Clone Graph](../clone-graph) (Medium)
+  1. [Copy List with Random Pointer](../copy-list-with-random-pointer) (Medium)
+  1. [Clone N-ary Tree](../clone-n-ary-tree) (Medium)
 
 ### Hints
 <details>
 <summary>Hint 1</summary>
-Create an equivalent node for each node in the original tree.
+Traverse the tree, keep a hashtable with you and create a nodecopy for each node in the tree.
 </details>
 
 <details>
 <summary>Hint 2</summary>
-Start traversing the original tree and connect the left, right and random pointers in the cloned tree the same way as the original tree.
+Start traversing the original tree again and connect the left, right and random pointers in the cloned tree the same way as the original tree with the help of the hashtable.
 </details>

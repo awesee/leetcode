@@ -14,8 +14,8 @@
 
 
 ### Related Topics
-  [[Graph](../../tag/graph/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Hints
 <details>

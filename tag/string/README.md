@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2002 | [两个回文子序列长度的最大乘积](../../problems/maximum-product-of-the-length-of-two-palindromic-subsequences) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
+| 2000 | [反转单词前缀](../../problems/reverse-prefix-of-word) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1987 | [不同的好子序列数目](../../problems/number-of-unique-good-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1985 | [找出数组中的第 K 大整数](../../problems/find-the-kth-largest-integer-in-the-array) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[分治](../divide-and-conquer/README.md)] [[快速选择](../quickselect/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 1980 | [找出不同的二进制字符串](../../problems/find-unique-binary-string) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |

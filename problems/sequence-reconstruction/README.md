@@ -68,9 +68,9 @@ The <i>seqs</i> parameter had been changed to a list of list of strings (instead
 </p>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Graph](../../tag/graph/README.md)]
   [[Topological Sort](../../tag/topological-sort/README.md)]
-  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
   1. [Course Schedule II](../course-schedule-ii) (Medium)

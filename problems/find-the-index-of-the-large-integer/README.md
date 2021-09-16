@@ -18,6 +18,9 @@
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Interactive](../../tag/interactive/README.md)]
 
+### Similar Questions
+  1. [Search in a Sorted Array of Unknown Size](../search-in-a-sorted-array-of-unknown-size) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

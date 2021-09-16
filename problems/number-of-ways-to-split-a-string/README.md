@@ -67,6 +67,9 @@
   [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
 
+### Similar Questions
+  1. [Split Array with Equal Sum](../split-array-with-equal-sum) (Hard)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

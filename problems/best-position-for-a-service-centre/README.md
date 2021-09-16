@@ -71,8 +71,8 @@ Be careful with the precision!
 </ul>
 
 ### Related Topics
-  [[Geometry](../../tag/geometry/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Geometry](../../tag/geometry/README.md)]
   [[Randomized](../../tag/randomized/README.md)]
 
 ### Hints

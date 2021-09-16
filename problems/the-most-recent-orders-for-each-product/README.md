@@ -15,3 +15,7 @@
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [The Most Recent Three Orders](../the-most-recent-three-orders) (Medium)
+  1. [The Most Frequently Ordered Products for Each Customer](../the-most-frequently-ordered-products-for-each-customer) (Medium)

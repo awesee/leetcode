@@ -73,3 +73,5 @@ From the top left corner, its position is one row below and three columns right.
 
 ### Similar Questions
   1. [Walls and Gates](../walls-and-gates) (Medium)
+  1. [Shortest Path in a Hidden Grid](../shortest-path-in-a-hidden-grid) (Medium)
+  1. [Minimum Path Cost in a Hidden Grid](../minimum-path-cost-in-a-hidden-grid) (Medium)

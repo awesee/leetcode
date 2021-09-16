@@ -7,7 +7,7 @@
 
 [< Previous](../number-of-unique-good-subsequences "Number of Unique Good Subsequences")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../maximum-number-of-people-that-can-be-caught-in-tag "Maximum Number of People That Can Be Caught in Tag")
 
 ## [1988. Find Cutoff Score for Each School (Medium)](https://leetcode.com/problems/find-cutoff-score-for-each-school "")
 

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1993 | [树上的操作](../../problems/operations-on-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1912 | [设计电影租借系统](../../problems/design-movie-rental-system) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
 | 1865 | [找出和为指定值的下标对](../../problems/finding-pairs-with-a-certain-sum) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1845 | [座位预约管理系统](../../problems/seat-reservation-manager) | [[设计](../design/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |

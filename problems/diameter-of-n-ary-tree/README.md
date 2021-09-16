@@ -17,6 +17,9 @@
   [[Tree](../../tag/tree/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
 
+### Similar Questions
+  1. [Diameter of Binary Tree](../diameter-of-binary-tree) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

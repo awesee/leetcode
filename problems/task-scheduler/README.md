@@ -61,13 +61,14 @@ A -&gt; B -&gt; C -&gt; A -&gt; D -&gt; E -&gt; A -&gt; F -&gt; G -&gt; A -&gt; 
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
-  [[Counting](../../tag/counting/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Counting](../../tag/counting/README.md)]
 
 ### Similar Questions
   1. [Rearrange String k Distance Apart](../rearrange-string-k-distance-apart) (Hard)
   1. [Reorganize String](../reorganize-string) (Medium)
+  1. [Maximum Number of Weeks for Which You Can Work](../maximum-number-of-weeks-for-which-you-can-work) (Medium)

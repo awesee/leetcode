@@ -74,12 +74,16 @@ The rank of matrix[1][1] is 3 because matrix[1][1] &gt; matrix[0][1], matrix[1][
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
   [[Graph](../../tag/graph/README.md)]
   [[Topological Sort](../../tag/topological-sort/README.md)]
-  [[Array](../../tag/array/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
+
+### Similar Questions
+  1. [Rank Transform of an Array](../rank-transform-of-an-array) (Easy)
+  1. [GCD Sort of an Array](../gcd-sort-of-an-array) (Hard)
 
 ### Hints
 <details>

@@ -78,3 +78,6 @@ Both sellers with id 1 and 3 sold products with the most total price of 2800.</p
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Sales Analysis II](../sales-analysis-ii) (Easy)

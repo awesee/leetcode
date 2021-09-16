@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2001 | [可互换矩形的组数](../../problems/number-of-pairs-of-interchangeable-rectangles) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[数论](../number-theory/README.md)]  | Medium |
+| 1998 | [数组的最大公因数排序](../../problems/gcd-sort-of-an-array) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Hard |
+| 1994 | [好子集的数目](../../problems/the-number-of-good-subsets) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |
 | 1979 | [找出数组的最大公约数](../../problems/find-greatest-common-divisor-of-array) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Easy |
 | 1969 | [数组元素的最小非零乘积](../../problems/minimum-non-zero-product-of-the-array-elements) | [[贪心](../greedy/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1954 | [收集足够苹果的最小花园周长](../../problems/minimum-garden-perimeter-to-collect-enough-apples) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
@@ -63,6 +66,7 @@
 | 1622 | [奇妙序列](../../problems/fancy-sequence) | [[设计](../design/README.md)] [[线段树](../segment-tree/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1621 | [大小为 K 的不重叠线段的数目](../../problems/number-of-sets-of-k-non-overlapping-line-segments) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1610 | [可见点的最大数目](../../problems/maximum-number-of-visible-points) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Hard |
+| 1588 | [所有奇数长度子数组的和](../../problems/sum-of-all-odd-length-subarrays) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[前缀和](../prefix-sum/README.md)]  | Easy |
 | 1577 | [数的平方等于两数乘积的方法数](../../problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1573 | [分割字符串的方案数](../../problems/number-of-ways-to-split-a-string) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1569 | [将子数组重新排序得到同一个二叉查找树的方案数](../../problems/number-of-ways-to-reorder-array-to-get-same-bst) | [[树](../tree/README.md)] [[并查集](../union-find/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[记忆化搜索](../memoization/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[分治](../divide-and-conquer/README.md)] [[动态规划](../dynamic-programming/README.md)] [[二叉树](../binary-tree/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |

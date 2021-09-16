@@ -15,3 +15,6 @@
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Sellers With No Sales](../sellers-with-no-sales) (Easy)

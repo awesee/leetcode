@@ -65,9 +65,9 @@ Notice that we cannot include 0 in the subarray since that&#39;ll make the produ
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Hints
 <details>

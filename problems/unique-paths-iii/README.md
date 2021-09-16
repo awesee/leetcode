@@ -67,9 +67,9 @@ Note that the starting and ending square can be anywhere in the grid.
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
 
 ### Similar Questions

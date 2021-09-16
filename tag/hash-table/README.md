@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2001 | [可互换矩形的组数](../../problems/number-of-pairs-of-interchangeable-rectangles) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[数论](../number-theory/README.md)]  | Medium |
+| 1993 | [树上的操作](../../problems/operations-on-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1948 | [删除系统中的重复文件夹](../../problems/delete-duplicate-folders-in-system) | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[哈希函数](../hash-function/README.md)]  | Hard |
 | 1941 | [检查是否所有字符出现次数相同](../../problems/check-if-all-characters-have-equal-number-of-occurrences) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
 | 1940 | [排序数组之间的最长公共子序列](../../problems/longest-common-subsequence-between-sorted-arrays) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)]  | Medium |
@@ -239,7 +241,7 @@
 | 582 | [杀掉进程](../../problems/kill-process) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 575 | [分糖果](../../problems/distribute-candies) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 567 | [字符串的排列](../../problems/permutation-in-string) | [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
-| 560 | [和为K的子数组](../../problems/subarray-sum-equals-k) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 560 | [和为 K 的子数组](../../problems/subarray-sum-equals-k) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 554 | [砖墙](../../problems/brick-wall) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 535 | [TinyURL 的加密与解密](../../problems/encode-and-decode-tinyurl) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[哈希函数](../hash-function/README.md)]  | Medium |
 | 533 | [孤独像素 II](../../problems/lonely-pixel-ii) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[矩阵](../matrix/README.md)]  | Medium |

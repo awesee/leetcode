@@ -55,10 +55,10 @@
 </ul>
 
 ### Related Topics
+  [[Linked List](../../tag/linked-list/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
-  [[Linked List](../../tag/linked-list/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Hints

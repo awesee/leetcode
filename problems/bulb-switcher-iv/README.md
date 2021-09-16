@@ -69,8 +69,8 @@ We need at least 3 flip operations to form target.</pre>
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Hints
 <details>

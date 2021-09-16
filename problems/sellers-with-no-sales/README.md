@@ -15,3 +15,6 @@
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Customer Who Visited but Did Not Make Any Transactions](../customer-who-visited-but-did-not-make-any-transactions) (Easy)

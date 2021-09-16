@@ -49,7 +49,7 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]

@@ -49,3 +49,4 @@
 
 ### Similar Questions
   1. [Peak Index in a Mountain Array](../peak-index-in-a-mountain-array) (Easy)
+  1. [Find a Peak Element II](../find-a-peak-element-ii) (Medium)

@@ -77,12 +77,12 @@ The total cost = 3.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Graph](../../tag/graph/README.md)]
-  [[Array](../../tag/array/README.md)]
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
   [[Shortest Path](../../tag/shortest-path/README.md)]
-  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

@@ -71,8 +71,8 @@ You need at least 3 days to eat the 6 oranges.
 </ul>
 
 ### Related Topics
-  [[Memoization](../../tag/memoization/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]
 
 ### Hints
 <details>

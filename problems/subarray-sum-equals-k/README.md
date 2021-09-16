@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../array-partition-i "Array Partition I")
 
-## [560. Subarray Sum Equals K (Medium)](https://leetcode.com/problems/subarray-sum-equals-k "和为K的子数组")
+## [560. Subarray Sum Equals K (Medium)](https://leetcode.com/problems/subarray-sum-equals-k "和为 K 的子数组")
 
 <p>Given an array of integers <code>nums</code> and an integer <code>k</code>, return <em>the total number of continuous subarrays whose sum equals to <code>k</code></em>.</p>
 

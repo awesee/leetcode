@@ -33,9 +33,9 @@
 </ul>
 
 ### Related Topics
-  [[Queue](../../tag/queue/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Queue](../../tag/queue/README.md)]
   [[Counting](../../tag/counting/README.md)]
 
 ### Similar Questions

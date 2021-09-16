@@ -52,3 +52,4 @@
 
 ### Similar Questions
   1. [Longest Increasing Subsequence](../longest-increasing-subsequence) (Medium)
+  1. [The Number of Weak Characters in the Game](../the-number-of-weak-characters-in-the-game) (Medium)

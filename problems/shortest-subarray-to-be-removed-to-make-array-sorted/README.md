@@ -58,10 +58,10 @@ Another correct solution is to remove the subarray [3,10,4].</pre>
 </ul>
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Stack](../../tag/stack/README.md)]
   [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Hints

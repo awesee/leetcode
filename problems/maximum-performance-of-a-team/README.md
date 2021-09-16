@@ -57,8 +57,8 @@ We have the maximum performance of the team by selecting engineer 2 (with speed=
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 

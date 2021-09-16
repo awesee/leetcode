@@ -66,9 +66,13 @@
 </ul>
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
   [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+
+### Similar Questions
+  1. [Baseball Game](../baseball-game) (Easy)
+  1. [Backspace String Compare](../backspace-string-compare) (Easy)
 
 ### Hints
 <details>

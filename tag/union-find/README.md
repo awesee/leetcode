@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2003 | [每棵子树内缺失的最小基因值](../../problems/smallest-missing-genetic-value-in-each-subtree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 1998 | [数组的最大公因数排序](../../problems/gcd-sort-of-an-array) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Hard |
 | 1970 | [你能穿过矩阵的最后一天](../../problems/last-day-where-you-can-still-cross) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
 | 1905 | [统计子岛屿](../../problems/count-sub-islands) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1724 | [检查边长度限制的路径是否存在 II](../../problems/checking-existence-of-edge-length-limited-paths-ii) 🔒 | [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[最小生成树](../minimum-spanning-tree/README.md)]  | Hard |

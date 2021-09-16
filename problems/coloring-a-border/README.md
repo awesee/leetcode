@@ -45,9 +45,9 @@
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
-  [[Array](../../tag/array/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
 
 ### Similar Questions

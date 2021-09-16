@@ -43,3 +43,4 @@
 
 ### Similar Questions
   1. [Remove Duplicates from Sorted List](../remove-duplicates-from-sorted-list) (Easy)
+  1. [Remove Duplicates From an Unsorted Linked List](../remove-duplicates-from-an-unsorted-linked-list) (Medium)

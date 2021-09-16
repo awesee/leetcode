@@ -57,8 +57,8 @@ If we choose the first string, we cannot choose anything else and we&#39;d get o
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Hints
 <details>

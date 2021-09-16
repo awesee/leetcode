@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1991 | [找到数组的中间位置](../../problems/find-the-middle-index-in-array) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Easy |
 | 1943 | [描述绘画结果](../../problems/describe-the-painting) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1930 | [长度为 3 的不同回文子序列](../../problems/unique-length-3-palindromic-subsequences) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1915 | [最美子字符串的数目](../../problems/number-of-wonderful-substrings) | [[位运算](../bit-manipulation/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
@@ -35,7 +36,7 @@
 | 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1590 | [使数组和能被 P 整除](../../problems/make-sum-divisible-by-p) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1589 | [所有排列中的最大和](../../problems/maximum-sum-obtained-of-any-permutation) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)] [[排序](../sorting/README.md)]  | Medium |
-| 1588 | [所有奇数长度子数组的和](../../problems/sum-of-all-odd-length-subarrays) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Easy |
+| 1588 | [所有奇数长度子数组的和](../../problems/sum-of-all-odd-length-subarrays) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[前缀和](../prefix-sum/README.md)]  | Easy |
 | 1546 | [和为目标值且不重叠的非空子数组的最大数目](../../problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1524 | [和为奇数的子数组数目](../../problems/number-of-sub-arrays-with-odd-sum) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1480 | [一维数组的动态和](../../problems/running-sum-of-1d-array) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Easy |
@@ -59,7 +60,7 @@
 | 862 | [和至少为 K 的最短子数组](../../problems/shortest-subarray-with-sum-at-least-k) | [[队列](../queue/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[滑动窗口](../sliding-window/README.md)] [[单调队列](../monotonic-queue/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
 | 798 | [得分最高的最小轮调](../../problems/smallest-rotation-with-highest-score) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
 | 724 | [寻找数组的中心下标](../../problems/find-pivot-index) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Easy |
-| 560 | [和为K的子数组](../../problems/subarray-sum-equals-k) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 560 | [和为 K 的子数组](../../problems/subarray-sum-equals-k) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 548 | [将数组分割成和相等的子数组](../../problems/split-array-with-equal-sum) 🔒 | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
 | 528 | [按权重随机选择](../../problems/random-pick-with-weight) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[随机化](../randomized/README.md)]  | Medium |
 | 525 | [连续数组](../../problems/contiguous-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |

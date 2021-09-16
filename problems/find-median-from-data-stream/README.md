@@ -63,11 +63,12 @@ medianFinder.findMedian(); // return 2.0
 </ul>
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
-  [[Data Stream](../../tag/data-stream/README.md)]
+  [[Design](../../tag/design/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Data Stream](../../tag/data-stream/README.md)]
 
 ### Similar Questions
   1. [Sliding Window Median](../sliding-window-median) (Hard)
+  1. [Finding MK Average](../finding-mk-average) (Hard)

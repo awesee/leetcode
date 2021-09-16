@@ -64,6 +64,10 @@ In the 2<sup>nd</sup> query, the subarray is <code>[5,9,3,7]. This</code> can be
   [[Array](../../tag/array/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
+### Similar Questions
+  1. [Arithmetic Slices](../arithmetic-slices) (Medium)
+  1. [Can Make Arithmetic Progression From Sequence](../can-make-arithmetic-progression-from-sequence) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

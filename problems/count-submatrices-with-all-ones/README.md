@@ -72,9 +72,9 @@ Total number of rectangles = 8 + 5 + 2 + 4 + 2 + 2 + 1 = 24<strong>.</strong>
 </ul>
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Stack](../../tag/stack/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
   [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 

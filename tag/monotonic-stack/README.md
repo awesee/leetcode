@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1996 | [游戏中弱角色的数量](../../problems/the-number-of-weak-characters-in-the-game) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 1944 | [队列中可以看到的人数](../../problems/number-of-visible-people-in-a-queue) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
 | 1856 | [子数组最小乘积的最大值](../../problems/maximum-subarray-min-product) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 1793 | [好子数组的最大分数](../../problems/maximum-score-of-a-good-subarray) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |

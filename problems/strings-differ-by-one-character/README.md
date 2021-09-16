@@ -16,8 +16,8 @@
 ### Related Topics
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
-  [[Hash Function](../../tag/hash-function/README.md)]
   [[Rolling Hash](../../tag/rolling-hash/README.md)]
+  [[Hash Function](../../tag/hash-function/README.md)]
 
 ### Hints
 <details>
