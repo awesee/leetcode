@@ -58,9 +58,9 @@ fancy.getIndex(2); // return 20
 </ul>
 
 ### Related Topics
+  [[Math](../../tag/math/README.md)]
   [[Design](../../tag/design/README.md)]
   [[Segment Tree](../../tag/segment-tree/README.md)]
-  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

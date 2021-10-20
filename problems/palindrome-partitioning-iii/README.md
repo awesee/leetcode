@@ -55,6 +55,9 @@
   [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
+### Similar Questions
+  1. [Palindrome Partitioning IV](../palindrome-partitioning-iv) (Hard)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

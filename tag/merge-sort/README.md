@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2031 | [Count Subarrays With More Ones Than Zeros](../../problems/count-subarrays-with-more-ones-than-zeros) | [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治](../divide-and-conquer/README.md)] [[有序集合](../ordered-set/README.md)] [[归并排序](../merge-sort/README.md)]  | Medium |
 | 1649 | [通过指令创建有序数组](../../problems/create-sorted-array-through-instructions) | [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治](../divide-and-conquer/README.md)] [[有序集合](../ordered-set/README.md)] [[归并排序](../merge-sort/README.md)]  | Hard |
 | 912 | [排序数组](../../problems/sort-an-array) | [[数组](../array/README.md)] [[分治](../divide-and-conquer/README.md)] [[桶排序](../bucket-sort/README.md)] [[计数排序](../counting-sort/README.md)] [[基数排序](../radix-sort/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)] [[归并排序](../merge-sort/README.md)]  | Medium |
 | 493 | [翻转对](../../problems/reverse-pairs) | [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治](../divide-and-conquer/README.md)] [[有序集合](../ordered-set/README.md)] [[归并排序](../merge-sort/README.md)]  | Hard |

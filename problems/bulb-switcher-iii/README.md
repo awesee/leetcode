@@ -13,15 +13,13 @@
 
 <p>There is a room with <code>n</code> bulbs, numbered from <code>1</code> to <code>n</code>, arranged in a row from left to right. Initially, all the bulbs are turned off.</p>
 
-<p>At moment <em>k</em> (for <em>k</em> from <code>0</code> to <code>n - 1</code>), we turn on the <code>light[k]</code> bulb. A bulb <strong>change&nbsp;color to blue</strong> only if it is on and all the previous bulbs (to the left)&nbsp;are turned on too.</p>
+<p>At moment <code>k</code> (for <code>k</code> from <code>0</code> to <code>n - 1</code>), we turn on the <code>light[k]</code> bulb. A bulb <strong>changes color to blue</strong> only if it is on and all the previous bulbs (to the left) are turned on too.</p>
 
-<p>Return the number of moments in&nbsp;which <strong>all&nbsp;turned on</strong> bulbs&nbsp;<strong>are blue.</strong></p>
+<p>Return the number of moments in which <strong>all turned-on</strong> bulbs <strong>are blue.</strong></p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-
-<p><img alt="" src="https://assets.leetcode.com/uploads/2020/02/29/sample_2_1725.png" style="width: 575px; height: 300px;" /></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2020/02/29/sample_2_1725.png" style="width: 575px; height: 300px;" />
 <pre>
 <strong>Input:</strong> light = [2,1,3,5,4]
 <strong>Output:</strong> 3
@@ -63,13 +61,17 @@ Bulb 4th changes to blue at the moment 3.
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>n ==&nbsp;light.length</code></li>
-	<li><code>1 &lt;= n &lt;= 5 * 10^4</code></li>
-	<li><code>light</code> is a permutation of&nbsp;&nbsp;<code>[1, 2, ..., n]</code></li>
+	<li><code>n == light.length</code></li>
+	<li><code>1 &lt;= n &lt;= 5 * 10<sup>4</sup></code></li>
+	<li><code>light</code> is a permutation of the numbers in the range <code>[1, n]</code></li>
 </ul>
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+
+### Similar Questions
+  1. [Bulb Switcher](../bulb-switcher) (Medium)
+  1. [Bulb Switcher II](../bulb-switcher-ii) (Medium)
 
 ### Hints
 <details>

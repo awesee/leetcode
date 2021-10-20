@@ -57,8 +57,8 @@ In all outcomes, your friend wins.
 </ul>
 
 ### Related Topics
-  [[Math](../../tag/math/README.md)]
   [[Brainteaser](../../tag/brainteaser/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Game Theory](../../tag/game-theory/README.md)]
 
 ### Similar Questions

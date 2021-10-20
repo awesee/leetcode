@@ -9,8 +9,12 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2025 | [分割数组的最多方案数](../../problems/maximum-number-of-ways-to-partition-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
+| 2018 | [判断单词是否能放入填字游戏内](../../problems/check-if-word-can-be-placed-in-crossword) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 2014 | [重复 K 次的最长子序列](../../problems/longest-subsequence-repeated-k-times) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
 | 1995 | [统计特殊四元组](../../problems/count-special-quadruplets) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)]  | Easy |
 | 1958 | [检查操作是否合法](../../problems/check-if-move-is-legal) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 1956 | [感染 K 种病毒所需的最短时间](../../problems/minimum-time-for-k-virus-variants-to-spread) 🔒 | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
 | 1925 | [统计平方和三元组的数目](../../problems/count-square-sum-triples) | [[数学](../math/README.md)] [[枚举](../enumeration/README.md)]  | Easy |
 | 1620 | [网络信号最好的坐标](../../problems/coordinate-with-maximum-network-quality) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)]  | Medium |
 | 1617 | [统计子树中城市之间最大距离](../../problems/count-subtrees-with-max-distance-between-cities) | [[位运算](../bit-manipulation/README.md)] [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
@@ -25,4 +29,4 @@
 | 829 | [连续整数求和](../../problems/consecutive-numbers-sum) | [[数学](../math/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
 | 800 | [相似 RGB 颜色](../../problems/similar-rgb-color) 🔒 | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[枚举](../enumeration/README.md)]  | Easy |
 | 681 | [最近时刻](../../problems/next-closest-time) 🔒 | [[字符串](../string/README.md)] [[枚举](../enumeration/README.md)]  | Medium |
-| 204 | [计数质数](../../problems/count-primes) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[枚举](../enumeration/README.md)] [[数论](../number-theory/README.md)]  | Easy |
+| 204 | [计数质数](../../problems/count-primes) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[枚举](../enumeration/README.md)] [[数论](../number-theory/README.md)]  | Medium |

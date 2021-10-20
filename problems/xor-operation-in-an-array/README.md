@@ -58,8 +58,8 @@ Where &quot;^&quot; corresponds to bitwise XOR operator.
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Hints
 <details>

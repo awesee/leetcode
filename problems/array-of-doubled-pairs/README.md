@@ -53,7 +53,10 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
+
+### Similar Questions
+  1. [Find Original Array From Doubled Array](../find-original-array-from-doubled-array) (Medium)

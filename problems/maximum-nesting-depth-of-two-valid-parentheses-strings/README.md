@@ -60,5 +60,8 @@
 </ul>
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+
+### Similar Questions
+  1. [Maximum Nesting Depth of the Parentheses](../maximum-nesting-depth-of-the-parentheses) (Easy)

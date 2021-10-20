@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 1956 | [感染 K 种病毒所需的最短时间](../../problems/minimum-time-for-k-virus-variants-to-spread) 🔒 | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
 | 1924 | [Erect the Fence II](../../problems/erect-the-fence-ii) 🔒 | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1828 | [统计一个圆中点的数目](../../problems/queries-on-number-of-points-inside-a-circle) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1610 | [可见点的最大数目](../../problems/maximum-number-of-visible-points) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Hard |

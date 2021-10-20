@@ -47,7 +47,7 @@ string ans = obj.decode(tiny); // returns the original url after deconding it.
 </ul>
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Design](../../tag/design/README.md)]
   [[Hash Function](../../tag/hash-function/README.md)]

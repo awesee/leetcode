@@ -9,6 +9,13 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2038 | [如果相邻两个颜色均相同则删除当前颜色](../../problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 2030 | [含特定字母的最小子序列](../../problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
+| 2029 | [石子游戏 IX](../../problems/stone-game-ix) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 2027 | [转换字符串的最少操作次数](../../problems/minimum-moves-to-convert-string) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 2015 | [Average Height of Buildings in Each Segment](../../problems/average-height-of-buildings-in-each-segment) 🔒 | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 2014 | [重复 K 次的最长子序列](../../problems/longest-subsequence-repeated-k-times) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
+| 2007 | [从双倍数组中还原原数组](../../problems/find-original-array-from-doubled-array) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1996 | [游戏中弱角色的数量](../../problems/the-number-of-weak-characters-in-the-game) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 1975 | [最大方阵和](../../problems/maximum-matrix-sum) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1974 | [使用特殊打字机键入单词的最少时间](../../problems/minimum-time-to-type-word-using-special-typewriter) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Easy |

@@ -18,9 +18,6 @@
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
 
-### Similar Questions
-  1. [Build Binary Expression Tree From Infix Expression](../build-binary-expression-tree-from-infix-expression) (Hard)
-
 ### Hints
 <details>
 <summary>Hint 1</summary>

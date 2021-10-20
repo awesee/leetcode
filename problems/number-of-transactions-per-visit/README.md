@@ -95,3 +95,6 @@ Note that we stopped at transactions_count = 3 as this is the maximum number of 
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Find the Missing IDs](../find-the-missing-ids) (Medium)

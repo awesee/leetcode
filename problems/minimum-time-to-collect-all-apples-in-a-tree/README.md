@@ -17,9 +17,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-
-<p><strong><img alt="" src="https://assets.leetcode.com/uploads/2020/04/23/min_time_collect_apple_1.png" style="width: 300px; height: 212px;" /></strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2020/04/23/min_time_collect_apple_1.png" style="width: 300px; height: 212px;" />
 <pre>
 <strong>Input:</strong> n = 7, edges = [[0,1],[0,2],[1,4],[1,5],[2,3],[2,6]], hasApple = [false,false,true,false,true,true,false]
 <strong>Output:</strong> 8 
@@ -27,9 +25,7 @@
 </pre>
 
 <p><strong>Example 2:</strong></p>
-
-<p><strong><img alt="" src="https://assets.leetcode.com/uploads/2020/04/23/min_time_collect_apple_2.png" style="width: 300px; height: 212px;" /></strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2020/04/23/min_time_collect_apple_2.png" style="width: 300px; height: 212px;" />
 <pre>
 <strong>Input:</strong> n = 7, edges = [[0,1],[0,2],[1,4],[1,5],[2,3],[2,6]], hasApple = [false,false,true,false,false,true,false]
 <strong>Output:</strong> 6
@@ -47,11 +43,11 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n &lt;= 10^5</code></li>
+	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
 	<li><code>edges.length == n - 1</code></li>
 	<li><code>edges[i].length == 2</code></li>
 	<li><code>0 &lt;= a<sub>i</sub> &lt; b<sub>i</sub> &lt;= n - 1</code></li>
-	<li><code>from<sub>i</sub>&nbsp;&lt; to<sub>i</sub></code></li>
+	<li><code>from<sub>i</sub> &lt; to<sub>i</sub></code></li>
 	<li><code>hasApple.length == n</code></li>
 </ul>
 

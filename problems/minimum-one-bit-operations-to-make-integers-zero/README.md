@@ -72,9 +72,12 @@
 </ul>
 
 ### Related Topics
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Memoization](../../tag/memoization/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+
+### Similar Questions
+  1. [Minimum Number of Operations to Make Array Continuous](../minimum-number-of-operations-to-make-array-continuous) (Hard)
 
 ### Hints
 <details>

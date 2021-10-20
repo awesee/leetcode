@@ -12,3 +12,6 @@
 ## [1939. Users That Actively Request Confirmation Messages (Easy)](https://leetcode.com/problems/users-that-actively-request-confirmation-messages "")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

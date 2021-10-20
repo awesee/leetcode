@@ -12,3 +12,6 @@
 ## [1965. Employees With Missing Information (Easy)](https://leetcode.com/problems/employees-with-missing-information "")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

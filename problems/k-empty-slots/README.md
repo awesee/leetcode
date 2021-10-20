@@ -56,7 +56,7 @@ K: 1
 </ol>
 
 ### Related Topics
-  [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
   [[Array](../../tag/array/README.md)]
-  [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]

@@ -9,6 +9,10 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2033 | [获取单值网格的最小操作数](../../problems/minimum-operations-to-make-a-uni-value-grid) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 2022 | [将一维数组转变成二维数组](../../problems/convert-1d-array-into-2d-array) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 2018 | [判断单词是否能放入填字游戏内](../../problems/check-if-word-can-be-placed-in-crossword) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 2017 | [网格游戏](../../problems/grid-game) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1992 | [找到所有的农场组](../../problems/find-all-groups-of-farmland) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1981 | [最小化目标值与所选元素的差](../../problems/minimize-the-difference-between-target-and-chosen-elements) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1975 | [最大方阵和](../../problems/maximum-matrix-sum) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
@@ -38,7 +42,7 @@
 | 1582 | [二进制矩阵中的特殊位置](../../problems/special-positions-in-a-binary-matrix) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Easy |
 | 1572 | [矩阵对角线元素的和](../../problems/matrix-diagonal-sum) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Easy |
 | 1568 | [使陆地分离的最少天数](../../problems/minimum-number-of-days-to-disconnect-island) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[强连通分量](../strongly-connected-component/README.md)]  | Hard |
-| 1559 | [二维网格图中探测环](../../problems/detect-cycles-in-2d-grid) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
+| 1559 | [二维网格图中探测环](../../problems/detect-cycles-in-2d-grid) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1536 | [排布二进制网格的最少交换次数](../../problems/minimum-swaps-to-arrange-a-binary-grid) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1504 | [统计全 1 子矩形](../../problems/count-submatrices-with-all-ones) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[矩阵](../matrix/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 1476 | [子矩形查询](../../problems/subrectangle-queries) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |

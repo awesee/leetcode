@@ -39,9 +39,9 @@
 </ul>
 
 ### Related Topics
-  [[Geometry](../../tag/geometry/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Geometry](../../tag/geometry/README.md)]
 
 ### Similar Questions
   1. [Line Reflection](../line-reflection) (Medium)

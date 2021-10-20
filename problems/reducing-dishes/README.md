@@ -11,11 +11,11 @@
 
 ## [1402. Reducing Dishes (Hard)](https://leetcode.com/problems/reducing-dishes "做菜顺序")
 
-<p>A chef&nbsp;has collected data on the <code>satisfaction</code> level of his&nbsp;<code>n</code> dishes.&nbsp;Chef can cook any dish in 1 unit of time.</p>
+<p>A chef has collected data on the <code>satisfaction</code> level of his <code>n</code> dishes. Chef can cook any dish in 1 unit of time.</p>
 
-<p><em>Like-time coefficient</em>&nbsp;of a dish is defined as&nbsp;the time taken to cook that dish including previous dishes multiplied by its satisfaction level &nbsp;i.e.&nbsp; <code>time[i]</code>*<code>satisfaction[i]</code></p>
+<p><strong>Like-time coefficient</strong> of a dish is defined as the time taken to cook that dish including previous dishes multiplied by its satisfaction level i.e. <code>time[i] * satisfaction[i]</code>.</p>
 
-<p>Return&nbsp;the maximum sum of&nbsp;<em>Like-time coefficient </em>that the chef can obtain after dishes preparation.</p>
+<p>Return <em>the maximum sum of <strong>like-time coefficient</strong> that the chef can obtain after dishes preparation</em>.</p>
 
 <p>Dishes can be prepared in <strong>any </strong>order and the chef can discard some dishes to get this maximum value.</p>
 
@@ -25,7 +25,8 @@
 <pre>
 <strong>Input:</strong> satisfaction = [-1,-8,0,5,-9]
 <strong>Output:</strong> 14
-<strong>Explanation: </strong>After Removing the second and last dish, the maximum total <em>Like-time coefficient</em> will be equal to (-1*1 + 0*2 + 5*3 = 14). Each dish is prepared in one unit of time.</pre>
+<strong>Explanation:</strong> After Removing the second and last dish, the maximum total <strong>like-time coefficient</strong> will be equal to (-1*1 + 0*2 + 5*3 = 14).
+Each dish is prepared in one unit of time.</pre>
 
 <p><strong>Example 2:</strong></p>
 
@@ -56,7 +57,7 @@
 <ul>
 	<li><code>n == satisfaction.length</code></li>
 	<li><code>1 &lt;= n &lt;= 500</code></li>
-	<li><code>-10^3 &lt;=&nbsp;satisfaction[i] &lt;= 10^3</code></li>
+	<li><code>-1000 &lt;= satisfaction[i] &lt;= 1000</code></li>
 </ul>
 
 ### Related Topics

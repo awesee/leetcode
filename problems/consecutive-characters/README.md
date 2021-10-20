@@ -64,10 +64,6 @@
 ### Related Topics
   [[String](../../tag/string/README.md)]
 
-### Similar Questions
-  1. [Max Consecutive Ones](../max-consecutive-ones) (Easy)
-  1. [Count Number of Homogenous Substrings](../count-number-of-homogenous-substrings) (Medium)
-
 ### Hints
 <details>
 <summary>Hint 1</summary>

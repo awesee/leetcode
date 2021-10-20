@@ -69,8 +69,8 @@ tweetCounts.getTweetCountsPerFrequency(&quot;hour&quot;, &quot;tweet3&quot;, 0, 
 </ul>
 
 ### Related Topics
+  [[Design](../../tag/design/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
-  [[Design](../../tag/design/README.md)]
-  [[Sorting](../../tag/sorting/README.md)]
   [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]

@@ -39,10 +39,10 @@
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
   1. [Maximum Length of Pair Chain](../maximum-length-of-pair-chain) (Medium)

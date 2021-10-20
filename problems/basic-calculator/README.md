@@ -45,16 +45,16 @@
 	<li><code>s</code> consists of digits, <code>&#39;+&#39;</code>, <code>&#39;-&#39;</code>, <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, and <code>&#39; &#39;</code>.</li>
 	<li><code>s</code> represents a valid expression.</li>
 	<li><code>&#39;+&#39;</code> is not used as a unary operation.</li>
-	<li><code>&#39;-&#39;</code> could be used as a unary operation but it has to be inside parentheses.</li>
+	<li><code>&#39;-&#39;</code> could be used as a unary operation and in this case, it will not be used directly after a +ve or -ve signs (will be inside parentheses).</li>
 	<li>There will be no two consecutive operators in the input.</li>
 	<li>Every number and running calculation will fit in a signed 32-bit integer.</li>
 </ul>
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
-  [[Recursion](../../tag/recursion/README.md)]
   [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
 
 ### Similar Questions
   1. [Evaluate Reverse Polish Notation](../evaluate-reverse-polish-notation) (Medium)
@@ -62,3 +62,4 @@
   1. [Different Ways to Add Parentheses](../different-ways-to-add-parentheses) (Medium)
   1. [Expression Add Operators](../expression-add-operators) (Hard)
   1. [Basic Calculator III](../basic-calculator-iii) (Hard)
+  1. [The Score of Students Solving Math Expression](../the-score-of-students-solving-math-expression) (Hard)

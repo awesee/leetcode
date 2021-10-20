@@ -80,8 +80,8 @@ The fourth number in the sorted array is 7.
 </ul>
 
 ### Related Topics
-  [[Memoization](../../tag/memoization/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints

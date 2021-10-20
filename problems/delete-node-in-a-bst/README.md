@@ -20,8 +20,6 @@
 	<li>If the node is found, delete the node.</li>
 </ol>
 
-<p><b>Follow up:</b>&nbsp;Can you solve it with time complexity <code>O(height of tree)</code>?</p>
-
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/09/04/del_node_1.jpg" style="width: 800px; height: 214px;" />
@@ -59,6 +57,9 @@ Please notice that another valid answer is [5,2,6,null,4,null,7] and it&#39;s al
 	<li><code>root</code> is a valid binary search tree.</li>
 	<li><code>-10<sup>5</sup> &lt;= key &lt;= 10<sup>5</sup></code></li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> Could you solve it with time complexity <code>O(height of tree)</code>?</p>
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]

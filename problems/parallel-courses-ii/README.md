@@ -67,10 +67,13 @@ In the fourth semester, you can take course 5.
 </ul>
 
 ### Related Topics
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Graph](../../tag/graph/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Bitmask](../../tag/bitmask/README.md)]
+
+### Similar Questions
+  1. [Parallel Courses](../parallel-courses) (Medium)
 
 ### Hints
 <details>

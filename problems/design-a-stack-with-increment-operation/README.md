@@ -59,9 +59,9 @@ customStack.pop();                            // return -1 --&gt; Stack is empty
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Stack](../../tag/stack/README.md)]
   [[Design](../../tag/design/README.md)]
-  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

@@ -57,8 +57,8 @@ Of all the ways, &quot;aaccba&quot; is the lexicographically smallest.
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Hints
 <details>

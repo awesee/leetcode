@@ -47,6 +47,7 @@
   [[Stack](../../tag/stack/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
   [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Hints

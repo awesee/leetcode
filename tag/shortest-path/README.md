@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2045 | [到达目的地的第二短时间](../../problems/second-minimum-time-to-reach-destination) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[数组](../array/README.md)] [[最短路](../shortest-path/README.md)]  | Hard |
 | 1976 | [到达目的地的方案数](../../problems/number-of-ways-to-arrive-at-destination) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)] [[最短路](../shortest-path/README.md)]  | Medium |
 | 1786 | [从第一个节点出发到最后一个节点的受限路径数](../../problems/number-of-restricted-paths-from-first-to-last-node) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)] [[最短路](../shortest-path/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 1514 | [概率最大的路径](../../problems/path-with-maximum-probability) | [[图](../graph/README.md)] [[最短路](../shortest-path/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |

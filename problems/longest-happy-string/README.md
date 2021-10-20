@@ -56,8 +56,8 @@
 </ul>
 
 ### Related Topics
-  [[String](../../tag/string/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints

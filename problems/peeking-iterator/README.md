@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../inorder-successor-in-bst "Inorder Successor in BST")
 
-## [284. Peeking Iterator (Medium)](https://leetcode.com/problems/peeking-iterator "顶端迭代器")
+## [284. Peeking Iterator (Medium)](https://leetcode.com/problems/peeking-iterator "窥探迭代器")
 
 <p>Design an iterator that supports the <code>peek</code> operation on a list in addition to the <code>hasNext</code> and the <code>next</code> operations.</p>
 

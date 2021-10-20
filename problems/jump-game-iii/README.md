@@ -55,9 +55,14 @@ index 0 -&gt; index 4 -&gt; index 1 -&gt; index 3
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
-  [[Array](../../tag/array/README.md)]
+
+### Similar Questions
+  1. [Jump Game II](../jump-game-ii) (Medium)
+  1. [Jump Game](../jump-game) (Medium)
+  1. [Jump Game VII](../jump-game-vii) (Medium)
 
 ### Hints
 <details>

@@ -40,10 +40,10 @@
 </ul>
 
 ### Related Topics
-  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
 
 ### Similar Questions
-  1. [Count Primes](../count-primes) (Easy)
+  1. [Count Primes](../count-primes) (Medium)
   1. [Ugly Number II](../ugly-number-ii) (Medium)

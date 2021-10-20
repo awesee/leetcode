@@ -49,6 +49,3 @@ A <strong>subsequence</strong> of a string is a new string that is formed from t
 ### Related Topics
   [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
-
-### Similar Questions
-  1. [Number of Unique Good Subsequences](../number-of-unique-good-subsequences) (Hard)

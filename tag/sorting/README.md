@@ -9,6 +9,11 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2037 | [使每位学生都有座位的最少移动次数](../../problems/minimum-number-of-moves-to-seat-everyone) | [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Easy |
+| 2033 | [获取单值网格的最小操作数](../../problems/minimum-operations-to-make-a-uni-value-grid) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 2015 | [Average Height of Buildings in Each Segment](../../problems/average-height-of-buildings-in-each-segment) 🔒 | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 2008 | [出租车的最大盈利](../../problems/maximum-earnings-from-taxi) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 2007 | [从双倍数组中还原原数组](../../problems/find-original-array-from-doubled-array) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1998 | [数组的最大公因数排序](../../problems/gcd-sort-of-an-array) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Hard |
 | 1996 | [游戏中弱角色的数量](../../problems/the-number-of-weak-characters-in-the-game) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 1985 | [找出数组中的第 K 大整数](../../problems/find-the-kth-largest-integer-in-the-array) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[分治](../divide-and-conquer/README.md)] [[快速选择](../quickselect/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |

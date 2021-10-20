@@ -76,6 +76,7 @@ If Alice starts removing 1 stone, Bob will remove 4 stones then Alice only can r
   1. [Stone Game VI](../stone-game-vi) (Medium)
   1. [Stone Game VII](../stone-game-vii) (Medium)
   1. [Stone Game VIII](../stone-game-viii) (Hard)
+  1. [Stone Game IX](../stone-game-ix) (Medium)
 
 ### Hints
 <details>

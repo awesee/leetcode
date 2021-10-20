@@ -12,3 +12,6 @@
 ## [1919. Leetcodify Similar Friends (Hard)](https://leetcode.com/problems/leetcodify-similar-friends "兴趣相同的朋友")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

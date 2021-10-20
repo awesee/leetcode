@@ -59,3 +59,4 @@
 ### Similar Questions
   1. [Kth Smallest Element in a Sorted Matrix](../kth-smallest-element-in-a-sorted-matrix) (Medium)
   1. [Find K-th Smallest Pair Distance](../find-k-th-smallest-pair-distance) (Hard)
+  1. [Kth Smallest Product of Two Sorted Arrays](../kth-smallest-product-of-two-sorted-arrays) (Hard)

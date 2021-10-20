@@ -45,11 +45,14 @@ The maximum working time is 11.</pre>
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Bitmask](../../tag/bitmask/README.md)]
+
+### Similar Questions
+  1. [Minimum Number of Work Sessions to Finish the Tasks](../minimum-number-of-work-sessions-to-finish-the-tasks) (Medium)
 
 ### Hints
 <details>

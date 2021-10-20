@@ -11,9 +11,11 @@
 
 ## [1239. Maximum Length of a Concatenated String with Unique Characters (Medium)](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters "串联字符串的最大长度")
 
-<p>Given an array of strings <code>arr</code>. String <code>s</code> is a concatenation of a sub-sequence of <code>arr</code> which have <strong>unique characters</strong>.</p>
+<p>You are given an array of strings <code>arr</code>. A string <code>s</code> is formed by the <strong>concatenation</strong> of a <strong>subsequence</strong> of <code>arr</code> that has <strong>unique characters</strong>.</p>
 
-<p>Return <em>the maximum possible length</em> of <code>s</code>.</p>
+<p>Return <em>the <strong>maximum</strong> possible length</em> of <code>s</code>.</p>
+
+<p>A <strong>subsequence</strong> is an array that can be derived from another array by deleting some or no elements without changing the order of the remaining elements.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -21,7 +23,13 @@
 <pre>
 <strong>Input:</strong> arr = [&quot;un&quot;,&quot;iq&quot;,&quot;ue&quot;]
 <strong>Output:</strong> 4
-<strong>Explanation:</strong> All possible concatenations are &quot;&quot;,&quot;un&quot;,&quot;iq&quot;,&quot;ue&quot;,&quot;uniq&quot; and &quot;ique&quot;.
+<strong>Explanation:</strong> All the valid concatenations are:
+- &quot;&quot;
+- &quot;un&quot;
+- &quot;iq&quot;
+- &quot;ue&quot;
+- &quot;uniq&quot; (&quot;un&quot; + &quot;iq&quot;)
+- &quot;ique&quot; (&quot;iq&quot; + &quot;ue&quot;)
 Maximum length is 4.
 </pre>
 
@@ -30,7 +38,7 @@ Maximum length is 4.
 <pre>
 <strong>Input:</strong> arr = [&quot;cha&quot;,&quot;r&quot;,&quot;act&quot;,&quot;ers&quot;]
 <strong>Output:</strong> 6
-<strong>Explanation:</strong> Possible solutions are &quot;chaers&quot; and &quot;acters&quot;.
+<strong>Explanation:</strong> Possible longest valid concatenations are &quot;chaers&quot; (&quot;cha&quot; + &quot;ers&quot;) and &quot;acters&quot; (&quot;act&quot; + &quot;ers&quot;).
 </pre>
 
 <p><strong>Example 3:</strong></p>
@@ -38,6 +46,15 @@ Maximum length is 4.
 <pre>
 <strong>Input:</strong> arr = [&quot;abcdefghijklmnopqrstuvwxyz&quot;]
 <strong>Output:</strong> 26
+<strong>Explanation:</strong> The only string in arr has all 26 characters.
+</pre>
+
+<p><strong>Example 4:</strong></p>
+
+<pre>
+<strong>Input:</strong> arr = [&quot;aa&quot;,&quot;bb&quot;]
+<strong>Output:</strong> 0
+<strong>Explanation:</strong> Both strings in arr do not have unique characters, thus there are no valid concatenations.
 </pre>
 
 <p>&nbsp;</p>
@@ -46,7 +63,7 @@ Maximum length is 4.
 <ul>
 	<li><code>1 &lt;= arr.length &lt;= 16</code></li>
 	<li><code>1 &lt;= arr[i].length &lt;= 26</code></li>
-	<li><code>arr[i]</code> contains only lower case English letters.</li>
+	<li><code>arr[i]</code> contains only lowercase English letters.</li>
 </ul>
 
 ### Related Topics

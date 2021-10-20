@@ -69,9 +69,9 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints

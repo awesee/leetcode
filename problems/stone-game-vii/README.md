@@ -55,6 +55,17 @@ The score difference is 18 - 12 = 6.
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Game Theory](../../tag/game-theory/README.md)]
 
+### Similar Questions
+  1. [Stone Game](../stone-game) (Medium)
+  1. [Stone Game II](../stone-game-ii) (Medium)
+  1. [Stone Game III](../stone-game-iii) (Hard)
+  1. [Stone Game IV](../stone-game-iv) (Hard)
+  1. [Stone Game V](../stone-game-v) (Hard)
+  1. [Stone Game VI](../stone-game-vi) (Medium)
+  1. [Maximum Score from Performing Multiplication Operations](../maximum-score-from-performing-multiplication-operations) (Medium)
+  1. [Stone Game VIII](../stone-game-viii) (Hard)
+  1. [Stone Game IX](../stone-game-ix) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

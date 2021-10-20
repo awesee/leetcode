@@ -83,8 +83,8 @@ There is no way to obtain a string that is lexicographically smaller then &quot;
 </ul>
 
 ### Related Topics
-  [[String](../../tag/string/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

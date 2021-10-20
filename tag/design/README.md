@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2043 | [简易银行系统](../../problems/simple-bank-system) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2034 | [股票价格波动](../../problems/stock-price-fluctuation) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 2013 | [检测正方形](../../problems/detect-squares) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)]  | Medium |
 | 1993 | [树上的操作](../../problems/operations-on-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1912 | [设计电影租借系统](../../problems/design-movie-rental-system) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
 | 1865 | [找出和为指定值的下标对](../../problems/finding-pairs-with-a-certain-sum) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
@@ -16,7 +19,7 @@
 | 1825 | [求出 MK 平均值](../../problems/finding-mk-average) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
 | 1804 | [实现 Trie （前缀树） II](../../problems/implement-trie-ii-prefix-tree) 🔒 | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1797 | [设计一个验证系统](../../problems/design-authentication-manager) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
-| 1756 | [设计最近使用（MRU）队列](../../problems/design-most-recently-used-queue) 🔒 | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)]  | Medium |
+| 1756 | [设计最近使用（MRU）队列](../../problems/design-most-recently-used-queue) 🔒 | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)]  | Medium |
 | 1670 | [设计前中后队列](../../problems/design-front-middle-back-queue) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)] [[数据流](../data-stream/README.md)]  | Medium |
 | 1656 | [设计有序流](../../problems/design-an-ordered-stream) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数据流](../data-stream/README.md)]  | Easy |
 | 1628 | [设计带解析函数的表达式树](../../problems/design-an-expression-tree-with-evaluate-function) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[设计](../design/README.md)] [[数学](../math/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
@@ -94,7 +97,7 @@
 | 297 | [二叉树的序列化与反序列化](../../problems/serialize-and-deserialize-binary-tree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[设计](../design/README.md)] [[字符串](../string/README.md)] [[二叉树](../binary-tree/README.md)]  | Hard |
 | 295 | [数据流的中位数](../../problems/find-median-from-data-stream) | [[设计](../design/README.md)] [[双指针](../two-pointers/README.md)] [[数据流](../data-stream/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
 | 288 | [单词的唯一缩写](../../problems/unique-word-abbreviation) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 284 | [顶端迭代器](../../problems/peeking-iterator) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
+| 284 | [窥探迭代器](../../problems/peeking-iterator) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
 | 281 | [锯齿迭代器](../../problems/zigzag-iterator) 🔒 | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[迭代器](../iterator/README.md)]  | Medium |
 | 271 | [字符串的编码与解码](../../problems/encode-and-decode-strings) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 251 | [展开二维向量](../../problems/flatten-2d-vector) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[迭代器](../iterator/README.md)]  | Medium |

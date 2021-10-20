@@ -76,3 +76,4 @@ bSTIterator.hasNext(); // return False
   1. [Zigzag Iterator](../zigzag-iterator) (Medium)
   1. [Peeking Iterator](../peeking-iterator) (Medium)
   1. [Inorder Successor in BST](../inorder-successor-in-bst) (Medium)
+  1. [Binary Search Tree Iterator II](../binary-search-tree-iterator-ii) (Medium)

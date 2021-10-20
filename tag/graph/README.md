@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2045 | [到达目的地的第二短时间](../../problems/second-minimum-time-to-reach-destination) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[数组](../array/README.md)] [[最短路](../shortest-path/README.md)]  | Hard |
+| 2039 | [网络空闲的时刻](../../problems/the-time-when-the-network-becomes-idle) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1976 | [到达目的地的方案数](../../problems/number-of-ways-to-arrive-at-destination) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)] [[最短路](../shortest-path/README.md)]  | Medium |
 | 1971 | [Find if Path Exists in Graph](../../problems/find-if-path-exists-in-graph) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Easy |
 | 1928 | [规定时间内到达终点的最小花费](../../problems/minimum-cost-to-reach-destination-in-time) | [[图](../graph/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |

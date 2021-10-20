@@ -9,9 +9,9 @@
 　　　　　　　　　　　　　　　　
 [Next >](../isomorphic-strings "Isomorphic Strings")
 
-## [204. Count Primes (Easy)](https://leetcode.com/problems/count-primes "计数质数")
+## [204. Count Primes (Medium)](https://leetcode.com/problems/count-primes "计数质数")
 
-<p>Count the number of prime numbers less than a non-negative number, <code>n</code>.</p>
+<p>Given an integer <code>n</code>, return <em>the number of prime numbers that are strictly less than</em> <code>n</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

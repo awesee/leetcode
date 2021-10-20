@@ -54,11 +54,13 @@ Status is an ENUM type of (&lsquo;Yes&rsquo;, &lsquo;No&rsquo;).
 
 <p>Return the result table in any order. Round <code>Cancellation Rate</code> to <strong>two decimal</strong> points.</p>
 
-<p>The query result format is in the following example:</p>
+<p>The query result format is in the following example.</p>
 
 <p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
 
 <pre>
+<strong>Input:</strong> 
 Trips table:
 +----+-----------+-----------+---------+---------------------+------------+
 | Id | Client_Id | Driver_Id | City_Id | Status              | Request_at |
@@ -74,7 +76,6 @@ Trips table:
 | 9  | 3         | 10        | 12      | completed           | 2013-10-03 |
 | 10 | 4         | 13        | 12      | cancelled_by_driver | 2013-10-03 |
 +----+-----------+-----------+---------+---------------------+------------+
-
 Users table:
 +----------+--------+--------+
 | Users_Id | Banned | Role   |
@@ -88,8 +89,7 @@ Users table:
 | 12       | No     | driver |
 | 13       | No     | driver |
 +----------+--------+--------+
-
-Result table:
+<strong>Output:</strong> 
 +------------+-------------------+
 | Day        | Cancellation Rate |
 +------------+-------------------+
@@ -97,7 +97,7 @@ Result table:
 | 2013-10-02 | 0.00              |
 | 2013-10-03 | 0.50              |
 +------------+-------------------+
-
+<strong>Explanation:</strong> 
 On 2013-10-01:
   - There were 4 requests in total, 2 of which were canceled.
   - However, the request with Id=2 was made by a banned client (User_Id=2), so it is ignored in the calculation.
@@ -117,3 +117,8 @@ On 2013-10-03:
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Hopper Company Queries I](../hopper-company-queries-i) (Hard)
+  1. [Hopper Company Queries II](../hopper-company-queries-ii) (Hard)
+  1. [Hopper Company Queries III](../hopper-company-queries-iii) (Hard)

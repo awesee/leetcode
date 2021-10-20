@@ -41,6 +41,7 @@
   1. [Subarray Product Less Than K](../subarray-product-less-than-k) (Medium)
   1. [Find Pivot Index](../find-pivot-index) (Easy)
   1. [Subarray Sums Divisible by K](../subarray-sums-divisible-by-k) (Medium)
+  1. [Minimum Operations to Reduce X to Zero](../minimum-operations-to-reduce-x-to-zero) (Medium)
 
 ### Hints
 <details>

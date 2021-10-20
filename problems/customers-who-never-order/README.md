@@ -11,11 +11,49 @@
 
 ## [183. Customers Who Never Order (Easy)](https://leetcode.com/problems/customers-who-never-order "从不订购的客户")
 
-<p>Suppose that a website contains two tables, the <code>Customers</code> table and the <code>Orders</code> table. Write a SQL query to find all customers who never order anything.</p>
-
-<p>Table: <code>Customers</code>.</p>
+<p>Table: <code>Customers</code></p>
 
 <pre>
++-------------+---------+
+| Column Name | Type    |
++-------------+---------+
+| Id          | int     |
+| Name        | varchar |
++-------------+---------+
+Id is the primary key column for this table.
+Each row of this table indicates the ID and name of a customer.
+</pre>
+
+<p>&nbsp;</p>
+
+<p>Table: <code>Orders</code></p>
+
+<pre>
++-------------+------+
+| Column Name | Type |
++-------------+------+
+| Id          | int  |
+| CustomerId  | int  |
++-------------+------+
+Id is the primary key column for this table.
+CustomerId is a foreign key of the ID from the Customers table.
+Each row of this table indicates the ID of an order and the ID of the customer who ordered it.
+</pre>
+
+<p>&nbsp;</p>
+
+<p>Write an SQL query to report all customers who never order anything.</p>
+
+<p>Return the result table in <strong>any order</strong>.</p>
+
+<p>The query result format is in the following example.</p>
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+
+<pre>
+<strong>Input:</strong> 
+Customers table:
 +----+-------+
 | Id | Name  |
 +----+-------+
@@ -24,22 +62,14 @@
 | 3  | Sam   |
 | 4  | Max   |
 +----+-------+
-</pre>
-
-<p>Table: <code>Orders</code>.</p>
-
-<pre>
+Orders table:
 +----+------------+
 | Id | CustomerId |
 +----+------------+
 | 1  | 3          |
 | 2  | 1          |
 +----+------------+
-</pre>
-
-<p>Using the above tables as example, return the following:</p>
-
-<pre>
+<strong>Output:</strong> 
 +-----------+
 | Customers |
 +-----------+

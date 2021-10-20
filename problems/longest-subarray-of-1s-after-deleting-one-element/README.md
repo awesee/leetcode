@@ -13,9 +13,7 @@
 
 <p>Given a binary array <code>nums</code>, you should delete one element from it.</p>
 
-<p>Return the size of the longest non-empty subarray containing only 1&#39;s&nbsp;in the resulting array.</p>
-
-<p>Return 0 if there is no such subarray.</p>
+<p>Return <em>the size of the longest non-empty subarray containing only </em><code>1</code><em>&#39;s in the resulting array</em>. Return <code>0</code> if there is no such subarray.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -57,8 +55,8 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 10^5</code></li>
-	<li><code>nums[i]</code>&nbsp;is either&nbsp;<code>0</code>&nbsp;or&nbsp;<code>1</code>.</li>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>nums[i]</code> is either <code>0</code> or <code>1</code>.</li>
 </ul>
 
 ### Related Topics

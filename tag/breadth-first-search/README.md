@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2045 | [到达目的地的第二短时间](../../problems/second-minimum-time-to-reach-destination) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[数组](../array/README.md)] [[最短路](../shortest-path/README.md)]  | Hard |
+| 2039 | [网络空闲的时刻](../../problems/the-time-when-the-network-becomes-idle) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1993 | [树上的操作](../../problems/operations-on-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1992 | [找到所有的农场组](../../problems/find-all-groups-of-farmland) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1971 | [Find if Path Exists in Graph](../../problems/find-if-path-exists-in-graph) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Easy |
@@ -29,7 +31,7 @@
 | 1609 | [奇偶树](../../problems/even-odd-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
 | 1602 | [找到二叉树中最近的右侧节点](../../problems/find-nearest-right-node-in-binary-tree) 🔒 | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
 | 1568 | [使陆地分离的最少天数](../../problems/minimum-number-of-days-to-disconnect-island) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[强连通分量](../strongly-connected-component/README.md)]  | Hard |
-| 1559 | [二维网格图中探测环](../../problems/detect-cycles-in-2d-grid) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
+| 1559 | [二维网格图中探测环](../../problems/detect-cycles-in-2d-grid) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1519 | [子树中标签相同的节点数](../../problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)]  | Medium |
 | 1490 | [克隆 N 叉树](../../problems/clone-n-ary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1485 | [克隆含随机指针的二叉树](../../problems/clone-binary-tree-with-random-pointer) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |

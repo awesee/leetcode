@@ -16,10 +16,6 @@
 ### Related Topics
   [[Linked List](../../tag/linked-list/README.md)]
 
-### Similar Questions
-  1. [Remove Nth Node From End of List](../remove-nth-node-from-end-of-list) (Medium)
-  1. [Remove Zero Sum Consecutive Nodes from Linked List](../remove-zero-sum-consecutive-nodes-from-linked-list) (Medium)
-
 ### Hints
 <details>
 <summary>Hint 1</summary>

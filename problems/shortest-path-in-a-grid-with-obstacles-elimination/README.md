@@ -17,34 +17,21 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2021/09/30/short1-grid.jpg" style="width: 244px; height: 405px;" />
 <pre>
-<strong>Input:</strong> 
-grid = 
-[[0,0,0],
-&nbsp;[1,1,0],
- [0,0,0],
-&nbsp;[0,1,1],
- [0,0,0]], 
-k = 1
+<strong>Input:</strong> grid = [[0,0,0],[1,1,0],[0,0,0],[0,1,1],[0,0,0]], k = 1
 <strong>Output:</strong> 6
-<strong>Explanation: 
-</strong>The shortest path without eliminating any obstacle is 10.&nbsp;
-The shortest path with one obstacle elimination at position (3,2) is 6. Such path is <code>(0,0) -&gt; (0,1) -&gt; (0,2) -&gt; (1,2) -&gt; (2,2) -&gt; <strong>(3,2)</strong> -&gt; (4,2)</code>.
+<strong>Explanation:</strong> 
+The shortest path without eliminating any obstacle is 10.
+The shortest path with one obstacle elimination at position (3,2) is 6. Such path is (0,0) -&gt; (0,1) -&gt; (0,2) -&gt; (1,2) -&gt; (2,2) -&gt; <strong>(3,2)</strong> -&gt; (4,2).
 </pre>
 
 <p><strong>Example 2:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2021/09/30/short2-grid.jpg" style="width: 244px; height: 245px;" />
 <pre>
-<strong>Input:</strong> 
-grid = 
-[[0,1,1],
-&nbsp;[1,1,1],
-&nbsp;[1,0,0]], 
-k = 1
+<strong>Input:</strong> grid = [[0,1,1],[1,1,1],[1,0,0]], k = 1
 <strong>Output:</strong> -1
-<strong>Explanation: 
-</strong>We need to eliminate at least two obstacles to find such a walk.
+<strong>Explanation:</strong> We need to eliminate at least two obstacles to find such a walk.
 </pre>
 
 <p>&nbsp;</p>
@@ -55,7 +42,7 @@ k = 1
 	<li><code>n == grid[i].length</code></li>
 	<li><code>1 &lt;= m, n &lt;= 40</code></li>
 	<li><code>1 &lt;= k &lt;= m * n</code></li>
-	<li><code>grid[i][j] == 0 <strong>or</strong> 1</code></li>
+	<li><code>grid[i][j]</code> is either <code>0</code> <strong>or</strong> <code>1</code>.</li>
 	<li><code>grid[0][0] == grid[m - 1][n - 1] == 0</code></li>
 </ul>
 

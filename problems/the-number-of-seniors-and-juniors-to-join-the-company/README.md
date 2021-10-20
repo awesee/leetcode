@@ -7,7 +7,7 @@
 
 [< Previous](../smallest-missing-genetic-value-in-each-subtree "Smallest Missing Genetic Value in Each Subtree")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../subtree-removal-game-with-fibonacci-tree "Subtree Removal Game with Fibonacci Tree")
 
 ## [2004. The Number of Seniors and Juniors to Join the Company (Hard)](https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company "")
 

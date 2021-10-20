@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2019 | [解出数学表达式的学生分数](../../problems/the-score-of-students-solving-math-expression) | [[栈](../stack/README.md)] [[记忆化搜索](../memoization/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1900 | [最佳运动员的比拼回合](../../problems/the-earliest-and-latest-rounds-where-players-compete) | [[记忆化搜索](../memoization/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1857 | [有向图中最大颜色值](../../problems/largest-color-value-in-a-directed-graph) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[记忆化搜索](../memoization/README.md)] [[哈希表](../hash-table/README.md)] [[动态规划](../dynamic-programming/README.md)] [[计数](../counting/README.md)]  | Hard |
 | 1815 | [得到新鲜甜甜圈的最多组数](../../problems/maximum-number-of-groups-getting-fresh-donuts) | [[位运算](../bit-manipulation/README.md)] [[记忆化搜索](../memoization/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |

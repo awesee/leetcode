@@ -67,9 +67,6 @@
 ### Related Topics
   [[String](../../tag/string/README.md)]
 
-### Similar Questions
-  1. [Text Justification](../text-justification) (Hard)
-
 ### Hints
 <details>
 <summary>Hint 1</summary>

@@ -39,10 +39,11 @@
 </ul>
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
-  [[Hash Table](../../tag/hash-table/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
   1. [Subtree of Another Tree](../subtree-of-another-tree) (Easy)
+  1. [Count Nodes Equal to Sum of Descendants](../count-nodes-equal-to-sum-of-descendants) (Medium)

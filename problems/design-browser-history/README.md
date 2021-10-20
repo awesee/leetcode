@@ -58,12 +58,12 @@ browserHistory.back(7);                   // You are in &quot;google.com&quot;, 
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
-  [[Linked List](../../tag/linked-list/README.md)]
   [[Stack](../../tag/stack/README.md)]
   [[Design](../../tag/design/README.md)]
-  [[Doubly-Linked List](../../tag/doubly-linked-list/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Linked List](../../tag/linked-list/README.md)]
   [[Data Stream](../../tag/data-stream/README.md)]
+  [[Doubly-Linked List](../../tag/doubly-linked-list/README.md)]
 
 ### Hints
 <details>

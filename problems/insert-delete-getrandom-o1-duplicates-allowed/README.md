@@ -52,10 +52,10 @@ randomizedCollection.getRandom(); // getRandom should return 1 and 2 both equall
 </ul>
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Design](../../tag/design/README.md)]
   [[Randomized](../../tag/randomized/README.md)]
 
 ### Similar Questions

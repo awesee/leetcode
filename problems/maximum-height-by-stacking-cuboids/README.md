@@ -67,6 +67,9 @@ The maximum height of stacked cuboids is 6 * 17 = 102.
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
+### Similar Questions
+  1. [The Number of Weak Characters in the Game](../the-number-of-weak-characters-in-the-game) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

@@ -76,12 +76,9 @@
 </ul>
 
 ### Related Topics
-  [[String](../../tag/string/README.md)]
   [[Stack](../../tag/stack/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
-
-### Similar Questions
-  1. [Minimum Number of Swaps to Make the String Balanced](../minimum-number-of-swaps-to-make-the-string-balanced) (Medium)
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

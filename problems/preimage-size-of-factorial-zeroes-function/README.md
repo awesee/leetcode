@@ -55,4 +55,4 @@
   [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Similar Questions
-  1. [Factorial Trailing Zeroes](../factorial-trailing-zeroes) (Easy)
+  1. [Factorial Trailing Zeroes](../factorial-trailing-zeroes) (Medium)

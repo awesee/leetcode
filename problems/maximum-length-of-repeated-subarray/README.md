@@ -42,11 +42,12 @@
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
-  [[Hash Function](../../tag/hash-function/README.md)]
   [[Rolling Hash](../../tag/rolling-hash/README.md)]
+  [[Hash Function](../../tag/hash-function/README.md)]
 
 ### Similar Questions
   1. [Minimum Size Subarray Sum](../minimum-size-subarray-sum) (Medium)
+  1. [Longest Common Subpath](../longest-common-subpath) (Hard)
 
 ### Hints
 <details>
