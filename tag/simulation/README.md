@@ -9,6 +9,10 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2043 | [简易银行系统](../../problems/simple-bank-system) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2028 | [找出缺失的观测数据](../../problems/find-missing-observations) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2022 | [将一维数组转变成二维数组](../../problems/convert-1d-array-into-2d-array) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 2011 | [执行操作后的变量值](../../problems/final-value-of-variable-after-performing-operations) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 1945 | [字符串转化后的各位数字之和](../../problems/sum-of-digits-of-string-after-convert) | [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 1920 | [基于排列构建数组](../../problems/build-array-from-permutation) | [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 1914 | [循环轮转矩阵](../../problems/cyclically-rotating-a-grid) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Medium |
@@ -49,7 +53,7 @@
 | 950 | [按递增顺序显示卡牌](../../problems/reveal-cards-in-increasing-order) | [[队列](../queue/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 946 | [验证栈序列](../../problems/validate-stack-sequences) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 885 | [螺旋矩阵 III](../../problems/spiral-matrix-iii) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Medium |
-| 874 | [模拟行走机器人](../../problems/walking-robot-simulation) | [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 874 | [模拟行走机器人](../../problems/walking-robot-simulation) | [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 867 | [转置矩阵](../../problems/transpose-matrix) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 844 | [比较含退格的字符串](../../problems/backspace-string-compare) | [[栈](../stack/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 832 | [翻转图像](../../problems/flipping-an-image) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Easy |

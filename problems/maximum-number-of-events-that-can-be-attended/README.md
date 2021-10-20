@@ -68,9 +68,13 @@ Attend the third event on day 3.
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+
+### Similar Questions
+  1. [Maximum Number of Events That Can Be Attended II](../maximum-number-of-events-that-can-be-attended-ii) (Hard)
+  1. [Maximum Earnings From Taxi](../maximum-earnings-from-taxi) (Medium)
 
 ### Hints
 <details>

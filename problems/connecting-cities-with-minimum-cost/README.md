@@ -56,8 +56,8 @@ There is no way to connect all cities even if all edges are used.
 ### Related Topics
   [[Union Find](../../tag/union-find/README.md)]
   [[Graph](../../tag/graph/README.md)]
-  [[Minimum Spanning Tree](../../tag/minimum-spanning-tree/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Minimum Spanning Tree](../../tag/minimum-spanning-tree/README.md)]
 
 ### Hints
 <details>

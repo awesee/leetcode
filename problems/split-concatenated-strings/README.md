@@ -39,6 +39,6 @@
 </p>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]

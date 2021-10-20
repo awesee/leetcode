@@ -47,10 +47,10 @@
 </ol>
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
-  [[Trie](../../tag/trie/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Trie](../../tag/trie/README.md)]
 
 ### Similar Questions
   1. [LRU Cache](../lru-cache) (Medium)

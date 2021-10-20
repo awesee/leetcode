@@ -9,6 +9,10 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2036 | [Maximum Alternating Subarray Sum](../../problems/maximum-alternating-subarray-sum) 🔒 | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 2035 | [将数组分成两个数组并最小化数组和的差](../../problems/partition-array-into-two-arrays-to-minimize-sum-difference) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)] [[有序集合](../ordered-set/README.md)]  | Hard |
+| 2019 | [解出数学表达式的学生分数](../../problems/the-score-of-students-solving-math-expression) | [[栈](../stack/README.md)] [[记忆化搜索](../memoization/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 2008 | [出租车的最大盈利](../../problems/maximum-earnings-from-taxi) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 2003 | [每棵子树内缺失的最小基因值](../../problems/smallest-missing-genetic-value-in-each-subtree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 2002 | [两个回文子序列长度的最大乘积](../../problems/maximum-product-of-the-length-of-two-palindromic-subsequences) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
 | 1997 | [访问完所有房间的第一天](../../problems/first-day-where-you-have-been-in-all-the-rooms) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

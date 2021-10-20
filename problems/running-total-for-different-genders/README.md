@@ -76,3 +76,6 @@ Fifth day is 2020-01-07, Bajrang scored 7 points and the total score for the tea
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Last Person to Fit in the Bus](../last-person-to-fit-in-the-bus) (Medium)

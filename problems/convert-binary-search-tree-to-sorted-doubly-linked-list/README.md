@@ -35,11 +35,11 @@
 <p><img src="https://assets.leetcode.com/uploads/2018/10/12/bstdllreturnbst.png" style="width: 100%; max-width: 450px;" /></p>
 
 ### Related Topics
+  [[Linked List](../../tag/linked-list/README.md)]
   [[Stack](../../tag/stack/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
-  [[Linked List](../../tag/linked-list/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
   [[Doubly-Linked List](../../tag/doubly-linked-list/README.md)]
 

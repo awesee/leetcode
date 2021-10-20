@@ -47,6 +47,9 @@ At the end the concatenation [2] + [4,4,4] is [2,4,4,4].
 ### Related Topics
   [[Array](../../tag/array/README.md)]
 
+### Similar Questions
+  1. [String Compression](../string-compression) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

@@ -16,4 +16,4 @@
 | 1201 | [丑数 III](../../problems/ugly-number-iii) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[数论](../number-theory/README.md)]  | Medium |
 | 914 | [卡牌分组](../../problems/x-of-a-kind-in-a-deck-of-cards) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[数论](../number-theory/README.md)]  | Easy |
 | 258 | [各位相加](../../problems/add-digits) | [[数学](../math/README.md)] [[数论](../number-theory/README.md)] [[模拟](../simulation/README.md)]  | Easy |
-| 204 | [计数质数](../../problems/count-primes) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[枚举](../enumeration/README.md)] [[数论](../number-theory/README.md)]  | Easy |
+| 204 | [计数质数](../../problems/count-primes) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[枚举](../enumeration/README.md)] [[数论](../number-theory/README.md)]  | Medium |

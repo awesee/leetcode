@@ -51,7 +51,7 @@ Constraints:
 - The value of each node in the linked list is between [-1000, 1000].
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
-  [[Recursion](../../tag/recursion/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]

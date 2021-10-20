@@ -80,6 +80,9 @@ Total distance = 6
   [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
+### Similar Questions
+  1. [Minimum Time to Type Word Using Special Typewriter](../minimum-time-to-type-word-using-special-typewriter) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

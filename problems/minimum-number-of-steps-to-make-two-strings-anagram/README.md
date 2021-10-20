@@ -69,9 +69,6 @@
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
 
-### Similar Questions
-  1. [Determine if Two Strings Are Close](../determine-if-two-strings-are-close) (Medium)
-
 ### Hints
 <details>
 <summary>Hint 1</summary>

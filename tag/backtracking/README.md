@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2044 | [统计按位或能得到最大值的子集数目](../../problems/count-number-of-maximum-bitwise-or-subsets) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 2014 | [重复 K 次的最长子序列](../../problems/longest-subsequence-repeated-k-times) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
 | 2002 | [两个回文子序列长度的最大乘积](../../problems/maximum-product-of-the-length-of-two-palindromic-subsequences) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
 | 1986 | [完成任务的最少工作时间段](../../problems/minimum-number-of-work-sessions-to-finish-the-tasks) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
 | 1980 | [找出不同的二进制字符串](../../problems/find-unique-binary-string) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |

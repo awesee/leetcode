@@ -11,9 +11,9 @@
 
 ## [1155. Number of Dice Rolls With Target Sum (Medium)](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum "掷骰子的N种方法")
 
-<p>You have <code>d</code> dice and each die has <code>f</code> faces numbered <code>1, 2, ..., f</code>.</p>
+<p>You have <code>d</code> dice and each die has <code>f</code> faces numbered <code>1, 2, ..., f</code>. You are given three integers <code>d</code>, <code>f</code>, and <code>target</code>.</p>
 
-<p>Return the number of possible ways (out of <code>f<sup>d</sup></code> total ways) <strong>modulo</strong> 10<sup>9</sup> + 7 to roll the dice so the sum of the face-up numbers equals <code>target</code>.</p>
+<p>Return <em>the number of possible ways (out of </em><code>f<sup>d</sup></code><em> total ways) <strong>modulo</strong> </em><code>10<sup>9</sup> + 7</code><em> to roll the dice so the sum of the face-up numbers equals </em><code>target</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -72,6 +72,10 @@ The answer must be returned modulo 10^9 + 7.
 
 ### Related Topics
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+
+### Similar Questions
+  1. [Equal Sum Arrays With Minimum Number of Operations](../equal-sum-arrays-with-minimum-number-of-operations) (Medium)
+  1. [Find Missing Observations](../find-missing-observations) (Medium)
 
 ### Hints
 <details>

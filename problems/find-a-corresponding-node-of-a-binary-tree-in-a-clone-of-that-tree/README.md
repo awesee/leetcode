@@ -19,8 +19,6 @@
 
 <p><strong>Note</strong> that you are <strong>not allowed</strong> to change any of the two trees or the <code>target</code> node and the answer <strong>must be</strong> a reference to a node in the <code>cloned</code> tree.</p>
 
-<p><strong>Follow up:</strong>&nbsp;Solve the problem if repeated values on the tree are allowed.</p>
-
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/02/21/e1.png" style="width: 544px; height: 426px;" />
@@ -62,10 +60,13 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the <code>tree</code> is in the range <code>[1, 10^4]</code>.</li>
+	<li>The number of nodes in the <code>tree</code> is in the range <code>[1, 10<sup>4</sup>]</code>.</li>
 	<li>The values of the nodes of the <code>tree</code> are unique.</li>
-	<li><code>target</code> node is a&nbsp;node from the <code>original</code> tree and is not <code>null</code>.</li>
+	<li><code>target</code> node is a node from the <code>original</code> tree and is not <code>null</code>.</li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> Could you solve the problem if repeated values on the tree are allowed?</p>
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]

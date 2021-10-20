@@ -55,6 +55,10 @@
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
+### Similar Questions
+  1. [Minimum Size Subarray Sum](../minimum-size-subarray-sum) (Medium)
+  1. [Subarray Sum Equals K](../subarray-sum-equals-k) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

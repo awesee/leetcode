@@ -12,3 +12,6 @@
 ## [1972. First and Last Call On the Same Day (Hard)](https://leetcode.com/problems/first-and-last-call-on-the-same-day "")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

@@ -76,10 +76,10 @@ Maximum sum is obtained with the path [6,7,8,9,10].
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
-  [[Greedy](../../tag/greedy/README.md)]
 
 ### Hints
 <details>

@@ -66,10 +66,10 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
-  [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
 
 ### Hints
 <details>

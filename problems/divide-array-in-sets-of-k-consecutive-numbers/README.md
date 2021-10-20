@@ -59,10 +59,13 @@
 <strong>Note:</strong> This question is the same as&nbsp;846:&nbsp;<a href="https://leetcode.com/problems/hand-of-straights/" target="_blank">https://leetcode.com/problems/hand-of-straights/</a>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
+
+### Similar Questions
+  1. [Split Array into Consecutive Subsequences](../split-array-into-consecutive-subsequences) (Medium)
 
 ### Hints
 <details>

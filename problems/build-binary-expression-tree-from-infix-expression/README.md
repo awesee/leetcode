@@ -14,10 +14,14 @@
 
 
 ### Related Topics
+  [[String](../../tag/string/README.md)]
   [[Stack](../../tag/stack/README.md)]
   [[Tree](../../tag/tree/README.md)]
-  [[String](../../tag/string/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
+
+### Similar Questions
+  1. [Basic Calculator III](../basic-calculator-iii) (Hard)
+  1. [Check If Two Expression Trees are Equivalent](../check-if-two-expression-trees-are-equivalent) (Medium)
 
 ### Hints
 <details>

@@ -73,9 +73,12 @@
 </ul>
 
 ### Related Topics
-  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
+
+### Similar Questions
+  1. [Jump Game VII](../jump-game-vii) (Medium)
 
 ### Hints
 <details>

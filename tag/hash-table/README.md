@@ -9,6 +9,12 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2043 | [简易银行系统](../../problems/simple-bank-system) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2034 | [股票价格波动](../../problems/stock-price-fluctuation) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 2032 | [至少在两个数组中出现的值](../../problems/two-out-of-three) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 2025 | [分割数组的最多方案数](../../problems/maximum-number-of-ways-to-partition-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
+| 2013 | [检测正方形](../../problems/detect-squares) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)]  | Medium |
+| 2007 | [从双倍数组中还原原数组](../../problems/find-original-array-from-doubled-array) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 2001 | [可互换矩形的组数](../../problems/number-of-pairs-of-interchangeable-rectangles) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[数论](../number-theory/README.md)]  | Medium |
 | 1993 | [树上的操作](../../problems/operations-on-tree) | [[树](../tree/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1948 | [删除系统中的重复文件夹](../../problems/delete-duplicate-folders-in-system) | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[哈希函数](../hash-function/README.md)]  | Hard |
@@ -41,7 +47,7 @@
 | 1775 | [通过最少操作次数使数组的和相等](../../problems/equal-sum-arrays-with-minimum-number-of-operations) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)]  | Medium |
 | 1772 | [按受欢迎程度排列功能](../../problems/sort-features-by-popularity) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1763 | [最长的美好子字符串](../../problems/longest-nice-substring) | [[位运算](../bit-manipulation/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Easy |
-| 1756 | [设计最近使用（MRU）队列](../../problems/design-most-recently-used-queue) 🔒 | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)]  | Medium |
+| 1756 | [设计最近使用（MRU）队列](../../problems/design-most-recently-used-queue) 🔒 | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[树状数组](../binary-indexed-tree/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)]  | Medium |
 | 1748 | [唯一元素的和](../../problems/sum-of-unique-elements) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)]  | Easy |
 | 1743 | [从相邻元素对还原数组](../../problems/restore-the-array-from-adjacent-pairs) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 1742 | [盒子中小球的最大数量](../../problems/maximum-number-of-balls-in-a-box) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)]  | Easy |
@@ -158,7 +164,7 @@
 | 1027 | [最长等差数列](../../problems/longest-arithmetic-subsequence) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1015 | [可被 K 整除的最小整数](../../problems/smallest-integer-divisible-by-k) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1010 | [总持续时间可被 60 整除的歌曲](../../problems/pairs-of-songs-with-total-durations-divisible-by-60) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)]  | Medium |
-| 1002 | [查找常用字符](../../problems/find-common-characters) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1002 | [查找共用字符](../../problems/find-common-characters) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1001 | [网格照明](../../problems/grid-illumination) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Hard |
 | 997 | [找到小镇的法官](../../problems/find-the-town-judge) | [[图](../graph/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 992 | [K 个不同整数的子数组](../../problems/subarrays-with-k-different-integers) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Hard |

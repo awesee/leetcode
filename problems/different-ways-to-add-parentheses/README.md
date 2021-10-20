@@ -43,14 +43,15 @@
 <ul>
 	<li><code>1 &lt;= expression.length &lt;= 20</code></li>
 	<li><code>expression</code> consists of digits and the operator <code>&#39;+&#39;</code>, <code>&#39;-&#39;</code>, and <code>&#39;*&#39;</code>.</li>
+	<li>All the integer values in the input expression are in the range <code>[0, 99]</code>.</li>
 </ul>
 
 ### Related Topics
+  [[Recursion](../../tag/recursion/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]
   [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
-  [[Recursion](../../tag/recursion/README.md)]
-  [[Memoization](../../tag/memoization/README.md)]
 
 ### Similar Questions
   1. [Unique Binary Search Trees II](../unique-binary-search-trees-ii) (Medium)

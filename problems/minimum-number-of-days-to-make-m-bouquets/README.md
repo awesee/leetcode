@@ -83,6 +83,9 @@ It is obvious that we can make two bouquets in different ways.
   [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
 
+### Similar Questions
+  1. [Maximize the Confusion of an Exam](../maximize-the-confusion-of-an-exam) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

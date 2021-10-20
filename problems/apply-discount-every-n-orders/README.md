@@ -71,9 +71,9 @@ cashier.getBill([2,3,5],[5,3,2]);                    // return 2500.0.  6<sup>th
 </ul>
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Design](../../tag/design/README.md)]
 
 ### Hints
 <details>

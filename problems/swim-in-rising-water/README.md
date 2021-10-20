@@ -51,13 +51,16 @@ We need to wait until time 16 so that (0, 0) and (4, 4) are connected.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
-  [[Array](../../tag/array/README.md)]
-  [[Binary Search](../../tag/binary-search/README.md)]
-  [[Matrix](../../tag/matrix/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+
+### Similar Questions
+  1. [Path With Minimum Effort](../path-with-minimum-effort) (Medium)
 
 ### Hints
 <details>

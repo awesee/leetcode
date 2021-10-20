@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2035 | [将数组分成两个数组并最小化数组和的差](../../problems/partition-array-into-two-arrays-to-minimize-sum-difference) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)] [[有序集合](../ordered-set/README.md)]  | Hard |
 | 2000 | [反转单词前缀](../../problems/reverse-prefix-of-word) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1963 | [使字符串平衡的最小交换次数](../../problems/minimum-number-of-swaps-to-make-the-string-balanced) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1877 | [数组中最大数对和的最小值](../../problems/minimize-maximum-pair-sum-in-array) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[排序](../sorting/README.md)]  | Medium |
@@ -20,7 +21,7 @@
 | 1842 | [下个由相同数字构成的回文串](../../problems/next-palindrome-using-same-digits) 🔒 | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 1826 | [有缺陷的传感器](../../problems/faulty-sensor) 🔒 | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 1813 | [句子相似性 III](../../problems/sentence-similarity-iii) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 1793 | [好子数组的最大分数](../../problems/maximum-score-of-a-good-subarray) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
+| 1793 | [好子数组的最大分数](../../problems/maximum-score-of-a-good-subarray) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
 | 1782 | [统计点对的数目](../../problems/count-pairs-of-nodes) | [[图](../graph/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 1768 | [交替合并字符串](../../problems/merge-strings-alternately) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1755 | [最接近目标值的子序列和](../../problems/closest-subsequence-sum) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |

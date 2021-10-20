@@ -42,8 +42,8 @@ The second 1&#39;s next greater number needs to search circularly, which is also
 </ul>
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Stack](../../tag/stack/README.md)]
   [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Similar Questions

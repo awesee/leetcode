@@ -33,12 +33,13 @@
 </ul>
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Stack](../../tag/stack/README.md)]
   [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 
 ### Similar Questions
   1. [Next Greater Element I](../next-greater-element-i) (Easy)
+  1. [Online Stock Span](../online-stock-span) (Medium)
 
 ### Hints
 <details>

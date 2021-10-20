@@ -44,12 +44,13 @@ Since 2 has only one digit, return it.
 
 ### Related Topics
   [[Math](../../tag/math/README.md)]
-  [[Number Theory](../../tag/number-theory/README.md)]
   [[Simulation](../../tag/simulation/README.md)]
+  [[Number Theory](../../tag/number-theory/README.md)]
 
 ### Similar Questions
   1. [Happy Number](../happy-number) (Easy)
   1. [Sum of Digits in the Minimum Number](../sum-of-digits-in-the-minimum-number) (Easy)
+  1. [Sum of Digits of String After Convert](../sum-of-digits-of-string-after-convert) (Easy)
 
 ### Hints
 <details>

@@ -67,8 +67,8 @@
 <p>Can you do it in time complexity O(k log mn), where k is the length of the <code>positions</code>?</p>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Similar Questions
   1. [Number of Islands](../number-of-islands) (Medium)

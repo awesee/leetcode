@@ -9,6 +9,10 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2025 | [分割数组的最多方案数](../../problems/maximum-number-of-ways-to-partition-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
+| 2024 | [考试的最大困扰度](../../problems/maximize-the-confusion-of-an-exam) | [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
+| 2021 | [Brightest Position on Street](../../problems/brightest-position-on-street) | [[数组](../array/README.md)] [[有序集合](../ordered-set/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 2017 | [网格游戏](../../problems/grid-game) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1991 | [找到数组的中间位置](../../problems/find-the-middle-index-in-array) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Easy |
 | 1943 | [描述绘画结果](../../problems/describe-the-painting) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1930 | [长度为 3 的不同回文子序列](../../problems/unique-length-3-palindromic-subsequences) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |

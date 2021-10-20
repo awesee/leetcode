@@ -78,8 +78,8 @@ Note that the last moment when an ant was on the plank is t = 4 second, after th
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
   [[Brainteaser](../../tag/brainteaser/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints

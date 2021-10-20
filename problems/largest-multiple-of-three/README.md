@@ -11,11 +11,9 @@
 
 ## [1363. Largest Multiple of Three (Hard)](https://leetcode.com/problems/largest-multiple-of-three "形成三的最大倍数")
 
-<p>Given an integer array of <code>digits</code>,&nbsp;return the largest multiple of <strong>three</strong> that can be formed by concatenating some of the given digits in any order.</p>
+<p>Given an array of digits <code>digits</code>, return <em>the largest multiple of <strong>three</strong> that can be formed by concatenating some of the given digits in <strong>any order</strong></em>. If there is no answer return an empty string.</p>
 
-<p>Since the answer may not fit in an integer data type, return the answer as a string.</p>
-
-<p>If there is no answer return an empty string.</p>
+<p>Since the answer may not fit in an integer data type, return the answer as a string. Note that the returning answer must not contain unnecessary leading zeros.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -50,15 +48,14 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= digits.length &lt;= 10^4</code></li>
+	<li><code>1 &lt;= digits.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>0 &lt;= digits[i] &lt;= 9</code></li>
-	<li>The returning answer must not contain unnecessary leading zeros.</li>
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Hints
 <details>

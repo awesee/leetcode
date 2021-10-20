@@ -87,3 +87,7 @@ Page 88 is not suggested because user 1 already likes it.
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Page Recommendations II](../page-recommendations-ii) (Hard)
+  1. [Strong Friendship](../strong-friendship) (Medium)

@@ -64,8 +64,8 @@
 </ul>
 
 ### Related Topics
-  [[Math](../../tag/math/README.md)]
   [[Geometry](../../tag/geometry/README.md)]
+  [[Math](../../tag/math/README.md)]
 
 ### Hints
 <details>

@@ -67,6 +67,9 @@ The sum of the numbers after index 0 is: 0
 	<li><code>-1000 &lt;= nums[i] &lt;= 1000</code></li>
 </ul>
 
+<p>&nbsp;</p>
+<p><strong>Note:</strong> This question is the same as&nbsp;724:&nbsp;<a href="https://leetcode.com/problems/find-pivot-index/" target="_blank">https://leetcode.com/problems/find-pivot-index/</a></p>
+
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Prefix Sum](../../tag/prefix-sum/README.md)]

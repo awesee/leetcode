@@ -40,9 +40,9 @@
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
   1. [Convert to Base -2](../convert-to-base-2) (Medium)

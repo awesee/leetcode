@@ -9,6 +9,15 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2042 | [检查句子中的数字是否递增](../../problems/check-if-numbers-are-ascending-in-a-sentence) | [[字符串](../string/README.md)]  | Easy |
+| 2038 | [如果相邻两个颜色均相同则删除当前颜色](../../problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
+| 2030 | [含特定字母的最小子序列](../../problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
+| 2027 | [转换字符串的最少操作次数](../../problems/minimum-moves-to-convert-string) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 2024 | [考试的最大困扰度](../../problems/maximize-the-confusion-of-an-exam) | [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
+| 2023 | [连接后等于目标字符串的字符串对](../../problems/number-of-pairs-of-strings-with-concatenation-equal-to-target) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 2019 | [解出数学表达式的学生分数](../../problems/the-score-of-students-solving-math-expression) | [[栈](../stack/README.md)] [[记忆化搜索](../memoization/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 2014 | [重复 K 次的最长子序列](../../problems/longest-subsequence-repeated-k-times) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
+| 2011 | [执行操作后的变量值](../../problems/final-value-of-variable-after-performing-operations) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 2002 | [两个回文子序列长度的最大乘积](../../problems/maximum-product-of-the-length-of-two-palindromic-subsequences) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
 | 2000 | [反转单词前缀](../../problems/reverse-prefix-of-word) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1987 | [不同的好子序列数目](../../problems/number-of-unique-good-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -226,7 +235,7 @@
 | 1021 | [删除最外层的括号](../../problems/remove-outermost-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1016 | [子串能表示从 1 到 N 数字的二进制串](../../problems/binary-string-with-substrings-representing-1-to-n) | [[字符串](../string/README.md)]  | Medium |
 | 1003 | [检查替换后的词是否有效](../../problems/check-if-word-is-valid-after-substitutions) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 1002 | [查找常用字符](../../problems/find-common-characters) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 1002 | [查找共用字符](../../problems/find-common-characters) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 990 | [等式方程的可满足性](../../problems/satisfiability-of-equality-equations) | [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 988 | [从叶结点开始的最小字符串](../../problems/smallest-string-starting-from-leaf) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[字符串](../string/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
 | 984 | [不含 AAA 或 BBB 的字符串](../../problems/string-without-aaa-or-bbb) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |

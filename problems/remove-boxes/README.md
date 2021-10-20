@@ -54,9 +54,9 @@
 </ul>
 
 ### Related Topics
-  [[Memoization](../../tag/memoization/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]
 
 ### Similar Questions
   1. [Strange Printer](../strange-printer) (Hard)

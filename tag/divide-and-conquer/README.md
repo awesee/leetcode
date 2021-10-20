@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2031 | [Count Subarrays With More Ones Than Zeros](../../problems/count-subarrays-with-more-ones-than-zeros) | [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治](../divide-and-conquer/README.md)] [[有序集合](../ordered-set/README.md)] [[归并排序](../merge-sort/README.md)]  | Medium |
 | 1985 | [找出数组中的第 K 大整数](../../problems/find-the-kth-largest-integer-in-the-array) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[分治](../divide-and-conquer/README.md)] [[快速选择](../quickselect/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 1982 | [从子集的和还原数组](../../problems/find-array-given-subset-sums) | [[数组](../array/README.md)] [[分治](../divide-and-conquer/README.md)]  | Hard |
 | 1901 | [找出顶峰元素 II](../../problems/find-a-peak-element-ii) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治](../divide-and-conquer/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
