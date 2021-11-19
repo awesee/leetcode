@@ -45,9 +45,9 @@ Delete the characters at 0-indexed positions 3 and 6 (&quot;aab<u>a</u>bb<u>a</u
 </ul>
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
   [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Stack](../../tag/stack/README.md)]
 
 ### Hints
 <details>

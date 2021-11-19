@@ -5,11 +5,11 @@
 <!--|@home      https://github.com/openset/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../zigzag-conversion "ZigZag Conversion")
+[< Previous](../zigzag-conversion "Zigzag Conversion")
 　　　　　　　　　　　　　　　　
 [Next >](../string-to-integer-atoi "String to Integer (atoi)")
 
-## [7. Reverse Integer (Easy)](https://leetcode.com/problems/reverse-integer "整数反转")
+## [7. Reverse Integer (Medium)](https://leetcode.com/problems/reverse-integer "整数反转")
 
 <p>Given a signed 32-bit integer <code>x</code>, return <code>x</code><em> with its digits reversed</em>. If reversing <code>x</code> causes the value to go outside the signed 32-bit integer range <code>[-2<sup>31</sup>, 2<sup>31</sup> - 1]</code>, then return <code>0</code>.</p>
 

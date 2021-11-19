@@ -51,7 +51,7 @@ words[2] = &quot;bell&quot;, the substring of s starting from indices[2] = 5 to 
 </ul>
 
 ### Related Topics
-  [[Trie](../../tag/trie/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Trie](../../tag/trie/README.md)]

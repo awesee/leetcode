@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2074 | [反转偶数长度组的节点](../../problems/reverse-nodes-in-even-length-groups) | [[链表](../linked-list/README.md)]  | Medium |
+| 2058 | [找出临界点之间的最小和最大距离](../../problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points) | [[链表](../linked-list/README.md)]  | Medium |
+| 2046 | [Sort Linked List Already Sorted Using Absolute Values](../../problems/sort-linked-list-already-sorted-using-absolute-values) 🔒 | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1836 | [从未排序的链表中移除重复元素](../../problems/remove-duplicates-from-an-unsorted-linked-list) 🔒 | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)]  | Medium |
 | 1721 | [交换链表中的节点](../../problems/swapping-nodes-in-a-linked-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1670 | [设计前中后队列](../../problems/design-front-middle-back-queue) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)] [[数据流](../data-stream/README.md)]  | Medium |

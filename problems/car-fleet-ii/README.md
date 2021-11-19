@@ -48,11 +48,14 @@
 </ul>
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
-  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
+  [[Stack](../../tag/stack/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
+
+### Similar Questions
+  1. [Car Fleet](../car-fleet) (Medium)
 
 ### Hints
 <details>

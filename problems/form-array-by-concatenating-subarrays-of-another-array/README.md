@@ -59,8 +59,8 @@ They share a common elements nums[4] (0-indexed).
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[String Matching](../../tag/string-matching/README.md)]
 
 ### Hints

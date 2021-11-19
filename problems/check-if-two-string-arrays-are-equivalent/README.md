@@ -54,6 +54,9 @@ The strings are the same, so return true.</pre>
   [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]
 
+### Similar Questions
+  1. [Check if an Original String Exists Given Two Encoded Strings](../check-if-an-original-string-exists-given-two-encoded-strings) (Hard)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

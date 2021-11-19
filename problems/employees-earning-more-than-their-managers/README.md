@@ -11,27 +11,50 @@
 
 ## [181. Employees Earning More Than Their Managers (Easy)](https://leetcode.com/problems/employees-earning-more-than-their-managers "超过经理收入的员工")
 
-<p>The <code>Employee</code> table holds all employees including their managers. Every employee has an Id, and there is also a column for the manager Id.</p>
+<p>Table: <code>Employee</code></p>
 
 <pre>
++-------------+---------+
+| Column Name | Type    |
++-------------+---------+
+| id          | int     |
+| name        | varchar |
+| salary      | int     |
+| managerId   | int     |
++-------------+---------+
+id is the primary key column for this table.
+Each row of this table indicates the ID of an employee, their name, salary, and the ID of their manager.
+</pre>
+
+<p>&nbsp;</p>
+
+<p>Write an SQL query to find the employees who earn more than their managers.</p>
+
+<p>Return the result table in <strong>any order</strong>.</p>
+
+<p>The query result format is in the following example.</p>
+
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
+
+<pre>
+<strong>Input:</strong> 
+Employee table:
 +----+-------+--------+-----------+
-| Id | Name  | Salary | ManagerId |
+| id | name  | salary | managerId |
 +----+-------+--------+-----------+
 | 1  | Joe   | 70000  | 3         |
 | 2  | Henry | 80000  | 4         |
-| 3  | Sam   | 60000  | NULL      |
-| 4  | Max   | 90000  | NULL      |
+| 3  | Sam   | 60000  | Null      |
+| 4  | Max   | 90000  | Null      |
 +----+-------+--------+-----------+
-</pre>
-
-<p>Given the <code>Employee</code> table, write a SQL query that finds out employees who earn more than their managers. For the above table, Joe is the only employee who earns more than his manager.</p>
-
-<pre>
+<strong>Output:</strong> 
 +----------+
 | Employee |
 +----------+
 | Joe      |
 +----------+
+<strong>Explanation:</strong> Joe is the only employee who earns more than his manager.
 </pre>
 
 ### Related Topics

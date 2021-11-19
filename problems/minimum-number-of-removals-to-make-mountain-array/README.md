@@ -66,10 +66,17 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+
+### Similar Questions
+  1. [Longest Increasing Subsequence](../longest-increasing-subsequence) (Medium)
+  1. [Longest Mountain in Array](../longest-mountain-in-array) (Medium)
+  1. [Peak Index in a Mountain Array](../peak-index-in-a-mountain-array) (Easy)
+  1. [Valid Mountain Array](../valid-mountain-array) (Easy)
+  1. [Find in Mountain Array](../find-in-mountain-array) (Hard)
 
 ### Hints
 <details>

@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2061 | [Number of Spaces Cleaning Robot Cleaned](../../problems/number-of-spaces-cleaning-robot-cleaned) 🔒 | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 2033 | [获取单值网格的最小操作数](../../problems/minimum-operations-to-make-a-uni-value-grid) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 2022 | [将一维数组转变成二维数组](../../problems/convert-1d-array-into-2d-array) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 2018 | [判断单词是否能放入填字游戏内](../../problems/check-if-word-can-be-placed-in-crossword) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)] [[矩阵](../matrix/README.md)]  | Medium |

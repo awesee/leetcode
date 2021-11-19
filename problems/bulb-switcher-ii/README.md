@@ -20,9 +20,9 @@
 	<li><strong>Button 4:</strong> Flips the status of all the bulbs with a label <code>j = 3k + 1</code> where <code>k = 0, 1, 2, ...</code> (i.e., <code>1, 4, 7, 10, ...</code>).</li>
 </ul>
 
-<p>You will press one of the four mentioned buttons exactly <code>presses</code> times.</p>
+<p>You must make <strong>exactly</strong> <code>presses</code> button presses in total. For each press, you may pick <strong>any</strong> of the four buttons to press.</p>
 
-<p>Given the two integers <code>n</code> and <code>presses</code>, return <em>the number of <strong>different statuses</strong> after pressing the four buttons <strong>exactly</strong> </em><code>presses</code><em> times</em>.</p>
+<p>Given the two integers <code>n</code> and <code>presses</code>, return <em>the number of <strong>different possible statuses</strong> after performing all </em><code>presses</code><em> button presses</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -30,7 +30,9 @@
 <pre>
 <strong>Input:</strong> n = 1, presses = 1
 <strong>Output:</strong> 2
-<strong>Explanation:</strong> Status can be: [on], [off].
+<strong>Explanation:</strong> Status can be:
+- [off] by pressing button 1
+- [on] by pressing button 2
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -38,7 +40,10 @@
 <pre>
 <strong>Input:</strong> n = 2, presses = 1
 <strong>Output:</strong> 3
-<strong>Explanation:</strong> Status can be: [on, off], [off, on], [off, off].
+<strong>Explanation:</strong> Status can be:
+- [off, off] by pressing button 1
+- [on, off] by pressing button 2
+- [off, on] by pressing button 3
 </pre>
 
 <p><strong>Example 3:</strong></p>
@@ -46,7 +51,29 @@
 <pre>
 <strong>Input:</strong> n = 3, presses = 1
 <strong>Output:</strong> 4
-<strong>Explanation:</strong> Status can be: [off, on, off], [on, off, on], [off, off, off], [off, on, on].
+<strong>Explanation:</strong> Status can be:
+- [off, off, off] by pressing button 1
+- [off, on, off] by pressing button 2
+- [on, off, on] by pressing button 3
+- [off, on, on] by pressing button 4
+</pre>
+
+<p><strong>Example 4:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 1, presses = 0
+<strong>Output:</strong> 1
+<strong>Explanation:</strong> Status can only be [on] since you cannot press any of the buttons.
+</pre>
+
+<p><strong>Example 5:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 1, presses = 2
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> Status can be:
+- [off] by pressing button 1 then button 1 again
+- [on] by pressing button 1 then button 2
 </pre>
 
 <p>&nbsp;</p>
@@ -58,10 +85,11 @@
 </ul>
 
 ### Related Topics
+  [[Math](../../tag/math/README.md)]
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
-  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
   1. [Bulb Switcher](../bulb-switcher) (Medium)
+  1. [Bulb Switcher III](../bulb-switcher-iii) (Medium)

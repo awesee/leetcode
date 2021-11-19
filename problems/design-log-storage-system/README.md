@@ -38,9 +38,9 @@ retrieve("2016:01:01:01:01:01","2017:01:01:23:00:00","Hour"); // return [1,2], b
 </p>
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Design](../../tag/design/README.md)]
   [[Ordered Set](../../tag/ordered-set/README.md)]
 
 ### Similar Questions

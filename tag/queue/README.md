@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2073 | [买票需要的时间](../../problems/time-needed-to-buy-tickets) | [[队列](../queue/README.md)] [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 2071 | [你可以安排的最多任务数目](../../problems/maximum-number-of-tasks-you-can-assign) | [[贪心](../greedy/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)] [[单调队列](../monotonic-queue/README.md)]  | Hard |
 | 1825 | [求出 MK 平均值](../../problems/finding-mk-average) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
 | 1700 | [无法吃午餐的学生数量](../../problems/number-of-students-unable-to-eat-lunch) | [[栈](../stack/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 1696 | [跳跃游戏 VI](../../problems/jump-game-vi) | [[队列](../queue/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[滑动窗口](../sliding-window/README.md)] [[单调队列](../monotonic-queue/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |

@@ -15,7 +15,7 @@
 
 <p>The <strong>path sum</strong> of a path is the sum of the node&#39;s values in the path.</p>
 
-<p>Given the <code>root</code> of a binary tree, return <em>the maximum <strong>path sum</strong> of any path</em>.</p>
+<p>Given the <code>root</code> of a binary tree, return <em>the maximum <strong>path sum</strong> of any <strong>non-empty</strong> path</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -43,9 +43,9 @@
 </ul>
 
 ### Related Topics
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions
@@ -53,3 +53,4 @@
   1. [Sum Root to Leaf Numbers](../sum-root-to-leaf-numbers) (Medium)
   1. [Path Sum IV](../path-sum-iv) (Medium)
   1. [Longest Univalue Path](../longest-univalue-path) (Medium)
+  1. [Time Needed to Inform All Employees](../time-needed-to-inform-all-employees) (Medium)

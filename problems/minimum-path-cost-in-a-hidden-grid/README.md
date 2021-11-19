@@ -17,8 +17,12 @@
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Graph](../../tag/graph/README.md)]
-  [[Interactive](../../tag/interactive/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Interactive](../../tag/interactive/README.md)]
+
+### Similar Questions
+  1. [Robot Room Cleaner](../robot-room-cleaner) (Hard)
+  1. [Shortest Path in a Hidden Grid](../shortest-path-in-a-hidden-grid) (Medium)
 
 ### Hints
 <details>

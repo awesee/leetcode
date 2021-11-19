@@ -82,16 +82,16 @@
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
-  [[Math](../../tag/math/README.md)]
-  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
   [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
   [[Memoization](../../tag/memoization/README.md)]
-  [[Combinatorics](../../tag/combinatorics/README.md)]
+  [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
+  [[Combinatorics](../../tag/combinatorics/README.md)]
 
 ### Hints
 <details>

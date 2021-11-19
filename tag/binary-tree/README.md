@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2049 | [统计最高分的节点数目](../../problems/count-nodes-with-the-highest-score) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
 | 1932 | [合并多棵二叉搜索树](../../problems/merge-bsts-to-create-single-bst) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Hard |
 | 1902 | [Depth of BST Given Insertion Order](../../problems/depth-of-bst-given-insertion-order) 🔒 | [[树](../tree/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[二叉树](../binary-tree/README.md)] [[有序集合](../ordered-set/README.md)]  | Medium |
 | 1740 | [找到二叉树中的距离](../../problems/find-distance-in-a-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |

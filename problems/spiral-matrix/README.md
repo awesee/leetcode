@@ -45,6 +45,7 @@
 
 ### Similar Questions
   1. [Spiral Matrix II](../spiral-matrix-ii) (Medium)
+  1. [Spiral Matrix III](../spiral-matrix-iii) (Medium)
 
 ### Hints
 <details>

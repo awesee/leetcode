@@ -47,9 +47,9 @@ However, splitting into [2, 1], [3], [4], [4] is the highest number of chunks po
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Stack](../../tag/stack/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
-  [[Array](../../tag/array/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
   [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
 

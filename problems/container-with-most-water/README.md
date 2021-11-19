@@ -55,9 +55,9 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Similar Questions
   1. [Trapping Rain Water](../trapping-rain-water) (Hard)

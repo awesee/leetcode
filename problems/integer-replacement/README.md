@@ -53,6 +53,7 @@ or 7 -&gt; 6 -&gt; 3 -&gt; 2 -&gt; 1
 </ul>
 
 ### Related Topics
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Memoization](../../tag/memoization/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]

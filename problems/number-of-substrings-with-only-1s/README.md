@@ -61,6 +61,7 @@
 
 ### Similar Questions
   1. [Count Number of Homogenous Substrings](../count-number-of-homogenous-substrings) (Medium)
+  1. [Count Vowel Substrings of a String](../count-vowel-substrings-of-a-string) (Easy)
 
 ### Hints
 <details>

@@ -59,8 +59,7 @@ The maximum distance is 2 with pair (2,4).
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums1.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>1 &lt;= nums2.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= nums1.length, nums2.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= nums1[i], nums2[j] &lt;= 10<sup>5</sup></code></li>
 	<li>Both <code>nums1</code> and <code>nums2</code> are <strong>non-increasing</strong>.</li>
 </ul>

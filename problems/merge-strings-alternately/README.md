@@ -61,6 +61,9 @@ merged: a p b q c   d
   [[Two Pointers](../../tag/two-pointers/README.md)]
   [[String](../../tag/string/README.md)]
 
+### Similar Questions
+  1. [Zigzag Iterator](../zigzag-iterator) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

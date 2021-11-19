@@ -12,3 +12,6 @@
 ## [1949. Strong Friendship (Medium)](https://leetcode.com/problems/strong-friendship "")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

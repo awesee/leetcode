@@ -52,6 +52,10 @@ There are no more pairs that sum up to 6, hence a total of 1 operation.</pre>
   [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
+### Similar Questions
+  1. [Two Sum](../two-sum) (Easy)
+  1. [Count Good Meals](../count-good-meals) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

@@ -62,7 +62,7 @@ snake.move(&quot;U&quot;); -&gt; Returns -1 (Game over because snake collides wi
 </pre>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Design](../../tag/design/README.md)]
   [[Queue](../../tag/queue/README.md)]
-  [[Array](../../tag/array/README.md)]
   [[Matrix](../../tag/matrix/README.md)]

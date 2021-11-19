@@ -64,9 +64,9 @@
 <strong>Follow up:</strong> Could you solve it without loops/recursion?
 
 ### Related Topics
+  [[Math](../../tag/math/README.md)]
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Recursion](../../tag/recursion/README.md)]
-  [[Math](../../tag/math/README.md)]
 
 ### Similar Questions
   1. [Number of 1 Bits](../number-of-1-bits) (Easy)

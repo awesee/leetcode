@@ -12,3 +12,6 @@
 ## [1934. Confirmation Rate (Medium)](https://leetcode.com/problems/confirmation-rate "")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

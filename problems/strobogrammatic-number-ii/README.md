@@ -23,9 +23,9 @@
 </pre>
 
 ### Related Topics
-  [[Recursion](../../tag/recursion/README.md)]
   [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
 
 ### Similar Questions
   1. [Strobogrammatic Number](../strobogrammatic-number) (Easy)

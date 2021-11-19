@@ -52,3 +52,4 @@
 
 ### Similar Questions
   1. [Palindrome Partitioning](../palindrome-partitioning) (Medium)
+  1. [Palindrome Partitioning IV](../palindrome-partitioning-iv) (Hard)

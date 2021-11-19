@@ -36,7 +36,7 @@ TimeMap timeMap = new TimeMap();
 timeMap.set(&quot;foo&quot;, &quot;bar&quot;, 1);  // store the key &quot;foo&quot; and value &quot;bar&quot; along with timestamp = 1.
 timeMap.get(&quot;foo&quot;, 1);         // return &quot;bar&quot;
 timeMap.get(&quot;foo&quot;, 3);         // return &quot;bar&quot;, since there is no value corresponding to foo at timestamp 3 and timestamp 2, then the only value is at timestamp 1 is &quot;bar&quot;.
-timeMap.set(&quot;foo&quot;, &quot;bar2&quot;, 4); // store the key &quot;foo&quot; and value &quot;ba2r&quot; along with timestamp = 4.
+timeMap.set(&quot;foo&quot;, &quot;bar2&quot;, 4); // store the key &quot;foo&quot; and value &quot;bar2&quot; along with timestamp = 4.
 timeMap.get(&quot;foo&quot;, 4);         // return &quot;bar2&quot;
 timeMap.get(&quot;foo&quot;, 5);         // return &quot;bar2&quot;
 </pre>
@@ -53,7 +53,10 @@ timeMap.get(&quot;foo&quot;, 5);         // return &quot;bar2&quot;
 </ul>
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Design](../../tag/design/README.md)]
+
+### Similar Questions
+  1. [Stock Price Fluctuation ](../stock-price-fluctuation) (Medium)

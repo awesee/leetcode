@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2068 | [检查两个字符串是否几乎相等](../../problems/check-whether-two-strings-are-almost-equivalent) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
+| 2062 | [统计字符串中的元音子字符串](../../problems/count-vowel-substrings-of-a-string) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 2053 | [数组中第 K 个独一无二的字符串](../../problems/kth-distinct-string-in-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
 | 2043 | [简易银行系统](../../problems/simple-bank-system) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 2034 | [股票价格波动](../../problems/stock-price-fluctuation) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 2032 | [至少在两个数组中出现的值](../../problems/two-out-of-three) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
@@ -61,7 +64,7 @@
 | 1679 | [K 和数对的最大数目](../../problems/max-number-of-k-sum-pairs) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1674 | [使数组互补的最少操作次数](../../problems/minimum-moves-to-make-array-complementary) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1660 | [纠正二叉树](../../problems/correct-a-binary-tree) 🔒 | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
-| 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
 | 1657 | [确定两个字符串是否接近](../../problems/determine-if-two-strings-are-close) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1656 | [设计有序流](../../problems/design-an-ordered-stream) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数据流](../data-stream/README.md)]  | Easy |
 | 1650 | [二叉树的最近公共祖先 III](../../problems/lowest-common-ancestor-of-a-binary-tree-iii) 🔒 | [[树](../tree/README.md)] [[哈希表](../hash-table/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
@@ -174,7 +177,7 @@
 | 974 | [和可被 K 整除的子数组](../../problems/subarray-sums-divisible-by-k) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 970 | [强整数](../../problems/powerful-integers) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
 | 966 | [元音拼写检查器](../../problems/vowel-spellchecker) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 961 | [重复 N 次的元素](../../problems/n-repeated-element-in-size-2n-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 961 | [在长度 2N 的数组中找出重复 N 次的元素](../../problems/n-repeated-element-in-size-2n-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 957 | [N 天后的牢房](../../problems/prison-cells-after-n-days) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
 | 954 | [二倍数对数组](../../problems/array-of-doubled-pairs) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 953 | [验证外星语词典](../../problems/verifying-an-alien-dictionary) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
@@ -228,7 +231,7 @@
 | 697 | [数组的度](../../problems/degree-of-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
 | 694 | [不同岛屿的数量](../../problems/number-of-distinct-islands) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[哈希表](../hash-table/README.md)] [[哈希函数](../hash-function/README.md)]  | Medium |
 | 692 | [前K个高频单词](../../problems/top-k-frequent-words) | [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[桶排序](../bucket-sort/README.md)] [[计数](../counting/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
-| 690 | [员工的重要性](../../problems/employee-importance) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Easy |
+| 690 | [员工的重要性](../../problems/employee-importance) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[哈希表](../hash-table/README.md)]  | Medium |
 | 677 | [键值映射](../../problems/map-sum-pairs) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 676 | [实现一个魔法字典](../../problems/implement-magic-dictionary) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 659 | [分割数组为连续子序列](../../problems/split-array-into-consecutive-subsequences) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |

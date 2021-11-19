@@ -61,6 +61,9 @@
   [[String](../../tag/string/README.md)]
   [[Counting](../../tag/counting/README.md)]
 
+### Similar Questions
+  1. [Buddy Strings](../buddy-strings) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

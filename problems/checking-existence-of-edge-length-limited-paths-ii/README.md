@@ -18,6 +18,9 @@
   [[Graph](../../tag/graph/README.md)]
   [[Minimum Spanning Tree](../../tag/minimum-spanning-tree/README.md)]
 
+### Similar Questions
+  1. [Checking Existence of Edge Length Limited Paths](../checking-existence-of-edge-length-limited-paths) (Hard)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

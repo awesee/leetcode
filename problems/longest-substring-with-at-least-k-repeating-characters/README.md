@@ -44,3 +44,7 @@
   [[String](../../tag/string/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
+
+### Similar Questions
+  1. [Longest Subsequence Repeated k Times](../longest-subsequence-repeated-k-times) (Hard)
+  1. [Number of Equal Count Substrings](../number-of-equal-count-substrings) (Medium)

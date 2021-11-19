@@ -64,11 +64,15 @@ q.popFront();     // return -1 -&gt; [] (The queue is empty)
 </ul>
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
-  [[Queue](../../tag/queue/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Queue](../../tag/queue/README.md)]
   [[Data Stream](../../tag/data-stream/README.md)]
+
+### Similar Questions
+  1. [Design Circular Deque](../design-circular-deque) (Medium)
+  1. [Design Circular Queue](../design-circular-queue) (Medium)
 
 ### Hints
 <details>

@@ -73,7 +73,9 @@
 ### Related Topics
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Math](../../tag/math/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Combinatorics](../../tag/combinatorics/README.md)]
 
 ### Hints
 <details>

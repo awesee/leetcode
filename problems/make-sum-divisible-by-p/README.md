@@ -71,6 +71,9 @@
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
+### Similar Questions
+  1. [Subarray Sums Divisible by K](../subarray-sums-divisible-by-k) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

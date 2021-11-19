@@ -49,15 +49,16 @@ To the right of 1 there is <b>0</b> smaller element.
 </ul>
 
 ### Related Topics
-  [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
-  [[Segment Tree](../../tag/segment-tree/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
-  [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
+  [[Segment Tree](../../tag/segment-tree/README.md)]
   [[Merge Sort](../../tag/merge-sort/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
 
 ### Similar Questions
   1. [Count of Range Sum](../count-of-range-sum) (Hard)
   1. [Queue Reconstruction by Height](../queue-reconstruction-by-height) (Medium)
   1. [Reverse Pairs](../reverse-pairs) (Hard)
+  1. [How Many Numbers Are Smaller Than the Current Number](../how-many-numbers-are-smaller-than-the-current-number) (Easy)

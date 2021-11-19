@@ -61,12 +61,9 @@
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
-
-### Similar Questions
-  1. [Find Valid Matrix Given Row and Column Sums](../find-valid-matrix-given-row-and-column-sums) (Medium)
 
 ### Hints
 <details>

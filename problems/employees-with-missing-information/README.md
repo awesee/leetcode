@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../binary-searchable-numbers-in-an-unsorted-array "Binary Searchable Numbers in an Unsorted Array")
 
-## [1965. Employees With Missing Information (Easy)](https://leetcode.com/problems/employees-with-missing-information "")
+## [1965. Employees With Missing Information (Easy)](https://leetcode.com/problems/employees-with-missing-information "丢失信息的雇员")
 
 
 

@@ -82,3 +82,4 @@ Hence, there are no valid ways to decode this since all digits need to be mapped
 
 ### Similar Questions
   1. [Decode Ways II](../decode-ways-ii) (Hard)
+  1. [Number of Ways to Separate Numbers](../number-of-ways-to-separate-numbers) (Hard)

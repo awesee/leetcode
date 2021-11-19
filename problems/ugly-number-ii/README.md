@@ -47,10 +47,11 @@
 
 ### Similar Questions
   1. [Merge k Sorted Lists](../merge-k-sorted-lists) (Hard)
-  1. [Count Primes](../count-primes) (Easy)
+  1. [Count Primes](../count-primes) (Medium)
   1. [Ugly Number](../ugly-number) (Easy)
   1. [Perfect Squares](../perfect-squares) (Medium)
   1. [Super Ugly Number](../super-ugly-number) (Medium)
+  1. [Ugly Number III](../ugly-number-iii) (Medium)
 
 ### Hints
 <details>

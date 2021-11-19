@@ -50,9 +50,9 @@
 </ul>
 
 ### Related Topics
+  [[Backtracking](../../tag/backtracking/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
-  [[Backtracking](../../tag/backtracking/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions

@@ -45,9 +45,9 @@ Notice that matches can overlap, see &quot;aba&quot; is found in [0,2] and [2,4]
 </ol>
 
 ### Related Topics
-  [[Trie](../../tag/trie/README.md)]
   [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Trie](../../tag/trie/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints

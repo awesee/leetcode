@@ -48,9 +48,9 @@ solution.pick(3); // It should return either index 2, 3, or 4 randomly. Each ind
 </ul>
 
 ### Related Topics
+  [[Reservoir Sampling](../../tag/reservoir-sampling/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Math](../../tag/math/README.md)]
-  [[Reservoir Sampling](../../tag/reservoir-sampling/README.md)]
   [[Randomized](../../tag/randomized/README.md)]
 
 ### Similar Questions

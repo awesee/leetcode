@@ -17,16 +17,16 @@
 +-------------+----------+
 | Column Name | Type     |
 +-------------+----------+
-| Id          | int      |
-| Client_Id   | int      |
-| Driver_Id   | int      |
-| City_Id     | int      |
-| Status      | enum     |
-| Request_at  | date     |     
+| id          | int      |
+| client_id   | int      |
+| driver_id   | int      |
+| city_id     | int      |
+| status      | enum     |
+| request_at  | date     |     
 +-------------+----------+
-Id is the primary key for this table.
-The table holds all taxi trips. Each trip has a unique Id, while Client_Id and Driver_Id are foreign keys to the Users_Id at the Users table.
-Status is an ENUM type of (&lsquo;completed&rsquo;, &lsquo;cancelled_by_driver&rsquo;, &lsquo;cancelled_by_client&rsquo;).
+id is the primary key for this table.
+The table holds all taxi trips. Each trip has a unique id, while client_id and driver_id are foreign keys to the users_id at the Users table.
+Status is an ENUM type of (&#39;completed&#39;, &#39;cancelled_by_driver&#39;, &#39;cancelled_by_client&#39;).
 </pre>
 
 <p>&nbsp;</p>
@@ -37,22 +37,22 @@ Status is an ENUM type of (&lsquo;completed&rsquo;, &lsquo;cancelled_by_driver&r
 +-------------+----------+
 | Column Name | Type     |
 +-------------+----------+
-| Users_Id    | int      |
-| Banned      | enum     |
-| Role        | enum     |
+| users_id    | int      |
+| banned      | enum     |
+| role        | enum     |
 +-------------+----------+
-Users_Id is the primary key for this table.
-The table holds all users. Each user has a unique Users_Id, and Role is an ENUM type of (&lsquo;client&rsquo;, &lsquo;driver&rsquo;, &lsquo;partner&rsquo;).
-Status is an ENUM type of (&lsquo;Yes&rsquo;, &lsquo;No&rsquo;).
+users_id is the primary key for this table.
+The table holds all users. Each user has a unique users_id, and role is an ENUM type of (&#39;client&#39;, &#39;driver&#39;, &#39;partner&#39;).
+banned is an ENUM type of (&#39;Yes&#39;, &#39;No&#39;).
 </pre>
 
 <p>&nbsp;</p>
 
-<p>Write a SQL query to find the <strong>cancellation rate</strong> of requests with unbanned users (<strong>both client and driver must not be banned</strong>) each day between <code>&quot;2013-10-01&quot;</code> and <code>&quot;2013-10-03&quot;</code>.</p>
-
 <p>The <strong>cancellation rate</strong> is computed by dividing the number of canceled (by client or driver) requests with unbanned users by the total number of requests with unbanned users on that day.</p>
 
-<p>Return the result table in any order. Round <code>Cancellation Rate</code> to <strong>two decimal</strong> points.</p>
+<p>Write a SQL query to find the <strong>cancellation rate</strong> of requests with unbanned users (<strong>both client and driver must not be banned</strong>) each day between <code>&quot;2013-10-01&quot;</code> and <code>&quot;2013-10-03&quot;</code>. Round <code>Cancellation Rate</code> to <strong>two decimal</strong> points.</p>
+
+<p>Return the result table in <strong>any order</strong>.</p>
 
 <p>The query result format is in the following example.</p>
 
@@ -63,7 +63,7 @@ Status is an ENUM type of (&lsquo;Yes&rsquo;, &lsquo;No&rsquo;).
 <strong>Input:</strong> 
 Trips table:
 +----+-----------+-----------+---------+---------------------+------------+
-| Id | Client_Id | Driver_Id | City_Id | Status              | Request_at |
+| id | client_id | driver_id | city_id | status              | request_at |
 +----+-----------+-----------+---------+---------------------+------------+
 | 1  | 1         | 10        | 1       | completed           | 2013-10-01 |
 | 2  | 2         | 11        | 1       | cancelled_by_driver | 2013-10-01 |
@@ -78,7 +78,7 @@ Trips table:
 +----+-----------+-----------+---------+---------------------+------------+
 Users table:
 +----------+--------+--------+
-| Users_Id | Banned | Role   |
+| users_id | banned | role   |
 +----------+--------+--------+
 | 1        | No     | client |
 | 2        | Yes    | client |

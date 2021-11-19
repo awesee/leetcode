@@ -9,6 +9,11 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2075 | [解码斜向换位密码](../../problems/decode-the-slanted-ciphertext) | [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2073 | [买票需要的时间](../../problems/time-needed-to-buy-tickets) | [[队列](../queue/README.md)] [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 2069 | [模拟行走机器人 II](../../problems/walking-robot-simulation-ii) | [[设计](../design/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2061 | [Number of Spaces Cleaning Robot Cleaned](../../problems/number-of-spaces-cleaning-robot-cleaned) 🔒 | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2056 | [棋盘上有效移动组合的数目](../../problems/number-of-valid-move-combinations-on-chessboard) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[模拟](../simulation/README.md)]  | Hard |
 | 2043 | [简易银行系统](../../problems/simple-bank-system) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 2028 | [找出缺失的观测数据](../../problems/find-missing-observations) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 2022 | [将一维数组转变成二维数组](../../problems/convert-1d-array-into-2d-array) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Easy |

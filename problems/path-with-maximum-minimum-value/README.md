@@ -56,12 +56,15 @@ The path with the maximum score is highlighted in yellow.
 </ol>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
-  [[Array](../../tag/array/README.md)]
-  [[Matrix](../../tag/matrix/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Matrix](../../tag/matrix/README.md)]
+
+### Similar Questions
+  1. [Path With Minimum Effort](../path-with-minimum-effort) (Medium)
 
 ### Hints
 <details>

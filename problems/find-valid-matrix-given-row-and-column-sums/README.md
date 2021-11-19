@@ -76,9 +76,12 @@ Another possible matrix is: [[1,2],
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
+
+### Similar Questions
+  1. [Reconstruct a 2-Row Binary Matrix](../reconstruct-a-2-row-binary-matrix) (Medium)
 
 ### Hints
 <details>

@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2063 | [所有子字符串中的元音](../../problems/vowels-of-all-substrings) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Medium |
+| 2048 | [下一个更大的数值平衡数](../../problems/next-greater-numerically-balanced-number) | [[数学](../math/README.md)] [[回溯](../backtracking/README.md)] [[枚举](../enumeration/README.md)]  | Medium |
 | 2038 | [如果相邻两个颜色均相同则删除当前颜色](../../problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
 | 2033 | [获取单值网格的最小操作数](../../problems/minimum-operations-to-make-a-uni-value-grid) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 2029 | [石子游戏 IX](../../problems/stone-game-ix) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
@@ -35,6 +37,7 @@
 | 1878 | [矩阵中最大的三个菱形和](../../problems/get-biggest-three-rhombus-sums-in-a-grid) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)] [[前缀和](../prefix-sum/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 1872 | [石子游戏 VIII](../../problems/stone-game-viii) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
 | 1866 | [恰有 K 根木棍可以看到的排列数目](../../problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Hard |
+| 1863 | [找出所有子集的异或总和再求和](../../problems/sum-of-all-subset-xor-totals) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[回溯](../backtracking/README.md)] [[组合数学](../combinatorics/README.md)]  | Easy |
 | 1862 | [向下取整数对和](../../problems/sum-of-floored-pairs) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
 | 1840 | [最高建筑高度](../../problems/maximum-building-height) | [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1837 | [K 进制表示下的各位数字总和](../../problems/sum-of-digits-in-base-k) | [[数学](../math/README.md)]  | Easy |
@@ -310,7 +313,7 @@
 | 223 | [矩形面积](../../problems/rectangle-area) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
 | 204 | [计数质数](../../problems/count-primes) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[枚举](../enumeration/README.md)] [[数论](../number-theory/README.md)]  | Medium |
 | 202 | [快乐数](../../problems/happy-number) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
-| 189 | [旋转数组](../../problems/rotate-array) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 189 | [轮转数组](../../problems/rotate-array) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 172 | [阶乘后的零](../../problems/factorial-trailing-zeroes) | [[数学](../math/README.md)]  | Medium |
 | 171 | [Excel 表列序号](../../problems/excel-sheet-column-number) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 168 | [Excel表列名称](../../problems/excel-sheet-column-title) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |

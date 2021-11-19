@@ -11,17 +11,15 @@
 
 ## [538. Convert BST to Greater Tree (Medium)](https://leetcode.com/problems/convert-bst-to-greater-tree "把二叉搜索树转换为累加树")
 
-<p>Given the <code>root</code> of a Binary Search Tree (BST), convert it to a Greater Tree such that every key of the original BST is changed to the original key plus sum of all keys greater than the original key in BST.</p>
+<p>Given the <code>root</code> of a Binary Search Tree (BST), convert it to a Greater Tree such that every key of the original BST is changed to the original key plus the sum of all keys greater than the original key in BST.</p>
 
 <p>As a reminder, a <em>binary search tree</em> is a tree that satisfies these constraints:</p>
 
 <ul>
-	<li>The left subtree of a node contains only nodes with keys&nbsp;<strong>less than</strong>&nbsp;the node&#39;s key.</li>
-	<li>The right subtree of a node contains only nodes with keys&nbsp;<strong>greater than</strong>&nbsp;the node&#39;s key.</li>
+	<li>The left subtree of a node contains only nodes with keys <strong>less than</strong> the node&#39;s key.</li>
+	<li>The right subtree of a node contains only nodes with keys <strong>greater than</strong> the node&#39;s key.</li>
 	<li>Both the left and right subtrees must also be binary search trees.</li>
 </ul>
-
-<p><strong>Note:</strong> This question is the same as&nbsp;1038:&nbsp;<a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/">https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/</a></p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -61,6 +59,9 @@
 	<li>All the values in the tree are <strong>unique</strong>.</li>
 	<li><code>root</code> is guaranteed to be a valid binary search tree.</li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Note:</strong> This question is the same as 1038: <a href="https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/" target="_blank">https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/</a></p>
 
 ### Related Topics
   [[Tree](../../tag/tree/README.md)]

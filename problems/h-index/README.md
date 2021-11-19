@@ -45,8 +45,8 @@ Since the researcher has 3 papers with at least 3 citations each and the remaini
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
-  [[Counting Sort](../../tag/counting-sort/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
+  [[Counting Sort](../../tag/counting-sort/README.md)]
 
 ### Similar Questions
   1. [H-Index II](../h-index-ii) (Medium)

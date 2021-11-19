@@ -40,13 +40,10 @@
 <p><strong>Note:</strong> This question is the same as 1081: <a href="https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/" target="_blank">https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/</a></p>
 
 ### Related Topics
-  [[String](../../tag/string/README.md)]
   [[Stack](../../tag/stack/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
+  [[String](../../tag/string/README.md)]
   [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
-
-### Similar Questions
-  1. [Smallest K-Length Subsequence With Occurrences of a Letter](../smallest-k-length-subsequence-with-occurrences-of-a-letter) (Hard)
 
 ### Hints
 <details>

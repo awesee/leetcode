@@ -70,12 +70,22 @@ Bob wins.
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
-  [[Game Theory](../../tag/game-theory/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Game Theory](../../tag/game-theory/README.md)]
+
+### Similar Questions
+  1. [Stone Game](../stone-game) (Medium)
+  1. [Stone Game II](../stone-game-ii) (Medium)
+  1. [Stone Game III](../stone-game-iii) (Hard)
+  1. [Stone Game IV](../stone-game-iv) (Hard)
+  1. [Stone Game V](../stone-game-v) (Hard)
+  1. [Stone Game VII](../stone-game-vii) (Medium)
+  1. [Stone Game VIII](../stone-game-viii) (Hard)
+  1. [Stone Game IX](../stone-game-ix) (Medium)
 
 ### Hints
 <details>

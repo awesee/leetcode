@@ -9,13 +9,16 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2065 | [最大化一张图中的路径价值](../../problems/maximum-path-quality-of-a-graph) | [[图](../graph/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 2056 | [棋盘上有效移动组合的数目](../../problems/number-of-valid-move-combinations-on-chessboard) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[模拟](../simulation/README.md)]  | Hard |
+| 2048 | [下一个更大的数值平衡数](../../problems/next-greater-numerically-balanced-number) | [[数学](../math/README.md)] [[回溯](../backtracking/README.md)] [[枚举](../enumeration/README.md)]  | Medium |
 | 2044 | [统计按位或能得到最大值的子集数目](../../problems/count-number-of-maximum-bitwise-or-subsets) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 2014 | [重复 K 次的最长子序列](../../problems/longest-subsequence-repeated-k-times) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
 | 2002 | [两个回文子序列长度的最大乘积](../../problems/maximum-product-of-the-length-of-two-palindromic-subsequences) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
 | 1986 | [完成任务的最少工作时间段](../../problems/minimum-number-of-work-sessions-to-finish-the-tasks) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
 | 1980 | [找出不同的二进制字符串](../../problems/find-unique-binary-string) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 1947 | [最大兼容性评分和](../../problems/maximum-compatibility-score-sum) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
-| 1863 | [找出所有子集的异或总和再求和](../../problems/sum-of-all-subset-xor-totals) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Easy |
+| 1863 | [找出所有子集的异或总和再求和](../../problems/sum-of-all-subset-xor-totals) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[回溯](../backtracking/README.md)] [[组合数学](../combinatorics/README.md)]  | Easy |
 | 1849 | [将字符串拆分为递减的连续值](../../problems/splitting-a-string-into-descending-consecutive-values) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 1820 | [最多邀请的个数](../../problems/maximum-number-of-accepted-invitations) 🔒 | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1799 | [N 次操作后的最大分数和](../../problems/maximize-score-after-n-operations) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)] [[数论](../number-theory/README.md)]  | Hard |
@@ -55,7 +58,6 @@
 | 494 | [目标和](../../problems/target-sum) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 491 | [递增子序列](../../problems/increasing-subsequences) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 489 | [扫地机器人](../../problems/robot-room-cleaner) 🔒 | [[回溯](../backtracking/README.md)] [[交互](../interactive/README.md)]  | Hard |
-| 488 | [祖玛游戏](../../problems/zuma-game) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
 | 473 | [火柴拼正方形](../../problems/matchsticks-to-square) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
 | 465 | [最优账单平衡](../../problems/optimal-account-balancing) 🔒 | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
 | 425 | [单词方块](../../problems/word-squares) 🔒 | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |

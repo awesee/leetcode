@@ -46,3 +46,4 @@
 ### Similar Questions
   1. [Edit Distance](../edit-distance) (Hard)
   1. [Minimum ASCII Delete Sum for Two Strings](../minimum-ascii-delete-sum-for-two-strings) (Medium)
+  1. [Longest Common Subsequence](../longest-common-subsequence) (Medium)

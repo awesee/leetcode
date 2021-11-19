@@ -19,6 +19,10 @@
   [[String](../../tag/string/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
+### Similar Questions
+  1. [Top K Frequent Elements](../top-k-frequent-elements) (Medium)
+  1. [Top K Frequent Words](../top-k-frequent-words) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

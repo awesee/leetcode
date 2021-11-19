@@ -10,4 +10,4 @@
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
 | 753 | [破解保险箱](../../problems/cracking-the-safe) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[欧拉回路](../eulerian-circuit/README.md)]  | Hard |
-| 332 | [重新安排行程](../../problems/reconstruct-itinerary) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[欧拉回路](../eulerian-circuit/README.md)]  | Medium |
+| 332 | [重新安排行程](../../problems/reconstruct-itinerary) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[欧拉回路](../eulerian-circuit/README.md)]  | Hard |
