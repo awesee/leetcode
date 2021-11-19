@@ -71,6 +71,9 @@ The bag with the most number of balls has 2 balls, so your penalty is 2 an you s
   [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
 
+### Similar Questions
+  1. [Minimized Maximum of Products Distributed to Any Store](../minimized-maximum-of-products-distributed-to-any-store) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2068 | [检查两个字符串是否几乎相等](../../problems/check-whether-two-strings-are-almost-equivalent) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
+| 2067 | [Number of Equal Count Substrings](../../problems/number-of-equal-count-substrings) 🔒 | [[字符串](../string/README.md)] [[计数](../counting/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 2053 | [数组中第 K 个独一无二的字符串](../../problems/kth-distinct-string-in-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
 | 2029 | [石子游戏 IX](../../problems/stone-game-ix) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
 | 2025 | [分割数组的最多方案数](../../problems/maximum-number-of-ways-to-partition-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
 | 2014 | [重复 K 次的最长子序列](../../problems/longest-subsequence-repeated-k-times) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)]  | Hard |

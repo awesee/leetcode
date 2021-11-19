@@ -15,3 +15,8 @@
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Report Contiguous Dates](../report-contiguous-dates) (Hard)
+  1. [Find the Start and End Number of Continuous Ranges](../find-the-start-and-end-number-of-continuous-ranges) (Medium)
+  1. [Number of Transactions per Visit](../number-of-transactions-per-visit) (Hard)

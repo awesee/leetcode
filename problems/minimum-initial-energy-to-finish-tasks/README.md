@@ -74,8 +74,8 @@ Starting with 27 energy, we finish the tasks in the following order:
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints

@@ -15,3 +15,6 @@
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Product's Price for Each Store](../products-price-for-each-store) (Easy)

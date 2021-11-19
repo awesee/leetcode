@@ -31,13 +31,15 @@ rating is a 2 decimal places float in the range [0, 10]
 
 <p>Write an SQL query to report the movies with an odd-numbered ID and a description that is not <code>&quot;boring&quot;</code>.</p>
 
-<p>Return the result table <strong>in descending order by </strong><code>rating</code>.</p>
+<p>Return the result table ordered by <code>rating</code> <strong>in descending order</strong>.</p>
 
-<p>The query result format is in the following example:</p>
+<p>The query result format is in the following example.</p>
 
 <p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
 
 <pre>
+<strong>Input:</strong> 
 Cinema table:
 +----+------------+-------------+--------+
 | id | movie      | description | rating |
@@ -48,16 +50,16 @@ Cinema table:
 | 4  | Ice song   | Fantacy     | 8.6    |
 | 5  | House card | Interesting | 9.1    |
 +----+------------+-------------+--------+
-
-Result table:
+<strong>Output:</strong> 
 +----+------------+-------------+--------+
 | id | movie      | description | rating |
 +----+------------+-------------+--------+
 | 5  | House card | Interesting | 9.1    |
 | 1  | War        | great 3D    | 8.9    |
 +----+------------+-------------+--------+
-
-We have three movies with odd-numbered ID: 1, 3, and 5. The movie with ID = 3 is boring so we don&#39;t include it in the answer.</pre>
+<strong>Explanation:</strong> 
+We have three movies with odd-numbered IDs: 1, 3, and 5. The movie with ID = 3 is boring so we do not include it in the answer.
+</pre>
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]

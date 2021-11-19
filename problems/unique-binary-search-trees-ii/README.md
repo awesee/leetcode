@@ -36,10 +36,10 @@
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
-  [[Backtracking](../../tag/backtracking/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions

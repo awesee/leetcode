@@ -14,10 +14,10 @@
 
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
-  [[Queue](../../tag/queue/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Design](../../tag/design/README.md)]
+  [[Queue](../../tag/queue/README.md)]
   [[Data Stream](../../tag/data-stream/README.md)]
 
 ### Hints

@@ -67,10 +67,10 @@ This yields an absolute sum difference of <code>|10-9| + |10-3| + |4-5| + |4-1| 
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

@@ -9,6 +9,16 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2075 | [解码斜向换位密码](../../problems/decode-the-slanted-ciphertext) | [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2068 | [检查两个字符串是否几乎相等](../../problems/check-whether-two-strings-are-almost-equivalent) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
+| 2067 | [Number of Equal Count Substrings](../../problems/number-of-equal-count-substrings) 🔒 | [[字符串](../string/README.md)] [[计数](../counting/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 2063 | [所有子字符串中的元音](../../problems/vowels-of-all-substrings) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Medium |
+| 2062 | [统计字符串中的元音子字符串](../../problems/count-vowel-substrings-of-a-string) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 2060 | [同源字符串检测](../../problems/check-if-an-original-string-exists-given-two-encoded-strings) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 2056 | [棋盘上有效移动组合的数目](../../problems/number-of-valid-move-combinations-on-chessboard) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[模拟](../simulation/README.md)]  | Hard |
+| 2055 | [蜡烛之间的盘子](../../problems/plates-between-candles) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 2053 | [数组中第 K 个独一无二的字符串](../../problems/kth-distinct-string-in-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
+| 2047 | [句子中的有效单词数](../../problems/number-of-valid-words-in-a-sentence) | [[字符串](../string/README.md)]  | Easy |
 | 2042 | [检查句子中的数字是否递增](../../problems/check-if-numbers-are-ascending-in-a-sentence) | [[字符串](../string/README.md)]  | Easy |
 | 2038 | [如果相邻两个颜色均相同则删除当前颜色](../../problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
 | 2030 | [含特定字母的最小子序列](../../problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
@@ -360,11 +370,11 @@
 | 516 | [最长回文子序列](../../problems/longest-palindromic-subsequence) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 514 | [自由之路](../../problems/freedom-trail) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 500 | [键盘行](../../problems/keyboard-row) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
-| 488 | [祖玛游戏](../../problems/zuma-game) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 488 | [祖玛游戏](../../problems/zuma-game) | [[广度优先搜索](../breadth-first-search/README.md)] [[记忆化搜索](../memoization/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 482 | [密钥格式化](../../problems/license-key-formatting) | [[字符串](../string/README.md)]  | Easy |
 | 481 | [神奇字符串](../../problems/magical-string) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 474 | [一和零](../../problems/ones-and-zeroes) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 472 | [连接词](../../problems/concatenated-words) | [[深度优先搜索](../depth-first-search/README.md)] [[字典树](../trie/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 472 | [连接词](../../problems/concatenated-words) | [[深度优先搜索](../depth-first-search/README.md)] [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 471 | [编码最短长度的字符串](../../problems/encode-string-with-shortest-length) 🔒 | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 468 | [验证IP地址](../../problems/validate-ip-address) | [[字符串](../string/README.md)]  | Medium |
 | 467 | [环绕字符串中唯一的子字符串](../../problems/unique-substrings-in-wraparound-string) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

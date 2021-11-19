@@ -65,10 +65,13 @@ Number of Permutations of (1,2,3,4) = 24.
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Bitmask](../../tag/bitmask/README.md)]
+
+### Similar Questions
+  1. [The Number of Good Subsets](../the-number-of-good-subsets) (Hard)
 
 ### Hints
 <details>

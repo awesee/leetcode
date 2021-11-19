@@ -46,6 +46,9 @@ So the answer is 6 which is the maximum.
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
 
+### Similar Questions
+  1. [Count Nodes Equal to Sum of Descendants](../count-nodes-equal-to-sum-of-descendants) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

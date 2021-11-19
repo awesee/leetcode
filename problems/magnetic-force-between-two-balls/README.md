@@ -50,6 +50,9 @@
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
+### Similar Questions
+  1. [Minimized Maximum of Products Distributed to Any Store](../minimized-maximum-of-products-distributed-to-any-store) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

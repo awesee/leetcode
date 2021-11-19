@@ -44,11 +44,14 @@
 </ul>
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Stack](../../tag/stack/README.md)]
   [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
+
+### Similar Questions
+  1. [Largest Rectangle in Histogram](../largest-rectangle-in-histogram) (Hard)
 
 ### Hints
 <details>

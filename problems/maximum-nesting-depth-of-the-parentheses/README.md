@@ -72,8 +72,11 @@
 </ul>
 
 ### Related Topics
-  [[Stack](../../tag/stack/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Stack](../../tag/stack/README.md)]
+
+### Similar Questions
+  1. [Maximum Nesting Depth of Two Valid Parentheses Strings](../maximum-nesting-depth-of-two-valid-parentheses-strings) (Medium)
 
 ### Hints
 <details>

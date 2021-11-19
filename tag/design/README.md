@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2069 | [模拟行走机器人 II](../../problems/walking-robot-simulation-ii) | [[设计](../design/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 2043 | [简易银行系统](../../problems/simple-bank-system) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 2034 | [股票价格波动](../../problems/stock-price-fluctuation) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 2013 | [检测正方形](../../problems/detect-squares) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)]  | Medium |

@@ -48,9 +48,9 @@
 <p><strong>Follow up:</strong> If this function is called many times, how would you optimize it?</p>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
-  1. [Reverse Integer](../reverse-integer) (Easy)
+  1. [Reverse Integer](../reverse-integer) (Medium)
   1. [Number of 1 Bits](../number-of-1-bits) (Easy)

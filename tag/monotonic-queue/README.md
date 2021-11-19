@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2071 | [你可以安排的最多任务数目](../../problems/maximum-number-of-tasks-you-can-assign) | [[贪心](../greedy/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)] [[单调队列](../monotonic-queue/README.md)]  | Hard |
 | 1696 | [跳跃游戏 VI](../../problems/jump-game-vi) | [[队列](../queue/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[滑动窗口](../sliding-window/README.md)] [[单调队列](../monotonic-queue/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 1687 | [从仓库到码头运输箱子](../../problems/delivering-boxes-from-storage-to-ports) | [[线段树](../segment-tree/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[单调队列](../monotonic-queue/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
 | 1499 | [满足不等式的最大值](../../problems/max-value-of-equation) | [[队列](../queue/README.md)] [[数组](../array/README.md)] [[滑动窗口](../sliding-window/README.md)] [[单调队列](../monotonic-queue/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |

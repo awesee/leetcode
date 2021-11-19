@@ -63,8 +63,8 @@ that are outside the specified range.
 </p>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
   1. [Restore IP Addresses](../restore-ip-addresses) (Medium)

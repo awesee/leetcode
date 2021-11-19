@@ -82,10 +82,12 @@ class Node {
 </ul>
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Graph](../../tag/graph/README.md)]
-  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Similar Questions
   1. [Copy List with Random Pointer](../copy-list-with-random-pointer) (Medium)
+  1. [Clone Binary Tree With Random Pointer](../clone-binary-tree-with-random-pointer) (Medium)
+  1. [Clone N-ary Tree](../clone-n-ary-tree) (Medium)

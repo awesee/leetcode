@@ -76,3 +76,6 @@ Result table:
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Product Sales Analysis II](../product-sales-analysis-ii) (Easy)

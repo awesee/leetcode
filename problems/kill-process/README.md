@@ -43,8 +43,8 @@ Kill 5 will also kill 10.
 </p>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
-  [[Array](../../tag/array/README.md)]
-  [[Hash Table](../../tag/hash-table/README.md)]

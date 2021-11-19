@@ -109,3 +109,6 @@ startUrl = &quot;http://news.google.com&quot;
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Concurrency](../../tag/concurrency/README.md)]
+
+### Similar Questions
+  1. [Web Crawler](../web-crawler) (Medium)

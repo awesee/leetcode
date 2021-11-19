@@ -61,6 +61,11 @@ Notice that you cannot attend any other event as they overlap, and that you do <
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
+### Similar Questions
+  1. [Maximum Number of Events That Can Be Attended](../maximum-number-of-events-that-can-be-attended) (Medium)
+  1. [Maximum Earnings From Taxi](../maximum-earnings-from-taxi) (Medium)
+  1. [Two Best Non-Overlapping Events](../two-best-non-overlapping-events) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

@@ -51,6 +51,9 @@
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
+### Similar Questions
+  1. [Maximum Subarray](../maximum-subarray) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

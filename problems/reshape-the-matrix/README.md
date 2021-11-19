@@ -50,6 +50,9 @@
   [[Matrix](../../tag/matrix/README.md)]
   [[Simulation](../../tag/simulation/README.md)]
 
+### Similar Questions
+  1. [Convert 1D Array Into 2D Array](../convert-1d-array-into-2d-array) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

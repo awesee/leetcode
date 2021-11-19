@@ -67,9 +67,9 @@ Some possible constructions &quot;anna&quot; + &quot;elble&quot;, &quot;anbna&qu
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Counting](../../tag/counting/README.md)]
 
 ### Hints

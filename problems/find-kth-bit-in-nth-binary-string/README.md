@@ -71,8 +71,8 @@
 </ul>
 
 ### Related Topics
-  [[String](../../tag/string/README.md)]
   [[Recursion](../../tag/recursion/README.md)]
+  [[String](../../tag/string/README.md)]
 
 ### Hints
 <details>

@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2065 | [最大化一张图中的路径价值](../../problems/maximum-path-quality-of-a-graph) | [[图](../graph/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
+| 2050 | [并行课程 III](../../problems/parallel-courses-iii) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 2045 | [到达目的地的第二短时间](../../problems/second-minimum-time-to-reach-destination) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[数组](../array/README.md)] [[最短路](../shortest-path/README.md)]  | Hard |
 | 2039 | [网络空闲的时刻](../../problems/the-time-when-the-network-becomes-idle) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1976 | [到达目的地的方案数](../../problems/number-of-ways-to-arrive-at-destination) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)] [[最短路](../shortest-path/README.md)]  | Medium |
@@ -77,7 +79,7 @@
 | 490 | [迷宫](../../problems/the-maze) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Medium |
 | 444 | [序列重建](../../problems/sequence-reconstruction) 🔒 | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[数组](../array/README.md)]  | Medium |
 | 399 | [除法求值](../../problems/evaluate-division) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[数组](../array/README.md)] [[最短路](../shortest-path/README.md)]  | Medium |
-| 332 | [重新安排行程](../../problems/reconstruct-itinerary) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[欧拉回路](../eulerian-circuit/README.md)]  | Medium |
+| 332 | [重新安排行程](../../problems/reconstruct-itinerary) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[欧拉回路](../eulerian-circuit/README.md)]  | Hard |
 | 329 | [矩阵中的最长递增路径](../../problems/longest-increasing-path-in-a-matrix) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[记忆化搜索](../memoization/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 323 | [无向图中连通分量的数目](../../problems/number-of-connected-components-in-an-undirected-graph) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Medium |
 | 310 | [最小高度树](../../problems/minimum-height-trees) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Medium |

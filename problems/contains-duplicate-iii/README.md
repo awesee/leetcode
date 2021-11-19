@@ -28,7 +28,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= nums.length &lt;= 2 * 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= nums.length &lt;= 2 * 10<sup>4</sup></code></li>
 	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
 	<li><code>0 &lt;= k &lt;= 10<sup>4</sup></code></li>
 	<li><code>0 &lt;= t &lt;= 2<sup>31</sup> - 1</code></li>
@@ -36,10 +36,10 @@
 
 ### Related Topics
   [[Array](../../tag/array/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
   [[Bucket Sort](../../tag/bucket-sort/README.md)]
   [[Ordered Set](../../tag/ordered-set/README.md)]
-  [[Sorting](../../tag/sorting/README.md)]
-  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Similar Questions
   1. [Contains Duplicate](../contains-duplicate) (Easy)

@@ -14,12 +14,15 @@
 
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Stack](../../tag/stack/README.md)]
   [[Design](../../tag/design/README.md)]
   [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
-  [[Array](../../tag/array/README.md)]
-  [[Hash Table](../../tag/hash-table/README.md)]
   [[Ordered Set](../../tag/ordered-set/README.md)]
+
+### Similar Questions
+  1. [LRU Cache](../lru-cache) (Medium)
 
 ### Hints
 <details>

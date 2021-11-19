@@ -64,8 +64,8 @@ After that, there are fewer than two non-empty piles, so the game ends.
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints

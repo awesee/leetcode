@@ -56,8 +56,8 @@ Note that square 2 only brushes the right side of square 1, which does not count
 </ul>
 
 ### Related Topics
-  [[Segment Tree](../../tag/segment-tree/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Segment Tree](../../tag/segment-tree/README.md)]
   [[Ordered Set](../../tag/ordered-set/README.md)]
 
 ### Similar Questions

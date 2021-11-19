@@ -50,6 +50,7 @@
 
 ### Related Topics
   [[String](../../tag/string/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Hints
 <details>

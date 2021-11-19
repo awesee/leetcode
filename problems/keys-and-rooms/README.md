@@ -55,6 +55,3 @@ Since we were able to visit every room, we return true.
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Graph](../../tag/graph/README.md)]
-
-### Similar Questions
-  1. [Graph Valid Tree](../graph-valid-tree) (Medium)

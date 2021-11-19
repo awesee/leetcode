@@ -59,6 +59,10 @@
   [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
 
+### Similar Questions
+  1. [Consecutive Characters](../consecutive-characters) (Easy)
+  1. [Number of Substrings With Only 1s](../number-of-substrings-with-only-1s) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

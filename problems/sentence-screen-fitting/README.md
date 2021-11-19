@@ -82,3 +82,6 @@ The character '-' signifies an empty space on the screen.
 ### Related Topics
   [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+
+### Similar Questions
+  1. [Minimum Cost to Separate Sentence Into Rows](../minimum-cost-to-separate-sentence-into-rows) (Medium)

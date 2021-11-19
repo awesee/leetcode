@@ -42,10 +42,10 @@
 </ul>
 
 ### Related Topics
-  [[Tree](../../tag/tree/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Tree](../../tag/tree/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions

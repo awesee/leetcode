@@ -7,7 +7,7 @@
 
 [< Previous](../count-number-of-maximum-bitwise-or-subsets "Count Number of Maximum Bitwise-OR Subsets")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../sort-linked-list-already-sorted-using-absolute-values "Sort Linked List Already Sorted Using Absolute Values")
 
 ## [2045. Second Minimum Time to Reach Destination (Hard)](https://leetcode.com/problems/second-minimum-time-to-reach-destination "到达目的地的第二短时间")
 

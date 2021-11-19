@@ -17,10 +17,10 @@
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
-| Id          | int     |
-| Name        | varchar |
+| id          | int     |
+| name        | varchar |
 +-------------+---------+
-Id is the primary key column for this table.
+id is the primary key column for this table.
 Each row of this table indicates the ID and name of a customer.
 </pre>
 
@@ -32,11 +32,11 @@ Each row of this table indicates the ID and name of a customer.
 +-------------+------+
 | Column Name | Type |
 +-------------+------+
-| Id          | int  |
-| CustomerId  | int  |
+| id          | int  |
+| customerId  | int  |
 +-------------+------+
-Id is the primary key column for this table.
-CustomerId is a foreign key of the ID from the Customers table.
+id is the primary key column for this table.
+customerId is a foreign key of the ID from the Customers table.
 Each row of this table indicates the ID of an order and the ID of the customer who ordered it.
 </pre>
 
@@ -55,7 +55,7 @@ Each row of this table indicates the ID of an order and the ID of the customer w
 <strong>Input:</strong> 
 Customers table:
 +----+-------+
-| Id | Name  |
+| id | name  |
 +----+-------+
 | 1  | Joe   |
 | 2  | Henry |
@@ -64,7 +64,7 @@ Customers table:
 +----+-------+
 Orders table:
 +----+------------+
-| Id | CustomerId |
+| id | customerId |
 +----+------------+
 | 1  | 3          |
 | 2  | 1          |

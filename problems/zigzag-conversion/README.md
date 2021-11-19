@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../reverse-integer "Reverse Integer")
 
-## [6. ZigZag Conversion (Medium)](https://leetcode.com/problems/zigzag-conversion "Z 字形变换")
+## [6. Zigzag Conversion (Medium)](https://leetcode.com/problems/zigzag-conversion "Z 字形变换")
 
 <p>The string <code>&quot;PAYPALISHIRING&quot;</code> is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)</p>
 

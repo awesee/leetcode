@@ -56,9 +56,9 @@ The incompatibility is (2-1) + (3-2) + (8-6) + (3-1) = 6.
 </ul>
 
 ### Related Topics
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Bitmask](../../tag/bitmask/README.md)]
 
 ### Hints

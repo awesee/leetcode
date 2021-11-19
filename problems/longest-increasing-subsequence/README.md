@@ -60,3 +60,5 @@
   1. [Maximum Length of Pair Chain](../maximum-length-of-pair-chain) (Medium)
   1. [Number of Longest Increasing Subsequence](../number-of-longest-increasing-subsequence) (Medium)
   1. [Minimum ASCII Delete Sum for Two Strings](../minimum-ascii-delete-sum-for-two-strings) (Medium)
+  1. [Minimum Number of Removals to Make Mountain Array](../minimum-number-of-removals-to-make-mountain-array) (Hard)
+  1. [Find the Longest Valid Obstacle Course at Each Position](../find-the-longest-valid-obstacle-course-at-each-position) (Hard)

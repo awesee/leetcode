@@ -73,7 +73,7 @@ Since every group of farmland is rectangular, the top left corner of each group 
 
 <details>
 <summary>Hint 2</summary>
-Similarly, the top left corner of each group will have the largest x-coordinate and y-coordinate of any farmland in the group.
+Similarly, the bootm right corner of each group will have the largest x-coordinate and y-coordinate of any farmland in the group.
 </details>
 
 <details>

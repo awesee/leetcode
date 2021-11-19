@@ -49,6 +49,9 @@
 ### Related Topics
   [[Math](../../tag/math/README.md)]
 
+### Similar Questions
+  1. [Power of Three](../power-of-three) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

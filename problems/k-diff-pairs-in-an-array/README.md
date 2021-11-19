@@ -80,3 +80,5 @@ Although we have two 1s in the input, we should only return the number of <stron
 
 ### Similar Questions
   1. [Minimum Absolute Difference in BST](../minimum-absolute-difference-in-bst) (Easy)
+  1. [Count Number of Pairs With Absolute Difference K](../count-number-of-pairs-with-absolute-difference-k) (Easy)
+  1. [Kth Smallest Product of Two Sorted Arrays](../kth-smallest-product-of-two-sorted-arrays) (Hard)

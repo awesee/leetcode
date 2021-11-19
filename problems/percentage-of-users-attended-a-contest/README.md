@@ -15,3 +15,6 @@
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Queries Quality and Percentage](../queries-quality-and-percentage) (Easy)

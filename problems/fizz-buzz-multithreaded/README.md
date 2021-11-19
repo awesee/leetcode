@@ -65,3 +65,7 @@
 
 ### Related Topics
   [[Concurrency](../../tag/concurrency/README.md)]
+
+### Similar Questions
+  1. [Fizz Buzz](../fizz-buzz) (Easy)
+  1. [Print Zero Even Odd](../print-zero-even-odd) (Medium)

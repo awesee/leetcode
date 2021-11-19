@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2048 | [下一个更大的数值平衡数](../../problems/next-greater-numerically-balanced-number) | [[数学](../math/README.md)] [[回溯](../backtracking/README.md)] [[枚举](../enumeration/README.md)]  | Medium |
 | 2025 | [分割数组的最多方案数](../../problems/maximum-number-of-ways-to-partition-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
 | 2018 | [判断单词是否能放入填字游戏内](../../problems/check-if-word-can-be-placed-in-crossword) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 2014 | [重复 K 次的最长子序列](../../problems/longest-subsequence-repeated-k-times) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)]  | Hard |

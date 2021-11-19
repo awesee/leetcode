@@ -56,8 +56,8 @@ Note that friendships are not transitive, meaning if <code>x</code> is a friend 
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Hints
 <details>

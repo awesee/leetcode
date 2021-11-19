@@ -46,9 +46,13 @@
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Trie](../../tag/trie/README.md)]
-  [[Array](../../tag/array/README.md)]
+
+### Similar Questions
+  1. [Maximum XOR of Two Numbers in an Array](../maximum-xor-of-two-numbers-in-an-array) (Medium)
+  1. [Maximum Genetic Difference Query](../maximum-genetic-difference-query) (Hard)
 
 ### Hints
 <details>

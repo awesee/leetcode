@@ -46,8 +46,8 @@
 </ul>
 
 ### Related Topics
-  [[Recursion](../../tag/recursion/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
 
 ### Similar Questions
   1. [Sqrt(x)](../sqrtx) (Easy)

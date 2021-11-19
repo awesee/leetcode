@@ -48,3 +48,7 @@
   1. [Longest Palindromic Substring](../longest-palindromic-substring) (Medium)
   1. [Palindromic Substrings](../palindromic-substrings) (Medium)
   1. [Count Different Palindromic Subsequences](../count-different-palindromic-subsequences) (Hard)
+  1. [Longest Common Subsequence](../longest-common-subsequence) (Medium)
+  1. [Longest Palindromic Subsequence II](../longest-palindromic-subsequence-ii) (Medium)
+  1. [Maximize Palindrome Length From Subsequences](../maximize-palindrome-length-from-subsequences) (Hard)
+  1. [Maximum Product of the Length of Two Palindromic Subsequences](../maximum-product-of-the-length-of-two-palindromic-subsequences) (Medium)

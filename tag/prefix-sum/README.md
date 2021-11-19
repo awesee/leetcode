@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2067 | [Number of Equal Count Substrings](../../problems/number-of-equal-count-substrings) 🔒 | [[字符串](../string/README.md)] [[计数](../counting/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 2055 | [蜡烛之间的盘子](../../problems/plates-between-candles) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 2025 | [分割数组的最多方案数](../../problems/maximum-number-of-ways-to-partition-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
 | 2024 | [考试的最大困扰度](../../problems/maximize-the-confusion-of-an-exam) | [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
 | 2021 | [Brightest Position on Street](../../problems/brightest-position-on-street) | [[数组](../array/README.md)] [[有序集合](../ordered-set/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
@@ -37,7 +39,7 @@
 | 1703 | [得到连续 K 个 1 的最少相邻交换次数](../../problems/minimum-adjacent-swaps-for-k-consecutive-ones) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Hard |
 | 1685 | [有序数组中差绝对值之和](../../problems/sum-of-absolute-differences-in-a-sorted-array) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1674 | [使数组互补的最少操作次数](../../problems/minimum-moves-to-make-array-complementary) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
-| 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 1658 | [将 x 减到 0 的最小操作数](../../problems/minimum-operations-to-reduce-x-to-zero) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
 | 1590 | [使数组和能被 P 整除](../../problems/make-sum-divisible-by-p) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1589 | [所有排列中的最大和](../../problems/maximum-sum-obtained-of-any-permutation) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1588 | [所有奇数长度子数组的和](../../problems/sum-of-all-odd-length-subarrays) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[前缀和](../prefix-sum/README.md)]  | Easy |

@@ -55,11 +55,15 @@ The absolute difference is abs(-4 - (-5)) = abs(1) = 1, which is the minimum.
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Bitmask](../../tag/bitmask/README.md)]
+
+### Similar Questions
+  1. [Minimize the Difference Between Target and Chosen Elements](../minimize-the-difference-between-target-and-chosen-elements) (Medium)
+  1. [Partition Array Into Two Arrays to Minimize Sum Difference](../partition-array-into-two-arrays-to-minimize-sum-difference) (Hard)
 
 ### Hints
 <details>

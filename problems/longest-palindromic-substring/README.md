@@ -7,7 +7,7 @@
 
 [< Previous](../median-of-two-sorted-arrays "Median of Two Sorted Arrays")
 　　　　　　　　　　　　　　　　
-[Next >](../zigzag-conversion "ZigZag Conversion")
+[Next >](../zigzag-conversion "Zigzag Conversion")
 
 ## [5. Longest Palindromic Substring (Medium)](https://leetcode.com/problems/longest-palindromic-substring "最长回文子串")
 

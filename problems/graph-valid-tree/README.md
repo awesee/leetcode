@@ -36,6 +36,7 @@
 ### Similar Questions
   1. [Course Schedule](../course-schedule) (Medium)
   1. [Number of Connected Components in an Undirected Graph](../number-of-connected-components-in-an-undirected-graph) (Medium)
+  1. [Keys and Rooms](../keys-and-rooms) (Medium)
 
 ### Hints
 <details>

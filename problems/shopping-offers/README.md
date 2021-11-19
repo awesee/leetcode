@@ -57,9 +57,9 @@ You cannot add more items, though only $9 for 2A ,2B and 1C.
 </ul>
 
 ### Related Topics
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
-  [[Memoization](../../tag/memoization/README.md)]
   [[Bitmask](../../tag/bitmask/README.md)]

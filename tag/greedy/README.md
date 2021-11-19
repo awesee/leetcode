@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2071 | [你可以安排的最多任务数目](../../problems/maximum-number-of-tasks-you-can-assign) | [[贪心](../greedy/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)] [[单调队列](../monotonic-queue/README.md)]  | Hard |
 | 2038 | [如果相邻两个颜色均相同则删除当前颜色](../../problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
 | 2030 | [含特定字母的最小子序列](../../problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
 | 2029 | [石子游戏 IX](../../problems/stone-game-ix) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
@@ -39,7 +40,6 @@
 | 1833 | [雪糕的最大数量](../../problems/maximum-ice-cream-bars) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1827 | [最少操作使数组递增](../../problems/minimum-operations-to-make-the-array-increasing) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
 | 1824 | [最少侧跳次数](../../problems/minimum-sideway-jumps) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
-| 1818 | [绝对差值和](../../problems/minimum-absolute-sum-difference) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[有序集合](../ordered-set/README.md)]  | Medium |
 | 1802 | [有界数组中指定下标处的最大值](../../problems/maximum-value-at-a-given-index-in-a-bounded-array) | [[贪心](../greedy/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1798 | [你能构造出连续值的最大数目](../../problems/maximum-number-of-consecutive-values-you-can-make) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1794 | [统计距离最小的子串对个数](../../problems/count-pairs-of-equal-substrings-with-minimum-difference) 🔒 | [[贪心](../greedy/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
@@ -197,6 +197,7 @@
 | 409 | [最长回文串](../../problems/longest-palindrome) | [[贪心](../greedy/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 406 | [根据身高重建队列](../../problems/queue-reconstruction-by-height) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 402 | [移掉 K 位数字](../../problems/remove-k-digits) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 397 | [整数替换](../../problems/integer-replacement) | [[贪心](../greedy/README.md)] [[位运算](../bit-manipulation/README.md)] [[记忆化搜索](../memoization/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 376 | [摆动序列](../../problems/wiggle-subsequence) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 358 | [K 距离间隔重排字符串](../../problems/rearrange-string-k-distance-apart) 🔒 | [[贪心](../greedy/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
 | 334 | [递增的三元子序列](../../problems/increasing-triplet-subsequence) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |

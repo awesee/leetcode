@@ -9,6 +9,11 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2063 | [所有子字符串中的元音](../../problems/vowels-of-all-substrings) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[组合数学](../combinatorics/README.md)]  | Medium |
+| 2060 | [同源字符串检测](../../problems/check-if-an-original-string-exists-given-two-encoded-strings) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 2054 | [两个最好的不重叠活动](../../problems/two-best-non-overlapping-events) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 2052 | [Minimum Cost to Separate Sentence Into Rows](../../problems/minimum-cost-to-separate-sentence-into-rows) 🔒 | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 2050 | [并行课程 III](../../problems/parallel-courses-iii) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 2036 | [Maximum Alternating Subarray Sum](../../problems/maximum-alternating-subarray-sum) 🔒 | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 2035 | [将数组分成两个数组并最小化数组和的差](../../problems/partition-array-into-two-arrays-to-minimize-sum-difference) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)] [[有序集合](../ordered-set/README.md)]  | Hard |
 | 2019 | [解出数学表达式的学生分数](../../problems/the-score-of-students-solving-math-expression) | [[栈](../stack/README.md)] [[记忆化搜索](../memoization/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -260,11 +265,12 @@
 | 514 | [自由之路](../../problems/freedom-trail) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 509 | [斐波那契数](../../problems/fibonacci-number) | [[递归](../recursion/README.md)] [[记忆化搜索](../memoization/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 494 | [目标和](../../problems/target-sum) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 488 | [祖玛游戏](../../problems/zuma-game) | [[广度优先搜索](../breadth-first-search/README.md)] [[记忆化搜索](../memoization/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 487 | [最大连续1的个数 II](../../problems/max-consecutive-ones-ii) 🔒 | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
 | 486 | [预测赢家](../../problems/predict-the-winner) | [[递归](../recursion/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
 | 474 | [一和零](../../problems/ones-and-zeroes) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 473 | [火柴拼正方形](../../problems/matchsticks-to-square) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
-| 472 | [连接词](../../problems/concatenated-words) | [[深度优先搜索](../depth-first-search/README.md)] [[字典树](../trie/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 472 | [连接词](../../problems/concatenated-words) | [[深度优先搜索](../depth-first-search/README.md)] [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 471 | [编码最短长度的字符串](../../problems/encode-string-with-shortest-length) 🔒 | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 467 | [环绕字符串中唯一的子字符串](../../problems/unique-substrings-in-wraparound-string) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 466 | [统计重复个数](../../problems/count-the-repetitions) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
@@ -277,7 +283,7 @@
 | 413 | [等差数列划分](../../problems/arithmetic-slices) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 410 | [分割数组的最大值](../../problems/split-array-largest-sum) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 403 | [青蛙过河](../../problems/frog-jump) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 397 | [整数替换](../../problems/integer-replacement) | [[位运算](../bit-manipulation/README.md)] [[记忆化搜索](../memoization/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 397 | [整数替换](../../problems/integer-replacement) | [[贪心](../greedy/README.md)] [[位运算](../bit-manipulation/README.md)] [[记忆化搜索](../memoization/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 396 | [旋转函数](../../problems/rotate-function) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 392 | [判断子序列](../../problems/is-subsequence) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Easy |
 | 377 | [组合总和 Ⅳ](../../problems/combination-sum-iv) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

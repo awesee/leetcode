@@ -74,9 +74,9 @@ Please notice that there can be multiple queries for the same pair of nodes [x, 
 </ul>
 
 ### Related Topics
-  [[Union Find](../../tag/union-find/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Union Find](../../tag/union-find/README.md)]
 
 ### Hints
 <details>

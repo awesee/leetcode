@@ -41,7 +41,7 @@
 	<li><code>0 &lt;= Node.val &lt; n</code></li>
 	<li>All the values <code>Node.val</code> are <strong>unique</strong>.</li>
 	<li><code>1 &lt;= nums.length &lt;= n</code></li>
-	<li><code>0 &lt;= nums[i] &lt;= n</code></li>
+	<li><code>0 &lt;= nums[i] &lt; n</code></li>
 	<li>All the values of <code>nums</code> are <strong>unique</strong>.</li>
 </ul>
 

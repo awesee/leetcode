@@ -58,9 +58,9 @@ The answers for each of the queries are as follows:
 </ul>
 
 ### Related Topics
-  [[Graph](../../tag/graph/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Graph](../../tag/graph/README.md)]
 
 ### Hints
 <details>
