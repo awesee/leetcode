@@ -8,7 +8,7 @@ import (
 	"github.com/awesee/leetcode/internal/base"
 )
 
-const version = "1.6.5"
+const version = "1.6.6"
 
 // CmdVersion - version.CmdVersion
 var CmdVersion = &base.Command{
