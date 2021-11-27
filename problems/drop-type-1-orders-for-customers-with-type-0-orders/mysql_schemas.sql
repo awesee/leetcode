@@ -1,0 +1,10 @@
+Create table If Not Exists Orders (order_id int, customer_id int, order_type int);
+Truncate table Orders;
+insert into Orders (order_id, customer_id, order_type) values ('1', '1', '0');
+insert into Orders (order_id, customer_id, order_type) values ('2', '1', '0');
+insert into Orders (order_id, customer_id, order_type) values ('11', '2', '0');
+insert into Orders (order_id, customer_id, order_type) values ('12', '2', '1');
+insert into Orders (order_id, customer_id, order_type) values ('21', '3', '1');
+insert into Orders (order_id, customer_id, order_type) values ('22', '3', '0');
+insert into Orders (order_id, customer_id, order_type) values ('31', '4', '1');
+insert into Orders (order_id, customer_id, order_type) values ('32', '4', '1');
