@@ -4,10 +4,10 @@ import "testing"
 
 func TestToLowerCase(t *testing.T) {
 	tests := map[string]string{
-		"Hello":   "hello",
-		"here":    "here",
-		"LOVELY":  "lovely",
-		"OpenSet": "openset",
+		"Hello":  "hello",
+		"here":   "here",
+		"LOVELY": "lovely",
+		"aweSee": "awesee",
 	}
 
 	for in, want := range tests {

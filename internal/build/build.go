@@ -9,8 +9,8 @@ import (
 	"os/exec"
 	"time"
 
-	"github.com/openset/leetcode/internal/base"
-	"github.com/openset/leetcode/internal/version"
+	"github.com/awesee/leetcode/internal/base"
+	"github.com/awesee/leetcode/internal/version"
 )
 
 // CmdBuild - build.CmdBuild
@@ -56,7 +56,7 @@ func runBuild(cmd *base.Command, args []string) {
 				Modified: time.Now(),
 			})
 			base.CheckErr(err)
-			err = exec.Command("go", "build", "-ldflags", "-s -w", "github.com/openset/leetcode").Run()
+			err = exec.Command("go", "build", "-ldflags", "-s -w", "github.com/awesee/leetcode").Run()
 			base.CheckErr(err)
 			src, err := os.Open(binName())
 			base.CheckErr(err)

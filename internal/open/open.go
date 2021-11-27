@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/openset/leetcode/internal/base"
-	"github.com/openset/leetcode/internal/browser"
-	"github.com/openset/leetcode/internal/leetcode"
+	"github.com/awesee/leetcode/internal/base"
+	"github.com/awesee/leetcode/internal/browser"
+	"github.com/awesee/leetcode/internal/leetcode"
 )
 
 // CmdOpen - open.CmdOpen

@@ -6,8 +6,8 @@ import (
 	"os/exec"
 	"strconv"
 
-	"github.com/openset/leetcode/internal/base"
-	"github.com/openset/leetcode/internal/leetcode"
+	"github.com/awesee/leetcode/internal/base"
+	"github.com/awesee/leetcode/internal/leetcode"
 )
 
 // CmdTest - test.CmdTest

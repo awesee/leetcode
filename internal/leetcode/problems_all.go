@@ -6,7 +6,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/openset/leetcode/internal/client"
+	"github.com/awesee/leetcode/internal/client"
 )
 
 // ProblemsType - leetcode.ProblemsType

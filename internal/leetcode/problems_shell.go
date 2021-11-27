@@ -1,6 +1,6 @@
 package leetcode
 
-import "github.com/openset/leetcode/internal/client"
+import "github.com/awesee/leetcode/internal/client"
 
 // ProblemsShell - leetcode.ProblemsShell
 func ProblemsShell() (ps ProblemsType) {

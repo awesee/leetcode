@@ -8,7 +8,7 @@ import (
 	"net/http/cookiejar"
 	"strings"
 
-	"github.com/openset/leetcode/internal/base"
+	"github.com/awesee/leetcode/internal/base"
 )
 
 var err error

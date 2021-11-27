@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/openset/leetcode/internal/kit"
+	"github.com/awesee/leetcode/internal/kit"
 )
 
 type testType struct {

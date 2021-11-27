@@ -2,8 +2,8 @@
 package page
 
 import (
-	"github.com/openset/leetcode/internal/base"
-	"github.com/openset/leetcode/internal/readme"
+	"github.com/awesee/leetcode/internal/base"
+	"github.com/awesee/leetcode/internal/readme"
 )
 
 // CmdPage - page.CmdPage

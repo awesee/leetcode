@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/openset/leetcode/internal/base"
-	"github.com/openset/leetcode/internal/leetcode"
+	"github.com/awesee/leetcode/internal/base"
+	"github.com/awesee/leetcode/internal/leetcode"
 )
 
 const frontMatter = `---
@@ -43,7 +43,7 @@ var CmdPost = &base.Command{
 
 var (
 	homeDir, _ = os.UserHomeDir()
-	basePath   = filepath.Join(homeDir, "openset", "openset")
+	basePath   = filepath.Join(homeDir, "awesee", "awesee")
 )
 
 func runPost(cmd *base.Command, args []string) {

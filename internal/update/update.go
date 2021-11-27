@@ -6,7 +6,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/openset/leetcode/internal/base"
+	"github.com/awesee/leetcode/internal/base"
 )
 
 // CmdUpdate - update.CmdUpdate
@@ -22,7 +22,7 @@ func runUpdate(cmd *base.Command, args []string) {
 		cmd.Usage()
 		return
 	}
-	err := exec.Command("go", "get", "-u", "github.com/openset/leetcode").Run()
+	err := exec.Command("go", "get", "-u", "github.com/awesee/leetcode").Run()
 	base.CheckErr(err)
 	c := exec.Command(base.CmdName, "version")
 	c.Stdout = os.Stdout
