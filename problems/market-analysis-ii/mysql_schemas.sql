@@ -1,6 +1,6 @@
 Create table If Not Exists Users (user_id int, join_date date, favorite_brand varchar(10));
-create table if not exists Orders (order_id int, order_date date, item_id int, buyer_id int, seller_id int);
-create table if not exists Items (item_id int, item_brand varchar(10));
+Create table If Not Exists Orders (order_id int, order_date date, item_id int, buyer_id int, seller_id int);
+Create table If Not Exists Items (item_id int, item_brand varchar(10));
 Truncate table Users;
 insert into Users (user_id, join_date, favorite_brand) values ('1', '2019-01-01', 'Lenovo');
 insert into Users (user_id, join_date, favorite_brand) values ('2', '2019-02-09', 'Samsung');
