@@ -13,7 +13,7 @@ import (
 )
 
 // URL - base.URL
-const URL = "https://github.com/awesee/leetcode/tree/master"
+const URL = "https://github.com/awesee/leetcode/tree/main"
 
 // CmdName - base.CmdName
 var CmdName = filepath.Base(os.Args[0])
