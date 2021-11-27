@@ -6,22 +6,22 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/openset/leetcode/internal/base"
-	"github.com/openset/leetcode/internal/leetcode"
+	"github.com/awesee/leetcode/internal/base"
+	"github.com/awesee/leetcode/internal/leetcode"
 )
 
 const defaultStr = `
-# [LeetCode](https://openset.github.io/leetcode)
+# [LeetCode](https://awesee.github.io/leetcode)
 LeetCode Problems' Solutions
-[[力扣](https://openset.github.io/categories/leetcode/) ∙ [话题分类](https://github.com/openset/leetcode/blob/master/tag/README.md)]
+[[力扣](https://awesee.github.io/categories/leetcode/) ∙ [话题分类](https://github.com/awesee/leetcode/blob/master/tag/README.md)]
 
-[![Go](https://github.com/openset/leetcode/workflows/Go/badge.svg)](https://github.com/openset/leetcode/actions)
-[![codecov](https://codecov.io/gh/openset/leetcode/branch/master/graph/badge.svg)](https://codecov.io/gh/openset/leetcode)
-[![Go Report Card](https://goreportcard.com/badge/github.com/openset/leetcode)](https://goreportcard.com/report/github.com/openset/leetcode)
-[![GitHub contributors](https://img.shields.io/github/contributors/openset/leetcode.svg)](https://github.com/openset/leetcode/graphs/contributors)
-[![license](https://img.shields.io/github/license/openset/leetcode.svg)](https://github.com/openset/leetcode/blob/master/LICENSE)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fopenset%2Fleetcode.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fopenset%2Fleetcode?ref=badge_shield)
-[![Join the chat](https://badges.gitter.im/openset/leetcode.svg)](https://gitter.im/openset/leetcode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Go](https://github.com/awesee/leetcode/workflows/Go/badge.svg)](https://github.com/awesee/leetcode/actions)
+[![codecov](https://codecov.io/gh/awesee/leetcode/branch/master/graph/badge.svg)](https://codecov.io/gh/awesee/leetcode)
+[![Go Report Card](https://goreportcard.com/badge/github.com/awesee/leetcode)](https://goreportcard.com/report/github.com/awesee/leetcode)
+[![GitHub contributors](https://img.shields.io/github/contributors/awesee/leetcode.svg)](https://github.com/awesee/leetcode/graphs/contributors)
+[![license](https://img.shields.io/github/license/awesee/leetcode.svg)](https://github.com/awesee/leetcode/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fawesee%2Fleetcode.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fawesee%2Fleetcode?ref=badge_shield)
+[![Join the chat](https://badges.gitter.im/awesee/leetcode.svg)](https://gitter.im/awesee/leetcode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 `
 

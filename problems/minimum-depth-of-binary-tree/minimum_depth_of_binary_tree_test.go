@@ -3,7 +3,7 @@ package problem111
 import (
 	"testing"
 
-	"github.com/openset/leetcode/internal/kit"
+	"github.com/awesee/leetcode/internal/kit"
 )
 
 type testType struct {

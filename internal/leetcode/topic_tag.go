@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/openset/leetcode/internal/client"
+	"github.com/awesee/leetcode/internal/client"
 )
 
 var (

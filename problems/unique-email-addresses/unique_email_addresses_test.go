@@ -14,7 +14,7 @@ func TestNumUniqueEmails(t *testing.T) {
 			want: 2,
 		},
 		{
-			in:   []string{"sandy+wang@openset.wang", "openset.wang@openset.com", "openset+wang@openset.com"},
+			in:   []string{"awesee+wang@awesee.cn", "awesee.wang@awesee.cn", "aweSee+wang@awesee.cn"},
 			want: 3,
 		},
 	}

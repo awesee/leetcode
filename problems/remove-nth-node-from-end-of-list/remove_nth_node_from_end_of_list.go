@@ -1,6 +1,6 @@
 package problem19
 
-import "github.com/openset/leetcode/internal/kit"
+import "github.com/awesee/leetcode/internal/kit"
 
 // ListNode - Definition for singly-linked list.
 type ListNode = kit.ListNode

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/openset/leetcode/internal/base"
+	"github.com/awesee/leetcode/internal/base"
 )
 
 const version = "1.6.5"

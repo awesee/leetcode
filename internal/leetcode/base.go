@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/openset/leetcode/internal/base"
-	"github.com/openset/leetcode/internal/client"
+	"github.com/awesee/leetcode/internal/base"
+	"github.com/awesee/leetcode/internal/client"
 )
 
 // leetcode var

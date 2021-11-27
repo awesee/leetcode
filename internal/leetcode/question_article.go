@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/openset/leetcode/internal/client"
+	"github.com/awesee/leetcode/internal/client"
 )
 
 // GetDescription - leetcode.GetDescription

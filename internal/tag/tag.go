@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/openset/leetcode/internal/base"
-	"github.com/openset/leetcode/internal/leetcode"
+	"github.com/awesee/leetcode/internal/base"
+	"github.com/awesee/leetcode/internal/leetcode"
 )
 
 // CmdTag - tag.CmdTag
@@ -31,7 +31,7 @@ func runTag(cmd *base.Command, args []string) {
 	buf.WriteString("\n## 话题分类\n\n")
 	buf.WriteString("| # | Topic | 话题 | | # | Topic | 话题 |\n")
 	buf.WriteString("| :-: | - | :-: | - | :-: | - | :-: |\n")
-	format := "| %d | [%s](%s/README.md) | [%s](https://openset.github.io/tags/%s/) | "
+	format := "| %d | [%s](%s/README.md) | [%s](https://awesee.github.io/tags/%s/) | "
 	n := buf.Len()
 	for times := 0; times < 2; times++ {
 		buf.Truncate(n)
