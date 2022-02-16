@@ -64,6 +64,10 @@ The total score is 50 + 15 - 9 + 4 + 42 = 102.
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
+### Similar Questions
+  1. [Maximum Points You Can Obtain from Cards](../maximum-points-you-can-obtain-from-cards) (Medium)
+  1. [Stone Game VII](../stone-game-vii) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

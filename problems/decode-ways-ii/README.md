@@ -81,3 +81,4 @@ Hence, there are a total of (6 * 2) + (3 * 1) = 12 + 3 = 15 ways to decode &quot
 ### Similar Questions
   1. [Decode Ways](../decode-ways) (Medium)
   1. [Number of Ways to Separate Numbers](../number-of-ways-to-separate-numbers) (Hard)
+  1. [Number of Ways to Divide a Long Corridor](../number-of-ways-to-divide-a-long-corridor) (Hard)

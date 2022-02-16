@@ -42,21 +42,6 @@
 <strong>Explanation:</strong> Here the sum is 6. which is already divisible by 3. Thus we do not need to remove anything.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> nums = [1,2,3], p = 7
-<strong>Output:</strong> -1
-<strong>Explanation:</strong> There is no way to remove a subarray in order to get a sum divisible by 7.
-</pre>
-
-<p><strong>Example 5:</strong></p>
-
-<pre>
-<strong>Input:</strong> nums = [1000000000,1000000000,1000000000], p = 3
-<strong>Output:</strong> 0
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

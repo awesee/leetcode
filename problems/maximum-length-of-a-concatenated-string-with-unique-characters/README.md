@@ -49,14 +49,6 @@ Maximum length is 4.
 <strong>Explanation:</strong> The only string in arr has all 26 characters.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> arr = [&quot;aa&quot;,&quot;bb&quot;]
-<strong>Output:</strong> 0
-<strong>Explanation:</strong> Both strings in arr do not have unique characters, thus there are no valid concatenations.
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

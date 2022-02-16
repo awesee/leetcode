@@ -11,9 +11,11 @@
 
 ## [1525. Number of Good Ways to Split a String (Medium)](https://leetcode.com/problems/number-of-good-ways-to-split-a-string "字符串的好分割数目")
 
-<p>You are given a string <code>s</code>, a&nbsp;split is called <em>good</em>&nbsp;if you can split&nbsp;<code>s</code> into 2&nbsp;non-empty strings <code>p</code> and <code>q</code> where its concatenation is equal to <code>s</code> and the number of distinct letters in <code>p</code> and <code>q</code> are the same.</p>
+<p>You are given a string <code>s</code>.</p>
 
-<p>Return the number of <em>good</em> splits you can make in <code>s</code>.</p>
+<p>A split is called <strong>good</strong> if you can split <code>s</code> into two non-empty strings <code>s<sub>left</sub></code> and <code>s<sub>right</sub></code> where their concatenation is equal to <code>s</code> (i.e., <code>s<sub>left</sub> + s<sub>right</sub> = s</code>) and the number of distinct letters in <code>s<sub>left</sub></code> and <code>s<sub>right</sub></code> is the same.</p>
+
+<p>Return <em>the number of <strong>good splits</strong> you can make in <code>s</code></em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -34,29 +36,15 @@
 <pre>
 <strong>Input:</strong> s = &quot;abcd&quot;
 <strong>Output:</strong> 1
-<strong>Explanation: </strong>Split the string as follows (&quot;ab&quot;, &quot;cd&quot;).
-</pre>
-
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;aaaaa&quot;
-<strong>Output:</strong> 4
-<strong>Explanation: </strong>All possible splits are good.</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;acbadbaada&quot;
-<strong>Output:</strong> 2
+<strong>Explanation:</strong> Split the string as follows (&quot;ab&quot;, &quot;cd&quot;).
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>s</code> contains only lowercase English letters.</li>
-	<li><code>1 &lt;= s.length &lt;= 10^5</code></li>
+	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>s</code> consists of only lowercase English letters.</li>
 </ul>
 
 ### Related Topics

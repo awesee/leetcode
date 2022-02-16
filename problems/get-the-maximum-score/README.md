@@ -27,13 +27,11 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-
-<p><strong><img alt="" src="https://assets.leetcode.com/uploads/2020/07/16/sample_1_1893.png" style="width: 538px; height: 163px;" /></strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2020/07/16/sample_1_1893.png" style="width: 500px; height: 151px;" />
 <pre>
 <strong>Input:</strong> nums1 = [2,4,5,8,10], nums2 = [4,6,8,9]
 <strong>Output:</strong> 30
-<strong>Explanation:</strong>&nbsp;Valid paths:
+<strong>Explanation:</strong> Valid paths:
 [2,4,5,8,10], [2,4,5,8,9], [2,4,6,8,9], [2,4,6,8,10],  (starting from nums1)
 [4,6,8,9], [4,5,8,10], [4,5,8,9], [4,6,8,10]    (starting from nums2)
 The maximum is obtained with the path in green <strong>[2,4,6,8,10]</strong>.
@@ -44,7 +42,7 @@ The maximum is obtained with the path in green <strong>[2,4,6,8,10]</strong>.
 <pre>
 <strong>Input:</strong> nums1 = [1,3,5,7,9], nums2 = [3,5,100]
 <strong>Output:</strong> 109
-<strong>Explanation:</strong>&nbsp;Maximum sum is obtained with the path <strong>[1,3,5,100]</strong>.
+<strong>Explanation:</strong> Maximum sum is obtained with the path <strong>[1,3,5,100]</strong>.
 </pre>
 
 <p><strong>Example 3:</strong></p>
@@ -52,15 +50,8 @@ The maximum is obtained with the path in green <strong>[2,4,6,8,10]</strong>.
 <pre>
 <strong>Input:</strong> nums1 = [1,2,3,4,5], nums2 = [6,7,8,9,10]
 <strong>Output:</strong> 40
-<strong>Explanation:</strong>&nbsp;There are no common elements between nums1 and nums2.
+<strong>Explanation:</strong> There are no common elements between nums1 and nums2.
 Maximum sum is obtained with the path [6,7,8,9,10].
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> nums1 = [1,4,5,8,9,11,19], nums2 = [2,3,4,11,12]
-<strong>Output:</strong> 61
 </pre>
 
 <p>&nbsp;</p>
@@ -73,10 +64,10 @@ Maximum sum is obtained with the path [6,7,8,9,10].
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Hints
 <details>

@@ -53,3 +53,4 @@
   1. [Employee Free Time](../employee-free-time) (Hard)
   1. [Partition Labels](../partition-labels) (Medium)
   1. [Interval List Intersections](../interval-list-intersections) (Medium)
+  1. [Amount of New Area Painted Each Day](../amount-of-new-area-painted-each-day) (Hard)

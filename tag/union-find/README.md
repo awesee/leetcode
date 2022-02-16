@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2157 | [字符串分组](../../problems/groups-of-strings) | [[位运算](../bit-manipulation/README.md)] [[并查集](../union-find/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 2092 | [找出知晓秘密的所有专家](../../problems/find-all-people-with-secret) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[排序](../sorting/README.md)]  | Hard |
 | 2076 | [处理含限制条件的好友请求](../../problems/process-restricted-friend-requests) | [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
 | 2003 | [每棵子树内缺失的最小基因值](../../problems/smallest-missing-genetic-value-in-each-subtree) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[并查集](../union-find/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1998 | [数组的最大公因数排序](../../problems/gcd-sort-of-an-array) | [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Hard |

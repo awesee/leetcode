@@ -52,6 +52,14 @@
 	<li><code>0 &lt;= val<sub>i</sub> &lt;= 2 * 10<sup>5</sup></code></li>
 </ul>
 
+### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Trie](../../tag/trie/README.md)]
+
+### Similar Questions
+  1. [Maximum XOR With an Element From Array](../maximum-xor-with-an-element-from-array) (Hard)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

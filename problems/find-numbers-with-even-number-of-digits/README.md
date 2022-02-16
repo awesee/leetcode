@@ -48,6 +48,9 @@ Only 1771 contains an even number of digits.
 ### Related Topics
   [[Array](../../tag/array/README.md)]
 
+### Similar Questions
+  1. [Finding 3-Digit Even Numbers](../finding-3-digit-even-numbers) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

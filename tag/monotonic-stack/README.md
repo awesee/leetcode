@@ -9,6 +9,7 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2104 | [子数组范围和](../../problems/sum-of-subarray-ranges) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 2030 | [含特定字母的最小子序列](../../problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
 | 1996 | [游戏中弱角色的数量](../../problems/the-number-of-weak-characters-in-the-game) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 1950 | [所有子数组最小值中的最大值](../../problems/maximum-of-minimum-values-in-all-subarrays) 🔒 | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
@@ -32,6 +33,7 @@
 | 962 | [最大宽度坡](../../problems/maximum-width-ramp) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 907 | [子数组的最小值之和](../../problems/sum-of-subarray-minimums) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 901 | [股票价格跨度](../../problems/online-stock-span) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[数据流](../data-stream/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
+| 853 | [车队](../../problems/car-fleet) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 769 | [最多能完成排序的块](../../problems/max-chunks-to-make-sorted) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 768 | [最多能完成排序的块 II](../../problems/max-chunks-to-make-sorted-ii) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
 | 739 | [每日温度](../../problems/daily-temperatures) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |

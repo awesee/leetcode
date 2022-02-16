@@ -55,6 +55,9 @@ There are much ordering with total cost &lt;= 25, for example, the order [4, 6, 
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
+### Similar Questions
+  1. [Number of Ways to Divide a Long Corridor](../number-of-ways-to-divide-a-long-corridor) (Hard)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

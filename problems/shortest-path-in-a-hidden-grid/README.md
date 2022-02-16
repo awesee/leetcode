@@ -19,6 +19,10 @@
   [[Graph](../../tag/graph/README.md)]
   [[Interactive](../../tag/interactive/README.md)]
 
+### Similar Questions
+  1. [Robot Room Cleaner](../robot-room-cleaner) (Hard)
+  1. [Minimum Path Cost in a Hidden Grid](../minimum-path-cost-in-a-hidden-grid) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

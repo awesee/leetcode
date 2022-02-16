@@ -53,14 +53,6 @@
 &quot;stone-game10&quot; is invalid because it contains digits.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> sentence = &quot;<u>he</u> <u>bought</u> 2 <u>pencils,</u> 3 <u>erasers,</u> <u>and</u> 1  <u>pencil-sharpener.</u>&quot;
-<strong>Output:</strong> 6
-<strong>Explanation:</strong> The valid words in the sentence are &quot;he&quot;, &quot;bought&quot;, &quot;pencils,&quot;, &quot;erasers,&quot;, &quot;and&quot;, and &quot;pencil-sharpener.&quot;.
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

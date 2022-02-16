@@ -9,8 +9,10 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2152 | [Minimum Number of Lines to Cover Points](../../problems/minimum-number-of-lines-to-cover-points) 🔒 | [[位运算](../bit-manipulation/README.md)] [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
+| 2101 | [引爆最多的炸弹](../../problems/detonate-the-maximum-bombs) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1956 | [感染 K 种病毒所需的最短时间](../../problems/minimum-time-for-k-virus-variants-to-spread) 🔒 | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
-| 1924 | [Erect the Fence II](../../problems/erect-the-fence-ii) 🔒 | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
+| 1924 | [安装栅栏 II](../../problems/erect-the-fence-ii) 🔒 | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1828 | [统计一个圆中点的数目](../../problems/queries-on-number-of-points-inside-a-circle) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1610 | [可见点的最大数目](../../problems/maximum-number-of-visible-points) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Hard |
 | 1515 | [服务中心的最佳位置](../../problems/best-position-for-a-service-centre) | [[几何](../geometry/README.md)] [[数学](../math/README.md)] [[随机化](../randomized/README.md)]  | Hard |
@@ -34,4 +36,4 @@
 | 469 | [凸多边形](../../problems/convex-polygon) 🔒 | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
 | 335 | [路径交叉](../../problems/self-crossing) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Hard |
 | 223 | [矩形面积](../../problems/rectangle-area) | [[几何](../geometry/README.md)] [[数学](../math/README.md)]  | Medium |
-| 149 | [直线上最多的点数](../../problems/max-points-on-a-line) | [[几何](../geometry/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Hard |
+| 149 | [直线上最多的点数](../../problems/max-points-on-a-line) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Hard |

@@ -9,11 +9,18 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2127 | [参加会议的最多员工数](../../problems/maximum-employees-to-be-invited-to-a-meeting) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)]  | Hard |
+| 2123 | [Minimum Operations to Remove Adjacent Ones in Matrix](../../problems/minimum-operations-to-remove-adjacent-ones-in-matrix) 🔒 | [[图](../graph/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
+| 2115 | [从给定原材料中找到所有可以做出的菜](../../problems/find-all-possible-recipes-from-given-supplies) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 2101 | [引爆最多的炸弹](../../problems/detonate-the-maximum-bombs) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)]  | Medium |
+| 2097 | [合法重新排列数对](../../problems/valid-arrangement-of-pairs) | [[深度优先搜索](../depth-first-search/README.md)] [[图](../graph/README.md)] [[欧拉回路](../eulerian-circuit/README.md)]  | Hard |
+| 2093 | [Minimum Cost to Reach City With Discounts](../../problems/minimum-cost-to-reach-city-with-discounts) 🔒 | [[图](../graph/README.md)] [[最短路](../shortest-path/README.md)]  | Medium |
+| 2092 | [找出知晓秘密的所有专家](../../problems/find-all-people-with-secret) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[图](../graph/README.md)] [[排序](../sorting/README.md)]  | Hard |
 | 2077 | [Paths in Maze That Lead to Same Room](../../problems/paths-in-maze-that-lead-to-same-room) 🔒 | [[图](../graph/README.md)]  | Medium |
 | 2076 | [处理含限制条件的好友请求](../../problems/process-restricted-friend-requests) | [[并查集](../union-find/README.md)] [[图](../graph/README.md)]  | Hard |
 | 2065 | [最大化一张图中的路径价值](../../problems/maximum-path-quality-of-a-graph) | [[图](../graph/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
 | 2050 | [并行课程 III](../../problems/parallel-courses-iii) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 2045 | [到达目的地的第二短时间](../../problems/second-minimum-time-to-reach-destination) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[数组](../array/README.md)] [[最短路](../shortest-path/README.md)]  | Hard |
+| 2045 | [到达目的地的第二短时间](../../problems/second-minimum-time-to-reach-destination) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[最短路](../shortest-path/README.md)]  | Hard |
 | 2039 | [网络空闲的时刻](../../problems/the-time-when-the-network-becomes-idle) | [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1976 | [到达目的地的方案数](../../problems/number-of-ways-to-arrive-at-destination) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[动态规划](../dynamic-programming/README.md)] [[最短路](../shortest-path/README.md)]  | Medium |
 | 1971 | [寻找图中是否存在路径](../../problems/find-if-path-exists-in-graph) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)]  | Easy |

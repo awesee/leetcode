@@ -40,8 +40,8 @@
 </ul>
 
 ### Related Topics
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Recursion](../../tag/recursion/README.md)]
   [[Memoization](../../tag/memoization/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]

@@ -56,9 +56,6 @@
   [[Array](../../tag/array/README.md)]
   [[Enumeration](../../tag/enumeration/README.md)]
 
-### Similar Questions
-  1. [Count Special Quadruplets](../count-special-quadruplets) (Easy)
-
 ### Hints
 <details>
 <summary>Hint 1</summary>

@@ -18,6 +18,9 @@
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Counting](../../tag/counting/README.md)]
 
+### Similar Questions
+  1. [Merge Two Sorted Lists](../merge-two-sorted-lists) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

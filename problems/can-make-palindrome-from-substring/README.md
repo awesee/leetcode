@@ -51,13 +51,10 @@ queries[4]: substring = &quot;abcda&quot;, could be changed to &quot;abcba&quot;
 </ul>
 
 ### Related Topics
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Prefix Sum](../../tag/prefix-sum/README.md)]
-
-### Similar Questions
-  1. [Plates Between Candles](../plates-between-candles) (Medium)
 
 ### Hints
 <details>

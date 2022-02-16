@@ -66,8 +66,8 @@ Thus, the nearest exit is [1,2], which is 2 steps away.
 </ul>
 
 ### Related Topics
-  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
 
 ### Hints

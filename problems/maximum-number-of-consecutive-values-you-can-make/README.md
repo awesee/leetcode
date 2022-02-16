@@ -60,16 +60,24 @@ You can make 8 consecutive integer values starting from 0.</pre>
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+
+### Similar Questions
+  1. [Patching Array](../patching-array) (Hard)
 
 ### Hints
 <details>
 <summary>Hint 1</summary>
-Let's note that if you can make the first x values then you can and you have a value v≤x+1 then you can make all values ≤v+x
+If you can make the first x values and you have a value v, then you can make all the values <var>≤ v + x</var>
 </details>
 
 <details>
 <summary>Hint 2</summary>
-The smaller v is the smaller the x you need so it's optimal to process elements in a sorted order
+Sort the array of coins. You can always make the value 0 so you can start with x = 0.
+</details>
+
+<details>
+<summary>Hint 3</summary>
+Process the values starting from the smallest and stop when there is a value that cannot be achieved with the current x.
 </details>

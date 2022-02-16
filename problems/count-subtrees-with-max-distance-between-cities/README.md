@@ -61,14 +61,11 @@ No subtree has two nodes where the max distance between them is 3.
 </ul>
 
 ### Related Topics
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Tree](../../tag/tree/README.md)]
-  [[Enumeration](../../tag/enumeration/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Bitmask](../../tag/bitmask/README.md)]
-
-### Similar Questions
-  1. [Tree Diameter](../tree-diameter) (Medium)
+  [[Enumeration](../../tag/enumeration/README.md)]
 
 ### Hints
 <details>

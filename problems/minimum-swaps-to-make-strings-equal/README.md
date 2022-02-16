@@ -21,31 +21,24 @@
 <pre>
 <strong>Input:</strong> s1 = &quot;xx&quot;, s2 = &quot;yy&quot;
 <strong>Output:</strong> 1
-<strong>Explanation: 
-</strong>Swap s1[0] and s2[1], s1 = &quot;yx&quot;, s2 = &quot;yx&quot;.</pre>
+<strong>Explanation:</strong> Swap s1[0] and s2[1], s1 = &quot;yx&quot;, s2 = &quot;yx&quot;.
+</pre>
 
 <p><strong>Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> s1 = &quot;xy&quot;, s2 = &quot;yx&quot;
 <strong>Output:</strong> 2
-<strong>Explanation: 
-</strong>Swap s1[0] and s2[0], s1 = &quot;yy&quot;, s2 = &quot;xx&quot;.
+<strong>Explanation:</strong> Swap s1[0] and s2[0], s1 = &quot;yy&quot;, s2 = &quot;xx&quot;.
 Swap s1[0] and s2[1], s1 = &quot;xy&quot;, s2 = &quot;xy&quot;.
-Note that you can&#39;t swap s1[0] and s1[1] to make s1 equal to &quot;yx&quot;, cause we can only swap chars in different strings.</pre>
+Note that you cannot swap s1[0] and s1[1] to make s1 equal to &quot;yx&quot;, cause we can only swap chars in different strings.
+</pre>
 
 <p><strong>Example 3:</strong></p>
 
 <pre>
 <strong>Input:</strong> s1 = &quot;xx&quot;, s2 = &quot;xy&quot;
 <strong>Output:</strong> -1
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> s1 = &quot;xxyyxyxyxx&quot;, s2 = &quot;xyyxyxxxyx&quot;
-<strong>Output:</strong> 4
 </pre>
 
 <p>&nbsp;</p>
@@ -57,9 +50,12 @@ Note that you can&#39;t swap s1[0] and s1[1] to make s1 equal to &quot;yx&quot;,
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+
+### Similar Questions
+  1. [Determine if Two Strings Are Close](../determine-if-two-strings-are-close) (Medium)
 
 ### Hints
 <details>

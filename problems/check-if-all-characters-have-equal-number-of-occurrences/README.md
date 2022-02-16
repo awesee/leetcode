@@ -46,6 +46,9 @@
   [[String](../../tag/string/README.md)]
   [[Counting](../../tag/counting/README.md)]
 
+### Similar Questions
+  1. [Rings and Rods](../rings-and-rods) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

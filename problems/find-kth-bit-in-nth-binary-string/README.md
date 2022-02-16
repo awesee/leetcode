@@ -15,12 +15,12 @@
 
 <ul>
 	<li><code>S<sub>1</sub> = &quot;0&quot;</code></li>
-	<li><code>S<sub><span style="font-size: 10.8333px;">i</span></sub> = S<sub><span style="font-size: 10.8333px;">i-1</span></sub> + &quot;1&quot; + reverse(invert(S<sub><span style="font-size: 10.8333px;">i-1</span></sub>))</code> for <code>i &gt; 1</code></li>
+	<li><code>S<sub>i</sub> = S<sub>i - 1</sub> + &quot;1&quot; + reverse(invert(S<sub>i - 1</sub>))</code> for <code>i &gt; 1</code></li>
 </ul>
 
-<p>Where <code>+</code> denotes the concatenation operation, <code>reverse(x)</code> returns the reversed string <font face="monospace">x,</font> and <code>invert(x)</code> inverts all the bits in <font face="monospace">x</font> (0 changes to 1 and 1 changes to 0).</p>
+<p>Where <code>+</code> denotes the concatenation operation, <code>reverse(x)</code> returns the reversed string <code>x</code>, and <code>invert(x)</code> inverts all the bits in <code>x</code> (<code>0</code> changes to <code>1</code> and <code>1</code> changes to <code>0</code>).</p>
 
-<p>For example, the first 4 strings in the above sequence are:</p>
+<p>For example, the first four strings in the above sequence are:</p>
 
 <ul>
 	<li><code>S<sub>1 </sub>= &quot;0&quot;</code></li>
@@ -37,7 +37,8 @@
 <pre>
 <strong>Input:</strong> n = 3, k = 1
 <strong>Output:</strong> &quot;0&quot;
-<strong>Explanation: </strong>S<sub>3</sub>&nbsp;is &quot;<strong><u>0</u></strong>111001&quot;. The first bit is &quot;0&quot;.
+<strong>Explanation:</strong> S<sub>3</sub> is &quot;<strong><u>0</u></strong>111001&quot;.
+The 1<sup>st</sup> bit is &quot;0&quot;.
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -45,21 +46,8 @@
 <pre>
 <strong>Input:</strong> n = 4, k = 11
 <strong>Output:</strong> &quot;1&quot;
-<strong>Explanation: </strong>S<sub>4</sub>&nbsp;is &quot;0111001101<strong><u>1</u></strong>0001&quot;. The 11th bit is &quot;1&quot;.
-</pre>
-
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 1, k = 1
-<strong>Output:</strong> &quot;0&quot;
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 2, k = 3
-<strong>Output:</strong> &quot;1&quot;
+<strong>Explanation:</strong> S<sub>4</sub> is &quot;0111001101<strong><u>1</u></strong>0001&quot;.
+The 11<sup>th</sup> bit is &quot;1&quot;.
 </pre>
 
 <p>&nbsp;</p>

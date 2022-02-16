@@ -9,9 +9,11 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2130 | [链表最大孪生和](../../problems/maximum-twin-sum-of-a-linked-list) | [[栈](../stack/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 2095 | [删除链表的中间节点](../../problems/delete-the-middle-node-of-a-linked-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 2074 | [反转偶数长度组的节点](../../problems/reverse-nodes-in-even-length-groups) | [[链表](../linked-list/README.md)]  | Medium |
 | 2058 | [找出临界点之间的最小和最大距离](../../problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points) | [[链表](../linked-list/README.md)]  | Medium |
-| 2046 | [Sort Linked List Already Sorted Using Absolute Values](../../problems/sort-linked-list-already-sorted-using-absolute-values) 🔒 | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 2046 | [给按照绝对值排序的链表排序](../../problems/sort-linked-list-already-sorted-using-absolute-values) 🔒 | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1836 | [从未排序的链表中移除重复元素](../../problems/remove-duplicates-from-an-unsorted-linked-list) 🔒 | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)]  | Medium |
 | 1721 | [交换链表中的节点](../../problems/swapping-nodes-in-a-linked-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 1670 | [设计前中后队列](../../problems/design-front-middle-back-queue) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)] [[数据流](../data-stream/README.md)]  | Medium |
@@ -52,11 +54,13 @@
 | 160 | [相交链表](../../problems/intersection-of-two-linked-lists) | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 148 | [排序链表](../../problems/sort-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)] [[分治](../divide-and-conquer/README.md)] [[排序](../sorting/README.md)] [[归并排序](../merge-sort/README.md)]  | Medium |
 | 147 | [对链表进行插入排序](../../problems/insertion-sort-list) | [[链表](../linked-list/README.md)] [[排序](../sorting/README.md)]  | Medium |
-| 146 | [LRU 缓存机制](../../problems/lru-cache) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双向链表](../doubly-linked-list/README.md)]  | Medium |
+| 146 | [LRU 缓存](../../problems/lru-cache) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双向链表](../doubly-linked-list/README.md)]  | Medium |
 | 143 | [重排链表](../../problems/reorder-list) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 142 | [环形链表 II](../../problems/linked-list-cycle-ii) | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 141 | [环形链表](../../problems/linked-list-cycle) | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |
 | 138 | [复制带随机指针的链表](../../problems/copy-list-with-random-pointer) | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)]  | Medium |
+| 117 | [填充每个节点的下一个右侧节点指针 II](../../problems/populating-next-right-pointers-in-each-node-ii) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[链表](../linked-list/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 116 | [填充每个节点的下一个右侧节点指针](../../problems/populating-next-right-pointers-in-each-node) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[链表](../linked-list/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
 | 114 | [二叉树展开为链表](../../problems/flatten-binary-tree-to-linked-list) | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[链表](../linked-list/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
 | 109 | [有序链表转换二叉搜索树](../../problems/convert-sorted-list-to-binary-search-tree) | [[树](../tree/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[链表](../linked-list/README.md)] [[分治](../divide-and-conquer/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
 | 92 | [反转链表 II](../../problems/reverse-linked-list-ii) | [[链表](../linked-list/README.md)]  | Medium |

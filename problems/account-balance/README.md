@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../number-of-equal-count-substrings "Number of Equal Count Substrings")
 
-## [2066. Account Balance (Medium)](https://leetcode.com/problems/account-balance "")
+## [2066. Account Balance (Medium)](https://leetcode.com/problems/account-balance "账户余额")
 
 
 

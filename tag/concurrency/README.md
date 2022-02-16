@@ -16,5 +16,5 @@
 | 1188 | [设计有限阻塞队列](../../problems/design-bounded-blocking-queue) 🔒 | [[多线程](../concurrency/README.md)]  | Medium |
 | 1117 | [H2O 生成](../../problems/building-h2o) | [[多线程](../concurrency/README.md)]  | Medium |
 | 1116 | [打印零与奇偶数](../../problems/print-zero-even-odd) | [[多线程](../concurrency/README.md)]  | Medium |
-| 1115 | [交替打印FooBar](../../problems/print-foobar-alternately) | [[多线程](../concurrency/README.md)]  | Medium |
+| 1115 | [交替打印 FooBar](../../problems/print-foobar-alternately) | [[多线程](../concurrency/README.md)]  | Medium |
 | 1114 | [按序打印](../../problems/print-in-order) | [[多线程](../concurrency/README.md)]  | Easy |

@@ -52,6 +52,9 @@
   [[Array](../../tag/array/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
 
+### Similar Questions
+  1. [Rotate Image](../rotate-image) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

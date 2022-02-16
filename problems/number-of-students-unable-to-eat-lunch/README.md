@@ -60,10 +60,13 @@ Hence all students are able to eat.
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Stack](../../tag/stack/README.md)]
   [[Queue](../../tag/queue/README.md)]
-  [[Array](../../tag/array/README.md)]
   [[Simulation](../../tag/simulation/README.md)]
+
+### Similar Questions
+  1. [Time Needed to Buy Tickets](../time-needed-to-buy-tickets) (Easy)
 
 ### Hints
 <details>

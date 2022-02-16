@@ -24,18 +24,14 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-
-<p><img alt="" src="https://assets.leetcode.com/uploads/2020/08/15/sample_1_1929.png" style="width: 483px; height: 138px;" /></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2021/12/23/print1.jpg" style="width: 600px; height: 175px;" />
 <pre>
 <strong>Input:</strong> targetGrid = [[1,1,1,1],[1,2,2,1],[1,2,2,1],[1,1,1,1]]
 <strong>Output:</strong> true
 </pre>
 
 <p><strong>Example 2:</strong></p>
-
-<p><img alt="" src="https://assets.leetcode.com/uploads/2020/08/15/sample_2_1929.png" style="width: 483px; height: 290px;" /></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2021/12/23/print2.jpg" style="width: 600px; height: 367px;" />
 <pre>
 <strong>Input:</strong> targetGrid = [[1,1,1,1],[1,1,3,3],[1,1,3,4],[5,5,1,4]]
 <strong>Output:</strong> true
@@ -46,13 +42,7 @@
 <pre>
 <strong>Input:</strong> targetGrid = [[1,2,1],[2,1,2],[1,2,1]]
 <strong>Output:</strong> false
-<strong>Explanation:</strong> It is impossible to form targetGrid because it is not allowed to print the same color in different turns.</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> targetGrid = [[1,1,1],[3,1,3]]
-<strong>Output:</strong> false
+<strong>Explanation:</strong> It is impossible to form targetGrid because it is not allowed to print the same color in different turns.
 </pre>
 
 <p>&nbsp;</p>

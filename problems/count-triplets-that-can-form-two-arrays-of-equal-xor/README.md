@@ -11,7 +11,7 @@
 
 ## [1442. Count Triplets That Can Form Two Arrays of Equal XOR (Medium)](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor "形成两个异或相等数组的三元组数目")
 
-<p>Given an array of&nbsp;integers <code>arr</code>.</p>
+<p>Given an array of integers <code>arr</code>.</p>
 
 <p>We want to select three indices <code>i</code>, <code>j</code> and <code>k</code> where <code>(0 &lt;= i &lt; j &lt;= k &lt; arr.length)</code>.</p>
 
@@ -42,33 +42,12 @@
 <strong>Output:</strong> 10
 </pre>
 
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> arr = [2,3]
-<strong>Output:</strong> 0
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> arr = [1,3,5,7,9]
-<strong>Output:</strong> 3
-</pre>
-
-<p><strong>Example 5:</strong></p>
-
-<pre>
-<strong>Input:</strong> arr = [7,11,12,9,5,2,7,17,22]
-<strong>Output:</strong> 8
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
 	<li><code>1 &lt;= arr.length &lt;= 300</code></li>
-	<li><code>1 &lt;= arr[i] &lt;= 10^8</code></li>
+	<li><code>1 &lt;= arr[i] &lt;= 10<sup>8</sup></code></li>
 </ul>
 
 ### Related Topics

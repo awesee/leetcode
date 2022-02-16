@@ -53,6 +53,7 @@ The minimum possible difference is 2.</pre>
 ### Related Topics
   [[Array](../../tag/array/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

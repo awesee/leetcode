@@ -52,6 +52,9 @@
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
 
+### Similar Questions
+  1. [Delete N Nodes After M Nodes of a Linked List](../delete-n-nodes-after-m-nodes-of-a-linked-list) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

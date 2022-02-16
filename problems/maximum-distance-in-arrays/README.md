@@ -35,5 +35,5 @@ One way to reach the maximum distance 4 is to pick 1 in the first or third array
 </p>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]

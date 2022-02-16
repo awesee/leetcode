@@ -62,9 +62,12 @@ findSumPairs.count(7);  // return 11; pairs (2,1), (2,2), (2,4), (3,1), (3,2), (
 </ul>
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Design](../../tag/design/README.md)]
+
+### Similar Questions
+  1. [Count Number of Pairs With Absolute Difference K](../count-number-of-pairs-with-absolute-difference-k) (Easy)
 
 ### Hints
 <details>

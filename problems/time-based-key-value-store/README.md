@@ -53,10 +53,7 @@ timeMap.get(&quot;foo&quot;, 5);         // return &quot;bar2&quot;
 </ul>
 
 ### Related Topics
+  [[Design](../../tag/design/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
-  [[Design](../../tag/design/README.md)]
-
-### Similar Questions
-  1. [Stock Price Fluctuation ](../stock-price-fluctuation) (Medium)

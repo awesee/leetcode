@@ -52,16 +52,12 @@
 </ul>
 
 ### Related Topics
+  [[Queue](../../tag/queue/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
-  [[Queue](../../tag/queue/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
-  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
   [[Monotonic Queue](../../tag/monotonic-queue/README.md)]
-
-### Similar Questions
-  1. [Sliding Window Maximum](../sliding-window-maximum) (Hard)
-  1. [Jump Game VII](../jump-game-vii) (Medium)
+  [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
 ### Hints
 <details>

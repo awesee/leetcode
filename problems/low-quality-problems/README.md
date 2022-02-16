@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../minimum-moves-to-convert-string "Minimum Moves to Convert String")
 
-## [2026. Low-Quality Problems (Easy)](https://leetcode.com/problems/low-quality-problems "")
+## [2026. Low-Quality Problems (Easy)](https://leetcode.com/problems/low-quality-problems "低质量的问题")
 
 
 

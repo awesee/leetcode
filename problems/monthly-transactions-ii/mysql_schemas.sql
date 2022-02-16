@@ -1,6 +1,6 @@
-create table if not exists Transactions (id int, country varchar(4), state enum('approved', 'declined'), amount int, trans_date date)
+Create table If Not Exists Transactions (id int, country varchar(4), state enum('approved', 'declined'), amount int, trans_date date)
 ;
-create table if not exists Chargebacks (trans_id int, trans_date date)
+Create table If Not Exists Chargebacks (trans_id int, trans_date date)
 ;
 Truncate table Transactions;
 insert into Transactions (id, country, state, amount, trans_date) values ('101', 'US', 'approved', '1000', '2019-05-18');

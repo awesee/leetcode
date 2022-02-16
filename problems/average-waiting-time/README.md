@@ -61,9 +61,6 @@ So the average waiting time = (2 + 6 + 4 + 1) / 4 = 3.25.
   [[Array](../../tag/array/README.md)]
   [[Simulation](../../tag/simulation/README.md)]
 
-### Similar Questions
-  1. [Average Height of Buildings in Each Segment](../average-height-of-buildings-in-each-segment) (Medium)
-
 ### Hints
 <details>
 <summary>Hint 1</summary>

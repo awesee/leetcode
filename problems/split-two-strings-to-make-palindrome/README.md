@@ -34,8 +34,8 @@ Then, a<sub>prefix</sub> + b<sub>suffix</sub> = &quot;&quot; + &quot;y&quot; = &
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> a = &quot;abdef&quot;, b = &quot;fecab&quot;
-<strong>Output:</strong> true
+<strong>Input:</strong> a = &quot;xbdef&quot;, b = &quot;xecab&quot;
+<strong>Output:</strong> false
 </pre>
 
 <p><strong>Example 3:</strong></p>
@@ -49,13 +49,6 @@ b<sub>prefix</sub> = &quot;jiz&quot;, b<sub>suffix</sub> = &quot;alu&quot;
 Then, a<sub>prefix</sub> + b<sub>suffix</sub> = &quot;ula&quot; + &quot;alu&quot; = &quot;ulaalu&quot;, which is a palindrome.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> a = &quot;xbdef&quot;, b = &quot;xecab&quot;
-<strong>Output:</strong> false
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
@@ -66,9 +59,9 @@ Then, a<sub>prefix</sub> + b<sub>suffix</sub> = &quot;ula&quot; + &quot;alu&quot
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
   [[String](../../tag/string/README.md)]
-  [[Greedy](../../tag/greedy/README.md)]
 
 ### Hints
 <details>

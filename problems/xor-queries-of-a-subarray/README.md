@@ -54,8 +54,8 @@ The XOR values for queries are:
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Hints

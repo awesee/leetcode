@@ -9,7 +9,13 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2156 | [查找给定哈希值的子串](../../problems/find-substring-with-given-hash-value) | [[字符串](../string/README.md)] [[滑动窗口](../sliding-window/README.md)] [[哈希函数](../hash-function/README.md)] [[滚动哈希](../rolling-hash/README.md)]  | Medium |
+| 2134 | [最少交换次数来组合所有的 1 II](../../problems/minimum-swaps-to-group-all-1s-together-ii) | [[数组](../array/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
+| 2107 | [Number of Unique Flavors After Sharing K Candies](../../problems/number-of-unique-flavors-after-sharing-k-candies) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
+| 2106 | [摘水果](../../problems/maximum-fruits-harvested-after-at-most-k-steps) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Hard |
+| 2090 | [半径为 k 的子数组平均值](../../problems/k-radius-subarray-averages) | [[数组](../array/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
 | 2024 | [考试的最大困扰度](../../problems/maximize-the-confusion-of-an-exam) | [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
+| 1984 | [学生分数的最小差值](../../problems/minimum-difference-between-highest-and-lowest-of-k-scores) | [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Easy |
 | 1918 | [第 K 小的子数组和·](../../problems/kth-smallest-subarray-sum) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
 | 1876 | [长度为三且各字符不同的子字符串](../../problems/substrings-of-size-three-with-distinct-characters) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Easy |
 | 1852 | [每个子数组的数字种类数](../../problems/distinct-numbers-in-each-subarray) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |

@@ -47,14 +47,6 @@ The maximum distance is 1 with pair (0,1).
 The maximum distance is 2 with pair (2,4).
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> nums1 = [5,4], nums2 = [3,2]
-<strong>Output:</strong> 0
-<strong>Explanation:</strong> There are no valid pairs, so return 0.
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

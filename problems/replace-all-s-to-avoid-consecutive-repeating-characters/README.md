@@ -23,28 +23,15 @@
 <pre>
 <strong>Input:</strong> s = &quot;?zs&quot;
 <strong>Output:</strong> &quot;azs&quot;
-<strong>Explanation</strong>: There are 25 solutions for this problem. From &quot;azs&quot; to &quot;yzs&quot;, all are valid. Only &quot;z&quot; is an invalid modification as the string will consist of consecutive repeating characters in &quot;zzs&quot;.</pre>
+<strong>Explanation:</strong> There are 25 solutions for this problem. From &quot;azs&quot; to &quot;yzs&quot;, all are valid. Only &quot;z&quot; is an invalid modification as the string will consist of consecutive repeating characters in &quot;zzs&quot;.
+</pre>
 
 <p><strong>Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> s = &quot;ubv?w&quot;
 <strong>Output:</strong> &quot;ubvaw&quot;
-<strong>Explanation</strong>: There are 24 solutions for this problem. Only &quot;v&quot; and &quot;w&quot; are invalid modifications as the strings will consist of consecutive repeating characters in &quot;ubvvw&quot; and &quot;ubvww&quot;.
-</pre>
-
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;j?qg??b&quot;
-<strong>Output:</strong> &quot;jaqgacb&quot;
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;??yw?ipkj?&quot;
-<strong>Output:</strong> &quot;acywaipkja&quot;
+<strong>Explanation:</strong> There are 24 solutions for this problem. Only &quot;v&quot; and &quot;w&quot; are invalid modifications as the strings will consist of consecutive repeating characters in &quot;ubvvw&quot; and &quot;ubvww&quot;.
 </pre>
 
 <p>&nbsp;</p>

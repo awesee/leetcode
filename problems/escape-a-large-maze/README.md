@@ -52,10 +52,10 @@ We cannot move south or west because we cannot go outside of the grid.
 </ul>
 
 ### Related Topics
-  [[Depth-First Search](../../tag/depth-first-search/README.md)]
-  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Depth-First Search](../../tag/depth-first-search/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

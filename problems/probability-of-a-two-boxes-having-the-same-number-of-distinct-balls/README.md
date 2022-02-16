@@ -53,22 +53,6 @@ Probability is 8/12 = 0.66667
 Probability = 108 / 180 = 0.6
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> balls = [3,2,1]
-<strong>Output:</strong> 0.30000
-<strong>Explanation:</strong> The set of balls is [1, 1, 1, 2, 2, 3]. It is hard to display all the 60 possible random shuffles of this set but it is easy to check that 18 of them will have the same number of distinct colors in each box.
-Probability = 18 / 60 = 0.3
-</pre>
-
-<p><strong>Example 5:</strong></p>
-
-<pre>
-<strong>Input:</strong> balls = [6,6,6,6,6,6]
-<strong>Output:</strong> 0.90327
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

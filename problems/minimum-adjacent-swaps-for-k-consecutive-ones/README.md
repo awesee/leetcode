@@ -50,10 +50,14 @@
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
-  [[Prefix Sum](../../tag/prefix-sum/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
+
+### Similar Questions
+  1. [Minimum Swaps to Group All 1's Together](../minimum-swaps-to-group-all-1s-together) (Medium)
+  1. [Minimum Number of Operations to Make Array Continuous](../minimum-number-of-operations-to-make-array-continuous) (Hard)
 
 ### Hints
 <details>

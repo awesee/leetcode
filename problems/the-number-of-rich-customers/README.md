@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../substrings-that-begin-and-end-with-the-same-letter "Substrings That Begin and End With the Same Letter")
 
-## [2082. The Number of Rich Customers (Easy)](https://leetcode.com/problems/the-number-of-rich-customers "")
+## [2082. The Number of Rich Customers (Easy)](https://leetcode.com/problems/the-number-of-rich-customers "富有客户的数量")
 
 
 

@@ -9,10 +9,18 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2169 | [得到 0 的操作数](../../problems/count-operations-to-obtain-zero) | [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 2161 | [根据给定数字划分数组](../../problems/partition-array-according-to-given-pivot) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2154 | [将找到的值乘以 2](../../problems/keep-multiplying-found-values-by-two) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[排序](../sorting/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 2149 | [按符号重排数组](../../problems/rearrange-array-elements-by-sign) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2138 | [将字符串拆分为若干长度为 k 的组](../../problems/divide-a-string-into-groups-of-size-k) | [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 2120 | [执行所有后缀指令](../../problems/execution-of-all-suffix-instructions-staying-in-a-grid) | [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2109 | [向字符串添加空格](../../problems/adding-spaces-to-a-string) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2105 | [给植物浇水 II](../../problems/watering-plants-ii) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 2075 | [解码斜向换位密码](../../problems/decode-the-slanted-ciphertext) | [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 2073 | [买票需要的时间](../../problems/time-needed-to-buy-tickets) | [[队列](../queue/README.md)] [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 2069 | [模拟行走机器人 II](../../problems/walking-robot-simulation-ii) | [[设计](../design/README.md)] [[模拟](../simulation/README.md)]  | Medium |
-| 2061 | [Number of Spaces Cleaning Robot Cleaned](../../problems/number-of-spaces-cleaning-robot-cleaned) 🔒 | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2061 | [扫地机器人清扫过的空间个数](../../problems/number-of-spaces-cleaning-robot-cleaned) 🔒 | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 2056 | [棋盘上有效移动组合的数目](../../problems/number-of-valid-move-combinations-on-chessboard) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[模拟](../simulation/README.md)]  | Hard |
 | 2043 | [简易银行系统](../../problems/simple-bank-system) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 2028 | [找出缺失的观测数据](../../problems/find-missing-observations) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
@@ -23,7 +31,7 @@
 | 1914 | [循环轮转矩阵](../../problems/cyclically-rotating-a-grid) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 1894 | [找到需要补充粉笔的学生编号](../../problems/find-the-student-that-will-replace-the-chalk) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 1860 | [增长的内存泄露](../../problems/incremental-memory-leak) | [[模拟](../simulation/README.md)]  | Medium |
-| 1823 | [找出游戏的获胜者](../../problems/find-the-winner-of-the-circular-game) | [[递归](../recursion/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 1823 | [找出游戏的获胜者](../../problems/find-the-winner-of-the-circular-game) | [[递归](../recursion/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 1806 | [还原排列的最少操作步数](../../problems/minimum-number-of-operations-to-reinitialize-a-permutation) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 1801 | [积压订单中的订单总数](../../problems/number-of-orders-in-the-backlog) | [[数组](../array/README.md)] [[模拟](../simulation/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 1706 | [球会落何处](../../problems/where-will-the-ball-fall) | [[深度优先搜索](../depth-first-search/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Medium |
@@ -74,6 +82,7 @@
 | 537 | [复数乘法](../../problems/complex-number-multiplication) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 498 | [对角线遍历](../../problems/diagonal-traverse) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 495 | [提莫攻击](../../problems/teemo-attacking) | [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 418 | [屏幕可显示句子的数量](../../problems/sentence-screen-fitting) 🔒 | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 415 | [字符串相加](../../problems/add-strings) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 412 | [Fizz Buzz](../../problems/fizz-buzz) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 289 | [生命游戏](../../problems/game-of-life) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Medium |

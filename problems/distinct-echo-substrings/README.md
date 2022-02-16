@@ -39,12 +39,12 @@
 </ul>
 
 ### Related Topics
+  [[Trie](../../tag/trie/README.md)]
   [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
-  [[Trie](../../tag/trie/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
-  [[Rolling Hash](../../tag/rolling-hash/README.md)]
   [[Hash Function](../../tag/hash-function/README.md)]
+  [[Rolling Hash](../../tag/rolling-hash/README.md)]
 
 ### Hints
 <details>

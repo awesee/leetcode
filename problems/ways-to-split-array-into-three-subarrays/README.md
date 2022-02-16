@@ -60,6 +60,9 @@
   [[Binary Search](../../tag/binary-search/README.md)]
   [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
+### Similar Questions
+  1. [Number of Ways to Divide a Long Corridor](../number-of-ways-to-divide-a-long-corridor) (Hard)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

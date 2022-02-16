@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../minimum-number-of-moves-to-seat-everyone "Minimum Number of Moves to Seat Everyone")
 
-## [2036. Maximum Alternating Subarray Sum (Medium)](https://leetcode.com/problems/maximum-alternating-subarray-sum "")
+## [2036. Maximum Alternating Subarray Sum (Medium)](https://leetcode.com/problems/maximum-alternating-subarray-sum "最大交替子数组和")
 
 
 

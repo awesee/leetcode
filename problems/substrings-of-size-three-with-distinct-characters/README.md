@@ -49,8 +49,8 @@ The good substrings are &quot;abc&quot;, &quot;bca&quot;, &quot;cab&quot;, and &
 ### Related Topics
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
-  [[Sliding Window](../../tag/sliding-window/README.md)]
   [[Counting](../../tag/counting/README.md)]
+  [[Sliding Window](../../tag/sliding-window/README.md)]
 
 ### Hints
 <details>

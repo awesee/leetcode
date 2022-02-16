@@ -47,13 +47,6 @@
 <strong>Explanation:</strong> An empty string is also valid.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;(a(b(c)d)&quot;
-<strong>Output:</strong> &quot;a(b(c)d)&quot;
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

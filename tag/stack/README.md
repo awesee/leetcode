@@ -9,6 +9,9 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2130 | [链表最大孪生和](../../problems/maximum-twin-sum-of-a-linked-list) | [[栈](../stack/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 2116 | [判断一个括号字符串是否有效](../../problems/check-if-a-parentheses-string-can-be-valid) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 2104 | [子数组范围和](../../problems/sum-of-subarray-ranges) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 2030 | [含特定字母的最小子序列](../../problems/smallest-k-length-subsequence-with-occurrences-of-a-letter) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
 | 2019 | [解出数学表达式的学生分数](../../problems/the-score-of-students-solving-math-expression) | [[栈](../stack/README.md)] [[记忆化搜索](../memoization/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1996 | [游戏中弱角色的数量](../../problems/the-number-of-weak-characters-in-the-game) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
@@ -69,6 +72,7 @@
 | 895 | [最大频率栈](../../problems/maximum-frequency-stack) | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[有序集合](../ordered-set/README.md)]  | Hard |
 | 880 | [索引处的解码字符串](../../problems/decoded-string-at-index) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 856 | [括号的分数](../../problems/score-of-parentheses) | [[栈](../stack/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 853 | [车队](../../problems/car-fleet) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 844 | [比较含退格的字符串](../../problems/backspace-string-compare) | [[栈](../stack/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 772 | [基本计算器 III](../../problems/basic-calculator-iii) 🔒 | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 770 | [基本计算器 IV](../../problems/basic-calculator-iv) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
@@ -77,7 +81,7 @@
 | 739 | [每日温度](../../problems/daily-temperatures) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 736 | [Lisp 语法解析](../../problems/parse-lisp-expression) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 735 | [行星碰撞](../../problems/asteroid-collision) | [[栈](../stack/README.md)] [[数组](../array/README.md)]  | Medium |
-| 726 | [原子的数量](../../problems/number-of-atoms) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 726 | [原子的数量](../../problems/number-of-atoms) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Hard |
 | 716 | [最大栈](../../problems/max-stack) 🔒 | [[栈](../stack/README.md)] [[设计](../design/README.md)] [[链表](../linked-list/README.md)] [[双向链表](../doubly-linked-list/README.md)] [[有序集合](../ordered-set/README.md)]  | Easy |
 | 682 | [棒球比赛](../../problems/baseball-game) | [[栈](../stack/README.md)] [[数组](../array/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 678 | [有效的括号字符串](../../problems/valid-parenthesis-string) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |

@@ -69,29 +69,6 @@ Note that folders &quot;/a&quot; and &quot;/c&quot; are identical after the dele
 Note that the returned array can be in a different order as the order does not matter.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/07/19/lc-dupfolder4_.jpg" style="width: 300px; height: 290px;" />
-<pre>
-<strong>Input:</strong> paths = [[&quot;a&quot;],[&quot;a&quot;,&quot;x&quot;],[&quot;a&quot;,&quot;x&quot;,&quot;y&quot;],[&quot;a&quot;,&quot;z&quot;],[&quot;b&quot;],[&quot;b&quot;,&quot;x&quot;],[&quot;b&quot;,&quot;x&quot;,&quot;y&quot;],[&quot;b&quot;,&quot;z&quot;]]
-<strong>Output:</strong> []
-<strong>Explanation:</strong> The file structure is as shown.
-Folders &quot;/a/x&quot; and &quot;/b/x&quot; (and their subfolders) are marked for deletion because they both contain an
-empty folder named &quot;y&quot;.
-Folders &quot;/a&quot; and &quot;/b&quot; (and their subfolders) are marked for deletion because they both contain an empty
-folder &quot;z&quot; and the folder &quot;x&quot; described above.
-</pre>
-
-<p><strong>Example 5:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/07/19/lc-dupfolder5_.jpg" style="width: 300px; height: 282px;" />
-<pre>
-<strong>Input:</strong> paths = [[&quot;a&quot;],[&quot;a&quot;,&quot;x&quot;],[&quot;a&quot;,&quot;x&quot;,&quot;y&quot;],[&quot;a&quot;,&quot;z&quot;],[&quot;b&quot;],[&quot;b&quot;,&quot;x&quot;],[&quot;b&quot;,&quot;x&quot;,&quot;y&quot;],[&quot;b&quot;,&quot;z&quot;],[&quot;b&quot;,&quot;w&quot;]]
-<strong>Output:</strong> [[&quot;b&quot;],[&quot;b&quot;,&quot;w&quot;],[&quot;b&quot;,&quot;z&quot;],[&quot;a&quot;],[&quot;a&quot;,&quot;z&quot;]]
-<strong>Explanation:</strong> This has the same structure as the previous example, except with the added &quot;/b/w&quot;.
-Folders &quot;/a/x&quot; and &quot;/b/x&quot; are still marked, but &quot;/a&quot; and &quot;/b&quot; are no longer marked because &quot;/b&quot; has the
-empty folder named &quot;w&quot; and &quot;/a&quot; does not.
-Note that &quot;/a/z&quot; and &quot;/b/z&quot; are not marked because the set of identical subfolders must be non-empty, but these folders are empty.
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

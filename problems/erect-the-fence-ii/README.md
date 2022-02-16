@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../count-square-sum-triples "Count Square Sum Triples")
 
-## [1924. Erect the Fence II (Hard)](https://leetcode.com/problems/erect-the-fence-ii "")
+## [1924. Erect the Fence II (Hard)](https://leetcode.com/problems/erect-the-fence-ii "安装栅栏 II")
 
 
 

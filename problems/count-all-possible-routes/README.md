@@ -25,7 +25,7 @@
 <pre>
 <strong>Input:</strong> locations = [2,3,6,8,4], start = 1, finish = 3, fuel = 5
 <strong>Output:</strong> 4
-<strong>Explanation:</strong>&nbsp;The following are all possible routes, each uses 5 units of fuel:
+<strong>Explanation:</strong> The following are all possible routes, each uses 5 units of fuel:
 1 -&gt; 3
 1 -&gt; 2 -&gt; 3
 1 -&gt; 4 -&gt; 3
@@ -37,7 +37,7 @@
 <pre>
 <strong>Input:</strong> locations = [4,3,1], start = 1, finish = 0, fuel = 6
 <strong>Output:</strong> 5
-<strong>Explanation: </strong>The following are all possible routes:
+<strong>Explanation:</strong> The following are all possible routes:
 1 -&gt; 0, used fuel = 1
 1 -&gt; 2 -&gt; 0, used fuel = 5
 1 -&gt; 2 -&gt; 1 -&gt; 0, used fuel = 5
@@ -50,21 +50,7 @@
 <pre>
 <strong>Input:</strong> locations = [5,2,1], start = 0, finish = 2, fuel = 3
 <strong>Output:</strong> 0
-<b>Explanation: </b>It&#39;s impossible to get from 0 to 2 using only 3 units of fuel since the shortest route needs 4 units of fuel.</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> locations = [2,1,5], start = 0, finish = 0, fuel = 3
-<strong>Output:</strong> 2
-<strong>Explanation:</strong>&nbsp;There are two possible routes, 0 and 0 -&gt; 1 -&gt; 0.</pre>
-
-<p><strong>Example 5:</strong></p>
-
-<pre>
-<strong>Input:</strong> locations = [1,2,3], start = 0, finish = 2, fuel = 40
-<strong>Output:</strong> 615088286
-<strong>Explanation: </strong>The total number of possible routes is 2615088300. Taking this number modulo 10^9 + 7 gives us 615088286.
+<strong>Explanation:</strong> It is impossible to get from 0 to 2 using only 3 units of fuel since the shortest route needs 4 units of fuel.
 </pre>
 
 <p>&nbsp;</p>
@@ -79,9 +65,9 @@
 </ul>
 
 ### Related Topics
-  [[Memoization](../../tag/memoization/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Memoization](../../tag/memoization/README.md)]
 
 ### Hints
 <details>

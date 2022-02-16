@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../largest-odd-number-in-string "Largest Odd Number in String")
 
-## [1902. Depth of BST Given Insertion Order (Medium)](https://leetcode.com/problems/depth-of-bst-given-insertion-order "")
+## [1902. Depth of BST Given Insertion Order (Medium)](https://leetcode.com/problems/depth-of-bst-given-insertion-order "给定二叉搜索树的插入顺序求深度")
 
 
 

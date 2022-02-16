@@ -14,9 +14,12 @@
 
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
+
+### Similar Questions
+  1. [Put Boxes Into the Warehouse I](../put-boxes-into-the-warehouse-i) (Medium)
 
 ### Hints
 <details>

@@ -9,6 +9,11 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2141 | [同时运行 N 台电脑的最长时间](../../problems/maximum-running-time-of-n-computers) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)]  | Hard |
+| 2137 | [Pour Water Between Buckets to Make Water Levels Equal](../../problems/pour-water-between-buckets-to-make-water-levels-equal) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
+| 2111 | [使数组 K 递增的最少操作次数](../../problems/minimum-operations-to-make-the-array-k-increasing) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
+| 2106 | [摘水果](../../problems/maximum-fruits-harvested-after-at-most-k-steps) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Hard |
+| 2089 | [找出数组排序后的目标下标](../../problems/find-target-indices-after-sorting-array) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)]  | Easy |
 | 2080 | [区间内查询数字的频率](../../problems/range-frequency-queries) | [[设计](../design/README.md)] [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 2071 | [你可以安排的最多任务数目](../../problems/maximum-number-of-tasks-you-can-assign) | [[贪心](../greedy/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)] [[单调队列](../monotonic-queue/README.md)]  | Hard |
 | 2070 | [每一个查询的最大美丽值](../../problems/most-beautiful-item-for-each-query) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)]  | Medium |
@@ -17,7 +22,7 @@
 | 2054 | [两个最好的不重叠活动](../../problems/two-best-non-overlapping-events) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 2040 | [两个有序数组的第 K 小乘积](../../problems/kth-smallest-product-of-two-sorted-arrays) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 2035 | [将数组分成两个数组并最小化数组和的差](../../problems/partition-array-into-two-arrays-to-minimize-sum-difference) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)] [[有序集合](../ordered-set/README.md)]  | Hard |
-| 2031 | [Count Subarrays With More Ones Than Zeros](../../problems/count-subarrays-with-more-ones-than-zeros) | [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治](../divide-and-conquer/README.md)] [[有序集合](../ordered-set/README.md)] [[归并排序](../merge-sort/README.md)]  | Medium |
+| 2031 | [1 比 0 多的子数组个数](../../problems/count-subarrays-with-more-ones-than-zeros) 🔒 | [[树状数组](../binary-indexed-tree/README.md)] [[线段树](../segment-tree/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治](../divide-and-conquer/README.md)] [[有序集合](../ordered-set/README.md)] [[归并排序](../merge-sort/README.md)]  | Medium |
 | 2024 | [考试的最大困扰度](../../problems/maximize-the-confusion-of-an-exam) | [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
 | 2009 | [使数组连续的最少操作数](../../problems/minimum-number-of-operations-to-make-array-continuous) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 2008 | [出租车的最大盈利](../../problems/maximum-earnings-from-taxi) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[排序](../sorting/README.md)]  | Medium |
@@ -33,7 +38,7 @@
 | 1894 | [找到需要补充粉笔的学生编号](../../problems/find-the-student-that-will-replace-the-chalk) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 1891 | [割绳子](../../problems/cutting-ribbons) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1889 | [装包裹的最小浪费空间](../../problems/minimum-space-wasted-from-packaging) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[排序](../sorting/README.md)]  | Hard |
-| 1885 | [Count Pairs in Two Arrays](../../problems/count-pairs-in-two-arrays) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 1885 | [统计数对](../../problems/count-pairs-in-two-arrays) 🔒 | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1870 | [准时到达的列车最小时速](../../problems/minimum-speed-to-arrive-on-time) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 1862 | [向下取整数对和](../../problems/sum-of-floored-pairs) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
 | 1855 | [下标对中的最大距离](../../problems/maximum-distance-between-a-pair-of-values) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
@@ -104,7 +109,7 @@
 | 981 | [基于时间的键值存储](../../problems/time-based-key-value-store) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 911 | [在线选举](../../problems/online-election) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 902 | [最大为 N 的数字组合](../../problems/numbers-at-most-n-given-digit-set) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 888 | [公平的糖果棒交换](../../problems/fair-candy-swap) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)]  | Easy |
+| 888 | [公平的糖果交换](../../problems/fair-candy-swap) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)]  | Easy |
 | 887 | [鸡蛋掉落](../../problems/super-egg-drop) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 878 | [第 N 个神奇数字](../../problems/nth-magical-number) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 875 | [爱吃香蕉的珂珂](../../problems/koko-eating-bananas) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
@@ -161,13 +166,13 @@
 | 240 | [搜索二维矩阵 II](../../problems/search-a-2d-matrix-ii) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[分治](../divide-and-conquer/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 222 | [完全二叉树的节点个数](../../problems/count-complete-tree-nodes) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[二分查找](../binary-search/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
 | 209 | [长度最小的子数组](../../problems/minimum-size-subarray-sum) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
-| 167 | [两数之和 II - 输入有序数组](../../problems/two-sum-ii-input-array-is-sorted) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
+| 167 | [两数之和 II - 输入有序数组](../../problems/two-sum-ii-input-array-is-sorted) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 162 | [寻找峰值](../../problems/find-peak-element) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 154 | [寻找旋转排序数组中的最小值 II](../../problems/find-minimum-in-rotated-sorted-array-ii) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Hard |
 | 153 | [寻找旋转排序数组中的最小值](../../problems/find-minimum-in-rotated-sorted-array) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 81 | [搜索旋转排序数组 II](../../problems/search-in-rotated-sorted-array-ii) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 74 | [搜索二维矩阵](../../problems/search-a-2d-matrix) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
-| 69 | [Sqrt(x)](../../problems/sqrtx) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
+| 69 | [x 的平方根 ](../../problems/sqrtx) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 35 | [搜索插入位置](../../problems/search-insert-position) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](../../problems/find-first-and-last-position-of-element-in-sorted-array) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 33 | [搜索旋转排序数组](../../problems/search-in-rotated-sorted-array) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |

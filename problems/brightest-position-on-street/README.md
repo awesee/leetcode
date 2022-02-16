@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../convert-1d-array-into-2d-array "Convert 1D Array Into 2D Array")
 
-## [2021. Brightest Position on Street (Medium)](https://leetcode.com/problems/brightest-position-on-street "")
+## [2021. Brightest Position on Street (Medium)](https://leetcode.com/problems/brightest-position-on-street "街上最亮的位置")
 
 
 

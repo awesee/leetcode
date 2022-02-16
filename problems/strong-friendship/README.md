@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../maximum-of-minimum-values-in-all-subarrays "Maximum of Minimum Values in All Subarrays")
 
-## [1949. Strong Friendship (Medium)](https://leetcode.com/problems/strong-friendship "")
+## [1949. Strong Friendship (Medium)](https://leetcode.com/problems/strong-friendship "坚定的友谊")
 
 
 

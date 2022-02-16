@@ -11,13 +11,13 @@
 
 ## [1503. Last Moment Before All Ants Fall Out of a Plank (Medium)](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank "所有蚂蚁掉下来前的最后一刻")
 
-<p>We have a wooden&nbsp;plank of the length <code>n</code> <strong>units</strong>. Some ants are walking on the&nbsp;plank, each ant moves with speed <strong>1 unit per second</strong>. Some of the ants move to the <strong>left</strong>, the other move to the <strong>right</strong>.</p>
+<p>We have a wooden plank of the length <code>n</code> <strong>units</strong>. Some ants are walking on the plank, each ant moves with a speed of <strong>1 unit per second</strong>. Some of the ants move to the <strong>left</strong>, the other move to the <strong>right</strong>.</p>
 
-<p>When two ants moving in two <strong>different</strong> directions meet at some point, they change their directions and continue moving again. Assume changing directions doesn&#39;t take any additional time.</p>
+<p>When two ants moving in two <strong>different</strong> directions meet at some point, they change their directions and continue moving again. Assume changing directions does not take any additional time.</p>
 
-<p>When an ant reaches <strong>one end</strong> of the plank at a time <code>t</code>, it falls out of the plank imediately.</p>
+<p>When an ant reaches <strong>one end</strong> of the plank at a time <code>t</code>, it falls out of the plank immediately.</p>
 
-<p>Given an integer <code>n</code> and two integer arrays <code>left</code> and <code>right</code>, the positions of the ants moving to the left and the right.&nbsp;Return <em>the&nbsp;moment</em> when the last ant(s) fall out of the plank.</p>
+<p>Given an integer <code>n</code> and two integer arrays <code>left</code> and <code>right</code>, the positions of the ants moving to the left and the right, return <em>the moment when the last ant(s) fall out of the plank</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -30,7 +30,7 @@
 -The ant at index 1 is named B and going to the right.
 -The ant at index 3 is named C and going to the left.
 -The ant at index 4 is named D and going to the left.
-Note that the last moment when an ant was on the plank is t = 4 second, after that it falls imediately out of the plank. (i.e. We can say that at t = 4.0000000001, there is no ants on the plank).
+The last moment when an ant was on the plank is t = 4 seconds. After that, it falls immediately out of the plank. (i.e., We can say that at t = 4.0000000001, there are no ants on the plank).
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -49,26 +49,11 @@ Note that the last moment when an ant was on the plank is t = 4 second, after th
 <strong>Explanation:</strong> All ants are going to the left, the ant at index 7 needs 7 seconds to fall.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 9, left = [5], right = [4]
-<strong>Output:</strong> 5
-<strong>Explanation:</strong> At t = 1 second, both ants will be at the same intial position but with different direction.
-</pre>
-
-<p><strong>Example 5:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 6, left = [6], right = [0]
-<strong>Output:</strong> 6
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n &lt;= 10^4</code></li>
+	<li><code>1 &lt;= n &lt;= 10<sup>4</sup></code></li>
 	<li><code>0 &lt;= left.length &lt;= n + 1</code></li>
 	<li><code>0 &lt;= left[i] &lt;= n</code></li>
 	<li><code>0 &lt;= right.length &lt;= n + 1</code></li>
@@ -78,8 +63,8 @@ Note that the last moment when an ant was on the plank is t = 4 second, after th
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
   [[Brainteaser](../../tag/brainteaser/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints

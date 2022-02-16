@@ -29,18 +29,12 @@
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> num = &quot;123456579&quot;
-<strong>Output:</strong> [123,456,579]
+<strong>Input:</strong> num = &quot;1101111&quot;
+<strong>Output:</strong> [11,0,11,11]
+<strong>Explanation:</strong> The output [110, 1, 111] would also be accepted.
 </pre>
 
 <p><strong>Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> num = &quot;11235813&quot;
-<strong>Output:</strong> [1,1,2,3,5,8,13]
-</pre>
-
-<p><strong>Example 3:</strong></p>
 
 <pre>
 <strong>Input:</strong> num = &quot;112358130&quot;
@@ -48,20 +42,12 @@
 <strong>Explanation:</strong> The task is impossible.
 </pre>
 
-<p><strong>Example 4:</strong></p>
+<p><strong>Example 3:</strong></p>
 
 <pre>
 <strong>Input:</strong> num = &quot;0123&quot;
 <strong>Output:</strong> []
 <strong>Explanation:</strong> Leading zeroes are not allowed, so &quot;01&quot;, &quot;2&quot;, &quot;3&quot; is not valid.
-</pre>
-
-<p><strong>Example 5:</strong></p>
-
-<pre>
-<strong>Input:</strong> num = &quot;1101111&quot;
-<strong>Output:</strong> [11,0,11,11]
-<strong>Explanation:</strong> The output [11, 0, 11, 11] would also be accepted.
 </pre>
 
 <p>&nbsp;</p>

@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../substrings-of-size-three-with-distinct-characters "Substrings of Size Three with Distinct Characters")
 
-## [1875. Group Employees of the Same Salary (Medium)](https://leetcode.com/problems/group-employees-of-the-same-salary "")
+## [1875. Group Employees of the Same Salary (Medium)](https://leetcode.com/problems/group-employees-of-the-same-salary "将工资相同的雇员分组")
 
 
 

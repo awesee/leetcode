@@ -9,6 +9,28 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2168 | [Unique Substrings With Equal Digit Frequency](../../problems/unique-substrings-with-equal-digit-frequency) 🔒 | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)] [[哈希函数](../hash-function/README.md)] [[滚动哈希](../rolling-hash/README.md)]  | Medium |
+| 2167 | [移除所有载有违禁货物车厢所需的最少时间](../../problems/minimum-time-to-remove-all-cars-containing-illegal-goods) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 2157 | [字符串分组](../../problems/groups-of-strings) | [[位运算](../bit-manipulation/README.md)] [[并查集](../union-find/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 2156 | [查找给定哈希值的子串](../../problems/find-substring-with-given-hash-value) | [[字符串](../string/README.md)] [[滑动窗口](../sliding-window/README.md)] [[哈希函数](../hash-function/README.md)] [[滚动哈希](../rolling-hash/README.md)]  | Medium |
+| 2147 | [分隔长廊的方案数](../../problems/number-of-ways-to-divide-a-long-corridor) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
+| 2138 | [将字符串拆分为若干长度为 k 的组](../../problems/divide-a-string-into-groups-of-size-k) | [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
+| 2135 | [统计追加字母可以获得的单词数](../../problems/count-words-obtained-after-adding-a-letter) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 2131 | [连接两字母单词得到的最长回文串](../../problems/longest-palindrome-by-concatenating-two-letter-words) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Medium |
+| 2129 | [将标题首字母大写](../../problems/capitalize-the-title) | [[字符串](../string/README.md)]  | Easy |
+| 2125 | [银行中的激光束数量](../../problems/number-of-laser-beams-in-a-bank) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 2124 | [检查是否所有 A 都在 B 之前](../../problems/check-if-all-as-appears-before-all-bs) | [[字符串](../string/README.md)]  | Easy |
+| 2120 | [执行所有后缀指令](../../problems/execution-of-all-suffix-instructions-staying-in-a-grid) | [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2116 | [判断一个括号字符串是否有效](../../problems/check-if-a-parentheses-string-can-be-valid) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 2115 | [从给定原材料中找到所有可以做出的菜](../../problems/find-all-possible-recipes-from-given-supplies) | [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 2114 | [句子中的最多单词数](../../problems/maximum-number-of-words-found-in-sentences) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 2109 | [向字符串添加空格](../../problems/adding-spaces-to-a-string) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2108 | [找出数组中的第一个回文字符串](../../problems/find-first-palindromic-string-in-the-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 2103 | [环和杆](../../problems/rings-and-rods) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 2096 | [从二叉树一个节点到另一个节点每一步的方向](../../problems/step-by-step-directions-from-a-binary-tree-node-to-another) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[字符串](../string/README.md)] [[二叉树](../binary-tree/README.md)]  | Medium |
+| 2086 | [从房屋收集雨水需要的最少水桶数](../../problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 2085 | [统计出现过一次的公共字符串](../../problems/count-common-words-with-one-occurrence) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
+| 2083 | [求以相同字母开头和结尾的子串总数](../../problems/substrings-that-begin-and-end-with-the-same-letter) 🔒 | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 2075 | [解码斜向换位密码](../../problems/decode-the-slanted-ciphertext) | [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 2068 | [检查两个字符串是否几乎相等](../../problems/check-whether-two-strings-are-almost-equivalent) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Easy |
 | 2067 | [Number of Equal Count Substrings](../../problems/number-of-equal-count-substrings) 🔒 | [[字符串](../string/README.md)] [[计数](../counting/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
@@ -122,7 +144,7 @@
 | 1593 | [拆分字符串使唯一子字符串的数目最大](../../problems/split-a-string-into-the-max-number-of-unique-substrings) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 1592 | [重新排列单词间的空格](../../problems/rearrange-spaces-between-words) | [[字符串](../string/README.md)]  | Easy |
 | 1585 | [检查字符串是否可以通过排序子字符串得到另一个字符串](../../problems/check-if-string-is-transformable-with-substring-sort-operations) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Hard |
-| 1578 | [避免重复字母的最小删除成本](../../problems/minimum-deletion-cost-to-avoid-repeating-letters) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1578 | [使绳子变成彩色的最短时间](../../problems/minimum-time-to-make-rope-colorful) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1576 | [替换所有的问号](../../problems/replace-all-s-to-avoid-consecutive-repeating-characters) | [[字符串](../string/README.md)]  | Easy |
 | 1573 | [分割字符串的方案数](../../problems/number-of-ways-to-split-a-string) | [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1556 | [千位分隔数](../../problems/thousand-separator) | [[字符串](../string/README.md)]  | Easy |
@@ -133,7 +155,7 @@
 | 1541 | [平衡括号字符串的最少插入次数](../../problems/minimum-insertions-to-balance-a-parentheses-string) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1540 | [K 次操作转变字符串](../../problems/can-convert-string-in-k-moves) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1531 | [压缩字符串 II](../../problems/string-compression-ii) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
-| 1529 | [灯泡开关 IV](../../problems/bulb-switcher-iv) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1529 | [最少的后缀翻转次数](../../problems/minimum-suffix-flips) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1528 | [重新排列字符串](../../problems/shuffle-string) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1525 | [字符串的好分割数目](../../problems/number-of-good-ways-to-split-a-string) | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1520 | [最多的不重叠子字符串](../../problems/maximum-number-of-non-overlapping-substrings) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Hard |
@@ -147,6 +169,7 @@
 | 1455 | [检查单词是否为句中其他单词的前缀](../../problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | [[字符串](../string/README.md)] [[字符串匹配](../string-matching/README.md)]  | Easy |
 | 1452 | [收藏清单](../../problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1451 | [重新排列句子中的单词](../../problems/rearrange-words-in-a-sentence) | [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 1447 | [最简分数](../../problems/simplified-fractions) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[数论](../number-theory/README.md)]  | Medium |
 | 1446 | [连续字符](../../problems/consecutive-characters) | [[字符串](../string/README.md)]  | Easy |
 | 1436 | [旅行终点站](../../problems/destination-city) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1433 | [检查一个字符串是否可以打破另一个字符串](../../problems/check-if-a-string-can-break-another-string) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Medium |
@@ -291,7 +314,7 @@
 | 820 | [单词的压缩编码](../../problems/short-encoding-of-words) | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 819 | [最常见的单词](../../problems/most-common-word) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 816 | [模糊坐标](../../problems/ambiguous-coordinates) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
-| 811 | [子域名访问计数](../../problems/subdomain-visit-count) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 811 | [子域名访问计数](../../problems/subdomain-visit-count) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Medium |
 | 809 | [情感丰富的文字](../../problems/expressive-words) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 806 | [写字符串需要的行数](../../problems/number-of-lines-to-write-string) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 804 | [唯一摩尔斯密码词](../../problems/unique-morse-code-words) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
@@ -311,14 +334,14 @@
 | 758 | [字符串中的加粗单词](../../problems/bold-words-in-string) 🔒 | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[字符串匹配](../string-matching/README.md)]  | Medium |
 | 752 | [打开转盘锁](../../problems/open-the-lock) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 751 | [IP 到 CIDR](../../problems/ip-to-cidr) 🔒 | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)]  | Medium |
-| 748 | [最短补全词](../../problems/shortest-completing-word) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 748 | [最短补全词](../../problems/shortest-completing-word) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 745 | [前缀和后缀搜索](../../problems/prefix-and-suffix-search) | [[设计](../design/README.md)] [[字典树](../trie/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 737 | [句子相似性 II](../../problems/sentence-similarity-ii) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 736 | [Lisp 语法解析](../../problems/parse-lisp-expression) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 734 | [句子相似性](../../problems/sentence-similarity) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 730 | [统计不同回文子序列](../../problems/count-different-palindromic-subsequences) | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 727 | [最小窗口子序列](../../problems/minimum-window-subsequence) 🔒 | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Hard |
-| 726 | [原子的数量](../../problems/number-of-atoms) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Hard |
+| 726 | [原子的数量](../../problems/number-of-atoms) | [[栈](../stack/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Hard |
 | 722 | [删除注释](../../problems/remove-comments) | [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 721 | [账户合并](../../problems/accounts-merge) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 720 | [词典中最长的单词](../../problems/longest-word-in-dictionary) | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Easy |
@@ -392,7 +415,7 @@
 | 424 | [替换后的最长重复字符](../../problems/longest-repeating-character-replacement) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
 | 423 | [从英文中重建数字](../../problems/reconstruct-original-digits-from-english) | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 420 | [强密码检验器](../../problems/strong-password-checker) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
-| 418 | [屏幕可显示句子的数量](../../problems/sentence-screen-fitting) 🔒 | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 418 | [屏幕可显示句子的数量](../../problems/sentence-screen-fitting) 🔒 | [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 415 | [字符串相加](../../problems/add-strings) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 412 | [Fizz Buzz](../../problems/fizz-buzz) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 411 | [最短独占单词缩写](../../problems/minimum-unique-word-abbreviation) 🔒 | [[位运算](../bit-manipulation/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
@@ -430,7 +453,7 @@
 | 269 | [火星词典](../../problems/alien-dictionary) 🔒 | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[图](../graph/README.md)] [[拓扑排序](../topological-sort/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 267 | [回文排列 II](../../problems/palindrome-permutation-ii) 🔒 | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 266 | [回文排列](../../problems/palindrome-permutation) 🔒 | [[位运算](../bit-manipulation/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Easy |
-| 257 | [二叉树的所有路径](../../problems/binary-tree-paths) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[字符串](../string/README.md)] [[二叉树](../binary-tree/README.md)]  | Easy |
+| 257 | [二叉树的所有路径](../../problems/binary-tree-paths) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[二叉树](../binary-tree/README.md)]  | Easy |
 | 249 | [移位字符串分组](../../problems/group-shifted-strings) 🔒 | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 248 | [中心对称数 III](../../problems/strobogrammatic-number-iii) 🔒 | [[递归](../recursion/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 247 | [中心对称数 II](../../problems/strobogrammatic-number-ii) 🔒 | [[递归](../recursion/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |

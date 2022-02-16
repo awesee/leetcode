@@ -9,7 +9,15 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 2061 | [Number of Spaces Cleaning Robot Cleaned](../../problems/number-of-spaces-cleaning-robot-cleaned) 🔒 | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2146 | [价格范围内最高排名的 K 样物品](../../problems/k-highest-ranked-items-within-a-price-range) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
+| 2133 | [检查是否每一行每一列都包含全部整数](../../problems/check-if-every-row-and-column-contains-all-numbers) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[矩阵](../matrix/README.md)]  | Easy |
+| 2132 | [用邮票贴满网格图](../../problems/stamping-the-grid) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
+| 2128 | [Remove All Ones With Row and Column Flips](../../problems/remove-all-ones-with-row-and-column-flips) 🔒 | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 2125 | [银行中的激光束数量](../../problems/number-of-laser-beams-in-a-bank) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 2123 | [Minimum Operations to Remove Adjacent Ones in Matrix](../../problems/minimum-operations-to-remove-adjacent-ones-in-matrix) 🔒 | [[图](../graph/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
+| 2088 | [统计农场中肥沃金字塔的数目](../../problems/count-fertile-pyramids-in-a-land) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[矩阵](../matrix/README.md)]  | Hard |
+| 2087 | [网格图中机器人回家的最小代价](../../problems/minimum-cost-homecoming-of-a-robot-in-a-grid) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 2061 | [扫地机器人清扫过的空间个数](../../problems/number-of-spaces-cleaning-robot-cleaned) 🔒 | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 2033 | [获取单值网格的最小操作数](../../problems/minimum-operations-to-make-a-uni-value-grid) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 2022 | [将一维数组转变成二维数组](../../problems/convert-1d-array-into-2d-array) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Easy |
 | 2018 | [判断单词是否能放入填字游戏内](../../problems/check-if-word-can-be-placed-in-crossword) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
@@ -81,7 +89,7 @@
 | 1091 | [二进制矩阵中的最短路径](../../problems/shortest-path-in-binary-matrix) | [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1074 | [元素和为目标值的子矩阵数量](../../problems/number-of-submatrices-that-sum-to-target) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[矩阵](../matrix/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
 | 1072 | [按列翻转得到最大值等行数](../../problems/flip-columns-for-maximum-number-of-equal-rows) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
-| 1034 | [边框着色](../../problems/coloring-a-border) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 1034 | [边界着色](../../problems/coloring-a-border) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 1030 | [距离顺序排列矩阵单元格](../../problems/matrix-cells-in-distance-order) | [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[矩阵](../matrix/README.md)] [[排序](../sorting/README.md)]  | Easy |
 | 1020 | [飞地的数量](../../problems/number-of-enclaves) | [[深度优先搜索](../depth-first-search/README.md)] [[广度优先搜索](../breadth-first-search/README.md)] [[并查集](../union-find/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
 | 999 | [可以被一步捕获的棋子数](../../problems/available-captures-for-rook) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[模拟](../simulation/README.md)]  | Easy |

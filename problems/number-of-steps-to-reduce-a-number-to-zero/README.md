@@ -57,8 +57,12 @@ Step 4) 1 is odd; subtract 1 and obtain 0.
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+
+### Similar Questions
+  1. [Minimum Moves to Reach Target Score](../minimum-moves-to-reach-target-score) (Medium)
+  1. [Count Operations to Obtain Zero](../count-operations-to-obtain-zero) (Easy)
 
 ### Hints
 <details>

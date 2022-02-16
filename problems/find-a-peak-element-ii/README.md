@@ -57,6 +57,9 @@
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
 
+### Similar Questions
+  1. [Find Peak Element](../find-peak-element) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

@@ -9,9 +9,16 @@
 　　　　　　　　　　　　　　　　
 [Next >](../drop-type-1-orders-for-customers-with-type-0-orders "Drop Type 1 Orders for Customers With Type 0 Orders")
 
-## [2083. Substrings That Begin and End With the Same Letter (Medium)](https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter "")
+## [2083. Substrings That Begin and End With the Same Letter (Medium)](https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter "求以相同字母开头和结尾的子串总数")
 
 
+
+### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
+  [[Math](../../tag/math/README.md)]
+  [[String](../../tag/string/README.md)]
+  [[Counting](../../tag/counting/README.md)]
+  [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
 ### Hints
 <details>

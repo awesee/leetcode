@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../time-needed-to-buy-tickets "Time Needed to Buy Tickets")
 
-## [2072. The Winner University (Easy)](https://leetcode.com/problems/the-winner-university "")
+## [2072. The Winner University (Easy)](https://leetcode.com/problems/the-winner-university "赢得比赛的大学")
 
 
 

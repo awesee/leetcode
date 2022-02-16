@@ -53,6 +53,9 @@
   [[String](../../tag/string/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
+### Similar Questions
+  1. [Check if Numbers Are Ascending in a Sentence](../check-if-numbers-are-ascending-in-a-sentence) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

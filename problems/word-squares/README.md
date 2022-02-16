@@ -82,10 +82,10 @@ The output consists of two word squares. The order of output does not matter (ju
 </p>
 
 ### Related Topics
-  [[Trie](../../tag/trie/README.md)]
   [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Trie](../../tag/trie/README.md)]
 
 ### Similar Questions
   1. [Valid Word Square](../valid-word-square) (Easy)

@@ -49,8 +49,8 @@ After modulo 10<sup>9</sup> + 7, the result is 505379714.
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints

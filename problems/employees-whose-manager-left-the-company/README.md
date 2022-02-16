@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../find-greatest-common-divisor-of-array "Find Greatest Common Divisor of Array")
 
-## [1978. Employees Whose Manager Left the Company (Easy)](https://leetcode.com/problems/employees-whose-manager-left-the-company "")
+## [1978. Employees Whose Manager Left the Company (Easy)](https://leetcode.com/problems/employees-whose-manager-left-the-company "上级经理已离职的公司员工")
 
 

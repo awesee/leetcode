@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../number-of-strings-that-appear-as-substrings-in-word "Number of Strings That Appear as Substrings in Word")
 
-## [1966. Binary Searchable Numbers in an Unsorted Array (Medium)](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array "")
+## [1966. Binary Searchable Numbers in an Unsorted Array (Medium)](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array "未排序数组中的可被二分搜索的数")
 
 
 

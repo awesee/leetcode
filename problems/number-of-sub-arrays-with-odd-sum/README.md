@@ -57,6 +57,9 @@ All sub-arrays have even sum and the answer is 0.
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
+### Similar Questions
+  1. [Subsequence of Size K With the Largest Even Sum](../subsequence-of-size-k-with-the-largest-even-sum) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

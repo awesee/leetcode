@@ -78,3 +78,6 @@ Cat queries poor_ query_percentage is (1 / 3) * 100 = 33.33
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Percentage of Users Attended a Contest](../percentage-of-users-attended-a-contest) (Easy)

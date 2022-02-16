@@ -7,8 +7,11 @@
 
 [< Previous](../substrings-that-begin-and-end-with-the-same-letter "Substrings That Begin and End With the Same Letter")
 　　　　　　　　　　　　　　　　
-Next >
+[Next >](../count-common-words-with-one-occurrence "Count Common Words With One Occurrence")
 
-## [2084. Drop Type 1 Orders for Customers With Type 0 Orders (Medium)](https://leetcode.com/problems/drop-type-1-orders-for-customers-with-type-0-orders "")
+## [2084. Drop Type 1 Orders for Customers With Type 0 Orders (Medium)](https://leetcode.com/problems/drop-type-1-orders-for-customers-with-type-0-orders "为订单类型为 0 的客户删除类型为 1 的订单")
 
 
+
+### Related Topics
+  [[Database](../../tag/database/README.md)]

@@ -54,9 +54,9 @@
 </ul>
 
 ### Related Topics
+  [[String](../../tag/string/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
-  [[String](../../tag/string/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions

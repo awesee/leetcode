@@ -19,7 +19,7 @@
 <pre>
 <strong>Input:</strong> nums = [3,0,1]
 <strong>Output:</strong> 2
-<b>Explanation</b><strong>:</strong> n = 3 since there are 3 numbers, so all numbers are in the range [0,3]. 2 is the missing number in the range since it does not appear in nums.
+<strong>Explanation:</strong> n = 3 since there are 3 numbers, so all numbers are in the range [0,3]. 2 is the missing number in the range since it does not appear in nums.
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -27,7 +27,7 @@
 <pre>
 <strong>Input:</strong> nums = [0,1]
 <strong>Output:</strong> 2
-<b>Explanation</b><strong>:</strong> n = 2 since there are 2 numbers, so all numbers are in the range [0,2]. 2 is the missing number in the range since it does not appear in nums.
+<strong>Explanation:</strong> n = 2 since there are 2 numbers, so all numbers are in the range [0,2]. 2 is the missing number in the range since it does not appear in nums.
 </pre>
 
 <p><strong>Example 3:</strong></p>
@@ -35,15 +35,7 @@
 <pre>
 <strong>Input:</strong> nums = [9,6,4,2,3,5,7,0,1]
 <strong>Output:</strong> 8
-<b>Explanation</b><strong>:</strong> n = 9 since there are 9 numbers, so all numbers are in the range [0,9]. 8 is the missing number in the range since it does not appear in nums.
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> nums = [0]
-<strong>Output:</strong> 1
-<b>Explanation</b><strong>:</strong> n = 1 since there is 1 number, so all numbers are in the range [0,1]. 1 is the missing number in the range since it does not appear in nums.
+<strong>Explanation:</strong> n = 9 since there are 9 numbers, so all numbers are in the range [0,9]. 8 is the missing number in the range since it does not appear in nums.
 </pre>
 
 <p>&nbsp;</p>
@@ -60,10 +52,10 @@
 <p><strong>Follow up:</strong> Could you implement a solution using only <code>O(1)</code> extra space complexity and <code>O(n)</code> runtime complexity?</p>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
 ### Similar Questions
@@ -71,3 +63,4 @@
   1. [Single Number](../single-number) (Easy)
   1. [Find the Duplicate Number](../find-the-duplicate-number) (Medium)
   1. [Couples Holding Hands](../couples-holding-hands) (Hard)
+  1. [Find Unique Binary String](../find-unique-binary-string) (Medium)

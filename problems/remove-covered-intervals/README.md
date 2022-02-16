@@ -23,34 +23,13 @@
 <pre>
 <strong>Input:</strong> intervals = [[1,4],[3,6],[2,8]]
 <strong>Output:</strong> 2
-<b>Explanation: </b>Interval [3,6] is covered by [2,8], therefore it is removed.
+<strong>Explanation:</strong> Interval [3,6] is covered by [2,8], therefore it is removed.
 </pre>
 
 <p><strong>Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> intervals = [[1,4],[2,3]]
-<strong>Output:</strong> 1
-</pre>
-
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> intervals = [[0,10],[5,12]]
-<strong>Output:</strong> 2
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> intervals = [[3,10],[4,10],[5,11]]
-<strong>Output:</strong> 2
-</pre>
-
-<p><strong>Example 5:</strong></p>
-
-<pre>
-<strong>Input:</strong> intervals = [[1,2],[1,4],[3,4]]
 <strong>Output:</strong> 1
 </pre>
 

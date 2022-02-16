@@ -9,11 +9,18 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2171 | [拿出最少数目的魔法豆](../../problems/removing-minimum-number-of-magic-beans) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 2145 | [统计隐藏数组数目](../../problems/count-the-hidden-sequences) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 2132 | [用邮票贴满网格图](../../problems/stamping-the-grid) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
+| 2121 | [相同元素的间隔之和](../../problems/intervals-between-identical-elements) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 2106 | [摘水果](../../problems/maximum-fruits-harvested-after-at-most-k-steps) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Hard |
+| 2100 | [适合打劫银行的日子](../../problems/find-good-days-to-rob-the-bank) | [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 2083 | [求以相同字母开头和结尾的子串总数](../../problems/substrings-that-begin-and-end-with-the-same-letter) 🔒 | [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 2067 | [Number of Equal Count Substrings](../../problems/number-of-equal-count-substrings) 🔒 | [[字符串](../string/README.md)] [[计数](../counting/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 2055 | [蜡烛之间的盘子](../../problems/plates-between-candles) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 2025 | [分割数组的最多方案数](../../problems/maximum-number-of-ways-to-partition-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
 | 2024 | [考试的最大困扰度](../../problems/maximize-the-confusion-of-an-exam) | [[字符串](../string/README.md)] [[二分查找](../binary-search/README.md)] [[前缀和](../prefix-sum/README.md)] [[滑动窗口](../sliding-window/README.md)]  | Medium |
-| 2021 | [Brightest Position on Street](../../problems/brightest-position-on-street) | [[数组](../array/README.md)] [[有序集合](../ordered-set/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
+| 2021 | [街上最亮的位置](../../problems/brightest-position-on-street) 🔒 | [[数组](../array/README.md)] [[有序集合](../ordered-set/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 2017 | [网格游戏](../../problems/grid-game) | [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |
 | 1991 | [找到数组的中间位置](../../problems/find-the-middle-index-in-array) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Easy |
 | 1943 | [描述绘画结果](../../problems/describe-the-painting) | [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)]  | Medium |

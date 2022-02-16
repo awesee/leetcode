@@ -66,5 +66,10 @@ skiplist.search(1); // return False, 1 has already been erased.</pre>
 </ul>
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
   [[Linked List](../../tag/linked-list/README.md)]
+  [[Design](../../tag/design/README.md)]
+
+### Similar Questions
+  1. [Design HashSet](../design-hashset) (Easy)
+  1. [Design HashMap](../design-hashmap) (Easy)
+  1. [Design Linked List](../design-linked-list) (Medium)
