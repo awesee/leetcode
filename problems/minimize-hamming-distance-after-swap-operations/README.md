@@ -59,9 +59,12 @@ The Hamming distance of source and target is 2 as they differ in 2 positions: in
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
-  [[Array](../../tag/array/README.md)]
+
+### Similar Questions
+  1. [Smallest String With Swaps](../smallest-string-with-swaps) (Medium)
 
 ### Hints
 <details>

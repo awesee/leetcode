@@ -68,8 +68,11 @@ Thus, one milestone in project 0 will remain unfinished.
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
+
+### Similar Questions
+  1. [Task Scheduler](../task-scheduler) (Medium)
 
 ### Hints
 <details>

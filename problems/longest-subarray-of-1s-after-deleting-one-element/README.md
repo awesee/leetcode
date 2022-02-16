@@ -21,34 +21,23 @@
 <pre>
 <strong>Input:</strong> nums = [1,1,0,1]
 <strong>Output:</strong> 3
-<strong>Explanation: </strong>After deleting the number in position 2, [1,1,1] contains 3 numbers with value of 1&#39;s.</pre>
+<strong>Explanation:</strong> After deleting the number in position 2, [1,1,1] contains 3 numbers with value of 1&#39;s.
+</pre>
 
 <p><strong>Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [0,1,1,1,0,1,1,0,1]
 <strong>Output:</strong> 5
-<strong>Explanation: </strong>After deleting the number in position 4, [0,1,1,1,1,1,0,1] longest subarray with value of 1&#39;s is [1,1,1,1,1].</pre>
+<strong>Explanation:</strong> After deleting the number in position 4, [0,1,1,1,1,1,0,1] longest subarray with value of 1&#39;s is [1,1,1,1,1].
+</pre>
 
 <p><strong>Example 3:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [1,1,1]
 <strong>Output:</strong> 2
-<strong>Explanation: </strong>You must delete one element.</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> nums = [1,1,0,0,1,1,1,0,1]
-<strong>Output:</strong> 4
-</pre>
-
-<p><strong>Example 5:</strong></p>
-
-<pre>
-<strong>Input:</strong> nums = [0,0,0]
-<strong>Output:</strong> 0
+<strong>Explanation:</strong> You must delete one element.
 </pre>
 
 <p>&nbsp;</p>

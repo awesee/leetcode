@@ -69,8 +69,13 @@ obj.calculateMKAverage(); // The last 3 elements are [5,5,5].
 ### Related Topics
   [[Design](../../tag/design/README.md)]
   [[Queue](../../tag/queue/README.md)]
-  [[Ordered Set](../../tag/ordered-set/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
+
+### Similar Questions
+  1. [Find Median from Data Stream](../find-median-from-data-stream) (Hard)
+  1. [Kth Largest Element in a Stream](../kth-largest-element-in-a-stream) (Easy)
+  1. [Sequentially Ordinal Rank Tracker](../sequentially-ordinal-rank-tracker) (Hard)
 
 ### Hints
 <details>

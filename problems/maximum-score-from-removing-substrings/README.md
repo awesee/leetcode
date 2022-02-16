@@ -58,9 +58,12 @@ Total score = 5 + 4 + 5 + 5 = 19.</pre>
 </ul>
 
 ### Related Topics
+  [[String](../../tag/string/README.md)]
   [[Stack](../../tag/stack/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
-  [[String](../../tag/string/README.md)]
+
+### Similar Questions
+  1. [Count Words Obtained After Adding a Letter](../count-words-obtained-after-adding-a-letter) (Medium)
 
 ### Hints
 <details>

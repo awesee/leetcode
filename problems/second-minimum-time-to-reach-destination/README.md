@@ -80,7 +80,6 @@ The second minimum time path is 1 -&gt; 2 -&gt; 1 -&gt; 2 with time = 11 minutes
 ### Related Topics
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Graph](../../tag/graph/README.md)]
-  [[Array](../../tag/array/README.md)]
   [[Shortest Path](../../tag/shortest-path/README.md)]
 
 ### Hints

@@ -5,19 +5,19 @@
 <!--|@home      https://github.com/awesee/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../bulb-switcher-iv "Bulb Switcher IV")
+[< Previous](../minimum-suffix-flips "Minimum Suffix Flips")
 　　　　　　　　　　　　　　　　
 [Next >](../string-compression-ii "String Compression II")
 
 ## [1530. Number of Good Leaf Nodes Pairs (Medium)](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs "好叶子节点对的数量")
 
-<p>Given the <code>root</code> of a binary tree and an integer <code>distance</code>. A pair of two different <strong>leaf</strong> nodes of a binary tree is said to be good if the length of <strong>the shortest path</strong> between them is less than or equal to <code>distance</code>.</p>
+<p>You are given the <code>root</code> of a binary tree and an integer <code>distance</code>. A pair of two different <strong>leaf</strong> nodes of a binary tree is said to be good if the length of <strong>the shortest path</strong> between them is less than or equal to <code>distance</code>.</p>
 
 <p>Return <em>the number of good leaf node pairs</em> in the tree.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/07/09/e1.jpg" style="width: 321px; height: 321px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2020/07/09/e1.jpg" style="width: 250px; height: 250px;" />
 <pre>
 <strong>Input:</strong> root = [1,2,3,null,4], distance = 3
 <strong>Output:</strong> 1
@@ -25,7 +25,7 @@
 </pre>
 
 <p><strong>Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/07/09/e2.jpg" style="width: 441px; height: 321px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2020/07/09/e2.jpg" style="width: 250px; height: 182px;" />
 <pre>
 <strong>Input:</strong> root = [1,2,3,4,5,6,7], distance = 3
 <strong>Output:</strong> 2
@@ -40,26 +40,12 @@
 <strong>Explanation:</strong> The only good pair is [2,5].
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> root = [100], distance = 1
-<strong>Output:</strong> 0
-</pre>
-
-<p><strong>Example 5:</strong></p>
-
-<pre>
-<strong>Input:</strong> root = [1,1,1], distance = 2
-<strong>Output:</strong> 1
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the&nbsp;<code>tree</code>&nbsp;is in the range&nbsp;<code>[1, 2^10].</code></li>
-	<li>Each node&#39;s value is between&nbsp;<code>[1, 100]</code>.</li>
+	<li>The number of nodes in the <code>tree</code> is in the range <code>[1, 2<sup>10</sup>].</code></li>
+	<li><code>1 &lt;= Node.val &lt;= 100</code></li>
 	<li><code>1 &lt;= distance &lt;= 10</code></li>
 </ul>
 

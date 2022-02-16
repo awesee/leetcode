@@ -50,6 +50,9 @@
   [[Array](../../tag/array/README.md)]
   [[String](../../tag/string/README.md)]
 
+### Similar Questions
+  1. [Minimum Cost to Move Chips to The Same Position](../minimum-cost-to-move-chips-to-the-same-position) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

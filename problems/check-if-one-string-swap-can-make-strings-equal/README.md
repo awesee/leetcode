@@ -40,13 +40,6 @@
 <strong>Explanation:</strong> The two strings are already equal, so no string swap operation is required.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> s1 = &quot;abcd&quot;, s2 = &quot;dcba&quot;
-<strong>Output:</strong> false
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
@@ -60,6 +53,9 @@
   [[Hash Table](../../tag/hash-table/README.md)]
   [[String](../../tag/string/README.md)]
   [[Counting](../../tag/counting/README.md)]
+
+### Similar Questions
+  1. [Buddy Strings](../buddy-strings) (Easy)
 
 ### Hints
 <details>

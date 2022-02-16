@@ -52,6 +52,9 @@
   [[Math](../../tag/math/README.md)]
   [[Counting](../../tag/counting/README.md)]
 
+### Similar Questions
+  1. [Number of Pairs of Interchangeable Rectangles](../number-of-pairs-of-interchangeable-rectangles) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

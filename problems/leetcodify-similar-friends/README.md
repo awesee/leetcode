@@ -15,3 +15,6 @@
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Leetcodify Friends Recommendations](../leetcodify-friends-recommendations) (Hard)

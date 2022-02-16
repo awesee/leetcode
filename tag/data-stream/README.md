@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2102 | [序列顺序查询](../../problems/sequentially-ordinal-rank-tracker) | [[设计](../design/README.md)] [[数据流](../data-stream/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Hard |
+| 2034 | [股票价格波动](../../problems/stock-price-fluctuation) | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[数据流](../data-stream/README.md)] [[有序集合](../ordered-set/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |
 | 1670 | [设计前中后队列](../../problems/design-front-middle-back-queue) | [[设计](../design/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[链表](../linked-list/README.md)] [[数据流](../data-stream/README.md)]  | Medium |
 | 1656 | [设计有序流](../../problems/design-an-ordered-stream) | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数据流](../data-stream/README.md)]  | Easy |
 | 1500 | [设计文件分享系统](../../problems/design-a-file-sharing-system) 🔒 | [[设计](../design/README.md)] [[哈希表](../hash-table/README.md)] [[数据流](../data-stream/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |

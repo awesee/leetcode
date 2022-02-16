@@ -43,10 +43,10 @@
 </ul>
 
 ### Related Topics
-  [[Tree](../../tag/tree/README.md)]
-  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Divide and Conquer](../../tag/divide-and-conquer/README.md)]
+  [[Tree](../../tag/tree/README.md)]
+  [[Binary Search Tree](../../tag/binary-search-tree/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
 
 ### Similar Questions

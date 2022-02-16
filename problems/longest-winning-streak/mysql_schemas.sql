@@ -1,0 +1,10 @@
+Create table If Not Exists Matches (player_id int, match_day date, result ENUM('Win', 'Draw', 'Lose'));
+Truncate table Matches;
+insert into Matches (player_id, match_day, result) values ('1', '2022-01-17', 'Win');
+insert into Matches (player_id, match_day, result) values ('1', '2022-01-18', 'Win');
+insert into Matches (player_id, match_day, result) values ('1', '2022-01-25', 'Win');
+insert into Matches (player_id, match_day, result) values ('1', '2022-01-31', 'Draw');
+insert into Matches (player_id, match_day, result) values ('1', '2022-02-08', 'Win');
+insert into Matches (player_id, match_day, result) values ('2', '2022-02-06', 'Lose');
+insert into Matches (player_id, match_day, result) values ('2', '2022-02-08', 'Lose');
+insert into Matches (player_id, match_day, result) values ('3', '2022-03-30', 'Win');

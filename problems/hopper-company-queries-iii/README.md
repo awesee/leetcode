@@ -15,8 +15,3 @@
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
-
-### Similar Questions
-  1. [Trips and Users](../trips-and-users) (Hard)
-  1. [Hopper Company Queries I](../hopper-company-queries-i) (Hard)
-  1. [Hopper Company Queries II](../hopper-company-queries-ii) (Hard)

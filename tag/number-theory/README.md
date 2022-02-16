@@ -12,6 +12,7 @@
 | 2001 | [可互换矩形的组数](../../problems/number-of-pairs-of-interchangeable-rectangles) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[数论](../number-theory/README.md)]  | Medium |
 | 1819 | [序列中不同最大公约数的数目](../../problems/number-of-different-subsequences-gcds) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[数论](../number-theory/README.md)]  | Hard |
 | 1799 | [N 次操作后的最大分数和](../../problems/maximize-score-after-n-operations) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)] [[数论](../number-theory/README.md)]  | Hard |
+| 1447 | [最简分数](../../problems/simplified-fractions) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[数论](../number-theory/README.md)]  | Medium |
 | 1250 | [检查「好数组」](../../problems/check-if-it-is-a-good-array) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[数论](../number-theory/README.md)]  | Hard |
 | 1201 | [丑数 III](../../problems/ugly-number-iii) | [[数学](../math/README.md)] [[二分查找](../binary-search/README.md)] [[数论](../number-theory/README.md)]  | Medium |
 | 914 | [卡牌分组](../../problems/x-of-a-kind-in-a-deck-of-cards) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[计数](../counting/README.md)] [[数论](../number-theory/README.md)]  | Easy |

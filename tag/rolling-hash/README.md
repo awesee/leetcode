@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2168 | [Unique Substrings With Equal Digit Frequency](../../problems/unique-substrings-with-equal-digit-frequency) 🔒 | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)] [[哈希函数](../hash-function/README.md)] [[滚动哈希](../rolling-hash/README.md)]  | Medium |
+| 2156 | [查找给定哈希值的子串](../../problems/find-substring-with-given-hash-value) | [[字符串](../string/README.md)] [[滑动窗口](../sliding-window/README.md)] [[哈希函数](../hash-function/README.md)] [[滚动哈希](../rolling-hash/README.md)]  | Medium |
 | 1960 | [两个回文子字符串长度的最大乘积](../../problems/maximum-product-of-the-length-of-two-palindromic-substrings) | [[字符串](../string/README.md)] [[哈希函数](../hash-function/README.md)] [[滚动哈希](../rolling-hash/README.md)]  | Hard |
 | 1923 | [最长公共子路径](../../problems/longest-common-subpath) | [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[后缀数组](../suffix-array/README.md)] [[哈希函数](../hash-function/README.md)] [[滚动哈希](../rolling-hash/README.md)]  | Hard |
 | 1698 | [字符串的不同子字符串个数](../../problems/number-of-distinct-substrings-in-a-string) 🔒 | [[字典树](../trie/README.md)] [[字符串](../string/README.md)] [[后缀数组](../suffix-array/README.md)] [[哈希函数](../hash-function/README.md)] [[滚动哈希](../rolling-hash/README.md)]  | Medium |

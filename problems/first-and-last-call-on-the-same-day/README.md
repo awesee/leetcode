@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../count-nodes-equal-to-sum-of-descendants "Count Nodes Equal to Sum of Descendants")
 
-## [1972. First and Last Call On the Same Day (Hard)](https://leetcode.com/problems/first-and-last-call-on-the-same-day "")
+## [1972. First and Last Call On the Same Day (Hard)](https://leetcode.com/problems/first-and-last-call-on-the-same-day "同一天的第一个电话和最后一个电话")
 
 
 

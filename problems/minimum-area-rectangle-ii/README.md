@@ -19,7 +19,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2018/12/21/1a.png" style="width: 512px; height: 514px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2018/12/21/1a.png" style="width: 398px; height: 400px;" />
 <pre>
 <strong>Input:</strong> points = [[1,2],[2,1],[1,0],[0,1]]
 <strong>Output:</strong> 2.00000
@@ -27,7 +27,7 @@
 </pre>
 
 <p><strong>Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2018/12/22/2.png" style="width: 487px; height: 306px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2018/12/22/2.png" style="width: 400px; height: 251px;" />
 <pre>
 <strong>Input:</strong> points = [[0,1],[2,1],[1,1],[1,0],[2,0]]
 <strong>Output:</strong> 1.00000
@@ -35,19 +35,11 @@
 </pre>
 
 <p><strong>Example 3:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2018/12/22/3.png" style="width: 479px; height: 500px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2018/12/22/3.png" style="width: 383px; height: 400px;" />
 <pre>
 <strong>Input:</strong> points = [[0,3],[1,2],[3,1],[1,3],[2,1]]
 <strong>Output:</strong> 0
 <strong>Explanation:</strong> There is no possible rectangle to form from these points.
-</pre>
-
-<p><strong>Example 4:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2018/12/21/4c.png" style="width: 314px; height: 305px;" />
-<pre>
-<strong>Input:</strong> points = [[3,1],[1,1],[0,1],[2,1],[3,3],[3,2],[0,2],[2,3]]
-<strong>Output:</strong> 2.00000
-<strong>Explanation:</strong> The minimum area rectangle occurs at [2,1],[2,3],[3,3],[3,1], with an area of 2.
 </pre>
 
 <p>&nbsp;</p>
@@ -61,6 +53,6 @@
 </ul>
 
 ### Related Topics
-  [[Geometry](../../tag/geometry/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Geometry](../../tag/geometry/README.md)]

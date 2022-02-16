@@ -52,13 +52,10 @@ For the second query, there is a path (0 -&gt; 1 -&gt; 2) of two edges with dist
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
   [[Graph](../../tag/graph/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
-
-### Similar Questions
-  1. [Checking Existence of Edge Length Limited Paths II](../checking-existence-of-edge-length-limited-paths-ii) (Hard)
 
 ### Hints
 <details>

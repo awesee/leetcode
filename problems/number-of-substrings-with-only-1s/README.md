@@ -40,13 +40,6 @@
 <strong>Explanation:</strong> Each substring contains only 1&#39;s characters.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;000&quot;
-<strong>Output:</strong> 0
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
@@ -58,6 +51,10 @@
 ### Related Topics
   [[Math](../../tag/math/README.md)]
   [[String](../../tag/string/README.md)]
+
+### Similar Questions
+  1. [Count Number of Homogenous Substrings](../count-number-of-homogenous-substrings) (Medium)
+  1. [Count Vowel Substrings of a String](../count-vowel-substrings-of-a-string) (Easy)
 
 ### Hints
 <details>

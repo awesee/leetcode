@@ -72,6 +72,9 @@ You can skip the first and third rest to arrive in ((7/2 + <u>0</u>) + (3/2 + 0)
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
+### Similar Questions
+  1. [Minimum Speed to Arrive on Time](../minimum-speed-to-arrive-on-time) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

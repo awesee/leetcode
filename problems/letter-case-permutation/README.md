@@ -11,9 +11,9 @@
 
 ## [784. Letter Case Permutation (Medium)](https://leetcode.com/problems/letter-case-permutation "字母大小写全排列")
 
-<p>Given a string <code>s</code>, we can transform every letter individually to be lowercase or uppercase to create another string.</p>
+<p>Given a string <code>s</code>, you&nbsp;can transform every letter individually to be lowercase or uppercase to create another string.</p>
 
-<p>Return <em>a list of all possible strings we could create</em>. You can return the output&nbsp;in <strong>any order</strong>.</p>
+<p>Return <em>a list of all possible strings we could create</em>. Return the output in <strong>any order</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -30,32 +30,18 @@
 <strong>Output:</strong> [&quot;3z4&quot;,&quot;3Z4&quot;]
 </pre>
 
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;12345&quot;
-<strong>Output:</strong> [&quot;12345&quot;]
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;0&quot;
-<strong>Output:</strong> [&quot;0&quot;]
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>s</code> will be a string with length between <code>1</code> and <code>12</code>.</li>
-	<li><code>s</code> will consist only of letters or digits.</li>
+	<li><code>1 &lt;= s.length &lt;= 12</code></li>
+	<li><code>s</code> consists of lowercase English letters, uppercase English letters, and digits.</li>
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[String](../../tag/string/README.md)]
   [[Backtracking](../../tag/backtracking/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
 
 ### Similar Questions
   1. [Subsets](../subsets) (Medium)

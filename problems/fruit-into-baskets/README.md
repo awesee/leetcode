@@ -50,14 +50,6 @@ If we had started at the first tree, we would only pick from trees [0,1].
 If we had started at the first tree, we would only pick from trees [1,2].
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> fruits = [3,3,3,<u>1,2,1,1,2</u>,3,3,4]
-<strong>Output:</strong> 5
-<strong>Explanation:</strong> We can pick from trees [1,2,1,1,2].
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

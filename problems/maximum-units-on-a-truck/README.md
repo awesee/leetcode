@@ -53,8 +53,8 @@ The total number of units will be = (1 * 3) + (2 * 2) + (1 * 1) = 8.
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints

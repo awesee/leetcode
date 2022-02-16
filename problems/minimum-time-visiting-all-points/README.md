@@ -56,9 +56,9 @@ Total time = 7 seconds</pre>
 </ul>
 
 ### Related Topics
-  [[Geometry](../../tag/geometry/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Geometry](../../tag/geometry/README.md)]
 
 ### Hints
 <details>

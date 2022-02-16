@@ -77,3 +77,7 @@ The buyer with id 1 bought an S8 but didn&#39;t buy an iPhone. The buyer with id
 
 ### Related Topics
   [[Database](../../tag/database/README.md)]
+
+### Similar Questions
+  1. [Sales Analysis I](../sales-analysis-i) (Easy)
+  1. [Sales Analysis III](../sales-analysis-iii) (Easy)

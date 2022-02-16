@@ -9,6 +9,20 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2170 | [使数组变成交替数组的最少操作数](../../problems/minimum-operations-to-make-the-array-alternating) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)]  | Medium |
+| 2160 | [拆分数位后四位数字的最小和](../../problems/minimum-sum-of-four-digit-number-after-splitting-digits) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[排序](../sorting/README.md)]  | Easy |
+| 2144 | [打折购买糖果的最小开销](../../problems/minimum-cost-of-buying-candies-with-discount) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Easy |
+| 2141 | [同时运行 N 台电脑的最长时间](../../problems/maximum-running-time-of-n-computers) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)]  | Hard |
+| 2139 | [得到目标值的最少行动次数](../../problems/minimum-moves-to-reach-target-score) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)]  | Medium |
+| 2136 | [全部开花的最早一天](../../problems/earliest-possible-day-of-full-bloom) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Hard |
+| 2132 | [用邮票贴满网格图](../../problems/stamping-the-grid) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
+| 2131 | [连接两字母单词得到的最长回文串](../../problems/longest-palindrome-by-concatenating-two-letter-words) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)]  | Medium |
+| 2126 | [摧毁小行星](../../problems/destroying-asteroids) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 2116 | [判断一个括号字符串是否有效](../../problems/check-if-a-parentheses-string-can-be-valid) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 2098 | [Subsequence of Size K With the Largest Even Sum](../../problems/subsequence-of-size-k-with-the-largest-even-sum) 🔒 | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 2091 | [从数组中移除最大值和最小值](../../problems/removing-minimum-and-maximum-from-array) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
+| 2087 | [网格图中机器人回家的最小代价](../../problems/minimum-cost-homecoming-of-a-robot-in-a-grid) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
+| 2086 | [从房屋收集雨水需要的最少水桶数](../../problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 2078 | [两栋颜色不同且距离最远的房子](../../problems/two-furthest-houses-with-different-colors) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)]  | Easy |
 | 2071 | [你可以安排的最多任务数目](../../problems/maximum-number-of-tasks-you-can-assign) | [[贪心](../greedy/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)] [[单调队列](../monotonic-queue/README.md)]  | Hard |
 | 2038 | [如果相邻两个颜色均相同则删除当前颜色](../../problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
@@ -26,6 +40,7 @@
 | 1963 | [使字符串平衡的最小交换次数](../../problems/minimum-number-of-swaps-to-make-the-string-balanced) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1953 | [你可以工作的最大周数](../../problems/maximum-number-of-weeks-for-which-you-can-work) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1946 | [子字符串突变后可能得到的最大整数](../../problems/largest-number-after-mutating-substring) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1936 | [新增的最少台阶数](../../problems/add-minimum-number-of-rungs) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)]  | Medium |
 | 1927 | [求和游戏](../../problems/sum-game) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[博弈](../game-theory/README.md)]  | Medium |
 | 1921 | [消灭怪物的最大数量](../../problems/eliminate-maximum-number-of-monsters) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1903 | [字符串中的最大奇数](../../problems/largest-odd-number-in-string) | [[贪心](../greedy/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Easy |
@@ -78,7 +93,7 @@
 | 1589 | [所有排列中的最大和](../../problems/maximum-sum-obtained-of-any-permutation) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[前缀和](../prefix-sum/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1585 | [检查字符串是否可以通过排序子字符串得到另一个字符串](../../problems/check-if-string-is-transformable-with-substring-sort-operations) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)] [[排序](../sorting/README.md)]  | Hard |
 | 1580 | [把箱子放进仓库里 II](../../problems/put-boxes-into-the-warehouse-ii) 🔒 | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Medium |
-| 1578 | [避免重复字母的最小删除成本](../../problems/minimum-deletion-cost-to-avoid-repeating-letters) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
+| 1578 | [使绳子变成彩色的最短时间](../../problems/minimum-time-to-make-rope-colorful) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1567 | [乘积为正数的最长子数组长度](../../problems/maximum-length-of-subarray-with-positive-product) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Medium |
 | 1564 | [把箱子放进仓库里 I](../../problems/put-boxes-into-the-warehouse-i) 🔒 | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 1561 | [你可以获得的最大硬币数目](../../problems/maximum-number-of-coins-you-can-get) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[博弈](../game-theory/README.md)] [[排序](../sorting/README.md)]  | Medium |
@@ -87,7 +102,7 @@
 | 1541 | [平衡括号字符串的最少插入次数](../../problems/minimum-insertions-to-balance-a-parentheses-string) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1537 | [最大得分](../../problems/get-the-maximum-score) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[动态规划](../dynamic-programming/README.md)]  | Hard |
 | 1536 | [排布二进制网格的最少交换次数](../../problems/minimum-swaps-to-arrange-a-binary-grid) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
-| 1529 | [灯泡开关 IV](../../problems/bulb-switcher-iv) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
+| 1529 | [最少的后缀翻转次数](../../problems/minimum-suffix-flips) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1526 | [形成目标数组的子数组最少增加次数](../../problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
 | 1520 | [最多的不重叠子字符串](../../problems/maximum-number-of-non-overlapping-substrings) | [[贪心](../greedy/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 1509 | [三次操作后最大值与最小值的最小差](../../problems/minimum-difference-between-largest-and-smallest-value-in-three-moves) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)]  | Medium |
@@ -161,7 +176,7 @@
 | 846 | [一手顺子](../../problems/hand-of-straights) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 826 | [安排工作以达到最大收益](../../problems/most-profit-assigning-work) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 807 | [保持城市天际线](../../problems/max-increase-to-keep-city-skyline) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[矩阵](../matrix/README.md)]  | Medium |
-| 781 | [森林中的兔子](../../problems/rabbits-in-forest) | [[贪心](../greedy/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
+| 781 | [森林中的兔子](../../problems/rabbits-in-forest) | [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)]  | Medium |
 | 769 | [最多能完成排序的块](../../problems/max-chunks-to-make-sorted) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 768 | [最多能完成排序的块 II](../../problems/max-chunks-to-make-sorted-ii) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[数组](../array/README.md)] [[排序](../sorting/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Hard |
 | 767 | [重构字符串](../../problems/reorganize-string) | [[贪心](../greedy/README.md)] [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[计数](../counting/README.md)] [[排序](../sorting/README.md)] [[堆（优先队列）](../heap-priority-queue/README.md)]  | Medium |

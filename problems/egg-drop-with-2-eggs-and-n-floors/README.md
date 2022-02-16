@@ -54,6 +54,9 @@ Regardless of the outcome, it takes at most 14 drops to determine f.
   [[Math](../../tag/math/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
 
+### Similar Questions
+  1. [Super Egg Drop](../super-egg-drop) (Hard)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

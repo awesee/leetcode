@@ -65,8 +65,11 @@ Step 1) 2 is even, divide by 2 and obtain 1.&nbsp;
 </ul>
 
 ### Related Topics
-  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
+
+### Similar Questions
+  1. [Minimum Moves to Reach Target Score](../minimum-moves-to-reach-target-score) (Medium)
 
 ### Hints
 <details>

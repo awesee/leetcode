@@ -67,6 +67,9 @@ Letter &quot;e&quot; can only be used once.</pre>
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Bitmask](../../tag/bitmask/README.md)]
 
+### Similar Questions
+  1. [Maximum Good People Based on Statements](../maximum-good-people-based-on-statements) (Hard)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

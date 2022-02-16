@@ -51,6 +51,9 @@
 ### Related Topics
   [[Array](../../tag/array/README.md)]
 
+### Similar Questions
+  1. [K Closest Points to Origin](../k-closest-points-to-origin) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

@@ -56,14 +56,6 @@ Thus, minDistance and maxDistance is 5 - 2 = 3.
 Note that the last node is not considered a local maxima because it does not have a next node.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/10/13/a4.png" style="width: 345px; height: 52px;" />
-<pre>
-<strong>Input:</strong> head = [2,3,3,2]
-<strong>Output:</strong> [-1,-1]
-<strong>Explanation:</strong> There are no critical points in [2,3,3,2].
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

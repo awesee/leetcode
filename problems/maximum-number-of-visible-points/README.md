@@ -62,11 +62,11 @@
 </ul>
 
 ### Related Topics
-  [[Geometry](../../tag/geometry/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
-  [[Sorting](../../tag/sorting/README.md)]
+  [[Geometry](../../tag/geometry/README.md)]
   [[Sliding Window](../../tag/sliding-window/README.md)]
+  [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints
 <details>

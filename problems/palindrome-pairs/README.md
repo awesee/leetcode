@@ -55,3 +55,4 @@
 ### Similar Questions
   1. [Longest Palindromic Substring](../longest-palindromic-substring) (Medium)
   1. [Shortest Palindrome](../shortest-palindrome) (Hard)
+  1. [Longest Palindrome by Concatenating Two Letter Words](../longest-palindrome-by-concatenating-two-letter-words) (Medium)

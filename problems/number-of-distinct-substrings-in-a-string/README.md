@@ -14,11 +14,11 @@
 
 
 ### Related Topics
-  [[Trie](../../tag/trie/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Trie](../../tag/trie/README.md)]
+  [[Rolling Hash](../../tag/rolling-hash/README.md)]
   [[Suffix Array](../../tag/suffix-array/README.md)]
   [[Hash Function](../../tag/hash-function/README.md)]
-  [[Rolling Hash](../../tag/rolling-hash/README.md)]
 
 ### Hints
 <details>

@@ -19,6 +19,10 @@
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Binary Tree](../../tag/binary-tree/README.md)]
 
+### Similar Questions
+  1. [Binary Tree Tilt](../binary-tree-tilt) (Easy)
+  1. [Univalued Binary Tree](../univalued-binary-tree) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

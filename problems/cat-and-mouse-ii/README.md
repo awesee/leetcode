@@ -46,9 +46,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-
-<p><strong><img alt="" src="https://assets.leetcode.com/uploads/2020/09/12/sample_111_1955.png" style="width: 580px; height: 239px;" /></strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2020/09/12/sample_111_1955.png" style="width: 580px; height: 239px;" />
 <pre>
 <strong>Input:</strong> grid = [&quot;####F&quot;,&quot;#C...&quot;,&quot;M....&quot;], catJump = 1, mouseJump = 2
 <strong>Output:</strong> true
@@ -56,9 +54,7 @@
 </pre>
 
 <p><strong>Example 2:</strong></p>
-
-<p><img alt="" src="https://assets.leetcode.com/uploads/2020/09/12/sample_2_1955.png" style="width: 580px; height: 175px;" /></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2020/09/12/sample_2_1955.png" style="width: 580px; height: 175px;" />
 <pre>
 <strong>Input:</strong> grid = [&quot;M.C...F&quot;], catJump = 1, mouseJump = 4
 <strong>Output:</strong> true
@@ -69,20 +65,6 @@
 <pre>
 <strong>Input:</strong> grid = [&quot;M.C...F&quot;], catJump = 1, mouseJump = 3
 <strong>Output:</strong> false
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> grid = [&quot;C...#&quot;,&quot;...#F&quot;,&quot;....#&quot;,&quot;M....&quot;], catJump = 2, mouseJump = 5
-<strong>Output:</strong> false
-</pre>
-
-<p><strong>Example 5:</strong></p>
-
-<pre>
-<strong>Input:</strong> grid = [&quot;.M...&quot;,&quot;..#..&quot;,&quot;#..#.&quot;,&quot;C#.#.&quot;,&quot;...#F&quot;], catJump = 3, mouseJump = 1
-<strong>Output:</strong> true
 </pre>
 
 <p>&nbsp;</p>
@@ -98,12 +80,16 @@
 </ul>
 
 ### Related Topics
+  [[Math](../../tag/math/README.md)]
+  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Graph](../../tag/graph/README.md)]
   [[Memoization](../../tag/memoization/README.md)]
-  [[Math](../../tag/math/README.md)]
-  [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Game Theory](../../tag/game-theory/README.md)]
+
+### Similar Questions
+  1. [Escape The Ghosts](../escape-the-ghosts) (Medium)
+  1. [Cat and Mouse](../cat-and-mouse) (Hard)
 
 ### Hints
 <details>

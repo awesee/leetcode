@@ -17,7 +17,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/09/21/linked1.jpg" style="width: 722px; height: 202px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2020/09/21/linked1.jpg" style="width: 400px; height: 112px;" />
 <pre>
 <strong>Input:</strong> head = [1,2,3,4,5], k = 2
 <strong>Output:</strong> [1,4,3,2,5]
@@ -28,27 +28,6 @@
 <pre>
 <strong>Input:</strong> head = [7,9,6,6,7,8,3,0,9,5], k = 5
 <strong>Output:</strong> [7,9,6,6,8,7,3,0,9,5]
-</pre>
-
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> head = [1], k = 1
-<strong>Output:</strong> [1]
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> head = [1,2], k = 1
-<strong>Output:</strong> [2,1]
-</pre>
-
-<p><strong>Example 5:</strong></p>
-
-<pre>
-<strong>Input:</strong> head = [1,2,3], k = 2
-<strong>Output:</strong> [1,2,3]
 </pre>
 
 <p>&nbsp;</p>
@@ -63,6 +42,11 @@
 ### Related Topics
   [[Linked List](../../tag/linked-list/README.md)]
   [[Two Pointers](../../tag/two-pointers/README.md)]
+
+### Similar Questions
+  1. [Remove Nth Node From End of List](../remove-nth-node-from-end-of-list) (Medium)
+  1. [Swap Nodes in Pairs](../swap-nodes-in-pairs) (Medium)
+  1. [Reverse Nodes in k-Group](../reverse-nodes-in-k-group) (Hard)
 
 ### Hints
 <details>

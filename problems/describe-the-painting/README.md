@@ -85,6 +85,10 @@ Note that returning a single segment [1,7) is incorrect because the mixed color 
   [[Array](../../tag/array/README.md)]
   [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
+### Similar Questions
+  1. [Average Height of Buildings in Each Segment](../average-height-of-buildings-in-each-segment) (Medium)
+  1. [Amount of New Area Painted Each Day](../amount-of-new-area-painted-each-day) (Hard)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

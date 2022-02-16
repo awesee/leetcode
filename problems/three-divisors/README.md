@@ -42,6 +42,9 @@
 ### Related Topics
   [[Math](../../tag/math/README.md)]
 
+### Similar Questions
+  1. [Find Greatest Common Divisor of Array](../find-greatest-common-divisor-of-array) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

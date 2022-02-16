@@ -9,6 +9,6 @@
 　　　　　　　　　　　　　　　　
 [Next >](../maximum-number-of-people-that-can-be-caught-in-tag "Maximum Number of People That Can Be Caught in Tag")
 
-## [1988. Find Cutoff Score for Each School (Medium)](https://leetcode.com/problems/find-cutoff-score-for-each-school "")
+## [1988. Find Cutoff Score for Each School (Medium)](https://leetcode.com/problems/find-cutoff-score-for-each-school "找出每所学校的最低分数要求")
 
 

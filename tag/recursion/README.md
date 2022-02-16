@@ -11,7 +11,7 @@
 | :-: | - | - | :-: |
 | 1969 | [数组元素的最小非零乘积](../../problems/minimum-non-zero-product-of-the-array-elements) | [[贪心](../greedy/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
 | 1922 | [统计好数字的数目](../../problems/count-good-numbers) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Medium |
-| 1823 | [找出游戏的获胜者](../../problems/find-the-winner-of-the-circular-game) | [[递归](../recursion/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 1823 | [找出游戏的获胜者](../../problems/find-the-winner-of-the-circular-game) | [[递归](../recursion/README.md)] [[队列](../queue/README.md)] [[数组](../array/README.md)] [[数学](../math/README.md)] [[模拟](../simulation/README.md)]  | Medium |
 | 1808 | [好因子的最大数目](../../problems/maximize-number-of-nice-divisors) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Hard |
 | 1545 | [找出第 N 个二进制字符串中的第 K 位](../../problems/find-kth-bit-in-nth-binary-string) | [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 1265 | [逆序打印不可变链表](../../problems/print-immutable-linked-list-in-reverse) 🔒 | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
@@ -30,7 +30,7 @@
 | 394 | [字符串解码](../../problems/decode-string) | [[栈](../stack/README.md)] [[递归](../recursion/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 344 | [反转字符串](../../problems/reverse-string) | [[递归](../recursion/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 342 | [4的幂](../../problems/power-of-four) | [[位运算](../bit-manipulation/README.md)] [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Easy |
-| 326 | [3的幂](../../problems/power-of-three) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Easy |
+| 326 | [3 的幂](../../problems/power-of-three) | [[递归](../recursion/README.md)] [[数学](../math/README.md)]  | Easy |
 | 273 | [整数转换英文表示](../../problems/integer-to-english-words) | [[递归](../recursion/README.md)] [[数学](../math/README.md)] [[字符串](../string/README.md)]  | Hard |
 | 255 | [验证前序遍历序列二叉搜索树](../../problems/verify-preorder-sequence-in-binary-search-tree) 🔒 | [[栈](../stack/README.md)] [[树](../tree/README.md)] [[二叉搜索树](../binary-search-tree/README.md)] [[递归](../recursion/README.md)] [[二叉树](../binary-tree/README.md)] [[单调栈](../monotonic-stack/README.md)]  | Medium |
 | 248 | [中心对称数 III](../../problems/strobogrammatic-number-iii) 🔒 | [[递归](../recursion/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)]  | Hard |

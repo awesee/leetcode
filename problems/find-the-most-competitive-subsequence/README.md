@@ -43,14 +43,10 @@
 </ul>
 
 ### Related Topics
-  [[Array](../../tag/array/README.md)]
   [[Stack](../../tag/stack/README.md)]
   [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
   [[Monotonic Stack](../../tag/monotonic-stack/README.md)]
-
-### Similar Questions
-  1. [Remove K Digits](../remove-k-digits) (Medium)
-  1. [Smallest Subsequence of Distinct Characters](../smallest-subsequence-of-distinct-characters) (Medium)
 
 ### Hints
 <details>

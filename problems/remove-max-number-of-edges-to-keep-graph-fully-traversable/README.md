@@ -5,7 +5,7 @@
 <!--|@home      https://github.com/awesee/leetcode                        |-->
 <!--+----------------------------------------------------------------------+-->
 
-[< Previous](../minimum-deletion-cost-to-avoid-repeating-letters "Minimum Deletion Cost to Avoid Repeating Letters")
+[< Previous](../minimum-time-to-make-rope-colorful "Minimum Time to Make Rope Colorful")
 　　　　　　　　　　　　　　　　
 [Next >](../put-boxes-into-the-warehouse-ii "Put Boxes Into the Warehouse II")
 

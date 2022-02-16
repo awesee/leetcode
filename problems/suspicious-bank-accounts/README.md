@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../replace-all-digits-with-characters "Replace All Digits with Characters")
 
-## [1843. Suspicious Bank Accounts (Medium)](https://leetcode.com/problems/suspicious-bank-accounts "")
+## [1843. Suspicious Bank Accounts (Medium)](https://leetcode.com/problems/suspicious-bank-accounts "可疑银行账户")
 
 
 

@@ -57,12 +57,12 @@ Return the number of servers&nbsp;that communicate with any other server.</p>
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
-  [[Array](../../tag/array/README.md)]
-  [[Counting](../../tag/counting/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
+  [[Counting](../../tag/counting/README.md)]
 
 ### Hints
 <details>

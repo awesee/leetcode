@@ -14,13 +14,10 @@
 
 
 ### Related Topics
-  [[Hash Table](../../tag/hash-table/README.md)]
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
-
-### Similar Questions
-  1. [Move Sub-Tree of N-Ary Tree](../move-sub-tree-of-n-ary-tree) (Hard)
+  [[Hash Table](../../tag/hash-table/README.md)]
 
 ### Hints
 <details>

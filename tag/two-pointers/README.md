@@ -9,7 +9,13 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
-| 2046 | [Sort Linked List Already Sorted Using Absolute Values](../../problems/sort-linked-list-already-sorted-using-absolute-values) 🔒 | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)] [[排序](../sorting/README.md)]  | Medium |
+| 2161 | [根据给定数字划分数组](../../problems/partition-array-according-to-given-pivot) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2149 | [按符号重排数组](../../problems/rearrange-array-elements-by-sign) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2130 | [链表最大孪生和](../../problems/maximum-twin-sum-of-a-linked-list) | [[栈](../stack/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 2108 | [找出数组中的第一个回文字符串](../../problems/find-first-palindromic-string-in-the-array) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
+| 2105 | [给植物浇水 II](../../problems/watering-plants-ii) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[模拟](../simulation/README.md)]  | Medium |
+| 2095 | [删除链表的中间节点](../../problems/delete-the-middle-node-of-a-linked-list) | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
+| 2046 | [给按照绝对值排序的链表排序](../../problems/sort-linked-list-already-sorted-using-absolute-values) 🔒 | [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)] [[排序](../sorting/README.md)]  | Medium |
 | 2035 | [将数组分成两个数组并最小化数组和的差](../../problems/partition-array-into-two-arrays-to-minimize-sum-difference) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)] [[有序集合](../ordered-set/README.md)]  | Hard |
 | 2000 | [反转单词前缀](../../problems/reverse-prefix-of-word) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Easy |
 | 1963 | [使字符串平衡的最小交换次数](../../problems/minimum-number-of-swaps-to-make-the-string-balanced) | [[栈](../stack/README.md)] [[贪心](../greedy/README.md)] [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
@@ -120,7 +126,7 @@
 | 189 | [轮转数组](../../problems/rotate-array) | [[数组](../array/README.md)] [[数学](../math/README.md)] [[双指针](../two-pointers/README.md)]  | Medium |
 | 186 | [翻转字符串里的单词 II](../../problems/reverse-words-in-a-string-ii) 🔒 | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 170 | [两数之和 III - 数据结构设计](../../problems/two-sum-iii-data-structure-design) 🔒 | [[设计](../design/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[双指针](../two-pointers/README.md)] [[数据流](../data-stream/README.md)]  | Easy |
-| 167 | [两数之和 II - 输入有序数组](../../problems/two-sum-ii-input-array-is-sorted) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Easy |
+| 167 | [两数之和 II - 输入有序数组](../../problems/two-sum-ii-input-array-is-sorted) | [[数组](../array/README.md)] [[双指针](../two-pointers/README.md)] [[二分查找](../binary-search/README.md)]  | Medium |
 | 165 | [比较版本号](../../problems/compare-version-numbers) | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 161 | [相隔为 1 的编辑距离](../../problems/one-edit-distance) 🔒 | [[双指针](../two-pointers/README.md)] [[字符串](../string/README.md)]  | Medium |
 | 160 | [相交链表](../../problems/intersection-of-two-linked-lists) | [[哈希表](../hash-table/README.md)] [[链表](../linked-list/README.md)] [[双指针](../two-pointers/README.md)]  | Easy |

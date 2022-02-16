@@ -65,8 +65,12 @@ You cannot take path 0 -&gt; 1 -&gt; 2 -&gt; 5 since it would take too long.
 </ul>
 
 ### Related Topics
-  [[Graph](../../tag/graph/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Graph](../../tag/graph/README.md)]
+
+### Similar Questions
+  1. [Maximum Path Quality of a Graph](../maximum-path-quality-of-a-graph) (Hard)
+  1. [Minimum Cost to Reach City With Discounts](../minimum-cost-to-reach-city-with-discounts) (Medium)
 
 ### Hints
 <details>

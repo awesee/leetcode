@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../two-out-of-three "Two Out of Three")
 
-## [2031. Count Subarrays With More Ones Than Zeros (Medium)](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros "")
+## [2031. Count Subarrays With More Ones Than Zeros (Medium)](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros "1 比 0 多的子数组个数")
 
 
 

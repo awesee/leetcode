@@ -64,6 +64,8 @@ We can achieve all the requests. </pre>
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Backtracking](../../tag/backtracking/README.md)]
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Enumeration](../../tag/enumeration/README.md)]
 

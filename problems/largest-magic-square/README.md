@@ -50,9 +50,6 @@ Every row sum, column sum, and diagonal sum of this magic square is equal to 12.
   [[Matrix](../../tag/matrix/README.md)]
   [[Prefix Sum](../../tag/prefix-sum/README.md)]
 
-### Similar Questions
-  1. [Magic Squares In Grid](../magic-squares-in-grid) (Medium)
-
 ### Hints
 <details>
 <summary>Hint 1</summary>

@@ -25,40 +25,27 @@
 <pre>
 <strong>Input:</strong> arr = [3,5,1,2,4], m = 1
 <strong>Output:</strong> 4
-<strong>Explanation:
-</strong>Step 1: &quot;00<u>1</u>00&quot;, groups: [&quot;1&quot;]
+<strong>Explanation:</strong> 
+Step 1: &quot;00<u>1</u>00&quot;, groups: [&quot;1&quot;]
 Step 2: &quot;0010<u>1</u>&quot;, groups: [&quot;1&quot;, &quot;1&quot;]
 Step 3: &quot;<u>1</u>0101&quot;, groups: [&quot;1&quot;, &quot;1&quot;, &quot;1&quot;]
 Step 4: &quot;1<u>1</u>101&quot;, groups: [&quot;111&quot;, &quot;1&quot;]
 Step 5: &quot;111<u>1</u>1&quot;, groups: [&quot;11111&quot;]
-The latest step at which there exists a group of size 1 is step 4.</pre>
+The latest step at which there exists a group of size 1 is step 4.
+</pre>
 
 <p><strong>Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> arr = [3,1,5,4,2], m = 2
 <strong>Output:</strong> -1
-<strong>Explanation:
-</strong>Step 1: &quot;00<u>1</u>00&quot;, groups: [&quot;1&quot;]
+<strong>Explanation:</strong> 
+Step 1: &quot;00<u>1</u>00&quot;, groups: [&quot;1&quot;]
 Step 2: &quot;<u>1</u>0100&quot;, groups: [&quot;1&quot;, &quot;1&quot;]
 Step 3: &quot;1010<u>1</u>&quot;, groups: [&quot;1&quot;, &quot;1&quot;, &quot;1&quot;]
 Step 4: &quot;101<u>1</u>1&quot;, groups: [&quot;1&quot;, &quot;111&quot;]
 Step 5: &quot;1<u>1</u>111&quot;, groups: [&quot;11111&quot;]
 No group of size 2 exists during any step.
-</pre>
-
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> arr = [1], m = 1
-<strong>Output:</strong> 1
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> arr = [2,1], m = 2
-<strong>Output:</strong> 2
 </pre>
 
 <p>&nbsp;</p>

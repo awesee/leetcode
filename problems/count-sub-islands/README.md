@@ -47,11 +47,16 @@ The 1s colored red in grid2 are those considered to be part of a sub-island. The
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Union Find](../../tag/union-find/README.md)]
-  [[Array](../../tag/array/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
+
+### Similar Questions
+  1. [Number of Islands](../number-of-islands) (Medium)
+  1. [Number of Distinct Islands](../number-of-distinct-islands) (Medium)
+  1. [Find All Groups of Farmland](../find-all-groups-of-farmland) (Medium)
 
 ### Hints
 <details>

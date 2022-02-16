@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../count-vowel-substrings-of-a-string "Count Vowel Substrings of a String")
 
-## [2061. Number of Spaces Cleaning Robot Cleaned (Medium)](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned "")
+## [2061. Number of Spaces Cleaning Robot Cleaned (Medium)](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned "扫地机器人清扫过的空间个数")
 
 
 

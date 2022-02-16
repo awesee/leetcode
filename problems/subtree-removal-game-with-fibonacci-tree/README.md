@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../count-number-of-pairs-with-absolute-difference-k "Count Number of Pairs With Absolute Difference K")
 
-## [2005. Subtree Removal Game with Fibonacci Tree (Hard)](https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree "")
+## [2005. Subtree Removal Game with Fibonacci Tree (Hard)](https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree "斐波那契树的移除子树游戏")
 
 
 

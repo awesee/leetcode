@@ -49,15 +49,6 @@ Add a rung at height 1 to climb this ladder.
 The ladder will now have rungs at [<u>1</u>,3,4,6,7].
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> rungs = [5], dist = 10
-<strong>Output:</strong> 0
-<strong>Explanation:</strong>
-This ladder can be climbed without adding additional rungs.
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
@@ -67,6 +58,10 @@ This ladder can be climbed without adding additional rungs.
 	<li><code>1 &lt;= dist &lt;= 10<sup>9</sup></code></li>
 	<li><code>rungs</code> is <strong>strictly increasing</strong>.</li>
 </ul>
+
+### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
+  [[Array](../../tag/array/README.md)]
 
 ### Hints
 <details>

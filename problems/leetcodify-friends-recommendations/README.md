@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../kth-smallest-subarray-sum "Kth Smallest Subarray Sum")
 
-## [1917. Leetcodify Friends Recommendations (Hard)](https://leetcode.com/problems/leetcodify-friends-recommendations "")
+## [1917. Leetcodify Friends Recommendations (Hard)](https://leetcode.com/problems/leetcodify-friends-recommendations "Leetcodify 好友推荐")
 
 
 

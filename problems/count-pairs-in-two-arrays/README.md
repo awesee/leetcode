@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../determine-whether-matrix-can-be-obtained-by-rotation "Determine Whether Matrix Can Be Obtained By Rotation")
 
-## [1885. Count Pairs in Two Arrays (Medium)](https://leetcode.com/problems/count-pairs-in-two-arrays "")
+## [1885. Count Pairs in Two Arrays (Medium)](https://leetcode.com/problems/count-pairs-in-two-arrays "统计数对")
 
 
 

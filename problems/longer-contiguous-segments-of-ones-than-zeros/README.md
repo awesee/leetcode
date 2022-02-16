@@ -64,6 +64,11 @@ The segment of 1s is not longer, so return false.
 ### Related Topics
   [[String](../../tag/string/README.md)]
 
+### Similar Questions
+  1. [Max Consecutive Ones](../max-consecutive-ones) (Easy)
+  1. [Count Subarrays With More Ones Than Zeros](../count-subarrays-with-more-ones-than-zeros) (Medium)
+  1. [Check if Binary String Has at Most One Segment of Ones](../check-if-binary-string-has-at-most-one-segment-of-ones) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

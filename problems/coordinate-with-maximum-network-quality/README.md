@@ -59,23 +59,6 @@ No other coordinate has a higher network quality.</pre>
 <strong>Explanation:</strong> Coordinate (1, 2) has the highest network quality.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> towers = [[2,1,9],[0,1,9]], radius = 2
-<strong>Output:</strong> [0,1]
-<strong>Explanation: </strong>Both (0, 1) and (2, 1) are optimal in terms of quality, but (0, 1) is lexicographically minimal.
-</pre>
-
-<p><strong>Example 5:</strong></p>
-
-<pre>
-<strong>Input:</strong> towers = [[42,0,0]], radius = 7
-<strong>Output:</strong> [0,0]
-<strong>Explanation: </strong>The network quality is 0 at every coordinate, even at the tower&#39;s location.
-Thus, the lexicographically minimum non-negative coordinate is (0, 0).
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

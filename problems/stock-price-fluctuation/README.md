@@ -69,6 +69,7 @@ stockPrice.minimum();     // return 2, the minimum price is 2 at timestamp 4.
 ### Related Topics
   [[Design](../../tag/design/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
+  [[Data Stream](../../tag/data-stream/README.md)]
   [[Ordered Set](../../tag/ordered-set/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 

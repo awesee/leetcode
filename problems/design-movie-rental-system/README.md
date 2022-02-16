@@ -69,11 +69,11 @@ movieRentingSystem.search(2);  // return [0, 1]. Movies of ID 2 are unrented at 
 </ul>
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
-  [[Ordered Set](../../tag/ordered-set/README.md)]
+  [[Design](../../tag/design/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Ordered Set](../../tag/ordered-set/README.md)]
 
 ### Hints
 <details>

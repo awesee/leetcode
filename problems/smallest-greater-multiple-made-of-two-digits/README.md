@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../reverse-prefix-of-word "Reverse Prefix of Word")
 
-## [1999. Smallest Greater Multiple Made of Two Digits (Medium)](https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits "")
+## [1999. Smallest Greater Multiple Made of Two Digits (Medium)](https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits "最小的仅由两个数组成的倍数")
 
 
 

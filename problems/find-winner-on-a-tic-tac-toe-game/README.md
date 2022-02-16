@@ -51,14 +51,6 @@
 <strong>Explanation:</strong> The game ends in a draw since there are no moves to make.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/09/22/xo4-grid.jpg" style="width: 244px; height: 245px;" />
-<pre>
-<strong>Input:</strong> moves = [[0,0],[1,1]]
-<strong>Output:</strong> &quot;Pending&quot;
-<strong>Explanation:</strong> The game has not finished yet.
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

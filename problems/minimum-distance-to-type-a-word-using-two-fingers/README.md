@@ -30,8 +30,7 @@
 <pre>
 <strong>Input:</strong> word = &quot;CAKE&quot;
 <strong>Output:</strong> 3
-<strong>Explanation: 
-</strong>Using two fingers, one optimal way to type &quot;CAKE&quot; is: 
+<strong>Explanation:</strong> Using two fingers, one optimal way to type &quot;CAKE&quot; is: 
 Finger 1 on letter &#39;C&#39; -&gt; cost = 0 
 Finger 1 on letter &#39;A&#39; -&gt; cost = Distance from letter &#39;C&#39; to letter &#39;A&#39; = 2 
 Finger 2 on letter &#39;K&#39; -&gt; cost = 0 
@@ -44,28 +43,13 @@ Total distance = 3
 <pre>
 <strong>Input:</strong> word = &quot;HAPPY&quot;
 <strong>Output:</strong> 6
-<strong>Explanation: </strong>
-Using two fingers, one optimal way to type &quot;HAPPY&quot; is:
+<strong>Explanation:</strong> Using two fingers, one optimal way to type &quot;HAPPY&quot; is:
 Finger 1 on letter &#39;H&#39; -&gt; cost = 0
 Finger 1 on letter &#39;A&#39; -&gt; cost = Distance from letter &#39;H&#39; to letter &#39;A&#39; = 2
 Finger 2 on letter &#39;P&#39; -&gt; cost = 0
 Finger 2 on letter &#39;P&#39; -&gt; cost = Distance from letter &#39;P&#39; to letter &#39;P&#39; = 0
 Finger 1 on letter &#39;Y&#39; -&gt; cost = Distance from letter &#39;A&#39; to letter &#39;Y&#39; = 4
 Total distance = 6
-</pre>
-
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> word = &quot;NEW&quot;
-<strong>Output:</strong> 3
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> word = &quot;YEAR&quot;
-<strong>Output:</strong> 7
 </pre>
 
 <p>&nbsp;</p>

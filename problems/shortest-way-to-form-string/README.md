@@ -51,13 +51,12 @@
 </ol>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
   [[String](../../tag/string/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
-  [[Greedy](../../tag/greedy/README.md)]
 
 ### Similar Questions
   1. [Is Subsequence](../is-subsequence) (Easy)
-  1. [Number of Matching Subsequences](../number-of-matching-subsequences) (Medium)
 
 ### Hints
 <details>

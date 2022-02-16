@@ -14,9 +14,13 @@
 
 
 ### Related Topics
-  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Array](../../tag/array/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
+
+### Similar Questions
+  1. [01 Matrix](../01-matrix) (Medium)
+  1. [Shortest Path in a Grid with Obstacles Elimination](../shortest-path-in-a-grid-with-obstacles-elimination) (Hard)
 
 ### Hints
 <details>

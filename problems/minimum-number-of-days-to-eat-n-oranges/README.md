@@ -15,13 +15,13 @@
 
 <ul>
 	<li>Eat one orange.</li>
-	<li>If the number of remaining oranges n&nbsp;is divisible by <code>2</code> then you can eat <code>n / 2</code> oranges.</li>
-	<li>If the number of remaining oranges n&nbsp;is divisible by <code>3</code> then you can eat <code>2 * (n / 3)</code> oranges.</li>
+	<li>If the number of remaining oranges <code>n</code> is divisible by <code>2</code> then you can eat <code>n / 2</code> oranges.</li>
+	<li>If the number of remaining oranges <code>n</code> is divisible by <code>3</code> then you can eat <code>2 * (n / 3)</code> oranges.</li>
 </ul>
 
 <p>You can only choose one of the actions per day.</p>
 
-<p>Return the minimum number of days to eat <code>n</code> oranges.</p>
+<p>Given the integer <code>n</code>, return <em>the minimum number of days to eat</em> <code>n</code> <em>oranges</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -47,20 +47,6 @@ Day 1: Eat 3 oranges, 6 - 6/2 = 6 - 3 = 3. (Since 6 is divisible by 2).
 Day 2: Eat 2 oranges, 3 - 2*(3/3) = 3 - 2 = 1. (Since 3 is divisible by 3)
 Day 3: Eat the last orange  1 - 1  = 0.
 You need at least 3 days to eat the 6 oranges.
-</pre>
-
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 1
-<strong>Output:</strong> 1
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 56
-<strong>Output:</strong> 6
 </pre>
 
 <p>&nbsp;</p>

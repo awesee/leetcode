@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../check-if-numbers-are-ascending-in-a-sentence "Check if Numbers Are Ascending in a Sentence")
 
-## [2041. Accepted Candidates From the Interviews (Medium)](https://leetcode.com/problems/accepted-candidates-from-the-interviews "")
+## [2041. Accepted Candidates From the Interviews (Medium)](https://leetcode.com/problems/accepted-candidates-from-the-interviews "面试中被录取的候选人")
 
 
 

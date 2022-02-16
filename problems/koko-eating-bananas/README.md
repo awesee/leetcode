@@ -56,3 +56,4 @@
 
 ### Similar Questions
   1. [Minimize Max Distance to Gas Station](../minimize-max-distance-to-gas-station) (Hard)
+  1. [Minimized Maximum of Products Distributed to Any Store](../minimized-maximum-of-products-distributed-to-any-store) (Medium)

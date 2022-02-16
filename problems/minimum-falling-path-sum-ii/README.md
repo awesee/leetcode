@@ -50,6 +50,9 @@ The falling path with the smallest sum is&nbsp;[1,5,7], so the answer is&nbsp;13
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
 
+### Similar Questions
+  1. [Minimum Falling Path Sum](../minimum-falling-path-sum) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

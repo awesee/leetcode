@@ -62,6 +62,9 @@ We have the maximum performance of the team by selecting engineer 2 (with speed=
   [[Sorting](../../tag/sorting/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
 
+### Similar Questions
+  1. [Maximum Fruits Harvested After at Most K Steps](../maximum-fruits-harvested-after-at-most-k-steps) (Hard)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

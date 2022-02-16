@@ -49,3 +49,4 @@
 
 ### Similar Questions
   1. [Special Binary String](../special-binary-string) (Hard)
+  1. [Check if a Parentheses String Can Be Valid](../check-if-a-parentheses-string-can-be-valid) (Medium)

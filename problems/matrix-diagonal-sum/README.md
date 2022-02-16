@@ -57,6 +57,9 @@ Notice that element mat[1][1] = 5 is counted only once.
   [[Array](../../tag/array/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
 
+### Similar Questions
+  1. [Check if Every Row and Column Contains All Numbers](../check-if-every-row-and-column-contains-all-numbers) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

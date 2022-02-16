@@ -58,33 +58,6 @@
 <strong>Explanation:</strong> The image above shows the possible squares the piece can move to.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/09/23/a4.png" style="width: 216px; height: 219px;" />
-<pre>
-<strong>Input:</strong> pieces = [&quot;rook&quot;,&quot;rook&quot;], positions = [[1,1],[8,8]]
-<strong>Output:</strong> 223
-<strong>Explanation:</strong> There are 15 moves for each rook which results in 15 * 15 = 225 move combinations.
-However, there are two invalid move combinations:
-- Move both rooks to (8, 1), where they collide.
-- Move both rooks to (1, 8), where they collide.
-Thus there are 225 - 2 = 223 valid move combinations.
-Note that there are two valid move combinations that would result in one rook at (1, 8) and the other at (8, 1).
-Even though the board state is the same, these two move combinations are considered different since the moves themselves are different.
-</pre>
-
-<p><strong>Example 5:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/09/23/a5.png" style="width: 214px; height: 213px;" />
-<pre>
-<strong>Input:</strong> pieces = [&quot;queen&quot;,&quot;bishop&quot;], positions = [[5,7],[3,4]]
-<strong>Output:</strong> 281
-<strong>Explanation:</strong> There are 12 * 24 = 288 move combinations.
-However, there are several invalid move combinations:
-- If the queen stops at (6, 7), it blocks the bishop from moving to (6, 7) or (7, 8).
-- If the queen stops at (5, 6), it blocks the bishop from moving to (5, 6), (6, 7), or (7, 8).
-- If the bishop stops at (5, 2), it blocks the queen from moving to (5, 2) or (5, 1).
-Of the 288 move combinations, 281 are valid.
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
@@ -92,10 +65,10 @@ Of the 288 move combinations, 281 are valid.
 	<li><code>n == pieces.length </code></li>
 	<li><code>n == positions.length</code></li>
 	<li><code>1 &lt;= n &lt;= 4</code></li>
-	<li><code>pieces</code>&nbsp;only contains the strings&nbsp;<code>&quot;rook&quot;</code>,&nbsp;<code>&quot;queen&quot;</code>, and&nbsp;<code>&quot;bishop&quot;</code>.</li>
+	<li><code>pieces</code> only contains the strings <code>&quot;rook&quot;</code>, <code>&quot;queen&quot;</code>, and <code>&quot;bishop&quot;</code>.</li>
 	<li>There will be at most one queen on the chessboard.</li>
 	<li><code>1 &lt;= x<sub>i</sub>, y<sub>i</sub> &lt;= 8</code></li>
-	<li>Each&nbsp;<code>positions[i]</code>&nbsp;is distinct.</li>
+	<li>Each <code>positions[i]</code> is distinct.</li>
 </ul>
 
 ### Related Topics

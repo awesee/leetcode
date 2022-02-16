@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../number-of-valid-words-in-a-sentence "Number of Valid Words in a Sentence")
 
-## [2046. Sort Linked List Already Sorted Using Absolute Values (Medium)](https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values "")
+## [2046. Sort Linked List Already Sorted Using Absolute Values (Medium)](https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values "给按照绝对值排序的链表排序")
 
 
 

@@ -53,9 +53,6 @@
   [[String](../../tag/string/README.md)]
   [[String Matching](../../tag/string-matching/README.md)]
 
-### Similar Questions
-  1. [Detect Pattern of Length M Repeated K or More Times](../detect-pattern-of-length-m-repeated-k-or-more-times) (Easy)
-
 ### Hints
 <details>
 <summary>Hint 1</summary>

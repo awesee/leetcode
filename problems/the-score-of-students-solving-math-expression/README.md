@@ -60,19 +60,6 @@ By the rules of grading, the students will still be rewarded 5 points (as they g
 The points for the students are: [0,0,5,0,0,5]. The sum of the points is 10.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;1+2*3+4&quot;, answers = [13,21,11,15]
-<strong>Output:</strong> 11
-<strong>Explanation:</strong> The correct answer of the expression is 11.
-Every other student was rewarded 2 points because they could have applied the operators as follows:
-- ((1+2)*3)+4 = 13
-- (1+2)*(3+4) = 21
-- 1+(2*(3+4)) = 15
-The points for the students are: [2,2,5,2]. The sum of the points is 11.
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

@@ -41,14 +41,7 @@ Each dish is prepared in one unit of time.</pre>
 <pre>
 <strong>Input:</strong> satisfaction = [-1,-4,-5]
 <strong>Output:</strong> 0
-<strong>Explanation:</strong> People don&#39;t like the dishes. No dish is prepared.
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> satisfaction = [-2,5,-1,0,3,-3]
-<strong>Output:</strong> 35
+<strong>Explanation:</strong> People do not like the dishes. No dish is prepared.
 </pre>
 
 <p>&nbsp;</p>
@@ -61,9 +54,9 @@ Each dish is prepared in one unit of time.</pre>
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
 ### Hints

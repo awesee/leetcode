@@ -48,6 +48,11 @@ Their respective sums are 4, 8, 8, and 16, all of which are powers of 2.
   [[Array](../../tag/array/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
 
+### Similar Questions
+  1. [Two Sum](../two-sum) (Easy)
+  1. [Max Number of K-Sum Pairs](../max-number-of-k-sum-pairs) (Medium)
+  1. [Find All Possible Recipes from Given Supplies](../find-all-possible-recipes-from-given-supplies) (Medium)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

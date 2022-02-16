@@ -65,15 +65,9 @@ Note that the cargo must be shipped in the order given, so using a ship of capac
 </ul>
 
 ### Related Topics
+  [[Greedy](../../tag/greedy/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
-  [[Greedy](../../tag/greedy/README.md)]
-
-### Similar Questions
-  1. [Split Array Largest Sum](../split-array-largest-sum) (Hard)
-  1. [Divide Chocolate](../divide-chocolate) (Hard)
-  1. [Cutting Ribbons](../cutting-ribbons) (Medium)
-  1. [Minimized Maximum of Products Distributed to Any Store](../minimized-maximum-of-products-distributed-to-any-store) (Medium)
 
 ### Hints
 <details>

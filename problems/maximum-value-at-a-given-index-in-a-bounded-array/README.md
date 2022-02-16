@@ -51,8 +51,8 @@ There are no arrays that satisfy all the conditions and have nums[2] == 3, so 2 
 </ul>
 
 ### Related Topics
-  [[Greedy](../../tag/greedy/README.md)]
   [[Binary Search](../../tag/binary-search/README.md)]
+  [[Greedy](../../tag/greedy/README.md)]
 
 ### Hints
 <details>

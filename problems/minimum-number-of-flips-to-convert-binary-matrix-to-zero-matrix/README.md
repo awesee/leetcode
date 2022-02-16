@@ -33,22 +33,15 @@
 <pre>
 <strong>Input:</strong> mat = [[0]]
 <strong>Output:</strong> 0
-<strong>Explanation:</strong> Given matrix is a zero matrix. We don&#39;t need to change it.
+<strong>Explanation:</strong> Given matrix is a zero matrix. We do not need to change it.
 </pre>
 
 <p><strong>Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> mat = [[1,1,1],[1,0,1],[0,0,0]]
-<strong>Output:</strong> 6
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
 <strong>Input:</strong> mat = [[1,0,0],[1,0,0]]
 <strong>Output:</strong> -1
-<strong>Explanation:</strong> Given matrix can&#39;t be a zero matrix
+<strong>Explanation:</strong> Given matrix cannot be a zero matrix.
 </pre>
 
 <p>&nbsp;</p>
@@ -66,6 +59,10 @@
   [[Bit Manipulation](../../tag/bit-manipulation/README.md)]
   [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[Matrix](../../tag/matrix/README.md)]
+
+### Similar Questions
+  1. [Minimum Operations to Remove Adjacent Ones in Matrix](../minimum-operations-to-remove-adjacent-ones-in-matrix) (Hard)
+  1. [Remove All Ones With Row and Column Flips](../remove-all-ones-with-row-and-column-flips) (Medium)
 
 ### Hints
 <details>

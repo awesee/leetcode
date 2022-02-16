@@ -52,11 +52,11 @@ majorityChecker.query(2, 3, 2); // return 2
 </ul>
 
 ### Related Topics
+  [[Array](../../tag/array/README.md)]
+  [[Binary Search](../../tag/binary-search/README.md)]
   [[Design](../../tag/design/README.md)]
   [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
   [[Segment Tree](../../tag/segment-tree/README.md)]
-  [[Array](../../tag/array/README.md)]
-  [[Binary Search](../../tag/binary-search/README.md)]
 
 ### Hints
 <details>

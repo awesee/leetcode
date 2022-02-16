@@ -30,15 +30,15 @@
 <pre>
 <strong>Input:</strong> s = &quot;5525&quot;, a = 9, b = 2
 <strong>Output:</strong> &quot;2050&quot;
-<strong>Explanation: </strong>We can apply the following operations:
+<strong>Explanation:</strong> We can apply the following operations:
 Start:  &quot;5525&quot;
 Rotate: &quot;2555&quot;
 Add:    &quot;2454&quot;
 Add:    &quot;2353&quot;
 Rotate: &quot;5323&quot;
 Add:    &quot;5222&quot;
-​​​​​​​Add:    &quot;5121&quot;
-​​​​​​​Rotate: &quot;2151&quot;
+Add:    &quot;5121&quot;
+Rotate: &quot;2151&quot;
 ​​​​​​​Add:    &quot;2050&quot;​​​​​​​​​​​​
 There is no way to obtain a string that is lexicographically smaller then &quot;2050&quot;.
 </pre>
@@ -48,7 +48,7 @@ There is no way to obtain a string that is lexicographically smaller then &quot;
 <pre>
 <strong>Input:</strong> s = &quot;74&quot;, a = 5, b = 1
 <strong>Output:</strong> &quot;24&quot;
-<strong>Explanation: </strong>We can apply the following operations:
+<strong>Explanation:</strong> We can apply the following operations:
 Start:  &quot;74&quot;
 Rotate: &quot;47&quot;
 ​​​​​​​Add:    &quot;42&quot;
@@ -61,14 +61,7 @@ There is no way to obtain a string that is lexicographically smaller then &quot;
 <pre>
 <strong>Input:</strong> s = &quot;0011&quot;, a = 4, b = 2
 <strong>Output:</strong> &quot;0011&quot;
-<strong>Explanation: </strong>There are no sequence of operations that will give us a lexicographically smaller string than &quot;0011&quot;.
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;43987654&quot;, a = 7, b = 3
-<strong>Output:</strong> &quot;00553311&quot;
+<strong>Explanation:</strong> There are no sequence of operations that will give us a lexicographically smaller string than &quot;0011&quot;.
 </pre>
 
 <p>&nbsp;</p>
@@ -83,8 +76,8 @@ There is no way to obtain a string that is lexicographically smaller then &quot;
 </ul>
 
 ### Related Topics
-  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
   [[String](../../tag/string/README.md)]
+  [[Breadth-First Search](../../tag/breadth-first-search/README.md)]
 
 ### Hints
 <details>

@@ -1,0 +1,12 @@
+Create table If Not Exists Buses (bus_id int, arrival_time int, capacity int);
+Create table If Not Exists Passengers (passenger_id int, arrival_time int);
+Truncate table Buses;
+insert into Buses (bus_id, arrival_time, capacity) values ('1', '2', '1');
+insert into Buses (bus_id, arrival_time, capacity) values ('2', '4', '10');
+insert into Buses (bus_id, arrival_time, capacity) values ('3', '7', '2');
+Truncate table Passengers;
+insert into Passengers (passenger_id, arrival_time) values ('11', '1');
+insert into Passengers (passenger_id, arrival_time) values ('12', '1');
+insert into Passengers (passenger_id, arrival_time) values ('13', '5');
+insert into Passengers (passenger_id, arrival_time) values ('14', '6');
+insert into Passengers (passenger_id, arrival_time) values ('15', '7');

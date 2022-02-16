@@ -32,20 +32,6 @@
 <strong>Explanation:</strong> &quot;abab&quot; is the largest prefix which is also suffix. They can overlap in the original string.
 </pre>
 
-<p><strong>Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;leetcodeleet&quot;
-<strong>Output:</strong> &quot;leet&quot;
-</pre>
-
-<p><strong>Example 4:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;a&quot;
-<strong>Output:</strong> &quot;&quot;
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
@@ -56,9 +42,9 @@
 
 ### Related Topics
   [[String](../../tag/string/README.md)]
+  [[Rolling Hash](../../tag/rolling-hash/README.md)]
   [[String Matching](../../tag/string-matching/README.md)]
   [[Hash Function](../../tag/hash-function/README.md)]
-  [[Rolling Hash](../../tag/rolling-hash/README.md)]
 
 ### Hints
 <details>

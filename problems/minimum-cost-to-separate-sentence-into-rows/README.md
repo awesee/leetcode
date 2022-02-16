@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../kth-distinct-string-in-an-array "Kth Distinct String in an Array")
 
-## [2052. Minimum Cost to Separate Sentence Into Rows (Medium)](https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows "")
+## [2052. Minimum Cost to Separate Sentence Into Rows (Medium)](https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows "将句子分隔成行的最低成本")
 
 
 

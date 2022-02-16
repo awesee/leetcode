@@ -15,7 +15,7 @@
 
 <p>Remove <code>list1</code>&#39;s nodes from the <code>a<sup>th</sup></code> node to the <code>b<sup>th</sup></code> node, and put <code>list2</code> in their place.</p>
 
-<p>The blue edges and nodes in the following figure incidate the result:</p>
+<p>The blue edges and nodes in the following figure indicate the result:</p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/11/05/fig1.png" style="height: 130px; width: 504px;" />
 <p><em>Build the result list and return its head.</em></p>
 

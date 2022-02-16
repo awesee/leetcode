@@ -42,10 +42,10 @@
 </ul>
 
 ### Related Topics
-  [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
-  [[Segment Tree](../../tag/segment-tree/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
+  [[Binary Indexed Tree](../../tag/binary-indexed-tree/README.md)]
+  [[Segment Tree](../../tag/segment-tree/README.md)]
 
 ### Similar Questions
   1. [Longest Increasing Subsequence](../longest-increasing-subsequence) (Medium)

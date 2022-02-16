@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../minimum-time-to-type-word-using-special-typewriter "Minimum Time to Type Word Using Special Typewriter")
 
-## [1973. Count Nodes Equal to Sum of Descendants (Medium)](https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants "")
+## [1973. Count Nodes Equal to Sum of Descendants (Medium)](https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants "值等于子节点值之和的节点数量")
 
 
 

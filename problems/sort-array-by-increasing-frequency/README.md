@@ -51,9 +51,6 @@
   [[Hash Table](../../tag/hash-table/README.md)]
   [[Sorting](../../tag/sorting/README.md)]
 
-### Similar Questions
-  1. [Sort Characters By Frequency](../sort-characters-by-frequency) (Medium)
-
 ### Hints
 <details>
 <summary>Hint 1</summary>

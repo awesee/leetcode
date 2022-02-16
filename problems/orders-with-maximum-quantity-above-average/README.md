@@ -9,7 +9,7 @@
 　　　　　　　　　　　　　　　　
 [Next >](../product-of-two-run-length-encoded-arrays "Product of Two Run-Length Encoded Arrays")
 
-## [1867. Orders With Maximum Quantity Above Average (Medium)](https://leetcode.com/problems/orders-with-maximum-quantity-above-average "")
+## [1867. Orders With Maximum Quantity Above Average (Medium)](https://leetcode.com/problems/orders-with-maximum-quantity-above-average "最大数量高于平均水平的订单")
 
 
 

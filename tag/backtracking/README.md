@@ -9,6 +9,8 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2152 | [Minimum Number of Lines to Cover Points](../../problems/minimum-number-of-lines-to-cover-points) 🔒 | [[位运算](../bit-manipulation/README.md)] [[几何](../geometry/README.md)] [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Medium |
+| 2151 | [基于陈述统计最多好人数](../../problems/maximum-good-people-based-on-statements) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
 | 2065 | [最大化一张图中的路径价值](../../problems/maximum-path-quality-of-a-graph) | [[图](../graph/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
 | 2056 | [棋盘上有效移动组合的数目](../../problems/number-of-valid-move-combinations-on-chessboard) | [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[模拟](../simulation/README.md)]  | Hard |
 | 2048 | [下一个更大的数值平衡数](../../problems/next-greater-numerically-balanced-number) | [[数学](../math/README.md)] [[回溯](../backtracking/README.md)] [[枚举](../enumeration/README.md)]  | Medium |
@@ -26,6 +28,7 @@
 | 1723 | [完成所有工作的最短时间](../../problems/find-minimum-time-to-finish-all-jobs) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |
 | 1718 | [构建字典序最大的可行序列](../../problems/construct-the-lexicographically-largest-valid-sequence) | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 1655 | [分配重复整数](../../problems/distribute-repeating-integers) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[状态压缩](../bitmask/README.md)]  | Hard |
+| 1601 | [最多可达成的换楼请求数目](../../problems/maximum-number-of-achievable-transfer-requests) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
 | 1593 | [拆分字符串使唯一子字符串的数目最大](../../problems/split-a-string-into-the-max-number-of-unique-substrings) | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 1467 | [两个盒子中球的颜色数相同的概率](../../problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) | [[数学](../math/README.md)] [[动态规划](../dynamic-programming/README.md)] [[回溯](../backtracking/README.md)] [[组合数学](../combinatorics/README.md)] [[概率与统计](../probability-and-statistics/README.md)]  | Hard |
 | 1415 | [长度为 n 的开心字符串中字典序第 k 小的字符串](../../problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
@@ -72,6 +75,7 @@
 | 291 | [单词规律 II](../../problems/word-pattern-ii) 🔒 | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 282 | [给表达式添加运算符](../../problems/expression-add-operators) | [[数学](../math/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Hard |
 | 267 | [回文排列 II](../../problems/palindrome-permutation-ii) 🔒 | [[哈希表](../hash-table/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
+| 257 | [二叉树的所有路径](../../problems/binary-tree-paths) | [[树](../tree/README.md)] [[深度优先搜索](../depth-first-search/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[二叉树](../binary-tree/README.md)]  | Easy |
 | 254 | [因子的组合](../../problems/factor-combinations) 🔒 | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 216 | [组合总和 III](../../problems/combination-sum-iii) | [[数组](../array/README.md)] [[回溯](../backtracking/README.md)]  | Medium |
 | 212 | [单词搜索 II](../../problems/word-search-ii) | [[字典树](../trie/README.md)] [[数组](../array/README.md)] [[字符串](../string/README.md)] [[回溯](../backtracking/README.md)] [[矩阵](../matrix/README.md)]  | Hard |

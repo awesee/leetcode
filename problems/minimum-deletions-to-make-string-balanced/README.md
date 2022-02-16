@@ -49,6 +49,9 @@ Delete the characters at 0-indexed positions 3 and 6 (&quot;aab<u>a</u>bb<u>a</u
   [[Dynamic Programming](../../tag/dynamic-programming/README.md)]
   [[Stack](../../tag/stack/README.md)]
 
+### Similar Questions
+  1. [Check if All A's Appears Before All B's](../check-if-all-as-appears-before-all-bs) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

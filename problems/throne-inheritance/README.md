@@ -81,10 +81,13 @@ t.getInheritanceOrder(); // return [&quot;king&quot;, &quot;andy&quot;, &quot;ma
 </ul>
 
 ### Related Topics
+  [[Hash Table](../../tag/hash-table/README.md)]
   [[Tree](../../tag/tree/README.md)]
   [[Depth-First Search](../../tag/depth-first-search/README.md)]
   [[Design](../../tag/design/README.md)]
-  [[Hash Table](../../tag/hash-table/README.md)]
+
+### Similar Questions
+  1. [Operations on Tree](../operations-on-tree) (Medium)
 
 ### Hints
 <details>

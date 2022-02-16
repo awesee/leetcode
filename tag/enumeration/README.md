@@ -9,6 +9,10 @@
 
 | # | 题目 | 标签 | 难度 |
 | :-: | - | - | :-: |
+| 2162 | [设置时间的最少代价](../../problems/minimum-cost-to-set-cooking-time) | [[数学](../math/README.md)] [[枚举](../enumeration/README.md)]  | Medium |
+| 2151 | [基于陈述统计最多好人数](../../problems/maximum-good-people-based-on-statements) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
+| 2122 | [还原原数组](../../problems/recover-the-original-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[枚举](../enumeration/README.md)] [[排序](../sorting/README.md)]  | Hard |
+| 2094 | [找出 3 位偶数](../../problems/finding-3-digit-even-numbers) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[枚举](../enumeration/README.md)] [[排序](../sorting/README.md)]  | Easy |
 | 2081 | [k 镜像数字的和](../../problems/sum-of-k-mirror-numbers) | [[数学](../math/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
 | 2048 | [下一个更大的数值平衡数](../../problems/next-greater-numerically-balanced-number) | [[数学](../math/README.md)] [[回溯](../backtracking/README.md)] [[枚举](../enumeration/README.md)]  | Medium |
 | 2025 | [分割数组的最多方案数](../../problems/maximum-number-of-ways-to-partition-an-array) | [[数组](../array/README.md)] [[哈希表](../hash-table/README.md)] [[计数](../counting/README.md)] [[枚举](../enumeration/README.md)] [[前缀和](../prefix-sum/README.md)]  | Hard |
@@ -20,7 +24,7 @@
 | 1925 | [统计平方和三元组的数目](../../problems/count-square-sum-triples) | [[数学](../math/README.md)] [[枚举](../enumeration/README.md)]  | Easy |
 | 1620 | [网络信号最好的坐标](../../problems/coordinate-with-maximum-network-quality) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)]  | Medium |
 | 1617 | [统计子树中城市之间最大距离](../../problems/count-subtrees-with-max-distance-between-cities) | [[位运算](../bit-manipulation/README.md)] [[树](../tree/README.md)] [[动态规划](../dynamic-programming/README.md)] [[状态压缩](../bitmask/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
-| 1601 | [最多可达成的换楼请求数目](../../problems/maximum-number-of-achievable-transfer-requests) | [[位运算](../bit-manipulation/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
+| 1601 | [最多可达成的换楼请求数目](../../problems/maximum-number-of-achievable-transfer-requests) | [[位运算](../bit-manipulation/README.md)] [[数组](../array/README.md)] [[回溯](../backtracking/README.md)] [[枚举](../enumeration/README.md)]  | Hard |
 | 1566 | [重复至少 K 次且长度为 M 的模式](../../problems/detect-pattern-of-length-m-repeated-k-or-more-times) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)]  | Easy |
 | 1534 | [统计好三元组](../../problems/count-good-triplets) | [[数组](../array/README.md)] [[枚举](../enumeration/README.md)]  | Easy |
 | 1291 | [顺次数](../../problems/sequential-digits) | [[枚举](../enumeration/README.md)]  | Medium |

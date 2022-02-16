@@ -40,6 +40,9 @@
 ### Related Topics
   [[String](../../tag/string/README.md)]
 
+### Similar Questions
+  1. [Longer Contiguous Segments of Ones than Zeros](../longer-contiguous-segments-of-ones-than-zeros) (Easy)
+
 ### Hints
 <details>
 <summary>Hint 1</summary>

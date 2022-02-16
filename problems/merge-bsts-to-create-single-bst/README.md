@@ -65,14 +65,6 @@ The resulting tree is shown above. This is the only valid operation that can be 
 <strong>Explanation:</strong> It is impossible to perform any operations.
 </pre>
 
-<p><strong>Example 4:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/06/08/d4.png" style="width: 250px; height: 158px;" />
-<pre>
-<strong>Input:</strong> trees = [[2,1,3]]
-<strong>Output:</strong> [2,1,3]
-<strong>Explanation:</strong> There is only one tree, and it is already a valid BST, so return its root.
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 

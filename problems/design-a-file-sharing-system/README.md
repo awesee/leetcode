@@ -14,10 +14,13 @@
 
 
 ### Related Topics
-  [[Design](../../tag/design/README.md)]
   [[Hash Table](../../tag/hash-table/README.md)]
-  [[Data Stream](../../tag/data-stream/README.md)]
+  [[Design](../../tag/design/README.md)]
   [[Heap (Priority Queue)](../../tag/heap-priority-queue/README.md)]
+  [[Data Stream](../../tag/data-stream/README.md)]
+
+### Similar Questions
+  1. [Design Twitter](../design-twitter) (Medium)
 
 ### Hints
 <details>

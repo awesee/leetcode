@@ -58,9 +58,10 @@
 </ul>
 
 ### Related Topics
-  [[Recursion](../../tag/recursion/README.md)]
   [[Array](../../tag/array/README.md)]
   [[Math](../../tag/math/README.md)]
+  [[Recursion](../../tag/recursion/README.md)]
+  [[Queue](../../tag/queue/README.md)]
   [[Simulation](../../tag/simulation/README.md)]
 
 ### Hints
